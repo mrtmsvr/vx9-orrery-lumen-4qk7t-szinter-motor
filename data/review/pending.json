@@ -10609,9 +10609,9 @@
       "scheduled_at": "2026-10-10T21:40:51+02:00"
     },
     {
-      "id": "a4abd6fe-1620-551e-9dfc-82448bc82326",
-      "slug": "2026-10-10-legkevesebb-tizenot-eletet-kovetelt-a-zaporizzsjai-legicsapas",
-      "status": "pending",
+      "id": "4af9f96f-658b-5140-8565-b5693efd04ec",
+      "slug": "2026-10-10-tizenot-halalos-aldozatot-kovetelt-a-szombat-hajnali-zaporizzsjai-leg",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10621,7 +10621,7 @@
         "Ukrajna",
         "Volodimir Zelenszkij"
       ],
-      "title": "Legkevesebb tizenöt életet követelt a zaporizzsjai légicsapás",
+      "title": "Tizenöt halálos áldozatot követelt a szombat hajnali zaporizzsjai légitámadás",
       "subtitle": null,
       "lead": "Legalább tizenöt civil életét vesztette, amikor szombat hajnalban orosz siklóbombák csapódtak be a délkelet-ukrajnai Zaporizzsja lakónegyedeibe. A pusztító légitámadásban huszonhat épület rongálódott meg, míg a nemzetközi színtéren újabb energetikai és szankciós viták bontakoztak ki.",
       "key_points": [
@@ -10758,11 +10758,11 @@
       },
       "date": "2026-10-10",
       "date_label": "október 10.",
-      "url": "/vilag/2026-10-10-legkevesebb-tizenot-eletet-kovetelt-a-zaporizzsjai-legicsapas/",
+      "url": "/vilag/2026-10-10-tizenot-halalos-aldozatot-kovetelt-a-szombat-hajnali-zaporizzsjai-leg/",
       "seo": {
-        "meta_title": "Legkevesebb tizenöt életet követelt a zaporizzsjai légicsapá",
+        "meta_title": "Tizenöt halálos áldozatot követelt a szombat hajnali zaporiz",
         "meta_description": "Legalább tizenöt civil életét vesztette, amikor szombat hajnalban orosz siklóbombák csapódtak be a délkelet-ukrajnai Zaporizzsja lakónegyedeibe. A pusztító légi",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-legkevesebb-tizenot-eletet-kovetelt-a-zaporizzsjai-legicsapas/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-tizenot-halalos-aldozatot-kovetelt-a-szombat-hajnali-zaporizzsjai-leg/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Destructions_in_Zaporizhzhia_after_Russian_attack%2C_2023-12-29_%2801%29.jpg/1280px-Destructions_in_Zaporizhzhia_after_Russian_attack%2C_2023-12-29_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -10780,9 +10780,9 @@
       "dedupe_hash": "64a316b753ed5c1d234968ebd6d7a508f2fcc87b8718b26b825f6cdec701a766",
       "pipeline_run_id": "38072250939",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T19:41:18+02:00",
-      "updated_at": "2026-10-10T19:41:18+02:00",
-      "published_at": "2026-10-10T19:41:18+02:00",
+      "created_at": "2026-10-10T21:20:53+02:00",
+      "updated_at": "2026-10-10T21:20:53+02:00",
+      "published_at": "2026-10-10T21:20:53+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10795,9 +10795,9 @@
         "msg_ids": [],
         "control_id": 4685,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:20 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-10T21:20:51+02:00"
+      "live": true
     },
     {
       "id": "aa5f656c-e820-54a1-b31e-51fdd87e6c4e",
