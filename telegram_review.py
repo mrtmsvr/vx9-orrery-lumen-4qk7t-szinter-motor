@@ -252,8 +252,68 @@ def _write_pitch(out_dir: Path, pit: dict, tz: ZoneInfo, chat: int) -> None:
         new = None
     if new:
         add_pending(new)
-    else:
-        tg("sendMessage", {"chat_id": chat, "text": f"Ebből most nem sikerült cikket írni: {pit.get('title', '')}"})
+        with LOCK:
+            rq = kc.read_json(PITCH_RETRY_FILE, {})
+            if rq.pop(pit.get("id"), None) is not None:
+                kc.write_json_atomic(PITCH_RETRY_FILE, rq)
+        return
+    if kc.ai_quota_out():  # elfogyott a napi ingyenes AI-keret: nem dobjuk el, később magától megírja
+        with LOCK:
+            rq = kc.read_json(PITCH_RETRY_FILE, {})
+            first = pit.get("id") not in rq
+            r = rq.setdefault(pit.get("id"), {"tries": 0, "since": time.time()})
+            r["tries"] += 1
+            r["next"] = time.time() + PITCH_RETRY_MIN * 60
+            if time.time() - r["since"] < 24 * 3600:
+                kc.write_json_atomic(PITCH_RETRY_FILE, rq)
+                _PITCH_TAKEN.discard(pit.get("id"))
+                if first:
+                    tg("sendMessage", {"chat_id": chat, "text": f"⏳ Elfogyott a mai ingyenes AI-keret – később magától megírom: "
+                                                               f"{pit.get('title', '')}"})
+                return
+    with LOCK:  # végleges hiba (vagy 24 óra után is keret-hiány): kikerül az újrapróbálásból
+        rq = kc.read_json(PITCH_RETRY_FILE, {})
+        if rq.pop(pit.get("id"), None) is not None:
+            kc.write_json_atomic(PITCH_RETRY_FILE, rq)
+    tg("sendMessage", {"chat_id": chat, "text": f"Ebből most nem sikerült cikket írni: {pit.get('title', '')}"})
+
+
+PITCH_RETRY_FILE = REVIEW_DIR / "pitch_retry.json"
+PITCH_RETRY_MIN = int(os.getenv("PITCH_RETRY_MIN", "45"))
+
+
+def _retry_pitches(out_dir: Path, tz: ZoneInfo) -> None:
+    """A keret miatt elmaradt ✍️ témák újrapróbálása (egyszerre egy, hogy ne égesse el rögtön az új keretet)."""
+    with LOCK:
+        rq = kc.read_json(PITCH_RETRY_FILE, {})
+        due = [k for k, v in rq.items() if v.get("next", 0) <= time.time() and k not in _PITCH_TAKEN]
+        if not due:
+            return
+        pit = kc.read_json(kc.PITCH_FILE, {"items": {}}).get("items", {}).get(due[0])
+        chat = load_state().get("chat_id")
+        if not pit or not chat:
+            rq.pop(due[0], None)
+            kc.write_json_atomic(PITCH_RETRY_FILE, rq)
+            return
+        rq[due[0]]["next"] = time.time() + PITCH_RETRY_MIN * 60
+        kc.write_json_atomic(PITCH_RETRY_FILE, rq)
+        _PITCH_TAKEN.add(due[0])
+    threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, chat), daemon=False).start()
+
+
+def _daily_model_check(tz: ZoneInfo) -> None:
+    """Naponta egyszer (8 óra után): élnek-e még a beállított AI-modellek, és elég volt-e tegnap a keret."""
+    now = datetime.now(tz)
+    st = load_state()
+    if now.hour < 8 or st.get("model_check") == now.date().isoformat() or not st.get("chat_id"):
+        return
+    probs = kc.model_health()
+    with LOCK:
+        st = load_state()
+        st["model_check"] = now.date().isoformat()
+        save_state(st)
+    if probs:
+        tg("sendMessage", {"chat_id": st["chat_id"], "text": "🩺 Napi rendszerellenőrzés:\n\n" + "\n\n".join(f"• {p}" for p in probs)})
 
 
 def load_pending(_out_dir: Optional[Path] = None) -> list:
@@ -1480,8 +1540,15 @@ def main(argv: Optional[list] = None) -> int:
                 log.exception("Tartalomgyártás hiba: %s", e)
         worker = threading.Thread(target=_content, name="tartalom", daemon=True)
         worker.start()
-    last_ig = 0.0
+    last_ig = last_rt = 0.0
     while True:
+        if time.time() - last_rt >= 300:  # 5 percenként: elmaradt ✍️ témák újrapróbálása + napi modell-ellenőrzés
+            last_rt = time.time()
+            try:
+                _retry_pitches(cfg.output_dir, tz)
+                _daily_model_check(tz)
+            except Exception as e:  # noqa: BLE001
+                log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
             last_ig = time.time()
             try:
