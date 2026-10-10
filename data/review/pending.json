@@ -11546,7 +11546,7 @@
     {
       "id": "82b38fa1-5975-5679-ab9b-60bfe1ba57ec",
       "slug": "2026-10-10-batrabban-adosodnak-el-a-magyar-fiatalok-az-otthon-starttal",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11577,15 +11577,17 @@
       "word_count": 271,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g4b1fb6926e1479125cdd5dd6662b5f820719e72bc646b804df9974945720d42c69d1e49c1176ffad5ed5ee29b19ea6131547a47089db7698c58a78036a7e4228_1280.jpg",
-        "width": 4165,
-        "height": 2401,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/372fa0a22bb2cbac.jpg",
+        "width": 6000,
+        "height": 4000,
         "kind": "photo",
-        "alt": "money, finance, mortgage, loan, real-estate, business, success, exchange, financial, cash, currency, bank, investment, banking, wealth, coin, economy, profit, salary, rich, credit, payment, savings, d",
-        "credit": "nattanan23 / Pixabay",
+        "alt": "real estate, homeownership, homebuying, home, house, mortgage, investment, property, home insurance, home loan, apartment, housing, concept, real estate, real estate, real estate, real estate, real es",
+        "credit": "OleksandrPidvalnyi / Pixabay",
         "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/money-finance-mortgage-loan-2696229/",
-        "vision_score": 8.0
+        "source_url": "https://pixabay.com/photos/real-estate-homeownership-homebuying-6688945/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/372fa0a22bb2cbac.jpg",
+        "orig_url": "https://pixabay.com/get/g611e7bbac1f5600b24d5f46d33e38fc03f2a4bddb4679bcf35306f3c092b68036afdbebbb5405dff4b180c408c2107a34b15b01c7a24ae87084582399dc19c6e_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11662,7 +11664,7 @@
         "meta_title": "Bátrabban adósodnak el a magyar fiatalok az Otthon Starttal",
         "meta_description": "Az Otthon Start Program hatására jelentősen megnőtt a lakáshitelek átlagos összege, miközben a harminc év alatti vásárlók egyre kisebb önerővel vállalnak lakásh",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-10-batrabban-adosodnak-el-a-magyar-fiatalok-az-otthon-starttal/",
-        "og_image": "https://pixabay.com/get/g4b1fb6926e1479125cdd5dd6662b5f820719e72bc646b804df9974945720d42c69d1e49c1176ffad5ed5ee29b19ea6131547a47089db7698c58a78036a7e4228_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/372fa0a22bb2cbac.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11679,9 +11681,9 @@
       "dedupe_hash": "152b72db66a239f7db30ae789ff504cd3dd9b56a9733824f4226c36148da8b6c",
       "pipeline_run_id": "38072250939",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T19:42:21+02:00",
-      "updated_at": "2026-10-10T19:42:21+02:00",
-      "published_at": "2026-10-10T19:42:21+02:00",
+      "created_at": "2026-10-10T20:00:57+02:00",
+      "updated_at": "2026-10-10T20:00:57+02:00",
+      "published_at": "2026-10-10T20:00:57+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11694,9 +11696,9 @@
         "msg_ids": [],
         "control_id": 4712,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:00 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-10T20:00:51+02:00"
+      "live": true
     }
   ]
 }
