@@ -113,7 +113,7 @@ class Config:
             gemini_key=os.getenv("GEMINI_API_KEY", ""),
             gemini_model=os.getenv("GEMINI_MODEL", "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite"),
             groq_key=os.getenv("GROQ_API_KEY", ""),
-            groq_model=os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"),
+            groq_model=os.getenv("GROQ_MODEL", "openai/gpt-oss-120b"),
             output_dir=(BASE_DIR / os.getenv("OUTPUT_DIR", "public/data")).resolve(),
             events_file=(BASE_DIR / os.getenv("RETRO_EVENTS_FILE", "data/retro_events.json")).resolve(),
             timezone=os.getenv("SITE_TIMEZONE", "Europe/Budapest"),
@@ -160,6 +160,62 @@ class AIError(Exception):
 
 
 _GEMINI_OUT: dict = {}  # modell → időpont, ameddig nem próbáljuk (elfogyott napi keret)
+
+
+def ai_quota_out() -> bool:
+    """Igaz, ha ebben a futásban minden beállított Gemini-modell napi ingyenes kerete elfogyott."""
+    models = [m.strip() for m in Config.from_env().gemini_model.split(",") if m.strip()]
+    return bool(models) and all(_GEMINI_OUT.get(m, 0) > time.time() for m in models)
+
+
+def model_health() -> list:
+    """Napi ellenőrzés: a beállított AI-modellek léteznek-e még (a szolgáltatók időnként megszüntetik / átnevezik őket),
+    és tegnap elég volt-e az ingyenes keret. Visszaad: a gondok listája (üres = minden rendben)."""
+    cfg = Config.from_env()
+    probs = []
+
+    def _get(url: str, headers: dict) -> dict:
+        req = urllib.request.Request(url, headers={"User-Agent": "KollektivaBot/1.0", **headers})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return json.loads(r.read())
+    if cfg.gemini_key:
+        try:
+            names, tok = set(), ""
+            for _ in range(5):
+                d = _get("https://generativelanguage.googleapis.com/v1beta/models?pageSize=1000" + (f"&pageToken={tok}" if tok else ""),
+                         {"x-goog-api-key": cfg.gemini_key})
+                names |= {m.get("name", "").split("/")[-1] for m in d.get("models", [])}
+                tok = d.get("nextPageToken") or ""
+                if not tok:
+                    break
+            for m in [x.strip() for x in cfg.gemini_model.split(",") if x.strip()]:
+                if m in names:
+                    continue
+                try:  # a lista nem mindig tartalmazza az álneveket (…-latest) – egy apró próbahívás dönt
+                    post_json("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+                              {"Authorization": f"Bearer {cfg.gemini_key}"},
+                              {"model": m, "max_tokens": 5, "messages": [{"role": "user", "content": "ok"}]}, 20, 1)
+                except AIError as e:
+                    if "HTTP 404" in str(e) or "HTTP 400" in str(e):
+                        alt = sorted(n for n in names if "flash" in n and not any(x in n for x in ("image", "tts", "audio", "live")))[-4:]
+                        probs.append(f"Gemini: a „{m}” modell megszűnt / nem elérhető. Elérhető pl.: {', '.join(alt)}")
+        except Exception as e:  # noqa: BLE001
+            probs.append(f"Gemini: a modellista nem kérhető le ({str(e)[:120]})")
+    if cfg.groq_key:
+        try:
+            ids = {m["id"] for m in _get("https://api.groq.com/openai/v1/models",
+                                          {"Authorization": f"Bearer {cfg.groq_key}"}).get("data", []) if m.get("active", True)}
+            if cfg.groq_model not in ids:
+                probs.append(f"Groq: a „{cfg.groq_model}” modell megszűnt – a robot a legjobb elérhetőre vált, de érdemes átírni.")
+        except Exception as e:  # noqa: BLE001
+            probs.append(f"Groq: a modellista nem kérhető le ({str(e)[:120]})")
+    y = (datetime.now(ZoneInfo("Europe/Budapest")).date() - timedelta(days=1)).isoformat()
+    u = read_json(_usage_file(), {}).get(y, {})
+    ok, bad = u.get("gemini", 0), u.get("gemini_hiba", 0)
+    if bad > max(20, ok // 2):
+        probs.append(f"Tegnap {bad} Gemini-hívás bukott el (elfogyott az ingyenes napi keret) – ilyenkor a gyengébb tartalék "
+                     "ír, vagy a cikk kimarad.")
+    return probs
 
 
 def post_json(url: str, headers: dict, payload: dict, timeout: int, retries: int) -> dict:
@@ -382,7 +438,7 @@ class AIClient:
                         _GEMINI_OUT[model] = time.time() + 3600
                     log.warning("Gemini modell sikertelen (%s): %s", model, str(e)[:200])
                     last = e
-            raise last or AIError("Nincs megadott Gemini modell")
+            raise last or AIError("Minden Gemini-modell napi kerete elfogyott (quota)")
         raise AIError("Mock módban nincs AI hívás")
 
     def complete_json(self, system: str, prompt: str, max_tokens: int = 4000, light: bool = False) -> dict:
@@ -3387,8 +3443,7 @@ def main(argv: Optional[list] = None) -> int:
                 if chat and waiting:
                     tr.tg("sendMessage", {"chat_id": chat, "text": f"🗂 Jóváhagyási kör ({os.getenv('CURRENT_SLOT')[-5:]}): "
                                           f"{len(waiting)} cikk vár rád. Magától egyik sem kerül ki.",
-                                          "reply_markup": {"inline_keyboard": [[{"text": f"📋 Váró cikkek ({len(waiting)})",
-                                                                                 "callback_data": "fall|x"}]]}})
+                                          })
             except Exception as e:  # noqa: BLE001
                 log.warning("Kör-összefoglaló kimaradt: %s", e)
     elif args.if_due:
