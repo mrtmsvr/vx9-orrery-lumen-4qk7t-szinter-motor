@@ -10405,9 +10405,9 @@
       "live": true
     },
     {
-      "id": "1e8d5fce-ee5c-56f1-8edc-3c504a830ac9",
-      "slug": "2026-10-10-egy-het-alatt-harom-tamadas-tortent-lengyel-iskolakban",
-      "status": "pending",
+      "id": "af2634b0-0d1d-5391-866d-941339e72b81",
+      "slug": "2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10416,7 +10416,7 @@
         "biztonság",
         "Varsó"
       ],
-      "title": "Egy hét alatt három támadás történt lengyel iskolákban",
+      "title": "Három nap alatt három támadás: iskolai erőszak rázta meg Lengyelországot",
       "subtitle": null,
       "lead": "Szombaton egy varsói felsőoktatási intézményben egy 21 éves nő sebesített meg három embert; ez már a harmadik iskolai támadás volt Lengyelországban egy héten belül. Az események hatására a hatóságok országszerte tízezerszámra ellenőrzik az oktatási intézményeket.",
       "key_points": [
@@ -10437,16 +10437,16 @@
       "word_count": 320,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gmach_G%C5%82%C3%B3wny_Politechniki_Warszawskiej_2018.jpg/1280px-Gmach_G%C5%82%C3%B3wny_Politechniki_Warszawskiej_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Warsaw_University_%2822233%29.jpg/1280px-Warsaw_University_%2822233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 864,
+        "height": 814,
         "kind": "photo",
         "pos": "center",
-        "alt": "Main Building of the Warsaw University of Technology at 1 Politechniki Square in Warsaw",
-        "credit": "Adrian Grycuk / Wikimedia Commons",
-        "license": "CC BY-SA 3.0 pl",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Gmach_G%C5%82%C3%B3wny_Politechniki_Warszawskiej_2018.jpg",
-        "vision_score": 8.0
+        "alt": "University of Warsaw",
+        "credit": "Rhododendrites / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Warsaw_University_(22233).jpg",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -10560,12 +10560,12 @@
       },
       "date": "2026-10-10",
       "date_label": "október 10.",
-      "url": "/vilag/2026-10-10-egy-het-alatt-harom-tamadas-tortent-lengyel-iskolakban/",
+      "url": "/vilag/2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag/",
       "seo": {
-        "meta_title": "Egy hét alatt három támadás történt lengyel iskolákban",
+        "meta_title": "Három nap alatt három támadás: iskolai erőszak rázta meg Len",
         "meta_description": "Szombaton egy varsói felsőoktatási intézményben egy 21 éves nő sebesített meg három embert; ez már a harmadik iskolai támadás volt Lengyelországban egy héten be",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-egy-het-alatt-harom-tamadas-tortent-lengyel-iskolakban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gmach_G%C5%82%C3%B3wny_Politechniki_Warszawskiej_2018.jpg/1280px-Gmach_G%C5%82%C3%B3wny_Politechniki_Warszawskiej_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Warsaw_University_%2822233%29.jpg/1280px-Warsaw_University_%2822233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10582,9 +10582,9 @@
       "dedupe_hash": "919627639df3671634e8f7ac1e5d8e43701eba02d5cd0d1c91c6fa3088d44221",
       "pipeline_run_id": "38072250939",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T19:41:05+02:00",
-      "updated_at": "2026-10-10T19:41:05+02:00",
-      "published_at": "2026-10-10T19:41:05+02:00",
+      "created_at": "2026-10-10T21:41:00+02:00",
+      "updated_at": "2026-10-10T21:41:00+02:00",
+      "published_at": "2026-10-10T21:41:00+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -10604,9 +10604,9 @@
         "msg_ids": [],
         "control_id": 4680,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:40 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-10T21:40:51+02:00"
+      "live": true
     },
     {
       "id": "4af9f96f-658b-5140-8565-b5693efd04ec",
