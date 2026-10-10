@@ -11006,9 +11006,9 @@
       "scheduled_at": "2026-10-10T21:00:51+02:00"
     },
     {
-      "id": "8d976233-4b16-593c-b6a5-0ab105a5cb04",
-      "slug": "2026-10-10-fel-ezermilliardos-mentocsomaggal-roviditenek-a-korhazi-varolistakat",
-      "status": "pending",
+      "id": "d4d2748a-c399-5afa-8ac9-5cff4f3856c4",
+      "slug": "2026-10-10-hegedus-zsolt-fel-ezermilliard-forinttal-lenditene-fel-az-egeszsegugy",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11018,7 +11018,7 @@
         "Hegedűs Zsolt",
         "kormányzat"
       ],
-      "title": "Fél ezermilliárdos mentőcsomaggal rövidítenék a kórházi várólistákat",
+      "title": "Hegedűs Zsolt fél ezermilliárd forinttal lendítené fel az egészségügyet",
       "subtitle": null,
       "lead": "Fél ezermilliárd forintos többletforrással és átfogó kórházi programmal alakítaná át az egészségügyi rendszert a kormány 2027-ben. A célzott intézkedésekkel a várólistákat csökkentenék, valamint javítanák a betegbiztonságot és a szakdolgozók munkakörülményeit.",
       "key_points": [
@@ -11166,11 +11166,11 @@
       },
       "date": "2026-10-10",
       "date_label": "október 10.",
-      "url": "/kozelet/2026-10-10-fel-ezermilliardos-mentocsomaggal-roviditenek-a-korhazi-varolistakat/",
+      "url": "/kozelet/2026-10-10-hegedus-zsolt-fel-ezermilliard-forinttal-lenditene-fel-az-egeszsegugy/",
       "seo": {
-        "meta_title": "Fél ezermilliárdos mentőcsomaggal rövidítenék a kórházi váró",
+        "meta_title": "Hegedűs Zsolt fél ezermilliárd forinttal lendítené fel az eg",
         "meta_description": "Fél ezermilliárd forintos többletforrással és átfogó kórházi programmal alakítaná át az egészségügyi rendszert a kormány 2027-ben. A célzott intézkedésekkel a v",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-fel-ezermilliardos-mentocsomaggal-roviditenek-a-korhazi-varolistakat/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-hegedus-zsolt-fel-ezermilliard-forinttal-lenditene-fel-az-egeszsegugy/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zsolt_Heged%C5%B1s_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11196,9 +11196,9 @@
       "dedupe_hash": "66fe6533d81b6e199e220bc6482e5feaa218031fd2a64c2e8a101d34c11b4618",
       "pipeline_run_id": "38072250939",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T19:41:24+02:00",
-      "updated_at": "2026-10-10T19:41:24+02:00",
-      "published_at": "2026-10-10T19:41:24+02:00",
+      "created_at": "2026-10-10T20:41:09+02:00",
+      "updated_at": "2026-10-10T20:41:09+02:00",
+      "published_at": "2026-10-10T20:41:09+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11211,9 +11211,9 @@
         "msg_ids": [],
         "control_id": 4702,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:40 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-10T20:40:51+02:00"
+      "live": true
     },
     {
       "id": "fa6d7f56-260d-5199-89a3-311fa7180c4a",
