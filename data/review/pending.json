@@ -10741,15 +10741,12 @@
         "title": 1,
         "image": 2,
         "sent_at": "2026-10-10T17:42:20+00:00",
-        "msg_ids": [
-          4675,
-          4676,
-          4677,
-          4678,
-          4679
-        ],
-        "control_id": 4680
-      }
+        "msg_ids": [],
+        "control_id": 4680,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:40 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-10T21:40:51+02:00"
     },
     {
       "id": "a4abd6fe-1620-551e-9dfc-82448bc82326",
