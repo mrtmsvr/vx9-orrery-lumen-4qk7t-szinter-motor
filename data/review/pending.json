@@ -11356,9 +11356,9 @@
       "scheduled_at": "2026-10-10T20:40:51+02:00"
     },
     {
-      "id": "298144fc-1fe0-54f9-be6d-2a4cbc01db25",
-      "slug": "2026-10-10-latvanyosabb-munkalatok-johetnek-a-harmat-liget-projektben",
-      "status": "pending",
+      "id": "fa6d7f56-260d-5199-89a3-311fa7180c4a",
+      "slug": "2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11368,7 +11368,7 @@
         "Bayer Construct",
         "Harmat Liget"
       ],
-      "title": "Látványosabb munkálatok jöhetnek a Harmat Liget projektben",
+      "title": "Bayer Construct: óvatos optimizmussal a Harmat Liget jövője felől",
       "subtitle": null,
       "lead": "Csökkentett üzemmódban folytatódik a Harmat Liget lakópark kivitelezése, miközben a generálkivitelező Bayer Construct csődeljárás alatt áll. Az érintettek bizakodóak, október közepére látványosabb előrehaladást ígérnek a helyszínen.",
       "key_points": [
@@ -11494,11 +11494,11 @@
       },
       "date": "2026-10-10",
       "date_label": "október 10.",
-      "url": "/penzvilag/2026-10-10-latvanyosabb-munkalatok-johetnek-a-harmat-liget-projektben/",
+      "url": "/penzvilag/2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol/",
       "seo": {
-        "meta_title": "Látványosabb munkálatok jöhetnek a Harmat Liget projektben",
+        "meta_title": "Bayer Construct: óvatos optimizmussal a Harmat Liget jövője ",
         "meta_description": "Csökkentett üzemmódban folytatódik a Harmat Liget lakópark kivitelezése, miközben a generálkivitelező Bayer Construct csődeljárás alatt áll. Az érintettek bizak",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-10-latvanyosabb-munkalatok-johetnek-a-harmat-liget-projektben/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol/",
         "og_image": "https://live.staticflickr.com/2372/2363688612_6d71737477_b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11524,9 +11524,9 @@
       "dedupe_hash": "0aed0bd0fdfa352ccbca523fe1bcaee994bcf185ec434580b09747fb82229205",
       "pipeline_run_id": "38072250939",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T19:41:31+02:00",
-      "updated_at": "2026-10-10T19:41:31+02:00",
-      "published_at": "2026-10-10T19:41:31+02:00",
+      "created_at": "2026-10-10T20:20:55+02:00",
+      "updated_at": "2026-10-10T20:20:55+02:00",
+      "published_at": "2026-10-10T20:20:55+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11539,9 +11539,9 @@
         "msg_ids": [],
         "control_id": 4708,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:20 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-10T20:20:51+02:00"
+      "live": true
     },
     {
       "id": "82b38fa1-5975-5679-ab9b-60bfe1ba57ec",
