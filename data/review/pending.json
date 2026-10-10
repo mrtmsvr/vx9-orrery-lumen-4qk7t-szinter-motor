@@ -10935,13 +10935,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-10T17:42:43+00:00",
-        "msg_ids": [
-          4682,
-          4683,
-          4684
-        ],
-        "control_id": 4685
-      }
+        "msg_ids": [],
+        "control_id": 4685,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:20 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-10T21:20:51+02:00"
     },
     {
       "id": "aa5f656c-e820-54a1-b31e-51fdd87e6c4e",
