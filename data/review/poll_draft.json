@@ -1,35 +1,35 @@
 {
-  "id": "41eb01efdf",
-  "date": "2026-10-10",
+  "id": "1936f9a8b8",
+  "date": "2026-10-11",
   "status": "pending",
-  "article_url": "/kozelet/2026-10-09-itt-a-valasz-ennyit-kell-varni-a-2036-os-olimpia-sorsara/",
-  "article_title": "Itt a válasz: ennyit kell várni a 2036-os olimpia sorsára",
+  "article_url": "/kozelet/2026-10-10-megszolalt-a-jegybankelnok-ezt-gondolja-a-magyar-eurorol/",
+  "article_title": "Megszólalt a jegybankelnök: ezt gondolja a magyar euróról",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön támogatja, hogy Budapest pályázzon a 2036-os olimpiára?",
+      "question": "Ön szerint mielőbb be kell vezetni az eurót Magyarországon?",
       "options": [
-        "Igen, támogatom",
-        "Nem, elutasítom",
+        "Igen, mielőbb csatlakozni kell az eurózónához",
+        "Nem, a hazai fizetőeszközt kell megőrizni",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyeseli-e, hogy a kormány 2030-ig felfüggesztette az olimpiai szervezést?",
+      "question": "Mit tart fontosabbnak a magyar euró bevezetésénél?",
       "options": [
-        "Igen, helyeslem",
-        "Nem, korai lenne",
+        "A gazdaság teljes felkészülését a csatlakozás előtt",
+        "A határidőhöz kötött, minél gyorsabb bevezetést",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a budapesti olimpiaterv kapcsán?",
+      "question": "Helyesli-e, hogy a jegybank az euró bevezetését támogatja?",
       "options": [
-        "A gazdasági fejlődést",
-        "A költségek kontrollálását",
+        "Igen, helyeslem a jegybanki támogatást",
+        "Nem, a jegybank ne foglaljon ebben állást",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 4586
+  "msg_id": 4892
 }
