@@ -13246,22 +13246,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-11T18:07:33+00:00",
-        "msg_ids": [
-          5026,
-          5027,
-          5028,
-          5029,
-          5030,
-          5031,
-          5032,
-          5033,
-          5063,
-          5064,
-          5070,
-          5071,
-          5076
-        ],
-        "control_id": 5077
+        "msg_ids": [],
+        "control_id": 5077,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:05 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Hungary",
@@ -13290,7 +13278,8 @@
         "https://xn--kollektva-m5a.hu/public/img/gen/d6a6f139cd-1791742465-0.jpg",
         "https://live.staticflickr.com/3904/33466938116_c8a9d55e51_b.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ]
+      ],
+      "scheduled_at": "2026-10-11T22:05:53+02:00"
     },
     {
       "id": "dc85bc29-ca62-5edd-b9ed-452fadcb4182",
