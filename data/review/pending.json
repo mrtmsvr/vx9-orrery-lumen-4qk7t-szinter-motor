@@ -12705,19 +12705,12 @@
         "title": 4,
         "image": 4,
         "sent_at": "2026-10-11T09:31:56+00:00",
-        "msg_ids": [
-          4861,
-          4862,
-          4863,
-          4864,
-          4865,
-          4866,
-          4867,
-          4868,
-          4869
-        ],
-        "control_id": 4870
-      }
+        "msg_ids": [],
+        "control_id": 4870,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 14:08 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T14:08:30+02:00"
     },
     {
       "id": "feb8e69a-b50e-58f7-89ac-47a0f4d98249",
