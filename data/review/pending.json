@@ -11234,9 +11234,9 @@
       "scheduled_at": "2026-10-11T14:48:30+02:00"
     },
     {
-      "id": "79b7387e-8e7c-55b9-a4db-cb654a8c2f06",
-      "slug": "2026-10-11-trump-es-zelenszkij-feszul-egymasnak-az-amerikai-dizelbotrany-miatt",
-      "status": "pending",
+      "id": "86fcfe14-c493-5a62-bcb3-b2c110961acd",
+      "slug": "2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11246,7 +11246,7 @@
         "Yandex",
         "energiapiac"
       ],
-      "title": "Trump és Zelenszkij feszül egymásnak az amerikai dízelbotrány miatt",
+      "title": "Dízelbotrány és ukrán drónok: új frontvonal nyílt Washington és Kijev között",
       "subtitle": null,
       "lead": "Diplomáciai feszültséget és európai felháborodást váltott ki az Egyesült Államok váratlan döntése, amellyel rövid időre feloldaná az Oroszországra kivetett dízelexporttilalmat. A háttérben az üzemanyaghiányért marakodó vezetők mellett az orosz Yandex infrastruktúráját ért sorozatos dróntámadások borzolják a kedélyeket.",
       "key_points": [
@@ -11268,15 +11268,15 @@
       "word_count": 291,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Volodymyr_Zelenskyy_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 1625,
+        "height": 1662,
         "kind": "photo",
         "pos": "top",
-        "alt": "Official portrait of Volodymyr Zelenskyy.",
-        "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
+        "alt": "President of Ukraine Volodymyr Zelenskyy",
+        "credit": "President of Ukraine from Україна / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2022.jpg"
       },
       "inline_images": [
         {
@@ -11404,12 +11404,12 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/vilag/2026-10-11-trump-es-zelenszkij-feszul-egymasnak-az-amerikai-dizelbotrany-miatt/",
+      "url": "/vilag/2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev/",
       "seo": {
-        "meta_title": "Trump és Zelenszkij feszül egymásnak az amerikai dízelbotrán",
+        "meta_title": "Dízelbotrány és ukrán drónok: új frontvonal nyílt Washington",
         "meta_description": "Diplomáciai feszültséget és európai felháborodást váltott ki az Egyesült Államok váratlan döntése, amellyel rövid időre feloldaná az Oroszországra kivetett díze",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-trump-es-zelenszkij-feszul-egymasnak-az-amerikai-dizelbotrany-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Volodymyr_Zelenskyy_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11434,9 +11434,9 @@
       "dedupe_hash": "fa3092c621f964058331553d0415e8eea5f367b483e23c74f9b89885a2e1511c",
       "pipeline_run_id": "38127525408",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T11:30:33+02:00",
-      "updated_at": "2026-10-11T11:30:33+02:00",
-      "published_at": "2026-10-11T11:30:33+02:00",
+      "created_at": "2026-10-11T12:48:45+02:00",
+      "updated_at": "2026-10-11T12:48:45+02:00",
+      "published_at": "2026-10-11T12:48:45+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11449,9 +11449,9 @@
         "msg_ids": [],
         "control_id": 4835,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:48 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T12:48:30+02:00"
+      "live": true
     },
     {
       "id": "dd87490c-e428-5227-ac4a-5dc1156c5181",
