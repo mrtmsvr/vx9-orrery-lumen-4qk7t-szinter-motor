@@ -12481,16 +12481,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-11T09:31:47+00:00",
-        "msg_ids": [
-          4854,
-          4855,
-          4856,
-          4857,
-          4858,
-          4859
-        ],
-        "control_id": 4860
-      }
+        "msg_ids": [],
+        "control_id": 4860,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:48 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T13:48:30+02:00"
     },
     {
       "id": "f786a70c-ddf2-552d-8e77-9d7e3d4255e6",
