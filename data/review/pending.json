@@ -13492,15 +13492,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-11T18:07:48+00:00",
-        "msg_ids": [
-          5036,
-          5037,
-          5038,
-          5039,
-          5040,
-          5041
-        ],
-        "control_id": 5042
+        "msg_ids": [],
+        "control_id": 5042,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:25 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Peter Magyar",
@@ -13520,7 +13515,8 @@
         "politician interview",
         "press conference microphone",
         "parliament building facade"
-      ]
+      ],
+      "scheduled_at": "2026-10-11T22:25:53+02:00"
     },
     {
       "id": "1fec5161-4650-58e1-a383-b53dc2cc655c",
