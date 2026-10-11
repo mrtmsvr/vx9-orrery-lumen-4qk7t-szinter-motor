@@ -301,6 +301,19 @@ def _retry_pitches(out_dir: Path, tz: ZoneInfo) -> None:
     threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, chat), daemon=False).start()
 
 
+def _newsletter_check(tz: ZoneInfo) -> None:
+    """Vasárnap NEWSLETTER_HOUR (8) után a hírlevél a figyelő ciklusból is kimegy – eddig csak a futások elején nézte,
+    így ha a futás 8 előtt indult, csak a következő (akár 40 perccel későbbi) futás küldte ki."""
+    now = datetime.now(tz)
+    if now.weekday() != 6 or now.hour < int(os.getenv("NEWSLETTER_HOUR", "8")) or not os.getenv("BREVO_API_KEY"):
+        return
+    if kc.read_json(kc.BASE_DIR / "data" / "robot.json", {}).get("last_newsletter_week") == now.strftime("%G-W%V"):
+        return
+    r = subprocess.run([sys.executable, "scripts/newsletter.py"], cwd=kc.BASE_DIR, timeout=600)
+    log.info("Hírlevél-ellenőrzés a ciklusból (kilépési kód %s)", r.returncode)
+    _save_to_git("Hírlevél")
+
+
 def _daily_model_check(tz: ZoneInfo) -> None:
     """Naponta egyszer (8 óra után): élnek-e még a beállított AI-modellek, és elég volt-e tegnap a keret."""
     now = datetime.now(tz)
@@ -1547,6 +1560,7 @@ def main(argv: Optional[list] = None) -> int:
             try:
                 _retry_pitches(cfg.output_dir, tz)
                 _daily_model_check(tz)
+                _newsletter_check(tz)
             except Exception as e:  # noqa: BLE001
                 log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
