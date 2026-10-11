@@ -1,7 +1,104 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T20:46:00+02:00",
+  "updated_at": "2026-10-11T21:06:00+02:00",
   "articles": [
+    {
+      "id": "3fdc08f2-1967-583d-b760-43d2b6dd13ee",
+      "slug": "2026-10-11-szigoru-sajtorendszabalyok-mellett-startol-a-nagy-fidesz-tabor",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "DPK",
+        "Fidesz",
+        "Lakitelek",
+        "média"
+      ],
+      "title": "Szigorú sajtórendszabályok mellett startol a nagy Fidesz-tábor",
+      "subtitle": null,
+      "lead": "Jövő hétvégén a lakiteleki Hungarikum Ligetben tartja nagyszabású találkozóját a Digitális Polgári Körök közössége, amelyen a jobboldali közélet számos meghatározó alakja is részt vesz. Az ezerfős rendezvény a politikai közösségépítés mellett a média jövőjével és ideológiai kérdésekkel is foglalkozik.",
+      "key_points": [
+        "Október 17-18-án rendezik meg a DPK Tábort Lakiteleken.",
+        "A meghívottak között olyan ismert nevek szerepelnek, mint Schmidt Mária, Deutsch Tamás és Bóka János.",
+        "A programok között hangsúlyos szerepet kap a jobboldali média helyzete és a szellemi útkeresés."
+      ],
+      "content": "A Fidesz által életre hívott, eddig kevéssé körvonalazott célkitűzésekkel rendelkező Digitális Polgári Körök (DPK) október 17-én és 18-án tartják kétnapos táborukat a lakiteleki Hungarikum Ligetben. A szervezők tájékoztatása szerint az esemény teltházas, mintegy ezer fő részvételére számítanak. A belépőjegyek alapára 6000 forint volt, ugyanakkor a résztvevők 15-től 100 ezer forintig terjedő támogatói jegyekkel is hozzájárulhattak a rendezvény költségeihez.\n\nA fellépők névsora a kormánypárti holdudvar teljes spektrumát lefedi. A programban olyan politikusok és közszereplők vesznek részt, mint Bóka János miniszter, Deutsch Tamás európai parlamenti képviselő, Schmidt Mária, a Terror Háza Múzeum főigazgatója, vagy éppen Miklósa Erika operaénekes. A táborban megszólal továbbá Ferencz Orsolya űrkutatásért felelős miniszteri biztos, valamint a konzervatív média több ismert figurája, például Huth Gergely, a PestiSrácok.hu korábbi főszerkesztője.\n\nA szakmai programok egyik központi eleme a jobboldali média jövőjével foglalkozó kerekasztal-beszélgetés, amelyen különböző médiumok munkatársai vitatják meg a terület kihívásait. A tábor házigazdája Gulyás István, az M5 volt csatornaigazgatója, az ÖT.hu stábjának tagja.",
+      "content_format": "markdown",
+      "body": [
+        "A Fidesz által életre hívott, eddig kevéssé körvonalazott célkitűzésekkel rendelkező Digitális Polgári Körök (DPK) október 17-én és 18-án tartják kétnapos táborukat a lakiteleki Hungarikum Ligetben. A szervezők tájékoztatása szerint az esemény teltházas, mintegy ezer fő részvételére számítanak. A belépőjegyek alapára 6000 forint volt, ugyanakkor a résztvevők 15-től 100 ezer forintig terjedő támogatói jegyekkel is hozzájárulhattak a rendezvény költségeihez.",
+        "A fellépők névsora a kormánypárti holdudvar teljes spektrumát lefedi. A programban olyan politikusok és közszereplők vesznek részt, mint Bóka János miniszter, Deutsch Tamás európai parlamenti képviselő, Schmidt Mária, a Terror Háza Múzeum főigazgatója, vagy éppen Miklósa Erika operaénekes. A táborban megszólal továbbá Ferencz Orsolya űrkutatásért felelős miniszteri biztos, valamint a konzervatív média több ismert figurája, például Huth Gergely, a PestiSrácok.hu korábbi főszerkesztője.",
+        "A szakmai programok egyik központi eleme a jobboldali média jövőjével foglalkozó kerekasztal-beszélgetés, amelyen különböző médiumok munkatársai vitatják meg a terület kihívásait. A tábor házigazdája Gulyás István, az M5 volt csatornaigazgatója, az ÖT.hu stábjának tagja."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 199,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Schmidt-Maria2.jpg/1280px-Schmidt-Maria2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1411,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Mária Schmidt, Hungarian historian. June 2010.",
+        "credit": "Vadas Róbert (Vadaro) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Schmidt-Maria2.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261011_dpk-tabor-programok-fidesz-schmidt-maria-deutsch-tamas-boka-janos-okovacs-szilveszter",
+          "title": "„Bumfordi barmok”, önkény és esti DJ – itt a DPK Tábor teljes programja",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:30+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T21:06:00+02:00"
+      },
+      "hot_score": 5.71,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261011_dpk-tabor-programok-fidesz-schmidt-maria-deutsch-tamas-boka-janos-okovacs-szilveszter"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/kozelet/2026-10-11-szigoru-sajtorendszabalyok-mellett-startol-a-nagy-fidesz-tabor/",
+      "seo": {
+        "meta_title": "Szigorú sajtórendszabályok mellett startol a nagy Fidesz-táb",
+        "meta_description": "Jövő hétvégén a lakiteleki Hungarikum Ligetben tartja nagyszabású találkozóját a Digitális Polgári Körök közössége, amelyen a jobboldali közélet számos meghatár",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-szigoru-sajtorendszabalyok-mellett-startol-a-nagy-fidesz-tabor/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Schmidt-Maria2.jpg/1280px-Schmidt-Maria2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "e059396cea63b01f566c124dbe5b917c9bd5541d89abdeaecce7501d2a9fb5d4",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T21:06:00+02:00",
+      "updated_at": "2026-10-11T21:06:00+02:00",
+      "published_at": "2026-10-11T21:06:00+02:00",
+      "expires_at": null
+    },
     {
       "id": "b1bed1d5-1916-5df7-a270-8b2c3ce3136d",
       "slug": "2026-10-11-tobb-mint-harminc-ev-utan-is-masodrendunek-erzik-magukat-a-keletnemet",
