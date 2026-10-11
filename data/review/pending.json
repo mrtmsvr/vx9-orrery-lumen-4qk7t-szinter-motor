@@ -12881,14 +12881,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-11T18:07:18+00:00",
-        "msg_ids": [
-          5011,
-          5012,
-          5013,
-          5014
-        ],
-        "control_id": 5015
-      }
+        "msg_ids": [],
+        "control_id": 5015,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:45 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T20:45:53+02:00"
     },
     {
       "id": "340ddf12-14bf-570b-8c72-204131c3a0fe",
