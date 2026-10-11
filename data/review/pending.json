@@ -13963,13 +13963,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-11T18:08:23+00:00",
-        "msg_ids": [
-          5055,
-          5056,
-          5057
-        ],
-        "control_id": 5058
-      }
+        "msg_ids": [],
+        "control_id": 5058,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:25 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T21:25:53+02:00"
     }
   ]
 }
