@@ -12855,12 +12855,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-11T14:02:20+00:00",
-        "msg_ids": [
-          4955,
-          4956
-        ],
-        "control_id": 4957
-      }
+        "msg_ids": [],
+        "control_id": 4957,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:23 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T17:23:03+02:00"
     }
   ]
 }
