@@ -12583,6 +12583,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/3951a1291f-1791728629-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/3951a1291f-1791728629-0.jpg",
+          "kind": "photo",
+          "alt": "Költségvetési maraton: 500 milliárd forintos többletforrást kap az egészségügy",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/3951a1291f-1791728631-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/3951a1291f-1791728631-1.jpg",
+          "kind": "photo",
+          "alt": "Költségvetési maraton: 500 milliárd forintos többletforrást kap az egészségügy",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -12686,9 +12708,11 @@
           4950,
           4951,
           4952,
-          4953
+          4953,
+          4958,
+          4959
         ],
-        "control_id": 4954
+        "control_id": 4960
       }
     },
     {
