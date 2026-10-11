@@ -12906,17 +12906,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-11T09:32:02+00:00",
-        "msg_ids": [
-          4871,
-          4872,
-          4873,
-          4874,
-          4875,
-          4876,
-          4877
-        ],
-        "control_id": 4878
-      }
+        "msg_ids": [],
+        "control_id": 4878,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 14:28 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T14:28:30+02:00"
     }
   ]
 }
