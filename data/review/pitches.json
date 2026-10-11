@@ -1,65 +1,5 @@
 {
   "items": {
-    "564786a4cf": {
-      "id": "564786a4cf",
-      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/polgar-arpad-mukereskedo-eletut-szinesz-meggazdagodas/0e7vvtx",
-      "title": "Koppintott gatyákkal gazdagodott meg Polgár Árpád, aki négy feleség mellett is kereste már a boldogságot - interjú",
-      "sid": "bulvar",
-      "pubs": [
-        "blikk.hu"
-      ],
-      "score": 5.8
-    },
-    "78a00411e1": {
-      "id": "78a00411e1",
-      "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-      "sid": "tech",
-      "pubs": [
-        "nasa.gov"
-      ],
-      "score": 4.8,
-      "story": [
-        {
-          "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
-          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
-          "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
-          "source": "nasa.gov",
-          "related": false,
-          "hot_score": 4.82
-        }
-      ]
-    },
-    "21df842446": {
-      "id": "21df842446",
-      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/valkusz-milan-nagybacsi-rokonok-megasztar/ldcm9hn",
-      "title": "Valkusz Milán nagybátyja a Megasztárban - elárulta, miért nem tartják Milánnal a kapcsolatot",
-      "sid": "bulvar",
-      "pubs": [
-        "blikk.hu"
-      ],
-      "score": 5.8
-    },
-    "fd09b13fa5": {
-      "id": "fd09b13fa5",
-      "link": "https://hvg.hu/vilag/20261009_egyesult-allamok-szankcio-nemzetkozi-buntetobirosag-icc-navi-pillay-nobel-bekedij",
-      "title": "Trumpék szankciókat szabtak ki a Nemzetközi Büntetőbíróságra, miután egyik volt bírája kapta a Nobel-békedíjat",
-      "sid": "vilag",
-      "pubs": [
-        "hvg.hu"
-      ],
-      "score": 5.4
-    },
-    "18c9a5e1fd": {
-      "id": "18c9a5e1fd",
-      "link": "https://hvg.hu/tudomany/20261009_instagram-bejegyzes-szelfi-tunderrozsa-felfedezes-kutatok",
-      "title": "Tudományos felfedezéshez vezetett egy Instagram-szelfi",
-      "sid": "tech",
-      "pubs": [
-        "hvg.hu"
-      ],
-      "score": 5.4
-    },
     "9e63a3a1e9": {
       "id": "9e63a3a1e9",
       "link": "https://hvg.hu/tudomany/20261009_voros-macskak-szine-rejtely-genek",
@@ -1299,6 +1239,279 @@
           "source": "blikk.hu",
           "related": false,
           "hot_score": 5.75
+        }
+      ]
+    },
+    "3ad0c55a79": {
+      "id": "3ad0c55a79",
+      "link": "https://telex.hu/kulfold/2026/10/11/volodimir-zelenszkij-ukrajna-oroszorszag-olajfinomitok-tamadas-donald-trump",
+      "title": "Zelenszkij: Leállítjuk az orosz olajfinomítók elleni támadásokat, ha Putyin sem lövi az ukrán energia-infrastruktúrát",
+      "sid": "vilag",
+      "pubs": [
+        "hvg.hu",
+        "telex.hu"
+      ],
+      "score": 11.3,
+      "story": [
+        {
+          "title": "Zelenszkij: Leállítjuk az orosz olajfinomítók elleni támadásokat, ha Putyin sem lövi az ukrán energia-infrastruktúrát",
+          "link": "https://telex.hu/kulfold/2026/10/11/volodimir-zelenszkij-ukrajna-oroszorszag-olajfinomitok-tamadas-donald-trump",
+          "summary": "Az ukrán elnök Donald Trumpnak üzenhetett, aki szerint Zelenszkij világszintű problémákat akar okozni az orosz finomítók bombázásával.",
+          "source": "telex.hu",
+          "related": false,
+          "hot_score": 11.34
+        },
+        {
+          "title": "Zelenszkij: Ukrajna nem támad több orosz olajfinomítót, ha Oroszország leállítja az ukrán energiainfrastruktúra elleni csapásait",
+          "link": "https://hvg.hu/vilag/20261011_volodimir-zelenszkij-ukrajna-oroszorszag-olajfinomitok-donald-trump",
+          "summary": "Az ukrán államfő azután szólal meg, hogy Donald Trump előzőleg arról beszélt, Zelenszkij „problémákat akar okozni a világnak” azzal, hogy továbbra is engedélyezi az orosz finomítók elleni támadásokat.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 11.34
+        },
+        {
+          "title": "Trump: Ideje, hogy új elnöke legyen Ukrajnának",
+          "link": "https://hvg.hu/vilag/20261010_egyesult-allamok-ukrajna-donald-trump-volodimir-zelenszkij",
+          "summary": "Az amerikai elnök szerint Zelenszkij „problémákat akar okozni a világnak” az orosz finomítók elleni támadásokkal.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 11.34
+        },
+        {
+          "title": "Energiaipari tűzszünetet jelentett be Ukrajna és Oroszország között az amerikai elnök",
+          "link": "https://hvg.hu/vilag/20261011_energiaipari-tuzszunetet-jelentett-be-ukrajna-es-oroszorszag-kozott-az-amerikai-elnok-ebx",
+          "summary": "Volodimir Zelenszkij ukrán elnök azt mondta, „az újdonság erejével hatott rá” a tűzszünet híre, de ha Trump és Putyin tényleg tárgyaltak erről, mondják el, mikor is kezdődik a tűzszünet.",
+          "source": "hvg.hu",
+          "related": true,
+          "hot_score": 11.34
+        }
+      ]
+    },
+    "59b433ae97": {
+      "id": "59b433ae97",
+      "link": "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut",
+      "title": "„Életem első és utolsó interjúja a Karmelitában” – Magyar Péter a legnagyobb finn napilapnak adott interjút",
+      "sid": "kozelet",
+      "pubs": [
+        "hvg.hu"
+      ],
+      "score": 6.5,
+      "story": [
+        {
+          "title": "„Életem első és utolsó interjúja a Karmelitában” – Magyar Péter a legnagyobb finn napilapnak adott interjút",
+          "link": "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut",
+          "summary": "„Akinek tényleg van leszervezett időpontja, az kap is interjút” – utalt a miniszterelnök egy pár nappal korábbi fiaskóra, amikor a norvég média állította azt, hogy Magyar nem volt hajlandó interjút adni nekik.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 6.52
+        },
+        {
+          "title": "Magyar Péter az azonos neműek házasságáról: Nagyon óvatos vagyok",
+          "link": "https://telex.hu/belfold/2026/10/11/magyar-peter-zelenszkij-talalkozo-azonos-nemuek-hazassaga-torvenymodositas",
+          "summary": "A jövő heti uniós csúcson várhatóan Zelenszkijjel is találkozik a magyar kormányfő, aki egy finn lapnak adta az első interjúját a Karmelitában.",
+          "source": "telex.hu",
+          "related": true,
+          "hot_score": 6.52
+        }
+      ]
+    },
+    "0cbd8de457": {
+      "id": "0cbd8de457",
+      "link": "https://www.portfolio.hu/gazdasag/20261011/hetfon-kezdodik-a-brusszeli-kulugyminiszteri-talalkozo-orban-anita-reszleteket-tett-kozze-a-temakrol-868946",
+      "title": "Hétfőn kezdődik a brüsszeli külügyminiszteri találkozó, Orbán Anita részleteket tett közzé a témákról",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "Hétfőn kezdődik a brüsszeli külügyminiszteri találkozó, Orbán Anita részleteket tett közzé a témákról",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/hetfon-kezdodik-a-brusszeli-kulugyminiszteri-talalkozo-orban-anita-reszleteket-tett-kozze-a-temakrol-868946",
+          "summary": "Az Európai Unió külügyminisztereinek hétfőn kezdődő luxemburgi tanácsülésén az információmanipuláció elleni védekezés és az uniós bővítés a két legfontosabb téma. A találkozón Magyarországot Orbán Anita külügyminiszter képviseli, aki a nyugat-balkáni integráció felgyorsítása mellett érvel, a nap végén pedig hat másik tagállam nevében is felszólal - jelentette be a külügyminiszter Facebook-oldalán.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ]
+    },
+    "518f2a0985": {
+      "id": "518f2a0985",
+      "link": "https://www.portfolio.hu/gazdasag/20261011/mennyire-megy-jol-a-volt-ndk-sok-sora-868598",
+      "title": "Mennyire megy jól a volt NDK-sok sora?",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "Mennyire megy jól a volt NDK-sok sora?",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/mennyire-megy-jol-a-volt-ndk-sok-sora-868598",
+          "summary": "Harminchat évvel a német újraegyesítés után sok keletnémet még mindig másodrendű állampolgárnak érzi magát, és ez az elégedetlenség a szeptemberi tartományi választásokon az AfD és a Die Linke sikerében is megmutatkozott. A volt NDK területén azonban a bérek az 1991-es, nyugatnémet szinthez mért 50 százalékról mára mintegy 85 százalékra emelkedtek. A keletnémetek vásárlóereje ráadásul a legtöbb uniós tagállam polgárainál, sőt egyes francia, svéd és dán térségek lakóinál is nagyobb, a lengyelekét és a csehekét 25–40, Kelet-Magyarország lakóiét pedig akár 50 százalékkal haladja meg. Mi áll a kel",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ]
+    },
+    "7bbdee0b05": {
+      "id": "7bbdee0b05",
+      "link": "https://www.portfolio.hu/gazdasag/20261011/karacsony-gergely-szerint-tarthatatlan-a-helyzet-atalakitana-budapest-parkolasi-rendszeret-868942",
+      "title": "Karácsony Gergely szerint tarthatatlan a helyzet: átalakítaná Budapest parkolási rendszerét",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "Karácsony Gergely szerint tarthatatlan a helyzet: átalakítaná Budapest parkolási rendszerét",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/karacsony-gergely-szerint-tarthatatlan-a-helyzet-atalakitana-budapest-parkolasi-rendszeret-868942",
+          "summary": "A budapesti parkolási rendszer átalakításával évente mintegy 10 milliárd forintot lehetne megtakarítani, ami ötszörösére növelhetné a főváros útfelújítási keretét. A közlekedési infrastruktúra jelentős állagromlása miatt elengedhetetlen a hatékonyabb üzemeltetés, valamint a kerületek közötti adóbevételek aránytalanságának rendezése – hívta fel a figyelmet Facebook-videójában Karácsony Gergely, Budapest főpolgármestere .",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ]
+    },
+    "b842597c2f": {
+      "id": "b842597c2f",
+      "link": "https://hvg.hu/itthon/20261011_dpk-tabor-programok-fidesz-schmidt-maria-deutsch-tamas-boka-janos-okovacs-szilveszter",
+      "title": "„Bumfordi barmok”, önkény és esti DJ – itt a DPK Tábor teljes programja",
+      "sid": "kozelet",
+      "pubs": [
+        "hvg.hu"
+      ],
+      "score": 5.7,
+      "story": [
+        {
+          "title": "„Bumfordi barmok”, önkény és esti DJ – itt a DPK Tábor teljes programja",
+          "link": "https://hvg.hu/itthon/20261011_dpk-tabor-programok-fidesz-schmidt-maria-deutsch-tamas-boka-janos-okovacs-szilveszter",
+          "summary": "A tábort a jövő hétvégén rendezik meg a lakiteleki Hungarikum Ligetben. Az esemény előadói között szerepel mások mellett Schmidt Mária, Deutsch Tamás, Bóka János és Ókovács Szilveszter is. A DPK Tábor házigazdája az M5 volt csatornaigazgatója lesz, aki azóta már az ÖT.hu munkatársa.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.71
+        }
+      ]
+    },
+    "1d09793a09": {
+      "id": "1d09793a09",
+      "link": "https://borsonline.origo.hu/foci/2026/10/a-fradi-legendai-kialltak-kubatov-gabor-mellett",
+      "title": "Összezárt a Fradi-család: a klub legendái világosan kiálltak Kubatov Gábor mellett!",
+      "sid": "bulvar",
+      "pubs": [
+        "borsonline.hu"
+      ],
+      "score": 5.7,
+      "story": [
+        {
+          "title": "Összezárt a Fradi-család: a klub legendái világosan kiálltak Kubatov Gábor mellett!",
+          "link": "https://borsonline.origo.hu/foci/2026/10/a-fradi-legendai-kialltak-kubatov-gabor-mellett",
+          "summary": "Hatalmas összefogás bontakozott ki a Ferencvárosnál! A klub történetének legnagyobb alakjai közül sokan közös levélben álltak ki Kubatov Gábor mellett. A Fradi október 27-i tisztújítása előtt már 89 egykori és jelenlegi sportoló, valamint edző támogatta a kezdeményezést.",
+          "source": "borsonline.hu",
+          "related": false,
+          "hot_score": 5.68
+        }
+      ]
+    },
+    "4b7957e579": {
+      "id": "4b7957e579",
+      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/farm-vip-young-g-beci-aurelio-horanyi-juli-tv2/1wqd2sp",
+      "title": "Aurelio üzent Young G Bécinek a Farm VIP után: „Többet ér, mint az én győzelmem, mert ezt magadnak csináltad”",
+      "sid": "bulvar",
+      "pubs": [
+        "blikk.hu"
+      ],
+      "score": 5.6,
+      "story": [
+        {
+          "title": "Aurelio üzent Young G Bécinek a Farm VIP után: „Többet ér, mint az én győzelmem, mert ezt magadnak csináltad”",
+          "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/farm-vip-young-g-beci-aurelio-horanyi-juli-tv2/1wqd2sp",
+          "summary": "A Farm VIP hatodik évadát Young G Béci nyerte meg, akinek többek között Aurelio is gratulált a közösségi médiában. A Való Világ korábbi győztese az előző szezonban szintén próbálkozott a TV2 farmján, neki azonban nem sikerült az élen végeznie.",
+          "source": "blikk.hu",
+          "related": false,
+          "hot_score": 5.61
+        }
+      ]
+    },
+    "0d2f808c3f": {
+      "id": "0d2f808c3f",
+      "link": "https://hvg.hu/tudomany/20261011_generativ-ai-hasznalati-statisztikak-globalis-adatok-magyarorszag-microsoft",
+      "title": "Kiderült, hogy Magyarország az egész világon a 20. legjobb helyen áll, ha az AI-használat mértékét nézzük",
+      "sid": "tech",
+      "pubs": [
+        "hvg.hu"
+      ],
+      "score": 5.5,
+      "story": [
+        {
+          "title": "Kiderült, hogy Magyarország az egész világon a 20. legjobb helyen áll, ha az AI-használat mértékét nézzük",
+          "link": "https://hvg.hu/tudomany/20261011_generativ-ai-hasznalati-statisztikak-globalis-adatok-magyarorszag-microsoft",
+          "summary": "A Microsoft legfrissebb adatai szerint a visegrádi országok közül továbbra is Magyarországon használják a legnagyobb arányban a mesterséges intelligenciát. A globális ranglistát az Egyesült Arab Emírségek vezeti.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.53
+        }
+      ]
+    },
+    "f16b987014": {
+      "id": "f16b987014",
+      "link": "https://borsonline.origo.hu/igaz-tortenetek/2026/10/repulogep-rugassal-fenyegette-a-stewardesst-egy-utas",
+      "title": "Döbbenetes jelenet a repülőn: egy utas rúgással fenyegette meg a stewardesst",
+      "sid": "bulvar",
+      "pubs": [
+        "borsonline.hu"
+      ],
+      "score": 5.5,
+      "story": [
+        {
+          "title": "Döbbenetes jelenet a repülőn: egy utas rúgással fenyegette meg a stewardesst",
+          "link": "https://borsonline.origo.hu/igaz-tortenetek/2026/10/repulogep-rugassal-fenyegette-a-stewardesst-egy-utas",
+          "summary": "Alig látszott sérülés az utason, mégis hatalmas jelenetet rendezett a repülőn, miután egy fedélzeti tálalóasztal hozzáért a könyökéhez. A stewardess sírva térdelt le elé, a férfi pedig még rúgással is fenyegette.",
+          "source": "borsonline.hu",
+          "related": false,
+          "hot_score": 5.53
+        }
+      ]
+    },
+    "69f9330387": {
+      "id": "69f9330387",
+      "link": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+      "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+      "sid": "tech",
+      "pubs": [
+        "hvg.hu"
+      ],
+      "score": 5.5,
+      "story": [
+        {
+          "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+          "link": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+          "summary": "Időnként érdemes tenni egy próbát az elsőre kissé furcsának tűnő ötletekkel is. Kutatók most napernyőket helyeztek a haldokló korallok fölé, és úgy tűnik, hogy amilyen egyszerű, olyan hatékony is ez a módszer.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.52
+        }
+      ]
+    },
+    "d4f99b6088": {
+      "id": "d4f99b6088",
+      "link": "https://hvg.hu/tudomany/20261011_sony-ecm-ax-10-okostelefonos-mikrofon",
+      "title": "Telefonra gyorsan felpattintható mikrofonnal állt elő a Sony",
+      "sid": "tech",
+      "pubs": [
+        "hvg.hu"
+      ],
+      "score": 5.5,
+      "story": [
+        {
+          "title": "Telefonra gyorsan felpattintható mikrofonnal állt elő a Sony",
+          "link": "https://hvg.hu/tudomany/20261011_sony-ecm-ax-10-okostelefonos-mikrofon",
+          "summary": "A világ első és eddig egyetlen Eclipsa Audio tanúsítvánnyal rendelkező mikrofonjaként mutatta be új, ECM-AX10 modelljét a Sony. A gyakorlatban ez teltebb és természetesebb hangzást jelenthet a videókban.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.51
         }
       ]
     }
