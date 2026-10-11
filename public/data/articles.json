@@ -1,7 +1,124 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T20:12:38+02:00",
+  "updated_at": "2026-10-11T20:25:57+02:00",
   "articles": [
+    {
+      "id": "a0dfae5e-9724-5ebf-8ce0-a7f38f5fc0a3",
+      "slug": "2026-10-11-orban-anita-hat-unios-allam-neveben-szolal-fel-luxemburgban",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Orbán Anita",
+        "külügyminiszter",
+        "Európai Unió",
+        "Luxemburg",
+        "bővítés"
+      ],
+      "title": "Orbán Anita hat uniós állam nevében szólal fel Luxemburgban",
+      "subtitle": null,
+      "lead": "Az információs biztonság és a nyugat-balkáni bővítés áll a hétfőn kezdődő luxemburgi uniós külügyminiszteri tanácsülés középpontjában. A megbeszélésen Magyarországot Orbán Anita külügyminiszter képviseli, aki több tagállam nevében is szót kap.",
+      "key_points": [
+        "A fő témák a hibrid fenyegetések elleni védekezés és a nyugat-balkáni integráció.",
+        "Orbán Anita hat másik tagállam nevében is felszólal a záró konferencián."
+      ],
+      "content": "Az Európai Unió külügyminiszterei hétfőn kezdődő luxemburgi tanácsülésükön két kiemelt területre fókuszálnak: az információmanipuláció elleni határozottabb fellépésre, valamint a közösség bővítésére. A tárgyalások elsődleges kérdéseként a külső dezinformációs kampányok és a hibrid veszélyek elleni hatékonyabb védekezés szerepel, amihez a magyar tárcavezető az uniós szolidaritás elengedhetetlen megerősítését szorgalmazza.\n\nA megbeszélés egyúttal közvetlen előkészítéseként szolgál az állam- és kormányfők e hét második felében esedékes csúcstalálkozójának, ahol az Európai Bizottság jelentése alapján vitatják meg a bővítési folyamat hatásait. Magyarország hivatalos álláspontja szerint az integrációnak szigorúan érdemalapúnak kell lennie, a Nyugat-Balkán országainak felvétele pedig elengedhetetlen a kontinens hosszú távú stabilitásához.\n\nA napot záró kormányközi konferencián a magyar diplomácia vezetője a partnerek felkérésére hazánk mellett Bulgária, Ciprus, Csehország, Görögország, Olaszország és Szlovénia képviseletében is felszólal. A közös felszólalás keretében hivatalosan is gratulálnak Montenegrónak a csatlakozási fejezetek sikeres lezárásához, ami újabb mérföldkő az ország uniós integrációjában, és megerősíti a déli szomszédság békéjének kiemelt prioritását.",
+      "content_format": "markdown",
+      "body": [
+        "Az Európai Unió külügyminiszterei hétfőn kezdődő luxemburgi tanácsülésükön két kiemelt területre fókuszálnak: az információmanipuláció elleni határozottabb fellépésre, valamint a közösség bővítésére. A tárgyalások elsődleges kérdéseként a külső dezinformációs kampányok és a hibrid veszélyek elleni hatékonyabb védekezés szerepel, amihez a magyar tárcavezető az uniós szolidaritás elengedhetetlen megerősítését szorgalmazza.",
+        "A megbeszélés egyúttal közvetlen előkészítéseként szolgál az állam- és kormányfők e hét második felében esedékes csúcstalálkozójának, ahol az Európai Bizottság jelentése alapján vitatják meg a bővítési folyamat hatásait. Magyarország hivatalos álláspontja szerint az integrációnak szigorúan érdemalapúnak kell lennie, a Nyugat-Balkán országainak felvétele pedig elengedhetetlen a kontinens hosszú távú stabilitásához.",
+        "A napot záró kormányközi konferencián a magyar diplomácia vezetője a partnerek felkérésére hazánk mellett Bulgária, Ciprus, Csehország, Görögország, Olaszország és Szlovénia képviseletében is felszólal. A közös felszólalás keretében hivatalosan is gratulálnak Montenegrónak a csatlakozási fejezetek sikeres lezárásához, ami újabb mérföldkő az ország uniós integrációjában, és megerősíti a déli szomszédság békéjének kiemelt prioritását."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 180,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anita_Orb%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Am 21. Mai 2026 empfing Außenministerin Beate Meinl-Reisinger die ungarische Außenministerin Anita Orban in Wien. Foto: © BMEIA/ Michael Gruber",
+        "credit": "Bundesministerium für europäische und internationale Angelegenheiten / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Anita_Orb%C3%A1n.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261011/hetfon-kezdodik-a-brusszeli-kulugyminiszteri-talalkozo-orban-anita-reszleteket-tett-kozze-a-temakrol-868946",
+          "title": "Hétfőn kezdődik a brüsszeli külügyminiszteri találkozó, Orbán Anita részleteket tett közzé a témákról",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:25+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T20:25:57+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261011/hetfon-kezdodik-a-brusszeli-kulugyminiszteri-talalkozo-orban-anita-reszleteket-tett-kozze-a-temakrol-868946"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/vilag/2026-10-11-orban-anita-hat-unios-allam-neveben-szolal-fel-luxemburgban/",
+      "seo": {
+        "meta_title": "Orbán Anita hat uniós állam nevében szólal fel Luxemburgban",
+        "meta_description": "Az információs biztonság és a nyugat-balkáni bővítés áll a hétfőn kezdődő luxemburgi uniós külügyminiszteri tanácsülés középpontjában. A megbeszélésen Magyarors",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-orban-anita-hat-unios-allam-neveben-szolal-fel-luxemburgban/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anita_Orb%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ddf64240-073c-52f5-96cd-5592f9a545cc",
+        "b4000623-14db-5f4b-a422-0f67da56bd55",
+        "ab495784-7a5a-5f76-8b8f-4357d3739fec"
+      ],
+      "see_also": [
+        {
+          "title": "Migránsok helyett az oroszoktól tartanak a lengyel határon",
+          "url": "/vilag/2026-10-04-migransok-helyett-az-oroszoktol-tartanak-a-lengyel-hataron/",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Brüsszel adhat jogi fegyvert a budapesti lakásválság kezeléséhez",
+          "url": "/penzvilag/2026-10-11-brusszel-adhat-jogi-fegyvert-a-budapesti-lakasvalsag-kezelesehez/",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Komoly megszorítások jöhetnek az uniós költségvetésben",
+          "url": "/vilag/2026-10-10-komoly-megszoritasok-johetnek-az-unios-koltsegvetesben/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": "ddf64240-073c-52f5-96cd-5592f9a545cc",
+      "dedupe_hash": "ecd7fe765987c3f9a0fa227d499b174b8566dd5f897c69220c7ae3579d5e71ac",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T20:25:57+02:00",
+      "updated_at": "2026-10-11T20:25:57+02:00",
+      "published_at": "2026-10-11T20:25:57+02:00",
+      "expires_at": null
+    },
     {
       "id": "4551fa18-a758-52ab-8a6f-e00022228fad",
       "slug": "2026-10-11-olajfinomitok-es-energiainfrastruktura-zelenszkij-tuzszunetet-ajanlot",
