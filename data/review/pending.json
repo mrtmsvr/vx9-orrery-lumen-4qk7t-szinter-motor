@@ -11466,12 +11466,12 @@
         "A modern és munkaigényes desszertek ára az 1500–2000 forintos sávba esik.",
         "A különleges és realisztikus desszertek ára már a 3000 forintot is súrolhatja."
       ],
-      "content": "Ipari elemzések szerint az üzemeltetési költségek emelkedése miatt az utóbbi időszakban újra elindult a sütemények drágulása a hazai cukrászdákban. Bár teljesen drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.\n\nNoha egyes helyeken továbbra is találni ezer forint körüli vagy az alatti termékeket, minél modernebb és kísérletezőbb egy desszert ízvilága, annál biztosabb, hogy mélyebben kell a zsebbe nyúlni. Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke a Portfolio-nak elmondta, hogy egy alapanyag- és munkaigényesebb modern torta vagy sütemény ára az 1500 és 2000 forint közötti sávban mozog.\n\nEgy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolja.",
+      "content": "Ipari elemzések alapján az üzemeltetési költségek emelkedése miatt a cukrászdákban a desszertek drágulása figyelhető meg. Bár drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.\n\nNoha egyes helyeken továbbra is találni ezer forint körüli vagy az alatti termékeket, minél modernebb és kísérletezőbb egy desszert ízvilága, annál biztosabb, hogy mélyebben kell a zsebbe nyúlni. Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke a Portfolio-nak elmondta, hogy egy alapanyag- és munkaigényesebb modern torta vagy sütemény ára az 1500 és 2000 forint közötti sávban mozog.\n\nEgy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolhatja.",
       "content_format": "markdown",
       "body": [
-        "Ipari elemzések szerint az üzemeltetési költségek emelkedése miatt az utóbbi időszakban újra elindult a sütemények drágulása a hazai cukrászdákban. Bár teljesen drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.",
+        "Ipari elemzések alapján az üzemeltetési költségek emelkedése miatt a cukrászdákban a desszertek drágulása figyelhető meg. Bár drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.",
         "Noha egyes helyeken továbbra is találni ezer forint körüli vagy az alatti termékeket, minél modernebb és kísérletezőbb egy desszert ízvilága, annál biztosabb, hogy mélyebben kell a zsebbe nyúlni. Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke a Portfolio-nak elmondta, hogy egy alapanyag- és munkaigényesebb modern torta vagy sütemény ára az 1500 és 2000 forint közötti sávban mozog.",
-        "Egy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolja."
+        "Egy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolhatja."
       ],
       "pull_quote": null,
       "reading_time_min": 1,
@@ -11601,15 +11601,6 @@
       "published_at": "2026-10-11T08:07:14+02:00",
       "expires_at": null,
       "hold": true,
-      "legal": {
-        "level": 2,
-        "issues": [
-          "🔴 „Ipari elemzések szerint az üzemeltetési költségek emelkedése miatt az utóbbi időszakban újra elindult a sütemé” – túl hosszú szerzői jogi átvétel → Parafrázsolja, vagy rövid idézetet használjon forráshivatkozással"
-        ],
-        "auto_fixed": [
-          "Forrásmegjelölés hozzáadása az első bekezdésben az üzemeltetési költségekkel kapcsolatos állításhoz."
-        ]
-      },
       "review": {
         "title": 0,
         "image": 0,
@@ -11620,7 +11611,11 @@
           4762,
           4763
         ],
-        "control_id": 4764
+        "control_id": 4766
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
       }
     }
   ]
