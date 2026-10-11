@@ -12134,7 +12134,7 @@
     {
       "id": "ae47a17b-17f3-5a01-9762-2864c0a4d881",
       "slug": "2026-10-11-napsutessel-ter-vissza-a-tavaszias-meleg-de-a-delkeleti-tajakon-meg-k",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -12164,14 +12164,16 @@
       "word_count": 147,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/ge4f50de997fc47c518291b6e2c216b8f04e6b8e9b6e14e52af6e0ab06f34b7527f940e835e62ad7c385be19aa3083ea2ce980ed52ff32f364fc86d318b63fff7_1280.jpg",
-        "width": 6000,
-        "height": 4000,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/15bcd10161991520.jpg",
+        "width": 5500,
+        "height": 3094,
         "kind": "photo",
-        "alt": "glass, window, rain, raindrops, wet, water droplets, rainy, rainy weather, trickle, nature, rainy day, water, droplets",
-        "credit": "Joshua_seajw92 / Pixabay",
+        "alt": "girl, umbrella, rain, park, autumn, blue, nature, rainy day, blue rain, blue park, blue umbrella",
+        "credit": "xusenru / Pixabay",
         "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/glass-window-rain-raindrops-wet-2654887/"
+        "source_url": "https://pixabay.com/photos/girl-umbrella-rain-park-autumn-1438138/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/15bcd10161991520.jpg",
+        "orig_url": "https://pixabay.com/get/gc7d424ec623ae8574f499d45da2c12321663e1393f75449f498d26b3f97f8ada12668f006f39010517732383b99361b8305717c4645dc47bafeb25d3af0025a9_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12276,7 +12278,7 @@
         "meta_title": "Napsütéssel tér vissza a tavaszias meleg, de a délkeleti táj",
         "meta_description": "Nem mindenhol alakul kedvezően a vasárnapi időjárás: a délkeleti országrészben tartós csapadék nehezíti a szabadtéri programokat, míg nyugaton az erős szél okoz",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-napsutessel-ter-vissza-a-tavaszias-meleg-de-a-delkeleti-tajakon-meg-k/",
-        "og_image": "https://pixabay.com/get/ge4f50de997fc47c518291b6e2c216b8f04e6b8e9b6e14e52af6e0ab06f34b7527f940e835e62ad7c385be19aa3083ea2ce980ed52ff32f364fc86d318b63fff7_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/15bcd10161991520.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12293,9 +12295,9 @@
       "dedupe_hash": "786f74d6ca26b536dd4dfb9e2fcd3cd6c32c473c19d9d34613e3315d947e62c8",
       "pipeline_run_id": "38144117221",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T16:00:22+02:00",
-      "updated_at": "2026-10-11T16:00:22+02:00",
-      "published_at": "2026-10-11T16:00:22+02:00",
+      "created_at": "2026-10-11T17:03:28+02:00",
+      "updated_at": "2026-10-11T17:03:28+02:00",
+      "published_at": "2026-10-11T17:03:28+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12308,9 +12310,9 @@
         "msg_ids": [],
         "control_id": 4949,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 17:03 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T17:03:03+02:00"
+      "live": true
     },
     {
       "id": "6f507f57-e778-5dcb-9186-cbd2cefc7713",

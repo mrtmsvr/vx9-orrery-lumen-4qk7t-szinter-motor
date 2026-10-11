@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T16:43:09+02:00",
+  "updated_at": "2026-10-11T17:03:28+02:00",
   "articles": [
+    {
+      "id": "ae47a17b-17f3-5a01-9762-2864c0a4d881",
+      "slug": "2026-10-11-napsutessel-ter-vissza-a-tavaszias-meleg-de-a-delkeleti-tajakon-meg-k",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "időjárás",
+        "HungaroMet",
+        "előrejelzés",
+        "csapadék"
+      ],
+      "title": "Napsütéssel tér vissza a tavaszias meleg, de a délkeleti tájakon még kitart az eső",
+      "subtitle": null,
+      "lead": "Nem mindenhol alakul kedvezően a vasárnapi időjárás: a délkeleti országrészben tartós csapadék nehezíti a szabadtéri programokat, míg nyugaton az erős szél okoz kellemetlen perceket. Napközben azonban nyugat felől fokozatosan felszakadozik a felhőzet, és egyre többfelé kisüt a nap.",
+      "key_points": [
+        "A délkeleti vármegyékben tartós, helyenként jelentős mennyiségű eső várható.",
+        "Nyugaton élénk, helyenként erős északnyugati, északi szél fúj.",
+        "Napközben nyugat felől csökken a felhőzet, és az ország nagy részén naposra fordul az idő, kivéve keleten.",
+        "A nappali csúcsértékek 13 és 21 fok között alakulnak."
+      ],
+      "content": "A HungaroMet országos előrejelzése szerint a borongós reggelt követően vasárnap napközben nyugat felől határozott javulás kezdődik, egyre többfelé szakadozik fel a felhőzet. A keleti országrészben ezzel szemben estig borult marad az ég, és a délkeleti tájakon tartós esőre kell számítani.\n\nA csapadék napközben egyre inkább a keleti határvidékre szorul vissza, de estére ott is mindenütt megszűnik az esőzés. Ezzel párhuzamosan az ország nyugati felén élénk, helyenként erős északnyugati, északi szél fúj, estefelé pedig nyugaton néhol kisebb eső, zápor is előfordulhat.\n\nA hőmérséklet minimuma reggel 8 és 13 fok között alakul, a nappali csúcsértékek pedig 13 és 21 fok között szóródnak. A leghűvösebb idő a tartósan csapadékos keleti tájakon várható.",
+      "content_format": "markdown",
+      "body": [
+        "A HungaroMet országos előrejelzése szerint a borongós reggelt követően vasárnap napközben nyugat felől határozott javulás kezdődik, egyre többfelé szakadozik fel a felhőzet. A keleti országrészben ezzel szemben estig borult marad az ég, és a délkeleti tájakon tartós esőre kell számítani.",
+        "A csapadék napközben egyre inkább a keleti határvidékre szorul vissza, de estére ott is mindenütt megszűnik az esőzés. Ezzel párhuzamosan az ország nyugati felén élénk, helyenként erős északnyugati, északi szél fúj, estefelé pedig nyugaton néhol kisebb eső, zápor is előfordulhat.",
+        "A hőmérséklet minimuma reggel 8 és 13 fok között alakul, a nappali csúcsértékek pedig 13 és 21 fok között szóródnak. A leghűvösebb idő a tartósan csapadékos keleti tájakon várható."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 147,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/15bcd10161991520.jpg",
+        "width": 5500,
+        "height": 3094,
+        "kind": "photo",
+        "alt": "girl, umbrella, rain, park, autumn, blue, nature, rainy day, blue rain, blue park, blue umbrella",
+        "credit": "xusenru / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/girl-umbrella-rain-park-autumn-1438138/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/15bcd10161991520.jpg",
+        "orig_url": "https://pixabay.com/get/gc7d424ec623ae8574f499d45da2c12321663e1393f75449f498d26b3f97f8ada12668f006f39010517732383b99361b8305717c4645dc47bafeb25d3af0025a9_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://borsonline.origo.hu/kozelet/2026/10/idojaras-elorejelzes-szakado-eso-vasarnap",
+          "title": "Szakadó eső és erős szél csaphat le vasárnap – mutatjuk, hol süthet ki végre a nap",
+          "publisher": "borsonline.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T16:00:22+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T17:03:28+02:00"
+      },
+      "hot_score": 5.78,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://borsonline.origo.hu/kozelet/2026/10/idojaras-elorejelzes-szakado-eso-vasarnap"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/kozelet/2026-10-11-napsutessel-ter-vissza-a-tavaszias-meleg-de-a-delkeleti-tajakon-meg-k/",
+      "seo": {
+        "meta_title": "Napsütéssel tér vissza a tavaszias meleg, de a délkeleti táj",
+        "meta_description": "Nem mindenhol alakul kedvezően a vasárnapi időjárás: a délkeleti országrészben tartós csapadék nehezíti a szabadtéri programokat, míg nyugaton az erős szél okoz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-napsutessel-ter-vissza-a-tavaszias-meleg-de-a-delkeleti-tajakon-meg-k/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/15bcd10161991520.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "786f74d6ca26b536dd4dfb9e2fcd3cd6c32c473c19d9d34613e3315d947e62c8",
+      "pipeline_run_id": "38144117221",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T17:03:28+02:00",
+      "updated_at": "2026-10-11T17:03:28+02:00",
+      "published_at": "2026-10-11T17:03:28+02:00",
+      "expires_at": null
+    },
     {
       "id": "b4000623-14db-5f4b-a422-0f67da56bd55",
       "slug": "2026-10-11-brusszel-adhat-jogi-fegyvert-a-budapesti-lakasvalsag-kezelesehez",
