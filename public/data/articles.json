@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T09:07:36+02:00",
+  "updated_at": "2026-10-11T09:27:47+02:00",
   "articles": [
+    {
+      "id": "16915aa5-1a56-5ed0-8d8d-54efdcf6b6b1",
+      "slug": "2026-10-11-mar-a-ketezer-forintos-suti-sem-szamit-ritkasagnak",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "gazdaság",
+        "árak",
+        "cukrászda",
+        "infláció",
+        "pénzvilág"
+      ],
+      "title": "Már a kétezer forintos süti sem számít ritkaságnak",
+      "subtitle": null,
+      "lead": "Az utóbbi időszakban a modern, munkaigényes sütemények ára az 1500–2000 forintos sávban mozog, míg a realisztikus desszertek a 3000 forintot is súrolják.",
+      "key_points": [
+        "A modern, alapanyag- és munkaigényesebb torták vagy desszertek ára 1500-2000 forint között mozog.",
+        "A modern és munkaigényes desszertek ára az 1500–2000 forintos sávba esik.",
+        "A különleges és realisztikus desszertek ára már a 3000 forintot is súrolhatja."
+      ],
+      "content": "Ipari elemzések alapján az üzemeltetési költségek emelkedése miatt a cukrászdákban a desszertek drágulása figyelhető meg. Bár drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.\n\nNoha egyes helyeken továbbra is találni ezer forint körüli vagy az alatti termékeket, minél modernebb és kísérletezőbb egy desszert ízvilága, annál biztosabb, hogy mélyebben kell a zsebbe nyúlni. Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke a Portfolio-nak elmondta, hogy egy alapanyag- és munkaigényesebb modern torta vagy sütemény ára az 1500 és 2000 forint közötti sávban mozog.\n\nEgy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolhatja.",
+      "content_format": "markdown",
+      "body": [
+        "Ipari elemzések alapján az üzemeltetési költségek emelkedése miatt a cukrászdákban a desszertek drágulása figyelhető meg. Bár drasztikus áremelésről nincs szó, a mindennapokban a modern desszertekért 1500-2000 forintot kérnek, a realisztikus desszertek ára pedig a 3000 forintot is súrolja.",
+        "Noha egyes helyeken továbbra is találni ezer forint körüli vagy az alatti termékeket, minél modernebb és kísérletezőbb egy desszert ízvilága, annál biztosabb, hogy mélyebben kell a zsebbe nyúlni. Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke a Portfolio-nak elmondta, hogy egy alapanyag- és munkaigényesebb modern torta vagy sütemény ára az 1500 és 2000 forint közötti sávban mozog.",
+        "Egy árkategóriával feljebb találhatók a népszerű, realisztikus desszertek, amelyek ára sok esetben már a 3000 forintot is súrolhatja."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 139,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Slice_of_traditional_Skradin_cake-bs.jpg/1280px-Slice_of_traditional_Skradin_cake-bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A slice of traditional Skradin cake (Skradinska torta), made with walnuts, almonds, and chocolate glaze, photographed in Skradin, Šibenik-Knin County.",
+        "credit": "Minja Klarić / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Slice_of_traditional_Skradin_cake-bs.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261010/egy-szelet-suti-ketezerert-mar-ez-sem-szamit-ritkasagnak-867410",
+          "title": "Egy szelet süti kétezerért? Már ez sem számít ritkaságnak",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T08:07:14+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ennek ellenére szerencsére van fizetőképes kereslet, még ha a kosárérték folyamatosan csökken is",
+        "who": "Erdélyi Balázs, a Magyar Cukrász Ipartestület elnöke",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T09:27:47+02:00"
+      },
+      "hot_score": 5.84,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261010/egy-szelet-suti-ketezerert-mar-ez-sem-szamit-ritkasagnak-867410"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/penzvilag/2026-10-11-mar-a-ketezer-forintos-suti-sem-szamit-ritkasagnak/",
+      "seo": {
+        "meta_title": "Már a kétezer forintos süti sem számít ritkaságnak",
+        "meta_description": "Az utóbbi időszakban a modern, munkaigényes sütemények ára az 1500–2000 forintos sávban mozog, míg a realisztikus desszertek a 3000 forintot is súrolják.",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-11-mar-a-ketezer-forintos-suti-sem-szamit-ritkasagnak/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Slice_of_traditional_Skradin_cake-bs.jpg/1280px-Slice_of_traditional_Skradin_cake-bs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ebd76024d820556151764a8b25f5ae5fbdc3862f77c29f60facc6a41580dbae4",
+      "pipeline_run_id": "38116045283",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T09:27:47+02:00",
+      "updated_at": "2026-10-11T09:27:47+02:00",
+      "published_at": "2026-10-11T09:27:47+02:00",
+      "expires_at": null,
+      "hold": true
+    },
     {
       "id": "80637377-864c-51a0-a6e7-1970ca80ee61",
       "slug": "2026-10-11-sulyos-hibakra-hivatkozva-kovetel-veszfeket-a-technologiai-orias-veze",
