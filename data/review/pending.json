@@ -10917,9 +10917,9 @@
       "live": true
     },
     {
-      "id": "636fd2df-b9b0-56c6-80f4-c865c90c4512",
-      "slug": "2026-10-11-veszfeket-kovetel-a-microsoft-vezetoje",
-      "status": "pending",
+      "id": "80637377-864c-51a0-a6e7-1970ca80ee61",
+      "slug": "2026-10-11-sulyos-hibakra-hivatkozva-kovetel-veszfeket-a-technologiai-orias-veze",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -10929,7 +10929,7 @@
         "kiberbiztonság",
         "technológia"
       ],
-      "title": "Vészféket követel a Microsoft vezetője",
+      "title": "Súlyos hibákra hivatkozva követel vészféket a technológiai óriás vezére",
       "subtitle": null,
       "lead": "Satya Nadella, a Microsoft vezérigazgatója arra figyelmeztetett, hogy a nagy teljesítményű mesterségesintelligencia-modelleket potenciális belső fenyegetésként kell kezelni. A vállalatoknak szerinte önálló vészfékrendszereket kell kiépíteniük az önállóan cselekvő ágensmodellek kordában tartására.",
       "key_points": [
@@ -10950,16 +10950,16 @@
       "word_count": 231,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/1280px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1280px-Building92microsoft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1534,
+        "height": 800,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Microsoft CEO Satya Nadella",
-        "credit": "Brian Smale and Microsoft / Wikimedia Commons",
+        "pos": "center",
+        "alt": "Building 92 at Microsoft Corporation headquarters in Redmond, Washington. \nPhotographed by user Coolcaesar on 30 May 2016.",
+        "credit": "Coolcaesar / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg",
-        "vision_score": 10.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg",
+        "vision_score": 7.0
       },
       "inline_images": [],
       "sources": [
@@ -11061,12 +11061,12 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/tech/2026-10-11-veszfeket-kovetel-a-microsoft-vezetoje/",
+      "url": "/tech/2026-10-11-sulyos-hibakra-hivatkozva-kovetel-veszfeket-a-technologiai-orias-veze/",
       "seo": {
-        "meta_title": "Vészféket követel a Microsoft vezetője",
+        "meta_title": "Súlyos hibákra hivatkozva követel vészféket a technológiai ó",
         "meta_description": "Satya Nadella, a Microsoft vezérigazgatója arra figyelmeztetett, hogy a nagy teljesítményű mesterségesintelligencia-modelleket potenciális belső fenyegetésként ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-veszfeket-kovetel-a-microsoft-vezetoje/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/1280px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-sulyos-hibakra-hivatkozva-kovetel-veszfeket-a-technologiai-orias-veze/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1280px-Building92microsoft.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11083,9 +11083,9 @@
       "dedupe_hash": "1f7a03b1efbb441126cc7be564aded55ee253289a461fea6b9159a2c3bb87edd",
       "pipeline_run_id": "38116045283",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T08:07:14+02:00",
-      "updated_at": "2026-10-11T08:07:14+02:00",
-      "published_at": "2026-10-11T08:07:14+02:00",
+      "created_at": "2026-10-11T09:07:36+02:00",
+      "updated_at": "2026-10-11T09:07:36+02:00",
+      "published_at": "2026-10-11T09:07:36+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11103,9 +11103,9 @@
         "msg_ids": [],
         "control_id": 4759,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 09:07 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T09:07:30+02:00"
+      "live": true
     },
     {
       "id": "16915aa5-1a56-5ed0-8d8d-54efdcf6b6b1",
