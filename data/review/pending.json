@@ -12003,9 +12003,9 @@
       "live": true
     },
     {
-      "id": "a2b337d8-3333-5453-ac2a-a35fbdc17b2f",
-      "slug": "2026-10-11-megfenyegettek-a-lengyel-miniszterelnokot-elfogtak-a-donald-tusk-elle",
-      "status": "pending",
+      "id": "51a5fe5b-279f-5e6c-a90e-6663ed6311e2",
+      "slug": "2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12015,7 +12015,7 @@
         "biztonság",
         "Varsó"
       ],
-      "title": "Megfenyegették a lengyel miniszterelnököt: elfogták a Donald Tusk elleni merénylet gyanúsítottját",
+      "title": "Gyalog indult a hivatalába Donald Tusk, miután halálos merényletet terveztek ellene",
       "subtitle": null,
       "lead": "Vasárnap délelőtt rendkívüli biztonsági értekezletet hívtak össze Varsóban, miután a rendőrség értesült egy Donald Tusk lengyel kormányfő és Wladyslaw Kosiniak-Kamysz kormányfő-helyettes, védelmi miniszter ellen készülő merényletről. A hatóságok gyors akcióval Alsó-Sziléziában elfogták a gyanúsítottat.",
       "key_points": [
@@ -12216,11 +12216,11 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/vilag/2026-10-11-megfenyegettek-a-lengyel-miniszterelnokot-elfogtak-a-donald-tusk-elle/",
+      "url": "/vilag/2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter/",
       "seo": {
-        "meta_title": "Megfenyegették a lengyel miniszterelnököt: elfogták a Donald",
+        "meta_title": "Gyalog indult a hivatalába Donald Tusk, miután halálos merén",
         "meta_description": "Vasárnap délelőtt rendkívüli biztonsági értekezletet hívtak össze Varsóban, miután a rendőrség értesült egy Donald Tusk lengyel kormányfő és Wladyslaw Kosiniak-",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-megfenyegettek-a-lengyel-miniszterelnokot-elfogtak-a-donald-tusk-elle/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Donald_Tusk_%286165309851%29.jpg/1280px-Donald_Tusk_%286165309851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -12238,9 +12238,9 @@
       "dedupe_hash": "8db36c569520c7f830371170c75b739eab7dece5fdeb1d1e6f38b408170aaada",
       "pipeline_run_id": "38160288155",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T19:44:11+02:00",
-      "updated_at": "2026-10-11T19:44:11+02:00",
-      "published_at": "2026-10-11T19:44:11+02:00",
+      "created_at": "2026-10-11T20:05:53+02:00",
+      "updated_at": "2026-10-11T20:05:53+02:00",
+      "published_at": "2026-10-11T20:05:53+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12250,19 +12250,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-11T17:44:37+00:00",
-        "msg_ids": [
-          4973,
-          4974,
-          4975,
-          4976,
-          4977,
-          4978,
-          4979,
-          4980,
-          4981
-        ],
-        "control_id": 4982
-      }
+        "msg_ids": [],
+        "control_id": 4982,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }

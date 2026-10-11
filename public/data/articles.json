@@ -1,7 +1,126 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T17:23:16+02:00",
+  "updated_at": "2026-10-11T20:05:53+02:00",
   "articles": [
+    {
+      "id": "51a5fe5b-279f-5e6c-a90e-6663ed6311e2",
+      "slug": "2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Donald Tusk",
+        "Lengyelország",
+        "merénylet",
+        "biztonság",
+        "Varsó"
+      ],
+      "title": "Gyalog indult a hivatalába Donald Tusk, miután halálos merényletet terveztek ellene",
+      "subtitle": null,
+      "lead": "Vasárnap délelőtt rendkívüli biztonsági értekezletet hívtak össze Varsóban, miután a rendőrség értesült egy Donald Tusk lengyel kormányfő és Wladyslaw Kosiniak-Kamysz kormányfő-helyettes, védelmi miniszter ellen készülő merényletről. A hatóságok gyors akcióval Alsó-Sziléziában elfogták a gyanúsítottat.",
+      "key_points": [
+        "A lengyel belbiztonsági ügynökség és a rendőrség e-mailben kapott értesítést a politikusok elleni tervezett, halálos támadásról.",
+        "A fenyegetés ellenére Donald Tusk napi programja változatlan maradt, és gyalog, különösebb kíséret nélkül érkezett a hivatalába.",
+        "Marcin Kierwinski belügyminiszter bejelentése szerint a rendőrség Alsó-Sziléziában őrizetbe vette a merénylet gyanúsítottját."
+      ],
+      "content": "A lengyel biztonsági szolgálatok sürgős tanácskozást hívtak össze vasárnap, miután a hatóságok tudomására jutott, hogy egy férfi halálos támadást akar elkövetni a kormány vezető politikusai ellen. Az értesülések szerint a célkeresztbe Donald Tusk lengyel miniszterelnök és Wladyslaw Kosiniak-Kamysz kormányfő-helyettes, védelmi miniszter került.\n\nJacek Dobrzynski, a titkosszolgálatok felügyeletéért felelős miniszter szóvivője az X-en számolt be a fenyegetés súlyosságáról, hangsúlyozva, hogy a hír nem alaptalan spekuláció. A Polsat News információi szerint a rendőrség egy e-mailen keresztül értesült a tervezett merényletről, ami azonnali cselekvésre késztette a belbiztonsági szerveket.\n\nA rendkívüli helyzet ellenére a miniszterelnök nem változtatott a napirendjén: vasárnap reggel különösebb biztonsági intézkedések és extra védelem nélkül, gyalogosan sétált be a varsói kormányfői hivatalba. Ott a nap folyamán egyeztetéseket folytatott az elmúlt napok iskolai késelési esetei és az interneten terjedő erőszakos fenyegetések miatt szükséges hatósági teendőkről is.\n\nVasárnap este aztán Marcin Kierwinski belügyminiszter jelentette be a közösségi oldalon a gyors áttörést: a rendőrség Alsó-Sziléziában elfogta és őrizetbe vette azt a férfit, aki a gyanú szerint a támadást tervezte. A hatóságok az ügyben tovább folytatják a nyomozást.",
+      "content_format": "markdown",
+      "body": [
+        "A lengyel biztonsági szolgálatok sürgős tanácskozást hívtak össze vasárnap, miután a hatóságok tudomására jutott, hogy egy férfi halálos támadást akar elkövetni a kormány vezető politikusai ellen. Az értesülések szerint a célkeresztbe Donald Tusk lengyel miniszterelnök és Wladyslaw Kosiniak-Kamysz kormányfő-helyettes, védelmi miniszter került.",
+        "Jacek Dobrzynski, a titkosszolgálatok felügyeletéért felelős miniszter szóvivője az X-en számolt be a fenyegetés súlyosságáról, hangsúlyozva, hogy a hír nem alaptalan spekuláció. A Polsat News információi szerint a rendőrség egy e-mailen keresztül értesült a tervezett merényletről, ami azonnali cselekvésre késztette a belbiztonsági szerveket.",
+        "A rendkívüli helyzet ellenére a miniszterelnök nem változtatott a napirendjén: vasárnap reggel különösebb biztonsági intézkedések és extra védelem nélkül, gyalogosan sétált be a varsói kormányfői hivatalba. Ott a nap folyamán egyeztetéseket folytatott az elmúlt napok iskolai késelési esetei és az interneten terjedő erőszakos fenyegetések miatt szükséges hatósági teendőkről is.",
+        "Vasárnap este aztán Marcin Kierwinski belügyminiszter jelentette be a közösségi oldalon a gyors áttörést: a rendőrség Alsó-Sziléziában elfogta és őrizetbe vette azt a férfit, aki a gyanú szerint a támadást tervezte. A hatóságok az ügyben tovább folytatják a nyomozást."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 215,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Donald_Tusk_%286165309851%29.jpg/1280px-Donald_Tusk_%286165309851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Donald Tusk at the Wyższa Szkoła Bankowa (WSB University), Toruń.",
+        "credit": "Platforma Obywatelska RP / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_(6165309851).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas",
+          "title": "Merényletet tervezhettek Donald Tusk ellen, rendkívüli tanácskozást hívtak össze Lengyelországban",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T19:44:11+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/11/donald-tusk-fenyegetes-elfogtak-letartoztatas-lengyelorszag",
+          "title": "Elfogták a férfit, aki merényletet tervezhetett Donald Tusk ellen",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T19:44:11+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/11/lengyelorszag-donald-tusk-lehetseges-merenylet-titkosszolgalatok",
+          "title": "A lengyel rendőrség szerint merénylet készülhet Donald Tusk kormányfő és helyettese ellen",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T19:44:11+02:00"
+        }
+      ],
+      "quote": {
+        "text": "A rendőrség őrizetbe vette azt a férfit, aki Donald Tusk miniszterelnököt fenyegette és támadást tervezett ellene",
+        "who": "Marcin Kierwinski belügyminiszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T20:05:53+02:00"
+      },
+      "hot_score": 10.26,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas",
+          "https://telex.hu/kulfold/2026/10/11/donald-tusk-fenyegetes-elfogtak-letartoztatas-lengyelorszag",
+          "https://telex.hu/kulfold/2026/10/11/lengyelorszag-donald-tusk-lehetseges-merenylet-titkosszolgalatok"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/vilag/2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter/",
+      "seo": {
+        "meta_title": "Gyalog indult a hivatalába Donald Tusk, miután halálos merén",
+        "meta_description": "Vasárnap délelőtt rendkívüli biztonsági értekezletet hívtak össze Varsóban, miután a rendőrség értesült egy Donald Tusk lengyel kormányfő és Wladyslaw Kosiniak-",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Donald_Tusk_%286165309851%29.jpg/1280px-Donald_Tusk_%286165309851%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8db36c569520c7f830371170c75b739eab7dece5fdeb1d1e6f38b408170aaada",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T20:05:53+02:00",
+      "updated_at": "2026-10-11T20:05:53+02:00",
+      "published_at": "2026-10-11T20:05:53+02:00",
+      "expires_at": null
+    },
     {
       "id": "6f507f57-e778-5dcb-9186-cbd2cefc7713",
       "slug": "2026-10-11-tornacipoben-mondta-ki-a-boldogito-igent-az-ossian-frontembere",
