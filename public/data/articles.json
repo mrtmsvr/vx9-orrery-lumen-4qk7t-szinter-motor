@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T13:28:34+02:00",
+  "updated_at": "2026-10-11T13:48:55+02:00",
   "articles": [
+    {
+      "id": "c23fbaf8-55cd-5e00-b252-6e1c06575f49",
+      "slug": "2026-10-11-a-globalizacio-nem-hal-meg-csupan-atalakul",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "világgazdaság",
+        "globalizáció",
+        "technológia",
+        "digitális gazdaság"
+      ],
+      "title": "A globalizáció nem hal meg, csupán átalakul",
+      "subtitle": null,
+      "lead": "Tíz évvel a jelentős politikai fordulatok után a világgazdasági adatok azt mutatják, hogy a nemzetközi összefonódás mértéke minden eddiginél nagyobb. A folyamat hátterében a digitális infrastruktúra térnyerése áll, amely láthatatlanul, mégis meghatározó módon kapcsolja össze a piacokat.",
+      "key_points": [
+        "A globalizációellenes politikai retorika ellenére a kereskedelmi mutatók növekedést jeleznek.",
+        "A világgazdaság motorja immár a digitális szolgáltatások és az adatközpontok rendszere.",
+        "A kínai exportvolumen és az amerikai tőkekivitel is jelentősen bővült az elmúlt évtizedben.",
+        "A mesterséges intelligencia fejlesztése globális összefogásra és a szakértői mobilitásra épít."
+      ],
+      "content": "A 2016-os év, a Brexit és az amerikai választási eredmények után sokan a globalizáció végét jövendölték. Shawn Donnan, a Bloomberg globális gazdasági szakértője szerint azonban a valóság az elméletekkel szemben azt mutatja, hogy a világgazdaság kölcsönös függőségi viszonyai tovább mélyültek. Bár a szalagcímek kereskedelmi háborúktól és regionális fegyveres konfliktusoktól hangosak, a tőke és az áruk áramlása továbbra is zavartalan.\n\nA változás legfőbb hajtóereje a digitalizáció, amely új alapokra helyezte a nemzetközi kapcsolatokat. Míg korábban a konténerszállító hajók jelentették a legfőbb összeköttetést, ma az adatközpontok szerverparkjai és a tengeralatti kábelek hálózata tölti be ezt a szerepet. Az internetfelhasználók száma globálisan elérte a 6 milliárdot, ami a 2016-os adatokhoz képest csaknem megduplázódott, ezzel egy közös digitális piacteret létrehozva.\n\nA kínai gazdaság teljesítménye is új szintre lépett: a júliusi exportadatok a tíz évvel ezelőtti szint dupláját érték el. Ezt a folyamatot a szakértők a „Kínai megrázkódtatás 2.0” néven emlegetik. Az amerikai piacok sem maradtak le a növekedésben, sőt, kereskedelmi részesedésük is bővült. Érdekes módon a digitális szektorban még a korábban nemzetbiztonsági kockázatként kezelt kínai platformok is integrálódtak az amerikai alkotói gazdaságba.\n\nA mesterséges intelligencia fejlesztése a leglátványosabb példa arra, hogy a technológiai verseny nem a bezárkózást, hanem a szoros együttműködést kényszeríti ki. A nagy techvállalatok működése elképzelhetetlen külföldi kutatók nélkül; a startupok csaknem kétharmadát bevándorlók alapították. A nemzeti határok a digitális adatok áramlása számára gyakorlatilag átjárhatóvá váltak, ami alapjaiban kérdőjelezi meg a populista politika nemzetállami keretekre építő modelljét.\n\nMagyarország számára ez a folyamat kettős kihívást jelent. Egyrészt a nyitott gazdaság és a digitális exportlehetőségek miatt elengedhetetlen az integráció a globális értékláncokba. Másrészt a hazai döntéshozók számára a nemzeti szuverenitás és a technológiai függőség egyensúlyának megtartása lesz a legfőbb gazdaságpolitikai feladat a következő években.",
+      "content_format": "markdown",
+      "body": [
+        "A 2016-os év, a Brexit és az amerikai választási eredmények után sokan a globalizáció végét jövendölték. Shawn Donnan, a Bloomberg globális gazdasági szakértője szerint azonban a valóság az elméletekkel szemben azt mutatja, hogy a világgazdaság kölcsönös függőségi viszonyai tovább mélyültek. Bár a szalagcímek kereskedelmi háborúktól és regionális fegyveres konfliktusoktól hangosak, a tőke és az áruk áramlása továbbra is zavartalan.",
+        "A változás legfőbb hajtóereje a digitalizáció, amely új alapokra helyezte a nemzetközi kapcsolatokat. Míg korábban a konténerszállító hajók jelentették a legfőbb összeköttetést, ma az adatközpontok szerverparkjai és a tengeralatti kábelek hálózata tölti be ezt a szerepet. Az internetfelhasználók száma globálisan elérte a 6 milliárdot, ami a 2016-os adatokhoz képest csaknem megduplázódott, ezzel egy közös digitális piacteret létrehozva.",
+        "A kínai gazdaság teljesítménye is új szintre lépett: a júliusi exportadatok a tíz évvel ezelőtti szint dupláját érték el. Ezt a folyamatot a szakértők a „Kínai megrázkódtatás 2.0” néven emlegetik. Az amerikai piacok sem maradtak le a növekedésben, sőt, kereskedelmi részesedésük is bővült. Érdekes módon a digitális szektorban még a korábban nemzetbiztonsági kockázatként kezelt kínai platformok is integrálódtak az amerikai alkotói gazdaságba.",
+        "A mesterséges intelligencia fejlesztése a leglátványosabb példa arra, hogy a technológiai verseny nem a bezárkózást, hanem a szoros együttműködést kényszeríti ki. A nagy techvállalatok működése elképzelhetetlen külföldi kutatók nélkül; a startupok csaknem kétharmadát bevándorlók alapították. A nemzeti határok a digitális adatok áramlása számára gyakorlatilag átjárhatóvá váltak, ami alapjaiban kérdőjelezi meg a populista politika nemzetállami keretekre építő modelljét.",
+        "Magyarország számára ez a folyamat kettős kihívást jelent. Egyrészt a nyitott gazdaság és a digitális exportlehetőségek miatt elengedhetetlen az integráció a globális értékláncokba. Másrészt a hazai döntéshozók számára a nemzeti szuverenitás és a technológiai függőség egyensúlyának megtartása lesz a legfőbb gazdaságpolitikai feladat a következő években."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 320,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Openness_of_the_world_economy_1880-2020_%28index_numbers_2008%3D100%29.jpg/1280px-Openness_of_the_world_economy_1880-2020_%28index_numbers_2008%3D100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 662,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The graph shows two periods of deglobalization (1930s and 2010s) alongs side the trend increase inglobalization since 1880",
+        "credit": "Peter a.g. van bergeijk / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Openness_of_the_world_economy_1880-2020_(index_numbers_2008%3D100).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261011_bloomberg-a-populistak-elveszitik-a-globalizacio-elleni-harcot",
+          "title": "Bloomberg: A populisták elveszítik a globalizáció elleni harcot",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T11:30:39+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T13:48:55+02:00"
+      },
+      "hot_score": 5.58,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261011_bloomberg-a-populistak-elveszitik-a-globalizacio-elleni-harcot"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/vilag/2026-10-11-a-globalizacio-nem-hal-meg-csupan-atalakul/",
+      "seo": {
+        "meta_title": "A globalizáció nem hal meg, csupán átalakul",
+        "meta_description": "Tíz évvel a jelentős politikai fordulatok után a világgazdasági adatok azt mutatják, hogy a nemzetközi összefonódás mértéke minden eddiginél nagyobb. A folyamat",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-a-globalizacio-nem-hal-meg-csupan-atalakul/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Openness_of_the_world_economy_1880-2020_%28index_numbers_2008%3D100%29.jpg/1280px-Openness_of_the_world_economy_1880-2020_%28index_numbers_2008%3D100%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d56a34be1ccd80ad7e1bc334c0d0df1cc1b932bf5d65d31052d15ab344ac03ba",
+      "pipeline_run_id": "38127525408",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T13:48:55+02:00",
+      "updated_at": "2026-10-11T13:48:55+02:00",
+      "published_at": "2026-10-11T13:48:55+02:00",
+      "expires_at": null
+    },
     {
       "id": "525e3989-7f97-5da9-816b-cc51175d2f88",
       "slug": "2026-10-11-sulyos-csapast-mertek-a-rijadi-legikikotore-tizenketten-meghaltak",
