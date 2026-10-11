@@ -11605,18 +11605,16 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-11T06:07:59+00:00",
-        "msg_ids": [
-          4760,
-          4761,
-          4762,
-          4763
-        ],
-        "control_id": 4766
+        "msg_ids": [],
+        "control_id": 4766,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:27 (✏️ → ✅ = azonnal)"
       },
       "legal": {
         "level": 0,
         "issues": []
-      }
+      },
+      "scheduled_at": "2026-10-11T09:27:30+02:00"
     }
   ]
 }
