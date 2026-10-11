@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T12:48:45+02:00",
+  "updated_at": "2026-10-11T13:08:56+02:00",
   "articles": [
+    {
+      "id": "abdaf722-935d-54fe-9282-9cdb051a01eb",
+      "slug": "2026-10-11-meglepo-kiserlet-igy-vedi-meg-a-szervezetet-egy-kis-olaj",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "vércukor",
+        "táplálkozás",
+        "kutatás"
+      ],
+      "title": "Meglepő kísérlet: így védi meg a szervezetet egy kis olaj",
+      "subtitle": null,
+      "lead": "Nem mindegy, milyen sorrendben fogyasztjuk az ételeket: egy friss kutatás szerint, ha még a szénhidrátok előtt zsiradékot viszünk be, azzal jelentősen tompíthatjuk a vércukorszint emelkedését. A felfedezés új megvilágításba helyezi a cukorbetegség kezelését és a mindennapi étkezési szokásokat.",
+      "key_points": [
+        "A zsiradékok szénhidrátok előtti fogyasztása lassítja a gyomor ürülését.",
+        "A folyamatban meghatározó szerepük van az inkretinhormonoknak, például a GLP-1-nek."
+      ],
+      "content": "Apró változtatás az étkezési sorrendben is elég lehet ahhoz, hogy elkerüljük a kellemetlen vércukor-ingadozást. A tudósok egereken vizsgálták, milyen hatással van a szervezetre, ha szénhidrátfogyasztás előtt olívaolajat vesznek magukhoz: az eredmények szerint ez a módszer drasztikusan mérsékli az étkezést követő hirtelen glükózszint-emelkedést.\n\nKorábbi klinikai vizsgálatokból már ismert, hogy ha zöldségeket, fehérjéket vagy zsírokat eszünk a szénhidrátok előtt, az segít kordában tartani a cukorszintet. Ez a módszer praktikus alternatívát kínál, mivel nem igényli teljes ételcsoportok kizárását, ami sok diéta esetében komoly nehézséget jelent.\n\nA tudományos magyarázat két fő tényezőn alapul. Az egyik a gyomor ürülésének lassulása, ami miatt a táplálék fokozatosabban jut át a gyomorból a vékonybélbe, a másik pedig az inkretineknek nevezett hormonok – köztük a GLP-1 – fokozott felszabadulása, amelyek aktívan részt vesznek a glükózszabályozásban.\n\nA Kiotói Egyetem kutatócsoportja részletesen elemezte az olajfogyasztás időzítésének hatásait. Daisuke Yabe és munkatársai éhgyomorra vizsgálták az egereket, amelyeket három csoportra osztottak: az egyik csoport vizet, a másik olívaolajat, majd tizenöt perc elteltével glükózt kapott, míg a harmadik csoportnál fordított sorrendet alkalmaztak.\n\nA mérések során világossá vált, hogy az olaj előzetes bevitele nemcsak a gyomorműködést lassította, hanem serkentette a glukagon, a GIP és a GLP-1 hormonok elválasztását is. Ez a kedvező mechanizmus ráadásul az inzulinhiányos egereknél is működőképes maradt.",
+      "content_format": "markdown",
+      "body": [
+        "Apró változtatás az étkezési sorrendben is elég lehet ahhoz, hogy elkerüljük a kellemetlen vércukor-ingadozást. A tudósok egereken vizsgálták, milyen hatással van a szervezetre, ha szénhidrátfogyasztás előtt olívaolajat vesznek magukhoz: az eredmények szerint ez a módszer drasztikusan mérsékli az étkezést követő hirtelen glükózszint-emelkedést.",
+        "Korábbi klinikai vizsgálatokból már ismert, hogy ha zöldségeket, fehérjéket vagy zsírokat eszünk a szénhidrátok előtt, az segít kordában tartani a cukorszintet. Ez a módszer praktikus alternatívát kínál, mivel nem igényli teljes ételcsoportok kizárását, ami sok diéta esetében komoly nehézséget jelent.",
+        "A tudományos magyarázat két fő tényezőn alapul. Az egyik a gyomor ürülésének lassulása, ami miatt a táplálék fokozatosabban jut át a gyomorból a vékonybélbe, a másik pedig az inkretineknek nevezett hormonok – köztük a GLP-1 – fokozott felszabadulása, amelyek aktívan részt vesznek a glükózszabályozásban.",
+        "A Kiotói Egyetem kutatócsoportja részletesen elemezte az olajfogyasztás időzítésének hatásait. Daisuke Yabe és munkatársai éhgyomorra vizsgálták az egereket, amelyeket három csoportra osztottak: az egyik csoport vizet, a másik olívaolajat, majd tizenöt perc elteltével glükózt kapott, míg a harmadik csoportnál fordított sorrendet alkalmaztak.",
+        "A mérések során világossá vált, hogy az olaj előzetes bevitele nemcsak a gyomorműködést lassította, hanem serkentette a glukagon, a GIP és a GLP-1 hormonok elválasztását is. Ez a kedvező mechanizmus ráadásul az inzulinhiányos egereknél is működőképes maradt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 245,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/667d7306f069d81c.jpg",
+        "width": 4787,
+        "height": 3144,
+        "kind": "photo",
+        "alt": "olive oil, oil, food, carafe, mediterranean, bottle, vegetable oil, healthy, container, glass container, glass bottle, olive oil, olive oil, olive oil, olive oil, olive oil, oil, oil",
+        "credit": "Couleur / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/olive-oil-oil-food-carafe-1596417/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/667d7306f069d81c.jpg",
+        "orig_url": "https://pixabay.com/get/ga58c84c1281525a9d5f7bf937e7f1e8378daebc7c5c8a9468db2d824bc00de47a6fa0fc4159481edab12a8cfc830b1116910cde270d47d74528dc086f17d012b_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
+          "title": "Eating olive oil before carbs has a surprising effect on blood sugar",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-11T11:30:38+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Our group has long been interested in practical dietary approaches that people can continue in everyday life. Meal-sequencing is appealing because it merely changes how a meal is eaten rather than requiring people to avoid entire food groups.",
+        "who": "Daisuke Yabe, a kutatás vezetője",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T13:08:56+02:00"
+      },
+      "hot_score": 5.78,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261008102700.htm"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/eletmod/2026-10-11-meglepo-kiserlet-igy-vedi-meg-a-szervezetet-egy-kis-olaj/",
+      "seo": {
+        "meta_title": "Meglepő kísérlet: így védi meg a szervezetet egy kis olaj",
+        "meta_description": "Nem mindegy, milyen sorrendben fogyasztjuk az ételeket: egy friss kutatás szerint, ha még a szénhidrátok előtt zsiradékot viszünk be, azzal jelentősen tompíthat",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-11-meglepo-kiserlet-igy-vedi-meg-a-szervezetet-egy-kis-olaj/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/667d7306f069d81c.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8836cbdefbaafdb6d6437c2dbe508b6342c0d74884359c7a55c1e76c677f3f11",
+      "pipeline_run_id": "38127525408",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T13:08:56+02:00",
+      "updated_at": "2026-10-11T13:08:56+02:00",
+      "published_at": "2026-10-11T13:08:56+02:00",
+      "expires_at": null
+    },
     {
       "id": "86fcfe14-c493-5a62-bcb3-b2c110961acd",
       "slug": "2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev",
