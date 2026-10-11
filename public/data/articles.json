@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T14:08:45+02:00",
+  "updated_at": "2026-10-11T14:28:54+02:00",
   "articles": [
+    {
+      "id": "2b6b7aed-2833-517d-b112-3ce5928f8041",
+      "slug": "2026-10-11-az-amerikai-hadsereg-vegleg-elhagyta-irakot",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Irak",
+        "USA",
+        "Irán",
+        "külpolitika"
+      ],
+      "title": "Az amerikai hadsereg végleg elhagyta Irakot",
+      "subtitle": null,
+      "lead": "Az utolsó amerikai katonák is elhagyták Irak területét, lezárva ezzel a közel negyedszázados katonai jelenlétet. A kivonulás hatására a térségben egy biztonsági vákuum keletkezhet, amelyet Irán és az általa támogatott fegyveres csoportok próbálhatnak kitölteni.",
+      "key_points": [
+        "Az utolsó amerikai egységek a kurd régióbeli Erbílből távoztak a múlt szerdán.",
+        "A helyi lakosság vegyes érzelmekkel, félelemmel és örömmel fogadta a döntést.",
+        "Szakértők szerint a kivonulás jelentős biztonsági kockázatokat rejt a térség számára.",
+        "Ali Faleh al-Zaidi iraki kormányfőre hárul a felelősség az ország stabilizálásáért."
+      ],
+      "content": "Hivatalosan is befejeződött az Egyesült Államok iraki katonai szerepvállalása, miután a hét közepén az utolsó alakulatok is elhagyták az észak-iraki félautonóm kurd régióban található Erbíl városát. Az amerikai jelenlét lezárulása egy hosszú, fegyveres konfliktusokkal, felekezeti háborúkkal és súlyos terrorcselekményekkel terhelt korszak végét jelenti.\n\nA távozás hírére az ország több pontján örömünnep tört ki, ugyanakkor a helyi lakosok jelentős része aggódik a jövő miatt. Omar al-Husszeini, egy moszuli fotós a The New York Times lapnak nyilatkozva rámutatott arra, hogy a lakosság körében az örömöt gyakran félelem kíséri, mivel a több évtizedes beavatkozás során sokan elvesztették családtagjaikat vagy váltak maguk is áldozattá.\n\nAz amerikai hadsereg kivonulása nyomán kialakuló biztonsági vákuumot Irán és az általa támogatott helyi fegyveres csoportok használhatják ki befolyásuk növelésére. Bár az iraki vezetés elkötelezett a fellendülés mellett, az ország instabil és sebezhető maradt, ami komoly geopolitikai kockázatot jelent a közel-keleti régióban.\n\nDonald Trump amerikai elnök a döntéssel kapcsolatban optimistán nyilatkozott, hangsúlyozva, hogy a feladat mostantól az iraki kormányfőé, Ali Faleh al-Zaidi-é, akinek a képességeiben a washingtoni vezetés bízik a rend helyreállítása terén. Magyarország számára a térség stabilitása kiemelten fontos, mivel az iraki biztonsági helyzet romlása közvetlen hatással lehet a globális energiaellátásra és a migrációs folyamatokra.",
+      "content_format": "markdown",
+      "body": [
+        "Hivatalosan is befejeződött az Egyesült Államok iraki katonai szerepvállalása, miután a hét közepén az utolsó alakulatok is elhagyták az észak-iraki félautonóm kurd régióban található Erbíl városát. Az amerikai jelenlét lezárulása egy hosszú, fegyveres konfliktusokkal, felekezeti háborúkkal és súlyos terrorcselekményekkel terhelt korszak végét jelenti.",
+        "A távozás hírére az ország több pontján örömünnep tört ki, ugyanakkor a helyi lakosok jelentős része aggódik a jövő miatt. Omar al-Husszeini, egy moszuli fotós a The New York Times lapnak nyilatkozva rámutatott arra, hogy a lakosság körében az örömöt gyakran félelem kíséri, mivel a több évtizedes beavatkozás során sokan elvesztették családtagjaikat vagy váltak maguk is áldozattá.",
+        "Az amerikai hadsereg kivonulása nyomán kialakuló biztonsági vákuumot Irán és az általa támogatott helyi fegyveres csoportok használhatják ki befolyásuk növelésére. Bár az iraki vezetés elkötelezett a fellendülés mellett, az ország instabil és sebezhető maradt, ami komoly geopolitikai kockázatot jelent a közel-keleti régióban.",
+        "Donald Trump amerikai elnök a döntéssel kapcsolatban optimistán nyilatkozott, hangsúlyozva, hogy a feladat mostantól az iraki kormányfőé, Ali Faleh al-Zaidi-é, akinek a képességeiben a washingtoni vezetés bízik a rend helyreállítása terén. Magyarország számára a térség stabilitása kiemelten fontos, mivel az iraki biztonsági helyzet romlása közvetlen hatással lehet a globális energiaellátásra és a migrációs folyamatokra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 235,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/1950s_CIA_map_of_Iraq_%E2%80%93_tribes_of_Iraq.jpg/1280px-1950s_CIA_map_of_Iraq_%E2%80%93_tribes_of_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1052,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Map of Iraq prepared by the United States Central Intelligence Agency's Map Branch circa 1950. Names of Arab tribes are written in black; names of Kurdish tribes are in green. An \"Index of Tribes is i",
+        "credit": "Map Service Center, Central Intelligence Agency, United States National Security / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:1950s_CIA_map_of_Iraq_%E2%80%93_tribes_of_Iraq.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261011_amerikai-kivonulas-irakbol-siita-miliciak-iran-elonyos-helyzetben-a-holnap-hatarai-hvg",
+          "title": "Pénzben és halottakban is sokba került Amerikának a most lezárt iraki háború, amiből Irán húzhat hasznot",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T11:30:41+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Most, amikor az amerikai katonai kivonulás befejezéséről beszélünk, az örömünk tele van félelemmel",
+        "who": "Omar al-Husszeini, moszuli fotós",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T14:28:54+02:00"
+      },
+      "hot_score": 5.52,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261011_amerikai-kivonulas-irakbol-siita-miliciak-iran-elonyos-helyzetben-a-holnap-hatarai-hvg"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/vilag/2026-10-11-az-amerikai-hadsereg-vegleg-elhagyta-irakot/",
+      "seo": {
+        "meta_title": "Az amerikai hadsereg végleg elhagyta Irakot",
+        "meta_description": "Az utolsó amerikai katonák is elhagyták Irak területét, lezárva ezzel a közel negyedszázados katonai jelenlétet. A kivonulás hatására a térségben egy biztonsági",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-az-amerikai-hadsereg-vegleg-elhagyta-irakot/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/1950s_CIA_map_of_Iraq_%E2%80%93_tribes_of_Iraq.jpg/1280px-1950s_CIA_map_of_Iraq_%E2%80%93_tribes_of_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "255f308bebbf0085cf17866c495985c80bcf4bdfabd7706eccbc5f50b1850fd2",
+      "pipeline_run_id": "38127525408",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T14:28:54+02:00",
+      "updated_at": "2026-10-11T14:28:54+02:00",
+      "published_at": "2026-10-11T14:28:54+02:00",
+      "expires_at": null
+    },
     {
       "id": "7aeb2a6e-5836-5241-892e-0dc0ce42f757",
       "slug": "2026-10-11-ott-van-a-csomagolasokban-es-a-poharakban-is-ezert-veszelyes-a-poliet",
