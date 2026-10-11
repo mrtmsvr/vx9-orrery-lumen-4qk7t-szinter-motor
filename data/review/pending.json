@@ -10816,7 +10816,7 @@
     {
       "id": "a6db5722-84ee-5e99-b14f-1e265ca95c6b",
       "slug": "2026-10-11-mar-nem-csak-az-ember-fizet-erkezik-a-mesterseges-intelligencia-penzt",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -10846,15 +10846,15 @@
       "word_count": 201,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/1280px-European_Stock_Market_concept_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/a6db572284-1791713375-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/a6db572284-1791713375-1.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "In this graphic, the words European Stock Market can be seen on a background of stock market data along with the European flag.",
-        "credit": "forextime.com / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:European_Stock_Market_concept_image.jpg"
+        "alt": "Már nem csak az ember fizet: érkezik a mesterséges intelligencia pénztárcája",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -11002,7 +11002,7 @@
         "meta_title": "Már nem csak az ember fizet: érkezik a mesterséges intellige",
         "meta_description": "A McKinsey friss elemzése szerint jelentősen lelassult a globális fizetési piac növekedése, miközben az értékteremtés fókusza a háttérben működő technológiákra ",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-11-mar-nem-csak-az-ember-fizet-erkezik-a-mesterseges-intelligencia-penzt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/1280px-European_Stock_Market_concept_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/a6db572284-1791713375-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11019,9 +11019,9 @@
       "dedupe_hash": "d86616d4ff887022dcc7502b0e576d18cac2c4447ab587e8454c8e0fca5bbcdb",
       "pipeline_run_id": "38127525408",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T11:30:32+02:00",
-      "updated_at": "2026-10-11T11:30:32+02:00",
-      "published_at": "2026-10-11T11:30:32+02:00",
+      "created_at": "2026-10-11T14:48:38+02:00",
+      "updated_at": "2026-10-11T14:48:38+02:00",
+      "published_at": "2026-10-11T14:48:38+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11034,9 +11034,9 @@
         "msg_ids": [],
         "control_id": 4895,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 14:48 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T14:48:30+02:00"
+      "live": true
     },
     {
       "id": "86fcfe14-c493-5a62-bcb3-b2c110961acd",
