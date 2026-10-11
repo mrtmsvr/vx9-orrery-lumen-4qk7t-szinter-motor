@@ -12563,7 +12563,7 @@
     {
       "id": "dc85bc29-ca62-5edd-b9ed-452fadcb4182",
       "slug": "2026-10-11-magyar-peter-exkluziv-vallomasa-a-karmelitabol",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -12594,17 +12594,7 @@
       "reading_time_min": 1,
       "word_count": 192,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg/1280px-Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapest, kilátás a Karmelita kolostor felé",
-        "credit": "Christo / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg"
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -12728,7 +12718,7 @@
         "meta_title": "Magyar Péter exkluzív vallomása a Karmelitából",
         "meta_description": "Magyar Péter a legnagyobb finn napilapnak adott interjút a Karmelitában, amelyben többek között a külpolitikáról, a fegyverszállításokról és a hazai közélet kér",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-magyar-peter-exkluziv-vallomasa-a-karmelitabol/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg/1280px-Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12753,9 +12743,9 @@
       "dedupe_hash": "b08fd108b47edb691fbfe4435220c663eb7e5363671f98abbeec3c905f292617",
       "pipeline_run_id": "38160288155",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T20:06:21+02:00",
-      "updated_at": "2026-10-11T20:06:21+02:00",
-      "published_at": "2026-10-11T20:06:21+02:00",
+      "created_at": "2026-10-11T22:26:12+02:00",
+      "updated_at": "2026-10-11T22:26:12+02:00",
+      "published_at": "2026-10-11T22:26:12+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -12774,7 +12764,7 @@
         "msg_ids": [],
         "control_id": 5042,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:25 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Peter Magyar",
@@ -12795,7 +12785,7 @@
         "press conference microphone",
         "parliament building facade"
       ],
-      "scheduled_at": "2026-10-11T22:25:53+02:00"
+      "live": true
     },
     {
       "id": "05ae2b3b-ad11-5eb2-b247-43ef75460f56",
