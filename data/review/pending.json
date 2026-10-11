@@ -12318,14 +12318,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-11T14:00:47+00:00",
-        "msg_ids": [
-          4938,
-          4939,
-          4940,
-          4941
-        ],
-        "control_id": 4942
-      }
+        "msg_ids": [],
+        "control_id": 4942,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:43 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T16:43:03+02:00"
     },
     {
       "id": "ae47a17b-17f3-5a01-9762-2864c0a4d881",
