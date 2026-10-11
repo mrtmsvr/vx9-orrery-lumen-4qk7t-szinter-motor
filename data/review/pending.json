@@ -12499,16 +12499,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-11T14:00:52+00:00",
-        "msg_ids": [
-          4943,
-          4944,
-          4945,
-          4946,
-          4947,
-          4948
-        ],
-        "control_id": 4949
-      }
+        "msg_ids": [],
+        "control_id": 4949,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:03 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T17:03:03+02:00"
     },
     {
       "id": "3951a129-1fc5-549c-8bf0-d55c12fb5afc",
