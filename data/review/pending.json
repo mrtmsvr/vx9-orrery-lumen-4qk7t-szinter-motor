@@ -10380,9 +10380,9 @@
       "live": true
     },
     {
-      "id": "0d8f621d-05d0-52bb-887f-26157e5b0cba",
-      "slug": "2026-10-11-trump-olcsobb-dizelt-intezett-az-eu-inkabb-szigorit",
-      "status": "pending",
+      "id": "274853b8-feda-52f6-b59e-c928acd6cb79",
+      "slug": "2026-10-11-olajalkut-kotott-trump-es-putyin-az-unio-azonnal-ralep-a-fekre",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -10392,7 +10392,7 @@
         "Kaja Kallas",
         "Szankciók"
       ],
-      "title": "Trump olcsóbb dízelt intézett, az EU inkább szigorít",
+      "title": "Olajalkut kötött Trump és Putyin, az unió azonnal rálép a fékre",
       "subtitle": null,
       "lead": "Donald Trump és Vlagyimir Putyin megállapodása nyomán orosz gázolaj áramlik a világpiacra az amerikai korlátozások ideiglenes feloldásával, miközben az Európai Unió az eddigi legnagyobb büntetőcsomagjával vágna vissza. A két ellentétes döntés egyszerre alakítja át az üzemanyagárak kilátásait és a szankciós politikát.",
       "key_points": [
@@ -10413,16 +10413,15 @@
       "word_count": 321,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg/1280px-Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/0d8f621d05-1791698805-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0d8f621d05-1791698805-0.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "The inauguration was held in the St Andrew Hall of the Grand Kremlin Palace.",
-        "credit": "Presidential Press and Information Office / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Vladimir_Putin_taking_the_Presidential_Oath,_7_May_2000.jpg",
-        "vision_score": 8.0
+        "alt": "Olajalkut kötött Trump és Putyin, az unió azonnal rálép a fékre",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -10549,12 +10548,12 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/penzvilag/2026-10-11-trump-olcsobb-dizelt-intezett-az-eu-inkabb-szigorit/",
+      "url": "/penzvilag/2026-10-11-olajalkut-kotott-trump-es-putyin-az-unio-azonnal-ralep-a-fekre/",
       "seo": {
-        "meta_title": "Trump olcsóbb dízelt intézett, az EU inkább szigorít",
+        "meta_title": "Olajalkut kötött Trump és Putyin, az unió azonnal rálép a fé",
         "meta_description": "Donald Trump és Vlagyimir Putyin megállapodása nyomán orosz gázolaj áramlik a világpiacra az amerikai korlátozások ideiglenes feloldásával, miközben az Európai ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-11-trump-olcsobb-dizelt-intezett-az-eu-inkabb-szigorit/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg/1280px-Vladimir_Putin_taking_the_Presidential_Oath%2C_7_May_2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-11-olajalkut-kotott-trump-es-putyin-az-unio-azonnal-ralep-a-fekre/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/0d8f621d05-1791698805-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10591,9 +10590,9 @@
       "dedupe_hash": "06921c8aa1f7a8ee1011da6ecd983e1dc4387e5a0bd0f08d351b8db9ad77a011",
       "pipeline_run_id": "38111294043",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T06:37:24+02:00",
-      "updated_at": "2026-10-11T06:37:24+02:00",
-      "published_at": "2026-10-11T06:37:24+02:00",
+      "created_at": "2026-10-11T08:47:42+02:00",
+      "updated_at": "2026-10-11T08:47:42+02:00",
+      "published_at": "2026-10-11T08:47:42+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10606,9 +10605,9 @@
         "msg_ids": [],
         "control_id": 4751,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:47 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T08:47:30+02:00"
+      "live": true
     },
     {
       "id": "10317a60-19af-58e0-a2b4-c186a909682b",
