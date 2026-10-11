@@ -11921,7 +11921,7 @@
     {
       "id": "3700cf1a-4360-5b2d-8392-50fcf9879a7b",
       "slug": "2026-10-11-hadhazy-feljelentest-tesz-a-tuzijatek-miatt",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11953,15 +11953,15 @@
       "word_count": 241,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%C3%81kos_Hadh%C3%A1zy_%282017%29.jpg/1280px-%C3%81kos_Hadh%C3%A1zy_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%81kos_Hadh%C3%A1zy_in_2018.jpg/1280px-%C3%81kos_Hadh%C3%A1zy_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1109,
+        "height": 798,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Hungarian politician Ákos Hadházy in 2017 in Kecskemét",
-        "credit": "Piroska / Wikimedia Commons",
+        "pos": "center",
+        "alt": "Hadházy Ákos a budapesti Lurdy Konferencia és Rendezvényközpontban.",
+        "credit": "Fejér Bálint / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81kos_Hadh%C3%A1zy_(2017).jpg"
+        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81kos_Hadh%C3%A1zy_in_2018.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12100,7 +12100,7 @@
         "meta_title": "Hadházy feljelentést tesz a tűzijáték miatt",
         "meta_description": "Feljelentést tesz Hadházy Ákos az augusztus 20-i rendezvények beszerzései miatt, mivel a Belügyminisztérium lezárult vizsgálata szerinte több kérdést megválaszo",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-hadhazy-feljelentest-tesz-a-tuzijatek-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%C3%81kos_Hadh%C3%A1zy_%282017%29.jpg/1280px-%C3%81kos_Hadh%C3%A1zy_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/%C3%81kos_Hadh%C3%A1zy_in_2018.jpg/1280px-%C3%81kos_Hadh%C3%A1zy_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12117,9 +12117,9 @@
       "dedupe_hash": "5c597758e6f913a7886908f330811364de67489d7437096eeac12a47f8a821cb",
       "pipeline_run_id": "38144117221",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T16:00:08+02:00",
-      "updated_at": "2026-10-11T16:00:08+02:00",
-      "published_at": "2026-10-11T16:00:08+02:00",
+      "created_at": "2026-10-11T16:23:03+02:00",
+      "updated_at": "2026-10-11T16:23:03+02:00",
+      "published_at": "2026-10-11T16:23:03+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12129,19 +12129,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-11T14:00:42+00:00",
-        "msg_ids": [
-          4928,
-          4929,
-          4930,
-          4931,
-          4932,
-          4933,
-          4934,
-          4935,
-          4936
-        ],
-        "control_id": 4937
-      }
+        "msg_ids": [],
+        "control_id": 4937,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "b4000623-14db-5f4b-a422-0f67da56bd55",
