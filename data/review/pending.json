@@ -13180,6 +13180,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d6a6f139cd-1791742312-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d6a6f139cd-1791742312-0.jpg",
+          "kind": "photo",
+          "alt": "A visegrádi régió AI-bajnoka lett Magyarország",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d6a6f139cd-1791742314-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d6a6f139cd-1791742314-1.jpg",
+          "kind": "photo",
+          "alt": "A visegrádi régió AI-bajnoka lett Magyarország",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Atlanta.jpg/1280px-Microsoft_Atlanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -13321,9 +13343,11 @@
           5030,
           5031,
           5032,
-          5033
+          5033,
+          5063,
+          5064
         ],
-        "control_id": 5034
+        "control_id": 5065
       }
     },
     {
