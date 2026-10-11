@@ -11198,9 +11198,9 @@
       "live": true
     },
     {
-      "id": "794ce4c7-3039-52ca-8ab6-29dac581ed79",
-      "slug": "2026-10-11-gyogyszerek-nelkul-is-lassithato-a-terdizuleti-kopas-egy-uj-setatechn",
-      "status": "pending",
+      "id": "a528788b-9ab7-55af-96d6-77c305630ddd",
+      "slug": "2026-10-11-egy-ev-alatt-igazolta-hatekonysagat-a-szemelyre-szabott-jarastrening",
+      "status": "published",
       "category": "eletmod",
       "subcategory": null,
       "tags": [
@@ -11210,7 +11210,7 @@
         "kutatás",
         "életmód"
       ],
-      "title": "Gyógyszerek nélkül is lassítható a térdízületi kopás egy új sétatechnikával",
+      "title": "Egy év alatt igazolta hatékonyságát a személyre szabott járástréning",
       "subtitle": null,
       "lead": "Egy évig tartó klinikai vizsgálat igazolta, hogy járás közben a lábfej szögének megváltoztatása jelentősen csökkentheti a térdízületi gyulladás okozta fájdalmat, és védi a porcokat. A gyógyszeres kezeléssel egyenértékű hatás eléréséhez azonban személyre szabott technikára van szükség.",
       "key_points": [
@@ -11231,15 +11231,15 @@
       "word_count": 286,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Walking_exercise_%2816818224061%29.jpg/1280px-Walking_exercise_%2816818224061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 812,
         "kind": "photo",
         "pos": "center",
-        "alt": "نشان‌دهندۀ آناتومی زانو و برخی اجزای آن",
-        "credit": "https://en.wikipedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png\n\n&amp; Own  / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Knee_anatomy_(Fa).png"
+        "alt": "This is Shoreline in Mountain View.  I saw this man exercising by walking fast.",
+        "credit": "bluesbby from Mountain View, USA / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Walking_exercise_(16818224061).jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11379,12 +11379,12 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/eletmod/2026-10-11-gyogyszerek-nelkul-is-lassithato-a-terdizuleti-kopas-egy-uj-setatechn/",
+      "url": "/eletmod/2026-10-11-egy-ev-alatt-igazolta-hatekonysagat-a-szemelyre-szabott-jarastrening/",
       "seo": {
-        "meta_title": "Gyógyszerek nélkül is lassítható a térdízületi kopás egy új ",
+        "meta_title": "Egy év alatt igazolta hatékonyságát a személyre szabott járá",
         "meta_description": "Egy évig tartó klinikai vizsgálat igazolta, hogy járás közben a lábfej szögének megváltoztatása jelentősen csökkentheti a térdízületi gyulladás okozta fájdalmat",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-11-gyogyszerek-nelkul-is-lassithato-a-terdizuleti-kopas-egy-uj-setatechn/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-11-egy-ev-alatt-igazolta-hatekonysagat-a-szemelyre-szabott-jarastrening/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Walking_exercise_%2816818224061%29.jpg/1280px-Walking_exercise_%2816818224061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11401,9 +11401,9 @@
       "dedupe_hash": "0b9100f264ca030cfdc6fddb4d488d3a85790cd6779e1e2d03f03759130ded63",
       "pipeline_run_id": "38127525408",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T11:30:35+02:00",
-      "updated_at": "2026-10-11T11:30:35+02:00",
-      "published_at": "2026-10-11T11:30:35+02:00",
+      "created_at": "2026-10-11T12:28:45+02:00",
+      "updated_at": "2026-10-11T12:28:45+02:00",
+      "published_at": "2026-10-11T12:28:45+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11416,9 +11416,9 @@
         "msg_ids": [],
         "control_id": 4818,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:28 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T12:28:30+02:00"
+      "live": true
     },
     {
       "id": "a6db5722-84ee-5e99-b14f-1e265ca95c6b",
