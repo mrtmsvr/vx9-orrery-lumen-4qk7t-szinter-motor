@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T21:26:20+02:00",
+  "updated_at": "2026-10-11T21:46:25+02:00",
   "articles": [
+    {
+      "id": "05ae2b3b-ad11-5eb2-b247-43ef75460f56",
+      "slug": "2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "korallzátony",
+        "környezetvédelem",
+        "klímaváltozás",
+        "tudomány"
+      ],
+      "title": "Víz alatti árnyékolók védik a pusztuló zátonyokat",
+      "subtitle": null,
+      "lead": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan csökkenti a fehéredést és segíti a regenerációt.",
+      "key_points": [
+        "A tengervíz emelkedő hőmérséklete miatt világszerte drasztikusan pusztulnak a korallzátonyok.",
+        "A kutatók nejlonból készült, víz alatti ernyőkkel árnyékolják a sérülékeny területeket.",
+        "A Karib-térségben végzett kísérlet során az ernyők 60 százalékkal mérsékelték a fényterhelést.",
+        "A védett koralloknál a fehéredés lassult, sőt, egyes kolóniák színe részben visszatért."
+      ],
+      "content": "A globális felmelegedés következtében a korallzátonyok több mint 80 százalékát érinti már a korallfehéredésnek nevezett folyamat. Ez akkor következik be, amikor a túlhevült víz miatt a korallokból távoznak azok az algák, amelyek a színüket és a szükséges tápanyagokat biztosítják számukra, így a korallok végül elpusztulnak. A Frontiers in Marine Science tudományos folyóiratban közölt friss kutatás szerint az egyszerű, ám hatékony árnyékolás lehet a megoldás a zátonyok megmentésére.\n\nKaren Neely, a floridai Nova Southeastern Egyetem kutatója és csapata 2024 nyarán helyezett ki speciálisan erre a célra fejlesztett, víz alatti napernyőket a Karib-térségben. A 30 centiméterrel a zátonyok fölé rögzített nejlon szerkezetek a közvetlen napsugárzást mérséklik, ezzel csökkentve a korallokat érő hőstresszt. A kísérlet során tíz kolóniát láttak el az ernyőkkel, míg egy kontrollcsoportot védtelenül hagytak a vizsgálatokhoz.\n\nAz eredmények biztatóak: a napernyőkkel fedett területeken a fényterhelés 60 százalékkal csökkent, ami látványos hatással volt az élővilágra. A búvárok által kéthetente végzett ellenőrzések és laboratóriumi mintavételek azt mutatták, hogy a védett korallok nemcsak épek maradtak a hőségben, de néhány esetben a korábban kifakult területek színe is részlegesen visszatért. A kutatók jelenleg a módszer nagyobb területen való alkalmazhatóságát vizsgálják, mivel a jelenlegi technológia egyelőre kisebb, kiemelt jelentőségű zátonyfoltok védelmére ideális.\n\nA szakemberek szerint a napernyők az ökoszisztémára nézve nem jelentenek kockázatot, így a jövőben nagyobb léptékű kísérletek várhatóak a hosszú távú védelem biztosítására. A tudósok becslései szerint 2050-re az óceánok hőmérséklete olyan mértékben növekedhet, hogy évente várható tömeges fehéredési események fenyegetik majd a világ zátonyait, ezért a hasonló beavatkozások létfontosságúak az állomány megőrzésében.",
+      "content_format": "markdown",
+      "body": [
+        "A globális felmelegedés következtében a korallzátonyok több mint 80 százalékát érinti már a korallfehéredésnek nevezett folyamat. Ez akkor következik be, amikor a túlhevült víz miatt a korallokból távoznak azok az algák, amelyek a színüket és a szükséges tápanyagokat biztosítják számukra, így a korallok végül elpusztulnak. A Frontiers in Marine Science tudományos folyóiratban közölt friss kutatás szerint az egyszerű, ám hatékony árnyékolás lehet a megoldás a zátonyok megmentésére.",
+        "Karen Neely, a floridai Nova Southeastern Egyetem kutatója és csapata 2024 nyarán helyezett ki speciálisan erre a célra fejlesztett, víz alatti napernyőket a Karib-térségben. A 30 centiméterrel a zátonyok fölé rögzített nejlon szerkezetek a közvetlen napsugárzást mérséklik, ezzel csökkentve a korallokat érő hőstresszt. A kísérlet során tíz kolóniát láttak el az ernyőkkel, míg egy kontrollcsoportot védtelenül hagytak a vizsgálatokhoz.",
+        "Az eredmények biztatóak: a napernyőkkel fedett területeken a fényterhelés 60 százalékkal csökkent, ami látványos hatással volt az élővilágra. A búvárok által kéthetente végzett ellenőrzések és laboratóriumi mintavételek azt mutatták, hogy a védett korallok nemcsak épek maradtak a hőségben, de néhány esetben a korábban kifakult területek színe is részlegesen visszatért. A kutatók jelenleg a módszer nagyobb területen való alkalmazhatóságát vizsgálják, mivel a jelenlegi technológia egyelőre kisebb, kiemelt jelentőségű zátonyfoltok védelmére ideális.",
+        "A szakemberek szerint a napernyők az ökoszisztémára nézve nem jelentenek kockázatot, így a jövőben nagyobb léptékű kísérletek várhatóak a hosszú távú védelem biztosítására. A tudósok becslései szerint 2050-re az óceánok hőmérséklete olyan mértékben növekedhet, hogy évente várható tömeges fehéredési események fenyegetik majd a világ zátonyait, ezért a hasonló beavatkozások létfontosságúak az állomány megőrzésében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 278,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A variety of corals form an outcrop on Flynn Reef, part of the Great Barrier Reef near Cairns, Queensland, Australia.",
+        "credit": "Toby Hudson / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+          "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:50+02:00"
+        }
+      ],
+      "quote": {
+        "text": "az általuk alkalmazott speciális szerkezetek ideálisak kisebb területek, például kiemelt fontosságú korallok védelmére. Sőt, némi fejlesztéssel akár nagyobb területeket is le lehet majd fedni velük.",
+        "who": "Karen Neely, a floridai Nova Southeastern Egyetem kutatója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-11T21:46:25+02:00"
+      },
+      "hot_score": 5.52,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/tech/2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat/",
+      "seo": {
+        "meta_title": "Víz alatti árnyékolók védik a pusztuló zátonyokat",
+        "meta_description": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan c",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "df888e01d4f4664d62b6ab906843e8b73133d576440f62582fe1db78a5470145",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T21:46:25+02:00",
+      "updated_at": "2026-10-11T21:46:25+02:00",
+      "published_at": "2026-10-11T21:46:25+02:00",
+      "expires_at": null
+    },
     {
       "id": "df7e37fe-592e-50e6-bf4e-4a99bee0277f",
       "slug": "2026-10-11-karacsony-gergely-tizmilliardos-megtakaritast-var-a-parkolasi-rendsze",

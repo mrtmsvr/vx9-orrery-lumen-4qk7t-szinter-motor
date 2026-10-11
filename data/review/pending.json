@@ -13131,9 +13131,9 @@
       "scheduled_at": "2026-10-11T22:25:53+02:00"
     },
     {
-      "id": "1fec5161-4650-58e1-a383-b53dc2cc655c",
-      "slug": "2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat",
-      "status": "pending",
+      "id": "05ae2b3b-ad11-5eb2-b247-43ef75460f56",
+      "slug": "2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -13142,7 +13142,7 @@
         "klímaváltozás",
         "tudomány"
       ],
-      "title": "Napernyőkkel mentik meg a haldokló korallzátonyokat",
+      "title": "Víz alatti árnyékolók védik a pusztuló zátonyokat",
       "subtitle": null,
       "lead": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan csökkenti a fehéredést és segíti a regenerációt.",
       "key_points": [
@@ -13310,11 +13310,11 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/tech/2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat/",
+      "url": "/tech/2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat/",
       "seo": {
-        "meta_title": "Napernyőkkel mentik meg a haldokló korallzátonyokat",
+        "meta_title": "Víz alatti árnyékolók védik a pusztuló zátonyokat",
         "meta_description": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan c",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-viz-alatti-arnyekolok-vedik-a-pusztulo-zatonyokat/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -13332,9 +13332,9 @@
       "dedupe_hash": "df888e01d4f4664d62b6ab906843e8b73133d576440f62582fe1db78a5470145",
       "pipeline_run_id": "38160288155",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T20:06:50+02:00",
-      "updated_at": "2026-10-11T20:06:50+02:00",
-      "published_at": "2026-10-11T20:06:50+02:00",
+      "created_at": "2026-10-11T21:46:25+02:00",
+      "updated_at": "2026-10-11T21:46:25+02:00",
+      "published_at": "2026-10-11T21:46:25+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13347,9 +13347,9 @@
         "msg_ids": [],
         "control_id": 5052,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:45 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-11T21:45:53+02:00"
+      "live": true
     },
     {
       "id": "df7e37fe-592e-50e6-bf4e-4a99bee0277f",
