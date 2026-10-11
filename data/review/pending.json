@@ -12357,59 +12357,16 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Volodymyr_Zelenskyy_in_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 1625,
+          "height": 1694,
           "kind": "photo",
           "pos": "top",
-          "alt": "Official portrait of Volodymyr Zelenskyy.",
-          "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Latrobe_White_House_cropa2.jpg/1280px-Latrobe_White_House_cropa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1524,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "The White House, Washington, D.C. Site plan and principal story plan, architectural design.",
-          "credit": "Benjamin Henry Latrobe / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Latrobe_White_House_cropa2.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg/1280px-Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1200,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "A red and white tulip cultivar (probably 'Flaming Club') in Myddelton House garden, a garden developed by Edward Augustus Bowles (1865 – 1954), botanist, horticulturalist and Vice President of the Roy",
-          "credit": "Acabashi / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House,_Enfield,_London.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/St._Volodymyr%27s_Cathedral_in_Kiev.jpg/1280px-St._Volodymyr%27s_Cathedral_in_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1875,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "St Volodymyr's Cathedral in Kyiv, Ukraine.",
-          "credit": "Petar Milošević / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:St._Volodymyr%27s_Cathedral_in_Kiev.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg/1280px-2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 820,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "Parkovyi footbridge in Kyiv, Ukraine.",
-          "credit": "Moahim / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg"
+          "alt": "Cropped version of press photo of Ukraine's President Volodymyr Zelensky wearing traditional Ukrainian attire, published in connection with the president's Easter greetings in May 2024:",
+          "credit": "Volodymyr Zelensky / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2024.png",
+          "vision_score": 10.0
         }
       ],
       "story": [
@@ -12506,7 +12463,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 2,
         "image": 0,
         "sent_at": "2026-10-11T18:06:59+00:00",
         "msg_ids": [
@@ -12515,10 +12472,28 @@
           4997,
           4998,
           4999,
-          5000
+          5000,
+          5053
         ],
-        "control_id": 5001
-      }
+        "control_id": 5054
+      },
+      "image_queries": [
+        "Volodymyr Zelenskyy",
+        "Vladimir Putin",
+        "Donald Trump",
+        "Mark Rutte",
+        "Axios",
+        "oil refinery",
+        "energy infrastructure",
+        "diplomatic meeting"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg/1280px-2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0%D0%B4_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%BE%D0%BC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg/1280px-Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/St._Volodymyr%27s_Cathedral_in_Kiev.jpg/1280px-St._Volodymyr%27s_Cathedral_in_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Latrobe_White_House_cropa2.jpg/1280px-Latrobe_White_House_cropa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "a0dfae5e-9724-5ebf-8ce0-a7f38f5fc0a3",
@@ -13364,6 +13339,456 @@
           5033
         ],
         "control_id": 5034
+      }
+    },
+    {
+      "id": "dc85bc29-ca62-5edd-b9ed-452fadcb4182",
+      "slug": "2026-10-11-magyar-peter-exkluziv-vallomasa-a-karmelitabol",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Karmelita kolostor",
+        "Finnország",
+        "interjú",
+        "külpolitika"
+      ],
+      "title": "Magyar Péter exkluzív vallomása a Karmelitából",
+      "subtitle": null,
+      "lead": "Magyar Péter a legnagyobb finn napilapnak adott interjút a Karmelitában, amelyben többek között a külpolitikáról, a fegyverszállításokról és a hazai közélet kérdéseiről beszélt. Az interjú részletei rávilágítanak a kormány külpolitikai prioritásaira és az ukrajnai kapcsolatok rendezésére.",
+      "key_points": [
+        "Magyar Péter a legnagybb finn napilapnak adott interjút a Karmelitában.",
+        "Állítólag Magyar Péter kilátásba helyezett egy találkozót Volodimir Zelenszkij ukrán elnökkel.",
+        "Állítólag Magyarország nem kíván fegyveres segítséget nyújtani Ukrajnának, és a fegyverszállításokat sem engedélyezi.",
+        "Magyar Péter támogatja az azonos nemű párok gyermekek örökbe fogadását az intézeti neveléssel szemben."
+      ],
+      "content": "## A Karmelitában adott interjút a finn sajtónak a kormányfő\n\nMagyar Péter a legnagyobb finn napilapnak nyilatkozott, a beszélgetést pedig a közösségi oldalán úgy kommentálta, hogy az élete első és utolsó interjúja volt a Karmelitában.\n\nA fizetőfal mögött megjelent interjút az Index szemlézte, ebből pedig kiderül, hogy Magyar Péter visszautasította a felvetést, miszerint a kétharmados felhatalmazás miatt ugyanúgy kormányozzanak, mint a Fidesz. Ezenfelül a korrupciós vádakra reagálva tagadta, hogy politikai befolyást gyakorolna a hatóságokra.\n\nA külkapcsolatok terén Magyar Péter elmondta, hogy állítólag kilátásban van egy találkozója Volodimir Zelenszkij ukrán elnökkel, mivel az ukrán kapcsolatok rendezése fontos számára. Hozzátette, hogy állítólag fontosak a kárpátaljai magyarok jogai, de erről már meg is született a megállapodás, ugyanakkor leszögezte, hogy állítólag Magyarország nem kíván fegyveres segítséget nyújtani Ukrajnának, és nem engedélyezi a fegyverszállítmányok területén keresztüli továbbítását.\n\nA társadalmi kérdéseket érintve Magyar Péter ismét kifejtette, hogy támogatja az azonos nemű párok gyermekek örökbe fogadását, amennyiben ez a megoldás kedvezőbb a gyermekek számára az intézményi nevelésnél.",
+      "content_format": "markdown",
+      "body": [
+        "## A Karmelitában adott interjút a finn sajtónak a kormányfő\n\nMagyar Péter a legnagyobb finn napilapnak nyilatkozott, a beszélgetést pedig a közösségi oldalán úgy kommentálta, hogy az élete első és utolsó interjúja volt a Karmelitában.",
+        "A fizetőfal mögött megjelent interjút az Index szemlézte, ebből pedig kiderül, hogy Magyar Péter visszautasította a felvetést, miszerint a kétharmados felhatalmazás miatt ugyanúgy kormányozzanak, mint a Fidesz. Ezenfelül a korrupciós vádakra reagálva tagadta, hogy politikai befolyást gyakorolna a hatóságokra.",
+        "A külkapcsolatok terén Magyar Péter elmondta, hogy állítólag kilátásban van egy találkozója Volodimir Zelenszkij ukrán elnökkel, mivel az ukrán kapcsolatok rendezése fontos számára. Hozzátette, hogy állítólag fontosak a kárpátaljai magyarok jogai, de erről már meg is született a megállapodás, ugyanakkor leszögezte, hogy állítólag Magyarország nem kíván fegyveres segítséget nyújtani Ukrajnának, és nem engedélyezi a fegyverszállítmányok területén keresztüli továbbítását.",
+        "A társadalmi kérdéseket érintve Magyar Péter ismét kifejtette, hogy támogatja az azonos nemű párok gyermekek örökbe fogadását, amennyiben ez a megoldás kedvezőbb a gyermekek számára az intézményi nevelésnél."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 192,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg/1280px-Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, kilátás a Karmelita kolostor felé",
+        "credit": "Christo / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut",
+          "title": "„Életem első és utolsó interjúja a Karmelitában” – Magyar Péter a legnagyobb finn napilapnak adott interjút",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:21+02:00"
+        },
+        {
+          "url": "https://telex.hu/belfold/2026/10/11/magyar-peter-zelenszkij-talalkozo-azonos-nemuek-hazassaga-torvenymodositas",
+          "title": "Magyar Péter az azonos neműek házasságáról: Nagyon óvatos vagyok",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:21+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Akinek tényleg van leszervezett időpontja, az kap is interjút",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.52,
+      "title_options": [
+        "Magyar Péter exkluzív vallomása a Karmelitából",
+        "A Karmelitából adott interjút a finn sajtónak Magyar Péter",
+        "Finn lapnak nyilatkozott a Karmelitából Magyar Péter miniszterelnök",
+        "Megszólalt a finn sajtónak a Karmelitából Magyar Péter"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg/1280px-Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Budapest, kilátás a Karmelita kolostor felé",
+          "credit": "Christo / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/The_front_page_of_the_Helsingin_Sanomat_for_July_7%2C_1904_%282%29.png/1280px-The_front_page_of_the_Helsingin_Sanomat_for_July_7%2C_1904_%282%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1592,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The front page of the Helsingin Sanomat for July 7, 1904.",
+          "credit": "Helsingin Sanomat / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:The_front_page_of_the_Helsingin_Sanomat_for_July_7,_1904_(2).png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/The_front_page_of_the_Helsingin_Sanomat_for_July_7%2C_1904.jpg/1280px-The_front_page_of_the_Helsingin_Sanomat_for_July_7%2C_1904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1592,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The front page of the Helsingin Sanomat for July 7, 1904.",
+          "credit": "Helsingin Sanomat / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:The_front_page_of_the_Helsingin_Sanomat_for_July_7,_1904.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g46d12a72a399f8100e7da4b81d4d147b7adf1eb146a9fe8d02cca4f4f21b9891bbd5b0b5c7340b27720aff460fdda1b064f5ec1b7170ac6808f9c4cacff2b0d7_1280.jpg",
+          "width": 6760,
+          "height": 4512,
+          "kind": "photo",
+          "alt": "bunny, business, businessmen, career, client, desk, figure, figurine, frustrated, geek, guy, hr, interview, job, lego, meeting, minifig, office, people, person, queue, service, table, waiting, zombie,",
+          "credit": "kirill_makes_pics / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/bunny-business-businessmen-career-3830669/"
+        },
+        {
+          "url": "https://pixabay.com/get/g6a80cc88bc5111fb7580b5e8a62f4a4e2e9d4a7462a2a7faa9dd0e578cd11bd1e9c032661751cf57df19fa8b93b297cbd6b31137c26f7579f9dd5370f6b51c53_1280.jpg",
+          "width": 4000,
+          "height": 2649,
+          "kind": "photo",
+          "alt": "job, interview, hiring, hand, shake, office, table, chair, hired, recruitment, employee, selection, contract, handshake, career, employment, hr, candidate, employer, human, resources, worker, recruiti",
+          "credit": "Tumisu / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/job-interview-hiring-hand-shake-3790033/"
+        }
+      ],
+      "story": [
+        {
+          "title": "„Életem első és utolsó interjúja a Karmelitában” – Magyar Péter a legnagyobb finn napilapnak adott interjút",
+          "link": "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut",
+          "summary": "„Akinek tényleg van leszervezett időpontja, az kap is interjút” – utalt a miniszterelnök egy pár nappal korábbi fiaskóra, amikor a norvég média állította azt, hogy Magyar nem volt hajlandó interjút adni nekik.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 6.52
+        },
+        {
+          "title": "Magyar Péter az azonos neműek házasságáról: Nagyon óvatos vagyok",
+          "link": "https://telex.hu/belfold/2026/10/11/magyar-peter-zelenszkij-talalkozo-azonos-nemuek-hazassaga-torvenymodositas",
+          "summary": "A jövő heti uniós csúcson várhatóan Zelenszkijjel is találkozik a magyar kormányfő, aki egy finn lapnak adta az első interjúját a Karmelitában.",
+          "source": "telex.hu",
+          "related": true,
+          "hot_score": 6.52
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261011_eletem-elso-es-utolso-interjuja-a-karmelitaban-magyar-peter-a-legnagyobb-finn-napilapnak-adott-interjut"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/kozelet/2026-10-11-magyar-peter-exkluziv-vallomasa-a-karmelitabol/",
+      "seo": {
+        "meta_title": "Magyar Péter exkluzív vallomása a Karmelitából",
+        "meta_description": "Magyar Péter a legnagyobb finn napilapnak adott interjút a Karmelitában, amelyben többek között a külpolitikáról, a fegyverszállításokról és a hazai közélet kér",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-11-magyar-peter-exkluziv-vallomasa-a-karmelitabol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg/1280px-Budapest%2C_kil%C3%A1t%C3%A1s_a_Karmelita_kolostor_fel%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "38a28d12-0a7e-540a-91ed-c77213a5e539"
+      ],
+      "see_also": [
+        {
+          "title": "Megszólalt a norvég riporter, azonnal lecsapott rá a magyar kormányfő",
+          "url": "/kozelet/2026-10-05-megszolalt-a-norveg-riporter-azonnal-lecsapott-ra-a-magyar-kormanyfo/",
+          "date": "2026-10-05"
+        }
+      ],
+      "thread_id": "38a28d12-0a7e-540a-91ed-c77213a5e539",
+      "dedupe_hash": "b08fd108b47edb691fbfe4435220c663eb7e5363671f98abbeec3c905f292617",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T20:06:21+02:00",
+      "updated_at": "2026-10-11T20:06:21+02:00",
+      "published_at": "2026-10-11T20:06:21+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 bűnügy + kiskorú: ne legyen azonosítható (név, iskola, lakóhely, kép)"
+        ],
+        "auto_fixed": [
+          "A jogi megjegyzésnek megfelelően a nem bizonyított állításokhoz feltételes módot adtunk (\"állítólag\", \"a gyanú szerint\").",
+          "Az \"kilátásba helyezett egy találkozót\" és a fegyverszállítási állítások módosultak feltételes formára a kulcspontokban és a szövegben."
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-11T18:07:48+00:00",
+        "msg_ids": [
+          5036,
+          5037,
+          5038,
+          5039,
+          5040,
+          5041
+        ],
+        "control_id": 5042
+      }
+    },
+    {
+      "id": "1fec5161-4650-58e1-a383-b53dc2cc655c",
+      "slug": "2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "korallzátony",
+        "környezetvédelem",
+        "klímaváltozás",
+        "tudomány"
+      ],
+      "title": "Napernyőkkel mentik meg a haldokló korallzátonyokat",
+      "subtitle": null,
+      "lead": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan csökkenti a fehéredést és segíti a regenerációt.",
+      "key_points": [
+        "A tengervíz emelkedő hőmérséklete miatt világszerte drasztikusan pusztulnak a korallzátonyok.",
+        "A kutatók nejlonból készült, víz alatti ernyőkkel árnyékolják a sérülékeny területeket.",
+        "A Karib-térségben végzett kísérlet során az ernyők 60 százalékkal mérsékelték a fényterhelést.",
+        "A védett koralloknál a fehéredés lassult, sőt, egyes kolóniák színe részben visszatért."
+      ],
+      "content": "A globális felmelegedés következtében a korallzátonyok több mint 80 százalékát érinti már a korallfehéredésnek nevezett folyamat. Ez akkor következik be, amikor a túlhevült víz miatt a korallokból távoznak azok az algák, amelyek a színüket és a szükséges tápanyagokat biztosítják számukra, így a korallok végül elpusztulnak. A Frontiers in Marine Science tudományos folyóiratban közölt friss kutatás szerint az egyszerű, ám hatékony árnyékolás lehet a megoldás a zátonyok megmentésére.\n\nKaren Neely, a floridai Nova Southeastern Egyetem kutatója és csapata 2024 nyarán helyezett ki speciálisan erre a célra fejlesztett, víz alatti napernyőket a Karib-térségben. A 30 centiméterrel a zátonyok fölé rögzített nejlon szerkezetek a közvetlen napsugárzást mérséklik, ezzel csökkentve a korallokat érő hőstresszt. A kísérlet során tíz kolóniát láttak el az ernyőkkel, míg egy kontrollcsoportot védtelenül hagytak a vizsgálatokhoz.\n\nAz eredmények biztatóak: a napernyőkkel fedett területeken a fényterhelés 60 százalékkal csökkent, ami látványos hatással volt az élővilágra. A búvárok által kéthetente végzett ellenőrzések és laboratóriumi mintavételek azt mutatták, hogy a védett korallok nemcsak épek maradtak a hőségben, de néhány esetben a korábban kifakult területek színe is részlegesen visszatért. A kutatók jelenleg a módszer nagyobb területen való alkalmazhatóságát vizsgálják, mivel a jelenlegi technológia egyelőre kisebb, kiemelt jelentőségű zátonyfoltok védelmére ideális.\n\nA szakemberek szerint a napernyők az ökoszisztémára nézve nem jelentenek kockázatot, így a jövőben nagyobb léptékű kísérletek várhatóak a hosszú távú védelem biztosítására. A tudósok becslései szerint 2050-re az óceánok hőmérséklete olyan mértékben növekedhet, hogy évente várható tömeges fehéredési események fenyegetik majd a világ zátonyait, ezért a hasonló beavatkozások létfontosságúak az állomány megőrzésében.",
+      "content_format": "markdown",
+      "body": [
+        "A globális felmelegedés következtében a korallzátonyok több mint 80 százalékát érinti már a korallfehéredésnek nevezett folyamat. Ez akkor következik be, amikor a túlhevült víz miatt a korallokból távoznak azok az algák, amelyek a színüket és a szükséges tápanyagokat biztosítják számukra, így a korallok végül elpusztulnak. A Frontiers in Marine Science tudományos folyóiratban közölt friss kutatás szerint az egyszerű, ám hatékony árnyékolás lehet a megoldás a zátonyok megmentésére.",
+        "Karen Neely, a floridai Nova Southeastern Egyetem kutatója és csapata 2024 nyarán helyezett ki speciálisan erre a célra fejlesztett, víz alatti napernyőket a Karib-térségben. A 30 centiméterrel a zátonyok fölé rögzített nejlon szerkezetek a közvetlen napsugárzást mérséklik, ezzel csökkentve a korallokat érő hőstresszt. A kísérlet során tíz kolóniát láttak el az ernyőkkel, míg egy kontrollcsoportot védtelenül hagytak a vizsgálatokhoz.",
+        "Az eredmények biztatóak: a napernyőkkel fedett területeken a fényterhelés 60 százalékkal csökkent, ami látványos hatással volt az élővilágra. A búvárok által kéthetente végzett ellenőrzések és laboratóriumi mintavételek azt mutatták, hogy a védett korallok nemcsak épek maradtak a hőségben, de néhány esetben a korábban kifakult területek színe is részlegesen visszatért. A kutatók jelenleg a módszer nagyobb területen való alkalmazhatóságát vizsgálják, mivel a jelenlegi technológia egyelőre kisebb, kiemelt jelentőségű zátonyfoltok védelmére ideális.",
+        "A szakemberek szerint a napernyők az ökoszisztémára nézve nem jelentenek kockázatot, így a jövőben nagyobb léptékű kísérletek várhatóak a hosszú távú védelem biztosítására. A tudósok becslései szerint 2050-re az óceánok hőmérséklete olyan mértékben növekedhet, hogy évente várható tömeges fehéredési események fenyegetik majd a világ zátonyait, ezért a hasonló beavatkozások létfontosságúak az állomány megőrzésében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 278,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A variety of corals form an outcrop on Flynn Reef, part of the Great Barrier Reef near Cairns, Queensland, Australia.",
+        "credit": "Toby Hudson / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+          "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T20:06:50+02:00"
+        }
+      ],
+      "quote": {
+        "text": "az általuk alkalmazott speciális szerkezetek ideálisak kisebb területek, például kiemelt fontosságú korallok védelmére. Sőt, némi fejlesztéssel akár nagyobb területeket is le lehet majd fedni velük.",
+        "who": "Karen Neely, a floridai Nova Southeastern Egyetem kutatója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.52,
+      "title_options": [
+        "Napernyőkkel mentik meg a haldokló korallzátonyokat",
+        "Víz alatti árnyékolók védik a pusztuló zátonyokat",
+        "Egyszerű megoldás a korallok globális fehéredése ellen",
+        "Nem fogod elhinni, mivel próbálják hűteni az óceánt",
+        "A meglepő eszköz, ami visszafordíthatja a korallok pusztulását",
+        "Kicsi, nylon és életmentő: a zátonyok új védelmezője"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A variety of corals form an outcrop on Flynn Reef, part of the Great Barrier Reef near Cairns, Queensland, Australia.",
+          "credit": "Toby Hudson / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Echinacea_purpurea_%E2%80%98Coral_Reef%27_IMG_0448.jpg/1280px-Echinacea_purpurea_%E2%80%98Coral_Reef%27_IMG_0448.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Echinacea purpurea ‘Coral Reef’ growing in New Hampshire",
+          "credit": "Captain-tucker / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Echinacea_purpurea_%E2%80%98Coral_Reef%27_IMG_0448.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ocean_Conservation_Namibia_Logo.jpg/1280px-Ocean_Conservation_Namibia_Logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Logo for Ocean Conservation Namibia",
+          "credit": "Ocnamibia / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ocean_Conservation_Namibia_Logo.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ocean_Conservation_Namibia_rescuing_an_entangled_seal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 801,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Ocean Conservation Namibia rescuing an entangled seal in Namibia. Seals are curious and playful and often get entangled in discarded fishing gear, PPE, packing straps, plastic bags and any other type",
+          "credit": "Mmnsr / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ocean_Conservation_Namibia_rescuing_an_entangled_seal.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g37e2fa80bf0024e8638bad781acf724087f2f1e7b0294fb9a5f4a3d24fc8c682f9eac51911f328e4adebe691c2c20ea6f55bec144fbc4ffbdf299798e95fb4b5_1280.jpg",
+          "width": 2286,
+          "height": 1563,
+          "kind": "photo",
+          "alt": "fish, underwater, nature, corals, sea, ocean, coral reef, school of fish, school, diving, water, underwater world, reef, water creatures",
+          "credit": "joakant / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/fish-underwater-corals-sea-ocean-378286/"
+        },
+        {
+          "url": "https://pixabay.com/get/g0dcefac2780e58d7bb6653f5e70135052d9c9769ca276ef782c9d33161615cdda48a99fea11e32f8c6d1673b695739bd0366bc070030e98282386a1d2490afc5_1280.jpg",
+          "width": 2323,
+          "height": 1442,
+          "kind": "photo",
+          "alt": "lemon butterflyfish, fishes, exotic, tropical, yellow, dive, underwater, water, sea, underwater world, sea creatures, maritime, nature, animals, reef, coral, coral reef, fishes, tropical, yellow, yell",
+          "credit": "joakant / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/lemon-butterflyfish-fishes-exotic-380037/"
+        },
+        {
+          "url": "https://live.staticflickr.com/5292/5514332777_5979158d7a_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "kind": "photo",
+          "alt": "Coral Reef",
+          "credit": "NOAA's National Ocean Service / flickr",
+          "license": "Public domain",
+          "source_url": "https://www.flickr.com/photos/40322276@N04/5514332777"
+        },
+        {
+          "url": "https://live.staticflickr.com/5810/20823453930_3149c5329e_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "kind": "photo",
+          "alt": "Coral Reefs in the 21st Century: Is the Past the Key to the Future?",
+          "credit": "James St. John / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/47445767@N05/20823453930"
+        }
+      ],
+      "story": [
+        {
+          "title": "Őrült ötlet, de működik: napernyőkkel védenék a korallzátonyokat",
+          "link": "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok",
+          "summary": "Időnként érdemes tenni egy próbát az elsőre kissé furcsának tűnő ötletekkel is. Kutatók most napernyőket helyeztek a haldokló korallok fölé, és úgy tűnik, hogy amilyen egyszerű, olyan hatékony is ez a módszer.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.52
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261011_korallzatonyok-korallok-vedelme-napsutes-ellen-napernyok"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/tech/2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat/",
+      "seo": {
+        "meta_title": "Napernyőkkel mentik meg a haldokló korallzátonyokat",
+        "meta_description": "Kutatók speciális, víz alatti napernyőkkel óvják a kritikus állapotban lévő korallzátonyokat a túlmelegedéstől. A módszer a kezdeti tesztek alapján hatékonyan c",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-napernyokkel-mentik-meg-a-haldoklo-korallzatonyokat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coral_Outcrop_Flynn_Reef.jpg/1280px-Coral_Outcrop_Flynn_Reef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "df888e01d4f4664d62b6ab906843e8b73133d576440f62582fe1db78a5470145",
+      "pipeline_run_id": "38160288155",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-11T20:06:50+02:00",
+      "updated_at": "2026-10-11T20:06:50+02:00",
+      "published_at": "2026-10-11T20:06:50+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-11T18:07:58+00:00",
+        "msg_ids": [
+          5043,
+          5044,
+          5045,
+          5046,
+          5047,
+          5048,
+          5049,
+          5050,
+          5051
+        ],
+        "control_id": 5052
       }
     }
   ]
