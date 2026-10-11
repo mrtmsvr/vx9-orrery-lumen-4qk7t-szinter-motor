@@ -14053,12 +14053,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-11T18:35:56+00:00",
-        "msg_ids": [
-          5078,
-          5079
-        ],
-        "control_id": 5080
-      }
+        "msg_ids": [],
+        "control_id": 5080,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:45 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T22:45:53+02:00"
     }
   ]
 }
