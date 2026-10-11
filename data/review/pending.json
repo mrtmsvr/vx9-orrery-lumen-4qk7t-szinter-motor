@@ -12657,13 +12657,12 @@
         "title": 5,
         "image": 0,
         "sent_at": "2026-10-11T10:58:35+00:00",
-        "msg_ids": [
-          4899,
-          4900,
-          4901
-        ],
-        "control_id": 4902
-      }
+        "msg_ids": [],
+        "control_id": 4902,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 15:08 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T15:08:30+02:00"
     }
   ]
 }
