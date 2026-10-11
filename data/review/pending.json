@@ -12258,9 +12258,9 @@
       "live": true
     },
     {
-      "id": "b4f477d4-143c-5659-8654-48a6e3f9757a",
-      "slug": "2026-10-11-zelenszkij-leallitana-a-finomitokat-ha-putyin-nem-lovi-az-energiat",
-      "status": "pending",
+      "id": "4551fa18-a758-52ab-8a6f-e00022228fad",
+      "slug": "2026-10-11-olajfinomitok-es-energiainfrastruktura-zelenszkij-tuzszunetet-ajanlot",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12270,7 +12270,7 @@
         "Oroszország",
         "olajfinomító"
       ],
-      "title": "Zelenszkij leállítaná a finomítókat, ha Putyin nem lövi az energiát",
+      "title": "Olajfinomítók és energiainfrastruktúra: Zelenszkij tűzszünetet ajánlott",
       "subtitle": null,
       "lead": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna hajlandó leállítani az orosz olajfinomítók elleni dróntámadásokat, amennyiben Oroszország felhagy az ukrán energiainfrastruktúra bombázásával. A váratlan kijelentés közvetlenül azután hangzott el, hogy az amerikai elnök bírálta Kijev eddigi katonai lépéseit.",
       "key_points": [
@@ -12291,15 +12291,16 @@
       "word_count": 229,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Volodymyr_Zelenskyy_in_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 1625,
+        "height": 1694,
         "kind": "photo",
         "pos": "top",
-        "alt": "Official portrait of Volodymyr Zelenskyy.",
-        "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
+        "alt": "Cropped version of press photo of Ukraine's President Volodymyr Zelensky wearing traditional Ukrainian attire, published in connection with the president's Easter greetings in May 2024:",
+        "credit": "Volodymyr Zelensky / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2024.png",
+        "vision_score": 10.0
       },
       "inline_images": [],
       "sources": [
@@ -12412,12 +12413,12 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/vilag/2026-10-11-zelenszkij-leallitana-a-finomitokat-ha-putyin-nem-lovi-az-energiat/",
+      "url": "/vilag/2026-10-11-olajfinomitok-es-energiainfrastruktura-zelenszkij-tuzszunetet-ajanlot/",
       "seo": {
-        "meta_title": "Zelenszkij leállítaná a finomítókat, ha Putyin nem lövi az e",
+        "meta_title": "Olajfinomítók és energiainfrastruktúra: Zelenszkij tűzszünet",
         "meta_description": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna hajlandó leállítani az orosz olajfinomítók elleni dróntámadásokat, amennyiben Oroszország felhagy az",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-zelenszkij-leallitana-a-finomitokat-ha-putyin-nem-lovi-az-energiat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-11-olajfinomitok-es-energiainfrastruktura-zelenszkij-tuzszunetet-ajanlot/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Volodymyr_Zelenskyy_in_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12454,9 +12455,9 @@
       "dedupe_hash": "2757b2526d5bc5d95df5f1f50dcc49927cecd70e71af88f8ff3488a681c84fad",
       "pipeline_run_id": "38160288155",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T20:06:20+02:00",
-      "updated_at": "2026-10-11T20:06:20+02:00",
-      "published_at": "2026-10-11T20:06:20+02:00",
+      "created_at": "2026-10-11T20:12:38+02:00",
+      "updated_at": "2026-10-11T20:12:38+02:00",
+      "published_at": "2026-10-11T20:12:38+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12466,16 +12467,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-11T18:06:59+00:00",
-        "msg_ids": [
-          4995,
-          4996,
-          4997,
-          4998,
-          4999,
-          5000,
-          5053
-        ],
-        "control_id": 5054
+        "msg_ids": [],
+        "control_id": 5054,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Volodymyr Zelenskyy",
@@ -12493,7 +12488,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg/1280px-Red_and_white_tulip_at_Myddelton_House%2C_Enfield%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/St._Volodymyr%27s_Cathedral_in_Kiev.jpg/1280px-St._Volodymyr%27s_Cathedral_in_Kiev.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Latrobe_White_House_cropa2.jpg/1280px-Latrobe_White_House_cropa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "live": true
     },
     {
       "id": "a0dfae5e-9724-5ebf-8ce0-a7f38f5fc0a3",
