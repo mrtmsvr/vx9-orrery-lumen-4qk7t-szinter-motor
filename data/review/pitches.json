@@ -48,7 +48,17 @@
       "pubs": [
         "nasa.gov"
       ],
-      "score": 5.8
+      "score": 4.8,
+      "story": [
+        {
+          "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+          "link": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+          "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA undocked from the International Space Station, it carried a fleet of 12 small, experimental capsules designed to […]",
+          "source": "nasa.gov",
+          "related": false,
+          "hot_score": 4.82
+        }
+      ]
     },
     "21df842446": {
       "id": "21df842446",
@@ -236,7 +246,7 @@
       "pubs": [
         "nasa.gov"
       ],
-      "score": 5.9,
+      "score": 4.9,
       "story": [
         {
           "title": "APOD: 2026 October 10 – Lunar Farside",
@@ -244,7 +254,7 @@
           "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally […]",
           "source": "nasa.gov",
           "related": false,
-          "hot_score": 5.92
+          "hot_score": 4.92
         }
       ]
     },
@@ -871,6 +881,106 @@
           "source": "telex.hu",
           "related": false,
           "hot_score": 5.48
+        }
+      ]
+    },
+    "eb48397758": {
+      "id": "eb48397758",
+      "link": "https://borsonline.origo.hu/kulfoldi-sztarhirek/2026/10/tanclegenda-felesege-meghalt",
+      "title": "„Összetört a szívem” – 52 évesen meghalt a tánclegenda felesége",
+      "sid": "bulvar",
+      "pubs": [
+        "borsonline.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "„Összetört a szívem” – 52 évesen meghalt a tánclegenda felesége",
+          "link": "https://borsonline.origo.hu/kulfoldi-sztarhirek/2026/10/tanclegenda-felesege-meghalt",
+          "summary": "Tragikus hírt jelentett be Michael Flatley: mindössze 52 éves korában meghalt imádott felesége, Niamh, akivel húsz éve voltak házasok. A tánclegenda szívszorító sorokkal búcsúzott gyermekének édesanyjától és legjobb barátjától. Niamhet az elmúlt hetekben kórházban ápolták, Flatley pedig még nemrég arról beszélt, milyen különleges meglepetéssel készül a 20. házassági évfordulójukra.",
+          "source": "borsonline.hu",
+          "related": false,
+          "hot_score": 5.96
+        }
+      ]
+    },
+    "59ec73b691": {
+      "id": "59ec73b691",
+      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/varga-iren-megasztar-2026/gre9vsx",
+      "title": "„Hallgassatok rám!” – Varga Irén hamar kiosztotta a csapattársait a Megasztárban, már a közös dal kiválasztásából balhé lett",
+      "sid": "bulvar",
+      "pubs": [
+        "blikk.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "„Hallgassatok rám!” – Varga Irén hamar kiosztotta a csapattársait a Megasztárban, már a közös dal kiválasztásából balhé lett",
+          "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/varga-iren-megasztar-2026/gre9vsx",
+          "summary": "Elszabadultak az indulatok a Megasztárban: a TV2 tehetségkutatójának eddigi legkeményebb szakasza veszi kezdetét a középdöntőkkel, ahol a versenyzőknek már nemcsak egyénileg, hanem csapatokban is kell bizonyítaniuk a rátermettségüket. A felkészüléssel járó közös munka azonban azonnal kaotikus botrányba torkollott, az egyik legnagyobb drámát pedig nem más, mint Varga Irén okozta.",
+          "source": "blikk.hu",
+          "related": false,
+          "hot_score": 5.95
+        }
+      ]
+    },
+    "919e72879f": {
+      "id": "919e72879f",
+      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/xfaktor-bacsa-alexandra-tovabbjuto/ddhbk7r",
+      "title": "Megvan a mai győztes: a közönség soraiból jutott tovább az X-Faktor versenyzője",
+      "sid": "bulvar",
+      "pubs": [
+        "blikk.hu"
+      ],
+      "score": 5.9,
+      "story": [
+        {
+          "title": "Megvan a mai győztes: a közönség soraiból jutott tovább az X-Faktor versenyzője",
+          "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/xfaktor-bacsa-alexandra-tovabbjuto/ddhbk7r",
+          "summary": "Négyéves kora óta rajong az X-Faktorért, most pedig elérkezett a pillanat, amelyről talán maga sem gondolta, hogy egyszer valóra válik. A 20 éves Bacsa Alexandra a szombati adásban a közönség soraiból lépett a színpadra, miután Majka lehetőséget adott arra, hogy megmutassa, mit tud. Az egyetemista lány nem sokáig gondolkodott, és élete egyik legizgalmasabb perceit élte át.",
+          "source": "blikk.hu",
+          "related": false,
+          "hot_score": 5.94
+        }
+      ]
+    },
+    "aca0e29cd1": {
+      "id": "aca0e29cd1",
+      "link": "https://www.portfolio.hu/gazdasag/20261010/egy-szelet-suti-ketezerert-mar-ez-sem-szamit-ritkasagnak-867410",
+      "title": "Egy szelet süti kétezerért? Már ez sem számít ritkaságnak",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 5.8,
+      "story": [
+        {
+          "title": "Egy szelet süti kétezerért? Már ez sem számít ritkaságnak",
+          "link": "https://www.portfolio.hu/gazdasag/20261010/egy-szelet-suti-ketezerert-mar-ez-sem-szamit-ritkasagnak-867410",
+          "summary": "Az utóbbi időszakban ismét elkezdtek drágulni a sütemények, amiben az általános üzemelési költségek emelkedése játszik nagy szerepet. Bár drasztikus áremelésről nincs szó, ma már inkább 1300-1700 forintos szeletárral találkozunk a legtöbb cukrászdában, de nem ritka a 2000 forintos, vagy az igazán kiemelt helyeken a 3000 forintos ár sem.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 5.84
+        }
+      ]
+    },
+    "047b6cf2e2": {
+      "id": "047b6cf2e2",
+      "link": "https://www.portfolio.hu/gazdasag/20261010/a-microsoft-vezere-szerint-veszfek-kell-az-ai-kordaban-tartasara-868906",
+      "title": "A Microsoft vezére szerint vészfék kell az AI kordában tartására",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 5.8,
+      "story": [
+        {
+          "title": "A Microsoft vezére szerint vészfék kell az AI kordában tartására",
+          "link": "https://www.portfolio.hu/gazdasag/20261010/a-microsoft-vezere-szerint-veszfek-kell-az-ai-kordaban-tartasara-868906",
+          "summary": "A Microsoft vezérigazgatója, Satya Nadella arra szólította fel a vállalatokat, hogy a nagy teljesítményű mesterségesintelligencia-modelleket kezeljék potenciális belső fenyegetésként, és építsenek ki vészfékrendszert az önállóan cselekvő, úgynevezett ágensmodellek kordában tartására - tudósított a Bloomberg .",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 5.78
         }
       ]
     }
