@@ -12716,7 +12716,7 @@
     {
       "id": "d6a6f139-cd93-54a0-8ee2-e546728c785c",
       "slug": "2026-10-11-a-visegradi-regio-ai-bajnoka-lett-magyarorszag",
-      "status": "pending",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -12747,15 +12747,17 @@
       "word_count": 236,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Atlanta.jpg/1280px-Microsoft_Atlanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/8d1270bee62f6ba2.jpg",
+        "width": 6224,
+        "height": 3750,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Microsoft building at Atlantic Station in Atlanta",
-        "credit": "Tyler Lahti / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Microsoft_Atlanta.jpg"
+        "alt": "technology, business, futuristic, computing, sci-fi, ai, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelligence, artificial intelli",
+        "credit": "tungnguyen0905 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/technology-business-futuristic-7111795/",
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/8d1270bee62f6ba2.jpg",
+        "orig_url": "https://pixabay.com/get/g24d244b0746476f4306ad7d8ebd95692f520aeedcf014ed5af308d329b54f68e6ecda3f67bbc84129ff5b0995955ac0aa3ba5fc8d44f8141f8f06bca08daae9e_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12821,7 +12823,7 @@
         "meta_title": "A visegrádi régió AI-bajnoka lett Magyarország",
         "meta_description": "A 15–64 éves magyar népesség egyharmada vett igénybe generatív mesterséges intelligenciát az idei második negyedévben. Ezzel az eredménnyel Magyarország a világ",
         "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-11-a-visegradi-regio-ai-bajnoka-lett-magyarorszag/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Atlanta.jpg/1280px-Microsoft_Atlanta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/8d1270bee62f6ba2.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12846,9 +12848,9 @@
       "dedupe_hash": "9a34df872dc55eee6989e26a1ed5cd08cd49ed14bebfab34e52c965275c6ff82",
       "pipeline_run_id": "38160288155",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T20:06:40+02:00",
-      "updated_at": "2026-10-11T20:06:40+02:00",
-      "published_at": "2026-10-11T20:06:40+02:00",
+      "created_at": "2026-10-11T22:06:20+02:00",
+      "updated_at": "2026-10-11T22:06:20+02:00",
+      "published_at": "2026-10-11T22:06:20+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12861,7 +12863,7 @@
         "msg_ids": [],
         "control_id": 5077,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:05 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Hungary",
@@ -12891,7 +12893,7 @@
         "https://live.staticflickr.com/3904/33466938116_c8a9d55e51_b.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
       ],
-      "scheduled_at": "2026-10-11T22:05:53+02:00"
+      "live": true
     },
     {
       "id": "dc85bc29-ca62-5edd-b9ed-452fadcb4182",
