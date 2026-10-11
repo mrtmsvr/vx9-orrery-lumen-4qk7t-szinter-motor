@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-10T13:44:00+02:00",
+  "updated_at": "2026-10-11T12:13:08+02:00",
   "polls": [
+    {
+      "id": "3971fd743209",
+      "date": "2026-10-11",
+      "question": "Helyesli-e, hogy a jegybank az euró bevezetését támogatja?",
+      "options": [
+        "Igen, helyeslem a jegybanki támogatást",
+        "Nem, a jegybank ne foglaljon ebben állást",
+        "Nem tudom / nincs véleményem"
+      ],
+      "article_url": "/kozelet/2026-10-10-megszolalt-a-jegybankelnok-ezt-gondolja-a-magyar-eurorol/",
+      "article_title": "Megszólalt a jegybankelnök: ezt gondolja a magyar euróról",
+      "category": "kozelet",
+      "created_at": "2026-10-11T12:13:08+02:00",
+      "closes_at": "2026-10-18T12:13:08+02:00"
+    },
     {
       "id": "1967810c3a9f",
       "date": "2026-10-09",
