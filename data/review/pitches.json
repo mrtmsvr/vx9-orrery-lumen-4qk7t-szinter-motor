@@ -1,35 +1,5 @@
 {
   "items": {
-    "87008d5a97": {
-      "id": "87008d5a97",
-      "link": "https://www.portfolio.hu/uzlet/20261010/nem-kell-150-dollaros-olaj-ahhoz-hogy-nagyon-fajjon-867446",
-      "title": "Nem kell 150 dolláros olaj ahhoz, hogy nagyon fájjon",
-      "sid": "penzvilag",
-      "pubs": [
-        "portfolio.hu"
-      ],
-      "score": 6.0
-    },
-    "7b6339a721": {
-      "id": "7b6339a721",
-      "link": "https://www.portfolio.hu/gazdasag/20261009/tisza-kormany-feljelentes-minimalberemeles-koltsegvetes-zajlik-a-kormanyzati-munka-868526",
-      "title": "Tisza-kormány: feljelentés, minimálbéremelés, költségvetés - zajlik a kormányzati munka",
-      "sid": "penzvilag",
-      "pubs": [
-        "portfolio.hu"
-      ],
-      "score": 6.0
-    },
-    "bca2ff8f2a": {
-      "id": "bca2ff8f2a",
-      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/nadai-aniko-szomszedsag-buli-feng-ya-ou/73y5qsl",
-      "title": "Nádai Anikóék és Feng Ya Ouék szomszédok lettek: különös módon döbbentek rá",
-      "sid": "bulvar",
-      "pubs": [
-        "blikk.hu"
-      ],
-      "score": 6.0
-    },
     "564786a4cf": {
       "id": "564786a4cf",
       "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/polgar-arpad-mukereskedo-eletut-szinesz-meggazdagodas/0e7vvtx",
@@ -1229,6 +1199,106 @@
           "source": "hvg.hu",
           "related": false,
           "hot_score": 5.52
+        }
+      ]
+    },
+    "4e973c2d77": {
+      "id": "4e973c2d77",
+      "link": "https://www.portfolio.hu/ingatlan/20261011/brusszel-adhat-jogi-municiot-az-airbnb-es-az-ures-lakasok-ellen-de-a-magyar-lakhatasi-fordulat-itthon-dol-el-868728",
+      "title": "Brüsszel adhat jogi muníciót az Airbnb és az üres lakások ellen, de a magyar lakhatási fordulat itthon dől el",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 6.0,
+      "story": [
+        {
+          "title": "Brüsszel adhat jogi muníciót az Airbnb és az üres lakások ellen, de a magyar lakhatási fordulat itthon dől el",
+          "link": "https://www.portfolio.hu/ingatlan/20261011/brusszel-adhat-jogi-municiot-az-airbnb-es-az-ures-lakasok-ellen-de-a-magyar-lakhatasi-fordulat-itthon-dol-el-868728",
+          "summary": "Az Európai Unió új lakhatási szabályozási csomagja segíthet eldönteni, hogy mikor avatkozhat be egy tagállam vagy önkormányzat a lakáspiac működésébe a megfizethető lakhatás védelmében. A Portfolio-nak nyilatkozó szakértők szerint a készülő uniós szabályozás Magyarországon önmagában nem hoz fordulatot, de erős jogi és módszertani kapaszkodót adhat a rövid távú lakáskiadás, a második otthonok, az üresen álló lakások és a befektetési célú lakáshasználat szabályozásához.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ]
+    },
+    "460e763ad0": {
+      "id": "460e763ad0",
+      "link": "https://www.portfolio.hu/gazdasag/20261011/tisza-kormany-maratoni-targyalasok-folynak-a-koltsegvetesrol-vitezy-david-szerint-kizart-hogy-a-kormany-2030-ig-penzt-koltson-az-olimpiara-868914",
+      "title": "Tisza-kormány: maratoni tárgyalások folynak a költségvetésről, Vitézy Dávid szerint kizárt, hogy a kormány 2030-ig pénzt költsön az Olimpiár",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 5.9,
+      "story": [
+        {
+          "title": "Tisza-kormány: maratoni tárgyalások folynak a költségvetésről, Vitézy Dávid szerint kizárt, hogy a kormány 2030-ig pénzt költsön az Olimpiára",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/tisza-kormany-maratoni-targyalasok-folynak-a-koltsegvetesrol-vitezy-david-szerint-kizart-hogy-a-kormany-2030-ig-penzt-koltson-az-olimpiara-868914",
+          "summary": "Magyar Péter miniszterelnök még szombat késő este jelezte, hogy a kormány 10 óráig tárgyalt a 2027-es költségvetésről. A megbeszéléseknek nincs vége, ma is a jövő évi költségvetés lesz a fő téma. Az már most figyelemfelkeltő fejlemény, hogy az egészségügy 500 milliárd forintos többletforráshoz jut. Cikkünk folyamatosan frissül a legfontosabb kormányzati döntésekkel.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 5.92
+        }
+      ]
+    },
+    "a1c5cf1e18": {
+      "id": "a1c5cf1e18",
+      "link": "https://www.portfolio.hu/gazdasag/20261011/hadhazy-akos-feljelentest-tesz-az-augusztus-20-i-tuzijatek-ugyeben-szerinte-dupla-kifizetes-is-tortenhetett-868928",
+      "title": "Hadházy Ákos feljelentést tesz az augusztus 20-i tűzijáték ügyében, szerinte dupla kifizetés is történhetett",
+      "sid": "penzvilag",
+      "pubs": [
+        "portfolio.hu"
+      ],
+      "score": 5.8,
+      "story": [
+        {
+          "title": "Hadházy Ákos feljelentést tesz az augusztus 20-i tűzijáték ügyében, szerinte dupla kifizetés is történhetett",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/hadhazy-akos-feljelentest-tesz-az-augusztus-20-i-tuzijatek-ugyeben-szerinte-dupla-kifizetes-is-tortenhetett-868928",
+          "summary": "Feljelentést tesz Hadházy Ákos az augusztus 20-i rendezvények beszerzései miatt, mert szerinte a Belügyminisztérium lezárult vizsgálata több lényeges kérdést megválaszolatlanul hagyott. A volt országgyűlési képviselő azt állítja: a jelentés alapján nem zárható ki, hogy az állam kétszer fizetett ugyanazokért a pirotechnikai eszközökért.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 5.84
+        }
+      ]
+    },
+    "4e89f5b8bc": {
+      "id": "4e89f5b8bc",
+      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/ossian-paksi-endre-felesege-eskuvo-foto/c9td6dv",
+      "title": "Megnősült az Ossian 67 éves frontembere – Fotót is mutatott a feleségéről Paksi Endre",
+      "sid": "bulvar",
+      "pubs": [
+        "blikk.hu"
+      ],
+      "score": 5.8,
+      "story": [
+        {
+          "title": "Megnősült az Ossian 67 éves frontembere – Fotót is mutatott a feleségéről Paksi Endre",
+          "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/ossian-paksi-endre-felesege-eskuvo-foto/c9td6dv",
+          "summary": "Megnősült az Ossian frontembere! Paksi Endre 67 évesen fogadott örök hűséget kedvesének, Magdolnának, akivel szombaton mondták ki egymásnak a boldogító igent. A legendás rocker nem meglepő módon, stílusosan tornacipőben jelent meg a nagy napon, ahogyan kedvese, Magdolna is egy laza öltözéket választott magának az esküvőre.",
+          "source": "blikk.hu",
+          "related": false,
+          "hot_score": 5.81
+        }
+      ]
+    },
+    "8ea2f80dd5": {
+      "id": "8ea2f80dd5",
+      "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/a-visszavago-kapj-el-ha-tudsz-sebestyen-balazs-frohner-feco-papai-joci/v1xhhvd",
+      "title": "Amszterdamba menekült Sebestyén Balázs – Hová tűnt közben Pápai Joci?",
+      "sid": "bulvar",
+      "pubs": [
+        "blikk.hu"
+      ],
+      "score": 5.8,
+      "story": [
+        {
+          "title": "Amszterdamba menekült Sebestyén Balázs – Hová tűnt közben Pápai Joci?",
+          "link": "https://www.blikk.hu/sztarvilag/hazai-sztarok/a-visszavago-kapj-el-ha-tudsz-sebestyen-balazs-frohner-feco-papai-joci/v1xhhvd",
+          "summary": "Szombaton elindult A visszavágó – Kapj el, ha tudsz! forgatása, amelynek során a Most Wanted – A Hajsza korábbi üldözői, vagyis Sebestyén Balázs, Frohner Fecó és Pápai Joci menekülnek a bosszúszomjas Vadászok elől. A Célpontoknak kétóránként szelfivel kell nyomot hagyniuk arról, hogy épp merre járnak.",
+          "source": "blikk.hu",
+          "related": false,
+          "hot_score": 5.75
         }
       ]
     }
