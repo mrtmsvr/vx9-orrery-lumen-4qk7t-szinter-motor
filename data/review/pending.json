@@ -11866,17 +11866,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-11T09:31:26+00:00",
-        "msg_ids": [
-          4828,
-          4829,
-          4830,
-          4831,
-          4832,
-          4833,
-          4834
-        ],
-        "control_id": 4835
-      }
+        "msg_ids": [],
+        "control_id": 4835,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:48 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-11T12:48:30+02:00"
     },
     {
       "id": "dd87490c-e428-5227-ac4a-5dc1156c5181",
