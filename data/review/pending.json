@@ -10767,7 +10767,7 @@
     {
       "id": "10317a60-19af-58e0-a2b4-c186a909682b",
       "slug": "2026-10-11-miert-faradunk-el-ha-egesz-nap-csak-ulunk",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -10815,7 +10815,7 @@
       "word_count": 515,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/gb2c154fb3ed725c56d45d6da564e3c33d6c67a06d09be7b9c95eaeabb28827502d30272d032d59d5cebb2bfd778e40c9711a607867b4dd5944aa8e003b99391c_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/7ac5955acf7bbb08.jpg",
         "width": 4080,
         "height": 2892,
         "kind": "photo",
@@ -10823,7 +10823,9 @@
         "credit": "Concord90 / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/young-woman-computer-work-fatigue-1064658/",
-        "vision_score": 10.0
+        "vision_score": 10.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/7ac5955acf7bbb08.jpg",
+        "orig_url": "https://pixabay.com/get/gb2c154fb3ed725c56d45d6da564e3c33d6c67a06d09be7b9c95eaeabb28827502d30272d032d59d5cebb2bfd778e40c9711a607867b4dd5944aa8e003b99391c_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -10973,7 +10975,7 @@
         "meta_title": "Miért fáradunk el, ha egész nap csak ülünk?",
         "meta_description": "Órák óta csak ülsz a monitor előtt, mégis alig bírsz megmozdulni estére, holott semmi nehezet nem emeltél? A tudomány most kezdi megérteni, miért okoz a puszta ",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-11-miert-faradunk-el-ha-egesz-nap-csak-ulunk/",
-        "og_image": "https://pixabay.com/get/gb2c154fb3ed725c56d45d6da564e3c33d6c67a06d09be7b9c95eaeabb28827502d30272d032d59d5cebb2bfd778e40c9711a607867b4dd5944aa8e003b99391c_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/7ac5955acf7bbb08.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -10988,9 +10990,9 @@
       "dedupe_hash": "223e81475ac4f7ca474e1fe185d5c2a3f68ab6cdb69bc58c7e61f5d107836dc8",
       "pipeline_run_id": "38113164649",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T07:03:17+02:00",
-      "updated_at": "2026-10-11T07:03:17+02:00",
-      "published_at": null,
+      "created_at": "2026-10-11T08:07:30+02:00",
+      "updated_at": "2026-10-11T08:07:30+02:00",
+      "published_at": "2026-10-11T08:07:30+02:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-11T09:02:36+02:00",
@@ -11004,15 +11006,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-11T05:03:21+00:00",
-        "msg_ids": [
-          4733,
-          4734,
-          4735,
-          4736,
-          4737
-        ],
-        "control_id": 4738
-      }
+        "msg_ids": [],
+        "control_id": 4738,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "9687c346-54c9-50ed-af00-e6bae8be260c",
