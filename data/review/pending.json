@@ -11602,9 +11602,9 @@
       "live": true
     },
     {
-      "id": "a55188d2-142d-54af-b9e8-57eb8dd83f14",
-      "slug": "2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni",
-      "status": "pending",
+      "id": "a211f31d-b588-5af0-a916-a9ebdc4d18a5",
+      "slug": "2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -11614,7 +11614,7 @@
         "technológia",
         "szerzői jog"
       ],
-      "title": "A ChatGPT már mások szignóját is képes lemásolni",
+      "title": "Aláírásokat is hamisít a ChatGPT: aggasztó irányt vett az OpenAI mesterséges intelligenciája",
       "subtitle": null,
       "lead": "Az OpenAI mesterséges intelligenciája a gyanú szerint fejlett képhamisítási képességekről tett tanúbizonyságot: neves művészek alkotásait és kézjegyét is képes reprodukálni. A technológiai áttörés újabb vitákat gerjeszt a digitális tartalmak hitelességéről és a szerzői jogok sérüléséről.",
       "key_points": [
@@ -11634,15 +11634,15 @@
       "word_count": 197,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/8K_Futuristic_Digital_Art_Wallpaper.jpg/1280px-8K_Futuristic_Digital_Art_Wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 751,
+        "height": 545,
         "kind": "photo",
         "pos": "center",
-        "alt": "Categorize algorithms based on their use in relation to human activities.",
-        "credit": "Cyrilht / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png"
+        "alt": "8K Futuristic Digital Art Wallpaper",
+        "credit": "Satheesh Sankaran / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:8K_Futuristic_Digital_Art_Wallpaper.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11780,12 +11780,12 @@
       },
       "date": "2026-10-12",
       "date_label": "október 12.",
-      "url": "/tech/2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni/",
+      "url": "/tech/2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste/",
       "seo": {
-        "meta_title": "A ChatGPT már mások szignóját is képes lemásolni",
+        "meta_title": "Aláírásokat is hamisít a ChatGPT: aggasztó irányt vett az Op",
         "meta_description": "Az OpenAI mesterséges intelligenciája váratlanul fejlett képhamisítási képességekről tett tanúbizonyságot: neves művészek alkotásait és kézjegyét is képes repro",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/8K_Futuristic_Digital_Art_Wallpaper.jpg/1280px-8K_Futuristic_Digital_Art_Wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11802,9 +11802,9 @@
       "dedupe_hash": "7d2c69e896ace2eb3486264cadf6c89e189604f2ad0deb14e08bd01f7af76b48",
       "pipeline_run_id": "38239349776",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T13:12:11+02:00",
-      "updated_at": "2026-10-12T13:12:11+02:00",
-      "published_at": "2026-10-12T13:12:11+02:00",
+      "created_at": "2026-10-12T14:00:47+02:00",
+      "updated_at": "2026-10-12T14:00:47+02:00",
+      "published_at": "2026-10-12T14:00:47+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11822,9 +11822,9 @@
         "msg_ids": [],
         "control_id": 5233,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 14:00 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-12T14:00:46+02:00"
+      "live": true
     },
     {
       "id": "9d00054e-5c94-5c39-8b1e-92adb210a507",
