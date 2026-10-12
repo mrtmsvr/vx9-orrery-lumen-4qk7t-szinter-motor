@@ -13823,6 +13823,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/8af5c45209-1791786524-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/8af5c45209-1791786524-0.jpg",
+          "kind": "photo",
+          "alt": "Térképre rajzolta a Harmadik Birodalom határait az AfD ifjúsági vezetője?",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/8af5c45209-1791786526-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/8af5c45209-1791786526-1.jpg",
+          "kind": "photo",
+          "alt": "Térképre rajzolta a Harmadik Birodalom határait az AfD ifjúsági vezetője?",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Alternative_for_Germany_%28alternative%29.svg/1280px-Flag_of_Alternative_for_Germany_%28alternative%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 720,
@@ -13903,9 +13925,11 @@
           5112,
           5113,
           5117,
-          5118
+          5118,
+          5120,
+          5121
         ],
-        "control_id": 5119
+        "control_id": 5122
       },
       "image_queries": [
         "Luca Moritz Strauß",
