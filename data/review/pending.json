@@ -11761,7 +11761,7 @@
     {
       "id": "308460fd-1125-580a-9740-619ab312ce6e",
       "slug": "2026-10-12-borton-es-kolteszet-bertok-laszlo-fianak-vallomasa",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -11885,9 +11885,9 @@
       "dedupe_hash": "621b406bdaf6e9fc6228c83bba62867ef91324818762bead50fac15b592dba4b",
       "pipeline_run_id": "38261151688",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T16:20:41+02:00",
-      "updated_at": "2026-10-12T16:20:41+02:00",
-      "published_at": "2026-10-12T16:20:41+02:00",
+      "created_at": "2026-10-12T19:10:40+02:00",
+      "updated_at": "2026-10-12T19:10:40+02:00",
+      "published_at": "2026-10-12T19:10:40+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11897,12 +11897,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-12T14:22:02+00:00",
-        "msg_ids": [
-          5326,
-          5327
-        ],
-        "control_id": 5328
-      }
+        "msg_ids": [],
+        "control_id": 5328,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "2f2356ba-0a11-548b-9dba-dd05ce0cc88a",
