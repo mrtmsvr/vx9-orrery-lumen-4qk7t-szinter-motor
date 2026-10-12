@@ -13830,17 +13830,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-12T05:10:30+00:00",
-        "msg_ids": [
-          5098,
-          5099,
-          5100,
-          5101,
-          5102,
-          5103,
-          5104
-        ],
-        "control_id": 5105
-      }
+        "msg_ids": [],
+        "control_id": 5105,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:13 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-12T08:13:28+02:00"
     }
   ]
 }
