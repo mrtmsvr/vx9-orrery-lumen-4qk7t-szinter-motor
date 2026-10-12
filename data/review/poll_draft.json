@@ -1,35 +1,35 @@
 {
-  "id": "1936f9a8b8",
-  "date": "2026-10-11",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-10-megszolalt-a-jegybankelnok-ezt-gondolja-a-magyar-eurorol/",
-  "article_title": "Megszólalt a jegybankelnök: ezt gondolja a magyar euróról",
-  "category": "kozelet",
+  "id": "e06765e05a",
+  "date": "2026-10-12",
+  "status": "skipped",
+  "article_url": "/penzvilag/2026-10-12-igy-faragna-le-a-hazai-kamatterheket-az-akk-vezetoje/",
+  "article_title": "Így faragná le a hazai kamatterheket az ÁKK vezetője",
+  "category": "penzvilag",
   "choices": [
     {
-      "question": "Ön szerint mielőbb be kell vezetni az eurót Magyarországon?",
+      "question": "Ön szerint helyes lépés lenne az eurózónához csatlakozni az adósságteher csökkentése érdekében?",
       "options": [
-        "Igen, mielőbb csatlakozni kell az eurózónához",
-        "Nem, a hazai fizetőeszközt kell megőrizni",
+        "Igen, mielőbb csatlakozni kell",
+        "Nem, meg kell tartani a forintot",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a magyar euró bevezetésénél?",
+      "question": "Helyes-e az Államadósság Kezelő Központ javaslata az euró bevezetésének megfontolásáról?",
       "options": [
-        "A gazdaság teljes felkészülését a csatlakozás előtt",
-        "A határidőhöz kötött, minél gyorsabb bevezetést",
+        "Igen, támogatom a javaslatot",
+        "Nem, nem értek vele egyet",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesli-e, hogy a jegybank az euró bevezetését támogatja?",
+      "question": "Jó irányba viszi az országot az európai fizetőeszközhöz való közeledés?",
       "options": [
-        "Igen, helyeslem a jegybanki támogatást",
-        "Nem, a jegybank ne foglaljon ebben állást",
+        "Igen, előnyös a gazdaságnak",
+        "Nem, kifejezetten kockázatos",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 4892
+  "msg_id": 5141
 }
