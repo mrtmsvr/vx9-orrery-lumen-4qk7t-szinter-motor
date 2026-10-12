@@ -13330,6 +13330,255 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "2ac58bb5-3b0a-5d02-a5b0-35b2c81fdee8",
+      "slug": "2026-10-12-adatszivargas-a-kifli-hu-nal-illetektelenek-fertek-hozza-a-belso-rend",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Kifli.hu",
+        "adatszivárgás",
+        "kiberbiztonság",
+        "adatvédelem",
+        "adathalászat"
+      ],
+      "title": "Adatszivárgás a Kifli.hu-nál: illetéktelenek fértek hozzá a belső rendszerekhez",
+      "subtitle": null,
+      "lead": "Adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét október elején, miután támadók behatoltak a cég belső ügyfélszolgálati rendszerébe. Az ügyfelek korábbi kommunikációja és személyes adatai is kiszivároghattak.",
+      "key_points": [
+        "Október 5-én észlelték a jogosulatlan behatolást és adatletöltést a Kifli.hu belső rendszerében.",
+        "A támadók hozzáfértek az e-mailekhez, a chatbeszélgetésekhez és a telefonhívások leirataihoz is.",
+        "A vállalat kijavította a hibát, de fokozott óvatosságra inti a vásárlókat az adathalász-kísérletek miatt."
+      ],
+      "content": "Október elején adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét, miután illetéktelen személyek hatoltak be a cég belső ügyfélszolgálati rendszerébe. A vállalat az érintett ügyfeleknek küldött tájékoztató levelében számolt be arról, hogy október 5-én észlelték a jogosulatlan behatolást és az adatletöltést.\n\nA támadók hozzáfértek a vásárlók és az ügyfélszolgálat közötti üzenetváltások egy részéhez, függetlenül attól, hogy az ügyfelek élő munkatárssal vagy virtuális asszisztenssel beszéltek. A megszerzett adatok köre az alábbiakat foglalja magában:\n\n- a 2026. július 8. óta küldött e-maileket,\n\n- a 2026. április 21. utáni chatbeszélgetéseket,\n\n- a telefonhívások leiratait a telefonszámokkal együtt,\n\n- a beszélgetésekbe feltöltött fájlokat, lakcímeket, bevásárlólistákat és egyéb személyes megjegyzéseket.\n\nA cég közlése szerint a biztonsági rést azóta elhárították, és a jogosulatlan hozzáférést megszüntették. A vállalat azonban nyomatékosan figyelmezteti az ügyfeleket, hogy a kiberbűnözők ezeket az információkat személyre szabott, hitelesnek tűnő adathalász e-mailekhez vagy telefonhívásokhoz használhatják fel, például a cég munkatársának kiadva magukat.\n\nAz online bevásárlófelület azt javasolja a vásárlóknak, hogy ha gyanús üzenetet kapnak, semmiképp ne kattintsanak a benne lévő hivatkozásokra, hanem önállóan nyissák meg a hivatalos weboldalt. Emellett felhívták a figyelmet arra, hogy kéretlen üzenetekre válaszolva senki ne adja meg jelszavait, internetbanki belépési adatait, bankkártya-információit vagy jóváhagyási kódjait.",
+      "content_format": "markdown",
+      "body": [
+        "Október elején adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét, miután illetéktelen személyek hatoltak be a cég belső ügyfélszolgálati rendszerébe. A vállalat az érintett ügyfeleknek küldött tájékoztató levelében számolt be arról, hogy október 5-én észlelték a jogosulatlan behatolást és az adatletöltést.",
+        "A támadók hozzáfértek a vásárlók és az ügyfélszolgálat közötti üzenetváltások egy részéhez, függetlenül attól, hogy az ügyfelek élő munkatárssal vagy virtuális asszisztenssel beszéltek. A megszerzett adatok köre az alábbiakat foglalja magában:",
+        "- a 2026. július 8. óta küldött e-maileket,",
+        "- a 2026. április 21. utáni chatbeszélgetéseket,",
+        "- a telefonhívások leiratait a telefonszámokkal együtt,",
+        "- a beszélgetésekbe feltöltött fájlokat, lakcímeket, bevásárlólistákat és egyéb személyes megjegyzéseket.",
+        "A cég közlése szerint a biztonsági rést azóta elhárították, és a jogosulatlan hozzáférést megszüntették. A vállalat azonban nyomatékosan figyelmezteti az ügyfeleket, hogy a kiberbűnözők ezeket az információkat személyre szabott, hitelesnek tűnő adathalász e-mailekhez vagy telefonhívásokhoz használhatják fel, például a cég munkatársának kiadva magukat.",
+        "Az online bevásárlófelület azt javasolja a vásárlóknak, hogy ha gyanús üzenetet kapnak, semmiképp ne kattintsanak a benne lévő hivatkozásokra, hanem önállóan nyissák meg a hivatalos weboldalt. Emellett felhívták a figyelmet arra, hogy kéretlen üzenetekre válaszolva senki ne adja meg jelszavait, internetbanki belépési adatait, bankkártya-információit vagy jóváhagyási kódjait."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 222,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lone_Shopping_Cart_Goes_to_School.webp/1280px-Lone_Shopping_Cart_Goes_to_School.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Good old Lone Shopping Cart!",
+        "credit": "Whythealgarve / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lone_Shopping_Cart_Goes_to_School.webp"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261011/feltortek-a-nepszeru-magyar-hazhozszallito-rendszeret-kiszivaroghattak-a-felhasznalok-adatai-868962",
+          "title": "Feltörték a népszerű magyar házhozszállító rendszerét, kiszivároghattak a felhasználók adatai",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T06:44:19+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kifli-hu-adatszivargas-ugyfelek-feltortek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Baj van: feltörték a Kifli.hu rendszerét, adatszivárgás történt, kikerültek az ügyfelek adatai",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T06:44:19+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az adatok felhasználhatók személyre szabott csaló e-mailekhez, üzenetekhez vagy telefonhívásokhoz, például a Kifli ügyfélszolgálatának vagy visszatérítést intéző személynek a megszemélyesítésére",
+        "who": "Kifli.hu, online bevásárló vállalat",
+        "after": 5
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 10.0,
+      "title_options": [
+        "Adatszivárgás a Kifli.hu-nál: illetéktelenek fértek hozzá a belső rendszerekhez",
+        "Komoly adatszivárgás rázta meg a Kifli.hu online bevásárlófelületét",
+        "Hatalmas adatszivárgás: a Kifli.hu ügyfeleinek adatai kerültek veszélybe",
+        "Ezt a hibát ne kövesd el, ha te is vásároltál a Kifli.hu-n",
+        "Ilyen üzenetekkel próbálkoznak a csalók a Kifli.hu feltörése után"
+      ],
+      "clickbait_from": 2,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lone_Shopping_Cart_Goes_to_School.webp/1280px-Lone_Shopping_Cart_Goes_to_School.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Good old Lone Shopping Cart!",
+          "credit": "Whythealgarve / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Lone_Shopping_Cart_Goes_to_School.webp"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Shopping_cart_anmd_shelter.png/1280px-Shopping_cart_anmd_shelter.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "store in plaza in Warren, NJ",
+          "credit": "Curlyrnd / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Shopping_cart_anmd_shelter.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Collage_for_security_method_of_applying_glitter_nail_varnish_to_computer_screws.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 673,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Collage for security method of applying glitter nail varnish to computer screws on the reverse side of a Chromebook computer. Glitter nail varnish produces unrepeatable patterns that are destroyed thr",
+          "credit": "MarkJFernandes / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Collage_for_security_method_of_applying_glitter_nail_varnish_to_computer_screws.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Computer_security_Barnstar.png/1280px-Computer_security_Barnstar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1140,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Computer security Barnstar",
+          "credit": "Jerium / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Computer_security_Barnstar.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/One_Breach%2C_Lasting_Damage_Infographic.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "This is an simple infographic reminding users of data breaches.",
+          "credit": "ChippyTimeCom / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:One_Breach,_Lasting_Damage_Infographic.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Average_cost_of_a_data_breach_by_country_or_region%2C_2022%E2%80%932023.png/1280px-Average_cost_of_a_data_breach_by_country_or_region%2C_2022%E2%80%932023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 621,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Data from March 2022 to March 2023",
+          "credit": "Auto generated chart / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Average_cost_of_a_data_breach_by_country_or_region,_2022%E2%80%932023.png"
+        },
+        {
+          "url": "https://pixabay.com/get/g3ce4b806c7e2c6e55cc44862c5a341be60394a7cb5e720139b1a46156eb8327826d333e93a75f8cbe9ef0ae79dd62f5875bbf8b13c80ddd92cff3fa6362c19fc_1280.jpg",
+          "width": 4608,
+          "height": 2592,
+          "kind": "photo",
+          "alt": "keyboard, computer, keys, white, periphery, chewing gum keyboard, input device, chiclet keyboard, letters, laptop, hardware, computer keyboard, datailaufnahme, tap, write, abc, keyboard, keyboard, key",
+          "credit": "Simon / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/keyboard-computer-keys-white-886462/"
+        },
+        {
+          "url": "https://pixabay.com/get/g22997f4d94c93d8b45954979a461e17ce237b88a83ae5efb987fd1a1b408e6316bff0016e8ad7784feabe0f17e0836afd58ae662138d58e55552b9f7e0949107_1280.jpg",
+          "width": 5662,
+          "height": 3774,
+          "kind": "photo",
+          "alt": "dog, containment, telework, pet, bichon, havanese, cute, nature, laptop, keyboard, animal, computer science, reflection, animals",
+          "credit": "MarlyneArt / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/dog-containment-telework-bichon-4977599/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Feltörték a népszerű magyar házhozszállító rendszerét, kiszivároghattak a felhasználók adatai",
+          "link": "https://www.portfolio.hu/gazdasag/20261011/feltortek-a-nepszeru-magyar-hazhozszallito-rendszeret-kiszivaroghattak-a-felhasznalok-adatai-868962",
+          "summary": "Adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét, miután október elején illetéktelenek törtek be a cég belső ügyfélszolgálati rendszerébe, megszerezve számos magyar felhasználó korábbi kommunikációját és személyes adatait. Bár a vállalat azóta elhárította a biztonsági rést, arra figyelmeztetik az érintetteket, hogy fokozottan ügyeljenek a cég nevében érkező adathalász-kísérletekre - írta a HVG .",
+          "source": "portfolio.hu",
+          "related": null,
+          "hot_score": 10.0
+        },
+        {
+          "title": "Baj van: feltörték a Kifli.hu rendszerét, adatszivárgás történt, kikerültek az ügyfelek adatai",
+          "link": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kifli-hu-adatszivargas-ugyfelek-feltortek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "summary": "Október elején valaki betört a Kifli.hu rendszeréve, és hozzáfért több fontos adathoz is – ezt most közölte az online bevásárló vállalat.",
+          "source": "vg.hu",
+          "related": null,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261011/feltortek-a-nepszeru-magyar-hazhozszallito-rendszeret-kiszivaroghattak-a-felhasznalok-adatai-868962",
+          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kifli-hu-adatszivargas-ugyfelek-feltortek?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/kozelet/2026-10-12-adatszivargas-a-kifli-hu-nal-illetektelenek-fertek-hozza-a-belso-rend/",
+      "seo": {
+        "meta_title": "Adatszivárgás a Kifli.hu-nál: illetéktelenek fértek hozzá a ",
+        "meta_description": "Adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét október elején, miután támadók behatoltak a cég belső ügyfélszolgálati rendszerébe. Az ügyfelek k",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-adatszivargas-a-kifli-hu-nal-illetektelenek-fertek-hozza-a-belso-rend/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lone_Shopping_Cart_Goes_to_School.webp/1280px-Lone_Shopping_Cart_Goes_to_School.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "03682d11e6829d8f4ffa700ba4d61292d7885a473a243eb109a99b4b9379b9b6",
+      "pipeline_run_id": "38203816054",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T06:44:19+02:00",
+      "updated_at": "2026-10-12T06:44:19+02:00",
+      "published_at": "2026-10-12T06:44:19+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-12T04:45:07+00:00",
+        "msg_ids": [
+          5086,
+          5087,
+          5088,
+          5089,
+          5090,
+          5091,
+          5092,
+          5093,
+          5094
+        ],
+        "control_id": 5095
+      }
     }
   ]
 }
