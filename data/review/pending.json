@@ -11228,17 +11228,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-12T10:18:01+00:00",
-        "msg_ids": [
-          5176,
-          5177,
-          5178,
-          5179,
-          5180,
-          5181,
-          5198,
-          5199
-        ],
-        "control_id": 5200
+        "msg_ids": [],
+        "control_id": 5200,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:00 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Gergely Bardóczy",
@@ -11255,7 +11248,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg/1280px-More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-12T13:00:38+02:00"
     },
     {
       "id": "83dd2715-bb18-546a-8d20-bbdd49f28bf6",
