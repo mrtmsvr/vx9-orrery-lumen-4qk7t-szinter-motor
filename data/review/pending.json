@@ -10693,6 +10693,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cd237d04ed-1791800455-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cd237d04ed-1791800455-0.jpg",
+          "kind": "photo",
+          "alt": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cd237d04ed-1791800456-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cd237d04ed-1791800456-1.jpg",
+          "kind": "photo",
+          "alt": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/EU%E2%80%93Ukraine_Summit%2C_08.07.2004_%28P-010807_00-4%29.jpg/1280px-EU%E2%80%93Ukraine_Summit%2C_08.07.2004_%28P-010807_00-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 803,
@@ -10758,9 +10780,11 @@
         "sent_at": "2026-10-12T10:17:44+00:00",
         "msg_ids": [
           5162,
-          5163
+          5163,
+          5194,
+          5195
         ],
-        "control_id": 5164
+        "control_id": 5196
       }
     },
     {
