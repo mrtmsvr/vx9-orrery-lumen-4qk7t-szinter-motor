@@ -11069,7 +11069,7 @@
     {
       "id": "80733af6-2b7f-5bda-b7d1-c6a46634bbae",
       "slug": "2026-10-12-egy-dollarert-adott-el-egy-luxusautot-egy-ovatlanul-bevezetett-chatbo",
-      "status": "pending",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -11100,15 +11100,17 @@
       "word_count": 277,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1478,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/7fc3e9ca9388d25f.jpg",
+        "width": 5000,
+        "height": 3337,
         "kind": "photo",
-        "pos": "top",
-        "alt": "The raise of AI over the last 8 decades",
-        "credit": "Our World in Data / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png"
+        "alt": "car, car wallpapers, machine, infiniti, car showroom, new cars, only, sale, motor, technology, speed, transport",
+        "credit": "99mimimi / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/car-machine-infiniti-car-showroom-4597207/",
+        "vision_score": 5.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/7fc3e9ca9388d25f.jpg",
+        "orig_url": "https://pixabay.com/get/g6535287e4ec233ea5c145b9afcfc239f20cac43603576636cc696ae2f9ab0d1b88e7577728973cd044d246b6d7ef758bda3436dbc6f4fc43661e44c51f7227ee_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11189,7 +11191,7 @@
         "meta_title": "Egy dollárért adott el egy luxusautót egy óvatlanul bevezete",
         "meta_description": "A mesterséges intelligencia vállalati térnyerése komoly kockázatokat és sorozatos kudarcokat rejt, ha a technológiát megfelelő ellenőrzés nélkül vezetik be. Err",
         "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-egy-dollarert-adott-el-egy-luxusautot-egy-ovatlanul-bevezetett-chatbo/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/7fc3e9ca9388d25f.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11206,9 +11208,9 @@
       "dedupe_hash": "489889a62d41d87eac165d5a47c8d90cf9c908812eeeef9f993808638e4a5e27",
       "pipeline_run_id": "38234670180",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T12:16:48+02:00",
-      "updated_at": "2026-10-12T12:16:48+02:00",
-      "published_at": "2026-10-12T12:16:48+02:00",
+      "created_at": "2026-10-12T13:00:46+02:00",
+      "updated_at": "2026-10-12T13:00:46+02:00",
+      "published_at": "2026-10-12T13:00:46+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11221,7 +11223,7 @@
         "msg_ids": [],
         "control_id": 5200,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 13:00 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Gergely Bardóczy",
@@ -11239,7 +11241,7 @@
         "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ],
-      "scheduled_at": "2026-10-12T13:00:38+02:00"
+      "live": true
     },
     {
       "id": "a1201d71-6aba-57cf-9674-b6cd7e2c7740",
