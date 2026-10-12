@@ -11786,6 +11786,238 @@
         "compact": "🕒 Kint lesz 13:20 (✏️ → ✅ = azonnal)"
       },
       "scheduled_at": "2026-10-12T13:20:46+02:00"
+    },
+    {
+      "id": "a55188d2-142d-54af-b9e8-57eb8dd83f14",
+      "slug": "2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "ChatGPT",
+        "mesterséges intelligencia",
+        "OpenAI",
+        "technológia",
+        "szerzői jog"
+      ],
+      "title": "A ChatGPT már mások szignóját is képes lemásolni",
+      "subtitle": null,
+      "lead": "Az OpenAI mesterséges intelligenciája a gyanú szerint fejlett képhamisítási képességekről tett tanúbizonyságot: neves művészek alkotásait és kézjegyét is képes reprodukálni. A technológiai áttörés újabb vitákat gerjeszt a digitális tartalmak hitelességéről és a szerzői jogok sérüléséről.",
+      "key_points": [
+        "A ChatGPT a gyanú szerint képes pontosan lemásolni ismert karikaturisták alkotásait.",
+        "A szoftver emellett a művészek egyedi aláírását is képes utánozni a gyanú szerint.",
+        "A technológiai képesség komoly jogi és etikai kérdéseket vet fel az alkotói tulajdonnal kapcsolatban."
+      ],
+      "content": "Az elmúlt időszakban végzett felhasználói tesztek rávilágítottak arra, hogy az OpenAI által fejlesztett ChatGPT már nem csupán szöveges tartalmak előállítására alkalmas, hanem a gyanú szerint precíz vizuális hamisításokra is képes. A szoftver különösebb nehézség nélkül reprodukálta egy neves amerikai hetilap karikatúráit, sőt, a művészek kézzel írott szignóját is megtévesztő pontossággal utánozta.\n\nA mesterséges intelligencia – amely hatalmas adatmennyiségből tanulva ismeri fel a mintázatokat és generál azok alapján új tartalmakat – ezzel a funkcióval a gyanú szerint átlépte azt a határt, ahol a puszta stílusutánzás konkrét csalásba fordulhat. A probléma lényege, hogy a digitális eszköz képes olyan vizuális jegyeket, mint egy egyedi aláírás, az eredetivel megszólalásig megegyező módon megjeleníteni, ami különösen kockázatos lehet a hitelesített dokumentumok vagy a szerzői jogi védelem alatt álló grafikák esetében.\n\nAz eset rámutat, hogy a technológiai fejlődés tempója sokszor megelőzi a jogi szabályozást és azokat a biztonsági korlátokat, amelyek a visszaéléseket hivatottak megakadályozni. A fejlesztők számára ez komoly kihívást jelent: hogyan biztosítható, hogy a rendszer ne generáljon vagy másoljon olyan tartalmakat, amelyek a gyanú szerint sértik az alkotók szellemi tulajdonhoz fűződő jogait.",
+      "content_format": "markdown",
+      "body": [
+        "Az elmúlt időszakban végzett felhasználói tesztek rávilágítottak arra, hogy az OpenAI által fejlesztett ChatGPT már nem csupán szöveges tartalmak előállítására alkalmas, hanem a gyanú szerint precíz vizuális hamisításokra is képes. A szoftver különösebb nehézség nélkül reprodukálta egy neves amerikai hetilap karikatúráit, sőt, a művészek kézzel írott szignóját is megtévesztő pontossággal utánozta.",
+        "A mesterséges intelligencia – amely hatalmas adatmennyiségből tanulva ismeri fel a mintázatokat és generál azok alapján új tartalmakat – ezzel a funkcióval a gyanú szerint átlépte azt a határt, ahol a puszta stílusutánzás konkrét csalásba fordulhat. A probléma lényege, hogy a digitális eszköz képes olyan vizuális jegyeket, mint egy egyedi aláírás, az eredetivel megszólalásig megegyező módon megjeleníteni, ami különösen kockázatos lehet a hitelesített dokumentumok vagy a szerzői jogi védelem alatt álló grafikák esetében.",
+        "Az eset rámutat, hogy a technológiai fejlődés tempója sokszor megelőzi a jogi szabályozást és azokat a biztonsági korlátokat, amelyek a visszaéléseket hivatottak megakadályozni. A fejlesztők számára ez komoly kihívást jelent: hogyan biztosítható, hogy a rendszer ne generáljon vagy másoljon olyan tartalmakat, amelyek a gyanú szerint sértik az alkotók szellemi tulajdonhoz fűződő jogait."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 197,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 751,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Categorize algorithms based on their use in relation to human activities.",
+        "credit": "Cyrilht / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261012_karikaturistak-alairasai-chatgpt-hamisitas",
+          "title": "Aláírásokat hamisít a ChatGPT",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T13:12:11+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.5,
+      "title_options": [
+        "A ChatGPT már mások szignóját is képes lemásolni",
+        "Aláírásokat is hamisít a ChatGPT: aggasztó irányt vett az OpenAI mesterséges intelligenciája",
+        "Komoly aggályokat vet fel az OpenAI képhamisítási képessége",
+        "Mostantól bárki aláírását hamisíthatja a ChatGPT?",
+        "Leleplezték: így csal a ChatGPT az ismert karikaturisták munkáival",
+        "Ezért lehet veszélyes a ChatGPT legújabb fejlesztése"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 751,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Categorize algorithms based on their use in relation to human activities.",
+          "credit": "Cyrilht / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Neural net completion for \"artificial intelligence\", as done by DALL-E mini hosted on HuggingFace, 4 June 2022 (code under Apache 2.0 license). Upscaled with Real-ESRGAN \"Anime\" upscaling version (und",
+          "credit": "Prompt by JPxG, model by Boris Dayma, upscaler by Xintao Wang, Liangbin Xie et a / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_intelligence_prompt_completion_by_dalle_mini.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/ChatGPT_essay_draft.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 834,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Example of asking ChatGPT to generate an essay draft.",
+          "credit": "ChatGPT / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:ChatGPT_essay_draft.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/ChatGPT_Biden_and_Trump.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1786,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "ChatGPT is a large language model that responds to human speech. In this sample, the user prompts ChatGPT to write a poem in iambic pentameter about two individuals: Joe Biden and Donald Trump. ChatGP",
+          "credit": "ChatGPT and User:Red-tailed hawk / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:ChatGPT_Biden_and_Trump.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/8K_Futuristic_Digital_Art_Wallpaper.jpg/1280px-8K_Futuristic_Digital_Art_Wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 545,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "8K Futuristic Digital Art Wallpaper",
+          "credit": "Satheesh Sankaran / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:8K_Futuristic_Digital_Art_Wallpaper.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Digital_art_of_GudiiPyne_a.k.a_Jay_Of_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Digital art of GudiiPyne a.k.a Jay Of May",
+          "credit": "GudiiPyne / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Digital_art_of_GudiiPyne_a.k.a_Jay_Of_May.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Nintendo_Software_Technology.png/1280px-Nintendo_Software_Technology.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 798,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The exterior of Nintendo Software Technology",
+          "credit": "Jon Wilcox from Seattle, USA / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nintendo_Software_Technology.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/C7_Software_Technology_Park_Station_20240808.jpg/1280px-C7_Software_Technology_Park_Station_20240808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Software Technology Park Station",
+          "credit": "鐵路Railway / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:C7_Software_Technology_Park_Station_20240808.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Aláírásokat hamisít a ChatGPT",
+          "link": "https://hvg.hu/tudomany/20261012_karikaturistak-alairasai-chatgpt-hamisitas",
+          "summary": "Remekel a hamisításban az OpenAI mesterséges intelligenciája, a ChatGPT. Többek között egy neves amerikai hetilap karikatúráit is másolta, sőt még az ismert karikaturisták szignóját is „aláhamisította”.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.5
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261012_karikaturistak-alairasai-chatgpt-hamisitas"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/tech/2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni/",
+      "seo": {
+        "meta_title": "A ChatGPT már mások szignóját is képes lemásolni",
+        "meta_description": "Az OpenAI mesterséges intelligenciája váratlanul fejlett képhamisítási képességekről tett tanúbizonyságot: neves művészek alkotásait és kézjegyét is képes repro",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-a-chatgpt-mar-masok-szignojat-is-kepes-lemasolni/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "7d2c69e896ace2eb3486264cadf6c89e189604f2ad0deb14e08bd01f7af76b48",
+      "pipeline_run_id": "38239349776",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T13:12:11+02:00",
+      "updated_at": "2026-10-12T13:12:11+02:00",
+      "published_at": "2026-10-12T13:12:11+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": [],
+        "auto_fixed": [
+          "Bűnügyi tartalmú állítások feltételes módba („a gyanú szerint”) helyezése.",
+          "Tényként kezelt állítások tompítása az ártatlanság vélelmének betartásával.",
+          "Feltételes mód használata a csalásra és jogsértésre vonatkozó állításoknál."
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-12T11:12:41+00:00",
+        "msg_ids": [
+          5224,
+          5225,
+          5226,
+          5227,
+          5228,
+          5229,
+          5230,
+          5231,
+          5232
+        ],
+        "control_id": 5233
+      }
     }
   ]
 }
