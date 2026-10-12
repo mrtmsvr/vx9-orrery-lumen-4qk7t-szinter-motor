@@ -14065,26 +14065,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784490-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1791784490-0.jpg",
-          "kind": "photo",
-          "alt": "Nagy-Németország határait rajzolta újra egy fiatal politikus az X-en",
-          "likeness": true,
-          "credit": "AI-generált illusztráció – Kollektíva",
-          "license": "saját (AI-generált illusztráció)",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Alternative_for_Germany_%28alternative%29.svg/1280px-Flag_of_Alternative_for_Germany_%28alternative%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 720,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Alternative flag of Alternative for Germany.",
+          "credit": "Haisollokopas / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Alternative_for_Germany_(alternative).svg",
+          "vision_score": 7.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784493-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1791784493-1.jpg",
-          "kind": "photo",
-          "alt": "Nagy-Németország határait rajzolta újra egy fiatal politikus az X-en",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_Alternative_for_Germany_%282021%29.svg/1280px-Flag_of_the_Alternative_for_Germany_%282021%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 720,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Flag of the Alternative for Germany (AfD) from 2021, political party in Germany.",
+          "credit": "ThecentreCZ / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Alternative_for_Germany_(2021).svg",
+          "vision_score": 7.0
         }
       ],
       "story": [
@@ -14136,15 +14138,30 @@
       },
       "review": {
         "title": 3,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-12T05:55:32+00:00",
         "msg_ids": [
           5111,
           5112,
-          5113
+          5113,
+          5117,
+          5118
         ],
-        "control_id": 5114
-      }
+        "control_id": 5119
+      },
+      "image_queries": [
+        "Luca Moritz Strauß",
+        "Alternative for Germany",
+        "Generation Germany",
+        "Austria",
+        "France",
+        "political protest",
+        "map illustration"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784493-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784490-0.jpg"
+      ]
     }
   ]
 }
