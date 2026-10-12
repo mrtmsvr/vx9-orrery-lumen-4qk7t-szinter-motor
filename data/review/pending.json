@@ -13334,7 +13334,7 @@
     {
       "id": "2ac58bb5-3b0a-5d02-a5b0-35b2c81fdee8",
       "slug": "2026-10-12-adatszivargas-a-kifli-hu-nal-illetektelenek-fertek-hozza-a-belso-rend",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -13369,15 +13369,15 @@
       "word_count": 222,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lone_Shopping_Cart_Goes_to_School.webp/1280px-Lone_Shopping_Cart_Goes_to_School.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Computer_security_Barnstar.png/1280px-Computer_security_Barnstar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 1140,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Good old Lone Shopping Cart!",
-        "credit": "Whythealgarve / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Lone_Shopping_Cart_Goes_to_School.webp"
+        "pos": "top",
+        "alt": "Computer security Barnstar",
+        "credit": "Jerium / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_security_Barnstar.png"
       },
       "inline_images": [],
       "sources": [
@@ -13537,7 +13537,7 @@
         "meta_title": "Adatszivárgás a Kifli.hu-nál: illetéktelenek fértek hozzá a ",
         "meta_description": "Adatvédelmi incidens érte a Kifli.hu online bevásárlófelületét október elején, miután támadók behatoltak a cég belső ügyfélszolgálati rendszerébe. Az ügyfelek k",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-adatszivargas-a-kifli-hu-nal-illetektelenek-fertek-hozza-a-belso-rend/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lone_Shopping_Cart_Goes_to_School.webp/1280px-Lone_Shopping_Cart_Goes_to_School.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Computer_security_Barnstar.png/1280px-Computer_security_Barnstar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13554,9 +13554,9 @@
       "dedupe_hash": "03682d11e6829d8f4ffa700ba4d61292d7885a473a243eb109a99b4b9379b9b6",
       "pipeline_run_id": "38203816054",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T06:44:19+02:00",
-      "updated_at": "2026-10-12T06:44:19+02:00",
-      "published_at": "2026-10-12T06:44:19+02:00",
+      "created_at": "2026-10-12T07:53:28+02:00",
+      "updated_at": "2026-10-12T07:53:28+02:00",
+      "published_at": "2026-10-12T07:53:28+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13566,19 +13566,12 @@
         "title": 0,
         "image": 3,
         "sent_at": "2026-10-12T04:45:07+00:00",
-        "msg_ids": [
-          5086,
-          5087,
-          5088,
-          5089,
-          5090,
-          5091,
-          5092,
-          5093,
-          5094
-        ],
-        "control_id": 5095
-      }
+        "msg_ids": [],
+        "control_id": 5095,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "e2835cdd-c040-5c21-83f6-e5507921ffc2",
