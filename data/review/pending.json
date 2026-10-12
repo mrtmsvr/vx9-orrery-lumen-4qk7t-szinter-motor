@@ -10463,7 +10463,7 @@
     {
       "id": "79fc58e6-6bae-546f-987f-2b901327d262",
       "slug": "2026-10-12-parkolasi-egyezseg-eloremutato-lepes-vagy-csapda-a-fovarosnak",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10601,9 +10601,9 @@
       "dedupe_hash": "b4d72ad9473ead289a6b2b8f280b27f0d328cad204fb46c7bf8ff609bf8883eb",
       "pipeline_run_id": "38285175047",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T19:42:27+02:00",
-      "updated_at": "2026-10-12T19:42:27+02:00",
-      "published_at": "2026-10-12T19:42:27+02:00",
+      "created_at": "2026-10-12T21:44:49+02:00",
+      "updated_at": "2026-10-12T21:44:49+02:00",
+      "published_at": "2026-10-12T21:44:49+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -10620,12 +10620,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-12T17:43:04+00:00",
-        "msg_ids": [
-          5358,
-          5359
-        ],
-        "control_id": 5360
-      }
+        "msg_ids": [],
+        "control_id": 5360,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
