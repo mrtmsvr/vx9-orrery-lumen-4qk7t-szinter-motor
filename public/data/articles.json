@@ -1,7 +1,105 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T13:34:04+02:00",
+  "updated_at": "2026-10-12T13:40:50+02:00",
   "articles": [
+    {
+      "id": "d0207603-c55f-556e-b1eb-b985ddef48e6",
+      "slug": "2026-10-12-krakkoi-pofon-sulyos-vereseget-szenvedett-a-kormanyparti-jelolt",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Lengyelország",
+        "Krakkó",
+        "választás",
+        "külpolitika"
+      ],
+      "title": "Krakkói pofon: súlyos vereséget szenvedett a kormánypárti jelölt",
+      "subtitle": null,
+      "lead": "Látszólag helyi ügyek miatt urnákhoz járuló polgárok szavaztak a lengyelországi Krakkóban, ahol a kormánypárti jelölt hatalmas, 61:39 arányú vereséget szenvedett a vasárnapi időközi főpolgármester-választáson. Az eredmény a kormányzati politikával szembeni mélyebb, általános elégedetlenségre mutat rá Lengyelország második legnagyobb városában.",
+      "key_points": [
+        "Időközi főpolgármester-választást tartottak a lengyelországi Krakkóban.",
+        "A kormánypárti jelölt 61:39 arányban alulmaradt a megmérettetésen.",
+        "A vereség a kabinettel szembeni általános elégedetlenséget tükrözi."
+      ],
+      "content": "Vasárnap zárultak le a szavazások Krakkóban, ahol a második legnagyobb lengyel város polgármesteri székéért hirdettek időközi választást. Bár a helyi kampányban elméletileg lokális ügyek határozták meg a vitákat, a hvg.hu beszámolója szerint a megmérettetés hamar országos politikai üggyé nemesült, mivel a választók a kormánypárt politikájáról is véleményt mondtak a szavazófülkékben.\n\nA kormánypárt színeiben induló politikus végül jelentős különbséggel, 61:39 arányban elveszítette a választást. Az ilyen arányú kudarc jól mutatja, hogy a lengyel kabinet komoly nehézségekkel küzd a választók meggyőzésében az ország nagyvárosaiban, ahol a közhangulat gyakran kritikusan viszonyul a központi intézkedésekhez.\n\nA krakkói eredmény fontos üzenetet hordoz a nemzeti politika szereplői számára: a helyi elégedetlenség könnyen rendszerszintű elutasításba torkollhat a nagyobb településeken. A magyar olvasók számára ez a helyzet a lokális választások és a kormányzati elégedetlenség összefonódásának mintapéldája, ahol a városi közvélemény közvetlen jelzést küld a hatalomnak.",
+      "content_format": "markdown",
+      "body": [
+        "Vasárnap zárultak le a szavazások Krakkóban, ahol a második legnagyobb lengyel város polgármesteri székéért hirdettek időközi választást. Bár a helyi kampányban elméletileg lokális ügyek határozták meg a vitákat, a hvg.hu beszámolója szerint a megmérettetés hamar országos politikai üggyé nemesült, mivel a választók a kormánypárt politikájáról is véleményt mondtak a szavazófülkékben.",
+        "A kormánypárt színeiben induló politikus végül jelentős különbséggel, 61:39 arányban elveszítette a választást. Az ilyen arányú kudarc jól mutatja, hogy a lengyel kabinet komoly nehézségekkel küzd a választók meggyőzésében az ország nagyvárosaiban, ahol a közhangulat gyakran kritikusan viszonyul a központi intézkedésekhez.",
+        "A krakkói eredmény fontos üzenetet hordoz a nemzeti politika szereplői számára: a helyi elégedetlenség könnyen rendszerszintű elutasításba torkollhat a nagyobb településeken. A magyar olvasók számára ez a helyzet a lokális választások és a kormányzati elégedetlenség összefonódásának mintapéldája, ahol a városi közvélemény közvetlen jelzést küld a hatalomnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 180,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Krakow_-_Kosciol_Mariacki.jpg/1280px-Krakow_-_Kosciol_Mariacki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1778,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Saint Mary Basilica in Kraków, Poland",
+        "credit": "Jar.ciurus / Wikimedia Commons",
+        "license": "CC BY-SA 3.0 pl",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Krakow_-_Kosciol_Mariacki.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261012_lukasz-gibala-donald-tusk-krakko",
+          "title": "A lengyel miniszterelnök nagy vereséget szenvedett Krakkóban",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T13:06:45+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T13:40:50+02:00"
+      },
+      "hot_score": 5.58,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261012_lukasz-gibala-donald-tusk-krakko"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/vilag/2026-10-12-krakkoi-pofon-sulyos-vereseget-szenvedett-a-kormanyparti-jelolt/",
+      "seo": {
+        "meta_title": "Krakkói pofon: súlyos vereséget szenvedett a kormánypárti je",
+        "meta_description": "Látszólag helyi ügyek miatt urnákhoz járuló polgárok szavaztak a lengyelországi Krakkóban, ahol a kormánypárti jelölt hatalmas, 61:39 arányú vereséget szenvedet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-12-krakkoi-pofon-sulyos-vereseget-szenvedett-a-kormanyparti-jelolt/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Krakow_-_Kosciol_Mariacki.jpg/1280px-Krakow_-_Kosciol_Mariacki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "1315b5eca2b97619fc643cf9f6c2995d86252e0a0a93ded6bbdd9c276e39de23",
+      "pipeline_run_id": "38239349776",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T13:40:50+02:00",
+      "updated_at": "2026-10-12T13:40:50+02:00",
+      "published_at": "2026-10-12T13:40:50+02:00",
+      "expires_at": null
+    },
     {
       "id": "9d00054e-5c94-5c39-8b1e-92adb210a507",
       "slug": "2026-10-12-nyolc-ev-utan-visszater-paszto-elere-domsodi-gabor",
