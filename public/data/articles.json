@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T12:20:38+02:00",
+  "updated_at": "2026-10-12T12:40:51+02:00",
   "articles": [
+    {
+      "id": "a1201d71-6aba-57cf-9674-b6cd7e2c7740",
+      "slug": "2026-10-12-mesterseges-intelligencia-az-iskolapadban-ki-irja-a-tananyagot",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "oktatás",
+        "mesterséges intelligencia",
+        "digitális oktatás",
+        "pedagógia"
+      ],
+      "title": "Mesterséges intelligencia az iskolapadban: ki írja a tananyagot",
+      "subtitle": null,
+      "lead": "Az iskolai gyakorlásnál használt mesterséges intelligencia észrevétlenül alakítja át a tanulás folyamatát. A diákok egyéni fejlődését befolyásolja, ha egy algoritmus dönt arról, mikor kapnak magyarázatot és mikor csak kész megoldást.",
+      "key_points": [
+        "Az AI-alapú gyakorlóprogramok képesek eltérő mélységű segítséget nyújtani ugyanannál a feladatnál.",
+        "A mesterséges intelligencia a segédeszközből a tanterv formálójává léphet elő.",
+        "Az OECD adatai szerint a pedagógusok több mint harmada alkalmaz már AI-t a munkája során.",
+        "A generatív eszközök használata veszélyeztetheti a tudás mélyebb elsajátítását."
+      ],
+      "content": "Képzeljünk el két hetedikes diákot, akik ugyanazzal a matematikai problémával szembesülnek, miközben mesterséges intelligenciára épülő szoftverrel gyakorolnak. Az egyik tanuló programja lépésről lépésre vezeti őt a megoldás felé, visszakérdez és ösztönzi az önálló gondolkodásra. A másik diák gépi segítője viszont azonnal feltárja a kész megoldást, amint nehézség merül fel, majd tovább is lépteti a következő feladatra. Bár papíron mindketten elvégezték a leckét, a valós tudásanyag, amelyet elsajátítottak, lényegesen eltérő.\n\nEzek a mikrodöntések határozzák meg a jövőben, mit tekint egy tanuló érdemi magyarázatnak, meddig érdemes kitartóan küzdenie egy feladattal, és milyen teljesítményt vár el tőle az iskolai rendszer. Ahogy az algoritmusok egyre több szabadságot kapnak a visszajelzések kezelésében, úgy válnak a tanterv és a pedagógiai folyamatok láthatatlan társszerzőivé.\n\nA technológia térnyerése már korántsem elméleti kérdés. Az OECD 2026-os Digital Education Outlook című jelentése szerint az alsó középfokú oktatásban dolgozó tanárok átlagosan 37 százaléka használt már valamilyen mesterséges intelligenciát 2024-ben. Az eszközök gyors terjedése mellett a szakértők arra is figyelmeztetnek, hogy a generatív modellek használata gyakran a feladatok minőségének javulását eredményezi, anélkül, hogy a diák ténylegesen megértené az összefüggéseket.\n\nA jelenlegi helyzetben a legfontosabb kérdés már nem az, hogy helye van-e a technológiának az osztályteremben. Sokkal inkább az a központi dilemma, mekkora befolyást engedünk a mesterséges intelligenciának abban, hogy a gyerekek miként sajátítják el a tananyagot, és milyen mértékben helyettesíti az algoritmus a pedagógusi szakértelmet.",
+      "content_format": "markdown",
+      "body": [
+        "Képzeljünk el két hetedikes diákot, akik ugyanazzal a matematikai problémával szembesülnek, miközben mesterséges intelligenciára épülő szoftverrel gyakorolnak. Az egyik tanuló programja lépésről lépésre vezeti őt a megoldás felé, visszakérdez és ösztönzi az önálló gondolkodásra. A másik diák gépi segítője viszont azonnal feltárja a kész megoldást, amint nehézség merül fel, majd tovább is lépteti a következő feladatra. Bár papíron mindketten elvégezték a leckét, a valós tudásanyag, amelyet elsajátítottak, lényegesen eltérő.",
+        "Ezek a mikrodöntések határozzák meg a jövőben, mit tekint egy tanuló érdemi magyarázatnak, meddig érdemes kitartóan küzdenie egy feladattal, és milyen teljesítményt vár el tőle az iskolai rendszer. Ahogy az algoritmusok egyre több szabadságot kapnak a visszajelzések kezelésében, úgy válnak a tanterv és a pedagógiai folyamatok láthatatlan társszerzőivé.",
+        "A technológia térnyerése már korántsem elméleti kérdés. Az OECD 2026-os Digital Education Outlook című jelentése szerint az alsó középfokú oktatásban dolgozó tanárok átlagosan 37 százaléka használt már valamilyen mesterséges intelligenciát 2024-ben. Az eszközök gyors terjedése mellett a szakértők arra is figyelmeztetnek, hogy a generatív modellek használata gyakran a feladatok minőségének javulását eredményezi, anélkül, hogy a diák ténylegesen megértené az összefüggéseket.",
+        "A jelenlegi helyzetben a legfontosabb kérdés már nem az, hogy helye van-e a technológiának az osztályteremben. Sokkal inkább az a központi dilemma, mekkora befolyást engedünk a mesterséges intelligenciának abban, hogy a gyerekek miként sajátítják el a tananyagot, és milyen mértékben helyettesíti az algoritmus a pedagógusi szakértelmet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 256,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Artificial_intelligence_in_education.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Artificial intelligence in education",
+        "credit": "Rahma Abdelrahman / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_intelligence_in_education.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/12/ki-donti-el-mit-tanul-a-diak-a-nat-vagy-az-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Ki dönti el, mit tanul a diák: a NAT vagy az AI?",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T12:17:15+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T12:40:51+02:00"
+      },
+      "hot_score": 5.66,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/12/ki-donti-el-mit-tanul-a-diak-a-nat-vagy-az-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/tech/2026-10-12-mesterseges-intelligencia-az-iskolapadban-ki-irja-a-tananyagot/",
+      "seo": {
+        "meta_title": "Mesterséges intelligencia az iskolapadban: ki írja a tananya",
+        "meta_description": "Az iskolai gyakorlásnál használt mesterséges intelligencia észrevétlenül alakítja át a tanulás folyamatát. A diákok egyéni fejlődését befolyásolja, ha egy algor",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-mesterseges-intelligencia-az-iskolapadban-ki-irja-a-tananyagot/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Artificial_intelligence_in_education.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8a2c870f9abfd5286efd7bbe6f25d2b4df3599a211693d37c2d35574c033d8a8",
+      "pipeline_run_id": "38234670180",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T12:40:51+02:00",
+      "updated_at": "2026-10-12T12:40:51+02:00",
+      "published_at": "2026-10-12T12:40:51+02:00",
+      "expires_at": null
+    },
     {
       "id": "8f83d214-4d8f-56eb-844a-9c8db121d606",
       "slug": "2026-10-12-ot-ev-vagy-husz-ev-emiatt-maradhat-el-a-valodi-elszamoltatas-a-politi",
