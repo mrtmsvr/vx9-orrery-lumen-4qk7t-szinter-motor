@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T08:33:39+02:00",
+  "updated_at": "2026-10-12T08:53:34+02:00",
   "articles": [
+    {
+      "id": "5e70f160-a1b4-5649-8572-80da6bf0a1d9",
+      "slug": "2026-10-12-terkepre-rajzolta-a-harmadik-birodalom-hatarait-az-afd-ifjusagi-vezet",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Németország",
+        "AfD",
+        "Franciaország",
+        "külpolitika",
+        "európai politika"
+      ],
+      "title": "Térképre rajzolta a Harmadik Birodalom határait az AfD ifjúsági vezetője?",
+      "subtitle": null,
+      "lead": "Heves nemzetközi vitát váltott ki az X-en megosztott térkép, amely Ausztriát, Luxemburgot, Svájc nagy részét, valamint Franciaország és más európai államok egyes területeit is Németország részeként ábrázolta. A posztot közzétevő ifjúsági politikus a felháborodás hatására törölte a bejegyzést, és lemondott vezető tisztségéről.",
+      "key_points": [
+        "Egy német ifjúsági politikus osztott meg az európai határokat átszabó térképet az X-en.",
+        "A bejegyzés nagy felháborodást váltott ki Franciaországban és a szomszédos országokban.",
+        "A politikus a nemzetközi kritikák után önként lemondott tisztségéről, és törölte a bejegyzést."
+      ],
+      "content": "Európa-szerte éles visszhangot kiváltó térkép jelent meg az online térben, amelyet Luca Moritz Strauß, az Alternatíva Németországért (AfD) ifjúsági szervezetének egyik vezetője osztott meg. Az ábra egy olyan megnagyobbodott Németországot mutatott be, amely magába olvasztotta Ausztriát, Luxemburgot, Svájc jelentős részét, továbbá Lengyelország, Olaszország és Franciaország egyes vidékeit is.\n\nA közzétett ábrázolás különösen Franciaországban okozott komoly politikai feszültséget, mivel a terület Elzász és Lotaringia régióit is német fennhatóság alatt állóként tüntette fel. Az 1870–1871-es porosz–francia háborút követően a frankfurti béke értelmében a Német Császárság csatolta el, végül az 1919-es versailles-i béke rendezése révén tért vissza Franciaországhoz.\n\nA francia politikai élet szereplői határozottan elítélték a történteket.\n\nA gyorsan eszkalálódó nemzetközi tiltakozások hatására a poszt szerzője törölte a bejegyzést, és fiókját privátra állította. Az AfD ifjúsági szervezete, a Generation Germany pedig hivatalosan közölte, hogy a politikus önként távozott vezetői posztjáról.",
+      "content_format": "markdown",
+      "body": [
+        "Európa-szerte éles visszhangot kiváltó térkép jelent meg az online térben, amelyet Luca Moritz Strauß, az Alternatíva Németországért (AfD) ifjúsági szervezetének egyik vezetője osztott meg. Az ábra egy olyan megnagyobbodott Németországot mutatott be, amely magába olvasztotta Ausztriát, Luxemburgot, Svájc jelentős részét, továbbá Lengyelország, Olaszország és Franciaország egyes vidékeit is.",
+        "A közzétett ábrázolás különösen Franciaországban okozott komoly politikai feszültséget, mivel a terület Elzász és Lotaringia régióit is német fennhatóság alatt állóként tüntette fel. Az 1870–1871-es porosz–francia háborút követően a frankfurti béke értelmében a Német Császárság csatolta el, végül az 1919-es versailles-i béke rendezése révén tért vissza Franciaországhoz.",
+        "A francia politikai élet szereplői határozottan elítélték a történteket.",
+        "A gyorsan eszkalálódó nemzetközi tiltakozások hatására a poszt szerzője törölte a bejegyzést, és fiókját privátra állította. Az AfD ifjúsági szervezete, a Generation Germany pedig hivatalosan közölte, hogy a politikus önként távozott vezetői posztjáról."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 186,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/global/20261011/orult-terkep-jelent-meg-nemetorszagban-hitler-politikajat-idezo-modon-rajzolna-at-europat-egy-vezeto-afd-s-politikus-868976",
+          "title": "Őrült térkép jelent meg Németországban: Hitler politikáját idéző módon rajzolná át Európát egy vezető AfD-s politikus",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T07:54:09+02:00"
+        }
+      ],
+      "quote": {
+        "text": "a német egység olyan Németországot jelent, amely az egész német népet egyetlen államban egyesíti.",
+        "who": "Helmut Strauss, az AfD ifjúsági szervezetének vezető politikusa",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T08:53:34+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/global/20261011/orult-terkep-jelent-meg-nemetorszagban-hitler-politikajat-idezo-modon-rajzolna-at-europat-egy-vezeto-afd-s-politikus-868976"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/vilag/2026-10-12-terkepre-rajzolta-a-harmadik-birodalom-hatarait-az-afd-ifjusagi-vezet/",
+      "seo": {
+        "meta_title": "Térképre rajzolta a Harmadik Birodalom határait az AfD ifjús",
+        "meta_description": "Heves nemzetközi vitát váltott ki az X-en megosztott térkép, amely Ausztriát, Luxemburgot, Svájc nagy részét, valamint Franciaország és más európai államok egye",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-12-terkepre-rajzolta-a-harmadik-birodalom-hatarait-az-afd-ifjusagi-vezet/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "fd7bf70a8830995b3a7ca8f44fae25426b8eb4c9e72ca6955f511b0816739dda",
+      "pipeline_run_id": "38208061663",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T08:53:34+02:00",
+      "updated_at": "2026-10-12T08:53:34+02:00",
+      "published_at": "2026-10-12T08:53:34+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Luca Moritz Strauß",
+        "Alternative for Germany",
+        "Generation Germany",
+        "Austria",
+        "France",
+        "political protest",
+        "map illustration"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784493-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1791784490-0.jpg"
+      ]
+    },
     {
       "id": "8d9aaa68-8345-5881-a822-46377173f234",
       "slug": "2026-10-12-igy-faragna-le-a-hazai-kamatterheket-az-akk-vezetoje",
