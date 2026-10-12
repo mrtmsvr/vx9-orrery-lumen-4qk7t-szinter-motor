@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T14:20:49+02:00",
+  "updated_at": "2026-10-12T16:26:21+02:00",
   "articles": [
+    {
+      "id": "26ad3f22-906b-50e2-9717-802ca15db7d3",
+      "slug": "2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "kutatás",
+        "öregedés",
+        "agy",
+        "tudomány"
+      ],
+      "title": "Harminc nap alatt fordították vissza az öregedés jeleit egereken",
+      "subtitle": null,
+      "lead": "Egyetlen agyi fehérje pótlásával sikerült harminc nap alatt visszafordítani az öregedés több jelét egereknél. A kutatók emellett egy olyan aminosavat is azonosítottak, amely javította a rágcsálók memóriáját.",
+      "key_points": [
+        "A Menin nevű fehérje szintje az életkor előrehaladtával csökken az agyban.",
+        "A fehérje mesterséges pótlása javította az egerek bőr- és csontállapotát, valamint memóriáját.",
+        "Egy D-szerin nevű aminosav három hét alatt fokozta a kísérleti állatok tanulási képességeit."
+      ],
+      "content": "Egy, a kínai Hsziamen Egyetem kutatója, Lige Leng és csapata által vezetett, 2023 márciusában a PLOS Biology folyóiratban publikált kutatás szerint az öregedési folyamatok hátterében részben egyetlen agyi fehérje, a Menin szintjének csökkenése állhat. A vizsgálatok során a szakemberek feltárták, hogy a Menin – amellyel korábban kevésbé foglalkoztak – szoros kapcsolatban áll a gyulladásos folyamatokkal, az agykémiával és a szervezet általános öregedésével.\n\nA folyamat központjában a hipotalamusz áll, amely többek között a testhőmérsékletet, az éhségérzetet, az anyagcserét, az alvást és a hormontermelést szabályozza. A kutatók megfigyelték, hogy a Menin szintje az egerek öregedésével fokozatosan csökken a hipotalamusz bizonyos neuronjaiban. Amikor genetikailag módosított egereknél csökkentették a Menin aktivitását, a rágcsálóknál fokozódott a gyulladási hajlam, elvékonyodott a bőrük, csökkent a csonttömegük, romlott a kognitív teljesítményük, és megrövidült az élettartamuk.\n\nEzt követően a kutatók géncélzási technikával növelték a Menin termelését a húsz hónapos egerek ventromediális hipotalamusz nevű agyterületén. Harminc nap elteltével a rágcsálók bőre megvastagodott, a csonttömegük gyarapodott, javult a tanulási, memóriatesztbeli és egyensúlyi teljesítményük, emellett a gyulladásos folyamatok is mérséklődtek.\n\nEgy másik kísérletben a szakemberek feltárták, hogy egy természetesen előforduló aminosav három hét alatt javította a rágcsálók tanulási képességét és memóriáját. A kutatók hangsúlyozzák: az eredmények egyelőre egereken végzett vizsgálatokból származnak, ugyanakkor új megközelítést nyithatnak az életkorral összefüggő kognitív hanyatlás kezelésében.",
+      "content_format": "markdown",
+      "body": [
+        "Egy, a kínai Hsziamen Egyetem kutatója, Lige Leng és csapata által vezetett, 2023 márciusában a PLOS Biology folyóiratban publikált kutatás szerint az öregedési folyamatok hátterében részben egyetlen agyi fehérje, a Menin szintjének csökkenése állhat. A vizsgálatok során a szakemberek feltárták, hogy a Menin – amellyel korábban kevésbé foglalkoztak – szoros kapcsolatban áll a gyulladásos folyamatokkal, az agykémiával és a szervezet általános öregedésével.",
+        "A folyamat központjában a hipotalamusz áll, amely többek között a testhőmérsékletet, az éhségérzetet, az anyagcserét, az alvást és a hormontermelést szabályozza. A kutatók megfigyelték, hogy a Menin szintje az egerek öregedésével fokozatosan csökken a hipotalamusz bizonyos neuronjaiban. Amikor genetikailag módosított egereknél csökkentették a Menin aktivitását, a rágcsálóknál fokozódott a gyulladási hajlam, elvékonyodott a bőrük, csökkent a csonttömegük, romlott a kognitív teljesítményük, és megrövidült az élettartamuk.",
+        "Ezt követően a kutatók géncélzási technikával növelték a Menin termelését a húsz hónapos egerek ventromediális hipotalamusz nevű agyterületén. Harminc nap elteltével a rágcsálók bőre megvastagodott, a csonttömegük gyarapodott, javult a tanulási, memóriatesztbeli és egyensúlyi teljesítményük, emellett a gyulladásos folyamatok is mérséklődtek.",
+        "Egy másik kísérletben a szakemberek feltárták, hogy egy természetesen előforduló aminosav három hét alatt javította a rágcsálók tanulási képességét és memóriáját. A kutatók hangsúlyozzák: az eredmények egyelőre egereken végzett vizsgálatokból származnak, ugyanakkor új megközelítést nyithatnak az életkorral összefüggő kognitív hanyatlás kezelésében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 234,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/72000f6d656ae8a8.jpg",
+        "width": 2048,
+        "height": 1335,
+        "kind": "photo",
+        "alt": "animal, mouse, experiment, laboratory, hand, cute, medical, researcher, researching, medicine, chemical, test, research, scientific, chemistry, biotechnology, discovery, biology, scientist, technology",
+        "credit": "tiburi / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/72000f6d656ae8a8.jpg",
+        "orig_url": "https://pixabay.com/get/gd688f1d3f43344612cb7619f3aceda6c3ffde6798980d851424a64b1a549b3d030dfc073b3d7d102e57835c0587d3ec7e585981a67735a005995dd01f2445e9a_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+          "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-12T16:20:30+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T16:26:21+02:00"
+      },
+      "hot_score": 5.88,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261009025708.htm"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/eletmod/2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken/",
+      "seo": {
+        "meta_title": "Harminc nap alatt fordították vissza az öregedés jeleit eger",
+        "meta_description": "Egyetlen agyi fehérje pótlásával sikerült harminc nap alatt visszafordítani az öregedés több jelét egereknél. A kutatók emellett egy olyan aminosavat is azonosí",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/72000f6d656ae8a8.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "6b675b678693d2501271af058b0963a628ccaf047fe5f5c26664499459d39ae1",
+      "pipeline_run_id": "38261151688",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T16:26:21+02:00",
+      "updated_at": "2026-10-12T16:26:21+02:00",
+      "published_at": "2026-10-12T16:26:21+02:00",
+      "expires_at": null
+    },
     {
       "id": "cd237d04-ed2b-5e00-864c-8dbe574f472c",
       "slug": "2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij",
