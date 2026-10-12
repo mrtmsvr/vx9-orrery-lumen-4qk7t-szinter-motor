@@ -11307,15 +11307,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-12T14:21:41+00:00",
-        "msg_ids": [
-          5303,
-          5304,
-          5305,
-          5306,
-          5307
-        ],
-        "control_id": 5308
-      }
+        "msg_ids": [],
+        "control_id": 5308,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:06 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-12T17:06:21+02:00"
     },
     {
       "id": "e783d0b9-64d5-5d1e-bc7e-d69dbb72a0dd",
