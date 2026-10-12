@@ -11606,9 +11606,9 @@
       "scheduled_at": "2026-10-12T13:40:46+02:00"
     },
     {
-      "id": "3a97cc95-d5e1-5264-a2e2-d76954db81b4",
-      "slug": "2026-10-12-miert-itelik-el-szinte-minden-vadlottat-a-magyar-birosagokon",
-      "status": "pending",
+      "id": "2bad9d15-bef8-526d-b93e-b44bace4cfa3",
+      "slug": "2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11618,7 +11618,7 @@
         "Partizán",
         "jogállamiság"
       ],
-      "title": "Miért ítélik el szinte minden vádlottat a magyar bíróságokon?",
+      "title": "Világrekord a magyar bíróságokon: kilencvenkilenc százalékos váderedményesség",
       "subtitle": null,
       "lead": "A magyar ügyészség kiemelkedően magas, kilencvenkilenc százalék körüli váderedményességgel dolgozik, ami azt jelenti, hogy a bíróság elé került ügyek szinte minden esetben elítéléssel zárulnak. A jelenség hátterét és a rendszer sajátosságait a Partizán videójában elemezték a szakemberek.",
       "key_points": [
@@ -11638,16 +11638,15 @@
       "word_count": 219,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%C3%93buda%2C_II._%C3%A9s_III._Ker%C3%BCleti_B%C3%ADr%C3%B3s%C3%A1g_2021_01.jpg/1280px-%C3%93buda%2C_II._%C3%A9s_III._Ker%C3%BCleti_B%C3%ADr%C3%B3s%C3%A1g_2021_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://live.staticflickr.com/4031/4289726649_2d622fe46e_b.jpg",
+        "width": 1024,
+        "height": 768,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Budapest Districts II and III Courthouse in Óbuda, Budapest",
-        "credit": "Pasztilla aka Attila Terbócs / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%93buda,_II._%C3%A9s_III._Ker%C3%BCleti_B%C3%ADr%C3%B3s%C3%A1g_2021_01.jpg",
-        "vision_score": 7.0
+        "alt": "Courtroom",
+        "credit": "☺ Lee J Haywood / flickr",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://www.flickr.com/photos/45034206@N06/4289726649",
+        "vision_score": 5.0
       },
       "inline_images": [],
       "sources": [
@@ -11734,12 +11733,12 @@
       },
       "date": "2026-10-12",
       "date_label": "október 12.",
-      "url": "/kozelet/2026-10-12-miert-itelik-el-szinte-minden-vadlottat-a-magyar-birosagokon/",
+      "url": "/kozelet/2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme/",
       "seo": {
-        "meta_title": "Miért ítélik el szinte minden vádlottat a magyar bíróságokon",
+        "meta_title": "Világrekord a magyar bíróságokon: kilencvenkilenc százalékos",
         "meta_description": "A magyar ügyészség kiemelkedően magas, kilencvenkilenc százalék körüli váderedményességgel dolgozik, ami azt jelenti, hogy a bíróság elé került ügyek szinte min",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-miert-itelik-el-szinte-minden-vadlottat-a-magyar-birosagokon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%C3%93buda%2C_II._%C3%A9s_III._Ker%C3%BCleti_B%C3%ADr%C3%B3s%C3%A1g_2021_01.jpg/1280px-%C3%93buda%2C_II._%C3%A9s_III._Ker%C3%BCleti_B%C3%ADr%C3%B3s%C3%A1g_2021_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme/",
+        "og_image": "https://live.staticflickr.com/4031/4289726649_2d622fe46e_b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11756,9 +11755,9 @@
       "dedupe_hash": "73a116c3c0c35a484589cc0c9d4fe442d3b130faad53417d41f3a4e2cf162b86",
       "pipeline_run_id": "38239349776",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T13:06:56+02:00",
-      "updated_at": "2026-10-12T13:06:56+02:00",
-      "published_at": "2026-10-12T13:06:56+02:00",
+      "created_at": "2026-10-12T13:21:10+02:00",
+      "updated_at": "2026-10-12T13:21:10+02:00",
+      "published_at": "2026-10-12T13:21:10+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -11783,9 +11782,9 @@
         "msg_ids": [],
         "control_id": 5223,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 13:20 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-12T13:20:46+02:00"
+      "live": true
     },
     {
       "id": "a55188d2-142d-54af-b9e8-57eb8dd83f14",

@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T13:00:46+02:00",
+  "updated_at": "2026-10-12T13:21:10+02:00",
   "articles": [
+    {
+      "id": "2bad9d15-bef8-526d-b93e-b44bace4cfa3",
+      "slug": "2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "ügyészség",
+        "bíróság",
+        "váderedményesség",
+        "Partizán",
+        "jogállamiság"
+      ],
+      "title": "Világrekord a magyar bíróságokon: kilencvenkilenc százalékos váderedményesség",
+      "subtitle": null,
+      "lead": "A magyar ügyészség kiemelkedően magas, kilencvenkilenc százalék körüli váderedményességgel dolgozik, ami azt jelenti, hogy a bíróság elé került ügyek szinte minden esetben elítéléssel zárulnak. A jelenség hátterét és a rendszer sajátosságait a Partizán videójában elemezték a szakemberek.",
+      "key_points": [
+        "A hivatalos adatok szerint a magyar ügyészség váderedményessége világrekord szinten mozog.",
+        "A kritikusok szerint a magas arány annak köszönhető, hogy az ügyészség csak a legbiztosabb ügyekben emel vádat."
+      ],
+      "content": "Ez a kiemelkedő mutató a parlamenti beszámolók alapján világrekordnak számít nemzetközi összehasonlításban is,\n\nA Partizán videójában dr. Lajtár István legfőbbügyész-helyettes úgy fogalmazott, hogy a százötvenöt éves ügyészi szervezet fennállásának egyik legnehezebb időszakát éli át. Példaként hozta fel a több tízmilliárdos Volánbusz-korrupciós ügyet, amelynél tíz évre volt szükség az első érdemi nyomozati cselekményhez, ami jól mutatja a rendszer lassúságát és a kihívásait.\n\nA bírálatok szerint a szokatlanul magas váderedményesség hátterében egy olyan gyakorlat áll, amelyben a bíróságok az ügyészek álláspontját osztják, az ügyészség pedig rendkívül óvatosan válogat, és csak akkor lép, ha teljesen biztos a dolgában. Czabán Samu, a Partizán szerkesztője a műsorban felhozott olyan vitatott eseteket is, mint Hankó Balázs és Szeszák Miklós bírósági eljárása, ahol a jogi procedúra lefolyása és a hivatalos statisztika viszonylanya sok kérdést felvetett.\n\nA szakértők szerint a válság egyik gyökere az elmúlt években tapasztalt tétlenség a nyilvánvaló politikai ügyekben, emellett pedig a bírósági eljárások során a gyanúsítás, a bűnösség bizonyítása és a vádemelési gyakorlat egésze is reformra szorulna. A videó összegzése szerint a struktúra alapvető megváltoztatására lenne szükség ahhoz, hogy az ügyészség függetlenül működhessen a jövőben.",
+      "content_format": "markdown",
+      "body": [
+        "Ez a kiemelkedő mutató a parlamenti beszámolók alapján világrekordnak számít nemzetközi összehasonlításban is,",
+        "A Partizán videójában dr. Lajtár István legfőbbügyész-helyettes úgy fogalmazott, hogy a százötvenöt éves ügyészi szervezet fennállásának egyik legnehezebb időszakát éli át. Példaként hozta fel a több tízmilliárdos Volánbusz-korrupciós ügyet, amelynél tíz évre volt szükség az első érdemi nyomozati cselekményhez, ami jól mutatja a rendszer lassúságát és a kihívásait.",
+        "A bírálatok szerint a szokatlanul magas váderedményesség hátterében egy olyan gyakorlat áll, amelyben a bíróságok az ügyészek álláspontját osztják, az ügyészség pedig rendkívül óvatosan válogat, és csak akkor lép, ha teljesen biztos a dolgában. Czabán Samu, a Partizán szerkesztője a műsorban felhozott olyan vitatott eseteket is, mint Hankó Balázs és Szeszák Miklós bírósági eljárása, ahol a jogi procedúra lefolyása és a hivatalos statisztika viszonylanya sok kérdést felvetett.",
+        "A szakértők szerint a válság egyik gyökere az elmúlt években tapasztalt tétlenség a nyilvánvaló politikai ügyekben, emellett pedig a bírósági eljárások során a gyanúsítás, a bűnösség bizonyítása és a vádemelési gyakorlat egésze is reformra szorulna. A videó összegzése szerint a struktúra alapvető megváltoztatására lenne szükség ahhoz, hogy az ügyészség függetlenül működhessen a jövőben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 219,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://live.staticflickr.com/4031/4289726649_2d622fe46e_b.jpg",
+        "width": 1024,
+        "height": 768,
+        "kind": "photo",
+        "alt": "Courtroom",
+        "credit": "☺ Lee J Haywood / flickr",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://www.flickr.com/photos/45034206@N06/4289726649",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=wsImvdn9Pl4",
+          "title": "Hankó és a 99%-os szabály: Jaj annak, aki ellen vádat emelnek?",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-10-12T13:06:56+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ha az ügyészség egyszer vádat emel valaki ellen, gyakorlatilag 1% esélye van, hogy a végén ne ítéljék el a bíróságon",
+        "who": "Czabán Samu, a Partizán szerkesztője",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T13:21:10+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=wsImvdn9Pl4"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/kozelet/2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme/",
+      "seo": {
+        "meta_title": "Világrekord a magyar bíróságokon: kilencvenkilenc százalékos",
+        "meta_description": "A magyar ügyészség kiemelkedően magas, kilencvenkilenc százalék körüli váderedményességgel dolgozik, ami azt jelenti, hogy a bíróság elé került ügyek szinte min",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-vilagrekord-a-magyar-birosagokon-kilencvenkilenc-szazalekos-vaderedme/",
+        "og_image": "https://live.staticflickr.com/4031/4289726649_2d622fe46e_b.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "73a116c3c0c35a484589cc0c9d4fe442d3b130faad53417d41f3a4e2cf162b86",
+      "pipeline_run_id": "38239349776",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T13:21:10+02:00",
+      "updated_at": "2026-10-12T13:21:10+02:00",
+      "published_at": "2026-10-12T13:21:10+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "wsImvdn9Pl4",
+        "title": "Hankó és a 99%-os szabály: Jaj annak, aki ellen vádat emelnek?",
+        "channel": "Partizán",
+        "minutes": 8
+      }
+    },
     {
       "id": "80733af6-2b7f-5bda-b7d1-c6a46634bbae",
       "slug": "2026-10-12-egy-dollarert-adott-el-egy-luxusautot-egy-ovatlanul-bevezetett-chatbo",
