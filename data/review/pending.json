@@ -11125,57 +11125,26 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1478,
+          "url": "https://pixabay.com/get/g6535287e4ec233ea5c145b9afcfc239f20cac43603576636cc696ae2f9ab0d1b88e7577728973cd044d246b6d7ef758bda3436dbc6f4fc43661e44c51f7227ee_1280.jpg",
+          "width": 5000,
+          "height": 3337,
           "kind": "photo",
-          "pos": "top",
-          "alt": "The raise of AI over the last 8 decades",
-          "credit": "Our World in Data / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png"
+          "alt": "car, car wallpapers, machine, infiniti, car showroom, new cars, only, sale, motor, technology, speed, transport",
+          "credit": "99mimimi / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/car-machine-infiniti-car-showroom-4597207/",
+          "vision_score": 5.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg/1280px-More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 572,
+          "url": "https://pixabay.com/get/g48ff0574ff8383d4fccf96bb1937925df641aef43848f04670d783c4b6dbb09fe797154a0cc543ca40836a2546591c7a3f02eeee60c1b844ded017c821c62a88_1280.jpg",
+          "width": 3000,
+          "height": 2002,
           "kind": "photo",
-          "pos": "center",
-          "alt": "A panoramic view of the More London Office development on the southern side of the Thames in central London.",
-          "credit": "Diliff / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:More_London_Office_Development_at_Dusk,_London,_UK_-_Diliff.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Microsoft_Software_Development_Center%2C_Seestrasse_356%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg/1280px-Microsoft_Software_Development_Center%2C_Seestrasse_356%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 900,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "Microsoft SDC (Software Development Center) Seestrasse 356, Zürich 8038, Switzerland",
-          "credit": "Ank Kumar / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Microsoft_Software_Development_Center,_Seestrasse_356,_Z%C3%BCrich_(Ank_Kumar,_Infosys_Limited)_03.jpg"
-        },
-        {
-          "url": "https://live.staticflickr.com/4124/4845905314_8b4ce58572_b.jpg",
-          "width": 1024,
-          "height": 763,
-          "kind": "photo",
-          "alt": "Stock market",
-          "credit": "Manu Manohar Photography / flickr",
-          "license": "CC BY 2.0",
-          "source_url": "https://www.flickr.com/photos/32833136@N04/4845905314"
-        },
-        {
-          "url": "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
-          "width": 1024,
-          "height": 582,
-          "kind": "photo",
-          "alt": "Stock Market Fortune Cookie",
-          "credit": "bransorem / flickr",
-          "license": "CC BY 2.0",
-          "source_url": "https://www.flickr.com/photos/13255740@N03/3277905392"
+          "alt": "car, machine, infiniti, car showroom, car wallpapers, new cars, only, sale, motor, technology, speed, transport",
+          "credit": "99mimimi / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/car-machine-infiniti-car-showroom-4597205/",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -11235,10 +11204,28 @@
           5178,
           5179,
           5180,
-          5181
+          5181,
+          5198,
+          5199
         ],
-        "control_id": 5182
-      }
+        "control_id": 5200
+      },
+      "image_queries": [
+        "Gergely Bardóczy",
+        "Kermann IT Solutions",
+        "Optimaze Consulting",
+        "Chevrolet Tahoe",
+        "California car dealership",
+        "car showroom",
+        "business meeting"
+      ],
+      "images_seen": [
+        "https://live.staticflickr.com/4124/4845905314_8b4ce58572_b.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Microsoft_Software_Development_Center%2C_Seestrasse_356%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg/1280px-Microsoft_Software_Development_Center%2C_Seestrasse_356%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg/1280px-More_London_Office_Development_at_Dusk%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "693d57db-9181-51eb-8ebe-2cbd214f893a",
