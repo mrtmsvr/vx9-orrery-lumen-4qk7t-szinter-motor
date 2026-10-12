@@ -13979,12 +13979,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-12T05:54:56+00:00",
-        "msg_ids": [
-          5108,
-          5109
-        ],
-        "control_id": 5110
-      }
+        "msg_ids": [],
+        "control_id": 5110,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:33 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-12T08:33:33+02:00"
     },
     {
       "id": "8af5c452-09f7-539d-a351-7337f88ccbc2",
