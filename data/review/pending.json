@@ -13579,6 +13579,275 @@
         ],
         "control_id": 5095
       }
+    },
+    {
+      "id": "e2835cdd-c040-5c21-83f6-e5507921ffc2",
+      "slug": "2026-10-12-einstein-nelkul-a-gps-naponta-kilometereket-tevedne",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "GPS",
+        "relativitáselmélet",
+        "műholdak",
+        "fizika",
+        "navigáció"
+      ],
+      "title": "Einstein nélkül a GPS naponta kilométereket tévedne",
+      "subtitle": null,
+      "lead": "Amikor a telefonunk néhány méteres pontossággal megmutatja, melyik utcasarkon várakozunk, ritkán gondolunk a fejünk felett húszezer kilométeres magasságban száguldó atomórákra. Pedig Albert Einstein évszázados egyenletei nélkül a műholdas navigáció nem a megfelelő sávot tévesztené el, hanem mindennap több mint tíz kilométeres hibát halmozna fel.",
+      "key_points": [
+        "A GPS valójában nem a helyünket, hanem a műholdakról érkező rádiójelek pontos menetidejét méri.",
+        "A relativitáselmélet két egymással versengő hatása miatt a műholdak fedélzeti atomórái naponta 38 mikromásodperccel sietnek a földi órákhoz képest.",
+        "Ha a mérnökök nem hangolnák át a műholdak óráit a fellövés előtt, a rendszer naponta nagyjából 11 kilométert tévedne.",
+        "A polgári felhasználók pontosságát 2000-ig szándékosan rontották el, ma viszont az új L5 frekvenciával már 30 centiméteres precizitás is elérhető."
+      ],
+      "content": "## Időmérésből születik a térkép\n\nA zsebünkben lévő okostelefon nem sugároz jelet a világűrbe, amikor megnyitjuk a térképalkalmazást: passzív vevőként csupán fülel. A Föld körül keringő műholdak folyamatosan sugározzák a saját pontos helyzetüket és az adás elküldésének időbélyegét. A telefon beépített vevőegysége összeveti ezt az adatot a jel beérkezésének pillanatával, és mivel a rádióhullámok vákuumban fénysebességgel, vagyis másodpercenként csaknem háromszázezer kilométeres tempóban haladnak, az időkülönbségből közvetlenül kiszámítható a műhold és a telefon közötti távolság. Legalább négy műhold jelének metszéspontjából rajzolódik ki a pontos földrajzi koordináta és a tengerszint feletti magasság.\n\nEbben a rendszerben az idő és a tér elválaszthatatlan. Ha a műhold órája akár egyetlen mikromásodpercet – a másodperc egymilliomod részét – téved, az a földfelszínen azonnal háromszáz méteres elcsúszást eredményez. Emiatt a műholdak fedélzetén hihetetlenül stabil atomórák ketyegnek. Ám itt lép közbe egy olyan fizikai jelenség, amelyet a hétköznapokban képtelenség észrevenni, a világűrben viszont mindent felülír: az idő múlása nem egyetemes.\n\n## A 38 mikromásodperces időhurok\n\nFriedwardt Winterberg fizikus már 1955-ben felvetette, hogy a mesterséges holdakra helyezett precíz atomórákkal közvetlenül tesztelhető lenne az általános relativitáselmélet. Amikor az amerikai hadsereg az 1970-es években megkezdte a GPS kiépítését, kénytelen volt a gyakorlatban is számolni Albert Einstein elméleteivel. A műholdak óráit ugyanis egyszerre két, egymással ellentétes relativisztikus hatás alakítja:\n\n- A speciális relativitáselmélet szerint a mozgó órák lassabban járnak a nyugalomban lévőkhöz képest. A GPS-műholdak mintegy 14 ezer kilométer per órás sebességgel száguldanak a Föld körül, ami miatt a fedélzeti óráik naponta körülbelül 7 mikromásodpercet késnek a földi megfigyelőhöz viszonyítva.\n- Az általános relativitáselmélet értelmében a gravitáció görbíti a téridőt, így a gyengébb gravitációs mezőben az idő gyorsabban telik. A műholdak több mint húszezer kilométeres magasságban keringenek, ahol a Föld vonzása jóval csekélyebb, ezért az ottani órák naponta nagyjából 45 mikromásodperccel sietnek a felszíni társaikhoz képest.\n\nA két hatás eredőjeként a műholdak fedélzeti órái naponta mintegy 38 mikromásodperccel gyorsabban járnak, mint a földi vevők. Ha ezt az aprónak tűnő különbséget a mérnökök figyelmen kívül hagyták volna, a GPS naponta mintegy 11 kilométeres hibát halmozna fel. A probléma kezelésére elegáns megoldást találtak: a műholdak atomóráit még a Földön úgy hangolták be, hogy kicsivel lassabban ketyegjenek a névleges frekvenciájuknál, így a pályára állás után pontosan szinkronban járnak a földi idővel.\n\n## A Szputnyiktól a polgári forradalomig\n\nA műholdas helymeghatározás története a hidegháborús űrverseny kezdetéig nyúlik vissza. Amikor a Szovjetunió 1957-ben pályára állította a Szputnyik–1-et, a Johns Hopkins Egyetem két amerikai fizikusa, William Guier és George Weiffenbach rádiós megfigyelésekbe kezdett. Órákon belül felismerték, hogy a Doppler-hatás – a közeledő és távolodó jelforrás frekvenciaváltozása – révén pontosan meg tudják határozni a szatellit pályáját, amihez az egyetem korabeli UNIVAC I számítógépét hívták segítségül. Nem sokkal később felettesük, Frank McClure felvetette a fordított problémát: ha ismert a műhold pályája, megállapítható-e a felszíni megfigyelő helyzete? Így született meg az amerikai haditengerészet rakétahordozó tengeralattjáróit támogató TRANSIT rendszer, a GPS közvetlen elődje.\n\nA modern GPS-t 1973-ban indította útjára az Egyesült Államok Védelmi Minisztériuma Roger L. Easton, Ivan A. Getting és Bradford Parkinson vezetésével. A rendszer matematikai hátterének kidolgozásában kulcsszerepet játszott Gladys West, aki a Föld pontos geodéziai alakját leíró számítási modelleket fejlesztette ki a Dahlgren haditengerészeti bázison. A teljes, 24 műholdból álló konstelláció 1993-ra érte el a működőképességet.\n\nKezdetben a hadsereg nem bízta a véletlenre a technológiai fölényét. Bár Ronald Reagan elnök a koreai KAL 007-es utasszállító 1983-as tragédiája után elrendelte a polgári hozzáférés megnyitását, a civilek számára egy szándékos hibát (Selective Availability) építettek a jelekbe, amely nagyjából 100 méteres bizonytalanságot okozott. Az öbölháború idején azonban a katonai vevők hiánya miatt az amerikai katonák is otthonról hozott civil készülékeket használtak, ami sürgette a korlátozás feloldását. Miután a helyi zavaró technológiák és a földi korrekciós állomások feleslegessé tették a globális butítást, Bill Clinton 2000. május 1-jén eltörölte a szándékos torzítást, a 2007 utáni műholdakból pedig végleg kihagyták ezt a funkciót.\n\n## Mennyire pontos ma a zsebünkben lévő technika?\n\nA szándékos hiba lekapcsolása után a polgári GPS alapvető pontossága mintegy 5 méterre javult tiszta égbolt mellett, míg a korrigálatlan, önálló vevők horizontális hibája 15 méter körül alakult. A modern okostelefonok a kiegészítő hálózatoknak, például a Wi-Fi- és mobilhálózati pozicionálásnak köszönhetően ma átlagosan 4,9 méteres vagy annál jobb pontosságra képesek.\n\nA fejlődés nem állt meg: a legújabb műholdak már az L5 frekvenciasávot is sugározzák. Míg a korábbi jelek könnyebben szóródnak a légkörben vagy verődnek vissza a felhőkarcolók falairól, az L5-öt használó kétfrekvenciás vevők már 30 centiméteres pontosságot érnek el. 2026 tavaszára már 21 GPS-műhold közvetíti ezt a jelet, a teljes, 24 egységből álló flottát pedig a tervek szerint 2027-re érik el. Az ipari földmérés és mérnöki tervezés csúcskategóriás eszközei mindeközben – hosszú távú mérésekkel és földi korrekcióval – már most 2 centiméter alatti, sőt akár milliméter alatti pontosságot biztosítanak.\n\nBár a modernizáció üteme néha megtorpan – a vezérlőrendszer fejlesztésére szánt OCX-programot például 2026 áprilisában törölte a megrendelő –, a műholdas flotta megbízhatósága töretlen. A technológia, amely a zsebünkben mutatja a legközelebbi kávézót, valójában egy kiterjedt hidegháborús mérnöki örökség és a huszadik századi elméleti fizika lenyűgöző találkozása.",
+      "content_format": "markdown",
+      "body": [
+        "## Időmérésből születik a térkép",
+        "A zsebünkben lévő okostelefon nem sugároz jelet a világűrbe, amikor megnyitjuk a térképalkalmazást: passzív vevőként csupán fülel. A Föld körül keringő műholdak folyamatosan sugározzák a saját pontos helyzetüket és az adás elküldésének időbélyegét. A telefon beépített vevőegysége összeveti ezt az adatot a jel beérkezésének pillanatával, és mivel a rádióhullámok vákuumban fénysebességgel, vagyis másodpercenként csaknem háromszázezer kilométeres tempóban haladnak, az időkülönbségből közvetlenül kiszámítható a műhold és a telefon közötti távolság. Legalább négy műhold jelének metszéspontjából rajzolódik ki a pontos földrajzi koordináta és a tengerszint feletti magasság.",
+        "Ebben a rendszerben az idő és a tér elválaszthatatlan. Ha a műhold órája akár egyetlen mikromásodpercet – a másodperc egymilliomod részét – téved, az a földfelszínen azonnal háromszáz méteres elcsúszást eredményez. Emiatt a műholdak fedélzetén hihetetlenül stabil atomórák ketyegnek. Ám itt lép közbe egy olyan fizikai jelenség, amelyet a hétköznapokban képtelenség észrevenni, a világűrben viszont mindent felülír: az idő múlása nem egyetemes.",
+        "## A 38 mikromásodperces időhurok",
+        "Friedwardt Winterberg fizikus már 1955-ben felvetette, hogy a mesterséges holdakra helyezett precíz atomórákkal közvetlenül tesztelhető lenne az általános relativitáselmélet. Amikor az amerikai hadsereg az 1970-es években megkezdte a GPS kiépítését, kénytelen volt a gyakorlatban is számolni Albert Einstein elméleteivel. A műholdak óráit ugyanis egyszerre két, egymással ellentétes relativisztikus hatás alakítja:",
+        "- A speciális relativitáselmélet szerint a mozgó órák lassabban járnak a nyugalomban lévőkhöz képest. A GPS-műholdak mintegy 14 ezer kilométer per órás sebességgel száguldanak a Föld körül, ami miatt a fedélzeti óráik naponta körülbelül 7 mikromásodpercet késnek a földi megfigyelőhöz viszonyítva.\n- Az általános relativitáselmélet értelmében a gravitáció görbíti a téridőt, így a gyengébb gravitációs mezőben az idő gyorsabban telik. A műholdak több mint húszezer kilométeres magasságban keringenek, ahol a Föld vonzása jóval csekélyebb, ezért az ottani órák naponta nagyjából 45 mikromásodperccel sietnek a felszíni társaikhoz képest.",
+        "A két hatás eredőjeként a műholdak fedélzeti órái naponta mintegy 38 mikromásodperccel gyorsabban járnak, mint a földi vevők. Ha ezt az aprónak tűnő különbséget a mérnökök figyelmen kívül hagyták volna, a GPS naponta mintegy 11 kilométeres hibát halmozna fel. A probléma kezelésére elegáns megoldást találtak: a műholdak atomóráit még a Földön úgy hangolták be, hogy kicsivel lassabban ketyegjenek a névleges frekvenciájuknál, így a pályára állás után pontosan szinkronban járnak a földi idővel.",
+        "## A Szputnyiktól a polgári forradalomig",
+        "A műholdas helymeghatározás története a hidegháborús űrverseny kezdetéig nyúlik vissza. Amikor a Szovjetunió 1957-ben pályára állította a Szputnyik–1-et, a Johns Hopkins Egyetem két amerikai fizikusa, William Guier és George Weiffenbach rádiós megfigyelésekbe kezdett. Órákon belül felismerték, hogy a Doppler-hatás – a közeledő és távolodó jelforrás frekvenciaváltozása – révén pontosan meg tudják határozni a szatellit pályáját, amihez az egyetem korabeli UNIVAC I számítógépét hívták segítségül. Nem sokkal később felettesük, Frank McClure felvetette a fordított problémát: ha ismert a műhold pályája, megállapítható-e a felszíni megfigyelő helyzete? Így született meg az amerikai haditengerészet rakétahordozó tengeralattjáróit támogató TRANSIT rendszer, a GPS közvetlen elődje.",
+        "A modern GPS-t 1973-ban indította útjára az Egyesült Államok Védelmi Minisztériuma Roger L. Easton, Ivan A. Getting és Bradford Parkinson vezetésével. A rendszer matematikai hátterének kidolgozásában kulcsszerepet játszott Gladys West, aki a Föld pontos geodéziai alakját leíró számítási modelleket fejlesztette ki a Dahlgren haditengerészeti bázison. A teljes, 24 műholdból álló konstelláció 1993-ra érte el a működőképességet.",
+        "Kezdetben a hadsereg nem bízta a véletlenre a technológiai fölényét. Bár Ronald Reagan elnök a koreai KAL 007-es utasszállító 1983-as tragédiája után elrendelte a polgári hozzáférés megnyitását, a civilek számára egy szándékos hibát (Selective Availability) építettek a jelekbe, amely nagyjából 100 méteres bizonytalanságot okozott. Az öbölháború idején azonban a katonai vevők hiánya miatt az amerikai katonák is otthonról hozott civil készülékeket használtak, ami sürgette a korlátozás feloldását. Miután a helyi zavaró technológiák és a földi korrekciós állomások feleslegessé tették a globális butítást, Bill Clinton 2000. május 1-jén eltörölte a szándékos torzítást, a 2007 utáni műholdakból pedig végleg kihagyták ezt a funkciót.",
+        "## Mennyire pontos ma a zsebünkben lévő technika?",
+        "A szándékos hiba lekapcsolása után a polgári GPS alapvető pontossága mintegy 5 méterre javult tiszta égbolt mellett, míg a korrigálatlan, önálló vevők horizontális hibája 15 méter körül alakult. A modern okostelefonok a kiegészítő hálózatoknak, például a Wi-Fi- és mobilhálózati pozicionálásnak köszönhetően ma átlagosan 4,9 méteres vagy annál jobb pontosságra képesek.",
+        "A fejlődés nem állt meg: a legújabb műholdak már az L5 frekvenciasávot is sugározzák. Míg a korábbi jelek könnyebben szóródnak a légkörben vagy verődnek vissza a felhőkarcolók falairól, az L5-öt használó kétfrekvenciás vevők már 30 centiméteres pontosságot érnek el. 2026 tavaszára már 21 GPS-műhold közvetíti ezt a jelet, a teljes, 24 egységből álló flottát pedig a tervek szerint 2027-re érik el. Az ipari földmérés és mérnöki tervezés csúcskategóriás eszközei mindeközben – hosszú távú mérésekkel és földi korrekcióval – már most 2 centiméter alatti, sőt akár milliméter alatti pontosságot biztosítanak.",
+        "Bár a modernizáció üteme néha megtorpan – a vezérlőrendszer fejlesztésére szánt OCX-programot például 2026 áprilisában törölte a megrendelő –, a műholdas flotta megbízhatósága töretlen. A technológia, amely a zsebünkben mutatja a legközelebbi kávézót, valójában egy kiterjedt hidegháborús mérnöki örökség és a huszadik századi elméleti fizika lenyűgöző találkozása."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 5,
+      "word_count": 872,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GPS-constellation-3D-NOAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A 3D Representation of the GPS Satellite Constellation",
+        "credit": "U.S. Govt Source / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:GPS-constellation-3D-NOAA.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Navstar-2F.jpg/1280px-Navstar-2F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 939,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Navstar-2F satellite of the Global Positioning System (GPS)",
+          "credit": "USAF / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Navstar-2F.jpg",
+          "after": 4,
+          "caption": "A GPS-műholdak fedélzetén szuperpontos atomórák ketyegnek, amelyek frekvenciáját még a Földön módosították."
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/181206-F-DT527-087.jpg/1280px-181206-F-DT527-087.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Dr. Gladys West is inducted into the Air Force Space and Missile Pioneers Hall of Fame during a ceremony in her honor at the Pentagon in Washington, D.C., Dec. 6, 2018. West was among the so-called \"H",
+          "credit": "Adrian Cadiz / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:181206-F-DT527-087.jpg",
+          "after": 6,
+          "caption": "Gladys West matematikus, akinek Föld-modellje nélkülözhetetlen volt a műholdak pontos pozicionálásához."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Global_Positioning_System",
+          "title": "Global Positioning System",
+          "publisher": "Wikipédia (en)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-12T07:10:25+02:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System",
+          "title": "Error analysis for the Global Positioning System",
+          "publisher": "Wikipédia (en)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-12T07:10:25+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "offtopic_topic": {
+        "id": "gps-einstein",
+        "section": "tech",
+        "topic": "A GPS Einstein nélkül naponta kilométereket tévedne",
+        "angle": "Hogyan működik a műholdas helymeghatározás, miért kell hozzá a relativitáselmélet, milyen pontos a telefonod",
+        "wiki_hu": [
+          "GPS"
+        ],
+        "wiki_en": [
+          "Global Positioning System",
+          "Error analysis for the Global Positioning System"
+        ],
+        "images": [
+          "GPS satellite"
+        ],
+        "science": {
+          "db": "openalex",
+          "q": "GPS relativity clock correction"
+        },
+        "curated": "2026-10"
+      },
+      "science_based": false,
+      "title_options": [
+        "Einstein nélkül a GPS naponta kilométereket tévedne",
+        "Hogyan mentette meg a relativitáselmélet a navigációnkat?",
+        "Harmincnyolc mikromásodperc, ami romba döntené a térképedet"
+      ],
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GPS-constellation-3D-NOAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "A 3D Representation of the GPS Satellite Constellation",
+          "credit": "U.S. Govt Source / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:GPS-constellation-3D-NOAA.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 961,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Artist's conception of GPS Block II-F satellite in Earth orbit.",
+          "credit": "NASA / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:GPS_Satellite_NASA_art-iif.jpg",
+          "vision_score": 9.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/GPS_satellite_approaching_23_years_on_orbit_%281060259%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "GPS Block IIA satellite orbits over the earth.",
+          "credit": "U.S. Space Force image by Scott Prater / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:GPS_satellite_approaching_23_years_on_orbit_(1060259).jpeg",
+          "vision_score": 9.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/The_ARCSTONE_observatory_is_shown_in_low_Earth_orbit_with_the_spectrometer_viewing_the_Sun_and_Moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 885,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The ARCSTONE observatory is shown in low Earth orbit with the spectrometer viewing the Sun and Moon. The spacecraft rotates in order to view the Moon or the Sun. One of the most challenging tasks in r",
+          "credit": "NASA / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:The_ARCSTONE_observatory_is_shown_in_low_Earth_orbit_with_the_spectrometer_viewing_the_Sun_and_Moon.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Beidou_atomic_clock_at_CSTM_02.jpg/1280px-Beidou_atomic_clock_at_CSTM_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Hydrogen maser used by Beidou navigation satellites displayed at China Science and Technology Museum.",
+          "credit": "Shujianyang / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beidou_atomic_clock_at_CSTM_02.jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Rb_atomic_clock_Galileo_satellite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1301,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Prototype atomic clock for use with the Galileo communications satellite, manufactured by Temex Neuchâtel Time SA, Swizerland, 2002",
+          "credit": "This file comes from Science Museum Collections, a website operated by Science M / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rb_atomic_clock_Galileo_satellite.jpg",
+          "vision_score": 5.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://en.wikipedia.org/wiki/Global_Positioning_System",
+          "https://en.wikipedia.org/wiki/Error_analysis_for_the_Global_Positioning_System"
+        ],
+        "offtopic_id": "gps-einstein"
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/tech/2026-10-12-einstein-nelkul-a-gps-naponta-kilometereket-tevedne/",
+      "seo": {
+        "meta_title": "Einstein nélkül a GPS naponta kilométereket tévedne",
+        "meta_description": "Amikor a telefonunk néhány méteres pontossággal megmutatja, melyik utcasarkon várakozunk, ritkán gondolunk a fejünk felett húszezer kilométeres magasságban szág",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-einstein-nelkul-a-gps-naponta-kilometereket-tevedne/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/GPS-constellation-3D-NOAA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "0a3503bd42c80eac9c5149d9ebd44b2e0a1e6ad43330053d0553c077f9f08926",
+      "pipeline_run_id": "38206509793",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T07:10:25+02:00",
+      "updated_at": "2026-10-12T07:10:25+02:00",
+      "published_at": null,
+      "expires_at": null,
+      "schedule": {
+        "earliest": "2026-10-12T09:09:24+02:00",
+        "deadline": "2026-10-12T21:30:00+02:00"
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-12T05:10:30+00:00",
+        "msg_ids": [
+          5098,
+          5099,
+          5100,
+          5101,
+          5102,
+          5103,
+          5104
+        ],
+        "control_id": 5105
+      }
     }
   ]
 }
