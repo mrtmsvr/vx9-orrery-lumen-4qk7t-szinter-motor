@@ -11127,7 +11127,7 @@
     {
       "id": "2726bce8-4953-5493-adcd-c2e99e706ec8",
       "slug": "2026-10-12-orban-rokonai-kimaradhatnak-az-uj-nav-os-vagyonvizsgalatbol",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11293,9 +11293,9 @@
       "dedupe_hash": "8d92adcc2ca9bf3efe1fcbe4755bd35975587215c73dacb6a939e710e39deafd",
       "pipeline_run_id": "38261151688",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T16:20:34+02:00",
-      "updated_at": "2026-10-12T16:20:34+02:00",
-      "published_at": "2026-10-12T16:20:34+02:00",
+      "created_at": "2026-10-12T17:06:22+02:00",
+      "updated_at": "2026-10-12T17:06:22+02:00",
+      "published_at": "2026-10-12T17:06:22+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11310,9 +11310,9 @@
         "msg_ids": [],
         "control_id": 5308,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 17:06 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-12T17:06:21+02:00"
+      "live": true
     },
     {
       "id": "e783d0b9-64d5-5d1e-bc7e-d69dbb72a0dd",
