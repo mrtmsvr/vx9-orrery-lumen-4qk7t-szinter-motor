@@ -1,7 +1,147 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T14:00:47+02:00",
+  "updated_at": "2026-10-12T14:20:49+02:00",
   "articles": [
+    {
+      "id": "cd237d04-ed2b-5e00-864c-8dbe574f472c",
+      "slug": "2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Volodimir Zelenszkij",
+        "Orbán Anita",
+        "EU-csúcs",
+        "Ukrajna"
+      ],
+      "title": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+      "subtitle": null,
+      "lead": "Az e heti EU-csúcson találkozik Magyar Péter miniszterelnök és Volodimir Zelenszkij ukrán elnök, miközben a magyar kormány határozott feltételt szabott az ukrán uniós csatlakozási folyamat támogatásához. A luxembourgi tárgyalásokon dől el a kisebbségi oktatási jogok sorsa is.",
+      "key_points": [
+        "Az e heti EU-csúcson egyeztet egymással Magyar Péter miniszterelnök és Volodimir Zelenszkij ukrán elnök.",
+        "Orbán Anita külügyminiszter luxembourgi nyilatkozata szerint a kárpátaljai magyarság jogait biztosító törvény elfogadása a feltétele Ukrajna további uniós integrációjának.",
+        "Az uniós külügyminiszterek tanácsülésén jóváhagyják az eddigi legszigorúbb Oroszország elleni szankciós csomagot is."
+      ],
+      "content": "Az e heti EU-csúcson Volodimir Zelenszkij ukrán elnök és Magyar Péter miniszterelnök is találkozik egymással – számolt be a diplomáciai fejleményekről a Portfolio. A megbeszélésre olyan időszakban kerül sor, amikor az európai uniós diplomácia frontvonalai kiemelten feszültek.\n\nOrbán Anita külügyminiszter luxembourgi nyilatkozata szerint Ukrajna további uniós integrációjának támogatása szigorú feltételekhez kötődik. A magyar kormány álláspontja szerint az integrációs folyamat előmozdításának elengedhetetlen előfeltétele, hogy Ukrajna hétfőn elfogadja a kárpátaljai magyarság oktatási jogait biztosító törvényt.\n\nA nemzetközi egyeztetésekkel párhuzamosan az uniós külügyminiszterek tanácsülésén újabb jelentős döntés születik: a testület jóváhagyja az eddigi legszigorúbb, Oroszország elleni szankciós csomagot, amely tovább erősíti a meglévő korlátozásokat.",
+      "content_format": "markdown",
+      "body": [
+        "Az e heti EU-csúcson Volodimir Zelenszkij ukrán elnök és Magyar Péter miniszterelnök is találkozik egymással – számolt be a diplomáciai fejleményekről a Portfolio. A megbeszélésre olyan időszakban kerül sor, amikor az európai uniós diplomácia frontvonalai kiemelten feszültek.",
+        "Orbán Anita külügyminiszter luxembourgi nyilatkozata szerint Ukrajna további uniós integrációjának támogatása szigorú feltételekhez kötődik. A magyar kormány álláspontja szerint az integrációs folyamat előmozdításának elengedhetetlen előfeltétele, hogy Ukrajna hétfőn elfogadja a kárpátaljai magyarság oktatási jogait biztosító törvényt.",
+        "A nemzetközi egyeztetésekkel párhuzamosan az uniós külügyminiszterek tanácsülésén újabb jelentős döntés születik: a testület jóváhagyja az eddigi legszigorúbb, Oroszország elleni szankciós csomagot, amely tovább erősíti a meglévő korlátozásokat."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 139,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Europa_Building_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The Europa building in Brussels by Philippe Samyn.",
+        "credit": "PPEscientist / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Europa_Building_in_Brussels.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261012/tisza-kormany-magyar-peter-zelenszkijjel-talalkozik-felulvizsgaljak-a-gondosora-programot-868978",
+          "title": "Tisza-kormány: Magyar Péter Zelenszkijjel találkozik, felülvizsgálják a Gondosóra-programot",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T12:16:34+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-12T14:20:49+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261012/tisza-kormany-magyar-peter-zelenszkijjel-talalkozik-felulvizsgaljak-a-gondosora-programot-868978"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/kozelet/2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij/",
+      "seo": {
+        "meta_title": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+        "meta_description": "Az e heti EU-csúcson találkozik Magyar Péter miniszterelnök és Volodimir Zelenszkij ukrán elnök, miközben a magyar kormány határozott feltételt szabott az ukrán",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Europa_Building_in_Brussels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f890d14e36caab4f2791e0cc6f681a545e272239dc8a79ed8765644cd2167f9e",
+      "pipeline_run_id": "38234670180",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-12T14:20:49+02:00",
+      "updated_at": "2026-10-12T14:20:49+02:00",
+      "published_at": "2026-10-12T14:20:49+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Carpathian Hungarian minority education law",
+        "political meeting",
+        "diplomatic conference",
+        "EU summit hall",
+        "European Council (Brussels)",
+        "Luxembourg City Hall",
+        "Hungarian Ministry of Foreign Affairs",
+        "Ukrainian Presidential Administration",
+        "Carpathian Hungarian Cultural Center",
+        "handshake",
+        "press conference",
+        "official portrait",
+        "European Commission building Brussels",
+        "EU Council Chamber",
+        "Hungarian Prime Minister's Office",
+        "Luxembourg Grand Ducal Palace",
+        "Ukrainian flag",
+        "Hungarian flag",
+        "conference hall interior",
+        "press briefing podium",
+        "official documents on table",
+        "European Union flags row",
+        "Europa Building Brussels",
+        "Foreign Affairs Council meeting",
+        "diplomatic handshake event",
+        "Kyiv governmental office building",
+        "European Union press room",
+        "political negotiation table",
+        "international press conference podium",
+        "document signing ceremony"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/EU%E2%80%93Ukraine_Summit%2C_08.07.2004_%28P-010807_00-4%29.jpg/1280px-EU%E2%80%93Ukraine_Summit%2C_08.07.2004_%28P-010807_00-4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Ursula_von_der_Leyen_at_the_3rd_EU-CELAC_Summit_%28P061634-813885%29.jpg/1280px-Ursula_von_der_Leyen_at_the_3rd_EU-CELAC_Summit_%28P061634-813885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/EPP_Summit%2C_19_December%2C_Brussels_%2854214116676%29.jpg/1280px-EPP_Summit%2C_19_December%2C_Brussels_%2854214116676%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cd237d04ed-1791800455-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cd237d04ed-1791800456-1.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-1%29.jpg/1280px-Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Antia_Orb%C3%A1n_2026.jpg/1280px-Antia_Orb%C3%A1n_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
+    },
     {
       "id": "a211f31d-b588-5af0-a916-a9ebdc4d18a5",
       "slug": "2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste",
