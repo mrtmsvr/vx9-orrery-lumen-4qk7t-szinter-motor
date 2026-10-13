@@ -11079,9 +11079,9 @@
       "live": true
     },
     {
-      "id": "738d7897-af73-5767-9e4c-15a74182de7e",
-      "slug": "2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben",
-      "status": "pending",
+      "id": "8ade9b42-30dd-5b8f-8658-14f5dc75aa29",
+      "slug": "2026-10-13-meglepo-szigoritas-erkezik-az-embercsempeszet-ellen",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11091,7 +11091,7 @@
         "Európai Bizottság",
         "belföld"
       ],
-      "title": "Kiskaput zár a kormány az embercsempészek ügyében",
+      "title": "Meglepő szigorítás érkezik az embercsempészet ellen",
       "subtitle": null,
       "lead": "Törvénymódosítással zárná be a kormány azt a jogi kiskaput, amelyen keresztül korábban külföldi embercsempészek ezrei hagyhatták el a börtönöket. A változtatás célja, hogy végleg pontot tegyen a heves politikai vitákat kiváltó amnesztiaügyek végére.",
       "key_points": [
@@ -11111,17 +11111,7 @@
       "reading_time_min": 1,
       "word_count": 183,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg/1280px-Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 907,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Margitsziget court in Budapest, Hungary in 1908. Published in the weekly periodical newspaper called Vasarnapi Ujság by the printing press inc. Franklin Irodalmi és Nyomdai Rt. in 1908.",
-        "credit": "Vasárnapi Ujság / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Margitsziget_lawn_court_in_Budapest,_Hungary_in_1908.jpg"
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -11233,12 +11223,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/kozelet/2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben/",
+      "url": "/kozelet/2026-10-13-meglepo-szigoritas-erkezik-az-embercsempeszet-ellen/",
       "seo": {
-        "meta_title": "Kiskaput zár a kormány az embercsempészek ügyében",
+        "meta_title": "Meglepő szigorítás érkezik az embercsempészet ellen",
         "meta_description": "Törvénymódosítással zárná be a kormány azt a jogi kiskaput, amelyen keresztül korábban külföldi embercsempészek ezrei hagyhatták el a börtönöket. A változtatás ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg/1280px-Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-meglepo-szigoritas-erkezik-az-embercsempeszet-ellen/",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11263,9 +11253,9 @@
       "dedupe_hash": "8ec82bbca65433dca249a29ddb67671df15e1956bdb6833c52f748fae7c47506",
       "pipeline_run_id": "38388245614",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T13:19:16+02:00",
-      "updated_at": "2026-10-13T13:19:16+02:00",
-      "published_at": "2026-10-13T13:19:16+02:00",
+      "created_at": "2026-10-13T16:57:50+02:00",
+      "updated_at": "2026-10-13T16:57:50+02:00",
+      "published_at": "2026-10-13T16:57:50+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11280,7 +11270,7 @@
         "msg_ids": [],
         "control_id": 5654,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 16:57 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Hungarian Parliament",
@@ -11293,7 +11283,7 @@
         "prison cell",
         "government building"
       ],
-      "scheduled_at": "2026-10-13T16:57:36+02:00"
+      "live": true
     },
     {
       "id": "42ee13b9-435c-5ea4-a375-bb4a9c777bb0",
