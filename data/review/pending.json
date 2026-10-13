@@ -12538,6 +12538,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/f2e82115a8-1791890621-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/f2e82115a8-1791890621-0.jpg",
+          "kind": "photo",
+          "alt": "Ismert gazdasági nyomozók kerülhetnek a vagyonvisszaszerzési hivatalba",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/f2e82115a8-1791890622-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/f2e82115a8-1791890622-1.jpg",
+          "kind": "photo",
+          "alt": "Ismert gazdasági nyomozók kerülhetnek a vagyonvisszaszerzési hivatalba",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://pixabay.com/get/gd6e2679422beb669c4432cd668b6c14707ca6248fb979c215c967fd32d1591409eb201eb9a2014bfb36cd664ced4b5fc22cad68ef63a0000c99a0897792b951e_1280.jpg",
           "width": 5868,
           "height": 3517,
@@ -12660,7 +12682,7 @@
         ]
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 0,
         "sent_at": "2026-10-13T11:20:21+00:00",
         "msg_ids": [
@@ -12669,9 +12691,11 @@
           5621,
           5622,
           5623,
-          5624
+          5624,
+          5649,
+          5650
         ],
-        "control_id": 5625
+        "control_id": 5651
       }
     },
     {
