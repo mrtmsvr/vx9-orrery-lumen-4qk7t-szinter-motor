@@ -11931,9 +11931,9 @@
       "scheduled_at": "2026-10-13T18:57:36+02:00"
     },
     {
-      "id": "89cad417-1599-5f8b-9bbf-92f6e91ca9e7",
-      "slug": "2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek",
-      "status": "pending",
+      "id": "da0b1ada-41cb-51a6-963e-40d9c6dfb091",
+      "slug": "2026-10-13-nyugdijpenztarak-24-os-hozammal-lepik-meg-a-befektetoket",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11943,7 +11943,7 @@
         "infláció",
         "pénzügy"
       ],
-      "title": "24%-os hozam a nyugdíjpénztáraknál – a megtakarítók nyernek",
+      "title": "Nyugdíjpénztárak 24%-os hozammal lepik meg a befektetőket",
       "subtitle": null,
       "lead": "A magyar önkéntes nyugdíjpénztárak az év első kilenc hónapjában akár 16%-os, egy teljes évre visszatekintve pedig több mint 24%-os hozamot értek el. Ez a teljesítmény kiemelkedő, és jelentősen növeli a megtakarítók megtakarításainak reálértékét.",
       "key_points": [
@@ -11964,15 +11964,14 @@
       "word_count": 226,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1192,
+        "url": "https://live.staticflickr.com/4124/4845905314_8b4ce58572_b.jpg",
+        "width": 1024,
+        "height": 763,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Stamp",
-        "credit": "Post of Brazil / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg"
+        "alt": "Stock market",
+        "credit": "Manu Manohar Photography / flickr",
+        "license": "CC BY 2.0",
+        "source_url": "https://www.flickr.com/photos/32833136@N04/4845905314"
       },
       "inline_images": [],
       "sources": [
@@ -12051,12 +12050,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/penzvilag/2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek/",
+      "url": "/penzvilag/2026-10-13-nyugdijpenztarak-24-os-hozammal-lepik-meg-a-befektetoket/",
       "seo": {
-        "meta_title": "24%-os hozam a nyugdíjpénztáraknál – a megtakarítók nyernek",
+        "meta_title": "Nyugdíjpénztárak 24%-os hozammal lepik meg a befektetőket",
         "meta_description": "A magyar önkéntes nyugdíjpénztárak az év első kilenc hónapjában akár 16%-os, egy teljes évre visszatekintve pedig több mint 24%-os hozamot értek el. Ez a teljes",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-nyugdijpenztarak-24-os-hozammal-lepik-meg-a-befektetoket/",
+        "og_image": "https://live.staticflickr.com/4124/4845905314_8b4ce58572_b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12073,9 +12072,9 @@
       "dedupe_hash": "7be772d18cd7efe1e741395312b81abe19fed5e2f36661b87a4988cbaef54c3c",
       "pipeline_run_id": "38414039168",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T16:41:04+02:00",
-      "updated_at": "2026-10-13T16:41:04+02:00",
-      "published_at": "2026-10-13T16:41:04+02:00",
+      "created_at": "2026-10-13T18:17:37+02:00",
+      "updated_at": "2026-10-13T18:17:37+02:00",
+      "published_at": "2026-10-13T18:17:37+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12088,9 +12087,9 @@
         "msg_ids": [],
         "control_id": 5710,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 18:17 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T18:17:36+02:00"
+      "live": true
     },
     {
       "id": "a2a86377-db2b-5e0a-9eca-312c507dc8fe",
