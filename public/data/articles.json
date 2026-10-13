@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T11:56:18+02:00",
+  "updated_at": "2026-10-13T12:16:16+02:00",
   "articles": [
+    {
+      "id": "05b7b3d5-9c78-5edd-902d-d379d1c792b7",
+      "slug": "2026-10-13-magyar-peter-a-vagyonosodasi-vizsgalatokrol-es-a-koltsegvetesrol",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "parlament",
+        "költségvetés",
+        "vagyonosodási vizsgálat"
+      ],
+      "title": "Magyar Péter a vagyonosodási vizsgálatokról és a költségvetésről",
+      "subtitle": null,
+      "lead": "Magyar Péter a Parlamentben beszélt a kormányzati tervekről, miközben szakértői bírálatok érték a vagyonosodási vizsgálatokról szóló törvényjavaslatot. A kabinet célja a 2027-es költségvetés igazságosabbá tétele, miközben több intézményi vezetőt is érintő személyi változások zajlanak.",
+      "key_points": [
+        "Szakértők szerint a vagyonosodási vizsgálatokról szóló javaslat szűk hatálya miatt Tiborcz István a bírálók véleménye szerint mentesülhet az ellenőrzés alól.",
+        "Az Országgyűlés döntött a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökhelyetteseinek személyéről."
+      ],
+      "content": "A héten tartott parlamenti ülésen Magyar Péter részletesen szólt a kormányzati célkitűzésekről, külön kiemelve a 2027-es költségvetés irányvonalait. A kormányfő szerint a büdzsé a társadalom szélesebb rétegei számára biztosítana kitörési pontokat, támogatva többek között az egészségügyi, szociális és oktatási szektor dolgozóit, a rendvédelmi állományt, valamint a nyugdíjasokat. Ezzel párhuzamosan a kormány benyújtotta a politikai vezetők vagyonosodási vizsgálatáról szóló törvényjavaslatát, amely azonban szakmai körökben vitát váltott ki: a bírálatok szerint az időbeli és személyi hatály korlátozottsága miatt a vélemények alapján Tiborcz István kimaradhat az átvilágításból.\n\nAz igazságügyi folyamatok kapcsán Magyar Péter arról tájékoztatta a képviselőket, hogy Eközben az Országgyűlés Igazságügyi és Alkotmányügyi Bizottsága kijelölte a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) három elnökhelyettes-jelöltjét: Ötvös Károlyt, Gellért Károly Árpádot és Terhes Tibor Dávidot.\n\nKülpolitikai téren is előrelépés történt: Orbán Anita külügyminiszter Luxembourgban megerősítette, hogy Ukrajna uniós integrációjának egyik alapfeltétele a kisebbségi jogok rendezése. A közlekedésfejlesztés területén pedig Vitézy Dávid miniszter bejelentette a Magyar Közút flottabővítését: a 12 millió eurós költségvetési forrásból megvalósuló program részeként négy új Mercedes-Benz tehergépkocsi segíti a téli útüzemeltetést.",
+      "content_format": "markdown",
+      "body": [
+        "A héten tartott parlamenti ülésen Magyar Péter részletesen szólt a kormányzati célkitűzésekről, külön kiemelve a 2027-es költségvetés irányvonalait. A kormányfő szerint a büdzsé a társadalom szélesebb rétegei számára biztosítana kitörési pontokat, támogatva többek között az egészségügyi, szociális és oktatási szektor dolgozóit, a rendvédelmi állományt, valamint a nyugdíjasokat. Ezzel párhuzamosan a kormány benyújtotta a politikai vezetők vagyonosodási vizsgálatáról szóló törvényjavaslatát, amely azonban szakmai körökben vitát váltott ki: a bírálatok szerint az időbeli és személyi hatály korlátozottsága miatt a vélemények alapján Tiborcz István kimaradhat az átvilágításból.",
+        "Az igazságügyi folyamatok kapcsán Magyar Péter arról tájékoztatta a képviselőket, hogy Eközben az Országgyűlés Igazságügyi és Alkotmányügyi Bizottsága kijelölte a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) három elnökhelyettes-jelöltjét: Ötvös Károlyt, Gellért Károly Árpádot és Terhes Tibor Dávidot.",
+        "Külpolitikai téren is előrelépés történt: Orbán Anita külügyminiszter Luxembourgban megerősítette, hogy Ukrajna uniós integrációjának egyik alapfeltétele a kisebbségi jogok rendezése. A közlekedésfejlesztés területén pedig Vitézy Dávid miniszter bejelentette a Magyar Közút flottabővítését: a 12 millió eurós költségvetési forrásból megvalósuló program részeként négy új Mercedes-Benz tehergépkocsi segíti a téli útüzemeltetést."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 205,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261012/tisza-kormany-tiborcz-meguszhatja-a-vagyonosodasi-vizsgalatot-magyar-peter-hosszan-beszelt-a-parlamentben-868978",
+          "title": "Tisza-kormány: Tiborcz megúszhatja a vagyonosodási vizsgálatot, Magyar Péter hosszan beszélt a Parlamentben",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T09:24:51+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T12:16:16+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261012/tisza-kormany-tiborcz-meguszhatja-a-vagyonosodasi-vizsgalatot-magyar-peter-hosszan-beszelt-a-parlamentben-868978"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kozelet/2026-10-13-magyar-peter-a-vagyonosodasi-vizsgalatokrol-es-a-koltsegvetesrol/",
+      "seo": {
+        "meta_title": "Magyar Péter a vagyonosodási vizsgálatokról és a költségveté",
+        "meta_description": "Magyar Péter a Parlamentben beszélt a kormányzati tervekről, miközben szakértői bírálatok érték a vagyonosodási vizsgálatokról szóló törvényjavaslatot. A kabine",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-magyar-peter-a-vagyonosodasi-vizsgalatokrol-es-a-koltsegvetesrol/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "1d92ba89-3227-565f-a65f-636520291f1d"
+      ],
+      "see_also": [
+        {
+          "title": "Brüsszelhez fordult kétségbeesésében a Fidesz-kdnp",
+          "url": "/kozelet/2026-10-04-brusszelhez-fordult-ketsegbeeseseben-a-fidesz-kdnp/",
+          "date": "2026-10-04"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "ba3e614ace7147e3e522666eef4bd0640884ac943fd94c19f98f985fab983779",
+      "pipeline_run_id": "38362302674",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T12:16:16+02:00",
+      "updated_at": "2026-10-13T12:16:16+02:00",
+      "published_at": "2026-10-13T12:16:16+02:00",
+      "expires_at": null,
+      "requested": true,
+      "image_queries": [
+        "Peter Magyar",
+        "Istvan Tiborcz",
+        "National Asset Recovery and Protection Office",
+        "Hungarian Parliament",
+        "Mercedes-Benz truck",
+        "Luxembourg",
+        "government building",
+        "official documents",
+        "courtroom",
+        "Hungarian National Assembly",
+        "Kossuth Lajos Square",
+        "winter road maintenance",
+        "European Union meeting",
+        "public audit",
+        "busy parliament hallway",
+        "financial data document",
+        "office meeting room"
+      ],
+      "images_seen": [
+        "https://live.staticflickr.com/65535/52537195741_a223489857_b.jpg",
+        "https://live.staticflickr.com/3192/2511758704_636e3aec91_b.jpg",
+        "https://pixabay.com/get/gd483e44d11fe0ff3d5f1af2efe0ace2dc3fe31358c62625ffe4eaae03b2199bce1eb249558705c34679e6e0e219844183cf4cba11a6fa8f51eceff845225a337_1280.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vit%C3%A9zy_D%C3%A1vid_-.jpg/1280px-Vit%C3%A9zy_D%C3%A1vid_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://pixabay.com/get/gd3c4ba0fd2fd713dd018d949d25b828204fb3789f0bb59dd39da5ba38e1143c10b27554179a055326e5298f4c7d285ac182f5b237432ceb30d105a25ec69706c_1280.jpg"
+      ]
+    },
     {
       "id": "3084c9f5-d47c-59df-abd7-c9032c7fec21",
       "slug": "2026-10-13-a-tronok-harcat-is-lekorozne-az-uj-sarkanyos-sorozat",

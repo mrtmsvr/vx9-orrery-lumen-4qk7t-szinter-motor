@@ -11860,7 +11860,7 @@
     {
       "id": "05b7b3d5-9c78-5edd-902d-d379d1c792b7",
       "slug": "2026-10-13-magyar-peter-a-vagyonosodasi-vizsgalatokrol-es-a-koltsegvetesrol",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11887,17 +11887,7 @@
       "reading_time_min": 2,
       "word_count": 205,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
-        "credit": "NyitraiD / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg"
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -11996,7 +11986,7 @@
         "meta_title": "Magyar Péter a vagyonosodási vizsgálatokról és a költségveté",
         "meta_description": "Magyar Péter a Parlamentben beszélt a kormányzati tervekről, miközben szakértői bírálatok érték a vagyonosodási vizsgálatokról szóló törvényjavaslatot. A kabine",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-magyar-peter-a-vagyonosodasi-vizsgalatokrol-es-a-koltsegvetesrol/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12021,9 +12011,9 @@
       "dedupe_hash": "ba3e614ace7147e3e522666eef4bd0640884ac943fd94c19f98f985fab983779",
       "pipeline_run_id": "38362302674",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:24:51+02:00",
-      "updated_at": "2026-10-13T09:24:51+02:00",
-      "published_at": "2026-10-13T09:24:51+02:00",
+      "created_at": "2026-10-13T12:16:16+02:00",
+      "updated_at": "2026-10-13T12:16:16+02:00",
+      "published_at": "2026-10-13T12:16:16+02:00",
       "expires_at": null,
       "requested": true,
       "legal": {
@@ -12041,7 +12031,7 @@
         "msg_ids": [],
         "control_id": 5552,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:16 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Peter Magyar",
@@ -12070,7 +12060,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/gd3c4ba0fd2fd713dd018d949d25b828204fb3789f0bb59dd39da5ba38e1143c10b27554179a055326e5298f4c7d285ac182f5b237432ceb30d105a25ec69706c_1280.jpg"
       ],
-      "scheduled_at": "2026-10-13T12:16:12+02:00"
+      "live": true
     },
     {
       "id": "81c996a5-533f-5456-a80f-0f250af15412",
