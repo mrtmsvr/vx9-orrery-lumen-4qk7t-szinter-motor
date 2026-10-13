@@ -12283,7 +12283,7 @@
     {
       "id": "bf85973f-54b4-53a8-8cfd-5ab70dad2c3e",
       "slug": "2026-10-13-visszaesett-a-vallalkozoi-kedv-magyarorszagon",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -12316,15 +12316,17 @@
       "word_count": 254,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg/1280px-Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 797,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/14d41afad999ff16.jpg",
+        "width": 5760,
+        "height": 3840,
         "kind": "photo",
-        "pos": "center",
-        "alt": "János Kóka, Hungarian Minister for Economy and Transport, met Andris Piebalgs, Member of the EC in charge of Energy.",
-        "credit": "Georges Boulougouris / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Visit_by_J%C3%A1nos_K%C3%B3ka,_Hungarian_Minister_for_Economy_and_Transport,_to_the_EC_-_2006.jpg"
+        "alt": "people, business, meeting, business meeting, coworkers, agreement, men, women, professionals, office, employees, suit, work, greeting, boss, computer, group, handshake, desk, team, colleagues, arrange",
+        "credit": "089photoshootings / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/people-business-meeting-1979261/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/14d41afad999ff16.jpg",
+        "orig_url": "https://pixabay.com/get/gb87d6b84817f698e4c630a9eb16d6ea5299b4dd5010f0c871c810c3a030a2812054ef1ea5cccd39cc71ee5bc3acd0e3a612972135bba5b9068e2d8fbe6f34c58_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12404,7 +12406,7 @@
         "meta_title": "Visszaesett a vállalkozói kedv Magyarországon",
         "meta_description": "Ismét romlott a magyar vállalkozások hangulata, miközben a gazdaság helyrehozásához jelentős költségvetési beavatkozásra lehet szükség. A cégek eközben szigorúb",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-visszaesett-a-vallalkozoi-kedv-magyarorszagon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg/1280px-Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/14d41afad999ff16.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12421,9 +12423,9 @@
       "dedupe_hash": "61b9d8bd26594c57674308855030c4528bf19009cbc53313d0ad3cc8e14b553e",
       "pipeline_run_id": "38438676714",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T19:37:37+02:00",
-      "updated_at": "2026-10-13T19:37:37+02:00",
-      "published_at": "2026-10-13T19:37:37+02:00",
+      "created_at": "2026-10-13T19:47:46+02:00",
+      "updated_at": "2026-10-13T19:47:46+02:00",
+      "published_at": "2026-10-13T19:47:46+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12433,15 +12435,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-13T17:39:48+00:00",
-        "msg_ids": [
-          5733,
-          5734,
-          5735,
-          5736,
-          5737,
-          5741
-        ],
-        "control_id": 5742
+        "msg_ids": [],
+        "control_id": 5742,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Istvan Madar",
@@ -12459,7 +12456,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Christopher_Stalford_at_the_2013_Horasis_Global_India_Business_Meeting_%28cropped%29.jpg/1280px-Christopher_Stalford_at_the_2013_Horasis_Global_India_Business_Meeting_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg/1280px-Visit_by_J%C3%A1nos_K%C3%B3ka%2C_Hungarian_Minister_for_Economy_and_Transport%2C_to_the_EC_-_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "live": true
     }
   ]
 }
