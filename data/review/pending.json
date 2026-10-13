@@ -10571,9 +10571,9 @@
       ]
     },
     {
-      "id": "61683893-370b-5fae-86a2-28a613df282e",
-      "slug": "2026-10-12-a-lataskutatas-csucsara-ert-roska-botond",
-      "status": "pending",
+      "id": "1daa1978-434d-50f8-ac61-c2fb6dc933d7",
+      "slug": "2026-10-12-ujabb-vilagitoro-elismerest-vehetett-at-a-magyar-neurobiologus",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -10583,7 +10583,7 @@
         "Semmelweis Egyetem",
         "tudomány"
       ],
-      "title": "A látáskutatás csúcsára ért Roska Botond",
+      "title": "Újabb világítörő elismerést vehetett át a magyar neurobiológus",
       "subtitle": null,
       "lead": "Roska Botond magyar neurobiológus és kutatótársa nyerte el idén a látáskutatás legrangosabb nemzetközi elismerését, az António Champalimaud Vision Awardot. A díjjal a vakság gyógyítását célzó optogenetikai terápia fejlesztésében elért eredményeiket jutalmazták.",
       "key_points": [
@@ -10604,15 +10604,16 @@
       "word_count": 224,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Semmelweis-Ulloi26.JPG/1280px-Semmelweis-Ulloi26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 798,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/f2992afbe6eb1cb5.jpg",
+        "width": 4928,
+        "height": 3264,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Semmelweis University Faculty of Medicine, Üllői út 26, Budapest, Hungary",
-        "credit": "Illustratedjc / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Semmelweis-Ulloi26.JPG"
+        "alt": "microscope, slide, research, close-up, test, experiment, micro, microscopy, plate, scrutiny, medical, tool, red, sample, study, laboratory, biotechnology, light, discovery, analysis, technology, equip",
+        "credit": "PublicDomainPictures / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/microscope-slide-research-close-up-275984/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/f2992afbe6eb1cb5.jpg",
+        "orig_url": "https://pixabay.com/get/gb9b7978fc30b9ac2efc394e4c7ae359ea75f5353a8037f2d30cf23c7519daa7ddc1249972afc5821557adaa7b80314a7653fcdbe214de90eaf214a8ecb008aef_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -10739,12 +10740,12 @@
       },
       "date": "2026-10-12",
       "date_label": "október 12.",
-      "url": "/tech/2026-10-12-a-lataskutatas-csucsara-ert-roska-botond/",
+      "url": "/tech/2026-10-12-ujabb-vilagitoro-elismerest-vehetett-at-a-magyar-neurobiologus/",
       "seo": {
-        "meta_title": "A látáskutatás csúcsára ért Roska Botond",
+        "meta_title": "Újabb világítörő elismerést vehetett át a magyar neurobiológ",
         "meta_description": "Roska Botond magyar neurobiológus és kutatótársa nyerte el idén a látáskutatás legrangosabb nemzetközi elismerését, az António Champalimaud Vision Awardot. A dí",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-a-lataskutatas-csucsara-ert-roska-botond/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Semmelweis-Ulloi26.JPG/1280px-Semmelweis-Ulloi26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-12-ujabb-vilagitoro-elismerest-vehetett-at-a-magyar-neurobiologus/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/f2992afbe6eb1cb5.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10761,9 +10762,9 @@
       "dedupe_hash": "eeb822756d39d3c0db88d0e2f889b1bd3f2edddef06ee13d6337c49c14a753ba",
       "pipeline_run_id": "38295331248",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T21:44:38+02:00",
-      "updated_at": "2026-10-12T21:44:38+02:00",
-      "published_at": "2026-10-12T21:44:38+02:00",
+      "created_at": "2026-10-13T08:16:10+02:00",
+      "updated_at": "2026-10-13T08:16:10+02:00",
+      "published_at": "2026-10-13T08:16:10+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10773,18 +10774,12 @@
         "title": 2,
         "image": 2,
         "sent_at": "2026-10-12T19:45:41+00:00",
-        "msg_ids": [
-          5405,
-          5406,
-          5407,
-          5408,
-          5409,
-          5410,
-          5411,
-          5412
-        ],
-        "control_id": 5413
-      }
+        "msg_ids": [],
+        "control_id": 5413,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "0fee4c3c-d504-5f1e-8770-e4bea5e12591",
