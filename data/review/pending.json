@@ -11719,7 +11719,7 @@
     {
       "id": "083a6d8d-ddc6-59be-b028-23f085d5fe32",
       "slug": "2026-10-13-a-mozgas-lelassithatja-sejtjeink-eddig-ismert-oregedeset",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": null,
       "tags": [
@@ -11750,15 +11750,15 @@
       "word_count": 290,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Molecular_Cell_Biology_Laboratory_-_LUMC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Man_using_microscope_in_laboratory_LCCN2016882745.jpg/1280px-Man_using_microscope_in_laboratory_LCCN2016882745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 930,
         "kind": "photo",
         "pos": "center",
-        "alt": "lab",
-        "credit": "mararie from Leiden, The Netherlands / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Molecular_Cell_Biology_Laboratory_-_LUMC.jpg"
+        "alt": "Man using microscope in laboratory",
+        "credit": "Harris &amp; Ewing, photographer / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Man_using_microscope_in_laboratory_LCCN2016882745.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11891,7 +11891,7 @@
         "meta_title": "A mozgás lelassíthatja sejtjeink eddig ismert öregedését",
         "meta_description": "Meglepő összefüggést tártak fel a sejtek öregedésével kapcsolatban a kutatók: szervezetünk takarítórendszere korántsem úgy lassul le az évek múlásával, ahogyan ",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-13-a-mozgas-lelassithatja-sejtjeink-eddig-ismert-oregedeset/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Molecular_Cell_Biology_Laboratory_-_LUMC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Man_using_microscope_in_laboratory_LCCN2016882745.jpg/1280px-Man_using_microscope_in_laboratory_LCCN2016882745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11908,9 +11908,9 @@
       "dedupe_hash": "abdbcb4048dbaa5bc5094b588b63c80d9a286f190b00b68490e2c6b08a8fb410",
       "pipeline_run_id": "38414039168",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T16:41:13+02:00",
-      "updated_at": "2026-10-13T16:41:13+02:00",
-      "published_at": "2026-10-13T16:41:13+02:00",
+      "created_at": "2026-10-13T18:57:46+02:00",
+      "updated_at": "2026-10-13T18:57:46+02:00",
+      "published_at": "2026-10-13T18:57:46+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11926,9 +11926,9 @@
         "msg_ids": [],
         "control_id": 5705,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 18:57 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T18:57:36+02:00"
+      "live": true
     },
     {
       "id": "da0b1ada-41cb-51a6-963e-40d9c6dfb091",
