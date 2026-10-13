@@ -11103,9 +11103,9 @@
       "live": true
     },
     {
-      "id": "42ee13b9-435c-5ea4-a375-bb4a9c777bb0",
-      "slug": "2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan",
-      "status": "pending",
+      "id": "9467b00a-378b-5f32-9139-3c078a86f723",
+      "slug": "2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11115,7 +11115,7 @@
         "ügyészség",
         "közélet"
       ],
-      "title": "Újabb fordulat a legfőbb ügyészi poszt körül Baka András döntése után",
+      "title": "Fejes Péter lehet a legfőbb ügyész Baka András jelölése nyomán",
       "subtitle": null,
       "lead": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a nemzetközi diplomáciában is feszültségek rajzolódnak ki az ukrajnai helyzet kapcsán.",
       "key_points": [
@@ -11138,15 +11138,16 @@
       "word_count": 184,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg/1280px-District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 927,
+        "height": 1601,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) and Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi pose for a photo during an introductory office",
-        "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235881).jpg"
+        "pos": "top",
+        "alt": ": District Court and District Prosecutor's Office - 26 Várkerület, Malom Street corner, Sárvár, Vas County, Hungary.",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:District_Court_and_District_Prosecutor%27s_Office,_2020_S%C3%A1rv%C3%A1r.jpg",
+        "vision_score": 5.0
       },
       "inline_images": [],
       "sources": [
@@ -11220,12 +11221,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/kozelet/2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan/",
+      "url": "/kozelet/2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman/",
       "seo": {
-        "meta_title": "Újabb fordulat a legfőbb ügyészi poszt körül Baka András dön",
+        "meta_title": "Fejes Péter lehet a legfőbb ügyész Baka András jelölése nyom",
         "meta_description": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg/1280px-District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11262,9 +11263,9 @@
       "dedupe_hash": "81567c8aa62430b55c5a6d59562c027c2c56c7be87027ead21bbdd62cae1ddc3",
       "pipeline_run_id": "38388245614",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T13:19:12+02:00",
-      "updated_at": "2026-10-13T13:19:12+02:00",
-      "published_at": "2026-10-13T13:19:12+02:00",
+      "created_at": "2026-10-13T17:17:53+02:00",
+      "updated_at": "2026-10-13T17:17:53+02:00",
+      "published_at": "2026-10-13T17:17:53+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11283,7 +11284,7 @@
         "msg_ids": [],
         "control_id": 5657,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 17:17 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Péter Fejes",
@@ -11300,7 +11301,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ],
-      "scheduled_at": "2026-10-13T17:17:36+02:00"
+      "live": true
     },
     {
       "id": "7c6a954c-ee77-5204-ac3c-fa93f87d7e06",
