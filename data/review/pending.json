@@ -12250,14 +12250,12 @@
         "title": 1,
         "image": 2,
         "sent_at": "2026-10-13T14:52:04+00:00",
-        "msg_ids": [
-          5706,
-          5707,
-          5708,
-          5709
-        ],
-        "control_id": 5710
-      }
+        "msg_ids": [],
+        "control_id": 5710,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 18:17 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-13T18:17:36+02:00"
     },
     {
       "id": "a2a86377-db2b-5e0a-9eca-312c507dc8fe",
