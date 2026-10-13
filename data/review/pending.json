@@ -12156,66 +12156,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hungarian_Parliament_Building_2023-9.jpg/1280px-Hungarian_Parliament_Building_2023-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 900,
+          "height": 675,
           "kind": "photo",
           "pos": "center",
-          "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
-          "credit": "NyitraiD / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg"
+          "alt": "Hungarian Parliament Building is the seat of the National Assembly of Hungary, a notable landmark of Hungary",
+          "credit": "Pierre Blaché / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_2023-9.jpg",
+          "vision_score": 6.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vit%C3%A9zy_D%C3%A1vid_-.jpg/1280px-Vit%C3%A9zy_D%C3%A1vid_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kossuth_square_Christimas_tree_2022_02.jpg/1280px-Kossuth_square_Christimas_tree_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 900,
+          "height": 1600,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Vitézy Dávid (Budapest, 1985. december 1. –) magyar közgazdász, közlekedési és város-mobilitási szakértő a SMART 2017 Konferencián",
-          "credit": "Elekes Andor / Wikimedia Commons",
+          "pos": "top",
+          "alt": "Christmas tree at Kossuth square, Budapest (December 2022)",
+          "credit": "Norden1990 / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zy_D%C3%A1vid_-.jpg"
-        },
-        {
-          "url": "https://pixabay.com/get/gd3c4ba0fd2fd713dd018d949d25b828204fb3789f0bb59dd39da5ba38e1143c10b27554179a055326e5298f4c7d285ac182f5b237432ceb30d105a25ec69706c_1280.jpg",
-          "width": 5868,
-          "height": 3517,
-          "kind": "photo",
-          "alt": "bundestag, german flag, parliament, federal election, germany, capital city, flag, architecture, banner, building, government district, berlin, government, germany flag, city, nature, politics, govern",
-          "credit": "Felix-Mittermeier / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/bundestag-german-flag-parliament-2463236/"
-        },
-        {
-          "url": "https://pixabay.com/get/gd483e44d11fe0ff3d5f1af2efe0ace2dc3fe31358c62625ffe4eaae03b2199bce1eb249558705c34679e6e0e219844183cf4cba11a6fa8f51eceff845225a337_1280.jpg",
-          "width": 5616,
-          "height": 3420,
-          "kind": "photo",
-          "alt": "federal chancellery, federal government, government, berlin, building, architecture, government district, germany, sunset, nature, dusk, Berlin, Germany",
-          "credit": "LoboStudioHamburg / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/federal-chancellery-637999/"
-        },
-        {
-          "url": "https://live.staticflickr.com/3192/2511758704_636e3aec91_b.jpg",
-          "width": 1024,
-          "height": 683,
-          "kind": "photo",
-          "alt": "Japanese Government Buildings (Night)",
-          "credit": "Guwashi999 / flickr",
-          "license": "CC BY 2.0",
-          "source_url": "https://www.flickr.com/photos/16877319@N07/2511758704"
-        },
-        {
-          "url": "https://live.staticflickr.com/65535/52537195741_a223489857_b.jpg",
-          "width": 1024,
-          "height": 695,
-          "kind": "photo",
-          "alt": "Former Government Buildings, Hargreaves Street, Bendigo, Victoria, Australia",
-          "credit": "Stuart Smith. / flickr",
-          "license": "CC BY-SA 2.0",
-          "source_url": "https://www.flickr.com/photos/127349327@N05/52537195741"
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kossuth_square_Christimas_tree_2022_02.jpg",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -12289,9 +12251,11 @@
           5533,
           5534,
           5535,
-          5536
+          5536,
+          5542,
+          5543
         ],
-        "control_id": 5537
+        "control_id": 5544
       },
       "image_queries": [
         "Peter Magyar",
@@ -12302,7 +12266,23 @@
         "Luxembourg",
         "government building",
         "official documents",
-        "courtroom"
+        "courtroom",
+        "Hungarian National Assembly",
+        "Kossuth Lajos Square",
+        "winter road maintenance",
+        "European Union meeting",
+        "public audit",
+        "busy parliament hallway",
+        "financial data document",
+        "office meeting room"
+      ],
+      "images_seen": [
+        "https://live.staticflickr.com/65535/52537195741_a223489857_b.jpg",
+        "https://live.staticflickr.com/3192/2511758704_636e3aec91_b.jpg",
+        "https://pixabay.com/get/gd483e44d11fe0ff3d5f1af2efe0ace2dc3fe31358c62625ffe4eaae03b2199bce1eb249558705c34679e6e0e219844183cf4cba11a6fa8f51eceff845225a337_1280.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vit%C3%A9zy_D%C3%A1vid_-.jpg/1280px-Vit%C3%A9zy_D%C3%A1vid_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://pixabay.com/get/gd3c4ba0fd2fd713dd018d949d25b828204fb3789f0bb59dd39da5ba38e1143c10b27554179a055326e5298f4c7d285ac182f5b237432ceb30d105a25ec69706c_1280.jpg"
       ]
     }
   ]
