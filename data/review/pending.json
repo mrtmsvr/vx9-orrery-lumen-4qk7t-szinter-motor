@@ -10718,21 +10718,10 @@
         "title": 4,
         "image": -1,
         "sent_at": "2026-10-12T19:46:07+00:00",
-        "msg_ids": [
-          5431,
-          5432,
-          5433,
-          5434,
-          5435,
-          5436,
-          5437,
-          5438,
-          5439,
-          5483,
-          5488,
-          5489
-        ],
-        "control_id": 5490
+        "msg_ids": [],
+        "control_id": 5490,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:36 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "General Alexus Grynkewich",
@@ -10754,7 +10743,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lt_Gen_Alexus_G._Grynkewich_%283%29.jpg/1280px-Lt_Gen_Alexus_G._Grynkewich_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lt_Gen_Alexus_G._Grynkewich_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%9D._%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%A0%CE%BF%CE%BB%CF%89%CE%BD%CE%AF%CE%B1_-_%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%83%CF%84%CE%BF_Warsaw_Security_Forum_2022_%28%CE%92%CE%B1%CF%81%CF%83%CE%BF%CE%B2%CE%AF%CE%B1%2C_5.10.2022%29_-_52406558669.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T09:36:12+02:00"
     },
     {
       "id": "e9ecebee-8c83-55d5-9d3c-296b9c2e919b",
