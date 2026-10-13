@@ -1,7 +1,104 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T13:18:55+02:00",
+  "updated_at": "2026-10-13T13:39:03+02:00",
   "articles": [
+    {
+      "id": "57b0c417-6055-528e-b0d7-e94dbac18ed1",
+      "slug": "2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "természetvédelem",
+        "Debreceni Egyetem",
+        "környezetjog",
+        "jogalanyiság",
+        "klímaváltozás"
+      ],
+      "title": "Pert indíthat egy folyó? Döntöttek a debreceni jogászok",
+      "subtitle": null,
+      "lead": "A világ egyre több pontján ruháznak fel folyókat, tavakat és erdőket önálló jogokkal, hogy hatékonyabban küzdjenek a környezetpusztítás ellen. A Debreceni Egyetem jogászai szerint ez a megközelítés a hazai kihívások, például a vízhiány kezelésében is új utakat nyithat.",
+      "key_points": [
+        "A természet jogalanyisága azt jelenti, hogy az ökoszisztémák saját jogokkal rendelkeznek.",
+        "Ecuadorban 2008 óta az alkotmány is elismeri az Anyatermészet jogait.",
+        "A Debreceni Egyetem szakemberei szerint a modell Magyarországon is segíthetne."
+      ],
+      "content": "Ez a szemlélet azt célozza, hogy a folyók, tavak vagy erdők ne csupán az emberi érdekek mentén védendő jogtárgyként szerepeljenek a jogrendszerben, hanem saját jogokkal bírjanak, amelyek sértése esetén bárki bírósághoz fordulhasson a nevükben. A Debreceni Egyetem jogi karának kutatója, Jakkel Barbara és Fodor László környezetjogász az Állam- és Jogtudomány című folyóiratban megjelent tanulmányukban elemezték ezt a rendszert, rávilágítva a hazai alkalmazási lehetőségekre is.\n\nA hagyományos természetvédelmi szabályozások az utóbbi időszakban gyakran kudarcnak bizonyultak a mértéktelen környezetpusztítás és a klímaváltozás okozta válságok megfékezésében. A valódi áttörés azonban a kétezres évektől kezdődött, aminek egyik legfőbb példája Ecuador, ahol 2008-ban az alkotmányban is rögzítették a Pachamama, vagyis az Anyatermészet jogait, kötelezővé téve a természetes ciklusok fenntartását és a károk helyreállítását.\n\nA szakirodalom által megkülönböztetett modellek közül az ecuadori a leginkább kézzelfogható, amely egy adott joghatóságon belül a teljes természet védelmét rendeli el. A Debreceni Egyetem kutatói szerint egy ilyen ökocentrikus szemlélet Magyarországon is új eszközöket adhatna a kezünkbe, különösen a jelenleg is tapasztalható vízhiány és a fenntarthatósági problémák elleni küzdelemben. A hazai alkotmányos háttér vizsgálata révén a szakemberek azt térképezik fel, hogyan illeszthetők be a nemzetközi gyakorlatban már bevált, természetvédelmet erősítő elemek a magyar jogrendszerbe.",
+      "content_format": "markdown",
+      "body": [
+        "Ez a szemlélet azt célozza, hogy a folyók, tavak vagy erdők ne csupán az emberi érdekek mentén védendő jogtárgyként szerepeljenek a jogrendszerben, hanem saját jogokkal bírjanak, amelyek sértése esetén bárki bírósághoz fordulhasson a nevükben. A Debreceni Egyetem jogi karának kutatója, Jakkel Barbara és Fodor László környezetjogász az Állam- és Jogtudomány című folyóiratban megjelent tanulmányukban elemezték ezt a rendszert, rávilágítva a hazai alkalmazási lehetőségekre is.",
+        "A hagyományos természetvédelmi szabályozások az utóbbi időszakban gyakran kudarcnak bizonyultak a mértéktelen környezetpusztítás és a klímaváltozás okozta válságok megfékezésében. A valódi áttörés azonban a kétezres évektől kezdődött, aminek egyik legfőbb példája Ecuador, ahol 2008-ban az alkotmányban is rögzítették a Pachamama, vagyis az Anyatermészet jogait, kötelezővé téve a természetes ciklusok fenntartását és a károk helyreállítását.",
+        "A szakirodalom által megkülönböztetett modellek közül az ecuadori a leginkább kézzelfogható, amely egy adott joghatóságon belül a teljes természet védelmét rendeli el. A Debreceni Egyetem kutatói szerint egy ilyen ökocentrikus szemlélet Magyarországon is új eszközöket adhatna a kezünkbe, különösen a jelenleg is tapasztalható vízhiány és a fenntarthatósági problémák elleni küzdelemben. A hazai alkotmányos háttér vizsgálata révén a szakemberek azt térképezik fel, hogyan illeszthetők be a nemzetközi gyakorlatban már bevált, természetvédelmet erősítő elemek a magyar jogrendszerbe."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 232,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://live.staticflickr.com/2734/4310021898_dcb42a6a73_b.jpg",
+        "width": 1024,
+        "height": 686,
+        "kind": "photo",
+        "alt": "Wolf River Nature Trail Sunset",
+        "credit": "Noel Pennington / flickr",
+        "license": "CC BY 2.0",
+        "source_url": "https://www.flickr.com/photos/21377366@N08/4310021898"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/13/a-halak-nem-mehetnek-birosagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "„A halak nem mehetnek bíróságra”",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T13:19:15+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T13:39:03+02:00"
+      },
+      "hot_score": 5.65,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/13/a-halak-nem-mehetnek-birosagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kozelet/2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok/",
+      "seo": {
+        "meta_title": "Pert indíthat egy folyó? Döntöttek a debreceni jogászok",
+        "meta_description": "A világ egyre több pontján ruháznak fel folyókat, tavakat és erdőket önálló jogokkal, hogy hatékonyabban küzdjenek a környezetpusztítás ellen. A Debreceni Egyet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok/",
+        "og_image": "https://live.staticflickr.com/2734/4310021898_dcb42a6a73_b.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "be1e0e94224c8552b8bd9edce14fbcc2be929e0dacf5f3e356a64c0809917718",
+      "pipeline_run_id": "38388245614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T13:39:03+02:00",
+      "updated_at": "2026-10-13T13:39:03+02:00",
+      "published_at": "2026-10-13T13:39:03+02:00",
+      "expires_at": null
+    },
     {
       "id": "f02e3c39-03b6-5308-a13d-7fe5c7d7c73d",
       "slug": "2026-10-13-fennakadasok-az-ukran-uzemanyag-ellatasban-a-szallitasi-nehezsegek-mi",

@@ -11406,9 +11406,9 @@
       "live": true
     },
     {
-      "id": "a38f1642-ebcf-5e59-b443-b8d8d4acd72f",
-      "slug": "2026-10-13-birosagra-menne-a-balaton-amikor-a-termeszet-kap-jogokat",
-      "status": "pending",
+      "id": "57b0c417-6055-528e-b0d7-e94dbac18ed1",
+      "slug": "2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11418,7 +11418,7 @@
         "jogalanyiság",
         "klímaváltozás"
       ],
-      "title": "Bíróságra menne a Balaton? Amikor a természet kap jogokat",
+      "title": "Pert indíthat egy folyó? Döntöttek a debreceni jogászok",
       "subtitle": null,
       "lead": "A világ egyre több pontján ruháznak fel folyókat, tavakat és erdőket önálló jogokkal, hogy hatékonyabban küzdjenek a környezetpusztítás ellen. A Debreceni Egyetem jogászai szerint ez a megközelítés a hazai kihívások, például a vízhiány kezelésében is új utakat nyithat.",
       "key_points": [
@@ -11438,15 +11438,14 @@
       "word_count": 232,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/University_debrecen_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 901,
+        "url": "https://live.staticflickr.com/2734/4310021898_dcb42a6a73_b.jpg",
+        "width": 1024,
+        "height": 686,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Templom. azonosító -153. - Hajdú-Bihar m., Debrecen, Egyetem tér",
-        "credit": "Andreas Poeschek, fotografikus.hu / Wikimedia Commons",
-        "license": "CC BY 2.0 at",
-        "source_url": "https://commons.wikimedia.org/wiki/File:University_debrecen_church.jpg"
+        "alt": "Wolf River Nature Trail Sunset",
+        "credit": "Noel Pennington / flickr",
+        "license": "CC BY 2.0",
+        "source_url": "https://www.flickr.com/photos/21377366@N08/4310021898"
       },
       "inline_images": [],
       "sources": [
@@ -11580,12 +11579,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/kozelet/2026-10-13-birosagra-menne-a-balaton-amikor-a-termeszet-kap-jogokat/",
+      "url": "/kozelet/2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok/",
       "seo": {
-        "meta_title": "Bíróságra menne a Balaton? Amikor a természet kap jogokat",
+        "meta_title": "Pert indíthat egy folyó? Döntöttek a debreceni jogászok",
         "meta_description": "A világ egyre több pontján ruháznak fel folyókat, tavakat és erdőket önálló jogokkal, hogy hatékonyabban küzdjenek a környezetpusztítás ellen. A Debreceni Egyet",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-birosagra-menne-a-balaton-amikor-a-termeszet-kap-jogokat/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/University_debrecen_church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-pert-indithat-egy-folyo-dontottek-a-debreceni-jogaszok/",
+        "og_image": "https://live.staticflickr.com/2734/4310021898_dcb42a6a73_b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11602,9 +11601,9 @@
       "dedupe_hash": "be1e0e94224c8552b8bd9edce14fbcc2be929e0dacf5f3e356a64c0809917718",
       "pipeline_run_id": "38388245614",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T13:19:15+02:00",
-      "updated_at": "2026-10-13T13:19:15+02:00",
-      "published_at": "2026-10-13T13:19:15+02:00",
+      "created_at": "2026-10-13T13:39:03+02:00",
+      "updated_at": "2026-10-13T13:39:03+02:00",
+      "published_at": "2026-10-13T13:39:03+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11617,9 +11616,9 @@
         "msg_ids": [],
         "control_id": 5593,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 13:38 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T13:38:55+02:00"
+      "live": true
     },
     {
       "id": "f866b6a0-0d0e-50a5-a424-b9aa70e629b1",
