@@ -1,7 +1,122 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T17:37:44+02:00",
+  "updated_at": "2026-10-13T17:57:53+02:00",
   "articles": [
+    {
+      "id": "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc",
+      "slug": "2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "orosz-ukrán háború",
+        "béketerv",
+        "Volodimir Zelenszkij",
+        "Moszkva",
+        "Egyesült Államok"
+      ],
+      "title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámadás érte Moszkvát",
+      "subtitle": null,
+      "lead": "Az Egyesült Államok és az európai hatalmak által kidolgozott béketerv már az első napon megfeneklett, miközben Kijev nagyszabású dróntámadást indított az orosz főváros ellen. Volodimir Zelenszkij ukrán elnök úgy véli, a Kreml valójában nem érdekelt a konfliktus lezárásában.",
+      "key_points": [
+        "Az Egyesült Államok és Európa gazdasági és biztonsági garanciákat tartalmazó közös békecsomagján dolgozik.",
+        "Volodimir Zelenszkij ukrán elnök kijelentette, hogy Moszkva nem tartotta be a tűzszünetet.",
+        "A TASzSz jelentése szerint nagyszabású dróntámadás érte az orosz fővárost.",
+        "A Kreml sajtótitkára, Dmitrij Peszkov szerint Moszkvában nem ismertek a kiszivárgott béketerv részletei."
+      ],
+      "content": "## Újabb béketerv körvonalazódik a háttérben\n\nAz Egyesült Államok és Európa lassan egy közös békecsomag felé halad az orosz–ukrán háború lezárására, amely gazdasági és biztonsági garanciákat kínálna mindkét félnek – írta a Washington Post. A lap értesülései szerint a négypontos konstrukció célja a konfliktus végleges rendezése lenne, ám a kezdeményezés azonnali nehézségekbe ütközött. Dmitrij Peszkov, a Kreml sajtótitkára úgy nyilatkozott, hogy a moszkvai vezetés előtt nem ismertek ezek az információk, és szűkszavúan kommentálta a fejleményeket.\n\nVolodimir Zelenszkij ukrán elnök az RBK Ukraine jelentése szerint úgy fogalmazott, hogy Ukrajna betartotta a tűzszünetet, ám az első nap adatai alapján világosan látszik, hogy a moszkvai vezetés nem szándékozik követni azt. Ezzel párhuzamosan a TASzSz hírügynökség arról számolt be, hogy Ukrajna nagyszabású dróntámadást indított az orosz főváros ellen, amellyel csapásmérő fegyverek százai indultak meg a térségbe.\n\nA diplomáciai egyeztetések mellett a hírszerzési adatok áramlása is a közbeszéd tárgyává vált Kijevben. Andrij Szibiha ukrán külügyminiszter a napokban megnyugtatta a nyilvánosságot az amerikai hírszerzési adatok megosztásának esetleges leállításával kapcsolatban, hangsúlyozva, hogy a két ország közötti kapcsolat szilárd maradt.\n\nA nemzetközi fejlemények közvetve Magyarország számára is kulcsfontosságúak, hiszen a szomszédságban zajló fegyveres konfliktus lezárása, valamint az európai energiapiacot és biztonságot érintő döntések közvetlen hatással vannak a hazai gazdasági stabilitásra és az inflációs folyamatokra.",
+      "content_format": "markdown",
+      "body": [
+        "## Újabb béketerv körvonalazódik a háttérben",
+        "Az Egyesült Államok és Európa lassan egy közös békecsomag felé halad az orosz–ukrán háború lezárására, amely gazdasági és biztonsági garanciákat kínálna mindkét félnek – írta a Washington Post. A lap értesülései szerint a négypontos konstrukció célja a konfliktus végleges rendezése lenne, ám a kezdeményezés azonnali nehézségekbe ütközött. Dmitrij Peszkov, a Kreml sajtótitkára úgy nyilatkozott, hogy a moszkvai vezetés előtt nem ismertek ezek az információk, és szűkszavúan kommentálta a fejleményeket.",
+        "Volodimir Zelenszkij ukrán elnök az RBK Ukraine jelentése szerint úgy fogalmazott, hogy Ukrajna betartotta a tűzszünetet, ám az első nap adatai alapján világosan látszik, hogy a moszkvai vezetés nem szándékozik követni azt. Ezzel párhuzamosan a TASzSz hírügynökség arról számolt be, hogy Ukrajna nagyszabású dróntámadást indított az orosz főváros ellen, amellyel csapásmérő fegyverek százai indultak meg a térségbe.",
+        "A diplomáciai egyeztetések mellett a hírszerzési adatok áramlása is a közbeszéd tárgyává vált Kijevben. Andrij Szibiha ukrán külügyminiszter a napokban megnyugtatta a nyilvánosságot az amerikai hírszerzési adatok megosztásának esetleges leállításával kapcsolatban, hangsúlyozva, hogy a két ország közötti kapcsolat szilárd maradt.",
+        "A nemzetközi fejlemények közvetve Magyarország számára is kulcsfontosságúak, hiszen a szomszédságban zajló fegyveres konfliktus lezárása, valamint az európai energiapiacot és biztonságot érintő döntések közvetlen hatással vannak a hazai gazdasági stabilitásra és az inflációs folyamatokra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 243,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/global/20261013/elobukkant-amerika-es-europa-titkos-terve-a-haboru-lezarasara-megtamadtak-moszkvat-hireink-az-orosz-ukran-haborubol-kedden-869230",
+          "title": "Előbukkant Amerika és Európa titkos terve a háború lezárására, megtámadták Moszkvát – Híreink az orosz-ukrán háborúból kedden",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T15:46:53+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az első nap adataiból tisztán látszik, hogy Moszkvának nem szerel a tervei között az amerikaiak által bejelentett tűzszünet betartása.",
+        "who": "Volodimir Zelenszkij ukrán elnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T17:57:53+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/global/20261013/elobukkant-amerika-es-europa-titkos-terve-a-haboru-lezarasara-megtamadtak-moszkvat-hireink-az-orosz-ukran-haborubol-kedden-869230"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
+      "seo": {
+        "meta_title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámad",
+        "meta_description": "Az Egyesült Államok és az európai hatalmak által kidolgozott béketerv már az első napon megfeneklett, miközben Kijev nagyszabású dróntámadást indított az orosz ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "e9cf2951-d9e7-5877-99cd-af8b9b997280",
+        "4622f1d4-2e85-5bd7-a778-2dbd278a71e0",
+        "86fcfe14-c493-5a62-bcb3-b2c110961acd"
+      ],
+      "see_also": [
+        {
+          "title": "A háború tette fel a térképre Európa eddigi legnagyobb vakfoltját",
+          "url": "/vilag/2026-10-07-a-haboru-tette-fel-a-terkepre-europa-eddigi-legnagyobb-vakfoltjat/",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "Drónok és mesterséges intelligencia: ez a NATO titkos győzelmi terve",
+          "url": "/vilag/2026-10-12-dronok-es-mesterseges-intelligencia-ez-a-nato-titkos-gyozelmi-terve/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Dízelbotrány és ukrán drónok: új frontvonal nyílt Washington és Kijev között",
+          "url": "/vilag/2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev/",
+          "date": "2026-10-11"
+        }
+      ],
+      "thread_id": "e9cf2951-d9e7-5877-99cd-af8b9b997280",
+      "dedupe_hash": "0413233ca64ec6a039a1281d983095c0f43d166652d5e74a49cd0a845f4ce22a",
+      "pipeline_run_id": "38407137137",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T17:57:53+02:00",
+      "updated_at": "2026-10-13T17:57:53+02:00",
+      "published_at": "2026-10-13T17:57:53+02:00",
+      "expires_at": null
+    },
     {
       "id": "8bc6b5b3-87f9-5a01-b566-0a8475d919ed",
       "slug": "2026-10-13-tortenete-legnagyobb-bukojaba-futhatott-bele-az-egyik-legismertebb-ma",
