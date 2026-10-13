@@ -1,7 +1,124 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T14:38:56+02:00",
+  "updated_at": "2026-10-13T14:59:13+02:00",
   "articles": [
+    {
+      "id": "fe4a0f16-fae8-5bc0-9c12-ce4cb617864f",
+      "slug": "2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "csillagászat",
+        "űrkutatás",
+        "James Webb űrteleszkóp",
+        "tudomány"
+      ],
+      "title": "Tízmilliárd éves rádiójel érkezett az univerzum mélyéről",
+      "subtitle": null,
+      "lead": "A kutatók a valaha észlelt legtávolabbi gyors rádiókitörést azonosították, amely tízmilliárd évvel ezelőtt indult útjára. A felfedezés segíthet az optikai eszközökkel láthatatlan anyag feltérképezésében.",
+      "key_points": [
+        "Az FRB 20240304B jelzésű jel egy 10 milliárd évvel ezelőtti időszakból származó forrásból érkezett.",
+        "A gyors rádiókitörések (FRB) milliszekundumok alatt hatalmas energiát bocsátanak ki.",
+        "A jel detektálásához a dél-afrikai MeerKAT rádióteleszkópot és a James Webb űrteleszkópot használták.",
+        "Az FRB-k vizsgálata lehetővé teszi a tudósok számára az univerzum rejtett anyagának pontosabb számbavételét."
+      ],
+      "content": "A csillagászatban gyors rádiókitörésnek (FRB) nevezett jelenségek rendkívül rövid, milliszekundumokig tartó, ám intenzív energialöketek, amelyek eredete a 2007-es felfedezésük óta vita tárgya. A most regisztrált FRB 20240304B impulzus azért számít kiemelkedőnek, mert az univerzum történetének egy korai szakaszából, amikor a világegyetem mindössze hárommilliárd éves volt, származik.\n\nA kutatók a Dél-Afrikában található MeerKAT rádióteleszkóppal fogták el a jelet, majd a James Webb űrteleszkóp (JWST) adatai segítségével sikerült azonosítaniuk a forrásgalaxist. A Themiya Nanayakkara, a Sydney-i Egyetem kutatója által vezetett tanulmány szerint a jel egy fiatal, fémekben szegény, de intenzív csillagkeletkezést mutató galaxisból érkezett. Amikor a rádióhullám elindult, a Föld és a Nap még nem is létezett.\n\nAz FRB-k eredetére vonatkozóan több elmélet is létezik; ezek közül a leginkább elfogadott a magnetárok – vagyis rendkívül erős mágneses mezővel rendelkező neutroncsillagok – közreműködése. A 2007 óta észlelt több mint tíz kitörés viselkedése eltérő: vannak, amelyek ismétlődnek, míg mások egyszeri villanásként tűnnek el a detektorok látómezejéből.\n\nMatthew Bailes, a Swinburne Egyetem professzora szerint ezek a kitörések különleges lehetőséget kínálnak a kutatóknak. Mivel a rádiójeleket befolyásolják azok a részecskék, amelyeken áthaladnak, az impulzusok segíthetnek megszámolni az univerzumban lévő atomokat, így azokat az anyagokat is, amelyek a hagyományos optikai távcsövekkel láthatatlanok maradnak.",
+      "content_format": "markdown",
+      "body": [
+        "A csillagászatban gyors rádiókitörésnek (FRB) nevezett jelenségek rendkívül rövid, milliszekundumokig tartó, ám intenzív energialöketek, amelyek eredete a 2007-es felfedezésük óta vita tárgya. A most regisztrált FRB 20240304B impulzus azért számít kiemelkedőnek, mert az univerzum történetének egy korai szakaszából, amikor a világegyetem mindössze hárommilliárd éves volt, származik.",
+        "A kutatók a Dél-Afrikában található MeerKAT rádióteleszkóppal fogták el a jelet, majd a James Webb űrteleszkóp (JWST) adatai segítségével sikerült azonosítaniuk a forrásgalaxist. A Themiya Nanayakkara, a Sydney-i Egyetem kutatója által vezetett tanulmány szerint a jel egy fiatal, fémekben szegény, de intenzív csillagkeletkezést mutató galaxisból érkezett. Amikor a rádióhullám elindult, a Föld és a Nap még nem is létezett.",
+        "Az FRB-k eredetére vonatkozóan több elmélet is létezik; ezek közül a leginkább elfogadott a magnetárok – vagyis rendkívül erős mágneses mezővel rendelkező neutroncsillagok – közreműködése. A 2007 óta észlelt több mint tíz kitörés viselkedése eltérő: vannak, amelyek ismétlődnek, míg mások egyszeri villanásként tűnnek el a detektorok látómezejéből.",
+        "Matthew Bailes, a Swinburne Egyetem professzora szerint ezek a kitörések különleges lehetőséget kínálnak a kutatóknak. Mivel a rádiójeleket befolyásolják azok a részecskék, amelyeken áthaladnak, az impulzusok segíthetnek megszámolni az univerzumban lévő atomokat, így azokat az anyagokat is, amelyek a hagyományos optikai távcsövekkel láthatatlanok maradnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 222,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018-MeerKAT-4.png/1280px-2018-MeerKAT-4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 801,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "MeerKAT telescopes",
+        "credit": "Square Kilometre Array Organisation (SKAO) / South African Radio Astronomy Obser / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-4.png"
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018-MeerKAT-6.png/1280px-2018-MeerKAT-6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 607,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "MeerKAT telescopes",
+          "credit": "Square Kilometre Array Organisation (SKAO) / South African Radio Astronomy Obser / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-6.png",
+          "after": 1,
+          "caption": "A dél-afrikai MeerKAT rádióteleszkóp antennái"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261013_10-milliard-eves-radiokitores-urkutatas-energia",
+          "title": "Egy rejtélyes, 10 milliárd éves rádiókitörés érte el a Földet",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T13:19:21+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ez is megerősíti, hogy milyen hatékony eszközök a gyors rádiókitörések az univerzum feltárására.",
+        "who": "Matthew Bailes, a Swinburne Egyetem professzora",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T14:59:13+02:00"
+      },
+      "hot_score": 5.41,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261013_10-milliard-eves-radiokitores-urkutatas-energia"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/tech/2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol/",
+      "seo": {
+        "meta_title": "Tízmilliárd éves rádiójel érkezett az univerzum mélyéről",
+        "meta_description": "A kutatók a valaha észlelt legtávolabbi gyors rádiókitörést azonosították, amely tízmilliárd évvel ezelőtt indult útjára. A felfedezés segíthet az optikai eszkö",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018-MeerKAT-4.png/1280px-2018-MeerKAT-4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "45b0da40f3726f3ffff8a9b9b1de768295e80275745a5d1fbbadc8c7008795d7",
+      "pipeline_run_id": "38388245614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T14:59:13+02:00",
+      "updated_at": "2026-10-13T14:59:13+02:00",
+      "published_at": "2026-10-13T14:59:13+02:00",
+      "expires_at": null
+    },
     {
       "id": "2922b2c0-1556-5af3-bf28-24fe5ca9ca6a",
       "slug": "2026-10-13-vegre-megnyiltak-a-penzcsapok-4-2-milliard-eurot-hagyott-jova-az-eu",
