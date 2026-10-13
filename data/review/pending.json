@@ -10505,19 +10505,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-12T19:45:59+00:00",
-        "msg_ids": [
-          5422,
-          5423,
-          5424,
-          5425,
-          5426,
-          5427,
-          5428,
-          5429,
-          5480,
-          5481
-        ],
-        "control_id": 5482
+        "msg_ids": [],
+        "control_id": 5482,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:16 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Volodymyr Zelenskyy",
@@ -10538,7 +10529,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Verkhovna_Rada_education_and_science_Comittee.jpg/1280px-Verkhovna_Rada_education_and_science_Comittee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Berehove%2C_Zakarpattia_Oblast_13.jpg/1280px-Berehove%2C_Zakarpattia_Oblast_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T10:16:12+02:00"
     },
     {
       "id": "fbaf3621-053f-5433-8022-a933b56fd3cd",
