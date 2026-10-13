@@ -11833,13 +11833,10 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-13T11:21:21+00:00",
-        "msg_ids": [
-          5646,
-          5647,
-          5658,
-          5659
-        ],
-        "control_id": 5660
+        "msg_ids": [],
+        "control_id": 5660,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:37 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "OTP Bank",
@@ -11853,7 +11850,8 @@
       ],
       "images_seen": [
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg/1280px-Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T17:37:36+02:00"
     },
     {
       "id": "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc",
