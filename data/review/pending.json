@@ -11546,9 +11546,9 @@
       "live": true
     },
     {
-      "id": "fae50cc1-73bc-5029-948b-25daace4dbb7",
-      "slug": "2026-10-13-mindossze-tiz-perc-mozgas-kell-a-melyebb-alvashoz",
-      "status": "pending",
+      "id": "094fc7c2-9957-562c-aabb-937484851bde",
+      "slug": "2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat",
+      "status": "published",
       "category": "eletmod",
       "subcategory": null,
       "tags": [
@@ -11558,7 +11558,7 @@
         "kutatás",
         "életmód"
       ],
-      "title": "Mindössze tíz perc mozgás kell a mélyebb alváshoz",
+      "title": "Ez a napi tízperces szokás teljesen megváltoztathatja az éjszakáidat",
       "subtitle": null,
       "lead": "A rendszeres, akár napi tízperces fizikai aktivitás is mérhetően javíthatja az alvásminőséget és a mélyalvás szakaszainak hosszát. Egy friss kutatás szerint nem a hosszú edzések, hanem a mindennapos mozgás biztosítja a legfőbb agyi és fizikai regenerációt.",
       "key_points": [
@@ -11580,16 +11580,15 @@
       "word_count": 235,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Edward_Payson_Weston_and_Humphrey_O%27Sullivan_walking%2C_full_lgth.%2C_outdoors_LCCN2003678166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wadi_Shawka_night_sky_03.jpg/1280px-Wadi_Shawka_night_sky_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1584,
+        "height": 2133,
         "kind": "photo",
         "pos": "top",
-        "alt": "Title: Edward Payson Weston and Humphrey O'Sullivan walking, full lgth., outdoors\nAbstract/medium: 1 photographic print.",
-        "credit": "Miscellaneous Items in High Demand, PPOC, Library of Congress / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Edward_Payson_Weston_and_Humphrey_O%27Sullivan_walking,_full_lgth.,_outdoors_LCCN2003678166.jpg",
-        "vision_score": 5.0
+        "alt": "A mesmerizing view of the starry night sky over Wadi Shawka, Ras Al Khaimah, showcasing the serene beauty of the desert under a canopy of celestial brilliance.",
+        "credit": "ShaniaJ / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wadi_Shawka_night_sky_03.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11677,12 +11676,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/eletmod/2026-10-13-mindossze-tiz-perc-mozgas-kell-a-melyebb-alvashoz/",
+      "url": "/eletmod/2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat/",
       "seo": {
-        "meta_title": "Mindössze tíz perc mozgás kell a mélyebb alváshoz",
+        "meta_title": "Ez a napi tízperces szokás teljesen megváltoztathatja az éjs",
         "meta_description": "A rendszeres, akár napi tízperces fizikai aktivitás is mérhetően javíthatja az alvásminőséget és a mélyalvás szakaszainak hosszát. Egy friss kutatás szerint nem",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-13-mindossze-tiz-perc-mozgas-kell-a-melyebb-alvashoz/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Edward_Payson_Weston_and_Humphrey_O%27Sullivan_walking%2C_full_lgth.%2C_outdoors_LCCN2003678166.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wadi_Shawka_night_sky_03.jpg/1280px-Wadi_Shawka_night_sky_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11699,9 +11698,9 @@
       "dedupe_hash": "459e0a66ca2757cf98e6fb81634ba3ff7755a8e4591aff0eb9aecb4322cfa1a1",
       "pipeline_run_id": "38362302674",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:24:08+02:00",
-      "updated_at": "2026-10-13T09:24:08+02:00",
-      "published_at": "2026-10-13T09:24:08+02:00",
+      "created_at": "2026-10-13T11:16:26+02:00",
+      "updated_at": "2026-10-13T11:16:26+02:00",
+      "published_at": "2026-10-13T11:16:26+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11714,9 +11713,9 @@
         "msg_ids": [],
         "control_id": 5509,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:16 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T11:16:12+02:00"
+      "live": true
     },
     {
       "id": "3084c9f5-d47c-59df-abd7-c9032c7fec21",
