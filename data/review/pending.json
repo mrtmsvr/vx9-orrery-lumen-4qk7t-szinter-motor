@@ -10633,6 +10633,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/fbaf362105-1791875739-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/fbaf362105-1791875739-0.jpg",
+          "kind": "photo",
+          "alt": "Drónok és mesterséges intelligencia: ez a NATO titkos győzelmi terve",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/fbaf362105-1791875741-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/fbaf362105-1791875741-1.jpg",
+          "kind": "photo",
+          "alt": "Drónok és mesterséges intelligencia: ez a NATO titkos győzelmi terve",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Maj_Gen_Alexus_G._Grynkewich_%282%29.jpg/1280px-Maj_Gen_Alexus_G._Grynkewich_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1500,
@@ -10706,9 +10728,11 @@
           5437,
           5438,
           5439,
-          5483
+          5483,
+          5488,
+          5489
         ],
-        "control_id": 5484
+        "control_id": 5490
       },
       "image_queries": [
         "General Alexus Grynkewich",
