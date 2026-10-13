@@ -12146,6 +12146,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/05b7b3d59c-1791877024-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/05b7b3d59c-1791877024-0.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter a vagyonosodási vizsgálatokról és a költségvetésről",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/05b7b3d59c-1791877026-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/05b7b3d59c-1791877026-1.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter a vagyonosodási vizsgálatokról és a költségvetésről",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hungarian_Parliament_Building_2023-9.jpg/1280px-Hungarian_Parliament_Building_2023-9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 675,
@@ -12243,9 +12265,11 @@
           5535,
           5536,
           5542,
-          5543
+          5543,
+          5545,
+          5546
         ],
-        "control_id": 5544
+        "control_id": 5547
       },
       "image_queries": [
         "Peter Magyar",
