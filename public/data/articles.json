@@ -1,7 +1,130 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T16:37:36+02:00",
+  "updated_at": "2026-10-13T16:52:18+02:00",
   "articles": [
+    {
+      "id": "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
+      "slug": "2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "OpenAI",
+        "Tanács Zoltán",
+        "tudomány",
+        "Matematika"
+      ],
+      "title": "Történelmi áttörést hozott az OpenAI a matematikában",
+      "subtitle": null,
+      "lead": "Az OpenAI legfrissebb matematikai áttörései alapjaiban rendezik át az emberi tudomány szerepét, A technológiai változások korábban soha nem látott innovációs lehetőségeket nyitnak meg egy kisebb ország számára is.",
+      "key_points": [
+        "Az OpenAI belső AI-modellje 722 új matematikai tanulmányt publikált a GitHubon.",
+        "A közzétett eredmények között szerepel a kvázi-Riemann-hipotézis bizonyítása és Erdős Pál sejtésének igazolása is.",
+        "Tanács Zoltán tudományos és technológiai miniszter szerint a humán kontroll és a helyes kérdésfeltevés marad a kulcs."
+      ],
+      "content": "A ChatGPT-t fejlesztő vállalat október 6-án összesen 722 új matematikai tanulmányt töltött fel a GitHubra, amelyeket egy belső fejlesztésű mesterséges intelligencia hozott létre. A legnagyobb szakmai visszhangot a kvázi-Riemann-hipotézis igazolása, valamint Erdős Pál számtani sorozatokra vonatkozó sejtésének bizonyítása kapta.\n\nA folyamat ráadásul nem most kezdődött: szeptember 8-án ugyanez a cég a millenniumi díjproblémák egyikét, a Navier–Stokes-egyenletek létezési és simasági problémáját oldotta meg egy tízezer AI-ágensből álló rendszer segítségével. Levent Alpöge, az Anthropic nevű rivális vállalat matematikusa történelmi pillanatnak nevezte a fejleményeket, amelyek kapcsán korábban magyar szakemberek, Varga Dániel és Dúcz Ákos is arról beszélgettek, miként alakul át a kutatók mindennapi munkája.\n\nTanács Zoltán hangsúlyozta, hogy az ember nem válik feleslegessé a kutatásban, de a szerepköre radikális átalakuláson megy keresztül. A jövőben az lesz a döntő, hogy ki tudja a megfelelő kérdéseket megfogalmazni, ellenőrizni az eredményeket, és felelősségteljesen alkalmazni a technológiát, amelyben a humán kontroll elengedhetetlen.\n\nA kormányzati stratégia szerint ez a technológiai váltás történelmi esélyt biztosít Magyarországnak arra, hogy felzárkózzon a világ élvonalába. A miniszter szerint a mesterséges intelligencia alkalmazása óriási felelősséggel jár, de történelmi lehetőséget jelent Magyarországnak a technológiai felzárkózásra.",
+      "content_format": "markdown",
+      "body": [
+        "A ChatGPT-t fejlesztő vállalat október 6-án összesen 722 új matematikai tanulmányt töltött fel a GitHubra, amelyeket egy belső fejlesztésű mesterséges intelligencia hozott létre. A legnagyobb szakmai visszhangot a kvázi-Riemann-hipotézis igazolása, valamint Erdős Pál számtani sorozatokra vonatkozó sejtésének bizonyítása kapta.",
+        "A folyamat ráadásul nem most kezdődött: szeptember 8-án ugyanez a cég a millenniumi díjproblémák egyikét, a Navier–Stokes-egyenletek létezési és simasági problémáját oldotta meg egy tízezer AI-ágensből álló rendszer segítségével. Levent Alpöge, az Anthropic nevű rivális vállalat matematikusa történelmi pillanatnak nevezte a fejleményeket, amelyek kapcsán korábban magyar szakemberek, Varga Dániel és Dúcz Ákos is arról beszélgettek, miként alakul át a kutatók mindennapi munkája.",
+        "Tanács Zoltán hangsúlyozta, hogy az ember nem válik feleslegessé a kutatásban, de a szerepköre radikális átalakuláson megy keresztül. A jövőben az lesz a döntő, hogy ki tudja a megfelelő kérdéseket megfogalmazni, ellenőrizni az eredményeket, és felelősségteljesen alkalmazni a technológiát, amelyben a humán kontroll elengedhetetlen.",
+        "A kormányzati stratégia szerint ez a technológiai váltás történelmi esélyt biztosít Magyarországnak arra, hogy felzárkózzon a világ élvonalába. A miniszter szerint a mesterséges intelligencia alkalmazása óriási felelősséggel jár, de történelmi lehetőséget jelent Magyarországnak a technológiai felzárkózásra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 217,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Neural net completion for \"artificial intelligence\", as done by DALL-E mini hosted on HuggingFace, 4 June 2022 (code under Apache 2.0 license). Upscaled with Real-ESRGAN \"Anime\" upscaling version (und",
+        "credit": "Prompt by JPxG, model by Boris Dayma, upscaler by Xintao Wang, Liangbin Xie et a / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_intelligence_prompt_completion_by_dalle_mini.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/13/tanacs-zoltan-az-emberi-tudomany-tortenetenek-egyik-legnagyobb-fordulopontjahoz-erkeztunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Tanács Zoltán: Az emberi tudomány történetének egyik legnagyobb fordulópontjához érkeztünk",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T16:41:14+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az emberi tudomány történetének egyik legnagyobb fordulópontjához érkeztünk",
+        "who": "Tanács Zoltán tudományos és technológiai miniszter",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T16:52:18+02:00"
+      },
+      "hot_score": 5.54,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/13/tanacs-zoltan-az-emberi-tudomany-tortenetenek-egyik-legnagyobb-fordulopontjahoz-erkeztunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kozelet/2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban/",
+      "seo": {
+        "meta_title": "Történelmi áttörést hozott az OpenAI a matematikában",
+        "meta_description": "Az OpenAI legfrissebb matematikai áttörései alapjaiban rendezik át az emberi tudomány szerepét, A technológiai változások korábban soha nem látott innovációs le",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "a211f31d-b588-5af0-a916-a9ebdc4d18a5",
+        "22c02636-7232-5271-ae5d-1ed6120babcc",
+        "279a021f-9abc-5529-b713-2f97c3f7a891"
+      ],
+      "see_also": [
+        {
+          "title": "Aláírásokat is hamisít a ChatGPT: aggasztó irányt vett az OpenAI mesterséges intelligenciája",
+          "url": "/tech/2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Zuckerberg bolyhos kabalája rekordsebességgel hódította meg az App Store-t",
+          "url": "/tech/2026-10-10-zuckerberg-bolyhos-kabalaja-rekordsebesseggel-hoditotta-meg-az-app-st/",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Fékezhetetlen intelligenciarobbanás jöhet, de az OpenAI máris elhalasztotta új modelljét",
+          "url": "/tech/2026-09-29-fekezhetetlen-intelligenciarobbanas-johet-de-az-openai-maris-elhalasz/",
+          "date": "2026-09-29"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "caced6b1a8ab611893cfe3ea81061b7a3471ac0ef112eb6ee4e6647809deb88b",
+      "pipeline_run_id": "38414039168",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T16:52:18+02:00",
+      "updated_at": "2026-10-13T16:52:18+02:00",
+      "published_at": "2026-10-13T16:52:18+02:00",
+      "expires_at": null
+    },
     {
       "id": "4805d640-cc7f-57dc-9818-6b799a89f392",
       "slug": "2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb",

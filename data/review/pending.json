@@ -11850,7 +11850,7 @@
     {
       "id": "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
       "slug": "2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11881,15 +11881,15 @@
       "word_count": 217,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osztie_Zolt%C3%A1n.jpg/1280px-Osztie_Zolt%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 900,
+        "height": 1200,
         "kind": "photo",
-        "pos": "center",
-        "alt": "A felvétel 2019. április 25-én készült a Terézvárosban, a Benczur utca 35 szám alatti szállodában. EuCET – Európai Unios Civil Együttmüködési Tanács alakult.",
-        "credit": "Elekes Andor / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Osztie_Zolt%C3%A1n.jpg"
+        "pos": "top",
+        "alt": "Neural net completion for \"artificial intelligence\", as done by DALL-E mini hosted on HuggingFace, 4 June 2022 (code under Apache 2.0 license). Upscaled with Real-ESRGAN \"Anime\" upscaling version (und",
+        "credit": "Prompt by JPxG, model by Boris Dayma, upscaler by Xintao Wang, Liangbin Xie et a / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_intelligence_prompt_completion_by_dalle_mini.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12012,7 +12012,7 @@
         "meta_title": "Történelmi áttörést hozott az OpenAI a matematikában",
         "meta_description": "Az OpenAI legfrissebb matematikai áttörései alapjaiban rendezik át az emberi tudomány szerepét, A technológiai változások korábban soha nem látott innovációs le",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Osztie_Zolt%C3%A1n.jpg/1280px-Osztie_Zolt%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12049,9 +12049,9 @@
       "dedupe_hash": "caced6b1a8ab611893cfe3ea81061b7a3471ac0ef112eb6ee4e6647809deb88b",
       "pipeline_run_id": "38414039168",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T16:41:14+02:00",
-      "updated_at": "2026-10-13T16:41:14+02:00",
-      "published_at": "2026-10-13T16:41:14+02:00",
+      "created_at": "2026-10-13T16:52:18+02:00",
+      "updated_at": "2026-10-13T16:52:18+02:00",
+      "published_at": "2026-10-13T16:52:18+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12059,19 +12059,14 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 3,
         "sent_at": "2026-10-13T14:49:59+00:00",
-        "msg_ids": [
-          5689,
-          5690,
-          5691,
-          5692,
-          5693,
-          5694,
-          5695
-        ],
-        "control_id": 5696
-      }
+        "msg_ids": [],
+        "control_id": 5696,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "083a6d8d-ddc6-59be-b028-23f085d5fe32",
@@ -12291,6 +12286,551 @@
           5704
         ],
         "control_id": 5705
+      }
+    },
+    {
+      "id": "89cad417-1599-5f8b-9bbf-92f6e91ca9e7",
+      "slug": "2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "nyugdíj",
+        "befektetés",
+        "hozam",
+        "infláció",
+        "pénzügy"
+      ],
+      "title": "24%-os hozam a nyugdíjpénztáraknál – a megtakarítók nyernek",
+      "subtitle": null,
+      "lead": "A magyar önkéntes nyugdíjpénztárak az év első kilenc hónapjában akár 16%-os, egy teljes évre visszatekintve pedig több mint 24%-os hozamot értek el. Ez a teljesítmény kiemelkedő, és jelentősen növeli a megtakarítók megtakarításainak reálértékét.",
+      "key_points": [
+        "Az év első 9 hónapjában a legjobb portfólió 16%-os hozamot hozott",
+        "Teljes évre nézve néhány portfólió 24% feletti hozamot ért el",
+        "A legmagasabb hozamot a részvénysúlyú, dinamikus portfóliók biztosították"
+      ],
+      "content": "A magyar önkéntes nyugdíjpénztári befektetések terén az év első kilenc hónapjában a legjobb portfólió 16%-os hozamot ért el, míg a teljes évre visszatekintve egyes portfóliók 24%-ot meghaladó hozamot produkáltak. A hozamok elsősorban a részvénysúlyú, dinamikus stratégiákat követő pénztáraknál voltak kiemelkedőek, ami azt mutatja, hogy a kockázatvállalás és a piaci mozgások követése jelentős jutalmat hozott a befektetőknek.\n\nA magas hozamok különösen fontosak a magyar háztartások számára, hiszen a megtakarítások reálértékének megőrzése kulcsfontosságú. Egy 24%-os hozam lényegében több mint kétszerese annak, amit a hagyományos betéti kamatok vagy a kötvények nyújtanak, így a nyugdíjcélú megtakarítók jelentősen növelhetik jövőbeli juttatásaikat.\n\nAz önkéntes nyugdíjpénztárak Magyarországon a pénzügyi szabályozó hatóság, az MNB felügyelete alatt működnek. A dinamikus, részvénytöbbségű portfóliók általában magasabb hozamot ígérnek, de erősebb piaci ingadozással is járnak, ezért a befektetőknek érdemes alaposan mérlegelniük a kockázatvállalási hajlandóságukat.\n\nA jövőre nézve a szakértők szerint a nyugdíjpénztárak hozamai továbbra is a piaci körülményektől függően alakulnak, de a jelenlegi trendek azt sugallják, hogy a részvényorientált stratégiák még egy ideig dominálnak. A háztartások számára a legfontosabb tanács a diverzifikáció: a portfóliókban a különböző eszközosztályok arányának kiegyensúlyozása segíthet a kockázat csökkentésében, miközben a hozamokban rejlő potenciált is megőrzi.",
+      "content_format": "markdown",
+      "body": [
+        "A magyar önkéntes nyugdíjpénztári befektetések terén az év első kilenc hónapjában a legjobb portfólió 16%-os hozamot ért el, míg a teljes évre visszatekintve egyes portfóliók 24%-ot meghaladó hozamot produkáltak. A hozamok elsősorban a részvénysúlyú, dinamikus stratégiákat követő pénztáraknál voltak kiemelkedőek, ami azt mutatja, hogy a kockázatvállalás és a piaci mozgások követése jelentős jutalmat hozott a befektetőknek.",
+        "A magas hozamok különösen fontosak a magyar háztartások számára, hiszen a megtakarítások reálértékének megőrzése kulcsfontosságú. Egy 24%-os hozam lényegében több mint kétszerese annak, amit a hagyományos betéti kamatok vagy a kötvények nyújtanak, így a nyugdíjcélú megtakarítók jelentősen növelhetik jövőbeli juttatásaikat.",
+        "Az önkéntes nyugdíjpénztárak Magyarországon a pénzügyi szabályozó hatóság, az MNB felügyelete alatt működnek. A dinamikus, részvénytöbbségű portfóliók általában magasabb hozamot ígérnek, de erősebb piaci ingadozással is járnak, ezért a befektetőknek érdemes alaposan mérlegelniük a kockázatvállalási hajlandóságukat.",
+        "A jövőre nézve a szakértők szerint a nyugdíjpénztárak hozamai továbbra is a piaci körülményektől függően alakulnak, de a jelenlegi trendek azt sugallják, hogy a részvényorientált stratégiák még egy ideig dominálnak. A háztartások számára a legfontosabb tanács a diverzifikáció: a portfóliókban a különböző eszközosztályok arányának kiegyensúlyozása segíthet a kockázat csökkentésében, miközben a hozamokban rejlő potenciált is megőrzi."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 226,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1192,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Stamp",
+        "credit": "Post of Brazil / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/befektetes/20261013/bombasztikus-hozamok-a-magyar-nyugdijpenztaraknal-itt-siman-lehetett-24-szazalekot-kaszalni-869308",
+          "title": "Bombasztikus hozamok a magyar nyugdíjpénztáraknál: itt simán lehetett 24 százalékot kaszálni",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T16:41:04+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.0,
+      "title_options": [
+        "24%-os hozam a nyugdíjpénztáraknál – a megtakarítók nyernek",
+        "Nyugdíjpénztárak 24%-os hozammal lepik meg a befektetőket",
+        "Megtakarítók ünnepelnek: 24%-os hozam a magyar nyugdíjpénztárakban"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1192,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Stamp",
+          "credit": "Post of Brazil / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Margit_k%C3%B6r%C3%BAt_15-17%2C_%C3%BCvegtet%C5%91%2C_2019_Orsz%C3%A1g%C3%BAt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1105,
+          "kind": "photo",
+          "pos": "top",
+          "alt": ": Built to luxury apartman house (rentable flats) ordered by Manfréd Weiss Pension Fund. Architects: Ferenc Domány and Béla Hofstätter. Built in 1938, Bauhaus style. Cylinder shaped lift, special sha",
+          "credit": "Globetrotter19 / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Margit_k%C3%B6r%C3%BAt_15-17,_%C3%BCvegtet%C5%91,_2019_Orsz%C3%A1g%C3%BAt.jpg"
+        },
+        {
+          "url": "https://live.staticflickr.com/4124/4845905314_8b4ce58572_b.jpg",
+          "width": 1024,
+          "height": 763,
+          "kind": "photo",
+          "alt": "Stock market",
+          "credit": "Manu Manohar Photography / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/32833136@N04/4845905314"
+        }
+      ],
+      "story": [
+        {
+          "title": "Bombasztikus hozamok a magyar nyugdíjpénztáraknál: itt simán lehetett 24 százalékot kaszálni",
+          "link": "https://www.portfolio.hu/befektetes/20261013/bombasztikus-hozamok-a-magyar-nyugdijpenztaraknal-itt-siman-lehetett-24-szazalekot-kaszalni-869308",
+          "summary": "Szárnyalnak a magyar önkéntes nyugdíjpénztári befektetések: a legjobb portfólió az év első kilenc hónapjában 16 százalékot hozott, egy teljes évre visszatekintve pedig 24 százalék feletti nyereségre is bukkantunk. A mezőnyt egyértelműen a nagyobb részvénysúlyú, dinamikusabb portfóliók uralják, miközben a piac legnagyobb sztárja hosszú távon teljesen verhetetlennek tűnik – holott egyáltalán nem lenne nehéz leutánozni a jól bevált stratégiáját.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/befektetes/20261013/bombasztikus-hozamok-a-magyar-nyugdijpenztaraknal-itt-siman-lehetett-24-szazalekot-kaszalni-869308"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/penzvilag/2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek/",
+      "seo": {
+        "meta_title": "24%-os hozam a nyugdíjpénztáraknál – a megtakarítók nyernek",
+        "meta_description": "A magyar önkéntes nyugdíjpénztárak az év első kilenc hónapjában akár 16%-os, egy teljes évre visszatekintve pedig több mint 24%-os hozamot értek el. Ez a teljes",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-24-os-hozam-a-nyugdijpenztaraknal-a-megtakaritok-nyernek/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Stamp_of_Brazil_-_1972_-_Colnect_196465_-_House_in_hand_Pension_Fund_system.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "7be772d18cd7efe1e741395312b81abe19fed5e2f36661b87a4988cbaef54c3c",
+      "pipeline_run_id": "38414039168",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T16:41:04+02:00",
+      "updated_at": "2026-10-13T16:41:04+02:00",
+      "published_at": "2026-10-13T16:41:04+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T14:52:04+00:00",
+        "msg_ids": [
+          5706,
+          5707,
+          5708,
+          5709
+        ],
+        "control_id": 5710
+      }
+    },
+    {
+      "id": "a2a86377-db2b-5e0a-9eca-312c507dc8fe",
+      "slug": "2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Citibank",
+        "bank",
+        "nyereség",
+        "gyorsjelentés",
+        "tőzsde"
+      ],
+      "title": "Megugrott a Citibank profitja, de a részvények estek",
+      "subtitle": null,
+      "lead": "A Citigroup harmadik negyedéves nettó nyeresége negyven százalékkal emelkedett az egy évvel korábbi azonos időszakhoz képest. A pénzintézet a várakozásoknak megfelelő bevételekről számolt be, a gyorsjelentést mégis kisebb részvénypiaci esés követte.",
+      "key_points": [
+        "A Citigroup 5,25 milliárd dolláros nettó nyereséget könyvelt el a szeptember végével záruló negyedévben.",
+        "A negyvenszázalékos profitnövekedést a befektetési banki bevételek bővülése és a vagyonkezelés hajtotta.",
+        "Az előző negyedévhez képest mind a nettó eredmény, mind a kereskedési bevételek terén visszaesés történt.",
+        "A bank több mint 4 milliárd dollárt juttatott vissza a törzsrészvényeseknek ebben az időszakban."
+      ],
+      "content": "A Portfolio által szemlézett gyorsjelentés szerint a Citigroup a szeptember 30-ával záruló negyedévben 5,25 milliárd dolláros, részvényenként 2,85 dolláros nettó nyereséget könyvelt el. Ez jelentős előrelépést jelent az egy évvel korábbi 3,8 milliárd dolláros, részvényenként 1,86 dolláros eredményhez képest.\n\nA negyvenszázalékos profitnövekedés hátterében elsősorban a bővülő befektetési banki bevételek, a multinacionális vállalatok tranzakciói, valamint a vagyonkezelési üzletág teljesítménye áll. A bank bevételei a vártnak megfelelően alakultak, és éves alapon közel 8 százalékos emelkedést mutattak.\n\nAz éves bázisú növekedés ellenére az előző negyedévhez képest kisebb megtorpanás látszik: mind a nettó eredmény, mind a kereskedési bevételek terén visszaesést könyvelt el a pénzintézet. A befektetők a gyorsjelentés adataira óvatosan reagáltak, így a bank részvényeinek árfolyama 1 százalékot esett a kereskedés első perceiben.\n\nA menedzsment közlése szerint a tőkejuttatás keretében több mint 4 milliárd dollárt juttattak vissza a törzsrészvényeseknek, miközben folyamatosan hajtanak végre befektetéseket a növekedés érdekében, felkészülve a mesterséges intelligenciára épülő jövőre is. A bank részvényei idén eddig összesen 13 százalékos emelkedést mutattak.",
+      "content_format": "markdown",
+      "body": [
+        "A Portfolio által szemlézett gyorsjelentés szerint a Citigroup a szeptember 30-ával záruló negyedévben 5,25 milliárd dolláros, részvényenként 2,85 dolláros nettó nyereséget könyvelt el. Ez jelentős előrelépést jelent az egy évvel korábbi 3,8 milliárd dolláros, részvényenként 1,86 dolláros eredményhez képest.",
+        "A negyvenszázalékos profitnövekedés hátterében elsősorban a bővülő befektetési banki bevételek, a multinacionális vállalatok tranzakciói, valamint a vagyonkezelési üzletág teljesítménye áll. A bank bevételei a vártnak megfelelően alakultak, és éves alapon közel 8 százalékos emelkedést mutattak.",
+        "Az éves bázisú növekedés ellenére az előző negyedévhez képest kisebb megtorpanás látszik: mind a nettó eredmény, mind a kereskedési bevételek terén visszaesést könyvelt el a pénzintézet. A befektetők a gyorsjelentés adataira óvatosan reagáltak, így a bank részvényeinek árfolyama 1 százalékot esett a kereskedés első perceiben.",
+        "A menedzsment közlése szerint a tőkejuttatás keretében több mint 4 milliárd dollárt juttattak vissza a törzsrészvényeseknek, miközben folyamatosan hajtanak végre befektetéseket a növekedés érdekében, felkészülve a mesterséges intelligenciára épülő jövőre is. A bank részvényei idén eddig összesen 13 százalékos emelkedést mutattak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Citigroup_Center_2015.jpg/1280px-Citigroup_Center_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Citigroup Center New York in 2015, as seen from Top of the Rock ,Rockefeller Center.",
+        "credit": "Choinowski / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_2015.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376",
+          "title": "Kilőtt a profit az Citibanknál",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T16:41:08+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.0,
+      "title_options": [
+        "Megugrott a Citibank profitja, de a részvények estek",
+        "Negyven százalékkal ugrott meg a Citibank negyedéves nyeresége",
+        "Negyven százalékkal nőtt a Citibank profitja",
+        "Brutális profitnövekedést jelentett be a Citibank",
+        "Kilőtt a nyereség, mégis estek a részvények a Citibanknál",
+        "Így hozott össze negyvenszázalékos profitugrást a pénzintézet"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Citigroup_Center_2015.jpg/1280px-Citigroup_Center_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1800,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Citigroup Center New York in 2015, as seen from Top of the Rock ,Rockefeller Center.",
+          "credit": "Choinowski / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_2015.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Citigroup_Center_Oct_2023_31.jpg/1280px-Citigroup_Center_Oct_2023_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The Citigroup Center in Manhattan, New York, seen in October 2023",
+          "credit": "Epicgenius / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_Oct_2023_31.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wall_Street_by_Paul_Strand%2C_1915.jpg/1280px-Wall_Street_by_Paul_Strand%2C_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 944,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Paul Strand took this photograph from the steps of the New York Federal Hall during morning rush hour. The recently completed building of white marble at 23 Wall Street (on the southeast corner of Wal",
+          "credit": "Paul Strand / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Wall_Street_by_Paul_Strand,_1915.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/New_York_Stock_Exchange_building%2C_20231002_171816.jpg/1280px-New_York_Stock_Exchange_building%2C_20231002_171816.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "New York Stock Exchange Building",
+          "credit": "Jakub Hałun / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_building,_20231002_171816.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_York_Stock_Exchange_August_2017_02.jpg/1280px-New_York_Stock_Exchange_August_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 801,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Intersection of Broad Street and Wall Street with New York Stock Exchange and the Federal Hall.\n\n\n\n\n\n\nThis is an image of a place or building that is listed on the National Register of Historic Places",
+          "credit": "Arild Vågen / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Kilőtt a profit az Citibanknál",
+          "link": "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376",
+          "summary": "A Citigroup harmadik negyedéves nettó nyeresége 40 százalékkal nőtt az egy évvel korábbihoz képest, ami elsősorban a bővülő befektetési banki bevételeknek, a multinacionális vállalatok tranzakcióinak, valamint a vagyonkezelési üzletág növekedésének köszönhető. Az előző negyedévhez képest ugyanakkor mind a nettó eredmény, mind a kereskedési bevételek terén visszaesést mutatott a pénzintézet. A bank részvényeinek árfolyama 1 százalékot esett a gyorsjelentés utáni percekben.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/penzvilag/2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek/",
+      "seo": {
+        "meta_title": "Megugrott a Citibank profitja, de a részvények estek",
+        "meta_description": "A Citigroup harmadik negyedéves nettó nyeresége negyven százalékkal emelkedett az egy évvel korábbi azonos időszakhoz képest. A pénzintézet a várakozásoknak meg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Citigroup_Center_2015.jpg/1280px-Citigroup_Center_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f887575831b22e6ee1032e5e527be04131faf36f3ee973f10b0f8b7f7e103d13",
+      "pipeline_run_id": "38414039168",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T16:41:08+02:00",
+      "updated_at": "2026-10-13T16:41:08+02:00",
+      "published_at": "2026-10-13T16:41:08+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T14:52:08+00:00",
+        "msg_ids": [
+          5711,
+          5712,
+          5713,
+          5714,
+          5715,
+          5716
+        ],
+        "control_id": 5717
+      }
+    },
+    {
+      "id": "b34c6805-fa83-5f5a-8a8f-d3c628b02406",
+      "slug": "2026-10-13-nem-annyi-a-kaloria-amennyit-a-csomagolason-latsz",
+      "status": "pending",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "táplálkozás",
+        "kutatás",
+        "emésztés",
+        "mikrobiom"
+      ],
+      "title": "Nem annyi a kalória, amennyit a csomagoláson látsz",
+      "subtitle": null,
+      "lead": "Az élelmiszerek csomagolásán feltüntetett kalóriaértékek nem feltétlenül tükrözik a szervezetünk által ténylegesen hasznosított energiamennyiséget. Az Arizona State University kutatói által fejlesztett modell rávilágít arra, hogy a bélrendszerünkben élő mikrobák kulcsszerepet játszanak az anyagcserében.",
+      "key_points": [
+        "A bélbaktériumok határozzák meg, mennyi energiát vonunk ki az elfogyasztott táplálékból.",
+        "A hagyományos kalóriaszámítási módszerek figyelmen kívül hagyják a mikrobiom emésztésre gyakorolt hatását.",
+        "Az új matematikai modell a jövőben segíthet a személyre szabott étrendek kialakításában."
+      ],
+      "content": "A táplálkozástudomány több mint száz éve az úgynevezett Atwater-paraméterekre támaszkodik, amelyek fix energiaértéket rendelnek a zsírokhoz, a szénhidrátokhoz és a fehérjékhez. Ez a módszer azonban nem számol azzal az összetett folyamattal, amely során a vastagbélben élő baktériumok lebontják a rostokat, és az így keletkező rövid szénláncú zsírsavakat a szervezetünk energiaként hasznosíthatja.\n\nAz Arizona State University kutatócsoportja – köztük Rosa Krajmalnik-Brown és Bruce Rittmann – kifejlesztett egy DAMM (digestion, absorption and microbial metabolism) elnevezésű matematikai modellt. Ez a rendszer nyomon követi, hogyan halad át a táplálék az emésztőrendszeren, és miként befolyásolják a mikrobák a ténylegesen felszívódó energiát. Az eddigi kísérletek során kiderült, hogy rostban gazdag, kevésbé feldolgozott élelmiszerek fogyasztásakor a résztvevők kevesebb kalóriát hasznosítottak, mint a tipikus nyugati étrenden élők, ráadásul az éhségérzet nem fokozódott.\n\nA kutatók szerint ez a felfedezés alapvetően változtathatja meg az elhízás és az anyagcsere-betegségek kezelését. A cél az, hogy a szakemberek a jövőben ne csak az étel összetételét vegyék figyelembe, hanem azt is, hogyan érdemes támogatni az egyéni mikrobiom összetételét.",
+      "content_format": "markdown",
+      "body": [
+        "A táplálkozástudomány több mint száz éve az úgynevezett Atwater-paraméterekre támaszkodik, amelyek fix energiaértéket rendelnek a zsírokhoz, a szénhidrátokhoz és a fehérjékhez. Ez a módszer azonban nem számol azzal az összetett folyamattal, amely során a vastagbélben élő baktériumok lebontják a rostokat, és az így keletkező rövid szénláncú zsírsavakat a szervezetünk energiaként hasznosíthatja.",
+        "Az Arizona State University kutatócsoportja – köztük Rosa Krajmalnik-Brown és Bruce Rittmann – kifejlesztett egy DAMM (digestion, absorption and microbial metabolism) elnevezésű matematikai modellt. Ez a rendszer nyomon követi, hogyan halad át a táplálék az emésztőrendszeren, és miként befolyásolják a mikrobák a ténylegesen felszívódó energiát. Az eddigi kísérletek során kiderült, hogy rostban gazdag, kevésbé feldolgozott élelmiszerek fogyasztásakor a résztvevők kevesebb kalóriát hasznosítottak, mint a tipikus nyugati étrenden élők, ráadásul az éhségérzet nem fokozódott.",
+        "A kutatók szerint ez a felfedezés alapvetően változtathatja meg az elhízás és az anyagcsere-betegségek kezelését. A cél az, hogy a szakemberek a jövőben ne csak az étel összetételét vegyék figyelembe, hanem azt is, hogyan érdemes támogatni az egyéni mikrobiom összetételét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 198,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_first_and_second_phases_of_the_NIH_Human_Microbiome_Project.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 704,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Overview of phases 1 and 2 of the human microbiome project. HMP1 focused on characterization of communities in different body sites. HMP2 focused in the integration of multiomic data from host &amp; m",
+        "credit": "Lita M. Proctor et al / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_first_and_second_phases_of_the_NIH_Human_Microbiome_Project.png",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+          "title": "Your gut bacteria could be changing how many calories you absorb",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-13T16:41:30+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az emésztés nem csupán egy emberi folyamat – ez egy együttműködés a testünk és a bélrendszerünkben élő billióknyi mikróba között",
+        "who": "Rosa Krajmalnik-Brown, a kutatócsoport vezetője",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 4.85,
+      "title_options": [
+        "Nem annyi a kalória, amennyit a csomagoláson látsz",
+        "Az emésztésünk titka a baktériumokban rejlik",
+        "Többet érnek a kalóriák, mint amennyit a csomagolás mutat",
+        "Ezért felesleges számolgatni a kalóriákat a csomagoláson",
+        "A baktériumok döntik el, mennyit hízunk az ételtől",
+        "Nem az vagy, amit megeszel, hanem amit megemésztesz"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_first_and_second_phases_of_the_NIH_Human_Microbiome_Project.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 704,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Overview of phases 1 and 2 of the human microbiome project. HMP1 focused on characterization of communities in different body sites. HMP2 focused in the integration of multiomic data from host &amp; m",
+          "credit": "Lita M. Proctor et al / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:The_first_and_second_phases_of_the_NIH_Human_Microbiome_Project.png",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Healthy_Food_-_Colourful_Fruit_and_Veg_-_50191699151.jpg/1280px-Healthy_Food_-_Colourful_Fruit_and_Veg_-_50191699151.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A selection of  healthy and colourful fruit and vegetables including garlic, peppers, turmeric, avocado and blueberries.\nImage created by Formulate Health and distributed under Creative Commons. We we",
+          "credit": "formulatehealth / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Healthy_Food_-_Colourful_Fruit_and_Veg_-_50191699151.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Microbiomes_v%C3%A9g%C3%A9taux_Plant_microbiome.jpg/1280px-Microbiomes_v%C3%A9g%C3%A9taux_Plant_microbiome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 712,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Phytobiome ou microbiome de la plante, compartimenté en rhizosphère (microbiote au niveau de la racine), endosphère (microbiote endophytique) et phyllosphère (microbiote au-dessus du niveau du sol).(t",
+          "credit": "Lamiot / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Microbiomes_v%C3%A9g%C3%A9taux_Plant_microbiome.jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Healthy_Fats_-_Avocado_and_Nuts_-_50191958402.jpg/1280px-Healthy_Fats_-_Avocado_and_Nuts_-_50191958402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Avocado and nuts. These high calorie foods are an excellent source of energy. They contain essential healthy fats and make for a perfect health snack.\nImage created by Formulate Health and distributed",
+          "credit": "formulatehealth / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Healthy_Fats_-_Avocado_and_Nuts_-_50191958402.jpg",
+          "vision_score": 6.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Your gut bacteria could be changing how many calories you absorb",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+          "summary": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed about 116 fewer calories per day than those eating a typical Western diet, without feeling hungrier.",
+          "source": "sciencedaily.com",
+          "related": false,
+          "hot_score": 4.85
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261011211613.htm"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/eletmod/2026-10-13-nem-annyi-a-kaloria-amennyit-a-csomagolason-latsz/",
+      "seo": {
+        "meta_title": "Nem annyi a kalória, amennyit a csomagoláson látsz",
+        "meta_description": "Az élelmiszerek csomagolásán feltüntetett kalóriaértékek nem feltétlenül tükrözik a szervezetünk által ténylegesen hasznosított energiamennyiséget. Az Arizona S",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-13-nem-annyi-a-kaloria-amennyit-a-csomagolason-latsz/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/The_first_and_second_phases_of_the_NIH_Human_Microbiome_Project.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "418547ef10a06637077ca8f6629a03b591f53aa8fbc6ad665b5a26fd49335a36",
+      "pipeline_run_id": "38414039168",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T16:41:30+02:00",
+      "updated_at": "2026-10-13T16:41:30+02:00",
+      "published_at": "2026-10-13T16:41:30+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T14:52:12+00:00",
+        "msg_ids": [
+          5718,
+          5719,
+          5720,
+          5721,
+          5722
+        ],
+        "control_id": 5723
       }
     }
   ]
