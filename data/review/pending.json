@@ -12941,37 +12941,48 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Aleksandar_Vu%C4%8Di%C4%87_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/JP_morgan_at_Titanic_Exhibition.jpg/1280px-JP_morgan_at_Titanic_Exhibition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1598,
+          "height": 1600,
           "kind": "photo",
           "pos": "top",
-          "alt": "Serbian Prime Minister Miloš Vučević, German Chancellor Olaf Scholz, Serbian President Aleksandar Vučić and Maroš Šefčovič, Executive Vice-President of the European Commission for the European Green D",
-          "credit": "Oliver Bunic - European Commission / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg"
+          "alt": "JP morgan portrait at NYC Titanic Exhibition",
+          "credit": "SeichanGant / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JP_morgan_at_Titanic_Exhibition.jpg"
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg/1280px-Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/JP_Morgan_%28cropped%29.jpg/1280px-JP_Morgan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1599,
+          "height": 1500,
           "kind": "photo",
           "pos": "top",
-          "alt": "Aleksandar Vučić in 2019",
-          "credit": "duma.gov.ru / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_2019_(cropped).jpg"
+          "alt": "J.P. Morgan photographed by Edward Steichen; photo known for the light reflected off the armrest being interpreted by viewers as a knife.",
+          "credit": "Edward Steichen / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JP_Morgan_(cropped).jpg"
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wall_Street_by_Paul_Strand%2C_1915.jpg/1280px-Wall_Street_by_Paul_Strand%2C_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Wells_Fargo_Center_from_Foshay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 944,
+          "height": 2133,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Wells Fargo Center as viewed from the en:Foshay Tower in en:Minneapolis, Minnesota.  Photo taken on June 8, 2005 by User:Mulad.  Hereby released into the public domain.",
+          "credit": "No machine-readable author provided. Mulad assumed (based on copyright claims). / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Wells_Fargo_-_New_Providence.png/1280px-Wells_Fargo_-_New_Providence.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "Paul Strand took this photograph from the steps of the New York Federal Hall during morning rush hour. The recently completed building of white marble at 23 Wall Street (on the southeast corner of Wal",
-          "credit": "Paul Strand / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Wall_Street_by_Paul_Strand,_1915.jpg"
+          "alt": "Wells Fargo bank",
+          "credit": "Curlyrnd / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_-_New_Providence.png"
         }
       ],
       "story": [
@@ -13029,10 +13040,30 @@
           5761,
           5762,
           5763,
-          5764
+          5764,
+          5769,
+          5770,
+          5771,
+          5772
         ],
-        "control_id": 5765
-      }
+        "control_id": 5773
+      },
+      "image_queries": [
+        "OTP Bank",
+        "Budapest Stock Exchange",
+        "JP Morgan",
+        "Wells Fargo",
+        "Nasdaq",
+        "Aleksandar Vučić",
+        "trading floor",
+        "stock chart",
+        "financial newspaper"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Wall_Street_by_Paul_Strand%2C_1915.jpg/1280px-Wall_Street_by_Paul_Strand%2C_1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg/1280px-Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0e/Aleksandar_Vu%C4%8Di%C4%87_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
     }
   ]
 }
