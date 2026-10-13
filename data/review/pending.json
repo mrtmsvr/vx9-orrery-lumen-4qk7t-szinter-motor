@@ -12439,16 +12439,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-13T14:52:08+00:00",
-        "msg_ids": [
-          5711,
-          5712,
-          5713,
-          5714,
-          5715,
-          5716
-        ],
-        "control_id": 5717
-      }
+        "msg_ids": [],
+        "control_id": 5717,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 18:37 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-13T18:37:36+02:00"
     },
     {
       "id": "b34c6805-fa83-5f5a-8a8f-d3c628b02406",
