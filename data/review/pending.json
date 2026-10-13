@@ -11803,6 +11803,28 @@
       "clickbait_from": 2,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/3084c9f5d4-1791876811-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/3084c9f5d4-1791876811-0.jpg",
+          "kind": "photo",
+          "alt": "A Trónok harcát is lekörözné az új sárkányos sorozat",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/3084c9f5d4-1791876813-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/3084c9f5d4-1791876813-1.jpg",
+          "kind": "photo",
+          "alt": "A Trónok harcát is lekörözné az új sárkányos sorozat",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_%2842075892224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 1549,
@@ -11881,9 +11903,11 @@
         "msg_ids": [
           5510,
           5511,
-          5512
+          5512,
+          5538,
+          5539
         ],
-        "control_id": 5513
+        "control_id": 5540
       }
     },
     {
