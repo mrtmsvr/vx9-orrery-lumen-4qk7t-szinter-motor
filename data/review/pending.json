@@ -11900,7 +11900,7 @@
     {
       "id": "ca4becda-9289-508e-a4d7-964efa964518",
       "slug": "2026-10-13-befagyaszthatja-a-14-havi-nyugdijat-a-tisza-kormany",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11932,7 +11932,7 @@
       "word_count": 336,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g0e05b6af50fa15b3faa9771f05d550a908fb2c8aa552f57942f5cc6da9532fb41a5a5922a3728a945c486166019abf64bf164c7146e98331b0bdce346fc36b23_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/da87b74fc73db2ce.jpg",
         "width": 4752,
         "height": 3168,
         "kind": "photo",
@@ -11940,7 +11940,9 @@
         "credit": "image4you / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/euro-coins-currency-cent-euro-cent-1353420/",
-        "vision_score": 7.0
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/da87b74fc73db2ce.jpg",
+        "orig_url": "https://pixabay.com/get/g0e05b6af50fa15b3faa9771f05d550a908fb2c8aa552f57942f5cc6da9532fb41a5a5922a3728a945c486166019abf64bf164c7146e98331b0bdce346fc36b23_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12039,7 +12041,7 @@
         "meta_title": "Befagyaszthatja a 14. havi nyugdíjat a Tisza-kormány",
         "meta_description": "Akár 1350 milliárd forintot is megspórolhat a Tisza-kormány a következő négy évben, ha a 14. havi nyugdíjat nem építi tovább, hanem a jelenlegi 25 százalékos sz",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-befagyaszthatja-a-14-havi-nyugdijat-a-tisza-kormany/",
-        "og_image": "https://pixabay.com/get/g0e05b6af50fa15b3faa9771f05d550a908fb2c8aa552f57942f5cc6da9532fb41a5a5922a3728a945c486166019abf64bf164c7146e98331b0bdce346fc36b23_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/da87b74fc73db2ce.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12056,9 +12058,9 @@
       "dedupe_hash": "1fb56cd63fb0da6820f3a6527782c0dff40c718064234d0a545f8a58c982b28f",
       "pipeline_run_id": "38362302674",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:24:03+02:00",
-      "updated_at": "2026-10-13T09:24:03+02:00",
-      "published_at": "2026-10-13T09:24:03+02:00",
+      "created_at": "2026-10-13T11:36:17+02:00",
+      "updated_at": "2026-10-13T11:36:17+02:00",
+      "published_at": "2026-10-13T11:36:17+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12071,9 +12073,9 @@
         "msg_ids": [],
         "control_id": 5529,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:36 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T11:36:12+02:00"
+      "live": true
     },
     {
       "id": "05b7b3d5-9c78-5edd-902d-d379d1c792b7",
