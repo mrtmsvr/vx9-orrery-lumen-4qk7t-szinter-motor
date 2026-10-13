@@ -12256,22 +12256,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-13T07:25:43+00:00",
-        "msg_ids": [
-          5530,
-          5531,
-          5532,
-          5533,
-          5534,
-          5535,
-          5536,
-          5542,
-          5543,
-          5545,
-          5546,
-          5550,
-          5551
-        ],
-        "control_id": 5552
+        "msg_ids": [],
+        "control_id": 5552,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:16 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Peter Magyar",
@@ -12299,7 +12287,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vit%C3%A9zy_D%C3%A1vid_-.jpg/1280px-Vit%C3%A9zy_D%C3%A1vid_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/gd3c4ba0fd2fd713dd018d949d25b828204fb3789f0bb59dd39da5ba38e1143c10b27554179a055326e5298f4c7d285ac182f5b237432ceb30d105a25ec69706c_1280.jpg"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T12:16:12+02:00"
     }
   ]
 }
