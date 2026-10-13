@@ -12094,7 +12094,7 @@
     {
       "id": "a2a86377-db2b-5e0a-9eca-312c507dc8fe",
       "slug": "2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -12261,9 +12261,9 @@
       "dedupe_hash": "f887575831b22e6ee1032e5e527be04131faf36f3ee973f10b0f8b7f7e103d13",
       "pipeline_run_id": "38414039168",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T16:41:08+02:00",
-      "updated_at": "2026-10-13T16:41:08+02:00",
-      "published_at": "2026-10-13T16:41:08+02:00",
+      "created_at": "2026-10-13T18:37:39+02:00",
+      "updated_at": "2026-10-13T18:37:39+02:00",
+      "published_at": "2026-10-13T18:37:39+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12276,9 +12276,9 @@
         "msg_ids": [],
         "control_id": 5717,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 18:37 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T18:37:36+02:00"
+      "live": true
     }
   ]
 }

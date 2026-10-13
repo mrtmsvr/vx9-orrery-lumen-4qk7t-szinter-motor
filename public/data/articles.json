@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T18:17:37+02:00",
+  "updated_at": "2026-10-13T18:37:39+02:00",
   "articles": [
+    {
+      "id": "a2a86377-db2b-5e0a-9eca-312c507dc8fe",
+      "slug": "2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Citibank",
+        "bank",
+        "nyereség",
+        "gyorsjelentés",
+        "tőzsde"
+      ],
+      "title": "Megugrott a Citibank profitja, de a részvények estek",
+      "subtitle": null,
+      "lead": "A Citigroup harmadik negyedéves nettó nyeresége negyven százalékkal emelkedett az egy évvel korábbi azonos időszakhoz képest. A pénzintézet a várakozásoknak megfelelő bevételekről számolt be, a gyorsjelentést mégis kisebb részvénypiaci esés követte.",
+      "key_points": [
+        "A Citigroup 5,25 milliárd dolláros nettó nyereséget könyvelt el a szeptember végével záruló negyedévben.",
+        "A negyvenszázalékos profitnövekedést a befektetési banki bevételek bővülése és a vagyonkezelés hajtotta.",
+        "Az előző negyedévhez képest mind a nettó eredmény, mind a kereskedési bevételek terén visszaesés történt.",
+        "A bank több mint 4 milliárd dollárt juttatott vissza a törzsrészvényeseknek ebben az időszakban."
+      ],
+      "content": "A Portfolio által szemlézett gyorsjelentés szerint a Citigroup a szeptember 30-ával záruló negyedévben 5,25 milliárd dolláros, részvényenként 2,85 dolláros nettó nyereséget könyvelt el. Ez jelentős előrelépést jelent az egy évvel korábbi 3,8 milliárd dolláros, részvényenként 1,86 dolláros eredményhez képest.\n\nA negyvenszázalékos profitnövekedés hátterében elsősorban a bővülő befektetési banki bevételek, a multinacionális vállalatok tranzakciói, valamint a vagyonkezelési üzletág teljesítménye áll. A bank bevételei a vártnak megfelelően alakultak, és éves alapon közel 8 százalékos emelkedést mutattak.\n\nAz éves bázisú növekedés ellenére az előző negyedévhez képest kisebb megtorpanás látszik: mind a nettó eredmény, mind a kereskedési bevételek terén visszaesést könyvelt el a pénzintézet. A befektetők a gyorsjelentés adataira óvatosan reagáltak, így a bank részvényeinek árfolyama 1 százalékot esett a kereskedés első perceiben.\n\nA menedzsment közlése szerint a tőkejuttatás keretében több mint 4 milliárd dollárt juttattak vissza a törzsrészvényeseknek, miközben folyamatosan hajtanak végre befektetéseket a növekedés érdekében, felkészülve a mesterséges intelligenciára épülő jövőre is. A bank részvényei idén eddig összesen 13 százalékos emelkedést mutattak.",
+      "content_format": "markdown",
+      "body": [
+        "A Portfolio által szemlézett gyorsjelentés szerint a Citigroup a szeptember 30-ával záruló negyedévben 5,25 milliárd dolláros, részvényenként 2,85 dolláros nettó nyereséget könyvelt el. Ez jelentős előrelépést jelent az egy évvel korábbi 3,8 milliárd dolláros, részvényenként 1,86 dolláros eredményhez képest.",
+        "A negyvenszázalékos profitnövekedés hátterében elsősorban a bővülő befektetési banki bevételek, a multinacionális vállalatok tranzakciói, valamint a vagyonkezelési üzletág teljesítménye áll. A bank bevételei a vártnak megfelelően alakultak, és éves alapon közel 8 százalékos emelkedést mutattak.",
+        "Az éves bázisú növekedés ellenére az előző negyedévhez képest kisebb megtorpanás látszik: mind a nettó eredmény, mind a kereskedési bevételek terén visszaesést könyvelt el a pénzintézet. A befektetők a gyorsjelentés adataira óvatosan reagáltak, így a bank részvényeinek árfolyama 1 százalékot esett a kereskedés első perceiben.",
+        "A menedzsment közlése szerint a tőkejuttatás keretében több mint 4 milliárd dollárt juttattak vissza a törzsrészvényeseknek, miközben folyamatosan hajtanak végre befektetéseket a növekedés érdekében, felkészülve a mesterséges intelligenciára épülő jövőre is. A bank részvényei idén eddig összesen 13 százalékos emelkedést mutattak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Citigroup_Center_2015.jpg/1280px-Citigroup_Center_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Citigroup Center New York in 2015, as seen from Top of the Rock ,Rockefeller Center.",
+        "credit": "Choinowski / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_2015.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376",
+          "title": "Kilőtt a profit az Citibanknál",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T16:41:08+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T18:37:39+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/bank/20261013/kilott-a-profit-az-citibanknal-869376"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/penzvilag/2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek/",
+      "seo": {
+        "meta_title": "Megugrott a Citibank profitja, de a részvények estek",
+        "meta_description": "A Citigroup harmadik negyedéves nettó nyeresége negyven százalékkal emelkedett az egy évvel korábbi azonos időszakhoz képest. A pénzintézet a várakozásoknak meg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-megugrott-a-citibank-profitja-de-a-reszvenyek-estek/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Citigroup_Center_2015.jpg/1280px-Citigroup_Center_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f887575831b22e6ee1032e5e527be04131faf36f3ee973f10b0f8b7f7e103d13",
+      "pipeline_run_id": "38414039168",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T18:37:39+02:00",
+      "updated_at": "2026-10-13T18:37:39+02:00",
+      "published_at": "2026-10-13T18:37:39+02:00",
+      "expires_at": null
+    },
     {
       "id": "da0b1ada-41cb-51a6-963e-40d9c6dfb091",
       "slug": "2026-10-13-nyugdijpenztarak-24-os-hozammal-lepik-meg-a-befektetoket",
