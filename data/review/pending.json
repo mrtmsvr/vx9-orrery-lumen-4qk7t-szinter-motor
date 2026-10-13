@@ -13422,16 +13422,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg/1280px-Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/OTP_Bank_B%C3%A9k%C3%A9scsaba.jpg/1280px-OTP_Bank_B%C3%A9k%C3%A9scsaba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1423,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "OTP Bank building in Békéscsaba, Hungary.",
+          "credit": "Burrows / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:OTP_Bank_B%C3%A9k%C3%A9scsaba.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Bank_Center_north_entrance%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg/1280px-Bank_Center_north_entrance%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
           "kind": "photo",
           "pos": "top",
-          "alt": "The financial ballooning season is over for a good long spell'; Speculation dumps ballast as he take s off with Inflated values. The Farmer, Business, Capital, and consumer see him off happily. A maj",
-          "credit": "Bartholomew, Charles Lewis 'Bart', 1869-1949 / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg",
-          "vision_score": 4.0
+          "alt": ": Liberty Square Entrance of the Bank Center building. This was developed by Olympia and York and designed by the internationally-acclaimed Hungarian architect Dr József Finta. The premium office and",
+          "credit": "Globetrotter19 / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Bank_Center_north_entrance,_Lip%C3%B3tv%C3%A1ros,_2016_Budapest.jpg",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -13482,15 +13494,30 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 3,
         "image": 0,
         "sent_at": "2026-10-13T11:21:21+00:00",
         "msg_ids": [
           5646,
-          5647
+          5647,
+          5658,
+          5659
         ],
-        "control_id": 5648
-      }
+        "control_id": 5660
+      },
+      "image_queries": [
+        "OTP Bank",
+        "Gránit Bank",
+        "Budapest Stock Exchange",
+        "Aleksandar Vučić",
+        "MOL Group",
+        "trading floor",
+        "bank vault",
+        "financial newspaper"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg/1280px-Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
