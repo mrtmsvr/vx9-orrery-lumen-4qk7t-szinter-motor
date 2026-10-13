@@ -11663,14 +11663,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-13T11:20:53+00:00",
-        "msg_ids": [
-          5642,
-          5643,
-          5644,
-          5655,
-          5656
-        ],
-        "control_id": 5657
+        "msg_ids": [],
+        "control_id": 5657,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:17 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Péter Fejes",
@@ -11686,7 +11682,8 @@
       "images_seen": [
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T17:17:36+02:00"
     },
     {
       "id": "7c6a954c-ee77-5204-ac3c-fa93f87d7e06",
