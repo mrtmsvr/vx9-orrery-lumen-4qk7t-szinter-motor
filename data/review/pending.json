@@ -13223,26 +13223,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg/1280px-District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 927,
+          "height": 1601,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) and Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi pose for a photo during an introductory office",
-          "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235881).jpg"
+          "pos": "top",
+          "alt": ": District Court and District Prosecutor's Office - 26 Várkerület, Malom Street corner, Sárvár, Vas County, Hungary.",
+          "credit": "Globetrotter19 / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:District_Court_and_District_Prosecutor%27s_Office,_2020_S%C3%A1rv%C3%A1r.jpg",
+          "vision_score": 5.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/R%C3%A1k%C3%B3czi_Ferenc_Stra%C3%9Fe_33%2C_2026_Szombathely.jpg/1280px-R%C3%A1k%C3%B3czi_Ferenc_Stra%C3%9Fe_33%2C_2026_Szombathely.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 927,
+          "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) shows a historic map to Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi during an introductory off",
-          "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235880).jpg"
+          "alt": "Szombathely District Prosecutor's Office - 33 Szent Flórián Boulevard, Szombathely, Vas County, Hungary.",
+          "credit": "Globetrotter19 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A1k%C3%B3czi_Ferenc_Stra%C3%9Fe_33,_2026_Szombathely.jpg",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -13319,16 +13321,33 @@
         ]
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 0,
         "sent_at": "2026-10-13T11:20:53+00:00",
         "msg_ids": [
           5642,
           5643,
-          5644
+          5644,
+          5655,
+          5656
         ],
-        "control_id": 5645
-      }
+        "control_id": 5657
+      },
+      "image_queries": [
+        "Péter Fejes",
+        "András Baka",
+        "Donald Trump",
+        "Volodymyr Zelenskyy",
+        "Vas County Prosecutor's Office",
+        "Hungarian Parliament",
+        "courtroom",
+        "press conference",
+        "diplomatic meeting"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "7c6a954c-ee77-5204-ac3c-fa93f87d7e06",
