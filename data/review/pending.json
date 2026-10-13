@@ -11815,7 +11815,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 3,
         "image": 0,
         "sent_at": "2026-10-13T11:19:51+00:00",
         "msg_ids": [
@@ -12695,6 +12695,621 @@
           5624
         ],
         "control_id": 5625
+      }
+    },
+    {
+      "id": "fe4a0f16-fae8-5bc0-9c12-ce4cb617864f",
+      "slug": "2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "csillagászat",
+        "űrkutatás",
+        "James Webb űrteleszkóp",
+        "tudomány"
+      ],
+      "title": "Tízmilliárd éves rádiójel érkezett az univerzum mélyéről",
+      "subtitle": null,
+      "lead": "A kutatók a valaha észlelt legtávolabbi gyors rádiókitörést azonosították, amely tízmilliárd évvel ezelőtt indult útjára. A felfedezés segíthet az optikai eszközökkel láthatatlan anyag feltérképezésében.",
+      "key_points": [
+        "Az FRB 20240304B jelzésű jel egy 10 milliárd évvel ezelőtti időszakból származó forrásból érkezett.",
+        "A gyors rádiókitörések (FRB) milliszekundumok alatt hatalmas energiát bocsátanak ki.",
+        "A jel detektálásához a dél-afrikai MeerKAT rádióteleszkópot és a James Webb űrteleszkópot használták.",
+        "Az FRB-k vizsgálata lehetővé teszi a tudósok számára az univerzum rejtett anyagának pontosabb számbavételét."
+      ],
+      "content": "A csillagászatban gyors rádiókitörésnek (FRB) nevezett jelenségek rendkívül rövid, milliszekundumokig tartó, ám intenzív energialöketek, amelyek eredete a 2007-es felfedezésük óta vita tárgya. A most regisztrált FRB 20240304B impulzus azért számít kiemelkedőnek, mert az univerzum történetének egy korai szakaszából, amikor a világegyetem mindössze hárommilliárd éves volt, származik.\n\nA kutatók a Dél-Afrikában található MeerKAT rádióteleszkóppal fogták el a jelet, majd a James Webb űrteleszkóp (JWST) adatai segítségével sikerült azonosítaniuk a forrásgalaxist. A Themiya Nanayakkara, a Sydney-i Egyetem kutatója által vezetett tanulmány szerint a jel egy fiatal, fémekben szegény, de intenzív csillagkeletkezést mutató galaxisból érkezett. Amikor a rádióhullám elindult, a Föld és a Nap még nem is létezett.\n\nAz FRB-k eredetére vonatkozóan több elmélet is létezik; ezek közül a leginkább elfogadott a magnetárok – vagyis rendkívül erős mágneses mezővel rendelkező neutroncsillagok – közreműködése. A 2007 óta észlelt több mint tíz kitörés viselkedése eltérő: vannak, amelyek ismétlődnek, míg mások egyszeri villanásként tűnnek el a detektorok látómezejéből.\n\nMatthew Bailes, a Swinburne Egyetem professzora szerint ezek a kitörések különleges lehetőséget kínálnak a kutatóknak. Mivel a rádiójeleket befolyásolják azok a részecskék, amelyeken áthaladnak, az impulzusok segíthetnek megszámolni az univerzumban lévő atomokat, így azokat az anyagokat is, amelyek a hagyományos optikai távcsövekkel láthatatlanok maradnak.",
+      "content_format": "markdown",
+      "body": [
+        "A csillagászatban gyors rádiókitörésnek (FRB) nevezett jelenségek rendkívül rövid, milliszekundumokig tartó, ám intenzív energialöketek, amelyek eredete a 2007-es felfedezésük óta vita tárgya. A most regisztrált FRB 20240304B impulzus azért számít kiemelkedőnek, mert az univerzum történetének egy korai szakaszából, amikor a világegyetem mindössze hárommilliárd éves volt, származik.",
+        "A kutatók a Dél-Afrikában található MeerKAT rádióteleszkóppal fogták el a jelet, majd a James Webb űrteleszkóp (JWST) adatai segítségével sikerült azonosítaniuk a forrásgalaxist. A Themiya Nanayakkara, a Sydney-i Egyetem kutatója által vezetett tanulmány szerint a jel egy fiatal, fémekben szegény, de intenzív csillagkeletkezést mutató galaxisból érkezett. Amikor a rádióhullám elindult, a Föld és a Nap még nem is létezett.",
+        "Az FRB-k eredetére vonatkozóan több elmélet is létezik; ezek közül a leginkább elfogadott a magnetárok – vagyis rendkívül erős mágneses mezővel rendelkező neutroncsillagok – közreműködése. A 2007 óta észlelt több mint tíz kitörés viselkedése eltérő: vannak, amelyek ismétlődnek, míg mások egyszeri villanásként tűnnek el a detektorok látómezejéből.",
+        "Matthew Bailes, a Swinburne Egyetem professzora szerint ezek a kitörések különleges lehetőséget kínálnak a kutatóknak. Mivel a rádiójeleket befolyásolják azok a részecskék, amelyeken áthaladnak, az impulzusok segíthetnek megszámolni az univerzumban lévő atomokat, így azokat az anyagokat is, amelyek a hagyományos optikai távcsövekkel láthatatlanok maradnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 222,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1280px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Caption: During cryogenic testing, the mirrors will be subjected to temperatures dipping to 24 Kelvins, permitting engineers to measure in extreme detail how the shape of each mirror changes as it coo",
+        "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg"
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2018-MeerKAT-6.png/1280px-2018-MeerKAT-6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 607,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "MeerKAT telescopes",
+          "credit": "Square Kilometre Array Organisation (SKAO) / South African Radio Astronomy Obser / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-6.png",
+          "after": 1,
+          "caption": "A dél-afrikai MeerKAT rádióteleszkóp antennái"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261013_10-milliard-eves-radiokitores-urkutatas-energia",
+          "title": "Egy rejtélyes, 10 milliárd éves rádiókitörés érte el a Földet",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T13:19:21+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ez is megerősíti, hogy milyen hatékony eszközök a gyors rádiókitörések az univerzum feltárására.",
+        "who": "Matthew Bailes, a Swinburne Egyetem professzora",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.41,
+      "title_options": [
+        "Tízmilliárd éves rádiójel érkezett az univerzum mélyéről",
+        "Rekordtávolságból érkező rádiókitörést azonosítottak a csillagászok",
+        "Példátlan kozmikus rádiójel utazta át az univerzumot",
+        "Földönkívüli eredetű lehet a tízezer éve utazó rejtélyes jel",
+        "Akkor indult el, amikor a Naprendszer még nem létezett",
+        "Képesek vagyunk megszámolni az univerzum atomjait az új rádiójelekkel"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1280px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 798,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Caption: During cryogenic testing, the mirrors will be subjected to temperatures dipping to 24 Kelvins, permitting engineers to measure in extreme detail how the shape of each mirror changes as it coo",
+          "credit": "NASA/MSFC/David Higginbotham/Emmett Given / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg/1280px-James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_%2830108124923%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1799,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The primary mirror of NASA's James Webb Space Telescope consisting of 18 hexagonal mirrors looks like a giant puzzle piece standing in the massive clean room of NASA's Goddard Space Flight Center in G",
+          "credit": "Chris Gunn / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirrors_Will_Piece_Together_Cosmic_Puzzles_(30108124923).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2018-MeerKAT-4.png/1280px-2018-MeerKAT-4.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 801,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "MeerKAT telescopes",
+          "credit": "Square Kilometre Array Organisation (SKAO) / South African Radio Astronomy Obser / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-4.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2018-MeerKAT-1.png/1280px-2018-MeerKAT-1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 648,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "MeerKAT telescopes",
+          "credit": "Square Kilometre Array Organisation (SKAO) / South African Radio Astronomy Obser / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2018-MeerKAT-1.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/1280px-Webb%27s_First_Deep_Field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1225,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "SMACS 0723-73 (1RXS J072319.7-732735, SMACS J0723.3-7327)\nNASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First",
+          "credit": "NASA, ESA, CSA, and STScI / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Deep_Space_Nine_filming_model_-_Star_Trek_-_Exploring_New_Worlds_Exhibit_at_the_Henry_Ford_Museum%2C_Dearborn%2C_Michigan.jpg/1280px-Deep_Space_Nine_filming_model_-_Star_Trek_-_Exploring_New_Worlds_Exhibit_at_the_Henry_Ford_Museum%2C_Dearborn%2C_Michigan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The Deep Space 9 space station filming miniature used in Star Trek: Deep Space Nine from 1993-1999.  Although it is called a miniature, the model is a good 5 feet tall.\nDuring the summer of 2019, the",
+          "credit": "Joe Ross / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Deep_Space_Nine_filming_model_-_Star_Trek_-_Exploring_New_Worlds_Exhibit_at_the_Henry_Ford_Museum,_Dearborn,_Michigan.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g7fb06662fe52513e1f120a74815d27c4d685f15126720d297277b81d2d7b88b05edd028795c73a69c2879246bc7f662cd420eaf73ba499c756989668ff76d16c_1280.jpg",
+          "width": 5005,
+          "height": 3417,
+          "kind": "photo",
+          "alt": "astronomy, nature wallpaper, laptop wallpaper, free wallpaper, nature background, bright, wallpaper hd, constellation, dark, night sky, full hd wallpaper, exploration, galaxy, light, free background, ",
+          "credit": "Pexels / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/astronomy-bright-constellation-dark-1867616/"
+        },
+        {
+          "url": "https://pixabay.com/get/gfe7d6cef36c0fc9a3973e6e9531b0c8f628cdc1731c20edad72348cc3344ce3d4c684b3a50202975549355f28e62e9d1d5a10680a8037b8fead8132e0c112080_1280.jpg",
+          "width": 6024,
+          "height": 3765,
+          "kind": "photo",
+          "alt": "space, astronomy, galaxy, universe, stars, andromeda, cosmos, night",
+          "credit": "mattiaverga / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/space-astronomy-galaxy-universe-9250868/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Egy rejtélyes, 10 milliárd éves rádiókitörés érte el a Földet",
+          "link": "https://hvg.hu/tudomany/20261013_10-milliard-eves-radiokitores-urkutatas-energia",
+          "summary": "Példátlanul nagy távolságból érkezett rádiójel egy távoli galaxisból. Annyira, hogy az esemény pillanatában az univerzum még csak körülbelül 3 milliárd éves volt.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.41
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261013_10-milliard-eves-radiokitores-urkutatas-energia"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/tech/2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol/",
+      "seo": {
+        "meta_title": "Tízmilliárd éves rádiójel érkezett az univerzum mélyéről",
+        "meta_description": "A kutatók a valaha észlelt legtávolabbi gyors rádiókitörést azonosították, amely tízmilliárd évvel ezelőtt indult útjára. A felfedezés segíthet az optikai eszkö",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-13-tizmilliard-eves-radiojel-erkezett-az-univerzum-melyerol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_Webb_Space_Telescope_Mirror37.jpg/1280px-James_Webb_Space_Telescope_Mirror37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "45b0da40f3726f3ffff8a9b9b1de768295e80275745a5d1fbbadc8c7008795d7",
+      "pipeline_run_id": "38388245614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T13:19:21+02:00",
+      "updated_at": "2026-10-13T13:19:21+02:00",
+      "published_at": "2026-10-13T13:19:21+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T11:20:29+00:00",
+        "msg_ids": [
+          5626,
+          5627,
+          5628,
+          5629,
+          5630,
+          5631,
+          5632,
+          5633,
+          5634
+        ],
+        "control_id": 5635
+      }
+    },
+    {
+      "id": "738d7897-af73-5767-9e4c-15a74182de7e",
+      "slug": "2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Tisza-kormány",
+        "embercsempészet",
+        "Országgyűlés",
+        "Európai Bizottság",
+        "belföld"
+      ],
+      "title": "Kiskaput zár a kormány az embercsempészek ügyében",
+      "subtitle": null,
+      "lead": "Törvénymódosítással zárná be a kormány azt a jogi kiskaput, amelyen keresztül korábban külföldi embercsempészek ezrei hagyhatták el a börtönöket. A változtatás célja, hogy végleg pontot tegyen a heves politikai vitákat kiváltó amnesztiaügyek végére.",
+      "key_points": [
+        "Az Országgyűlés arról a jogszabálycsomagról szavaz, amely megszünteti a korábbi vitatott kiskapukat.",
+        "A 2023-ban indult gyakorlat során több mint kétezer külföldi embercsempészt engedtek szabadon reintegrációs őrizet ürügyén.",
+        "Az Európai Bizottság korábban kötelezettségszegési eljárást indított, majd az Európai Bírósághoz fordult az ügyben."
+      ],
+      "content": "Ma szavaz az Országgyűlés arról a törvényjavaslatról, amely megszünteti a külföldi embercsempészek szabadon bocsátása körül eddig fennálló jogi kiskapukat. A kérdéses gyakorlat még 2023 tavaszán kezdődött, amikor kormányrendelettel az ilyen bűncselekmények szabadságvesztését reintegrációs őrizetté minősítették át, majd a bűnözőket szélnek eresztették.\n\nA statisztikák szerint a szabadon engedett külföldiek száma 2024 nyarára meghaladta a 2200-at, összesen pedig 2525 embert érintett az intézkedés.\n\nAz ügy miatt az Európai Bizottság kötelezettségszegési eljárást indított, majd miután a magyar hatóságokkal folytatott levelezés nem vezetett eredményre, Bár tavaly júliusban az Országgyűlés már elfogadott egy szigorítást, augusztustól egy újabb jogi lehetőséggel élve még az ítélet megvárása előtt távozhattak bizonyos elkövetők.\n\nKözben a Fidesz és a KDNP európai parlamenti képviselőcsoportja nemrég levélben fordult az Európai Unió illetékes biztosához, mert álláspontjuk szerint a kormány antidemokratikus lépésekkel és önkényuralmi rendszer kiépítésével veszélyezteti a jogállamiságot. Magyar Péter miniszterelnök mindeközben szánalmasnak és röhejesnek nevezte a brüsszeli akciót, ahogy azt korábban megírtuk.",
+      "content_format": "markdown",
+      "body": [
+        "Ma szavaz az Országgyűlés arról a törvényjavaslatról, amely megszünteti a külföldi embercsempészek szabadon bocsátása körül eddig fennálló jogi kiskapukat. A kérdéses gyakorlat még 2023 tavaszán kezdődött, amikor kormányrendelettel az ilyen bűncselekmények szabadságvesztését reintegrációs őrizetté minősítették át, majd a bűnözőket szélnek eresztették.",
+        "A statisztikák szerint a szabadon engedett külföldiek száma 2024 nyarára meghaladta a 2200-at, összesen pedig 2525 embert érintett az intézkedés.",
+        "Az ügy miatt az Európai Bizottság kötelezettségszegési eljárást indított, majd miután a magyar hatóságokkal folytatott levelezés nem vezetett eredményre, Bár tavaly júliusban az Országgyűlés már elfogadott egy szigorítást, augusztustól egy újabb jogi lehetőséggel élve még az ítélet megvárása előtt távozhattak bizonyos elkövetők.",
+        "Közben a Fidesz és a KDNP európai parlamenti képviselőcsoportja nemrég levélben fordult az Európai Unió illetékes biztosához, mert álláspontjuk szerint a kormány antidemokratikus lépésekkel és önkényuralmi rendszer kiépítésével veszélyezteti a jogállamiságot. Magyar Péter miniszterelnök mindeközben szánalmasnak és röhejesnek nevezte a brüsszeli akciót, ahogy azt korábban megírtuk."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg/1280px-Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 907,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Margitsziget court in Budapest, Hungary in 1908. Published in the weekly periodical newspaper called Vasarnapi Ujság by the printing press inc. Franklin Irodalmi és Nyomdai Rt. in 1908.",
+        "credit": "Vasárnapi Ujság / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Margitsziget_lawn_court_in_Budapest,_Hungary_in_1908.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261013_tisza-kiskapu-fidesz-kulfoldi-embercsempeszek-reintegracios-orizet-ugyeszi-felfuggesztes",
+          "title": "A Tisza bezár egy jogsértő kiskaput, amit a Fidesz hagyott nyitva a külföldi embercsempészek előtt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T13:19:16+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.61,
+      "title_options": [
+        "Kiskaput zár a kormány az embercsempészek ügyében",
+        "Törvénymódosítással tüntetné el a Tisza a kiskapukat",
+        "Így engedték szabadon ezrével a bűnözőket",
+        "Meglepő szigorítás érkezik az embercsempészet ellen",
+        "Itt a vége a vitatott jogi kiskapuknak"
+      ],
+      "clickbait_from": 2,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg/1280px-Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 907,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Margitsziget court in Budapest, Hungary in 1908. Published in the weekly periodical newspaper called Vasarnapi Ujság by the printing press inc. Franklin Irodalmi és Nyomdai Rt. in 1908.",
+          "credit": "Vasárnapi Ujság / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Margitsziget_lawn_court_in_Budapest,_Hungary_in_1908.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Lions_Court%2C_Budapest_%28203%29_%2813228984224%29.jpg/1280px-Lions_Court%2C_Budapest_%28203%29_%2813228984224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Lions Court, Buda Castle, Budapest.",
+          "credit": "xorge / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Lions_Court,_Budapest_(203)_(13228984224).jpg"
+        },
+        {
+          "url": "https://live.staticflickr.com/2814/9841767075_357d73c5c3_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "kind": "photo",
+          "alt": "Chartist courtroom 1",
+          "credit": "siaronj / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/59489479@N08/9841767075"
+        },
+        {
+          "url": "https://live.staticflickr.com/3579/4075233002_2fa2a36b6a_b.jpg",
+          "width": 1024,
+          "height": 609,
+          "kind": "photo",
+          "alt": "Courtroom",
+          "credit": "Penn State Law / flickr",
+          "license": "CC BY-ND 2.0",
+          "source_url": "https://www.flickr.com/photos/44234208@N03/4075233002"
+        }
+      ],
+      "story": [
+        {
+          "title": "A Tisza bezár egy jogsértő kiskaput, amit a Fidesz hagyott nyitva a külföldi embercsempészek előtt",
+          "link": "https://hvg.hu/itthon/20261013_tisza-kiskapu-fidesz-kulfoldi-embercsempeszek-reintegracios-orizet-ugyeszi-felfuggesztes",
+          "summary": "Az összesen 2525 külföldi embercsempész szélnek eresztése után, Brüsszel neheztelésére az Orbán-kormány tavaly ugyan megszüntette a gyakorlatot, de hagyott egy jogi lehetőséget, kiskaput, ami szintén aggályos. Ezt zárja most be a Tisza-kormány.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.61
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261013_tisza-kiskapu-fidesz-kulfoldi-embercsempeszek-reintegracios-orizet-ugyeszi-felfuggesztes"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kozelet/2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben/",
+      "seo": {
+        "meta_title": "Kiskaput zár a kormány az embercsempészek ügyében",
+        "meta_description": "Törvénymódosítással zárná be a kormány azt a jogi kiskaput, amelyen keresztül korábban külföldi embercsempészek ezrei hagyhatták el a börtönöket. A változtatás ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-kiskaput-zar-a-kormany-az-embercsempeszek-ugyeben/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg/1280px-Margitsziget_lawn_court_in_Budapest%2C_Hungary_in_1908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "1d92ba89-3227-565f-a65f-636520291f1d"
+      ],
+      "see_also": [
+        {
+          "title": "Brüsszelhez fordult kétségbeesésében a Fidesz-kdnp",
+          "url": "/kozelet/2026-10-04-brusszelhez-fordult-ketsegbeeseseben-a-fidesz-kdnp/",
+          "date": "2026-10-04"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "8ec82bbca65433dca249a29ddb67671df15e1956bdb6833c52f748fae7c47506",
+      "pipeline_run_id": "38388245614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T13:19:16+02:00",
+      "updated_at": "2026-10-13T13:19:16+02:00",
+      "published_at": "2026-10-13T13:19:16+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 kép licence korlátozott (CC BY-ND 2.0) – NC: hirdetéses oldalon kerülendő, ND: nem vágható"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T11:20:36+00:00",
+        "msg_ids": [
+          5636,
+          5637,
+          5638,
+          5639,
+          5640
+        ],
+        "control_id": 5641
+      }
+    },
+    {
+      "id": "42ee13b9-435c-5ea4-a375-bb4a9c777bb0",
+      "slug": "2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Baka András",
+        "Fejes Péter",
+        "legfőbb ügyész",
+        "ügyészség",
+        "közélet"
+      ],
+      "title": "Újabb fordulat a legfőbb ügyészi poszt körül Baka András döntése után",
+      "subtitle": null,
+      "lead": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a nemzetközi diplomáciában is feszültségek rajzolódnak ki az ukrajnai helyzet kapcsán.",
+      "key_points": [
+        "Fejes Pétert jelölte legfőbb ügyésznek államfő",
+        "A döntésre azután került sor, hogy a parlament elutasította az előző jelöltet",
+        "Nemzetközi szinten Donald Trump és Volodimir Zelenszkij viszonya is napirendre került"
+      ],
+      "content": "## Új jelölt a legfőbb ügyészi székbe\n\nállamfő hétfőn jelentette be, hogy Fejes Pétert, a Vas Megyei Főügyészség korábbi büntetőjogi főügyészhelyettesét javasolja a legfőbb ügyészi tisztségre. A lépésre azután volt szükség, hogy a parlament nem szavazta meg a korábban indítványozott jelöltet, így a poszt betöltetlen maradt.\n\nA köztársasági elnök döntése újabb fejezetet nyit az igazságszolgáltatás élén álló vezető személye körül zajló folyamatokban. A HVG hétköznap jelentkező hírpodcastjának összegzése szerint a jelölés mellett a hazai közéletben a gyanú szerint Seszták Miklós őrizetbe vétele, valamint az NVVH elnökhelyettesi posztjaira vonatkozó jelölések is témát szolgáltatnak.\n\n## Külpolitikai feszültségek a háttérben\n\nA hazai fejleményekkel párhuzamosan a külpolitikai színtéren is jelentős események rajzolódnak ki. A hírforrások szerint Donald Trumpnek határozott szándéka van Volodimir Zelenszkij ukrán elnök leváltására, miközben az orosz fél részéről a hírek szerint továbbra sincs nyitottság a tűzszünetre.\n\nEzek a nemzetközi folyamatok közvetett módon formálják azt a tágabb keretet, amelyben a hazai intézményi átrendeződések és kinevezési eljárások is zajlanak.",
+      "content_format": "markdown",
+      "body": [
+        "## Új jelölt a legfőbb ügyészi székbe",
+        "államfő hétfőn jelentette be, hogy Fejes Pétert, a Vas Megyei Főügyészség korábbi büntetőjogi főügyészhelyettesét javasolja a legfőbb ügyészi tisztségre. A lépésre azután volt szükség, hogy a parlament nem szavazta meg a korábban indítványozott jelöltet, így a poszt betöltetlen maradt.",
+        "A köztársasági elnök döntése újabb fejezetet nyit az igazságszolgáltatás élén álló vezető személye körül zajló folyamatokban. A HVG hétköznap jelentkező hírpodcastjának összegzése szerint a jelölés mellett a hazai közéletben a gyanú szerint Seszták Miklós őrizetbe vétele, valamint az NVVH elnökhelyettesi posztjaira vonatkozó jelölések is témát szolgáltatnak.",
+        "## Külpolitikai feszültségek a háttérben",
+        "A hazai fejleményekkel párhuzamosan a külpolitikai színtéren is jelentős események rajzolódnak ki. A hírforrások szerint Donald Trumpnek határozott szándéka van Volodimir Zelenszkij ukrán elnök leváltására, miközben az orosz fél részéről a hírek szerint továbbra sincs nyitottság a tűzszünetre.",
+        "Ezek a nemzetközi folyamatok közvetett módon formálják azt a tágabb keretet, amelyben a hazai intézményi átrendeződések és kinevezési eljárások is zajlanak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 184,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 927,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) and Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi pose for a photo during an introductory office",
+        "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235881).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261013_bemutatta-uj-jeloltjet-az-allamfo-trump-le-akarja-valtatni-zelenszkijt-newscast",
+          "title": "Bemutatta új jelöltjét az államfő, Trump le akarja váltatni Zelenszkijt – Newscast",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T13:19:12+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.78,
+      "title_options": [
+        "Újabb fordulat a legfőbb ügyészi poszt körül Baka András döntése után",
+        "Fejes Péter lehet a legfőbb ügyész Baka András jelölése nyomán",
+        "Ismét megvan a jelölt a legfőbb ügyészi tisztségre",
+        "Váratlan bejelentés: Fejes Pétert javasolja a legfőbb ügyészi posztra az államfő",
+        "Kiderült, ki lehet a legfőbb ügyész a parlament elutasítása után",
+        "Új ember a horizonton: ezt kell tudni a friss legfőbbügyész-jelöltről"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 927,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) and Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi pose for a photo during an introductory office",
+          "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235881).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 927,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Capt. Michael Fontaine, Commander, Fleet Activities Sasebo (CFAS) shows a historic map to Chief Prosecutor of Nagasaki District Public Prosecutors Office Hirotoshi Kawagoshi during an introductory off",
+          "credit": "U.S. Navy photo by Petty Officer 2nd Class Raquell Williams / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_(9235880).jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Bemutatta új jelöltjét az államfő, Trump le akarja váltatni Zelenszkijt – Newscast",
+          "link": "https://hvg.hu/itthon/20261013_bemutatta-uj-jeloltjet-az-allamfo-trump-le-akarja-valtatni-zelenszkijt-newscast",
+          "summary": "Fejes Pétert jelölte legfőbb ügyésznek Baka András, kavarás van Seszták Miklós őrizetbe vétele körül, megvannak a jelöltek az NVVH elnökhelyettesi posztjaira. Donald Trumpnak elege van Zelenszkijből, az oroszok viszont nem akarnak tűzszünetet. Ez a Newscast, a HVG hétköznap reggelente jelentkező hírpodcastja.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.78
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261013_bemutatta-uj-jeloltjet-az-allamfo-trump-le-akarja-valtatni-zelenszkijt-newscast"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kozelet/2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan/",
+      "seo": {
+        "meta_title": "Újabb fordulat a legfőbb ügyészi poszt körül Baka András dön",
+        "meta_description": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-ujabb-fordulat-a-legfobb-ugyeszi-poszt-korul-baka-andras-dontese-utan/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "5e88a2bc-a990-589e-9b91-8d6dc0719954",
+        "86fab367-0e3a-5110-8751-055aa62bd9a1",
+        "01b97a4b-4358-5870-9b81-062d99d7eed1"
+      ],
+      "see_also": [
+        {
+          "title": "Újabb próbálkozás a főügyészi poszt betöltésére: Fejes Péter a jelölt",
+          "url": "/kozelet/2026-10-12-ujabb-probalkozas-a-fougyeszi-poszt-betoltesere-fejes-peter-a-jelolt/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Titkos megfigyelésről beszél Seszták ügyvédje",
+          "url": "/kozelet/2026-10-01-megfigyelesi-botrany-sesztak-miklos-ugyeben/",
+          "date": "2026-10-01"
+        },
+        {
+          "title": "Miért akadt el az új orvosi törvény?",
+          "url": "/eletmod/2026-09-30-miert-akadt-el-az-uj-orvosi-torveny/",
+          "date": "2026-09-30"
+        }
+      ],
+      "thread_id": "d120b396-5efb-5543-8f09-166ce4129faf",
+      "dedupe_hash": "81567c8aa62430b55c5a6d59562c027c2c56c7be87027ead21bbdd62cae1ddc3",
+      "pipeline_run_id": "38388245614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T13:19:12+02:00",
+      "updated_at": "2026-10-13T13:19:12+02:00",
+      "published_at": "2026-10-13T13:19:12+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": [],
+        "auto_fixed": [
+          "Seszták Miklós őrizetbe vételét a gyanú szerint feltételes módra átírtuk",
+          "Donald Trump leváltási szándékát a hírek szerint feltételes módra módosítottuk",
+          "Hiányzó forrásmegjelöléseket (\"a hírforrások szerint\", \"a hírek szerint\") pótoltuk",
+          "A bűnügyi tartalmakat a presümptív ártatlanság elvének megfelelően átfogalmaztuk"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T11:20:53+00:00",
+        "msg_ids": [
+          5642,
+          5643,
+          5644
+        ],
+        "control_id": 5645
       }
     }
   ]
