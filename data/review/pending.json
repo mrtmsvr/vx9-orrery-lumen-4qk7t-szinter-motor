@@ -9868,23 +9868,12 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": -1,
         "sent_at": "2026-10-12T19:45:24+00:00",
-        "msg_ids": [
-          5396,
-          5397,
-          5398,
-          5399,
-          5400,
-          5401,
-          5402,
-          5403,
-          5474,
-          5475,
-          5491,
-          5492
-        ],
-        "control_id": 5493
+        "msg_ids": [],
+        "control_id": 5493,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:56 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Peter Szijjarto",
@@ -9914,7 +9903,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Luxembourg_Pfaffenthal_Alzette_B%C3%A9inchen_01.jpg/1280px-Luxembourg_Pfaffenthal_Alzette_B%C3%A9inchen_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Verkhovna_Rada_education_and_science_Comittee.jpg/1280px-Verkhovna_Rada_education_and_science_Comittee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Luxembourg_City_Hall_%2854540726309%29.jpg/1280px-Luxembourg_City_Hall_%2854540726309%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-13T10:56:12+02:00"
     },
     {
       "id": "1daa1978-434d-50f8-ac61-c2fb6dc933d7",
@@ -10351,19 +10341,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-12T19:45:52+00:00",
-        "msg_ids": [
-          5414,
-          5415,
-          5416,
-          5417,
-          5418,
-          5419,
-          5420,
-          5477,
-          5478
-        ],
-        "control_id": 5479
-      }
+        "msg_ids": [],
+        "control_id": 5479,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:36 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-13T10:36:12+02:00"
     },
     {
       "id": "77542672-ca29-56bf-bb15-353704f5714f",
