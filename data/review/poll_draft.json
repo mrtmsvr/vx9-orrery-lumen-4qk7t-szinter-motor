@@ -1,35 +1,35 @@
 {
-  "id": "e06765e05a",
-  "date": "2026-10-12",
-  "status": "skipped",
+  "id": "53fe1a2fd6",
+  "date": "2026-10-13",
+  "status": "pending",
   "article_url": "/penzvilag/2026-10-12-igy-faragna-le-a-hazai-kamatterheket-az-akk-vezetoje/",
   "article_title": "Így faragná le a hazai kamatterheket az ÁKK vezetője",
   "category": "penzvilag",
   "choices": [
     {
-      "question": "Ön szerint helyes lépés lenne az eurózónához csatlakozni az adósságteher csökkentése érdekében?",
+      "question": "Ön szerint mielőbb be kellene vezetni az eurót Magyarországon?",
       "options": [
-        "Igen, mielőbb csatlakozni kell",
+        "Igen, mielőbb be kell vezetni",
         "Nem, meg kell tartani a forintot",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyes-e az Államadósság Kezelő Központ javaslata az euró bevezetésének megfontolásáról?",
+      "question": "Jó iránynak tartja az ÁKK vezetőjének javaslatát az adósságcsökkentésre?",
       "options": [
-        "Igen, támogatom a javaslatot",
-        "Nem, nem értek vele egyet",
+        "Igen, ez a helyes út",
+        "Nem, ez rossz irány",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jó irányba viszi az országot az európai fizetőeszközhöz való közeledés?",
+      "question": "Helyes-e az eurózónához való közeledést szorgalmazni gazdasági érvek miatt?",
       "options": [
-        "Igen, előnyös a gazdaságnak",
-        "Nem, kifejezetten kockázatos",
+        "Igen, a gazdasági érvek döntőek",
+        "Nem, a szuverenitás fontosabb",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 5141
+  "msg_id": 5556
 }
