@@ -11720,7 +11720,7 @@
     {
       "id": "3084c9f5-d47c-59df-abd7-c9032c7fec21",
       "slug": "2026-10-13-a-tronok-harcat-is-lekorozne-az-uj-sarkanyos-sorozat",
-      "status": "pending",
+      "status": "published",
       "category": "bulvar",
       "subcategory": null,
       "tags": [
@@ -11752,16 +11752,15 @@
       "word_count": 233,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_%2842075892224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1549,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/3084c9f5d4-1791876813-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/3084c9f5d4-1791876813-1.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "2018-05-12- Cannes-L'acteur Michael B. Jordan-2721",
-        "credit": "Joan Hernandez Mir / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_(42075892224).jpg",
-        "vision_score": 10.0
+        "alt": "A Trónok harcát is lekörözné az új sárkányos sorozat",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -11861,7 +11860,7 @@
         "meta_title": "A Trónok harcát is lekörözné az új sárkányos sorozat",
         "meta_description": "Michael B. Jordan produceri közreműködésével készíti el a Prime Video a Fourth Wing című regényadaptációt, amely a készítők ígéretei szerint a Trónok harcát is ",
         "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-13-a-tronok-harcat-is-lekorozne-az-uj-sarkanyos-sorozat/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_%2842075892224%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/3084c9f5d4-1791876813-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11878,9 +11877,9 @@
       "dedupe_hash": "e6d354197b05d6609cf304518105d04e64c73a7c8a65359f63289e5736be62f5",
       "pipeline_run_id": "38362302674",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:24:08+02:00",
-      "updated_at": "2026-10-13T09:24:08+02:00",
-      "published_at": "2026-10-13T09:24:08+02:00",
+      "created_at": "2026-10-13T11:56:18+02:00",
+      "updated_at": "2026-10-13T11:56:18+02:00",
+      "published_at": "2026-10-13T11:56:18+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11893,9 +11892,9 @@
         "msg_ids": [],
         "control_id": 5540,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:56 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T11:56:12+02:00"
+      "live": true
     },
     {
       "id": "ca4becda-9289-508e-a4d7-964efa964518",
