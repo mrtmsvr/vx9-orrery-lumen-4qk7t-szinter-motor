@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T10:36:14+02:00",
+  "updated_at": "2026-10-13T10:56:28+02:00",
   "articles": [
+    {
+      "id": "8c0e81c4-ff22-5ada-897b-a1d0a7651998",
+      "slug": "2026-10-13-michelangelo-kezirasabol-keszult-a-vatikan-uj-digitalis-betutipusa",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Michelangelo",
+        "Vatikán",
+        "tipográfia",
+        "dizájn",
+        "kultúra"
+      ],
+      "title": "Michelangelo kézírásából készült a Vatikán új digitális betűtípusa",
+      "subtitle": null,
+      "lead": "Ingyenesen letölthetővé vált a Michelangelo Buonarroti kézírása alapján tervezett Michelangelus digitális betűtípus, amelyet a Vatikán művészeti értékeinek gondozásával megbízott szervezet hozott létre. Az új tipográfiai eszköz a reneszánsz mester mindennapi jegyzeteit és monumentális alkotásait is megidézi a digitális térben.",
+      "key_points": [
+        "A Michelangelus nevű fontot a Vatikán megbízásából az olasz Studiogusto dizájnstúdió tervezte.",
+        "A tipográfusok eredeti dokumentumokat, leveleket és vázlatokat elemeztek a Vatikáni Apostoli Levéltárban és más archívumokban.",
+        "A betűcsalád több mint ötszáz glifát tartalmaz, és négy különböző stílusban érhető el."
+      ],
+      "content": "Ingyenesen, bárki számára elérhetővé vált az a digitális betűkészlet, amelyet a Szent Péter Műhely megbízásából alkottak meg az olasz Studiogusto dizájnstúdió szakemberei. A Michelangelus nevet viselő projekt alapját Michelangelo Buonarroti eredeti kézírása adta a Múlt-kor történettudományi magazin beszámolója szerint.\n\nA tipográfiai munka során a szakemberek tüzetesen tanulmányozták a Vatikáni Apostoli Levéltárban, a Szent Péter Műhelyben, valamint a firenzei Casa Buonarroti archívumaiban őrzött leveleket, vázlatokat és dokumentumokat. A tervezők nem a kézírás mechanikus másolására törekedtek, hanem a vizuális szabályszerűségeket vizsgálták: elemezték a formák arányait, a ritmust, a dőlésszögeket és a negatív terek szerkezetét, kiindulópontként pedig a művész aláírását használták fel.\n\nA betűcsalád a reneszánsz művész életművének kettősségét tükrözi a karakterek kialakításában. A kisbetűk a mindennapi levelezések és személyes jegyzetek alapján formálódtak, míg a nagybetűk megtervezésekor a monumentális köztéri alkotások – mint például a római Szent Péter-bazilika kupolája vagy a Pietà – formai erejét vették alapul.\n\nA kortárs digitális és tipográfiai követelményekhez igazított fontkészlet több mint ötszáz egyedi karaktert, azaz glifát tartalmaz, és négy különböző – normál, dőlt, félkövér, valamint félkövér dőlt – stílusban készült el. Ez a fejlesztés szervesen illeszkedik abba a digitalizációs programba, amelyet a Vatikán indított el.",
+      "content_format": "markdown",
+      "body": [
+        "Ingyenesen, bárki számára elérhetővé vált az a digitális betűkészlet, amelyet a Szent Péter Műhely megbízásából alkottak meg az olasz Studiogusto dizájnstúdió szakemberei. A Michelangelus nevet viselő projekt alapját Michelangelo Buonarroti eredeti kézírása adta a Múlt-kor történettudományi magazin beszámolója szerint.",
+        "A tipográfiai munka során a szakemberek tüzetesen tanulmányozták a Vatikáni Apostoli Levéltárban, a Szent Péter Műhelyben, valamint a firenzei Casa Buonarroti archívumaiban őrzött leveleket, vázlatokat és dokumentumokat. A tervezők nem a kézírás mechanikus másolására törekedtek, hanem a vizuális szabályszerűségeket vizsgálták: elemezték a formák arányait, a ritmust, a dőlésszögeket és a negatív terek szerkezetét, kiindulópontként pedig a művész aláírását használták fel.",
+        "A betűcsalád a reneszánsz művész életművének kettősségét tükrözi a karakterek kialakításában. A kisbetűk a mindennapi levelezések és személyes jegyzetek alapján formálódtak, míg a nagybetűk megtervezésekor a monumentális köztéri alkotások – mint például a római Szent Péter-bazilika kupolája vagy a Pietà – formai erejét vették alapul.",
+        "A kortárs digitális és tipográfiai követelményekhez igazított fontkészlet több mint ötszáz egyedi karaktert, azaz glifát tartalmaz, és négy különböző – normál, dőlt, félkövér, valamint félkövér dőlt – stílusban készült el. Ez a fejlesztés szervesen illeszkedik abba a digitalizációs programba, amelyet a Vatikán indított el."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 225,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 627,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Main facade of Saint Peter's Basilica, Rome",
+        "credit": "Alvesgaspar / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/12/elkeszult-a-michelangelo-kezirasat-utanzo-uj-betutipus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Elkészült a Michelangelo kézírását utánzó új betűtípus",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T09:24:12+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-13T10:56:28+02:00"
+      },
+      "hot_score": 4.37,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/12/elkeszult-a-michelangelo-kezirasat-utanzo-uj-betutipus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/kultura/2026-10-13-michelangelo-kezirasabol-keszult-a-vatikan-uj-digitalis-betutipusa/",
+      "seo": {
+        "meta_title": "Michelangelo kézírásából készült a Vatikán új digitális betű",
+        "meta_description": "Ingyenesen letölthetővé vált a Michelangelo Buonarroti kézírása alapján tervezett Michelangelus digitális betűtípus, amelyet a Vatikán művészeti értékeinek gond",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-13-michelangelo-kezirasabol-keszult-a-vatikan-uj-digitalis-betutipusa/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "52a4c4c8ee859988e098fd690b21f4ca1b43808059a3c928e6b19f8b8443db02",
+      "pipeline_run_id": "38362302674",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T10:56:28+02:00",
+      "updated_at": "2026-10-13T10:56:28+02:00",
+      "published_at": "2026-10-13T10:56:28+02:00",
+      "expires_at": null
+    },
     {
       "id": "6b4e396a-f118-5943-9ac3-4515b4b7b2b1",
       "slug": "2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv",

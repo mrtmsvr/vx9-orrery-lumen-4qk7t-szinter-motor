@@ -11378,7 +11378,7 @@
     {
       "id": "8c0e81c4-ff22-5ada-897b-a1d0a7651998",
       "slug": "2026-10-13-michelangelo-kezirasabol-keszult-a-vatikan-uj-digitalis-betutipusa",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -11409,16 +11409,16 @@
       "word_count": 225,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Piet%C3%A0_%28Michelangelo%29%2C_author_signature%2C_2017.jpg/1280px-Piet%C3%A0_%28Michelangelo%29%2C_author_signature%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 627,
         "kind": "photo",
         "pos": "center",
-        "alt": "Pietà (Michelangelo), author's signature \"MICHEL ANGELUS BONAROTUS FLORENT FACIBAT\"",
-        "credit": "Maciej Nux / Wikimedia Commons",
+        "alt": "Main facade of Saint Peter's Basilica, Rome",
+        "credit": "Alvesgaspar / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Piet%C3%A0_(Michelangelo),_author_signature,_2017.jpg",
-        "vision_score": 10.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -11509,7 +11509,7 @@
         "meta_title": "Michelangelo kézírásából készült a Vatikán új digitális betű",
         "meta_description": "Ingyenesen letölthetővé vált a Michelangelo Buonarroti kézírása alapján tervezett Michelangelus digitális betűtípus, amelyet a Vatikán művészeti értékeinek gond",
         "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-13-michelangelo-kezirasabol-keszult-a-vatikan-uj-digitalis-betutipusa/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Piet%C3%A0_%28Michelangelo%29%2C_author_signature%2C_2017.jpg/1280px-Piet%C3%A0_%28Michelangelo%29%2C_author_signature%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/1280px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11526,9 +11526,9 @@
       "dedupe_hash": "52a4c4c8ee859988e098fd690b21f4ca1b43808059a3c928e6b19f8b8443db02",
       "pipeline_run_id": "38362302674",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:24:12+02:00",
-      "updated_at": "2026-10-13T09:24:12+02:00",
-      "published_at": "2026-10-13T09:24:12+02:00",
+      "created_at": "2026-10-13T10:56:28+02:00",
+      "updated_at": "2026-10-13T10:56:28+02:00",
+      "published_at": "2026-10-13T10:56:28+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11541,9 +11541,9 @@
         "msg_ids": [],
         "control_id": 5504,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 10:56 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T10:56:12+02:00"
+      "live": true
     },
     {
       "id": "fae50cc1-73bc-5029-948b-25daace4dbb7",
