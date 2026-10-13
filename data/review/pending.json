@@ -11928,9 +11928,9 @@
       "live": true
     },
     {
-      "id": "533469f7-fdaf-517d-87ed-d0749590caa6",
-      "slug": "2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat",
-      "status": "pending",
+      "id": "cb40f38d-68a6-5b8b-b8a3-573d24d20365",
+      "slug": "2026-10-13-nem-tetszik-a-tetovalasod-kapcsold-ki-egy-mozdulattal",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -11939,7 +11939,7 @@
         "tetoválás",
         "innováció"
       ],
-      "title": "Új tinta, amivel bármikor eltüntethetjük tetoválásainkat",
+      "title": "Nem tetszik a tetoválásod? Kapcsold ki egy mozdulattal",
       "subtitle": null,
       "lead": "Az amerikai kutatók által fejlesztett PhotoTat tinta lehetővé teszi, hogy a tetoválásokat egy adott fényhullámhossz segítségével tüntessük el vagy hívjuk elő újra. Bár a technológia forradalmi, a napfényérzékenység miatt használata egyelőre körültekintést igényel.",
       "key_points": [
@@ -11960,15 +11960,16 @@
       "word_count": 214,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1280px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/25cc4e9c755368be.jpg",
+        "width": 4272,
+        "height": 2848,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Ambigram tattoo New York / Rich Man on a male forearm. 180° rotational symmetry (upside down words). New York City has a high degree of income disparity, as all large cities. As of 2017, New York City",
-        "credit": "Basile Morin / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_New_York_Rich_Man.jpg"
+        "alt": "tattoo, tattoo artist, arm, tattoo, tattoo, tattoo, tattoo, tattoo",
+        "credit": "ilovetattoos / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/tattoo-tattoo-artist-arm-3268988/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/25cc4e9c755368be.jpg",
+        "orig_url": "https://pixabay.com/get/g8ae4b973c7faa47e54647cb959683d331151b08349f308a618992b00a1ade2984ad83d93fac527437e8a174bde0c254759a6806917670b862ff77200cec8a534_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12108,12 +12109,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/tech/2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat/",
+      "url": "/tech/2026-10-13-nem-tetszik-a-tetovalasod-kapcsold-ki-egy-mozdulattal/",
       "seo": {
-        "meta_title": "Új tinta, amivel bármikor eltüntethetjük tetoválásainkat",
+        "meta_title": "Nem tetszik a tetoválásod? Kapcsold ki egy mozdulattal",
         "meta_description": "Az amerikai kutatók által fejlesztett PhotoTat tinta lehetővé teszi, hogy a tetoválásokat egy adott fényhullámhossz segítségével tüntessük el vagy hívjuk elő új",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1280px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-13-nem-tetszik-a-tetovalasod-kapcsold-ki-egy-mozdulattal/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/25cc4e9c755368be.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12130,9 +12131,9 @@
       "dedupe_hash": "999986b19727d1de0093b9af4deb7189b03ee0bc746a00a9e9527c264b18742c",
       "pipeline_run_id": "38438676714",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T19:47:37+02:00",
-      "updated_at": "2026-10-13T19:47:37+02:00",
-      "published_at": "2026-10-13T19:47:37+02:00",
+      "created_at": "2026-10-13T20:28:02+02:00",
+      "updated_at": "2026-10-13T20:28:02+02:00",
+      "published_at": "2026-10-13T20:28:02+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12145,9 +12146,9 @@
         "msg_ids": [],
         "control_id": 5760,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:27 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T20:27:46+02:00"
+      "live": true
     },
     {
       "id": "80ba5f23-dcde-517d-a408-3004f2c830b9",
