@@ -11437,9 +11437,9 @@
       "live": true
     },
     {
-      "id": "30643a3a-574c-55a1-b368-eed9ca61ca54",
-      "slug": "2026-10-13-fekete-tengeri-drontamadasok-elsullyedt-egy-hajo",
-      "status": "pending",
+      "id": "6ac3dd97-0493-5b3b-a5b3-2d5cd422eb9d",
+      "slug": "2026-10-13-dronok-sullyesztettek-el-a-hajot-bulgaria-partjainal",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11449,7 +11449,7 @@
         "hajózás",
         "biztonságpolitika"
       ],
-      "title": "Fekete-tengeri dróntámadások: elsüllyedt egy hajó",
+      "title": "Drónok süllyesztették el a hajót Bulgária partjainál",
       "subtitle": null,
       "lead": "Két hajót ért dróntámadás Bulgária fekete-tengeri partjainak közelében, az egyik vízi jármű pedig elsüllyedt. Az eset tovább fokozza a térség feszültségét, ahol az elmúlt hetekben már másodszor történt hasonló incidens.",
       "key_points": [
@@ -11469,16 +11469,15 @@
       "word_count": 224,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Sea_Nasa_May_25_2004.jpg/1280px-Black_Sea_Nasa_May_25_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://live.staticflickr.com/2820/34111016826_98fa042a65_b.jpg",
+        "width": 1024,
+        "height": 636,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Black Sea, satellite image, May 2004. – Original image caption from Visible Earth collection of NASA: \n\"Phytoplankton blooms and plumes of sediment form the bright blue swirls that ring the Black Sea",
-        "credit": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Black_Sea_Nasa_May_25_2004.jpg",
-        "vision_score": 7.0
+        "alt": "Cargo Ship",
+        "credit": "szeke / flickr",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://www.flickr.com/photos/43355249@N00/34111016826",
+        "vision_score": 5.0
       },
       "inline_images": [],
       "sources": [
@@ -11574,12 +11573,12 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/vilag/2026-10-13-fekete-tengeri-drontamadasok-elsullyedt-egy-hajo/",
+      "url": "/vilag/2026-10-13-dronok-sullyesztettek-el-a-hajot-bulgaria-partjainal/",
       "seo": {
-        "meta_title": "Fekete-tengeri dróntámadások: elsüllyedt egy hajó",
+        "meta_title": "Drónok süllyesztették el a hajót Bulgária partjainál",
         "meta_description": "Két hajót ért dróntámadás Bulgária fekete-tengeri partjainak közelében, az egyik vízi jármű pedig elsüllyedt. Az eset tovább fokozza a térség feszültségét, ahol",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-13-fekete-tengeri-drontamadasok-elsullyedt-egy-hajo/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Sea_Nasa_May_25_2004.jpg/1280px-Black_Sea_Nasa_May_25_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-13-dronok-sullyesztettek-el-a-hajot-bulgaria-partjainal/",
+        "og_image": "https://live.staticflickr.com/2820/34111016826_98fa042a65_b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11596,9 +11595,9 @@
       "dedupe_hash": "ed771932c5bde5d5bed35e19e76ed9ba9825a225632575b50ac8614861974950",
       "pipeline_run_id": "38388245614",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T13:19:19+02:00",
-      "updated_at": "2026-10-13T13:19:19+02:00",
-      "published_at": "2026-10-13T13:19:19+02:00",
+      "created_at": "2026-10-13T14:19:21+02:00",
+      "updated_at": "2026-10-13T14:19:21+02:00",
+      "published_at": "2026-10-13T14:19:21+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11611,9 +11610,9 @@
         "msg_ids": [],
         "control_id": 5609,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 14:18 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-13T14:18:55+02:00"
+      "live": true
     },
     {
       "id": "2c19290c-d6d7-5fb2-82cb-ea1d233ef351",
