@@ -11397,9 +11397,9 @@
       "live": true
     },
     {
-      "id": "81c996a5-533f-5456-a80f-0f250af15412",
-      "slug": "2026-10-13-bevallotta-a-miniszter-havi-otvenezer-tonna-uzemanyag-megy-ukrajnaba",
-      "status": "pending",
+      "id": "f02e3c39-03b6-5308-a13d-7fe5c7d7c73d",
+      "slug": "2026-10-13-fennakadasok-az-ukran-uzemanyag-ellatasban-a-szallitasi-nehezsegek-mi",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11409,7 +11409,7 @@
         "Kapitány István",
         "gazdaság"
       ],
-      "title": "Bevallotta a miniszter: havi ötvenezer tonna üzemanyag megy Ukrajnába",
+      "title": "Fennakadások az ukrán üzemanyag-ellátásban a szállítási nehézségek miatt",
       "subtitle": null,
       "lead": "Komoly politikai vitát kavart a hazai üzemanyag-ellátás helyzete, miután a parlamentben kiderült: havonta tízezres tonnaszámra érkezik gázolaj Magyarországon keresztül Ukrajnába. Ezzel párhuzamosan a térségben súlyos szállítási nehézségek és az alacsony dunai vízszint is akadályozzák az importot.",
       "key_points": [
@@ -11548,11 +11548,11 @@
       },
       "date": "2026-10-13",
       "date_label": "október 13.",
-      "url": "/penzvilag/2026-10-13-bevallotta-a-miniszter-havi-otvenezer-tonna-uzemanyag-megy-ukrajnaba/",
+      "url": "/penzvilag/2026-10-13-fennakadasok-az-ukran-uzemanyag-ellatasban-a-szallitasi-nehezsegek-mi/",
       "seo": {
-        "meta_title": "Bevallotta a miniszter: havi ötvenezer tonna üzemanyag megy ",
+        "meta_title": "Fennakadások az ukrán üzemanyag-ellátásban a szállítási nehé",
         "meta_description": "Komoly politikai vitát kavart a hazai üzemanyag-ellátás helyzete, miután a parlamentben kiderült: havonta tízezres tonnaszámra érkezik gázolaj Magyarországon ke",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-bevallotta-a-miniszter-havi-otvenezer-tonna-uzemanyag-megy-ukrajnaba/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-13-fennakadasok-az-ukran-uzemanyag-ellatasban-a-szallitasi-nehezsegek-mi/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Fuel_station%2C_Tamale_%28P1100296%29.jpg/1280px-Fuel_station%2C_Tamale_%28P1100296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11590,9 +11590,9 @@
       "dedupe_hash": "8cda7fab2b7da1d755db1d45aad6f2f12181ae8ed697c245cb99966794798eb0",
       "pipeline_run_id": "38373573682",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T11:05:54+02:00",
-      "updated_at": "2026-10-13T11:05:54+02:00",
-      "published_at": "2026-10-13T11:05:54+02:00",
+      "created_at": "2026-10-13T13:18:55+02:00",
+      "updated_at": "2026-10-13T13:18:55+02:00",
+      "published_at": "2026-10-13T13:18:55+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11602,13 +11602,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-13T09:06:57+00:00",
-        "msg_ids": [
-          5560,
-          5561,
-          5562
-        ],
-        "control_id": 5563
-      }
+        "msg_ids": [],
+        "control_id": 5563,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
