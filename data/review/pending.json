@@ -12635,12 +12635,240 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-13T18:01:28+00:00",
+        "msg_ids": [],
+        "control_id": 5749,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:07 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-13T20:07:46+02:00"
+    },
+    {
+      "id": "533469f7-fdaf-517d-87ed-d0749590caa6",
+      "slug": "2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "technológia",
+        "tudomány",
+        "tetoválás",
+        "innováció"
+      ],
+      "title": "Új tinta, amivel bármikor eltüntethetjük tetoválásainkat",
+      "subtitle": null,
+      "lead": "Az amerikai kutatók által fejlesztett PhotoTat tinta lehetővé teszi, hogy a tetoválásokat egy adott fényhullámhossz segítségével tüntessük el vagy hívjuk elő újra. Bár a technológia forradalmi, a napfényérzékenység miatt használata egyelőre körültekintést igényel.",
+      "key_points": [
+        "A PhotoTat fotokróm nanorészecskék segítségével vált átlátszó és színes állapot között.",
+        "A minta ultraibolya fény hatására aktiválódik, míg erős látható fénnyel törölhető.",
+        "A tinta 16 alapszínből keverhető ki, ami több mint 300 árnyalat elérését teszi lehetővé.",
+        "A technológia a jövőben orvosi alkalmazásokban, például sugárkezelések célzásánál is hasznos lehet."
+      ],
+      "content": "A tetoválás sokak számára életre szóló döntés, ám a Coloradói Egyetem kutatóinak fejlesztése átírhatja ezt a paradigmát. Carson Bruns és csapata olyan különleges tintát alkotott, amely a hagyományos pigmentekhez hasonlóan tűvel kerül a bőr irha rétegébe, mégis reagál a környezeti fényviszonyokra. A fotokróm nanorészecskék technológiájának lényege, hogy a tinta meghatározott hullámhosszú fény hatására kémiai változáson megy keresztül, így átlátszó állapotból láthatóvá válik, vagy fordítva.\n\nA technológia gyakorlati alkalmazása azonban még óvatosságra inti a felhasználókat. Mivel a pigmentek ultraibolya (UV) sugárzásra aktiválódnak, a napsütés akaratlanul is előhívhatja a rejtett mintákat, amennyiben a bőrfelületet nem védik megfelelően fényvédő krémekkel. Éppen ezért a kutatók hangsúlyozzák, hogy a széles körű kereskedelmi forgalmazás előtt szigorú biztonsági tesztek szükségesek, bár a jelenlegi eredmények ígéretesek a toxicitást illetően.\n\nAz orvostudomány különösen nagy hasznát veheti az újításnak. A sugárterápiás beavatkozásoknál ma is használnak permanens jelöléseket a testfelületen a pontosabb célzás érdekében, ám a PhotoTat alkalmazásával ezek a klinikai segédjelzések a kezelés végeztével egyszerűen eltüntethetők lennének. A fejlesztők szerint a festékanyagot bevonó polimer már bizonyított implantátumokban, így az orvosi célú felhasználás a jövőben valós alternatívát jelenthet a hagyományos eljárásokkal szemben.",
+      "content_format": "markdown",
+      "body": [
+        "A tetoválás sokak számára életre szóló döntés, ám a Coloradói Egyetem kutatóinak fejlesztése átírhatja ezt a paradigmát. Carson Bruns és csapata olyan különleges tintát alkotott, amely a hagyományos pigmentekhez hasonlóan tűvel kerül a bőr irha rétegébe, mégis reagál a környezeti fényviszonyokra. A fotokróm nanorészecskék technológiájának lényege, hogy a tinta meghatározott hullámhosszú fény hatására kémiai változáson megy keresztül, így átlátszó állapotból láthatóvá válik, vagy fordítva.",
+        "A technológia gyakorlati alkalmazása azonban még óvatosságra inti a felhasználókat. Mivel a pigmentek ultraibolya (UV) sugárzásra aktiválódnak, a napsütés akaratlanul is előhívhatja a rejtett mintákat, amennyiben a bőrfelületet nem védik megfelelően fényvédő krémekkel. Éppen ezért a kutatók hangsúlyozzák, hogy a széles körű kereskedelmi forgalmazás előtt szigorú biztonsági tesztek szükségesek, bár a jelenlegi eredmények ígéretesek a toxicitást illetően.",
+        "Az orvostudomány különösen nagy hasznát veheti az újításnak. A sugárterápiás beavatkozásoknál ma is használnak permanens jelöléseket a testfelületen a pontosabb célzás érdekében, ám a PhotoTat alkalmazásával ezek a klinikai segédjelzések a kezelés végeztével egyszerűen eltüntethetők lennének. A fejlesztők szerint a festékanyagot bevonó polimer már bizonyított implantátumokban, így az orvosi célú felhasználás a jövőben valós alternatívát jelenthet a hagyományos eljárásokkal szemben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 214,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1280px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Ambigram tattoo New York / Rich Man on a male forearm. 180° rotational symmetry (upside down words). New York City has a high degree of income disparity, as all large cities. As of 2017, New York City",
+        "credit": "Basile Morin / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_New_York_Rich_Man.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/13/fennyel-vezerelheto-tetovalasokat-fejlesztettek-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Fénnyel vezérelhető tetoválásokat fejlesztettek ki",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-13T19:47:37+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Csak kikapcsolhatod a tetoválást, amikor nem akarod látni, és eltűnik a szemed elől. Ha soha többet nem akarod látni, csak ne kapcsold be újra.",
+        "who": "Carson Bruns, a Coloradói Egyetem kutatója",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.47,
+      "title_options": [
+        "Új tinta, amivel bármikor eltüntethetjük tetoválásainkat",
+        "Fénykapcsoló a bőrön: érkezik az eltüntethető tetoválás",
+        "Fénnyel vezérelhető minták: a jövő tetoválása már itt van",
+        "Nem tetszik a tetoválásod? Kapcsold ki egy mozdulattal",
+        "Így válhat láthatatlanná bármilyen tetoválás egyetlen villanástól",
+        "Megérkezett a tinta, aminek a napfény a legnagyobb ellensége"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1280px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Ambigram tattoo New York / Rich Man on a male forearm. 180° rotational symmetry (upside down words). New York City has a high degree of income disparity, as all large cities. As of 2017, New York City",
+          "credit": "Basile Morin / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_New_York_Rich_Man.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ambigram_tattoo_Texas_Sexy.jpg/1280px-Ambigram_tattoo_Texas_Sexy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Ambigram tattoo Texas / Sexy on a female arm. 180° rotational symmetry. Comparison of photographs right side up and upside down. Kind of optical illusion. Decal-style temporary tattoo.",
+          "credit": "Basile Morin / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_Texas_Sexy.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Center_for_Community%2C_University_of_Colorado_Boulder_-_20250626111859.jpg/1280px-Center_for_Community%2C_University_of_Colorado_Boulder_-_20250626111859.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Southeast view of the Center for Community (C4C) at the University of Colorado Boulder.",
+          "credit": "Colohisto / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Center_for_Community,_University_of_Colorado_Boulder_-_20250626111859.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/University_of_Colorado_-_Boulder_%28498822943%29.jpg/1280px-University_of_Colorado_-_Boulder_%28498822943%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 798,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Main campus of the University of Colorado Boulder.",
+          "credit": "J Iannone / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:University_of_Colorado_-_Boulder_(498822943).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Saturn%27s_Rings_in_Ultraviolet_Light.png/1280px-Saturn%27s_Rings_in_Ultraviolet_Light.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 558,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Saturn's Rings in Ultraviolet Light",
+          "credit": "NASA. / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Saturn%27s_Rings_in_Ultraviolet_Light.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Hood_Ultraviolet_Light.jpg/1280px-Hood_Ultraviolet_Light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "In this shared workspace, various professors and students work in a sterile environment. Everything under the hood has been sterilized using an ethanol solution. The ultraviolet (UV) light kills any r",
+          "credit": "Alyssa LaGrange / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hood_Ultraviolet_Light.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g8ae4b973c7faa47e54647cb959683d331151b08349f308a618992b00a1ade2984ad83d93fac527437e8a174bde0c254759a6806917670b862ff77200cec8a534_1280.jpg",
+          "width": 4272,
+          "height": 2848,
+          "kind": "photo",
+          "alt": "tattoo, tattoo artist, arm, tattoo, tattoo, tattoo, tattoo, tattoo",
+          "credit": "ilovetattoos / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/tattoo-tattoo-artist-arm-3268988/"
+        },
+        {
+          "url": "https://pixabay.com/get/g8e5e614dd8ad5a63ade95e1b748b7611bb9326fc4ea292426340891a1980901b1eae293969db6720ff42fc6c68cec228295470caeaa53d52309f1e4fa4b1655c_1280.jpg",
+          "width": 5400,
+          "height": 3745,
+          "kind": "photo",
+          "alt": "woman, tattoos, body art, tattooed skin, tattooed woman, skin, body, arms, adult, girl, person, portrait, modeling, pose, posing, tattoos, tattoos, tattoos, tattoos, tattoos, skin, body, body",
+          "credit": "Pexels / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/woman-tattoos-body-art-1867485/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Fénnyel vezérelhető tetoválásokat fejlesztettek ki",
+          "link": "https://qubit.hu/2026/10/13/fennyel-vezerelheto-tetovalasokat-fejlesztettek-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "Eltüntethetővé teheti a tetoválásokat egy új tinta, amit amerikai kutatók fejlesztettek ki. De van egy szépséghibája: UV-fény kapcsolja be, így a napfény akaratunk ellenére is előhozhatja.",
+          "source": "qubit.hu",
+          "related": false,
+          "hot_score": 5.47
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/13/fennyel-vezerelheto-tetovalasokat-fejlesztettek-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-13",
+      "date_label": "október 13.",
+      "url": "/tech/2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat/",
+      "seo": {
+        "meta_title": "Új tinta, amivel bármikor eltüntethetjük tetoválásainkat",
+        "meta_description": "Az amerikai kutatók által fejlesztett PhotoTat tinta lehetővé teszi, hogy a tetoválásokat egy adott fényhullámhossz segítségével tüntessük el vagy hívjuk elő új",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-13-uj-tinta-amivel-barmikor-eltuntethetjuk-tetovalasainkat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1280px-Ambigram_tattoo_New_York_Rich_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "999986b19727d1de0093b9af4deb7189b03ee0bc746a00a9e9527c264b18742c",
+      "pipeline_run_id": "38438676714",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-13T19:47:37+02:00",
+      "updated_at": "2026-10-13T19:47:37+02:00",
+      "published_at": "2026-10-13T19:47:37+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-13T18:03:20+00:00",
         "msg_ids": [
-          5746,
-          5747,
-          5748
+          5751,
+          5752,
+          5753,
+          5754,
+          5755,
+          5756,
+          5757,
+          5758,
+          5759
         ],
-        "control_id": 5749
+        "control_id": 5760
       }
     }
   ]
