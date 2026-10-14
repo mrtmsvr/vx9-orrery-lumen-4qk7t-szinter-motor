@@ -11814,9 +11814,9 @@
       }
     },
     {
-      "id": "7494b966-726b-5dd8-8e00-53c37158a9d3",
-      "slug": "2026-10-14-meglepetes-az-usa-ban-3-7-szazalekra-gyorsult-az-inflacio",
-      "status": "pending",
+      "id": "25f63a91-b6a4-59c1-ac8a-050c554dbff5",
+      "slug": "2026-10-14-felelem-a-tozsden-ujra-kamatemeles-johet-amerikaban",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11826,7 +11826,7 @@
         "Egyesült Államok",
         "befektetés"
       ],
-      "title": "Meglepetés az USA-ban: 3,7 százalékra gyorsult az infláció",
+      "title": "Félelem a tőzsdén: újra kamatemelés jöhet Amerikában",
       "subtitle": null,
       "lead": "Szeptemberben a vártnál nagyobb mértékben, 3,7 százalékra gyorsult az amerikai áremelkedés, ami azonnali bizonytalanságot váltott ki a nemzetközi tőzsdéken. A befektetők attól tartanak, hogy a jegybank már októberben kénytelen lesz tovább emelni a kamatokat.",
       "key_points": [
@@ -11933,11 +11933,11 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/penzvilag/2026-10-14-meglepetes-az-usa-ban-3-7-szazalekra-gyorsult-az-inflacio/",
+      "url": "/penzvilag/2026-10-14-felelem-a-tozsden-ujra-kamatemeles-johet-amerikaban/",
       "seo": {
-        "meta_title": "Meglepetés az USA-ban: 3,7 százalékra gyorsult az infláció",
+        "meta_title": "Félelem a tőzsdén: újra kamatemelés jöhet Amerikában",
         "meta_description": "Szeptemberben a vártnál nagyobb mértékben, 3,7 százalékra gyorsult az amerikai áremelkedés, ami azonnali bizonytalanságot váltott ki a nemzetközi tőzsdéken. A b",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-14-meglepetes-az-usa-ban-3-7-szazalekra-gyorsult-az-inflacio/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-14-felelem-a-tozsden-ujra-kamatemeles-johet-amerikaban/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/New_York_Stock_Exchange_August_2017_02.jpg/1280px-New_York_Stock_Exchange_August_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11955,9 +11955,9 @@
       "dedupe_hash": "1916dd1601020b88b37ca39c76551663b9e9d57ec10404838cc3908f09181985",
       "pipeline_run_id": "38580808719",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T16:53:27+02:00",
-      "updated_at": "2026-10-14T16:53:27+02:00",
-      "published_at": "2026-10-14T16:53:27+02:00",
+      "created_at": "2026-10-14T19:11:41+02:00",
+      "updated_at": "2026-10-14T19:11:41+02:00",
+      "published_at": "2026-10-14T19:11:41+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11967,13 +11967,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-14T14:53:59+00:00",
-        "msg_ids": [
-          6011,
-          6012,
-          6013
-        ],
-        "control_id": 6014
-      }
+        "msg_ids": [],
+        "control_id": 6014,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
