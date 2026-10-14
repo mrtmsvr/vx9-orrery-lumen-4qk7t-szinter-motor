@@ -11326,9 +11326,9 @@
       "live": true
     },
     {
-      "id": "2307f786-666a-5352-9e78-54a09c85d6f1",
-      "slug": "2026-10-14-rekordkozeli-drontamadas-razta-meg-az-orosz-fovarost",
-      "status": "pending",
+      "id": "c602aa6f-7343-5088-bf07-79859690d5f9",
+      "slug": "2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11338,7 +11338,7 @@
         "Orosz-ukrán háború",
         "Zaporizzsja"
       ],
-      "title": "Rekordközeli dróntámadás rázta meg az orosz fővárost",
+      "title": "Moszkvát vették célba az éjszakai dróncsapások",
       "subtitle": null,
       "lead": "Rekordközeli dróntámadás érte Moszkvát, miközben Kijevben egy hőerőművet és egy lakóházat is rakétatalálat ért. A fejlemények alapjaiban rajzolják át a háborús hétköznapokat.",
       "key_points": [
@@ -11359,7 +11359,7 @@
       "word_count": 193,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g247c524f7c3ee47f3e50396d2b36abe7e7161a646f8506b4636c58e67746499d13932f9982fea5c4091d618fefabb6fc5cf4fb1ae984ef2292c7a60869d74e5c_1280.png",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/b4edd46eb6ab43b0.jpg",
         "width": 1920,
         "height": 1200,
         "kind": "photo",
@@ -11367,7 +11367,9 @@
         "credit": "Janson_G / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/plane-heron-isolated-flight-2775946/",
-        "vision_score": 8.0
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/b4edd46eb6ab43b0.jpg",
+        "orig_url": "https://pixabay.com/get/g247c524f7c3ee47f3e50396d2b36abe7e7161a646f8506b4636c58e67746499d13932f9982fea5c4091d618fefabb6fc5cf4fb1ae984ef2292c7a60869d74e5c_1280.png"
       },
       "inline_images": [],
       "sources": [
@@ -11444,12 +11446,12 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/vilag/2026-10-14-rekordkozeli-drontamadas-razta-meg-az-orosz-fovarost/",
+      "url": "/vilag/2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok/",
       "seo": {
-        "meta_title": "Rekordközeli dróntámadás rázta meg az orosz fővárost",
+        "meta_title": "Moszkvát vették célba az éjszakai dróncsapások",
         "meta_description": "Rekordközeli dróntámadás érte Moszkvát, miközben Kijevben egy hőerőművet és egy lakóházat is rakétatalálat ért. A fejlemények alapjaiban rajzolják át a háborús ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-rekordkozeli-drontamadas-razta-meg-az-orosz-fovarost/",
-        "og_image": "https://pixabay.com/get/g247c524f7c3ee47f3e50396d2b36abe7e7161a646f8506b4636c58e67746499d13932f9982fea5c4091d618fefabb6fc5cf4fb1ae984ef2292c7a60869d74e5c_1280.png",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/b4edd46eb6ab43b0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11474,9 +11476,9 @@
       "dedupe_hash": "0c2fc4db603eed19a2d65d6718597f8e5e8500d70d1c10e4246fd113de471ea0",
       "pipeline_run_id": "38605882028",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T19:44:38+02:00",
-      "updated_at": "2026-10-14T19:44:38+02:00",
-      "published_at": "2026-10-14T19:44:38+02:00",
+      "created_at": "2026-10-14T20:51:54+02:00",
+      "updated_at": "2026-10-14T20:51:54+02:00",
+      "published_at": "2026-10-14T20:51:54+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11489,9 +11491,9 @@
         "msg_ids": [],
         "control_id": 6051,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:51 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-14T20:51:41+02:00"
+      "live": true
     },
     {
       "id": "df6190e5-9d7d-531c-952c-dcc794a4014d",
