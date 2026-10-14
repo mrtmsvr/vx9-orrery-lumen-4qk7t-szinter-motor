@@ -3228,6 +3228,8 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
     recent_imgs = used_images(articles + pending)
     cands = []
     space_today = sum(1 for a in articles_all if a.get("date") == d.isoformat() and SPACE_STORY.search(a.get("title", "")))
+    wk = (d - timedelta(days=6)).isoformat()
+    space_week = sum(1 for a in articles_all if (a.get("date") or "") >= wk and SPACE_STORY.search(a.get("title", "")))
     for sid in wanted:
         today = sum(1 for a in articles_all if a.get("category") == sid and a.get("date") == d.isoformat())
         for group in pick_story(SECTIONS[sid], used_links, now, ai.cfg.http_timeout):
@@ -3242,8 +3244,9 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
             head = group[0]["title"] + " " + (group[0].get("summary") or "")[:200]
             if SPACE_IMG_STORY.search(head):
                 continue  # „új képek”-hír, a képek nélkül értelmetlen
-            if SPACE_STORY.search(group[0]["title"]) and space_today >= int(os.getenv("DAILY_MAX_SPACE", "1")):
-                continue  # űrkutatásból naponta legfeljebb 1 (túl volt tolva)
+            if SPACE_STORY.search(group[0]["title"]) and (space_today >= int(os.getenv("DAILY_MAX_SPACE", "1"))
+                                                          or space_week >= int(os.getenv("WEEKLY_MAX_SPACE", "2"))):
+                continue  # űrkutatás / NASA: naponta max. 1, hetente max. WEEKLY_MAX_SPACE (túl volt tolva)
             cands.append((group[0]["hot_score"], sid, group))
     cands.sort(key=lambda x: -x[0])
     made, per_section, made_public = 0, {}, 0
