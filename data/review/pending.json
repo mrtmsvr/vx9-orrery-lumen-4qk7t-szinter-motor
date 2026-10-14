@@ -11603,24 +11603,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-14T14:03:30+00:00",
-        "msg_ids": [
-          5991,
-          5992,
-          5993,
-          5994,
-          5995,
-          5996,
-          5997,
-          5998,
-          5999,
-          6002,
-          6025,
-          6026,
-          6027,
-          6042,
-          6043
-        ],
-        "control_id": 6044
+        "msg_ids": [],
+        "control_id": 6044,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
