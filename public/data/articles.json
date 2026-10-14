@@ -1,7 +1,152 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T13:22:32+02:00",
+  "updated_at": "2026-10-14T13:33:55+02:00",
   "articles": [
+    {
+      "id": "01403e83-673b-5560-80c7-f485d15e8c8a",
+      "slug": "2026-10-14-nem-mond-le-kapitany-istvan-es-magyar-peter-sem",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Kapitány István",
+        "kormány",
+        "Gazdasági és Energetikai Minisztérium"
+      ],
+      "title": "Nem mond le Kapitány István és Magyar Péter sem",
+      "subtitle": null,
+      "lead": "Határozottan cáfolta Magyar Péter miniszterelnök és Kapitány István gazdasági és energetikai miniszter, hogy le akarnának mondani posztjukról. A sajtóban korábban olyan értesülések jelentek meg, amelyek szerint Tótth András energetikai államtitkár keddi távozása után a miniszter is a távozást fontolgatta.",
+      "key_points": [
+        "Magyar Péter miniszterelnök visszautasította a lemondásáról szóló híreket.",
+        "Kapitány István gazdasági és energetikai miniszter szintén cáfolta a távozásáról szóló értesüléseket.",
+        "A minisztérium hivatalos közleményben is tisztázta, hogy a miniszter nem tervezi a lemondását."
+      ],
+      "content": "## Nincs szó miniszteri távozásról a Tisza-kormányban\n\nMagyar Péter miniszterelnök és Kapitány István gazdasági és energetikai miniszter egyaránt határozottan cáfolta a közösségi oldalakon és a sajtóban terjedő híreket, amelyek szerint bármelyikük is le akarna mondani. A HVG korábbi értesülései arra hivatkoztak, hogy Tótth András energetikai államtitkár keddi váratlan távozása után Kapitány saját elhatározásából szintén a lemondását lengette be. A kabinet vezetője és a tárcavezető azonban egyértelművé tette, hogy szó sincs ilyesmiről.\n\nA miniszterelnök közösségi oldalán kifejtette, hogy sem ő, sem a miniszter nem fontolgatja a távozását, miközben a gazdasági tárca szerda reggel hivatalos közleményben is cáfolta a pletykákat. Kapitány István szintén hangsúlyozta, hogy nem mondott le, és nem is tervezi, hozzátéve, hogy a magyar emberekért és az erősebb gazdaságért dolgozik.\n\nAz ügy előzményeként kedden este érkezett a hír Tótth András energetikai államtitkár váratlan távozásáról, aki személyes okokra hivatkozva nyújtotta be lemondását, amit Baka András köztársasági elnök a miniszterelnök javaslatára október 13-i hatállyal fogadott el. A tárca élén történt személyi változások és az azokat övező sajtóhírek nyomán alakult ki a mostani helyzet, amelyre a kormányfő és az érintett miniszter is gyorsan reagált.",
+      "content_format": "markdown",
+      "body": [
+        "## Nincs szó miniszteri távozásról a Tisza-kormányban",
+        "Magyar Péter miniszterelnök és Kapitány István gazdasági és energetikai miniszter egyaránt határozottan cáfolta a közösségi oldalakon és a sajtóban terjedő híreket, amelyek szerint bármelyikük is le akarna mondani. A HVG korábbi értesülései arra hivatkoztak, hogy Tótth András energetikai államtitkár keddi váratlan távozása után Kapitány saját elhatározásából szintén a lemondását lengette be. A kabinet vezetője és a tárcavezető azonban egyértelművé tette, hogy szó sincs ilyesmiről.",
+        "A miniszterelnök közösségi oldalán kifejtette, hogy sem ő, sem a miniszter nem fontolgatja a távozását, miközben a gazdasági tárca szerda reggel hivatalos közleményben is cáfolta a pletykákat. Kapitány István szintén hangsúlyozta, hogy nem mondott le, és nem is tervezi, hozzátéve, hogy a magyar emberekért és az erősebb gazdaságért dolgozik.",
+        "Az ügy előzményeként kedden este érkezett a hír Tótth András energetikai államtitkár váratlan távozásáról, aki személyes okokra hivatkozva nyújtotta be lemondását, amit Baka András köztársasági elnök a miniszterelnök javaslatára október 13-i hatállyal fogadott el. A tárca élén történt személyi változások és az azokat övező sajtóhírek nyomán alakult ki a mostani helyzet, amelyre a kormányfő és az érintett miniszter is gyorsan reagált."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 221,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg/1280px-A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 781,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "a Magyar Rádió stúdiója. Wiesinger István riporter, Mezey György labdarúgó szövetségi kapitány és Szepesi György MLSZ elnök.",
+        "credit": "FOTO:Fortepan — ID 56190: Adományozó/Donor: Rádió és Televízió Újság. / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter,_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261014/magyar-peter-nem-fontolgatom-a-lemondasom-es-kapitany-istvan-sem-869620",
+          "title": "Magyar Péter: nem fontolgatom a lemondásom, és Kapitány István sem",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T13:32:11+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kapitany-istvan-gazdasagi-miniszter-lemondas-ertesules?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Rendkívüli sajtóhír: Kapitány István le akart mondani a gazdasági minisztérium éléről, végül az első embere mondott fel - óriási a káosz a Tisza-kormányban",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T13:32:11+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kapitany-istvan-miniszter-lemondas-cafolat-hvg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Kapitány István megszólalt a személyéről szóló pletykákról: „egyetlen dologról mondtam le”",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T13:32:11+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/agrar/2026/10/unios-csucs-kemeny-kiallast-var-magyar-peter-magosz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Uniós csúcs: százmilliárd euró a tét, kemény kiállást várnak Magyar Péter miniszterelnöktől a gazdák – sok minden múlhat a miniszterelnök fellépésén",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T13:32:11+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nem mondtam le, és nem is fogok! Hiába terjeszti ezt a cáfolat ellenére is egy szebb napokat látott lap. Szolgálni jöttem, a magyar emberekért és egy erősebb gazdaságért dolgozom. Egyetlen dologról mondtam le: a fizetésemről",
+        "who": "Kapitány István gazdasági és energetikai miniszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:33:55+02:00"
+      },
+      "hot_score": 12.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261014/magyar-peter-nem-fontolgatom-a-lemondasom-es-kapitany-istvan-sem-869620",
+          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/kapitany-istvan-gazdasagi-miniszter-lemondas-ertesules?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kozelet/2026-10-14-nem-mond-le-kapitany-istvan-es-magyar-peter-sem/",
+      "seo": {
+        "meta_title": "Nem mond le Kapitány István és Magyar Péter sem",
+        "meta_description": "Határozottan cáfolta Magyar Péter miniszterelnök és Kapitány István gazdasági és energetikai miniszter, hogy le akarnának mondani posztjukról. A sajtóban korább",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-nem-mond-le-kapitany-istvan-es-magyar-peter-sem/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg/1280px-A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "1f861d94-7041-55b4-8dc9-d4812ae2c684",
+        "fbf7e3fb-0e17-5ba3-a788-1ffbfbeaf99a",
+        "5a623af9-67ca-515e-9d51-c58230341168"
+      ],
+      "see_also": [
+        {
+          "title": "Személyi változások az energetikai vezetésben: távozott Tótth András és Juhász Edit",
+          "url": "/kozelet/2026-10-14-szemelyi-valtozasok-az-energetikai-vezetesben-tavozott-totth-andras-e/",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Kapitány István szerint a rezsicsökkentés marad, az üzemanyagár viszont piaci alapú lesz",
+          "url": "/kozelet/2026-10-14-kapitany-istvan-szerint-a-rezsicsokkentes-marad-az-uzemanyagar-viszon/",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Újabb milliárdos Exim-ügyek miatt tett feljelentést Kapitány István",
+          "url": "/kozelet/2026-10-10-ujabb-milliardos-exim-ugyek-miatt-tett-feljelentest-kapitany-istvan/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": "6b4e396a-f118-5943-9ac3-4515b4b7b2b1",
+      "dedupe_hash": "041c6739500c31147a4d89a1666074edd36fba8ddc28f8096a0760e6b106572f",
+      "pipeline_run_id": "38557193788",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:33:55+02:00",
+      "updated_at": "2026-10-14T13:33:55+02:00",
+      "published_at": "2026-10-14T13:33:55+02:00",
+      "expires_at": null
+    },
     {
       "id": "6d9a4239-e357-5405-a33f-93e4bab4ea9c",
       "slug": "2026-10-14-ne-dobd-ki-a-regi-telefonod-inkabb-epits-belole-robotot",
