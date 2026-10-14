@@ -12614,14 +12614,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-14T10:18:02+00:00",
-        "msg_ids": [
-          5915,
-          5916,
-          5917,
-          5918
-        ],
-        "control_id": 5919
-      }
+        "msg_ids": [],
+        "control_id": 5919,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 14:42 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-14T14:42:07+02:00"
     }
   ]
 }
