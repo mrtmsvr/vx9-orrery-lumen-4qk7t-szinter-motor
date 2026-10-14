@@ -1,7 +1,112 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T20:11:35+02:00",
+  "updated_at": "2026-10-14T20:11:43+02:00",
   "articles": [
+    {
+      "id": "88c0a52d-b60c-5a9b-9550-612cfacf32ab",
+      "slug": "2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "forint",
+        "infláció",
+        "dollár",
+        "tőzsde",
+        "Richter"
+      ],
+      "title": "Háromhetes csúcsra ért a forint az amerikai inflációs adatok után",
+      "subtitle": null,
+      "lead": "Háromhetes csúcsra erősödött kedd este a forint az euróval szemben, ám a vártnál magasabb amerikai inflációs adatok azonnali turbulenciát okoztak a devizapiacon. A tengerentúli drágulási ütem gyorsulása nyomán a dollár hirtelen erősödésbe kezdett, ami a hazai fizetőeszköz árfolyamára is hatással volt.",
+      "key_points": [
+        "A forint háromhetes csúcsot ért el az euróval szemben kedd este.",
+        "A dollár árfolyama a tengerentúli adatok hatására 327 forint fölé emelkedett.",
+        "A budapesti tőzsde felülteljesít, a BUX index közel egyszázalékos pluszban áll."
+      ],
+      "content": "Kedd este háromhetes csúcsra erősödött a forint az euróval szemben, miután mérséklődött a globális kötvényekre nehezedő nyomás. A hazai fizetőeszköz stabil pozícióból várta a hét legfontosabb piacmozgató eseményét, a szeptemberi amerikai inflációs adatok közzétételét, amelyek azonban azonnali fordulatot idéztek elő a devizapiacokon.\n\nMindkét mutató meghaladta az elemzői várakozásokat, ami felerősítette a befektetők rövid távú kamatvárakozásait. A hírre a dollár erősödésbe kezdett: a dollár-forint árfolyam több mint két egységgel 327 forint fölé ugrott, miközben az euró jegyzése 364,4 forintot is elért.\n\nA hazai tőzsdén kedvezőbb a kép: a BUX index közel egyszázalékos pluszban teljesít a kereskedési idő második felében. A blue chipek közül kiemelkedik a Richter, amelynek árfolyama 2,5 százalékkal erősödött, miután az amerikai gyógyszerfelügyelet, az FDA befogadta a Fylrevy nevű készítmény törzskönyvezési kérelmét. Jóváhagyás esetén ez lesz az Egyesült Államok első E4-et tartalmazó menopauzális hormonterápiája.",
+      "content_format": "markdown",
+      "body": [
+        "Kedd este háromhetes csúcsra erősödött a forint az euróval szemben, miután mérséklődött a globális kötvényekre nehezedő nyomás. A hazai fizetőeszköz stabil pozícióból várta a hét legfontosabb piacmozgató eseményét, a szeptemberi amerikai inflációs adatok közzétételét, amelyek azonban azonnali fordulatot idéztek elő a devizapiacokon.",
+        "Mindkét mutató meghaladta az elemzői várakozásokat, ami felerősítette a befektetők rövid távú kamatvárakozásait. A hírre a dollár erősödésbe kezdett: a dollár-forint árfolyam több mint két egységgel 327 forint fölé ugrott, miközben az euró jegyzése 364,4 forintot is elért.",
+        "A hazai tőzsdén kedvezőbb a kép: a BUX index közel egyszázalékos pluszban teljesít a kereskedési idő második felében. A blue chipek közül kiemelkedik a Richter, amelynek árfolyama 2,5 százalékkal erősödött, miután az amerikai gyógyszerfelügyelet, az FDA befogadta a Fylrevy nevű készítmény törzskönyvezési kérelmét. Jóváhagyás esetén ez lesz az Egyesült Államok első E4-et tartalmazó menopauzális hormonterápiája."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 180,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/50_Forint_Comemmorative_Ambulance_Front.jpg/1280px-50_Forint_Comemmorative_Ambulance_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The coin was released on 2023 May 9 as a comemmoration of the establishment of the Hungarian Ambulance Services.",
+        "credit": "ByRussia45 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:50_Forint_Comemmorative_Ambulance_Front.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/deviza/20261014/megerkezett-a-het-legfontosabb-adata-meg-is-utottek-a-forintot-869466",
+          "title": "Megérkezett a hét legfontosabb adata, meg is ütötték a forintot",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:11+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/penz-es-tokepiac/2026/10/forint-euro-dollar-ardolyam-inflacio-richter-otp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Vágtat a forint, jó formában várja a hét legfontosabb adatát a hazai pénz – a Richter átvette a stafétát az OTP-től",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:11+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T20:11:43+02:00"
+      },
+      "hot_score": 6.67,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/deviza/20261014/megerkezett-a-het-legfontosabb-adata-meg-is-utottek-a-forintot-869466"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/penzvilag/2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan/",
+      "seo": {
+        "meta_title": "Háromhetes csúcsra ért a forint az amerikai inflációs adatok",
+        "meta_description": "Háromhetes csúcsra erősödött kedd este a forint az euróval szemben, ám a vártnál magasabb amerikai inflációs adatok azonnali turbulenciát okoztak a devizapiacon",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/50_Forint_Comemmorative_Ambulance_Front.jpg/1280px-50_Forint_Comemmorative_Ambulance_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "3839712dd6bb1b86c8690d81e89b1b93acbc2055e4196a9a4632c084ec81a7b2",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T20:11:43+02:00",
+      "updated_at": "2026-10-14T20:11:43+02:00",
+      "published_at": "2026-10-14T20:11:43+02:00",
+      "expires_at": null
+    },
     {
       "id": "b27a1704-48a6-524c-a991-7fb48e397dc9",
       "slug": "2026-10-14-sotetbe-borult-bonyhad-szazmillios-vitak-akasztottak-meg-a-kozvilagit",
