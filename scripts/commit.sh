@@ -7,6 +7,7 @@ set -u
 LABEL="${1:-Robot}"
 FLAG="data/deploy_pending"
 git add -A public/ data/ 2>/dev/null || true
+git add -A ads.txt index.html 2>/dev/null || true  # AdSense: a gyökérben
 
 site_changed=0
 if git diff --cached --name-only | grep -qv '^data/'; then site_changed=1; fi
