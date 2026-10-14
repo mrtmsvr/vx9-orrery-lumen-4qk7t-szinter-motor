@@ -11063,9 +11063,9 @@
       }
     },
     {
-      "id": "7973fd1f-4eae-51c4-a71b-fc574cb8124b",
-      "slug": "2026-10-14-ismert-gazdasagi-nyomozok-vehetik-at-a-vagyonvisszaszerzesi-hivatal-i",
-      "status": "pending",
+      "id": "bbe98c25-b348-54e5-bc90-98ab21602fdd",
+      "slug": "2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11075,7 +11075,7 @@
         "kinevezés",
         "belpolitika"
       ],
-      "title": "Ismert gazdasági nyomozók vehetik át a Vagyonvisszaszerzési Hivatal irányítását",
+      "title": "Gyakorlott gazdasági nyomozók érkezhetnek a Vagyonvisszaszerzési Hivatal élére",
       "subtitle": null,
       "lead": "Az Országgyűlés kedden dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettesének személyéről. A posztokra korábban a gyanú szerint súlyos gazdasági bűncselekményekkel, pénzmosással és uniós csalásokkal összefüggő ügyek felderítésében tapasztalatot szerzett nyomozókat jelöltek ki.",
       "key_points": [
@@ -11095,14 +11095,16 @@
       "word_count": 148,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/gcbc6f703d972a926be65eb97f4cb00414882811b99a3317422744bae57cfc88e38dbab5f5ef4871e34551fc76a70d0e2ee4bb88e385bacb6b6598342bab4af3f_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/7be13b6ed1f11ef4.jpg",
         "width": 2048,
         "height": 1542,
         "kind": "photo",
         "alt": "courtroom, benches, seats, law, justice, lighting, wood, wooden, inside, indoors, architecture, jury, trial, courtroom, courtroom, courtroom, courtroom, courtroom, law, law",
         "credit": "12019 / Pixabay",
         "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/"
+        "source_url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/7be13b6ed1f11ef4.jpg",
+        "orig_url": "https://pixabay.com/get/gcbc6f703d972a926be65eb97f4cb00414882811b99a3317422744bae57cfc88e38dbab5f5ef4871e34551fc76a70d0e2ee4bb88e385bacb6b6598342bab4af3f_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11193,12 +11195,12 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/kozelet/2026-10-14-ismert-gazdasagi-nyomozok-vehetik-at-a-vagyonvisszaszerzesi-hivatal-i/",
+      "url": "/kozelet/2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva/",
       "seo": {
-        "meta_title": "Ismert gazdasági nyomozók vehetik át a Vagyonvisszaszerzési ",
+        "meta_title": "Gyakorlott gazdasági nyomozók érkezhetnek a Vagyonvisszaszer",
         "meta_description": "Az Országgyűlés kedden dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettesének személyéről. A posztokra korábban súlyos gazdasági ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-ismert-gazdasagi-nyomozok-vehetik-at-a-vagyonvisszaszerzesi-hivatal-i/",
-        "og_image": "https://pixabay.com/get/gcbc6f703d972a926be65eb97f4cb00414882811b99a3317422744bae57cfc88e38dbab5f5ef4871e34551fc76a70d0e2ee4bb88e385bacb6b6598342bab4af3f_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/7be13b6ed1f11ef4.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11229,9 +11231,9 @@
       "dedupe_hash": "d1cc2d157a190a3a03268836f239baefa27af35692365e416a944b86a1aad1a5",
       "pipeline_run_id": "38541472194",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T11:27:11+02:00",
-      "updated_at": "2026-10-14T11:27:11+02:00",
-      "published_at": "2026-10-14T11:27:11+02:00",
+      "created_at": "2026-10-14T12:22:07+02:00",
+      "updated_at": "2026-10-14T12:22:07+02:00",
+      "published_at": "2026-10-14T12:22:07+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11247,15 +11249,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-14T09:27:41+00:00",
-        "msg_ids": [
-          5855,
-          5856,
-          5857,
-          5858,
-          5859
-        ],
-        "control_id": 5860
-      }
+        "msg_ids": [],
+        "control_id": 5860,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "d5808ae3-75ce-5dab-b87a-ad46d4b1a093",
