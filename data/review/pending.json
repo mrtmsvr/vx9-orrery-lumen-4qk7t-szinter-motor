@@ -10678,59 +10678,52 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 675,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "John Jumper, Google DeepMind",
-          "credit": "National Academies - Earth and Life Studies / Wikimedia Commons",
-          "license": "CC BY 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:John_M_Jumper_Google_DeepMind_(14_Sep_2024)_-_img_03.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/David_Sharon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 1500,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "David Sharon, Group Product Manager at Google DeepMind, Gemini App Multimodal Generation.",
-          "credit": "David Sharon / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:David_Sharon_2026.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg/1280px-Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Demis_Hassabis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 800,
           "kind": "photo",
           "pos": "center",
-          "alt": "On 21 January 2025, Valdis Dombrovskis, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification received Barna Tánczos, Romanian Deputy Prim",
-          "credit": "European Union / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Visit_of_Barna_T%C3%A1nczos,_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance,_to_the_European_Commission.jpg"
+          "alt": "Demis Hassabis is a prominent figure in the field of artificial intelligence research. He has made significant contributions to the development of advanced AI systems. He delivered a conference about",
+          "credit": "Alain Herzog / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Demis_Hassabis.jpg",
+          "vision_score": 10.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Demis_Hassabis_at_2024_Nobel_Week_3.jpg/1280px-Demis_Hassabis_at_2024_Nobel_Week_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 670,
+          "height": 800,
           "kind": "photo",
           "pos": "center",
-          "alt": "Belgium - Brussels - Schuman - Berlaymont - Seat of the European Commission",
-          "credit": "EmDee / Wikimedia Commons",
+          "alt": "Demis Hassabis at the 2024 Nobel Prize press conference at Royal Swedish Academy of Sciences",
+          "credit": "Jennifer 8. Lee / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg"
+          "source_url": "https://commons.wikimedia.org/wiki/File:Demis_Hassabis_at_2024_Nobel_Week_3.jpg",
+          "vision_score": 10.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Google_DeepMind_logo.png/1280px-Google_DeepMind_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 751,
+          "height": 259,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "The logo of DeepMind Technologies Limited as used on their website as of 2023.",
+          "credit": "DeepMind Technologies Limited (Alphabet, Inc.). / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Google_DeepMind_logo.png",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg/1280px-European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
           "kind": "photo",
           "pos": "center",
-          "alt": "Categorize algorithms based on their use in relation to human activities.",
-          "credit": "Cyrilht / Wikimedia Commons",
+          "alt": "European Commission headquarters located in the Berlaymont building in the European quarters in Brussels, Belgium.\nEuropean Commission is the executive branch of the European Union (EU).",
+          "credit": "Ank Kumar / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png"
+          "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_headquarters,_The_Berlaymont_Building,_Brussels,_Belgium_(_Ank_Kumar,_Infosys_Limited_).jpg",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -10790,10 +10783,32 @@
           5963,
           5964,
           5965,
-          5966
+          5966,
+          6031,
+          6032,
+          6033,
+          6034
         ],
-        "control_id": 5967
-      }
+        "control_id": 6035
+      },
+      "image_queries": [
+        "Google DeepMind",
+        "European Commission",
+        "Google Cloud",
+        "Demis Hassabis",
+        "Dublin summit",
+        "RAISE program",
+        "scientists in a laboratory",
+        "cloud computing data center",
+        "AI research conference"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg/1280px-Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/David_Sharon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "88c0a52d-b60c-5a9b-9550-612cfacf32ab",
