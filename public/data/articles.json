@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T08:17:55+02:00",
+  "updated_at": "2026-10-14T08:38:18+02:00",
   "articles": [
+    {
+      "id": "2b18a566-64aa-5220-9e7b-5354e0c3029f",
+      "slug": "2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi",
+      "status": "published",
+      "category": "tech",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "adattörlés",
+        "kiberbiztonság",
+        "merevlemez",
+        "titkosítás",
+        "adatvédelem"
+      ],
+      "title": "A digitális szemetes illúziója: miért nem törlődik semmi?",
+      "subtitle": null,
+      "lead": "Amikor rákattintasz a törlés gombra, majd kiüríted a Lomtárat, az adataid a gyanú szerint valójában a helyükön maradnak. A modern adattárolók működési elve miatt a látszólag eltüntetett dokumentumok és képek meglepően könnyen előáshatók, hacsak nem teszel ellene tudatos lépéseket.",
+      "key_points": [
+        "A törlés gomb megnyomásakor a rendszer csupán a fájlra mutató hivatkozást radírozza le a tartalomjegyzékből, magukat a biteket nem.",
+        "A hagyományos merevlemezeken az adatok a gyanú szerint mindaddig épek maradnak, amíg más információt nem írsz a megüresedettnek jelölt szektorokba.",
+        "A modern okostelefonok hardveres titkosítást használnak, így a gyári visszaállítás a titkosítási kulcs megsemmisítésével teszi olvashatatlanná a fájlokat.",
+        "A merevlemezes számítógépek eladása előtt külön szoftveres felülírásra vagy a meghajtó teljes titkosítására van szükség a személyes adatok védelmében."
+      ],
+      "content": "## A könyvtári katalógus trükkje: mit csinál a törlés gomb?\n\nKattintás a fájlra, jobb gomb, törlés, majd a Lomtár kiürítése: a gyanú szerint a dokumentum vagy fénykép pillanatok alatt köddé válik, a szabad tárhely mérete megnő. A legtöbb felhasználó ekkor megnyugszik, bízva abban, hogy a kényes szerződés, a személyi igazolvány fotója vagy a régi banki kivonat örökre eltűnt a gépéről. A valóságban azonban az operációs rendszer egyetlen bájtot sem tüntet el ilyenkor a háttértárról.\n\nA folyamat megértéséhez érdemes egy hatalmas könyvtárra gondolni. A merevlemez vagy flash tároló maga az épület, a fájlrendszer pedig a könyvtári kartotékkatalógus, amely pontosan nyilvántartja, hogy melyik polcon, melyik dobozban található az adott kötet. Amikor a gépen a törlés gombra nyomsz, az operációs rendszer nem szalad be a raktárba elégetni a könyvet: egyszerűen kihúzza a kartotéklapot a fiókból, a kötet fizikai helyét pedig „felhasználhatóként” jelöli meg. A könyv továbbra is ott porosodik a polcon, betűről betűre olvasható állapotban. Csupán a közvetlen elérési útja veszett el a nyilvántartásból, így a mindennapi böngészés során már láthatatlanná válik számodra.\n\nAz adatmentő szoftverek pontosan erre a működésre építenek. Nem tesznek mást, mint közvetlenül végigpásztázzák a meghajtó fizikai szektorait, felismerik az ismert fájlformátumok digitális fejlécét és lezárását, majd újraalkotják a hiányzó hivatkozásokat. Egyetlen másodperc alatt lefutó egyszerű törlés után a dokumentumok a gyanú szerint akár száz százalékukban visszanyerhetők maradnak mindaddig, amíg a gép új adatokat nem ír a felszabadított területre.\n\n## HDD, SSD és okostelefon: mi a különbség?\n\nA törölt fájlok sorsa jelentősen eltér attól függően, milyen fizikai eszközön dolgozol. A régebbi, forgó mágneslemezes meghajtók (HDD-k) mechanikus író-olvasó feje pontosan ott hagyja a mágneses nyomokat, ahol voltak. Ha egy 1 terabájtos merevlemezen törölsz egy videót, de a lemezre hetekig nem másolsz új adatot, a fájl a gyanú szerint tökéletes épségben megmarad. A bitek felülírása ugyanis idő- és energiaigényes művelet lenne, a rendszerek pedig a gyorsaságra törekednek: felesleges energiát pazarolni a nullák beírására, amíg nincs új mentendő tartalom.\n\nA félvezető-alapú szilárdtest-meghajtók (SSD-k) és a memóriakártyák világa másként működik. A flash memóriák fizikai felépítésükből adódóan nem képesek meglévő adatot azonnal felülírni: először egy teljes memóriablokkot törölni kell egy elektromos impulzussal, és csak ezután lehet új adatot bevinni. Ennek megkönnyítésére fejlesztették ki a TRIM parancsot. Amikor az SSD-n törölsz egy fájlt, a rendszer szól a meghajtó saját vezérlőjének, hogy az adott cellák tartalma már felesleges. A háttértár a háttérben, nyugalmi időben nullázza ki ezeket a blokkokat. SSD esetén tehát a hagyományos adatvisszaállítás sokkal nehezebb, gyakran órákon belül lehetetlenné válik.\n\nA modern okostelefonok még ennél is tovább mennek. Az Android és iOS rendszerek ma már alapértelmezetten hardveresen titkosítják a belső tárhely teljes tartalmát. A fájlok titkosított formában pihennek a memóriachipen, a feloldásukhoz szükséges kulcsot pedig a telefon biztonsági processzora őrzi. Amikor törölsz valamit, az operációs rendszer a vonatkozó dekódoló kulcsot semmisíti meg: a fizikai bitek ugyan még ott lehetnek a memóriában, de megfelelő kulcs nélkül csupán értelmezhetetlen zajt jelentenek.\n\n## Amikor a törölt adat fegyverré válik\n\nA hátrahagyott, félig törölt adatok a gyanú szerint súlyos biztonsági kockázatot hordoznak, különösen használt eszközök értékesítésekor. Biztonsági elemzések újra és újra igazolják: az online piactereken eladott használt merevlemezek, laptopok és memóriakártyák jelentős részéről laza mozdulattal, ingyenes programokkal bányászhatók elő a korábbi tulajdonosok adóbevallásai, jelszavai, családi fotói vagy céges levelezései.\n\nEz a sérülékenység közvetlenül összefügg a digitális visszaélések fejlődésével. Míg az 1980-as és 1990-es években a kiberbűnözés nagyrészt kisebb károkat okozó vírusok és férgek terjesztésében merült ki, a 21. században a fókusz átkerült a célzott támadásokra és a pénzügyi csalásokra. A számítástechnikai eszközök segítségével elkövetett csalások ma már a magánszemélyek banki adatait és személyazonosságát célozzák. Ha egy eladott merevlemezről illetéktelen kezekbe kerülnek régi azonosítók vagy céges adatok, az közvetlen anyagi kárt és jogi következményeket vonhat maga után.\n\nNem véletlen, hogy az adatok integritásának és titkosságának védelme évtizedek óta nemzetközi szabályozás tárgya. Az Európa Tanács által elfogadott, 2001. november 23-i Budapesti Számítástechnikai Bűnözésről Szóló Egyezmény volt az első olyan átfogó nemzetközi keretmegállapodás, amely kifejezetten a számítógépes adatok védelmét, a jogosulatlan behatolást és az informatikai rendszerekben tárolt adatok megsértését büntetendő cselekményként rögzítette. Az egyezmény – amely 2004-ben lépett hatályba, és Magyarország az elsők között ratifikálta – alapelvként fekteti le, hogy a rendszereken tárolt adatokhoz fűződő hozzáférés védelme alapvető biztonsági kérdés.\n\n## Hogyan törölj valóban véglegesen eladás előtt?\n\nHa megválsz egy régi laptopodtól, asztali gépedtől vagy mobilodtól, nem engedheted meg magadnak azt a luxust, hogy csupán a felületen takaríts. A végleges megsemmisítéshez eltérő módszert kell választanod a technológia típusától függően.\n\n- Mágneses merevlemezeknél (HDD): A sima formázás nem elegendő, az ugyanis a gyors törléshez hasonlóan csupán a fájlrendszer indexét írja felül. Olyan szoftveres megoldást kell alkalmazni, amely véletlenszerű adatokkal vagy nullákkal írja felül a teljes lemezfelületet. Egyetlen teljes felülírási ciklus elegendő ahhoz, hogy a korábbi mágneses mintázat még laboratóriumi eszközökkel se legyen rekonstruálható.\n- Szilárdtest-meghajtóknál (SSD): Az SSD-ket tilos hagyományos felülíró programokkal terhelni, ez ugyanis feleslegesen koptatja a memóriacellákat, a vezérlő ráadásul elrejthet bizonyos szektorokat a felülírás elől. Ehelyett a gyártó saját segédprogramjában található ATA Secure Erase parancsot érdemes futtatni, amely egyetlen feszültséglökéssel alaphelyzetbe állítja a flash cellákat.\n- Okostelefonoknál: A modern telefonoknál a gyári beállítások visszaállítása (Factory Reset) a legbiztonságosabb út. Mivel az eszközök titkosítottak, a folyamat végleg törli a főkulcsot, és véletlenszerű kulcsot generál a helyére. Régebbi androidos modelleknél érdemes a gyári visszaállítás előtt manuálisan bekapcsolni a teljes titkosítást a beállításokban, majd csak ezt követően elindítani a törlést.\n\nA digitális világban semmi sem vész el magától: ami egyszer rákerült a lemezre, az ott is marad, amíg tudatosan felül nem írod vagy kriptográfiailag hozzáférhetetlenné nem teszed. Egy használtan eladott eszköz esetén a pár perces extra felkészülés a különbség a tiszta lelkiismeret és a kiszivárgott magánélet között.",
+      "content_format": "markdown",
+      "body": [
+        "## A könyvtári katalógus trükkje: mit csinál a törlés gomb?",
+        "Kattintás a fájlra, jobb gomb, törlés, majd a Lomtár kiürítése: a gyanú szerint a dokumentum vagy fénykép pillanatok alatt köddé válik, a szabad tárhely mérete megnő. A legtöbb felhasználó ekkor megnyugszik, bízva abban, hogy a kényes szerződés, a személyi igazolvány fotója vagy a régi banki kivonat örökre eltűnt a gépéről. A valóságban azonban az operációs rendszer egyetlen bájtot sem tüntet el ilyenkor a háttértárról.\n\nA folyamat megértéséhez érdemes egy hatalmas könyvtárra gondolni. A merevlemez vagy flash tároló maga az épület, a fájlrendszer pedig a könyvtári kartotékkatalógus, amely pontosan nyilvántartja, hogy melyik polcon, melyik dobozban található az adott kötet. Amikor a gépen a törlés gombra nyomsz, az operációs rendszer nem szalad be a raktárba elégetni a könyvet: egyszerűen kihúzza a kartotéklapot a fiókból, a kötet fizikai helyét pedig „felhasználhatóként” jelöli meg. A könyv továbbra is ott porosodik a polcon, betűről betűre olvasható állapotban. Csupán a közvetlen elérési útja veszett el a nyilvántartásból, így a mindennapi böngészés során már láthatatlanná válik számodra.",
+        "Az adatmentő szoftverek pontosan erre a működésre építenek. Nem tesznek mást, mint közvetlenül végigpásztázzák a meghajtó fizikai szektorait, felismerik az ismert fájlformátumok digitális fejlécét és lezárását, majd újraalkotják a hiányzó hivatkozásokat. Egyetlen másodperc alatt lefutó egyszerű törlés után a dokumentumok a gyanú szerint akár száz százalékukban visszanyerhetők maradnak mindaddig, amíg a gép új adatokat nem ír a felszabadított területre.",
+        "## HDD, SSD és okostelefon: mi a különbség?",
+        "A törölt fájlok sorsa jelentősen eltér attól függően, milyen fizikai eszközön dolgozol. A régebbi, forgó mágneslemezes meghajtók (HDD-k) mechanikus író-olvasó feje pontosan ott hagyja a mágneses nyomokat, ahol voltak. Ha egy 1 terabájtos merevlemezen törölsz egy videót, de a lemezre hetekig nem másolsz új adatot, a fájl a gyanú szerint tökéletes épségben megmarad. A bitek felülírása ugyanis idő- és energiaigényes művelet lenne, a rendszerek pedig a gyorsaságra törekednek: felesleges energiát pazarolni a nullák beírására, amíg nincs új mentendő tartalom.",
+        "A félvezető-alapú szilárdtest-meghajtók (SSD-k) és a memóriakártyák világa másként működik. A flash memóriák fizikai felépítésükből adódóan nem képesek meglévő adatot azonnal felülírni: először egy teljes memóriablokkot törölni kell egy elektromos impulzussal, és csak ezután lehet új adatot bevinni. Ennek megkönnyítésére fejlesztették ki a TRIM parancsot. Amikor az SSD-n törölsz egy fájlt, a rendszer szól a meghajtó saját vezérlőjének, hogy az adott cellák tartalma már felesleges. A háttértár a háttérben, nyugalmi időben nullázza ki ezeket a blokkokat. SSD esetén tehát a hagyományos adatvisszaállítás sokkal nehezebb, gyakran órákon belül lehetetlenné válik.",
+        "A modern okostelefonok még ennél is tovább mennek. Az Android és iOS rendszerek ma már alapértelmezetten hardveresen titkosítják a belső tárhely teljes tartalmát. A fájlok titkosított formában pihennek a memóriachipen, a feloldásukhoz szükséges kulcsot pedig a telefon biztonsági processzora őrzi. Amikor törölsz valamit, az operációs rendszer a vonatkozó dekódoló kulcsot semmisíti meg: a fizikai bitek ugyan még ott lehetnek a memóriában, de megfelelő kulcs nélkül csupán értelmezhetetlen zajt jelentenek.",
+        "## Amikor a törölt adat fegyverré válik",
+        "A hátrahagyott, félig törölt adatok a gyanú szerint súlyos biztonsági kockázatot hordoznak, különösen használt eszközök értékesítésekor. Biztonsági elemzések újra és újra igazolják: az online piactereken eladott használt merevlemezek, laptopok és memóriakártyák jelentős részéről laza mozdulattal, ingyenes programokkal bányászhatók elő a korábbi tulajdonosok adóbevallásai, jelszavai, családi fotói vagy céges levelezései.",
+        "Ez a sérülékenység közvetlenül összefügg a digitális visszaélések fejlődésével. Míg az 1980-as és 1990-es években a kiberbűnözés nagyrészt kisebb károkat okozó vírusok és férgek terjesztésében merült ki, a 21. században a fókusz átkerült a célzott támadásokra és a pénzügyi csalásokra. A számítástechnikai eszközök segítségével elkövetett csalások ma már a magánszemélyek banki adatait és személyazonosságát célozzák. Ha egy eladott merevlemezről illetéktelen kezekbe kerülnek régi azonosítók vagy céges adatok, az közvetlen anyagi kárt és jogi következményeket vonhat maga után.",
+        "Nem véletlen, hogy az adatok integritásának és titkosságának védelme évtizedek óta nemzetközi szabályozás tárgya. Az Európa Tanács által elfogadott, 2001. november 23-i Budapesti Számítástechnikai Bűnözésről Szóló Egyezmény volt az első olyan átfogó nemzetközi keretmegállapodás, amely kifejezetten a számítógépes adatok védelmét, a jogosulatlan behatolást és az informatikai rendszerekben tárolt adatok megsértését büntetendő cselekményként rögzítette. Az egyezmény – amely 2004-ben lépett hatályba, és Magyarország az elsők között ratifikálta – alapelvként fekteti le, hogy a rendszereken tárolt adatokhoz fűződő hozzáférés védelme alapvető biztonsági kérdés.",
+        "## Hogyan törölj valóban véglegesen eladás előtt?",
+        "Ha megválsz egy régi laptopodtól, asztali gépedtől vagy mobilodtól, nem engedheted meg magadnak azt a luxust, hogy csupán a felületen takaríts. A végleges megsemmisítéshez eltérő módszert kell választanod a technológia típusától függően.",
+        "- Mágneses merevlemezeknél (HDD): A sima formázás nem elegendő, az ugyanis a gyors törléshez hasonlóan csupán a fájlrendszer indexét írja felül. Olyan szoftveres megoldást kell alkalmazni, amely véletlenszerű adatokkal vagy nullákkal írja felül a teljes lemezfelületet. Egyetlen teljes felülírási ciklus elegendő ahhoz, hogy a korábbi mágneses mintázat még laboratóriumi eszközökkel se legyen rekonstruálható.\n- Szilárdtest-meghajtóknál (SSD): Az SSD-ket tilos hagyományos felülíró programokkal terhelni, ez ugyanis feleslegesen koptatja a memóriacellákat, a vezérlő ráadásul elrejthet bizonyos szektorokat a felülírás elől. Ehelyett a gyártó saját segédprogramjában található ATA Secure Erase parancsot érdemes futtatni, amely egyetlen feszültséglökéssel alaphelyzetbe állítja a flash cellákat.\n- Okostelefonoknál: A modern telefonoknál a gyári beállítások visszaállítása (Factory Reset) a legbiztonságosabb út. Mivel az eszközök titkosítottak, a folyamat végleg törli a főkulcsot, és véletlenszerű kulcsot generál a helyére. Régebbi androidos modelleknél érdemes a gyári visszaállítás előtt manuálisan bekapcsolni a teljes titkosítást a beállításokban, majd csak ezt követően elindítani a törlést.",
+        "A digitális világban semmi sem vész el magától: ami egyszer rákerült a lemezre, az ott is marad, amíg tudatosan felül nem írod vagy kriptográfiailag hozzáférhetetlenné nem teszed. Egy használtan eladott eszköz esetén a pár perces extra felkészülés a különbség a tiszta lelkiismeret és a kiszivárgott magánélet között."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 5,
+      "word_count": 953,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hard_disk_head_crash.jpg/1280px-Hard_disk_head_crash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Head crash in a new model hard disk.",
+        "credit": "Alchemist-hp (talk) www.pse-mendelejew.de / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hard_disk_head_crash.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hard-drive-after-head-crash-seagate.jpg/1280px-Hard-drive-after-head-crash-seagate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1391,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Hard drive after head-crash with media damage on the platters.\nFestplatte nach einem Head-Crash, Datenoberfläche schwer beschädigt.",
+          "credit": "Mschau, (Webseite: 030 Datenrettung) / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hard-drive-after-head-crash-seagate.jpg",
+          "after": 1,
+          "caption": "A merevlemezek író-olvasó feje nem törli le a mágneses nyomokat azonnal: a fájlok a helyükön maradnak az újbóli felülírásig."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hu.wikipedia.org/wiki/Kiberb%C5%B1n%C3%B6z%C3%A9s",
+          "title": "Kiberbűnözés",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-14T07:16:21+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T08:38:18+02:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": false,
+      "category_meta": {
+        "source_links": [
+          "https://hu.wikipedia.org/wiki/Kiberb%C5%B1n%C3%B6z%C3%A9s"
+        ],
+        "offtopic_id": "torolt-fajlok"
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi/",
+      "seo": {
+        "meta_title": "A digitális szemetes illúziója: miért nem törlődik semmi?",
+        "meta_description": "Amikor rákattintasz a törlés gombra, majd kiüríted a Lomtárat, az adataid valójában a helyükön maradnak. A modern adattárolók működési elve miatt a látszólag el",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hard_disk_head_crash.jpg/1280px-Hard_disk_head_crash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "9c74877cffb393e07c1e3c52f8df273bb0167f4d08b7e2c14aad5fa600fa5ef3",
+      "pipeline_run_id": "38515561332",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T08:38:18+02:00",
+      "updated_at": "2026-10-14T08:38:18+02:00",
+      "published_at": "2026-10-14T08:38:18+02:00",
+      "expires_at": null
+    },
     {
       "id": "1f861d94-7041-55b4-8dc9-d4812ae2c684",
       "slug": "2026-10-14-szemelyi-valtozasok-az-energetikai-vezetesben-tavozott-totth-andras-e",

@@ -10766,9 +10766,9 @@
       "live": true
     },
     {
-      "id": "38d0be02-2ff0-5f1a-8784-97a9459d2e8e",
-      "slug": "2026-10-14-hova-tunik-a-torolt-fajl-sehova",
-      "status": "pending",
+      "id": "2b18a566-64aa-5220-9e7b-5354e0c3029f",
+      "slug": "2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi",
+      "status": "published",
       "category": "tech",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -10778,7 +10778,7 @@
         "titkosítás",
         "adatvédelem"
       ],
-      "title": "Hová tűnik a törölt fájl? Sehová",
+      "title": "A digitális szemetes illúziója: miért nem törlődik semmi?",
       "subtitle": null,
       "lead": "Amikor rákattintasz a törlés gombra, majd kiüríted a Lomtárat, az adataid a gyanú szerint valójában a helyükön maradnak. A modern adattárolók működési elve miatt a látszólag eltüntetett dokumentumok és képek meglepően könnyen előáshatók, hacsak nem teszel ellene tudatos lépéseket.",
       "key_points": [
@@ -10961,11 +10961,11 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/tech/2026-10-14-hova-tunik-a-torolt-fajl-sehova/",
+      "url": "/tech/2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi/",
       "seo": {
-        "meta_title": "Hová tűnik a törölt fájl? Sehová",
+        "meta_title": "A digitális szemetes illúziója: miért nem törlődik semmi?",
         "meta_description": "Amikor rákattintasz a törlés gombra, majd kiüríted a Lomtárat, az adataid valójában a helyükön maradnak. A modern adattárolók működési elve miatt a látszólag el",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-hova-tunik-a-torolt-fajl-sehova/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-a-digitalis-szemetes-illuzioja-miert-nem-torlodik-semmi/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Hard_disk_head_crash.jpg/1280px-Hard_disk_head_crash.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "Article"
@@ -10981,9 +10981,9 @@
       "dedupe_hash": "9c74877cffb393e07c1e3c52f8df273bb0167f4d08b7e2c14aad5fa600fa5ef3",
       "pipeline_run_id": "38515561332",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T07:16:21+02:00",
-      "updated_at": "2026-10-14T07:16:21+02:00",
-      "published_at": null,
+      "created_at": "2026-10-14T08:38:18+02:00",
+      "updated_at": "2026-10-14T08:38:18+02:00",
+      "published_at": "2026-10-14T08:38:18+02:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-14T09:14:43+02:00",
@@ -11004,9 +11004,9 @@
         "msg_ids": [],
         "control_id": 5809,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:37 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-14T08:37:55+02:00"
+      "live": true
     },
     {
       "id": "9ededc3d-433a-5bfc-8c5d-31b3e7f36497",
