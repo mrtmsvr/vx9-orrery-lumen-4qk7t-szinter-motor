@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-11T12:13:08+02:00",
+  "updated_at": "2026-10-14T10:31:39+02:00",
   "polls": [
+    {
+      "id": "fdf08cde4da8",
+      "date": "2026-10-14",
+      "question": "Helyeseli-e, hogy a kormány kivonul az üzemanyag-árak szabályozásából?",
+      "options": [
+        "Igen, ez tehermentesíti a költségvetést.",
+        "Nem, ez túl nagy áremelkedést okoz.",
+        "Nem tudom / nincs véleményem."
+      ],
+      "article_url": "/kozelet/2026-10-14-kapitany-istvan-szerint-a-rezsicsokkentes-marad-az-uzemanyagar-viszon/",
+      "article_title": "Kapitány István szerint a rezsicsökkentés marad, az üzemanyagár viszont piaci alapú lesz",
+      "category": "kozelet",
+      "created_at": "2026-10-14T10:31:39+02:00",
+      "closes_at": "2026-10-21T10:31:39+02:00"
+    },
     {
       "id": "3971fd743209",
       "date": "2026-10-11",
