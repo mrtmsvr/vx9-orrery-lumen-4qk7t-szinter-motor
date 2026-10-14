@@ -10710,7 +10710,7 @@
     {
       "id": "1f861d94-7041-55b4-8dc9-d4812ae2c684",
       "slug": "2026-10-14-szemelyi-valtozasok-az-energetikai-vezetesben-tavozott-totth-andras-e",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10744,13 +10744,13 @@
       "word_count": 241,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791953230-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1791953230-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791953237-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1791953237-1.jpg",
         "kind": "photo",
         "alt": "Váratlan távozások rázták meg a Tisza-kormány energetikai tárcáját",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
         "generated": true
       },
@@ -10858,7 +10858,7 @@
         "meta_title": "Személyi változások az energetikai vezetésben: távozott Tótt",
         "meta_description": "Váratlan személyi változások történtek a magyar energetikai vezetésben, miután kedd este személyes okokra hivatkozva benyújtotta lemondását Tótth András energet",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-szemelyi-valtozasok-az-energetikai-vezetesben-tavozott-totth-andras-e/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791953230-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791953237-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10895,9 +10895,9 @@
       "dedupe_hash": "77ec101ac429e8340e2cea0f991b793ce06fde5aa7c00856e4bfe759a831158c",
       "pipeline_run_id": "38513079033",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T06:46:26+02:00",
-      "updated_at": "2026-10-14T06:46:26+02:00",
-      "published_at": "2026-10-14T06:46:26+02:00",
+      "created_at": "2026-10-14T08:17:55+02:00",
+      "updated_at": "2026-10-14T08:17:55+02:00",
+      "published_at": "2026-10-14T08:17:55+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10907,13 +10907,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-14T04:47:23+00:00",
-        "msg_ids": [
-          5796,
-          5797,
-          5798
-        ],
-        "control_id": 5799
-      }
+        "msg_ids": [],
+        "control_id": 5799,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "38d0be02-2ff0-5f1a-8784-97a9459d2e8e",
