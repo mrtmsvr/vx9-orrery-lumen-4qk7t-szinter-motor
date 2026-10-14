@@ -1,7 +1,124 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:46:22+02:00",
+  "updated_at": "2026-10-14T19:51:58+02:00",
   "articles": [
+    {
+      "id": "2da9c2df-1eb6-5788-84de-1cc60b97c3fe",
+      "slug": "2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Starlink",
+        "Elon Musk",
+        "Ukrajna",
+        "dróncsapás",
+        "Egyesült Államok"
+      ],
+      "title": "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
+      "subtitle": null,
+      "lead": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-szolgáltatásokra. A technológiai akadályok nehezítik az orosz logisztikai és energetikai rendszerek elleni nagy hatótávolságú csapások irányítását.",
+      "key_points": [
+        "A SpaceX korlátozásokat vezethetett be egyes ukrajnai Starlink-szolgáltatásokra.",
+        "A technológia korlátozása miatt ukrán alakulatoknak kellett bevetéseket lemondaniuk.",
+        "Az amerikai adminisztráció közben nyomást gyakorol Kijevre az orosz energetikai célpontok támadásának leállításáért."
+      ],
+      "content": "Ukrán katonai egységeknek kellett bevetéseket elhalasztaniuk azután, hogy a SpaceX megváltoztathatta a Starlink-terminálok elérhetőségét. A műholdas internetterminálok alapvető fontosságúak Ukrajna navigációs, kommunikációs és vezetésirányítási rendszerei számára, különösen a megszállt déli és keleti területeken végrehajtott, nagy hatótávolságú dróncsapások irányításában.\n\nA SpaceX a hírek szerint leállította a katonai minőségű változat üzemeltetését 100 mérföld per óra feletti sebességnél, és a megfigyelések alapján a kapcsolat akár 10–20 másodpercre is megszakadhatott repülés közben.\n\nA háttérben komoly diplomáciai feszültségek húzódnak, mivel a dízelhiánnyal küzdő Egyesült Államok adminisztrációja korábban is nyomást gyakorolt Kijevre, hogy fejezzék be az orosz energetikai infrastruktúra és olajfinomítók támadását. Az amerikai kormányzat a szankciók ideiglenes feloldásáról is tárgyalt Moszkvával az üzemanyagellátás biztosítása érdekében, ami Volodimir Zelenszkij ukrán elnök szerint a háború elhúzását segíti.\n\nA frontvonalon korábban mindkét fél használta a technológiát: az orosz agresszor katonái is szereltek Starlink-terminált az öngyilkos drónokra, ám az év eleji módosítások óta ez a megoldás jelentősen megnehezebbült az oroszok számára, miközben Kijev is újabb technikai akadályokkal szembesült.",
+      "content_format": "markdown",
+      "body": [
+        "Ukrán katonai egységeknek kellett bevetéseket elhalasztaniuk azután, hogy a SpaceX megváltoztathatta a Starlink-terminálok elérhetőségét. A műholdas internetterminálok alapvető fontosságúak Ukrajna navigációs, kommunikációs és vezetésirányítási rendszerei számára, különösen a megszállt déli és keleti területeken végrehajtott, nagy hatótávolságú dróncsapások irányításában.",
+        "A SpaceX a hírek szerint leállította a katonai minőségű változat üzemeltetését 100 mérföld per óra feletti sebességnél, és a megfigyelések alapján a kapcsolat akár 10–20 másodpercre is megszakadhatott repülés közben.",
+        "A háttérben komoly diplomáciai feszültségek húzódnak, mivel a dízelhiánnyal küzdő Egyesült Államok adminisztrációja korábban is nyomást gyakorolt Kijevre, hogy fejezzék be az orosz energetikai infrastruktúra és olajfinomítók támadását. Az amerikai kormányzat a szankciók ideiglenes feloldásáról is tárgyalt Moszkvával az üzemanyagellátás biztosítása érdekében, ami Volodimir Zelenszkij ukrán elnök szerint a háború elhúzását segíti.",
+        "A frontvonalon korábban mindkét fél használta a technológiát: az orosz agresszor katonái is szereltek Starlink-terminált az öngyilkos drónokra, ám az év eleji módosítások óta ez a megoldás jelentősen megnehezebbült az oroszok számára, miközben Kijev is újabb technikai akadályokkal szembesült."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1280px-CRS-20_Dragon%E2%80%93Enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "SpaceX CRS-20 mission. The SpaceX Dragon resupply ship is pictured approaching the International Space Station as both spacecraft were soaring 267 miles above the African nation of Namibia.",
+        "credit": "Original:  NASA Johnson Space Center\nDerivative work:  Nythar / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:CRS-20_Dragon%E2%80%93Enhanced.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261014_kijev-szerint-elon-musk-lecsavarhatta-a-starlinket-ukrajnaban",
+          "title": "Ukrán bevetéseket kellett elhalasztani, mert Elon Musk lecsavarhatta a Starlinket",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:17+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Védelmi erőink nem kaptak figyelmeztetést erről a korlátozásról, ami több küldetés megszakításához vezetett",
+        "who": "Szerhij Beskrestnov elnöki tanácsadó",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T19:51:58+02:00"
+      },
+      "hot_score": 5.39,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261014_kijev-szerint-elon-musk-lecsavarhatta-a-starlinket-ukrajnaban"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+      "seo": {
+        "meta_title": "Starlink-korlátozások akasztották meg az ukrán katonai bevet",
+        "meta_description": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-sz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1280px-CRS-20_Dragon%E2%80%93Enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "86fcfe14-c493-5a62-bcb3-b2c110961acd",
+        "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc"
+      ],
+      "see_also": [
+        {
+          "title": "Dízelbotrány és ukrán drónok: új frontvonal nyílt Washington és Kijev között",
+          "url": "/vilag/2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev/",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámadás érte Moszkvát",
+          "url": "/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
+          "date": "2026-10-13"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "8e2457b7ace9d7df08019418927b5707e5a47b0deee2e087496a537790fc1dca",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T19:51:58+02:00",
+      "updated_at": "2026-10-14T19:51:58+02:00",
+      "published_at": "2026-10-14T19:51:58+02:00",
+      "expires_at": null
+    },
     {
       "id": "df6190e5-9d7d-531c-952c-dcc794a4014d",
       "slug": "2026-10-14-nem-kertek-a-soforokbol-jessica-lange-kitalalt-a-sporolos-sorozatgyar",

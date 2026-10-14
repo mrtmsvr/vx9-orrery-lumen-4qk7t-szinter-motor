@@ -10783,9 +10783,9 @@
       "live": true
     },
     {
-      "id": "608397d1-e0cf-5a20-810d-31cccaff068e",
-      "slug": "2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek",
-      "status": "pending",
+      "id": "2da9c2df-1eb6-5788-84de-1cc60b97c3fe",
+      "slug": "2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10795,7 +10795,7 @@
         "dróncsapás",
         "Egyesült Államok"
       ],
-      "title": "Elon Musk lecsavart rendszere miatt maradtak el ukrán drónbevetések",
+      "title": "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
       "subtitle": null,
       "lead": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-szolgáltatásokra. A technológiai akadályok nehezítik az orosz logisztikai és energetikai rendszerek elleni nagy hatótávolságú csapások irányítását.",
       "key_points": [
@@ -10816,15 +10816,15 @@
       "word_count": 196,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1280px-CRS-20_Dragon%E2%80%93Enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1584,
+        "height": 800,
         "kind": "photo",
-        "pos": "top",
-        "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
-        "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+        "pos": "center",
+        "alt": "SpaceX CRS-20 mission. The SpaceX Dragon resupply ship is pictured approaching the International Space Station as both spacecraft were soaring 267 miles above the African nation of Namibia.",
+        "credit": "Original:  NASA Johnson Space Center\nDerivative work:  Nythar / Wikimedia Commons",
         "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+        "source_url": "https://commons.wikimedia.org/wiki/File:CRS-20_Dragon%E2%80%93Enhanced.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -10944,12 +10944,12 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/vilag/2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek/",
+      "url": "/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
       "seo": {
-        "meta_title": "Elon Musk lecsavart rendszere miatt maradtak el ukrán drónbe",
+        "meta_title": "Starlink-korlátozások akasztották meg az ukrán katonai bevet",
         "meta_description": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-sz",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1280px-CRS-20_Dragon%E2%80%93Enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10980,9 +10980,9 @@
       "dedupe_hash": "8e2457b7ace9d7df08019418927b5707e5a47b0deee2e087496a537790fc1dca",
       "pipeline_run_id": "38576130966",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T16:02:17+02:00",
-      "updated_at": "2026-10-14T16:02:17+02:00",
-      "published_at": "2026-10-14T16:02:17+02:00",
+      "created_at": "2026-10-14T19:51:58+02:00",
+      "updated_at": "2026-10-14T19:51:58+02:00",
+      "published_at": "2026-10-14T19:51:58+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10995,9 +10995,9 @@
         "msg_ids": [],
         "control_id": 5990,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 19:51 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-14T19:51:41+02:00"
+      "live": true
     },
     {
       "id": "10b7614e-7735-5770-b93c-1cd28b372ff8",
