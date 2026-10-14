@@ -11048,6 +11048,227 @@
         "https://upload.wikimedia.org/wikipedia/commons/0/09/Paks_Nuclear_Power_Plant_Controlroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
       ],
       "live": true
+    },
+    {
+      "id": "4493a603-1fd9-5c24-b09a-28bb2795bfbf",
+      "slug": "2026-10-14-sajat-mesterseges-intelligenciajaval-buktatta-le-poloskazo-mernoket-a",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "OpenAI",
+        "FBI",
+        "lehallgatás",
+        "mesterséges intelligencia",
+        "kiberbiztonság"
+      ],
+      "title": "Saját mesterséges intelligenciájával buktatta le poloskázó mérnökét az OpenAI",
+      "subtitle": null,
+      "lead": "Az amerikai Szövetségi Nyomozóiroda őrizetbe vette az OpenAI egyik mérnökét, akit azzal gyanúsítanak, hogy kifinomult lehallgatókészüléket rejtett a vállalat San Franciscó-i központjának tárgyalójába. A titkos rögzítő felderítésében és a gyanúsított azonosításában a cég saját belső mesterségesintelligencia-modelljei is közvetlen szerepet játszottak.",
+      "key_points": [
+        "A 35 éves Abdulrahman Alfozan a vád szerint vécépapírba tekert eszközt csatlakoztatott egy tárgyalótermi tévéhez.",
+        "A cég belső AI-modelljei segítettek felderíteni, ki kérdezett korábban a rendszertől irodai beosztásokról és lehallgatókról.",
+        "Az FBI október 9-én vette őrizetbe a férfit, az ügyészség nemzetbiztonsági ügyként kezeli az ipari kémkedés gyanúját."
+      ],
+      "content": "Kémfilmbe illő lehallgatási ügy borzolja a kedélyeket a Szilícium-völgyben: az FBI október 9-én őrizetbe vette az OpenAI egyik szaúdi állampolgárságú szoftvermérnökét. Az amerikai igazságügyi minisztérium közlése szerint a 35 éves Abdulrahman Alfozan ellen szóbeli kommunikáció tiltott lehallgatása és annak kísérlete miatt indult eljárás, miután a mesterséges intelligenciát fejlesztő vállalat San Franciscó-i központjában rejtett hangrögzítőre bukkantak.\n\nA hatósági beszámolók alapján Alfozan szeptember 28-án egy vécépapírba rejtett eszközt dugott be az egyik vezetői tárgyaló televíziójának USB-csatlakozójába. A biztonsági szolgálat két nappal később, egy rutinszerű technikai átvizsgálás során fedezte fel a készüléket, amely a legfelső vezetés kutatási és termékfejlesztési megbeszéléseinek hanganyagát rögzíthette volna. A berendezés fejlett titkosítással működött, és az adatátviteli mechanizmusát kifejezetten a hálózati megfigyelés kijátszására tervezték.\n\nA nyomozásban szokatlan fordulatot hozott a vállalat saját technológiája: az OpenAI belső rendszerei segítettek leleplezni a gyanúsítottat. A digitális naplók elemzése feltárta, hogy a férfi korábban egy AI-eszközt kérdezgetett az irodák pontos címeiről, a tárgyalók elhelyezkedéséről, a munkatársak beosztásáról és a vezetők mozgásáról. Ráadásul a feleségéhez köthető fiókból távolról vezérelhető poloskák építéséről és elrejtéséről indítottak kereséseket. Miután a biztonsági kamerák felvételein is látszott, ahogy Alfozan benéz a tévé mögé, a táskájában pedig egy második lehallgatót találtak, a cég elbocsátotta a 2025 júliusa óta ott dolgozó alkalmazottat.\n\nA vállalat gyors vizsgálata szerint semmi sem utal arra, hogy a gyanúsított hozzáfért volna a féltve őrzött modellsúlyokhoz – vagyis a mesterséges intelligencia működését meghatározó matematikai paraméterekhez –, a forráskódhoz vagy az ügyfelek adataihoz. Bár az OpenAI nemrég [biztonsági megfontolásokból halasztotta el](/tech/2026-09-29-fekezhetetlen-intelligenciarobbanas-johet-de-az-openai-maris-elhalasz/) új modelljének bevezetését, a szervezet belső védelme körül több fronton is nő a feszültség: Kalifornia főügyésze, Rob Bonta a közelmúltban adatátadási kötelezést adott ki elszabadult AI-ágensek által indított támadások miatt, a cég elbocsátott három szivárogtató kutatót, David Robinson vezető biztonsági szakember pedig felmondott, mert szerinte a cég nem eléggé körültekintő a technológiai kockázatok kezelésében.\n\nAlfozan kedden állt először a szövetségi bíróság elé; amennyiben bűnösnek találják a vádakban, akár öt év szabadságvesztésre és 250 ezer dolláros pénzbüntetésre is számíthat.",
+      "content_format": "markdown",
+      "body": [
+        "Kémfilmbe illő lehallgatási ügy borzolja a kedélyeket a Szilícium-völgyben: az FBI október 9-én őrizetbe vette az OpenAI egyik szaúdi állampolgárságú szoftvermérnökét. Az amerikai igazságügyi minisztérium közlése szerint a 35 éves Abdulrahman Alfozan ellen szóbeli kommunikáció tiltott lehallgatása és annak kísérlete miatt indult eljárás, miután a mesterséges intelligenciát fejlesztő vállalat San Franciscó-i központjában rejtett hangrögzítőre bukkantak.",
+        "A hatósági beszámolók alapján Alfozan szeptember 28-án egy vécépapírba rejtett eszközt dugott be az egyik vezetői tárgyaló televíziójának USB-csatlakozójába. A biztonsági szolgálat két nappal később, egy rutinszerű technikai átvizsgálás során fedezte fel a készüléket, amely a legfelső vezetés kutatási és termékfejlesztési megbeszéléseinek hanganyagát rögzíthette volna. A berendezés fejlett titkosítással működött, és az adatátviteli mechanizmusát kifejezetten a hálózati megfigyelés kijátszására tervezték.",
+        "A nyomozásban szokatlan fordulatot hozott a vállalat saját technológiája: az OpenAI belső rendszerei segítettek leleplezni a gyanúsítottat. A digitális naplók elemzése feltárta, hogy a férfi korábban egy AI-eszközt kérdezgetett az irodák pontos címeiről, a tárgyalók elhelyezkedéséről, a munkatársak beosztásáról és a vezetők mozgásáról. Ráadásul a feleségéhez köthető fiókból távolról vezérelhető poloskák építéséről és elrejtéséről indítottak kereséseket. Miután a biztonsági kamerák felvételein is látszott, ahogy Alfozan benéz a tévé mögé, a táskájában pedig egy második lehallgatót találtak, a cég elbocsátotta a 2025 júliusa óta ott dolgozó alkalmazottat.",
+        "A vállalat gyors vizsgálata szerint semmi sem utal arra, hogy a gyanúsított hozzáfért volna a féltve őrzött modellsúlyokhoz – vagyis a mesterséges intelligencia működését meghatározó matematikai paraméterekhez –, a forráskódhoz vagy az ügyfelek adataihoz. Bár az OpenAI nemrég [biztonsági megfontolásokból halasztotta el](/tech/2026-09-29-fekezhetetlen-intelligenciarobbanas-johet-de-az-openai-maris-elhalasz/) új modelljének bevezetését, a szervezet belső védelme körül több fronton is nő a feszültség: Kalifornia főügyésze, Rob Bonta a közelmúltban adatátadási kötelezést adott ki elszabadult AI-ágensek által indított támadások miatt, a cég elbocsátott három szivárogtató kutatót, David Robinson vezető biztonsági szakember pedig felmondott, mert szerinte a cég nem eléggé körültekintő a technológiai kockázatok kezelésében.",
+        "Alfozan kedden állt először a szövetségi bíróság elé; amennyiben bűnösnek találják a vádakban, akár öt év szabadságvesztésre és 250 ezer dolláros pénzbüntetésre is számíthat."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 380,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/1280px-1515_Third_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "An office building at 1515 Third Street in the Mission Bay neighborhood of San Francisco, California.  At the time this photo was taken, this building was home to the headquarters of OpenAI.  Photogra",
+        "credit": "Coolcaesar / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:1515_Third_Street.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/14/rejtett-lehallgatokeszulekre-bukkant-az-openai-az-fbi-orizetbe-vette-a-ceg-egyik-szaudi-mernoket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Rejtett lehallgatókészülékre bukkant az OpenAI, az FBI őrizetbe vette a cég egyik szaúdi mérnökét",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:19:55+02:00"
+        },
+        {
+          "url": "https://hvg.hu/tudomany/20261014_fbi-openai-alkalmazott-letartoztatas-lehallgatokeszulek",
+          "title": "Bepoloskázta az OpenAI tárgyalóját, az FBI vitte el a cég dolgozóját",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:19:55+02:00"
+        },
+        {
+          "url": "https://hvg.hu/tudomany/20261013_andrej-karpathy-mesterseges-intelligencia-fejlodese-tudas-szakadek",
+          "title": "Alig 5000 ember látja a világon, mire képes valójában a mesterséges intelligencia",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:19:55+02:00"
+        }
+      ],
+      "quote": {
+        "text": "mivel a San Francisco Bay Area és a Szilícium-völgy világelső a jövő technológiáinak fejlesztésében, az ügyet nemzetbiztonsági kérdésként kezelik.",
+        "who": "Craig H. Missakian ügyész",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 10.54,
+      "title_options": [
+        "Saját mesterséges intelligenciájával buktatta le poloskázó mérnökét az OpenAI",
+        "Vécépapírba rejtett poloska buktatta le az OpenAI mérnökét San Franciscóban",
+        "Az FBI tartóztatta le az OpenAI mérnökét tárgyalótermi lehallgatás miatt",
+        "Tévé mögé dugott poloska az OpenAI-nál: a saját rendszere buktatta le a kémet",
+        "Vécépapírba csomagolt lehallgató a tárgyalóban: lecsapott az FBI az OpenAI-nál",
+        "Lehallgatót dugott a vezetőségi tévébe az OpenAI szaúdi mérnöke"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/1280px-1515_Third_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "An office building at 1515 Third Street in the Mission Bay neighborhood of San Francisco, California.  At the time this photo was taken, this building was home to the headquarters of OpenAI.  Photogra",
+          "credit": "Coolcaesar / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1515_Third_Street.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://pixabay.com/get/gcbc6f703d972a926be65eb97f4cb00414882811b99a3317422744bae57cfc88e38dbab5f5ef4871e34551fc76a70d0e2ee4bb88e385bacb6b6598342bab4af3f_1280.jpg",
+          "width": 2048,
+          "height": 1542,
+          "kind": "photo",
+          "alt": "courtroom, benches, seats, law, justice, lighting, wood, wooden, inside, indoors, architecture, jury, trial, courtroom, courtroom, courtroom, courtroom, courtroom, law, law",
+          "credit": "12019 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg/1280px-Seal_of_the_Federal_Bureau_of_Investigation.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1236,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "The Seal of the United States Federal Bureau of Investigation.  For more information, see here.",
+          "credit": "Federal Bureau of Investigation / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Federal_Bureau_of_Investigation.svg",
+          "vision_score": 5.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Rejtett lehallgatókészülékre bukkant az OpenAI, az FBI őrizetbe vette a cég egyik szaúdi mérnökét",
+          "link": "https://qubit.hu/2026/10/14/rejtett-lehallgatokeszulekre-bukkant-az-openai-az-fbi-orizetbe-vette-a-ceg-egyik-szaudi-mernoket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "Vécépapírba csomagolt lehallgatóeszközt találtak a ChatGPT-t fejlesztő vállalat központjának egyik tárgyalójában, egy tévébe rejtve. A gyanúsítottat végül maga a cég mesterséges intelligenciája segített lebuktatni.",
+          "source": "qubit.hu",
+          "related": null,
+          "hot_score": 10.54
+        },
+        {
+          "title": "Bepoloskázta az OpenAI tárgyalóját, az FBI vitte el a cég dolgozóját",
+          "link": "https://hvg.hu/tudomany/20261014_fbi-openai-alkalmazott-letartoztatas-lehallgatokeszulek",
+          "summary": "Profi lehallgatókészüléket rejtett egy tv mögé az OpenAI egyik dolgozója. Lebukott, letartóztatták.",
+          "source": "hvg.hu",
+          "related": null,
+          "hot_score": null
+        },
+        {
+          "title": "Alig 5000 ember látja a világon, mire képes valójában a mesterséges intelligencia",
+          "link": "https://hvg.hu/tudomany/20261013_andrej-karpathy-mesterseges-intelligencia-fejlodese-tudas-szakadek",
+          "summary": "Andrej Karpathy, az OpenAI egyik alapítója szerint óriási a szakadék a felhasználók és a fejlesztők között, és nagyon kevesen használják arra a mesterséges intelligenciát, amire valójában való.",
+          "source": "hvg.hu",
+          "related": true,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/14/rejtett-lehallgatokeszulekre-bukkant-az-openai-az-fbi-orizetbe-vette-a-ceg-egyik-szaudi-mernoket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://hvg.hu/tudomany/20261014_fbi-openai-alkalmazott-letartoztatas-lehallgatokeszulek"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-sajat-mesterseges-intelligenciajaval-buktatta-le-poloskazo-mernoket-a/",
+      "seo": {
+        "meta_title": "Saját mesterséges intelligenciájával buktatta le poloskázó m",
+        "meta_description": "Az amerikai Szövetségi Nyomozóiroda őrizetbe vette az OpenAI egyik mérnökét, akit azzal gyanúsítanak, hogy kifinomult lehallgatókészüléket rejtett a vállalat Sa",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-sajat-mesterseges-intelligenciajaval-buktatta-le-poloskazo-mernoket-a/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/1280px-1515_Third_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "a211f31d-b588-5af0-a916-a9ebdc4d18a5",
+        "279a021f-9abc-5529-b713-2f97c3f7a891"
+      ],
+      "see_also": [
+        {
+          "title": "Aláírásokat is hamisít a ChatGPT: aggasztó irányt vett az OpenAI mesterséges intelligenciája",
+          "url": "/tech/2026-10-12-alairasokat-is-hamisit-a-chatgpt-aggaszto-iranyt-vett-az-openai-meste/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Fékezhetetlen intelligenciarobbanás jöhet, de az OpenAI máris elhalasztotta új modelljét",
+          "url": "/tech/2026-09-29-fekezhetetlen-intelligenciarobbanas-johet-de-az-openai-maris-elhalasz/",
+          "date": "2026-09-29"
+        }
+      ],
+      "thread_id": "a211f31d-b588-5af0-a916-a9ebdc4d18a5",
+      "dedupe_hash": "2d64d8d78e9df2643b4d6cb7908993cd960735695d5a9ccaaa3b0d97ffb9a3df",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:19:55+02:00",
+      "updated_at": "2026-10-14T11:19:55+02:00",
+      "published_at": "2026-10-14T11:19:55+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:23:44+00:00",
+        "msg_ids": [
+          5839,
+          5840,
+          5841,
+          5842
+        ],
+        "control_id": 5843
+      }
     }
   ]
 }
