@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T14:04:12+02:00",
+  "updated_at": "2026-10-14T15:58:11+02:00",
   "articles": [
     {
       "id": "5a014db6-a35f-5bfa-a3f0-f9da53e48b7a",
@@ -138,18 +138,7 @@
       "reading_time_min": 2,
       "word_count": 221,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg/1280px-A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 781,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "a Magyar Rádió stúdiója. Wiesinger István riporter, Mezey György labdarúgó szövetségi kapitány és Szepesi György MLSZ elnök.",
-        "credit": "FOTO:Fortepan — ID 56190: Adományozó/Donor: Rádió és Televízió Újság. / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter,_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg",
-        "vision_score": 5.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -209,7 +198,7 @@
         "meta_title": "Nem mond le Kapitány István és Magyar Péter sem",
         "meta_description": "Határozottan cáfolta Magyar Péter miniszterelnök és Kapitány István gazdasági és energetikai miniszter, hogy le akarnának mondani posztjukról. A sajtóban korább",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-nem-mond-le-kapitany-istvan-es-magyar-peter-sem/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg/1280px-A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Wiesinger_Istv%C3%A1n_riporter%2C_Mezey_Gy%C3%B6rgy_labdar%C3%BAg%C3%B3_sz%C3%B6vets%C3%A9gi_kapit%C3%A1ny_%C3%A9s_Szepesi_Gy%C3%B6rgy_MLSZ_eln%C3%B6k._Fortepan_56190.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -247,7 +236,7 @@
       "pipeline_run_id": "38557193788",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-14T13:33:55+02:00",
-      "updated_at": "2026-10-14T13:33:55+02:00",
+      "updated_at": "2026-10-14T15:58:11+02:00",
       "published_at": "2026-10-14T13:33:55+02:00",
       "expires_at": null
     },
