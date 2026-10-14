@@ -11613,13 +11613,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-14T09:28:04+00:00",
-        "msg_ids": [
-          5870,
-          5871,
-          5872
-        ],
-        "control_id": 5873
-      }
+        "msg_ids": [],
+        "control_id": 5873,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:02 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-14T13:02:07+02:00"
     },
     {
       "id": "db8eeeaa-fe80-544c-b79a-38f4d645fcee",
