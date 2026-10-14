@@ -1,7 +1,687 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T12:42:30+02:00",
+  "updated_at": "2026-10-14T13:02:18+02:00",
   "articles": [
+    {
+      "id": "864db0ab-e452-5b0d-954d-8a13c0d4f6fe",
+      "slug": "2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Forsthoffer Ágnes",
+        "Németh Balázs",
+        "Magyar Péter",
+        "Országgyűlés",
+        "belpolitika"
+      ],
+      "title": "Forsthoffer Ágnes válasza Németh Balázs parlamenti videóira",
+      "subtitle": null,
+      "lead": "Forsthoffer Ágnes éles kritikával illette Németh Balázs fideszes képviselő parlamenti videóit, amelyek szerinte valótlan állításokkal próbálják lejáratni Magyar Pétert. Forsthoffer Ágnes tisztázta a keddi Országgyűlés szünetében történt ominózus beszélgetés valódi hátterét is.",
+      "key_points": [
+        "Németh Balázs videóban állította, hogy Magyar Péter magához rendelte a házelnököt",
+        "Forsthoffer Ágnes visszautasította a fideszes képviselő lejárató módszereit",
+        "A házelnök szerint csupán egyeztetés történt a miniszterelnök elfoglaltságairól",
+        "Németh korábban tévesen mérte fel a 15. kerületi választási esélyeket is"
+      ],
+      "content": "Az Országgyűlés keddi ülése után közzétett videós bejegyzések miatt került összetűzésbe Forsthoffer Ágnes és Németh Balázs. Németh a felvétel kísérőszövegében azt állította, hogy Magyar Péter a szünetben magához rendelte és kiosztotta a házelnököt, miközben a képsorok alatt A cápa című film zenéje szólt. Forsthoffer Ágnes közösségi oldalán reagált a fideszes képviselő megnyilvánulására, elfogadhatatlannak nevezve a valóságot eltorzító politikai kommunikációt.\n\nNem ez az első videó, amivel próbál lejáratni, valóságalap nélkül” – fogalmazott bejegyzésében Forsthoffer Ágnes, aki korábban már szóvá tette kollégájának ezeket a módszereket. Emlékeztetése szerint Németh akkor annyival intézte el a kritikát, hogy ez a politika, amit meg kell szokni, mire ő határozottan kijelentette, hogy nem kívánja ezt a stílust elfogadni.\n\nA vitatott jelenetről szólva a házelnök elárulta, hogy szó sincs számonkérésről vagy eligazításról.\n\nA politikai viták mellett a felek korábbi választási szereplései is ellentétes képet mutatnak.",
+      "content_format": "markdown",
+      "body": [
+        "Az Országgyűlés keddi ülése után közzétett videós bejegyzések miatt került összetűzésbe Forsthoffer Ágnes és Németh Balázs. Németh a felvétel kísérőszövegében azt állította, hogy Magyar Péter a szünetben magához rendelte és kiosztotta a házelnököt, miközben a képsorok alatt A cápa című film zenéje szólt. Forsthoffer Ágnes közösségi oldalán reagált a fideszes képviselő megnyilvánulására, elfogadhatatlannak nevezve a valóságot eltorzító politikai kommunikációt.",
+        "Nem ez az első videó, amivel próbál lejáratni, valóságalap nélkül” – fogalmazott bejegyzésében Forsthoffer Ágnes, aki korábban már szóvá tette kollégájának ezeket a módszereket. Emlékeztetése szerint Németh akkor annyival intézte el a kritikát, hogy ez a politika, amit meg kell szokni, mire ő határozottan kijelentette, hogy nem kívánja ezt a stílust elfogadni.",
+        "A vitatott jelenetről szólva a házelnök elárulta, hogy szó sincs számonkérésről vagy eligazításról.",
+        "A politikai viták mellett a felek korábbi választási szereplései is ellentétes képet mutatnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 168,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/N%C3%A9meth_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1824,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Balázs NÉMETH",
+        "credit": "Elekes Andor / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:N%C3%A9meth_Bal%C3%A1zs.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261014_forsthoffer-agnes-orszaggyules-hazelnok-nemeth-balazs-lejarato-videok-magyar-peter",
+          "title": "Forsthoffer Ágnes alaposan kiosztotta Németh Balázst a lejárató videói miatt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T12:15:52+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Elképesztően távol áll tőlem az a politikusi attitűd, amit Ön ezekkel a videókkal képvisel. Nem ez az első videó, amivel próbál lejáratni, valóságalap nélkül.",
+        "who": "Forsthoffer Ágnes házelnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:02:18+02:00"
+      },
+      "hot_score": 5.79,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261014_forsthoffer-agnes-orszaggyules-hazelnok-nemeth-balazs-lejarato-videok-magyar-peter"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kozelet/2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira/",
+      "seo": {
+        "meta_title": "Forsthoffer Ágnes válasza Németh Balázs parlamenti videóira",
+        "meta_description": "Forsthoffer Ágnes éles kritikával illette Németh Balázs fideszes képviselő parlamenti videóit, amelyek szerinte valótlan állításokkal próbálják lejáratni Magyar",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/2/29/N%C3%A9meth_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "839bb99e05e9304bdd5937a8704645edf98f7cb2f2cc5cfb8a9f9e9cd1d8b91c",
+      "pipeline_run_id": "38545876495",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:18+02:00",
+      "updated_at": "2026-10-14T13:02:18+02:00",
+      "published_at": "2026-10-14T13:02:18+02:00",
+      "expires_at": null,
+      "scheduled_at": "2026-10-14T14:42:07+02:00"
+    },
+    {
+      "id": "a66567df-c5e3-5109-b5ac-00c301455566",
+      "slug": "2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Balaton",
+        "kerékpárút",
+        "Vitézy Dávid",
+        "közlekedésfejlesztés",
+        "bringakör"
+      ],
+      "title": "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
+      "subtitle": null,
+      "lead": "Közel húsz kilométeren, hazai és frissen megnyílt európai uniós forrásokból újítják meg a Balatoni Bringakör északi szakaszát. A beruházások célja a balesetveszélyes, elhasználódott útszakaszok rendbetétele és a forgalmas nyomvonalak jelentős kiszélesítése.",
+      "key_points": [
+        "Tihany és Balatonfűzfő között, hét települést érintve 14,4 kilométeren épül meg a 3,3 méter széles, önálló kerékpárút 2029-ig.",
+        "A beruházás részeként hat új kerékpáros hidat és két fénysorompós vasúti kereszteződést is létesítenek.",
+        "A Magyar Közút négy kritikus szakaszt hazai költségvetési forrásból újít fel, ezeket a bringások már a 2027-es szezonban használhatják."
+      ],
+      "content": "Húsz kilométeren – a teljes tókerülő útvonal mintegy tizedén – indul átfogó felújítás és szélesítés a Balatoni Bringakör északi partján. Vitézy Dávid beruházási és közlekedési miniszter bejelentése szerint a munkálatok két ütemben valósulnak meg: a sürgősebb állami beavatkozások már a 2027-es szezonra elkészülnek, míg a jóval nagyobb léptékű uniós fejlesztések átadása 2029-re várható.\n\nAz északi parti útvonalon évek óta komoly gondot okoznak a burkolatot felpúposító faágak és gyökerek, a fagykárok, valamint az, hogy több helyen a kétirányú forgalom alig fér el az elkeskenyedett aszfalton. A kerékpáros turizmus fellendülése miatt a balesetveszélyessé vált szakaszok kiváltása régóta indokolt volt.\n\nA nagyobb léptékű projekt Tihany és Balatonfűzfő között 14,4 kilométert érint. A meglévő nyomvonal korszerűsítése és részbeni áthelyezése hét települést – Tihanyt, Balatonfüredet, Csopakot, Paloznakot, Alsóörsöt, Balatonalmádit és Balatonfűzfőt – érint. A tervek szerint az új, önálló kerékpárút jellemzően 3,3 méter széles lesz, hat új kerékpáros híddal, valamint két, fény- és félsorompóval biztosított vasúti kereszteződéssel kiegészítve. A területszerzési folyamat már elindult, a kivitelezési közbeszerzéseket pedig még idén kiírják. A tárcavezető tájékoztatása alapján a fedezetet a kormány által a jogállamisági eljárás lezárultával lehívhatóvá vált európai uniós keret biztosítja.\n\nEzzel párhuzamosan a Magyar Közút négy különösen rossz állapotú szakaszt állami forrásból állít helyre:\n\n- Balatonakali és Zánka között 1,6 kilométeren teljesen új pályát és egy új kerékpáros hidat építenek.\n\n- Balatonkenese és Balatonfűzfő között a régi 71-es főút nyomvonalát bevonva 1,5 kilométeren szélesítik az erdős részen futó utat 2,5 méterről 3 méterre.\n\n- Badacsonyörsnél, Ábrahámhegy és Badacsonytomaj vasútállomás között 1,7 kilométeren szüntetik meg a gyökérfelnyomódásokat és a burkolathibákat.\n\n- Badacsonytomaj területén egy közel 300 méteres szakaszon terítenek le új aszfaltkopóréteget.\n\nA hazai finanszírozású szakaszok kivitelezése a tenderek lezárását követően, 2027 tavaszán kezdődik, így a főszezonra már zavartalan lesz a forgalom. A szaktárca várakozása szerint a fejlesztések a nyári szezonon kívüli kerékpáros turizmust, valamint a helyi lakók mindennapi közlekedését is biztonságosabbá teszik.",
+      "content_format": "markdown",
+      "body": [
+        "Húsz kilométeren – a teljes tókerülő útvonal mintegy tizedén – indul átfogó felújítás és szélesítés a Balatoni Bringakör északi partján. Vitézy Dávid beruházási és közlekedési miniszter bejelentése szerint a munkálatok két ütemben valósulnak meg: a sürgősebb állami beavatkozások már a 2027-es szezonra elkészülnek, míg a jóval nagyobb léptékű uniós fejlesztések átadása 2029-re várható.",
+        "Az északi parti útvonalon évek óta komoly gondot okoznak a burkolatot felpúposító faágak és gyökerek, a fagykárok, valamint az, hogy több helyen a kétirányú forgalom alig fér el az elkeskenyedett aszfalton. A kerékpáros turizmus fellendülése miatt a balesetveszélyessé vált szakaszok kiváltása régóta indokolt volt.",
+        "A nagyobb léptékű projekt Tihany és Balatonfűzfő között 14,4 kilométert érint. A meglévő nyomvonal korszerűsítése és részbeni áthelyezése hét települést – Tihanyt, Balatonfüredet, Csopakot, Paloznakot, Alsóörsöt, Balatonalmádit és Balatonfűzfőt – érint. A tervek szerint az új, önálló kerékpárút jellemzően 3,3 méter széles lesz, hat új kerékpáros híddal, valamint két, fény- és félsorompóval biztosított vasúti kereszteződéssel kiegészítve. A területszerzési folyamat már elindult, a kivitelezési közbeszerzéseket pedig még idén kiírják. A tárcavezető tájékoztatása alapján a fedezetet a kormány által a jogállamisági eljárás lezárultával lehívhatóvá vált európai uniós keret biztosítja.",
+        "Ezzel párhuzamosan a Magyar Közút négy különösen rossz állapotú szakaszt állami forrásból állít helyre:",
+        "- Balatonakali és Zánka között 1,6 kilométeren teljesen új pályát és egy új kerékpáros hidat építenek.",
+        "- Balatonkenese és Balatonfűzfő között a régi 71-es főút nyomvonalát bevonva 1,5 kilométeren szélesítik az erdős részen futó utat 2,5 méterről 3 méterre.",
+        "- Badacsonyörsnél, Ábrahámhegy és Badacsonytomaj vasútállomás között 1,7 kilométeren szüntetik meg a gyökérfelnyomódásokat és a burkolathibákat.",
+        "- Badacsonytomaj területén egy közel 300 méteres szakaszon terítenek le új aszfaltkopóréteget.",
+        "A hazai finanszírozású szakaszok kivitelezése a tenderek lezárását követően, 2027 tavaszán kezdődik, így a főszezonra már zavartalan lesz a forgalom. A szaktárca várakozása szerint a fejlesztések a nyári szezonon kívüli kerékpáros turizmust, valamint a helyi lakók mindennapi közlekedését is biztonságosabbá teszik."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 338,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/20ad83512a9b2a4e.jpg",
+        "width": 4608,
+        "height": 3072,
+        "kind": "photo",
+        "alt": "bicycle path, road sign, bicycle sign, road marking, cycle path, bicycle path, road sign, road sign, road sign, road sign, cycle path, cycle path, cycle path, cycle path, cycle path",
+        "credit": "652234 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/bicycle-path-road-sign-bicycle-sign-3444914/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/20ad83512a9b2a4e.jpg",
+        "orig_url": "https://pixabay.com/get/g5a2b90706dd2c3e6f02214c22d6bf521e7d2296381876bd21825e49f0d7c6f0f533ba767cb721db273890ad6ad8ff67f597a134edd583589fd6f98d012b3a11a_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576",
+          "title": "Vitézy Dávid bejelentette: gyökeres változás jön az ország legnépszerűbb kerékpáros útvonalán",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:07+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:02:17+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kozelet/2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor/",
+      "seo": {
+        "meta_title": "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
+        "meta_description": "Közel húsz kilométeren, hazai és frissen megnyílt európai uniós forrásokból újítják meg a Balatoni Bringakör északi szakaszát. A beruházások célja a balesetvesz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/20ad83512a9b2a4e.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "4d54d600-5720-5c51-8568-a4af8de538ef"
+      ],
+      "see_also": [
+        {
+          "title": "Déli körvasút: kizárták a V-Híd Zrt.-t",
+          "url": "/kozelet/2026-10-10-deli-korvasut-kizartak-a-v-hid-zrt-t/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "2e531b281700287585e68a080be42990d383c445e08e26cec286181fe878ee59",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:17+02:00",
+      "updated_at": "2026-10-14T13:02:17+02:00",
+      "published_at": "2026-10-14T13:02:17+02:00",
+      "expires_at": null,
+      "scheduled_at": "2026-10-14T14:22:07+02:00"
+    },
+    {
+      "id": "178a9e8e-05c3-54b7-8c45-1fe35469fe45",
+      "slug": "2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "térdfájás",
+        "kutatás",
+        "orvostudomány",
+        "életmód"
+      ],
+      "title": "Új eljárás kínál esélyt a térdízületi gyulladással küzdőknek",
+      "subtitle": null,
+      "lead": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a világ leggyakoribb ízületi megbetegedésénél kínálhat alternatívát a hagyományos kezelések és a protézisbeültetés helyett.",
+      "key_points": [
+        "A térdízületi gyulladás világszerte több mint 365 millió felnőttet érint.",
+        "A térdízület körüli kóros erek elzárásával csökkenthető a krónikus fájdalom.",
+        "Egy 194 fős vizsgálat adatai szerint a páciensek 80 százalékánál legalább 12 hónapig fennmaradt a javulás."
+      ],
+      "content": "A térdízületi kopás az oszteoartritisz formájában a világ leggyakoribb ízületi megbetegedése, amely jelentősen korlátozza a mindennapi mozgást, legyen szó sétáról, lépcsőzésről vagy hosszabb állásról. A panaszok akkor alakulnak ki, amikor a csontok végeit védő porcszövet fokozatosan elvékonyodik, de a folyamatban a gyulladás, a szöveti elváltozások és a fájdalomingerületet továbbító idegek fokozott érzékenysége is közrejátszik.\n\nA betegek kezelése jellemzően fizioterápiával, gyógyszerekkel és az ízületbe adott injekciókkal kezdődik, ám ha ezek a módszerek már nem hoznak elegendő enyhülést, a szakemberek gyakran a térdprotézis-műtétet javasolják. Ez utóbbi azonban nem mindenkinél végezhető el, vagy a páciensek személyes okokból nem szeretnének kés alá feküdni, ami komoly kezelési űrt hoz létre.\n\nA Radiology szaklapban közölt kutatás egy új megközelítést vizsgál, amely a térdízület környékén kialakuló kóros erek megcélzésére fókuszál. A genikuláris artéria-embolizáció néven ismert eljárás során az orvosok vékony katéteren keresztül mikroszkopikus, órák alatt felszívódó részecskéket juttatnak a célzott erekbe, hogy csökkentsék a gyulladást és a fájdalmat kiváltó véráramlást.\n\nFlorian Nima Fleckenstein, a berlini Charité – Universitätsmedizin radiológus szakorvosa szerint a konzervatív módszerek és a műtét közötti rés áthidalásában segíthet a technika. A 194 beteg bevonásával végzett vizsgálat eredményei azt mutatták, hogy a pácienseknél jelentősen csökkent a térdfájdalom, javult a mozgásképesség, és az egyéves kontrollvizsgálaton résztvevők 80 százalékánál a kedvező hatás legalább 12 hónapig kitartott.",
+      "content_format": "markdown",
+      "body": [
+        "A térdízületi kopás az oszteoartritisz formájában a világ leggyakoribb ízületi megbetegedése, amely jelentősen korlátozza a mindennapi mozgást, legyen szó sétáról, lépcsőzésről vagy hosszabb állásról. A panaszok akkor alakulnak ki, amikor a csontok végeit védő porcszövet fokozatosan elvékonyodik, de a folyamatban a gyulladás, a szöveti elváltozások és a fájdalomingerületet továbbító idegek fokozott érzékenysége is közrejátszik.",
+        "A betegek kezelése jellemzően fizioterápiával, gyógyszerekkel és az ízületbe adott injekciókkal kezdődik, ám ha ezek a módszerek már nem hoznak elegendő enyhülést, a szakemberek gyakran a térdprotézis-műtétet javasolják. Ez utóbbi azonban nem mindenkinél végezhető el, vagy a páciensek személyes okokból nem szeretnének kés alá feküdni, ami komoly kezelési űrt hoz létre.",
+        "A Radiology szaklapban közölt kutatás egy új megközelítést vizsgál, amely a térdízület környékén kialakuló kóros erek megcélzésére fókuszál. A genikuláris artéria-embolizáció néven ismert eljárás során az orvosok vékony katéteren keresztül mikroszkopikus, órák alatt felszívódó részecskéket juttatnak a célzott erekbe, hogy csökkentsék a gyulladást és a fájdalmat kiváltó véráramlást.",
+        "Florian Nima Fleckenstein, a berlini Charité – Universitätsmedizin radiológus szakorvosa szerint a konzervatív módszerek és a műtét közötti rés áthidalásában segíthet a technika. A 194 beteg bevonásával végzett vizsgálat eredményei azt mutatták, hogy a pácienseknél jelentősen csökkent a térdfájdalom, javult a mozgásképesség, és az egyéves kontrollvizsgálaton résztvevők 80 százalékánál a kedvező hatás legalább 12 hónapig kitartott."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 244,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "نشان‌دهندۀ آناتومی زانو و برخی اجزای آن",
+        "credit": "https://en.wikipedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png\n\n&amp; Own  / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Knee_anatomy_(Fa).png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:18+02:00"
+        }
+      ],
+      "quote": {
+        "text": "For many patients with knee osteoarthritis, there is a real treatment gap today. Conservative measures such as intra-articular injections no longer provide sufficient relief, but joint replacement is not an option for medical or personal reasons.",
+        "who": "Florian Nima Fleckenstein, a berlini Charité – Universitätsmedizin szakorvosa",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:02:16+02:00"
+      },
+      "hot_score": 5.7,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261013234801.htm"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/eletmod/2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek/",
+      "seo": {
+        "meta_title": "Új eljárás kínál esélyt a térdízületi gyulladással küzdőknek",
+        "meta_description": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c7058de221682795b801008ae829306e9da638cedc66de2e279a61f2c56d5879",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:16+02:00",
+      "updated_at": "2026-10-14T13:02:16+02:00",
+      "published_at": "2026-10-14T13:02:16+02:00",
+      "expires_at": null,
+      "scheduled_at": "2026-10-14T13:42:07+02:00"
+    },
+    {
+      "id": "3c10f334-6b30-5d9a-b6b4-9573ee87bccf",
+      "slug": "2026-10-12-karacsony-szerint-veszteseges-zuglo-szerint-milliardos-nyereseg-a-par",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "parkolás",
+        "Budapest",
+        "Zugló",
+        "Karácsony Gergely",
+        "Rózsa András"
+      ],
+      "title": "Karácsony szerint veszteséges, Zugló szerint milliárdos nyereség a parkolás",
+      "subtitle": null,
+      "lead": "Heves vita bontakozott ki a fővárosi parkolási rendszer tervezett központosítása miatt, miután Karácsony Gergely főpolgármester veszteségesnek nevezte a zuglói parkolást. A XIV. kerület vezetése ezzel szemben milliárdos nyereségről számolt be, a konfliktus hátterében pedig a kerületi és a fővárosi tulajdonú parkolóhelyek eltérő elszámolása áll.",
+      "key_points": [
+        "Karácsony Gergely főpolgármester a parkolási rendszer központosítását tervezi.",
+        "A zuglói polgármester szerint a kerület tavaly több mint egymilliárd forintos nyereséget termelt.",
+        "A fővárosi adatok csak a kerületben található szűk, fővárosi tulajdonú parkolóhelyek veszteségeire fókuszálnak."
+      ],
+      "content": "Karácsony Gergely főpolgármester az ATV műsorában beszélt arról, hogy a kerületek egyáltalán nem látják el költséghatékonyan a feladatukat, és példaként említette, hogy van olyan kerület, ahol veszteséges a parkolás. Bár a politikust a stúdióban hiába kérdezték, a Városházától kiküldött adatokból kiderült, hogy Zuglóra célzott.\n\nRózsa András, a XIV. kerület polgármestere határozottan visszautasította ezt az állítást, és megerősítette, hogy az utolsó évben több mint egymilliárd forintos nyereségük származott a fizetős parkolásból. A két fél eltérő álláspontja azon alapul, hogy miként számolják el a bevételeket és a kiadásokat.\n\nZuglóban összesen mintegy 18 ezer fizetős hely található, ám ebből mindössze 441 darab fekszik fővárosi tulajdonú úton. A Fővárosi Önkormányzat adatai csupán erre a szűk részre vonatkoznak, ahol valóban 100 százalék feletti költséghányaddal, azaz veszteséggel működtek a helyek a megelőző időszakban.\n\nA Városháza szerint statisztikai értelemben a kerület egészére vonatkozó arányszám sem lehet más, hiszen a parkolóhelyek üzemeltetése – legyen az fővárosi vagy kerületi – ugyanazokkal a költségekkel jár. A XIV. kerület vezetése ezt a megközelítést a csúsztatás iskolapéldájának nevezte, mivel egy apró részlet alapján minősítik át a teljes kerületi rendszert.",
+      "content_format": "markdown",
+      "body": [
+        "Karácsony Gergely főpolgármester az ATV műsorában beszélt arról, hogy a kerületek egyáltalán nem látják el költséghatékonyan a feladatukat, és példaként említette, hogy van olyan kerület, ahol veszteséges a parkolás. Bár a politikust a stúdióban hiába kérdezték, a Városházától kiküldött adatokból kiderült, hogy Zuglóra célzott.",
+        "Rózsa András, a XIV. kerület polgármestere határozottan visszautasította ezt az állítást, és megerősítette, hogy az utolsó évben több mint egymilliárd forintos nyereségük származott a fizetős parkolásból. A két fél eltérő álláspontja azon alapul, hogy miként számolják el a bevételeket és a kiadásokat.",
+        "Zuglóban összesen mintegy 18 ezer fizetős hely található, ám ebből mindössze 441 darab fekszik fővárosi tulajdonú úton. A Fővárosi Önkormányzat adatai csupán erre a szűk részre vonatkoznak, ahol valóban 100 százalék feletti költséghányaddal, azaz veszteséggel működtek a helyek a megelőző időszakban.",
+        "A Városháza szerint statisztikai értelemben a kerület egészére vonatkozó arányszám sem lehet más, hiszen a parkolóhelyek üzemeltetése – legyen az fővárosi vagy kerületi – ugyanazokkal a költségekkel jár. A XIV. kerület vezetése ezt a megközelítést a csúsztatás iskolapéldájának nevezte, mivel egy apró részlet alapján minősítik át a teljes kerületi rendszert."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 219,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://pixabay.com/get/gf406c3e5b82f51e2c2b1152d0c762e6f405958934f0216cdd8d4900ab9e87ef0cc943a4e252078725c62ad936d90974afe0494cabb85511136731223f446bf70_1280.jpg",
+        "width": 4123,
+        "height": 2320,
+        "kind": "photo",
+        "alt": "parking space, man, city, person, alone, lonely, lights, gloomy, night, evening, dark, parking lot, urban, man, city, alone, alone, alone, alone, alone, lonely, night, dark, dark, dark, parking lot",
+        "credit": "harutmovsisyan / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/parking-space-man-city-person-1487891/",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261012_csusztatas-iskolapelda-karacsony-gergely-hiba-kerulet-parkolas-zuglo",
+          "title": "A csúsztatás iskolapéldája Zugló szerint Karácsony parkolási matekja",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-12T11:26:37+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nyilván nem tudjuk vizsgálni, hogy a kerületek milyen költségeket számoltak el. Ugyanakkor az bizonyos, hogy egy fővárosi tulajdonú és egy kerületi tulajdonú parkolóhely üzemeltetése között nem lehet különbség",
+        "who": "Kiss Ambrus, a Városháza dokumentumának jegyzője",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:02:15+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261012_csusztatas-iskolapelda-karacsony-gergely-hiba-kerulet-parkolas-zuglo"
+        ]
+      },
+      "date": "2026-10-12",
+      "date_label": "október 12.",
+      "url": "/kozelet/2026-10-12-karacsony-szerint-veszteseges-zuglo-szerint-milliardos-nyereseg-a-par/",
+      "seo": {
+        "meta_title": "Karácsony szerint veszteséges, Zugló szerint milliárdos nyer",
+        "meta_description": "Heves vita bontakozott ki a fővárosi parkolási rendszer tervezett központosítása miatt, miután Karácsony Gergely főpolgármester veszteségesnek nevezte a zuglói ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-karacsony-szerint-veszteseges-zuglo-szerint-milliardos-nyereseg-a-par/",
+        "og_image": "https://pixabay.com/get/gf406c3e5b82f51e2c2b1152d0c762e6f405958934f0216cdd8d4900ab9e87ef0cc943a4e252078725c62ad936d90974afe0494cabb85511136731223f446bf70_1280.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "43729cd9-3ced-5943-81b1-c197efef8824",
+        "df7e37fe-592e-50e6-bf4e-4a99bee0277f"
+      ],
+      "see_also": [
+        {
+          "title": "Egységes parkolás: össztűz zúdul Karácsony Gergelyre",
+          "url": "/kozelet/2026-10-02-egyseges-parkolas-ossztuz-zudul-karacsony-gergelyre/",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Karácsony Gergely tízmilliárdos megtakarítást vár a parkolási rendszer átalakításától",
+          "url": "/kozelet/2026-10-11-karacsony-gergely-tizmilliardos-megtakaritast-var-a-parkolasi-rendsze/",
+          "date": "2026-10-11"
+        }
+      ],
+      "thread_id": "49a1742d-6794-5749-87f0-3131bc9920fb",
+      "dedupe_hash": "794202dcf8d5825a0151df0bc960038a75f898e258032996f86dcc77355ccfff",
+      "pipeline_run_id": "38227412450",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:15+02:00",
+      "updated_at": "2026-10-14T13:02:15+02:00",
+      "published_at": "2026-10-14T13:02:15+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "eea6f27c-76e4-5030-896e-e2f755146d48",
+      "slug": "2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara",
+      "status": "published",
+      "category": "bulvar",
+      "subcategory": null,
+      "tags": [
+        "Schóbert Lara",
+        "Megasztár",
+        "Rubint Réka",
+        "TV2",
+        "tehetségkutató"
+      ],
+      "title": "Két hét készülés után elvérzett a Megasztárban Schóbert Lara",
+      "subtitle": null,
+      "lead": "Nem jutott tovább a Megasztár válogatóján Schóbert Lara, aki Lady Gaga egyik slágerével próbált szerencsét a tehetségkutatóban. Produkcióját betegséggel küzdő édesanyjának ajánlotta, kiesése után pedig önkritikusan értékelte teljesítményét a közösségi oldalán.",
+      "key_points": [
+        "Schóbert Lara Lady Gaga Always Remember Us This Way című dalát adta elő a Megasztár válogatóján.",
+        "A produkciót a négy éve daganatos betegséggel küzdő édesanyjának, Rubint Rékának ajánlotta.",
+        "A zsűritől mindössze egy igent kapott, így nem jutott be a következő fordulóba.",
+        "Instagram-oldalán elismerte: két hét felkészüléssel nem érdemelt volna továbbjutást, és a kommenteket szándékosan nem olvasta el."
+      ],
+      "content": "Véget ért a Megasztár Schóbert Lara számára, miután a válogatón mindössze egyetlen igent kapott a zsűritagoktól. Rubint Réka és Schóbert Norbi lánya a színpadon Lady Gaga Always Remember Us This Way című számát énekelte; a fellépésnek különös érzelmi súlyt adott, hogy előadását édesanyjának ajánlotta. Ahogy [korábban beszámoltunk róla](/bulvar/2026-10-02-ujabb-nehez-vizsgalat-elott-all-a-fitneszkiralyno/), a fitneszedző idén áprilisban hozta nyilvánosságra, hogy négy éve daganatos betegséggel harcol.\n\nA produkció azonban nem győzte meg az ítészeket, így nem juthatott tovább. A döntést követően Lara az Instagram-oldalán osztotta meg gondolatait: leszögezte, hogy egyáltalán nem szeretne mentegetőzni, és a kiesését a befektetett energia tükrében teljesen reálisnak tartja.\n\nBejegyzésében a Sztárboxban szerzett tapasztalataira is utalt, ahol megtanulta, mekkora fegyelem és mennyi munka szükséges a látható eredményhez. Kifejtette, hogy a televíziós szereplést követő hozzászólásokat szándékosan nem olvasta el: nem a kritikát akarta elutasítani, hanem tisztában van a hibáival, és azzal is, hogy az izgalom rányomta a bélyegét a produkcióra.\n\nZárásként megköszönte a támogató üzeneteket, és elismerte: rengeteg felgyülemlett érzelem dolgozik benne, amelyeket jelenleg a zene és az éneklés segítségével igyekszik kiadni magából – még akkor is, ha ezen az úton még sokat kell fejlődnie.",
+      "content_format": "markdown",
+      "body": [
+        "Véget ért a Megasztár Schóbert Lara számára, miután a válogatón mindössze egyetlen igent kapott a zsűritagoktól. Rubint Réka és Schóbert Norbi lánya a színpadon Lady Gaga Always Remember Us This Way című számát énekelte; a fellépésnek különös érzelmi súlyt adott, hogy előadását édesanyjának ajánlotta. Ahogy [korábban beszámoltunk róla](/bulvar/2026-10-02-ujabb-nehez-vizsgalat-elott-all-a-fitneszkiralyno/), a fitneszedző idén áprilisban hozta nyilvánosságra, hogy négy éve daganatos betegséggel harcol.",
+        "A produkció azonban nem győzte meg az ítészeket, így nem juthatott tovább. A döntést követően Lara az Instagram-oldalán osztotta meg gondolatait: leszögezte, hogy egyáltalán nem szeretne mentegetőzni, és a kiesését a befektetett energia tükrében teljesen reálisnak tartja.",
+        "Bejegyzésében a Sztárboxban szerzett tapasztalataira is utalt, ahol megtanulta, mekkora fegyelem és mennyi munka szükséges a látható eredményhez. Kifejtette, hogy a televíziós szereplést követő hozzászólásokat szándékosan nem olvasta el: nem a kritikát akarta elutasítani, hanem tisztában van a hibáival, és azzal is, hogy az izgalom rányomta a bélyegét a produkcióra.",
+        "Zárásként megköszönte a támogató üzeneteket, és elismerte: rengeteg felgyülemlett érzelem dolgozik benne, amelyeket jelenleg a zene és az éneklés segítségével igyekszik kiadni magából – még akkor is, ha ezen az úton még sokat kell fejlődnie."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 224,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1791710287-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/bulvar-1791710287-0.jpg",
+        "kind": "photo",
+        "alt": "Egyetlen igennel búcsúzott a Megasztártól Schóbert Lara",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/schobert-lara-lady-gaga-megasztar-valogato/yscfg49",
+          "title": "Megszólalt Schóbert Lara a Megasztárból való kiesése után: ezt mondta a szerepléséről",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T11:16:12+02:00"
+        },
+        {
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/schobert-lara-nem-jutott-tovabb-megasztar-szavazas/h9n5epb",
+          "title": "Megérdemelten esett ki Shóbert Lara a Megasztár előválogatójából?",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-10-11T11:16:12+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Leszögezem! Nem magyarázkodás. 2 hetet készültem, 2 hét készüléssel nem is érdemeltem volna meg, hogy továbbjussak. Hiszen a siker kulcsa a belefektetett munka. Ezt a Sztárbox megmutatta",
+        "who": "Schóbert Lara",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-14T13:02:14+02:00"
+      },
+      "hot_score": 7.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/schobert-lara-lady-gaga-megasztar-valogato/yscfg49",
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/schobert-lara-nem-jutott-tovabb-megasztar-szavazas/h9n5epb"
+        ]
+      },
+      "date": "2026-10-11",
+      "date_label": "október 11.",
+      "url": "/bulvar/2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara/",
+      "seo": {
+        "meta_title": "Két hét készülés után elvérzett a Megasztárban Schóbert Lara",
+        "meta_description": "Nem jutott tovább a Megasztár válogatóján Schóbert Lara, aki Lady Gaga egyik slágerével próbált szerencsét a tehetségkutatóban. Produkcióját betegséggel küzdő é",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1791710287-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "aad5c312-6f73-52a8-8d5f-1d463f09f75d",
+        "26d5ba58-79ef-57b7-bbf6-c06de344f292"
+      ],
+      "see_also": [
+        {
+          "title": "Újabb nehéz vizsgálat előtt áll a fitneszkirálynő",
+          "url": "/bulvar/2026-10-02-ujabb-nehez-vizsgalat-elott-all-a-fitneszkiralyno/",
+          "date": "2026-10-02"
+        },
+        {
+          "title": "Ismerős arc tér vissza a Megasztár színpadára",
+          "url": "/bulvar/2026-10-02-csaladi-agon-erkezik-az-uj-megasztar-versenyzo/",
+          "date": "2026-10-02"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "c128931a4e931fb0fd9c81aee1590d826400aebe0627e786c182dfeef895d519",
+      "pipeline_run_id": "38127525408",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:14+02:00",
+      "updated_at": "2026-10-14T13:02:14+02:00",
+      "published_at": "2026-10-14T13:02:14+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Schóbert Lara",
+        "Lady Gaga",
+        "Rubint Réka",
+        "Megasztár talent show",
+        "Instagram",
+        "Sztárbox studio",
+        "stage spotlight",
+        "microphone",
+        "audience cheering"
+      ]
+    },
+    {
+      "id": "f3a0e13b-00c5-5cfd-a35c-7b0c521329b5",
+      "slug": "2026-10-14-lelotte-a-feher-haz-az-elnoki-menyasszony-nagykoveti-karrierjet",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Egyesült Államok",
+        "Görögország",
+        "diplomácia",
+        "korrupció",
+        "Donald Trump"
+      ],
+      "title": "Lelőtte a Fehér Ház az elnöki menyasszony nagyköveti karrierjét",
+      "subtitle": null,
+      "lead": "Alig két órával azután, hogy az amerikai kormányzat nyilvánosan távozásra szólította fel, lemondott az Egyesült Államok athéni nagykövete. A diplomatát korrupcióval és hivatali visszaéléssel vádolták meg.",
+      "key_points": [
+        "Kimberly Guilfoyle nagykövet a Fehér Ház felszólítására lemondott tisztségéről.",
+        "A The Wall Street Journal cikksorozata számolt be a diplomata megkérdőjelezhető ügyleteiről.",
+        "A gyanú szerint a nagykövet helyi tisztviselőket fenyegetett, és befolyását pénzért cserébe kínálta fel."
+      ],
+      "content": "Alig két órával azután, hogy az amerikai kormányzat erre nyilvánosan felszólította, lemondott az Egyesült Államok athéni nagykövete. Katie Zacharia, Donald Trump amerikai elnök sajtótitkára korábban közölte: a diplomatát súlyos bírálatok érték görögországi megbízatása során tanúsított kifogásolható, sőt, potenciálisan törvénysértő magatartása miatt.\n\nA The Wall Street Journal a múlt hónap végén megjelent cikksorozatában részletesen beszámolt a diplomata kétes ügyeiről. A lap szerint az esetek között szerepelt a fogadó ország tisztviselőinek állítólagos fenyegetése, szabályellenes ajándékok és szolgáltatások elfogadása, valamint az is, hogy a nagykövet felajánlotta: kormányzati befolyását készpénzért cserébe érvényesíti.\n\nA távozó diplomata, Kimberly Guilfoyle – a Fox News korábbi műsorvezetője és kaliforniai ügyész, aki egykor Gavin Newsom kaliforniai kormányzó felesége volt, jelenleg pedig az elnök fiának, Donald Jr.-nak a menyasszonya – lemondása kapcsán az X-en úgy fogalmazott: az ellene felhozott vádak hamisak, és határozottan megvédi a nevét, hírnevét, valamint feddhetetlenségét.\n\nA görög kormány eddig nem reagált hivatalosan a fejleményekre, az ellenzéki pártok ugyanakkor felszólították az athéni külügyminisztériumot, hogy kéresse be a volt nagykövetet a vádak tisztázására. Ezzel párhuzamosan az amerikai képviselőház és a szenátus külügyi bizottságának két vezető demokrata párti képviselője is hivatalos vizsgálat indítását követeli.\n\nA térségben zajló amerikai gazdasági törekvések hátterében egyéb feszültségek is kirajzolódnak. Az Egyesült Államok cseppfolyósított földgázzal (LNG) árasztaná el a balkáni államokat, és Trump-közeli üzleti körök is beszálltak a helyi gázinfrastruktúra-fejlesztésekbe. Több ügyletnél azonban felmerült a korrupció gyanúja, miközben a lépés a gázfüggőség növelése révén",
+      "content_format": "markdown",
+      "body": [
+        "Alig két órával azután, hogy az amerikai kormányzat erre nyilvánosan felszólította, lemondott az Egyesült Államok athéni nagykövete. Katie Zacharia, Donald Trump amerikai elnök sajtótitkára korábban közölte: a diplomatát súlyos bírálatok érték görögországi megbízatása során tanúsított kifogásolható, sőt, potenciálisan törvénysértő magatartása miatt.",
+        "A The Wall Street Journal a múlt hónap végén megjelent cikksorozatában részletesen beszámolt a diplomata kétes ügyeiről. A lap szerint az esetek között szerepelt a fogadó ország tisztviselőinek állítólagos fenyegetése, szabályellenes ajándékok és szolgáltatások elfogadása, valamint az is, hogy a nagykövet felajánlotta: kormányzati befolyását készpénzért cserébe érvényesíti.",
+        "A távozó diplomata, Kimberly Guilfoyle – a Fox News korábbi műsorvezetője és kaliforniai ügyész, aki egykor Gavin Newsom kaliforniai kormányzó felesége volt, jelenleg pedig az elnök fiának, Donald Jr.-nak a menyasszonya – lemondása kapcsán az X-en úgy fogalmazott: az ellene felhozott vádak hamisak, és határozottan megvédi a nevét, hírnevét, valamint feddhetetlenségét.",
+        "A görög kormány eddig nem reagált hivatalosan a fejleményekre, az ellenzéki pártok ugyanakkor felszólították az athéni külügyminisztériumot, hogy kéresse be a volt nagykövetet a vádak tisztázására. Ezzel párhuzamosan az amerikai képviselőház és a szenátus külügyi bizottságának két vezető demokrata párti képviselője is hivatalos vizsgálat indítását követeli.",
+        "A térségben zajló amerikai gazdasági törekvések hátterében egyéb feszültségek is kirajzolódnak. Az Egyesült Államok cseppfolyósított földgázzal (LNG) árasztaná el a balkáni államokat, és Trump-közeli üzleti körök is beszálltak a helyi gázinfrastruktúra-fejlesztésekbe. Több ügyletnél azonban felmerült a korrupció gyanúja, miközben a lépés a gázfüggőség növelése révén"
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 258,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/180720_KimberlyGuilfoyle_248_wiki_%28cropped%29.jpg/1280px-180720_KimberlyGuilfoyle_248_wiki_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1419,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Photo of Kimberly Guilfoyle taken at photo shoot for Metropolitan Magazine.",
+        "credit": "Photographer: Jill Lotenberg, Jill Photography\n\nPublisher:  Chase Backer, 25A Ma / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:180720_KimberlyGuilfoyle_248_wiki_(cropped).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261014_kimberly-guilfoyle-egyesult-allamok-atheni-nagykovet-lemondas",
+          "title": "Lemondott az Egyesült Államok fenyegetőzéssel vádolt athéni nagykövete",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:22+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T13:02:13+02:00"
+      },
+      "hot_score": 5.37,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261014_kimberly-guilfoyle-egyesult-allamok-atheni-nagykovet-lemondas"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/vilag/2026-10-14-lelotte-a-feher-haz-az-elnoki-menyasszony-nagykoveti-karrierjet/",
+      "seo": {
+        "meta_title": "Lelőtte a Fehér Ház az elnöki menyasszony nagyköveti karrier",
+        "meta_description": "Alig két órával azután, hogy az amerikai kormányzat nyilvánosan távozásra szólította fel, lemondott az Egyesült Államok athéni nagykövete. A diplomatát korrupci",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-lelotte-a-feher-haz-az-elnoki-menyasszony-nagykoveti-karrierjet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/180720_KimberlyGuilfoyle_248_wiki_%28cropped%29.jpg/1280px-180720_KimberlyGuilfoyle_248_wiki_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "34e5ff1fe260018a34e09dc3ef6be2ce063006d54f7c64d6fcf54e8e7e328df4",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T13:02:13+02:00",
+      "updated_at": "2026-10-14T13:02:13+02:00",
+      "published_at": "2026-10-14T13:02:13+02:00",
+      "expires_at": null
+    },
     {
       "id": "27544e5b-3fdf-5068-bdc7-e9e2e54b4791",
       "slug": "2026-10-14-igy-olvadt-el-bayer-zsolt-cegenek-millios-bevetele",

@@ -1,9 +1,9 @@
 {
   "articles": [
     {
-      "id": "6c258b5c-c457-5fbe-9f38-ec35122c21d1",
-      "slug": "2026-10-11-egyetlen-igennel-bucsuzott-a-megasztartol-schobert-lara",
-      "status": "pending",
+      "id": "eea6f27c-76e4-5030-896e-e2f755146d48",
+      "slug": "2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara",
+      "status": "published",
       "category": "bulvar",
       "subcategory": null,
       "tags": [
@@ -13,7 +13,7 @@
         "TV2",
         "tehetségkutató"
       ],
-      "title": "Egyetlen igennel búcsúzott a Megasztártól Schóbert Lara",
+      "title": "Két hét készülés után elvérzett a Megasztárban Schóbert Lara",
       "subtitle": null,
       "lead": "Nem jutott tovább a Megasztár válogatóján Schóbert Lara, aki Lady Gaga egyik slágerével próbált szerencsét a tehetségkutatóban. Produkcióját betegséggel küzdő édesanyjának ajánlotta, kiesése után pedig önkritikusan értékelte teljesítményét a közösségi oldalán.",
       "key_points": [
@@ -135,11 +135,11 @@
       },
       "date": "2026-10-11",
       "date_label": "október 11.",
-      "url": "/bulvar/2026-10-11-egyetlen-igennel-bucsuzott-a-megasztartol-schobert-lara/",
+      "url": "/bulvar/2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara/",
       "seo": {
-        "meta_title": "Egyetlen igennel búcsúzott a Megasztártól Schóbert Lara",
+        "meta_title": "Két hét készülés után elvérzett a Megasztárban Schóbert Lara",
         "meta_description": "Nem jutott tovább a Megasztár válogatóján Schóbert Lara, aki Lady Gaga egyik slágerével próbált szerencsét a tehetségkutatóban. Produkcióját betegséggel küzdő é",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-11-egyetlen-igennel-bucsuzott-a-megasztartol-schobert-lara/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-11-ket-het-keszules-utan-elverzett-a-megasztarban-schobert-lara/",
         "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1791710287-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -171,9 +171,9 @@
       "dedupe_hash": "c128931a4e931fb0fd9c81aee1590d826400aebe0627e786c182dfeef895d519",
       "pipeline_run_id": "38127525408",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-11T11:16:12+02:00",
-      "updated_at": "2026-10-11T11:16:12+02:00",
-      "published_at": "2026-10-11T11:16:12+02:00",
+      "created_at": "2026-10-14T13:02:14+02:00",
+      "updated_at": "2026-10-14T13:02:14+02:00",
+      "published_at": "2026-10-14T13:02:14+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -186,7 +186,8 @@
         "msg_ids": [
           4782,
           4783,
-          4784
+          4784,
+          5923
         ],
         "control_id": 4785
       },
@@ -200,12 +201,13 @@
         "stage spotlight",
         "microphone",
         "audience cheering"
-      ]
+      ],
+      "live": true
     },
     {
       "id": "3c10f334-6b30-5d9a-b6b4-9573ee87bccf",
       "slug": "2026-10-12-karacsony-szerint-veszteseges-zuglo-szerint-milliardos-nyereseg-a-par",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -357,9 +359,9 @@
       "dedupe_hash": "794202dcf8d5825a0151df0bc960038a75f898e258032996f86dcc77355ccfff",
       "pipeline_run_id": "38227412450",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T11:26:37+02:00",
-      "updated_at": "2026-10-12T11:26:37+02:00",
-      "published_at": "2026-10-12T11:26:37+02:00",
+      "created_at": "2026-10-14T13:02:15+02:00",
+      "updated_at": "2026-10-14T13:02:15+02:00",
+      "published_at": "2026-10-14T13:02:15+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -372,10 +374,12 @@
         "msg_ids": [
           5135,
           5136,
-          5137
+          5137,
+          5924
         ],
         "control_id": 5138
-      }
+      },
+      "live": true
     },
     {
       "id": "cd237d04-ed2b-5e00-864c-8dbe574f472c",
@@ -11106,7 +11110,7 @@
     {
       "id": "f3a0e13b-00c5-5cfd-a35c-7b0c521329b5",
       "slug": "2026-10-14-lelotte-a-feher-haz-az-elnoki-menyasszony-nagykoveti-karrierjet",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11242,9 +11246,9 @@
       "dedupe_hash": "34e5ff1fe260018a34e09dc3ef6be2ce063006d54f7c64d6fcf54e8e7e328df4",
       "pipeline_run_id": "38541472194",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T11:27:22+02:00",
-      "updated_at": "2026-10-14T11:27:22+02:00",
-      "published_at": "2026-10-14T11:27:22+02:00",
+      "created_at": "2026-10-14T13:02:13+02:00",
+      "updated_at": "2026-10-14T13:02:13+02:00",
+      "published_at": "2026-10-14T13:02:13+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11257,9 +11261,9 @@
         "msg_ids": [],
         "control_id": 5873,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 13:02 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-14T13:02:07+02:00"
+      "live": true
     },
     {
       "id": "db8eeeaa-fe80-544c-b79a-38f4d645fcee",
@@ -11481,9 +11485,9 @@
       "scheduled_at": "2026-10-14T13:22:07+02:00"
     },
     {
-      "id": "987bd75a-2401-56e2-a3b2-884fd8824729",
-      "slug": "2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto",
-      "status": "pending",
+      "id": "178a9e8e-05c3-54b7-8c45-1fe35469fe45",
+      "slug": "2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek",
+      "status": "published",
       "category": "eletmod",
       "subcategory": null,
       "tags": [
@@ -11493,7 +11497,7 @@
         "orvostudomány",
         "életmód"
       ],
-      "title": "Térdfájás: Műtét helyett apró részecskékkel is kezelhető",
+      "title": "Új eljárás kínál esélyt a térdízületi gyulladással küzdőknek",
       "subtitle": null,
       "lead": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a világ leggyakoribb ízületi megbetegedésénél kínálhat alternatívát a hagyományos kezelések és a protézisbeültetés helyett.",
       "key_points": [
@@ -11641,11 +11645,11 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/eletmod/2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto/",
+      "url": "/eletmod/2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek/",
       "seo": {
-        "meta_title": "Térdfájás: Műtét helyett apró részecskékkel is kezelhető",
+        "meta_title": "Új eljárás kínál esélyt a térdízületi gyulladással küzdőknek",
         "meta_description": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-uj-eljaras-kinal-eselyt-a-terdizuleti-gyulladassal-kuzdoknek/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11663,9 +11667,9 @@
       "dedupe_hash": "c7058de221682795b801008ae829306e9da638cedc66de2e279a61f2c56d5879",
       "pipeline_run_id": "38541472194",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T11:27:18+02:00",
-      "updated_at": "2026-10-14T11:27:18+02:00",
-      "published_at": "2026-10-14T11:27:18+02:00",
+      "created_at": "2026-10-14T13:02:16+02:00",
+      "updated_at": "2026-10-14T13:02:16+02:00",
+      "published_at": "2026-10-14T13:02:16+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11675,12 +11679,15 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-14T09:28:18+00:00",
-        "msg_ids": [],
+        "msg_ids": [
+          5925
+        ],
         "control_id": 5892,
         "title_prompt_id": null,
         "compact": "🕒 Kint lesz 13:42 (✏️ → ✅ = azonnal)"
       },
-      "scheduled_at": "2026-10-14T13:42:07+02:00"
+      "scheduled_at": "2026-10-14T13:42:07+02:00",
+      "live": true
     },
     {
       "id": "5a014db6-a35f-5bfa-a3f0-f9da53e48b7a",
@@ -11909,7 +11916,7 @@
     {
       "id": "a66567df-c5e3-5109-b5ac-00c301455566",
       "slug": "2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11945,16 +11952,17 @@
       "word_count": 338,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/20ad83512a9b2a4e.jpg",
+        "width": 4608,
+        "height": 3072,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
-        "credit": "NyitraiD / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg",
-        "vision_score": 10.0
+        "alt": "bicycle path, road sign, bicycle sign, road marking, cycle path, bicycle path, road sign, road sign, road sign, road sign, cycle path, cycle path, cycle path, cycle path, cycle path",
+        "credit": "652234 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/bicycle-path-road-sign-bicycle-sign-3444914/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/20ad83512a9b2a4e.jpg",
+        "orig_url": "https://pixabay.com/get/g5a2b90706dd2c3e6f02214c22d6bf521e7d2296381876bd21825e49f0d7c6f0f533ba767cb721db273890ad6ad8ff67f597a134edd583589fd6f98d012b3a11a_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12043,7 +12051,7 @@
         "meta_title": "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
         "meta_description": "Közel húsz kilométeren, hazai és frissen megnyílt európai uniós forrásokból újítják meg a Balatoni Bringakör északi szakaszát. A beruházások célja a balesetvesz",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/20ad83512a9b2a4e.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12068,9 +12076,9 @@
       "dedupe_hash": "2e531b281700287585e68a080be42990d383c445e08e26cec286181fe878ee59",
       "pipeline_run_id": "38541472194",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T11:27:07+02:00",
-      "updated_at": "2026-10-14T11:27:07+02:00",
-      "published_at": "2026-10-14T11:27:07+02:00",
+      "created_at": "2026-10-14T13:02:17+02:00",
+      "updated_at": "2026-10-14T13:02:17+02:00",
+      "published_at": "2026-10-14T13:02:17+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12080,17 +12088,20 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-14T09:28:42+00:00",
-        "msg_ids": [],
+        "msg_ids": [
+          5926
+        ],
         "control_id": 5911,
         "title_prompt_id": null,
         "compact": "🕒 Kint lesz 14:22 (✏️ → ✅ = azonnal)"
       },
-      "scheduled_at": "2026-10-14T14:22:07+02:00"
+      "scheduled_at": "2026-10-14T14:22:07+02:00",
+      "live": true
     },
     {
-      "id": "7b700ab1-95b7-5c1c-91bc-fe4e674a382b",
-      "slug": "2026-10-14-a-lejarato-videok-miatt-szolt-be-nemeth-balazsnak-forsthoffer-agnes",
-      "status": "pending",
+      "id": "864db0ab-e452-5b0d-954d-8a13c0d4f6fe",
+      "slug": "2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -12100,7 +12111,7 @@
         "Országgyűlés",
         "belpolitika"
       ],
-      "title": "A lejárató videók miatt szólt be Németh Balázsnak Forsthoffer Ágnes",
+      "title": "Forsthoffer Ágnes válasza Németh Balázs parlamenti videóira",
       "subtitle": null,
       "lead": "Forsthoffer Ágnes éles kritikával illette Németh Balázs fideszes képviselő parlamenti videóit, amelyek szerinte valótlan állításokkal próbálják lejáratni Magyar Pétert. Forsthoffer Ágnes tisztázta a keddi Országgyűlés szünetében történt ominózus beszélgetés valódi hátterét is.",
       "key_points": [
@@ -12221,11 +12232,11 @@
       },
       "date": "2026-10-14",
       "date_label": "október 14.",
-      "url": "/kozelet/2026-10-14-a-lejarato-videok-miatt-szolt-be-nemeth-balazsnak-forsthoffer-agnes/",
+      "url": "/kozelet/2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira/",
       "seo": {
-        "meta_title": "A lejárató videók miatt szólt be Németh Balázsnak Forsthoffe",
+        "meta_title": "Forsthoffer Ágnes válasza Németh Balázs parlamenti videóira",
         "meta_description": "Forsthoffer Ágnes éles kritikával illette Németh Balázs fideszes képviselő parlamenti videóit, amelyek szerinte valótlan állításokkal próbálják lejáratni Magyar",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-a-lejarato-videok-miatt-szolt-be-nemeth-balazsnak-forsthoffer-agnes/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/2/29/N%C3%A9meth_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -12243,9 +12254,9 @@
       "dedupe_hash": "839bb99e05e9304bdd5937a8704645edf98f7cb2f2cc5cfb8a9f9e9cd1d8b91c",
       "pipeline_run_id": "38545876495",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T12:15:52+02:00",
-      "updated_at": "2026-10-14T12:15:52+02:00",
-      "published_at": "2026-10-14T12:15:52+02:00",
+      "created_at": "2026-10-14T13:02:18+02:00",
+      "updated_at": "2026-10-14T13:02:18+02:00",
+      "published_at": "2026-10-14T13:02:18+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12255,12 +12266,15 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-14T10:18:02+00:00",
-        "msg_ids": [],
+        "msg_ids": [
+          5927
+        ],
         "control_id": 5919,
         "title_prompt_id": null,
         "compact": "🕒 Kint lesz 14:42 (✏️ → ✅ = azonnal)"
       },
-      "scheduled_at": "2026-10-14T14:42:07+02:00"
+      "scheduled_at": "2026-10-14T14:42:07+02:00",
+      "live": true
     }
   ]
 }
