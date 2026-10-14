@@ -11191,19 +11191,10 @@
         "title": 1,
         "image": 3,
         "sent_at": "2026-10-14T14:03:17+00:00",
-        "msg_ids": [
-          5973,
-          5974,
-          5975,
-          5976,
-          5977,
-          5978,
-          5979,
-          5980,
-          5981,
-          6001
-        ],
-        "control_id": 5982
+        "msg_ids": [],
+        "control_id": 5982,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
