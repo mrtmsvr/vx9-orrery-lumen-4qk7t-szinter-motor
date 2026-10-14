@@ -12178,13 +12178,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-14T18:12:32+00:00",
-        "msg_ids": [
-          6079,
-          6080,
-          6081
-        ],
-        "control_id": 6082
-      }
+        "msg_ids": [],
+        "control_id": 6082,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:11 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-14T21:11:41+02:00"
     }
   ]
 }
