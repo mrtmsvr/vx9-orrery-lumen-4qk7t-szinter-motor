@@ -11463,16 +11463,26 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Paks_Nuclear_Power_Plant_Controlroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 900,
+          "url": "https://pixabay.com/get/gc67564eaa562a5adae1af590dc90fa40ea98c758cbe48bb26d6dd744a72e686b185fc51ddc277ce284cfef1f05a85139dbe55574e2dce23dd2eb567ed9af8fb4_1280.jpg",
+          "width": 4368,
+          "height": 2084,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Paks Nuclear Power Plant controlroom",
-          "credit": "Cecilia, Lili &amp; Krisztian from Kuala Lumpur, Malaysia / Wikimedia Commons",
-          "license": "CC BY 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Paks_Nuclear_Power_Plant_Controlroom.jpg",
-          "vision_score": 7.0
+          "alt": "filling station, gas, gas station, gasoline station, night, lighting, illuminated, gas, gas station, gas station, gas station, gas station, gas station",
+          "credit": "Pexels / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/filling-station-gas-gas-station-1839760/",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/gdb084ebdf921969eac328674f31b11a7ef5125c1ad8cb9dd6f4565d8341ce47688aca68e45eff1342f7408a37609a03646ab4fad96a1738fbb1a48686df978e2_1280.jpg",
+          "width": 4608,
+          "height": 3072,
+          "kind": "photo",
+          "alt": "gas pump, petrol stations, petrol, gas, fuel, refuel, historically, shell, fuel pump, old, vintage, gas pump, petrol, petrol, petrol, gas, gas, gas, gas, fuel, fuel, fuel, fuel, fuel, vintage, vintage",
+          "credit": "652234 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/gas-pump-petrol-stations-petrol-gas-1914310/",
+          "vision_score": 8.0
         }
       ],
       "story": [
@@ -11556,10 +11566,26 @@
         "sent_at": "2026-10-14T06:18:41+00:00",
         "msg_ids": [
           5820,
-          5821
+          5821,
+          5823,
+          5824
         ],
-        "control_id": 5822
-      }
+        "control_id": 5825
+      },
+      "image_queries": [
+        "Istvan Kapitany",
+        "Andras Toth",
+        "Home Energy Storage Program",
+        "Hungarian Ministry of Economy and Energy",
+        "Budapest",
+        "Portfolio magazine",
+        "fuel station",
+        "energy storage batteries",
+        "government press conference"
+      ],
+      "images_seen": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Paks_Nuclear_Power_Plant_Controlroom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
     }
   ]
 }
