@@ -70,8 +70,12 @@ def list_id() -> int | None:
 def sender() -> dict | None:
     if os.getenv("NEWSLETTER_SENDER_EMAIL"):
         return {"name": "Kollektíva", "email": os.environ["NEWSLETTER_SENDER_EMAIL"]}
-    _, data = brevo("/senders")
+    code, data = brevo("/senders")
     act = [s for s in data.get("senders", []) if s.get("active")]
+    if not act:
+        log.warning("Brevo /senders: HTTP %s %s", code, str(data)[:300])
+        # a hitelesített domain feladója akkor is használható, ha a listában nem „aktív” (a kampány-API szól, ha mégsem)
+        return {"name": "Kollektíva", "email": os.getenv("NEWSLETTER_FALLBACK_SENDER", "szerkesztoseg@xn--kollektva-m5a.hu")}
     # a saját domaines feladó (szerkesztoseg@kollektíva.hu) az első – a Gmailes feladó gyakrabban megy spambe
     act.sort(key=lambda s: 0 if s.get("email", "").lower().endswith(("@xn--kollektva-m5a.hu", "@kollektíva.hu")) else 1)
     return {"name": "Kollektíva", "email": act[0]["email"]} if act else None
