@@ -193,7 +193,7 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
 Kollektíva<span style="color:#C9A45C">.</span><div style="font:13px Arial,sans-serif;color:#9492B3;margin-top:4px">
 Heti Kollektíva · a hét röviden · {now.strftime('%Y.%m.%d.')}</div></td></tr>
 <tr><td style="padding:24px 20px 4px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">
-{items}{retro_html}{more}</table></td></tr>
+{items}{sponsor_html()}{retro_html}{more}</table></td></tr>
 <tr><td style="padding:14px 20px 22px;font:12px/1.5 Arial,sans-serif;color:#8a8aa3;border-top:1px solid #eee">
 Azért kapod ezt a levelet, mert feliratkoztál a Heti Kollektívára a kollektíva.hu oldalon.<br>
 <a href="{{{{ unsubscribe }}}}" style="color:#8a8aa3">Leiratkozás</a></td></tr>
@@ -221,6 +221,18 @@ def _failed(runs: dict, week: str, fails: int, why: str, args) -> int:
     if fails in (1, 3):
         _tg(f"⚠️ A heti hírlevél nem ment ki ({fails}. próba{', többet ezen a héten nem próbálom' if fails == 3 else ', később újrapróbálom'}): {why}")
     return 0
+
+
+def sponsor_html() -> str:
+    """Hírlevél-szponzor (data/monetize.json → newsletter_sponsor: {name, text, url, until}) – „Támogató” jelöléssel."""
+    sp = kc.read_json(kc.BASE_DIR / "data" / "monetize.json", {}).get("newsletter_sponsor") or {}
+    if not sp.get("name") or not sp.get("url") or (sp.get("until") and sp["until"] < datetime.now().date().isoformat()):
+        return ""
+    return (f'<tr><td style="padding:8px 0 16px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" '
+            f'style="background:#F6F2E8;border-radius:10px"><tr><td style="padding:14px 16px;font:13px/1.5 Arial,sans-serif;color:#0E1024">'
+            f'<div style="font:700 11px Arial,sans-serif;letter-spacing:.08em;color:#8a8aa3">TÁMOGATÓ · SZPONZORÁLT</div>'
+            f'<b>{E(sp["name"])}</b> – {E(sp.get("text", ""))} <a href="{E(sp["url"])}" style="color:#0E1024">Megnézem →</a>'
+            f'</td></tr></table></td></tr>')
 
 
 def main(argv=None) -> int:
