@@ -1545,6 +1545,7 @@ blockquote{margin:32px 0;padding-left:18px;border-left:2px solid var(--brass);fo
 blockquote.q{color:var(--parch)}blockquote cite{display:block;margin-top:8px;font:600 13px/1.4 Manrope,system-ui,sans-serif;font-style:normal;letter-spacing:.04em;color:var(--brass)}
 article p{color:rgba(236,230,216,.88)}
 .box{margin:40px 0;padding:18px 20px;background:var(--vault);border:1px solid var(--line);border-radius:12px;font-size:14px;color:var(--dusk)}
+.support{margin:28px 0}.sup-btn{display:inline-block;margin-top:12px;padding:10px 18px;border-radius:999px;background:var(--gold,#C9A45C);color:#0E1024;font-weight:600;text-decoration:none}
 .box a{color:var(--parch)}.seealso b{color:var(--brass);font-size:13px;letter-spacing:.12em;text-transform:uppercase}.seealso ul{margin:8px 0 0;padding-left:18px}.seealso span{color:var(--dusk)}
 .vid{position:relative;aspect-ratio:16/9;margin:28px 0;border-radius:12px;overflow:hidden;background:var(--vault)}.vid iframe{position:absolute;inset:0;width:100%;height:100%;border:0}figure.hero img{max-height:min(56vh,480px);object-fit:cover;object-position:center 30%}figure{margin:32px 0}figure img{display:block;width:100%;height:auto;max-height:70vh;object-fit:contain;border-radius:12px;background:var(--vault)}
 figure.graphic img{max-height:340px;padding:28px;background:#ECE6D8}
@@ -1607,9 +1608,32 @@ LOGO_SVG = ('<svg xmlns="http://www.w3.org/2000/svg" viewBox="-438 -324 837 647"
             '<circle cx="351.7" cy="-38.7" r="47" fill="#0E1024"/><circle cx="351.7" cy="-38.7" r="36" fill="#C9A45C"/></svg>')
 
 
+def _mon() -> dict:
+    """Bevételi beállítások (data/monetize.json – nem titkos adatok): adsense_client (ca-pub-…), support_url,
+    support_label. Üres érték = az adott elem nem jelenik meg."""
+    return read_json(BASE_DIR / "data" / "monetize.json", {})
+
+
+def _adsense_head() -> str:
+    c = (_mon().get("adsense_client") or "").strip()
+    return (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={E(c)}" '
+            f'crossorigin="anonymous"></script>') if c.startswith("ca-pub-") else ""
+
+
+def _support_html() -> str:
+    u = (_mon().get("support_url") or "").strip()
+    if not u.startswith("https://"):
+        return ""
+    return (f'<div class="box support"><b>Tetszett a cikk?</b> A Kollektíva független, nincs mögötte médiacég, befektető '
+            f'vagy párt. Ha szeretnéd, hogy így maradjon, támogass minket egy kávé árával.'
+            f'<br><a class="sup-btn" href="{E(u)}" target="_blank" rel="noopener">☕ {E(_mon().get("support_label") or "Támogatom a Kollektívát")}</a></div>')
+
+
 def _page(title: str, description: str, canonical: str, body: str, head_extra: str = "",
           noindex: bool = False) -> str:
     robots = "noindex,follow" if noindex else "index,follow,max-image-preview:large"
+    sup = (_mon().get("support_url") or "").strip()
+    sup_link = f'<a href="{E(sup)}" target="_blank" rel="noopener">Támogatás</a>' if sup.startswith("https://") else ""
     return f"""<!DOCTYPE html>
 <html lang="hu">
 <head>
@@ -1629,6 +1653,7 @@ def _page(title: str, description: str, canonical: str, body: str, head_extra: s
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,500&family=Manrope:wght@400;600&display=swap" rel="stylesheet">
 <style>{PAGE_CSS}</style>
+{_adsense_head()}
 {head_extra}
 </head>
 <body>
@@ -1637,7 +1662,7 @@ def _page(title: str, description: str, canonical: str, body: str, head_extra: s
 <main>
 {body}
 </main>
-<footer>© {datetime.now().year} {SITE_NAME}<br><a href="/">Főoldal</a>{NAV_LINKS}<a href="/feed.xml">RSS</a><br><a href="/info/#impresszum">Impresszum</a><a href="/info/#adatkezeles">Adatkezelés</a><a href="/info/#sutik">Sütik</a><a href="/info/#hirdetes">Hirdetés</a>{GPREF_FOOT}</footer>
+<footer>© {datetime.now().year} {SITE_NAME}<br><a href="/">Főoldal</a>{NAV_LINKS}<a href="/feed.xml">RSS</a><br><a href="/info/#impresszum">Impresszum</a><a href="/info/#adatkezeles">Adatkezelés</a><a href="/info/#sutik">Sütik</a><a href="/info/#hirdetes">Hirdetés</a>{sup_link}{GPREF_FOOT}</footer>
 {NEW_TOAST_HTML}
 <script src="/poll-widget.js?v=10" defer></script>
 <script>try{{navigator.sendBeacon("/api/olvas",JSON.stringify({{p:location.pathname,r:document.referrer}}))}}catch(e){{}}</script>
@@ -1875,6 +1900,7 @@ box.querySelectorAll('button').forEach(function(b){{b.onclick=function(){{fetch(
 fetch('/api/poll?id='+encodeURIComponent(p.id)+'&v='+encodeURIComponent(KV)).then(function(r){{return r.json()}}).then(function(r){{if(!r.ok)return;(r.voted!==null||r.closed)?show(r):ask()}})}}).catch(function(){{}})}})();</script>
 {_share_html(a["seo"]["canonical_url"], a["title"], len(a.get("sources", [])))}
 <div class="srclist" id="srclist" hidden><ul>{sources or "<li>—</li>"}</ul></div>
+{_support_html()}
 {see_also}
 {_related_html(related or [])}"""
     og = (f'<meta property="og:image" content="{E(img["url"])}">\n<meta property="og:type" content="article">\n'
@@ -1949,23 +1975,52 @@ Adataid törlését, helyesbítését vagy másolatát bármikor kérheted a hí
 feliratkozol. A belépés a böngésződben marad meg; kilépni a nevedre kattintva tudsz.</p>
 
 <h2 id="sutik">Sütik (cookie-k)</h2>
-<p>Az oldal nem használ követő vagy hirdetési sütiket, ezért nincs mit elfogadnod. A böngésződ csak egy apró,
+__ADS_COOKIE__<p>Ezen kívül a böngésződ csak egy apró,
 helyi beállítást jegyez meg (a horoszkópnál kiválasztott csillagjegyet, és ha belépsz, a nevedet), ez nem hagyja el a gépedet, és a böngésző
-beállításaiban bármikor törölheted. Ha a jövőben hirdetések vagy mérőeszközök kerülnek az oldalra, itt jelezzük,
-és előtte kérjük a hozzájárulásodat.</p>
+beállításaiban bármikor törölheted.</p>
 
 <h2 id="hirdetes">Hirdetési ajánlat</h2>
-<p>A Kollektíva jelenleg hirdetésmentes. Hirdetési és együttműködési lehetőségekről (szponzorált tartalom,
-hírlevél-megjelenés) hamarosan itt tájékoztatunk.</p>
+<p>A Kollektíva független online magazin közéleti, világ-, gazdasági, tech-, életmód- és kulturális hírekkel, naponta
+frissülő tartalommal és heti hírlevéllel. Hirdetési és együttműködési lehetőségek:</p>
+<ul><li><b>Hírlevél-szponzoráció:</b> egy „Támogató” blokk (logó/név, 1–2 mondat, link) a Heti Kollektíva hírlevélben.</li>
+<li><b>Szponzorált cikk:</b> „Szponzorált tartalom” jelöléssel, a szerkesztőség által ellenőrzött, a lap hangján írt anyag.</li>
+<li><b>Display-hirdetés:</b> a Google hirdetési hálózatán keresztül.</li></ul>
+<p>Minden fizetett tartalmat egyértelműen jelölünk; politikai hirdetést nem közlünk. Ajánlatkérés, aktuális olvasói
+és feliratkozói számok: <a href="mailto:szerkesztoseg@xn--kollektva-m5a.hu?subject=Hirdet%C3%A9s">szerkesztoseg@kollektíva.hu</a></p>
 </article>
 """
+
+
+def _ads_cookie_text() -> str:
+    if _adsense_head():
+        return ("<p><b>Hirdetések:</b> az oldalon a Google AdSense jelenít meg hirdetéseket. Az EU-s látogatóktól a Google "
+                "hozzájárulás-kezelő ablaka kér engedélyt a személyre szabott hirdetésekhez és az ehhez szükséges sütikhez; "
+                "a döntésedet bármikor módosíthatod az ablak újbóli megnyitásával. Részletek: "
+                '<a href="https://policies.google.com/technologies/ads?hl=hu" target="_blank" rel="noopener">Google – hirdetések</a>.</p>')
+    return "<p>Az oldal nem használ követő vagy hirdetési sütiket, ezért nincs mit elfogadnod.</p>"
+
+
+def build_ads_files() -> None:
+    """ads.txt a gyökérben (AdSense-hez kötelező), és a hirdetési kód a kézzel szerkesztett főoldalban (index.html) is."""
+    c = (_mon().get("adsense_client") or "").strip()
+    if not c.startswith("ca-pub-"):
+        return
+    line = f"google.com, {c.replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n"
+    p = BASE_DIR / "ads.txt"
+    if not p.exists() or p.read_text() != line:
+        p.write_text(line)
+    ix = BASE_DIR / "index.html"
+    if ix.exists():
+        t = ix.read_text(encoding="utf-8")
+        if "adsbygoogle.js" not in t and "</head>" in t:
+            ix.write_text(t.replace("</head>", _adsense_head() + "\n</head>", 1), encoding="utf-8")
 
 
 def build_info_page(public: Path) -> None:
     d = public / "info"
     d.mkdir(parents=True, exist_ok=True)
     (d / "index.html").write_text(_page(f"Információ – {SITE_NAME}", "Impresszum, adatkezelés, sütik, hirdetés.",
-                                        f"{SITE_URL}/info/", INFO_BODY), encoding="utf-8")
+                                        f"{SITE_URL}/info/", INFO_BODY.replace("__ADS_COOKIE__", _ads_cookie_text())), encoding="utf-8")
 
 
 POLLS_BODY = """<article>
@@ -2034,6 +2089,7 @@ def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
     """A publikált cikkekből (retro + rovatok) statikus oldalakat, sitemapeket és RSS-t generál a public/ alá."""
     public = output_dir.parent  # public/data -> public
     build_info_page(public)
+    build_ads_files()
     build_polls_page(public)
     build_quiz_page(public)
     pool = (read_json(output_dir / "retro_articles.json", {"articles": []}).get("articles", [])
