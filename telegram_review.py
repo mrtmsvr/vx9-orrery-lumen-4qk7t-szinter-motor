@@ -59,6 +59,9 @@ AUTO_PUBLISH_MIN = int(os.getenv("AUTO_PUBLISH_MIN", "30"))
 # hír csak a te jóváhagyásoddal kerül ki (AUTO_PUBLISH_NEWS=true visszakapcsolja a „30 perc után magától” működést);
 # a saját (időzített) anyag továbbra is csendes időszakban, a határidejéig magától kimehet
 AUTO_NEWS = os.getenv("AUTO_PUBLISH_NEWS", "false").lower() in ("1", "true", "yes")
+# ezekben a rovatokban nem kell jóváhagyás: megírás után AUTO_SECTION_MIN perccel magától kikerül (jogi 🔴 esetén nem)
+AUTO_SECTIONS = {x.strip() for x in os.getenv("AUTO_SECTIONS", "").split(",") if x.strip()}
+AUTO_SECTION_MIN = int(os.getenv("AUTO_SECTION_MIN", "0"))
 E = lambda t: html.escape(str(t or ""), quote=False)  # noqa: E731
 
 
@@ -301,6 +304,9 @@ def _retry_pitches(out_dir: Path, tz: ZoneInfo) -> None:
     threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, chat), daemon=False).start()
 
 
+_NL_LAST = 0.0
+
+
 def _newsletter_check(tz: ZoneInfo) -> None:
     """Vasárnap NEWSLETTER_HOUR (8) után a hírlevél a figyelő ciklusból is kimegy – eddig csak a futások elején nézte,
     így ha a futás 8 előtt indult, csak a következő (akár 40 perccel későbbi) futás küldte ki."""
@@ -309,6 +315,10 @@ def _newsletter_check(tz: ZoneInfo) -> None:
         return
     if kc.read_json(kc.BASE_DIR / "data" / "robot.json", {}).get("last_newsletter_week") == now.strftime("%G-W%V"):
         return
+    global _NL_LAST
+    if time.time() - _NL_LAST < 1800:  # hibánál ne égesse el 15 perc alatt a heti 3 próbát
+        return
+    _NL_LAST = time.time()
     r = subprocess.run([sys.executable, "scripts/newsletter.py"], cwd=kc.BASE_DIR, timeout=600)
     log.info("Hírlevél-ellenőrzés a ciklusból (kilépési kód %s)", r.returncode)
     _save_to_git("Hírlevél")
@@ -782,6 +792,7 @@ HELP = ("Parancsok (rövid / hosszú):\n"
         "/csatornak · /csatorna <YouTube-link> – videófigyelés\n"
         "/l /lista · /f – a váró cikkek újra, minden gombbal\n"
         "/szavazas (állás, létszám) · /keret · /stat (olvasók)\n"
+        "/hirlevel teszt <e-mail> · /hirlevel most\n"
         "Instagram-előnézetre válaszként küldött kép/matrica = új háttér\n"
         "Link vagy „téma: …” → cikk róla")
 
@@ -1120,6 +1131,17 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                 tg("sendMessage", {"chat_id": st["chat_id"], "text": "\n".join(lines) or "Nincs függő cikk.",
                                    **({"reply_markup": {"inline_keyboard": [[{"text": f"📋 Váró cikkek ({len(waiting)})",
                                                                              "callback_data": "fall|x"}]]}} if waiting else {})})
+            elif re.match(r"(?i)/(hirlevel|hírlevél)\b", text):  # /hirlevel teszt <e-mail> · /hirlevel most
+                mt = re.match(r"(?i)/\S+\s+teszt\s+(\S+@\S+)", text)
+                if mt or re.match(r"(?i)/\S+\s+most\b", text):
+                    tg("sendMessage", {"chat_id": st["chat_id"], "text": "📧 Hírlevél: készítem…"})
+                    r = subprocess.run([sys.executable, "scripts/newsletter.py", "--force"] + (["--test", mt.group(1)] if mt else []),
+                                       cwd=kc.BASE_DIR, timeout=600, capture_output=True, text=True)
+                    out = "\n".join(l for l in (r.stdout + r.stderr).splitlines() if "Hírlevél" in l)[-1500:]
+                    tg("sendMessage", {"chat_id": st["chat_id"], "text": "📧 " + (out or f"kész (kód {r.returncode})")})
+                else:
+                    tg("sendMessage", {"chat_id": st["chat_id"], "text": "/hirlevel teszt <e-mail> – próbalevél csak neked\n"
+                                                                      "/hirlevel most – kiküldés most mindenkinek"})
             elif re.match(r"(?i)/(f|fuggo|függő|fuggok|függők)\b", text):
                 changed = _resend_waiting(out_dir, st, pending) or changed
             elif text.startswith("/"):
@@ -1446,11 +1468,16 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
         import offtopic
         now_local = datetime.now(tz)
         live_articles = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
-        for a in [a for a in pending if not a.get("live") and not a.get("hold") and a.get("category") != "bulvar"]:
+        for a in [a for a in pending if not a.get("live") and not a.get("hold")
+                  and (a.get("category") != "bulvar" or "bulvar" in AUTO_SECTIONS)]:
             if a.get("schedule"):
                 if not offtopic.is_due(a, live_articles, now_local):
                     continue
                 msg = "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+            elif a.get("category") in AUTO_SECTIONS and _age_min(a) >= AUTO_SECTION_MIN:
+                msg = f"⚡ {kc.SECTIONS.get(a['category'], {}).get('name', '')}: jóváhagyás nélkül kiraktam."
+            elif a.get("category") == "bulvar":
+                continue
             elif AUTO_NEWS and _age_min(a) >= AUTO_PUBLISH_MIN:
                 msg = f"⏱ Nem jött döntés {AUTO_PUBLISH_MIN} percen belül, ezért kiraktam."
             else:
