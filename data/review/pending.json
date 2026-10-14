@@ -11835,6 +11835,1029 @@
         ],
         "control_id": 5873
       }
+    },
+    {
+      "id": "db8eeeaa-fe80-544c-b79a-38f4d645fcee",
+      "slug": "2026-10-14-okostelefonbol-robot-uj-eletre-kelti-a-mobilt-a-phonebot",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "robotika",
+        "okostelefon",
+        "újrahasznosítás",
+        "technológia",
+        "e-hulladék"
+      ],
+      "title": "Okostelefonból robot: új életre kelti a mobilt a PhoneBot",
+      "subtitle": null,
+      "lead": "A Kaliforniai Egyetem kutatói egy különleges robottal demonstrálták, hogyan hasznosítható újra a sokszor e-hulladékká váló, használt okostelefon. A PhoneBot névre keresztelt szerkezet a mobilok hardverét felhasználva képes járni, érzékelni környezetét és tárgyakat követni.",
+      "key_points": [
+        "A PhoneBot a régi okostelefont használja „agyként” a mozgáshoz és a vizuális észleléshez.",
+        "A 48 centiméteres robotot 13 olcsó szervomotor működteti.",
+        "A fejlesztés célja a környezetterhelő e-hulladék mennyiségének csökkentése."
+      ],
+      "content": "A Kaliforniai Egyetem mérnökei által kifejlesztett PhoneBot nem csupán technológiai érdekesség, hanem a fenntarthatóbb jövő felé mutató kísérlet. Mivel az elavult vagy lecserélt okostelefonok jelentős környezeti terhelést jelentenek, a szakemberek folyamatosan keresik a módját annak, miként adhatnának második esélyt a még működőképes alkatrészeknek. Míg korábban a Tartui Egyetemen szerverparkokat építettek hasonló készülékekből, az amerikai mérnökök most a mozgásképesség irányába terelték a koncepciót.\n\nA robot törzsét a mobiltelefon alkotja, amely a folyamatos adatfeldolgozásért és a kamerán keresztüli tájékozódásért felel. A 48 centiméteres magasságú és 1,8 kilogrammos szerkezet kifejezetten kompaktnak számít. Az egyensúlyozást és a járást 13 szervomotor biztosítja, amelyek a csípő-, térd- és bokaízületeket mozgatják; a törzsbe épített plusz ízületnek köszönhetően a gép anélkül is képes követni egy személyt, hogy lábait elmozdítaná.\n\nA rendszer szíve egy Android-alkalmazás, amely elemzi a telefon belső érzékelőitől érkező adatokat. az eredmények azt igazolták, hogy a hardver megfelelő teljesítményt nyújt a navigációhoz és a vizuális észleléshez. Az eszközök cseréje bonyolult szétszerelés nélkül megoldható, ami tovább növeli a robot praktikusságát.\n\nBár a készülékek előbb-utóbb így is e-hulladékká válnak, az ehhez hasonló projektek lényegesen kitolhatják az eszközök hasznos élettartamát. A kutatók az arXiv preprint szerveren megjelent tanulmányukban bemutatták, milyen látványos szinergiát alkothat a komplex programozási háttér és a viszonylag olcsó hardver.",
+      "content_format": "markdown",
+      "body": [
+        "A Kaliforniai Egyetem mérnökei által kifejlesztett PhoneBot nem csupán technológiai érdekesség, hanem a fenntarthatóbb jövő felé mutató kísérlet. Mivel az elavult vagy lecserélt okostelefonok jelentős környezeti terhelést jelentenek, a szakemberek folyamatosan keresik a módját annak, miként adhatnának második esélyt a még működőképes alkatrészeknek. Míg korábban a Tartui Egyetemen szerverparkokat építettek hasonló készülékekből, az amerikai mérnökök most a mozgásképesség irányába terelték a koncepciót.",
+        "A robot törzsét a mobiltelefon alkotja, amely a folyamatos adatfeldolgozásért és a kamerán keresztüli tájékozódásért felel. A 48 centiméteres magasságú és 1,8 kilogrammos szerkezet kifejezetten kompaktnak számít. Az egyensúlyozást és a járást 13 szervomotor biztosítja, amelyek a csípő-, térd- és bokaízületeket mozgatják; a törzsbe épített plusz ízületnek köszönhetően a gép anélkül is képes követni egy személyt, hogy lábait elmozdítaná.",
+        "A rendszer szíve egy Android-alkalmazás, amely elemzi a telefon belső érzékelőitől érkező adatokat. az eredmények azt igazolták, hogy a hardver megfelelő teljesítményt nyújt a navigációhoz és a vizuális észleléshez. Az eszközök cseréje bonyolult szétszerelés nélkül megoldható, ami tovább növeli a robot praktikusságát.",
+        "Bár a készülékek előbb-utóbb így is e-hulladékká válnak, az ehhez hasonló projektek lényegesen kitolhatják az eszközök hasznos élettartamát. A kutatók az arXiv preprint szerveren megjelent tanulmányukban bemutatták, milyen látványos szinergiát alkothat a komplex programozási háttér és a viszonylag olcsó hardver."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 241,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1677,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_Robot_at_Toyota_Kaikan.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261014_hasznalt-okostelefon-ujrahasznositasa-phonebot",
+          "title": "Új életet adtak egy használt okostelefonnak, a PhoneBot játéknak sem utolsó",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:23+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.34,
+      "title_options": [
+        "Okostelefonból robot: új életre kelti a mobilt a PhoneBot",
+        "Leselejtezett mobilokból építettek járó robotot a mérnökök",
+        "Így lesz egy 50 dolláros telefonból önjáró PhoneBot",
+        "Ne dobd ki a régi telefonod, inkább építs belőle robotot",
+        "Ezt a 48 centis szerkezetet egy kiselejtezett mobil irányítja",
+        "Így teszik hasznossá a méregdrága e-hulladékot a kutatók"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1677,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_Robot_at_Toyota_Kaikan.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Curiosity_-_Robot_Geologist_and_Chemist_in_One%21.jpg/1280px-Curiosity_-_Robot_Geologist_and_Chemist_in_One%21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "This artist's concept features NASA's Mars Science Laboratory Curiosity rover, a mobile robot for investigating Mars' past or present ability to sustain microbial life. Curiosity landed near the Marti",
+          "credit": "NASA/JPL-Caltech / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Curiosity_-_Robot_Geologist_and_Chemist_in_One!.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Smartphone_display_screen.jpg/1280px-Smartphone_display_screen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 761,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Smartphone display screen with time and icons",
+          "credit": "Skitterphoto / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Smartphone_display_screen.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Smartphone_ownership_in_2013.jpg/1280px-Smartphone_ownership_in_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1349,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Countries where more than 50 percent of population owned a smartphone",
+          "credit": "Maps.interlude / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Smartphone_ownership_in_2013.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Top_Engineering_Colleges_in_North_America.webp/1280px-Top_Engineering_Colleges_in_North_America.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 654,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Top Engineering Colleges in North America",
+          "credit": "Wikideas1 / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Top_Engineering_Colleges_in_North_America.webp"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Best_Engineering_College_in_Dehradun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Shivalik College of Engineering is a private engineering college in Dehradun Uttarakhand, India. The College is affiliated with the Uttarakhand Technical University and approved by the All India Counc",
+          "credit": "RAMESH CHANDRA BHANDARI / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Best_Engineering_College_in_Dehradun.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g544b92893917d4132f12d3dee51d3390f57eb818327cc4ee0ee38ed744eda8d68efbd687afb4953ae32ec2e554b3b33f3ec49b0aee6a16d34f26fa644b0beb3c_1280.jpg",
+          "width": 5184,
+          "height": 3456,
+          "kind": "photo",
+          "alt": "robot, woman, face, cry, sad, artificial intelligence, future, machine, digital, technology, robotics, girl, sad girl, human, android, circuit board, binary, connections, cyborg, digitization, science",
+          "credit": "51581 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/robot-woman-face-cry-sad-3010309/"
+        },
+        {
+          "url": "https://pixabay.com/get/gc4f393dffd4d527dd117b2a1e7c02febe4fc763caa696f485dec33c13d01cee8c4c534dbb7ed739012b2f7a7cc6457d5_1280.jpg",
+          "width": 3000,
+          "height": 2400,
+          "kind": "photo",
+          "alt": "mars, mars rover, space travel, rover, robot, geological exploration, technology, planet, space, outer space, mars, mars, mars, mars, mars, mars rover, robot, robot, technology, technology, space",
+          "credit": "WikiImages / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/mars-mars-rover-space-travel-rover-67522/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Új életet adtak egy használt okostelefonnak, a PhoneBot játéknak sem utolsó",
+          "link": "https://hvg.hu/tudomany/20261014_hasznalt-okostelefon-ujrahasznositasa-phonebot",
+          "summary": "A Kaliforniai Egyetem mérnökei egy miniatűr roboton keresztül mutatták meg, miként lehet újrahasznosítani egy leselejtezett okostelefont.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.34
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261014_hasznalt-okostelefon-ujrahasznositasa-phonebot"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-okostelefonbol-robot-uj-eletre-kelti-a-mobilt-a-phonebot/",
+      "seo": {
+        "meta_title": "Okostelefonból robot: új életre kelti a mobilt a PhoneBot",
+        "meta_description": "A Kaliforniai Egyetem kutatói egy különleges robottal demonstrálták, hogyan hasznosítható újra a sokszor e-hulladékká váló, használt okostelefon. A PhoneBot név",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-okostelefonbol-robot-uj-eletre-kelti-a-mobilt-a-phonebot/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8840c5c002fbf9da216f148c538d037866a2348d454f54d90f14adebf178939b",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:27:23+02:00",
+      "updated_at": "2026-10-14T11:27:23+02:00",
+      "published_at": "2026-10-14T11:27:23+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:28:11+00:00",
+        "msg_ids": [
+          5874,
+          5875,
+          5876,
+          5877,
+          5878,
+          5879,
+          5880,
+          5881,
+          5882
+        ],
+        "control_id": 5883
+      }
+    },
+    {
+      "id": "987bd75a-2401-56e2-a3b2-884fd8824729",
+      "slug": "2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto",
+      "status": "pending",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "térdfájás",
+        "kutatás",
+        "orvostudomány",
+        "életmód"
+      ],
+      "title": "Térdfájás: Műtét helyett apró részecskékkel is kezelhető",
+      "subtitle": null,
+      "lead": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a világ leggyakoribb ízületi megbetegedésénél kínálhat alternatívát a hagyományos kezelések és a protézisbeültetés helyett.",
+      "key_points": [
+        "A térdízületi gyulladás világszerte több mint 365 millió felnőttet érint.",
+        "A térdízület körüli kóros erek elzárásával csökkenthető a krónikus fájdalom.",
+        "Egy 194 fős vizsgálat adatai szerint a páciensek 80 százalékánál legalább 12 hónapig fennmaradt a javulás."
+      ],
+      "content": "A térdízületi kopás az oszteoartritisz formájában a világ leggyakoribb ízületi megbetegedése, amely jelentősen korlátozza a mindennapi mozgást, legyen szó sétáról, lépcsőzésről vagy hosszabb állásról. A panaszok akkor alakulnak ki, amikor a csontok végeit védő porcszövet fokozatosan elvékonyodik, de a folyamatban a gyulladás, a szöveti elváltozások és a fájdalomingerületet továbbító idegek fokozott érzékenysége is közrejátszik.\n\nA betegek kezelése jellemzően fizioterápiával, gyógyszerekkel és az ízületbe adott injekciókkal kezdődik, ám ha ezek a módszerek már nem hoznak elegendő enyhülést, a szakemberek gyakran a térdprotézis-műtétet javasolják. Ez utóbbi azonban nem mindenkinél végezhető el, vagy a páciensek személyes okokból nem szeretnének kés alá feküdni, ami komoly kezelési űrt hoz létre.\n\nA Radiology szaklapban közölt kutatás egy új megközelítést vizsgál, amely a térdízület környékén kialakuló kóros erek megcélzésére fókuszál. A genikuláris artéria-embolizáció néven ismert eljárás során az orvosok vékony katéteren keresztül mikroszkopikus, órák alatt felszívódó részecskéket juttatnak a célzott erekbe, hogy csökkentsék a gyulladást és a fájdalmat kiváltó véráramlást.\n\nFlorian Nima Fleckenstein, a berlini Charité – Universitätsmedizin radiológus szakorvosa szerint a konzervatív módszerek és a műtét közötti rés áthidalásában segíthet a technika. A 194 beteg bevonásával végzett vizsgálat eredményei azt mutatták, hogy a pácienseknél jelentősen csökkent a térdfájdalom, javult a mozgásképesség, és az egyéves kontrollvizsgálaton résztvevők 80 százalékánál a kedvező hatás legalább 12 hónapig kitartott.",
+      "content_format": "markdown",
+      "body": [
+        "A térdízületi kopás az oszteoartritisz formájában a világ leggyakoribb ízületi megbetegedése, amely jelentősen korlátozza a mindennapi mozgást, legyen szó sétáról, lépcsőzésről vagy hosszabb állásról. A panaszok akkor alakulnak ki, amikor a csontok végeit védő porcszövet fokozatosan elvékonyodik, de a folyamatban a gyulladás, a szöveti elváltozások és a fájdalomingerületet továbbító idegek fokozott érzékenysége is közrejátszik.",
+        "A betegek kezelése jellemzően fizioterápiával, gyógyszerekkel és az ízületbe adott injekciókkal kezdődik, ám ha ezek a módszerek már nem hoznak elegendő enyhülést, a szakemberek gyakran a térdprotézis-műtétet javasolják. Ez utóbbi azonban nem mindenkinél végezhető el, vagy a páciensek személyes okokból nem szeretnének kés alá feküdni, ami komoly kezelési űrt hoz létre.",
+        "A Radiology szaklapban közölt kutatás egy új megközelítést vizsgál, amely a térdízület környékén kialakuló kóros erek megcélzésére fókuszál. A genikuláris artéria-embolizáció néven ismert eljárás során az orvosok vékony katéteren keresztül mikroszkopikus, órák alatt felszívódó részecskéket juttatnak a célzott erekbe, hogy csökkentsék a gyulladást és a fájdalmat kiváltó véráramlást.",
+        "Florian Nima Fleckenstein, a berlini Charité – Universitätsmedizin radiológus szakorvosa szerint a konzervatív módszerek és a műtét közötti rés áthidalásában segíthet a technika. A 194 beteg bevonásával végzett vizsgálat eredményei azt mutatták, hogy a pácienseknél jelentősen csökkent a térdfájdalom, javult a mozgásképesség, és az egyéves kontrollvizsgálaton résztvevők 80 százalékánál a kedvező hatás legalább 12 hónapig kitartott."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 244,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "نشان‌دهندۀ آناتومی زانو و برخی اجزای آن",
+        "credit": "https://en.wikipedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png\n\n&amp; Own  / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Knee_anatomy_(Fa).png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:18+02:00"
+        }
+      ],
+      "quote": {
+        "text": "For many patients with knee osteoarthritis, there is a real treatment gap today. Conservative measures such as intra-articular injections no longer provide sufficient relief, but joint replacement is not an option for medical or personal reasons.",
+        "who": "Florian Nima Fleckenstein, a berlini Charité – Universitätsmedizin szakorvosa",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.7,
+      "title_options": [
+        "Térdfájás: Műtét helyett apró részecskékkel is kezelhető",
+        "Új eljárás kínál esélyt a térdízületi gyulladással küzdőknek",
+        "Nem kell azonnal kés alá feküdni a kopásos térdfájás miatt",
+        "Elkerülhető a protézis? Apró golyócskák számolhatnak le a térdfájással",
+        "Meglepő áttörés: gyógyszer és műtét nélkül is búcsút inthetnek a térdfájásnak a betegek",
+        "Ez a minimálisan invazív eljárás mentheti meg a kopott térdeket"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "نشان‌دهندۀ آناتومی زانو و برخی اجزای آن",
+          "credit": "https://en.wikipedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png\n\n&amp; Own  / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Knee_anatomy_(Fa).png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Knee_joint_of_dog.jpg/1280px-Knee_joint_of_dog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 803,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Knee joint of dog. Canis lupus familiaris. Technique of dissection and freeze-drying. Piece showing knee joint of dog on display at the Museum of Veterinary Anatomy, FMVZ USP.\nThis file was published",
+          "credit": "Museum of Veterinary Anatomy FMVZ USP / Wagner Souza e Silva / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Knee_joint_of_dog.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Osteoarthritis_2_--_Smart-Servier.png/1280px-Osteoarthritis_2_--_Smart-Servier.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1802,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Skeleton and bones - Osteoarthritis",
+          "credit": "Laboratoires Servier / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Osteoarthritis_2_--_Smart-Servier.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Osteoarthritis_in_the_left_hand_index_finger.jpg/1280px-Osteoarthritis_in_the_left_hand_index_finger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1564,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Osteoarthritis in the left hand index finger of a 63 year-old woman.",
+          "credit": "Whoisjohngalt / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Osteoarthritis_in_the_left_hand_index_finger.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/New_cardiac_catheter_lab.jpg/1280px-New_cardiac_catheter_lab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "New cardiac cath lab in King Saud Medical City \nRiyadh\n\nSaudi Arabia",
+          "credit": "Haitham Alfalah / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:New_cardiac_catheter_lab.jpg"
+        },
+        {
+          "url": "https://live.staticflickr.com/4026/4553740174_2f3d3ed5a1_b.jpg",
+          "width": 1024,
+          "height": 683,
+          "kind": "photo",
+          "alt": "U.S. Army medical researchers take part in World Malaria Day 2010, Kisumu, Kenya April 25, 2010",
+          "credit": "US Army Africa / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/36281822@N08/4553740174"
+        }
+      ],
+      "story": [
+        {
+          "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+          "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.",
+          "source": "sciencedaily.com",
+          "related": false,
+          "hot_score": 5.7
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261013234801.htm"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/eletmod/2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto/",
+      "seo": {
+        "meta_title": "Térdfájás: Műtét helyett apró részecskékkel is kezelhető",
+        "meta_description": "A térdízületi gyulladás hátterében álló kóros ereket célzó, minimálisan invazív eljárás jelentős és tartós fájdalomcsillapítást hozhat a betegeknek. A módszer a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-terdfajas-mutet-helyett-apro-reszecskekkel-is-kezelheto/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Knee_anatomy_%28Fa%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c7058de221682795b801008ae829306e9da638cedc66de2e279a61f2c56d5879",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:27:18+02:00",
+      "updated_at": "2026-10-14T11:27:18+02:00",
+      "published_at": "2026-10-14T11:27:18+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:28:18+00:00",
+        "msg_ids": [
+          5885,
+          5886,
+          5887,
+          5888,
+          5889,
+          5890,
+          5891
+        ],
+        "control_id": 5892
+      }
+    },
+    {
+      "id": "40ad99d8-9d63-58dd-8aa5-f756f0b52f1b",
+      "slug": "2026-10-14-sulyos-hianyossag-bukkant-fel-a-valasztasi-rendszerben",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "nemzetiségi képviselet",
+        "alkotmány",
+        "választási rendszer",
+        "Országgyűlés",
+        "EJEB"
+      ],
+      "title": "Súlyos hiányosság bukkant fel a választási rendszerben",
+      "subtitle": null,
+      "lead": "Április óta egyetlen elismert nemzetiségnek sincs teljes jogú képviselője az Országgyűlésben, ami ráirányítja a figyelmet a választási rendszer hiányosságaira. Így az új alkotmány előkészítése során ezt a kérdést is rendezni kell.",
+      "key_points": [
+        "Az áprilisi választáson egyetlen nemzetiségi lista sem szerzett kedvezményes mandátumot.",
+        "A tizenhárom elismert nemzetiségből jelenleg csak a németeknek és a romáknak van esélyük a parlamenti mandátumra.",
+        "A jelenlegi választási rendszer több ponton nehezíti a nemzetiségi képviseletet."
+      ],
+      "content": "Az áprilisi országgyűlési választáson egyetlen nemzetiségi lista sem érte el a kedvezményes mandátum megszerzéséhez szükséges küszöböt, így a német listának sem sikerült bejutnia az Országgyűlésbe. Ezzel a nappal a törvényhozásban egyetlen nemzetiségnek sem maradt teljes jogú képviselője, miközben az országban tizenhárom elismert nemzetiség él.\n\nKiss Balázs, az ELTE ÁJK Alkotmányjogi Tanszékének oktatója szerint a rendszert csak az érintett közösségekkel együtt lehet jól átalakítani. A jelenlegi szabályozás komoly dilemmákat vet fel, mivel a nemzetiségi választóknak előre le kell mondaniuk a pártlistás szavazati jogukról, ha saját közösségük listájára kívánnak voksolni.\n\nA jelenlegi struktúrában a tizenhárom elismert közösség közül a gyakorlatban csupán kettőnek, a németnek és a romának van esélye arra, hogy kedvezményes mandátumot szerezzen. A többi tizenegy nemzetiség érdekeit szavazati joggal nem rendelkező szószólók jeleníthetik meg a parlamentben.\n\nA problémát tovább nehezíti, hogy a kisebb szavazókörökben a titkosság is sérülhet, amennyiben csak egy-két választó adja le voksát a nemzetiségi listára. A hamarosan elinduló új alkotmány előkészítése pedig elkerülhetetlenné teszi a szabályok újragondolását.",
+      "content_format": "markdown",
+      "body": [
+        "Az áprilisi országgyűlési választáson egyetlen nemzetiségi lista sem érte el a kedvezményes mandátum megszerzéséhez szükséges küszöböt, így a német listának sem sikerült bejutnia az Országgyűlésbe. Ezzel a nappal a törvényhozásban egyetlen nemzetiségnek sem maradt teljes jogú képviselője, miközben az országban tizenhárom elismert nemzetiség él.",
+        "Kiss Balázs, az ELTE ÁJK Alkotmányjogi Tanszékének oktatója szerint a rendszert csak az érintett közösségekkel együtt lehet jól átalakítani. A jelenlegi szabályozás komoly dilemmákat vet fel, mivel a nemzetiségi választóknak előre le kell mondaniuk a pártlistás szavazati jogukról, ha saját közösségük listájára kívánnak voksolni.",
+        "A jelenlegi struktúrában a tizenhárom elismert közösség közül a gyakorlatban csupán kettőnek, a németnek és a romának van esélye arra, hogy kedvezményes mandátumot szerezzen. A többi tizenegy nemzetiség érdekeit szavazati joggal nem rendelkező szószólók jeleníthetik meg a parlamentben.",
+        "A problémát tovább nehezíti, hogy a kisebb szavazókörökben a titkosság is sérülhet, amennyiben csak egy-két választó adja le voksát a nemzetiségi listára. A hamarosan elinduló új alkotmány előkészítése pedig elkerülhetetlenné teszi a szabályok újragondolását."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 192,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/tech-1791970073-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/tech-1791970073-0.jpg",
+        "kind": "photo",
+        "alt": "Súlyos hiányosság bukkant fel a választási rendszerben",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/14/az-alkotmany-nem-kerulheti-meg-a-nemzetisegek-parlamenti-kepviseletenek-kerdeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Az alkotmány nem kerülheti meg a nemzetiségek parlamenti képviseletének kérdését",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:12+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.83,
+      "title_options": [
+        "Súlyos hiányosság bukkant fel a választási rendszerben",
+        "Mi lesz a nemzetiségi parlamenti képviselettel az új alkotmányban?",
+        "Az alkotmányos reform előtt áll a nemzetiségi képviselet kérdése",
+        "Hatalmas jogi huzavona várható a nemzetiségi képviselet körül",
+        "Senkinek sem jutott mandátum, mégis hatalmas változások jönnek",
+        "Megkerülhetetlen kérdés lett a nemzetiségek parlamenti részvétele"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/tech-1791970073-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/tech-1791970073-0.jpg",
+          "kind": "photo",
+          "alt": "Súlyos hiányosság bukkant fel a választási rendszerben",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/tech-1791970075-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/tech-1791970075-1.jpg",
+          "kind": "photo",
+          "alt": "Súlyos hiányosság bukkant fel a választási rendszerben",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Az alkotmány nem kerülheti meg a nemzetiségek parlamenti képviseletének kérdését",
+          "link": "https://qubit.hu/2026/10/14/az-alkotmany-nem-kerulheti-meg-a-nemzetisegek-parlamenti-kepviseletenek-kerdeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "Április óta egyetlen nemzetiségnek sincs teljes jogú képviselője az Országgyűlésben, miközben az Emberi Jogok Európai Bírósága már 2022-ben kimondta, hogy a magyar rendszer több ponton jogsértő. Kiss Balázs, az ELTE ÁJK Alkotmányjogi Tanszékének oktatója szerint a reformot csak az érintett közösségekkel együtt lehet jól elvégezni.",
+          "source": "qubit.hu",
+          "related": false,
+          "hot_score": 5.83
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/14/az-alkotmany-nem-kerulheti-meg-a-nemzetisegek-parlamenti-kepviseletenek-kerdeset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-sulyos-hianyossag-bukkant-fel-a-valasztasi-rendszerben/",
+      "seo": {
+        "meta_title": "Súlyos hiányosság bukkant fel a választási rendszerben",
+        "meta_description": "Április óta egyetlen elismert nemzetiségnek sincs teljes jogú képviselője az Országgyűlésben, ami ráirányítja a figyelmet a választási rendszer hiányosságaira. ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-sulyos-hianyossag-bukkant-fel-a-valasztasi-rendszerben/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/tech-1791970073-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "4805d640-cc7f-57dc-9818-6b799a89f392",
+        "1d92ba89-3227-565f-a65f-636520291f1d",
+        "a85f6b11-14d1-5f52-880d-9ff91e5856fb"
+      ],
+      "see_also": [
+        {
+          "title": "Ismert gazdasági nyomozók kerülhetnek a vagyonvisszaszerzési hivatalba",
+          "url": "/kozelet/2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb/",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "Brüsszelhez fordult kétségbeesésében a Fidesz-kdnp",
+          "url": "/kozelet/2026-10-04-brusszelhez-fordult-ketsegbeeseseben-a-fidesz-kdnp/",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "44 nő ült asztalhoz a Tisza-frakcióban",
+          "url": "/kozelet/2026-10-06-soha-nem-latott-szamu-noi-kepviselo-indit-szakmai-muhelyt-a-parlament/",
+          "date": "2026-10-06"
+        }
+      ],
+      "thread_id": "6b4e396a-f118-5943-9ac3-4515b4b7b2b1",
+      "dedupe_hash": "3abf72d385581bbc960831f49e64d9f5faf4b0d68ffe6f8f111a3e2b37558b27",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:27:12+02:00",
+      "updated_at": "2026-10-14T11:27:12+02:00",
+      "published_at": "2026-10-14T11:27:12+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:28:29+00:00",
+        "msg_ids": [
+          5893,
+          5894,
+          5895
+        ],
+        "control_id": 5896
+      }
+    },
+    {
+      "id": "5a014db6-a35f-5bfa-a3f0-f9da53e48b7a",
+      "slug": "2026-10-14-szaz-eve-hoditott-meg-minket-micimacko",
+      "status": "pending",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "irodalom",
+        "Karinthy Frigyes",
+        "Micimackó",
+        "műfordítás",
+        "gyerekirodalom"
+      ],
+      "title": "Száz éve hódított meg minket Micimackó",
+      "subtitle": null,
+      "lead": "Száz évvel ezelőtt jelent meg Milne klasszikusa, amely Karinthy Frigyes nyelvi zsenialitása nélkül aligha vált volna a magyar gyerekirodalom megkerülhetetlen részévé. Bár ma már vitathatatlan alapmű, a megjelenésekor korántsem mindenki fogadta kitörő lelkesedéssel a mézes csuprok világát.",
+      "key_points": [
+        "A Micimackó magyarországi sikere Karinthy Frigyes szabad és kreatív fordításán múlott.",
+        "A szakmai kritika kezdetben megosztott volt a könyv fogadtatását illetően.",
+        "Karinthy önironikus visszaemlékezése szerint a magyar változat legalább annyira szórakoztató, mint az eredeti angol.",
+        "Az adaptáció sikerét a ma is élő, közösségi kulturális élmény igazolja."
+      ],
+      "content": "Kevés olyan irodalmi alak létezik, aki ennyire mélyen beivódott a magyar köztudatba, mint Micimackó. A száz éve kiadott Milne-mese útja a magyar könyvespolcokig nem volt zökkenőmentes, a végeredményt pedig szinte teljes egészében Karinthy Frigyes műfordítói bátorsága határozta meg. Az író nem szolgaian követte az angol eredetit, hanem sajátos nyelvi és kulturális adaptációt hajtott végre, amelyen keresztül a karakterek a magyar olvasók számára is otthonossá váltak.\n\nKarinthy az 1935-ös Pesti Naplóban megjelent írásában úgy fogalmazott, saját magát is meglepte az általa „átültetett” mű hatása. Szerinte a magyar szöveg olvasása közben éppen ugyanúgy vagy még inkább röhögött, mint amikor az eredeti angol verzió került a kezébe. Ezt a szellemesen önérzetes bevezetést részben azért írta meg, mert a kritikusok korántsem voltak egységesek az alkotást illetően. Míg Török Sophie a Nyugat folyóiratban a modern gyerekirodalom csúcsaként ünnepelte a kuckóbéli történeteket, addig a konzervatívabb szakmai körök keményen támadták a művet.\n\nA Diarium kritikusa például vérszegénynek titulálta az állatmesét, amely szerinte csak száraz, erőltetett humorral és lompos nyelvezettel közvetít nevelő szándékot. Egy másik recenzióban pedig odáig mentek, hogy a magyar gyerekek számára teljesen érthetetlennek nevezték a történetet. Az idő azonban egyértelműen Karinthy fordítását igazolta: a Micimackó a nyelvi leleménynek köszönhetően a magyar gyerekirodalom egyik nemzeti klasszikusává nemesedett.\n\nAz olvasó számára ez a történet rávilágít arra, hogy a valódi művészi fordítás nem csupán szavak átültetése, hanem egy új kulturális közeg megteremtése. Karinthy munkája a mai napig etalonnak számít, hiszen bebizonyította, hogy egy angolul alig tudó fordító is képes lehet olyat alkotni, ami az eredeti mű értékét nemcsak megőrzi, de bizonyos szempontból túl is szárnyalja a célnyelvi közönség számára.",
+      "content_format": "markdown",
+      "body": [
+        "Kevés olyan irodalmi alak létezik, aki ennyire mélyen beivódott a magyar köztudatba, mint Micimackó. A száz éve kiadott Milne-mese útja a magyar könyvespolcokig nem volt zökkenőmentes, a végeredményt pedig szinte teljes egészében Karinthy Frigyes műfordítói bátorsága határozta meg. Az író nem szolgaian követte az angol eredetit, hanem sajátos nyelvi és kulturális adaptációt hajtott végre, amelyen keresztül a karakterek a magyar olvasók számára is otthonossá váltak.",
+        "Karinthy az 1935-ös Pesti Naplóban megjelent írásában úgy fogalmazott, saját magát is meglepte az általa „átültetett” mű hatása. Szerinte a magyar szöveg olvasása közben éppen ugyanúgy vagy még inkább röhögött, mint amikor az eredeti angol verzió került a kezébe. Ezt a szellemesen önérzetes bevezetést részben azért írta meg, mert a kritikusok korántsem voltak egységesek az alkotást illetően. Míg Török Sophie a Nyugat folyóiratban a modern gyerekirodalom csúcsaként ünnepelte a kuckóbéli történeteket, addig a konzervatívabb szakmai körök keményen támadták a művet.",
+        "A Diarium kritikusa például vérszegénynek titulálta az állatmesét, amely szerinte csak száraz, erőltetett humorral és lompos nyelvezettel közvetít nevelő szándékot. Egy másik recenzióban pedig odáig mentek, hogy a magyar gyerekek számára teljesen érthetetlennek nevezték a történetet. Az idő azonban egyértelműen Karinthy fordítását igazolta: a Micimackó a nyelvi leleménynek köszönhetően a magyar gyerekirodalom egyik nemzeti klasszikusává nemesedett.",
+        "Az olvasó számára ez a történet rávilágít arra, hogy a valódi művészi fordítás nem csupán szavak átültetése, hanem egy új kulturális közeg megteremtése. Karinthy munkája a mai napig etalonnak számít, hiszen bebizonyította, hogy egy angolul alig tudó fordító is képes lehet olyat alkotni, ami az eredeti mű értékét nemcsak megőrzi, de bizonyos szempontból túl is szárnyalja a célnyelvi közönség számára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 300,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karinthy_Frigyes_c_1930.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1517,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Frigyes Karinthy a Hungarian Author, poeat",
+        "credit": "unknown / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Karinthy_Frigyes_c_1930.jpeg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261013_hvg-micimacko-100-milne-karinthy-frigyes-forditasok",
+          "title": "Egy csekély értelmű medvebocs találkozása egy angolul alig tudó fordítóval: Karinthy Micimackójával kevesen vették fel a versenyt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:28+02:00"
+        }
+      ],
+      "quote": {
+        "text": "a magyar nyelven megjelent könyvet átolvasva, éppen úgy, vagy még jobban röhögtem és élveztem, mint mikor angolul került a kezembe.",
+        "who": "Karinthy Frigyes, író és műfordító",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 4.51,
+      "title_options": [
+        "Száz éve hódított meg minket Micimackó",
+        "Karinthy Frigyes és a medvebocs magyarországi sikere",
+        "Miért vált nemzeti klasszikussá a magyar Micimackó",
+        "Botrány a Százholdas Pagonyban: vérszegénynek nevezték a medvét",
+        "Így csinált világsikert egyetlen könyvből Karinthy Frigyes",
+        "Karinthy szerint jobb a magyar Micimackó az eredetinél"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karinthy_Frigyes_c_1930.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1517,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Frigyes Karinthy a Hungarian Author, poeat",
+          "credit": "unknown / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Karinthy_Frigyes_c_1930.jpeg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Karinthy_Frigyes_%C3%A9s_Karinthy_Ferenc_s%C3%ADrja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Karinthy Frigyes (Bp., 1887. jún. 24. – Siófok, 1938. aug. 29.): író, költő, műfordító, kritikus és fia, Karinthy Ferenc (Budapest, 1921. június 2. – Budapest, 1992. február 29.) magyar író, drámaíró,",
+          "credit": "Dr Varga József / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Karinthy_Frigyes_%C3%A9s_Karinthy_Ferenc_s%C3%ADrja.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Winnie-the-Pooh_19.png/1280px-Winnie-the-Pooh_19.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1091,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Illustration by Ernest Howard Shepard from Winnie-the-Pooh (1926), by A A Milne",
+          "credit": "Ernest Howard Shepard / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Winnie-the-Pooh_19.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Winnie-the-Pooh_170.png/1280px-Winnie-the-Pooh_170.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1466,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Illustration by Ernest Howard Shepard from Winnie-the-Pooh (1926), by A A Milne",
+          "credit": "Ernest Howard Shepard / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Winnie-the-Pooh_170.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/A_a_milne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1511,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "English writer A. A. Milne (1882-1956).",
+          "credit": "Unknown authorUnknown author / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_a_milne.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/A._A._Milne_plaque.jpg/1280px-A._A._Milne_plaque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A. A. Milne plaque, Greville Estate, Mortimer Place, Kilburn, NW6, London",
+          "credit": "Megalit / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A._A._Milne_plaque.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g623ec2bbce983972f59dfbe9ee8ce8de5afe3c7728ca221966ce246f3925c0e2b86c4cd8df6e92ae50d62ffd1c9b5eb20863e08b3c80a9bfb9fcbe8d59ddcedb_1280.jpg",
+          "width": 4429,
+          "height": 2542,
+          "kind": "photo",
+          "alt": "christmas background, book, read, old, literature, books, bookshelf, old books, hardcover, hardback, cover, collection, library, historically, leather covers, bookcase, used books, stories, reading, k",
+          "credit": "garten-gg / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/christmas-background-book-read-old-1659717/"
+        },
+        {
+          "url": "https://pixabay.com/get/gb4611e753d910ab4ed772d087b55252220abca5bc016d4b0aaa1df2ae28231965cc05a9e7a8fb97d8c4499779e38d84fb6967bbc9ab62594385f7e3a76ae4f5e_1280.jpg",
+          "width": 3072,
+          "height": 2223,
+          "kind": "photo",
+          "alt": "book, rose, rose flower, book mark, open book, pages, chapter, novel, read, literature, reading, bookworm",
+          "credit": "DGlodowska / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/book-rose-book-mark-open-book-419589/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Egy csekély értelmű medvebocs találkozása egy angolul alig tudó fordítóval: Karinthy Micimackójával kevesen vették fel a versenyt",
+          "link": "https://hvg.hu/360/20261013_hvg-micimacko-100-milne-karinthy-frigyes-forditasok",
+          "summary": "Erőteljes nyelvi és kulturális adaptáció nélkül – ahogyan Karinthy Frigyes is tette – egyetlen nyelven sem válhatott a Micimackó „nemzeti klasszikussá”. A száz éve kiadott Milne-mese a fordítások tükrében.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 4.51
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261013_hvg-micimacko-100-milne-karinthy-frigyes-forditasok"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kultura/2026-10-14-szaz-eve-hoditott-meg-minket-micimacko/",
+      "seo": {
+        "meta_title": "Száz éve hódított meg minket Micimackó",
+        "meta_description": "Száz évvel ezelőtt jelent meg Milne klasszikusa, amely Karinthy Frigyes nyelvi zsenialitása nélkül aligha vált volna a magyar gyerekirodalom megkerülhetetlen ré",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-14-szaz-eve-hoditott-meg-minket-micimacko/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karinthy_Frigyes_c_1930.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "bcab187ceafa372db9f1b6b67e97125282fea8648fea37cc5607ffe88a5787ec",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:27:28+02:00",
+      "updated_at": "2026-10-14T11:27:28+02:00",
+      "published_at": "2026-10-14T11:27:28+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:28:35+00:00",
+        "msg_ids": [
+          5897,
+          5898,
+          5899,
+          5900,
+          5901,
+          5902,
+          5903,
+          5904,
+          5905
+        ],
+        "control_id": 5906
+      }
+    },
+    {
+      "id": "a66567df-c5e3-5109-b5ac-00c301455566",
+      "slug": "2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Balaton",
+        "kerékpárút",
+        "Vitézy Dávid",
+        "közlekedésfejlesztés",
+        "bringakör"
+      ],
+      "title": "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
+      "subtitle": null,
+      "lead": "Közel húsz kilométeren, hazai és frissen megnyílt európai uniós forrásokból újítják meg a Balatoni Bringakör északi szakaszát. A beruházások célja a balesetveszélyes, elhasználódott útszakaszok rendbetétele és a forgalmas nyomvonalak jelentős kiszélesítése.",
+      "key_points": [
+        "Tihany és Balatonfűzfő között, hét települést érintve 14,4 kilométeren épül meg a 3,3 méter széles, önálló kerékpárút 2029-ig.",
+        "A beruházás részeként hat új kerékpáros hidat és két fénysorompós vasúti kereszteződést is létesítenek.",
+        "A Magyar Közút négy kritikus szakaszt hazai költségvetési forrásból újít fel, ezeket a bringások már a 2027-es szezonban használhatják."
+      ],
+      "content": "Húsz kilométeren – a teljes tókerülő útvonal mintegy tizedén – indul átfogó felújítás és szélesítés a Balatoni Bringakör északi partján. Vitézy Dávid beruházási és közlekedési miniszter bejelentése szerint a munkálatok két ütemben valósulnak meg: a sürgősebb állami beavatkozások már a 2027-es szezonra elkészülnek, míg a jóval nagyobb léptékű uniós fejlesztések átadása 2029-re várható.\n\nAz északi parti útvonalon évek óta komoly gondot okoznak a burkolatot felpúposító faágak és gyökerek, a fagykárok, valamint az, hogy több helyen a kétirányú forgalom alig fér el az elkeskenyedett aszfalton. A kerékpáros turizmus fellendülése miatt a balesetveszélyessé vált szakaszok kiváltása régóta indokolt volt.\n\nA nagyobb léptékű projekt Tihany és Balatonfűzfő között 14,4 kilométert érint. A meglévő nyomvonal korszerűsítése és részbeni áthelyezése hét települést – Tihanyt, Balatonfüredet, Csopakot, Paloznakot, Alsóörsöt, Balatonalmádit és Balatonfűzfőt – érint. A tervek szerint az új, önálló kerékpárút jellemzően 3,3 méter széles lesz, hat új kerékpáros híddal, valamint két, fény- és félsorompóval biztosított vasúti kereszteződéssel kiegészítve. A területszerzési folyamat már elindult, a kivitelezési közbeszerzéseket pedig még idén kiírják. A tárcavezető tájékoztatása alapján a fedezetet a kormány által a jogállamisági eljárás lezárultával lehívhatóvá vált európai uniós keret biztosítja.\n\nEzzel párhuzamosan a Magyar Közút négy különösen rossz állapotú szakaszt állami forrásból állít helyre:\n\n- Balatonakali és Zánka között 1,6 kilométeren teljesen új pályát és egy új kerékpáros hidat építenek.\n\n- Balatonkenese és Balatonfűzfő között a régi 71-es főút nyomvonalát bevonva 1,5 kilométeren szélesítik az erdős részen futó utat 2,5 méterről 3 méterre.\n\n- Badacsonyörsnél, Ábrahámhegy és Badacsonytomaj vasútállomás között 1,7 kilométeren szüntetik meg a gyökérfelnyomódásokat és a burkolathibákat.\n\n- Badacsonytomaj területén egy közel 300 méteres szakaszon terítenek le új aszfaltkopóréteget.\n\nA hazai finanszírozású szakaszok kivitelezése a tenderek lezárását követően, 2027 tavaszán kezdődik, így a főszezonra már zavartalan lesz a forgalom. A szaktárca várakozása szerint a fejlesztések a nyári szezonon kívüli kerékpáros turizmust, valamint a helyi lakók mindennapi közlekedését is biztonságosabbá teszik.",
+      "content_format": "markdown",
+      "body": [
+        "Húsz kilométeren – a teljes tókerülő útvonal mintegy tizedén – indul átfogó felújítás és szélesítés a Balatoni Bringakör északi partján. Vitézy Dávid beruházási és közlekedési miniszter bejelentése szerint a munkálatok két ütemben valósulnak meg: a sürgősebb állami beavatkozások már a 2027-es szezonra elkészülnek, míg a jóval nagyobb léptékű uniós fejlesztések átadása 2029-re várható.",
+        "Az északi parti útvonalon évek óta komoly gondot okoznak a burkolatot felpúposító faágak és gyökerek, a fagykárok, valamint az, hogy több helyen a kétirányú forgalom alig fér el az elkeskenyedett aszfalton. A kerékpáros turizmus fellendülése miatt a balesetveszélyessé vált szakaszok kiváltása régóta indokolt volt.",
+        "A nagyobb léptékű projekt Tihany és Balatonfűzfő között 14,4 kilométert érint. A meglévő nyomvonal korszerűsítése és részbeni áthelyezése hét települést – Tihanyt, Balatonfüredet, Csopakot, Paloznakot, Alsóörsöt, Balatonalmádit és Balatonfűzfőt – érint. A tervek szerint az új, önálló kerékpárút jellemzően 3,3 méter széles lesz, hat új kerékpáros híddal, valamint két, fény- és félsorompóval biztosított vasúti kereszteződéssel kiegészítve. A területszerzési folyamat már elindult, a kivitelezési közbeszerzéseket pedig még idén kiírják. A tárcavezető tájékoztatása alapján a fedezetet a kormány által a jogállamisági eljárás lezárultával lehívhatóvá vált európai uniós keret biztosítja.",
+        "Ezzel párhuzamosan a Magyar Közút négy különösen rossz állapotú szakaszt állami forrásból állít helyre:",
+        "- Balatonakali és Zánka között 1,6 kilométeren teljesen új pályát és egy új kerékpáros hidat építenek.",
+        "- Balatonkenese és Balatonfűzfő között a régi 71-es főút nyomvonalát bevonva 1,5 kilométeren szélesítik az erdős részen futó utat 2,5 méterről 3 méterre.",
+        "- Badacsonyörsnél, Ábrahámhegy és Badacsonytomaj vasútállomás között 1,7 kilométeren szüntetik meg a gyökérfelnyomódásokat és a burkolathibákat.",
+        "- Badacsonytomaj területén egy közel 300 méteres szakaszon terítenek le új aszfaltkopóréteget.",
+        "A hazai finanszírozású szakaszok kivitelezése a tenderek lezárását követően, 2027 tavaszán kezdődik, így a főszezonra már zavartalan lesz a forgalom. A szaktárca várakozása szerint a fejlesztések a nyári szezonon kívüli kerékpáros turizmust, valamint a helyi lakók mindennapi közlekedését is biztonságosabbá teszik."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 338,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
+        "credit": "NyitraiD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576",
+          "title": "Vitézy Dávid bejelentette: gyökeres változás jön az ország legnépszerűbb kerékpáros útvonalán",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T11:27:07+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.0,
+      "title_options": [
+        "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
+        "Kiszélesítik és felújítják a Balatoni Bringakör északi szakaszát",
+        "Uniós milliárdokból kap új hidakat és szélesebb aszfaltot a Balatoni Bringakör",
+        "Eltűnnek a hírhedt gyökérfelnyomódások: hatalmas fejlesztést jelentett be Vitézy Dávid a Balatonnál",
+        "Teljesen átrajzolják a Balaton legforgalmasabb bicikliútját",
+        "Uniós pénzből számolják fel az északi part legveszélyesebb biciklis szakaszait"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
+          "credit": "NyitraiD / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://pixabay.com/get/gc9ad4cbffbb89fa12576f5adb397a1205073a452798ee9f15feb90b870b62c7878eab78e58948e7ea36f36baba3606c416a1aa068d525babccaa5c5817b8b47e_1280.jpg",
+          "width": 4820,
+          "height": 3213,
+          "kind": "photo",
+          "alt": "to go biking, poppy, leisure time, bicycle, bike path, flower strips, bicycle path, dike, sports, move, activity, fitness, cycling tour, recreational sports, recreation, active, gents cycles, biker, l",
+          "credit": "Didgeman / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/to-go-biking-poppy-leisure-time-5178398/",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/g5a2b90706dd2c3e6f02214c22d6bf521e7d2296381876bd21825e49f0d7c6f0f533ba767cb721db273890ad6ad8ff67f597a134edd583589fd6f98d012b3a11a_1280.jpg",
+          "width": 4608,
+          "height": 3072,
+          "kind": "photo",
+          "alt": "bicycle path, road sign, bicycle sign, road marking, cycle path, bicycle path, road sign, road sign, road sign, road sign, cycle path, cycle path, cycle path, cycle path, cycle path",
+          "credit": "652234 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/bicycle-path-road-sign-bicycle-sign-3444914/",
+          "vision_score": 6.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Vitézy Dávid bejelentette: gyökeres változás jön az ország legnépszerűbb kerékpáros útvonalán",
+          "link": "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576",
+          "summary": "Hazai és a napokban feloldott európai uniós forrásokból összesen közel húsz kilométeren újul meg a Balatoni Bringakör. Az északi partot érintő, két párhuzamos fejlesztési program célja a balesetveszélyes, tönkrement szakaszok helyreállítása és kiszélesítése. A kisebb, állami finanszírozású munkálatok már a 2027-es kerékpáros szezonra elkészülnek, míg a nagyobb, átfogó uniós beruházások 2029-re fejeződnek be - tudósított a Vitézy Dávid beruházási és közlekedési miniszter .",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/uzlet/20261014/vitezy-david-bejelentette-gyokeres-valtozas-jon-az-orszag-legnepszerubb-kerekparos-utvonalan-869576"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kozelet/2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor/",
+      "seo": {
+        "meta_title": "Vitézy Dávid: Gyökeresen megújul a Balatoni Bringakör",
+        "meta_description": "Közel húsz kilométeren, hazai és frissen megnyílt európai uniós forrásokból újítják meg a Balatoni Bringakör északi szakaszát. A beruházások célja a balesetvesz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-vitezy-david-gyokeresen-megujul-a-balatoni-bringakor/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "4d54d600-5720-5c51-8568-a4af8de538ef"
+      ],
+      "see_also": [
+        {
+          "title": "Déli körvasút: kizárták a V-Híd Zrt.-t",
+          "url": "/kozelet/2026-10-10-deli-korvasut-kizartak-a-v-hid-zrt-t/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "2e531b281700287585e68a080be42990d383c445e08e26cec286181fe878ee59",
+      "pipeline_run_id": "38541472194",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T11:27:07+02:00",
+      "updated_at": "2026-10-14T11:27:07+02:00",
+      "published_at": "2026-10-14T11:27:07+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T09:28:42+00:00",
+        "msg_ids": [
+          5907,
+          5908,
+          5909,
+          5910
+        ],
+        "control_id": 5911
+      }
     }
   ]
 }
