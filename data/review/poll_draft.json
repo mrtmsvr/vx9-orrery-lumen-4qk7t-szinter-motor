@@ -1,35 +1,35 @@
 {
-  "id": "53fe1a2fd6",
-  "date": "2026-10-13",
-  "status": "skipped",
-  "article_url": "/penzvilag/2026-10-12-igy-faragna-le-a-hazai-kamatterheket-az-akk-vezetoje/",
-  "article_title": "Így faragná le a hazai kamatterheket az ÁKK vezetője",
-  "category": "penzvilag",
+  "id": "b8d9a5ed0a",
+  "date": "2026-10-14",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-14-kapitany-istvan-szerint-a-rezsicsokkentes-marad-az-uzemanyagar-viszon/",
+  "article_title": "Kapitány István szerint a rezsicsökkentés marad, az üzemanyagár viszont piaci alapú lesz",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint mielőbb be kellene vezetni az eurót Magyarországon?",
+      "question": "Ön szerint helyes-e, hogy az üzemanyagárakat a piaci folyamatokra bízzák?",
       "options": [
-        "Igen, mielőbb be kell vezetni",
-        "Nem, meg kell tartani a forintot",
-        "Nem tudom / nincs véleményem"
+        "Igen, a szabadpiac a leghatékonyabb.",
+        "Nem, állami árszabályozásra lenne szükség.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Jó iránynak tartja az ÁKK vezetőjének javaslatát az adósságcsökkentésre?",
+      "question": "Mit tart fontosabbnak a gazdaságpolitikában jelenleg?",
       "options": [
-        "Igen, ez a helyes út",
-        "Nem, ez rossz irány",
-        "Nem tudom / nincs véleményem"
+        "Az üzemanyagárak állami korlátozását.",
+        "A rezsicsökkentés fenntartását minden áron.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Helyes-e az eurózónához való közeledést szorgalmazni gazdasági érvek miatt?",
+      "question": "Helyeseli-e, hogy a kormány kivonul az üzemanyag-árak szabályozásából?",
       "options": [
-        "Igen, a gazdasági érvek döntőek",
-        "Nem, a szuverenitás fontosabb",
-        "Nem tudom / nincs véleményem"
+        "Igen, ez tehermentesíti a költségvetést.",
+        "Nem, ez túl nagy áremelkedést okoz.",
+        "Nem tudom / nincs véleményem."
       ]
     }
   ],
-  "msg_id": 5556
+  "msg_id": 5832
 }
