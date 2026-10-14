@@ -11644,13 +11644,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-14T17:46:19+00:00",
-        "msg_ids": [
-          6052,
-          6053,
-          6054,
-          6056
-        ],
-        "control_id": 6055
+        "msg_ids": [],
+        "control_id": 6055,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
