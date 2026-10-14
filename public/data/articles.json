@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T20:12:42+02:00",
+  "updated_at": "2026-10-14T20:31:42+02:00",
   "articles": [
+    {
+      "id": "b9d21afe-e165-52a0-9ace-511adb1c12db",
+      "slug": "2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Google",
+        "mesterséges intelligencia",
+        "tudomány",
+        "Európai Bizottság",
+        "Demis Hassabis"
+      ],
+      "title": "A Google legerősebb tudományos modelljeit kapják az európai kutatók",
+      "subtitle": null,
+      "lead": "Kétszáz európai kutató férhet hozzá a Google DeepMind legfejlettebb mesterségesintelligencia-modelljeihez és hárommillió dollárnyi felhőhasználati kerethez. A lépés célja, hogy csökkentse a kontinens tudósainak számítási kapacitásbeli lemaradását.",
+      "key_points": [
+        "Akár kétszáz európai kutató kap közvetlen hozzáférést a Google DeepMind tudományos modelljeihez.",
+        "A csomag része a hárommillió dollárnyi Google Cloud számítási kredit is az Európai Bizottság programján keresztül.",
+        "Demis Hassabis társalapító egy dublini csúcson az AI-ágensek jelentette korai biztonsági kockázatokra is figyelmeztetett."
+      ],
+      "content": "Akár kétszáz európai kutató is közvetlen hozzáférést kaphat a Google DeepMind legfejlettebb tudományos mesterségesintelligencia-modelljeihez, A techcég bejelentése szerint a támogatás összesen hárommillió dollárnyi Google Cloud számítási kreditet is tartalmaz, amely a felhőalapú adatelemzéshez és a nagyszabású számításokhoz nyújt hátteret.\n\nA felajánlás az Európai Bizottság RAISE programján keresztül valósul meg, amelyet 2025 novemberében indítottak el egyfajta virtuális intézetként azzal a céllal, hogy segítse a tudósokat a mesterséges intelligencia hatékony használatában. A Google tájékoztatása alapján a kezdeményezés arra irányul, hogy csökkentsék azt a számítási kapacitásbeli lemaradást, amellyel az európai kutatók időnként szembesülnek a tengerentúli laboratóriumokhoz képest.\n\nA kiválasztási folyamat részletei egyelőre nem nyilvánosak; a cég nem közölte, hogy pontosan milyen szempontok alapján választják ki a kutatókat, mikor indul a hozzáférés, és miként osztják el köztük a keretet. Egyenletes elosztás esetén ez kutatónként nagyjából 15 ezer dollárt, azaz közel 4,9 millió forintot jelentene.\n\nA bejelentéssel egy napon Demis Hassabis, a Google DeepMind társalapítója és az Alphabet vezető tudósa egy dublini csúcson arra hívta fel a figyelmet, hogy az AI-ágensek által végrehajtott közelmúltbeli hackertámadások korai figyelmeztető lövéseknek tekinthetők. A Reuters beszámolója szerint a szakember úgy véli, bár a rendszerek ma még nem elég erősek a súlyos incidensekhez, megfelelő ipari és kormányzati intézkedések hiányában a következő egy-két évben komolyabb támadási események is kibontakozhatnak, ami miatt előbb-utóbb egy rugalmas, kockázatarányos nemzetközi szabványügyi testületre is szükség lesz.",
+      "content_format": "markdown",
+      "body": [
+        "Akár kétszáz európai kutató is közvetlen hozzáférést kaphat a Google DeepMind legfejlettebb tudományos mesterségesintelligencia-modelljeihez, A techcég bejelentése szerint a támogatás összesen hárommillió dollárnyi Google Cloud számítási kreditet is tartalmaz, amely a felhőalapú adatelemzéshez és a nagyszabású számításokhoz nyújt hátteret.",
+        "A felajánlás az Európai Bizottság RAISE programján keresztül valósul meg, amelyet 2025 novemberében indítottak el egyfajta virtuális intézetként azzal a céllal, hogy segítse a tudósokat a mesterséges intelligencia hatékony használatában. A Google tájékoztatása alapján a kezdeményezés arra irányul, hogy csökkentsék azt a számítási kapacitásbeli lemaradást, amellyel az európai kutatók időnként szembesülnek a tengerentúli laboratóriumokhoz képest.",
+        "A kiválasztási folyamat részletei egyelőre nem nyilvánosak; a cég nem közölte, hogy pontosan milyen szempontok alapján választják ki a kutatókat, mikor indul a hozzáférés, és miként osztják el köztük a keretet. Egyenletes elosztás esetén ez kutatónként nagyjából 15 ezer dollárt, azaz közel 4,9 millió forintot jelentene.",
+        "A bejelentéssel egy napon Demis Hassabis, a Google DeepMind társalapítója és az Alphabet vezető tudósa egy dublini csúcson arra hívta fel a figyelmet, hogy az AI-ágensek által végrehajtott közelmúltbeli hackertámadások korai figyelmeztető lövéseknek tekinthetők. A Reuters beszámolója szerint a szakember úgy véli, bár a rendszerek ma még nem elég erősek a súlyos incidensekhez, megfelelő ipari és kormányzati intézkedések hiányában a következő egy-két évben komolyabb támadási események is kibontakozhatnak, ami miatt előbb-utóbb egy rugalmas, kockázatarányos nemzetközi szabványügyi testületre is szükség lesz."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 252,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Google_DeepMind_logo.png/1280px-Google_DeepMind_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 259,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The logo of DeepMind Technologies Limited as used on their website as of 2023.",
+        "credit": "DeepMind Technologies Limited (Alphabet, Inc.). / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Google_DeepMind_logo.png",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "A Google európai kutatóknak is elérhetővé teszi a legfejlettebb tudományos AI-modelljeit",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:17+02:00"
+        }
+      ],
+      "quote": {
+        "text": "korai figyelmeztető lövések",
+        "who": "Demis Hassabis, a Google DeepMind társalapítója",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T20:31:42+02:00"
+      },
+      "hot_score": 5.66,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+      "seo": {
+        "meta_title": "A Google legerősebb tudományos modelljeit kapják az európai ",
+        "meta_description": "Kétszáz európai kutató férhet hozzá a Google DeepMind legfejlettebb mesterségesintelligencia-modelljeihez és hárommillió dollárnyi felhőhasználati kerethez. A l",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Google_DeepMind_logo.png/1280px-Google_DeepMind_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f0187fc5412c6a223800594358e6610e64530e2c3ef55bbec498e3ed05cfb016",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T20:31:42+02:00",
+      "updated_at": "2026-10-14T20:31:42+02:00",
+      "published_at": "2026-10-14T20:31:42+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Google DeepMind",
+        "European Commission",
+        "Google Cloud",
+        "Demis Hassabis",
+        "Dublin summit",
+        "RAISE program",
+        "scientists in a laboratory",
+        "cloud computing data center",
+        "AI research conference"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg/1280px-Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/David_Sharon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
+    },
     {
       "id": "c9a9a019-9acd-5cc7-8c7a-236c82c77674",
       "slug": "2026-10-14-otszor-ment-ferjhez-par-honap-alatt-a-nyerogepekben-kotott-ki-a-vagyo",
