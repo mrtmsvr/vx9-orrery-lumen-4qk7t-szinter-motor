@@ -11361,6 +11361,1064 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "b9d21afe-e165-52a0-9ace-511adb1c12db",
+      "slug": "2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Google",
+        "mesterséges intelligencia",
+        "tudomány",
+        "Európai Bizottság",
+        "Demis Hassabis"
+      ],
+      "title": "A Google legerősebb tudományos modelljeit kapják az európai kutatók",
+      "subtitle": null,
+      "lead": "Kétszáz európai kutató férhet hozzá a Google DeepMind legfejlettebb mesterségesintelligencia-modelljeihez és hárommillió dollárnyi felhőhasználati kerethez. A lépés célja, hogy csökkentse a kontinens tudósainak számítási kapacitásbeli lemaradását.",
+      "key_points": [
+        "Akár kétszáz európai kutató kap közvetlen hozzáférést a Google DeepMind tudományos modelljeihez.",
+        "A csomag része a hárommillió dollárnyi Google Cloud számítási kredit is az Európai Bizottság programján keresztül.",
+        "Demis Hassabis társalapító egy dublini csúcson az AI-ágensek jelentette korai biztonsági kockázatokra is figyelmeztetett."
+      ],
+      "content": "Akár kétszáz európai kutató is közvetlen hozzáférést kaphat a Google DeepMind legfejlettebb tudományos mesterségesintelligencia-modelljeihez, A techcég bejelentése szerint a támogatás összesen hárommillió dollárnyi Google Cloud számítási kreditet is tartalmaz, amely a felhőalapú adatelemzéshez és a nagyszabású számításokhoz nyújt hátteret.\n\nA felajánlás az Európai Bizottság RAISE programján keresztül valósul meg, amelyet 2025 novemberében indítottak el egyfajta virtuális intézetként azzal a céllal, hogy segítse a tudósokat a mesterséges intelligencia hatékony használatában. A Google tájékoztatása alapján a kezdeményezés arra irányul, hogy csökkentsék azt a számítási kapacitásbeli lemaradást, amellyel az európai kutatók időnként szembesülnek a tengerentúli laboratóriumokhoz képest.\n\nA kiválasztási folyamat részletei egyelőre nem nyilvánosak; a cég nem közölte, hogy pontosan milyen szempontok alapján választják ki a kutatókat, mikor indul a hozzáférés, és miként osztják el köztük a keretet. Egyenletes elosztás esetén ez kutatónként nagyjából 15 ezer dollárt, azaz közel 4,9 millió forintot jelentene.\n\nA bejelentéssel egy napon Demis Hassabis, a Google DeepMind társalapítója és az Alphabet vezető tudósa egy dublini csúcson arra hívta fel a figyelmet, hogy az AI-ágensek által végrehajtott közelmúltbeli hackertámadások korai figyelmeztető lövéseknek tekinthetők. A Reuters beszámolója szerint a szakember úgy véli, bár a rendszerek ma még nem elég erősek a súlyos incidensekhez, megfelelő ipari és kormányzati intézkedések hiányában a következő egy-két évben komolyabb támadási események is kibontakozhatnak, ami miatt előbb-utóbb egy rugalmas, kockázatarányos nemzetközi szabványügyi testületre is szükség lesz.",
+      "content_format": "markdown",
+      "body": [
+        "Akár kétszáz európai kutató is közvetlen hozzáférést kaphat a Google DeepMind legfejlettebb tudományos mesterségesintelligencia-modelljeihez, A techcég bejelentése szerint a támogatás összesen hárommillió dollárnyi Google Cloud számítási kreditet is tartalmaz, amely a felhőalapú adatelemzéshez és a nagyszabású számításokhoz nyújt hátteret.",
+        "A felajánlás az Európai Bizottság RAISE programján keresztül valósul meg, amelyet 2025 novemberében indítottak el egyfajta virtuális intézetként azzal a céllal, hogy segítse a tudósokat a mesterséges intelligencia hatékony használatában. A Google tájékoztatása alapján a kezdeményezés arra irányul, hogy csökkentsék azt a számítási kapacitásbeli lemaradást, amellyel az európai kutatók időnként szembesülnek a tengerentúli laboratóriumokhoz képest.",
+        "A kiválasztási folyamat részletei egyelőre nem nyilvánosak; a cég nem közölte, hogy pontosan milyen szempontok alapján választják ki a kutatókat, mikor indul a hozzáférés, és miként osztják el köztük a keretet. Egyenletes elosztás esetén ez kutatónként nagyjából 15 ezer dollárt, azaz közel 4,9 millió forintot jelentene.",
+        "A bejelentéssel egy napon Demis Hassabis, a Google DeepMind társalapítója és az Alphabet vezető tudósa egy dublini csúcson arra hívta fel a figyelmet, hogy az AI-ágensek által végrehajtott közelmúltbeli hackertámadások korai figyelmeztető lövéseknek tekinthetők. A Reuters beszámolója szerint a szakember úgy véli, bár a rendszerek ma még nem elég erősek a súlyos incidensekhez, megfelelő ipari és kormányzati intézkedések hiányában a következő egy-két évben komolyabb támadási események is kibontakozhatnak, ami miatt előbb-utóbb egy rugalmas, kockázatarányos nemzetközi szabványügyi testületre is szükség lesz."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 252,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "John Jumper, Google DeepMind",
+        "credit": "National Academies - Earth and Life Studies / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:John_M_Jumper_Google_DeepMind_(14_Sep_2024)_-_img_03.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "A Google európai kutatóknak is elérhetővé teszi a legfejlettebb tudományos AI-modelljeit",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:17+02:00"
+        }
+      ],
+      "quote": {
+        "text": "korai figyelmeztető lövések",
+        "who": "Demis Hassabis, a Google DeepMind társalapítója",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.66,
+      "title_options": [
+        "A Google legerősebb tudományos modelljeit kapják az európai kutatók",
+        "Millió dolláros felhőkredittel segíti az európai tudósokat a Google",
+        "Hárommillió dollárral támogatja az európai kutatókat a Google",
+        "Itt a bejelentés: brutális mennyiségű számítási kapacitást kap Európa a Google-től",
+        "Egymást érik a figyelmeztetések: az AI-alapú hackertámadásokról beszélt a Google alapítója",
+        "Kiderült, mire szánja a milliókat a Google az európai kutatóknak"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "John Jumper, Google DeepMind",
+          "credit": "National Academies - Earth and Life Studies / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:John_M_Jumper_Google_DeepMind_(14_Sep_2024)_-_img_03.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/David_Sharon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1500,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "David Sharon, Group Product Manager at Google DeepMind, Gemini App Multimodal Generation.",
+          "credit": "David Sharon / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:David_Sharon_2026.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg/1280px-Visit_of_Barna_T%C3%A1nczos%2C_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance%2C_to_the_European_Commission.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "On 21 January 2025, Valdis Dombrovskis, European Commissioner for Economy and Productivity, and European Commissioner for Implementation and Simplification received Barna Tánczos, Romanian Deputy Prim",
+          "credit": "European Union / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Visit_of_Barna_T%C3%A1nczos,_Romanian_Deputy_Prime_Minister_and_Minister_for_Finance,_to_the_European_Commission.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 670,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Belgium - Brussels - Schuman - Berlaymont - Seat of the European Commission",
+          "credit": "EmDee / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 751,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Categorize algorithms based on their use in relation to human activities.",
+          "credit": "Cyrilht / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png"
+        }
+      ],
+      "story": [
+        {
+          "title": "A Google európai kutatóknak is elérhetővé teszi a legfejlettebb tudományos AI-modelljeit",
+          "link": "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "Kétszáz európai kutató férhet hozzá a cég legerősebb AI-eszközeihez az AlphaFold 3-tól a genomikai és időjárás-előrejelző modellekig, amihez 3 millió dollárnyi felhőhasználati kreditet is hozzácsapnak. A cél Európa felzárkóztatása az AI tudományos alkalmazásában.",
+          "source": "qubit.hu",
+          "related": false,
+          "hot_score": 5.66
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/14/a-google-europai-kutatoknak-is-elerhetove-teszi-a-legfejlettebb-tudomanyos-ai-modelljeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+      "seo": {
+        "meta_title": "A Google legerősebb tudományos modelljeit kapják az európai ",
+        "meta_description": "Kétszáz európai kutató férhet hozzá a Google DeepMind legfejlettebb mesterségesintelligencia-modelljeihez és hárommillió dollárnyi felhőhasználati kerethez. A l",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg/1280px-John_M_Jumper_Google_DeepMind_%2814_Sep_2024%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f0187fc5412c6a223800594358e6610e64530e2c3ef55bbec498e3ed05cfb016",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T16:02:17+02:00",
+      "updated_at": "2026-10-14T16:02:17+02:00",
+      "published_at": "2026-10-14T16:02:17+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T14:02:52+00:00",
+        "msg_ids": [
+          5961,
+          5962,
+          5963,
+          5964,
+          5965,
+          5966
+        ],
+        "control_id": 5967
+      }
+    },
+    {
+      "id": "88c0a52d-b60c-5a9b-9550-612cfacf32ab",
+      "slug": "2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "forint",
+        "infláció",
+        "dollár",
+        "tőzsde",
+        "Richter"
+      ],
+      "title": "Háromhetes csúcsra ért a forint az amerikai inflációs adatok után",
+      "subtitle": null,
+      "lead": "Háromhetes csúcsra erősödött kedd este a forint az euróval szemben, ám a vártnál magasabb amerikai inflációs adatok azonnali turbulenciát okoztak a devizapiacon. A tengerentúli drágulási ütem gyorsulása nyomán a dollár hirtelen erősödésbe kezdett, ami a hazai fizetőeszköz árfolyamára is hatással volt.",
+      "key_points": [
+        "A forint háromhetes csúcsot ért el az euróval szemben kedd este.",
+        "A dollár árfolyama a tengerentúli adatok hatására 327 forint fölé emelkedett.",
+        "A budapesti tőzsde felülteljesít, a BUX index közel egyszázalékos pluszban áll."
+      ],
+      "content": "Kedd este háromhetes csúcsra erősödött a forint az euróval szemben, miután mérséklődött a globális kötvényekre nehezedő nyomás. A hazai fizetőeszköz stabil pozícióból várta a hét legfontosabb piacmozgató eseményét, a szeptemberi amerikai inflációs adatok közzétételét, amelyek azonban azonnali fordulatot idéztek elő a devizapiacokon.\n\nMindkét mutató meghaladta az elemzői várakozásokat, ami felerősítette a befektetők rövid távú kamatvárakozásait. A hírre a dollár erősödésbe kezdett: a dollár-forint árfolyam több mint két egységgel 327 forint fölé ugrott, miközben az euró jegyzése 364,4 forintot is elért.\n\nA hazai tőzsdén kedvezőbb a kép: a BUX index közel egyszázalékos pluszban teljesít a kereskedési idő második felében. A blue chipek közül kiemelkedik a Richter, amelynek árfolyama 2,5 százalékkal erősödött, miután az amerikai gyógyszerfelügyelet, az FDA befogadta a Fylrevy nevű készítmény törzskönyvezési kérelmét. Jóváhagyás esetén ez lesz az Egyesült Államok első E4-et tartalmazó menopauzális hormonterápiája.",
+      "content_format": "markdown",
+      "body": [
+        "Kedd este háromhetes csúcsra erősödött a forint az euróval szemben, miután mérséklődött a globális kötvényekre nehezedő nyomás. A hazai fizetőeszköz stabil pozícióból várta a hét legfontosabb piacmozgató eseményét, a szeptemberi amerikai inflációs adatok közzétételét, amelyek azonban azonnali fordulatot idéztek elő a devizapiacokon.",
+        "Mindkét mutató meghaladta az elemzői várakozásokat, ami felerősítette a befektetők rövid távú kamatvárakozásait. A hírre a dollár erősödésbe kezdett: a dollár-forint árfolyam több mint két egységgel 327 forint fölé ugrott, miközben az euró jegyzése 364,4 forintot is elért.",
+        "A hazai tőzsdén kedvezőbb a kép: a BUX index közel egyszázalékos pluszban teljesít a kereskedési idő második felében. A blue chipek közül kiemelkedik a Richter, amelynek árfolyama 2,5 százalékkal erősödött, miután az amerikai gyógyszerfelügyelet, az FDA befogadta a Fylrevy nevű készítmény törzskönyvezési kérelmét. Jóváhagyás esetén ez lesz az Egyesült Államok első E4-et tartalmazó menopauzális hormonterápiája."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 180,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/50_Forint_Comemmorative_Ambulance_Front.jpg/1280px-50_Forint_Comemmorative_Ambulance_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The coin was released on 2023 May 9 as a comemmoration of the establishment of the Hungarian Ambulance Services.",
+        "credit": "ByRussia45 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:50_Forint_Comemmorative_Ambulance_Front.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/deviza/20261014/megerkezett-a-het-legfontosabb-adata-meg-is-utottek-a-forintot-869466",
+          "title": "Megérkezett a hét legfontosabb adata, meg is ütötték a forintot",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:11+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/penz-es-tokepiac/2026/10/forint-euro-dollar-ardolyam-inflacio-richter-otp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Vágtat a forint, jó formában várja a hét legfontosabb adatát a hazai pénz – a Richter átvette a stafétát az OTP-től",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:11+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.67,
+      "title_options": [
+        "Háromhetes csúcsra ért a forint az amerikai inflációs adatok után",
+        "Megütötték a forintot az amerikai inflációs adatok megérkezésekor",
+        "Újabb csúcsot ért el a forint, de az amerikai adatok máris bezavartak",
+        "Ilyet sem láttunk rég: erre számított valaki a forint piacán?",
+        "Hatalmas kilengések a devizapiacon: itt vannak a részletek"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/50_Forint_Comemmorative_Ambulance_Front.jpg/1280px-50_Forint_Comemmorative_Ambulance_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The coin was released on 2023 May 9 as a comemmoration of the establishment of the Hungarian Ambulance Services.",
+          "credit": "ByRussia45 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:50_Forint_Comemmorative_Ambulance_Front.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Richter-Gedeon-Nyrt-P5010610.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 853,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A Richter Gedeon Nyrt. kutatási épülete",
+          "credit": "The original uploader was Misibacsi at Hungarian Wikipedia. / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Richter-Gedeon-Nyrt-P5010610.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Richter-Gedeon-Nyrt-P5010609.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1034,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "A Richter Gedeon Nyrt. egyik épülete",
+          "credit": "The original uploader was Misibacsi at Hungarian Wikipedia. / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Richter-Gedeon-Nyrt-P5010609.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Megérkezett a hét legfontosabb adata, meg is ütötték a forintot",
+          "link": "https://www.portfolio.hu/deviza/20261014/megerkezett-a-het-legfontosabb-adata-meg-is-utottek-a-forintot-869466",
+          "summary": "Háromhetes csúcsra erősödött kedd este a forint az euróval szemben, miután némileg csökkent a globális kötvényekre nehezedő nyomás. A mai nap legfontosabb eseménye az amerikai szeptemberi inflációs adat megjelenése volt, ami a devizapiacokon is nagy fordulatot hozott.",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.67
+        },
+        {
+          "title": "Vágtat a forint, jó formában várja a hét legfontosabb adatát a hazai pénz – a Richter átvette a stafétát az OTP-től",
+          "link": "https://www.vg.hu/penz-es-tokepiac/2026/10/forint-euro-dollar-ardolyam-inflacio-richter-otp?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "summary": "A forint őrzi előnyét az euróval és a dollárral szemeben, az amerikai inflációs adat hozhat újabb impulust a kereskedésben.",
+          "source": "vg.hu",
+          "related": true,
+          "hot_score": 6.67
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/deviza/20261014/megerkezett-a-het-legfontosabb-adata-meg-is-utottek-a-forintot-869466"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/penzvilag/2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan/",
+      "seo": {
+        "meta_title": "Háromhetes csúcsra ért a forint az amerikai inflációs adatok",
+        "meta_description": "Háromhetes csúcsra erősödött kedd este a forint az euróval szemben, ám a vártnál magasabb amerikai inflációs adatok azonnali turbulenciát okoztak a devizapiacon",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-14-haromhetes-csucsra-ert-a-forint-az-amerikai-inflacios-adatok-utan/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/50_Forint_Comemmorative_Ambulance_Front.jpg/1280px-50_Forint_Comemmorative_Ambulance_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "3839712dd6bb1b86c8690d81e89b1b93acbc2055e4196a9a4632c084ec81a7b2",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T16:02:11+02:00",
+      "updated_at": "2026-10-14T16:02:11+02:00",
+      "published_at": "2026-10-14T16:02:11+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T14:03:10+00:00",
+        "msg_ids": [
+          5968,
+          5969,
+          5970,
+          5971
+        ],
+        "control_id": 5972
+      }
+    },
+    {
+      "id": "a9f47757-05c8-5680-889a-ff07e511286f",
+      "slug": "2026-10-14-gyerekkori-sulyok-hatarozzak-meg-mennyire-faradunk-el-felnottkent",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "mozgás",
+        "edzés",
+        "kutatás",
+        "életmód"
+      ],
+      "title": "Gyerekkori súlyok határozzák meg, mennyire fáradunk el felnőttként",
+      "subtitle": null,
+      "lead": "A gyerekkorban végzett fizikai aktivitás alapvetően meghatározhatja, hogy felnőttként mennyi energiát emészt fel a mozgás. Egy friss kutatás szerint a fiatalkori terhelés növelheti a test mozgási hatékonyságát.",
+      "key_points": [
+        "A Penn State kutatói gyöngytyúkok bevonásával vizsgálták a fejlődéskori terhelés hatásait.",
+        "A növekedésük során nehezéket viselő állatok felnőttként extra energia elégetése nélkül bírták a terhelést.",
+        "A kontrollcsoportba tartozó, felkészítetlen madarak 23 százalékkal több energiát használtak fel ugyanezen terhelés alatt."
+      ],
+      "content": "A testmozgás energiaigénye jelentős mértékben függ attól, mennyi fizikai aktivitás éri az embert a fejlődési szakaszban. A Proceedings of the Royal Society B, Biological Sciences folyóiratban közölt vizsgálat első alkalommal szolgált közvetlen bizonyítékkal arról, hogy a fiatalkori tapasztalatok tartósan átalakítják az élőlények felnőttkori mozgáshatékonyságát.\n\nAz eredmények alapján a növekedésük alatt terheléshez szokott egyedek pluszenergia felhasználása nélkül tudtak járni az extra teherrel.\n\nEzzel szemben a kontrollcsoport egyedei 23 százalékkal több energiát égettek el ugyanolyan terhelés mellett. A kutatást vezető Jonas Rubenson, a Penn State kineziológia professzora szerint a mozgás energiaigénye jóval adaptívabb a korábban véltnél, és a fejlődés során elért hatékonyság jelentős evolúciós előnyt jelenthet a táplálékszerzés vagy a szaporodás terén.",
+      "content_format": "markdown",
+      "body": [
+        "A testmozgás energiaigénye jelentős mértékben függ attól, mennyi fizikai aktivitás éri az embert a fejlődési szakaszban. A Proceedings of the Royal Society B, Biological Sciences folyóiratban közölt vizsgálat első alkalommal szolgált közvetlen bizonyítékkal arról, hogy a fiatalkori tapasztalatok tartósan átalakítják az élőlények felnőttkori mozgáshatékonyságát.",
+        "Az eredmények alapján a növekedésük alatt terheléshez szokott egyedek pluszenergia felhasználása nélkül tudtak járni az extra teherrel.",
+        "Ezzel szemben a kontrollcsoport egyedei 23 százalékkal több energiát égettek el ugyanolyan terhelés mellett. A kutatást vezető Jonas Rubenson, a Penn State kineziológia professzora szerint a mozgás energiaigénye jóval adaptívabb a korábban véltnél, és a fejlődés során elért hatékonyság jelentős evolúciós előnyt jelenthet a táplálékszerzés vagy a szaporodás terén."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 137,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Helmeted guinea fowl fighting in Etosha National Park, Namibia",
+        "credit": "Giles Laurent / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:16+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ez a tanulmány rávilágított arra, hogy a végtagok terhelése a fejlődés során – legyen szó súlyokról vagy testmozgásról – miként segíthet egy állatnak energiát takarítani meg a mozgásban az egész élete során.",
+        "who": "Jonas Rubenson, a Penn State kineziológia professzora",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.88,
+      "title_options": [
+        "Gyerekkori súlyok határozzák meg, mennyire fáradunk el felnőttként",
+        "Gyerekkori mozgás: ekkor dől el a felnőttkori edzés hatékonysága",
+        "Meglepő összefüggés: a fiatalkori terhelés spórolja meg a felnőttkori energiát",
+        "Nem fogod elhinni, miért fáradsz el olyan nehezen edzés közben – ha gyerekként ezt csináltad",
+        "Egyetlen gyerekkori szokás dönti el, hogy utálni fogod-e a mozgást felnőttként",
+        "Így határozza meg a múltad, hogy mennyi energiát égetsz el egy edzésen"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Helmeted guinea fowl fighting in Etosha National Park, Namibia",
+          "credit": "Giles Laurent / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Guinea_Fowl_Cafreal.jpg/1280px-Guinea_Fowl_Cafreal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 968,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Cafreal is a fowl-preparation consumed widely in the Indian state of Goa, introduced into the Goan cuisine by the Portuguese and the African soldiers.",
+          "credit": "Souradeep.Dasgupta / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Guinea_Fowl_Cafreal.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cyberith_VidMill_Video_Production_Treadmill_used_for_Volumetric_Capture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The Cyberith VidMill is an infinitely rotatable treadmill, that’s controlled from a PC. It's direct integration with Unreal Engine makes it an ideal tool for virtual production, but it is similarly su",
+          "credit": "Holger2130 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cyberith_VidMill_Video_Production_Treadmill_used_for_Volumetric_Capture.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Exercise_Treadmill_Convey_Motion.jpg/1280px-Exercise_Treadmill_Convey_Motion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A man running on an exercise treadmill.",
+          "credit": "Larry D. Moore / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Exercise_Treadmill_Convey_Motion.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1280px-039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Juvenile blue wildebeest covered in mud running in Serengeti National Park, Tanzania",
+          "credit": "Giles Laurent / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:039_Juvenile_blue_wildebeest_covered_in_mud_running_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/193_Herd_of_Reindeers_running_in_Southern_Iceland_Photo_by_Giles_Laurent.jpg/1280px-193_Herd_of_Reindeers_running_in_Southern_Iceland_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Herd of Reindeers running in Southern Iceland",
+          "credit": "Giles Laurent / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:193_Herd_of_Reindeers_running_in_Southern_Iceland_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g8ee461b885be6930c481d955ab7963256734e2b4b8a670b47568941d83e1357492f0384ab77ba476072fcee4496c8d465c328f5a88ac74197384462f580cdae8_1280.jpg",
+          "width": 5184,
+          "height": 3456,
+          "kind": "photo",
+          "alt": "sports shoes, running shoes, shoe sole, shoes, feet, running, jog, run, walk, side walk, to stroll, sepia, black-and-white, detail, close up, bright, running shoes, running shoes, running shoes, runni",
+          "credit": "un-perfekt / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sports-shoes-running-shoes-shoe-sole-3994967/"
+        },
+        {
+          "url": "https://pixabay.com/get/g88ac8705468dcba8664537ffc7b4dfbbd7edd396106fbf27e2ec2b16bbe5bbf7de340c2f837ddacc2c3b4672414e59d976e658cfcb54f25e0f6cfad667bddab0_1280.jpg",
+          "width": 6000,
+          "height": 3376,
+          "kind": "photo",
+          "alt": "sports shoes, shoes, running, sneakers, sports, jog, running shoes, training, running, running shoes, running shoes, running shoes, running shoes, running shoes",
+          "credit": "matthiasboeckel / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sports-shoes-shoes-running-sneakers-4510638/"
+        }
+      ],
+      "story": [
+        {
+          "title": "The secret to easier exercise as an adult may start in childhood",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015811.htm",
+          "summary": "Exercise during childhood could have a surprising lifelong benefit, potentially making physical activity less exhausting in adulthood. In a study involving guinea fowl, researchers discovered that birds accustomed to carrying weights while growing up could carry those weights as adults without using extra energy, while untrained birds burned 23% more.",
+          "source": "sciencedaily.com",
+          "related": false,
+          "hot_score": 5.88
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261013015811.htm"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/eletmod/2026-10-14-gyerekkori-sulyok-hatarozzak-meg-mennyire-faradunk-el-felnottkent/",
+      "seo": {
+        "meta_title": "Gyerekkori súlyok határozzák meg, mennyire fáradunk el felnő",
+        "meta_description": "A gyerekkorban végzett fizikai aktivitás alapvetően meghatározhatja, hogy felnőttként mennyi energiát emészt fel a mozgás. Egy friss kutatás szerint a fiatalkor",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-gyerekkori-sulyok-hatarozzak-meg-mennyire-faradunk-el-felnottkent/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-177_Helmeted_guinea_fowl_fighting_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8416f824e73d57ada4708003eae47691e4526ee00b280cc5cee15d5cb0323f4e",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T16:03:31+02:00",
+      "updated_at": "2026-10-14T16:03:31+02:00",
+      "published_at": "2026-10-14T16:03:31+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T14:03:17+00:00",
+        "msg_ids": [
+          5973,
+          5974,
+          5975,
+          5976,
+          5977,
+          5978,
+          5979,
+          5980,
+          5981,
+          6001
+        ],
+        "control_id": 5982
+      },
+      "live": true
+    },
+    {
+      "id": "608397d1-e0cf-5a20-810d-31cccaff068e",
+      "slug": "2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Starlink",
+        "Elon Musk",
+        "Ukrajna",
+        "dróncsapás",
+        "Egyesült Államok"
+      ],
+      "title": "Elon Musk lecsavart rendszere miatt maradtak el ukrán drónbevetések",
+      "subtitle": null,
+      "lead": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-szolgáltatásokra. A technológiai akadályok nehezítik az orosz logisztikai és energetikai rendszerek elleni nagy hatótávolságú csapások irányítását.",
+      "key_points": [
+        "A SpaceX korlátozásokat vezethetett be egyes ukrajnai Starlink-szolgáltatásokra.",
+        "A technológia korlátozása miatt ukrán alakulatoknak kellett bevetéseket lemondaniuk.",
+        "Az amerikai adminisztráció közben nyomást gyakorol Kijevre az orosz energetikai célpontok támadásának leállításáért."
+      ],
+      "content": "Ukrán katonai egységeknek kellett bevetéseket elhalasztaniuk azután, hogy a SpaceX megváltoztathatta a Starlink-terminálok elérhetőségét. A műholdas internetterminálok alapvető fontosságúak Ukrajna navigációs, kommunikációs és vezetésirányítási rendszerei számára, különösen a megszállt déli és keleti területeken végrehajtott, nagy hatótávolságú dróncsapások irányításában.\n\nA SpaceX a hírek szerint leállította a katonai minőségű változat üzemeltetését 100 mérföld per óra feletti sebességnél, és a megfigyelések alapján a kapcsolat akár 10–20 másodpercre is megszakadhatott repülés közben.\n\nA háttérben komoly diplomáciai feszültségek húzódnak, mivel a dízelhiánnyal küzdő Egyesült Államok adminisztrációja korábban is nyomást gyakorolt Kijevre, hogy fejezzék be az orosz energetikai infrastruktúra és olajfinomítók támadását. Az amerikai kormányzat a szankciók ideiglenes feloldásáról is tárgyalt Moszkvával az üzemanyagellátás biztosítása érdekében, ami Volodimir Zelenszkij ukrán elnök szerint a háború elhúzását segíti.\n\nA frontvonalon korábban mindkét fél használta a technológiát: az orosz agresszor katonái is szereltek Starlink-terminált az öngyilkos drónokra, ám az év eleji módosítások óta ez a megoldás jelentősen megnehezebbült az oroszok számára, miközben Kijev is újabb technikai akadályokkal szembesült.",
+      "content_format": "markdown",
+      "body": [
+        "Ukrán katonai egységeknek kellett bevetéseket elhalasztaniuk azután, hogy a SpaceX megváltoztathatta a Starlink-terminálok elérhetőségét. A műholdas internetterminálok alapvető fontosságúak Ukrajna navigációs, kommunikációs és vezetésirányítási rendszerei számára, különösen a megszállt déli és keleti területeken végrehajtott, nagy hatótávolságú dróncsapások irányításában.",
+        "A SpaceX a hírek szerint leállította a katonai minőségű változat üzemeltetését 100 mérföld per óra feletti sebességnél, és a megfigyelések alapján a kapcsolat akár 10–20 másodpercre is megszakadhatott repülés közben.",
+        "A háttérben komoly diplomáciai feszültségek húzódnak, mivel a dízelhiánnyal küzdő Egyesült Államok adminisztrációja korábban is nyomást gyakorolt Kijevre, hogy fejezzék be az orosz energetikai infrastruktúra és olajfinomítók támadását. Az amerikai kormányzat a szankciók ideiglenes feloldásáról is tárgyalt Moszkvával az üzemanyagellátás biztosítása érdekében, ami Volodimir Zelenszkij ukrán elnök szerint a háború elhúzását segíti.",
+        "A frontvonalon korábban mindkét fél használta a technológiát: az orosz agresszor katonái is szereltek Starlink-terminált az öngyilkos drónokra, ám az év eleji módosítások óta ez a megoldás jelentősen megnehezebbült az oroszok számára, miközben Kijev is újabb technikai akadályokkal szembesült."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1584,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+        "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261014_kijev-szerint-elon-musk-lecsavarhatta-a-starlinket-ukrajnaban",
+          "title": "Ukrán bevetéseket kellett elhalasztani, mert Elon Musk lecsavarhatta a Starlinket",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:17+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Védelmi erőink nem kaptak figyelmeztetést erről a korlátozásról, ami több küldetés megszakításához vezetett",
+        "who": "Szerhij Beskrestnov elnöki tanácsadó",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.39,
+      "title_options": [
+        "Elon Musk lecsavart rendszere miatt maradtak el ukrán drónbevetések",
+        "Elon Musk akciója béníthatta meg az ukrán dróncsapásokat",
+        "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
+        "Ezt nem várták Kijevben: Elon Musk cégének húzása füstbe itatta a katonai terveket",
+        "Titkos sebességkorlátozás béníthatta meg a fronton az ukrán drónokat",
+        "Váratlan technológiai akadályba ütköztek az ukrán egységek a frontvonalon"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1584,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+          "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1280px-Elon_Musk_Royal_Society_%28crop2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1590,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Elon Musk is a technology entrepreneur, investor, and engineer.",
+          "credit": "Debbie Rowe / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1280px-CRS-20_Dragon%E2%80%93Enhanced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "SpaceX CRS-20 mission. The SpaceX Dragon resupply ship is pictured approaching the International Space Station as both spacecraft were soaring 267 miles above the African nation of Namibia.",
+          "credit": "Original:  NASA Johnson Space Center\nDerivative work:  Nythar / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:CRS-20_Dragon%E2%80%93Enhanced.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Starlink Mission",
+          "credit": "Official SpaceX Photos / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Starlink_Satellites_Imaged_from_CTIO.jpg/1280px-Starlink_Satellites_Imaged_from_CTIO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1086,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Image from Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory (CTIO), 333 seconds-exposure image by astronomers Clara Martínez-Vázquez and Cliff Johnson.\nImage containes at least",
+          "credit": "NSF’s National Optical-Infrared Astronomy Research Laboratory/CTIO/AURA/DELVE / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_Satellites_Imaged_from_CTIO.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1625,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Official portrait of Volodymyr Zelenskyy.",
+          "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Ukrán bevetéseket kellett elhalasztani, mert Elon Musk lecsavarhatta a Starlinket",
+          "link": "https://hvg.hu/vilag/20261014_kijev-szerint-elon-musk-lecsavarhatta-a-starlinket-ukrajnaban",
+          "summary": "A dízelhiányban szenvedő Egyesült Államok adminisztrációja korábban is jelezte Ukrajnának, hogy hagyjanak fel az orosz energetikai infrastruktúra támadásával.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.39
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261014_kijev-szerint-elon-musk-lecsavarhatta-a-starlinket-ukrajnaban"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/vilag/2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek/",
+      "seo": {
+        "meta_title": "Elon Musk lecsavart rendszere miatt maradtak el ukrán drónbe",
+        "meta_description": "Ukrán katonai bevetéseket kellett elhalasztani amiatt, hogy a SpaceX korlátozásokat vezethetett be a navigációhoz és kommunikációhoz elengedhetetlen Starlink-sz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-elon-musk-lecsavart-rendszere-miatt-maradtak-el-ukran-dronbevetesek/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "86fcfe14-c493-5a62-bcb3-b2c110961acd",
+        "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc"
+      ],
+      "see_also": [
+        {
+          "title": "Dízelbotrány és ukrán drónok: új frontvonal nyílt Washington és Kijev között",
+          "url": "/vilag/2026-10-11-dizelbotrany-es-ukran-dronok-uj-frontvonal-nyilt-washington-es-kijev/",
+          "date": "2026-10-11"
+        },
+        {
+          "title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámadás érte Moszkvát",
+          "url": "/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
+          "date": "2026-10-13"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "8e2457b7ace9d7df08019418927b5707e5a47b0deee2e087496a537790fc1dca",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T16:02:17+02:00",
+      "updated_at": "2026-10-14T16:02:17+02:00",
+      "published_at": "2026-10-14T16:02:17+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T14:03:23+00:00",
+        "msg_ids": [
+          5983,
+          5984,
+          5985,
+          5986,
+          5987,
+          5988,
+          5989
+        ],
+        "control_id": 5990
+      }
+    },
+    {
+      "id": "10b7614e-7735-5770-b93c-1cd28b372ff8",
+      "slug": "2026-10-14-miert-rontja-el-az-izomepitest-a-jeges-furdo",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "edzés",
+        "regeneráció",
+        "izomépítés",
+        "tudomány"
+      ],
+      "title": "Miért rontja el az izomépítést a jeges fürdő?",
+      "subtitle": null,
+      "lead": "A jeges fürdők, a kompressziós ruhák és a különféle táplálékkiegészítők a gyorsabb regeneráció ígéretével hódítanak, de a tudományos adatok szerint ezek gyakran többet ártanak, mint használnak. A legfrissebb kutatások rávilágítanak, hogy a vágyott izomnövekedést és a hosszú távú eredményeket éppen a népszerű házi trükkök gátolhatják meg.",
+      "key_points": [
+        "A jeges fürdő csökkenti a gyulladást, de ezzel a hosszú távú izomépítést is gátolhatja.",
+        "A kompressziós ruházat elsősorban a közérzetet javítja, a teljesítményt kevéssé növeli.",
+        "A masszázs oldja a merevséget, de csodát ez sem tesz a funkcionális regenerációban.",
+        "Az olcsóbb és hatékonyabb módszerek közé a helyes táplálkozás és a megfelelő alvás tartoznak."
+      ],
+      "content": "A kemény edzések utáni napokban jelentkező izomláz sok sportolót késztet arra, hogy drága és divatos regenerációs módszerekhez nyúljon. A közösségi oldalakon és a professzionális sportban egyaránt népszerűvé váltak a 15 Celsius-fok alatti jeges fürdők, a kompressziós textíliák, a különféle masszázsok és a színpompás regenerációs készítmények. Bár ezek a technikák gyorsabb felépülést és a fájdalom enyhítését ígérik, a tudományos vizsgálatok jóval árnyaltabb képet festenek a hatásukról.\n\nA hidegvizes merülések kétségtelenül enyhítik a gyulladást és a fájdalmat a huszonnégy órás időszakban, ám a folyamatnak hátulütője is van. A gyulladás ugyanis nemcsak a kellemetlen tüneteket okozza, hanem kiváltja azokat az adaptációs folyamatokat is, amelyek az izomzat növekedéséért felelnek. Ha valaki rendszeresen elnyomja ezt a biológiai választ a jeges fürdőkkel, az hosszú távon éppen a legfőbb edzéscélokat, vagyis az izomfejlődést áldozza fel a rövid távú fájdalomcsillapítás oltárán.\n\nA kompressziós ruhák szintén gyakori látványnak számítanak az edzőtermekben, mivel a külső nyomás révén papíron fokozzák a vérkeringést és mérséklik a duzzanatokat. Egy kétezer-huszonkettes vizsgálat során azonban placebo tablettákkal hasonlították össze a hatásukat, és bár a ruhák fizikai szinten serkentették a véráramlást, a placebót kapó csoport sem maradt el tőlük a regenerációs mutatókban. Ebből kiderül, hogy a ruházat elsősorban a jobb közérzethez segít hozzá, de a tényleges izomfunkciókat aligha állítja helyre közvetlenül.\n\nA masszázs a kevés olyan beavatkozások közé tartozik, amelyek viszonylag egységes tudományos támogatást élveznek a merevség csökkentésében és a relaxáció fokozásában. Ennek ellenére a teljesítménynövelő hatása már mérsékelt és ellentmondásos, vagyis csodás teljesítmény-visszaállításra nem érdemes számítani tőle. A táplálékkiegészítők piacán hasonló a helyzet: a fehérjék, mint például a tejsavó, kimutathatóan segítik a fehérjeszintézist, de az izomláz megszüntetésében náluk is bizonytalanok az eredmények.\n\nA szakemberek szerint a leghatékonyabb, legolcsóbb és legbiztosabb módszerek a klasszikus alapokon nyugszanak: a megfelelő mennyiségű és minőségű alvás, a kiegyensúlyozott táplálkozás, valamint a kellő idő biztosítása az izmok számára a természetes újjáépüléshez.",
+      "content_format": "markdown",
+      "body": [
+        "A kemény edzések utáni napokban jelentkező izomláz sok sportolót késztet arra, hogy drága és divatos regenerációs módszerekhez nyúljon. A közösségi oldalakon és a professzionális sportban egyaránt népszerűvé váltak a 15 Celsius-fok alatti jeges fürdők, a kompressziós textíliák, a különféle masszázsok és a színpompás regenerációs készítmények. Bár ezek a technikák gyorsabb felépülést és a fájdalom enyhítését ígérik, a tudományos vizsgálatok jóval árnyaltabb képet festenek a hatásukról.",
+        "A hidegvizes merülések kétségtelenül enyhítik a gyulladást és a fájdalmat a huszonnégy órás időszakban, ám a folyamatnak hátulütője is van. A gyulladás ugyanis nemcsak a kellemetlen tüneteket okozza, hanem kiváltja azokat az adaptációs folyamatokat is, amelyek az izomzat növekedéséért felelnek. Ha valaki rendszeresen elnyomja ezt a biológiai választ a jeges fürdőkkel, az hosszú távon éppen a legfőbb edzéscélokat, vagyis az izomfejlődést áldozza fel a rövid távú fájdalomcsillapítás oltárán.",
+        "A kompressziós ruhák szintén gyakori látványnak számítanak az edzőtermekben, mivel a külső nyomás révén papíron fokozzák a vérkeringést és mérséklik a duzzanatokat. Egy kétezer-huszonkettes vizsgálat során azonban placebo tablettákkal hasonlították össze a hatásukat, és bár a ruhák fizikai szinten serkentették a véráramlást, a placebót kapó csoport sem maradt el tőlük a regenerációs mutatókban. Ebből kiderül, hogy a ruházat elsősorban a jobb közérzethez segít hozzá, de a tényleges izomfunkciókat aligha állítja helyre közvetlenül.",
+        "A masszázs a kevés olyan beavatkozások közé tartozik, amelyek viszonylag egységes tudományos támogatást élveznek a merevség csökkentésében és a relaxáció fokozásában. Ennek ellenére a teljesítménynövelő hatása már mérsékelt és ellentmondásos, vagyis csodás teljesítmény-visszaállításra nem érdemes számítani tőle. A táplálékkiegészítők piacán hasonló a helyzet: a fehérjék, mint például a tejsavó, kimutathatóan segítik a fehérjeszintézist, de az izomláz megszüntetésében náluk is bizonytalanok az eredmények.",
+        "A szakemberek szerint a leghatékonyabb, legolcsóbb és legbiztosabb módszerek a klasszikus alapokon nyugszanak: a megfelelő mennyiségű és minőségű alvás, a kiegyensúlyozott táplálkozás, valamint a kellő idő biztosítása az izmok számára a természetes újjáépüléshez."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 349,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/China-massage-therapy-3112422_1920.jpg/1280px-China-massage-therapy-3112422_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Chines accupuncture massage",
+        "credit": "Jaydeep / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:China-massage-therapy-3112422_1920.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-14T16:02:13+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.91,
+      "title_options": [
+        "Miért rontja el az izomépítést a jeges fürdő?",
+        "Tényleg felesleges a hidegvizes zuhany edzés után?",
+        "Emiatt nem éri meg jeges vízbe ugrani edzés után",
+        "Ezt teszi a jeges fürdő a kemény munkával felépített izmaiddal",
+        "Döbbenetesen olcsóbb és jobb módszer váltja fel a drága edzésutáni trükköket",
+        "A legtöbben rosszul csinálják a regenerációt az edzőteremben"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/China-massage-therapy-3112422_1920.jpg/1280px-China-massage-therapy-3112422_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Chines accupuncture massage",
+          "credit": "Jaydeep / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:China-massage-therapy-3112422_1920.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/2015-05-01_Massage_therapy_with_Chinese_kitchen_knives_on_street_in_Tainan.jpg/1280px-2015-05-01_Massage_therapy_with_Chinese_kitchen_knives_on_street_in_Tainan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Massage therapy with Chinese kitchen knives on street in Tainan",
+          "credit": "Sun Taro / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2015-05-01_Massage_therapy_with_Chinese_kitchen_knives_on_street_in_Tainan.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrolyzed_Whey_Protein_Isolate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1803,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Creatine, the holy grail of muscle-building supplements, has been making waves in the fitness industry for years. This type of body supplement is renowned for its ability to enhance strength, power, a",
+          "credit": "Vfa14 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hydrolyzed_Whey_Protein_Isolate.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Whey_protein_diyabet_ili%C5%9Fkisi.jpg/1280px-Whey_protein_diyabet_ili%C5%9Fkisi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1658,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Whey protein dietary supplement bottle",
+          "credit": "Antrenör mert yamanlar / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Whey_protein_diyabet_ili%C5%9Fkisi.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g8ee461b885be6930c481d955ab7963256734e2b4b8a670b47568941d83e1357492f0384ab77ba476072fcee4496c8d465c328f5a88ac74197384462f580cdae8_1280.jpg",
+          "width": 5184,
+          "height": 3456,
+          "kind": "photo",
+          "alt": "sports shoes, running shoes, shoe sole, shoes, feet, running, jog, run, walk, side walk, to stroll, sepia, black-and-white, detail, close up, bright, running shoes, running shoes, running shoes, runni",
+          "credit": "un-perfekt / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sports-shoes-running-shoes-shoe-sole-3994967/"
+        },
+        {
+          "url": "https://pixabay.com/get/g88ac8705468dcba8664537ffc7b4dfbbd7edd396106fbf27e2ec2b16bbe5bbf7de340c2f837ddacc2c3b4672414e59d976e658cfcb54f25e0f6cfad667bddab0_1280.jpg",
+          "width": 6000,
+          "height": 3376,
+          "kind": "photo",
+          "alt": "sports shoes, shoes, running, sneakers, sports, jog, running shoes, training, running, running shoes, running shoes, running shoes, running shoes, running shoes",
+          "credit": "matthiasboeckel / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sports-shoes-shoes-running-sneakers-4510638/"
+        },
+        {
+          "url": "https://live.staticflickr.com/29/46324600_221e173f37_b.jpg",
+          "width": 1024,
+          "height": 516,
+          "kind": "photo",
+          "alt": "Running Shoes",
+          "credit": "timtak / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/64015205@N00/46324600"
+        },
+        {
+          "url": "https://live.staticflickr.com/2610/3769610224_18245a968a_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "kind": "photo",
+          "alt": "My hideous running shoes",
+          "credit": "minorissues / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/63051956@N00/3769610224"
+        }
+      ],
+      "story": [
+        {
+          "title": "Scientists reveal why some workout recovery tricks can backfire",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+          "summary": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.",
+          "source": "sciencedaily.com",
+          "related": false,
+          "hot_score": 5.91
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261013015805.htm"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/eletmod/2026-10-14-miert-rontja-el-az-izomepitest-a-jeges-furdo/",
+      "seo": {
+        "meta_title": "Miért rontja el az izomépítést a jeges fürdő?",
+        "meta_description": "A jeges fürdők, a kompressziós ruhák és a különféle táplálékkiegészítők a gyorsabb regeneráció ígéretével hódítanak, de a tudományos adatok szerint ezek gyakran",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-14-miert-rontja-el-az-izomepitest-a-jeges-furdo/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/China-massage-therapy-3112422_1920.jpg/1280px-China-massage-therapy-3112422_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "76208f2c95c4ff2ed6c6c3f1e87f94b42150ab9de94ae32b7692badce9db370e",
+      "pipeline_run_id": "38576130966",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T16:03:31+02:00",
+      "updated_at": "2026-10-14T16:03:31+02:00",
+      "published_at": "2026-10-14T16:03:31+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-14T14:03:30+00:00",
+        "msg_ids": [
+          5991,
+          5992,
+          5993,
+          5994,
+          5995,
+          5996,
+          5997,
+          5998,
+          5999,
+          6002
+        ],
+        "control_id": 6000
+      },
+      "live": true
     }
   ]
 }
