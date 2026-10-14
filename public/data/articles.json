@@ -1,7 +1,117 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:16:18+02:00",
+  "updated_at": "2026-10-14T19:31:44+02:00",
   "articles": [
+    {
+      "id": "3709bda9-5575-5e37-b659-36eb9dbd42b6",
+      "slug": "2026-10-14-a-szegedi-kancellar-szerint-mar-a-kinevezese-napjan-megkezdodott-a-lo",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Szegedi Tudományegyetem",
+        "Fendler Judit",
+        "Partizán",
+        "felsőoktatás",
+        "belpolitika"
+      ],
+      "title": "A szegedi kancellár szerint már a kinevezése napján megkezdődött a lobbizás",
+      "subtitle": null,
+      "lead": "A Szegedi Tudományegyetem kancellárja a Partizán műsorában számolt be arról, milyen politikai és üzleti nyomás nehezedett az intézményre a kinevezése óta. A beszélgetés rávilágított a hazai felsőoktatás működési nehézségeire és a gazdasági szereplők befolyásolási kísérleteire.",
+      "key_points": [
+        "Dr. Fendler Judit kancellár a Partizán interjújában beszélt a felsőoktatást érintő nyomásgyakorlásról.",
+        "A kinevezése után rövid időn belül több politikus és gazdasági szereplő is megkereste.",
+        "A takarítási, őrzési és karbantartási szolgáltatások piacán is komoly harcok zajlanak."
+      ],
+      "content": "A Szegedi Tudományegyetem gazdasági és működési hátterét irányító vezető a Partizán videójában részletesen beszélt arról, hogyan próbáltak meg neves üzleti körök és pártfunkcionáriusok befolyást szerezni az intézményben az elmúlt bő tíz évben. A 250 milliárd forintos költségvetéssel gazdálkodó egyetem élére pártpolitikától független szakemberként érkezett, ám elmondása szerint a kinevezése után szinte azonnal megjelentek a lobbisták.\n\nA kancellári pozíció betöltése körül már a kezdetektől feszültségek adódtak, hiszen több eredménytelen pályázat előzte meg a végleges döntést. A szolgáltatások kiszervezése, mint a takarítás, a karbantartás vagy az őrzés-védelem, olyan területekké vált, ahol a piaci szereplők rendszeresen megpróbálták érvényesíteni az akaratukat, miközben az egyetemnek folyamatosan üzemelnie kell.\n\nAz interjúból kiderül az is, hogy a mindennapi munka során a kancellárnak olyan esetekkel is meg kellett küzdenie, amikor különböző politikai szereplők és cégek képviselői párhuzamosan lobbiztak különféle megbízásokért. A modellváltás utáni időszak sem hozott teljes nyugugalmat, a belső struktúrák és a külső gazdasági érdekek ütközése pedig folyamatos kihívást jelentett a vezetőség számára.",
+      "content_format": "markdown",
+      "body": [
+        "A Szegedi Tudományegyetem gazdasági és működési hátterét irányító vezető a Partizán videójában részletesen beszélt arról, hogyan próbáltak meg neves üzleti körök és pártfunkcionáriusok befolyást szerezni az intézményben az elmúlt bő tíz évben. A 250 milliárd forintos költségvetéssel gazdálkodó egyetem élére pártpolitikától független szakemberként érkezett, ám elmondása szerint a kinevezése után szinte azonnal megjelentek a lobbisták.",
+        "A kancellári pozíció betöltése körül már a kezdetektől feszültségek adódtak, hiszen több eredménytelen pályázat előzte meg a végleges döntést. A szolgáltatások kiszervezése, mint a takarítás, a karbantartás vagy az őrzés-védelem, olyan területekké vált, ahol a piaci szereplők rendszeresen megpróbálták érvényesíteni az akaratukat, miközben az egyetemnek folyamatosan üzemelnie kell.",
+        "Az interjúból kiderül az is, hogy a mindennapi munka során a kancellárnak olyan esetekkel is meg kellett küzdenie, amikor különböző politikai szereplők és cégek képviselői párhuzamosan lobbiztak különféle megbízásokért. A modellváltás utáni időszak sem hozott teljes nyugugalmat, a belső struktúrák és a külső gazdasági érdekek ütközése pedig folyamatos kihívást jelentett a vezetőség számára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 192,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/No_Lobbyists_Beyond_This_Point.jpg/1280px-No_Lobbyists_Beyond_This_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "\"No Lobbyists Beyond This Point\" sign at the Maryland State House",
+        "credit": "Daniel Huizinga / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:No_Lobbyists_Beyond_This_Point.jpg",
+        "vision_score": 4.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=oeqVsa0-zLI",
+          "title": "A Szegedi Tudományegyetem kancellárjának kalandjai a NER-es pártállammal",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-10-14T16:24:59+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az élet és irodalomban 8-10 cikket szentelt ennek a mai napig.",
+        "who": "Dr. Fendler Judit, a Szegedi Tudományegyetem kancellárja",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-14T19:31:44+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=oeqVsa0-zLI"
+        ]
+      },
+      "date": "2026-10-14",
+      "date_label": "október 14.",
+      "url": "/kozelet/2026-10-14-a-szegedi-kancellar-szerint-mar-a-kinevezese-napjan-megkezdodott-a-lo/",
+      "seo": {
+        "meta_title": "A szegedi kancellár szerint már a kinevezése napján megkezdő",
+        "meta_description": "A Szegedi Tudományegyetem kancellárja a Partizán műsorában számolt be arról, milyen politikai és üzleti nyomás nehezedett az intézményre a kinevezése óta. A bes",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-a-szegedi-kancellar-szerint-mar-a-kinevezese-napjan-megkezdodott-a-lo/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/No_Lobbyists_Beyond_This_Point.jpg/1280px-No_Lobbyists_Beyond_This_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "79fdc5bc474bfb0b03bb77e58dc98ac7a06cc472a279704b56a999f6011289e9",
+      "pipeline_run_id": "38576900614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-14T19:31:44+02:00",
+      "updated_at": "2026-10-14T19:31:44+02:00",
+      "published_at": "2026-10-14T19:31:44+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "oeqVsa0-zLI",
+        "title": "A Szegedi Tudományegyetem kancellárjának kalandjai a NER-es pártállammal",
+        "channel": "Partizán",
+        "minutes": 59
+      }
+    },
     {
       "id": "25f63a91-b6a4-59c1-ac8a-050c554dbff5",
       "slug": "2026-10-14-felelem-a-tozsden-ujra-kamatemeles-johet-amerikaban",
