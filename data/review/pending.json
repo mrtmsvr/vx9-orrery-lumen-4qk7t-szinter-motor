@@ -11497,6 +11497,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/10b7614e77-1791998172-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/10b7614e77-1791998172-0.jpg",
+          "kind": "photo",
+          "alt": "Emiatt nem éri meg jeges vízbe ugrani edzés után",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/10b7614e77-1791998175-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/10b7614e77-1791998175-1.jpg",
+          "kind": "photo",
+          "alt": "Emiatt nem éri meg jeges vízbe ugrani edzés után",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/China-massage-therapy-3112422_1920.jpg/1280px-China-massage-therapy-3112422_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 675,
@@ -11594,9 +11616,11 @@
           6002,
           6025,
           6026,
-          6027
+          6027,
+          6042,
+          6043
         ],
-        "control_id": 6028
+        "control_id": 6044
       },
       "live": true,
       "image_queries": [
