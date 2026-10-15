@@ -10529,16 +10529,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T14:33:12+00:00",
-        "msg_ids": [
-          6341,
-          6342,
-          6343,
-          6344,
-          6345,
-          6346,
-          6353
-        ],
-        "control_id": 6347
+        "msg_ids": [],
+        "control_id": 6347,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
