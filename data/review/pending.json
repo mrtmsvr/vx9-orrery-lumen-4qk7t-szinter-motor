@@ -11173,7 +11173,7 @@
     {
       "id": "11f0d033-d1ca-5cef-ad80-cf1f9b33ec9b",
       "slug": "2026-10-15-teglakkal-dobaljak-a-tiranai-kormanyhivatalt-a-diakok",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11203,15 +11203,16 @@
       "word_count": 174,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg/1280px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1500,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/2b8b970273053547.jpg",
+        "width": 7952,
+        "height": 5304,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Albanian prime minister Edi Rama giving an interview to ZDF at the ITB Berlin 2025 press conference",
-        "credit": "Matti Blume / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Edi_Rama,_press_conference,_ITB_2025,_Berlin_(ITB56439).jpg"
+        "alt": "riot, protest, street, crowd, laws, regularization, bill, payment, money, pay, tax, expenses, business, bank, vulture funds, manifestation, barcelona, pah, catalonia, catalunya, spain, reflection, peo",
+        "credit": "Antonio_Cansino / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/riot-protest-street-crowd-laws-6129239/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/2b8b970273053547.jpg",
+        "orig_url": "https://pixabay.com/get/g5e435664797e1ee784a5594ad90fb0d086dca3dc92cfb18a9741b3c881a40cd3cb603c4cfc8db6a2c389a9a4ff8eb4dc84e5602ac8f9a2db389361a3c7ca1bb2_1280.jpg"
       },
       "inline_images": [
         {
@@ -11360,7 +11361,7 @@
         "meta_title": "Téglákkal dobálják a tiranai kormányhivatalt a diákok",
         "meta_description": "Második napja tartanak a heves zavargások Tiranában, ahol a demonstrálók az oktatási és a pénzügyminisztérium épületeit is megostromolták. A tüntetők a korrupci",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-teglakkal-dobaljak-a-tiranai-kormanyhivatalt-a-diakok/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg/1280px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/2b8b970273053547.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11377,9 +11378,9 @@
       "dedupe_hash": "2366325447caf2ad983b09a81c044108cc8f2da7e61237e29d003bf4f13e0a86",
       "pipeline_run_id": "38729448588",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T14:03:26+02:00",
-      "updated_at": "2026-10-15T14:03:26+02:00",
-      "published_at": "2026-10-15T14:03:26+02:00",
+      "created_at": "2026-10-15T16:25:35+02:00",
+      "updated_at": "2026-10-15T16:25:35+02:00",
+      "published_at": "2026-10-15T16:25:35+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11392,18 +11393,12 @@
         "title": 0,
         "image": 6,
         "sent_at": "2026-10-15T12:04:40+00:00",
-        "msg_ids": [
-          6260,
-          6261,
-          6262,
-          6263,
-          6264,
-          6265,
-          6266,
-          6267
-        ],
-        "control_id": 6268
-      }
+        "msg_ids": [],
+        "control_id": 6268,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "1af60b30-0ec8-5f69-bd41-eb5a18594c7f",
