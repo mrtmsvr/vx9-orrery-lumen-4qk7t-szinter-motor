@@ -11266,22 +11266,10 @@
         "title": 3,
         "image": 7,
         "sent_at": "2026-10-15T14:33:42+00:00",
-        "msg_ids": [
-          6363,
-          6364,
-          6365,
-          6366,
-          6373,
-          6432,
-          6433,
-          6434,
-          6435,
-          6436,
-          6437,
-          6438,
-          6439
-        ],
-        "control_id": 6440
+        "msg_ids": [],
+        "control_id": 6440,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
