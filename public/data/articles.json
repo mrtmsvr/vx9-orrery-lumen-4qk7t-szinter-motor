@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T19:49:13+02:00",
+  "updated_at": "2026-10-15T19:49:48+02:00",
   "articles": [
     {
       "id": "27d1e0d4-1cd4-5575-b0e8-9afa4a0f926d",
@@ -1139,17 +1139,16 @@
       "word_count": 242,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/c81890015cc3ea41.jpg",
-        "width": 3125,
-        "height": 2500,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Human_Liver_%28NIH_BioArt_230%29.png/1280px-Human_Liver_%28NIH_BioArt_230%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 814,
         "kind": "photo",
-        "alt": "salad, greek salad, feta, food, plate, tomato, healthy, vegetables, olives, vegetarian, cheese, mediterranean, salad, salad, salad, salad, salad, greek salad",
-        "credit": "galyafanaseva / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/salad-greek-salad-feta-food-plate-5904093/",
-        "vision_score": 5.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/c81890015cc3ea41.jpg",
-        "orig_url": "https://pixabay.com/get/ge2372bdce1585181a9d861409a995447302df92499f30c47b0de861fe9285520189ad37d978391c9ee6f17d873b92c661f678b3c291685b1cd72f3af11511f44_1280.jpg"
+        "pos": "center",
+        "alt": "Human liver",
+        "credit": "Courtesy of NIAID\n\nRyan Kissinger / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Human_Liver_(NIH_BioArt_230).png",
+        "vision_score": 9.0
       },
       "inline_images": [],
       "sources": [
@@ -1188,7 +1187,7 @@
         "meta_title": "A vacsora utáni nassolás rejtett ára: harminc százalékkal na",
         "meta_description": "A késő esti étkezés nemcsak plusz kilókat eredményezhet, hanem egy közel kétszázezer ember adatait vizsgáló új kutatás szerint a májbetegségek kockázatát is jel",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-a-vacsora-utani-nassolas-rejtett-ara-harminc-szazalekkal-nagyobb-majb/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/c81890015cc3ea41.jpg",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Human_Liver_%28NIH_BioArt_230%29.png/1280px-Human_Liver_%28NIH_BioArt_230%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -1206,7 +1205,7 @@
       "pipeline_run_id": "38750299848",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T16:33:19+02:00",
-      "updated_at": "2026-10-15T19:49:13+02:00",
+      "updated_at": "2026-10-15T19:49:48+02:00",
       "published_at": "2026-10-15T16:33:19+02:00",
       "expires_at": null
     },
