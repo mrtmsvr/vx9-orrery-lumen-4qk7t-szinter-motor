@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T21:07:03+02:00",
+  "updated_at": "2026-10-15T21:07:37+02:00",
   "articles": [
+    {
+      "id": "7816c4b2-1f67-57ce-88f1-d94daf50b806",
+      "slug": "2026-10-15-nyolcvanezer-forintos-alapber-es-fekete-viz-igy-mukodik-a-ganti-szoci",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "szociális ágazat",
+        "Gánt",
+        "szegénység",
+        "munkakörülmények",
+        "egészségügy"
+      ],
+      "title": "Nyolcvanezer forintos alapbér és fekete víz: így működik a gánti szociális otthon",
+      "subtitle": null,
+      "lead": "A Fejér vármegyei gánti Aranyalma Integrált Szociális Intézményben krónikus szakemberhiány, lakhatatlan épületek és méltatlan bérviszonyok nehezítik a mindennapokat. A Telex.hu videójából kiderül, hogy az intézmény már 2018 óta nem tud új lakókat fogadni.",
+      "key_points": [
+        "A gánti szociális otthonban 152 fogyatékkal élő és pszichiátriai beteg él nyolc épületben.",
+        "A szociális gondozók alapbére pályakezdőként alig haladja meg a 80 ezer forintot.",
+        "A krónikus szakemberhiány miatt éjszakánként csupán négyen látják el az egész intézményt."
+      ],
+      "content": "A Fejér vármegyei gánti Aranyalma Integrált Szociális Intézmény válságos helyzetéről számolt be a Telex.hu videója, amely részletesen bemutatja a tarthatatlan állapotokat. Az intézményben jelenleg 152 fogyatékkal élő és pszichiátriai beteg lakik, akiket nyolc különálló épületben helyeztek el. A lakókörnyezet súlyosan leromlott: egyes épületeket már le kellett zárni, mert lakhatatlanná váltak, a csövekből gyakran fekete víz folyik, az ajtók kitörtek, a környezet pedig elhanyagolt.\n\nPintér Luca intézményvezető a Telex.hu videójában elmondta, hogy az intézmény „nagyon-nagyon alacsonyan van finanszírozva”, és hiányzik a szakmai színvonal fenntartásához szükséges háttér. A krónikus szakemberhiány olyan súlyos méreteket öltött, hogy az intézmény 2018 óta egyáltalán nem fogadhat új lakókat. A megmaradt dolgozók emberfeletti terheléssel végzik a munkájukat: éjszakánként mindössze négyen látják el a nyolc épület feladatait, amit az intézményvezető szakmailag védhetetlennek nevezett.\n\nA bérhelyzet alapvetően határozza meg a pályaelhagyást és az utánpótlás hiányát. Pintér Luca rámutatott, hogy a szociális gondozók alapbére egy pályakezdő esetében alig haladja meg a 80 ezer forintot, a fizetés többi része pedig különböző pótlékokból áll össze. A nehéz körülmények ellenére a dolgozók továbbra is odaadással végzik feladataikat, és a gondozottak is érzik a törődést ebben a folyamatosan leépülő rendszerben.",
+      "content_format": "markdown",
+      "body": [
+        "A Fejér vármegyei gánti Aranyalma Integrált Szociális Intézmény válságos helyzetéről számolt be a Telex.hu videója, amely részletesen bemutatja a tarthatatlan állapotokat. Az intézményben jelenleg 152 fogyatékkal élő és pszichiátriai beteg lakik, akiket nyolc különálló épületben helyeztek el. A lakókörnyezet súlyosan leromlott: egyes épületeket már le kellett zárni, mert lakhatatlanná váltak, a csövekből gyakran fekete víz folyik, az ajtók kitörtek, a környezet pedig elhanyagolt.",
+        "Pintér Luca intézményvezető a Telex.hu videójában elmondta, hogy az intézmény „nagyon-nagyon alacsonyan van finanszírozva”, és hiányzik a szakmai színvonal fenntartásához szükséges háttér. A krónikus szakemberhiány olyan súlyos méreteket öltött, hogy az intézmény 2018 óta egyáltalán nem fogadhat új lakókat. A megmaradt dolgozók emberfeletti terheléssel végzik a munkájukat: éjszakánként mindössze négyen látják el a nyolc épület feladatait, amit az intézményvezető szakmailag védhetetlennek nevezett.",
+        "A bérhelyzet alapvetően határozza meg a pályaelhagyást és az utánpótlás hiányát. Pintér Luca rámutatott, hogy a szociális gondozók alapbére egy pályakezdő esetében alig haladja meg a 80 ezer forintot, a fizetés többi része pedig különböző pótlékokból áll össze. A nehéz körülmények ellenére a dolgozók továbbra is odaadással végzik feladataikat, és a gondozottak is érzik a törődést ebben a folyamatosan leépülő rendszerben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 223,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg/1280px-Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 802,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Dushyant Dubey, aka St Broseph, distributing food to underprivileged children in Bengaluru/Bangalore.",
+        "credit": "ian92rodricks / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dushyant_Dubey,_St_Broseph_-_A_social_worker_from_Bengaluru.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=XnjaCTFuwfM",
+          "title": "Anyagi megbecsülés? Na, az nincs",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-15T19:48:08+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az anyagi megbecsülés az sokszor felmerül, hogy az nincs",
+        "who": "Juhász Anett gondozó",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-15T21:07:37+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=XnjaCTFuwfM"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-nyolcvanezer-forintos-alapber-es-fekete-viz-igy-mukodik-a-ganti-szoci/",
+      "seo": {
+        "meta_title": "Nyolcvanezer forintos alapbér és fekete víz: így működik a g",
+        "meta_description": "A Fejér vármegyei gánti Aranyalma Integrált Szociális Intézményben krónikus szakemberhiány, lakhatatlan épületek és méltatlan bérviszonyok nehezítik a mindennap",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-nyolcvanezer-forintos-alapber-es-fekete-viz-igy-mukodik-a-ganti-szoci/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg/1280px-Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "59b135187eeade4088f9c512c59b3aa62b7544141120c642759945eb32517d8f",
+      "pipeline_run_id": "38779711100",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:07:37+02:00",
+      "updated_at": "2026-10-15T21:07:37+02:00",
+      "published_at": "2026-10-15T21:07:37+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "XnjaCTFuwfM",
+        "title": "Anyagi megbecsülés? Na, az nincs",
+        "channel": "Telex․hu",
+        "minutes": 18
+      }
+    },
     {
       "id": "ac90c70d-85e7-5e65-af80-458d8dd52700",
       "slug": "2026-10-15-budapesti-hoki-vb-szazeves-jubileumara-keszul-a-szovetseg",

@@ -11804,7 +11804,7 @@
     {
       "id": "7816c4b2-1f67-57ce-88f1-d94daf50b806",
       "slug": "2026-10-15-nyolcvanezer-forintos-alapber-es-fekete-viz-igy-mukodik-a-ganti-szoci",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11834,15 +11834,15 @@
       "word_count": 223,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/G%C3%A1nt%2C_r%C3%B3mai_katolikus_templom_2024_02.jpg/1280px-G%C3%A1nt%2C_r%C3%B3mai_katolikus_templom_2024_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg/1280px-Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1800,
+        "height": 802,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Roman Catholic church in Gánt, Hungary",
-        "credit": "Pasztilla aka Attila Terbócs / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:G%C3%A1nt,_r%C3%B3mai_katolikus_templom_2024_02.jpg"
+        "pos": "center",
+        "alt": "Dushyant Dubey, aka St Broseph, distributing food to underprivileged children in Bengaluru/Bangalore.",
+        "credit": "ian92rodricks / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dushyant_Dubey,_St_Broseph_-_A_social_worker_from_Bengaluru.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -11987,7 +11987,7 @@
         "meta_title": "Nyolcvanezer forintos alapbér és fekete víz: így működik a g",
         "meta_description": "A Fejér vármegyei gánti Aranyalma Integrált Szociális Intézményben krónikus szakemberhiány, lakhatatlan épületek és méltatlan bérviszonyok nehezítik a mindennap",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-nyolcvanezer-forintos-alapber-es-fekete-viz-igy-mukodik-a-ganti-szoci/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/G%C3%A1nt%2C_r%C3%B3mai_katolikus_templom_2024_02.jpg/1280px-G%C3%A1nt%2C_r%C3%B3mai_katolikus_templom_2024_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg/1280px-Dushyant_Dubey%2C_St_Broseph_-_A_social_worker_from_Bengaluru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12004,9 +12004,9 @@
       "dedupe_hash": "59b135187eeade4088f9c512c59b3aa62b7544141120c642759945eb32517d8f",
       "pipeline_run_id": "38779711100",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T19:48:08+02:00",
-      "updated_at": "2026-10-15T19:48:08+02:00",
-      "published_at": "2026-10-15T19:48:08+02:00",
+      "created_at": "2026-10-15T21:07:37+02:00",
+      "updated_at": "2026-10-15T21:07:37+02:00",
+      "published_at": "2026-10-15T21:07:37+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -12026,9 +12026,9 @@
         "msg_ids": [],
         "control_id": 6431,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:07 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T21:07:36+02:00"
+      "live": true
     },
     {
       "id": "e526b32a-d6ed-569f-929e-e3d507051263",
@@ -12907,6 +12907,653 @@
         "control_id": 6501
       },
       "live": true
+    },
+    {
+      "id": "2912f74d-2ba2-5eac-9172-f5cdeb38fcf4",
+      "slug": "2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ausztrália",
+        "bűnügy",
+        "rendőrség",
+        "méreg"
+      ],
+      "title": "Csigaméreggel dúsított curry Ausztráliában: túlélt egy gyilkossági kísérletet a kolléga",
+      "subtitle": null,
+      "lead": "Egy nyugat-ausztráliai nő curryjébe csigairtásra használt mérget kevert kollégája, aki a szerencsés felismerésnek köszönhetően elkerуlte a végzetes kimenetelű mérgezést. Az ügyészség élet vagy testi épség veszélyeztetése miatt emelt vádat az elkövető ellen.",
+      "key_points": [
+        "A februári eset során a sértett zsibbadást érzett a nyelvén az étel elfogyasztása után.",
+        "A nyomozók metaldehidet mutattak ki a munkahelyen tárolt curryben.",
+        "A gyanúsított a vád szerint a munkahelyi vegyszertárolóból szerezte be a mérget.",
+        "A nő bírósági tárgyalása 2026. november 5-én kezdődik."
+      ],
+      "content": "Nyugat-Ausztráliában a rendőrség lezárta annak a különös és veszélyes esetnek a nyomozását, amelyben egy 43 éves nő a munkahelyi környezetben kísérelt meg mérgezést elkövetni. Az ügy még februárban történt: az 58 éves sértett a munkahelyi szünetben készített közös ételt, amelyből a munkatársak is fogyasztottak. Az áldozat az ebédidőben tért vissza a maradékért, ekkor vette észre az ételben található élénkzöld szemcséket.\n\nA kóstolást követően jelentkező nyelvizsibbadás egyértelmű jelzést adott a sértettnek, aki így időben értesítette a hatóságokat. A laboratóriumi vizsgálatok megerősítették, hogy a szemcsék metaldehidet tartalmaztak. Ezt a szerves vegyületet a kertészetekben gyakran alkalmazzák meztelen csigák elleni védekezésre, emberi szervezetre jutva azonban súlyos mérgezést, szélsőséges esetben halált is okozhat.\n\nA rendőrségi vizsgálat során kiderült, hogy a gyanúsított a reggeli órákban felkereste az iroda vegyszertároló fészerét, mielőtt a curryhez adagolta volna a mérgező anyagot. A rendőrség közlése szerint a két fél között párkapcsolati viszony állt fenn az eset idején. Az ügyben eljáró rendőrfőkapitány, Col Blanch hangsúlyozta, hogy a sértett ébersége mentette meg az életét.\n\nAz eset rámutat a munkahelyi konfliktusok kezelésének fontosságára és a bizalmi környezet sérülékenységére. Magyarországon az ilyen jellegű szándékos veszélyeztetés a büntetőjog eszközeivel, súlyos bűncselekményként szankcionált cselekmény. A gyanúsítottnak november 5-én kell megjelennie a bíróság előtt, hogy feleljen a testi épséget veszélyeztető cselekményeiért.",
+      "content_format": "markdown",
+      "body": [
+        "Nyugat-Ausztráliában a rendőrség lezárta annak a különös és veszélyes esetnek a nyomozását, amelyben egy 43 éves nő a munkahelyi környezetben kísérelt meg mérgezést elkövetni. Az ügy még februárban történt: az 58 éves sértett a munkahelyi szünetben készített közös ételt, amelyből a munkatársak is fogyasztottak. Az áldozat az ebédidőben tért vissza a maradékért, ekkor vette észre az ételben található élénkzöld szemcséket.",
+        "A kóstolást követően jelentkező nyelvizsibbadás egyértelmű jelzést adott a sértettnek, aki így időben értesítette a hatóságokat. A laboratóriumi vizsgálatok megerősítették, hogy a szemcsék metaldehidet tartalmaztak. Ezt a szerves vegyületet a kertészetekben gyakran alkalmazzák meztelen csigák elleni védekezésre, emberi szervezetre jutva azonban súlyos mérgezést, szélsőséges esetben halált is okozhat.",
+        "A rendőrségi vizsgálat során kiderült, hogy a gyanúsított a reggeli órákban felkereste az iroda vegyszertároló fészerét, mielőtt a curryhez adagolta volna a mérgező anyagot. A rendőrség közlése szerint a két fél között párkapcsolati viszony állt fenn az eset idején. Az ügyben eljáró rendőrfőkapitány, Col Blanch hangsúlyozta, hogy a sértett ébersége mentette meg az életét.",
+        "Az eset rámutat a munkahelyi konfliktusok kezelésének fontosságára és a bizalmi környezet sérülékenységére. Magyarországon az ilyen jellegű szándékos veszélyeztetés a büntetőjog eszközeivel, súlyos bűncselekményként szankcionált cselekmény. A gyanúsítottnak november 5-én kell megjelennie a bíróság előtt, hogy feleljen a testi épséget veszélyeztető cselekményeiért."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 239,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1280px-Beef_curry_rice_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Typical home made Japanese curry rice with beef, onions, carrots and potatoes.",
+        "credit": "Ocdp / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_csigamereg-kollega-mergezes-ausztral-no",
+          "title": "Csigaméreggel mérgezte meg kollégája curryjét egy ausztrál nő",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:50+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nagyon hálásak vagyunk azért, hogy az a személy, aki megkóstolta a curryt, észrevette, hogy valami nincs rendben",
+        "who": "Col Blanch, rendőrfőkapitány",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.3,
+      "title_options": [
+        "Csigaméreggel dúsított curry Ausztráliában: túlélt egy gyilkossági kísérletet a kolléga",
+        "Életveszélyes fűszerezés: mérgezéssel vádolnak egy nőt Ausztráliában",
+        "Csigaméreg került a munkahelyi ebédbe egy ausztrál cégnél",
+        "Munkahelyi reggeli, ami majdnem végzetesnek bizonyult",
+        "Félelmetes fordulat: mérget kevert kollégája ételébe egy nő",
+        "Csak a szerencsén múlt, hogy túlélte a kolléga a mérgezett curryt"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1280px-Beef_curry_rice_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Typical home made Japanese curry rice with beef, onions, carrots and potatoes.",
+          "credit": "Ocdp / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Meen_curry_2.JPG/1280px-Meen_curry_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Fish Curry prepared in Kerala style. its prepared in a pot mad of clay (Manchatti). Should keep the curry for a day, it will be Yammy !!",
+          "credit": "Kalakki at Malayalam Wikipedia / Wikimedia Commons",
+          "license": "CC BY-SA 2.5",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Meen_curry_2.JPG",
+          "vision_score": 8.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Csigaméreggel mérgezte meg kollégája curryjét egy ausztrál nő",
+          "link": "https://hvg.hu/vilag/20261015_csigamereg-kollega-mergezes-ausztral-no",
+          "summary": "A sértett még időben észrevette, hogy elzsibbadt a nyelve, miután belekóstolt az ételbe, de akár bele is halhatott volna.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.3
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_csigamereg-kollega-mergezes-ausztral-no"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis/",
+      "seo": {
+        "meta_title": "Csigaméreggel dúsított curry Ausztráliában: túlélt egy gyilk",
+        "meta_description": "Egy nyugat-ausztráliai nő curryjébe csigairtásra használt mérget kevert kollégája, aki a szerencsés felismerésnek köszönhetően elkerуlte a végzetes kimenetelű m",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1280px-Beef_curry_rice_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2542ecf31c2f11ad80f74222f3942c5a4bd05df83fc4cfbabf65807aa4741e9f",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:05:50+02:00",
+      "updated_at": "2026-10-15T21:05:50+02:00",
+      "published_at": "2026-10-15T21:05:50+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T19:07:11+00:00",
+        "msg_ids": [
+          6504,
+          6505,
+          6506
+        ],
+        "control_id": 6507
+      }
+    },
+    {
+      "id": "3e7cc8bc-a12b-5f98-82f4-9b8af454b0d4",
+      "slug": "2026-10-15-tragedia-pakisztanban-28-diak-vesztette-eletet-egy-iskolaepulet-beoml",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Pakisztán",
+        "iskolai baleset",
+        "külpolitika",
+        "tragédia"
+      ],
+      "title": "Tragédia Pakisztánban: 28 diák vesztette életét egy iskolaépület beomlásakor",
+      "subtitle": null,
+      "lead": "Huszonnyolc diák és egy tanár halt meg, miután beomlott egy magániskola mennyezete a pakisztáni Pesávarban. A katasztrófa pontos okait még vizsgálják, a mentőcsapatok pedig továbbra is kutatják a romokat a túlélők után.",
+      "key_points": [
+        "A szerencsétlenségben huszonnyolc diák és egy tanár vesztette életét.",
+        "A 13 évesnél fiatalabb áldozatok mellett negyvenen megsérültek.",
+        "A hatóságok a vizsgálat idejére őrizetbe vették az iskola tulajdonosát.",
+        "A mentési munkálatok folytatódnak, az áldozatok száma még emelkedhet."
+      ],
+      "content": "Kedden tragikus baleset történt az északnyugat-pakisztáni Pesávarban, ahol egy magániskola mennyezete váratlanul beomlott. A katasztrófa idején az érintett három tanteremben összesen 110 diák tartózkodott. A mentőcsapatok gyors beavatkozása ellenére eddig mindössze 47 gyermeket sikerült kimenteni, így a hatóságok attól tartanak, hogy a halálos áldozatok száma tovább növekedhet.\n\nA beszámolók szerint az elhunyt diákok mindegyike 13 éves vagy annál fiatalabb volt. A helyi Lady Reading Kórház szóvivője, Muhammad Asim megerősítette, hogy az intézményben vészhelyzetet rendeltek el a sérültek ellátására; összesen 40 fő szorul orvosi segítségre.\n\nMian Saeed pesávari rendőrfőnök tájékoztatása alapján a hatóságok megkezdték a vizsgálatot, amelynek részeként az iskola tulajdonosát letartóztatták. A gyanú szerint az épület szerkezete gyenge volt, és a tető az esetleges túlterheltség miatt adta meg magát, ám a pontos technikai okok tisztázása még várat magára. Afaq Wazir rendőrkapitány parancsot adott a romok átkutatására, a mentőegységek pedig folyamatosan dolgoznak a helyszínen.\n\nA külpolitikai események követése Magyarország számára is tanulságos lehet: a hasonlóan tragikus kimenetelű infrastrukturális balesetek rávilágítanak az épületbiztonsági előírások és a rendszeres hatósági ellenőrzések elengedhetetlen fontosságára. Az ilyen esetek az oktatási intézmények esetében is emlékeztetnek arra, mennyire kritikus az oktatási környezet fizikai állapotának szigorú felügyelete.",
+      "content_format": "markdown",
+      "body": [
+        "Kedden tragikus baleset történt az északnyugat-pakisztáni Pesávarban, ahol egy magániskola mennyezete váratlanul beomlott. A katasztrófa idején az érintett három tanteremben összesen 110 diák tartózkodott. A mentőcsapatok gyors beavatkozása ellenére eddig mindössze 47 gyermeket sikerült kimenteni, így a hatóságok attól tartanak, hogy a halálos áldozatok száma tovább növekedhet.",
+        "A beszámolók szerint az elhunyt diákok mindegyike 13 éves vagy annál fiatalabb volt. A helyi Lady Reading Kórház szóvivője, Muhammad Asim megerősítette, hogy az intézményben vészhelyzetet rendeltek el a sérültek ellátására; összesen 40 fő szorul orvosi segítségre.",
+        "Mian Saeed pesávari rendőrfőnök tájékoztatása alapján a hatóságok megkezdték a vizsgálatot, amelynek részeként az iskola tulajdonosát letartóztatták. A gyanú szerint az épület szerkezete gyenge volt, és a tető az esetleges túlterheltség miatt adta meg magát, ám a pontos technikai okok tisztázása még várat magára. Afaq Wazir rendőrkapitány parancsot adott a romok átkutatására, a mentőegységek pedig folyamatosan dolgoznak a helyszínen.",
+        "A külpolitikai események követése Magyarország számára is tanulságos lehet: a hasonlóan tragikus kimenetelű infrastrukturális balesetek rávilágítanak az épületbiztonsági előírások és a rendszeres hatósági ellenőrzések elengedhetetlen fontosságára. Az ilyen esetek az oktatási intézmények esetében is emlékeztetnek arra, mennyire kritikus az oktatási környezet fizikai állapotának szigorú felügyelete."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 221,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_center_Peshawar_city.jpg/1280px-City_center_Peshawar_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "This is the heart of peshawar city. One of the rarest sights when this place is not busy and theres room to walk freely. This is place is the backbone of trade in Peshawar with khyber bazar (Khyber ma",
+        "credit": "Mohammed Ahmed Arsalan Khan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:City_center_Peshawar_city.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_beszakadt-egy-pakisztani-iskola-mennyezete-28-diak-holttestet-menekitettek-ki-eddig",
+          "title": "Beszakadt egy pakisztáni iskola mennyezete, eddig 28 diák holttestét találták meg",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:51+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.28,
+      "title_options": [
+        "Tragédia Pakisztánban: 28 diák vesztette életét egy iskolaépület beomlásakor",
+        "Iskolai mennyezet szakadt be Pesávarban, sok a halálos áldozat",
+        "Huszonnyolc diák halt meg egy pesávari magániskola omlásában",
+        "Több mint húszan haltak meg, amikor leszakadt az iskola mennyezete",
+        "Iskolai tragédia: 110 diák volt az épületben, amikor beomlott a tető",
+        "Letartóztatták az iskola tulajdonosát a 29 áldozatot követelő omlás után"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_center_Peshawar_city.jpg/1280px-City_center_Peshawar_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "This is the heart of peshawar city. One of the rarest sights when this place is not busy and theres room to walk freely. This is place is the backbone of trade in Peshawar with khyber bazar (Khyber ma",
+          "credit": "Mohammed Ahmed Arsalan Khan / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:City_center_Peshawar_city.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/g28376ac81490134748036b208fd38dfad88dbda12da29a62709f0f0e7e1a37c759ee31f0d84a21574594846576015c5f24a12bbcf8385eabb80cb43499fe1127_1280.jpg",
+          "width": 6000,
+          "height": 4000,
+          "kind": "photo",
+          "alt": "fire fighting, helm, firefighters, rescue, risk, delete exercise, respiratory protection, firefighting job, fire fighting, firefighters, firefighters, rescue, rescue, rescue, risk, risk, risk, risk, r",
+          "credit": "Randgruppe / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/fire-fighting-helm-firefighters-4495488/",
+          "vision_score": 5.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Beszakadt egy pakisztáni iskola mennyezete, eddig 28 diák holttestét találták meg",
+          "link": "https://hvg.hu/vilag/20261015_beszakadt-egy-pakisztani-iskola-mennyezete-28-diak-holttestet-menekitettek-ki-eddig",
+          "summary": "A diákok mellett egy tanár is meghalt. Az áldozatok száma még növekedhet, ahogy a mentőcsapatok tovább dolgoznak.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.28
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_beszakadt-egy-pakisztani-iskola-mennyezete-28-diak-holttestet-menekitettek-ki-eddig"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-tragedia-pakisztanban-28-diak-vesztette-eletet-egy-iskolaepulet-beoml/",
+      "seo": {
+        "meta_title": "Tragédia Pakisztánban: 28 diák vesztette életét egy iskolaép",
+        "meta_description": "Huszonnyolc diák és egy tanár halt meg, miután beomlott egy magániskola mennyezete a pakisztáni Pesávarban. A katasztrófa pontos okait még vizsgálják, a mentőcs",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-tragedia-pakisztanban-28-diak-vesztette-eletet-egy-iskolaepulet-beoml/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_center_Peshawar_city.jpg/1280px-City_center_Peshawar_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "bb94ee229c02db53999c99b7937f8abee3685ca7925333716450968b4c88489f",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:05:51+02:00",
+      "updated_at": "2026-10-15T21:05:51+02:00",
+      "published_at": "2026-10-15T21:05:51+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 bűnügy + kiskorú: ne legyen azonosítható (név, iskola, lakóhely, kép)"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T19:07:20+00:00",
+        "msg_ids": [
+          6508,
+          6509,
+          6510
+        ],
+        "control_id": 6511
+      }
+    },
+    {
+      "id": "4914434b-3f89-55d9-aa39-408619ecff5d",
+      "slug": "2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Andrea Bocelli",
+        "Indonézia",
+        "zene",
+        "koncert",
+        "külpolitika"
+      ],
+      "title": "Agyonhallgatná és betiltaná az indonéz iszlám elit Andrea Bocellit",
+      "subtitle": null,
+      "lead": "Izrael-párti nézetei és korábbi fellépései miatt az Indonéz Ulema Tanács tiltakozik Andrea Bocelli közelgő koncertei ellen. A világ legnépesebb muszlim többségű országában a vallási testületek iránymutatásai komoly politikai és társadalmi súllyal bírnak.",
+      "key_points": [
+        "Október végén és november elején adott volna koncerteket Andrea Bocelli Indonéziában.",
+        "Az ország legfőbb iszlám vallási testülete, a MUI tiltakozik a fellépések ellen.",
+        "A helyi rendőrség már visszavonta a Borobudur templomnál tartandó koncert engedélyezési javaslatát.",
+        "Hasonló okokból októberben egy amerikai gospelénekes fellépését is betiltották."
+      ],
+      "content": "Október 31-én a jávai, UNESCO-világörökségi védelem alatt álló Borobudur buddhista templomnál, november 9-én pedig a fővárosban, Jakartában lépett volna fel Andrea Bocelli olasz tenorista. A tervek azonban komoly akadályba ütköztek, miután az Indonéz Ulema Tanács (MUI) – az ország legfőbb iszlám vallási testülete – nyíltan fellépett az események ellen.\n\nA szervezők és a hatóságok az elmúlt napokban kénytelenek voltak reagálni a tiltakozásokra. A magelangi rendőrség október 13-án a helyi tiltakozó csoportokkal való egyeztetés után visszavonta a Borobudur templomnál tervezett koncert engedélyezési javaslatát, emellett az eseményt hirdető óriásplakátokat is eltávolították a közterületekről.\n\nA vallási vezetők azt kifogásolják, hogy az énekes a múltban többször is nyilvánosan szimpátiáját fejezte ki Izrael iránt. Bocelli 2010-ben adománygyűjtésen vett részt az Izraeli Védelmi Erők javára, 2012-ben a The Telegraphnak adott interjújában elismeréssel beszélt az ország vallási történelméről, 2022-ben pedig Tel-Avivban koncertezett, ahol a nézőtéren Benjamin Netanjahu is helyet foglalt.\n\nAz indonéziai MUI által kiadott fatvák, azaz vallási állásfoglalások ugyan jogilag nem kötelező erejűek, ám a világ legnépesebb muszlim többségű országában komoly társadalmi és politikai súllyal bírnak, így a hatóságok rendszerint figyelembe veszik azokat. Bayu Aji, a turizmusért felelős minisztérium titkára közölte: vizsgálják a helyzetet, de követni fogják a vallási testület iránymutatásait.\n\nAz eset nem egyedi a délkelet-ázsiai országban, ahol a közelmúltban más előadók is hasonló korlátozásokba ütköztek. Októberben például Israel Houghton amerikai gospelénekes és zenekarának fellépését tiltották be biztonsági okokra hivatkozva, mivel a művész a múltban szintén többször kiállt Izrael mellett.",
+      "content_format": "markdown",
+      "body": [
+        "Október 31-én a jávai, UNESCO-világörökségi védelem alatt álló Borobudur buddhista templomnál, november 9-én pedig a fővárosban, Jakartában lépett volna fel Andrea Bocelli olasz tenorista. A tervek azonban komoly akadályba ütköztek, miután az Indonéz Ulema Tanács (MUI) – az ország legfőbb iszlám vallási testülete – nyíltan fellépett az események ellen.",
+        "A szervezők és a hatóságok az elmúlt napokban kénytelenek voltak reagálni a tiltakozásokra. A magelangi rendőrség október 13-án a helyi tiltakozó csoportokkal való egyeztetés után visszavonta a Borobudur templomnál tervezett koncert engedélyezési javaslatát, emellett az eseményt hirdető óriásplakátokat is eltávolították a közterületekről.",
+        "A vallási vezetők azt kifogásolják, hogy az énekes a múltban többször is nyilvánosan szimpátiáját fejezte ki Izrael iránt. Bocelli 2010-ben adománygyűjtésen vett részt az Izraeli Védelmi Erők javára, 2012-ben a The Telegraphnak adott interjújában elismeréssel beszélt az ország vallási történelméről, 2022-ben pedig Tel-Avivban koncertezett, ahol a nézőtéren Benjamin Netanjahu is helyet foglalt.",
+        "Az indonéziai MUI által kiadott fatvák, azaz vallási állásfoglalások ugyan jogilag nem kötelező erejűek, ám a világ legnépesebb muszlim többségű országában komoly társadalmi és politikai súllyal bírnak, így a hatóságok rendszerint figyelembe veszik azokat. Bayu Aji, a turizmusért felelős minisztérium titkára közölte: vizsgálják a helyzetet, de követni fogják a vallási testület iránymutatásait.",
+        "Az eset nem egyedi a délkelet-ázsiai országban, ahol a közelmúltban más előadók is hasonló korlátozásokba ütköztek. Októberben például Israel Houghton amerikai gospelénekes és zenekarának fellépését tiltották be biztonsági okokra hivatkozva, mivel a művész a múltban szintén többször kiállt Izrael mellett."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 275,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg/1280px-Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1612,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Koncert Andrei Bocellego na Stadionie Poznań, fot. Jakub Janecki",
+        "credit": "Jakub Janecki / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Andrea_Bocelli_20190511_017-2_(cropped).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg/1280px-Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Borobudur temple Park, Indonesia: Early morning atmosphere in Borobudu Temple Park.",
+          "credit": "CEphoto, Uwe Aranas / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg",
+          "after": 1,
+          "caption": "A Borobudur templomegyüttes Jáva szigetén"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261015_indoneziaban-ellenzik-bocelli-koncertjeit-mert-az-izraeli-allamot-tamogatja",
+          "title": "Be akarják tiltani Andrea Bocelli koncertjeit Indonéziában, mert Izrael-barátnak tartják",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:49+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Teret adni egy olyan személynek, aki támogatott vagy finanszírozott a gázai humanitárius jogsértésekkel összefüggő katonai akciókat, ellentétes az indonéz nemzet értékeivel és a MUI vallási iránymutatásával",
+        "who": "az Indonéz Ulema Tanács (MUI)",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.31,
+      "title_options": [
+        "Agyonhallgatná és betiltaná az indonéz iszlám elit Andrea Bocellit",
+        "Izrael-párti múltja miatt tiltják be Andrea Bocelli indonéz koncertjeit",
+        "Nem léphet fel az Indonéziában turnézó Andrea Bocelli",
+        "Hatalmas botrány: ekézik és elüldöznék az országból a világhírű zenészt",
+        "Ezt tette Tel-Avivban, most ezért törlik a koncerteket",
+        "Lebontották a plakátokat is: nem látják szívesen a sztártenort"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg/1280px-Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1612,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Koncert Andrei Bocellego na Stadionie Poznań, fot. Jakub Janecki",
+          "credit": "Jakub Janecki / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Andrea_Bocelli_20190511_017-2_(cropped).jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Andrea_Bocelli_-_5315303241.jpg/1280px-Andrea_Bocelli_-_5315303241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Album Vivere Andrei Bocellego",
+          "credit": "othree / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Andrea_Bocelli_-_5315303241.jpg",
+          "vision_score": 5.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Be akarják tiltani Andrea Bocelli koncertjeit Indonéziában, mert Izrael-barátnak tartják",
+          "link": "https://hvg.hu/kultura/20261015_indoneziaban-ellenzik-bocelli-koncertjeit-mert-az-izraeli-allamot-tamogatja",
+          "summary": "Az olasz tenor a múltban többször is támogatta Izraelt, ez pedig összeegyeztethetetlen az indonéz muszlim vezetők nézetével.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.31
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261015_indoneziaban-ellenzik-bocelli-koncertjeit-mert-az-izraeli-allamot-tamogatja"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit/",
+      "seo": {
+        "meta_title": "Agyonhallgatná és betiltaná az indonéz iszlám elit Andrea Bo",
+        "meta_description": "Izrael-párti nézetei és korábbi fellépései miatt az Indonéz Ulema Tanács tiltakozik Andrea Bocelli közelgő koncertei ellen. A világ legnépesebb muszlim többségű",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg/1280px-Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "bf88951673e9a9d02eab191a37f5beba6242913f001373f40b580e43b43d6eba",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:05:49+02:00",
+      "updated_at": "2026-10-15T21:05:49+02:00",
+      "published_at": "2026-10-15T21:05:49+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T19:07:28+00:00",
+        "msg_ids": [
+          6512,
+          6513,
+          6514
+        ],
+        "control_id": 6515
+      }
+    },
+    {
+      "id": "2b10218f-4dbe-55a2-b6cf-3254e61ea9c4",
+      "slug": "2026-10-15-kifulladoban-a-mesterseges-intelligencia-tozsdei-szarnyalasa",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "tőzsde",
+        "befektetés",
+        "mesterséges intelligencia",
+        "gazdaság",
+        "JPMorgan"
+      ],
+      "title": "Kifulladóban a mesterséges intelligencia tőzsdei szárnyalása",
+      "subtitle": null,
+      "lead": "Súlyos eladási hullám söpör végig a globális tőkepiacokon, a befektetők bizalma pedig a mesterséges intelligencia szektor legnagyobb nyerteseivel szemben is megrendült. A szakértők szerint a jelenlegi piaci környezet már nem támogatja az év elején tapasztalt gyors tőzsdei visszapattanást.",
+      "key_points": [
+        "A mesterséges intelligencia körüli optimizmus alábbhagyott, ami széles körű eladási hullámot indított el a tőzsdéken.",
+        "A JPMorgan elemzői szerint a jelenlegi feltételek kedvezőtlenebbek a nyári időszakhoz képest.",
+        "Az amerikai kötvénypiac mozgásai tovább bonyolítják a befektetési döntéseket.",
+        "Október 21-én a Portfolio Investment Day konferencián keresik a válaszokat a fenntartható növekedés lehetőségeire."
+      ],
+      "content": "A tőzsdei befektetők az elmúlt napokban egyre óvatosabbá váltak, miután az AI-boomot hajtó technológiai óriások papírjai nyomás alá kerültek. A piaci szereplők körében aggodalmat váltott ki, hogy a szektor elmúlt időszakban mutatott kiemelkedő teljesítménye vajon fenntartható-e a valós gazdasági eredmények tükrében. A mostani eladási hullám nem csupán egy rövid távú korrekció, hanem a befektetői narratíva megváltozását is jelezheti.\n\nA helyzetet nehezíti, hogy az amerikai kötvénypiacokon tapasztalt szokatlan mozgások tovább bizonytalanítják a tőkepiaci kilátásokat. A JPMorgan elemzői rámutattak, hogy a júliusban látottakkal ellentétben a jelenlegi makrogazdasági környezet már nem kedvez egy gyors és dinamikus tőzsdei felpattanásnak. A befektetők számára ez a változás azt üzeni, hogy a korábban jól működő, automatizált technológiai részvényekbe vetett vak bizalom ideje lejárt.\n\nA fenyegető piaci folyamatok közepette a szakmai közösség már a lehetséges kiutakat és a jövőbeni növekedési stratégiákat keresi. Október 21-én a Portfolio Investment Day rendezvényén profi szakértők veszik górcső alá a legfrissebb finanszírozási lehetőségeket, valamint a kis- és középvállalkozások hitelezési környezetét. A tanácskozás célja annak feltérképezése, hogyan maradhatnak rentábilisak a vállalkozások a megváltozott kamatkörnyezetben és a bizonytalanabbá váló globális piacon.",
+      "content_format": "markdown",
+      "body": [
+        "A tőzsdei befektetők az elmúlt napokban egyre óvatosabbá váltak, miután az AI-boomot hajtó technológiai óriások papírjai nyomás alá kerültek. A piaci szereplők körében aggodalmat váltott ki, hogy a szektor elmúlt időszakban mutatott kiemelkedő teljesítménye vajon fenntartható-e a valós gazdasági eredmények tükrében. A mostani eladási hullám nem csupán egy rövid távú korrekció, hanem a befektetői narratíva megváltozását is jelezheti.",
+        "A helyzetet nehezíti, hogy az amerikai kötvénypiacokon tapasztalt szokatlan mozgások tovább bizonytalanítják a tőkepiaci kilátásokat. A JPMorgan elemzői rámutattak, hogy a júliusban látottakkal ellentétben a jelenlegi makrogazdasági környezet már nem kedvez egy gyors és dinamikus tőzsdei felpattanásnak. A befektetők számára ez a változás azt üzeni, hogy a korábban jól működő, automatizált technológiai részvényekbe vetett vak bizalom ideje lejárt.",
+        "A fenyegető piaci folyamatok közepette a szakmai közösség már a lehetséges kiutakat és a jövőbeni növekedési stratégiákat keresi. Október 21-én a Portfolio Investment Day rendezvényén profi szakértők veszik górcső alá a legfrissebb finanszírozási lehetőségeket, valamint a kis- és középvállalkozások hitelezési környezetét. A tanácskozás célja annak feltérképezése, hogyan maradhatnak rentábilisak a vállalkozások a megváltozott kamatkörnyezetben és a bizonytalanabbá váló globális piacon."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 217,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Stock_Market_April_5_2025_3_Months.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 563,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stock_Market_April_5_2025_3_Months.png",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/befektetes/20261015/tenyleg-most-durran-ki-a-nagy-ai-lufi-869960",
+          "title": "Tényleg most durran ki a nagy AI-lufi?",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:42+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.0,
+      "title_options": [
+        "Kifulladóban a mesterséges intelligencia tőzsdei szárnyalása",
+        "Vészharangok a tőzsdén: megremegtek az AI-részvények",
+        "Komoly kérdőjelek az AI-boom fenntarthatósága körül",
+        "Nem lesz gyors felpattanás: bajban a tőzsdei kedvencek",
+        "Erre senki nem számított: sorra dőlnek be az AI-részvények"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Stock_Market_April_5_2025_3_Months.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 563,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Stock_Market_April_5_2025_3_Months.png",
+          "vision_score": 7.0
+        }
+      ],
+      "story": [
+        {
+          "title": "Tényleg most durran ki a nagy AI-lufi?",
+          "link": "https://www.portfolio.hu/befektetes/20261015/tenyleg-most-durran-ki-a-nagy-ai-lufi-869960",
+          "summary": "Egyre komolyabb eladási hullám söpör végig a világ tőzsdéin, a célkeresztben pedig éppen a mesterséges intelligencia térnyerésének legnagyobb nyertesei állnak. Az elmúlt napokban több olyan figyelmeztető jel is megjelent, amely komoly kérdéseket vet fel az AI-boom fenntarthatóságával kapcsolatban és ismét egyre többen kongatják a vészharangot. Hasonló témákkal is foglalkozunk a Portfolio Investment Day konferenciánkon október 21-én. Jön az év egyik legnagyobb befektetési eseménye, ahol profi szakértők mondják el, mibe érdemes most befektetni. Regisztráció itt .",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/befektetes/20261015/tenyleg-most-durran-ki-a-nagy-ai-lufi-869960"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/penzvilag/2026-10-15-kifulladoban-a-mesterseges-intelligencia-tozsdei-szarnyalasa/",
+      "seo": {
+        "meta_title": "Kifulladóban a mesterséges intelligencia tőzsdei szárnyalása",
+        "meta_description": "Súlyos eladási hullám söpör végig a globális tőkepiacokon, a befektetők bizalma pedig a mesterséges intelligencia szektor legnagyobb nyerteseivel szemben is meg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-kifulladoban-a-mesterseges-intelligencia-tozsdei-szarnyalasa/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Stock_Market_April_5_2025_3_Months.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "294a7488862ec74885337d3c178a4f07afed7a90591bbe699deddb5420cb3636",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:05:42+02:00",
+      "updated_at": "2026-10-15T21:05:42+02:00",
+      "published_at": "2026-10-15T21:05:42+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T19:07:34+00:00",
+        "msg_ids": [
+          6516,
+          6517
+        ],
+        "control_id": 6518
+      }
     }
   ]
 }
