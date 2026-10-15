@@ -10566,9 +10566,9 @@
       "live": true
     },
     {
-      "id": "2d29878e-f9f6-547c-bc45-3f6670569d2b",
-      "slug": "2026-10-15-matrix-forgatokonyvek-vagy-valodi-veszelyek-mitol-felunk-valojaban-az",
-      "status": "pending",
+      "id": "09b5cf39-d810-5bda-a6db-e12261796daa",
+      "slug": "2026-10-15-terminator-filmek-es-civilizacios-valsagok-miert-a-legrosszabb-jovot",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -10578,7 +10578,7 @@
         "AI-etika",
         "szabályozás"
       ],
-      "title": "Mátrix-forgatókönyvek vagy valódi veszélyek: mitől félünk valójában az AI-tól?",
+      "title": "Terminátor-filmek és civilizációs válságok: miért a legrosszabb jövőt képzeljük el az AI-nak?",
       "subtitle": null,
       "lead": "A mesterséges intelligencia körüli közbeszédet a populáris kultúrából ismert apokaliptikus jövőképek uralják, amelyek elvonják a figyelmet a technológia már jelen lévő problémáiról. 2026 őszén a szakértők egyre inkább sürgetik, hogy a katasztrófák vizionálása mellett a pozitív társadalmi célok megfogalmazására is figyelmet kell fordítani.",
       "key_points": [
@@ -10600,16 +10600,16 @@
       "word_count": 217,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 751,
+        "height": 1677,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Categorize algorithms based on their use in relation to human activities.",
-        "credit": "Cyrilht / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Intelligence_Scale.png",
-        "vision_score": 8.0
+        "pos": "top",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_Robot_at_Toyota_Kaikan.jpg",
+        "vision_score": 5.0
       },
       "inline_images": [],
       "sources": [
@@ -10695,12 +10695,12 @@
       },
       "date": "2026-10-15",
       "date_label": "október 15.",
-      "url": "/tech/2026-10-15-matrix-forgatokonyvek-vagy-valodi-veszelyek-mitol-felunk-valojaban-az/",
+      "url": "/tech/2026-10-15-terminator-filmek-es-civilizacios-valsagok-miert-a-legrosszabb-jovot/",
       "seo": {
-        "meta_title": "Mátrix-forgatókönyvek vagy valódi veszélyek: mitől félünk va",
+        "meta_title": "Terminátor-filmek és civilizációs válságok: miért a legrossz",
         "meta_description": "A mesterséges intelligencia körüli közbeszédet a populáris kultúrából ismert apokaliptikus jövőképek uralják, amelyek elvonják a figyelmet a technológia már jel",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-15-matrix-forgatokonyvek-vagy-valodi-veszelyek-mitol-felunk-valojaban-az/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-15-terminator-filmek-es-civilizacios-valsagok-miert-a-legrosszabb-jovot/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toyota_Robot_at_Toyota_Kaikan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10717,9 +10717,9 @@
       "dedupe_hash": "dfb99722ce558854b0a69ddfce4332ad3605af5d3a1ef691c7f41e5d8543f2c7",
       "pipeline_run_id": "38750299848",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T16:31:58+02:00",
-      "updated_at": "2026-10-15T16:31:58+02:00",
-      "published_at": "2026-10-15T16:31:58+02:00",
+      "created_at": "2026-10-15T20:08:02+02:00",
+      "updated_at": "2026-10-15T20:08:02+02:00",
+      "published_at": "2026-10-15T20:08:02+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10732,9 +10732,9 @@
         "msg_ids": [],
         "control_id": 6352,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:07 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T20:07:36+02:00"
+      "live": true
     },
     {
       "id": "8ca3a856-89a6-5def-98ac-53e7762eaad6",
