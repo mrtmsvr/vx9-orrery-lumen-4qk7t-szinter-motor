@@ -11766,15 +11766,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-15T14:34:09+00:00",
-        "msg_ids": [
-          6379,
-          6380,
-          6381,
-          6384,
-          6442,
-          6443
-        ],
-        "control_id": 6444
+        "msg_ids": [],
+        "control_id": 6444,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
