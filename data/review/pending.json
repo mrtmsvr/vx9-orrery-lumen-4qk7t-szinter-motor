@@ -13633,17 +13633,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-15T06:26:00+00:00",
-        "msg_ids": [
-          6161,
-          6162,
-          6163,
-          6165,
-          6169,
-          6170,
-          6171,
-          6172
-        ],
-        "control_id": 6173
+        "msg_ids": [],
+        "control_id": 6173,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
