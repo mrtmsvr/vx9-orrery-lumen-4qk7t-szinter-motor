@@ -1,7 +1,207 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T16:33:55+02:00",
+  "updated_at": "2026-10-15T16:34:30+02:00",
   "articles": [
+    {
+      "id": "9e0961f8-00f1-5638-95a9-6fa6a944825b",
+      "slug": "2026-10-15-felfuggesztettek-a-volt-fougyeszt",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Fürcht Pál",
+        "legfőbb ügyész",
+        "fegyelmi eljárás",
+        "Magyar Péter",
+        "ügyészség"
+      ],
+      "title": "Felfüggesztették a volt főügyészt",
+      "subtitle": null,
+      "lead": "Újabb fegyelmi eljárás indult Fürcht Pál volt főügyész ellen, akit Lajtár István legfőbb ügyész azonnali hatállyal felfüggesztett beosztásából. A döntés hátterében a volt főügyész nyilvános nyilatkozatai és a titoktartási kötelezettség feltételezett megsértése áll.",
+      "key_points": [
+        "Lajtár István legfőbb ügyész fegyelmi eljárást kezdeményezett Fürcht Pál ellen, és felfüggesztette őt állásából.",
+        "Az indoklás szerint a volt főügyész nyilvános megszólalásai sértették a titoktartási kötelezettséget, és alkalmasak voltak a közvélemény megtévesztésére."
+      ],
+      "content": "Lajtár István legfőbb ügyész fegyelmi eljárást kezdeményezett dr. Fürcht Pál Zsolt ellen, akit egyúttal felfüggesztett állásából – közölte Horváth Lóránt, Fürcht jogi képviselője. A volt főügyész a nyáron mondott le posztjáról, ezt követően a Legfőbb Ügyészség Nyomozásfelügyeleti és Vádelőkészítési Főosztályának beosztott ügyészeként dolgozott.\n\nA legfőbb ügyész indoklása szerint Fürcht nyilvános nyilatkozatai sértették az ügyészi titoktartási kötelezettséget és a nyomozás bizalmas jellegét, emellett alkalmasak voltak a közvélemény megtévesztésére. A közlemény kiemeli, hogy a volt főügyész félreérthető állításokat tett az ügyészség esetleges politikai elvárások szerinti működéséről, nyílt levelében pedig az aranykonvojügyben korábban tudomására jutott adatokról beszélt.\n\nA hatósági álláspont hangsúlyozza, hogy az igazságszolgáltatás kulcsszereplőivel szemben magasabbak az elvárások, így véleménynyilvánítási joguk korlátozottabb, magatartásuk pedig szigorúbb megítélés alá esik. Az ügyészség szerint Fürcht egyoldalú, ellenőrizhetetlen információkat hozott nyilvánosságra, ezzel súlyosan sértve a szervezet érdekeit és jó hírnevét.",
+      "content_format": "markdown",
+      "body": [
+        "Lajtár István legfőbb ügyész fegyelmi eljárást kezdeményezett dr. Fürcht Pál Zsolt ellen, akit egyúttal felfüggesztett állásából – közölte Horváth Lóránt, Fürcht jogi képviselője. A volt főügyész a nyáron mondott le posztjáról, ezt követően a Legfőbb Ügyészség Nyomozásfelügyeleti és Vádelőkészítési Főosztályának beosztott ügyészeként dolgozott.",
+        "A legfőbb ügyész indoklása szerint Fürcht nyilvános nyilatkozatai sértették az ügyészi titoktartási kötelezettséget és a nyomozás bizalmas jellegét, emellett alkalmasak voltak a közvélemény megtévesztésére. A közlemény kiemeli, hogy a volt főügyész félreérthető állításokat tett az ügyészség esetleges politikai elvárások szerinti működéséről, nyílt levelében pedig az aranykonvojügyben korábban tudomására jutott adatokról beszélt.",
+        "A hatósági álláspont hangsúlyozza, hogy az igazságszolgáltatás kulcsszereplőivel szemben magasabbak az elvárások, így véleménynyilvánítási joguk korlátozottabb, magatartásuk pedig szigorúbb megítélés alá esik. Az ügyészség szerint Fürcht egyoldalú, ellenőrizhetetlen információkat hozott nyilvánosságra, ezzel súlyosan sértve a szervezet érdekeit és jó hírnevét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 166,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074823-0.jpg",
+        "kind": "photo",
+        "alt": "Felfüggesztették a volt főügyészt",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261015_felfuggesztettek-allasabol-furcht-palt-es-ujabb-fegyelmi-eljarast-kezdemenyeztek-ellene",
+          "title": "Felfüggesztették állásából Fürcht Pált, és újabb fegyelmi eljárást kezdeményeztek ellene",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:31:59+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T16:34:30+02:00"
+      },
+      "hot_score": 5.46,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261015_felfuggesztettek-allasabol-furcht-palt-es-ujabb-fegyelmi-eljarast-kezdemenyeztek-ellene"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-felfuggesztettek-a-volt-fougyeszt/",
+      "seo": {
+        "meta_title": "Felfüggesztették a volt főügyészt",
+        "meta_description": "Újabb fegyelmi eljárás indult Fürcht Pál volt főügyész ellen, akit Lajtár István legfőbb ügyész azonnali hatállyal felfüggesztett beosztásából. A döntés hátteré",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-felfuggesztettek-a-volt-fougyeszt/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f22296fdbd45cff84bc104b88b7ade6e5602a6a463eb5bb2d868754dcbebb316",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:34:30+02:00",
+      "updated_at": "2026-10-15T16:34:30+02:00",
+      "published_at": "2026-10-15T16:34:30+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "68cc7ccb-9449-5873-b26d-800601e819ab",
+      "slug": "2026-10-15-meguszta-a-300-ezer-euros-buntetest-ilaria-salis",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Ilaria Salis",
+        "Olaszország",
+        "Európai Parlament",
+        "bíróság",
+        "kártérítés"
+      ],
+      "title": "Megúszta a 300 ezer eurós büntetést Ilaria Salis",
+      "subtitle": null,
+      "lead": "Semmissé nyilvánította a milánói fellebbviteli bíróság azt az ítéletet, amely korábban 300 ezer euró kártérítés megfizetésére kötelezte Ilaria Salis olasz európai parlamenti képviselőt. A döntés értelmében a politikus elkerülte a jelentős összegű fizetési kötelezettséget, mivel eljárási hiba miatt sérült a védekezéshez való joga.",
+      "key_points": [
+        "A milánói fellebbviteli bíróság hatályon kívül helyezte az Ilaria Salis elleni kártérítési ítéletet.",
+        "A pert két korábbi munkatársa indította, indokolatlan elbocsátásra hivatkozva.",
+        "A hivatalos iratok szabálytalan kézbesítése miatt a politikus nem tudott élni védekezési jogával."
+      ],
+      "content": "A milánói fellebbviteli bíróság hatályon kívül helyezte azt a márciusi határozatot, amely 300 ezer euró kártérítés megfizetésére kötelezte Ilaria Salis olasz európai parlamenti képviselőt, a Zöldek és Baloldaliak Szövetségének (AVS) politikusát. Az ügy előzménye, hogy a képviselő két korábbi asszisztense nyújtott be keresetet ellene, mondván: a politikus megfelelő indok nélkül bocsátotta el őket.\n\nA mostani fellebbviteli döntés oka, hogy a bírósági iratokat nem kézbesítették szabályszerűen, így a távollétében zajló elsőfokú eljárásban a politikus nem gyakorolhatta a védekezéshez való jogát.\n\nSalis jogi képviselői azzal érveltek, hogy a hivatalos levelet mindössze egyszer próbálták meg kézbesíteni, miközben védencük idejének nagy részét külföldön töltötte.\n\nA Magyarországon is ismert olasz politikus ügye korábban amiatt került a figyelem középpontjába, mert 2023 februárjában Budapesten letartóztatták: a vád szerint részt vett a Kitörés Napja idején elkövetett, antifasiszták által végrehajtott támadássorozatban. A nő tizenöt hónapos letartóztatás után, 2024 júniusában – európai parlamenti képviselővé választását követően – a mentelmi jogára hivatkozva szabadult.",
+      "content_format": "markdown",
+      "body": [
+        "A milánói fellebbviteli bíróság hatályon kívül helyezte azt a márciusi határozatot, amely 300 ezer euró kártérítés megfizetésére kötelezte Ilaria Salis olasz európai parlamenti képviselőt, a Zöldek és Baloldaliak Szövetségének (AVS) politikusát. Az ügy előzménye, hogy a képviselő két korábbi asszisztense nyújtott be keresetet ellene, mondván: a politikus megfelelő indok nélkül bocsátotta el őket.",
+        "A mostani fellebbviteli döntés oka, hogy a bírósági iratokat nem kézbesítették szabályszerűen, így a távollétében zajló elsőfokú eljárásban a politikus nem gyakorolhatta a védekezéshez való jogát.",
+        "Salis jogi képviselői azzal érveltek, hogy a hivatalos levelet mindössze egyszer próbálták meg kézbesíteni, miközben védencük idejének nagy részét külföldön töltötte.",
+        "A Magyarországon is ismert olasz politikus ügye korábban amiatt került a figyelem középpontjába, mert 2023 februárjában Budapesten letartóztatták: a vád szerint részt vett a Kitörés Napja idején elkövetett, antifasiszták által végrehajtott támadássorozatban. A nő tizenöt hónapos letartóztatás után, 2024 júniusában – európai parlamenti képviselővé választását követően – a mentelmi jogára hivatkozva szabadult."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 193,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074823-0.jpg",
+        "kind": "photo",
+        "alt": "Megúszta a 300 ezer eurós büntetést Ilaria Salis",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_egyelore-nem-kell-300-ezer-euros-karteritest-fizetnie-volt-asszisztenseinek-ilaria-salisnak-a-budapesten-korabban-letartoztatott-olasz-ep-kepviselonek",
+          "title": "A Budapesten megvádolt antifa Ilaria Salis 300 ezer eurós kártérítés befizetését úszta meg egy időre",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:32:03+02:00"
+        }
+      ],
+      "quote": {
+        "text": "teljesen aránytalan végrehajtási intézkedéseknek",
+        "who": "Ilaria Salis ügyvédei",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T16:34:29+02:00"
+      },
+      "hot_score": 5.37,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_egyelore-nem-kell-300-ezer-euros-karteritest-fizetnie-volt-asszisztenseinek-ilaria-salisnak-a-budapesten-korabban-letartoztatott-olasz-ep-kepviselonek"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-meguszta-a-300-ezer-euros-buntetest-ilaria-salis/",
+      "seo": {
+        "meta_title": "Megúszta a 300 ezer eurós büntetést Ilaria Salis",
+        "meta_description": "Semmissé nyilvánította a milánói fellebbviteli bíróság azt az ítéletet, amely korábban 300 ezer euró kártérítés megfizetésére kötelezte Ilaria Salis olasz európ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-meguszta-a-300-ezer-euros-buntetest-ilaria-salis/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ec563135479c52938152865b9bfb58e7f58442581b0c1b4d42867be076a77063",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:34:29+02:00",
+      "updated_at": "2026-10-15T16:34:29+02:00",
+      "published_at": "2026-10-15T16:34:29+02:00",
+      "expires_at": null
+    },
     {
       "id": "c8c38355-d991-5956-b385-32a1fb53e3b7",
       "slug": "2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset",
