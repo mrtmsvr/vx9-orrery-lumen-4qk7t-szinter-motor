@@ -12713,9 +12713,9 @@
       "live": true
     },
     {
-      "id": "40b3efc9-d9fc-5afd-9009-4ebd4b494043",
-      "slug": "2026-10-15-hatvanezer-kamionnyi-aru-ragadt-a-dunan-az-alacsony-vizallas-miatt",
-      "status": "pending",
+      "id": "77a78beb-547d-5c7c-9e1a-8b253a5d9697",
+      "slug": "2026-10-15-hatvan-centivel-emeltek-a-vizet-de-a-paksi-zarlat-igy-is-betett-a-sza",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -12725,7 +12725,7 @@
         "áruszállítás",
         "aszály"
       ],
-      "title": "Hatvanezer kamionnyi áru ragadt a Dunán az alacsony vízállás miatt",
+      "title": "Hatvan centivel emelték a vizet, de a paksi zárlat így is betett a szállításnak",
       "subtitle": null,
       "lead": "Mintegy másfél millió tonna áru szállítása hiúsult meg a Duna rendkívül alacsony vízállása és az elrendelt hajózási zárlat miatt. A helyzet kezelésére Paksnál gyorsított ütemben építettek fenékküszöböt, a logisztikai veszteségek azonban így is jelentősek.",
       "key_points": [
@@ -12746,15 +12746,16 @@
       "word_count": 240,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Dev%C3%ADn_Castle_and_Morava-Danube_Confluence_02.jpg/1280px-Dev%C3%ADn_Castle_and_Morava-Danube_Confluence_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/8474f7a913a531ed.jpg",
+        "width": 4583,
+        "height": 3055,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Devín Castle (in Slovak Devínsky hrad) at the confluence of the Morava river into the Danube. The Morava forms the border between Austria (left) and Slovakia (right).",
-        "credit": "Uoaei1 / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Dev%C3%ADn_Castle_and_Morava-Danube_Confluence_02.jpg"
+        "alt": "ship, cranes, loading, dock, port, pier, machinery, heavy machinery, cargo, cargo ship, shipping, shipping industry, freight, freight transport, freight ship, sea, ocean, water, travel, nature, voyage",
+        "credit": "hunt-er / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/ship-cranes-loading-dock-port-5810249/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/8474f7a913a531ed.jpg",
+        "orig_url": "https://pixabay.com/get/g3cf653f8a0c421dc8eaa1111541b3b3c31ee653de9a58086816e734732d140b9175b3a46dbe360bebac2f8ac92f27adebf0d60710a60d0fa9997d76fa1945a64_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12861,12 +12862,12 @@
       },
       "date": "2026-10-15",
       "date_label": "október 15.",
-      "url": "/penzvilag/2026-10-15-hatvanezer-kamionnyi-aru-ragadt-a-dunan-az-alacsony-vizallas-miatt/",
+      "url": "/penzvilag/2026-10-15-hatvan-centivel-emeltek-a-vizet-de-a-paksi-zarlat-igy-is-betett-a-sza/",
       "seo": {
-        "meta_title": "Hatvanezer kamionnyi áru ragadt a Dunán az alacsony vízállás",
+        "meta_title": "Hatvan centivel emelték a vizet, de a paksi zárlat így is be",
         "meta_description": "Mintegy másfél millió tonna áru szállítása hiúsult meg a Duna rendkívül alacsony vízállása és az elrendelt hajózási zárlat miatt. A helyzet kezelésére Paksnál g",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-hatvanezer-kamionnyi-aru-ragadt-a-dunan-az-alacsony-vizallas-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Dev%C3%ADn_Castle_and_Morava-Danube_Confluence_02.jpg/1280px-Dev%C3%ADn_Castle_and_Morava-Danube_Confluence_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-hatvan-centivel-emeltek-a-vizet-de-a-paksi-zarlat-igy-is-betett-a-sza/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/8474f7a913a531ed.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12883,9 +12884,9 @@
       "dedupe_hash": "73fca2800437f8a04e96637438f88c0e5ac05995cef60fe786f38a310e441117",
       "pipeline_run_id": "38691907052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T08:24:40+02:00",
-      "updated_at": "2026-10-15T08:24:40+02:00",
-      "published_at": "2026-10-15T08:24:40+02:00",
+      "created_at": "2026-10-15T09:06:45+02:00",
+      "updated_at": "2026-10-15T09:06:45+02:00",
+      "published_at": "2026-10-15T09:06:45+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12898,9 +12899,9 @@
         "msg_ids": [],
         "control_id": 6153,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 09:06 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T09:06:25+02:00"
+      "live": true
     },
     {
       "id": "c9c2551b-104d-5976-8999-e85bf2736e79",
