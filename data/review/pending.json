@@ -11013,15 +11013,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T12:04:00+00:00",
-        "msg_ids": [
-          6222,
-          6223,
-          6224,
-          6225,
-          6226,
-          6237
-        ],
-        "control_id": 6227
+        "msg_ids": [],
+        "control_id": 6227,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -11235,6 +11230,1254 @@
         ],
         "control_id": 6236
       }
+    },
+    {
+      "id": "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+      "slug": "2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ukrajna",
+        "Donald Trump",
+        "Volodimir Zelenszkij",
+        "Starlink",
+        "külpolitika"
+      ],
+      "title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+      "subtitle": null,
+      "lead": "Volodimir Zelenszkij ukrán elnök személyes árulásként értékelte, hogy Donald Trump (korábbi vagy megválasztott) elnök korlátozta Ukrajna hozzáférését a Starlink műholdas kommunikációs rendszerhez. A döntés miatt számos katonai eszköz vált használhatatlanná a frontvonalon, ami biztonsági szakértők szerint jelentős stratégiai hátrányt okoz Kijevnek.",
+      "key_points": [
+        "Az ukrán dróncsapásokhoz használt Starlink-hálózat korlátozása közvetlenül akadályozza a védelmi műveleteket.",
+        "Zelenszkij a The Guardiannak adott interjújában úgy fogalmazott: az amerikai fél tisztában volt a döntés súlyos következményeivel.",
+        "Az ukrán–amerikai viszony drasztikusan megromlott, miután Donald Trump az orosz elnökkel folytatott telefonbeszélgetést követően új ukrán vezetés szükségességét vetette fel."
+      ],
+      "content": "Súlyos diplomáciai és katonai feszültség alakult ki Washington és Kijev között, miután a SpaceX által üzemeltetett, ám az amerikai kormányzat felügyelete alatt álló Starlink-rendszer elérését drasztikusan korlátozták. Volodimir Zelenszkij az Egyesült Királyságban tett látogatása során a The Guardian kérdésére válaszolva kifejtette: a technológiai blokád nem műszaki hiba, hanem tudatos döntés eredménye, amely közvetlen emberéleteket követel a harctéren. Az ukrán hadsereg jelentései szerint a korlátozások miatt a frontvonalak mögötti precíziós csapásokhoz használt drónok váltak mozgásképtelenné, emellett az orosz légitámadások elleni védekezés hatékonysága is jelentősen visszaesett.\n\nA feszültség hátterében Donald Trump (korábbi vagy megválasztott) elnök közelmúltbeli irányváltása áll. A Vlagyimir Putyinnal folytatott telefonos egyeztetést követően az amerikai elnök nyilvánosan kezdeményezte, hogy Ukrajna váltson vezetőt egy békekötésre alkalmasabb politikusra. , az ukrán fél állítása szerint az orosz légicsapások az infrastruktúra ellen folyamatosak maradtak. A diplomáciai kapcsolatok további romlását jelzi, hogy\n\nAz ukrán hadsereg logisztikai nehézségeiről és a technológiai akadályokról már korábban is érkeztek hírek, ám a helyzet eszkalációja mára nyílt politikai konfrontációvá szélesedett. Magyarország számára a konfliktus súlyosbodása és a nagyhatalmi irányváltás azért hordoz kockázatot, mert a szomszédságunkban zajló háború eszközrendszerének és szövetségi hátterének változása közvetlen hatással van az európai biztonsági architektúrára, valamint a regionális energiabiztonságra.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos diplomáciai és katonai feszültség alakult ki Washington és Kijev között, miután a SpaceX által üzemeltetett, ám az amerikai kormányzat felügyelete alatt álló Starlink-rendszer elérését drasztikusan korlátozták. Volodimir Zelenszkij az Egyesült Királyságban tett látogatása során a The Guardian kérdésére válaszolva kifejtette: a technológiai blokád nem műszaki hiba, hanem tudatos döntés eredménye, amely közvetlen emberéleteket követel a harctéren. Az ukrán hadsereg jelentései szerint a korlátozások miatt a frontvonalak mögötti precíziós csapásokhoz használt drónok váltak mozgásképtelenné, emellett az orosz légitámadások elleni védekezés hatékonysága is jelentősen visszaesett.",
+        "A feszültség hátterében Donald Trump (korábbi vagy megválasztott) elnök közelmúltbeli irányváltása áll. A Vlagyimir Putyinnal folytatott telefonos egyeztetést követően az amerikai elnök nyilvánosan kezdeményezte, hogy Ukrajna váltson vezetőt egy békekötésre alkalmasabb politikusra. , az ukrán fél állítása szerint az orosz légicsapások az infrastruktúra ellen folyamatosak maradtak. A diplomáciai kapcsolatok további romlását jelzi, hogy",
+        "Az ukrán hadsereg logisztikai nehézségeiről és a technológiai akadályokról már korábban is érkeztek hírek, ám a helyzet eszkalációja mára nyílt politikai konfrontációvá szélesedett. Magyarország számára a konfliktus súlyosbodása és a nagyhatalmi irányváltás azért hordoz kockázatot, mert a szomszédságunkban zajló háború eszközrendszerének és szövetségi hátterének változása közvetlen hatással van az európai biztonsági architektúrára, valamint a regionális energiabiztonságra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 234,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1625,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official portrait of Volodymyr Zelenskyy.",
+        "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Starlink_01.webp/1280px-Starlink_01.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 600,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Starlink satellite",
+          "credit": "Wikideas1 / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_01.webp",
+          "after": 0,
+          "caption": "A SpaceX műholdrendszere elengedhetetlen az ukrán kommunikációhoz"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_volodimir-zelenszkij-donald-trump-starlink-orosz-ukran-haboru",
+          "title": "Zelenszkij szerint Trump négy év háború után a másik oldalt választotta",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:25+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Biztos vagyok abban, hogy tudták, mit tesznek, teljes mértékben. Hiszen éjjel egy óra volt, a Starlinket pedig a SpaceX és az Egyesült Államok blokkolta. Ez a döntés jelentős emberi áldozattal jár majd, természetesen, emberek fognak meghalni",
+        "who": "Volodimir Zelenszkij ukrán államfő",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.25,
+      "title_options": [
+        "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+        "Személyes árulásként éli meg az ukrán elnök a Starlink-korlátozást",
+        "Zelenszkij szerint Trump elnöksége alatt hátat fordított Ukrajnának",
+        "Mostantól nem működnek az ukrán drónok? Zelenszkij szerint Trump tette ezt",
+        "„Éjjel egykor kapcsolták le” – Zelenszkij részletezte a Starlink blokkolását",
+        "Vége az energetikai tűzszünetnek? A színfalak mögött dőlt el Ukrajna sorsa"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1625,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Official portrait of Volodymyr Zelenskyy.",
+          "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Volodymyr_Zelensky_Illustration.jpg/1280px-Volodymyr_Zelensky_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Volodymyr Zelensky Illustration",
+          "credit": "Coreypkolb / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Illustration.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Zelenszkij szerint Trump négy év háború után a másik oldalt választotta",
+          "link": "https://hvg.hu/vilag/20261015_volodimir-zelenszkij-donald-trump-starlink-orosz-ukran-haboru",
+          "summary": "Az ukrán elnök személyes árulásnak érzi, hogy korlátozták országa hozzáférését a Starlink-rendszerhez.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.25
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_volodimir-zelenszkij-donald-trump-starlink-orosz-ukran-haboru"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+      "seo": {
+        "meta_title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+        "meta_description": "Volodimir Zelenszkij ukrán elnök személyes árulásként értékelte, hogy Donald Trump (korábbi vagy megválasztott) elnök korlátozta Ukrajna hozzáférését a Starlink",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "2da9c2df-1eb6-5788-84de-1cc60b97c3fe"
+      ],
+      "see_also": [
+        {
+          "title": "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
+          "url": "/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+          "date": "2026-10-14"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "c4d2a70bd5e5d8b1a029f4d4b45644d145b8d857adc069a12cd187a6065f3848",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:03:25+02:00",
+      "updated_at": "2026-10-15T14:03:25+02:00",
+      "published_at": "2026-10-15T14:03:25+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:15+00:00",
+        "msg_ids": [
+          6238,
+          6239,
+          6240
+        ],
+        "control_id": 6241
+      }
+    },
+    {
+      "id": "d619c4f1-c3cb-5828-a11b-281ac4c5c929",
+      "slug": "2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-csucson",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "tudomány",
+        "Magyar Tudományos Akadémia",
+        "nemek aránya",
+        "kutatók",
+        "Eurostat"
+      ],
+      "title": "Tízszázalékos elit: miért nincsenek nők a magyar tudományos csúcson",
+      "subtitle": null,
+      "lead": "A Magyar Tudományos Akadémia rendes és levelező tagjainak mindössze tíz százaléka nő, ami a szisztémás akadályok és a hiányzó példaképek következménye. Az Eurostat friss adatai szerint Magyarországon a kutatók és mérnökök körében is kirívóan alacsony a nők aránya.",
+      "key_points": [
+        "Az MTA tagjainak alig tíz százaléka nő.",
+        "Magyarországon a kutatók és mérnökök csupán 32 százaléka nő az Eurostat szerint.",
+        "A közép-magyarországi régióban az egyik legalacsonyabb a női kutatók aránya az Európai Unióban."
+      ],
+      "content": "A Magyar Tudományos Akadémia rendes tagjai között alacsony a nők aránya; a vezetők hiányát részben a rendszerszintű korlátok és a nők saját döntései magyarázzák.\n\nRészben a rendszerszintű korlátok, részben a nők saját döntései magyarázzák, hogy alulreprezentáltak az egyetemi, kutatóintézeti és akadémiai vezetői pozíciókban – emelte ki Bollobás Enikő, az ELTE BTK Angol-Amerikai Intézetének professzor emeritusa, a Magyar Tudományos Akadémia rendes tagja, a Nők a Kutatói Életpályán Elnöki Bizottság korábbi elnöke.\n\nA szakember tanulmányt írt arról, hogy a tudományos intézmények éléről hiányoznak a nők, miközben a döntéshozói posztokat túlnyomórészt férfiak töltik be, ami gyakran elriasztja a kutatónőket az akadémiai pályától.\n\nEzen a kiegyenlítetlen nemi arányon akár a kvóták bevezetése is javíthatna – állítja Kende Anna szociálpszichológus, egyetemi tanár, az ELTE Pedagógiai és Pszichológiai Kar Pszichológiai Intézetének igazgatója.\n\nMagyarország összességében sem teljesít jól a női kutatók és mérnökök arányát tekintve, derül ki az Eurostat idei felméréséből, amely szerint hazánkban a területen dolgozóknak mindössze közel 32 százaléka nő, miközben EU-s szinten a közép-magyarországi régióban a legalacsonyabb a női kutatók és mérnökök aránya, mindössze 30 százalék.\n\nEzzel szemben Norvégiában, Lettországban, Izlandon és Dániában a legmagasabb a női kutatók és mérnökök aránya, ahol a szakmában dolgozók 48-49 százalékát teszi ki a női munkaerő, miközben az Európai Unióban a kutató és mérnök munkakörökben dolgozó nők száma a 2023-as 7,7 millióról 2024-re 7,9 millióra emelkedett.",
+      "content_format": "markdown",
+      "body": [
+        "A Magyar Tudományos Akadémia rendes tagjai között alacsony a nők aránya; a vezetők hiányát részben a rendszerszintű korlátok és a nők saját döntései magyarázzák.",
+        "Részben a rendszerszintű korlátok, részben a nők saját döntései magyarázzák, hogy alulreprezentáltak az egyetemi, kutatóintézeti és akadémiai vezetői pozíciókban – emelte ki Bollobás Enikő, az ELTE BTK Angol-Amerikai Intézetének professzor emeritusa, a Magyar Tudományos Akadémia rendes tagja, a Nők a Kutatói Életpályán Elnöki Bizottság korábbi elnöke.",
+        "A szakember tanulmányt írt arról, hogy a tudományos intézmények éléről hiányoznak a nők, miközben a döntéshozói posztokat túlnyomórészt férfiak töltik be, ami gyakran elriasztja a kutatónőket az akadémiai pályától.",
+        "Ezen a kiegyenlítetlen nemi arányon akár a kvóták bevezetése is javíthatna – állítja Kende Anna szociálpszichológus, egyetemi tanár, az ELTE Pedagógiai és Pszichológiai Kar Pszichológiai Intézetének igazgatója.",
+        "Magyarország összességében sem teljesít jól a női kutatók és mérnökök arányát tekintve, derül ki az Eurostat idei felméréséből, amely szerint hazánkban a területen dolgozóknak mindössze közel 32 százaléka nő, miközben EU-s szinten a közép-magyarországi régióban a legalacsonyabb a női kutatók és mérnökök aránya, mindössze 30 százalék.",
+        "Ezzel szemben Norvégiában, Lettországban, Izlandon és Dániában a legmagasabb a női kutatók és mérnökök aránya, ahol a szakmában dolgozók 48-49 százalékát teszi ki a női munkaerő, miközben az Európai Unióban a kutató és mérnök munkakörökben dolgozó nők száma a 2023-as 7,7 millióról 2024-re 7,9 millióra emelkedett."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 262,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hungarian_Academy_of_Sciences.jpg/1280px-Hungarian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 641,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Academy of Sciences (MTA)",
+        "credit": "Ivanhoe / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Academy_of_Sciences.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/15/ugy-nem-lehet-a-tudomanyt-szinvonalasan-muvelni-hogy-szisztematikusan-kizarunk-belole-csoportokat-akar-noket-akar-masokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "„Úgy nem lehet a tudományt színvonalasan művelni, hogy szisztematikusan kizárunk belőle csoportokat – akár nőket, akár másokat”",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:15+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Úgy nem lehet a tudományt színvonalasan művelni, hogy szisztematikusan kizárunk belőle csoportokat – akár nőket, akár másokat",
+        "who": "Kuglics Sarolta",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.62,
+      "title_options": [
+        "Tízszázalékos elit: miért nincsenek nők a magyar tudományos csúcson",
+        "Mindössze tíz százalék a női tagok aránya a Magyar Tudományos Akadémián",
+        "Nem haladó szellemű a tudományos elit? Így maradtak le a nők az MTA-n",
+        "Döbbenetesen alacsony a női kutatók aránya a magyar tudományos elitben",
+        "Miért rekesztik ki a nőket a magyar tudomány legmagasabb pozícióiból?",
+        "A számok magukért beszélnek: ennyire lemaradtunk a női kutatók támogatásában"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hungarian_Academy_of_Sciences.jpg/1280px-Hungarian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 641,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Hungarian Academy of Sciences (MTA)",
+          "credit": "Ivanhoe / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Academy_of_Sciences.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Hungarian_Academy_of_Sciences%2C_Budapest.jpg/1280px-Hungarian_Academy_of_Sciences%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Hungarian Academy of Sciences, Budapest",
+          "credit": "Slyronit / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Academy_of_Sciences,_Budapest.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg/1280px-E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 866,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Az Eötvös Loránd Tudományegyetem Eötvös Klubjának (Hordó) klubigazolványa.",
+          "credit": "Unknown authorUnknown author / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_(1).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Enik%C5%91_Bollob%C3%A1s.jpg/1280px-Enik%C5%91_Bollob%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Enikő Bollobás",
+          "credit": "Seasdas / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Enik%C5%91_Bollob%C3%A1s.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g0ca6cf22a15583558cb227db90467e286f882ac7910453be2efac56b91e43cd0b9847acc990411d3da179800c97cc97b4aaada1efdbad1359a55bfcf91382cf9_1280.jpg",
+          "width": 3000,
+          "height": 2000,
+          "kind": "photo",
+          "alt": "chemist, laboratory, analysis, chemistry, research, woman, female, girl, laboratory, laboratory, laboratory, laboratory, laboratory, chemistry, chemistry, research, research",
+          "credit": "jarmoluk / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/chemist-laboratory-analysis-2815640/"
+        },
+        {
+          "url": "https://live.staticflickr.com/8337/8223128095_2863868afe_b.jpg",
+          "width": 1024,
+          "height": 682,
+          "kind": "photo",
+          "alt": "Zebrafish in Research Lab for Animal Testing",
+          "credit": "www.understandinganimalresearch.org.uk / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/90500915@N05/8223128095"
+        }
+      ],
+      "story": [
+        {
+          "title": "„Úgy nem lehet a tudományt színvonalasan művelni, hogy szisztematikusan kizárunk belőle csoportokat – akár nőket, akár másokat”",
+          "link": "https://qubit.hu/2026/10/15/ugy-nem-lehet-a-tudomanyt-szinvonalasan-muvelni-hogy-szisztematikusan-kizarunk-belole-csoportokat-akar-noket-akar-masokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "Az MTA rendes és levelező tagjainak mindössze 10 százaléka nő. Ezen az arányon nehéz úgy változtatni, hogy a női kvótákat rendszeresen kritikák érik, a nők előtt nincsenek elismert példák, és az akadémiai férfi közösség sem igazán haladó szellemű.",
+          "source": "qubit.hu",
+          "related": false,
+          "hot_score": 5.62
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/15/ugy-nem-lehet-a-tudomanyt-szinvonalasan-muvelni-hogy-szisztematikusan-kizarunk-belole-csoportokat-akar-noket-akar-masokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-csucson/",
+      "seo": {
+        "meta_title": "Tízszázalékos elit: miért nincsenek nők a magyar tudományos ",
+        "meta_description": "A Magyar Tudományos Akadémia rendes és levelező tagjainak mindössze tíz százaléka nő, ami a szisztémás akadályok és a hiányzó példaképek következménye. Az Euros",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-csucson/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hungarian_Academy_of_Sciences.jpg/1280px-Hungarian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f54a6f854c83839e7ee617e699ff7a3c2997a23bfdff330229151d0af0ae418e",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:04:59+02:00",
+      "updated_at": "2026-10-15T14:04:59+02:00",
+      "published_at": "2026-10-15T14:04:59+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:22+00:00",
+        "msg_ids": [
+          6242,
+          6243,
+          6244,
+          6245,
+          6246,
+          6247,
+          6248,
+          6282
+        ],
+        "control_id": 6249
+      },
+      "live": true
+    },
+    {
+      "id": "93bb8429-ce02-51c3-b6e0-5b85fac8fff2",
+      "slug": "2026-10-15-haromszazmillio-forintot-kapott-a-svajci-diplomaciaban-utazo-nagykove",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Nagy István",
+        "Külügyminisztérium",
+        "diplomácia",
+        "Svájc",
+        "közérdekű adat"
+      ],
+      "title": "Háromszázmillió forintot kapott a svájci diplomáciában utazó nagykövetként Nagy István",
+      "subtitle": null,
+      "lead": "Több mint ötéves megbízatása során összesen mintegy 300 millió forintot keresett Nagy István korábbi svájci nagykövet, akit mandátuma lejárta után azonnal utazó nagykövetként foglalkoztattak tovább. Az ügy részletei a Külügyminisztérium közérdekű adatigénylésre adott válaszából váltak ismertté.",
+      "key_points": [
+        "Nagy István svájci külszolgálata és kormányzati jogviszonya 2021. január 21-én ért véget.",
+        "A következő naptól genfi székhellyel, utazó nagykövetként bízták meg a feladattal.",
+        "A megbízatás idejére havi bruttó 4,5 millió forintos díjazást állapítottak meg számára.",
+        "A Hungary in Exile adatai szerint az ötéves időszak alatt összesen 300 millió forintot folyósítottak a diplomata részére."
+      ],
+      "content": "Nagy István korábbi svájci nagykövet kormányzati szolgálati jogviszonya 2021. január 21-én, a határozott idő lejártával szűnt meg. A diplomata azonban nem maradt feladat nélkül, mivel a miniszter már a következő naptól újabb pozíciót bízott rá: utazó nagykövetként, genfi székhellyel folytatta munkáját.\n\nE tevékenységért a diplomata havi bruttó 4,5 millió forintos díjazásban részesült.\n\nA Hungary in Exile oknyomozó oldal a Külügyminisztérium közérdekű adatigénylésre adott válasza alapján számította ki a teljes összeget, amely a több mint ötéves megbízatás alatt elérte a 300 millió forintot.\n\nAz ügy részleteire egy korábbi interjú irányította a figyelmet, amelyben a diplomata élettársa beszélt arról, hogy Nagy Istvánt idén áprilisig állományban tartották a minisztériumban.",
+      "content_format": "markdown",
+      "body": [
+        "Nagy István korábbi svájci nagykövet kormányzati szolgálati jogviszonya 2021. január 21-én, a határozott idő lejártával szűnt meg. A diplomata azonban nem maradt feladat nélkül, mivel a miniszter már a következő naptól újabb pozíciót bízott rá: utazó nagykövetként, genfi székhellyel folytatta munkáját.",
+        "E tevékenységért a diplomata havi bruttó 4,5 millió forintos díjazásban részesült.",
+        "A Hungary in Exile oknyomozó oldal a Külügyminisztérium közérdekű adatigénylésre adott válasza alapján számította ki a teljes összeget, amely a több mint ötéves megbízatás alatt elérte a 300 millió forintot.",
+        "Az ügy részleteire egy korábbi interjú irányította a figyelmet, amelyben a diplomata élettársa beszélt arról, hogy Nagy Istvánt idén áprilisig állományban tartották a minisztériumban."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 144,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nagy_Istv%C3%A1n_fortepan_146866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1245,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Nagy István magyar színész.",
+        "credit": "FOTO:Fortepan — ID 146866: Adományozó/Donor: Szalay Zoltán. / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nagy_Istv%C3%A1n_fortepan_146866.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261015_szazmilliokat-kapott-orban-svajci-bankarakent-emlegetett-nagy-istvan",
+          "title": "Százmilliókat kapott utazó nagykövetként az Orbán svájci bankáraként emlegetett Nagy István",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:22+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Magyarország és más államok, különösen a Svájci Államszövetség, valamint a Liechtensteini Fejedelemség közötti egyes kiemelt fontosságú külgazdasági és gazdaságdiplomáciai ügyek kezelése és a kétoldalú gazdasági kapcsolatok fejlesztésének elősegítése",
+        "who": "Külügyminisztérium",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.28,
+      "title_options": [
+        "Háromszázmillió forintot kapott a svájci diplomáciában utazó nagykövetként Nagy István",
+        "Öt év alatt 300 milliót fizettek ki a volt svájci nagykövetnek",
+        "Utazó nagykövetként dolgozott tovább a leköszönt berni diplomata",
+        "Azonnal új pozíciót kapott a távozó nagykövet, százmilliók vándoroltak a számlájára",
+        "Így keresett harmincmilliókat évente a minisztérium utazó diplomatája",
+        "Közérdekű adatokból derült ki a volt svájci nagykövet milliós fizetése"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nagy_Istv%C3%A1n_fortepan_146866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1245,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Nagy István magyar színész.",
+          "credit": "FOTO:Fortepan — ID 146866: Adományozó/Donor: Szalay Zoltán. / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nagy_Istv%C3%A1n_fortepan_146866.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Nagy_Istv%C3%A1n_%28agr%C3%A1rm%C3%A9rn%C3%B6k%29.jpg/1280px-Nagy_Istv%C3%A1n_%28agr%C3%A1rm%C3%A9rn%C3%B6k%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1798,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Nagy István (Újfehértó, 1967. október 6. –) magyar agrármérnök, politikus, 2010 óta a Fidesz-KDNP országgyűlési képviselője. A Győr-Moson-Sopron megyei 5. számú országgyűlési egyéni választókerület ké",
+          "credit": "Agrárminisztérium / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nagy_Istv%C3%A1n_(agr%C3%A1rm%C3%A9rn%C3%B6k).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Embassy_of_Switzerland%2C_Tokyo.jpg/1280px-Embassy_of_Switzerland%2C_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "embassy",
+          "credit": "Syced / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Embassy_of_Switzerland,_Tokyo.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/20250323_131728999_Embassy_of_Switzerland%2C_Athens.jpg/1280px-20250323_131728999_Embassy_of_Switzerland%2C_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1594,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Embassy of Switzerland, Athens",
+          "credit": "Niegodzisie / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:20250323_131728999_Embassy_of_Switzerland,_Athens.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/093_Wild_Mute_swan_at_Lake_Geneva_during_sunset_Photo_by_Giles_Laurent.jpg/1280px-093_Wild_Mute_swan_at_Lake_Geneva_during_sunset_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Sun setting behind a wild mute swan at Lake Geneva",
+          "credit": "Giles Laurent / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:093_Wild_Mute_swan_at_Lake_Geneva_during_sunset_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/092_Wild_Mute_swan_in_flight_at_Lake_Geneva_during_golden_hour_of_sunset_Photo_by_Giles_Laurent.jpg/1280px-092_Wild_Mute_swan_in_flight_at_Lake_Geneva_during_golden_hour_of_sunset_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Wild Mute swan in flight at Lake Geneva during golden hour of sunset",
+          "credit": "Giles Laurent / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:092_Wild_Mute_swan_in_flight_at_Lake_Geneva_during_golden_hour_of_sunset_Photo_by_Giles_Laurent.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/gc560b79b36b7ec3534e9390dea7342c0ddd878edd80a85a7f911fb1c0b2140cdc1ae5bb4e779363a19257125d5ded9b0_1280.jpg",
+          "width": 4256,
+          "height": 2832,
+          "kind": "photo",
+          "alt": "meeting, addis ababa, ethiopia, hall, conference, people, attendees, room, interior, decor, lighting, meeting, conference, conference, conference, conference, conference",
+          "credit": "12019 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/meeting-addis-ababa-ethiopia-hall-83519/"
+        },
+        {
+          "url": "https://pixabay.com/get/gd57efacb9b30d736b241339850e0d7a30d03f21b29ec73db486fc2e96dc0742365c37246fbacb2abd8689243d3c41a78a4dbe5f6a393087af2112566464e0a65_1280.jpg",
+          "width": 5184,
+          "height": 3456,
+          "kind": "photo",
+          "alt": "putin, the president, camera, russia, tie, journalist, government, putin, putin, putin, putin, putin",
+          "credit": "klimkin / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/putin-the-president-camera-russia-889784/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Százmilliókat kapott utazó nagykövetként az Orbán svájci bankáraként emlegetett Nagy István",
+          "link": "https://hvg.hu/itthon/20261015_szazmilliokat-kapott-orban-svajci-bankarakent-emlegetett-nagy-istvan",
+          "summary": "Korábban svájci nagykövet volt, majd miután megszűnt a kormányzati megbízatása, már másnap új pozíciót kapott.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.28
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261015_szazmilliokat-kapott-orban-svajci-bankarakent-emlegetett-nagy-istvan"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-haromszazmillio-forintot-kapott-a-svajci-diplomaciaban-utazo-nagykove/",
+      "seo": {
+        "meta_title": "Háromszázmillió forintot kapott a svájci diplomáciában utazó",
+        "meta_description": "Több mint ötéves megbízatása során összesen mintegy 300 millió forintot keresett Nagy István korábbi svájci nagykövet, akit mandátuma lejárta után azonnal utazó",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-haromszazmillio-forintot-kapott-a-svajci-diplomaciaban-utazo-nagykove/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Nagy_Istv%C3%A1n_fortepan_146866.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "1edf7bf88853a1dc8efef3554165c72a70ea41d572df0ddd25ee3f8e1c2c000d",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:05:00+02:00",
+      "updated_at": "2026-10-15T14:05:00+02:00",
+      "published_at": "2026-10-15T14:05:00+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:31+00:00",
+        "msg_ids": [
+          6250,
+          6251,
+          6252,
+          6253,
+          6254,
+          6255,
+          6256,
+          6257,
+          6258,
+          6283
+        ],
+        "control_id": 6259
+      },
+      "live": true
+    },
+    {
+      "id": "11f0d033-d1ca-5cef-ad80-cf1f9b33ec9b",
+      "slug": "2026-10-15-teglakkal-dobaljak-a-tiranai-kormanyhivatalt-a-diakok",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Albánia",
+        "Tirana",
+        "tüntetés",
+        "Edi Rama",
+        "külpolitika"
+      ],
+      "title": "Téglákkal dobálják a tiranai kormányhivatalt a diákok",
+      "subtitle": null,
+      "lead": "Második napja tartanak a heves zavargások Tiranában, ahol a demonstrálók az oktatási és a pénzügyminisztérium épületeit is megostromolták. A tüntetők a korrupció és a kilátástalan jövőkép mellett a tengerparti luxusingatlan-fejlesztések ellen emelték fel szavukat.",
+      "key_points": [
+        "Súlyos rongálások történtek az oktatási és a pénzügyminisztériumban, valamint a polgármesteri hivatalban.",
+        "A május óta tartó tüntetéssorozat egyre komolyabb politikai kihívás elé állítja az Edi Rama vezette kormányt.",
+        "A megmozdulások hátterében az egyetemi körülmények romlása és a korrupcióval szembeni elégedetlenség áll."
+      ],
+      "content": "Szerdán lángok csaptak fel az albán oktatási minisztérium épületében, miután a tüntetők fáklyákat hajítottak az ablakokba. A demonstrálók nem álltak meg az oktatási tárcánál: betörték a pénzügyminisztérium ajtajait, és rövid időre bejutottak az épületbe, majd a kormányfő hivatala felé vonulva kövekkel támadtak az őrségre. A két napja tartó erőszakos megmozdulások során az egészségügyi hatóságok összesen tizenkilenc sérültet láttak el, köztük rendőröket, újságírókat és járókelőket.\n\nA kedden a tiranai polgármesteri hivatalban kitört tűzzel kezdődő zavargások a korrupcióellenes mozgalom eddigi legagresszívebb megnyilvánulásai. Edi Rama miniszterelnök kormányának helyzetét tovább nehezíti a tengerparti luxusingatlanok építése körüli társadalmi feszültség, amely naponta tízezreket visz utcára. A tiltakozók szerint az állami támogatások rendszere és a diploma utáni elhelyezkedési lehetőségek hiánya is kritikus szintre jutott.\n\nAlbana Kociu kormányfőhelyettes a közösségi oldalán ítélte el a vandalizmust, hangsúlyozva, hogy a tüntetés joga nem ad felmentést az erőszakos cselekmények alól.",
+      "content_format": "markdown",
+      "body": [
+        "Szerdán lángok csaptak fel az albán oktatási minisztérium épületében, miután a tüntetők fáklyákat hajítottak az ablakokba. A demonstrálók nem álltak meg az oktatási tárcánál: betörték a pénzügyminisztérium ajtajait, és rövid időre bejutottak az épületbe, majd a kormányfő hivatala felé vonulva kövekkel támadtak az őrségre. A két napja tartó erőszakos megmozdulások során az egészségügyi hatóságok összesen tizenkilenc sérültet láttak el, köztük rendőröket, újságírókat és járókelőket.",
+        "A kedden a tiranai polgármesteri hivatalban kitört tűzzel kezdődő zavargások a korrupcióellenes mozgalom eddigi legagresszívebb megnyilvánulásai. Edi Rama miniszterelnök kormányának helyzetét tovább nehezíti a tengerparti luxusingatlanok építése körüli társadalmi feszültség, amely naponta tízezreket visz utcára. A tiltakozók szerint az állami támogatások rendszere és a diploma utáni elhelyezkedési lehetőségek hiánya is kritikus szintre jutott.",
+        "Albana Kociu kormányfőhelyettes a közösségi oldalán ítélte el a vandalizmust, hangsúlyozva, hogy a tüntetés joga nem ad felmentést az erőszakos cselekmények alól."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 174,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg/1280px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1500,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Albanian prime minister Edi Rama giving an interview to ZDF at the ITB Berlin 2025 press conference",
+        "credit": "Matti Blume / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Edi_Rama,_press_conference,_ITB_2025,_Berlin_(ITB56439).jpg"
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Torre_del_Reloj%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_08.JPG/1280px-Torre_del_Reloj%2C_Tirana%2C_Albania%2C_2014-04-17%2C_DD_08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1897,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Clock Tower, Tirana, Albania",
+          "credit": "Diego Delso / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Torre_del_Reloj,_Tirana,_Albania,_2014-04-17,_DD_08.JPG",
+          "after": 1,
+          "caption": "Tirana belvárosa a zavargások helyszíne."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_tiranai-diaktuntetes-demonstracio-oktatasi-miniszterium",
+          "title": "Egyre inkább eldurvulnak a tiranai diáktüntetések",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:26+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Tüntetni legitim jog, de nem szabad erőszak, a város lerombolása vagy az út kellős közepén folytatott csúnya összetűzések ürügyéül használni",
+        "who": "Albana Kociu kormányfőhelyettes",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.25,
+      "title_options": [
+        "Téglákkal dobálják a tiranai kormányhivatalt a diákok",
+        "Lángok és korrupció: eszkalálódik a helyzet Tiranában",
+        "Albánia: betörtek a pénzügyminisztériumba a tüntetők",
+        "Fáklyákkal támadtak a minisztériumra a dühös tüntetők",
+        "Elszabadult az erőszak Tiranában: a kormányhivatalokat ostromolják",
+        "Ezért gyújtottak tüzet az albán főváros közepén a diákok"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg/1280px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1500,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Albanian prime minister Edi Rama giving an interview to ZDF at the ITB Berlin 2025 press conference",
+          "credit": "Matti Blume / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Edi_Rama,_press_conference,_ITB_2025,_Berlin_(ITB56439).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edi_Rama_%282024-02-29%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1475,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Albanian Prime Minister Edi Rama",
+          "credit": "Eriona Çami - European Commission / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Edi_Rama_(2024-02-29).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Tirana_International_Hotel_%28front%29.JPG/1280px-Tirana_International_Hotel_%28front%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 827,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Located in the centre of Tirana (Albania) Tirana International Hotel is one of the main spots of the city.",
+          "credit": "Leeturtle / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tirana_International_Hotel_(front).JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_Road_in_Tirana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "a new road in Tirana near the Centre of the City",
+          "credit": "TiranaCity / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:New_Road_in_Tirana.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Ministry_of_Education%2C_Science_and_Technology_of_Kosovo_on_100_year_anniversary_of_Albanian_independance.JPG/1280px-Ministry_of_Education%2C_Science_and_Technology_of_Kosovo_on_100_year_anniversary_of_Albanian_independance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The Ministry of Education, Science and Technology of Kosovo in Prishtina decorated with Albanian flags for the 100 year anniversary of the Albanian declaration of independence (28 of November 2012).",
+          "credit": "Bdx / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ministry_of_Education,_Science_and_Technology_of_Kosovo_on_100_year_anniversary_of_Albanian_independance.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ministry_of_education_students_protest.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Student protests 2018 in Tirana. Protesters in front of the Ministry of Education and Youth",
+          "credit": "Kevjassintkevin / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ministry_of_education_students_protest.jpeg"
+        },
+        {
+          "url": "https://pixabay.com/get/g5e435664797e1ee784a5594ad90fb0d086dca3dc92cfb18a9741b3c881a40cd3cb603c4cfc8db6a2c389a9a4ff8eb4dc84e5602ac8f9a2db389361a3c7ca1bb2_1280.jpg",
+          "width": 7952,
+          "height": 5304,
+          "kind": "photo",
+          "alt": "riot, protest, street, crowd, laws, regularization, bill, payment, money, pay, tax, expenses, business, bank, vulture funds, manifestation, barcelona, pah, catalonia, catalunya, spain, reflection, peo",
+          "credit": "Antonio_Cansino / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/riot-protest-street-crowd-laws-6129239/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Egyre inkább eldurvulnak a tiranai diáktüntetések",
+          "link": "https://hvg.hu/vilag/20261015_tiranai-diaktuntetes-demonstracio-oktatasi-miniszterium",
+          "summary": "Tűz ütött ki az albán oktatási minisztériumban szerdán a már második napja tartó diáktüntetések során.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.25
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_tiranai-diaktuntetes-demonstracio-oktatasi-miniszterium"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-teglakkal-dobaljak-a-tiranai-kormanyhivatalt-a-diakok/",
+      "seo": {
+        "meta_title": "Téglákkal dobálják a tiranai kormányhivatalt a diákok",
+        "meta_description": "Második napja tartanak a heves zavargások Tiranában, ahol a demonstrálók az oktatási és a pénzügyminisztérium épületeit is megostromolták. A tüntetők a korrupci",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-teglakkal-dobaljak-a-tiranai-kormanyhivatalt-a-diakok/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg/1280px-Edi_Rama%2C_press_conference%2C_ITB_2025%2C_Berlin_%28ITB56439%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2366325447caf2ad983b09a81c044108cc8f2da7e61237e29d003bf4f13e0a86",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:03:26+02:00",
+      "updated_at": "2026-10-15T14:03:26+02:00",
+      "published_at": "2026-10-15T14:03:26+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 bűnügyi tartalom feltételes mód nélkül – „a gyanú szerint”, „nem jogerős”, ártatlanság vélelme",
+          "🟡 bűnügy + kiskorú: ne legyen azonosítható (név, iskola, lakóhely, kép)"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:40+00:00",
+        "msg_ids": [
+          6260,
+          6261,
+          6262,
+          6263,
+          6264,
+          6265,
+          6266,
+          6267
+        ],
+        "control_id": 6268
+      }
+    },
+    {
+      "id": "1af60b30-0ec8-5f69-bd41-eb5a18594c7f",
+      "slug": "2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak",
+      "status": "published",
+      "category": "bulvar",
+      "subcategory": null,
+      "tags": [
+        "Rubint Réka",
+        "egészség",
+        "gyógyulás",
+        "fitnesz"
+      ],
+      "title": "Rubint Réka: Eltűnt az a daganat, amelyet műthetetlennek tartottak",
+      "subtitle": null,
+      "lead": "Jelentős javulásról számolt be Rubint Réka a 2022-ben diagnosztizált daganatos betegségével kapcsolatban. A fitneszedző a legfrissebb frankfurti kezeléseit követően osztotta meg biztató állapotáról szóló fejleményeket.",
+      "key_points": [
+        "A korábban műthetetlennek nyilvánított alapdaganata teljesen felszívódott.",
+        "A tüdejében lévő apróbb gócok szintén eltűntek a vizsgálatok szerint.",
+        "A májában található elváltozások száma a korábbi kilencről négyre csökkent.",
+        "A javulást a daganat vérellátását blokkoló, speciális TACE-kezeléssel érték el."
+      ],
+      "content": "A 2022-ben diagnosztizált betegségével sokáig csendben küzdő Rubint Réka a TV2-nek adott interjúban beszélt arról, hogy a Frankfurtban kapott terápiák hatására látványos változások történtek a szervezetében. A fitneszedző elmondta, hogy az orvosok által korábban megközelíthetetlennek és műtéti úton eltávolíthatatlannak minősített alapdaganata nyomtalanul eltűnt, hasonlóan a hasnyálmirigyénél korábban azonosított gócokhoz.\n\nA javulás a tüdőt is érinti, ahol számos apró, korábban jelen lévő góc szívódott fel. A májban található elváltozások esetében a TACE (transzarteriális kemoembolizáció) eljárás hozott eredményt. Ez a módszer úgy működik, hogy egy katéteren keresztül közvetlenül a daganatba juttatják a hatóanyagot, ezzel elzárva a daganat vérellátását. Ennek köszönhetően a korábban regisztrált kilenc gócról négyre csökkent az elváltozások száma.\n\nBár a fitneszedző a nyilvánosság előtt is nyíltan beszélt a gyógyulásért vívott küzdelméről – ahogy arról korábban beszámoltunk –, a kezelések alatt sem hagyott fel a munkával, és a rendszeres edzésekkel tartotta magát. A tréner hangsúlyozta, hogy a teljes felépülésig vezető harc még nem ért véget, de az orvosi kontrollvizsgálatok mostanra egyértelműen pozitív irányú változásokat mutattak ki a szervezetében.",
+      "content_format": "markdown",
+      "body": [
+        "A 2022-ben diagnosztizált betegségével sokáig csendben küzdő Rubint Réka a TV2-nek adott interjúban beszélt arról, hogy a Frankfurtban kapott terápiák hatására látványos változások történtek a szervezetében. A fitneszedző elmondta, hogy az orvosok által korábban megközelíthetetlennek és műtéti úton eltávolíthatatlannak minősített alapdaganata nyomtalanul eltűnt, hasonlóan a hasnyálmirigyénél korábban azonosított gócokhoz.",
+        "A javulás a tüdőt is érinti, ahol számos apró, korábban jelen lévő góc szívódott fel. A májban található elváltozások esetében a TACE (transzarteriális kemoembolizáció) eljárás hozott eredményt. Ez a módszer úgy működik, hogy egy katéteren keresztül közvetlenül a daganatba juttatják a hatóanyagot, ezzel elzárva a daganat vérellátását. Ennek köszönhetően a korábban regisztrált kilenc gócról négyre csökkent az elváltozások száma.",
+        "Bár a fitneszedző a nyilvánosság előtt is nyíltan beszélt a gyógyulásért vívott küzdelméről – ahogy arról korábban beszámoltunk –, a kezelések alatt sem hagyott fel a munkával, és a rendszeres edzésekkel tartotta magát. A tréner hangsúlyozta, hogy a teljes felépülésig vezető harc még nem ért véget, de az orvosi kontrollvizsgálatok mostanra egyértelműen pozitív irányú változásokat mutattak ki a szervezetében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 193,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1483,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "A screenshot of a YouTube video news report featuring Réka Rubint, uploaded and created by the Tolnatàj Television channel.",
+        "credit": "Tolnatáj Television / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9kaRubint2019.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/elet/20261015_rubint-reka-a-rakbetegsegerol-nyilatkozott",
+          "title": "„Az alapdaganatom eltűnt” – Rubint Réka a rákbetegségéről nyilatkozott",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:26+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az alapdaganatom, amihez senki nem tudott hozzáférni, mert azt mondták, hogy megközelíthetetlen, tehát még műtéti úton sem eltávolítható, eltűnt.",
+        "who": "Rubint Réka, fitneszedző",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.18,
+      "title_options": [
+        "Rubint Réka: Eltűnt az a daganat, amelyet műthetetlennek tartottak",
+        "Jelentős javulás Rubint Réka egészségi állapotában",
+        "Rubint Réka beszámolt a legfrissebb orvosi eredményeiről",
+        "„Eltűnt az alapdaganatom” – Rubint Réka megtörte a csendet",
+        "Rubint Réka drámai vallomása: így küzd a betegséggel",
+        "Meglepő orvosi híreket közölt a fitneszedző a kezeléseiről"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1483,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "A screenshot of a YouTube video news report featuring Réka Rubint, uploaded and created by the Tolnatàj Television channel.",
+          "credit": "Tolnatáj Television / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9kaRubint2019.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Medical_Treatment_for_IDF_Soldiers_at_the_Gaza_Border_%2814753061186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 902,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "During Operation Protective Edge, many IDF soldiers were lightly injured. After medical treatment by IDF medics, they returned to combat in Gaza with their fellow soldiers.\n29/7/2014\n\nFor more updates",
+          "credit": "Israel Defense Forces / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Medical_Treatment_for_IDF_Soldiers_at_the_Gaza_Border_(14753061186).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Injured_Palestinians_receive_medical_treatment_at_Al-Aqsa_Martyrs_hospital_after_an_Israeli_airstrike_in_Deir_el-Balah%2C_Gaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Injured Palestinians receive medical treatment at Al-Aqsa Martyrs hospital after an Israeli airstrike in Deir el-Balah, Gaza",
+          "credit": "Ashraf Amra / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 igo",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Injured_Palestinians_receive_medical_treatment_at_Al-Aqsa_Martyrs_hospital_after_an_Israeli_airstrike_in_Deir_el-Balah,_Gaza.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_Frankfurt_am_Main_2015.jpg/1280px-Skyline_Frankfurt_am_Main_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 843,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Skyline of Frankfurt am Main, Germany.",
+          "credit": "Christian Wolf (www.c-w-design.de) / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 de",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Skyline_Frankfurt_am_Main.jpg/1280px-Skyline_Frankfurt_am_Main.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Downtown Frankfurt am Main, Germany; seen from Deutschherrn Bridge.",
+          "credit": "Nicolas Scheuer / Wikimedia Commons",
+          "license": "CC BY-SA 2.5",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/ga45ba3280398477a090776853162f28a04fe2868285742d9de80fd7971c65e7f8315ce97d28e09341037da3746206fa1de78fc4840d69648ab3253cd09d08b48_1280.jpg",
+          "width": 5472,
+          "height": 3648,
+          "kind": "photo",
+          "alt": "woman, personal trainer, fitness, exercise, workout, strength training, coach, dumbbells, weight bench, weight training, healthy, caucasian, personal trainer, personal trainer, personal trainer, perso",
+          "credit": "5132824 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/woman-personal-trainer-fitness-2260736/"
+        },
+        {
+          "url": "https://pixabay.com/get/g9e47ddc31b248ee57484680fe2a6a6b6079716e3a657f70395d687b60c59ef72572de0641fc10e9c2dd4e5d94ff5f18b8b0d46501249aa7bc55a1c3ec0743b6f_1280.jpg",
+          "width": 4752,
+          "height": 3168,
+          "kind": "photo",
+          "alt": "running shoe, shoe, brooks, highly functional, running, enthusiastic about sports, sports shoe, shoe market, sports, leisure time, product photo, fitness, athletic, dynamic, women, shoe, shoe, shoe, s",
+          "credit": "stux / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/running-shoe-shoe-brooks-371624/"
+        }
+      ],
+      "story": [
+        {
+          "title": "„Az alapdaganatom eltűnt” – Rubint Réka a rákbetegségéről nyilatkozott",
+          "link": "https://hvg.hu/elet/20261015_rubint-reka-a-rakbetegsegerol-nyilatkozott",
+          "summary": "„A májamban jelenleg 9 góc helyett 4 db góc van” – mondta el a fitneszedző",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.18
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/elet/20261015_rubint-reka-a-rakbetegsegerol-nyilatkozott"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/bulvar/2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak/",
+      "seo": {
+        "meta_title": "Rubint Réka: Eltűnt az a daganat, amelyet műthetetlennek tar",
+        "meta_description": "Jelentős javulásról számolt be Rubint Réka a 2022-ben diagnosztizált daganatos betegségével kapcsolatban. A fitneszedző a legfrissebb frankfurti kezeléseit köve",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "aad5c312-6f73-52a8-8d5f-1d463f09f75d"
+      ],
+      "see_also": [
+        {
+          "title": "Újabb nehéz vizsgálat előtt áll a fitneszkirálynő",
+          "url": "/bulvar/2026-10-02-ujabb-nehez-vizsgalat-elott-all-a-fitneszkiralyno/",
+          "date": "2026-10-02"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "579e14255aabd8d2c3d2f01df3d8c0b5eb312a9d0d074754cad805413d905ab8",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:05:01+02:00",
+      "updated_at": "2026-10-15T14:05:01+02:00",
+      "published_at": "2026-10-15T14:05:01+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:48+00:00",
+        "msg_ids": [
+          6269,
+          6270,
+          6271,
+          6272,
+          6273,
+          6274,
+          6275,
+          6276,
+          6284
+        ],
+        "control_id": 6277
+      },
+      "live": true
+    },
+    {
+      "id": "6b6f58f2-c64a-538f-bcf4-e5a013da627f",
+      "slug": "2026-10-15-banki-erik-csaladjanak-kert-diplomata-utlevelet-az-obudai-korrupcios",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Bánki Erik",
+        "Hungast",
+        "diplomata-útlevél",
+        "korrupció",
+        "Külügyminisztérium"
+      ],
+      "title": "Bánki Erik családjának kért diplomata-útlevelet az óbudai korrupciós botrány érintettje",
+      "subtitle": null,
+      "lead": "Bánki Erik kezdeményezésére kapott diplomata-útlevelet György Tamás, az óbudai korrupciós ügyben érintett Hungast-csoport tulajdonosa. A fideszes országgyűlési képviselő tagadja a személyes közbenjárást, azt viszont elismerte, hogy családtagjai számára igényelt ilyen okmányt.",
+      "key_points": [
+        "Bánki Erik kezdeményezésére kapott diplomata-útlevelet György Tamás, a Hungast tulajdonosa.",
+        "A külügyi tájékoztatás szerint a kérelmet a gyakori külföldi utazásokkal indokolták.",
+        "Az okmányt Szijjártó Péter engedélyével állították ki, majd Orbán Anita külügyminiszter vonta vissza.",
+        "Bánki Erik tagadja a személyes közbenjárást, de elismerte, hogy családja számára kezdeményezte az útlevél kiadását."
+      ],
+      "content": "Bánki Erik fideszes országgyűlési képviselő kezdeményezésére kapott diplomata-útlevelet György Tamás, az óbudai korrupciós ügyben érintett, közétkeztetéssel foglalkozó Hungast-csoport tulajdonosa – írta a 24.hu a Külgazdasági és Külügyminisztérium tájékoztatására hivatkozva. A hivatalos indoklás szerint az okmány megkönnyítette volna a vállalkozó gyakori, elsősorban határon túli munkavégzését.\n\nA diplomata-útlevelet Szijjártó Péter akkori külgazdasági és külügyminiszter engedélyével 2022. december 19-én állították ki. Az érvényessége idén november 30-ig szólt volna, ám\n\nA Hungast Magyarország egyik legnagyobb közétkeztetési cégcsoportja, amely tizenhat vármegyében van jelen, és a Fidesz-kormányok alatt jelentős piaci sikereket ért el.\n\nBánki Erik a lap megkeresésére tagadta, hogy személyesen járt volna közben György diplomata-útlevelének ügyében, arra viszont nem tért ki, hogy írásban kérte-e az okmányt. A politikus leszögezte, hogy nem áll üzleti kapcsolatban a Hungast tulajdonosával, ugyanakkor családja számára elismerte a kérelmezést.\n\nA külügyi tájékoztatás mellett más események is árnyalják a kapcsolatot: Fendler Judit, a Szegedi Tudományegyetem kancellárja a Partizánnak nyilatkozva elmondta, hogy amikor az intézmény kórházainak étkeztetési szolgáltatásait a Hungast próbálta megszerezni, a tárgyaláson György mellett Bánki Erik is megjelent.\n\nAugusztusban az is kiderült, hogy Bánki 2020-ban két hónapig abban a harmadik kerületi, hatszobás, medencés luxusingatlanban lakott, amely a korrupciós botrány központi cégének egyik vezetőjéhez köthető. Emellett a politikus időnként a Hungast Flotta Kft. tulajdonában lévő autót használta, fia pedig olyan gazdasági társaságokban volt érdekelt, amelyekben a Hungast tulajdonosa is feltűnt.",
+      "content_format": "markdown",
+      "body": [
+        "Bánki Erik fideszes országgyűlési képviselő kezdeményezésére kapott diplomata-útlevelet György Tamás, az óbudai korrupciós ügyben érintett, közétkeztetéssel foglalkozó Hungast-csoport tulajdonosa – írta a 24.hu a Külgazdasági és Külügyminisztérium tájékoztatására hivatkozva. A hivatalos indoklás szerint az okmány megkönnyítette volna a vállalkozó gyakori, elsősorban határon túli munkavégzését.",
+        "A diplomata-útlevelet Szijjártó Péter akkori külgazdasági és külügyminiszter engedélyével 2022. december 19-én állították ki. Az érvényessége idén november 30-ig szólt volna, ám",
+        "A Hungast Magyarország egyik legnagyobb közétkeztetési cégcsoportja, amely tizenhat vármegyében van jelen, és a Fidesz-kormányok alatt jelentős piaci sikereket ért el.",
+        "Bánki Erik a lap megkeresésére tagadta, hogy személyesen járt volna közben György diplomata-útlevelének ügyében, arra viszont nem tért ki, hogy írásban kérte-e az okmányt. A politikus leszögezte, hogy nem áll üzleti kapcsolatban a Hungast tulajdonosával, ugyanakkor családja számára elismerte a kérelmezést.",
+        "A külügyi tájékoztatás mellett más események is árnyalják a kapcsolatot: Fendler Judit, a Szegedi Tudományegyetem kancellárja a Partizánnak nyilatkozva elmondta, hogy amikor az intézmény kórházainak étkeztetési szolgáltatásait a Hungast próbálta megszerezni, a tárgyaláson György mellett Bánki Erik is megjelent.",
+        "Augusztusban az is kiderült, hogy Bánki 2020-ban két hónapig abban a harmadik kerületi, hatszobás, medencés luxusingatlanban lakott, amely a korrupciós botrány központi cégének egyik vezetőjéhez köthető. Emellett a politikus időnként a Hungast Flotta Kft. tulajdonában lévő autót használta, fia pedig olyan gazdasági társaságokban volt érdekelt, amelyekben a Hungast tulajdonosa is feltűnt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 260,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792065857-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792065857-0.jpg",
+        "kind": "photo",
+        "alt": "Bánki Erik családjának kért diplomata-útlevelet az óbudai korrupciós botrány érintettje",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261015_banki-erik-diplomata-utlevel-hungast-gyorgy-tamas-kulugyminiszterium",
+          "title": "A külügy szerint Bánki Erik kért diplomata-útlevelet a Hungast tulajdonosának",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:21+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.53,
+      "title_options": [
+        "Bánki Erik családjának kért diplomata-útlevelet az óbudai korrupciós botrány érintettje",
+        "Diplomata-útlevél és Hungast: Bánki Erik magyarázata a családi iratokról",
+        "Ilyen indokkal intézett diplomata-útlevelet a fideszes politikus a Hungast tulajdonosának",
+        "Meglepő részletek derültek ki Bánki Erik és a korrupciós ügyben érintett cég kapcsolatáról",
+        "Medencés luxusingatlan és diplomata-útlevelek: ez is belefér a magyar közéletbe?"
+      ],
+      "clickbait_from": 2,
+      "image_options": [
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792065857-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792065857-0.jpg",
+          "kind": "photo",
+          "alt": "Bánki Erik családjának kért diplomata-útlevelet az óbudai korrupciós botrány érintettje",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792065859-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792065859-1.jpg",
+          "kind": "photo",
+          "alt": "Bánki Erik családjának kért diplomata-útlevelet az óbudai korrupciós botrány érintettje",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        }
+      ],
+      "story": [
+        {
+          "title": "A külügy szerint Bánki Erik kért diplomata-útlevelet a Hungast tulajdonosának",
+          "link": "https://hvg.hu/itthon/20261015_banki-erik-diplomata-utlevel-hungast-gyorgy-tamas-kulugyminiszterium",
+          "summary": "A fideszes politikus tagadja, hogy személyesen járt volna közben az okmányért az óbudai korrupciós botrányban érintett cég tulajdonosa számára. Azt ugyanakkor elismerte, hogy a családjának kért ilyen útlevelet.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.53
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261015_banki-erik-diplomata-utlevel-hungast-gyorgy-tamas-kulugyminiszterium"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-banki-erik-csaladjanak-kert-diplomata-utlevelet-az-obudai-korrupcios/",
+      "seo": {
+        "meta_title": "Bánki Erik családjának kért diplomata-útlevelet az óbudai ko",
+        "meta_description": "Bánki Erik kezdeményezésére kapott diplomata-útlevelet György Tamás, az óbudai korrupciós ügyben érintett Hungast-csoport tulajdonosa. A fideszes országgyűlési ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-banki-erik-csaladjanak-kert-diplomata-utlevelet-az-obudai-korrupcios/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792065857-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "25139b2f8e60d1e8f5e32d5545a744747c24cfe036cbeccc7ba06893f4f89565",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:05:02+02:00",
+      "updated_at": "2026-10-15T14:05:02+02:00",
+      "published_at": "2026-10-15T14:05:02+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-15T12:04:56+00:00",
+        "msg_ids": [
+          6278,
+          6279,
+          6280,
+          6285
+        ],
+        "control_id": 6281
+      },
+      "live": true
     }
   ]
 }
