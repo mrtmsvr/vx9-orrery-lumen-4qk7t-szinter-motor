@@ -13395,13 +13395,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-15T19:07:28+00:00",
-        "msg_ids": [
-          6512,
-          6513,
-          6514
-        ],
-        "control_id": 6515
-      }
+        "msg_ids": [],
+        "control_id": 6515,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 23:07 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-15T23:07:36+02:00"
     },
     {
       "id": "2b10218f-4dbe-55a2-b6cf-3254e61ea9c4",
