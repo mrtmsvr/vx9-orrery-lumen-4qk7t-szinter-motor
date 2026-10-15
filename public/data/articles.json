@@ -1,7 +1,324 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T16:33:19+02:00",
+  "updated_at": "2026-10-15T16:33:55+02:00",
   "articles": [
+    {
+      "id": "c8c38355-d991-5956-b385-32a1fb53e3b7",
+      "slug": "2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Alkotmánybíróság",
+        "Kúria",
+        "közérdekű adat",
+        "bíróság",
+        "jogállamiság"
+      ],
+      "title": "Az Alkotmánybíróság megsemmisítette a Kúria vitatott döntését",
+      "subtitle": null,
+      "lead": "Az új összetételű Alkotmánybíróság megsemmisítette a Kúria egyik ítéletét egy közérdekű adatigénylési perben. A testület álláspontja szerint a bíróságok nem korlátozhatják önkényesen saját működésük nyilvánosságát.",
+      "key_points": [
+        "Egy állampolgár 2020-ban kezdeményezett bírósági adatigénylésekkel kapcsolatban fordult jogorvoslatért.",
+        "A Kúria korábbi döntése szerint a kért információk nem minősültek közérdekű adatnak.",
+        "Az Alkotmánybíróság megállapította, hogy a Kúria jogértelmezése alaptörvény-ellenesen korlátozta az alapjogokat."
+      ],
+      "content": "Egy állampolgár 2020-ban adatigényléssel fordult a Fővárosi Ítélőtáblához, hogy megtudja, hány adatigénylést továbbítottak a benyújtástól számított tizenöt napon belül az Országos Bírósági Hivatalnak (OBH), és ezek közül hány esetben kaptak javaslatot az OBH-tól a megválaszolásra. Az ítélőtábla azzal az indokkal tagadta meg az adatok kiadását, hogy azok veszélyeztetnék az ítélkezés és a bírósági igazgatás rendjét.\n\nA felperes bírósághoz fordult: az első fokú elutasítás után a másodfokú bíróság helyt adott a keresetnek, ám a Kúria hatályon kívül helyezte ezt a döntést. A Kúria érvelése szerint a kért adatok nem írják le az igazságszolgáltatás munkáját, nem tekinthetők a bíróság közfeladatával összefüggésben keletkezett információnak, és nem segítik elő a bíróságok működésével kapcsolatos tájékozott véleményformálást.\n\nAz Alkotmánybírósághoz benyújtott panasz szerint a kúriai ítélet sértette a véleménynyilvánítási és tájékozódási jogot, továbbá az emberi méltóságot is egy megalapozatlan, önkényes indokolással. Az Ab a panaszosnak adott igazat, rögzítve, hogy nincs olyan alkotmányos érték, amely igazolná a Kúria által alkalmazott korlátozást.\n\nA testület határozata értelmében a bíróság adatkezelőként nem dönthet önkényesen arról, hogy a kért adatok elősegítik-e a tájékozott véleményformálást. Az ügy visszakerül a Kúriához, amelynek az Alkotmánybíróság döntése alapján új eljárást kell lefolytatnia.",
+      "content_format": "markdown",
+      "body": [
+        "Egy állampolgár 2020-ban adatigényléssel fordult a Fővárosi Ítélőtáblához, hogy megtudja, hány adatigénylést továbbítottak a benyújtástól számított tizenöt napon belül az Országos Bírósági Hivatalnak (OBH), és ezek közül hány esetben kaptak javaslatot az OBH-tól a megválaszolásra. Az ítélőtábla azzal az indokkal tagadta meg az adatok kiadását, hogy azok veszélyeztetnék az ítélkezés és a bírósági igazgatás rendjét.",
+        "A felperes bírósághoz fordult: az első fokú elutasítás után a másodfokú bíróság helyt adott a keresetnek, ám a Kúria hatályon kívül helyezte ezt a döntést. A Kúria érvelése szerint a kért adatok nem írják le az igazságszolgáltatás munkáját, nem tekinthetők a bíróság közfeladatával összefüggésben keletkezett információnak, és nem segítik elő a bíróságok működésével kapcsolatos tájékozott véleményformálást.",
+        "Az Alkotmánybírósághoz benyújtott panasz szerint a kúriai ítélet sértette a véleménynyilvánítási és tájékozódási jogot, továbbá az emberi méltóságot is egy megalapozatlan, önkényes indokolással. Az Ab a panaszosnak adott igazat, rögzítve, hogy nincs olyan alkotmányos érték, amely igazolná a Kúria által alkalmazott korlátozást.",
+        "A testület határozata értelmében a bíróság adatkezelőként nem dönthet önkényesen arról, hogy a kért adatok elősegítik-e a tájékozott véleményformálást. Az ügy visszakerül a Kúriához, amelynek az Alkotmánybíróság döntése alapján új eljárást kell lefolytatnia."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 214,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg/1280px-Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Building of the Constitutional Court of Hungary. Here is a Zsolt Náray plaque-relief by Hargita Mecseki (2009 marble plaque, bronze relief). Formerly here was (built to) the Computer Coordination Ins",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Don%C3%A1tistrasse_35-45,_2024_Budapest.jpg",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261015_a-birosagok-sajat-mukodesuk-nyilvanossagat-sem-korlatozhatjak-szubjektiv-szempontok-szerint",
+          "title": "Ab: A bíróságok saját működésük nyilvánosságát sem korlátozhatják szubjektív szempontok szerint",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:32:02+02:00"
+        }
+      ],
+      "quote": {
+        "text": "miután semmilyen következtetést nem tudsz levonni a kiadni kért adatokból, ezért megkímélünk attól, hogy az adatokat megkapd",
+        "who": "panaszos az Alkotmánybírósághoz benyújtott beadványában",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T16:33:55+02:00"
+      },
+      "hot_score": 5.37,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261015_a-birosagok-sajat-mukodesuk-nyilvanossagat-sem-korlatozhatjak-szubjektiv-szempontok-szerint"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset/",
+      "seo": {
+        "meta_title": "Az Alkotmánybíróság megsemmisítette a Kúria vitatott döntésé",
+        "meta_description": "Az új összetételű Alkotmánybíróság megsemmisítette a Kúria egyik ítéletét egy közérdekű adatigénylési perben. A testület álláspontja szerint a bíróságok nem kor",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg/1280px-Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "31114cf31294b8a4b6bbb24aa40473d821e36573c9cd5b901631f072927bdfa7",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:33:55+02:00",
+      "updated_at": "2026-10-15T16:33:55+02:00",
+      "published_at": "2026-10-15T16:33:55+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "818f5285-36b4-5fc3-8b9e-8c11286949f3",
+      "slug": "2026-10-15-uj-szocialis-kata-es-vagyonado-a-kamara-javaslatai",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "MKIK",
+        "Pénzügyminisztérium",
+        "kata",
+        "vagyonadó",
+        "adózás"
+      ],
+      "title": "Új szociális kata és vagyonadó: a kamara javaslatai",
+      "subtitle": null,
+      "lead": "A Magyar Kereskedelmi és Iparkamara (MKIK) hivatalosan is benyújtotta a Pénzügyminisztériumnak a katát és a vagyonadót érintő módosító javaslatait. A javaslatcsomag egyebek mellett egy új szociális adózási forma bevezetését és a vállalkozói tőke mentesítését szorgalmazza.",
+      "key_points": [
+        "Az MKIK szociális katát vezetne be a rászoruló kisvállalkozóknak.",
+        "A kamara a kisadózók társadalombiztosítási jogainak bővítését kéri.",
+        "A vállalkozói vagyonra vonatkozó adónál mentességet vagy beszámítási rendszert javasolnak.",
+        "A javaslat célja az arányos közteherviselés mellett a vállalkozói források védelme."
+      ],
+      "content": "A Magyar Kereskedelmi és Iparkamara javaslata szerint a kisadózó vállalkozók számára fizetendő, 15 százalékos kiegészítő adó egy részének az ellátási alapot kellene növelnie. A szervezet szerint ugyanis a jelenlegi tervek alapján 2027-től havi 317 ezer forintos alap járna a főfoglalkozásúaknak, függetlenül a befizetett többletadótól, amit a kamara igazságtalannak tart. A cél az, hogy a járulékok fejében érdemben javuljon az érintettek későbbi nyugdíjának és táppénzének összege.\n\nA szociális kata bevezetését olyan szűkebb rétegek számára indítványozzák, mint a kistelepüléseken élők, a kisgyermeket nevelők, az ápolási feladatokat ellátók vagy a megváltozott munkaképességűek. Az évi 6 millió forintos bevételi határig választható konstrukció 3 millió forintig havi 50 ezer forintos tételes adót, az afeletti résznél pedig 15 százalékos közterhet írna elő, szigorú feltételekkel az adóelkerülés megelőzésére.\n\nA vagyonadó kapcsán a kamara éles különbséget tenne a magánvagyont és a működő vállalkozói tőkét képező eszközök, például a gépek és az ingatlanok között. Az MKIK attól tart, hogy a vállalkozói vagyon megadóztatása osztalékfelvételre vagy cégeladásra kényszerítheti a tulajdonosokat, ami veszélyeztetné a hazai vállalkozások fejlődését. Ennek elkerülése érdekében teljes mentességet kérnének a tényleges gazdasági tevékenységet folytató cégek tulajdonosainak.\n\nAmennyiben a kormányzat elvetné a teljes adómentességet, az MKIK egy beszámítási rendszert javasol. Ebben a modellben a vagyonadóból levonható lenne a már befizetett társasági adó vagy kiva, valamint a cég által a munkavállalók után megfizetett adók és járulékok tulajdoni hányadra eső része. A kamara kifejezte készségét az elemzési és szakmai támogatásra a szabályozás finomhangolásában.",
+      "content_format": "markdown",
+      "body": [
+        "A Magyar Kereskedelmi és Iparkamara javaslata szerint a kisadózó vállalkozók számára fizetendő, 15 százalékos kiegészítő adó egy részének az ellátási alapot kellene növelnie. A szervezet szerint ugyanis a jelenlegi tervek alapján 2027-től havi 317 ezer forintos alap járna a főfoglalkozásúaknak, függetlenül a befizetett többletadótól, amit a kamara igazságtalannak tart. A cél az, hogy a járulékok fejében érdemben javuljon az érintettek későbbi nyugdíjának és táppénzének összege.",
+        "A szociális kata bevezetését olyan szűkebb rétegek számára indítványozzák, mint a kistelepüléseken élők, a kisgyermeket nevelők, az ápolási feladatokat ellátók vagy a megváltozott munkaképességűek. Az évi 6 millió forintos bevételi határig választható konstrukció 3 millió forintig havi 50 ezer forintos tételes adót, az afeletti résznél pedig 15 százalékos közterhet írna elő, szigorú feltételekkel az adóelkerülés megelőzésére.",
+        "A vagyonadó kapcsán a kamara éles különbséget tenne a magánvagyont és a működő vállalkozói tőkét képező eszközök, például a gépek és az ingatlanok között. Az MKIK attól tart, hogy a vállalkozói vagyon megadóztatása osztalékfelvételre vagy cégeladásra kényszerítheti a tulajdonosokat, ami veszélyeztetné a hazai vállalkozások fejlődését. Ennek elkerülése érdekében teljes mentességet kérnének a tényleges gazdasági tevékenységet folytató cégek tulajdonosainak.",
+        "Amennyiben a kormányzat elvetné a teljes adómentességet, az MKIK egy beszámítási rendszert javasol. Ebben a modellben a vagyonadóból levonható lenne a már befizetett társasági adó vagy kiva, valamint a cég által a munkavállalók után megfizetett adók és járulékok tulajdoni hányadra eső része. A kamara kifejezte készségét az elemzési és szakmai támogatásra a szabályozás finomhangolásában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 269,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg/1280px-A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Former Chamber of Commerce and Industry facade detail. Commerce and Industry allegorical building decoration Limestone statues by Adorján Horváth in 1909. - #5 Szent István Street (Route 1) , Győr,",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja,_2017_Gy%C5%91r.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261015/megerkeztek-a-kamara-javaslatai-letrehoznak-a-szocialis-katat-a-vagyonadon-is-alakitananak-869942",
+          "title": "Megérkeztek a kamara javaslatai: létrehoznák a szociális katát, a vagyonadón is alakítanának",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:31:55+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T16:33:54+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261015/megerkeztek-a-kamara-javaslatai-letrehoznak-a-szocialis-katat-a-vagyonadon-is-alakitananak-869942"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-uj-szocialis-kata-es-vagyonado-a-kamara-javaslatai/",
+      "seo": {
+        "meta_title": "Új szociális kata és vagyonadó: a kamara javaslatai",
+        "meta_description": "A Magyar Kereskedelmi és Iparkamara (MKIK) hivatalosan is benyújtotta a Pénzügyminisztériumnak a katát és a vagyonadót érintő módosító javaslatait. A javaslatcs",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-uj-szocialis-kata-es-vagyonado-a-kamara-javaslatai/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg/1280px-A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "40c5fe0f-3109-5f27-82fc-d9c99d6eae55"
+      ],
+      "see_also": [
+        {
+          "title": "Ezt hozza a jövő a kisvállalkozóknak a kamara legújabb terve szerint",
+          "url": "/penzvilag/2026-10-08-ezt-hozza-a-jovo-a-kisvallalkozoknak-a-kamara-legujabb-terve-szerint/",
+          "date": "2026-10-08"
+        }
+      ],
+      "thread_id": "40c5fe0f-3109-5f27-82fc-d9c99d6eae55",
+      "dedupe_hash": "469c77935da2b820932ebd8f9ddada0a8340c2a40a8a6b92f2609e597296f7f5",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:33:54+02:00",
+      "updated_at": "2026-10-15T16:33:54+02:00",
+      "published_at": "2026-10-15T16:33:54+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "d66dabeb-9851-50d1-b05e-c98cf6a66f45",
+      "slug": "2026-10-15-lazadas-a-kolibri-szinhazban-a-tarsulat-igazgatojanak-tavozasat-kovet",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Kolibri Színház",
+        "színház",
+        "budapesti közélet",
+        "kultúra"
+      ],
+      "title": "Lázadás a Kolibri Színházban: a társulat igazgatójának távozását követeli",
+      "subtitle": null,
+      "lead": "A Kolibri Színház közössége a fenntartó minisztériumhoz és a fővároshoz fordult, hogy vizsgálják ki az intézményben kialakult tarthatatlan munkakörülményeket. Emellett a 2025‑ben kinevezett igazgató, Zalán János munkáltatói jogköreinek felfüggesztését kéri a belső vizsgálat időtartama alatt.",
+      "key_points": [
+        "A színház dolgozói nepotizmust, megfigyelést és a szakmai koncepció hiányát sérelmeznek.",
+        "Zalán János 2025‑ös kinevezése óta közel harminc munkatárs mondott fel az intézményből.",
+        "A kollektíva szerint a színház vezetése elhanyagolja a gyermekközönség igényeit.",
+        "A dolgozók az elviselhetetlenné vált légkör miatt sürgetik egy új igazgatói pályázat kiírását."
+      ],
+      "content": "A budapesti Jókai téren működő Kolibri Színház társulata a nyilvánossághoz fordult, miután a korábbi, hivatalos csatornákon keresztül elküldött jelzéseikre sem a fenntartó minisztérium, sem a főváros nem reagált érdemben. A munkavállalók a szakmai minimumok hiányát és egy besúgóhálózat kiépülését is felhívták, mely szerintük ellehetetlenítette a művészi alkotómunka folyamatát.\n\nA feszültség 2025‑re nyúlik vissza, amikor Hankó Balázs akkori kulturális és innovációs miniszter Zalán Jánost nevezte ki az intézmény élére. A döntést követően a társulat jelentős része, összesen harminc munkavállaló, tiltakozásul távozott, amit az akkori vezetés nem tekintett válsághelyzetnek. A jelenlegi közlemény szerint a színházban uralkodó légkör azóta tovább romlott, a vezetéshez hűséges körök előnyben részesítése pedig megosztotta a csapatot.\n\nA dolgozók szerint a jelenlegi vezetés alatt a színház működése gyári jellegűvé vált, ahol a felügyeleti hiány miatt a kollégák valódi koncepció nélkül dolgoznak. Emellett kifogásolják, hogy az előadások során a szakmai szempontok helyett a profitorientált szemlélet dominál, ami ellentétes az alapító okiratban lefektetett gyermekbarát kulturális célkitűzésekkel. A társulat jelenleg névtelenül kéri a vizsgálatot, tartva a vezetőség esetleges retorzióitól.\n\nAz ügyre reagálva a színház vezetése bejelentette, hogy hivatalos közösségi média felületeiken a jövőben nem engedélyezik a pártpolitikai tartalmak vagy az agitáció megjelenését. Ezzel szemben a társulat továbbra is egy új, átlátható igazgatói pályázat kiírását sürgeti, hogy véget érjen a szakmai bizalomvesztés és a bizonytalanság korszaka.",
+      "content_format": "markdown",
+      "body": [
+        "A budapesti Jókai téren működő Kolibri Színház társulata a nyilvánossághoz fordult, miután a korábbi, hivatalos csatornákon keresztül elküldött jelzéseikre sem a fenntartó minisztérium, sem a főváros nem reagált érdemben. A munkavállalók a szakmai minimumok hiányát és egy besúgóhálózat kiépülését is felhívták, mely szerintük ellehetetlenítette a művészi alkotómunka folyamatát.",
+        "A feszültség 2025‑re nyúlik vissza, amikor Hankó Balázs akkori kulturális és innovációs miniszter Zalán Jánost nevezte ki az intézmény élére. A döntést követően a társulat jelentős része, összesen harminc munkavállaló, tiltakozásul távozott, amit az akkori vezetés nem tekintett válsághelyzetnek. A jelenlegi közlemény szerint a színházban uralkodó légkör azóta tovább romlott, a vezetéshez hűséges körök előnyben részesítése pedig megosztotta a csapatot.",
+        "A dolgozók szerint a jelenlegi vezetés alatt a színház működése gyári jellegűvé vált, ahol a felügyeleti hiány miatt a kollégák valódi koncepció nélkül dolgoznak. Emellett kifogásolják, hogy az előadások során a szakmai szempontok helyett a profitorientált szemlélet dominál, ami ellentétes az alapító okiratban lefektetett gyermekbarát kulturális célkitűzésekkel. A társulat jelenleg névtelenül kéri a vizsgálatot, tartva a vezetőség esetleges retorzióitól.",
+        "Az ügyre reagálva a színház vezetése bejelentette, hogy hivatalos közösségi média felületeiken a jövőben nem engedélyezik a pártpolitikai tartalmak vagy az agitáció megjelenését. Ezzel szemben a társulat továbbra is egy új, átlátható igazgatói pályázat kiírását sürgeti, hogy véget érjen a szakmai bizalomvesztés és a bizonytalanság korszaka."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 250,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kolibri_Sz%C3%ADnh%C3%A1z%2C_J%C3%B3kai_t%C3%A9r%2C_2016_Ter%C3%A9zv%C3%A1ros.jpg/1280px-Kolibri_Sz%C3%ADnh%C3%A1z%2C_J%C3%B3kai_t%C3%A9r%2C_2016_Ter%C3%A9zv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Kolibri Theater. - 10 Jókai square, Budapest District VI. Hungary.",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kolibri_Sz%C3%ADnh%C3%A1z,_J%C3%B3kai_t%C3%A9r,_2016_Ter%C3%A9zv%C3%A1ros.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261015_vizsgalatot-kernek-a-kolibri-szinhaz-dolgozoi",
+          "title": "Vizsgálatot és új igazgatói pályázatot kérnek a Kolibri Színház dolgozói",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:32:06+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Mi, a Kolibri Színház munkavállalóinak közössége az utóbbi hónapokban többször is jelzéseket küldtünk a hivatalos csatornákon: a fenntartó minisztérium és a tulajdonos főváros felé is felvetettük a problémáinkat, azonban azokra érdemi válaszokat ezidáig nem kaptunk.",
+        "who": "a Kolibri Színház társulata",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T16:33:52+02:00"
+      },
+      "hot_score": 5.31,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261015_vizsgalatot-kernek-a-kolibri-szinhaz-dolgozoi"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-lazadas-a-kolibri-szinhazban-a-tarsulat-igazgatojanak-tavozasat-kovet/",
+      "seo": {
+        "meta_title": "Lázadás a Kolibri Színházban: a társulat igazgatójának távoz",
+        "meta_description": "A Kolibri Színház közössége a fenntartó minisztériumhoz és a fővároshoz fordult, hogy vizsgálják ki az intézményben kialakult tarthatatlan munkakörülményeket. E",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-lazadas-a-kolibri-szinhazban-a-tarsulat-igazgatojanak-tavozasat-kovet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kolibri_Sz%C3%ADnh%C3%A1z%2C_J%C3%B3kai_t%C3%A9r%2C_2016_Ter%C3%A9zv%C3%A1ros.jpg/1280px-Kolibri_Sz%C3%ADnh%C3%A1z%2C_J%C3%B3kai_t%C3%A9r%2C_2016_Ter%C3%A9zv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "f8a5467d628888e2cfa0aab8f17533d4c289d65801096d749d55e519df09ef42",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:33:52+02:00",
+      "updated_at": "2026-10-15T16:33:52+02:00",
+      "published_at": "2026-10-15T16:33:52+02:00",
+      "expires_at": null
+    },
     {
       "id": "27e3bc07-85e2-50ea-b9ac-a6cdde0afd0c",
       "slug": "2026-10-15-a-vacsora-utani-nassolas-rejtett-ara-harminc-szazalekkal-nagyobb-majb",
