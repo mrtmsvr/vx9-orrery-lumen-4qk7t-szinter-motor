@@ -11708,17 +11708,10 @@
         "title": 2,
         "image": 1,
         "sent_at": "2026-10-15T07:15:06+00:00",
-        "msg_ids": [
-          6177,
-          6178,
-          6179,
-          6180,
-          6181,
-          6182,
-          6183,
-          6185
-        ],
-        "control_id": 6184
+        "msg_ids": [],
+        "control_id": 6184,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
