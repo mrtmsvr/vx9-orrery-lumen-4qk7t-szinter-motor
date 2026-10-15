@@ -1,7 +1,221 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T21:06:22+02:00",
+  "updated_at": "2026-10-15T21:07:03+02:00",
   "articles": [
+    {
+      "id": "ac90c70d-85e7-5e65-af80-458d8dd52700",
+      "slug": "2026-10-15-budapesti-hoki-vb-szazeves-jubileumara-keszul-a-szovetseg",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "jégkorong",
+        "világbajnokság",
+        "Budapest",
+        "sport",
+        "MVM Dome"
+      ],
+      "title": "Budapesti hoki-vb: százéves jubileumára készül a szövetség",
+      "subtitle": null,
+      "lead": "A Magyar Jégkorong Szövetség benyújtotta szándéknyilatkozatát a 2031-es férfi elit-világbajnokság megrendezésére; a mérkőzéseket a tervek szerint két fővárosi arénában bonyolítanák le.",
+      "key_points": [
+        "A Magyar Jégkorong Szövetség benyújtotta szándéknyilatkozatát a 2031-es elit-világbajnokság megrendezésére.",
+        "A mérkőzéseknek az MVM Dome és a Papp László Budapest Sportaréna adna otthont.",
+        "A rendezési jogról a Nemzetközi Jégkorong Szövetség 2027 májusában dönt Düsseldorfban.",
+        "Magyarország mellett Csehország és Nagy-Britannia is jelezte rendezési szándékát."
+      ],
+      "content": "A Magyar Jégkorong Szövetség hivatalosan benyújtotta szándéknyilatkozatát a 2031-es férfi elit-világbajnokság megrendezésére. A szervezet a következő időszakban azt méri fel, milyen szakmai, szervezési és pénzügyi feltételekkel készíthető elő egy megalapozott pályázat.\n\nA szakszövetség jövőre ünnepli fennállásának századik évfordulóját; a centenárium méltó alkalmat kínál arra, hogy Magyarországra hozhassák a világ legjobbjait. A pályázat előkészítéséről már egyeztettek az állami sportirányítás és a főváros vezetésével is, és mindkét fél nyitottnak mutatkozott a kezdeményezésre.\n\nA tervek szerint a tornát 2031. május 9. és 25. között rendeznék meg, a mérkőzéseket pedig az MVM Dome-ban és a Papp László Budapest Sportarénában játszanák. A két aréna közelsége lehetővé teszi, hogy a világbajnokság egyetlen, kompakt helyszínrendszerben valósuljon meg, ami jelentősen megkönnyítheti a logisztikát és a közlekedést.\n\nA nemzetközi mezőnyben Magyarország mellett Csehország és Nagy-Britannia is jelezte rendezési szándékát. A hivatalos pályázatok benyújtásának határideje 2027. január 11., a végleges döntést pedig a Nemzetközi Jégkorong Szövetség (IIHF) a 2027. május 27–28-án, Düsseldorfban tartandó éves kongresszusán hozza meg.",
+      "content_format": "markdown",
+      "body": [
+        "A Magyar Jégkorong Szövetség hivatalosan benyújtotta szándéknyilatkozatát a 2031-es férfi elit-világbajnokság megrendezésére. A szervezet a következő időszakban azt méri fel, milyen szakmai, szervezési és pénzügyi feltételekkel készíthető elő egy megalapozott pályázat.",
+        "A szakszövetség jövőre ünnepli fennállásának századik évfordulóját; a centenárium méltó alkalmat kínál arra, hogy Magyarországra hozhassák a világ legjobbjait. A pályázat előkészítéséről már egyeztettek az állami sportirányítás és a főváros vezetésével is, és mindkét fél nyitottnak mutatkozott a kezdeményezésre.",
+        "A tervek szerint a tornát 2031. május 9. és 25. között rendeznék meg, a mérkőzéseket pedig az MVM Dome-ban és a Papp László Budapest Sportarénában játszanák. A két aréna közelsége lehetővé teszi, hogy a világbajnokság egyetlen, kompakt helyszínrendszerben valósuljon meg, ami jelentősen megkönnyítheti a logisztikát és a közlekedést.",
+        "A nemzetközi mezőnyben Magyarország mellett Csehország és Nagy-Britannia is jelezte rendezési szándékát. A hivatalos pályázatok benyújtásának határideje 2027. január 11., a végleges döntést pedig a Nemzetközi Jégkorong Szövetség (IIHF) a 2027. május 27–28-án, Düsseldorfban tartandó éves kongresszusán hozza meg."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 186,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Hungarian_national_ice_hockey_team_vs._Poland_%282006%29.jpg/1280px-Hungarian_national_ice_hockey_team_vs._Poland_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian national ice hockey team during friendly game Poland vs. Hungary, April 4-th 2006, Arena Sanok.",
+        "credit": "Lowdown / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_national_ice_hockey_team_vs._Poland_(2006).jpg",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/sport/20261015_hoki-vb-palyazat-magyar-jegkorong-szovetseg-budapest",
+          "title": "Hoki-vb-t rendezne a Magyar Jégkorong Szövetség Budapesten",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:48+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T21:07:03+02:00"
+      },
+      "hot_score": 5.34,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/sport/20261015_hoki-vb-palyazat-magyar-jegkorong-szovetseg-budapest"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-budapesti-hoki-vb-szazeves-jubileumara-keszul-a-szovetseg/",
+      "seo": {
+        "meta_title": "Budapesti hoki-vb: százéves jubileumára készül a szövetség",
+        "meta_description": "A Magyar Jégkorong Szövetség benyújtotta szándéknyilatkozatát a 2031-es férfi elit-világbajnokság megrendezésére; a mérkőzéseket a tervek szerint két fővárosi a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-budapesti-hoki-vb-szazeves-jubileumara-keszul-a-szovetseg/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Hungarian_national_ice_hockey_team_vs._Poland_%282006%29.jpg/1280px-Hungarian_national_ice_hockey_team_vs._Poland_%282006%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "9ec5703d74375d32e4238a606b78030926beb7efa5f2b7d80c975e1afe4e002d",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:07:03+02:00",
+      "updated_at": "2026-10-15T21:07:03+02:00",
+      "published_at": "2026-10-15T21:07:03+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "f29effc8-08e6-5a2a-85f5-3fe93a1a5ee2",
+      "slug": "2026-10-15-szazhuszonharommillio-forint-szirtes-tamas-a-madach-szinhaz-koruli-vi",
+      "status": "published",
+      "category": "bulvar",
+      "subcategory": null,
+      "tags": [
+        "Szirtes Tamás",
+        "Madách Színház",
+        "színház",
+        "kultúra",
+        "jövedelem"
+      ],
+      "title": "Százhuszonhárommillió forint: Szirtes Tamás a Madách Színház körüli vitákról",
+      "subtitle": null,
+      "lead": "Tavalyi, több mint 123 millió forintos jövedelme miatt került kereszttűzbe Szirtes Tamás, a Madách Színház 22 éve regnáló igazgatója. A rendező-igazgató szerint az összeg nagy része az évtizedek alatt felhalmozott jogdíjakból állt össze.",
+      "key_points": [
+        "A Madách Színház igazgatójának 2025-ös jövedelme elérte a 123 millió forintot.",
+        "Szirtes Tamás hangsúlyozta, hogy a pénz jelentős része jogdíjakból származik.",
+        "Az igazgató életműve olyan sikerdarabokhoz köthető, mint a Macskák vagy Az Operaház fantomja.",
+        "A színházvezetői pályázat része egy új típusú, pszichológiai kompetenciamérés is."
+      ],
+      "content": "A Madách Színházat több mint két évtizede irányító Szirtes Tamás a 2025-ös évi jövedelme körüli kritikákra reagálva tisztázta: a nyilvánosságra került 123 millió forintos tétel nem kizárólag igazgatói és rendezői fizetés. A 81 éves színházi szakember a Kontroll című műsorban kifejtette, hogy juttatásának tekintélyes hányada jogdíjakból tevődik össze, amelyek az évtizedek alatt végzett kreatív teljesítményét honorálják.\n\nSzirtes a nemzetközi színházi gyakorlatra hivatkozva emlékeztetett: a rendezők, koreográfusok és díszlettervezők mellett a szerzők és fordítók is részesülnek jogdíjban, ami a szektor természetes velejárója. Az igazgató úgy véli, az összeg nem tekinthető rendkívülinek, hiszen olyan, évtizedek óta futó, rekordszámú előadást megért sikerdarabok állnak mögötte, mint a Macskák, a Mary Poppins vagy Az Operaház fantomja. Saját bevallása szerint ez az összeg 40 éves szakmai munkásságának, azaz az életművének elismerése.\n\nA színház vezetője hangsúlyozta a transzparencia fontosságát, jelezve, hogy az intézmény több mint egy évtizede közzéteszi az igazgatói fizetést és minden egyéb jövedelmet a honlapján. A jelenlegi vezetői pályázattal kapcsolatban Szirtes pozitívan nyilatkozott a kultúráért felelős államtitkárság által bevezetett kötelező kompetenciamérésről. Tapasztalatai szerint a vizsgálat olyan pszichológiai és vezetői tulajdonságokat világít meg, amelyek egy hagyományos pályázati anyagból nem lennének egyértelműek.\n\nAz igazgatói székért újra induló Szirtes kitért azokra a korábbi felvetésekre is, amelyek szerint munkatársaival nem mindig volt kifogástalan a hangnem. Kérdésre válaszolva elmondta: az évek során egyetlen hivatalos panasz érkezett ezzel kapcsolatban, amelyet szabályszerűen kivizsgáltak, majd lezártak.",
+      "content_format": "markdown",
+      "body": [
+        "A Madách Színházat több mint két évtizede irányító Szirtes Tamás a 2025-ös évi jövedelme körüli kritikákra reagálva tisztázta: a nyilvánosságra került 123 millió forintos tétel nem kizárólag igazgatói és rendezői fizetés. A 81 éves színházi szakember a Kontroll című műsorban kifejtette, hogy juttatásának tekintélyes hányada jogdíjakból tevődik össze, amelyek az évtizedek alatt végzett kreatív teljesítményét honorálják.",
+        "Szirtes a nemzetközi színházi gyakorlatra hivatkozva emlékeztetett: a rendezők, koreográfusok és díszlettervezők mellett a szerzők és fordítók is részesülnek jogdíjban, ami a szektor természetes velejárója. Az igazgató úgy véli, az összeg nem tekinthető rendkívülinek, hiszen olyan, évtizedek óta futó, rekordszámú előadást megért sikerdarabok állnak mögötte, mint a Macskák, a Mary Poppins vagy Az Operaház fantomja. Saját bevallása szerint ez az összeg 40 éves szakmai munkásságának, azaz az életművének elismerése.",
+        "A színház vezetője hangsúlyozta a transzparencia fontosságát, jelezve, hogy az intézmény több mint egy évtizede közzéteszi az igazgatói fizetést és minden egyéb jövedelmet a honlapján. A jelenlegi vezetői pályázattal kapcsolatban Szirtes pozitívan nyilatkozott a kultúráért felelős államtitkárság által bevezetett kötelező kompetenciamérésről. Tapasztalatai szerint a vizsgálat olyan pszichológiai és vezetői tulajdonságokat világít meg, amelyek egy hagyományos pályázati anyagból nem lennének egyértelműek.",
+        "Az igazgatói székért újra induló Szirtes kitért azokra a korábbi felvetésekre is, amelyek szerint munkatársaival nem mindig volt kifogástalan a hangnem. Kérdésre válaszolva elmondta: az évek során egyetlen hivatalos panasz érkezett ezzel kapcsolatban, amelyet szabályszerűen kivizsgáltak, majd lezártak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 258,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Madach_szinhaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Madách Theatre",
+        "credit": "Attila Terbócs / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Madach_szinhaz.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261015_szirtes-tamas-fizetes-jogdij-madach-szinhaz",
+          "title": "Szirtes Tamás a 123 milliós fizetéséről: A 40 éves teljesítményem jogdíjai is benne vannak",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:43+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Tudni kell, hogy a zenés és a prózai színházakban is, a kreatív teljesítményt jogdíjban honorálják. Nálunk jogdíjat kap a rendező, a koreográfus, a díszlettervező, a jelmeztervező, a fordító és a szerzők. Ez mindenhol a világon így van.",
+        "who": "Szirtes Tamás, a Madách Színház igazgatója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T21:07:02+02:00"
+      },
+      "hot_score": 5.49,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261015_szirtes-tamas-fizetes-jogdij-madach-szinhaz"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/bulvar/2026-10-15-szazhuszonharommillio-forint-szirtes-tamas-a-madach-szinhaz-koruli-vi/",
+      "seo": {
+        "meta_title": "Százhuszonhárommillió forint: Szirtes Tamás a Madách Színház",
+        "meta_description": "Tavalyi, több mint 123 millió forintos jövedelme miatt került kereszttűzbe Szirtes Tamás, a Madách Színház 22 éve regnáló igazgatója. A rendező-igazgató szerint",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-15-szazhuszonharommillio-forint-szirtes-tamas-a-madach-szinhaz-koruli-vi/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Madach_szinhaz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "d66dabeb-9851-50d1-b05e-c98cf6a66f45"
+      ],
+      "see_also": [
+        {
+          "title": "Besúgóhálózat és nepotizmus: súlyos vádak a budapesti gyerekteátrumban",
+          "url": "/kozelet/2026-10-15-lazadas-a-kolibri-szinhazban-a-tarsulat-igazgatojanak-tavozasat-kovet/",
+          "date": "2026-10-15"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "c5cb63f4668a313aedd2c5aba8e29f21e800ee1ca7b061fd055a390bb3d15c4a",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T21:07:02+02:00",
+      "updated_at": "2026-10-15T21:07:02+02:00",
+      "published_at": "2026-10-15T21:07:02+02:00",
+      "expires_at": null
+    },
     {
       "id": "df40453b-8acf-54c7-ba33-983e7e27fce3",
       "slug": "2026-10-15-szakemberhiany-benitja-a-budapesti-belgyogyaszatokat-osszefogas-indul",
