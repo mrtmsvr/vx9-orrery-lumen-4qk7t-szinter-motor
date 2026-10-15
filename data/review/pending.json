@@ -9772,7 +9772,7 @@
     {
       "id": "412d5960-4268-5e08-9aae-9c6f7aeea40e",
       "slug": "2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -9804,16 +9804,16 @@
       "word_count": 272,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Starlink_satellites_seen_from_Poland%2C_20241102_1749_2657.jpg/1280px-Starlink_satellites_seen_from_Poland%2C_20241102_1749_2657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1599,
+        "height": 1804,
         "kind": "photo",
         "pos": "top",
-        "alt": "United States Air Force Academy, Colorado. --  Tesla Chief Executive Officer Elon Musk poses for a photograph with U.S. Air Force Academy Cadets in Mitchell Hall during a tour hosted by Superintendent",
-        "credit": "Justin Pacheco / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:USAFA_Hosts_Elon_Musk_(Image_1_of_17)_(cropped).jpg",
-        "vision_score": 9.0
+        "alt": "Starlink satellites seen from the vicinity of Ostrowiec Świętokrzyski in Poland",
+        "credit": "Jakub Hałun / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_satellites_seen_from_Poland,_20241102_1749_2657.jpg",
+        "vision_score": 7.0
       },
       "inline_images": [],
       "sources": [
@@ -9919,7 +9919,7 @@
         "meta_title": "Elon Musk cége korlátozta, majd részlegesen visszakapcsolta ",
         "meta_description": "Az ukrán haderő számára nélkülözhetetlen Starshield műholdas rendszer működése napokra akadozni kezdett, ami komoly zavarokat okozott a katonai műveletekben. A ",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/USAFA_Hosts_Elon_Musk_%28Image_1_of_17%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Starlink_satellites_seen_from_Poland%2C_20241102_1749_2657.jpg/1280px-Starlink_satellites_seen_from_Poland%2C_20241102_1749_2657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -9944,9 +9944,9 @@
       "dedupe_hash": "1976166bb68ac25dba0b7b1dfec36c3e1a4344296426960f8d473f7400329ba5",
       "pipeline_run_id": "38750299848",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T16:32:05+02:00",
-      "updated_at": "2026-10-15T16:32:05+02:00",
-      "published_at": "2026-10-15T16:32:05+02:00",
+      "created_at": "2026-10-15T21:27:46+02:00",
+      "updated_at": "2026-10-15T21:27:46+02:00",
+      "published_at": "2026-10-15T21:27:46+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -9959,9 +9959,9 @@
         "msg_ids": [],
         "control_id": 6340,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:27 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T21:27:36+02:00"
+      "live": true
     },
     {
       "id": "27e3bc07-85e2-50ea-b9ac-a6cdde0afd0c",
