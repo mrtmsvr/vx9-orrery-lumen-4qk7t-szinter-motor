@@ -11612,18 +11612,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T12:04:48+00:00",
-        "msg_ids": [
-          6269,
-          6270,
-          6271,
-          6272,
-          6273,
-          6274,
-          6275,
-          6276,
-          6284
-        ],
-        "control_id": 6277
+        "msg_ids": [],
+        "control_id": 6277,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
