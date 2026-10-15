@@ -13549,15 +13549,39 @@
           "vision_score": 10.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Semjen_Zsolt_portre.jpg/1280px-Semjen_Zsolt_portre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1600,
+          "height": 1803,
           "kind": "photo",
           "pos": "top",
-          "alt": ": János Pócs, Office of Member of Parliament- 6-10 István király Road, Jászapáti, Jász-Nagykun-Szolnok County, Hungary.",
-          "credit": "Globetrotter19 / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%A9pvisel%C5%91i_Iroda,_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt,_2020_J%C3%A1szap%C3%A1ti.jpg",
+          "alt": "Semjén Zsolt miniszterelnök-helyettes, nemzetpolitikáért, nemzetiségpolitikáért, egyházpolitikáért és egyházdiplomáciáért felelős tárca nélküli miniszter",
+          "credit": "Botár Gergely / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Semjen_Zsolt_portre.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Zsolt_Semj%C3%A9n_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1488,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Жолт Шемьен (венг. Zsolt Semjén, род.1962) — венгерский политический и государственный деятел",
+          "credit": "council.gov.ru / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Zsolt_Semj%C3%A9n_2019.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kiss_J%C3%A1nos_lak%C3%B3h%C3%A1za_K%C5%91szeg.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Wohnhaus von Kiss János alt. in Güns, 1938-44.",
+          "credit": "Pan Peter / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kiss_J%C3%A1nos_lak%C3%B3h%C3%A1za_K%C5%91szeg.JPG",
           "vision_score": 5.0
         }
       ],
@@ -13618,17 +13642,36 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-15T06:26:00+00:00",
         "msg_ids": [
           6161,
           6162,
           6163,
-          6165
+          6165,
+          6169,
+          6170,
+          6171,
+          6172
         ],
-        "control_id": 6164
+        "control_id": 6173
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "John Pócs",
+        "Aron Molnár",
+        "János Kiss",
+        "Zsolt Semjén",
+        "Lőrinc Nacsa",
+        "Bethlen Gábor Fund Management Ltd.",
+        "farmers' market",
+        "rural landscape",
+        "government office"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
