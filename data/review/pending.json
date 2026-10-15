@@ -11684,8 +11684,8 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074823-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/9e0961f800-1792087128-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9e0961f800-1792087128-0.jpg",
           "kind": "photo",
           "alt": "Felfüggesztették a volt főügyészt",
           "likeness": true,
@@ -11695,8 +11695,8 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074827-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074827-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/9e0961f800-1792087129-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9e0961f800-1792087129-1.jpg",
           "kind": "photo",
           "alt": "Felfüggesztették a volt főügyészt",
           "likeness": false,
@@ -11755,15 +11755,17 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-15T14:34:09+00:00",
         "msg_ids": [
           6379,
           6380,
           6381,
-          6384
+          6384,
+          6442,
+          6443
         ],
-        "control_id": 6382
+        "control_id": 6444
       },
       "live": true,
       "image_queries": [
