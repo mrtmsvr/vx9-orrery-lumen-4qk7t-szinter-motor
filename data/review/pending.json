@@ -10963,17 +10963,10 @@
         "title": 3,
         "image": 3,
         "sent_at": "2026-10-15T12:04:22+00:00",
-        "msg_ids": [
-          6242,
-          6243,
-          6244,
-          6245,
-          6246,
-          6247,
-          6248,
-          6282
-        ],
-        "control_id": 6249
+        "msg_ids": [],
+        "control_id": 6249,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
