@@ -12220,13 +12220,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T04:56:11+00:00",
-        "msg_ids": [
-          6093,
-          6094,
-          6095,
-          6097
-        ],
-        "control_id": 6096
+        "msg_ids": [],
+        "control_id": 6096,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
