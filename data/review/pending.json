@@ -11528,19 +11528,19 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074823-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074823-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/68cc7ccb94-1792087140-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/68cc7ccb94-1792087140-0.jpg",
           "kind": "photo",
           "alt": "Megúszta a 300 ezer eurós büntetést Ilaria Salis",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792074826-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792074826-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/68cc7ccb94-1792087143-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/68cc7ccb94-1792087143-1.jpg",
           "kind": "photo",
           "alt": "Megúszta a 300 ezer eurós büntetést Ilaria Salis",
           "likeness": false,
@@ -11605,9 +11605,11 @@
           6375,
           6376,
           6377,
-          6383
+          6383,
+          6445,
+          6446
         ],
-        "control_id": 6378
+        "control_id": 6447
       },
       "live": true
     },
