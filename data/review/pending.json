@@ -12447,7 +12447,7 @@
     {
       "id": "7e4ec2e7-f973-53b6-bd04-88fba31b7a40",
       "slug": "2026-10-15-ujabb-tortenelmi-csucsra-szoktek-a-kotvenyhozamok-a-gazdasagi-nagyhat",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12478,15 +12478,15 @@
       "word_count": 308,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg/1280px-London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg/1280px-Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
+        "height": 810,
         "kind": "photo",
         "pos": "center",
-        "alt": "London : Tower Hamlets - HSBC &amp; Fitch Ratings",
-        "credit": "Lewis Clarke / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:London_,_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg"
+        "alt": "Cartoon, \"Wall Street bubbles - Always the same\". American financier\nJ. P. Morgan is depicted as a bull, blowing soap bubbles for eager investors. (See Bull market). Several of the bubbles are labeled",
+        "credit": "Udo Keppler / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12618,7 +12618,7 @@
         "meta_title": "Újabb történelmi csúcsra szöktek a kötvényhozamok a gazdaság",
         "meta_description": "Történelmi magasságokba emelkedtek az állampapírhozamok a fejlett ipari gazdaságokban, miközben az országcsoport összesített adósságállománya idén átlépi a hetv",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-ujabb-tortenelmi-csucsra-szoktek-a-kotvenyhozamok-a-gazdasagi-nagyhat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg/1280px-London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg/1280px-Wall_Street_bubbles_-_Always_the_same_-_Keppler_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12643,9 +12643,9 @@
       "dedupe_hash": "ec76fedaf0a3969f443e8c74cf458d18cf5ab05443af55a8f2fdb6aa1fe98acd",
       "pipeline_run_id": "38691907052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T08:24:31+02:00",
-      "updated_at": "2026-10-15T08:24:31+02:00",
-      "published_at": "2026-10-15T08:24:31+02:00",
+      "created_at": "2026-10-15T08:31:23+02:00",
+      "updated_at": "2026-10-15T08:31:23+02:00",
+      "published_at": "2026-10-15T08:31:23+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12655,17 +12655,12 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-15T06:25:17+00:00",
-        "msg_ids": [
-          6119,
-          6120,
-          6121,
-          6122,
-          6123,
-          6124,
-          6125
-        ],
-        "control_id": 6126
-      }
+        "msg_ids": [],
+        "control_id": 6126,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "7133be25-d41a-5824-99a5-fc5fa7915f14",
