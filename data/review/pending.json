@@ -11758,13 +11758,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-15T12:04:56+00:00",
-        "msg_ids": [
-          6278,
-          6279,
-          6280,
-          6285
-        ],
-        "control_id": 6281
+        "msg_ids": [],
+        "control_id": 6281,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
