@@ -11725,7 +11725,7 @@
     {
       "id": "198b953e-63c2-5733-8436-52f3839d9399",
       "slug": "2026-10-15-megrazta-a-tozsdeket-a-varatlanul-magas-amerikai-inflacio",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11870,9 +11870,9 @@
       "dedupe_hash": "98821013e5de3c02ea438df1c8d1fca740c89197b202c69ef0d077c604b7424d",
       "pipeline_run_id": "38709465423",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T11:09:53+02:00",
-      "updated_at": "2026-10-15T11:09:53+02:00",
-      "published_at": "2026-10-15T11:09:53+02:00",
+      "created_at": "2026-10-15T11:37:08+02:00",
+      "updated_at": "2026-10-15T11:37:08+02:00",
+      "published_at": "2026-10-15T11:37:08+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11882,12 +11882,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T09:11:14+00:00",
-        "msg_ids": [
-          6193,
-          6194
-        ],
-        "control_id": 6195
-      }
+        "msg_ids": [],
+        "control_id": 6195,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
