@@ -13398,7 +13398,7 @@
     {
       "id": "2b10218f-4dbe-55a2-b6cf-3254e61ea9c4",
       "slug": "2026-10-15-kifulladoban-a-mesterseges-intelligencia-tozsdei-szarnyalasa",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -13521,9 +13521,9 @@
       "dedupe_hash": "294a7488862ec74885337d3c178a4f07afed7a90591bbe699deddb5420cb3636",
       "pipeline_run_id": "38789407576",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T21:05:42+02:00",
-      "updated_at": "2026-10-15T21:05:42+02:00",
-      "published_at": "2026-10-15T21:05:42+02:00",
+      "created_at": "2026-10-15T22:47:50+02:00",
+      "updated_at": "2026-10-15T22:47:50+02:00",
+      "published_at": "2026-10-15T22:47:50+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13536,9 +13536,9 @@
         "msg_ids": [],
         "control_id": 6518,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:47 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T22:47:36+02:00"
+      "live": true
     },
     {
       "id": "126152f8-5619-5654-84dc-bb8ed99b03f7",
