@@ -1875,11 +1875,14 @@
       "caption": "Már harmincöt évesen hanyatlásnak indul a fizikai teljesítőképesség\n\nEgy csaknem öt évtizeden át tartó svéd kutatás rávilágított, hogy az emberi szervezet fizikai teljesítőképessége már harmincöt éves kor körül hanyatlásnak indul, még a rendszeresen sportolóknál is. A vizsgálat ugyanakkor arra is rámutat, hogy a felnőttkorban elkezdett mozgás jelentősen javíthat az erőnléten.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#egészség #edzés #sport #hírek #kollektíva",
       "created": "2026-10-15T11:35:13+02:00",
       "due": "2026-10-15T12:20:13+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         6204,
         6205
-      ]
+      ],
+      "container": "18129668500718522",
+      "tries": 1,
+      "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
     }
   ],
   "token": {
