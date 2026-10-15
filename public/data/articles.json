@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T20:08:02+02:00",
+  "updated_at": "2026-10-15T20:27:38+02:00",
   "articles": [
+    {
+      "id": "8ca3a856-89a6-5def-98ac-53e7762eaad6",
+      "slug": "2026-10-15-minusz-otszaz-euroert-exportaljuk-a-napenergiat-mikozben-a-cegek-fize",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "energiapiac",
+        "gazdaság",
+        "áramár",
+        "vállalatok",
+        "napelem"
+      ],
+      "title": "Mínusz ötszáz euróért exportáljuk a napenergiát, miközben a cégek fizetik a legdurvább árakat",
+      "subtitle": null,
+      "lead": "Európa második legmagasabb energiaköltségeivel szembesülnek a magyar vállalkozások az elszabadult gáz- és áramárak miatt. A helyzetet tovább nehezítik a tőzsdei kilengések és a rekordmagas napelemes túltermelés miatti hálózati anomáliák.",
+      "key_points": [
+        "A földgáz ára megugrott, a villamos energia pedig 168 euró/megawattórára drágult.",
+        "Magyarországon fizetik a második legmagasabb áramárat az egész kontinensen.",
+        "A tisztán fix áras szerződések komoly versenyhátrányt okozhatnak a mostani piacon.",
+        "A beépített napelemes kapacitás elérte a 9 gigawattot, ami teljesen átrajzolta a piacot."
+      ],
+      "content": "Drasztikus gáz- és áramdrágulás nehezíti a magyarországi gazdálkodó szervezetek mindennapjait, amelyek jelenleg Európa második legmagasabb energiaköltségeivel küzdenek. A földgáz ára a januári 32 eurós szintről 82 euró/megawattórára ugrott, míg a villamos energia a tavalyi 100 euró körüli bázisról 168 euró/megawattórára drágult. A hazai vállalkozások így az átlagos összkiadásaik 10 százalékát, a HoReCa-szektorban pedig akár a 15–20 százalékát is az energiára fordítják.\n\nA piac stabilizálódása egyelőre nem látszik reális forgatókönyvnek a geopolitikai feszültségek és a kedvezőtlen időjárási tényezők miatt. A drágulást a Hormuzi-szoros körüli konfliktusok, az amerikai félidős választások után várható háborús eszkaláció, valamint a balkáni és a környező országok atomerőműveit és vízierőműveit sújtó aszályos időszak is fűti, miközben a hazai és az európai kapacitásarányos földgáztárolási töltöttség egyaránt 77 százalék körül mozog.\n\nA hazai vállalkozások rendkívül súlyos helyzetére Szalai Sándor, az E.ON Energiamegoldások KKV értékesítési vezetője hívta fel a figyelmet a Portfolio Nyugat-magyarországi Economic Forum 2026 konferenciáján. Ebben a rendkívül változékony környezetben a tisztán fix áras szerződések komoly versenyhátrányt jelenthetnek a cégeknek, ezért a tőzsdei árakhoz igazodó spot tarifák vagy a tavaszi árcsökkenéskor fixálható termékek kínálnak kiutat.\n\nA magyar árampiacot alapjaiban rajzolta át a megközelítőleg 9 gigawattnyi beépített napelemes kapacitás, amely az idei 28 százalékos hazai termelési részarány után várhatóan 30 százalékra nő. A déli órákban a hatalmas betáplálás hálózati szinten negatív árakat eredményez, így a túltermelt energiát az ország esetenként akár mínusz 500 eurós értéken is exportálja, amit azonnal egy meredek, 200 eurós ártüske követ.\n\nA szélsőséges kilengések kezelésére az energiacég egyedi zónaidős árszabásokat vezetett be, amelyekkel a napközbeni túltermelést lehet kiaknázni. A ritmus tarifa alkalmazásával az év minden napján reggel 6 és délután 17 óra között 35 százalékkal olcsóbban szerezhető be a villamos energia az esti, 17 és 22 óra közötti idősávhoz képest.",
+      "content_format": "markdown",
+      "body": [
+        "Drasztikus gáz- és áramdrágulás nehezíti a magyarországi gazdálkodó szervezetek mindennapjait, amelyek jelenleg Európa második legmagasabb energiaköltségeivel küzdenek. A földgáz ára a januári 32 eurós szintről 82 euró/megawattórára ugrott, míg a villamos energia a tavalyi 100 euró körüli bázisról 168 euró/megawattórára drágult. A hazai vállalkozások így az átlagos összkiadásaik 10 százalékát, a HoReCa-szektorban pedig akár a 15–20 százalékát is az energiára fordítják.",
+        "A piac stabilizálódása egyelőre nem látszik reális forgatókönyvnek a geopolitikai feszültségek és a kedvezőtlen időjárási tényezők miatt. A drágulást a Hormuzi-szoros körüli konfliktusok, az amerikai félidős választások után várható háborús eszkaláció, valamint a balkáni és a környező országok atomerőműveit és vízierőműveit sújtó aszályos időszak is fűti, miközben a hazai és az európai kapacitásarányos földgáztárolási töltöttség egyaránt 77 százalék körül mozog.",
+        "A hazai vállalkozások rendkívül súlyos helyzetére Szalai Sándor, az E.ON Energiamegoldások KKV értékesítési vezetője hívta fel a figyelmet a Portfolio Nyugat-magyarországi Economic Forum 2026 konferenciáján. Ebben a rendkívül változékony környezetben a tisztán fix áras szerződések komoly versenyhátrányt jelenthetnek a cégeknek, ezért a tőzsdei árakhoz igazodó spot tarifák vagy a tavaszi árcsökkenéskor fixálható termékek kínálnak kiutat.",
+        "A magyar árampiacot alapjaiban rajzolta át a megközelítőleg 9 gigawattnyi beépített napelemes kapacitás, amely az idei 28 százalékos hazai termelési részarány után várhatóan 30 százalékra nő. A déli órákban a hatalmas betáplálás hálózati szinten negatív árakat eredményez, így a túltermelt energiát az ország esetenként akár mínusz 500 eurós értéken is exportálja, amit azonnal egy meredek, 200 eurós ártüske követ.",
+        "A szélsőséges kilengések kezelésére az energiacég egyedi zónaidős árszabásokat vezetett be, amelyekkel a napközbeni túltermelést lehet kiaknázni. A ritmus tarifa alkalmazásával az év minden napján reggel 6 és délután 17 óra között 35 százalékkal olcsóbban szerezhető be a villamos energia az esti, 17 és 22 óra közötti idősávhoz képest."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 320,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/1280px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Ground-mounted solar panels in Storrs, CT. The panels are SolarWorld Sunmodule SW265 Mono panels, manufactured in the second quarter of 2013 according to stickers on the back.",
+        "credit": "Grendelkhan / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ground_mounted_solar_panels.gk.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/uzlet/20261015/drasztikus-lepeskenyszerben-a-hazai-vallalatok-igy-faraghato-le-az-egekbe-szoko-energiakoltseg-869934",
+          "title": "Drasztikus lépéskényszerben a hazai vállalatok: így faragható le az egekbe szökő energiaköltség",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T16:31:54+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az járt jól, aki múlt héten szerződött, és aki ma szerződik, az biztos, hogy jobban jár, mint aki a jövő héten fog.",
+        "who": "Szalai Sándor, az E.ON Energiamegoldások KKV értékesítési vezetője",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-15T20:27:38+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/uzlet/20261015/drasztikus-lepeskenyszerben-a-hazai-vallalatok-igy-faraghato-le-az-egekbe-szoko-energiakoltseg-869934"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/penzvilag/2026-10-15-minusz-otszaz-euroert-exportaljuk-a-napenergiat-mikozben-a-cegek-fize/",
+      "seo": {
+        "meta_title": "Mínusz ötszáz euróért exportáljuk a napenergiát, miközben a ",
+        "meta_description": "Európa második legmagasabb energiaköltségeivel szembesülnek a magyar vállalkozások az elszabadult gáz- és áramárak miatt. A helyzetet tovább nehezítik a tőzsdei",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-minusz-otszaz-euroert-exportaljuk-a-napenergiat-mikozben-a-cegek-fize/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Ground_mounted_solar_panels.gk.jpg/1280px-Ground_mounted_solar_panels.gk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "798099bd732793e01f40595ea872ba477c030a0da8b4f7106cec9cd42887dad0",
+      "pipeline_run_id": "38750299848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T20:27:38+02:00",
+      "updated_at": "2026-10-15T20:27:38+02:00",
+      "published_at": "2026-10-15T20:27:38+02:00",
+      "expires_at": null
+    },
     {
       "id": "09b5cf39-d810-5bda-a6db-e12261796daa",
       "slug": "2026-10-15-terminator-filmek-es-civilizacios-valsagok-miert-a-legrosszabb-jovot",
