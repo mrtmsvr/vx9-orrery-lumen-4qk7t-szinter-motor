@@ -1940,6 +1940,22 @@
       "container": "18129706894718522",
       "tries": 1,
       "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
+    },
+    {
+      "id": "9c09fd406b",
+      "art_id": "f2789299-1e4a-502d-be08-bc9c174471bb",
+      "title": "Karácsony Gergely: Nagy zöld fejlesztések indulnak Budapesten",
+      "url": "/kozelet/2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapesten/",
+      "card": "public/img/ig/2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapeste.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapeste.jpg",
+      "caption": "Karácsony Gergely: Nagy zöld fejlesztések indulnak Budapesten\n\nMegválasztásának hetedik évfordulóján jelentős budapesti fejlesztésekről számolt be a főpolgármester. Karácsony Gergely közölte: a kormánnyal partnerségben, szoros időkényszerben indítanak zöld beruházásokat.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#budapest #karácsonygergely #fejlesztés #hírek #kollektíva",
+      "created": "2026-10-15T15:02:05+02:00",
+      "due": "2026-10-15T15:47:05+02:00",
+      "status": "queued",
+      "tg": [
+        6294,
+        6295
+      ]
     }
   ],
   "token": {
