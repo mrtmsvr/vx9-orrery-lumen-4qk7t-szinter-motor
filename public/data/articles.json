@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T08:24:16+02:00",
+  "updated_at": "2026-10-15T08:25:17+02:00",
   "articles": [
+    {
+      "id": "6ace6291-8c90-5e32-902f-e70d7e87f3a2",
+      "slug": "2026-10-15-jelentosen-nott-a-rakos-megbetegedesek-szama-az-otven-ev-alattiak-kor",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "rákkutatás",
+        "életmód",
+        "táplálkozás",
+        "orvostudomány"
+      ],
+      "title": "Jelentősen nőtt a rákos megbetegedések száma az ötven év alattiak körében",
+      "subtitle": null,
+      "lead": "A húsz és negyvenkilenc év közötti felnőttek körében számottevően nőtt a különféle daganatos megbetegedések száma Angliában, miközben az ismert életmódbeli kockázatok döntő többsége nem romlott. Az átfogó vizsgálat eredményei arra utalnak, hogy a túlsúly önmagában képtelen megmagyarázni a fiatalabb generációkat érintő negatív tendenciákat.",
+      "key_points": [
+        "A BMJ Oncology szaklapban publikált kutatás a National Disease Registry Service 2001 és 2019 közötti adatait elemezte.",
+        "A petefészek- és a bélrendszeri daganatok kifejezetten az ötven év alatti korosztályban mutattak növekedést.",
+        "A vizsgált életmódbeli tényezők – például a vöröshús-fogyasztás – éppenséggel javultak az elmúlt évtizedekben.",
+        "A tudósok szerint a bélrendszeri mikrobiom változásai és a korai életkori hatások állhatnak a háttérben."
+      ],
+      "content": "A húsz és negyvenkilenc év közötti korosztályban kirajzolódó egészségügyi mintázatokat vizsgálták a szakemberek egy 2001 és 2019 között gyűjtött adatsor alapján. Az elemzés húsznál is több rákfajtát vett górcső alá, és széles körű növekedést mutatott ki a megbetegedések gyakoriságában. A fiatalabb nőknél a megvizsgált huszonkét daganattípus közül tizenhatnál regisztráltak statisztikailag jelentős emelkedést, míg a férfiaknál a huszonegyből tizenegy betegség esetében mutatkozott ugyanez a tendencia.\n\nA kutatók különös figyelmet szenteltek annak a tizenegy ráktípusnak, amelyek eddig is a viselkedési kockázatokhoz kötődtek. Ebbe a körbe tartozik a pajzsmirigy-, a máj-, a vese-, az epehólyag-, a bél-, a hasnyálmirigy-, a szájüregi, az emlő- és a petefészekrák, valamint a méhnyálkahártya-daganat és a myeloma multiplex. Bár ezek a betegségek az ötven év felettieknél is gyakoribbá váltak, a bél- és a petefészekrák különösen kirívónak bizonyult, mivel ezek kizárólag a fiatalabb korcsoportban mutattak határozott emelkedést.\n\nA jelenség hátterének feltárásához a statisztikusok összevetették az adatokat a dohányzással, az alkoholfogyasztással, a testmozgással, valamint az étrendi szokásokkal kapcsolatos felmérésekkel. Kiderült egy fontos ellentmondás: a vizsgált kockázati tényezők – a túlsúly kivételével – az elmúlt egy-két évtizedben stabilak maradtak, vagy kifejezetten javultak a fiatalabb generációknál. A vöröshús-fogyasztás például jelentősen visszaesett, a napi átlagos mennyiség a vizsgált korcsoportokban mérséklődött, miközben a rostbevitel hiánya továbbra is komoly problémát jelent.\n\nAz elhízás szerepe egyértelműen megjelenik a statisztikákban, hiszen a tizenegy kiemelt ráktípus közül tíz mutat összefüggést a túlsúllyal, ám a kutatók hangsúlyozzák, hogy a testsúly önmagában kevés a folyamat magyarázatához. A szakemberek jelenleg olyan további lehetséges kiváltó okokat keresnek, mint a bélmikrobiom átalakulása vagy a korai életszakaszban ért környezeti hatások, ám a pontos összefüggések feltárása még várat magára.",
+      "content_format": "markdown",
+      "body": [
+        "A húsz és negyvenkilenc év közötti korosztályban kirajzolódó egészségügyi mintázatokat vizsgálták a szakemberek egy 2001 és 2019 között gyűjtött adatsor alapján. Az elemzés húsznál is több rákfajtát vett górcső alá, és széles körű növekedést mutatott ki a megbetegedések gyakoriságában. A fiatalabb nőknél a megvizsgált huszonkét daganattípus közül tizenhatnál regisztráltak statisztikailag jelentős emelkedést, míg a férfiaknál a huszonegyből tizenegy betegség esetében mutatkozott ugyanez a tendencia.",
+        "A kutatók különös figyelmet szenteltek annak a tizenegy ráktípusnak, amelyek eddig is a viselkedési kockázatokhoz kötődtek. Ebbe a körbe tartozik a pajzsmirigy-, a máj-, a vese-, az epehólyag-, a bél-, a hasnyálmirigy-, a szájüregi, az emlő- és a petefészekrák, valamint a méhnyálkahártya-daganat és a myeloma multiplex. Bár ezek a betegségek az ötven év felettieknél is gyakoribbá váltak, a bél- és a petefészekrák különösen kirívónak bizonyult, mivel ezek kizárólag a fiatalabb korcsoportban mutattak határozott emelkedést.",
+        "A jelenség hátterének feltárásához a statisztikusok összevetették az adatokat a dohányzással, az alkoholfogyasztással, a testmozgással, valamint az étrendi szokásokkal kapcsolatos felmérésekkel. Kiderült egy fontos ellentmondás: a vizsgált kockázati tényezők – a túlsúly kivételével – az elmúlt egy-két évtizedben stabilak maradtak, vagy kifejezetten javultak a fiatalabb generációknál. A vöröshús-fogyasztás például jelentősen visszaesett, a napi átlagos mennyiség a vizsgált korcsoportokban mérséklődött, miközben a rostbevitel hiánya továbbra is komoly problémát jelent.",
+        "Az elhízás szerepe egyértelműen megjelenik a statisztikákban, hiszen a tizenegy kiemelt ráktípus közül tíz mutat összefüggést a túlsúllyal, ám a kutatók hangsúlyozzák, hogy a testsúly önmagában kevés a folyamat magyarázatához. A szakemberek jelenleg olyan további lehetséges kiváltó okokat keresnek, mint a bélmikrobiom átalakulása vagy a korai életszakaszban ért környezeti hatások, ám a pontos összefüggések feltárása még várat magára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 308,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg/1280px-Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Medical Research Council, Laboratory of Molecular Biology",
+        "credit": "David P Howard / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Medical_Research_Council,_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
+          "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-15T08:24:31+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T08:25:17+02:00"
+      },
+      "hot_score": 5.87,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261013015837.htm"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/eletmod/2026-10-15-jelentosen-nott-a-rakos-megbetegedesek-szama-az-otven-ev-alattiak-kor/",
+      "seo": {
+        "meta_title": "Jelentősen nőtt a rákos megbetegedések száma az ötven év ala",
+        "meta_description": "A húsz és negyvenkilenc év közötti felnőttek körében számottevően nőtt a különféle daganatos megbetegedések száma Angliában, miközben az ismert életmódbeli kock",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-jelentosen-nott-a-rakos-megbetegedesek-szama-az-otven-ev-alattiak-kor/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg/1280px-Medical_Research_Council%2C_Laboratory_of_Molecular_Biology_-_geograph.org.uk_-_3018493.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c92ea2e587163cfc4d2fe49c0db05505565dabc0ff3bf46f5eec61da32f0199c",
+      "pipeline_run_id": "38691907052",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T08:25:17+02:00",
+      "updated_at": "2026-10-15T08:25:17+02:00",
+      "published_at": "2026-10-15T08:25:17+02:00",
+      "expires_at": null
+    },
     {
       "id": "eaf2c33d-101a-587c-80a4-f18e6b6fc60e",
       "slug": "2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb",
