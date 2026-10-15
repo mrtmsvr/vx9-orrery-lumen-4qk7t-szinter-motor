@@ -12870,18 +12870,10 @@
         "title": 0,
         "image": 6,
         "sent_at": "2026-10-15T06:25:25+00:00",
-        "msg_ids": [
-          6128,
-          6129,
-          6130,
-          6131,
-          6132,
-          6133,
-          6134,
-          6135,
-          6159
-        ],
-        "control_id": 6136
+        "msg_ids": [],
+        "control_id": 6136,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
