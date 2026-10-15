@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T16:34:30+02:00",
+  "updated_at": "2026-10-15T16:46:01+02:00",
   "articles": [
+    {
+      "id": "76fb3e6e-cbf0-5de2-af8c-17abf3fc1e1f",
+      "slug": "2026-10-15-megakadhat-a-megfizetheto-berlakasok-epitese-lengyelorszagban",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Lengyelország",
+        "bérlakásprogram",
+        "lakhatás",
+        "ingatlanpiac",
+        "gazdaság"
+      ],
+      "title": "Megakadhat a megfizethető bérlakások építése Lengyelországban",
+      "subtitle": null,
+      "lead": "Jelentős állami forrásokból pörgette fel a megfizethető otthonok építését Lengyelország, ám a fejlesztések lendülete most veszélybe került. A finanszírozási nehézségek komoly tanulsággal szolgálhatnak a hasonló lakhatási kihívásokkal küzdő országok számára is.",
+      "key_points": [
+        "Több mint 3,4 milliárd zloty állami forrást ítéltek meg mintegy 15 500 új otthon létrehozására.",
+        "A lengyel modell az állam, az önkormányzatok és a lakásépítő társaságok együttműködésén alapul.",
+        "A források kimerülése miatt veszélybe került a bérlakásprogram folytatása."
+      ],
+      "content": "A lengyel lakhatási stratégia az elmúlt évek nehézségei után 2026-ra jelentősen felgyorsította a megfizethető bérlakások építését. Az idei támogatási körben több mint 3,4 milliárd zloty állami forrást ítéltek meg mintegy 15 500 új otthon létrehozására, A rendszer alapját az állam, az önkormányzatok és a lakásépítő társaságok szoros együttműködése képezi, amelyet uniós források és kedvezményes hitelek is támogatnak.\n\nA piacinál alacsonyabb bérleti díjakat a források összehangolt ötvözésével garantálják. A fejlesztők az önrész és a vissza nem térítendő támogatások mellett akár harmincéves futamidejű, kedvezményes bankhiteleket is igénybe vehetnek, amelyek a beruházási költségek 80 százalékát is fedezhetik. Az építkezésekbe egyre gyakrabban vonnak be európai uniós forrásokat, például a helyreállítási alap energiakorszerűsítési keretét vagy az InvestEU hitelgaranciáit, amivel a beruházások finanszírozása kiszámíthatóbbá vált.\n\nA mostani eredmények ellenére a lengyel bérlakás-építés elmúlt évtizede korántsem volt zökkenőmentes.\n\nAz intézményrendszer felállítása és a kezdeti akadályok leküzdése után most a finanszírozás folytonossága jelenti a legnagyobb kihívást. Kifejezetten figyelmeztető jel, hogy a lengyel állami fejlesztési bank a rendelkezésre álló források kimerülése miatt 2026 őszén már nem indítja el a szociális bérlakásprogram soron következő, kedvezményes hitelpályázati körét. A lengyel példa így arra is rávilágít, hogy a kiszámítható, megszakítások nélküli, hosszú távú finanszírozási háttér hiányában az önkormányzatok bevonása önmagában kevés a rendszer fenntartásához.",
+      "content_format": "markdown",
+      "body": [
+        "A lengyel lakhatási stratégia az elmúlt évek nehézségei után 2026-ra jelentősen felgyorsította a megfizethető bérlakások építését. Az idei támogatási körben több mint 3,4 milliárd zloty állami forrást ítéltek meg mintegy 15 500 új otthon létrehozására, A rendszer alapját az állam, az önkormányzatok és a lakásépítő társaságok szoros együttműködése képezi, amelyet uniós források és kedvezményes hitelek is támogatnak.",
+        "A piacinál alacsonyabb bérleti díjakat a források összehangolt ötvözésével garantálják. A fejlesztők az önrész és a vissza nem térítendő támogatások mellett akár harmincéves futamidejű, kedvezményes bankhiteleket is igénybe vehetnek, amelyek a beruházási költségek 80 százalékát is fedezhetik. Az építkezésekbe egyre gyakrabban vonnak be európai uniós forrásokat, például a helyreállítási alap energiakorszerűsítési keretét vagy az InvestEU hitelgaranciáit, amivel a beruházások finanszírozása kiszámíthatóbbá vált.",
+        "A mostani eredmények ellenére a lengyel bérlakás-építés elmúlt évtizede korántsem volt zökkenőmentes.",
+        "Az intézményrendszer felállítása és a kezdeti akadályok leküzdése után most a finanszírozás folytonossága jelenti a legnagyobb kihívást. Kifejezetten figyelmeztető jel, hogy a lengyel állami fejlesztési bank a rendelkezésre álló források kimerülése miatt 2026 őszén már nem indítja el a szociális bérlakásprogram soron következő, kedvezményes hitelpályázati körét. A lengyel példa így arra is rávilágít, hogy a kiszámítható, megszakítások nélküli, hosszú távú finanszírozási háttér hiányában az önkormányzatok bevonása önmagában kevés a rendszer fenntartásához."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 236,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Construction_of_a_cheap_housing_estate_from_the_government%27s_Mieszkanie_%2B_program%2C_Tomasz%C3%B3w_Maz%2C_Poland.jpg/1280px-Construction_of_a_cheap_housing_estate_from_the_government%27s_Mieszkanie_%2B_program%2C_Tomasz%C3%B3w_Maz%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Construction of a cheap housing estate from the government's Mieszkanie + program, Tomaszów Maz, Poland.jpg",
+        "credit": "Warszawska róg Szerokiej w Tomaszowie Mazowieckim, w województwie łódzkim, PL, E / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Construction_of_a_cheap_housing_estate_from_the_government%27s_Mieszkanie_%2B_program,_Tomasz%C3%B3w_Maz,_Poland.jpg",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/ingatlan/20261015/hasit-a-sikeres-berlakasprogram-a-kozeli-unios-allamban-de-most-veszelybe-kerult-a-folytatas-869900",
+          "title": "Hasít a sikeres bérlakásprogram a közeli uniós államban, de most veszélybe került a folytatás",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T15:44:28+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-15T16:46:01+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/ingatlan/20261015/hasit-a-sikeres-berlakasprogram-a-kozeli-unios-allamban-de-most-veszelybe-kerult-a-folytatas-869900"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-megakadhat-a-megfizetheto-berlakasok-epitese-lengyelorszagban/",
+      "seo": {
+        "meta_title": "Megakadhat a megfizethető bérlakások építése Lengyelországba",
+        "meta_description": "Jelentős állami forrásokból pörgette fel a megfizethető otthonok építését Lengyelország, ám a fejlesztések lendülete most veszélybe került. A finanszírozási neh",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-megakadhat-a-megfizetheto-berlakasok-epitese-lengyelorszagban/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Construction_of_a_cheap_housing_estate_from_the_government%27s_Mieszkanie_%2B_program%2C_Tomasz%C3%B3w_Maz%2C_Poland.jpg/1280px-Construction_of_a_cheap_housing_estate_from_the_government%27s_Mieszkanie_%2B_program%2C_Tomasz%C3%B3w_Maz%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ba727577e2e2b6df179c413bbcb7c9ceeec7a6fb4ba924f36c86e9f445802e15",
+      "pipeline_run_id": "38745180263",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T16:46:01+02:00",
+      "updated_at": "2026-10-15T16:46:01+02:00",
+      "published_at": "2026-10-15T16:46:01+02:00",
+      "expires_at": null
+    },
     {
       "id": "9e0961f8-00f1-5638-95a9-6fa6a944825b",
       "slug": "2026-10-15-felfuggesztettek-a-volt-fougyeszt",
