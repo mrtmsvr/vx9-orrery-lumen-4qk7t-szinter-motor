@@ -13091,23 +13091,12 @@
       },
       "review": {
         "title": 1,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-15T06:25:31+00:00",
-        "msg_ids": [
-          6137,
-          6138,
-          6139,
-          6140,
-          6141,
-          6142,
-          6143,
-          6144,
-          6145,
-          6160,
-          6166,
-          6167
-        ],
-        "control_id": 6168
+        "msg_ids": [],
+        "control_id": 6168,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
