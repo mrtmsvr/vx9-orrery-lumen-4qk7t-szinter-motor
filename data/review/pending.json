@@ -11036,14 +11036,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-15T14:33:35+00:00",
-        "msg_ids": [
-          6358,
-          6359,
-          6360,
-          6361,
-          6372
-        ],
-        "control_id": 6362
+        "msg_ids": [],
+        "control_id": 6362,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
