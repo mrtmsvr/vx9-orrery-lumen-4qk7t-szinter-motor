@@ -10065,6 +10065,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cb9bfd397f-1792087262-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cb9bfd397f-1792087262-0.jpg",
+          "kind": "photo",
+          "alt": "Zelenszkij újra orosz olajfinomítókat támad, miután az USA-val kötött megállapodás meghiúsult",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cb9bfd397f-1792087265-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cb9bfd397f-1792087265-1.jpg",
+          "kind": "photo",
+          "alt": "Zelenszkij újra orosz olajfinomítókat támad, miután az USA-val kötött megállapodás meghiúsult",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1625,
@@ -10138,9 +10160,11 @@
         "sent_at": "2026-10-15T14:32:59+00:00",
         "msg_ids": [
           6332,
-          6333
+          6333,
+          6453,
+          6454
         ],
-        "control_id": 6334
+        "control_id": 6455
       },
       "image_queries": [
         "Volodymyr Zelenskyy",
