@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T16:27:49+02:00",
+  "updated_at": "2026-10-15T16:27:53+02:00",
   "articles": [
     {
       "id": "11f0d033-d1ca-5cef-ad80-cf1f9b33ec9b",
@@ -461,15 +461,15 @@
       "word_count": 262,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hungarian_Academy_of_Sciences.jpg/1280px-Hungarian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Enik%C5%91_Bollob%C3%A1s.jpg/1280px-Enik%C5%91_Bollob%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 641,
+        "height": 900,
         "kind": "photo",
         "pos": "center",
-        "alt": "Hungarian Academy of Sciences (MTA)",
-        "credit": "Ivanhoe / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Academy_of_Sciences.jpg"
+        "alt": "Enikő Bollobás",
+        "credit": "Seasdas / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Enik%C5%91_Bollob%C3%A1s.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -508,7 +508,7 @@
         "meta_title": "Döbbenetesen alacsony a női kutatók aránya a magyar tudomány",
         "meta_description": "A Magyar Tudományos Akadémia rendes és levelező tagjainak mindössze tíz százaléka nő, ami a szisztémás akadályok és a hiányzó példaképek következménye. Az Euros",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-csucson/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hungarian_Academy_of_Sciences.jpg/1280px-Hungarian_Academy_of_Sciences.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Enik%C5%91_Bollob%C3%A1s.jpg/1280px-Enik%C5%91_Bollob%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -526,7 +526,7 @@
       "pipeline_run_id": "38729448588",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T14:04:59+02:00",
-      "updated_at": "2026-10-15T16:27:49+02:00",
+      "updated_at": "2026-10-15T16:27:53+02:00",
       "published_at": "2026-10-15T14:04:59+02:00",
       "expires_at": null
     },
