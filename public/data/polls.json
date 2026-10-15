@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-14T10:31:39+02:00",
+  "updated_at": "2026-10-15T11:37:28+02:00",
   "polls": [
+    {
+      "id": "6241a77487f0",
+      "date": "2026-10-15",
+      "question": "Kell-e központi forrásokkal segíteni a hazai vállalkozások beruházásait?",
+      "options": [
+        "Igen, mindenképpen",
+        "Nem, a piacra kell bízni",
+        "Nem tudom / nincs véleményem"
+      ],
+      "article_url": "/penzvilag/2026-10-14-nullaszazalekos-hitellel-tamogatjak-a-hazai-vallalkozasokat/",
+      "article_title": "Nullaszázalékos hitellel támogatják a hazai vállalkozásokat",
+      "category": "penzvilag",
+      "created_at": "2026-10-15T11:37:28+02:00",
+      "closes_at": "2026-10-22T11:37:28+02:00"
+    },
     {
       "id": "fdf08cde4da8",
       "date": "2026-10-14",
