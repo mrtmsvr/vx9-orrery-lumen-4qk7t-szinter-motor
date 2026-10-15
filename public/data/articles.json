@@ -1,7 +1,204 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T08:25:17+02:00",
+  "updated_at": "2026-10-15T08:25:52+02:00",
   "articles": [
+    {
+      "id": "af455c01-e85a-5d17-ac45-dc3930871cac",
+      "slug": "2026-10-15-a-nyelvtanulas-legfontosabb-titka-nem-a-szavakkal-kell-kezdeni",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "nyelvtanulás",
+        "kutatás",
+        "oktatás",
+        "agyhullámok"
+      ],
+      "title": "A nyelvtanulás legfontosabb titka: nem a szavakkal kell kezdeni",
+      "subtitle": null,
+      "lead": "Nem a szavakra vagy a nyelvtanra kell összpontosítani az idegen nyelvek elsajátításakor, hanem magára a hangzásra. Egy friss brit és japán kutatás rávilágított arra, hogy a legsikeresebb nyelvtanulók agya egészen másképp dolgozza fel az ismeretlen hangokat.",
+      "key_points": [
+        "A University College London és a Tohoku Egyetem kutatói 67 japán hallgató angoltanulási mintáit vizsgálták.",
+        "A legtehetségesebb nyelvtanulók agya az idegen kifejezéseket nem szavakként, hanem véletlenszerű zajként érzékeli."
+      ],
+      "content": "A University College London és a japán Tohoku Egyetem kutatói arra a megállapításra jutottak, hogy a sikeres nyelvtanulás alapja nem a szókincs vagy a nyelvtani szabályok magolása. A szakemberek vizsgálata szerint a legtehetségesebb tanulók agya az idegen kifejezéseket először véletlenszerű zajként érzékeli, ahelyett hogy azonnal a saját anyanyelvük mintáihoz próbálná igazítani azokat.\n\nA kutatás során 67 olyan japán hallgató hallásbeli pontosságát elemezték, akik angolt tanultak. Az önkéntesek agyi aktivitását fMRI-vizsgálatokkal mérték, miközben olyan angol magánhangzók megkülönböztetésére tettek kísérletet, amelyek a japán nyelvben egyáltalán nem fordulnak elő. Az eredmények azt mutatták, hogy minél jobban érzékelte valaki a hangok magasságában, hosszában és tónusában bekövetkező apró változásokat, annál gyorsabban és pontosabban sajátította el az új nyelv kiejtését.\n\nA kutatók szerint a felfedezés azt sugallja, hogy az oktatási intézményeknek érdemes lenne átgondolniuk a jelenlegi stratégiáikat, és nagyobb hangsúlyt kellene fektetniük a hangok elsajátítására a száraz nyelvtan vagy a szókincs helyett.",
+      "content_format": "markdown",
+      "body": [
+        "A University College London és a japán Tohoku Egyetem kutatói arra a megállapításra jutottak, hogy a sikeres nyelvtanulás alapja nem a szókincs vagy a nyelvtani szabályok magolása. A szakemberek vizsgálata szerint a legtehetségesebb tanulók agya az idegen kifejezéseket először véletlenszerű zajként érzékeli, ahelyett hogy azonnal a saját anyanyelvük mintáihoz próbálná igazítani azokat.",
+        "A kutatás során 67 olyan japán hallgató hallásbeli pontosságát elemezték, akik angolt tanultak. Az önkéntesek agyi aktivitását fMRI-vizsgálatokkal mérték, miközben olyan angol magánhangzók megkülönböztetésére tettek kísérletet, amelyek a japán nyelvben egyáltalán nem fordulnak elő. Az eredmények azt mutatták, hogy minél jobban érzékelte valaki a hangok magasságában, hosszában és tónusában bekövetkező apró változásokat, annál gyorsabban és pontosabban sajátította el az új nyelv kiejtését.",
+        "A kutatók szerint a felfedezés azt sugallja, hogy az oktatási intézményeknek érdemes lenne átgondolniuk a jelenlegi stratégiáikat, és nagyobb hangsúlyt kellene fektetniük a hangok elsajátítására a száraz nyelvtan vagy a szókincs helyett."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/University_College_London_courtyard_from_UCLH_floor_13.jpg/1280px-University_College_London_courtyard_from_UCLH_floor_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "University College London courtyard from UCLH floor 13",
+        "credit": "LondonHistoryatHome / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:University_College_London_courtyard_from_UCLH_floor_13.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261014_nyelvtanulas-idegen-nyelv-hangzas",
+          "title": "Sokkal gyorsabban megy majd a nyelvtanulás, ha így, hangosan csinálja",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T08:24:39+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T08:25:52+02:00"
+      },
+      "hot_score": 5.44,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261014_nyelvtanulas-idegen-nyelv-hangzas"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/eletmod/2026-10-15-a-nyelvtanulas-legfontosabb-titka-nem-a-szavakkal-kell-kezdeni/",
+      "seo": {
+        "meta_title": "A nyelvtanulás legfontosabb titka: nem a szavakkal kell kezd",
+        "meta_description": "Nem a szavakra vagy a nyelvtanra kell összpontosítani az idegen nyelvek elsajátításakor, hanem magára a hangzásra. Egy friss brit és japán kutatás rávilágított ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-a-nyelvtanulas-legfontosabb-titka-nem-a-szavakkal-kell-kezdeni/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/University_College_London_courtyard_from_UCLH_floor_13.jpg/1280px-University_College_London_courtyard_from_UCLH_floor_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "37ad41927c981638f4b854c80a69541b6f734c14ed37f48e095a1601824988a5",
+      "pipeline_run_id": "38691907052",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T08:25:52+02:00",
+      "updated_at": "2026-10-15T08:25:52+02:00",
+      "published_at": "2026-10-15T08:25:52+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "7133be25-d41a-5824-99a5-fc5fa7915f14",
+      "slug": "2026-10-15-mar-harmincot-evesen-hanyatlasnak-indul-a-fizikai-teljesitokepesseg",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "edzés",
+        "sport",
+        "kutatás",
+        "öregedés"
+      ],
+      "title": "Már harmincöt évesen hanyatlásnak indul a fizikai teljesítőképesség",
+      "subtitle": null,
+      "lead": "Egy csaknem öt évtizeden át tartó svéd kutatás rávilágított, hogy az emberi szervezet fizikai teljesítőképessége már harmincöt éves kor körül hanyatlásnak indul, még a rendszeresen sportolóknál is. A vizsgálat ugyanakkor arra is rámutat, hogy a felnőttkorban elkezdett mozgás jelentősen javíthat az erőnléten.",
+      "key_points": [
+        "A fizikai teljesítmény, az izomállóképesség és a kondíció harmincöt éves kor körül kezd el hanyatlani.",
+        "A negyvenhét évig tartó vizsgálat során 427, 1958-ban született ember fizikai állapotát követték nyomon tizenhat éves koruktól kezdve.",
+        "A rendszeres testmozgás nem tudja teljesen megállítani az öregedéssel járó folyamatokat, de lassítja a teljesítményromlást.",
+        "A felnőttkorban aktívvá váló résztvevők fizikai kapacitása öt-tíz százalékkal javult."
+      ],
+      "content": "Meglepő eredménnyel zárult egy csaknem öt évtizeden át tartó svéd vizsgálat, amelynek megállapításait 2025-ben publikálták a Journal of Cachexia, Sarcopenia and Muscle szaklapban. A Karolinska Institutet kutatói negyvenhét éven keresztül követték nyomon 427, véletlenszerűen kiválasztott férfi és nő fizikai képességeinek változását a tizenhatodik életévüktől egészen hatvanhárom éves korukig.\n\nA svédországi kutatócsoport munkája azért ritkaság, mert a legtöbb korábbi vizsgálattal ellentétben nem különböző korú embereket hasonlított össze egyetlen időpontban, hanem évtizedeken át ugyanazokat az alanyokat vizsgálta. Az értékek között szerepelt az aerob fittség, az izomállóképesség és a gyors erőkifejtésre szolgáló izomerő is.\n\nAz adatokból kiderült, hogy az aerob fittség és a kitartás a huszonhat és harminchat éves kor közötti időszakban tetőzik, ám a fizikai teljesítmény ezt követően lassan csökkenni kezd. A lejtmenet kezdetben szerény mértékű, de az évek múlásával fokozatosan felgyorsul, és a hatvanharmadik életévre az átlagos teljesítmény harminc-negyvennyolc százalékkal esett vissza a csúcsértékekhez képest. Ez a tendencia a férfiaknál és a nőknél azonos ütemben jelentkezett.\n\nA megfigyelések egyik legfontosabb tanulsága, hogy a rendszeres fizikai aktivitás önmagában nem képes teljesen megakadályozni az öregedéssel járó fizikai romlást, hiszen a korábban is aktív életmódot folytatóknál is megjelent a teljesítmény csökkenése. Ugyanakkor a mozgás jelentős különbséget jelent a képességek megőrzésében: a felnőttkorban aktivizálódó alanyok fittsége és ereje jelentős javulást mutatott.\n\nA folyamat hátterében nem csupán a mozgásszegény életmód, hanem biológiai változások is állnak, ám a rendszeres testmozgás hatékonyan mérsékelheti ezek hatását az idősödő szervezetben.",
+      "content_format": "markdown",
+      "body": [
+        "Meglepő eredménnyel zárult egy csaknem öt évtizeden át tartó svéd vizsgálat, amelynek megállapításait 2025-ben publikálták a Journal of Cachexia, Sarcopenia and Muscle szaklapban. A Karolinska Institutet kutatói negyvenhét éven keresztül követték nyomon 427, véletlenszerűen kiválasztott férfi és nő fizikai képességeinek változását a tizenhatodik életévüktől egészen hatvanhárom éves korukig.",
+        "A svédországi kutatócsoport munkája azért ritkaság, mert a legtöbb korábbi vizsgálattal ellentétben nem különböző korú embereket hasonlított össze egyetlen időpontban, hanem évtizedeken át ugyanazokat az alanyokat vizsgálta. Az értékek között szerepelt az aerob fittség, az izomállóképesség és a gyors erőkifejtésre szolgáló izomerő is.",
+        "Az adatokból kiderült, hogy az aerob fittség és a kitartás a huszonhat és harminchat éves kor közötti időszakban tetőzik, ám a fizikai teljesítmény ezt követően lassan csökkenni kezd. A lejtmenet kezdetben szerény mértékű, de az évek múlásával fokozatosan felgyorsul, és a hatvanharmadik életévre az átlagos teljesítmény harminc-negyvennyolc százalékkal esett vissza a csúcsértékekhez képest. Ez a tendencia a férfiaknál és a nőknél azonos ütemben jelentkezett.",
+        "A megfigyelések egyik legfontosabb tanulsága, hogy a rendszeres fizikai aktivitás önmagában nem képes teljesen megakadályozni az öregedéssel járó fizikai romlást, hiszen a korábban is aktív életmódot folytatóknál is megjelent a teljesítmény csökkenése. Ugyanakkor a mozgás jelentős különbséget jelent a képességek megőrzésében: a felnőttkorban aktivizálódó alanyok fittsége és ereje jelentős javulást mutatott.",
+        "A folyamat hátterében nem csupán a mozgásszegény életmód, hanem biológiai változások is állnak, ám a rendszeres testmozgás hatékonyan mérsékelheti ezek hatását az idősödő szervezetben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 274,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg/1280px-Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 836,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Karolinska Institutet, infart från Solnavägen",
+        "credit": "Oscar Franzén / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Karolinska_Institutet,_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014000912.htm",
+          "title": "A 47-year study reveals the age when your body starts losing strength",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-15T08:24:35+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T08:25:51+02:00"
+      },
+      "hot_score": 5.79,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261014000912.htm"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/eletmod/2026-10-15-mar-harmincot-evesen-hanyatlasnak-indul-a-fizikai-teljesitokepesseg/",
+      "seo": {
+        "meta_title": "Már harmincöt évesen hanyatlásnak indul a fizikai teljesítők",
+        "meta_description": "Egy csaknem öt évtizeden át tartó svéd kutatás rávilágított, hogy az emberi szervezet fizikai teljesítőképessége már harmincöt éves kor körül hanyatlásnak indul",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-mar-harmincot-evesen-hanyatlasnak-indul-a-fizikai-teljesitokepesseg/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg/1280px-Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c0d2232d098940bc6ae79fb8a7ed10556c6ccaafa15ed2d396af66f5d3c4bebb",
+      "pipeline_run_id": "38691907052",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T08:25:51+02:00",
+      "updated_at": "2026-10-15T08:25:51+02:00",
+      "published_at": "2026-10-15T08:25:51+02:00",
+      "expires_at": null
+    },
     {
       "id": "6ace6291-8c90-5e32-902f-e70d7e87f3a2",
       "slug": "2026-10-15-jelentosen-nott-a-rakos-megbetegedesek-szama-az-otven-ev-alattiak-kor",
