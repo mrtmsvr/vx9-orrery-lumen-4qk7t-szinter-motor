@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T19:57:08+02:00",
+  "updated_at": "2026-10-15T19:58:24+02:00",
   "articles": [
     {
       "id": "27d1e0d4-1cd4-5575-b0e8-9afa4a0f926d",
@@ -782,16 +782,16 @@
       "word_count": 269,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg/1280px-A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/e1588237ef64bb3d.jpg",
+        "width": 4000,
+        "height": 4000,
         "kind": "photo",
-        "pos": "center",
-        "alt": ": Former Chamber of Commerce and Industry facade detail. Commerce and Industry allegorical building decoration Limestone statues by Adorján Horváth in 1909. - #5 Szent István Street (Route 1) , Győr,",
-        "credit": "Globetrotter19 / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja,_2017_Gy%C5%91r.jpg",
-        "vision_score": 8.0
+        "alt": "small business, entrepreneur, ecommerce, packing orders, shipping orders, home business, workspace, wooden desk, startup, small business workflow, independent seller, office equipment, work from home,",
+        "credit": "RobertCharlesTaylor / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/small-business-entrepreneur-10157445/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/e1588237ef64bb3d.jpg",
+        "orig_url": "https://pixabay.com/get/g26465878f542d21626aa2977a7deb1bc24bbbb624664288f954f87b149e7ddd1a92f0391a4bf249f731ed66bb4e17c55685376bb71400e158df5bcfa6ac13abd_1280.png"
       },
       "inline_images": [],
       "sources": [
@@ -826,7 +826,7 @@
         "meta_title": "Így alakulhat át a vállalkozók adózása 2027-től",
         "meta_description": "A Magyar Kereskedelmi és Iparkamara (MKIK) hivatalosan is benyújtotta a Pénzügyminisztériumnak a katát és a vagyonadót érintő módosító javaslatait. A javaslatcs",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-uj-szocialis-kata-es-vagyonado-a-kamara-javaslatai/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg/1280px-A_Kereskedelmi_%C3%A9s_Iparkamara_egykori_kupol%C3%A1s_sarokpalot%C3%A1ja%2C_2017_Gy%C5%91r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/e1588237ef64bb3d.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -852,7 +852,7 @@
       "pipeline_run_id": "38750299848",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T16:33:54+02:00",
-      "updated_at": "2026-10-15T19:52:28+02:00",
+      "updated_at": "2026-10-15T19:58:24+02:00",
       "published_at": "2026-10-15T16:33:54+02:00",
       "expires_at": null
     },
