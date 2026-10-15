@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T08:26:25+02:00",
+  "updated_at": "2026-10-15T08:27:07+02:00",
   "articles": [
     {
       "id": "8dcbf054-6d0d-547b-9bcc-1315d8ac53c8",
@@ -36,18 +36,7 @@
       "reading_time_min": 2,
       "word_count": 277,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Pócs János Országgyűlési képviselő Jászság",
-        "credit": "H.andras / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg",
-        "vision_score": 10.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -85,7 +74,7 @@
         "meta_title": "Több tízmillió forint közpénz kötött ki Pócs János földjén",
         "meta_description": "Több tízmillió forint állami támogatást hívtak le a Bethlen Gábor Alapkezelő Zrt.-től olyan szervezetek, amelyek szorosan kötődnek Pócs János fideszes országgyű",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-tobb-tizmillio-forint-kozpenz-kotott-ki-pocs-janos-foldjen/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -111,7 +100,7 @@
       "pipeline_run_id": "38691907052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T08:26:25+02:00",
-      "updated_at": "2026-10-15T08:26:25+02:00",
+      "updated_at": "2026-10-15T08:27:07+02:00",
       "published_at": "2026-10-15T08:26:25+02:00",
       "expires_at": null
     },
