@@ -1,35 +1,35 @@
 {
-  "id": "b8d9a5ed0a",
-  "date": "2026-10-14",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-14-kapitany-istvan-szerint-a-rezsicsokkentes-marad-az-uzemanyagar-viszon/",
-  "article_title": "Kapitány István szerint a rezsicsökkentés marad, az üzemanyagár viszont piaci alapú lesz",
-  "category": "kozelet",
+  "id": "d8887bc429",
+  "date": "2026-10-15",
+  "status": "pending",
+  "article_url": "/penzvilag/2026-10-14-nullaszazalekos-hitellel-tamogatjak-a-hazai-vallalkozasokat/",
+  "article_title": "Nullaszázalékos hitellel támogatják a hazai vállalkozásokat",
+  "category": "penzvilag",
   "choices": [
     {
-      "question": "Ön szerint helyes-e, hogy az üzemanyagárakat a piaci folyamatokra bízzák?",
+      "question": "Ön szerint helyes-e a hazai kkv-k uniós hitellel való támogatása?",
       "options": [
-        "Igen, a szabadpiac a leghatékonyabb.",
-        "Nem, állami árszabályozásra lenne szükség.",
-        "Nem tudom / nincs véleményem."
+        "Igen, fontos a gazdaságfejlesztés",
+        "Nem, torzítja a versenyt",
+        "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a gazdaságpolitikában jelenleg?",
+      "question": "Megfelelő eszköz-e a kamatmentes hitel a kisvállalkozások versenyképességének növelésére?",
       "options": [
-        "Az üzemanyagárak állami korlátozását.",
-        "A rezsicsökkentés fenntartását minden áron.",
-        "Nem tudom / nincs véleményem."
+        "Igen, jelentős segítség",
+        "Nem elegendő önmagában",
+        "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyeseli-e, hogy a kormány kivonul az üzemanyag-árak szabályozásából?",
+      "question": "Kell-e központi forrásokkal segíteni a hazai vállalkozások beruházásait?",
       "options": [
-        "Igen, ez tehermentesíti a költségvetést.",
-        "Nem, ez túl nagy áremelkedést okoz.",
-        "Nem tudom / nincs véleményem."
+        "Igen, mindenképpen",
+        "Nem, a piacra kell bízni",
+        "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 5832
+  "msg_id": 6189
 }
