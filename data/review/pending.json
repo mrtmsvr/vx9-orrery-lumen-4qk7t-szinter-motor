@@ -13061,7 +13061,7 @@
     {
       "id": "3e7cc8bc-a12b-5f98-82f4-9b8af454b0d4",
       "slug": "2026-10-15-tragedia-pakisztanban-28-diak-vesztette-eletet-egy-iskolaepulet-beoml",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -13092,16 +13092,17 @@
       "word_count": 221,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_center_Peshawar_city.jpg/1280px-City_center_Peshawar_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/e69bb8a4c3cc8ab3.jpg",
+        "width": 6000,
+        "height": 4000,
         "kind": "photo",
-        "pos": "top",
-        "alt": "This is the heart of peshawar city. One of the rarest sights when this place is not busy and theres room to walk freely. This is place is the backbone of trade in Peshawar with khyber bazar (Khyber ma",
-        "credit": "Mohammed Ahmed Arsalan Khan / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:City_center_Peshawar_city.jpg",
-        "vision_score": 8.0
+        "alt": "fire fighting, helm, firefighters, rescue, risk, delete exercise, respiratory protection, firefighting job, fire fighting, firefighters, firefighters, rescue, rescue, rescue, risk, risk, risk, risk, r",
+        "credit": "Randgruppe / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/fire-fighting-helm-firefighters-4495488/",
+        "vision_score": 5.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/e69bb8a4c3cc8ab3.jpg",
+        "orig_url": "https://pixabay.com/get/g28376ac81490134748036b208fd38dfad88dbda12da29a62709f0f0e7e1a37c759ee31f0d84a21574594846576015c5f24a12bbcf8385eabb80cb43499fe1127_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -13179,7 +13180,7 @@
         "meta_title": "Tragédia Pakisztánban: 28 diák vesztette életét egy iskolaép",
         "meta_description": "Huszonnyolc diák és egy tanár halt meg, miután beomlott egy magániskola mennyezete a pakisztáni Pesávarban. A katasztrófa pontos okait még vizsgálják, a mentőcs",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-tragedia-pakisztanban-28-diak-vesztette-eletet-egy-iskolaepulet-beoml/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/City_center_Peshawar_city.jpg/1280px-City_center_Peshawar_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/e69bb8a4c3cc8ab3.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13196,9 +13197,9 @@
       "dedupe_hash": "bb94ee229c02db53999c99b7937f8abee3685ca7925333716450968b4c88489f",
       "pipeline_run_id": "38789407576",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T21:05:51+02:00",
-      "updated_at": "2026-10-15T21:05:51+02:00",
-      "published_at": "2026-10-15T21:05:51+02:00",
+      "created_at": "2026-10-15T23:28:01+02:00",
+      "updated_at": "2026-10-15T23:28:01+02:00",
+      "published_at": "2026-10-15T23:28:01+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -13213,9 +13214,9 @@
         "msg_ids": [],
         "control_id": 6511,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 23:27 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T23:27:36+02:00"
+      "live": true
     },
     {
       "id": "e4149d10-a1af-5e13-bfeb-b9c4c27773b3",
