@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T10:28:21+02:00",
+  "updated_at": "2026-10-15T10:28:27+02:00",
   "articles": [
     {
       "id": "1f22d9f5-3663-58b1-9b3f-0ad08d15e374",
@@ -34,16 +34,17 @@
       "word_count": 104,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg/1280px-Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/a6f40e5831288b73.jpg",
+        "width": 6000,
+        "height": 4000,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Bengal tiger (Panthera tigris tigris) female, Kanha National Park, India.",
-        "credit": "Charles J. Sharp / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg",
-        "vision_score": 7.0
+        "alt": "tiger, siberian tiger, snow, predator, carnivore, nature, winter",
+        "credit": "Pixel-mixer / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/tiger-siberian-tiger-snow-predator-1975790/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/a6f40e5831288b73.jpg",
+        "orig_url": "https://pixabay.com/get/ge1af53079c0e8fb7c2acb9c46832883b51e292325241640bd252769f8a991297d844172e72a9e3bf71c5a390c426973abdf7e59887c61153f68163de38f4ff68_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -78,7 +79,7 @@
         "meta_title": "Családja szerint lelki problémákkal küzdött a tigristámadásb",
         "meta_description": "Halottkémi eljárásban tisztázzák, milyen körülmények vezettek William Chapman halálos tigristámadásához. A férfi családja szerint a tragédia hátterében pszichés",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-mentalis-betegsege-is-kozrejatszhatott-a-tigristamadas-aldozatanak-ha/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg/1280px-Bengal_tiger_%28Panthera_tigris_tigris%29_female_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/a6f40e5831288b73.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -96,7 +97,7 @@
       "pipeline_run_id": "38697076118",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T09:15:07+02:00",
-      "updated_at": "2026-10-15T10:28:21+02:00",
+      "updated_at": "2026-10-15T10:28:27+02:00",
       "published_at": "2026-10-15T09:15:07+02:00",
       "expires_at": null
     },
