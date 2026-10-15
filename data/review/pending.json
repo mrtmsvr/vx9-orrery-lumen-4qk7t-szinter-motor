@@ -10677,27 +10677,16 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Starlink_Mission_%2847926144123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 1625,
+          "height": 675,
           "kind": "photo",
-          "pos": "top",
-          "alt": "Official portrait of Volodymyr Zelenskyy.",
-          "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
-          "vision_score": 10.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Volodymyr_Zelensky_Illustration.jpg/1280px-Volodymyr_Zelensky_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1600,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Volodymyr Zelensky Illustration",
-          "credit": "Coreypkolb / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Illustration.jpg"
+          "pos": "center",
+          "alt": "Starlink Mission",
+          "credit": "Official SpaceX Photos / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_Mission_(47926144123).jpg",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -10757,15 +10746,31 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-15T12:04:15+00:00",
         "msg_ids": [
           6238,
           6239,
-          6240
+          6240,
+          6317
         ],
-        "control_id": 6241
-      }
+        "control_id": 6318
+      },
+      "image_queries": [
+        "Volodymyr Zelensky",
+        "Donald Trump",
+        "Starlink",
+        "SpaceX",
+        "The Guardian",
+        "Vladimir Putin",
+        "satellite dish",
+        "military drone",
+        "warzone"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Volodymyr_Zelensky_Illustration.jpg/1280px-Volodymyr_Zelensky_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "d619c4f1-c3cb-5828-a11b-281ac4c5c929",
