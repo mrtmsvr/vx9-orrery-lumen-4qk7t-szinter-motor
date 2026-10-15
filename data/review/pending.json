@@ -10700,14 +10700,12 @@
         "title": 1,
         "image": 2,
         "sent_at": "2026-10-15T14:33:18+00:00",
-        "msg_ids": [
-          6348,
-          6349,
-          6350,
-          6351
-        ],
-        "control_id": 6352
-      }
+        "msg_ids": [],
+        "control_id": 6352,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:07 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-15T20:07:36+02:00"
     },
     {
       "id": "8ca3a856-89a6-5def-98ac-53e7762eaad6",
