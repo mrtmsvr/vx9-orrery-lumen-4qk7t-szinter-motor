@@ -11811,9 +11811,9 @@
       "live": true
     },
     {
-      "id": "510df21c-6943-59d3-ba0a-5de165004be2",
-      "slug": "2026-10-15-ketmilliard-euros-kompenzaciot-es-120-ezres-nyugdijminimumot-iger-a-k",
-      "status": "pending",
+      "id": "eaf2c33d-101a-587c-80a4-f18e6b6fc60e",
+      "slug": "2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11823,7 +11823,7 @@
         "nyugdíj",
         "uniós források"
       ],
-      "title": "Kétmilliárd eurós kompenzációt és 120 ezres nyugdíjminimumot ígér a kormány",
+      "title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
       "subtitle": null,
       "lead": "Kétmilliárd eurós rendkívüli kompenzációt harcolna ki Magyar Péter a következő hétéves uniós büdzsé terhére, pótolva a korábbi jogállamisági viták miatt végleg elveszített fejlesztési forrásokat. A miniszterelnök a jövő évi költségvetés véglegesítése mellett bejelentette a 28 500 forintos öregségi nyugdíjminimum négyszeresére, legalább 120 ezer forintra történő emelését is.",
       "key_points": [
@@ -11952,11 +11952,11 @@
       },
       "date": "2026-10-15",
       "date_label": "október 15.",
-      "url": "/penzvilag/2026-10-15-ketmilliard-euros-kompenzaciot-es-120-ezres-nyugdijminimumot-iger-a-k/",
+      "url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
       "seo": {
-        "meta_title": "Kétmilliárd eurós kompenzációt és 120 ezres nyugdíjminimumot",
+        "meta_title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő",
         "meta_description": "Kétmilliárd eurós rendkívüli kompenzációt harcolna ki Magyar Péter a következő hétéves uniós büdzsé terhére, pótolva a korábbi jogállamisági viták miatt végleg ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-ketmilliard-euros-kompenzaciot-es-120-ezres-nyugdijminimumot-iger-a-k/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg/1280px-European_Commission_headquarters%2C_The_Berlaymont_Building%2C_Brussels%2C_Belgium_%28_Ank_Kumar%2C_Infosys_Limited_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11994,9 +11994,9 @@
       "dedupe_hash": "1c8356e5d6dc727342ca4078ea37de68592c5a1a3ad151e2f6fe747b0b86be39",
       "pipeline_run_id": "38683789813",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T06:53:22+02:00",
-      "updated_at": "2026-10-15T06:53:22+02:00",
-      "published_at": "2026-10-15T06:53:22+02:00",
+      "created_at": "2026-10-15T08:24:16+02:00",
+      "updated_at": "2026-10-15T08:24:16+02:00",
+      "published_at": "2026-10-15T08:24:16+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12006,12 +12006,12 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-15T04:55:23+00:00",
-        "msg_ids": [
-          6090,
-          6091
-        ],
-        "control_id": 6092
-      }
+        "msg_ids": [],
+        "control_id": 6092,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "541a5b21-8a1e-5ad1-83d8-a3967187d813",
