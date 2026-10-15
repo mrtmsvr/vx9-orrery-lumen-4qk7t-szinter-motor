@@ -10742,13 +10742,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T12:04:15+00:00",
-        "msg_ids": [
-          6238,
-          6239,
-          6240,
-          6317
-        ],
-        "control_id": 6318
+        "msg_ids": [],
+        "control_id": 6318,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:25 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Volodymyr Zelensky",
@@ -10764,7 +10761,8 @@
       "images_seen": [
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Volodymyr_Zelensky_Illustration.jpg/1280px-Volodymyr_Zelensky_Illustration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-15T17:25:35+02:00"
     },
     {
       "id": "d619c4f1-c3cb-5828-a11b-281ac4c5c929",
