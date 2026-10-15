@@ -13541,12 +13541,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T19:07:34+00:00",
-        "msg_ids": [
-          6516,
-          6517
-        ],
-        "control_id": 6518
-      }
+        "msg_ids": [],
+        "control_id": 6518,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:47 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-15T22:47:36+02:00"
     }
   ]
 }
