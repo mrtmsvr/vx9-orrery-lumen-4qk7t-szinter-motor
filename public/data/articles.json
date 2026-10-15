@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T22:07:59+02:00",
+  "updated_at": "2026-10-15T22:27:36+02:00",
   "articles": [
+    {
+      "id": "2912f74d-2ba2-5eac-9172-f5cdeb38fcf4",
+      "slug": "2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ausztrália",
+        "bűnügy",
+        "rendőrség",
+        "méreg"
+      ],
+      "title": "Csigaméreggel dúsított curry Ausztráliában: túlélt egy gyilkossági kísérletet a kolléga",
+      "subtitle": null,
+      "lead": "Egy nyugat-ausztráliai nő curryjébe csigairtásra használt mérget kevert kollégája, aki a szerencsés felismerésnek köszönhetően elkerуlte a végzetes kimenetelű mérgezést. Az ügyészség élet vagy testi épség veszélyeztetése miatt emelt vádat az elkövető ellen.",
+      "key_points": [
+        "A februári eset során a sértett zsibbadást érzett a nyelvén az étel elfogyasztása után.",
+        "A nyomozók metaldehidet mutattak ki a munkahelyen tárolt curryben.",
+        "A gyanúsított a vád szerint a munkahelyi vegyszertárolóból szerezte be a mérget.",
+        "A nő bírósági tárgyalása 2026. november 5-én kezdődik."
+      ],
+      "content": "Nyugat-Ausztráliában a rendőrség lezárta annak a különös és veszélyes esetnek a nyomozását, amelyben egy 43 éves nő a munkahelyi környezetben kísérelt meg mérgezést elkövetni. Az ügy még februárban történt: az 58 éves sértett a munkahelyi szünetben készített közös ételt, amelyből a munkatársak is fogyasztottak. Az áldozat az ebédidőben tért vissza a maradékért, ekkor vette észre az ételben található élénkzöld szemcséket.\n\nA kóstolást követően jelentkező nyelvizsibbadás egyértelmű jelzést adott a sértettnek, aki így időben értesítette a hatóságokat. A laboratóriumi vizsgálatok megerősítették, hogy a szemcsék metaldehidet tartalmaztak. Ezt a szerves vegyületet a kertészetekben gyakran alkalmazzák meztelen csigák elleni védekezésre, emberi szervezetre jutva azonban súlyos mérgezést, szélsőséges esetben halált is okozhat.\n\nA rendőrségi vizsgálat során kiderült, hogy a gyanúsított a reggeli órákban felkereste az iroda vegyszertároló fészerét, mielőtt a curryhez adagolta volna a mérgező anyagot. A rendőrség közlése szerint a két fél között párkapcsolati viszony állt fenn az eset idején. Az ügyben eljáró rendőrfőkapitány, Col Blanch hangsúlyozta, hogy a sértett ébersége mentette meg az életét.\n\nAz eset rámutat a munkahelyi konfliktusok kezelésének fontosságára és a bizalmi környezet sérülékenységére. Magyarországon az ilyen jellegű szándékos veszélyeztetés a büntetőjog eszközeivel, súlyos bűncselekményként szankcionált cselekmény. A gyanúsítottnak november 5-én kell megjelennie a bíróság előtt, hogy feleljen a testi épséget veszélyeztető cselekményeiért.",
+      "content_format": "markdown",
+      "body": [
+        "Nyugat-Ausztráliában a rendőrség lezárta annak a különös és veszélyes esetnek a nyomozását, amelyben egy 43 éves nő a munkahelyi környezetben kísérelt meg mérgezést elkövetni. Az ügy még februárban történt: az 58 éves sértett a munkahelyi szünetben készített közös ételt, amelyből a munkatársak is fogyasztottak. Az áldozat az ebédidőben tért vissza a maradékért, ekkor vette észre az ételben található élénkzöld szemcséket.",
+        "A kóstolást követően jelentkező nyelvizsibbadás egyértelmű jelzést adott a sértettnek, aki így időben értesítette a hatóságokat. A laboratóriumi vizsgálatok megerősítették, hogy a szemcsék metaldehidet tartalmaztak. Ezt a szerves vegyületet a kertészetekben gyakran alkalmazzák meztelen csigák elleni védekezésre, emberi szervezetre jutva azonban súlyos mérgezést, szélsőséges esetben halált is okozhat.",
+        "A rendőrségi vizsgálat során kiderült, hogy a gyanúsított a reggeli órákban felkereste az iroda vegyszertároló fészerét, mielőtt a curryhez adagolta volna a mérgező anyagot. A rendőrség közlése szerint a két fél között párkapcsolati viszony állt fenn az eset idején. Az ügyben eljáró rendőrfőkapitány, Col Blanch hangsúlyozta, hogy a sértett ébersége mentette meg az életét.",
+        "Az eset rámutat a munkahelyi konfliktusok kezelésének fontosságára és a bizalmi környezet sérülékenységére. Magyarországon az ilyen jellegű szándékos veszélyeztetés a büntetőjog eszközeivel, súlyos bűncselekményként szankcionált cselekmény. A gyanúsítottnak november 5-én kell megjelennie a bíróság előtt, hogy feleljen a testi épséget veszélyeztető cselekményeiért."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 239,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1280px-Beef_curry_rice_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Typical home made Japanese curry rice with beef, onions, carrots and potatoes.",
+        "credit": "Ocdp / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Beef_curry_rice_003.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_csigamereg-kollega-mergezes-ausztral-no",
+          "title": "Csigaméreggel mérgezte meg kollégája curryjét egy ausztrál nő",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T21:05:50+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nagyon hálásak vagyunk azért, hogy az a személy, aki megkóstolta a curryt, észrevette, hogy valami nincs rendben",
+        "who": "Col Blanch, rendőrfőkapitány",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-15T22:27:36+02:00"
+      },
+      "hot_score": 5.3,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_csigamereg-kollega-mergezes-ausztral-no"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/vilag/2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis/",
+      "seo": {
+        "meta_title": "Csigaméreggel dúsított curry Ausztráliában: túlélt egy gyilk",
+        "meta_description": "Egy nyugat-ausztráliai nő curryjébe csigairtásra használt mérget kevert kollégája, aki a szerencsés felismerésnek köszönhetően elkerуlte a végzetes kimenetelű m",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-csigamereggel-dusitott-curry-ausztraliaban-tulelt-egy-gyilkossagi-kis/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Beef_curry_rice_003.jpg/1280px-Beef_curry_rice_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2542ecf31c2f11ad80f74222f3942c5a4bd05df83fc4cfbabf65807aa4741e9f",
+      "pipeline_run_id": "38789407576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T22:27:36+02:00",
+      "updated_at": "2026-10-15T22:27:36+02:00",
+      "published_at": "2026-10-15T22:27:36+02:00",
+      "expires_at": null
+    },
     {
       "id": "e846eeaf-e4cd-542f-97d8-5e3d6bac3bca",
       "slug": "2026-10-15-a-schopenhauer-maniatol-a-bibliaig-mit-keres-berettyan-nandor-a-mitol",
