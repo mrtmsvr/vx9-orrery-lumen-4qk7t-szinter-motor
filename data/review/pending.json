@@ -13218,9 +13218,9 @@
       "scheduled_at": "2026-10-15T23:27:36+02:00"
     },
     {
-      "id": "4914434b-3f89-55d9-aa39-408619ecff5d",
-      "slug": "2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit",
-      "status": "pending",
+      "id": "e4149d10-a1af-5e13-bfeb-b9c4c27773b3",
+      "slug": "2026-10-15-izrael-parti-multja-miatt-tiltjak-be-andrea-bocelli-indonez-koncertje",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -13230,7 +13230,7 @@
         "koncert",
         "külpolitika"
       ],
-      "title": "Agyonhallgatná és betiltaná az indonéz iszlám elit Andrea Bocellit",
+      "title": "Izrael-párti múltja miatt tiltják be Andrea Bocelli indonéz koncertjeit",
       "subtitle": null,
       "lead": "Izrael-párti nézetei és korábbi fellépései miatt az Indonéz Ulema Tanács tiltakozik Andrea Bocelli közelgő koncertei ellen. A világ legnépesebb muszlim többségű országában a vallási testületek iránymutatásai komoly politikai és társadalmi súllyal bírnak.",
       "key_points": [
@@ -13253,16 +13253,16 @@
       "word_count": 275,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg/1280px-Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Andrea_Bocelli_-_5315303241.jpg/1280px-Andrea_Bocelli_-_5315303241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1612,
+        "height": 1600,
         "kind": "photo",
         "pos": "top",
-        "alt": "Koncert Andrei Bocellego na Stadionie Poznań, fot. Jakub Janecki",
-        "credit": "Jakub Janecki / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Andrea_Bocelli_20190511_017-2_(cropped).jpg",
-        "vision_score": 10.0
+        "alt": "Album Vivere Andrei Bocellego",
+        "credit": "othree / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Andrea_Bocelli_-_5315303241.jpg",
+        "vision_score": 5.0
       },
       "inline_images": [
         {
@@ -13354,12 +13354,12 @@
       },
       "date": "2026-10-15",
       "date_label": "október 15.",
-      "url": "/vilag/2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit/",
+      "url": "/vilag/2026-10-15-izrael-parti-multja-miatt-tiltjak-be-andrea-bocelli-indonez-koncertje/",
       "seo": {
-        "meta_title": "Agyonhallgatná és betiltaná az indonéz iszlám elit Andrea Bo",
+        "meta_title": "Izrael-párti múltja miatt tiltják be Andrea Bocelli indonéz ",
         "meta_description": "Izrael-párti nézetei és korábbi fellépései miatt az Indonéz Ulema Tanács tiltakozik Andrea Bocelli közelgő koncertei ellen. A világ legnépesebb muszlim többségű",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-agyonhallgatna-es-betiltana-az-indonez-iszlam-elit-andrea-bocellit/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg/1280px-Andrea_Bocelli_20190511_017-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-izrael-parti-multja-miatt-tiltjak-be-andrea-bocelli-indonez-koncertje/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Andrea_Bocelli_-_5315303241.jpg/1280px-Andrea_Bocelli_-_5315303241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13376,9 +13376,9 @@
       "dedupe_hash": "bf88951673e9a9d02eab191a37f5beba6242913f001373f40b580e43b43d6eba",
       "pipeline_run_id": "38789407576",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T21:05:49+02:00",
-      "updated_at": "2026-10-15T21:05:49+02:00",
-      "published_at": "2026-10-15T21:05:49+02:00",
+      "created_at": "2026-10-15T23:07:57+02:00",
+      "updated_at": "2026-10-15T23:07:57+02:00",
+      "published_at": "2026-10-15T23:07:57+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13391,9 +13391,9 @@
         "msg_ids": [],
         "control_id": 6515,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 23:07 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-15T23:07:36+02:00"
+      "live": true
     },
     {
       "id": "2b10218f-4dbe-55a2-b6cf-3254e61ea9c4",
