@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T08:30:26+02:00",
+  "updated_at": "2026-10-15T08:30:41+02:00",
   "articles": [
     {
       "id": "8dcbf054-6d0d-547b-9bcc-1315d8ac53c8",
@@ -135,15 +135,15 @@
       "word_count": 183,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/University_College_London_courtyard_from_UCLH_floor_13.jpg/1280px-University_College_London_courtyard_from_UCLH_floor_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/af455c01e8-1792045834-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/af455c01e8-1792045834-0.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "University College London courtyard from UCLH floor 13",
-        "credit": "LondonHistoryatHome / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:University_College_London_courtyard_from_UCLH_floor_13.jpg"
+        "alt": "Nem a szavak magolása hozza meg a sikert a nyelvtanulásban",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -178,7 +178,7 @@
         "meta_title": "Nem a szavak magolása hozza meg a sikert a nyelvtanulásban",
         "meta_description": "Nem a szavakra vagy a nyelvtanra kell összpontosítani az idegen nyelvek elsajátításakor, hanem magára a hangzásra. Egy friss brit és japán kutatás rávilágított ",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-a-nyelvtanulas-legfontosabb-titka-nem-a-szavakkal-kell-kezdeni/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/University_College_London_courtyard_from_UCLH_floor_13.jpg/1280px-University_College_London_courtyard_from_UCLH_floor_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/af455c01e8-1792045834-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -196,7 +196,7 @@
       "pipeline_run_id": "38691907052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T08:25:52+02:00",
-      "updated_at": "2026-10-15T08:30:26+02:00",
+      "updated_at": "2026-10-15T08:30:41+02:00",
       "published_at": "2026-10-15T08:25:52+02:00",
       "expires_at": null
     },

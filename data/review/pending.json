@@ -12957,6 +12957,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/af455c01e8-1792045834-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/af455c01e8-1792045834-0.jpg",
+          "kind": "photo",
+          "alt": "Nem a szavak magolása hozza meg a sikert a nyelvtanulásban",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/af455c01e8-1792045838-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/af455c01e8-1792045838-1.jpg",
+          "kind": "photo",
+          "alt": "Nem a szavak magolása hozza meg a sikert a nyelvtanulásban",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/University_College_London_courtyard_from_UCLH_floor_13.jpg/1280px-University_College_London_courtyard_from_UCLH_floor_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -13102,9 +13124,11 @@
           6143,
           6144,
           6145,
-          6160
+          6160,
+          6166,
+          6167
         ],
-        "control_id": 6146
+        "control_id": 6168
       },
       "live": true
     },
