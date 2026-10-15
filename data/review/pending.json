@@ -10158,13 +10158,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T14:32:59+00:00",
-        "msg_ids": [
-          6332,
-          6333,
-          6453,
-          6454
-        ],
-        "control_id": 6455
+        "msg_ids": [],
+        "control_id": 6455,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:47 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Volodymyr Zelenskyy",
@@ -10175,7 +10172,8 @@
         "drone",
         "oil refinery",
         "explosion"
-      ]
+      ],
+      "scheduled_at": "2026-10-15T21:47:36+02:00"
     },
     {
       "id": "412d5960-4268-5e08-9aae-9c6f7aeea40e",
