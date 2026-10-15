@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T08:30:41+02:00",
+  "updated_at": "2026-10-15T08:30:47+02:00",
   "articles": [
     {
       "id": "8dcbf054-6d0d-547b-9bcc-1315d8ac53c8",
@@ -236,15 +236,16 @@
       "word_count": 274,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg/1280px-Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 836,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/5f16542151c7c9bc.jpg",
+        "width": 6016,
+        "height": 4016,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Karolinska Institutet, infart från Solnavägen",
-        "credit": "Oscar Franzén / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Karolinska_Institutet,_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg"
+        "alt": "legs, shoes, walking, walk, path, trail, rubber shoes, feet, woman, young, exercise, physical, activity, walking, walking, walking, walking, walking, walk, walk, exercise",
+        "credit": "Fotorech / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/legs-shoes-walking-walk-path-2635038/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/5f16542151c7c9bc.jpg",
+        "orig_url": "https://pixabay.com/get/gf6cc3afb10f94e218219ee33f49c6e6a151000491bb81a20f3526dd2c676aa845e573956e68f597a25642770b41abd427990d5c206c31cc86c684feda984589a_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -279,7 +280,7 @@
         "meta_title": "Már harmincöt évesen hanyatlásnak indul a fizikai teljesítők",
         "meta_description": "Egy csaknem öt évtizeden át tartó svéd kutatás rávilágított, hogy az emberi szervezet fizikai teljesítőképessége már harmincöt éves kor körül hanyatlásnak indul",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-15-mar-harmincot-evesen-hanyatlasnak-indul-a-fizikai-teljesitokepesseg/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg/1280px-Karolinska_Institutet%2C_infart_fr%C3%A5n_Solnav%C3%A4gen_20060723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/5f16542151c7c9bc.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -297,7 +298,7 @@
       "pipeline_run_id": "38691907052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-15T08:25:51+02:00",
-      "updated_at": "2026-10-15T08:25:51+02:00",
+      "updated_at": "2026-10-15T08:30:47+02:00",
       "published_at": "2026-10-15T08:25:51+02:00",
       "expires_at": null
     },
