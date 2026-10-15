@@ -12372,8 +12372,8 @@
         "issues": []
       },
       "review": {
-        "title": 0,
-        "image": 0,
+        "title": 1,
+        "image": 1,
         "sent_at": "2026-10-15T19:06:18+00:00",
         "msg_ids": [
           6480,
@@ -12708,7 +12708,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 2,
         "image": 0,
         "sent_at": "2026-10-15T19:06:41+00:00",
         "msg_ids": [
@@ -12895,15 +12895,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T19:07:01+00:00",
-        "msg_ids": [
-          6496,
-          6497,
-          6498,
-          6499,
-          6500,
-          6503
-        ],
-        "control_id": 6501
+        "msg_ids": [],
+        "control_id": 6501,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
