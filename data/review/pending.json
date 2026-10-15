@@ -13291,16 +13291,12 @@
         "title": 2,
         "image": 4,
         "sent_at": "2026-10-15T06:25:44+00:00",
-        "msg_ids": [
-          6147,
-          6148,
-          6149,
-          6150,
-          6151,
-          6152
-        ],
-        "control_id": 6153
-      }
+        "msg_ids": [],
+        "control_id": 6153,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:06 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-15T09:06:25+02:00"
     },
     {
       "id": "d67afdfe-dfd7-5e58-a373-6b79e188a690",
