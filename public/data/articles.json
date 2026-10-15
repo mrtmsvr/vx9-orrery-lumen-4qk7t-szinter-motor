@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T11:37:08+02:00",
+  "updated_at": "2026-10-15T14:04:08+02:00",
   "articles": [
+    {
+      "id": "f2789299-1e4a-502d-be08-bc9c174471bb",
+      "slug": "2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapesten",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Budapest",
+        "Karácsony Gergely",
+        "fejlesztés",
+        "közlekedés",
+        "önkormányzat"
+      ],
+      "title": "Karácsony Gergely: Nagy zöld fejlesztések indulnak Budapesten",
+      "subtitle": null,
+      "lead": "Megválasztásának hetedik évfordulóján jelentős budapesti fejlesztésekről számolt be a főpolgármester. Karácsony Gergely közölte: a kormánnyal partnerségben, szoros időkényszerben indítanak zöld beruházásokat.",
+      "key_points": [
+        "Hetedik évfordulóján jelentős fővárosi fejlesztéseket jelentett be Karácsony Gergely főpolgármester.",
+        "A beruházások között szerepel a 3-as metró meghosszabbítása, a Diákváros és a Rákosrendező-beruházás.",
+        "A főpolgármester szerint a hazaérkező uniós források felhasználásának szabályai és a lemaradás miatt egyszerre kell belevágni a munkákba."
+      ],
+      "content": "Fejlesztési dömping indul a következő hónapokban a magyar fővárosban, miután a kormánnyal nem küzdelemben, hanem partnerségben kívánnak együttműködni – közölte Karácsony Gergely főpolgármester csütörtök reggel a közösségi oldalán, megválasztásának hetedik évfordulója alkalmából.\n\nA bejelentés szerint Budapest időkényszerben van, ami miatt be kell hozni a korábbi lemaradást, ráadásul a hazaérkező uniós pénzek felhasználásának szabályai is szoros határidőket szabnak meg.\n\nA tervek között szerepel a 3-as metró meghosszabbítása, a Diákváros megépítése, valamint a Rákosrendezőhöz kapcsolódó beruházás elindítása is.\n\nA zöldterületek fejlesztése terén a Népligettől a Városmajorig, a Gellért-hegytől a Római-partig terveznek megújulást, emellett a HÉV-ek modernizációja mellett új villamosok és elektromos buszok érkeznek a közösségi közlekedésbe.",
+      "content_format": "markdown",
+      "body": [
+        "Fejlesztési dömping indul a következő hónapokban a magyar fővárosban, miután a kormánnyal nem küzdelemben, hanem partnerségben kívánnak együttműködni – közölte Karácsony Gergely főpolgármester csütörtök reggel a közösségi oldalán, megválasztásának hetedik évfordulója alkalmából.",
+        "A bejelentés szerint Budapest időkényszerben van, ami miatt be kell hozni a korábbi lemaradást, ráadásul a hazaérkező uniós pénzek felhasználásának szabályai is szoros határidőket szabnak meg.",
+        "A tervek között szerepel a 3-as metró meghosszabbítása, a Diákváros megépítése, valamint a Rákosrendezőhöz kapcsolódó beruházás elindítása is.",
+        "A zöldterületek fejlesztése terén a Népligettől a Városmajorig, a Gellért-hegytől a Római-partig terveznek megújulást, emellett a HÉV-ek modernizációja mellett új villamosok és elektromos buszok érkeznek a közösségi közlekedésbe."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 128,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Budapest%2C_Transport_Museum_2015%2C_153.jpg/1280px-Budapest%2C_Transport_Museum_2015%2C_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Transport Museum 2015",
+        "credit": "Christo / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Transport_Museum_2015,_153.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261015_karacsony-a-kovetkezo-evekben-sokan-sokszor-fogjak-szidni-az-anyukamat",
+          "title": "Karácsony: „A következő években sokan sokszor fogják szidni az anyukámat”",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-15T14:03:18+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Azt is tudom, hogy a következő években sokan sokszor fognak szidni az anyukámat, pedig ő nem szolgált rá. Azért, mert az időkényszer és az Orbán-kormány okozta lemaradás miatt lényegében egyszerre kell belevágnunk a nagy fejlesztésekbe",
+        "who": "Karácsony Gergely főpolgármester",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-15T14:04:08+02:00"
+      },
+      "hot_score": 5.57,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261015_karacsony-a-kovetkezo-evekben-sokan-sokszor-fogjak-szidni-az-anyukamat"
+        ]
+      },
+      "date": "2026-10-15",
+      "date_label": "október 15.",
+      "url": "/kozelet/2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapesten/",
+      "seo": {
+        "meta_title": "Karácsony Gergely: Nagy zöld fejlesztések indulnak Budapeste",
+        "meta_description": "Megválasztásának hetedik évfordulóján jelentős budapesti fejlesztésekről számolt be a főpolgármester. Karácsony Gergely közölte: a kormánnyal partnerségben, szo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-karacsony-gergely-nagy-zold-fejlesztesek-indulnak-budapesten/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Budapest%2C_Transport_Museum_2015%2C_153.jpg/1280px-Budapest%2C_Transport_Museum_2015%2C_153.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "52ff192dca267bf85e5d20976656eb5bb64836ac033754eff789ce9afea8f6e3",
+      "pipeline_run_id": "38729448588",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-15T14:04:08+02:00",
+      "updated_at": "2026-10-15T14:04:08+02:00",
+      "published_at": "2026-10-15T14:04:08+02:00",
+      "expires_at": null
+    },
     {
       "id": "198b953e-63c2-5733-8436-52f3839d9399",
       "slug": "2026-10-15-megrazta-a-tozsdeket-a-varatlanul-magas-amerikai-inflacio",
