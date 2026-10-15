@@ -13057,13 +13057,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-15T19:07:11+00:00",
-        "msg_ids": [
-          6504,
-          6505,
-          6506
-        ],
-        "control_id": 6507
-      }
+        "msg_ids": [],
+        "control_id": 6507,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:27 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-15T22:27:36+02:00"
     },
     {
       "id": "3e7cc8bc-a12b-5f98-82f4-9b8af454b0d4",
@@ -13215,7 +13214,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-15T19:07:20+00:00",
         "msg_ids": [
           6508,
