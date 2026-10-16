@@ -16457,6 +16457,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/7e60365c9a-1792143513-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/7e60365c9a-1792143513-0.jpg",
+          "kind": "photo",
+          "alt": "Donald Trump szerint Zelenszkij az ukrajnai béke legnagyobb akadálya",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/7e60365c9a-1792143515-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/7e60365c9a-1792143515-1.jpg",
+          "kind": "photo",
+          "alt": "Donald Trump szerint Zelenszkij az ukrajnai béke legnagyobb akadálya",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1625,
@@ -16589,9 +16611,11 @@
           6738,
           6739,
           6740,
-          6741
+          6741,
+          6783,
+          6784
         ],
-        "control_id": 6742
+        "control_id": 6785
       },
       "image_queries": [
         "Donald Trump",
