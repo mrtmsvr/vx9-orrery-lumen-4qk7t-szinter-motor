@@ -15107,19 +15107,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-16T05:49:55+00:00",
-        "msg_ids": [
-          6605,
-          6606,
-          6607,
-          6608,
-          6609,
-          6642,
-          6651,
-          6652,
-          6654,
-          6655
-        ],
-        "control_id": 6656
+        "msg_ids": [],
+        "control_id": 6656,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:14 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Korea Exchange (KRX)",
@@ -15137,7 +15128,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/1280px-Dow_Jones_Industrial_Average.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/6/61/Dow_jones_daily_close_logged.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ]
+      ],
+      "scheduled_at": "2026-10-16T09:14:50+02:00"
     },
     {
       "id": "66f31bc5-4e3a-5f6e-a887-6662ea789858",
