@@ -15852,8 +15852,8 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143321-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143321-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143587-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143587-0.jpg",
           "kind": "photo",
           "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
           "likeness": false,
@@ -15863,8 +15863,8 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143322-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143322-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143589-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143589-1.jpg",
           "kind": "photo",
           "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
           "likeness": false,
@@ -15987,7 +15987,7 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T09:23:20+00:00",
         "msg_ids": [
           6715,
@@ -15998,9 +15998,11 @@
           6720,
           6721,
           6770,
-          6771
+          6771,
+          6793,
+          6794
         ],
-        "control_id": 6772
+        "control_id": 6795
       },
       "image_queries": [
         "Wise (financial services company)",
