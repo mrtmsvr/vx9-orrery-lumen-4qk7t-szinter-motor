@@ -16687,15 +16687,15 @@
           "vision_score": 7.0
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vol%C3%A1nbusz_ticket_cash_register%2C_2018_R%C3%A1ckeve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Budapest_central_circuit_court.JPG/1280px-Budapest_central_circuit_court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1601,
+          "height": 900,
           "kind": "photo",
-          "pos": "top",
-          "alt": ": Volánbusz ticket cash register close to HÉV station. - Kossuth street, Ráckeve, Pest County.",
-          "credit": "Globetrotter19 / Wikimedia Commons",
+          "pos": "center",
+          "alt": "",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
           "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Vol%C3%A1nbusz_ticket_cash_register,_2018_R%C3%A1ckeve.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_central_circuit_court.JPG",
           "vision_score": 7.0
         }
       ],
@@ -16776,17 +16776,34 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T17:45:11+00:00",
         "msg_ids": [
           6954,
           6955,
           6956,
-          6958
+          6958,
+          6970,
+          6971
         ],
-        "control_id": 6957
+        "control_id": 6972
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Norbert Szivek",
+        "Daniel Jellinek",
+        "Hungarian State Asset Management",
+        "Budapest Central District Court",
+        "Budapest Metropolitan Court",
+        "Volán bus company",
+        "prison cell",
+        "courtroom",
+        "electronic ankle monitor"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Vol%C3%A1nbusz_ticket_kiosk%2C_Road_510%2C_2019_Dunaharaszti.jpg/1280px-Vol%C3%A1nbusz_ticket_kiosk%2C_Road_510%2C_2019_Dunaharaszti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vol%C3%A1nbusz_ticket_cash_register%2C_2018_R%C3%A1ckeve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
     },
     {
       "id": "2955f5aa-fb67-59ea-8817-e4f31c83a0cb",
