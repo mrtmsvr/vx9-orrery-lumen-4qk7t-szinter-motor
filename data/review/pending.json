@@ -16181,15 +16181,12 @@
         "title": 0,
         "image": 3,
         "sent_at": "2026-10-16T16:15:13+00:00",
-        "msg_ids": [
-          6905,
-          6906,
-          6907,
-          6908,
-          6909
-        ],
-        "control_id": 6910
-      }
+        "msg_ids": [],
+        "control_id": 6910,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 19:05 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T19:05:22+02:00"
     },
     {
       "id": "7f75e34d-d27a-5809-b53d-d93c26907607",
