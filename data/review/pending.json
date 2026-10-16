@@ -16385,13 +16385,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T18:54:41+00:00",
-        "msg_ids": [
-          7035,
-          7036,
-          7037
-        ],
-        "control_id": 7038
-      }
+        "msg_ids": [],
+        "control_id": 7038,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:31 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T21:31:22+02:00"
     },
     {
       "id": "5b64222e-450c-574d-bd8e-b6d50eb59c29",
