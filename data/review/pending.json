@@ -14987,16 +14987,90 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Saudi_Aramco_Archive%2C_1951_05.jpg/1280px-Saudi_Aramco_Archive%2C_1951_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 872,
+          "height": 675,
           "kind": "photo",
           "pos": "center",
-          "alt": "Saudi Aramco Archive, 1951",
-          "credit": "Saudi Aramco / Wikimedia Commons",
+          "alt": "Riyadh Skyline  is growing. Dated February 2018",
+          "credit": "B.alotaby / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Boulevard_Riyadh_City.jpg/1280px-Boulevard_Riyadh_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Boulevard Riyadh City, one of Riyadh Season's zones, the zone has many activities and sections, the one in the image is a part of the Boulevard World side.",
+          "credit": "Humanized / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Boulevard_Riyadh_City.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Ras_Tanura_Refinery_by_Paul_Palmer_2487098008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 706,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Ras Tanura from the air",
+          "credit": "Paul Palmer / Wikimedia Commons",
           "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Aramco_Archive,_1951_05.jpg",
-          "vision_score": 6.0
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ras_Tanura_Refinery_by_Paul_Palmer_2487098008.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aerial_view_of_Ras_Tanura%2C_1947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 912,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "The refinery and pier at Ras Tanura was completed in 1945. Though its original output was 50,000 barrel per day, by 1952 its capacity had been expanded to 180,000 bpd",
+          "credit": "John C. Tarvin / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Ras_Tanura,_1947.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg/1280px-Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "تعديل في الفوتوشوب لمروحية البلاك هوك (من تصويري(",
+          "credit": "Qrmoo3 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Arabian_National_Guard_UH-60_Black_Hawk_(Photoshop_Edit).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28My_Trip_To_Al-Jenadriyah_32%29.jpg/1280px-28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28My_Trip_To_Al-Jenadriyah_32%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "مروحية البلاك هوك التابعة للحرس الوطني السعودي في معرض الجنادرية.",
+          "credit": "Qrmoo3 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_(My_Trip_To_Al-Jenadriyah_32).jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g42305feaea21ec92f0856ba6737816ee3ff248619b62d47d2242e94af356c4176be9ebfe16d46bcb871f2df0511ff6dddba0408b00094413cfcd482db9f01ba0_1280.jpg",
+          "width": 3872,
+          "height": 2592,
+          "kind": "photo",
+          "alt": "sunset, factory, buildings, illuminated, nature, industrial, industrial plant, pollution",
+          "credit": "tasukaran / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sunset-factory-buildings-6226244/"
+        },
+        {
+          "url": "https://pixabay.com/get/gee9275a2ba094a17921e8ab9f6a2cc1fb42960ca3b01f20b8f2404563e1caa2ca8c67165c3d3bcaac5f3a8e5e7e09d60e9db746ea67418b6c18991338c14acfa_1280.jpg",
+          "width": 3888,
+          "height": 2592,
+          "kind": "photo",
+          "alt": "rig, oil industry, work, blue work, blue industry, rig, rig, rig, oil industry, oil industry, oil industry, oil industry, oil industry",
+          "credit": "kristinakasp / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/rig-oil-industry-work-blue-work-2251648/"
         }
       ],
       "story": [
@@ -15056,7 +15130,7 @@
       },
       "review": {
         "title": 5,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T05:49:48+00:00",
         "msg_ids": [
           6596,
@@ -15066,9 +15140,17 @@
           6600,
           6601,
           6602,
-          6623
+          6623,
+          6625,
+          6626,
+          6627,
+          6628,
+          6629,
+          6630,
+          6631,
+          6632
         ],
-        "control_id": 6624
+        "control_id": 6633
       },
       "image_queries": [
         "Saudi Aramco",
@@ -15079,12 +15161,21 @@
         "Houthi militia",
         "oil refinery",
         "industrial emergency response",
-        "drone surveillance"
+        "drone surveillance",
+        "Riyadh",
+        "Ras Tanura refinery",
+        "Jafurah gas plant",
+        "Saudi Ministry of Energy",
+        "Saudi Arabian National Guard",
+        "oil pipeline",
+        "drone in flight",
+        "industrial control room"
       ],
       "images_seen": [
         "https://upload.wikimedia.org/wikipedia/commons/6/69/Gamal_Abdel_Nasser_meets_Amin_al-Hafiz_in_Cairo%2C_1964.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Camel_on_view_at_Dhahran_Air_Base.jpg/1280px-Camel_on_view_at_Dhahran_Air_Base.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/c/c0/Micropholcus_dhahran_male.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Saudi_Aramco_Archive%2C_1951_05.jpg/1280px-Saudi_Aramco_Archive%2C_1951_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Saudi_Aramco_Archive%2C_1951_04.jpg/1280px-Saudi_Aramco_Archive%2C_1951_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saudi_Aramco_Archive%2C_1951_03.jpg/1280px-Saudi_Aramco_Archive%2C_1951_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/f/fb/Amin_H._Nasser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
