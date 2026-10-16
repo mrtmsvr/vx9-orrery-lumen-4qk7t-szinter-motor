@@ -16081,9 +16081,9 @@
       "live": true
     },
     {
-      "id": "252a794a-d7d1-5ff8-b023-83196d136a9c",
-      "slug": "2026-10-16-ketmilliard-euros-pofon-brusszelben-magyar-peter-nem-ker-a-budzsebol",
-      "status": "pending",
+      "id": "157ec010-d65f-5cec-ad24-0a6886c4e9a2",
+      "slug": "2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -16093,7 +16093,7 @@
         "migráció",
         "kohéziós források"
       ],
-      "title": "Kétmilliárd eurós pofon Brüsszelben: Magyar Péter nem kér a büdzséből",
+      "title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
       "subtitle": null,
       "lead": "Holtpontra jutott a 2028–2034-es uniós költségvetés vitája a brüsszeli csúcstalálkozón, miután a magyar kormányfő elfogadhatatlannak nevezte a javaslatot. A tárgyalások során a kohéziós források jövője mellett a szigorúbb migrációs szabályozás is a napirendre került.",
       "key_points": [
@@ -16112,18 +16112,7 @@
       "reading_time_min": 1,
       "word_count": 148,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg/1280px-Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 787,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Atmosphere outside the Council.\nThe Belgian Presidency of the European Union called an extraordinary informal meeting of the European Council. After their joint declaration last week in which the Head",
-        "credit": "Christian Lambiotte / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Brussels_Extraordinary_European_Council,_21.09.2001_(P-008403_00-2).jpg",
-        "vision_score": 5.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -16209,12 +16198,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/vilag/2026-10-16-ketmilliard-euros-pofon-brusszelben-magyar-peter-nem-ker-a-budzsebol/",
+      "url": "/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
       "seo": {
-        "meta_title": "Kétmilliárd eurós pofon Brüsszelben: Magyar Péter nem kér a ",
+        "meta_title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüs",
         "meta_description": "Holtpontra jutott a 2028–2034-es uniós költségvetés vitája a brüsszeli csúcstalálkozón, miután a magyar kormányfő elfogadhatatlannak nevezte a javaslatot. A tár",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-ketmilliard-euros-pofon-brusszelben-magyar-peter-nem-ker-a-budzsebol/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg/1280px-Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -16251,9 +16240,9 @@
       "dedupe_hash": "62a6ab39e2d71eb15ea96335898bf9536bdc7d4be08eed9e6ac9e972cd7559f7",
       "pipeline_run_id": "38938284848",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T19:54:08+02:00",
-      "updated_at": "2026-10-16T19:54:08+02:00",
-      "published_at": "2026-10-16T19:54:08+02:00",
+      "created_at": "2026-10-16T20:45:52+02:00",
+      "updated_at": "2026-10-16T20:45:52+02:00",
+      "published_at": "2026-10-16T20:45:52+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -16263,15 +16252,10 @@
         "title": 1,
         "image": -1,
         "sent_at": "2026-10-16T17:55:54+00:00",
-        "msg_ids": [
-          7002,
-          7003,
-          7018,
-          7019,
-          7022,
-          7023
-        ],
-        "control_id": 7024
+        "msg_ids": [],
+        "control_id": 7024,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Peter Magyar",
@@ -16290,7 +16274,8 @@
         "conference hall",
         "negotiation table",
         "press conference"
-      ]
+      ],
+      "live": true
     }
   ]
 }

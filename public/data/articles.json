@@ -1,7 +1,137 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T20:25:28+02:00",
+  "updated_at": "2026-10-16T20:45:52+02:00",
   "articles": [
+    {
+      "id": "157ec010-d65f-5cec-ad24-0a6886c4e9a2",
+      "slug": "2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "EU-csúcs",
+        "uniós költségvetés",
+        "migráció",
+        "kohéziós források"
+      ],
+      "title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
+      "subtitle": null,
+      "lead": "Holtpontra jutott a 2028–2034-es uniós költségvetés vitája a brüsszeli csúcstalálkozón, miután a magyar kormányfő elfogadhatatlannak nevezte a javaslatot. A tárgyalások során a kohéziós források jövője mellett a szigorúbb migrációs szabályozás is a napirendre került.",
+      "key_points": [
+        "A hétéves uniós költségvetési javaszatot elutasította Magyar Péter miniszterelnök.",
+        "Magyarország a szigorú migrációs szabályok és a hatékonyabb határvédelem mellett állt ki.",
+        "A brüsszeli csúcson a kohéziós források jövőjéről is éles vita alakult ki a tagállamok között."
+      ],
+      "content": "Két nap tárgyalás után véget ért az uniós vezetők brüsszeli csúcstalálkozója, amelyen a pénzügyi kérdések mellett a migrációs nyomás kezelése kapott kiemelt szerepet. A hétéves költségvetés vitája holtpontra jutott, miután a kabinet nem tartja elfogadhatónak a jelenlegi javaslatot, és akár kétmilliárd euróval nagyobb támogatási keretet szeretne kiharcolni [1].\n\nAz illegális migráció elleni fellépés terén a tagállamok többsége már a határozottabb határvédelem és a jogalap nélkül érkezők azonnali visszaküldése mellett foglal állást. Magyarország a tárgyalásokon a legszigorúbb, lengyel–olasz–dán kezdeményezést támogatja [2].\n\nA kohéziós források jövőjét illetően Magyarország azon hat blokkoló tagállam közé került, amelyek nem értenek egyet az uniós büdzsé jelenlegi tervezetével. A brüsszeli egyeztetések novemberben Dublinban és Brüsszelben folytatódnak [1].",
+      "content_format": "markdown",
+      "body": [
+        "Két nap tárgyalás után véget ért az uniós vezetők brüsszeli csúcstalálkozója, amelyen a pénzügyi kérdések mellett a migrációs nyomás kezelése kapott kiemelt szerepet. A hétéves költségvetés vitája holtpontra jutott, miután a kabinet nem tartja elfogadhatónak a jelenlegi javaslatot, és akár kétmilliárd euróval nagyobb támogatási keretet szeretne kiharcolni [1].",
+        "Az illegális migráció elleni fellépés terén a tagállamok többsége már a határozottabb határvédelem és a jogalap nélkül érkezők azonnali visszaküldése mellett foglal állást. Magyarország a tárgyalásokon a legszigorúbb, lengyel–olasz–dán kezdeményezést támogatja [2].",
+        "A kohéziós források jövőjét illetően Magyarország azon hat blokkoló tagállam közé került, amelyek nem értenek egyet az uniós büdzsé jelenlegi tervezetével. A brüsszeli egyeztetések novemberben Dublinban és Brüsszelben folytatódnak [1]."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 148,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261016/tisza-kormany-komoly-konfliktusokban-foszereplo-magyar-peter-az-eu-csucson-870094",
+          "title": "Tisza-kormány: komoly konfliktusokban főszereplő Magyar Péter az EU-csúcson",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T19:54:08+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Egyértelmű, hogy ma már a szigorú, határozott és hatékony határvédelem, valamint az illegális migránsok azonnali visszaküldése a követendő példa az európai országok többségében",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T20:45:52+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261016/tisza-kormany-komoly-konfliktusokban-foszereplo-magyar-peter-az-eu-csucson-870094"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
+      "seo": {
+        "meta_title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüs",
+        "meta_description": "Holtpontra jutott a 2028–2034-es uniós költségvetés vitája a brüsszeli csúcstalálkozón, miután a magyar kormányfő elfogadhatatlannak nevezte a javaslatot. A tár",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "c9dd8652-4c47-54e2-a2a4-b6d6a33585d2",
+        "eaf2c33d-101a-587c-80a4-f18e6b6fc60e",
+        "cd237d04-ed2b-5e00-864c-8dbe574f472c"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar Péter Brüsszelbe ment: nem tetszik a hétéves költségvetés",
+          "url": "/kozelet/2026-10-16-brusszeli-csucs-magyar-peter-elutasitotta-a-koltesi-keretet/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
+          "url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+          "url": "/kozelet/2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij/",
+          "date": "2026-10-12"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "62a6ab39e2d71eb15ea96335898bf9536bdc7d4be08eed9e6ac9e972cd7559f7",
+      "pipeline_run_id": "38938284848",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T20:45:52+02:00",
+      "updated_at": "2026-10-16T20:45:52+02:00",
+      "published_at": "2026-10-16T20:45:52+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Peter Magyar",
+        "Brussels",
+        "European Union",
+        "European Council",
+        "Dublin",
+        "European summit",
+        "budget conference",
+        "border control",
+        "European Commission",
+        "EU Cohesion Fund",
+        "Hungarian Government",
+        "Budapest cityscape",
+        "EU Migration Policy",
+        "conference hall",
+        "negotiation table",
+        "press conference"
+      ]
+    },
     {
       "id": "a7cfd9e6-b88a-52d1-ab86-835605e44bcb",
       "slug": "2026-10-16-ujra-rohannak-a-vevok-az-azsiai-tozsdekre-az-eladasi-hullam-utan",
