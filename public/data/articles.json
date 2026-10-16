@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:42:19+02:00",
+  "updated_at": "2026-10-16T18:43:12+02:00",
   "articles": [
     {
       "id": "24b52189-9702-583a-8aba-c9d8405a21c2",
@@ -482,7 +482,19 @@
       "reading_time_min": 2,
       "word_count": 262,
       "locale": "hu-HU",
-      "hero_image": null,
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/cfd295372bd12b71.jpg",
+        "width": 5331,
+        "height": 3424,
+        "kind": "photo",
+        "alt": "seats, orange, congress, empty, theater, interior, seminar, conference, presentation, event, modern, meeting, show, convention, audience, congress, seminar, seminar, seminar, seminar, seminar, confere",
+        "credit": "ClickerHappy / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/seats-orange-congress-empty-2954367/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/cfd295372bd12b71.jpg",
+        "orig_url": "https://pixabay.com/get/g44c95332fafdbd5c36139fb83671c12a09d9bfb093987f212fe0fd2daf0e869bec4f0f7b217eaf578a40f4d0ac6d42f3155077bda46b9f1df14e1e2e59aa530a_1280.jpg"
+      },
       "inline_images": [],
       "sources": [
         {
@@ -520,7 +532,7 @@
         "meta_title": "Luxusparkban ülésezik a Fidesz-frakció Lakiteleken",
         "meta_description": "A huszonhét hektáros lakitelki Hungarikum Ligetben tartja kihelyezett frakcióülését a Fidesz, amelynek fejlesztéseire korábban ötmilliárd forint állami támogatá",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-luxusparkban-ulesezik-a-fidesz-frakcio-lakiteleken/",
-        "og_image": null,
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/cfd295372bd12b71.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -558,7 +570,7 @@
       "pipeline_run_id": "38926267604",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T17:59:40+02:00",
-      "updated_at": "2026-10-16T18:42:19+02:00",
+      "updated_at": "2026-10-16T18:43:12+02:00",
       "published_at": "2026-10-16T17:59:40+02:00",
       "expires_at": null
     },
