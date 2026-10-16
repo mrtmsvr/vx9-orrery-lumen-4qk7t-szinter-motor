@@ -14489,9 +14489,9 @@
       "scheduled_at": "2026-10-16T08:54:50+02:00"
     },
     {
-      "id": "91bf0824-8eb8-57b3-8b0b-91f4c8c9345b",
-      "slug": "2026-10-16-raketak-csapodtak-be-az-adeni-elnoki-palotaba",
-      "status": "pending",
+      "id": "77c46845-e5b0-5281-87c7-f1de6013b20f",
+      "slug": "2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -14501,7 +14501,7 @@
         "rakétatámadás",
         "Szaúd-Arábia"
       ],
-      "title": "Rakéták csapódtak be az ádeni elnöki palotába",
+      "title": "Öt rakétával támadták meg a jemeni elnöki palotát",
       "subtitle": null,
       "lead": "Öt rakétával támadták meg a dél-jemeni Ádenben lévő elnöki palotaegyüttest a húszi lázadók, miközben a térségben felerősödtek a regionális fegyveres összecsapások. A kormány tagjai sértetlenek maradtak, de a csapások következtében többen életüket vesztették.",
       "key_points": [
@@ -14522,17 +14522,7 @@
       "reading_time_min": 2,
       "word_count": 291,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Old_Town_Aden_Yemen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 790,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The old town of Aden, Yemen, situated in the crater of an extinct volcano",
-        "credit": "Jialiang Gao www.peace-on-earth.org / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Old_Town_Aden_Yemen.jpg"
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -14661,12 +14651,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/vilag/2026-10-16-raketak-csapodtak-be-az-adeni-elnoki-palotaba/",
+      "url": "/vilag/2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat/",
       "seo": {
-        "meta_title": "Rakéták csapódtak be az ádeni elnöki palotába",
+        "meta_title": "Öt rakétával támadták meg a jemeni elnöki palotát",
         "meta_description": "Öt rakétával támadták meg a dél-jemeni Ádenben lévő elnöki palotaegyüttest a húszi lázadók, miközben a térségben felerősödtek a regionális fegyveres összecsapás",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-raketak-csapodtak-be-az-adeni-elnoki-palotaba/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Old_Town_Aden_Yemen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat/",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -14683,9 +14673,9 @@
       "dedupe_hash": "eb85e5e3698cd000f1e5d5ae536861cfee7bb6564063e9475474919a83647c5f",
       "pipeline_run_id": "38857528911",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T07:48:54+02:00",
-      "updated_at": "2026-10-16T07:48:54+02:00",
-      "published_at": "2026-10-16T07:48:54+02:00",
+      "created_at": "2026-10-16T08:35:06+02:00",
+      "updated_at": "2026-10-16T08:35:06+02:00",
+      "published_at": "2026-10-16T08:35:06+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -14698,9 +14688,9 @@
         "msg_ids": [],
         "control_id": 6595,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:34 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-16T08:34:50+02:00"
+      "live": true
     },
     {
       "id": "a61dd35f-95ab-516e-a241-4f67e6177d56",
