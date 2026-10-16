@@ -14971,15 +14971,23 @@
       },
       "hot_score": 6.62,
       "title_options": [
+        "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor",
         "Hogyan vált másodpercek alatt újjá a világ legnagyobb olajcége",
-        "Percek alatt tüntetik el a pusztítást a szaúdi olajbirodalomban",
-        "Azonnali válaszcsapások: így lett sebezhetetlen a Saudi Aramco",
-        "Elképesztő tempóban reagált a dróntámadásokra a világ legértékesebb olajóriása",
-        "Percek alatt mérik fel a dróncsapások kárát a helyszínen",
-        "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor"
+        "Percek alatt tüntetik el a pusztítást a szaúdi olajbirodalomban"
       ],
       "clickbait_from": 3,
       "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Saudi_Aramco_Archive%2C_1951_04.jpg/1280px-Saudi_Aramco_Archive%2C_1951_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 972,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Saudi Aramco Archive, 1951",
+          "credit": "Saudi Aramco / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Aramco_Archive,_1951_04.jpg"
+        },
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
@@ -15034,37 +15042,6 @@
           "credit": "Qrmoo3 / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Arabian_National_Guard_UH-60_Black_Hawk_(Photoshop_Edit).jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28My_Trip_To_Al-Jenadriyah_32%29.jpg/1280px-28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28My_Trip_To_Al-Jenadriyah_32%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 900,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "مروحية البلاك هوك التابعة للحرس الوطني السعودي في معرض الجنادرية.",
-          "credit": "Qrmoo3 / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:28-_Saudi_Arabian_National_Guard_UH-60_Black_Hawk_(My_Trip_To_Al-Jenadriyah_32).jpg"
-        },
-        {
-          "url": "https://pixabay.com/get/g42305feaea21ec92f0856ba6737816ee3ff248619b62d47d2242e94af356c4176be9ebfe16d46bcb871f2df0511ff6dddba0408b00094413cfcd482db9f01ba0_1280.jpg",
-          "width": 3872,
-          "height": 2592,
-          "kind": "photo",
-          "alt": "sunset, factory, buildings, illuminated, nature, industrial, industrial plant, pollution",
-          "credit": "tasukaran / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/sunset-factory-buildings-6226244/"
-        },
-        {
-          "url": "https://pixabay.com/get/gee9275a2ba094a17921e8ab9f6a2cc1fb42960ca3b01f20b8f2404563e1caa2ca8c67165c3d3bcaac5f3a8e5e7e09d60e9db746ea67418b6c18991338c14acfa_1280.jpg",
-          "width": 3888,
-          "height": 2592,
-          "kind": "photo",
-          "alt": "rig, oil industry, work, blue work, blue industry, rig, rig, rig, oil industry, oil industry, oil industry, oil industry, oil industry",
-          "credit": "kristinakasp / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/rig-oil-industry-work-blue-work-2251648/"
         }
       ],
       "story": [
@@ -15123,13 +15100,19 @@
         "issues": []
       },
       "review": {
-        "title": 5,
+        "title": 0,
         "image": 0,
-        "sent_at": "2026-10-16T05:49:48+00:00",
-        "msg_ids": [],
-        "control_id": 6633,
-        "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:54 (✏️ → ✅ = azonnal)"
+        "sent_at": "2026-10-16T06:17:37+00:00",
+        "msg_ids": [
+          6634,
+          6635,
+          6636,
+          6637,
+          6638,
+          6639,
+          6640
+        ],
+        "control_id": 6641
       },
       "image_queries": [
         "Saudi Aramco",
