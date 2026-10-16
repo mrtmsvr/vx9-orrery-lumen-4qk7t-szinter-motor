@@ -15422,7 +15422,7 @@
     {
       "id": "f2f12ddd-3b42-5ee0-8aeb-279e545f976c",
       "slug": "2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -15451,15 +15451,15 @@
       "word_count": 165,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Ukrainian_drone_R18%2C_Aerorozvidka_%283%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
         "height": 1600,
         "kind": "photo",
         "pos": "top",
-        "alt": "R18 drone on the exhibition at the show of the \"Sky Coordinator\" film in honor of Volodymyr Kochetkov-Sukach. Organized by Aerorozvidka. The Aerorozvidka flag hangs on the wall.",
+        "alt": "R18 drone on the exhibition at the show of the \"Sky Coordinator\" film in honor of Volodymyr Kochetkov-Sukach. Organized by Aerorozvidka.",
         "credit": "Trydence / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:The_Ukrainian_drone_R18,_Aerorozvidka_(3).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Ukrainian_drone_R18,_Aerorozvidka_(5).jpg",
         "vision_score": 5.0
       },
       "inline_images": [],
@@ -15539,7 +15539,7 @@
         "meta_title": "Szupermarket tetejére zuhant egy orosz drón Odessza mellett",
         "meta_description": "Három ember megsérült és részben megsemmisült egy szupermarket, miután dróntámadás érte az ukrajnai Odesszai régióban található Majaki települését. Az eset súly",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_Ukrainian_drone_R18%2C_Aerorozvidka_%283%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -15576,9 +15576,9 @@
       "dedupe_hash": "c9cad97154eab0317ba3a6de45f62ecf55cef31a92a3880747331e4abc6a2ed8",
       "pipeline_run_id": "38857528911",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T07:48:50+02:00",
-      "updated_at": "2026-10-16T07:48:50+02:00",
-      "published_at": "2026-10-16T07:48:50+02:00",
+      "created_at": "2026-10-16T08:14:50+02:00",
+      "updated_at": "2026-10-16T08:14:50+02:00",
+      "published_at": "2026-10-16T08:14:50+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15588,13 +15588,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T05:50:18+00:00",
-        "msg_ids": [
-          6616,
-          6617,
-          6618
-        ],
-        "control_id": 6619
-      }
+        "msg_ids": [],
+        "control_id": 6619,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }

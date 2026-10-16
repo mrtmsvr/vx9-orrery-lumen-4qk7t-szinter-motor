@@ -1,7 +1,125 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T08:14:07+02:00",
+  "updated_at": "2026-10-16T08:14:50+02:00",
   "articles": [
+    {
+      "id": "f2f12ddd-3b42-5ee0-8aeb-279e545f976c",
+      "slug": "2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Odessza",
+        "dróntámadás",
+        "Ukrajna",
+        "Orosz-ukrán háború"
+      ],
+      "title": "Szupermarket tetejére zuhant egy orosz drón Odessza mellett",
+      "subtitle": null,
+      "lead": "Három ember megsérült és részben megsemmisült egy szupermarket, miután dróntámadás érte az ukrajnai Odesszai régióban található Majaki települését. Az eset súlyos anyagi kárral járó újabb incidenst jelent a folyamatban lévő konfliktusban.",
+      "key_points": [
+        "Dróntámadás ért egy szupermarketet a Majaki településen.",
+        "A BBC által hitelesített felvételeken lángoló épület és lerepült falak láthatók.",
+        "Volodimir Zelenszkij ukrán elnök Oroszországot tette felelőssé a történtekért."
+      ],
+      "content": "Rakétatámadás és dróncsapás rázta meg az ukrajnai Odesszai régióban fekvő Majaki települését, ahol egy helyi szupermarket is találatot kapott. A BBC által hitelesített videófelvételeken jól kivehető, ahogy a drón becsapódik a Tavria nevű üzlet tetejébe, majd az épület szerkezete súlyosan károsodik, falai lerepülnek, végül pedig lángok borítják el a területet.\n\nVolodimir Zelenszkij ukrán elnök a közösségi oldalán számolt be az esetről, és a szörnyű támadásért Oroszországot okolta. A hivatalos tájékoztatás szerint a dróntámadás következtében hárman megsérültek, az áruház épülete részben megsemmisült, emellett pedig több parkoló autó is megrongálódott a helyszínen.\n\nAz ukrajnai infrastruktúrát és lakott területeket célzó támadások jelentős gazdasági és biztonsági kihívást jelentnek a mindennapokban, miközben a frontvonalak eseményei közvetlenül befolyásolják a civil lakosság biztonságát is. A mostani eset is azt mutatja, hogy a harcok elérése a hétköznapi kereskedelmi létesítményeket is veszélybe sodorja.",
+      "content_format": "markdown",
+      "body": [
+        "Rakétatámadás és dróncsapás rázta meg az ukrajnai Odesszai régióban fekvő Majaki települését, ahol egy helyi szupermarket is találatot kapott. A BBC által hitelesített videófelvételeken jól kivehető, ahogy a drón becsapódik a Tavria nevű üzlet tetejébe, majd az épület szerkezete súlyosan károsodik, falai lerepülnek, végül pedig lángok borítják el a területet.",
+        "Volodimir Zelenszkij ukrán elnök a közösségi oldalán számolt be az esetről, és a szörnyű támadásért Oroszországot okolta. A hivatalos tájékoztatás szerint a dróntámadás következtében hárman megsérültek, az áruház épülete részben megsemmisült, emellett pedig több parkoló autó is megrongálódott a helyszínen.",
+        "Az ukrajnai infrastruktúrát és lakott területeket célzó támadások jelentős gazdasági és biztonsági kihívást jelentnek a mindennapokban, miközben a frontvonalak eseményei közvetlenül befolyásolják a civil lakosság biztonságát is. A mostani eset is azt mutatja, hogy a harcok elérése a hétköznapi kereskedelmi létesítményeket is veszélybe sodorja."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 165,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "R18 drone on the exhibition at the show of the \"Sky Coordinator\" film in honor of Volodymyr Kochetkov-Sukach. Organized by Aerorozvidka.",
+        "credit": "Trydence / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Ukrainian_drone_R18,_Aerorozvidka_(5).jpg",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261015_ukrajna-szupermarket-drontamadas-video-odessza",
+          "title": "Szupermarket tetejébe csapódott egy orosz drón Ukrajnában – videó",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T07:48:50+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T08:14:50+02:00"
+      },
+      "hot_score": 5.38,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261015_ukrajna-szupermarket-drontamadas-video-odessza"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/vilag/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett/",
+      "seo": {
+        "meta_title": "Szupermarket tetejére zuhant egy orosz drón Odessza mellett",
+        "meta_description": "Három ember megsérült és részben megsemmisült egy szupermarket, miután dróntámadás érte az ukrajnai Odesszai régióban található Majaki települését. Az eset súly",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg/1280px-The_Ukrainian_drone_R18%2C_Aerorozvidka_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "cb9bfd39-7f05-5387-a64c-3f7c1bd4fbe7",
+        "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+        "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc"
+      ],
+      "see_also": [
+        {
+          "title": "Zelenszkij újra orosz olajfinomítókat támad, miután az USA-val kötött megállapodás meghiúsult",
+          "url": "/vilag/2026-10-15-zelenszkij-ujra-orosz-olajfinomitokat-tamad-miutan-az-usa-val-kotott/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+          "url": "/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámadás érte Moszkvát",
+          "url": "/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
+          "date": "2026-10-13"
+        }
+      ],
+      "thread_id": "7a44a206-e931-5605-8043-f5f490beaf0e",
+      "dedupe_hash": "c9cad97154eab0317ba3a6de45f62ecf55cef31a92a3880747331e4abc6a2ed8",
+      "pipeline_run_id": "38857528911",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T08:14:50+02:00",
+      "updated_at": "2026-10-16T08:14:50+02:00",
+      "published_at": "2026-10-16T08:14:50+02:00",
+      "expires_at": null
+    },
     {
       "id": "66f31bc5-4e3a-5f6e-a887-6662ea789858",
       "slug": "2026-10-16-egymilliard-uzenetet-kuldtek-aztan-racsapott-a-rendorseg-a-kiberbunoz",
