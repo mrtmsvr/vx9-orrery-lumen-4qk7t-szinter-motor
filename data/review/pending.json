@@ -16464,13 +16464,23 @@
       "title_options": [
         "Kétmilliárdos vagyonvesztés és füzetben vezetett milliárdok: feljelentést tett a közmédia",
         "Súlyos leltárhiány: feljelentést tett a Duna Médiaszolgáltató",
-        "Eltűnt ékszerek és füzetben vezetett kölcsönzések a közmédiában",
-        "Húszezer tárgy egyetlen irodavezető nevén: döbbenetes részletek a közmédia leltárából",
-        "Akkora volt a káosz a közmédiában, hogy a munkatársak csak annyit írtak a listára: „biztos Bródiban maradt”",
-        "Több mint kétezer-egyszázmillió forintos eszközhiány: bűnügyi feljelentés érkezett"
+        "Eltűnt ékszerek és füzetben vezetett kölcsönzések a közmédiában"
       ],
       "clickbait_from": 3,
       "image_options": [
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/px/afd4f0f2f34f945b.jpg",
+          "width": 8736,
+          "height": 5824,
+          "kind": "photo",
+          "alt": "laptop, office, hand, writing, business, document, contract, paper, education, work, notebook, data, pen, meeting, recruitment, agreement, paperwork, office, business, business, business, business, bu",
+          "credit": "AymaneJed / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/laptop-office-hand-writing-3196481/",
+          "vision_score": 6.0,
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/afd4f0f2f34f945b.jpg",
+          "orig_url": "https://pixabay.com/get/gc026268e8ac670f9203a80683df81fcaf69ac377e5f32a991c49c08e15646deefa441f543596ef557b317a447c6820d65c04bde14374b93a250325e4118dee26_1280.jpg"
+        },
         {
           "url": "https://pixabay.com/get/gc026268e8ac670f9203a80683df81fcaf69ac377e5f32a991c49c08e15646deefa441f543596ef557b317a447c6820d65c04bde14374b93a250325e4118dee26_1280.jpg",
           "width": 8736,
@@ -16544,11 +16554,14 @@
       "review": {
         "title": 0,
         "image": 0,
-        "sent_at": "2026-10-16T19:00:52+00:00",
-        "msg_ids": [],
-        "control_id": 7044,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "sent_at": "2026-10-16T19:12:46+00:00",
+        "msg_ids": [
+          7055,
+          7056,
+          7057,
+          7058
+        ],
+        "control_id": 7059
       },
       "live": true
     },
