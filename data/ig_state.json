@@ -2157,11 +2157,12 @@
       "caption": "Fidesz és Mi Hazánk: szivárványos trójai falónak tartják az újpetrei óriási játékot\n\nPályaorientációs napot tartott egy alapítvány egy Baranya vármegyei általános iskolában, ami azonnali politikai vihart kavart a jobboldalon. A kormánypárt és a Mi Hazánk vezető politikusai szerint genderpropagandáról és a gyerekek összezavarásáról van szó, míg az intézmény és a civil szervezet ezt visszautasítja.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#panyimiklós #toroczkailászló #iskolaiérzékenyítés #hírek #kollektíva",
       "created": "2026-10-16T09:59:50+02:00",
       "due": "2026-10-16T10:44:50+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         6671,
         6672
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "0ff3eed13b",
@@ -2289,6 +2290,22 @@
       "tg": [
         6814,
         6815
+      ]
+    },
+    {
+      "id": "279bb4d83d",
+      "art_id": "d6d9b29d-5a35-5806-a5c8-9af442490d19",
+      "title": "A húst evő nőknek sokkal nagyobb esélyük van a századik születésnapra",
+      "url": "/eletmod/2026-10-16-husevo-nok-erik-el-leggyakrabban-a-szazeves-kort-a-friss-adatok-szeri/",
+      "card": "public/img/ig/2026-10-16-husevo-nok-erik-el-leggyakrabban-a-szazeves-kort-a-friss-ad.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-husevo-nok-erik-el-leggyakrabban-a-szazeves-kort-a-friss-ad.jpg",
+      "caption": "A húst evő nőknek sokkal nagyobb esélyük van a századik születésnapra\n\nTöbb mint ötezer, 80 évnél idősebb ember vizsgálata során kiderült, hogy a húst fogyasztó nők nagyobb eséllyel érik el a százéves kort, mint a vegetáriánusok. Az eredmények ráirányítják a figyelmet a megfelelő fehérjebevitel és az izomtömeg megőrzésének jelentőségére idős korban.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#táplálkozás #egészségeséletmód #időskor #hírek #kollektíva",
+      "created": "2026-10-16T16:05:47+02:00",
+      "due": "2026-10-16T16:50:47+02:00",
+      "status": "queued",
+      "tg": [
+        6817,
+        6818
       ]
     }
   ],
