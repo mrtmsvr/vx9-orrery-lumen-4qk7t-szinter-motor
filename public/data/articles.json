@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:25:32+02:00",
+  "updated_at": "2026-10-16T18:31:54+02:00",
   "articles": [
+    {
+      "id": "24b52189-9702-583a-8aba-c9d8405a21c2",
+      "slug": "2026-10-16-zart-ajtok-mogott-talalkozott-magyar-peter-az-ukran-elnokkel",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Volodimir Zelenszkij",
+        "Brüsszel",
+        "külpolitika",
+        "Magyarország"
+      ],
+      "title": "Zárt ajtók mögött találkozott Magyar Péter az ukrán elnökkel",
+      "subtitle": null,
+      "lead": "Magyar Péter Brüsszelben zárt tárgyalást folytatott Volodimir Zelenszkij ukrán elnökkel a kétoldalú kapcsolatok új alapokra helyezéséről. A találkozó középpontjában a kisebbségi jogok és a gazdasági együttműködés állt.",
+      "key_points": [
+        "Magyar Péter és Volodimir Zelenszkij Brüsszelben találkozott",
+        "A felek üdvözölték a kisebbségi nyelveken folyó oktatásról szóló törvény elfogadását",
+        "A két ország miniszteri szinten folytatja a tárgyalásokat a kisebbségek helyzetéről"
+      ],
+      "content": "A felek egyeztetése során a magyar fél üdvözölte az ukrán parlament döntését a kisebbségi nyelveken folyó oktatásról szóló törvény elfogadásáról, ami megítélésük szerint fontos lépés a kölcsönös bizalom helyreállításához.\n\nA tárgyalást követően bejelentették, hogy a jövőben miniszteri szinten folytatódnak az egyeztetések, különös figyelmet szentelve az országokban élő nemzeti kisebbségi közösségek helyzetének. A megbeszélésen Magyar Péter teljes szolidaritásáról biztosította az ukrán elnököt, és jelezte, hogy Magyarország minden diplomáciai eszközzel kész segítséget nyújtani Ukrajnának.\n\nA mostani brüsszeli egyeztetés közvetlenül kapcsolódik a két ország között nemrégiben zajlott diplomáciai lépések sorozatához. Ahogy korábban megírtuk, Volodimir Zelenszkij ukrán elnök aláírta a nemzeti kisebbségek oktatási jogairól szóló törvényt, amely biztosítja a magyar nyelvű oktatást Kárpátalján, ez a jogszabály pedig alapvető feltétele volt a kétoldalú kapcsolatok javulásának.",
+      "content_format": "markdown",
+      "body": [
+        "A felek egyeztetése során a magyar fél üdvözölte az ukrán parlament döntését a kisebbségi nyelveken folyó oktatásról szóló törvény elfogadásáról, ami megítélésük szerint fontos lépés a kölcsönös bizalom helyreállításához.",
+        "A tárgyalást követően bejelentették, hogy a jövőben miniszteri szinten folytatódnak az egyeztetések, különös figyelmet szentelve az országokban élő nemzeti kisebbségi közösségek helyzetének. A megbeszélésen Magyar Péter teljes szolidaritásáról biztosította az ukrán elnököt, és jelezte, hogy Magyarország minden diplomáciai eszközzel kész segítséget nyújtani Ukrajnának.",
+        "A mostani brüsszeli egyeztetés közvetlenül kapcsolódik a két ország között nemrégiben zajlott diplomáciai lépések sorozatához. Ahogy korábban megírtuk, Volodimir Zelenszkij ukrán elnök aláírta a nemzeti kisebbségek oktatási jogairól szóló törvényt, amely biztosítja a magyar nyelvű oktatást Kárpátalján, ez a jogszabály pedig alapvető feltétele volt a kétoldalú kapcsolatok javulásának."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 147,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Opposition-Diplomatic_Meeting_Post-2024_Elections.jpg",
+        "width": 1440,
+        "height": 1080,
+        "kind": "photo",
+        "alt": "Opposition-Diplomatic Meeting Post-2024 Elections",
+        "credit": "Giorgi Chokheli, Photographer of the United National Movement / wikimedia",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/w/index.php?curid=154839172"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261016_negyszemkozt-targyalas-brusszel-magyar-peter-zelenszkij",
+          "title": "Új alapok – lezajlott Magyar Péter és Zelenszkij találkozója",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T18:24:46+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Magyarországnak és Ukrajnának is érdeke a politikai és gazdasági kapcsolatok új alapokra helyezése",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T18:31:54+02:00"
+      },
+      "hot_score": 5.45,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261016_negyszemkozt-targyalas-brusszel-magyar-peter-zelenszkij"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-zart-ajtok-mogott-talalkozott-magyar-peter-az-ukran-elnokkel/",
+      "seo": {
+        "meta_title": "Zárt ajtók mögött találkozott Magyar Péter az ukrán elnökkel",
+        "meta_description": "Magyar Péter Brüsszelben zárt tárgyalást folytatott Volodimir Zelenszkij ukrán elnökkel a kétoldalú kapcsolatok új alapokra helyezéséről. A találkozó középpontj",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-zart-ajtok-mogott-talalkozott-magyar-peter-az-ukran-elnokkel/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Opposition-Diplomatic_Meeting_Post-2024_Elections.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "75a852fd-37dc-5ee6-a08a-65a34c7b4f9c",
+        "541a5b21-8a1e-5ad1-83d8-a3967187d813",
+        "cd237d04-ed2b-5e00-864c-8dbe574f472c"
+      ],
+      "see_also": [
+        {
+          "title": "Hivatalos: aláírta Volodimir Zelenszkij az ukrán oktatási törvénymódosítást",
+          "url": "/vilag/2026-10-12-hivatalos-alairta-volodimir-zelenszkij-az-ukran-oktatasi-torvenymodos/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Magyar Péter és Volodimir Zelenszkij Brüsszelben egyeztet pénteken",
+          "url": "/kozelet/2026-10-15-magyar-peter-es-volodimir-zelenszkij-brusszelben-egyeztet-penteken/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+          "url": "/kozelet/2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij/",
+          "date": "2026-10-12"
+        }
+      ],
+      "thread_id": "75a852fd-37dc-5ee6-a08a-65a34c7b4f9c",
+      "dedupe_hash": "b2ec8d030d4a6cded81ea1190e94b7d4431d7ec5edee3b9a633b4cd6bf4c5e4b",
+      "pipeline_run_id": "38931446967",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T18:31:54+02:00",
+      "updated_at": "2026-10-16T18:31:54+02:00",
+      "published_at": "2026-10-16T18:31:54+02:00",
+      "expires_at": null
+    },
     {
       "id": "eee8ca39-f1fc-5163-aeb8-b3993746b2bb",
       "slug": "2026-10-16-a-spacex-sebessegkorlatozasa-akasztja-meg-az-ukran-dronokat",
