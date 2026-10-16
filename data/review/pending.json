@@ -15235,13 +15235,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-16T15:50:21+00:00",
-        "msg_ids": [
-          6874,
-          6875,
-          6876,
-          6878
-        ],
-        "control_id": 6877
+        "msg_ids": [],
+        "control_id": 6877,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
