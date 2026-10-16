@@ -16633,10 +16633,7 @@
       "title_options": [
         "Milliárdos támogatási harc és költségvetési holtpont Brüsszelben",
         "Magyar Péter éles kritikája és milliárdos viták Brüsszelben",
-        "Nem jutottak áttöréshez a legnehezebb pénzügyi kérdésekben az EU-csúcson",
-        "Ilyen még nem volt: nyílt konfrontációba állás és milliárdos követelések az EU-csúcson",
-        "Kétmilliárd eurós tét és befagyott költségvetés: eljön-e a magyar miniszterelnök áttörése?",
-        "Feszült pillanatok Brüsszelben: Magyar Péter keményen beleállt a hétéves költségvetési vitákba"
+        "Nem jutottak áttöréshez a legnehezebb pénzügyi kérdésekben az EU-csúcson"
       ],
       "clickbait_from": 3,
       "image_options": [
@@ -16723,11 +16720,12 @@
       "review": {
         "title": 0,
         "image": 0,
-        "sent_at": "2026-10-16T19:05:25+00:00",
-        "msg_ids": [],
-        "control_id": 7048,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "sent_at": "2026-10-16T19:12:56+00:00",
+        "msg_ids": [
+          7060,
+          7061
+        ],
+        "control_id": 7062
       },
       "live": true
     },
@@ -16882,13 +16880,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-16T19:11:15+00:00",
-        "msg_ids": [
-          7050,
-          7051,
-          7052,
-          7054
-        ],
-        "control_id": 7053
+        "msg_ids": [],
+        "control_id": 7053,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
