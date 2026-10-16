@@ -16458,6 +16458,28 @@
       "clickbait_from": 2,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/46c4c374a0-1792173160-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/46c4c374a0-1792173160-0.jpg",
+          "kind": "photo",
+          "alt": "Jellinek szabadult a börtönből, Szivek Norbert rács mögött marad",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/46c4c374a0-1792173161-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/46c4c374a0-1792173161-1.jpg",
+          "kind": "photo",
+          "alt": "Jellinek szabadult a börtönből, Szivek Norbert rács mögött marad",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Vol%C3%A1nbusz_ticket_kiosk%2C_Road_510%2C_2019_Dunaharaszti.jpg/1280px-Vol%C3%A1nbusz_ticket_kiosk%2C_Road_510%2C_2019_Dunaharaszti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1600,
@@ -16567,9 +16589,11 @@
           6956,
           6958,
           6970,
-          6971
+          6971,
+          6976,
+          6977
         ],
-        "control_id": 6972
+        "control_id": 6978
       },
       "live": true,
       "image_queries": [
