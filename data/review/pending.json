@@ -15842,6 +15842,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143321-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143321-0.jpg",
+          "kind": "photo",
+          "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143322-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143322-1.jpg",
+          "kind": "photo",
+          "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/London_financial_district_from_Hampstead_-_geograph.org.uk_-_5047785.jpg/1280px-London_financial_district_from_Hampstead_-_geograph.org.uk_-_5047785.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 894,
@@ -15955,7 +15977,7 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T09:23:20+00:00",
         "msg_ids": [
           6715,
@@ -15964,9 +15986,11 @@
           6718,
           6719,
           6720,
-          6721
+          6721,
+          6770,
+          6771
         ],
-        "control_id": 6722
+        "control_id": 6772
       },
       "image_queries": [
         "Wise (financial services company)",
