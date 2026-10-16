@@ -15763,7 +15763,17 @@
         ],
         "control_id": 6714
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Tarr Zoltán",
+        "National Institute of Cultural Education (NMI)",
+        "Ministry of Culture (Hungary)",
+        "Lakitelek Foundation",
+        "Kösöntyű folk dance gathering",
+        "press conference",
+        "government office interior",
+        "cultural event"
+      ]
     },
     {
       "id": "c43e0b7f-24b8-5dfa-a639-937e83d3b4e9",
@@ -16360,12 +16370,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-16T09:23:33+00:00",
-        "msg_ids": [
-          6733,
-          6734
-        ],
-        "control_id": 6735
-      }
+        "msg_ids": [],
+        "control_id": 6735,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:00 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T13:00:45+02:00"
     },
     {
       "id": "7e60365c-9a63-5784-8368-16fe300dd6d1",
