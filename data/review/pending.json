@@ -16718,11 +16718,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-16T19:12:56+00:00",
-        "msg_ids": [
-          7060,
-          7061
-        ],
-        "control_id": 7062
+        "msg_ids": [],
+        "control_id": 7062,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
