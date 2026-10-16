@@ -14188,6 +14188,28 @@
       "clickbait_from": 2,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131575-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/2a8676a895-1792131575-0.jpg",
+          "kind": "photo",
+          "alt": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131576-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/2a8676a895-1792131576-1.jpg",
+          "kind": "photo",
+          "alt": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://live.staticflickr.com/2814/9841767075_357d73c5c3_b.jpg",
           "width": 1024,
           "height": 768,
@@ -14287,9 +14309,11 @@
           6577,
           6578,
           6579,
-          6612
+          6612,
+          6646,
+          6647
         ],
-        "control_id": 6580
+        "control_id": 6648
       },
       "live": true
     },
