@@ -15007,46 +15007,16 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Dow_jones_daily_close_logged.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/KTX_in_Seoul_3.jpg/1280px-KTX_in_Seoul_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 899,
+          "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "The Dow Jones Industrial Average daily closing value beginning from 1896-05-26 was updated from finance.yahoo.com and plotted with the R language on a log-10 scale. Notice that values appear to hover",
-          "credit": "Ldecola / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Dow_jones_daily_close_logged.png"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/1280px-Dow_Jones_Industrial_Average.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 233,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Dow Jones Industrial Average 1971 - 2022",
-          "credit": "Wikideas1 / Wikimedia Commons",
+          "alt": "KTX in Seoul",
+          "credit": "Syced / Wikimedia Commons",
           "license": "CC0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Dow_Jones_Industrial_Average.webp"
-        },
-        {
-          "url": "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
-          "width": 1024,
-          "height": 582,
-          "kind": "photo",
-          "alt": "Stock Market Fortune Cookie",
-          "credit": "bransorem / flickr",
-          "license": "CC BY 2.0",
-          "source_url": "https://www.flickr.com/photos/13255740@N03/3277905392"
-        },
-        {
-          "url": "https://live.staticflickr.com/2799/4188736287_e74e4dc1ef_b.jpg",
-          "width": 1024,
-          "height": 819,
-          "kind": "photo",
-          "alt": "stock market",
-          "credit": "Dannels / flickr",
-          "license": "CC BY-SA 2.0",
-          "source_url": "https://www.flickr.com/photos/23286276@N02/4188736287"
+          "source_url": "https://commons.wikimedia.org/wiki/File:KTX_in_Seoul_3.jpg",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -15098,17 +15068,35 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T05:49:55+00:00",
         "msg_ids": [
           6605,
           6606,
           6607,
           6608,
-          6609
+          6609,
+          6642
         ],
-        "control_id": 6610
-      }
+        "control_id": 6643
+      },
+      "image_queries": [
+        "Korea Exchange (KRX)",
+        "Budapest Stock Exchange (BSE)",
+        "Dow Jones Industrial Average",
+        "U.S. Consumer Price Index",
+        "Hungarian blue‑chip companies (OTP Bank, MOL Group, Richter ",
+        "Seoul",
+        "stock market trading floor",
+        "financial newspaper",
+        "city skyline at dusk"
+      ],
+      "images_seen": [
+        "https://live.staticflickr.com/2799/4188736287_e74e4dc1ef_b.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/1280px-Dow_Jones_Industrial_Average.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Dow_jones_daily_close_logged.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
     },
     {
       "id": "66f31bc5-4e3a-5f6e-a887-6662ea789858",
