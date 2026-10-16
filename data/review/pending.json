@@ -15247,7 +15247,7 @@
     {
       "id": "0b5e12a5-e789-5848-b71f-94a028ff3190",
       "slug": "2026-10-16-a-voros-tengeri-sakkmatt-senki-sem-fizetne-meg-a-haboru-arat",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -15408,9 +15408,9 @@
       "dedupe_hash": "c73231129bb2bec1abd9f0b92e72df098959faeca2723a7237c8bcc8715d58a3",
       "pipeline_run_id": "38921798852",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T17:53:12+02:00",
-      "updated_at": "2026-10-16T17:53:12+02:00",
-      "published_at": "2026-10-16T17:53:12+02:00",
+      "created_at": "2026-10-16T18:45:25+02:00",
+      "updated_at": "2026-10-16T18:45:25+02:00",
+      "published_at": "2026-10-16T18:45:25+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15423,9 +15423,9 @@
         "msg_ids": [],
         "control_id": 6884,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 18:45 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-16T18:45:22+02:00"
+      "live": true
     },
     {
       "id": "cdeda702-469c-52a5-ad9a-6f531dff7193",
