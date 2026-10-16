@@ -16912,6 +16912,159 @@
         "compact": "🕒 Kint lesz 20:05 (✏️ → ✅ = azonnal)"
       },
       "scheduled_at": "2026-10-16T20:05:22+02:00"
+    },
+    {
+      "id": "a7cfd9e6-b88a-52d1-ab86-835605e44bcb",
+      "slug": "2026-10-16-ujra-rohannak-a-vevok-az-azsiai-tozsdekre-az-eladasi-hullam-utan",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "tőzsde",
+        "gazdaság",
+        "befektetés",
+        "Budapesti Értéktőzsde",
+        "részvény"
+      ],
+      "title": "Újra rohannak a vevők az ázsiai tőzsdékre az eladási hullám után",
+      "subtitle": null,
+      "lead": "Az ázsiai tőzsdéken váratlanul visszatértek a vevők a csütörtöki technológiai zuhanás után, míg a Budapesti Értéktőzsde indexe is erősödéssel zárta a hetet. A nemzetközi részvénypiacok mozgását a chipgyártók körüli aggodalmak és a kamatvárakozások alakítják.",
+      "key_points": [
+        "A dél-koreai Kospi 3,3 százalékot emelkedett az előző napi közel 8 százalékos zuhanás után.",
+        "Indonézia rosszul járt, a jakartai tőzsde több mint 11 százalékot esett egy piaci átsorolási hír miatt."
+      ],
+      "content": "Visszatértek a vevők az ázsiai tőzsdékre a csütörtöki technológiai eladási hullámot követően, aminek köszönhetően újra emelkedni tudtak a chipgyártók részvényei. A dél-koreai Kospi 3,3 százalékos pluszt mutatott az előző napi közel 8 százalékos zuhanás után, a japán Nikkei pedig 1,7 százalékkal erősödött. Ezzel szemben Indonézia kimaradt ebből a javuló hangulatból, mivel a jakartai tőzsde több mint 11 százalékot zuhant az MSCI által javasolt piaci átsorolás hírére.\n\nAz Egyesült Államokban ezzel párhuzamosan újra felütötte a fejét a technológiai szektort érintő bizonytalanság, ami a kereskedés elején lerántotta az indexeket. A technológiai részvények gyengülése mögött az áll, hogy a befektetők elsősorban a mesterséges intelligenciához kapcsolódó vállalatok papírjait adják el, részben a kínai versenytársak erősödésével kapcsolatos aggodalmak miatt.\n\nAz ázsiai felpattanás az európai kereskedésnek is támaszt adott, ami a magyar piacon is éreztette hatását.",
+      "content_format": "markdown",
+      "body": [
+        "Visszatértek a vevők az ázsiai tőzsdékre a csütörtöki technológiai eladási hullámot követően, aminek köszönhetően újra emelkedni tudtak a chipgyártók részvényei. A dél-koreai Kospi 3,3 százalékos pluszt mutatott az előző napi közel 8 százalékos zuhanás után, a japán Nikkei pedig 1,7 százalékkal erősödött. Ezzel szemben Indonézia kimaradt ebből a javuló hangulatból, mivel a jakartai tőzsde több mint 11 százalékot zuhant az MSCI által javasolt piaci átsorolás hírére.",
+        "Az Egyesült Államokban ezzel párhuzamosan újra felütötte a fejét a technológiai szektort érintő bizonytalanság, ami a kereskedés elején lerántotta az indexeket. A technológiai részvények gyengülése mögött az áll, hogy a befektetők elsősorban a mesterséges intelligenciához kapcsolódó vállalatok papírjait adják el, részben a kínai versenytársak erősödésével kapcsolatos aggodalmak miatt.",
+        "Az ázsiai felpattanás az európai kereskedésnek is támaszt adott, ami a magyar piacon is éreztette hatását."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 167,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png/1280px-Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1529,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Two photographs of the trading floor of the Standard Stock and Mining Exchange in Toronto",
+        "credit": "The Financial Post / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Standard_Stock_and_Mining_Exchange_trading_floor,_Toronto.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/uzlet/20261016/megveszik-az-esest-a-befektetok-johet-a-fordulat-a-tozsdeken-870060",
+          "title": "Megveszik az esést a befektetők, jöhet a fordulat a tőzsdéken?",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T18:43:54+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.0,
+      "title_options": [
+        "Újra rohannak a vevők az ázsiai tőzsdékre az eladási hullám után",
+        "Több mint 11 százalékot esett egy ázsiai tőzsde a piaci átsorolás hírére",
+        "Hatalmasat zuhant Indonézia tőzsdéje az ázsiai tőkepiaci mozgások közepette",
+        "Itt az újabb chippánia? Durván megsorozták a technológiai óriásokat",
+        "Ezt nem úszták meg a befektetők: hatalmasat esett egy népszerű tőzsde"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png/1280px-Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1529,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Two photographs of the trading floor of the Standard Stock and Mining Exchange in Toronto",
+          "credit": "The Financial Post / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Standard_Stock_and_Mining_Exchange_trading_floor,_Toronto.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_05.jpg/1280px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Frankfurt Stock Exchange  (Ank Kumar)",
+          "credit": "Ank Kumar / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_05.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Megveszik az esést a befektetők, jöhet a fordulat a tőzsdéken?",
+          "link": "https://www.portfolio.hu/uzlet/20261016/megveszik-az-esest-a-befektetok-johet-a-fordulat-a-tozsdeken-870060",
+          "summary": "Visszatértek a vevők az ázsiai tőzsdékre a csütörtöki technológiai eladási hullám után, újra emelkedtek a chipgyártók részvényei. A dél-koreai Kospi 3,3 százalékot emelkedett az előző napi közel 8 százalékos zuhanás után, a japán Nikkei 1,7 százalékot erősödött. Amerikában óvatosabb a hangulat, a Nasdaq 100 és az S&P 500 határidős jegyzései alig mozdultak ma reggel. A vártnál magasabb amerikai infláció és az erős fogyasztás miatt a befektetők arra számítanak, hogy jöhet az újabb Fed szigorítás, a figyelem az októberi kamatemelés helyett egyre inkább decemberre terelődik. Az európai kereskedésn",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 6.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/uzlet/20261016/megveszik-az-esest-a-befektetok-johet-a-fordulat-a-tozsdeken-870060"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/penzvilag/2026-10-16-ujra-rohannak-a-vevok-az-azsiai-tozsdekre-az-eladasi-hullam-utan/",
+      "seo": {
+        "meta_title": "Újra rohannak a vevők az ázsiai tőzsdékre az eladási hullám ",
+        "meta_description": "Az ázsiai tőzsdéken váratlanul visszatértek a vevők a csütörtöki technológiai zuhanás után, míg a Budapesti Értéktőzsde indexe is erősödéssel zárta a hetet. A n",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-ujra-rohannak-a-vevok-az-azsiai-tozsdekre-az-eladasi-hullam-utan/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png/1280px-Standard_Stock_and_Mining_Exchange_trading_floor%2C_Toronto.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c8413b166a8c98c8cd91eb5cd2b2bb182e72dd131db9eb9a9659b9936c194fcb",
+      "pipeline_run_id": "38931446967",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T18:43:54+02:00",
+      "updated_at": "2026-10-16T18:43:54+02:00",
+      "published_at": "2026-10-16T18:43:54+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 1,
+        "sent_at": "2026-10-16T16:48:58+00:00",
+        "msg_ids": [
+          6946,
+          6947,
+          6948
+        ],
+        "control_id": 6949
+      }
     }
   ]
 }
