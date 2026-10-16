@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T16:55:02+02:00",
+  "updated_at": "2026-10-16T17:50:21+02:00",
   "articles": [
+    {
+      "id": "1c09a8d7-0e6d-59a7-8c30-3d6cd3c4df56",
+      "slug": "2026-10-16-megvan-az-uj-torvenytervezet-hamarosan-indul-az-alkotmanyozas",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Ruff Bálint",
+        "költségvetés",
+        "alkotmányozás",
+        "Közélet"
+      ],
+      "title": "Megvan az új törvénytervezet, hamarosan indul az alkotmányozás",
+      "subtitle": null,
+      "lead": "Elkészült az új alkotmány törvénytervezete, és hamarosan elindul az alkotmányozás. Ezt Ruff Bálint nyilatkozta a Népszabadság újrainduló számában.",
+      "key_points": [
+        "Hamarosan elindul az alkotmányozás, a szükséges törvénytervezet már elkészült.",
+        "Ruff Bálint szerint bátor lépések lesznek a költségvetésben.",
+        "A paksi fenékküszöb megépítésével összesen 100 milliárd forintot spórolt a kormány."
+      ],
+      "content": "Újraindult a Népszabadság nyomtatott kiadása, amely a jövőben hetilapként jelenik meg. A lap első számában Ruff Bálint Miniszterelnökséget vezető miniszter értékelte a Tisza kormányzásának első öt hónapját, kiemelve a közjogi és a gazdasági rendszerváltás kihívásait.\n\nA tájékoztatás szerint az új alkotmány tervezete már elkészült, és hamarosan elindul az alkotmányozás. Ezzel párhuzamosan dolgoznak az új választási törvényen is.\n\nA gazdasági tervek kapcsán hangsúlyozta, hogy lesznek bátor lépések a költségvetésben.\n\nAz eddig elért eredmények közül kiemelte a paksi fenékküszöb megépítését, amellyel a kormány összesen 100 milliárd forintot spórolt.",
+      "content_format": "markdown",
+      "body": [
+        "Újraindult a Népszabadság nyomtatott kiadása, amely a jövőben hetilapként jelenik meg. A lap első számában Ruff Bálint Miniszterelnökséget vezető miniszter értékelte a Tisza kormányzásának első öt hónapját, kiemelve a közjogi és a gazdasági rendszerváltás kihívásait.",
+        "A tájékoztatás szerint az új alkotmány tervezete már elkészült, és hamarosan elindul az alkotmányozás. Ezzel párhuzamosan dolgoznak az új választási törvényen is.",
+        "A gazdasági tervek kapcsán hangsúlyozta, hogy lesznek bátor lépések a költségvetésben.",
+        "Az eddig elért eredmények közül kiemelte a paksi fenékküszöb megépítését, amellyel a kormány összesen 100 milliárd forintot spórolt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 104,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg/1280px-Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Commissioner of Democracy, Justice, the Rule of Law and Consumer Protection Michael McGrath is on a day mission to Hungary, Budapest on June 2, 2026. Meeting with Balint Ruff Minister of the Prime Min",
+        "credit": "Ferenc Isza / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261016_ruff-balint-nepszabadsag-alkotmanyozas-koltsegvetes",
+          "title": "Ruff Bálint a Népszabadságnak: Lesznek bátor lépések a költségvetésben",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T17:47:56+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Jogállamban az van, hogy a kormányzat feljelentéseket tud tenni, de utána a nyomozásokat, a vádemeléseket egy másik hatalmi ág végzi.",
+        "who": "Ruff Bálint Miniszterelnökséget vezető miniszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T17:50:21+02:00"
+      },
+      "hot_score": 5.39,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261016_ruff-balint-nepszabadsag-alkotmanyozas-koltsegvetes"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-megvan-az-uj-torvenytervezet-hamarosan-indul-az-alkotmanyozas/",
+      "seo": {
+        "meta_title": "Megvan az új törvénytervezet, hamarosan indul az alkotmányoz",
+        "meta_description": "Elkészült az új alkotmány törvénytervezete, és hamarosan elindul az alkotmányozás. Ezt Ruff Bálint nyilatkozta a Népszabadság újrainduló számában.",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-megvan-az-uj-torvenytervezet-hamarosan-indul-az-alkotmanyozas/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg/1280px-Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c884fc4d3900fa68b70f0ec19d7ee3fcfb21d7dc20ba166d5aef23529d679a39",
+      "pipeline_run_id": "38921798852",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T17:50:21+02:00",
+      "updated_at": "2026-10-16T17:50:21+02:00",
+      "published_at": "2026-10-16T17:50:21+02:00",
+      "expires_at": null
+    },
     {
       "id": "2485c3dc-e1ca-523c-97a8-a88d3911fca5",
       "slug": "2026-10-16-vegtelen-harcosokat-novesztenenek-a-rak-ellen",
