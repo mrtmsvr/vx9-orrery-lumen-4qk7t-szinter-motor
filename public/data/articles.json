@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T07:47:44+02:00",
+  "updated_at": "2026-10-16T07:48:16+02:00",
   "articles": [
     {
       "id": "faa887c9-369a-58b7-bea7-0b272fb9c3e4",
@@ -125,7 +125,7 @@
         "uniós költségvetés",
         "Közélet"
       ],
-      "title": "Brüsszeli csúcs: Magyar Péter elutasította a költési keretet",
+      "title": "Magyar Péter Brüsszelbe ment: nem tetszik a hétéves költségvetés",
       "subtitle": null,
       "lead": "Akár kétmilliárd eurós uniós keretet szeretne kiharcolni a kormány a következő hétéves költségvetésben, ám a brüsszeli csúcstalálkozó elején a miniszterelnök elutasította a jelenlegi javaslatot. A tárgyalásokon a migrációs szabályok szigorítása és a napi egymillió eurós bírság eltörlése is terítékre került.",
       "key_points": [
@@ -145,17 +145,7 @@
       "reading_time_min": 2,
       "word_count": 210,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792126610-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792126610-0.jpg",
-        "kind": "photo",
-        "alt": "Kétmilliárd eurós pofon vagy okos alku? Magyar Péter Brüsszelbe ment",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -193,10 +183,10 @@
       "date_label": "október 16.",
       "url": "/kozelet/2026-10-16-brusszeli-csucs-magyar-peter-elutasitotta-a-koltesi-keretet/",
       "seo": {
-        "meta_title": "Brüsszeli csúcs: Magyar Péter elutasította a költési keretet",
+        "meta_title": "Magyar Péter Brüsszelbe ment: nem tetszik a hétéves költségv",
         "meta_description": "Akár kétmilliárd eurós uniós keretet szeretne kiharcolni a kormány a következő hétéves költségvetésben, ám a brüsszeli csúcstalálkozó elején a miniszterelnök el",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-brusszeli-csucs-magyar-peter-elutasitotta-a-koltesi-keretet/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792126610-0.jpg",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -234,7 +224,7 @@
       "pipeline_run_id": "38852970676",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T06:57:07+02:00",
-      "updated_at": "2026-10-16T06:57:07+02:00",
+      "updated_at": "2026-10-16T07:48:16+02:00",
       "published_at": "2026-10-16T06:57:07+02:00",
       "expires_at": null
     },
