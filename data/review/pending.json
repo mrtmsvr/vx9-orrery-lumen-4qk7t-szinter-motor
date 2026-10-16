@@ -15613,21 +15613,10 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-16T15:59:39+00:00",
-        "msg_ids": [
-          6885,
-          6886,
-          6887,
-          6889,
-          6917,
-          6918,
-          6928,
-          6929,
-          6930,
-          6936,
-          6937,
-          6938
-        ],
-        "control_id": 6939
+        "msg_ids": [],
+        "control_id": 6939,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
