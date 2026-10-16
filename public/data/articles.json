@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:41:35+02:00",
+  "updated_at": "2026-10-16T18:42:19+02:00",
   "articles": [
     {
       "id": "24b52189-9702-583a-8aba-c9d8405a21c2",
@@ -558,7 +558,7 @@
       "pipeline_run_id": "38926267604",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T17:59:40+02:00",
-      "updated_at": "2026-10-16T18:39:18+02:00",
+      "updated_at": "2026-10-16T18:42:19+02:00",
       "published_at": "2026-10-16T17:59:40+02:00",
       "expires_at": null
     },
