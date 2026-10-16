@@ -14688,9 +14688,9 @@
       "scheduled_at": "2026-10-16T08:34:50+02:00"
     },
     {
-      "id": "e42bffa3-c13c-507c-a890-275124c40e87",
-      "slug": "2026-10-16-hogyan-valt-masodpercek-alatt-ujja-a-vilag-legnagyobb-olajcege",
-      "status": "pending",
+      "id": "a61dd35f-95ab-516e-a241-4f67e6177d56",
+      "slug": "2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszektor",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -14700,7 +14700,7 @@
         "enerbiztonság",
         "Közel-Kelet"
       ],
-      "title": "Hogyan vált másodpercek alatt újjá a világ legnagyobb olajcége",
+      "title": "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor",
       "subtitle": null,
       "lead": "A folyamatos fegyveres támadások ellenére alig néhány nap alatt képes helyreállítani súlyosan megrongálódott infrastruktúráját a Saudi Aramco. A szaúdi olajipari óriásvállalat új válságkezelési módszerei hatássá tették a cég logisztikai rendszerét a Közel-Keleten.",
       "key_points": [
@@ -14722,15 +14722,15 @@
       "word_count": 271,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Saudi_Aramco_Archive%2C_1951_04.jpg/1280px-Saudi_Aramco_Archive%2C_1951_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg/1280px-Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 972,
+        "height": 900,
         "kind": "photo",
         "pos": "center",
-        "alt": "Saudi Aramco Archive, 1951",
-        "credit": "Saudi Aramco / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Aramco_Archive,_1951_04.jpg"
+        "alt": "تعديل في الفوتوشوب لمروحية البلاك هوك (من تصويري(",
+        "credit": "Qrmoo3 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Saudi_Arabian_National_Guard_UH-60_Black_Hawk_(Photoshop_Edit).jpg"
       },
       "inline_images": [],
       "sources": [
@@ -14862,12 +14862,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/vilag/2026-10-16-hogyan-valt-masodpercek-alatt-ujja-a-vilag-legnagyobb-olajcege/",
+      "url": "/vilag/2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszektor/",
       "seo": {
-        "meta_title": "Hogyan vált másodpercek alatt újjá a világ legnagyobb olajcé",
+        "meta_title": "Így készül fel a sorozatos támadásokra a szaúdi energiaszekt",
         "meta_description": "A folyamatos fegyveres támadások ellenére alig néhány nap alatt képes helyreállítani súlyosan megrongálódott infrastruktúráját a Saudi Aramco. A szaúdi olajipar",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-hogyan-valt-masodpercek-alatt-ujja-a-vilag-legnagyobb-olajcege/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Saudi_Aramco_Archive%2C_1951_04.jpg/1280px-Saudi_Aramco_Archive%2C_1951_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszektor/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg/1280px-Saudi_Arabian_National_Guard_UH-60_Black_Hawk_%28Photoshop_Edit%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -14884,9 +14884,9 @@
       "dedupe_hash": "68cd4813bdf7343baccaed9cd91122e016deb70e6ae3ccbe4781d22b31224b47",
       "pipeline_run_id": "38857528911",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T07:48:47+02:00",
-      "updated_at": "2026-10-16T07:48:47+02:00",
-      "published_at": "2026-10-16T07:48:47+02:00",
+      "created_at": "2026-10-16T08:18:11+02:00",
+      "updated_at": "2026-10-16T08:18:11+02:00",
+      "published_at": "2026-10-16T08:18:11+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -14896,16 +14896,10 @@
         "title": 0,
         "image": 5,
         "sent_at": "2026-10-16T06:17:37+00:00",
-        "msg_ids": [
-          6634,
-          6635,
-          6636,
-          6637,
-          6638,
-          6639,
-          6640
-        ],
-        "control_id": 6641
+        "msg_ids": [],
+        "control_id": 6641,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Saudi Aramco",
@@ -14935,7 +14929,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saudi_Aramco_Archive%2C_1951_03.jpg/1280px-Saudi_Aramco_Archive%2C_1951_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/f/fb/Amin_H._Nasser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
       ],
-      "scheduled_at": "2026-10-16T08:54:50+02:00"
+      "live": true
     },
     {
       "id": "d88324d0-812e-55f8-a03e-fbba989aa562",
