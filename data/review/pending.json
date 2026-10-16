@@ -15520,16 +15520,26 @@
           "vision_score": 8.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg/1280px-S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1601,
+          "url": "https://pixabay.com/get/gc85463b3b9056dffadd8c23443e967ada1d5db1f01cbcf1820e6db9b5e0daff987a53181933f7bdbf40ddc42283078c410eab9f087d0e32f4e833ea26522cfd6_1280.jpg",
+          "width": 4714,
+          "height": 3144,
           "kind": "photo",
-          "pos": "top",
-          "alt": "Issues of strengthening Kazakhstan-Hungary relations were discussed at the Mäjilis, September 9, 2024",
-          "credit": "Қазақстан Парламентінің Мәжілісі / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg",
-          "vision_score": 8.0
+          "alt": "hotel, architecture, sea, afternoon, sunlight, tran thang nhat, building, nature, blue sky, holiday, apartment",
+          "credit": "Pix-Off / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/hotel-architecture-sea-afternoon-7540353/",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://pixabay.com/get/g9ffa70213c65ea39018832b434aeb32edbd1cfdd6f5af2e38692ca7b175818a99ceb470d9185cf7afe65f4b4ac241a6d3cedf4cf9e71a1704991e4f080baf29f_1280.jpg",
+          "width": 1920,
+          "height": 1080,
+          "kind": "photo",
+          "alt": "manor house, sri lanka, hotel, pool, swimming pool, blue house, blue hotel, hotel, hotel, hotel, hotel, hotel, pool, pool, pool, swimming pool, swimming pool, swimming pool",
+          "credit": "AgEGlobalGroup / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/manor-house-sri-lanka-hotel-pool-2359884/",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -15609,9 +15619,12 @@
           6887,
           6889,
           6917,
-          6918
+          6918,
+          6928,
+          6929,
+          6930
         ],
-        "control_id": 6919
+        "control_id": 6931
       },
       "live": true,
       "image_queries": [
@@ -15628,9 +15641,17 @@
         "Nimród csillagkép",
         "luxury hotel exterior",
         "wine cathedral",
-        "manicured park"
+        "manicured park",
+        "Lakitelek",
+        "Országház Budapest",
+        "MDF alapítók",
+        "Nemzeti Fórum",
+        "politicians meeting",
+        "luxury resort exterior",
+        "conference hall"
       ],
       "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg/1280px-S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
