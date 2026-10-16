@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T20:45:52+02:00",
+  "updated_at": "2026-10-16T20:49:42+02:00",
   "articles": [
+    {
+      "id": "976622cd-e1f5-5f9c-bb86-5bdb771e68f9",
+      "slug": "2026-10-16-tobb-mint-ezer-haziorvosi-praxis-ures-a-gyermekorvosok-ketharmada-ido",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "gyermekorvos",
+        "egészségügy",
+        "praxis",
+        "alapellátás",
+        "kormányzat"
+      ],
+      "title": "Több mint ezer háziorvosi praxis üres, a gyermekorvosok kétharmada idős",
+      "subtitle": null,
+      "lead": "Magyarországon jelenleg 1025 betöltetlen háziorvosi és gyermekorvosi praxis van, miközben a szakmai szervezet adatai szerint a meglévő gyermekorvosok kétharmada idős. Az Országos Kórházi Főigazgatóság nyilvántartása alapján 245 olyan gyermekorvosi körzet van, amely legalább hat hónapja üresen áll.",
+      "key_points": [
+        "A Házi Gyermekorvosok Egyesületének konferenciáján elhangzott adatok szerint 1025 betöltetlen háziorvosi és gyermekorvosi hely van Magyarországon.",
+        "Az utánpótlás hiánya miatt az utóbbi években 24 százalékkal csökkent a gyermekorvosok száma, kétharmaduk pedig idős.",
+        "Az Országos Kórházi Főigazgatóság statisztikái szerint 245 gyermekorvosi körzet vár legalább fél éve orvosra, harmincnégy helyen pedig már tíz éve nincs állandó szakember."
+      ],
+      "content": "Minden háziorvosi praxist egybevetve összesen 1025 betöltetlen hely nehezíti az alapellátást Magyarországon. A Házi Gyermekorvosok Egyesületének konferenciáján ismertetett adatok rávilágítanak arra, hogy a gyermekorvosi praxisokat ellátó szakemberek kétharmada idős korosztályba tartozik, az utánpótlás hiánya pedig az utóbbi években 24 százalékos létszámcsökkenést eredményezett.\n\nAz Országos Kórházi Főigazgatóság kimutatása szerint 245 olyan gyermekorvosi körzet létezik, amely legalább fél éve betöltetlen. A helyzet súlyosságát jelzi, hogy ezek közül 34 körzet már legalább egy évtizede vár arra, hogy állandó orvost kapjon.\n\nA problémára reagálva a minisztérium nevében Darvai László helyettes államtitkár arról beszélt, hogy olyan finanszírozási rendszert kell kialakítani, amelyben megfelelően megtérül a pluszmunka, mivel a jelenlegi struktúra nem ösztönzi a többletfeladatok elvégzését. Hozzátette, hogy hosszú évek óta nehezítik az orvosok mindennapjait az adminisztrációs kötelezettségek, például az óvodai és iskolai igazolások kiállítása, ezért a tárca célja e kötelezettségek teljes kivezetése a rendszerből.\n\nA kormányzati tervek között szerepel továbbá az ügyeleti óradíjak emelése, valamint a hátrányos helyzetű térségekben működő praxisok támogatásának növelése is. A fiatal orvosok pályára vonzása érdekében kiszámítható életpályamodellt terveznek bevezetni, míg a továbbképzéseken részt vevő szakembereket külön finanszírozási szorzóval jutalmaznák a jövőben.",
+      "content_format": "markdown",
+      "body": [
+        "Minden háziorvosi praxist egybevetve összesen 1025 betöltetlen hely nehezíti az alapellátást Magyarországon. A Házi Gyermekorvosok Egyesületének konferenciáján ismertetett adatok rávilágítanak arra, hogy a gyermekorvosi praxisokat ellátó szakemberek kétharmada idős korosztályba tartozik, az utánpótlás hiánya pedig az utóbbi években 24 százalékos létszámcsökkenést eredményezett.",
+        "Az Országos Kórházi Főigazgatóság kimutatása szerint 245 olyan gyermekorvosi körzet létezik, amely legalább fél éve betöltetlen. A helyzet súlyosságát jelzi, hogy ezek közül 34 körzet már legalább egy évtizede vár arra, hogy állandó orvost kapjon.",
+        "A problémára reagálva a minisztérium nevében Darvai László helyettes államtitkár arról beszélt, hogy olyan finanszírozási rendszert kell kialakítani, amelyben megfelelően megtérül a pluszmunka, mivel a jelenlegi struktúra nem ösztönzi a többletfeladatok elvégzését. Hozzátette, hogy hosszú évek óta nehezítik az orvosok mindennapjait az adminisztrációs kötelezettségek, például az óvodai és iskolai igazolások kiállítása, ezért a tárca célja e kötelezettségek teljes kivezetése a rendszerből.",
+        "A kormányzati tervek között szerepel továbbá az ügyeleti óradíjak emelése, valamint a hátrányos helyzetű térségekben működő praxisok támogatásának növelése is. A fiatal orvosok pályára vonzása érdekében kiszámítható életpályamodellt terveznek bevezetni, míg a továbbképzéseken részt vevő szakembereket külön finanszírozási szorzóval jutalmaznák a jövőben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 217,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Semmelweis-Ulloi26.JPG/1280px-Semmelweis-Ulloi26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Semmelweis University Faculty of Medicine, Üllői út 26, Budapest, Hungary",
+        "credit": "Illustratedjc / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Semmelweis-Ulloi26.JPG",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261016_magyaroszag-orvoshiany-betoltetlen-praxisok-orvosi-igazolas-kivezetes-eltorles",
+          "title": "Magyarországon 245 gyermekorvosi körzet legalább hat hónapja betöltetlen",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T20:48:16+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T20:49:42+02:00"
+      },
+      "hot_score": 5.11,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261016_magyaroszag-orvoshiany-betoltetlen-praxisok-orvosi-igazolas-kivezetes-eltorles"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-tobb-mint-ezer-haziorvosi-praxis-ures-a-gyermekorvosok-ketharmada-ido/",
+      "seo": {
+        "meta_title": "Több mint ezer háziorvosi praxis üres, a gyermekorvosok kéth",
+        "meta_description": "Magyarországon jelenleg 1025 betöltetlen háziorvosi és gyermekorvosi praxis van, miközben a szakmai szervezet adatai szerint a meglévő gyermekorvosok kétharmada",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-tobb-mint-ezer-haziorvosi-praxis-ures-a-gyermekorvosok-ketharmada-ido/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Semmelweis-Ulloi26.JPG/1280px-Semmelweis-Ulloi26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "b0afadc671d304cea2f825d2559eb90283be8a245f66392675fd3ac8b166e1aa",
+      "pipeline_run_id": "38945485362",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T20:49:42+02:00",
+      "updated_at": "2026-10-16T20:49:42+02:00",
+      "published_at": "2026-10-16T20:49:42+02:00",
+      "expires_at": null
+    },
     {
       "id": "157ec010-d65f-5cec-ad24-0a6886c4e9a2",
       "slug": "2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben",
