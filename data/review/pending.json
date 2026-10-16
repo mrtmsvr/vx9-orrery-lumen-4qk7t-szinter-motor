@@ -14304,16 +14304,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T05:49:30+00:00",
-        "msg_ids": [
-          6576,
-          6577,
-          6578,
-          6579,
-          6612,
-          6646,
-          6647
-        ],
-        "control_id": 6648
+        "msg_ids": [],
+        "control_id": 6648,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
