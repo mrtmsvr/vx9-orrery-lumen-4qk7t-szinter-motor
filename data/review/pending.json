@@ -15708,9 +15708,9 @@
       "live": true
     },
     {
-      "id": "f61d5249-7646-5081-82e4-b1f09ee7699a",
-      "slug": "2026-10-16-mit-kezdjunk-a-cinikus-rokonokkal-amikor-mar-eg-a-haz",
-      "status": "pending",
+      "id": "6bf5c064-5480-527c-9623-6db2864c97bc",
+      "slug": "2026-10-16-megjelent-magyarul-a-kalauz-ami-kiutat-mutat-a-klimapathelyzetbol",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -15720,7 +15720,7 @@
         "pszichológia",
         "könyv"
       ],
-      "title": "Mit kezdjünk a cinikus rokonokkal, amikor már ég a ház?",
+      "title": "Megjelent magyarul a kalauz, ami kiutat mutat a klímapathelyzetből",
       "subtitle": null,
       "lead": "Megjelent magyarul Christopher Schrader német tudományos újságíró klímakommunikációs kézikönyve, amely a meggyőzés helyett az eddigi próbálkozások kudarcainak okait tárgyalja. A kötet a cselekvést akadályozó társadalmi és pszichológiai patthelyzetből próbál kiutat mutatni a potenciális túlélők számára.",
       "key_points": [
@@ -15742,15 +15742,17 @@
       "word_count": 289,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/gfadb8884e63c7d8bc81ebe53dc6e66b99bf69052c3b17a5ff06c16a409c9afb8eadfd530749e56da426579c4a475b8e4e21281e66a0f1752f283152db4fd3c25_1280.jpg",
-        "width": 6016,
-        "height": 4016,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/4c4a752dc8d09f7c.jpg",
+        "width": 4096,
+        "height": 2730,
         "kind": "photo",
-        "alt": "drought, dehydrated, clay floor, earth, cracked, cracks, dry, hot, loneliness, devastated, nature, plant, soil, landscape, bushes, brown nature, brown earth, brown landscape, brown plant, brown plants",
-        "credit": "josealbafotos / Pixabay",
+        "alt": "nature, footprint, drought, emotion, landscape, lonely, walking, drought, drought, drought, drought, drought, emotion, emotion, emotion, lonely, lonely, lonely, lonely, lonely",
+        "credit": "37948519 / Pixabay",
         "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/drought-dehydrated-clay-floor-earth-1675729/",
-        "vision_score": 7.0
+        "source_url": "https://pixabay.com/photos/nature-footprint-drought-emotion-8093509/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/4c4a752dc8d09f7c.jpg",
+        "orig_url": "https://pixabay.com/get/g6097ef0af7ab473ea3efcc4f40079fb168219da918b817d7dd7999a6cb9d89adadb66345035c0db860e467dd9de66eff6f8a84016f46cee81f7f8df76d9d4ebc_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -15838,12 +15840,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/tech/2026-10-16-mit-kezdjunk-a-cinikus-rokonokkal-amikor-mar-eg-a-haz/",
+      "url": "/tech/2026-10-16-megjelent-magyarul-a-kalauz-ami-kiutat-mutat-a-klimapathelyzetbol/",
       "seo": {
-        "meta_title": "Mit kezdjünk a cinikus rokonokkal, amikor már ég a ház?",
+        "meta_title": "Megjelent magyarul a kalauz, ami kiutat mutat a klímapathely",
         "meta_description": "Megjelent magyarul Christopher Schrader német tudományos újságíró klímakommunikációs kézikönyve, amely a meggyőzés helyett az eddigi próbálkozások kudarcainak o",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-16-mit-kezdjunk-a-cinikus-rokonokkal-amikor-mar-eg-a-haz/",
-        "og_image": "https://pixabay.com/get/gfadb8884e63c7d8bc81ebe53dc6e66b99bf69052c3b17a5ff06c16a409c9afb8eadfd530749e56da426579c4a475b8e4e21281e66a0f1752f283152db4fd3c25_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-16-megjelent-magyarul-a-kalauz-ami-kiutat-mutat-a-klimapathelyzetbol/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/4c4a752dc8d09f7c.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -15860,9 +15862,9 @@
       "dedupe_hash": "ffd7695bb05fc3586331a7eb3e49a226499142330b8946c7227cacaef6bd9498",
       "pipeline_run_id": "38926267604",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T18:07:45+02:00",
-      "updated_at": "2026-10-16T18:07:45+02:00",
-      "published_at": "2026-10-16T18:07:45+02:00",
+      "created_at": "2026-10-16T19:25:35+02:00",
+      "updated_at": "2026-10-16T19:25:35+02:00",
+      "published_at": "2026-10-16T19:25:35+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15875,9 +15877,9 @@
         "msg_ids": [],
         "control_id": 6904,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 19:25 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-16T19:25:22+02:00"
+      "live": true
     },
     {
       "id": "3da4358c-eebd-53a2-8eb3-8f3f8a3ddf68",
