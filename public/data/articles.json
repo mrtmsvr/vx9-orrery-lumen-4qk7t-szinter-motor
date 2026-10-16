@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T07:49:55+02:00",
+  "updated_at": "2026-10-16T07:50:27+02:00",
   "articles": [
+    {
+      "id": "66f31bc5-4e3a-5f6e-a887-6662ea789858",
+      "slug": "2026-10-16-egymilliard-uzenetet-kuldtek-aztan-racsapott-a-rendorseg-a-kiberbunoz",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "kiberbűnözés",
+        "adathalászat",
+        "Microsoft",
+        "rendőrség",
+        "bűnügy"
+      ],
+      "title": "Egymilliárd üzenetet küldtek, aztán rácsapott a rendőrség a kiberbűnözőkre",
+      "subtitle": null,
+      "lead": "Összehangolt nemzetközi akcióban fülelték le azt a kiberbűnöző-hálózatot, amely 150 országban több mint 75 ezer szervezet megkárosítását célozta meg. A hatóságok teljes infrastruktúráját felszámolták a YAM Store néven ismert feketepiacnak.",
+      "key_points": [
+        "A Microsoft és a japán rendőrség vezetésével számolták fel a kiberbűnöző-hálózatot.",
+        "A YAM Store nevű piactéren adathalász eszközöket és kompromittált fiókokat árultak.",
+        "A bűnözők bő egymilliárd adathalász támadáshoz járulhattak hozzá működésük során.",
+        "A hatóságok több mint 20 ezer fiókot és 100 ezer domaint függesztettek fel az akcióban."
+      ],
+      "content": "Összehangolt bűnügyi akcióban csaptak le a hatóságok arra az online hálózatra, amely globális méretekben folytatott adathalász tevékenységet. A Bleeping Computer beszámolója szerint a Microsoft a japán rendőrséggel és több ország bűnüldöző szervével közösen derítette fel a kiberbűnözők tevékenységét, miután egy csalási ügyben indult nyomozás során egy kiterjedt, kínai nyelvű piactérre bukkantak.\n\nA nyomozás során a rosszindulatú felek által YAM Store-nak nevezett feketepiac infrastruktúráját azonosították, amelyet a CoGUI, a Haozi és az Iron Man System nevet viselő adathalász-készletekkel is összekapcsoltak. A hálózatot a hatóságok Storm-2990 néven tartották szemmel a vizsgálat alatt.\n\nA jelentések szerint a piactér kompromittált vagy csalárd módon megszerzett Google- és Microsoft-környezeteket, fiókokat, licenceket és tárhelyeket kínált eladásra. Az üzemeltetők lejárt domaineket is megkaparintottak valódi szervezetektől, hogy azokon az eredetihez tévedésig hasonlító oldalakon keresztül szerezzék meg a mit sem sejtő látogatók adatait, miközben mesterséges intelligencia segítségével sosemvolt szervezeteket is létrehoztak dokumentációkkal együtt.\n\nA kínált eszközök széles skálája lehetővé tette a támadók számára, hogy a kifizetetlen számláktól a szállítási problémákon át egészen a bírságokig szinte bármilyen témában indítsanak adathalász akciókat. A hálózat működése során bő egymilliárd ilyen üzenethez járult hozzá, és 150 országban több mint 75 ezer szervezet eshetett áldozatul.\n\nAz akció lezárásaként a hatóságok leállították a teljes infrastruktúrát, és felfüggesztettek több mint 20 ezer, a piactérhez kapcsolható fiókot, valamint 100 ezer domaint vontak ki a forgalomból.",
+      "content_format": "markdown",
+      "body": [
+        "Összehangolt bűnügyi akcióban csaptak le a hatóságok arra az online hálózatra, amely globális méretekben folytatott adathalász tevékenységet. A Bleeping Computer beszámolója szerint a Microsoft a japán rendőrséggel és több ország bűnüldöző szervével közösen derítette fel a kiberbűnözők tevékenységét, miután egy csalási ügyben indult nyomozás során egy kiterjedt, kínai nyelvű piactérre bukkantak.",
+        "A nyomozás során a rosszindulatú felek által YAM Store-nak nevezett feketepiac infrastruktúráját azonosították, amelyet a CoGUI, a Haozi és az Iron Man System nevet viselő adathalász-készletekkel is összekapcsoltak. A hálózatot a hatóságok Storm-2990 néven tartották szemmel a vizsgálat alatt.",
+        "A jelentések szerint a piactér kompromittált vagy csalárd módon megszerzett Google- és Microsoft-környezeteket, fiókokat, licenceket és tárhelyeket kínált eladásra. Az üzemeltetők lejárt domaineket is megkaparintottak valódi szervezetektől, hogy azokon az eredetihez tévedésig hasonlító oldalakon keresztül szerezzék meg a mit sem sejtő látogatók adatait, miközben mesterséges intelligencia segítségével sosemvolt szervezeteket is létrehoztak dokumentációkkal együtt.",
+        "A kínált eszközök széles skálája lehetővé tette a támadók számára, hogy a kifizetetlen számláktól a szállítási problémákon át egészen a bírságokig szinte bármilyen témában indítsanak adathalász akciókat. A hálózat működése során bő egymilliárd ilyen üzenethez járult hozzá, és 150 országban több mint 75 ezer szervezet eshetett áldozatul.",
+        "Az akció lezárásaként a hatóságok leállították a teljes infrastruktúrát, és felfüggesztettek több mint 20 ezer, a piactérhez kapcsolható fiókot, valamint 100 ezer domaint vontak ki a forgalomból."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 252,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cybercrime_-_keyboard_and_handcuffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Cybercrime: keyboard and handcuffs",
+        "credit": "Klops.ru / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cybercrime_-_keyboard_and_handcuffs.jpg",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261015_adathalasz-halozat-felszamolasa-hatosag",
+          "title": "Kiküldtek 1 milliárd üzenetet, majd jött a rendőrség",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T07:48:51+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T07:50:27+02:00"
+      },
+      "hot_score": 5.37,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261015_adathalasz-halozat-felszamolasa-hatosag"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-egymilliard-uzenetet-kuldtek-aztan-racsapott-a-rendorseg-a-kiberbunoz/",
+      "seo": {
+        "meta_title": "Egymilliárd üzenetet küldtek, aztán rácsapott a rendőrség a ",
+        "meta_description": "Összehangolt nemzetközi akcióban fülelték le azt a kiberbűnöző-hálózatot, amely 150 országban több mint 75 ezer szervezet megkárosítását célozta meg. A hatóságo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-egymilliard-uzenetet-kuldtek-aztan-racsapott-a-rendorseg-a-kiberbunoz/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cybercrime_-_keyboard_and_handcuffs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "0e89bb0649957930d32624b3af96ba42c1b558d2ba8da5f6af2a31e0dd4a5fb7",
+      "pipeline_run_id": "38857528911",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T07:50:27+02:00",
+      "updated_at": "2026-10-16T07:50:27+02:00",
+      "published_at": "2026-10-16T07:50:27+02:00",
+      "expires_at": null
+    },
     {
       "id": "2a8676a8-9551-50d3-a50a-3df400c4dc72",
       "slug": "2026-10-16-czibere-karoly-nem-kaptunk-eleg-penzt-a-gyermekvedelemre",
