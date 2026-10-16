@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T07:47:27+02:00",
+  "updated_at": "2026-10-16T07:47:44+02:00",
   "articles": [
     {
       "id": "faa887c9-369a-58b7-bea7-0b272fb9c3e4",
@@ -272,8 +272,8 @@
       "word_count": 261,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126565-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/bulvar-1792126565-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126566-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/bulvar-1792126566-1.jpg",
         "kind": "photo",
         "alt": "Drámai véghajrá a Házasság első látásrában",
         "likeness": false,
@@ -334,7 +334,7 @@
         "meta_title": "Drámai véghajrá a Házasság első látásra-ban",
         "meta_description": "Elérkezett a TV2 Házasság első látásra negyedik évadának utolsó előtti adása, ahol a párok meghozták végső döntésüket kapcsolatuk jövőjéről. Az egyik legígérete",
         "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126565-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126566-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -360,7 +360,7 @@
       "pipeline_run_id": "38852970676",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T06:56:35+02:00",
-      "updated_at": "2026-10-16T06:56:35+02:00",
+      "updated_at": "2026-10-16T07:47:44+02:00",
       "published_at": "2026-10-16T06:56:35+02:00",
       "expires_at": null
     },
