@@ -16225,13 +16225,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-16T18:49:27+00:00",
-        "msg_ids": [
-          7030,
-          7031,
-          7032,
-          7034
-        ],
-        "control_id": 7033
+        "msg_ids": [],
+        "control_id": 7033,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
