@@ -15126,25 +15126,10 @@
         "title": 5,
         "image": 0,
         "sent_at": "2026-10-16T05:49:48+00:00",
-        "msg_ids": [
-          6596,
-          6597,
-          6598,
-          6599,
-          6600,
-          6601,
-          6602,
-          6623,
-          6625,
-          6626,
-          6627,
-          6628,
-          6629,
-          6630,
-          6631,
-          6632
-        ],
-        "control_id": 6633
+        "msg_ids": [],
+        "control_id": 6633,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:54 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Saudi Aramco",
@@ -15173,7 +15158,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Saudi_Aramco_Archive%2C_1951_04.jpg/1280px-Saudi_Aramco_Archive%2C_1951_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Saudi_Aramco_Archive%2C_1951_03.jpg/1280px-Saudi_Aramco_Archive%2C_1951_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/f/fb/Amin_H._Nasser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
-      ]
+      ],
+      "scheduled_at": "2026-10-16T08:54:50+02:00"
     },
     {
       "id": "d88324d0-812e-55f8-a03e-fbba989aa562",
