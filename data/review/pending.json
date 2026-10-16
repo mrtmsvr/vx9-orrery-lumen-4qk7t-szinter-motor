@@ -14910,18 +14910,10 @@
         "title": 5,
         "image": 2,
         "sent_at": "2026-10-16T14:10:24+00:00",
-        "msg_ids": [
-          6828,
-          6829,
-          6830,
-          6831,
-          6832,
-          6833,
-          6834,
-          6835,
-          6839
-        ],
-        "control_id": 6836
+        "msg_ids": [],
+        "control_id": 6836,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
