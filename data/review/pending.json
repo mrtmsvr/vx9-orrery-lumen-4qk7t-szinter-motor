@@ -16886,13 +16886,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-16T09:23:52+00:00",
-        "msg_ids": [
-          6748,
-          6749,
-          6750
-        ],
-        "control_id": 6751
-      }
+        "msg_ids": [],
+        "control_id": 6751,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:20 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T12:20:45+02:00"
     },
     {
       "id": "9da609af-fe15-5cff-b239-ed8865996d44",
