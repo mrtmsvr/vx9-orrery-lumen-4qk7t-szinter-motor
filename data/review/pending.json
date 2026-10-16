@@ -14106,13 +14106,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T04:56:12+00:00",
-        "msg_ids": [
-          6551,
-          6552,
-          6553,
-          6555
-        ],
-        "control_id": 6554
+        "msg_ids": [],
+        "control_id": 6554,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
