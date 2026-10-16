@@ -17058,13 +17058,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T16:48:58+00:00",
-        "msg_ids": [
-          6946,
-          6947,
-          6948
-        ],
-        "control_id": 6949
-      }
+        "msg_ids": [],
+        "control_id": 6949,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:25 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T20:25:22+02:00"
     }
   ]
 }
