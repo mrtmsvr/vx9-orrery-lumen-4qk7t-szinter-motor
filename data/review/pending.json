@@ -13728,9 +13728,9 @@
       "live": true
     },
     {
-      "id": "a4e168b0-3524-547f-9bfc-caa2f320c61b",
-      "slug": "2026-10-15-azonnali-autoelkobzast-kovetelnek-a-durva-gyorshajtok-ellen",
-      "status": "pending",
+      "id": "faa887c9-369a-58b7-bea7-0b272fb9c3e4",
+      "slug": "2026-10-15-autoelkobzas-es-jogositvanyvesztes-szigoritananak-a-kozlekedesi-szaba",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -13739,7 +13739,7 @@
         "bíróság",
         "Telex"
       ],
-      "title": "Azonnali autóelkobzást követelnek a durva gyorshajtók ellen",
+      "title": "Autóelkobzás és jogosítványvesztés: szigorítanának a közlekedési szabályokon",
       "subtitle": null,
       "lead": "A magyar közlekedési szabálysértések szigorításáról, a járművek esetleges elkobzásáról és a büntetések reformjáról beszélt Boncsér Sándor és Hervay Miklós a Telex.hu videójában. A szakértők szerint a jelenlegi bírságrendszer nem elég elrettentő erejű a drasztikusan gyorshajtó sofőrökkel szemben.",
       "key_points": [
@@ -13760,7 +13760,7 @@
       "word_count": 272,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/gb5c9307ceebc2e3eb837d7f893d9fe9e67421a881def0e4c33a70673f6c5ad5ba2453ee1b855ebcaafb8b74ae37edf74a1e0fbea1eda39bacf32377fdb0802c7_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/a9de5948d987d518.jpg",
         "width": 4325,
         "height": 2883,
         "kind": "photo",
@@ -13768,7 +13768,9 @@
         "credit": "AG-Pics / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/police-traffic-police-car-6938244/",
-        "vision_score": 8.0
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/a9de5948d987d518.jpg",
+        "orig_url": "https://pixabay.com/get/gb5c9307ceebc2e3eb837d7f893d9fe9e67421a881def0e4c33a70673f6c5ad5ba2453ee1b855ebcaafb8b74ae37edf74a1e0fbea1eda39bacf32377fdb0802c7_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -13869,12 +13871,12 @@
       },
       "date": "2026-10-15",
       "date_label": "október 15.",
-      "url": "/kozelet/2026-10-15-azonnali-autoelkobzast-kovetelnek-a-durva-gyorshajtok-ellen/",
+      "url": "/kozelet/2026-10-15-autoelkobzas-es-jogositvanyvesztes-szigoritananak-a-kozlekedesi-szaba/",
       "seo": {
-        "meta_title": "Azonnali autóelkobzást követelnek a durva gyorshajtók ellen",
+        "meta_title": "Autóelkobzás és jogosítványvesztés: szigorítanának a közleke",
         "meta_description": "A magyar közlekedési szabálysértések szigorításáról, a járművek esetleges elkobzásáról és a büntetések reformjáról beszélt Boncsér Sándor és Hervay Miklós a Tel",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-azonnali-autoelkobzast-kovetelnek-a-durva-gyorshajtok-ellen/",
-        "og_image": "https://pixabay.com/get/gb5c9307ceebc2e3eb837d7f893d9fe9e67421a881def0e4c33a70673f6c5ad5ba2453ee1b855ebcaafb8b74ae37edf74a1e0fbea1eda39bacf32377fdb0802c7_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-autoelkobzas-es-jogositvanyvesztes-szigoritananak-a-kozlekedesi-szaba/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/a9de5948d987d518.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13891,9 +13893,9 @@
       "dedupe_hash": "97bebbe48c124180911ee3bb29dcf159a0f022291dd4ce1d10988c44b25c27c3",
       "pipeline_run_id": "38797918794",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T22:19:17+02:00",
-      "updated_at": "2026-10-15T22:19:17+02:00",
-      "published_at": "2026-10-15T22:19:17+02:00",
+      "created_at": "2026-10-16T07:47:27+02:00",
+      "updated_at": "2026-10-16T07:47:27+02:00",
+      "published_at": "2026-10-16T07:47:27+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -13910,15 +13912,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-15T20:19:57+00:00",
-        "msg_ids": [
-          6538,
-          6539,
-          6540,
-          6541,
-          6542
-        ],
-        "control_id": 6543
-      }
+        "msg_ids": [],
+        "control_id": 6543,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "5259a0dd-c31e-578b-857e-f9edb51d8a42",
