@@ -15520,15 +15520,15 @@
           "vision_score": 8.0
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg/1280px-S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1558,
+          "height": 1601,
           "kind": "photo",
           "pos": "top",
-          "alt": "Sándor Lezsák, Hungarian poet, teacher, politician, and founder of the Hungarian Democratic Forum. Since 2006, he has been deputy Speaker of the Parliament.",
-          "credit": "Thaler Tamas / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg",
+          "alt": "Issues of strengthening Kazakhstan-Hungary relations were discussed at the Mäjilis, September 9, 2024",
+          "credit": "Қазақстан Парламентінің Мәжілісі / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg",
           "vision_score": 8.0
         }
       ],
@@ -15601,17 +15601,32 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T15:59:39+00:00",
         "msg_ids": [
           6885,
           6886,
           6887,
-          6889
+          6889,
+          6917,
+          6918
         ],
-        "control_id": 6888
+        "control_id": 6919
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Hungarikum Liget Lakitelek",
+        "Lezsák Sándor",
+        "Fidesz",
+        "Nemzeti Művelődési Intézet",
+        "luxury park",
+        "wellness hotel",
+        "equestrian center"
+      ],
+      "images_seen": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "43af50ef-7810-59d2-957f-6a8759245c25",
