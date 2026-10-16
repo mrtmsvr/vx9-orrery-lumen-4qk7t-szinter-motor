@@ -16545,13 +16545,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-16T19:00:52+00:00",
-        "msg_ids": [
-          7041,
-          7042,
-          7043,
-          7045
-        ],
-        "control_id": 7044
+        "msg_ids": [],
+        "control_id": 7044,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
