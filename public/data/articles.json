@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T11:24:10+02:00",
+  "updated_at": "2026-10-16T11:30:00+02:00",
   "articles": [
     {
       "id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
@@ -137,17 +137,7 @@
       "reading_time_min": 2,
       "word_count": 215,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 960,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Montage of well-known Hungarian filmmakers and actors. From top left to bottom right: Zoltán Várkonyi, Zoltán Fábri, Miklós Jancsó, Károly Makk, Péter Bacsó, Márta Mészáros, István Szabó, Gábor Bódy,",
-        "credit": "See sources / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Famous_people_in_Hungarian_cinema.jpg"
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -185,7 +175,7 @@
         "meta_title": "Átvilágítja a Nemzeti Művelődési Intézet szerződéseit Tarr Z",
         "meta_description": "Tarr Zoltán kulturális miniszter bejelentette a Nemzeti Művelődési Intézet és a szaktárca közötti közszolgáltatási szerződés felülvizsgálatát. A döntés hátteréb",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-atvilagitja-a-nemzeti-muvelodesi-intezet-szerzodeseit-tarr-zoltan/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -211,7 +201,7 @@
       "pipeline_run_id": "38876809739",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T11:24:09+02:00",
-      "updated_at": "2026-10-16T11:24:09+02:00",
+      "updated_at": "2026-10-16T11:30:00+02:00",
       "published_at": "2026-10-16T11:24:09+02:00",
       "expires_at": null
     },
