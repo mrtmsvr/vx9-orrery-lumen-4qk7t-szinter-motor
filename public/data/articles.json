@@ -1,7 +1,220 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T11:20:45+02:00",
+  "updated_at": "2026-10-16T11:24:10+02:00",
   "articles": [
+    {
+      "id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
+      "slug": "2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Kerkez Milos",
+        "Mirotvorec",
+        "Magyar Labdarúgó Szövetség",
+        "külügyminisztérium",
+        "Liverpool FC"
+      ],
+      "title": "Lekerült a Mirotvorec listájáról Kerkez Milos",
+      "subtitle": null,
+      "lead": "Kerkez Milos labdarúgó lekerült az Ukrajna ellenségeit listázó Mirotvorec honlapról a Magyar Labdarúgó Szövetség és a külügyminisztérium közbenjárására. Az ügy előzménye egy budapesti válogatott mérkőzés és az azt követő közösségi médiás megosztás volt.",
+      "key_points": [
+        "Kerkez Milos lekerült a kijevi Mirotvorec oldal listájáról.",
+        "A lépés mögött az MLSZ és a külügyminisztérium közbenjárása áll a HVG értesülései szerint.",
+        "A focista korábban egy zenei aláfestésű videómegosztás miatt került az adatbázisba.",
+        "A labdarúgó édesapja továbbra is szerepel az oldalon."
+      ],
+      "content": "Lekerült az Ukrajna vélt vagy valós ellenségeit listázó, Mirotvorec nevű honlapról Kerkez Milos, a magyar labdarúgó-válogatott és a Bournemouth hátvédje. A HVG értesülései szerint a sikeres közbenjárás mögött a Magyar Labdarúgó Szövetség és a külügyminisztérium áll.\n\nA 2014 óta Kijevben működő Mirotvorec adatbázisában azokat a személyeket teszi közzé, akiket Ukrajna ellenségeinek vagy oroszbarátnak tekintenek. Kerkez Milos azután került fel a felsorolásra, hogy a magyar és az ukrán válogatott budapesti mérkőzésének utolsó perceiben több ukrán játékossal is összeszólalkozott, majd édesapja egy olyan videót osztott meg az Instagramon, amely alá az orosz AK-47 rapcsapat Russian Paradise című számát vágta be.\n\nAz eset után a honlap azzal a váddal vette fel a listára a labdarúgót és az édesapját, hogy támogatják az orosz agressziót. Szijjártó Péter külügyminiszter korábban elítélte Kerkez Milos, valamint a felsorolásban szintén szereplő Hidvéghi Balázs fideszes országgyűlési képviselő megbélyegzését és fenyegetését, a külügyminisztérium azonban a lap megkeresésére nem erősítette meg, de nem is cáfolta a saját közreműködéséről szóló híreket.\n\nBár a focistát végül eltávolították az oldalról, az édesapja továbbra is szerepel az adatbázisban oroszpárti provokátorként megjelölve.",
+      "content_format": "markdown",
+      "body": [
+        "Lekerült az Ukrajna vélt vagy valós ellenségeit listázó, Mirotvorec nevű honlapról Kerkez Milos, a magyar labdarúgó-válogatott és a Bournemouth hátvédje. A HVG értesülései szerint a sikeres közbenjárás mögött a Magyar Labdarúgó Szövetség és a külügyminisztérium áll.",
+        "A 2014 óta Kijevben működő Mirotvorec adatbázisában azokat a személyeket teszi közzé, akiket Ukrajna ellenségeinek vagy oroszbarátnak tekintenek. Kerkez Milos azután került fel a felsorolásra, hogy a magyar és az ukrán válogatott budapesti mérkőzésének utolsó perceiben több ukrán játékossal is összeszólalkozott, majd édesapja egy olyan videót osztott meg az Instagramon, amely alá az orosz AK-47 rapcsapat Russian Paradise című számát vágta be.",
+        "Az eset után a honlap azzal a váddal vette fel a listára a labdarúgót és az édesapját, hogy támogatják az orosz agressziót. Szijjártó Péter külügyminiszter korábban elítélte Kerkez Milos, valamint a felsorolásban szintén szereplő Hidvéghi Balázs fideszes országgyűlési képviselő megbélyegzését és fenyegetését, a külügyminisztérium azonban a lap megkeresésére nem erősítette meg, de nem is cáfolta a saját közreműködéséről szóló híreket.",
+        "Bár a focistát végül eltávolították az oldalról, az édesapja továbbra is szerepel az adatbázisban oroszpárti provokátorként megjelölve."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 210,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Milos_Kerkez_04012026_%281%29.jpg/1280px-Milos_Kerkez_04012026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1245,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Milos Kerkez arriving at Craven Cottage prior to the match between Fulham and Liverpool",
+        "credit": "Timmy96 / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Milos_Kerkez_04012026_(1).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261016_lekerult-kerkez-milos-a-mirotvorec-listajarol",
+          "title": "Kerkez Milos lekerült az Ukrajna ellenségeit listázó oldalról",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T11:22:26+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T11:24:10+02:00"
+      },
+      "hot_score": 5.67,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261016_lekerult-kerkez-milos-a-mirotvorec-listajarol"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos/",
+      "seo": {
+        "meta_title": "Lekerült a Mirotvorec listájáról Kerkez Milos",
+        "meta_description": "Kerkez Milos labdarúgó lekerült az Ukrajna ellenségeit listázó Mirotvorec honlapról a Magyar Labdarúgó Szövetség és a külügyminisztérium közbenjárására. Az ügy ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Milos_Kerkez_04012026_%281%29.jpg/1280px-Milos_Kerkez_04012026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "4fe8e6110238464761e6967da6bded90de61d0e1ce4221f8b269b7df81172be7",
+      "pipeline_run_id": "38876809739",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T11:24:10+02:00",
+      "updated_at": "2026-10-16T11:24:10+02:00",
+      "published_at": "2026-10-16T11:24:10+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "0ad99464-a324-5a02-8798-62cc877b602b",
+      "slug": "2026-10-16-atvilagitja-a-nemzeti-muvelodesi-intezet-szerzodeseit-tarr-zoltan",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Tarr Zoltán",
+        "kulturális minisztérium",
+        "közpénz",
+        "Nemzeti Művelődési Intézet",
+        "Lezsák Sándor"
+      ],
+      "title": "Átvilágítja a Nemzeti Művelődési Intézet szerződéseit Tarr Zoltán",
+      "subtitle": null,
+      "lead": "Tarr Zoltán kulturális miniszter bejelentette a Nemzeti Művelődési Intézet és a szaktárca közötti közszolgáltatási szerződés felülvizsgálatát. A döntés hátterében a közpénzek felhasználásának átláthatóságával kapcsolatos kormányzati törekvések állnak.",
+      "key_points": [
+        "A miniszter az átláthatóságot nevezte a vizsgálat elsődleges céljának.",
+        "A Nemzeti Művelődési Intézet 2017 óta lát el közművelődési feladatokat szerződéses alapon.",
+        "Tarr Zoltán korábban kritikus megjegyzéseket tett az intézmény működésére.",
+        "A folyamatban lévő néptánctalálkozók és táborok lebonyolítását nem érinti a felülvizsgálat."
+      ],
+      "content": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter közösségi oldalán tette közzé, hogy felülvizsgálják a Nemzeti Művelődési Intézet (NMI) és a minisztérium közötti közszolgáltatási megállapodást. A tárcavezető hangsúlyozta, hogy az állam korábban több milliárd forint közpénzt juttatott az intézetnek, de a jövőben garantálni kívánják az átlátható és indokolt költéseket.\n\nA mostani lépés nem előzmények nélküli: a miniszter már korábban is jelezte, hogy a kulturális támogatásoknál szigorúbb szakmai szempontokat érvényesítenek majd. Mint arra a tárcavezető még májusi jelölti meghallgatásán utalt, a Nemzeti Művelődési Intézet kapcsán felmerült, hogy a szervezeti keretek és a működési modell finomhangolásra szorul.\n\nAz NMI-t a Lezsák Sándor és felesége által 1991-ben alapított Lakitelek Alapítványhoz kötődő Népfőiskola Alapítvány hozta létre. A gazdasági társaságként működő intézet 2017. január 1-jétől látja el azokat a közművelődési, módszertani és szakmai szolgáltatói feladatokat, amelyeket korábban költségvetési szervként végeztek el. Az intézmény célja hivatalos tájékoztatásuk szerint a kistelepülések életminőségének javítása és a szellemi erőforrások biztosítása.\n\nA minisztériumi bejelentés ellenére a szervezet által tervezett idei programok – köztük a Kösöntyű néptánctalálkozó, az országos malombajnokság és a Keleti nyitás műfordítói tábor – biztonsággal megvalósulnak. A kormányzati átvilágítás a jövőbeni közszolgáltatási feltételek meghatározására fókuszál.",
+      "content_format": "markdown",
+      "body": [
+        "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter közösségi oldalán tette közzé, hogy felülvizsgálják a Nemzeti Művelődési Intézet (NMI) és a minisztérium közötti közszolgáltatási megállapodást. A tárcavezető hangsúlyozta, hogy az állam korábban több milliárd forint közpénzt juttatott az intézetnek, de a jövőben garantálni kívánják az átlátható és indokolt költéseket.",
+        "A mostani lépés nem előzmények nélküli: a miniszter már korábban is jelezte, hogy a kulturális támogatásoknál szigorúbb szakmai szempontokat érvényesítenek majd. Mint arra a tárcavezető még májusi jelölti meghallgatásán utalt, a Nemzeti Művelődési Intézet kapcsán felmerült, hogy a szervezeti keretek és a működési modell finomhangolásra szorul.",
+        "Az NMI-t a Lezsák Sándor és felesége által 1991-ben alapított Lakitelek Alapítványhoz kötődő Népfőiskola Alapítvány hozta létre. A gazdasági társaságként működő intézet 2017. január 1-jétől látja el azokat a közművelődési, módszertani és szakmai szolgáltatói feladatokat, amelyeket korábban költségvetési szervként végeztek el. Az intézmény célja hivatalos tájékoztatásuk szerint a kistelepülések életminőségének javítása és a szellemi erőforrások biztosítása.",
+        "A minisztériumi bejelentés ellenére a szervezet által tervezett idei programok – köztük a Kösöntyű néptánctalálkozó, az országos malombajnokság és a Keleti nyitás műfordítói tábor – biztonsággal megvalósulnak. A kormányzati átvilágítás a jövőbeni közszolgáltatási feltételek meghatározására fókuszál."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 215,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 960,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Montage of well-known Hungarian filmmakers and actors. From top left to bottom right: Zoltán Várkonyi, Zoltán Fábri, Miklós Jancsó, Károly Makk, Péter Bacsó, Márta Mészáros, István Szabó, Gábor Bódy,",
+        "credit": "See sources / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Famous_people_in_Hungarian_cinema.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261015_tarr-zoltan-vizsgalat-nemzeti-muvelodesi-intezet-kozszolgaltatasi-szerzodes",
+          "title": "Tarr Zoltán: Felülvizsgáljuk a Nemzeti Művelődési Intézet közszolgáltatási szerződését",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T11:22:37+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az állam a szerződés szerint kiszervezte közfeladatainak egy részét a Népfőiskolához kötődő intézetnek. A mi célunk viszont az, hogy a közpénz útja és elköltése átlátható és indokolt legyen.",
+        "who": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T11:24:09+02:00"
+      },
+      "hot_score": 4.15,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261015_tarr-zoltan-vizsgalat-nemzeti-muvelodesi-intezet-kozszolgaltatasi-szerzodes"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/kozelet/2026-10-16-atvilagitja-a-nemzeti-muvelodesi-intezet-szerzodeseit-tarr-zoltan/",
+      "seo": {
+        "meta_title": "Átvilágítja a Nemzeti Művelődési Intézet szerződéseit Tarr Z",
+        "meta_description": "Tarr Zoltán kulturális miniszter bejelentette a Nemzeti Művelődési Intézet és a szaktárca közötti közszolgáltatási szerződés felülvizsgálatát. A döntés hátteréb",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-atvilagitja-a-nemzeti-muvelodesi-intezet-szerzodeseit-tarr-zoltan/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "cd6e6e94-0b83-5baf-befb-e6ea3968e37d"
+      ],
+      "see_also": [
+        {
+          "title": "Új szabályok jönnek a kulturális támogatásoknál",
+          "url": "/kultura/2026-10-01-uj-szabalyok-jonnek-a-kulturalis-tamogatasoknal/",
+          "date": "2026-10-01"
+        }
+      ],
+      "thread_id": "3cfc98c0-2244-5d82-b106-11eefe5c8532",
+      "dedupe_hash": "eed27812680947e4d289d32355e8b3bdab3a6e42533411f4fba7c01c25c5fbc9",
+      "pipeline_run_id": "38876809739",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T11:24:09+02:00",
+      "updated_at": "2026-10-16T11:24:09+02:00",
+      "published_at": "2026-10-16T11:24:09+02:00",
+      "expires_at": null
+    },
     {
       "id": "c5af7961-925a-5166-845c-7dddc1d830e5",
       "slug": "2026-10-16-unicummal-indult-vitaval-zarult-a-fovarosi-kozgyules-penteki-ulese",
