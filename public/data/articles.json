@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T19:53:47+02:00",
+  "updated_at": "2026-10-16T20:05:38+02:00",
   "articles": [
+    {
+      "id": "9501ddac-a086-5dd1-b32f-19c53bc11aab",
+      "slug": "2026-10-16-a-mobilinternet-romjai-utan-vezetekes-telefont-vesznek-oroszorszagban",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Oroszország",
+        "mobilinternet",
+        "távközlés",
+        "orosz-ukrán háború",
+        "vezetékes telefon"
+      ],
+      "title": "A mobilinternet romjai után vezetékes telefont vesznek Oroszországban",
+      "subtitle": null,
+      "lead": "Oroszország területének közel 80 százalékát érintik súlyos mobilinternet-kimaradások, ami miatt a vállalatok és a minisztériumok tömegesen térnek vissza a hagyományos vezetékes telefonokhoz. A hatóságok a drónvédelemmel magyarázzák a korlátozásokat, míg a piaci szereplők a szankciókat és a nyugati gyártók kivonulását is említik.",
+      "key_points": [
+        "Oroszország területének közel 80 százalékát érintik a háború okozta internetkimaradások.",
+        "Az állami vállalatok idén augusztusig háromszor annyit költöttek vezetékes készülékekre, mint egy évvel korábban.",
+        "A hatóságok szerint az ukrán drónok elleni védekezés indokolja a leállásokat.",
+        "A nyugati gyártók kivonulása és a helyi rendszerekre való átállás tovább nehezíti a helyzetet."
+      ],
+      "content": "Oroszországban megfordult a távközlési szektor fejlődési iránya, miután a háború következményei miatt a vezeték nélküli hálózatok működése rendkívül bizonytalanná vált. A Vedomosti című lapnak nyilatkozó piaci szereplők beszámolója szerint a hálózati problémák hátterében a nyugati technológiai cégek 2022-es kivonulása, a szankciók, valamint a belső kommunikációs rendszerekre való kényszerű áttérés áll.\n\nAz Euronews adatai szerint a korlátozások rendszerszintűvé válása 2025 májusában kezdődött, amikor a győzelem napi ünnepségek előtt több mint negyven régióban kapcsolták ki a mobilinternetet. Egy független projekt kimutatása alapján 2025 júniusában még 655 ilyen esetet regisztráltak, egy hónappal később azonban a számuk már 2099-re nőtt, túlszárnyalva a teljes előző évi adatot.\n\nA hivatalos magyarázat szerint a leállásokra az ukrán drónok elleni védekezés miatt van szükség, mivel a hatóságok állítása szerint ezeket a fegyvereket mobilinternettel irányítják, bár ezt a szakértői körök vitatják. A technológiai visszaesés kényszerűségét jól mutatja, hogy a Rostelecom nevű távközlési vállalat adatai szerint az állami szervek 2026 első nyolc hónapjában a tavalyi összeg háromszorosát költötték vezetékes készülékekre.\n\nA hagyományos technológia felé való elmozdulás a legfelsőbb szinteken is megfigyelhető.",
+      "content_format": "markdown",
+      "body": [
+        "Oroszországban megfordult a távközlési szektor fejlődési iránya, miután a háború következményei miatt a vezeték nélküli hálózatok működése rendkívül bizonytalanná vált. A Vedomosti című lapnak nyilatkozó piaci szereplők beszámolója szerint a hálózati problémák hátterében a nyugati technológiai cégek 2022-es kivonulása, a szankciók, valamint a belső kommunikációs rendszerekre való kényszerű áttérés áll.",
+        "Az Euronews adatai szerint a korlátozások rendszerszintűvé válása 2025 májusában kezdődött, amikor a győzelem napi ünnepségek előtt több mint negyven régióban kapcsolták ki a mobilinternetet. Egy független projekt kimutatása alapján 2025 júniusában még 655 ilyen esetet regisztráltak, egy hónappal később azonban a számuk már 2099-re nőtt, túlszárnyalva a teljes előző évi adatot.",
+        "A hivatalos magyarázat szerint a leállásokra az ukrán drónok elleni védekezés miatt van szükség, mivel a hatóságok állítása szerint ezeket a fegyvereket mobilinternettel irányítják, bár ezt a szakértői körök vitatják. A technológiai visszaesés kényszerűségét jól mutatja, hogy a Rostelecom nevű távközlési vállalat adatai szerint az állami szervek 2026 első nyolc hónapjában a tavalyi összeg háromszorosát költötték vezetékes készülékekre.",
+        "A hagyományos technológia felé való elmozdulás a legfelsőbb szinteken is megfigyelhető."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 216,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/4068914ef7935775.jpg",
+        "width": 6000,
+        "height": 4000,
+        "kind": "photo",
+        "alt": "telephone, vintage, monochrome, phone, dial, chat, communication, retro, connection, telephone, telephone, telephone, telephone, telephone, phone, phone, phone, phone",
+        "credit": "Alexas_Fotos / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/telephone-vintage-monochrome-phone-3594206/",
+        "vision_score": 10.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/4068914ef7935775.jpg",
+        "orig_url": "https://pixabay.com/get/g05c5c5f53404d239912a1078854ef41f723813372b14449b6e2cd63e008cb8c6eb363d7eb1e0c334e8e6d163139e3b2261494c22e968655c8d2274b1ddb17916_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261016_oroszorszag-mobilinternet-kimaradasok-tavkozles-vezetekes-telefon-hasznalata",
+          "title": "Az oroszok felfedezték a lehaló mobilhálózatok elleni csodaszert: a vezetékes telefont",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T18:38:49+02:00"
+        }
+      ],
+      "quote": {
+        "text": "vezetékes telefonokat használ",
+        "who": "Dmitrij Peszkov, a Kreml szóvivője",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T20:05:38+02:00"
+      },
+      "hot_score": 5.41,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261016_oroszorszag-mobilinternet-kimaradasok-tavkozles-vezetekes-telefon-hasznalata"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/vilag/2026-10-16-a-mobilinternet-romjai-utan-vezetekes-telefont-vesznek-oroszorszagban/",
+      "seo": {
+        "meta_title": "A mobilinternet romjai után vezetékes telefont vesznek Orosz",
+        "meta_description": "Oroszország területének közel 80 százalékát érintik súlyos mobilinternet-kimaradások, ami miatt a vállalatok és a minisztériumok tömegesen térnek vissza a hagyo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-a-mobilinternet-romjai-utan-vezetekes-telefont-vesznek-oroszorszagban/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/4068914ef7935775.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "780fe1fa46d0fef85a2a2fe1dbefd6e20f80dcd9d96f35be04d9aeda9db55abb",
+      "pipeline_run_id": "38931446967",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T20:05:38+02:00",
+      "updated_at": "2026-10-16T20:05:38+02:00",
+      "published_at": "2026-10-16T20:05:38+02:00",
+      "expires_at": null
+    },
     {
       "id": "2955f5aa-fb67-59ea-8817-e4f31c83a0cb",
       "slug": "2026-10-16-az-alkotmanybirosag-asztalara-kerult-a-fidesz-utolso-pillanatos-bruss",
