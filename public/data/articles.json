@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T21:31:22+02:00",
+  "updated_at": "2026-10-16T21:51:45+02:00",
   "articles": [
+    {
+      "id": "368ab378-0602-548a-addd-a3125b9d2cbb",
+      "slug": "2026-10-16-usain-bolt-csucsat-is-lefutottak-a-humanoid-robotok-pekingben",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "robotika",
+        "Kína",
+        "világrekord",
+        "mesterséges intelligencia"
+      ],
+      "title": "Usain Bolt csúcsát is lefutották a humanoid robotok Pekingben",
+      "subtitle": null,
+      "lead": "Két humanoid robot is megdöntötte Usain Bolt legendás 100 méteres síkfutó-világcsúcsát a Pekingben megrendezett Humanoid Robotok Világjátékán. A technológiai áttörés mögött nem csupán mérnöki virtus, hanem a kínai demográfiai válság és a globális robotikai verseny áll.",
+      "key_points": [
+        "A pekingi világjátékokon két gép is gyorsabban futotta le a 100 métert Usain Bolt 9,58 másodperces emberi világcsúcsánál.",
+        "A 400 méteres síkfutásban csaknem négy másodpercet faragott le egy humanoid modell Wayde van Niekerk rekordjából.",
+        "A mezőny egy év alatt látványos fejlődésen ment keresztül: a tavalyi, húsz másodpercen felüli idők után most rekordok dőltek meg.",
+        "A gépek 51 kategóriában, a sportversenyek mellett járműtöltésben, gyári összeszerelésben és raktározási feladatokban is összemérték a tudásukat."
+      ],
+      "content": "A pekingi Humanoid Robotok Világjátékán Usain Bolt 9,58 másodperces, emberi léptékkel megdönthetetlennek tartott 100 méteres síkfutó-világcsúcsát két gép is átadta a múltnak. Az augusztusban tartott, ötnapos megmérettetés ráadásul nemcsak a legrövidebb sprinttávon hozott meglepetést: a 400 méteres síkfutásban egy harmadik, azonos típusú robot a dél-afrikai Wayde van Niekerk 43,03 másodperces rekordját szárnyalta túl, méghozzá csaknem négy másodperccel jobb eredménnyel. A fejlődés tempója szembetűnő, hiszen a tavalyi, legelső viadalon a humanoidok még húsz másodpercen felüli idővel bukdácsoltak át a célvonalon.\n\nA második alkalommal megrendezett viadalon 51 különböző területen vizsgáztatták a két lábbal, két karral és fejjel rendelkező szerkezeteket. A klasszikus versenyszámok – köztük az ökölvívás, a labdarúgás és a kötélhúzás – mellett a hétköznapi és ipari alkalmazhatóságot helyezték előtérbe. A gépeknek elektromos járművek töltőre csatlakoztatását, éttermi felszolgálást, alkatrész-összeszerelést, anyagmozgatást, valamint vészhelyzetek elhárítását kellett önállóan megoldaniuk.\n\nA látványos bemutató mögött komoly gazdasági kényszer húzódik. Kínában a munkaerőpiacot sújtó demográfiai válság miatt Hszi Csin-ping elnök kiemelt prioritássá tette a robotika fejlesztését, amellyel az Egyesült Államok gyártói is igyekeznek lépést tartani. A cél olyan univerzális gépek megalkotása, amelyek a környezet átalakítása nélkül képesek beállni a gyártósorok mellé vagy átvenni a nehéz fizikai munkát.\n\nAz előrejelzések szerint a ma középkorú generáció még megélheti, hogy akár egymilliárd ember formájú gép dolgozzon a gyárakban és a szolgáltató szektorban. Bár az atlétikai pályán elért eredmények lenyűgözőek, a technológia igazi próbája a megbízható ipari működés és a komplex munkakörnyezethez való alkalmazkodás lesz az elkövetkező években.",
+      "content_format": "markdown",
+      "body": [
+        "A pekingi Humanoid Robotok Világjátékán Usain Bolt 9,58 másodperces, emberi léptékkel megdönthetetlennek tartott 100 méteres síkfutó-világcsúcsát két gép is átadta a múltnak. Az augusztusban tartott, ötnapos megmérettetés ráadásul nemcsak a legrövidebb sprinttávon hozott meglepetést: a 400 méteres síkfutásban egy harmadik, azonos típusú robot a dél-afrikai Wayde van Niekerk 43,03 másodperces rekordját szárnyalta túl, méghozzá csaknem négy másodperccel jobb eredménnyel. A fejlődés tempója szembetűnő, hiszen a tavalyi, legelső viadalon a humanoidok még húsz másodpercen felüli idővel bukdácsoltak át a célvonalon.",
+        "A második alkalommal megrendezett viadalon 51 különböző területen vizsgáztatták a két lábbal, két karral és fejjel rendelkező szerkezeteket. A klasszikus versenyszámok – köztük az ökölvívás, a labdarúgás és a kötélhúzás – mellett a hétköznapi és ipari alkalmazhatóságot helyezték előtérbe. A gépeknek elektromos járművek töltőre csatlakoztatását, éttermi felszolgálást, alkatrész-összeszerelést, anyagmozgatást, valamint vészhelyzetek elhárítását kellett önállóan megoldaniuk.",
+        "A látványos bemutató mögött komoly gazdasági kényszer húzódik. Kínában a munkaerőpiacot sújtó demográfiai válság miatt Hszi Csin-ping elnök kiemelt prioritássá tette a robotika fejlesztését, amellyel az Egyesült Államok gyártói is igyekeznek lépést tartani. A cél olyan univerzális gépek megalkotása, amelyek a környezet átalakítása nélkül képesek beállni a gyártósorok mellé vagy átvenni a nehéz fizikai munkát.",
+        "Az előrejelzések szerint a ma középkorú generáció még megélheti, hogy akár egymilliárd ember formájú gép dolgozzon a gyárakban és a szolgáltató szektorban. Bár az atlétikai pályán elért eredmények lenyűgözőek, a technológia igazi próbája a megbízható ipari működés és a komplex munkakörnyezethez való alkalmazkodás lesz az elkövetkező években."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 277,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Usain_Bolt_Olympics_Celebration.jpg/1280px-Usain_Bolt_Olympics_Celebration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1521,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Usain Bolt in celebration about 1 or 2 seconds after his 100m victory at Beijing Olympics 2008, breaking the world record.",
+        "credit": "Richard Giles / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Usain_Bolt_Olympics_Celebration.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261016_hvg-kinai-robotforradalom-humanoid-robotok-vilagjateka-automatizalt-gyarak",
+          "title": "Ha középkorú, még megélheti, hogy egymilliárd humanoid robot járkál közöttünk",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T20:43:04+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T21:51:45+02:00"
+      },
+      "hot_score": 5.25,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261016_hvg-kinai-robotforradalom-humanoid-robotok-vilagjateka-automatizalt-gyarak"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/tech/2026-10-16-usain-bolt-csucsat-is-lefutottak-a-humanoid-robotok-pekingben/",
+      "seo": {
+        "meta_title": "Usain Bolt csúcsát is lefutották a humanoid robotok Pekingbe",
+        "meta_description": "Két humanoid robot is megdöntötte Usain Bolt legendás 100 méteres síkfutó-világcsúcsát a Pekingben megrendezett Humanoid Robotok Világjátékán. A technológiai át",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-16-usain-bolt-csucsat-is-lefutottak-a-humanoid-robotok-pekingben/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Usain_Bolt_Olympics_Celebration.jpg/1280px-Usain_Bolt_Olympics_Celebration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "0770e1e6ef95711889a1bd8dff632a1935aac8b9e8a3dfb7e51df9f1433a88c9",
+      "pipeline_run_id": "38945485362",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T21:51:45+02:00",
+      "updated_at": "2026-10-16T21:51:45+02:00",
+      "published_at": "2026-10-16T21:51:45+02:00",
+      "expires_at": null
+    },
     {
       "id": "bc28d695-505b-545d-8590-bfaff525b4e6",
       "slug": "2026-10-16-stohl-andras-szerint-orulet-a-harminckilencezer-forintos-szinhazjegy",
