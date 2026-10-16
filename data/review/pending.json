@@ -17000,16 +17000,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T17:47:09+00:00",
-        "msg_ids": [
-          6959,
-          6960,
-          6961,
-          6962,
-          6963,
-          6964,
-          6966
-        ],
-        "control_id": 6965
+        "msg_ids": [],
+        "control_id": 6965,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
