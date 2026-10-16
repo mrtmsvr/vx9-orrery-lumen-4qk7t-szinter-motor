@@ -15022,6 +15022,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d88324d081-1792131619-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d88324d081-1792131619-0.jpg",
+          "kind": "photo",
+          "alt": "Közel nyolc százalékot zuhant a dél-koreai tőzsde",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d88324d081-1792131621-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d88324d081-1792131621-1.jpg",
+          "kind": "photo",
+          "alt": "Közel nyolc százalékot zuhant a dél-koreai tőzsde",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/KTX_in_Seoul_3.jpg/1280px-KTX_in_Seoul_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -15091,9 +15113,11 @@
           6607,
           6608,
           6609,
-          6642
+          6642,
+          6651,
+          6652
         ],
-        "control_id": 6643
+        "control_id": 6653
       },
       "image_queries": [
         "Korea Exchange (KRX)",
