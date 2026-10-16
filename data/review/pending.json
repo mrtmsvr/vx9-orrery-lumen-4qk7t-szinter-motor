@@ -15812,8 +15812,8 @@
         "issues": []
       },
       "review": {
-        "title": 0,
-        "image": 0,
+        "title": 5,
+        "image": 5,
         "sent_at": "2026-10-16T16:05:14+00:00",
         "msg_ids": [
           6890,
@@ -15992,8 +15992,8 @@
         "issues": []
       },
       "review": {
-        "title": 0,
-        "image": 0,
+        "title": 1,
+        "image": 2,
         "sent_at": "2026-10-16T16:09:50+00:00",
         "msg_ids": [
           6900,
@@ -16177,7 +16177,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 3,
         "sent_at": "2026-10-16T16:15:13+00:00",
         "msg_ids": [
           6905,
@@ -16190,9 +16190,9 @@
       }
     },
     {
-      "id": "fb71028c-0763-5c97-97fa-5b84823c73db",
-      "slug": "2026-10-16-hegedus-zsolt-megoldodott-a-fovarosi-ugyeleti-valsag",
-      "status": "pending",
+      "id": "7f75e34d-d27a-5809-b53d-d93c26907607",
+      "slug": "2026-10-16-budapesti-korhazak-hegedus-zsolt-szerint-normalizalodott-a-helyzet",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -16202,7 +16202,7 @@
         "Karácsony Gergely",
         "kórház"
       ],
-      "title": "Hegedűs Zsolt: Megoldódott a fővárosi ügyeleti válság",
+      "title": "Budapesti kórházak: Hegedűs Zsolt szerint normalizálódott a helyzet",
       "subtitle": null,
       "lead": "Helyreállt a budapesti belgyógyászati osztályok ügyeleti ellátása, miután a kórházak együttműködését összehangolták a megnövekedett terhelés miatt. A fejlemények hátterében a szakemberhiány és a szociális ágazat nehézségei állnak.",
       "key_points": [
@@ -16298,11 +16298,11 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/kozelet/2026-10-16-hegedus-zsolt-megoldodott-a-fovarosi-ugyeleti-valsag/",
+      "url": "/kozelet/2026-10-16-budapesti-korhazak-hegedus-zsolt-szerint-normalizalodott-a-helyzet/",
       "seo": {
-        "meta_title": "Hegedűs Zsolt: Megoldódott a fővárosi ügyeleti válság",
+        "meta_title": "Budapesti kórházak: Hegedűs Zsolt szerint normalizálódott a ",
         "meta_description": "Helyreállt a budapesti belgyógyászati osztályok ügyeleti ellátása, miután a kórházak együttműködését összehangolták a megnövekedett terhelés miatt. A fejleménye",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-hegedus-zsolt-megoldodott-a-fovarosi-ugyeleti-valsag/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-budapesti-korhazak-hegedus-zsolt-szerint-normalizalodott-a-helyzet/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Szent_Imre_K%C3%B3rh%C3%A1z%2C_%27A%27_%C3%A9p%C3%BClet%2C_2018_Kelenf%C3%B6ld.jpg/1280px-Szent_Imre_K%C3%B3rh%C3%A1z%2C_%27A%27_%C3%A9p%C3%BClet%2C_2018_Kelenf%C3%B6ld.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -16328,24 +16328,26 @@
       "dedupe_hash": "68d0528f5839496bf7cdeb5ed0372fc12f96adf6361ce2755794314d693b6b57",
       "pipeline_run_id": "38926267604",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T18:18:18+02:00",
-      "updated_at": "2026-10-16T18:18:18+02:00",
-      "published_at": "2026-10-16T18:18:18+02:00",
+      "created_at": "2026-10-16T18:24:59+02:00",
+      "updated_at": "2026-10-16T18:24:59+02:00",
+      "published_at": "2026-10-16T18:24:59+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 0,
         "sent_at": "2026-10-16T16:24:12+00:00",
         "msg_ids": [
           6911,
-          6912
+          6912,
+          6916
         ],
         "control_id": 6913
-      }
+      },
+      "live": true
     }
   ]
 }
