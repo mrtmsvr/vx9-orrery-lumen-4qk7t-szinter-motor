@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T12:20:54+02:00",
+  "updated_at": "2026-10-16T12:41:01+02:00",
   "articles": [
+    {
+      "id": "156803ad-748d-594a-90a0-06b1efd826ef",
+      "slug": "2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adatait",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "adatbiztonság",
+        "hacker",
+        "Dánia",
+        "kiberbiztonság",
+        "személyes adatok"
+      ],
+      "title": "Faék egyszerűségű jelszóval lopták el 8,8 millió ember adatait",
+      "subtitle": null,
+      "lead": "Komoly biztonsági résre derült fény Dániában: egy rendkívül gyenge jelszóval védett rendszeren keresztül csaknem kilencmillió ember adataihoz fértek hozzá illetéktelenek. A támadók a központi személyi nyilvántartásba is bejutottak, ám saját állításuk szerint nem élnek vissza a megszerzett információkkal.",
+      "key_points": [
+        "Több mint 8,8 millió ember adatai kerültek veszélybe Dániában egy gyenge jelszó miatt.",
+        "A hackerek egy magáncég „123456”-os jelszóval védett fiókján keresztül fértek hozzá a központi személyi nyilvántartáshoz.",
+        "A támadó szeptember 10. és szeptember 20. között több mint 14 millió automatizált keresést hajtott végre a rendszerben.",
+        "Az elkövető a sajtónak nyilatkozva kijelentette, hogy nem tervezi az adatok értékesítését vagy nyilvánosságra hozatalát."
+      ],
+      "content": "Az internetbiztonság egyik legalapvetőbb szabályát szegték meg annál a dán online kereskedelmi cégnél, amelynek rendszerén keresztül hackerek jutottak el a kormányzati adatbázisokig. A Politiken című dán lapnak nyilatkozó támadó elárulta, hogy egy informatikai cég fiókjával tört be a hálózatba, mivel azt az 123456 kombinációval védték. Az eset rávilágít, hogy a legfejlettebb digitális infrastruktúra is sebezhetővé válik, ha a felhasználók a legegyszerűbb, könnyen kitalálható jelszavakat választják.\n\nA visszaélés során a behatolók egy külsős cég jogosultságait kihasználva fértek hozzá a központi személyi nyilvántartáshoz (CPR). A The Register információi szerint a cégnél ráadásul három különböző fiók is ezzel a jelszóval működött, amelyek közül az egyik rendszergazdai jogosultságokkal is bírt. A nyilvántartás mintegy 11 millió adatot tartalmaz, beleértve a külföldre költözött és az elhunyt személyek adatait is.\n\nA dán TV2 dokumentumai szerint a jogosulatlan behatolás már szeptember 10-én megtörtént, és a támadó szeptember 20-ig több mint 14 millió automatizált keresést indított a rendszerben. Az illetékesek végül október 2-án észlelték a betörést, a dán adatvédelmi hatóságot pedig két nappal később értesítették. Az érintett online kereskedelmi cég azóta már tájékoztatta a felhasználókat az adatvédelmi incidensről.\n\nAz ügyben némi megnyugvásra adhat okot, hogy a dán lapnak nyilatkozó támadó állítása szerint nem szándékozik nyilvánosságra hozni vagy értékesíteni a megszerzett adatokat. A szakemberek ugyanakkor folyamatosan hangsúlyozzák, hogy a hasonló, faék egyszerűségű jelszavak használata rendkívül súlyos kockázatot jelent mind a vállalkozások, mind a lakosság számára.",
+      "content_format": "markdown",
+      "body": [
+        "Az internetbiztonság egyik legalapvetőbb szabályát szegték meg annál a dán online kereskedelmi cégnél, amelynek rendszerén keresztül hackerek jutottak el a kormányzati adatbázisokig. A Politiken című dán lapnak nyilatkozó támadó elárulta, hogy egy informatikai cég fiókjával tört be a hálózatba, mivel azt az 123456 kombinációval védték. Az eset rávilágít, hogy a legfejlettebb digitális infrastruktúra is sebezhetővé válik, ha a felhasználók a legegyszerűbb, könnyen kitalálható jelszavakat választják.",
+        "A visszaélés során a behatolók egy külsős cég jogosultságait kihasználva fértek hozzá a központi személyi nyilvántartáshoz (CPR). A The Register információi szerint a cégnél ráadásul három különböző fiók is ezzel a jelszóval működött, amelyek közül az egyik rendszergazdai jogosultságokkal is bírt. A nyilvántartás mintegy 11 millió adatot tartalmaz, beleértve a külföldre költözött és az elhunyt személyek adatait is.",
+        "A dán TV2 dokumentumai szerint a jogosulatlan behatolás már szeptember 10-én megtörtént, és a támadó szeptember 20-ig több mint 14 millió automatizált keresést indított a rendszerben. Az illetékesek végül október 2-án észlelték a betörést, a dán adatvédelmi hatóságot pedig két nappal később értesítették. Az érintett online kereskedelmi cég azóta már tájékoztatta a felhasználókat az adatvédelmi incidensről.",
+        "Az ügyben némi megnyugvásra adhat okot, hogy a dán lapnak nyilatkozó támadó állítása szerint nem szándékozik nyilvánosságra hozni vagy értékesíteni a megszerzett adatokat. A szakemberek ugyanakkor folyamatosan hangsúlyozzák, hogy a hasonló, faék egyszerűségű jelszavak használata rendkívül súlyos kockázatot jelent mind a vállalkozások, mind a lakosság számára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 266,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/One_Breach%2C_Lasting_Damage_Infographic.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "This is an simple infographic reminding users of data breaches.",
+        "credit": "ChippyTimeCom / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:One_Breach,_Lasting_Damage_Infographic.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261016_dania-hackertamadas-jelszo-123456-adatok",
+          "title": "8,8 millió ember adatai kerültek veszélybe, mert az 123456 jelszóval védték őket",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T11:22:29+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T12:41:01+02:00"
+      },
+      "hot_score": 5.47,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261016_dania-hackertamadas-jelszo-123456-adatok"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/tech/2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adatait/",
+      "seo": {
+        "meta_title": "Faék egyszerűségű jelszóval lopták el 8,8 millió ember adata",
+        "meta_description": "Komoly biztonsági résre derült fény Dániában: egy rendkívül gyenge jelszóval védett rendszeren keresztül csaknem kilencmillió ember adataihoz fértek hozzá illet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adatait/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/One_Breach%2C_Lasting_Damage_Infographic.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "1b03901b09784e1981978111b3f5a2ef42592d547159ed7d078d236d71ed8a71",
+      "pipeline_run_id": "38876809739",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T12:41:01+02:00",
+      "updated_at": "2026-10-16T12:41:01+02:00",
+      "published_at": "2026-10-16T12:41:01+02:00",
+      "expires_at": null
+    },
     {
       "id": "46dc8794-8c8b-59fe-acd7-2a675748d0aa",
       "slug": "2026-10-16-tizenhat-eves-tamado-nyitott-tuzet-egy-oregoni-iskolaban",
