@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T19:45:14+02:00",
+  "updated_at": "2026-10-16T19:45:46+02:00",
   "articles": [
+    {
+      "id": "fe1621d7-716b-5bcd-a4b1-dd8a655eeb36",
+      "slug": "2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "forint",
+        "állampapír",
+        "gazdaság",
+        "deviza",
+        "befektetés"
+      ],
+      "title": "Ugrásszerűen erősödött a forint a nemzetközi piacon",
+      "subtitle": null,
+      "lead": "Látványos erősödésbe kezdett a hazai fizetőeszköz pénteken a nemzetközi kötvénypiaci feszültségek enyhülésének köszönhetően. A kedvező befektetői hangulat hatására a magyar állampapírok hozama is tovább csökkent.",
+      "key_points": [
+        "A dollár gyengülése és a kötvénypiaci enyhülés húzta magával a forintot.",
+        "A 10 éves magyar államkötvény hozama 5,31 százalékra esett vissza.",
+        "Hétfőn vagy kedden érkezhet a jövő évi költségvetés tervezete."
+      ],
+      "content": "Erősödéssel zárta a hetet a hazai fizetőeszköz, miután pénteken a főbb devizákkal szemben is jelentős árfolyam-korrekció ment végbe. A dollár a nemzetközi kötvénypiaci hozamok csökkenése miatt gyengült, ami kedvezett a feltörekvő piaci devizáknak. A zöldhasú kurzusa napközben 322,6 forintig süllyedt, míg az euró ára a 363-as szint alá esett, így a váltás délután 362,74 forint körül alakult, amire három hete nem volt példa.\n\nA hazai deviza szárnyalását elsősorban a külföldi befektetők megújult érdeklődése hajtotta. Amint a nemzetközi hangulat javulni kezdett, a piaci szereplők azonnal visszatértek a magyar kötvénypiacra. Ezt mutatja, hogy az újabb 7 bázispontos esést követően a 10 éves magyar államkötvény hozama már 5,31 százalékos szinten áll.\n\nA gazdaság következő igazi próbatétele a jövő héten jön, amikor a tervek szerint hétfőn vagy kedden bemutatják a következő évi költségvetést, amely a hazai kötvénypiac irányát is meghatározza majd.",
+      "content_format": "markdown",
+      "body": [
+        "Erősödéssel zárta a hetet a hazai fizetőeszköz, miután pénteken a főbb devizákkal szemben is jelentős árfolyam-korrekció ment végbe. A dollár a nemzetközi kötvénypiaci hozamok csökkenése miatt gyengült, ami kedvezett a feltörekvő piaci devizáknak. A zöldhasú kurzusa napközben 322,6 forintig süllyedt, míg az euró ára a 363-as szint alá esett, így a váltás délután 362,74 forint körül alakult, amire három hete nem volt példa.",
+        "A hazai deviza szárnyalását elsősorban a külföldi befektetők megújult érdeklődése hajtotta. Amint a nemzetközi hangulat javulni kezdett, a piaci szereplők azonnal visszatértek a magyar kötvénypiacra. Ezt mutatja, hogy az újabb 7 bázispontos esést követően a 10 éves magyar államkötvény hozama már 5,31 százalékos szinten áll.",
+        "A gazdaság következő igazi próbatétele a jövő héten jön, amikor a tervek szerint hétfőn vagy kedden bemutatják a következő évi költségvetést, amely a hazai kötvénypiac irányát is meghatározza majd."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 167,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg/1280px-Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1444,
+        "kind": "photo",
+        "pos": "top",
+        "alt": ": Sign at the entrance of the Hungarian State Treasury Zala County Directorate. Government bonds trading place. plate on the wall of Town Hall in Hévíz, Zala County, Hungary.",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall,_2016_Hungary.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/deviza/20261016/mozdul-a-forint-megorulnek-a-befektetok-a-magyar-kotvenyekert-870088",
+          "title": "Mozdul a forint, megőrülnek a befektetők a magyar kötvényekért",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T18:31:59+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/penz-es-tokepiac/2026/10/forint-gozerovel-tor-fel-az-euro-dollar-tempo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Gőzerővel tör fel a forint, az euró és a dollár is a vert mezőnyben",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T18:31:59+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T19:45:46+02:00"
+      },
+      "hot_score": 7.0,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/deviza/20261016/mozdul-a-forint-megorulnek-a-befektetok-a-magyar-kotvenyekert-870088"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/penzvilag/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon/",
+      "seo": {
+        "meta_title": "Ugrásszerűen erősödött a forint a nemzetközi piacon",
+        "meta_description": "Látványos erősödésbe kezdett a hazai fizetőeszköz pénteken a nemzetközi kötvénypiaci feszültségek enyhülésének köszönhetően. A kedvező befektetői hangulat hatás",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg/1280px-Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "20b117ae4b758cc379440ea79edea55178ac98f27afef485cf0331094de57913",
+      "pipeline_run_id": "38931446967",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T19:45:46+02:00",
+      "updated_at": "2026-10-16T19:45:46+02:00",
+      "published_at": "2026-10-16T19:45:46+02:00",
+      "expires_at": null
+    },
     {
       "id": "46c4c374-a0e0-5342-9216-f37fcc9c028e",
       "slug": "2026-10-16-jellinek-szabadult-a-bortonbol-szivek-norbert-racs-mogott-marad",
