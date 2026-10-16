@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T16:07:25+02:00",
+  "updated_at": "2026-10-16T16:10:50+02:00",
   "articles": [
+    {
+      "id": "2485c3dc-e1ca-523c-97a8-a88d3911fca5",
+      "slug": "2026-10-16-vegtelen-harcosokat-novesztenenek-a-rak-ellen",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "rákutatás",
+        "immunológia",
+        "sejtterápia",
+        "egészségügy"
+      ],
+      "title": "Végtelen harcosokat növesztenének a rák ellen",
+      "subtitle": null,
+      "lead": "Korlátlan mennyiségben előállítható, génmódosított immunsejtek fejlesztési módszerét fedezték fel amerikai kutatók. Az új eljárás új irányt nyithat a daganatos betegségek kezelésében.",
+      "key_points": [
+        "Az éretlen granulocita-monocita progenitor sejtek korlátlanul szaporíthatók laboratóriumi körülmények között.",
+        "A módosított sejtek képesek felismerni a daganatokat és aktiválni a szervezet természetes védekezését.",
+        "Egérkísérletekben a sejtek beépültek a csontvelőbe, és lassították a vér-, illetve a szolid daganatok növekedését."
+      ],
+      "content": "A University of Southern California kutatói olyan módszert dolgoztak ki, amely megkerüli a sejtterápiák eddigi legnagyobb mennyiségi korlátait. A szakemberek éretlen immunsejtekkel, úgynevezett granulocita-monocita progenitor sejtekkel dolgoztak, amelyekből célzottan hoztak létre daganatpusztító egységeket.\n\nEddig a vérképző rendszerben kizárólag a vérképző őssejtek tulajdonságának tartották a korlátlan megújulást és a hosszan tartó osztódást. A mostani vizsgálat azonban igazolta, hogy a fejlettebb progenitor sejtek is képesek megőrizni ezt a képességet megfelelő laboratóriumi feltételek mellett.\n\nA laborban nagymértékben szaporított sejteket génmódosításnak vetették alá, hogy felismerjék a specifikus rákos markereket. Az egereken végzett tesztek során a beültetett sejtek sikeresen megtelepedtek a csontvelőben, folyamatosan termelték az új immunsejteket, miközben gátolták a szolid daganatok és a vérképzőszervi rákok terjedését.\n\nEz a technológia áttörést jelenthet az immunterápiák gyártási oldalán, ahol eddig komoly nehézséget okozott a megfelelő mennyiségű és hosszú távon is aktív sejt biztosítása. A makrofágokhoz hasonló védelmező sejtek ráadásul nemcsak önmagukban pusztítják a káros elemeket, hanem a többi immunsejt viselkedését is irányítják.\n\nQi-Long Ying, a Keck School of Medicine professzora szerint a platform alapjaiban formálhatja át a sejtterápiák jövőjét a daganatos betegségek kezelésében és a őssejt-biológiában.",
+      "content_format": "markdown",
+      "body": [
+        "A University of Southern California kutatói olyan módszert dolgoztak ki, amely megkerüli a sejtterápiák eddigi legnagyobb mennyiségi korlátait. A szakemberek éretlen immunsejtekkel, úgynevezett granulocita-monocita progenitor sejtekkel dolgoztak, amelyekből célzottan hoztak létre daganatpusztító egységeket.",
+        "Eddig a vérképző rendszerben kizárólag a vérképző őssejtek tulajdonságának tartották a korlátlan megújulást és a hosszan tartó osztódást. A mostani vizsgálat azonban igazolta, hogy a fejlettebb progenitor sejtek is képesek megőrizni ezt a képességet megfelelő laboratóriumi feltételek mellett.",
+        "A laborban nagymértékben szaporított sejteket génmódosításnak vetették alá, hogy felismerjék a specifikus rákos markereket. Az egereken végzett tesztek során a beültetett sejtek sikeresen megtelepedtek a csontvelőben, folyamatosan termelték az új immunsejteket, miközben gátolták a szolid daganatok és a vérképzőszervi rákok terjedését.",
+        "Ez a technológia áttörést jelenthet az immunterápiák gyártási oldalán, ahol eddig komoly nehézséget okozott a megfelelő mennyiségű és hosszú távon is aktív sejt biztosítása. A makrofágokhoz hasonló védelmező sejtek ráadásul nemcsak önmagukban pusztítják a káros elemeket, hanem a többi immunsejt viselkedését is irányítják.",
+        "Qi-Long Ying, a Keck School of Medicine professzora szerint a platform alapjaiban formálhatja át a sejtterápiák jövőjét a daganatos betegségek kezelésében és a őssejt-biológiában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 203,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/University_of_Southern_California_Capital_Campus.jpg/1280px-University_of_Southern_California_Capital_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 982,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The University of Southern California's Capital Campus is located at 1771 N Street NW in the Dupont Circle neighborhood of Washington, D.C. The building was constructed in 1968 (remodeled in the 2010s",
+        "credit": "APK / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:University_of_Southern_California_Capital_Campus.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+          "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-16T16:07:33+02:00"
+        }
+      ],
+      "quote": {
+        "text": "A study establishes a scalable and engineerable GMP platform for cellular immunotherapy and introduces concepts that we believe could have broad implications for both cancer immunotherapy and stem cell biology.",
+        "who": "Qi-Long Ying, a Keck School of Medicine professzora",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-16T16:10:50+02:00"
+      },
+      "hot_score": 5.88,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261015003803.htm"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/eletmod/2026-10-16-vegtelen-harcosokat-novesztenenek-a-rak-ellen/",
+      "seo": {
+        "meta_title": "Végtelen harcosokat növesztenének a rák ellen",
+        "meta_description": "Korlátlan mennyiségben előállítható, génmódosított immunsejtek fejlesztési módszerét fedezték fel amerikai kutatók. Az új eljárás új irányt nyithat a daganatos ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-16-vegtelen-harcosokat-novesztenenek-a-rak-ellen/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/University_of_Southern_California_Capital_Campus.jpg/1280px-University_of_Southern_California_Capital_Campus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "4b8e71fb8a7642fafe66fbc74bff09b7ff1ef284d3ad2d8e27ad89a37dd0585c",
+      "pipeline_run_id": "38912945537",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T16:10:50+02:00",
+      "updated_at": "2026-10-16T16:10:50+02:00",
+      "published_at": "2026-10-16T16:10:50+02:00",
+      "expires_at": null
+    },
     {
       "id": "ff432386-3e60-5722-bfe3-d4cc78ae113b",
       "slug": "2026-10-16-az-osztrak-porr-viheti-meszaros-lorinc-vasutepito-birodalmat",
