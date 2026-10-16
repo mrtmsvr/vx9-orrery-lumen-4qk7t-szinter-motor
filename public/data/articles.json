@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T12:41:01+02:00",
+  "updated_at": "2026-10-16T13:04:14+02:00",
   "articles": [
+    {
+      "id": "97f13216-f90f-5d40-a246-944b2d47cb63",
+      "slug": "2026-10-16-megfordult-a-dollar-erosodik-a-magyar-fizetoeszkoz",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "forint",
+        "dollár",
+        "devizapiac",
+        "gazdaság",
+        "állampapír"
+      ],
+      "title": "Megfordult a dollár, erősödik a magyar fizetőeszköz",
+      "subtitle": null,
+      "lead": "Megtört az amerikai deviza elmúlt hetekben látott szárnyalása: a csökkenő kötvénypiaci hozamok nyomán gyengülni kezdett a dollár, amiből a hazai fizetőeszköz is profitálni tudott.",
+      "key_points": [
+        "A dollár az amerikai és európai állampapírhozamok mérséklődése miatt gyengül.",
+        "A forint árfolyama a dollárral szemben a 326,5-ös szintről 324 közelébe erősödött.",
+        "Az euróval szemben továbbra is csupán kisebb, 364 alatti oldalazás figyelhető meg.",
+        "A globális adósságproblémák és az emelkedő olajárak miatt korai még fellélegezni."
+      ],
+      "content": "## Devizapiaci fordulat\n\nAz elmúlt hetek stabil dollárerősödése után irányt váltott az amerikai fizetőeszköz, ami a nemzetközi kötvénypiacokon lezajlott hozamcsökkenés következménye. A folyamat az európai és az amerikai állampapírokat egyaránt érinti, és érezhetően javította a befektetési hangulatot. Míg a piac a legfrissebb konjunktúraadatokra vár, a hazai fizetőeszköz a nemzetközi széljárást kihasználva erősödni tudott.\n\nA dollár gyengülése kedvező helyzetet teremtett a magyar devizának, amely a korábbi 326,5-ös szintről 324 közelébe kapaszkodott vissza az amerikai valutával szemben. Ezzel szemben az euró-forint árfolyam érdemi kilengések nélkül, 364 alatt mozog, így a közös európai fizetőeszközzel szemben csupán minimális elmozdulások tapasztalhatók.\n\nA kötvénypiaci enyhülés ellenére a szakértők óva intenek a túlzott optimizmustól, mivel a globális adósságproblémák továbbra is fennállnak, az olajárak pedig emelkedő pályán mozognak. A következő időszakban az olajpiaci fejlemények és a konjunktúrajelentések egyaránt komoly hatással lehetnek arra, hogy a forint megtartja-e ezt a lendületet.",
+      "content_format": "markdown",
+      "body": [
+        "## Devizapiaci fordulat\n\nAz elmúlt hetek stabil dollárerősödése után irányt váltott az amerikai fizetőeszköz, ami a nemzetközi kötvénypiacokon lezajlott hozamcsökkenés következménye. A folyamat az európai és az amerikai állampapírokat egyaránt érinti, és érezhetően javította a befektetési hangulatot. Míg a piac a legfrissebb konjunktúraadatokra vár, a hazai fizetőeszköz a nemzetközi széljárást kihasználva erősödni tudott.",
+        "A dollár gyengülése kedvező helyzetet teremtett a magyar devizának, amely a korábbi 326,5-ös szintről 324 közelébe kapaszkodott vissza az amerikai valutával szemben. Ezzel szemben az euró-forint árfolyam érdemi kilengések nélkül, 364 alatt mozog, így a közös európai fizetőeszközzel szemben csupán minimális elmozdulások tapasztalhatók.",
+        "A kötvénypiaci enyhülés ellenére a szakértők óva intenek a túlzott optimizmustól, mivel a globális adósságproblémák továbbra is fennállnak, az olajárak pedig emelkedő pályán mozognak. A következő időszakban az olajpiaci fejlemények és a konjunktúrajelentések egyaránt komoly hatással lehetnek arra, hogy a forint megtartja-e ezt a lendületet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 168,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/100_%28US%29_Dollar_Bill.jpg/1280px-100_%28US%29_Dollar_Bill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Image showing 100 USD",
+        "credit": "Chioma Mbakwe (Tinuke) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:100_(US)_Dollar_Bill.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/deviza/20261016/megfordult-a-dollar-helyzetben-a-forint-870088",
+          "title": "Megfordult a dollár, helyzetben a forint",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T11:22:21+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T13:04:14+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/deviza/20261016/megfordult-a-dollar-helyzetben-a-forint-870088"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/penzvilag/2026-10-16-megfordult-a-dollar-erosodik-a-magyar-fizetoeszkoz/",
+      "seo": {
+        "meta_title": "Megfordult a dollár, erősödik a magyar fizetőeszköz",
+        "meta_description": "Megtört az amerikai deviza elmúlt hetekben látott szárnyalása: a csökkenő kötvénypiaci hozamok nyomán gyengülni kezdett a dollár, amiből a hazai fizetőeszköz is",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-megfordult-a-dollar-erosodik-a-magyar-fizetoeszkoz/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/100_%28US%29_Dollar_Bill.jpg/1280px-100_%28US%29_Dollar_Bill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "63478d188d40949e47ce1cef966d63b431c9734b835deda8cc654fb955ae29bc",
+      "pipeline_run_id": "38876809739",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T13:04:14+02:00",
+      "updated_at": "2026-10-16T13:04:14+02:00",
+      "published_at": "2026-10-16T13:04:14+02:00",
+      "expires_at": null
+    },
     {
       "id": "156803ad-748d-594a-90a0-06b1efd826ef",
       "slug": "2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adatait",
