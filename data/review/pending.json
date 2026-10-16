@@ -16395,9 +16395,9 @@
       "scheduled_at": "2026-10-16T13:20:45+02:00"
     },
     {
-      "id": "af82b0dc-43f2-5114-ae8e-5ed7d157175f",
-      "slug": "2026-10-16-fegyveres-tamadas-vegzett-negy-emberrel-az-oregoni-bendben",
-      "status": "pending",
+      "id": "46dc8794-8c8b-59fe-acd7-2a675748d0aa",
+      "slug": "2026-10-16-tizenhat-eves-tamado-nyitott-tuzet-egy-oregoni-iskolaban",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -16406,7 +16406,7 @@
         "iskolai lövöldözés",
         "külpolitika"
       ],
-      "title": "Fegyveres támadás végzett négy emberrel az oregoni Bendben",
+      "title": "Tizenhat éves támadó nyitott tüzet egy oregoni iskolában",
       "subtitle": null,
       "lead": "Csütörtök délután egy tizenhat éves fegyveres támadt egy általános iskolára az Oregon állambeli Bendben, három gyermek és egy felnőtt életét követelve. A rendőrség kiérkezése előtt egy helyi civil fegyveres beavatkozása vetett véget a támadásnak.",
       "key_points": [
@@ -16428,7 +16428,7 @@
       "word_count": 249,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g9a04b4da32cfe563b0833556e7488e06c2b1680e68f1220c6d693b9c69137a59bbb144ac95ff8cd4b514a1a768cc3a3b31568fe2b0befaac02237c82166a60f0_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/16bdfe26eaa143e4.jpg",
         "width": 4788,
         "height": 3234,
         "kind": "photo",
@@ -16436,7 +16436,9 @@
         "credit": "Pexels / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/automobile-blur-car-police-car-1850065/",
-        "vision_score": 7.0
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/16bdfe26eaa143e4.jpg",
+        "orig_url": "https://pixabay.com/get/g9a04b4da32cfe563b0833556e7488e06c2b1680e68f1220c6d693b9c69137a59bbb144ac95ff8cd4b514a1a768cc3a3b31568fe2b0befaac02237c82166a60f0_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -16508,12 +16510,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/vilag/2026-10-16-fegyveres-tamadas-vegzett-negy-emberrel-az-oregoni-bendben/",
+      "url": "/vilag/2026-10-16-tizenhat-eves-tamado-nyitott-tuzet-egy-oregoni-iskolaban/",
       "seo": {
-        "meta_title": "Fegyveres támadás végzett négy emberrel az oregoni Bendben",
+        "meta_title": "Tizenhat éves támadó nyitott tüzet egy oregoni iskolában",
         "meta_description": "Csütörtök délután egy tizenhat éves fegyveres támadt egy általános iskolára az Oregon állambeli Bendben, három gyermek és egy felnőtt életét követelve. A rendőr",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-fegyveres-tamadas-vegzett-negy-emberrel-az-oregoni-bendben/",
-        "og_image": "https://pixabay.com/get/g9a04b4da32cfe563b0833556e7488e06c2b1680e68f1220c6d693b9c69137a59bbb144ac95ff8cd4b514a1a768cc3a3b31568fe2b0befaac02237c82166a60f0_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-tizenhat-eves-tamado-nyitott-tuzet-egy-oregoni-iskolaban/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/16bdfe26eaa143e4.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -16530,9 +16532,9 @@
       "dedupe_hash": "d0c19c4fe01a3ac9787acced9ef08fb99a81f1058e9dee354131f0809ac531f8",
       "pipeline_run_id": "38876809739",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T11:22:34+02:00",
-      "updated_at": "2026-10-16T11:22:34+02:00",
-      "published_at": "2026-10-16T11:22:34+02:00",
+      "created_at": "2026-10-16T12:20:54+02:00",
+      "updated_at": "2026-10-16T12:20:54+02:00",
+      "published_at": "2026-10-16T12:20:54+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -16545,9 +16547,9 @@
         "msg_ids": [],
         "control_id": 6751,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:20 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-16T12:20:45+02:00"
+      "live": true
     },
     {
       "id": "d9995ce4-a2e1-5055-a313-7eea911229be",
