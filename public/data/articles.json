@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T11:31:53+02:00",
+  "updated_at": "2026-10-16T11:40:51+02:00",
   "articles": [
+    {
+      "id": "7775b674-e788-5485-9844-925832c8f0b5",
+      "slug": "2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "elektromos autó",
+        "flottapiac",
+        "autóipar",
+        "BMW",
+        "BYD"
+      ],
+      "title": "A cégek hajtják a magyar elektromosautó-piacot",
+      "subtitle": null,
+      "lead": "Bár Magyarország az elektromos autózás elterjedésében még elmarad az európai átlagtól, a hazai növekedést jelenleg a vállalati vásárlások húzzák. Az MHC Mobility éves rendezvényén elhangzott adatok szerint a benzines és dízel modellek aránya fokozatosan csökken.",
+      "key_points": [
+        "Az európai 12-14 százalékos piaci bővüléssel szemben Magyarországon 9-10 százalék körüli az elektromos autók növekedése.",
+        "A hazai elektromosautó-piac bővülését túlnyomórészt a vállalati beszerzések ösztönzik.",
+        "A BMW és a BYD is új stratégiákkal, helyi fejlesztésekkel és technológiai nyitottsággal készül a következő évekre."
+      ],
+      "content": "Magyarországon az elektromos autózás még lemaradásban van az európai átlaghoz képest, de a trend egyértelműen a zöldebb hajtásláncok felé mutat. Kövesdán Balázs, az MHC Mobility kereskedelmi vezetője szerint míg Európában 12 és 14 százalék között bővül a piac, addig itthon 9 és 10 százalék közötti ez az arány.\n\nAz autógyártók a változó piaci igényekre reagálva többféle hajtáslánc párhuzamos kínálatával készülnek a jövőre. Salgó András, a BMW Magyarország vállalati kommunikációs vezetője arról számolt be, hogy a márka hosszú ideje technológiai nyitottsággal működik. Ez a gyakorlatban azt jelenti, hogy a klasszikus benzines és dízel opciók mellett plug-in hibrid, tisztán elektromos, sőt a jövőben hidrogén-üzemanyagcellás hajtásláncokat is biztosítanak az ügyfeleknek. A debreceni gyártás, a Neue Klasse technológia és az érkező új generációs modellek mind meghatározzák majd a BMW következő éveit.\n\nA kínai gyártók is komoly logisztikai fejlesztésekkel erősítenek a régióban a várakozási idők csökkentése érdekében. Jeremy Wang, a BYD Europe regionális országigazgatója elmondta, hogy a hálózatbővítés mellett az értékesítés utáni szolgáltatások, azaz az aftersales fejlesztésére is óriási hangsúlyt fektetnek. Céljuk, hogy minden értékesítési ponton helyben is elérhetővé váljon ez a szolgáltatás, emellett pedig egy magyarországi alkatrészraktárat is nyitnak. Innen kevesebb mint 12 órán belül eljutnak majd az alkatrészek a márkakereskedésekbe, ami jelentősen lerövidítheti az ügyfelek várakozási idejét.",
+      "content_format": "markdown",
+      "body": [
+        "Magyarországon az elektromos autózás még lemaradásban van az európai átlaghoz képest, de a trend egyértelműen a zöldebb hajtásláncok felé mutat. Kövesdán Balázs, az MHC Mobility kereskedelmi vezetője szerint míg Európában 12 és 14 százalék között bővül a piac, addig itthon 9 és 10 százalék közötti ez az arány.",
+        "Az autógyártók a változó piaci igényekre reagálva többféle hajtáslánc párhuzamos kínálatával készülnek a jövőre. Salgó András, a BMW Magyarország vállalati kommunikációs vezetője arról számolt be, hogy a márka hosszú ideje technológiai nyitottsággal működik. Ez a gyakorlatban azt jelenti, hogy a klasszikus benzines és dízel opciók mellett plug-in hibrid, tisztán elektromos, sőt a jövőben hidrogén-üzemanyagcellás hajtásláncokat is biztosítanak az ügyfeleknek. A debreceni gyártás, a Neue Klasse technológia és az érkező új generációs modellek mind meghatározzák majd a BMW következő éveit.",
+        "A kínai gyártók is komoly logisztikai fejlesztésekkel erősítenek a régióban a várakozási idők csökkentése érdekében. Jeremy Wang, a BYD Europe regionális országigazgatója elmondta, hogy a hálózatbővítés mellett az értékesítés utáni szolgáltatások, azaz az aftersales fejlesztésére is óriási hangsúlyt fektetnek. Céljuk, hogy minden értékesítési ponton helyben is elérhetővé váljon ez a szolgáltatás, emellett pedig egy magyarországi alkatrészraktárat is nyitnak. Innen kevesebb mint 12 órán belül eljutnak majd az alkatrészek a márkakereskedésekbe, ami jelentősen lerövidítheti az ügyfelek várakozási idejét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 241,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/2518cc6881ca7673.jpg",
+        "width": 6000,
+        "height": 4000,
+        "kind": "photo",
+        "alt": "charging station, electric gas station, electric car, eco, gas station, environmental protection, gas pump, automobile, refuel, fuel, ecologically, power cable, ecology, electricity, cable, electric c",
+        "credit": "geralt / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/charging-station-electric-gas-station-4636710/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/2518cc6881ca7673.jpg",
+        "orig_url": "https://pixabay.com/get/g4e0a197f523bb9647030b1778df5996ea860a3a57433cb68045039da5571f74e0781bf2bb9d8426ec2c51d25204642ca7a68b3687a56188f0d2e4a0c0e71021b_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261016/a-cegek-mar-valtanak-lassan-de-biztosan-no-az-elektromos-autok-aranya-869654",
+          "title": "A cégek már váltanak: lassan, de biztosan nő az elektromos autók aránya",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T11:17:28+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Magyarországon inkább a cégek vásárolnak elektromos autót",
+        "who": "Kövesdán Balázs, az MHC Mobility kereskedelmi vezetője",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T11:40:51+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261016/a-cegek-mar-valtanak-lassan-de-biztosan-no-az-elektromos-autok-aranya-869654"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/penzvilag/2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot/",
+      "seo": {
+        "meta_title": "A cégek hajtják a magyar elektromosautó-piacot",
+        "meta_description": "Bár Magyarország az elektromos autózás elterjedésében még elmarad az európai átlagtól, a hazai növekedést jelenleg a vállalati vásárlások húzzák. Az MHC Mobilit",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/2518cc6881ca7673.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "13d81c6d71d968b74d5291a52ca78307380c4b1f7bf51baf359c3f9353f79082",
+      "pipeline_run_id": "38876809739",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T11:40:51+02:00",
+      "updated_at": "2026-10-16T11:40:51+02:00",
+      "published_at": "2026-10-16T11:40:51+02:00",
+      "expires_at": null
+    },
     {
       "id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
       "slug": "2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos",

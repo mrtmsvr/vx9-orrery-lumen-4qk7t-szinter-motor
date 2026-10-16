@@ -15110,9 +15110,9 @@
       "live": true
     },
     {
-      "id": "63311f4c-ad0b-55a5-a1ff-b7537f8eb4a1",
-      "slug": "2026-10-16-magyarorszagon-a-vallalatok-veszik-a-legtobb-elektromos-autot",
-      "status": "pending",
+      "id": "7775b674-e788-5485-9844-925832c8f0b5",
+      "slug": "2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -15122,7 +15122,7 @@
         "BMW",
         "BYD"
       ],
-      "title": "Magyarországon a vállalatok veszik a legtöbb elektromos autót",
+      "title": "A cégek hajtják a magyar elektromosautó-piacot",
       "subtitle": null,
       "lead": "Bár Magyarország az elektromos autózás elterjedésében még elmarad az európai átlagtól, a hazai növekedést jelenleg a vállalati vásárlások húzzák. Az MHC Mobility éves rendezvényén elhangzott adatok szerint a benzines és dízel modellek aránya fokozatosan csökken.",
       "key_points": [
@@ -15142,16 +15142,17 @@
       "word_count": 241,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/BMW_i3_und_Opel_Ampera_an_einer_Ladestation_in_Den_Burg.jpg/1280px-BMW_i3_und_Opel_Ampera_an_einer_Ladestation_in_Den_Burg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/2518cc6881ca7673.jpg",
+        "width": 6000,
+        "height": 4000,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Charging electric cars in Den Burg, Texel, the Netherlands: BMW i3 and Opel Ampera.",
-        "credit": "JoachimKohler-HB / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:BMW_i3_und_Opel_Ampera_an_einer_Ladestation_in_Den_Burg.jpg",
-        "vision_score": 7.0
+        "alt": "charging station, electric gas station, electric car, eco, gas station, environmental protection, gas pump, automobile, refuel, fuel, ecologically, power cable, ecology, electricity, cable, electric c",
+        "credit": "geralt / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/charging-station-electric-gas-station-4636710/",
+        "vision_score": 6.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/2518cc6881ca7673.jpg",
+        "orig_url": "https://pixabay.com/get/g4e0a197f523bb9647030b1778df5996ea860a3a57433cb68045039da5571f74e0781bf2bb9d8426ec2c51d25204642ca7a68b3687a56188f0d2e4a0c0e71021b_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -15287,12 +15288,12 @@
       },
       "date": "2026-10-16",
       "date_label": "október 16.",
-      "url": "/penzvilag/2026-10-16-magyarorszagon-a-vallalatok-veszik-a-legtobb-elektromos-autot/",
+      "url": "/penzvilag/2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot/",
       "seo": {
-        "meta_title": "Magyarországon a vállalatok veszik a legtöbb elektromos autó",
+        "meta_title": "A cégek hajtják a magyar elektromosautó-piacot",
         "meta_description": "Bár Magyarország az elektromos autózás elterjedésében még elmarad az európai átlagtól, a hazai növekedést jelenleg a vállalati vásárlások húzzák. Az MHC Mobilit",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-magyarorszagon-a-vallalatok-veszik-a-legtobb-elektromos-autot/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/BMW_i3_und_Opel_Ampera_an_einer_Ladestation_in_Den_Burg.jpg/1280px-BMW_i3_und_Opel_Ampera_an_einer_Ladestation_in_Den_Burg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-a-cegek-hajtjak-a-magyar-elektromosauto-piacot/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/2518cc6881ca7673.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -15309,9 +15310,9 @@
       "dedupe_hash": "13d81c6d71d968b74d5291a52ca78307380c4b1f7bf51baf359c3f9353f79082",
       "pipeline_run_id": "38876809739",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T11:17:28+02:00",
-      "updated_at": "2026-10-16T11:17:28+02:00",
-      "published_at": "2026-10-16T11:17:28+02:00",
+      "created_at": "2026-10-16T11:40:51+02:00",
+      "updated_at": "2026-10-16T11:40:51+02:00",
+      "published_at": "2026-10-16T11:40:51+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15324,9 +15325,9 @@
         "msg_ids": [],
         "control_id": 6685,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:40 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-16T11:40:45+02:00"
+      "live": true
     },
     {
       "id": "c5af7961-925a-5166-845c-7dddc1d830e5",
@@ -15852,8 +15853,8 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143587-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143587-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143644-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143644-0.jpg",
           "kind": "photo",
           "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
           "likeness": false,
@@ -15863,8 +15864,8 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143589-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143589-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/c43e0b7f24-1792143647-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c43e0b7f24-1792143647-1.jpg",
           "kind": "photo",
           "alt": "Szárnyal a Wise, de hideg zuhany érte Amerikában",
           "likeness": false,
@@ -16000,9 +16001,11 @@
           6770,
           6771,
           6793,
-          6794
+          6794,
+          6796,
+          6797
         ],
-        "control_id": 6795
+        "control_id": 6798
       },
       "image_queries": [
         "Wise (financial services company)",
