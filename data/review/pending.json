@@ -16605,17 +16605,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-16T09:23:39+00:00",
-        "msg_ids": [
-          6736,
-          6737,
-          6738,
-          6739,
-          6740,
-          6741,
-          6783,
-          6784
-        ],
-        "control_id": 6785
+        "msg_ids": [],
+        "control_id": 6785,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:20 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Donald Trump",
@@ -16635,7 +16628,8 @@
         "political rally",
         "diplomatic meeting",
         "military briefing"
-      ]
+      ],
+      "scheduled_at": "2026-10-16T13:20:45+02:00"
     },
     {
       "id": "af82b0dc-43f2-5114-ae8e-5ed7d157175f",
