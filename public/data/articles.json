@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T08:44:02+02:00",
+  "updated_at": "2026-10-16T08:55:06+02:00",
   "articles": [
+    {
+      "id": "4c187429-c4b6-5acd-8643-2d76fb980736",
+      "slug": "2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefonalas",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "mobilnet",
+        "távközlés",
+        "infláció",
+        "Európai Unió",
+        "árak"
+      ],
+      "title": "Döbbenetes uniós rangsor: nálunk kerül a legtöbbe a telefonálás",
+      "subtitle": null,
+      "lead": "Vásárlóerő-paritáson számolva több kategóriában is Magyarországon a legmagasabbak a mobiltarifák az Európai Unióban. Az Európai Bizottság friss tanulmánya szerint a sokat telefonálók és a nagyobb adatkeretet használók fizetik a leginkább borsos árakat.",
+      "key_points": [
+        "A legalább havi száz hívást tartalmazó mobilcsomagoknál Magyarország az első helyen áll az unióban.",
+        "A tíz gigabájtos mobilnetért is nálunk kérnek el a legtöbbet, míg a húsz gigabájtosnál a másodikak vagyunk.",
+        "A vezetékes internet ezzel szemben kifejezetten olcsónak számít a vizsgált uniós tagállamok mezőnyében."
+      ],
+      "content": "Az Európai Bizottság adataira hivatkozva a Bankmonitor mutatta be azt a részletes körképet, amely harminchat európai csomagot vizsgált meg. A felmérés szerint Magyarország a vizsgált tarifákból tizenhét esetben az öt legdrágább ország közé tartozik, tíz konstrukcióban pedig kifejezetten nálunk a legmagasabb az ár a huszonhét tagállam közül, ha a vásárlóerő-paritást vesszük alapul.\n\nA távközlési piacon jelentős különbségek mutatkoznak az egyes szolgáltatástípusok között. Míg a vezetékes internet kifejezetten kedvező árfekvésűnek bizonyul, és a sebességi kategóriák alapján a középmezőny első felében, a tizenötödik-huszadik helyen állunk, addig a mobiltelefonálás terén egészen más a helyzet. A vezetékes telefonos csomagok átlagos árai ugyancsak a mezőny közepén helyezkednek el.\n\nA mobilos szegmensben viszont kiemelkedően magas terhek nehezednek a fogyasztókra. Minden olyan konstrukcióban, amely legalább havi száz hívást foglal magában, Magyarország bizonyult a legdrágábbnak az unióban. A tíz gigabájtos mobilnet ugyancsak a lista élére repítette az országot, a húsz gigabájtos adatmennyiségnél pedig a második helyet szereztük meg, míg az alacsonyabb, egy és öt gigabájt közötti keretek a középmezőnyben maradtak.\n\nA statisztikák alapján a magyar piacot Portugáliával, Csehországgal és Lettországgal sorolták be a legdrágább csoportba. A folyamat nem teljesen új keletű, hiszen az OECD korábbi, kétezer-tízes évek eleji és kétezer-tizenhatos elemzései is a legmagasabb árak között mutatták ki a magyar tarifákat, ám kétezer-tizenkilenc óta a többi uniós országhoz képest tovább romlott a relatív helyezésünk.",
+      "content_format": "markdown",
+      "body": [
+        "Az Európai Bizottság adataira hivatkozva a Bankmonitor mutatta be azt a részletes körképet, amely harminchat európai csomagot vizsgált meg. A felmérés szerint Magyarország a vizsgált tarifákból tizenhét esetben az öt legdrágább ország közé tartozik, tíz konstrukcióban pedig kifejezetten nálunk a legmagasabb az ár a huszonhét tagállam közül, ha a vásárlóerő-paritást vesszük alapul.",
+        "A távközlési piacon jelentős különbségek mutatkoznak az egyes szolgáltatástípusok között. Míg a vezetékes internet kifejezetten kedvező árfekvésűnek bizonyul, és a sebességi kategóriák alapján a középmezőny első felében, a tizenötödik-huszadik helyen állunk, addig a mobiltelefonálás terén egészen más a helyzet. A vezetékes telefonos csomagok átlagos árai ugyancsak a mezőny közepén helyezkednek el.",
+        "A mobilos szegmensben viszont kiemelkedően magas terhek nehezednek a fogyasztókra. Minden olyan konstrukcióban, amely legalább havi száz hívást foglal magában, Magyarország bizonyult a legdrágábbnak az unióban. A tíz gigabájtos mobilnet ugyancsak a lista élére repítette az országot, a húsz gigabájtos adatmennyiségnél pedig a második helyet szereztük meg, míg az alacsonyabb, egy és öt gigabájt közötti keretek a középmezőnyben maradtak.",
+        "A statisztikák alapján a magyar piacot Portugáliával, Csehországgal és Lettországgal sorolták be a legdrágább csoportba. A folyamat nem teljesen új keletű, hiszen az OECD korábbi, kétezer-tízes évek eleji és kétezer-tizenhatos elemzései is a legmagasabb árak között mutatták ki a magyar tarifákat, ám kétezer-tizenkilenc óta a többi uniós országhoz képest tovább romlott a relatív helyezésünk."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 254,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mobile_phone_PHS_Japan_1997-2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 835,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Personal Handy-phone System (PHS) A271/AP-33/AM-15/P-inm@ster/AH-G10/J700/SA3001V  Mobile_phone_PHS_Japan_1997-2003",
+        "credit": "Marus / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mobile_phone_PHS_Japan_1997-2003.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/elet/20261015_mobilozas-magyarorszag-draga-europai-unio",
+          "title": "Alig van ország az EU-ban, ahol olyan drága a mobilozás, mint Magyarországon",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-16T07:48:49+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-16T08:55:06+02:00"
+      },
+      "hot_score": 5.42,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/elet/20261015_mobilozas-magyarorszag-draga-europai-unio"
+        ]
+      },
+      "date": "2026-10-16",
+      "date_label": "október 16.",
+      "url": "/penzvilag/2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefonalas/",
+      "seo": {
+        "meta_title": "Döbbenetes uniós rangsor: nálunk kerül a legtöbbe a telefoná",
+        "meta_description": "Vásárlóerő-paritáson számolva több kategóriában is Magyarországon a legmagasabbak a mobiltarifák az Európai Unióban. Az Európai Bizottság friss tanulmánya szeri",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefonalas/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mobile_phone_PHS_Japan_1997-2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "83e6216ce2dd90eacaa0668f7264b5d33503e7d83ce465e3486b550e381a6fe8",
+      "pipeline_run_id": "38857528911",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-16T08:55:06+02:00",
+      "updated_at": "2026-10-16T08:55:06+02:00",
+      "published_at": "2026-10-16T08:55:06+02:00",
+      "expires_at": null
+    },
     {
       "id": "20dcba39-91f2-5f13-9b8b-445bd376e6f8",
       "slug": "2026-10-16-fidesz-es-mi-hazank-szivarvanyos-trojai-falonak-tartjak-az-ujpetrei-o",
