@@ -1,35 +1,35 @@
 {
-  "id": "d8887bc429",
-  "date": "2026-10-15",
-  "status": "approved",
-  "article_url": "/penzvilag/2026-10-14-nullaszazalekos-hitellel-tamogatjak-a-hazai-vallalkozasokat/",
-  "article_title": "Nullaszázalékos hitellel támogatják a hazai vállalkozásokat",
+  "id": "dada2d385f",
+  "date": "2026-10-16",
+  "status": "pending",
+  "article_url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
+  "article_title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
   "category": "penzvilag",
   "choices": [
     {
-      "question": "Ön szerint helyes-e a hazai kkv-k uniós hitellel való támogatása?",
-      "options": [
-        "Igen, fontos a gazdaságfejlesztés",
-        "Nem, torzítja a versenyt",
-        "Nem tudom / nincs véleményem"
-      ]
-    },
-    {
-      "question": "Megfelelő eszköz-e a kamatmentes hitel a kisvállalkozások versenyképességének növelésére?",
-      "options": [
-        "Igen, jelentős segítség",
-        "Nem elegendő önmagában",
-        "Nem tudom / nincs véleményem"
-      ]
-    },
-    {
-      "question": "Kell-e központi forrásokkal segíteni a hazai vállalkozások beruházásait?",
+      "question": "Ön támogatja a négyszeresére emelt legkisebb nyugdíjat?",
       "options": [
         "Igen, mindenképpen",
-        "Nem, a piacra kell bízni",
+        "Nem, túlzott teher lenne",
+        "Nem tudom / nincs véleményem"
+      ]
+    },
+    {
+      "question": "Helyesli-e az uniós források átcsoportosítását a nyugdíjakra?",
+      "options": [
+        "Igen, jó kezdeményezés",
+        "Nem, másra kellene fordítani",
+        "Nem tudom / nincs véleményem"
+      ]
+    },
+    {
+      "question": "Elfogadhatónak tartja a brüsszeli forrásokért vállalt feltételeket?",
+      "options": [
+        "Igen, elfogadható",
+        "Nem, nem elfogadható",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 6189
+  "msg_id": 6673
 }
