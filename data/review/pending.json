@@ -16917,14 +16917,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-16T16:42:07+00:00",
-        "msg_ids": [
-          6941,
-          6942,
-          6943,
-          6944
-        ],
-        "control_id": 6945
-      }
+        "msg_ids": [],
+        "control_id": 6945,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:05 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T20:05:22+02:00"
     }
   ]
 }
