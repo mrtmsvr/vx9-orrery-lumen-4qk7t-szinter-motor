@@ -14697,17 +14697,10 @@
         "title": 2,
         "image": 3,
         "sent_at": "2026-10-16T14:07:24+00:00",
-        "msg_ids": [
-          6819,
-          6820,
-          6821,
-          6822,
-          6823,
-          6824,
-          6825,
-          6827
-        ],
-        "control_id": 6826
+        "msg_ids": [],
+        "control_id": 6826,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
