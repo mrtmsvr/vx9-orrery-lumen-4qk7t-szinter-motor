@@ -15520,25 +15520,25 @@
           "vision_score": 8.0
         },
         {
-          "url": "https://pixabay.com/get/gc85463b3b9056dffadd8c23443e967ada1d5db1f01cbcf1820e6db9b5e0daff987a53181933f7bdbf40ddc42283078c410eab9f087d0e32f4e833ea26522cfd6_1280.jpg",
-          "width": 4714,
-          "height": 3144,
+          "url": "https://pixabay.com/get/g62f27487e02f8e5a5dd0dd87ccc11fc46b4bc7696da74925804747e217c953324008715136a2c303d05636f2daf4605a8d2cfc1f3029be704c5b63850b2c4859_1280.jpg",
+          "width": 5184,
+          "height": 3456,
           "kind": "photo",
-          "alt": "hotel, architecture, sea, afternoon, sunlight, tran thang nhat, building, nature, blue sky, holiday, apartment",
-          "credit": "Pix-Off / Pixabay",
+          "alt": "room, conference, chairs, conference room, professional training, workshop, seminary, teaching, professional updating, meeting, classroom, meeting hall, conference, conference, conference, conference ",
+          "credit": "sferrario1968 / Pixabay",
           "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/hotel-architecture-sea-afternoon-7540353/",
+          "source_url": "https://pixabay.com/photos/room-conference-chairs-2192484/",
           "vision_score": 7.0
         },
         {
-          "url": "https://pixabay.com/get/g9ffa70213c65ea39018832b434aeb32edbd1cfdd6f5af2e38692ca7b175818a99ceb470d9185cf7afe65f4b4ac241a6d3cedf4cf9e71a1704991e4f080baf29f_1280.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://pixabay.com/get/g44c95332fafdbd5c36139fb83671c12a09d9bfb093987f212fe0fd2daf0e869bec4f0f7b217eaf578a40f4d0ac6d42f3155077bda46b9f1df14e1e2e59aa530a_1280.jpg",
+          "width": 5331,
+          "height": 3424,
           "kind": "photo",
-          "alt": "manor house, sri lanka, hotel, pool, swimming pool, blue house, blue hotel, hotel, hotel, hotel, hotel, hotel, pool, pool, pool, swimming pool, swimming pool, swimming pool",
-          "credit": "AgEGlobalGroup / Pixabay",
+          "alt": "seats, orange, congress, empty, theater, interior, seminar, conference, presentation, event, modern, meeting, show, convention, audience, congress, seminar, seminar, seminar, seminar, seminar, confere",
+          "credit": "ClickerHappy / Pixabay",
           "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/manor-house-sri-lanka-hotel-pool-2359884/",
+          "source_url": "https://pixabay.com/photos/seats-orange-congress-empty-2954367/",
           "vision_score": 6.0
         }
       ],
@@ -15622,9 +15622,12 @@
           6918,
           6928,
           6929,
-          6930
+          6930,
+          6936,
+          6937,
+          6938
         ],
-        "control_id": 6931
+        "control_id": 6939
       },
       "live": true,
       "image_queries": [
@@ -15648,11 +15651,20 @@
         "Nemzeti Fórum",
         "politicians meeting",
         "luxury resort exterior",
-        "conference hall"
+        "conference hall",
+        "wine cathedral Lakitelek",
+        "equestrian center architecture",
+        "footgolf course landscape",
+        "artificial mound architecture",
+        "luxury resort garden",
+        "modern conference venue",
+        "spa hotel exterior"
       ],
       "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg/1280px-S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://pixabay.com/get/g9ffa70213c65ea39018832b434aeb32edbd1cfdd6f5af2e38692ca7b175818a99ceb470d9185cf7afe65f4b4ac241a6d3cedf4cf9e71a1704991e4f080baf29f_1280.jpg",
+        "https://pixabay.com/get/gc85463b3b9056dffadd8c23443e967ada1d5db1f01cbcf1820e6db9b5e0daff987a53181933f7bdbf40ddc42283078c410eab9f087d0e32f4e833ea26522cfd6_1280.jpg",
         "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg/1280px-S%C3%A1ndor_Lezs%C3%A1k_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
     },
@@ -16464,6 +16476,30 @@
           "credit": "Giorgi Chokheli, Photographer of the United National Movement / wikimedia",
           "license": "Public domain",
           "source_url": "https://commons.wikimedia.org/w/index.php?curid=154839172"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 670,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Belgium - Brussels - Schuman - Berlaymont - Seat of the European Commission",
+          "credit": "EmDee / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Royal_Palace_in_Brussels.JPG/1280px-Royal_Palace_in_Brussels.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 916,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The Royal Palace of Brussels.",
+          "credit": "Martin Falbisoner / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Royal_Palace_in_Brussels.JPG",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -16535,15 +16571,32 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": -1,
         "sent_at": "2026-10-16T16:29:10+00:00",
         "msg_ids": [
           6920,
-          6923
+          6923,
+          6932,
+          6933,
+          6934
         ],
-        "control_id": 6921
+        "control_id": 6935
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Peter Magyar",
+        "Volodymyr Zelenskyy",
+        "Brussels",
+        "European Commission",
+        "Ukrainian Parliament",
+        "Hungarian Ministry of Foreign Affairs",
+        "handshake",
+        "conference room",
+        "national flags"
+      ],
+      "images_seen": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8c/Opposition-Diplomatic_Meeting_Post-2024_Elections.jpg"
+      ]
     },
     {
       "id": "503184d4-f07a-5312-b606-d63f0f02765d",
