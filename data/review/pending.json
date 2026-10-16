@@ -16571,16 +16571,12 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-16T16:29:10+00:00",
-        "msg_ids": [
-          6920,
-          6923,
-          6932,
-          6933,
-          6934
-        ],
-        "control_id": 6935
+        "msg_ids": [],
+        "control_id": 6935,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
