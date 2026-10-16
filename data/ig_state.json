@@ -2259,11 +2259,12 @@
       "caption": "Faék egyszerűségű jelszóval lopták el 8,8 millió ember adatait\n\nKomoly biztonsági résre derült fény Dániában: egy rendkívül gyenge jelszóval védett rendszeren keresztül csaknem kilencmillió ember adataihoz fértek hozzá illetéktelenek. A támadók a központi személyi nyilvántartásba is bejutottak, ám saját állításuk szerint nem élnek vissza a megszerzett információkkal.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#adatbiztonság #hacker #dánia #hírek #kollektíva",
       "created": "2026-10-16T14:05:27+02:00",
       "due": "2026-10-16T14:50:27+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         6808,
         6809
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "8d9a5b2834",
