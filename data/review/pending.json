@@ -15817,18 +15817,10 @@
         "title": 5,
         "image": 5,
         "sent_at": "2026-10-16T16:05:14+00:00",
-        "msg_ids": [
-          6890,
-          6891,
-          6892,
-          6893,
-          6894,
-          6895,
-          6896,
-          6897,
-          6899
-        ],
-        "control_id": 6898
+        "msg_ids": [],
+        "control_id": 6898,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
