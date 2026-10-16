@@ -16582,7 +16582,17 @@
           6741
         ],
         "control_id": 6742
-      }
+      },
+      "image_queries": [
+        "Donald Trump",
+        "Volodymyr Zelenskyy",
+        "Starlink",
+        "Kyiv",
+        "Ukrainian oil refinery",
+        "press conference",
+        "satellite dish",
+        "war zone"
+      ]
     },
     {
       "id": "af82b0dc-43f2-5114-ae8e-5ed7d157175f",
@@ -17126,6 +17136,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/49a7ea58d8-1792143336-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/49a7ea58d8-1792143336-0.jpg",
+          "kind": "photo",
+          "alt": "Több száz napnyi munka veszett el egyetlen kattintással",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/49a7ea58d8-1792143338-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/49a7ea58d8-1792143338-1.jpg",
+          "kind": "photo",
+          "alt": "Több száz napnyi munka veszett el egyetlen kattintással",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -17204,9 +17236,11 @@
         "msg_ids": [
           6759,
           6760,
-          6761
+          6761,
+          6773,
+          6774
         ],
-        "control_id": 6762
+        "control_id": 6775
       }
     }
   ]
