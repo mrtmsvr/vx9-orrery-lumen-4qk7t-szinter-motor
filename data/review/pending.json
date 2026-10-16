@@ -16330,10 +16330,7 @@
       "title_options": [
         "Így eshet szét Európa egy orosz hibrid támadásban",
         "Háborús szimuláció mutatja be az európai összeomlást",
-        "Amikor a Baltikum éhezik: így játszották le a hibrid háborút",
-        "Ezt a forgatókönyvet tesztelték a magyar biztonságpolitikusok a hibrid háborúról",
-        "Mi történne, ha Oroszország egyszerre bénítaná meg Európát?",
-        "Így omlana össze a kontinens, ha az oroszok bevetnék az alvó ügynököket"
+        "Amikor a Baltikum éhezik: így játszották le a hibrid háborút"
       ],
       "clickbait_from": 3,
       "image_options": [
@@ -16411,12 +16408,14 @@
       },
       "review": {
         "title": 0,
-        "image": 1,
-        "sent_at": "2026-10-16T17:57:08+00:00",
-        "msg_ids": [],
-        "control_id": 7008,
-        "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:45 (✏️ → ✅ = azonnal)"
+        "image": 0,
+        "sent_at": "2026-10-16T18:43:02+00:00",
+        "msg_ids": [
+          7013,
+          7014,
+          7015
+        ],
+        "control_id": 7016
       },
       "scheduled_at": "2026-10-16T20:45:28+02:00"
     }
