@@ -14463,15 +14463,12 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-16T05:49:36+00:00",
-        "msg_ids": [
-          6581,
-          6582,
-          6583,
-          6584,
-          6585
-        ],
-        "control_id": 6586
-      }
+        "msg_ids": [],
+        "control_id": 6586,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:54 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-16T08:54:50+02:00"
     },
     {
       "id": "91bf0824-8eb8-57b3-8b0b-91f4c8c9345b",
