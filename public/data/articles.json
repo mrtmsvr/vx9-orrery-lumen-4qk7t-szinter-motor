@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:21:18+02:00",
+  "updated_at": "2026-10-16T18:21:50+02:00",
   "articles": [
     {
       "id": "43af50ef-7810-59d2-957f-6a8759245c25",
@@ -138,18 +138,7 @@
       "reading_time_min": 2,
       "word_count": 262,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 766,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Lezsák Sándor magyar költő, tanár, politikus, a Magyar Demokrata Fórum egyik alapítója. 2006-tól az Országgyűlés egyik fideszes alelnöke.",
-        "credit": "Thaler Tamas / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Lezs%C3%A1k_S%C3%A1ndor_(2015).jpg",
-        "vision_score": 8.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -187,7 +176,7 @@
         "meta_title": "Luxusparkban ülésezik a Fidesz-frakció Lakiteleken",
         "meta_description": "A huszonhét hektáros lakitelki Hungarikum Ligetben tartja kihelyezett frakcióülését a Fidesz, amelynek fejlesztéseire korábban ötmilliárd forint állami támogatá",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-luxusparkban-ulesezik-a-fidesz-frakcio-lakiteleken/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -225,7 +214,7 @@
       "pipeline_run_id": "38926267604",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T17:59:40+02:00",
-      "updated_at": "2026-10-16T17:59:40+02:00",
+      "updated_at": "2026-10-16T18:21:50+02:00",
       "published_at": "2026-10-16T17:59:40+02:00",
       "expires_at": null
     },
