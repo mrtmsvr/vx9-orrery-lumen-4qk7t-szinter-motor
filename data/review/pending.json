@@ -16555,13 +16555,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-16T19:12:46+00:00",
-        "msg_ids": [
-          7055,
-          7056,
-          7057,
-          7058
-        ],
-        "control_id": 7059
+        "msg_ids": [],
+        "control_id": 7059,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
