@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T08:19:38+02:00",
+  "updated_at": "2026-10-16T08:19:53+02:00",
   "articles": [
     {
       "id": "a61dd35f-95ab-516e-a241-4f67e6177d56",
@@ -396,13 +396,13 @@
       "word_count": 249,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131575-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/2a8676a895-1792131575-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131576-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/2a8676a895-1792131576-1.jpg",
         "kind": "photo",
         "alt": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
         "generated": true
       },
@@ -443,7 +443,7 @@
         "meta_title": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre",
         "meta_description": "Czibere Károly korábbi szociális államtitkár szerint a Fidesz-kormány is felelős a bicskei gyermekotthonban történt visszaélésekért, mert nem biztosított elegen",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-czibere-karoly-nem-kaptunk-eleg-penzt-a-gyermekvedelemre/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131575-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/2a8676a895-1792131576-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -469,7 +469,7 @@
       "pipeline_run_id": "38857528911",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-16T07:49:55+02:00",
-      "updated_at": "2026-10-16T08:19:38+02:00",
+      "updated_at": "2026-10-16T08:19:53+02:00",
       "published_at": "2026-10-16T07:49:55+02:00",
       "expires_at": null
     },
