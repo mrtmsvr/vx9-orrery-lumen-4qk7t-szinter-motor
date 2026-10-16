@@ -2276,11 +2276,12 @@
       "caption": "Több száz napnyi munka veszett el egyetlen kattintással\n\nA svéd TV4 csatorna kénytelen elhalasztani a The Challenge című valóságshow premierjét, miután a produkciós cég szervereiről minden kész epizód nyomtalanul eltűnt. Az eset rávilágít arra, mekkora kockázatot jelenthet az adatok feletti kontrollt kizárólag automatizált rendszerekre bízni.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#mesterségesintelligencia #média #adatbiztonság #hírek #kollektíva",
       "created": "2026-10-16T14:46:01+02:00",
       "due": "2026-10-16T15:31:01+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         6811,
         6812
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "f9e074068f",
