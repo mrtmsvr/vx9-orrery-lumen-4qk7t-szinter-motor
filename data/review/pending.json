@@ -16158,6 +16158,28 @@
       "clickbait_from": 2,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/252a794ad7-1792176237-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/252a794ad7-1792176237-0.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/252a794ad7-1792176238-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/252a794ad7-1792176238-1.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg/1280px-Brussels_Extraordinary_European_Council%2C_21.09.2001_%28P-008403_00-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 787,
@@ -16243,9 +16265,11 @@
         "sent_at": "2026-10-16T17:55:54+00:00",
         "msg_ids": [
           7002,
-          7003
+          7003,
+          7018,
+          7019
         ],
-        "control_id": 7004
+        "control_id": 7020
       },
       "image_queries": [
         "Peter Magyar",
