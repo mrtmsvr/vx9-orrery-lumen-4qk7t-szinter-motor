@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:19:18+02:00",
+  "updated_at": "2026-10-17T09:38:08+02:00",
   "articles": [
     {
       "id": "8acd1ab0-bc12-5a00-9507-0a3b5d8ef26f",
@@ -101,107 +101,6 @@
       "published_at": "2026-10-17T09:19:18+02:00",
       "expires_at": null,
       "requested": true
-    },
-    {
-      "id": "76382c8a-bf8c-583b-851e-7912658df8cf",
-      "slug": "2026-10-17-alkohol-helyett-szent-szellem-igy-talalt-ujat-takats-tamas",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Takáts Tamás",
-        "Karthago",
-        "zene",
-        "interjú"
-      ],
-      "title": "Alkohol helyett Szent Szellem: így talált újat Takáts Tamás",
-      "subtitle": null,
-      "lead": "Negyvenévesen döntött úgy a Karthago frontembere, hogy teljesen felhagy korábbi hedonista szokásaival, és az alkohol helyett a hitébe kapaszkodik. Takáts Tamás most a hot! magazinnak mesélt őszintén a színpadi lét kulisszáiról és a hosszas belső átalakulásról.",
-      "key_points": [
-        "Takáts Tamás negyvenéves korában tette le az alkoholt.",
-        "A Karthago énekese ma már kizárólag a koncertek után enged meg magának egy sört.",
-        "A zenész szerint a hite és a spiritualitás segített neki átvészelni a nehéz időszakokat."
-      ],
-      "content": "A magyar rockélet egyik legismertebb alakja, Takáts Tamás Máté Péter-díjas énekes és zenész hosszú éveken keresztül a rockkoncertekhez kötődő italozós életformát követte. Saját vallomása szerint korábban elképzelhetetlennek tartotta, hogy akárcsak egyetlen fellépésen is józanul vegyen részt, mivel a világsztárok példáját követve elhitte a tévhitet, hogy a színpadi teljesítményhez elengedhetetlen a mámor. Negyvenéves korában azonban fordulat következett be, amikor egy-egy korábbi felvételt visszanézve rájött, hogy a látszólagos jókedv mögött valójában félrecsúszott pillanatok állnak.\n\nA hot! magazinnak adott interjúban a Karthago, a Senator és az East egykori tagja elárulta, hogy a megtérése után nemcsak az ivást hagyta abba, hanem a mindennapokhoz való hozzáállása is alapvetően átalakult. Bár a mai napig előfordul, hogy a helyszínen megkínálják alkohollal a fellépések előtt, határozottan visszautasítja azokat, mondván, hogy a színpadon már egy másik szellemi valóságba kerül, amely minden fizikai fájdalmat – így a fájós térdét is – feledtetni tudja vele.\n\nA zenész a pénzhez és a sikerekhez való viszonyáról is beszélt, megjegyezve, hogy pályája elején kifejezetten mellékesnek tartotta az anyagi javakat, ám a Szentírás tanulmányozása után teljesen új szemléletmódot sajátított el. Úgy véli, a hűség hiánya és a korábbi könnyelmű kapcsolatok komoly nehézségeket hoztak az életébe, korábbi válásai pedig éppen abból adódtak, hogy nem a megfelelő belső értékek mentén élt. Az unokázást ma már nyugodtabb tempóban megélő énekes hangsúlyozta, hogy a hit és a belső változás nélkül képtelen lett volna rendezni a mindennapjait.",
-      "content_format": "markdown",
-      "body": [
-        "A magyar rockélet egyik legismertebb alakja, Takáts Tamás Máté Péter-díjas énekes és zenész hosszú éveken keresztül a rockkoncertekhez kötődő italozós életformát követte. Saját vallomása szerint korábban elképzelhetetlennek tartotta, hogy akárcsak egyetlen fellépésen is józanul vegyen részt, mivel a világsztárok példáját követve elhitte a tévhitet, hogy a színpadi teljesítményhez elengedhetetlen a mámor. Negyvenéves korában azonban fordulat következett be, amikor egy-egy korábbi felvételt visszanézve rájött, hogy a látszólagos jókedv mögött valójában félrecsúszott pillanatok állnak.",
-        "A hot! magazinnak adott interjúban a Karthago, a Senator és az East egykori tagja elárulta, hogy a megtérése után nemcsak az ivást hagyta abba, hanem a mindennapokhoz való hozzáállása is alapvetően átalakult. Bár a mai napig előfordul, hogy a helyszínen megkínálják alkohollal a fellépések előtt, határozottan visszautasítja azokat, mondván, hogy a színpadon már egy másik szellemi valóságba kerül, amely minden fizikai fájdalmat – így a fájós térdét is – feledtetni tudja vele.",
-        "A zenész a pénzhez és a sikerekhez való viszonyáról is beszélt, megjegyezve, hogy pályája elején kifejezetten mellékesnek tartotta az anyagi javakat, ám a Szentírás tanulmányozása után teljesen új szemléletmódot sajátított el. Úgy véli, a hűség hiánya és a korábbi könnyelmű kapcsolatok komoly nehézségeket hoztak az életébe, korábbi válásai pedig éppen abból adódtak, hogy nem a megfelelő belső értékek mentén élt. Az unokázást ma már nyugodtabb tempóban megélő énekes hangsúlyozta, hogy a hit és a belső változás nélkül képtelen lett volna rendezni a mindennapjait."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 263,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792218362-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/bulvar-1792218362-0.jpg",
-        "kind": "photo",
-        "alt": "Alkohol helyett Szent Szellem: így talált újat Takáts Tamás",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/takats-tamas-szivszorito-vallomast-tett",
-          "title": "Takáts Tamás: „Súlyos következményei vannak a pillanatnyi gyönyörnek”",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T08:25:15+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Konkrétan nem voltam alkoholista – mert napközben soha életemben nem ittam –, hanem amolyan társasági ivó",
-        "who": "Takáts Tamás énekes",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-17T08:26:54+02:00"
-      },
-      "hot_score": 5.98,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/takats-tamas-szivszorito-vallomast-tett"
-        ]
-      },
-      "date": "2026-10-17",
-      "date_label": "október 17.",
-      "url": "/bulvar/2026-10-17-alkohol-helyett-szent-szellem-igy-talalt-ujat-takats-tamas/",
-      "seo": {
-        "meta_title": "Alkohol helyett Szent Szellem: így talált újat Takáts Tamás",
-        "meta_description": "Negyvenévesen döntött úgy a Karthago frontembere, hogy teljesen felhagy korábbi hedonista szokásaival, és az alkohol helyett a hitébe kapaszkodik. Takáts Tamás ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-17-alkohol-helyett-szent-szellem-igy-talalt-ujat-takats-tamas/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792218362-0.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "f1588f066b4d69bda1c6f95e0aabfce1e0a7ce7a6061ca12a05eb4a3dcf0179e",
-      "pipeline_run_id": "39009704268",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T08:26:54+02:00",
-      "updated_at": "2026-10-17T08:26:54+02:00",
-      "published_at": "2026-10-17T08:26:54+02:00",
-      "expires_at": null
     },
     {
       "id": "fa010c5b-7c90-546b-b711-068cbe26f997",
