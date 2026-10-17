@@ -15210,13 +15210,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T17:59:17+00:00",
-        "msg_ids": [
-          7311,
-          7312,
-          7313,
-          7315
-        ],
-        "control_id": 7314
+        "msg_ids": [],
+        "control_id": 7314,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
