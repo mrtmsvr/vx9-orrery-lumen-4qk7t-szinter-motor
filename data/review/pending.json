@@ -15218,9 +15218,9 @@
       "live": true
     },
     {
-      "id": "dda84ac0-1736-5718-aa84-dc7d847b7d3e",
-      "slug": "2026-10-17-amikor-tajvan-miatt-figyel-el-a-nato-oroszorszag-lepeselonyben",
-      "status": "pending",
+      "id": "5c408646-9e66-520c-ab5f-3c1017df10ac",
+      "slug": "2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -15230,7 +15230,7 @@
         "hadijáték",
         "Kína"
       ],
-      "title": "Amikor Tajvan miatt figyel el a NATO: Oroszország lépéselőnyben",
+      "title": "Kína és Oroszország közös nyomása gyengítheti meg Európát",
       "subtitle": null,
       "lead": "Biztonságpolitikai szakértők által készített idei hadijáték azt vizsgálja, hogyan zúdíthatna nyomást Oroszország Európára egy olyan helyzetben, amikor a NATO és az Egyesült Államok figyelmét Kína tajvani akciói kötik le. A szimuláció szerint a külső frontok és a szövetségen belüli bizonytalanságok komoly kihívások elé állíthatják az európai országokat.",
       "key_points": [
@@ -15252,7 +15252,7 @@
       "word_count": 270,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g61fab57aab008b30800e53fe58e0f82b362cfb134a210702a78d9511d11021ed83e0355ccbddbb049ab87adda97107734cc12de436e152f94855782bf0a04aa4_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/c78e9f6ee80ca159.jpg",
         "width": 3888,
         "height": 2592,
         "kind": "photo",
@@ -15260,7 +15260,9 @@
         "credit": "Joa70 / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/tank-map-war-kyiv-ukraine-danger-7038839/",
-        "vision_score": 9.0
+        "vision_score": 9.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/c78e9f6ee80ca159.jpg",
+        "orig_url": "https://pixabay.com/get/g61fab57aab008b30800e53fe58e0f82b362cfb134a210702a78d9511d11021ed83e0355ccbddbb049ab87adda97107734cc12de436e152f94855782bf0a04aa4_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -15345,12 +15347,12 @@
       },
       "date": "2026-10-17",
       "date_label": "október 17.",
-      "url": "/vilag/2026-10-17-amikor-tajvan-miatt-figyel-el-a-nato-oroszorszag-lepeselonyben/",
+      "url": "/vilag/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat/",
       "seo": {
-        "meta_title": "Amikor Tajvan miatt figyel el a NATO: Oroszország lépéselőny",
+        "meta_title": "Kína és Oroszország közös nyomása gyengítheti meg Európát",
         "meta_description": "Biztonságpolitikai szakértők által készített idei hadijáték azt vizsgálja, hogyan zúdíthatna nyomást Oroszország Európára egy olyan helyzetben, amikor a NATO és",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-amikor-tajvan-miatt-figyel-el-a-nato-oroszorszag-lepeselonyben/",
-        "og_image": "https://pixabay.com/get/g61fab57aab008b30800e53fe58e0f82b362cfb134a210702a78d9511d11021ed83e0355ccbddbb049ab87adda97107734cc12de436e152f94855782bf0a04aa4_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/c78e9f6ee80ca159.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -15381,9 +15383,9 @@
       "dedupe_hash": "069bba605a87fce3eae3a41f6b2d0d99a712fe7fe93b7089768c1c93f394b6db",
       "pipeline_run_id": "39055257912",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T19:59:27+02:00",
-      "updated_at": "2026-10-17T19:59:27+02:00",
-      "published_at": "2026-10-17T19:59:27+02:00",
+      "created_at": "2026-10-17T20:58:02+02:00",
+      "updated_at": "2026-10-17T20:58:02+02:00",
+      "published_at": "2026-10-17T20:58:02+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15393,14 +15395,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-17T17:59:53+00:00",
-        "msg_ids": [
-          7316,
-          7317,
-          7318,
-          7319
-        ],
-        "control_id": 7320
-      }
+        "msg_ids": [],
+        "control_id": 7320,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
