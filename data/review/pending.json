@@ -17687,14 +17687,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T13:40:45+00:00",
-        "msg_ids": [
-          7270,
-          7271,
-          7272,
-          7273
-        ],
-        "control_id": 7274
-      }
+        "msg_ids": [],
+        "control_id": 7274,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:47 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-17T16:47:41+02:00"
     }
   ]
 }
