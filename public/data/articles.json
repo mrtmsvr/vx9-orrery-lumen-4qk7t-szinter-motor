@@ -1,7 +1,125 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:59:36+02:00",
+  "updated_at": "2026-10-17T10:26:07+02:00",
   "articles": [
+    {
+      "id": "00fa1c22-c242-5f0b-b45a-511220ecc599",
+      "slug": "2026-10-17-rekordgyorsasaggal-menesztettek-donald-trump-uj-sajtoszovivojet",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Donald Trump",
+        "Fehér Ház",
+        "Egyesült Államok",
+        "média"
+      ],
+      "title": "Rekordgyorsasággal menesztették Donald Trump új sajtószóvivőjét",
+      "subtitle": null,
+      "lead": "Kevesebb mint egy héttel az első sajtótájékoztatója után már el is bocsátották Katie Zachariát, a Fehér Ház új szóvivőjét. A gyors távozás hátterében súlyos kommunikációs hibák és a végzettsége körüli tisztázatlan kérdések állnak.",
+      "key_points": [
+        "Katie Zacharia alig öt napot töltött a Fehér Ház sajtószóvivói posztján.",
+        "Első hivatalos sajtótájékoztatóján papírról olvasott, és csak három kérdést engedett meg.",
+        "Kétségek merültek fel az amerikai jogi vizsgáival kapcsolatban.",
+        "Donald Trump elnök szerint ő maga tanácsolta a szóvivőnek, hogy gondolja át a folytatást."
+      ],
+      "content": "A New York Times három, névtelenséget kérő forrásra hivatkozva számolt be arról, hogy távoznia kellett Katie Zachariának, a Fehér Ház új sajtószóvivőjének. Az érintett korábbi állítása szerint a múlt pénteken kapott felkérést a távozó Karoline Leavitt helyére, hétfőn már munkába is állt, kedden pedig megtartotta első sajtótájékoztatóját.\n\nA debütálás azonban komoly kritikákat váltott ki a jelenlévő újságírókból, mivel a szóvivő a mondanivalója nagy részét papírról olvasta fel, a sajtó képviselőinek pedig csupán három kérdést engedélyeztek. A helyzetet tovább árnyalta, hogy kétségek merültek fel a végzettségével kapcsolatban: a nyilvános adatok szerint nincs nyoma annak, hogy sikeres jogi vizsgát tett volna az Egyesült Államokban.\n\nDonald Trump az újságíróknak pénteken úgy nyilatkozott, ő maga tanácsolta Zachariának, hogy gondolja át a munkát, mert a boldogság fontosabb. Az elnök kifejtette, hogy nem volt biztos benne, hogy a szóvivő boldog lehet ebben a pozícióban, és a helyében ő maga is elgondolkodna a folytatáson.\n\nA Fehér Ház, amely az Amerikai Egyesült Államok mindenkori elnökének hivatalos lakóhelye és munkahelye Washingtonban, egyelőre nem erősítette meg hivatalosan az értesüléseket. A washingtoni adminisztráció működése a nemzetközi sajtó figyelmének középpontjában áll, a személyi döntések háttere pedig gyakran alapvetően határozza meg a kormányzati kommunikáció hatékonyságát.",
+      "content_format": "markdown",
+      "body": [
+        "A New York Times három, névtelenséget kérő forrásra hivatkozva számolt be arról, hogy távoznia kellett Katie Zachariának, a Fehér Ház új sajtószóvivőjének. Az érintett korábbi állítása szerint a múlt pénteken kapott felkérést a távozó Karoline Leavitt helyére, hétfőn már munkába is állt, kedden pedig megtartotta első sajtótájékoztatóját.",
+        "A debütálás azonban komoly kritikákat váltott ki a jelenlévő újságírókból, mivel a szóvivő a mondanivalója nagy részét papírról olvasta fel, a sajtó képviselőinek pedig csupán három kérdést engedélyeztek. A helyzetet tovább árnyalta, hogy kétségek merültek fel a végzettségével kapcsolatban: a nyilvános adatok szerint nincs nyoma annak, hogy sikeres jogi vizsgát tett volna az Egyesült Államokban.",
+        "Donald Trump az újságíróknak pénteken úgy nyilatkozott, ő maga tanácsolta Zachariának, hogy gondolja át a munkát, mert a boldogság fontosabb. Az elnök kifejtette, hogy nem volt biztos benne, hogy a szóvivő boldog lehet ebben a pozícióban, és a helyében ő maga is elgondolkodna a folytatáson.",
+        "A Fehér Ház, amely az Amerikai Egyesült Államok mindenkori elnökének hivatalos lakóhelye és munkahelye Washingtonban, egyelőre nem erősítette meg hivatalosan az értesüléseket. A washingtoni adminisztráció működése a nemzetközi sajtó figyelmének középpontjában áll, a személyi döntések háttere pedig gyakran alapvetően határozza meg a kormányzati kommunikáció hatékonyságát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 225,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Katie_Zacharia_introduction_video_shot.jpg/1280px-Katie_Zacharia_introduction_video_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 2133,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Shot from the Katie Zacharia introduction",
+        "credit": "White House / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Katie_Zacharia_introduction_video_shot.jpg",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261016_new-york-times-botranyos-bemutatkozasa-utan-menesztettek-is-a-feher-haz-uj-szovivojet",
+          "title": "New York Times: Botrányos bemutatkozása után menesztették is a Fehér Ház új szóvivőjét",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T09:19:51+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Azt mondtam neki, fontos a boldogság, és nem vagyok biztos benne, hogy ebben a helyzetben valaha is boldog lehetsz. Őszintén megosztottam vele azt is, hogy hogy ha a helyében lennék, én elgondolkoznék, hogy szükségem van erre, mert szerintem nincs",
+        "who": "Donald Trump, az Amerikai Egyesült Államok elnöke",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-17T10:26:07+02:00"
+      },
+      "hot_score": 5.24,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261016_new-york-times-botranyos-bemutatkozasa-utan-menesztettek-is-a-feher-haz-uj-szovivojet"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-rekordgyorsasaggal-menesztettek-donald-trump-uj-sajtoszovivojet/",
+      "seo": {
+        "meta_title": "Rekordgyorsasággal menesztették Donald Trump új sajtószóvivő",
+        "meta_description": "Kevesebb mint egy héttel az első sajtótájékoztatója után már el is bocsátották Katie Zachariát, a Fehér Ház új szóvivőjét. A gyors távozás hátterében súlyos kom",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-rekordgyorsasaggal-menesztettek-donald-trump-uj-sajtoszovivojet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Katie_Zacharia_introduction_video_shot.jpg/1280px-Katie_Zacharia_introduction_video_shot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "5a8309fe-1b25-5c29-8f18-e172d3345019",
+        "7a44a206-e931-5605-8043-f5f490beaf0e"
+      ],
+      "see_also": [
+        {
+          "title": "Új nevet kapott a mesterséges intelligencia a Fehér Házban",
+          "url": "/tech/2026-09-30-uj-nevet-kapott-a-mesterseges-intelligencia-a-feher-hazban/",
+          "date": "2026-09-30"
+        },
+        {
+          "title": "Így vizsgálják át a mesterséges intelligenciát",
+          "url": "/tech/2026-09-30-kiderult-mikent-ellenoriznek-az-ai-cegeket/",
+          "date": "2026-09-30"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "2fc715b88d5270877af0c295f47bcddc7d95904507feef595285d8c35daec020",
+      "pipeline_run_id": "39012342054",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T10:26:07+02:00",
+      "updated_at": "2026-10-17T10:26:07+02:00",
+      "published_at": "2026-10-17T10:26:07+02:00",
+      "expires_at": null
+    },
     {
       "id": "680bd561-6b17-5fa6-891d-e62631e68996",
       "slug": "2026-10-17-egymilliard-dollar-svajcban-miert-olyan-nehez-visszaszerezni-a-lopott",
