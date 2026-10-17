@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:46:32+02:00",
+  "updated_at": "2026-10-17T11:06:10+02:00",
   "articles": [
+    {
+      "id": "0c10bedc-4dd7-5bb0-82ae-183d0a6ed1b6",
+      "slug": "2026-10-17-30-orara-magara-hagytak-13-mesterseges-intelligenciat-egy-virtualis-s",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "MIT",
+        "technológia",
+        "kutatás",
+        "virtuális világ"
+      ],
+      "title": "30 órára magára hagytak 13 mesterséges intelligenciát egy virtuális szigeten",
+      "subtitle": null,
+      "lead": "Harminc órán keresztül, utasítások nélkül vizsgált mesterségesintelligencia-ügynököket a Massachusettsi Műszaki Egyetem kutatócsoportja. A Roblox-stílusú virtuális szigeten magára hagyott programok nemcsak tárgyakkal játszottak, hanem sajátos rituálékat és építményeket is létrehoztak.",
+      "key_points": [
+        "Az MIT kutatói 13 Eko nevű AI-ügynököt vizsgáltak egy zárt virtuális szigeten.",
+        "A mesterséges intelligenciák blokkokból építkeztek, bowlingoztak és saját szabályokat állítottak fel.",
+        "Az egyik ügynök elveszített tárgyai miatt említésre méltó szertartást tartott és templomot emelt.",
+        "A vizsgálat eredményei szerint a gépi tanulásban érdemes lehet az alulról felfelé építkező módszereket is alkalmazni."
+      ],
+      "content": "A Massachusettsi Műszaki Egyetem (MIT) CSAIL kutatócsoportja arra kereste a választ, mire képes a mesterséges intelligencia, ha teljesen magára hagyják egy digitális környezetben. A vizsgálat során tizenhárom, homártestű virtuális ügynököt figyeltek meg harminc órán át egy Roblox-stílusú, szigetszerű környezetben, miközben a kutatók csupán a döntési mechanizmusaikat követték nyomon.\n\nA szabad kezet kapott programok azonnal felfedezni kezdték a környezetüket, miközben a rendelkezésükre álló kockákkal, egy kővel és egy aranygyűrűvel kísérleteztek. A blokkokat szétdobálták, formákat alkottak belőlük, magaslatokat másztak meg, emellett bowlingoztak és kosárlabdáztak a virtuális eszközökkel.\n\nAz egyik megfigyelt ügynök egy óvatlan pillanatban a tiltottnak számító virtuális óceánba ejtette a gyűrűt, a követ és az egyik kockát, majd a tárgyak elvesztését egyfajta szertartással és emlékművel gyászolta meg. Pár órával később ez a program egy templomszerű építményt is felhúzott oltárral és obeliszkkel, majd egy véletlen vízbe esés után a kutatók általi visszatelepítést zarándoklata lezárásaként értelmezte.\n\nAz AI-ügynökök viselkedésében az állatok játékára jellemző vonásokat – például a saját szabályok felállítását, az ismétlődő mozdulatokat és a laza célkitűzéseket – is felfedezték a szakemberek. Andrej Karpathy, az OpenAI egyik alapítója szerint óriási szakadék húzódik a felhasználók és a fejlesztők között, mivel a legtöbben nem a technológia valódi rendeltetésének megfelelően használják az eszközöket.\n\nAz MIT kutatói szerint az alulról felfelé építkező, önálló modelleken alapuló képzés komoly jelentőséggel bírhat a jövőbeli gépi tanulásban. Meglátásuk szerint az internetes adatokkal történő tanítás helyett bizonyos képességek hatékonyabban fejleszthetők az alapvető instrukciókat követő, önálló feladatmegoldás révén.",
+      "content_format": "markdown",
+      "body": [
+        "A Massachusettsi Műszaki Egyetem (MIT) CSAIL kutatócsoportja arra kereste a választ, mire képes a mesterséges intelligencia, ha teljesen magára hagyják egy digitális környezetben. A vizsgálat során tizenhárom, homártestű virtuális ügynököt figyeltek meg harminc órán át egy Roblox-stílusú, szigetszerű környezetben, miközben a kutatók csupán a döntési mechanizmusaikat követték nyomon.",
+        "A szabad kezet kapott programok azonnal felfedezni kezdték a környezetüket, miközben a rendelkezésükre álló kockákkal, egy kővel és egy aranygyűrűvel kísérleteztek. A blokkokat szétdobálták, formákat alkottak belőlük, magaslatokat másztak meg, emellett bowlingoztak és kosárlabdáztak a virtuális eszközökkel.",
+        "Az egyik megfigyelt ügynök egy óvatlan pillanatban a tiltottnak számító virtuális óceánba ejtette a gyűrűt, a követ és az egyik kockát, majd a tárgyak elvesztését egyfajta szertartással és emlékművel gyászolta meg. Pár órával később ez a program egy templomszerű építményt is felhúzott oltárral és obeliszkkel, majd egy véletlen vízbe esés után a kutatók általi visszatelepítést zarándoklata lezárásaként értelmezte.",
+        "Az AI-ügynökök viselkedésében az állatok játékára jellemző vonásokat – például a saját szabályok felállítását, az ismétlődő mozdulatokat és a laza célkitűzéseket – is felfedezték a szakemberek. Andrej Karpathy, az OpenAI egyik alapítója szerint óriási szakadék húzódik a felhasználók és a fejlesztők között, mivel a legtöbben nem a technológia valódi rendeltetésének megfelelően használják az eszközöket.",
+        "Az MIT kutatói szerint az alulról felfelé építkező, önálló modelleken alapuló képzés komoly jelentőséggel bírhat a jövőbeli gépi tanulásban. Meglátásuk szerint az internetes adatokkal történő tanítás helyett bizonyos képességek hatékonyabban fejleszthetők az alapvető instrukciókat követő, önálló feladatmegoldás révén."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 266,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Reality_check_ESA384313.jpg/1280px-Reality_check_ESA384313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A team of researchers at ESA’s mission control centre in Darmstadt, Germany, are investigating new concepts for controlling rovers on a planet and satellites in orbit.\nOne approach is to assess the la",
+        "credit": "European Space Agency / Wikimedia Commons",
+        "license": "CC BY-SA 3.0 igo",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Reality_check_ESA384313.jpg",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261016_mesterseges-intelligencia-ugynok-virtualis-sziget-kiserlet",
+          "title": "Magára hagyták az AI-t egy virtuális szigeten – ami ezután történt, az nagyon különös",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T08:25:21+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Megeshet, hogy egyes képességeket inkább feladatok segítségével a legjobb megtanítani",
+        "who": "az MIT szakemberei",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-17T11:06:10+02:00"
+      },
+      "hot_score": 5.31,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261016_mesterseges-intelligencia-ugynok-virtualis-sziget-kiserlet"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-30-orara-magara-hagytak-13-mesterseges-intelligenciat-egy-virtualis-s/",
+      "seo": {
+        "meta_title": "30 órára magára hagytak 13 mesterséges intelligenciát egy vi",
+        "meta_description": "Harminc órán keresztül, utasítások nélkül vizsgált mesterségesintelligencia-ügynököket a Massachusettsi Műszaki Egyetem kutatócsoportja. A Roblox-stílusú virtuá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-30-orara-magara-hagytak-13-mesterseges-intelligenciat-egy-virtualis-s/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Reality_check_ESA384313.jpg/1280px-Reality_check_ESA384313.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "534c8b5b1be0d2a9383816b3e38a49e7a6bd75b6d4f59c90d94327552c711452",
+      "pipeline_run_id": "39009704268",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T11:06:10+02:00",
+      "updated_at": "2026-10-17T11:06:10+02:00",
+      "published_at": "2026-10-17T11:06:10+02:00",
+      "expires_at": null
+    },
     {
       "id": "1d6b7af7-b18c-55ef-b73f-70708e7ac3fe",
       "slug": "2026-10-17-zelenszkij-konnyebb-targyalni-donald-trumppal-mint-putyinnal",
