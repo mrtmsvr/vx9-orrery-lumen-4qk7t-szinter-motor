@@ -16507,16 +16507,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-17T07:18:59+00:00",
-        "msg_ids": [
-          7145,
-          7146,
-          7147,
-          7149,
-          7158,
-          7159,
-          7160
-        ],
-        "control_id": 7161
+        "msg_ids": [],
+        "control_id": 7161,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
