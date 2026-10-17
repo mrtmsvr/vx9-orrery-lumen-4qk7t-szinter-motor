@@ -17020,6 +17020,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/51c5421a78-1792246409-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/51c5421a78-1792246409-0.jpg",
+          "kind": "photo",
+          "alt": "Így látja a cellájából a KDNP imaláncát a bűnszövetségben hűtlen kezeléssel gyanúsított politikus",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/51c5421a78-1792246410-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/51c5421a78-1792246410-1.jpg",
+          "kind": "photo",
+          "alt": "Így látja a cellájából a KDNP imaláncát a bűnszövetségben hűtlen kezeléssel gyanúsított politikus",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/City_Hall_of_Kecskem%C3%A9t_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 696,
@@ -17145,9 +17167,11 @@
           7245,
           7246,
           7247,
-          7254
+          7254,
+          7289,
+          7290
         ],
-        "control_id": 7248
+        "control_id": 7291
       },
       "live": true,
       "image_queries": [
