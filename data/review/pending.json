@@ -16935,18 +16935,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T13:04:00+00:00",
-        "msg_ids": [
-          7232,
-          7233,
-          7234,
-          7235,
-          7236,
-          7237,
-          7238,
-          7239
-        ],
-        "control_id": 7240
-      }
+        "msg_ids": [],
+        "control_id": 7240,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:27 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-17T16:27:41+02:00"
     },
     {
       "id": "51c5421a-780a-5a1a-8077-0f9389b7da3b",
