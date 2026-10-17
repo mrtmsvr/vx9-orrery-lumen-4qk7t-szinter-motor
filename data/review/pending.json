@@ -16347,12 +16347,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T07:16:54+00:00",
-        "msg_ids": [
-          7142,
-          7143
-        ],
-        "control_id": 7144
-      }
+        "msg_ids": [],
+        "control_id": 7144,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:59 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-17T09:59:18+02:00"
     },
     {
       "id": "8acd1ab0-bc12-5a00-9507-0a3b5d8ef26f",
