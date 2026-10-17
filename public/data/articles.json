@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T09:38:27+02:00",
+  "updated_at": "2026-10-17T09:39:27+02:00",
   "articles": [
+    {
+      "id": "3ca82b79-a2a7-5297-965e-d3256bc0092c",
+      "slug": "2026-10-17-attorest-hozhat-a-magyarok-uj-szivinfarktus-gyogyszere",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "orvostudomány",
+        "szívinfarktus",
+        "magyar kutatók",
+        "gyógyszerfejlesztés",
+        "Nature"
+      ],
+      "title": "Áttörést hozhat a magyarok új szívinfarktus-gyógyszere",
+      "subtitle": null,
+      "lead": "Alapvetően új hatásmechanizmusú gyógyszerjelöltet fejlesztettek ki magyar kutatók a szívinfarktus utáni kapilláris keringési zavarok kezelésére. A Nature tudományos folyóiratban bemutatott CLN-2501 másodpercek alatt oldja a koszorúerek elzáródása utáni görcsöt, így jelentősen csökkentheti a szívizom-károsodást.",
+      "key_points": [
+        "A szívinfarktus utáni szövetkárosodás egyik fő oka a kapillárisok beszűkülése, az úgynevezett no-reflow jelenség.",
+        "A Málnási-Csizmadia András vezette kutatócsoport és a Motorpharma kifejlesztette az első kapilláris-szelektív értágítót.",
+        "A CLN-2501 nevű gyógyszerjelölt preklinikai modellekben és nagyállat-kísérletekben is sikeresen helyreállította a véráramlást."
+      ],
+      "content": "A modern katéteres eljárásokkal ma már gyorsan megnyithatók az elzáródott nagy koszorúerek, azonban a mikroszkopikus méretű kapillárisok gyakran kórosan beszűkülve maradnak. Ezt a kapilláris no-reflow nevű jelenséget a véráramlás hiánya okozza, amely súlyos szövetkárosodáshoz vezet, és jelentősen növeli a rövid távú halálozás kockázatát. Erre a problémára eddig nem létezett specifikus gyógyszeres terápia, holott a kardiológiában évtizedek óta keresték a megoldást.\n\nMálnási-Csizmadia András és nemzetközi kutatócsoportja kimutatta, hogy a kapillárisok simaizom-miozin által vezérelt kóros összehúzódása, a hiperkontrakció okozza a bajt. Ennek oldására hozta létre a CLN-2501 nevű vegyületet a Motorpharma Kft., amely az Eötvös Loránd Tudományegyetemen indult spinoff vállalkozásként. A Nature szaklapban ismertetett eredmények szerint a szer másodpercek alatt megszünteti a görcsöt, újranyitja a kapillárisokat, és klinikailag releváns állatmodellekben is javította a túlélést.\n\nA gyógyszerjelölt preklinikai fejlesztése Magyarországon történt, míg a klinikai fázis az Egyesült Államokban, a magyar kutatók által alapított bostoni PeriFlow Therapeutics keretében zajlik. A kutatók reményei szerint a felfedezés a szívinfarktuson túl az iszkémiás stroke, az akut vesekárosodás és a szervtranszplantációk terén is új terápiás lehetőségeket nyithat meg a jövőben.",
+      "content_format": "markdown",
+      "body": [
+        "A modern katéteres eljárásokkal ma már gyorsan megnyithatók az elzáródott nagy koszorúerek, azonban a mikroszkopikus méretű kapillárisok gyakran kórosan beszűkülve maradnak. Ezt a kapilláris no-reflow nevű jelenséget a véráramlás hiánya okozza, amely súlyos szövetkárosodáshoz vezet, és jelentősen növeli a rövid távú halálozás kockázatát. Erre a problémára eddig nem létezett specifikus gyógyszeres terápia, holott a kardiológiában évtizedek óta keresték a megoldást.",
+        "Málnási-Csizmadia András és nemzetközi kutatócsoportja kimutatta, hogy a kapillárisok simaizom-miozin által vezérelt kóros összehúzódása, a hiperkontrakció okozza a bajt. Ennek oldására hozta létre a CLN-2501 nevű vegyületet a Motorpharma Kft., amely az Eötvös Loránd Tudományegyetemen indult spinoff vállalkozásként. A Nature szaklapban ismertetett eredmények szerint a szer másodpercek alatt megszünteti a görcsöt, újranyitja a kapillárisokat, és klinikailag releváns állatmodellekben is javította a túlélést.",
+        "A gyógyszerjelölt preklinikai fejlesztése Magyarországon történt, míg a klinikai fázis az Egyesült Államokban, a magyar kutatók által alapított bostoni PeriFlow Therapeutics keretében zajlik. A kutatók reményei szerint a felfedezés a szívinfarktuson túl az iszkémiás stroke, az akut vesekárosodás és a szervtranszplantációk terén is új terápiás lehetőségeket nyithat meg a jövőben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 212,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg/1280px-Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 799,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A documentative record of a clinical pathology and medical laboratory environment configured for hematology investigations, routine blood sample analysis, specimen processing, and phlebotomy services.",
+        "credit": "Goleisureintl / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai,_India.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261016_szivinfarktus-kapillaris-keringesi-zavar-gyogyszerjelolt",
+          "title": "„Erre a gyógyszerre 30 éve várunk” – magyarok álltak elő a szívinfarktus kezelésének új megoldásával",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T08:25:14+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Erre a gyógyszerre harminc éve várunk",
+        "who": "C. Michael Gibson professzor, a PeriFlow Therapeutics vezető orvosi tanácsadója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-17T09:39:27+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261016_szivinfarktus-kapillaris-keringesi-zavar-gyogyszerjelolt"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-attorest-hozhat-a-magyarok-uj-szivinfarktus-gyogyszere/",
+      "seo": {
+        "meta_title": "Áttörést hozhat a magyarok új szívinfarktus-gyógyszere",
+        "meta_description": "Alapvetően új hatásmechanizmusú gyógyszerjelöltet fejlesztettek ki magyar kutatók a szívinfarktus utáni kapilláris keringési zavarok kezelésére. A Nature tudomá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-attorest-hozhat-a-magyarok-uj-szivinfarktus-gyogyszere/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg/1280px-Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "80c47228fb64ee1bacdcfe90bd3456c72364f8150dc0e7fc2d8a5216b4364618",
+      "pipeline_run_id": "39009704268",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T09:39:27+02:00",
+      "updated_at": "2026-10-17T09:39:27+02:00",
+      "published_at": "2026-10-17T09:39:27+02:00",
+      "expires_at": null
+    },
     {
       "id": "8acd1ab0-bc12-5a00-9507-0a3b5d8ef26f",
       "slug": "2026-10-17-hal-melindat-jelolte-a-mi-hazank-a-kozmedia-fuggetlensegi-testuletebe",

@@ -15170,7 +15170,7 @@
     {
       "id": "3ca82b79-a2a7-5297-965e-d3256bc0092c",
       "slug": "2026-10-17-attorest-hozhat-a-magyarok-uj-szivinfarktus-gyogyszere",
-      "status": "pending",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -15200,15 +15200,15 @@
       "word_count": 212,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg/1280px-E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg/1280px-Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 866,
+        "height": 799,
         "kind": "photo",
         "pos": "center",
-        "alt": "Az Eötvös Loránd Tudományegyetem Eötvös Klubjának (Hordó) klubigazolványa.",
-        "credit": "Unknown authorUnknown author / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_(1).jpg"
+        "alt": "A documentative record of a clinical pathology and medical laboratory environment configured for hematology investigations, routine blood sample analysis, specimen processing, and phlebotomy services.",
+        "credit": "Goleisureintl / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai,_India.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -15310,7 +15310,7 @@
         "meta_title": "Áttörést hozhat a magyarok új szívinfarktus-gyógyszere",
         "meta_description": "Alapvetően új hatásmechanizmusú gyógyszerjelöltet fejlesztettek ki magyar kutatók a szívinfarktus utáni kapilláris keringési zavarok kezelésére. A Nature tudomá",
         "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-attorest-hozhat-a-magyarok-uj-szivinfarktus-gyogyszere/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg/1280px-E%C3%B6tv%C3%B6s_klubigazolv%C3%A1ny_1969_-_1974_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg/1280px-Clinical_Pathology_Blood_Testing_Laboratory_in_Navi_Mumbai%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -15327,9 +15327,9 @@
       "dedupe_hash": "80c47228fb64ee1bacdcfe90bd3456c72364f8150dc0e7fc2d8a5216b4364618",
       "pipeline_run_id": "39009704268",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T08:25:14+02:00",
-      "updated_at": "2026-10-17T08:25:14+02:00",
-      "published_at": "2026-10-17T08:25:14+02:00",
+      "created_at": "2026-10-17T09:39:27+02:00",
+      "updated_at": "2026-10-17T09:39:27+02:00",
+      "published_at": "2026-10-17T09:39:27+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -15342,9 +15342,9 @@
         "msg_ids": [],
         "control_id": 7106,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 09:39 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-17T09:39:18+02:00"
+      "live": true
     },
     {
       "id": "3def17b0-b43e-590d-b059-590e4c3c13af",
