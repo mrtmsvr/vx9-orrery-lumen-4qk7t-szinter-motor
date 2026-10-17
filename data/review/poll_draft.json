@@ -1,35 +1,35 @@
 {
-  "id": "dada2d385f",
-  "date": "2026-10-16",
-  "status": "skipped",
-  "article_url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
-  "article_title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
-  "category": "penzvilag",
+  "id": "6616d2a2fe",
+  "date": "2026-10-17",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-16-brusszeli-csucs-magyar-peter-elutasitotta-a-koltesi-keretet/",
+  "article_title": "Magyar Péter Brüsszelbe ment: nem tetszik a hétéves költségvetés",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön támogatja a négyszeresére emelt legkisebb nyugdíjat?",
+      "question": "Ön szerint helyes döntés volt elutasítani a hétéves uniós költségvetést?",
       "options": [
-        "Igen, mindenképpen",
-        "Nem, túlzott teher lenne",
+        "Igen, teljesen helyes volt",
+        "Nem, hiba volt elutasítani",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesli-e az uniós források átcsoportosítását a nyugdíjakra?",
+      "question": "Hogyan értékeli a magyar érdekérvényesítés hatékonyságát a brüsszeli tárgyalásokon?",
       "options": [
-        "Igen, jó kezdeményezés",
-        "Nem, másra kellene fordítani",
+        "Hatásos és eredményes volt",
+        "Eredménytelen és káros volt",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Elfogadhatónak tartja a brüsszeli forrásokért vállalt feltételeket?",
+      "question": "Mit tart fontosabbnak a hétéves uniós költségvetési tárgyalások során?",
       "options": [
-        "Igen, elfogadható",
-        "Nem, nem elfogadható",
+        "A hazai források maximális védelmét",
+        "A megegyezést és az egységet",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 6673
+  "msg_id": 7162
 }
