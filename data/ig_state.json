@@ -2546,11 +2546,12 @@
       "caption": "Egy évvel elhalasztják az ETS2-t az EU-csúcs vitái után\n\nVéget ért a kétnapos brüsszeli EU-csúcs, amelyet látványos viták kísértek a 2028–2034-es hétéves költségvetés megtárgyalása során. A megbeszéléseken sikerült elérni az ETS2 bevezetésének egyéves elhalasztását, ám a legnehezebb pénzügyi kérdésekben decemberre halasztották a végső döntést.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#eucsucs #koltsegvetes #brusszel #hírek #kollektíva",
       "created": "2026-10-17T14:22:07+02:00",
       "due": "2026-10-17T15:07:07+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7182,
         7183
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "b4aa0f3232",
