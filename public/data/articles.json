@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T16:13:45+02:00",
+  "updated_at": "2026-10-17T16:27:46+02:00",
   "articles": [
+    {
+      "id": "0dda1bf0-aee3-5e86-a96b-d7aa5095f8cd",
+      "slug": "2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "tudomány",
+        "mikroszkóp",
+        "fotópályázat",
+        "Nikon"
+      ],
+      "title": "Mesterséges intelligencia buktatta le a rangos mikroszkópfotó-pályázat győztesét",
+      "subtitle": null,
+      "lead": "Visszavették a fődíjat egy rangos mikroszkópos pályázat győztesétől, miután kiderült, hogy a beküldött felvétel mesterséges intelligenciával generált részleteket tartalmaz. Az eset ismét rávilágított arra, hol húzódik a határ a tudományos hitelesség és a megtévesztés között a digitális utómunka világában.",
+      "key_points": [
+        "Megvonták a Nikon Small World in Motion pályázatának első díját.",
+        "A győztes videón szereplő sejtek és csillók rendellenes módon tűntek fel és el.",
+        "A szervezők bejelentették a verseny szabályzatának és értékelési folyamatának felülvizsgálatát."
+      ],
+      "content": "Megfosztották első helyezésétől a Nikon Small World in Motion verseny idei győztesét, miután független kutatók gépi generálásra utaló jeleket fedeztek fel a videóban. A megmérettetésen nem csupán esztétikus alkotásokat keresnek, hanem a tudományos megfigyelés és a vizuális kifejezésmód hiteles ötvözetét várják az indulóktól.\n\nA győztes Dr. Ning Xu, a kínai Tsinghua Egyetem munkatársa volt, aki egy ritka légzőszervi betegségben, az úgynevezett elsődleges ciliáris diszkinéziában (PCD) szenvedő beteg légútjaiban mozgó csillókat mutatta be. Ezek a mikroszkopikus nyúlványok a valóságban a nyák és a belélegzett szennyeződések eltávolításáért felelősek, így működésük vizsgálata kiemelkedő orvosi jelentőséggel bír.\n\nA felvétel hitelességét azonban szakértők hamar kétségbe vonták: a sejtek szerkezetében olyan rendellenességek mutatkoztak, amelyek a sejtbiológiában nem fordulnak elő. A Floridai Egyetem egyik docense és a Leicesteri Egyetem PCD-diagnosztikával foglalkozó szakembere, Robert Hirst rámutatott, hogy a videón látható struktúrák a semmiből bukkannak fel, a csillók nem hasonlítanak a valódiakhoz,",
+      "content_format": "markdown",
+      "body": [
+        "Megfosztották első helyezésétől a Nikon Small World in Motion verseny idei győztesét, miután független kutatók gépi generálásra utaló jeleket fedeztek fel a videóban. A megmérettetésen nem csupán esztétikus alkotásokat keresnek, hanem a tudományos megfigyelés és a vizuális kifejezésmód hiteles ötvözetét várják az indulóktól.",
+        "A győztes Dr. Ning Xu, a kínai Tsinghua Egyetem munkatársa volt, aki egy ritka légzőszervi betegségben, az úgynevezett elsődleges ciliáris diszkinéziában (PCD) szenvedő beteg légútjaiban mozgó csillókat mutatta be. Ezek a mikroszkopikus nyúlványok a valóságban a nyák és a belélegzett szennyeződések eltávolításáért felelősek, így működésük vizsgálata kiemelkedő orvosi jelentőséggel bír.",
+        "A felvétel hitelességét azonban szakértők hamar kétségbe vonták: a sejtek szerkezetében olyan rendellenességek mutatkoztak, amelyek a sejtbiológiában nem fordulnak elő. A Floridai Egyetem egyik docense és a Leicesteri Egyetem PCD-diagnosztikával foglalkozó szakembere, Robert Hirst rámutatott, hogy a videón látható struktúrák a semmiből bukkannak fel, a csillók nem hasonlítanak a valódiakhoz,"
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg/1280px-Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Binocular compound microscope from 1914; Carl Zeiss (1816–88), Jena, Germany; materials: brass, metal, glass; owner: The Golub Collection, University of California, Berkeley. golubcollection.berkeley.",
+        "credit": "Chad Anderson, staff photographer for SFO Museum / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak",
+          "title": "Elvették a díjat a fotóstól, miután kiderült, hogy AI-t használt a fotópályázaton",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T15:02:54+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Húsz éve diagnosztizálom a PCD-t a csillók hullámformájának, hosszának, sejtméretének és alakjának vizsgálatával",
+        "who": "Robert Hirst, a Leicesteri Egyetem szakembere",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-17T16:27:46+02:00"
+      },
+      "hot_score": 5.57,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza/",
+      "seo": {
+        "meta_title": "Mesterséges intelligencia buktatta le a rangos mikroszkópfot",
+        "meta_description": "Visszavették a fődíjat egy rangos mikroszkópos pályázat győztesétől, miután kiderült, hogy a beküldött felvétel mesterséges intelligenciával generált részleteke",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg/1280px-Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "02b1cc4e0e01ffc0717ea18f0ae98ce86e8c9ed1f5faf37bdc79160917217b4d",
+      "pipeline_run_id": "39032691807",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T16:27:46+02:00",
+      "updated_at": "2026-10-17T16:27:46+02:00",
+      "published_at": "2026-10-17T16:27:46+02:00",
+      "expires_at": null
+    },
     {
       "id": "d15cd546-bbf8-5ebe-aed4-a0ba9e398fde",
       "slug": "2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jovo",
