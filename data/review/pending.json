@@ -17159,19 +17159,10 @@
         "title": 5,
         "image": -1,
         "sent_at": "2026-10-17T13:04:08+00:00",
-        "msg_ids": [
-          7241,
-          7242,
-          7243,
-          7244,
-          7245,
-          7246,
-          7247,
-          7254,
-          7289,
-          7290
-        ],
-        "control_id": 7291
+        "msg_ids": [],
+        "control_id": 7291,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
