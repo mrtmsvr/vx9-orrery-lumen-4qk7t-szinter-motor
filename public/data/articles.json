@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-17T17:27:56+02:00",
+  "updated_at": "2026-10-17T17:47:53+02:00",
   "articles": [
+    {
+      "id": "a1f9247f-7d7c-5abe-b204-17a6149cad1f",
+      "slug": "2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-tengernel",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Vörös-tenger",
+        "migráció",
+        "Dzsibuti",
+        "Etiópia",
+        "Jemen"
+      ],
+      "title": "Háromszáz emberrel borult fel egy menekülthajó a Vörös-tengernél",
+      "subtitle": null,
+      "lead": "Több mint háromszáz menekülttel a fedélzetén borult fel egy hajó Dzsibuti partjainál, a Vörös-tenger közelében; a katasztrófát mintegy nyolcvanan élték túl. A térségben fegyveres konfliktusok és gazdasági nehézségek elől menekülnek az emberek, miközben Eritrea és Etiópia ismét a háború szélén áll.",
+      "key_points": [
+        "Több mint háromszáz ember tartózkodott a Dzsibutiból induló, a jemeni partokat célzó hajón.",
+        "A tragédiát mintegy nyolcvanan élték túl, az áldozatok között gyermekek is vannak.",
+        "Etiópia és Eritrea határán ismét fokozódik a fegyveres konfliktus veszélye."
+      ],
+      "content": "Több mint háromszáz menekülttel a fedélzetén borult fel egy hajó Dzsibuti partjainál, nem messze a Vörös-tengert az Ádeni-öböltől elválasztó Báb el-Mandeb szorostól. Az ENSZ Nemzetközi Menekültügyi Szervezetének tájékoztatása szerint a péntekre virradóra történt tragédiát mintegy nyolcvanan élték túl, a halottak között gyermekek is találhatók, míg a baleset pontos oka egyelőre ismeretlen.\n\nA szerencsétlenül járt vízi jármű Dzsibutiból indult útnak, hogy elérje a polgárháború sújtotta jemeni partokat. A tengerszoros térségében jelenleg kétirányú migrációs forgalom tapasztalható, mivel a Jemenből érkezők mellett sokan Afrikából indulnak az Arab-félsziget felé a gazdagabb öbölbeli országokba tartva.\n\nA Keleti Útvonalnak nevezett migrációs folyosón Szudánból, Dél-Szudánból és Szomáliából is érkeznek emberek a különböző konfliktusok elől menekülve. Újabban a korábban két számjegyű gazdasági növekedéséről ismert Etiópiából is többen szöknek a belháború és a fegyveres szervezetek kényszersorozása elől.\n\nEtiópia és a tengerpartja miatt felértékelődött Eritrea eközben ismét a háború szélére sodródott, miközben a Kelet-Afrikában de facto államként működő Szomáliföld a nemzetközi függetlenség elismeréséért lobbizik. A helyi fegyveres csoportok és a Tigré tartomány lázadói által alkalmazott kényszersorozások tovább súlyosbítják a lakosság helyzetét.",
+      "content_format": "markdown",
+      "body": [
+        "Több mint háromszáz menekülttel a fedélzetén borult fel egy hajó Dzsibuti partjainál, nem messze a Vörös-tengert az Ádeni-öböltől elválasztó Báb el-Mandeb szorostól. Az ENSZ Nemzetközi Menekültügyi Szervezetének tájékoztatása szerint a péntekre virradóra történt tragédiát mintegy nyolcvanan élték túl, a halottak között gyermekek is találhatók, míg a baleset pontos oka egyelőre ismeretlen.",
+        "A szerencsétlenül járt vízi jármű Dzsibutiból indult útnak, hogy elérje a polgárháború sújtotta jemeni partokat. A tengerszoros térségében jelenleg kétirányú migrációs forgalom tapasztalható, mivel a Jemenből érkezők mellett sokan Afrikából indulnak az Arab-félsziget felé a gazdagabb öbölbeli országokba tartva.",
+        "A Keleti Útvonalnak nevezett migrációs folyosón Szudánból, Dél-Szudánból és Szomáliából is érkeznek emberek a különböző konfliktusok elől menekülve. Újabban a korábban két számjegyű gazdasági növekedéséről ismert Etiópiából is többen szöknek a belháború és a fegyveres szervezetek kényszersorozása elől.",
+        "Etiópia és a tengerpartja miatt felértékelődött Eritrea eközben ismét a háború szélére sodródott, miközben a Kelet-Afrikában de facto államként működő Szomáliföld a nemzetközi függetlenség elismeréséért lobbizik. A helyi fegyveres csoportok és a Tigré tartomány lázadói által alkalmazott kényszersorozások tovább súlyosbítják a lakosság helyzetét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 219,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Red_Sea_Sunrise_BWP.jpg/1280px-Red_Sea_Sunrise_BWP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 752,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Sunrise on the Red Sea in Egypt",
+        "credit": "Betty Wills (Atsme) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Red_Sea_Sunrise_BWP.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261017_hvg-etiopia-eritrea-jemen-szomalifold-szomalia-dzsibuti-irani-haboru-voros-tenger-adeni-obol-bab-el-mandeb-szoros",
+          "title": "Lángba borulhat a Vörös-tenger Jemennel szembeni oldalán fekvő afrikai térség is",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T15:02:54+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-17T17:47:53+02:00"
+      },
+      "hot_score": 5.46,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261017_hvg-etiopia-eritrea-jemen-szomalifold-szomalia-dzsibuti-irani-haboru-voros-tenger-adeni-obol-bab-el-mandeb-szoros"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-tengernel/",
+      "seo": {
+        "meta_title": "Háromszáz emberrel borult fel egy menekülthajó a Vörös-tenge",
+        "meta_description": "Több mint háromszáz menekülttel a fedélzetén borult fel egy hajó Dzsibuti partjainál, a Vörös-tenger közelében; a katasztrófát mintegy nyolcvanan élték túl. A t",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-tengernel/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Red_Sea_Sunrise_BWP.jpg/1280px-Red_Sea_Sunrise_BWP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "7e10e2462fa56bff5f5de8cfd591e6597a35caad9e68d09846b447d954795625",
+      "pipeline_run_id": "39032691807",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T17:47:53+02:00",
+      "updated_at": "2026-10-17T17:47:53+02:00",
+      "published_at": "2026-10-17T17:47:53+02:00",
+      "expires_at": null
+    },
     {
       "id": "3e2f93de-cf69-5fb2-9051-48ee45209464",
       "slug": "2026-10-17-trump-zsarolassal-vedekezne-az-ellene-keszulo-eljarasokkal-szemben",
