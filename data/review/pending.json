@@ -16400,7 +16400,7 @@
     {
       "id": "13f5a57e-95cc-5c52-beef-c59d2dca24e8",
       "slug": "2026-10-17-egy-evvel-elhalasztjak-az-ets2-t-az-eu-csucs-vitai-utan",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -16432,16 +16432,16 @@
       "word_count": 214,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_02.jpg/1280px-Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_04.jpg/1280px-Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 700,
+        "height": 799,
         "kind": "photo",
         "pos": "center",
         "alt": "Ilham Aliyev attended the Eastern Partnership Summit of the European Union in Brussels",
         "credit": "Press Service of the President of the Republic of Azerbaijan / Wikimedia Commons",
         "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_02.jpg",
-        "vision_score": 8.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_04.jpg",
+        "vision_score": 7.0
       },
       "inline_images": [],
       "sources": [
@@ -16551,7 +16551,7 @@
         "meta_title": "Egy évvel elhalasztják az ETS2-t az EU-csúcs vitái után",
         "meta_description": "Véget ért a kétnapos brüsszeli EU-csúcs, amelyet látványos viták kísértek a 2028–2034-es hétéves költségvetés megtárgyalása során. A megbeszéléseken sikerült el",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-17-egy-evvel-elhalasztjak-az-ets2-t-az-eu-csucs-vitai-utan/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_02.jpg/1280px-Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_04.jpg/1280px-Ilham_Aliyev_attended_the_Eastern_Partnership_Summit_of_the_European_Union_in_Brussels_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -16588,9 +16588,9 @@
       "dedupe_hash": "9452ff1a5a20857acdc1afcbdb3a075357d6c9d1ab0bae17efdb96f6548aca0e",
       "pipeline_run_id": "39019376486",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T11:22:56+02:00",
-      "updated_at": "2026-10-17T11:22:56+02:00",
-      "published_at": "2026-10-17T11:22:56+02:00",
+      "created_at": "2026-10-17T13:33:42+02:00",
+      "updated_at": "2026-10-17T13:33:42+02:00",
+      "published_at": "2026-10-17T13:33:42+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -16600,14 +16600,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-17T09:23:55+00:00",
-        "msg_ids": [
-          7165,
-          7166,
-          7167,
-          7168
-        ],
-        "control_id": 7169
-      }
+        "msg_ids": [],
+        "control_id": 7169,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "c38f14b5-1be5-5751-992d-503a6482dc2e",
