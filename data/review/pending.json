@@ -15825,13 +15825,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-17T06:26:33+00:00",
-        "msg_ids": [
-          7119,
-          7120,
-          7121
-        ],
-        "control_id": 7122
-      }
+        "msg_ids": [],
+        "control_id": 7122,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 11:06 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-17T11:06:07+02:00"
     },
     {
       "id": "fa010c5b-7c90-546b-b711-068cbe26f997",
