@@ -16439,15 +16439,26 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792221532-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792221532-1.jpg",
+          "url": "https://pixabay.com/get/g0dc1be616c3d2c3908100e72a1a88c9e67a956430d0055a8b6edc9177d0ca88e881e5b44757417aa504a334da6e6588a529c791206b0d80290c37fc6d4d05526_1280.jpg",
+          "width": 6000,
+          "height": 4000,
           "kind": "photo",
-          "alt": "Hal Melinda a közmédiát célozná meg",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "alt": "microphone, voice, sound, equipment, tool, performer, entertainment, microphone, microphone, microphone, microphone, microphone, voice, sound",
+          "credit": "spoiu23 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/microphone-voice-sound-equipment-5594702/",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://pixabay.com/get/g0d76620cac4f061d7d082de19f1e2bd49cf9210c1361ccae13397a86925a26d614de553484db0ee2e89eabf6f17a1d39ed08305889e5811187cfa942960e93b5_1280.jpg",
+          "width": 3208,
+          "height": 3168,
+          "kind": "photo",
+          "alt": "headphones, clapper, clapperboard, film, movie, video, cinema, equipment, production, studio, media, sound, video production, headphones, film, film, movie, movie, video, video, video, video, video, c",
+          "credit": "OsloMetX / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/headphones-clapper-clapperboard-4223911/",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -16500,17 +16511,35 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-17T07:18:59+00:00",
         "msg_ids": [
           7145,
           7146,
           7147,
-          7149
+          7149,
+          7158,
+          7159,
+          7160
         ],
-        "control_id": 7148
+        "control_id": 7161
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Hal Melinda",
+        "Mi Hazánk Movement",
+        "Independent Media Board",
+        "Mathias Corvinus Collegium",
+        "National Mental Shield Program",
+        "Bayer Judit",
+        "media studio",
+        "psychology office",
+        "conference table"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792221532-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792221530-0.jpg"
+      ]
     },
     {
       "id": "00fa1c22-c242-5f0b-b45a-511220ecc599",
