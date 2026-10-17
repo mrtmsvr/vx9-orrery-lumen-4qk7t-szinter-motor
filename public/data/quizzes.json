@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-10-10T08:01:15+02:00",
+  "updated_at": "2026-10-17T08:23:38+02:00",
   "quizzes": [
+    {
+      "id": "225bb50b14",
+      "week": "2026-W42",
+      "date": "2026-10-17",
+      "title": "Heti hírvillantó: teszteld a memóriádat!",
+      "created_at": "2026-10-17T08:23:38+02:00",
+      "questions": [
+        {
+          "question": "Milyen feltétellel állítaná le Volodimir Zelenszkij az orosz olajfinomítók elleni dróntámadásokat?",
+          "options": [
+            "Ha új béketárgyalások indulnak Brüsszelben",
+            "Ha Oroszország teljesen kivonul Ukrajnából",
+            "Ha az EU eltörli a szankciókat",
+            "Ha Moszkva leállítja az energiainfrastruktúra bombázását"
+          ],
+          "correct": 3,
+          "explain": "Zelenszkij bejelentése szerint Ukrajna hajlandó leállítani az olajfinomítók elleni csapásokat, amennyiben Oroszország felhagy az ukrán energiainfrastruktúra támadásával.",
+          "article_url": "/vilag/2026-10-11-olajfinomitok-es-energiainfrastruktura-zelenszkij-tuzszunetet-ajanlot/",
+          "article_title": "Olajfinomítók és energiainfrastruktúra: Zelenszkij tűzszünetet ajánlott",
+          "category": "vilag"
+        },
+        {
+          "question": "Hány év kihagyás után tért vissza Pásztó élére Dömsödi Gábor?",
+          "options": [
+            "Négy év",
+            "Hat év",
+            "Nyolc év",
+            "Két év"
+          ],
+          "correct": 2,
+          "explain": "Dömsödi Gábor nyolc év után, 2014 és 2018 közötti polgármesterségét követően tért vissza a város élére a vasárnapi időközi választáson.",
+          "article_url": "/kozelet/2026-10-12-nyolc-ev-utan-visszater-paszto-elere-domsodi-gabor/",
+          "article_title": "Nyolc év után visszatér Pásztó élére Dömsödi Gábor",
+          "category": "kozelet"
+        },
+        {
+          "question": "Mekkora összegű Exim-ügyletek miatt tett feljelentést Kapitány István miniszter?",
+          "options": [
+            "110 milliárd forint",
+            "166 milliárd forint",
+            "56 milliárd forint",
+            "1300 milliárd forint"
+          ],
+          "correct": 1,
+          "explain": "Kapitány István két, összesen 166 milliárd forint értékű Exim-ügylet miatt tett feljelentést hűtlen kezelés és más bűncselekmények gyanújával.",
+          "article_url": "/kozelet/2026-10-10-ujabb-milliardos-exim-ugyek-miatt-tett-feljelentest-kapitany-istvan/",
+          "article_title": "Újabb milliárdos Exim-ügyek miatt tett feljelentést Kapitány István",
+          "category": "kozelet"
+        },
+        {
+          "question": "Mennyire emelkedhet a jelenlegi 28 500 forintos öregségi nyugdíjminimum a tervek szerint?",
+          "options": [
+            "Legalább 120 ezer forintra",
+            "Legalább 150 ezer forintra",
+            "Legalább 60 ezer forintra",
+            "Legalább 90 ezer forintra"
+          ],
+          "correct": 0,
+          "explain": "A jövő évi költségvetési tervekben a másfél évtizede változatlan 28 500 forintos nyugdíjminimum négyszeresére, legalább 120 ezer forintra emelése szerepel.",
+          "article_url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
+          "article_title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
+          "category": "penzvilag"
+        },
+        {
+          "question": "Hol fogták el a Donald Tusk lengyel kormányfő elleni merénylet gyanúsítottját?",
+          "options": [
+            "Alsó-Sziléziában",
+            "A német határon",
+            "Krakkóban",
+            "Varsóban"
+          ],
+          "correct": 0,
+          "explain": "A lengyel hatóságok gyors akcióval Alsó-Sziléziában kerítették kézre a miniszterelnök ellen készülő gyanúsítottat.",
+          "article_url": "/vilag/2026-10-11-gyalog-indult-a-hivatalaba-donald-tusk-miutan-halalos-merenyletet-ter/",
+          "article_title": "Gyalog indult a hivatalába Donald Tusk, miután halálos merényletet terveztek ellene",
+          "category": "vilag"
+        },
+        {
+          "question": "Mekkora adózott profit keletkezett 2023-ban Rákay Philip cégének rácalmási földügyletén?",
+          "options": [
+            "Több mint 10 milliárd forint",
+            "Több mint 1,4 milliárd forint",
+            "Több mint 500 millió forint",
+            "Több mint 50 milliárd forint"
+          ],
+          "correct": 1,
+          "explain": "A cég pénzügyi beszámolója alapján a rácalmási ipari terület továbbértékesítésén több mint 1,4 milliárd forintos adózott profit keletkezett.",
+          "article_url": "/kozelet/2026-10-10-milliardos-racalmasi-foldugylet-miatt-indult-nyomozas-rakay-philip-ce/",
+          "article_title": "Milliárdos rácalmási földügylet miatt indult nyomozás Rákay Philip cége ellen",
+          "category": "kozelet"
+        },
+        {
+          "question": "Milyen értékű kamatmentes uniós hitelkeret nyílt meg a magyar kkv-szektor számára?",
+          "options": [
+            "270 milliárd forint",
+            "1300 milliárd forint",
+            "110 milliárd forint",
+            "27 milliárd forint"
+          ],
+          "correct": 0,
+          "explain": "Összesen 270 milliárd forintnyi kamatmentes európai uniós hitelkeret vált elérhetővé a hazai kis- és középvállalkozások fejlesztéseihez.",
+          "article_url": "/penzvilag/2026-10-14-nullaszazalekos-hitellel-tamogatjak-a-hazai-vallalkozasokat/",
+          "article_title": "Nullaszázalékos hitellel támogatják a hazai vállalkozásokat",
+          "category": "penzvilag"
+        },
+        {
+          "question": "Miért tévedne a GPS naponta nagyjából 11 kilométert Albert Einstein elmélete nélkül?",
+          "options": [
+            "A műholdak fedélzeti óráinak relativisztikus eltérése miatt",
+            "A holdak gravitációs vonzása miatt",
+            "A légköri zavarok miatt",
+            "A Föld forgása miatt"
+          ],
+          "correct": 0,
+          "explain": "A relativitáselmélet hatásai miatt a műholdak órái eltérnek a földi óráktól, és ha ezt nem korrigálnák, a rendszer naponta 11 kilométert tévedne.",
+          "article_url": "/tech/2026-10-12-einstein-nelkul-a-gps-naponta-kilometereket-tevedne/",
+          "article_title": "Einstein nélkül a GPS naponta kilométereket tévedne",
+          "category": "tech"
+        }
+      ]
+    },
     {
       "id": "d7525f4f81",
       "week": "2026-W41",
