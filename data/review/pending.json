@@ -16723,19 +16723,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T13:03:53+00:00",
-        "msg_ids": [
-          7222,
-          7223,
-          7224,
-          7225,
-          7226,
-          7227,
-          7228,
-          7229,
-          7230,
-          7253
-        ],
-        "control_id": 7231
+        "msg_ids": [],
+        "control_id": 7231,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
