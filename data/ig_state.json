@@ -2563,11 +2563,12 @@
       "caption": "A bérlakásprogram igazsága: mi marad húsz év múlva?\n\nA bérlakásprogramok sikerét nemcsak az átadott lakások száma határozza meg, hanem az is, hogy mi történik a vagyonnal a beruházás lezárulta után. Egy friss szakmai elemzés szerint a pénzügyi konstrukciókat már a kezdetektől precízen kell megtervezni.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#bérlakás #lakásprogram #ingatlan #hírek #kollektíva",
       "created": "2026-10-17T15:13:24+02:00",
       "due": "2026-10-17T15:58:24+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7260,
         7261
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "3808f68fa8",
