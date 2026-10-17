@@ -15223,6 +15223,871 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "e1d11bff-3ce2-5181-8e00-7a8736c70c77",
+      "slug": "2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Franciaország",
+        "tüntetés",
+        "zavargások",
+        "megélhetési válság",
+        "Párizs"
+      ],
+      "title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
+      "subtitle": null,
+      "lead": "Több tucat embert vettek őrizetbe szombaton a francia nagyvárosokban kitört zavargásokon, ahol a megélhetési problémák és a közoktatás alulfinanszírozottsága miatt vonultak utcára a tüntetők. A megmozdulásokon fekete ruhás rendbontók is megjelentek, mire a hatóságok vízágyúkkal és könnygázzal válaszoltak.",
+      "key_points": [
+        "Országszerte több ezer ember vett részt a szombati köztéri demonstrációkon.",
+        "Párizsban, Lyonban, Marseille-ben és Rouenban is jelentettek gyújtogatásokat és rongálásokat.",
+        "A belügyminisztérium adatai szerint délig már több mint 150 embert vettek őrizetbe."
+      ],
+      "content": "Szombat reggel óta több francia nagyvárosban – egyebek mellett Párizsban, Lyonban, Marseille-ben, Rennes-ben, Toulouse-ban és Angers-ben – alakultak ki zavargások és összecsapások a tüntetők, valamint a rendfenntartók között. Az AFP hírügynökség jelentése szerint a belügyminisztérium délig 140 megmozdulást regisztrált, amelyeken összesen 32 800 ember vett részt.\n\nA demonstrációk hátterében a megélhetési problémák és az egykori sárgamellényes mozgalom által meghirdetett akciók állnak, amelyekhez a közoktatás alulfinanszírozottsága miatt egy hónapja tüntető középiskolások is csatlakoztak. A párizsi République téren fekete ruhás, úgynevezett black bloc csoportokba szerveződő anarchisták gyújtogattak, utcakövekkel dobálták a rendőröket, akik könnygázzal és vízágyúkkal oszlatták a tömeget.\n\nA vidéki helyszíneken is komoly károk keletkeztek: Lyonban a turisztikai hivatalba, Marseille-ben a városháza épületébe hatoltak be a zavargók, Rouenban pedig a bölcsészkar egyik épületében gyújtottak tüzet. Toulouse-ban a rendőrségnek sikerült megakadályoznia egy vonatblokádot, míg országszerte délig 166 embert vettek őrizetbe a hatóságok.\n\nA megmozdulások előtt Laurent Nunez belügyminiszter már jelezte, hogy jelentős eseményekre és spontán gyűlésekre számítanak.",
+      "content_format": "markdown",
+      "body": [
+        "Szombat reggel óta több francia nagyvárosban – egyebek mellett Párizsban, Lyonban, Marseille-ben, Rennes-ben, Toulouse-ban és Angers-ben – alakultak ki zavargások és összecsapások a tüntetők, valamint a rendfenntartók között. Az AFP hírügynökség jelentése szerint a belügyminisztérium délig 140 megmozdulást regisztrált, amelyeken összesen 32 800 ember vett részt.",
+        "A demonstrációk hátterében a megélhetési problémák és az egykori sárgamellényes mozgalom által meghirdetett akciók állnak, amelyekhez a közoktatás alulfinanszírozottsága miatt egy hónapja tüntető középiskolások is csatlakoztak. A párizsi République téren fekete ruhás, úgynevezett black bloc csoportokba szerveződő anarchisták gyújtogattak, utcakövekkel dobálták a rendőröket, akik könnygázzal és vízágyúkkal oszlatták a tömeget.",
+        "A vidéki helyszíneken is komoly károk keletkeztek: Lyonban a turisztikai hivatalba, Marseille-ben a városháza épületébe hatoltak be a zavargók, Rouenban pedig a bölcsészkar egyik épületében gyújtottak tüzet. Toulouse-ban a rendőrségnek sikerült megakadályoznia egy vonatblokádot, míg országszerte délig 166 embert vettek őrizetbe a hatóságok.",
+        "A megmozdulások előtt Laurent Nunez belügyminiszter már jelezte, hogy jelentős eseményekre és spontán gyűlésekre számítanak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg/1280px-Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 650,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A grey Citroën C5 of the french national parisian police.",
+        "credit": "Jebulon / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261017_tobb-nagyvarosban-is-osszecsaptak-a-francia-tuntetok-a-rendorseggel-kepek",
+          "title": "Több nagyvárosban is összecsaptak a francia tüntetők a rendőrséggel – képek",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:36+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.83,
+      "title_options": [
+        "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
+        "Tüntetések és összecsapások: lángra lobbantak a francia nagyvárosok",
+        "Füst és sárga mellények: ismét forr a hangulat Franciaországban",
+        "Ezért borult lángra Párizs és több francia nagyváros szombaton",
+        "Füstgránátok és vízágyúk: így csaptak össze a tüntetők a rendőrökkel",
+        "Megállíthatatlan a düh: letartóztatások és zavargások Franciaországban"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg/1280px-Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 650,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A grey Citroën C5 of the french national parisian police.",
+          "credit": "Jebulon / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Paris_75004_Rue_de_Lut%C3%A8ce_20170204_Pr%C3%A9fecture_de_Police.jpg/1280px-Paris_75004_Rue_de_Lut%C3%A8ce_20170204_Pr%C3%A9fecture_de_Police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Entrée nord de la Préfecture de Police, 1 rue de Lutèce, IVe arrondissement, Paris, France.",
+          "credit": "besopha / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Paris_75004_Rue_de_Lut%C3%A8ce_20170204_Pr%C3%A9fecture_de_Police.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iraq_war_protest_france_2002_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Protest in France against the Iraq war.",
+          "credit": "Kilobug / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Iraq_war_protest_france_2002_0957.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Iraq_war_protest_france_2002_0569.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Protest against the war in Iraq in France",
+          "credit": "Kilobug / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Iraq_war_protest_france_2002_0569.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Seminar_of_the_General_Directorate_of_the_National_Gendarmerie_%28cropped%29.jpg/1280px-Seminar_of_the_General_Directorate_of_the_National_Gendarmerie_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1542,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Séminaire de la Direction Générale de la Gendarmerie Nationale (en présence de Laurent Nunez, secrétaire dÉtat auprès du ministre de l’Intérieur)",
+          "credit": "Ecole polytechnique c/o: J.Barande / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Seminar_of_the_General_Directorate_of_the_National_Gendarmerie_(cropped).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Seminar_of_the_General_Directorate_of_the_National_Gendarmerie.jpg/1280px-Seminar_of_the_General_Directorate_of_the_National_Gendarmerie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Seminar of the General Directorate of the National Gendarmerie (in the presence of Laurent Nunez, Secretary of State to the Minister of the Interior).",
+          "credit": "J.Barande / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Seminar_of_the_General_Directorate_of_the_National_Gendarmerie.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g3e46b242a6066f4885b1d71feaf1ba5ccf9e24ab9747aeb8c1f68613fe1ed868166e8bcb5c311ac26ec74c0dee29ab300ba80d80acae1db9e8c773d3083da042_1280.jpg",
+          "width": 4512,
+          "height": 3000,
+          "kind": "photo",
+          "alt": "policewoman, police, police car, figure, fun, handcuffs, uniform, cap, police, police, police, police, police",
+          "credit": "Alexas_Fotos / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/policewoman-police-police-car-986047/"
+        },
+        {
+          "url": "https://pixabay.com/get/g13e6ee15ba02d4ed4044ff2d46db187abf4a2240155a7a74b66b2fa7b69cd09d5e4e267f617911ef66265ba2bbe4b73f8720b66195ada35ef4432e47e4c02ed8_1280.jpg",
+          "width": 2437,
+          "height": 1587,
+          "kind": "photo",
+          "alt": "accident, driver escape, police, offense, traffic, cut off, criminal, cop, figure, police officers, accident, accident, accident, accident, police, police, police, police, police",
+          "credit": "Alexas_Fotos / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/accident-driver-escape-police-1497298/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Több nagyvárosban is összecsaptak a francia tüntetők a rendőrséggel – képek",
+          "link": "https://hvg.hu/vilag/20261017_tobb-nagyvarosban-is-osszecsaptak-a-francia-tuntetok-a-rendorseggel-kepek",
+          "summary": "Több tucat embert őrizetbe vettek szombaton a francia nagyvárosokban kitört zavargásokon, az egykori sárgamellényes mozgalom által a megélhetési problémák miatti tiltakozásul meghirdetett köztéri demonstrációk kezdetén, miközben a közoktatás alulfinanszírozottsága miatt egy hónapja tüntető középiskolások is újból utcára vonultak.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.83
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261017_tobb-nagyvarosban-is-osszecsaptak-a-francia-tuntetok-a-rendorseggel-kepek"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult/",
+      "seo": {
+        "meta_title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
+        "meta_description": "Több tucat embert vettek őrizetbe szombaton a francia nagyvárosokban kitört zavargásokon, ahol a megélhetési problémák és a közoktatás alulfinanszírozottsága mi",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg/1280px-Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "624eb1978abc60911429e00f2f70f95aa8af5e35018ad78a960a237a0d1def82",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T20:58:36+02:00",
+      "updated_at": "2026-10-17T20:58:36+02:00",
+      "published_at": "2026-10-17T20:58:36+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 bűnügyi tartalom feltételes mód nélkül – „a gyanú szerint”, „nem jogerős”, ártatlanság vélelme"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-17T18:59:15+00:00",
+        "msg_ids": [
+          7336,
+          7337,
+          7338,
+          7339,
+          7340,
+          7341,
+          7342,
+          7343,
+          7344
+        ],
+        "control_id": 7345
+      }
+    },
+    {
+      "id": "973609c9-fb25-54d4-b3e1-d635c899fd3e",
+      "slug": "2026-10-17-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Starlink",
+        "Ukrajna",
+        "Oroszország",
+        "Elon Musk",
+        "drónháború"
+      ],
+      "title": "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat",
+      "subtitle": null,
+      "lead": "Előzetes jelzés nélkül jelentősen korlátozták az ukrán hadsereg által használt Starlink, illetve Starshield rendszerek hozzáférését, ami komoly nehézségeket okoz a frontvonalon. A technológiai akadályok éppen akkor léptek fel, amikor Oroszország súlyos rakétatámadásokat mért Kijevre és Harkivra.",
+      "key_points": [
+        "Kedden váratlanul korlátozták a Starlink katonai csomagjának hozzáférését az ukrán hadsereg számára.",
+        "A drónok sebességének korlátozásával Ukrajna nehezen tudja felvenni a harcot a gyorsabb orosz eszközökkel.",
+        "A hirtelen intézkedés mögött meghúzódó felelősség kérdésében ellentmondásos nyilatkozatok érkeztek a Fehér Házból és a SpaceX-től is."
+      ],
+      "content": "A héten minden előzetes jelzés nélkül jelentősen korlátozták a Starlink, valamint annak katonai csomagja, a Starshield hozzáférését az ukrán hadsereg számára. Kedd éjjel megszakadt az ukrán drónok műholdas kapcsolata, amikor 160 kilométer per órás sebesség fölé gyorsultak, de már 110–120 kilométer per órás sebesség mellett is 10–20 másodpercre elvesztették a jelet. A hvg.hu beszámolója szerint a korlátozást Ukrajna néhány órával azután észlelte, hogy Oroszország hétfő éjjel ballisztikus rakétákkal csapást mért Harkivra és Kijevre, civil áldozatokat is maga után vonva.\n\nAz ukrán helyzetet tovább súlyosbította, hogy a támadásokra a korábbi gyakorlattal szemben nem figyelmeztettek előre a nyugati hírszerző szolgálatok. Az erősen megfogyatkozott elfogórakéta-készletek miatt Kijev a támadó orosz drónokat és rakétákat a saját eszközeivel próbálja leszedni, ám egy 160 kilométer per óra alá korlátozott sebességű robotrepülő nem tud mit kezdeni egy akár 500 kilométer per órával száguldó sugárhajtású Sahid drónnal.\n\nA korlátozások hátteréről hivatalos bejelentés nem érkezett, a felelősség kérdésében pedig eltérő információk láttak napvilágot. A SpaceX-et birtokló techmilliárdos, Elon Musk közösségi oldalán úgy fogalmazott, hogy a Starshield tulajdonosa a Pentagon, így annak korlátozásáról végső soron az amerikai elnök dönt.\n\nA kritikus kommunikációs és irányítási lehetőségek elvesztése – ahogy korábban megírtuk [vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/] – komoly zavarokat okozott a katonai műveletekben, amit az ukrán vezetés személyes árulásként értékelt. A helyzetet tovább nehezíti, hogy az oroszok közben saját műholdas rendszerüket, a Rasszvetet is gőzerővel fejlesztik, amely 2027-re már alkalmas lehet katonai célú felhasználásra.",
+      "content_format": "markdown",
+      "body": [
+        "A héten minden előzetes jelzés nélkül jelentősen korlátozták a Starlink, valamint annak katonai csomagja, a Starshield hozzáférését az ukrán hadsereg számára. Kedd éjjel megszakadt az ukrán drónok műholdas kapcsolata, amikor 160 kilométer per órás sebesség fölé gyorsultak, de már 110–120 kilométer per órás sebesség mellett is 10–20 másodpercre elvesztették a jelet. A hvg.hu beszámolója szerint a korlátozást Ukrajna néhány órával azután észlelte, hogy Oroszország hétfő éjjel ballisztikus rakétákkal csapást mért Harkivra és Kijevre, civil áldozatokat is maga után vonva.",
+        "Az ukrán helyzetet tovább súlyosbította, hogy a támadásokra a korábbi gyakorlattal szemben nem figyelmeztettek előre a nyugati hírszerző szolgálatok. Az erősen megfogyatkozott elfogórakéta-készletek miatt Kijev a támadó orosz drónokat és rakétákat a saját eszközeivel próbálja leszedni, ám egy 160 kilométer per óra alá korlátozott sebességű robotrepülő nem tud mit kezdeni egy akár 500 kilométer per órával száguldó sugárhajtású Sahid drónnal.",
+        "A korlátozások hátteréről hivatalos bejelentés nem érkezett, a felelősség kérdésében pedig eltérő információk láttak napvilágot. A SpaceX-et birtokló techmilliárdos, Elon Musk közösségi oldalán úgy fogalmazott, hogy a Starshield tulajdonosa a Pentagon, így annak korlátozásáról végső soron az amerikai elnök dönt.",
+        "A kritikus kommunikációs és irányítási lehetőségek elvesztése – ahogy korábban megírtuk [vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/] – komoly zavarokat okozott a katonai műveletekben, amit az ukrán vezetés személyes árulásként értékelt. A helyzetet tovább nehezíti, hogy az oroszok közben saját műholdas rendszerüket, a Rasszvetet is gőzerővel fejlesztik, amely 2027-re már alkalmas lehet katonai célú felhasználásra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 282,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1584,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+        "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet",
+          "title": "Nemcsak a Starlink lecsavarása riasztó fejlemény Ukrajnának, hanem az is, hogy az oroszok közben gőzerővel fejlesztik a sajátjukat",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:38+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.56,
+      "title_options": [
+        "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat",
+        "Hirtelen lekapcsolta az ukrán drónokat Elon Musk cége",
+        "Elon Musk cége korlátozta az ukrán drónok műholdas kapcsolatát",
+        "Ezt a drasztikus lépést lépte meg Elon Musk cége az ukrán fronton",
+        "Megállíthatják a fronton az ukránokat a hirtelen jött technológiai korlátozások?",
+        "Rejtélyes okból vágták el az ukrán hadsereg műholdas kapcsolatát"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1584,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+          "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1280px-Elon_Musk_Royal_Society_%28crop2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1590,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Elon Musk is a technology entrepreneur, investor, and engineer.",
+          "credit": "Debbie Rowe / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/gcba0a37ede5d9aefc6155232f74b3adc2e1b50f9c6dc71648ff90dc7ad47801ab8201dd5ad24b248c4e285b52d46535032c58995a2f9cf35649343f10561131b_1280.jpg",
+          "width": 6011,
+          "height": 4008,
+          "kind": "photo",
+          "alt": "raisting satellite, reception, signal, ground station, earth station, telecommunication, parabolic mirrors, television reception, antenna, satellite dishes, satellite broadcasting, structure, fog, mis",
+          "credit": "mmisof / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/raisting-satellite-reception-signal-1010862/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Nemcsak a Starlink lecsavarása riasztó fejlemény Ukrajnának, hanem az is, hogy az oroszok közben gőzerővel fejlesztik a sajátjukat",
+          "link": "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet",
+          "summary": "A Rasszvetre keresztelt orosz műholdas rendszer erősen korlátozott időtartamban ugyan, de már most képes Ukrajna felett jelet küldeni, 2027-re pedig megugorhat ez a képessége, és már alkalmas lehet katonai célú felhasználásra.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.56
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat/",
+      "seo": {
+        "meta_title": "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat",
+        "meta_description": "Előzetes jelzés nélkül jelentősen korlátozták az ukrán hadsereg által használt Starlink, illetve Starshield rendszerek hozzáférését, ami komoly nehézségeket oko",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+        "412d5960-4268-5e08-9aae-9c6f7aeea40e",
+        "2da9c2df-1eb6-5788-84de-1cc60b97c3fe"
+      ],
+      "see_also": [
+        {
+          "title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+          "url": "/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Elon Musk cége korlátozta, majd részlegesen visszakapcsolta az ukrán Starlinket",
+          "url": "/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
+          "url": "/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+          "date": "2026-10-14"
+        }
+      ],
+      "thread_id": "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+      "dedupe_hash": "b1864417bfe5227bfe207c2aa82d5bc74b516b0f9418b7f377129f8209a44a63",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T20:58:38+02:00",
+      "updated_at": "2026-10-17T20:58:38+02:00",
+      "published_at": "2026-10-17T20:58:38+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-17T18:59:21+00:00",
+        "msg_ids": [
+          7346,
+          7347,
+          7348,
+          7349
+        ],
+        "control_id": 7350
+      }
+    },
+    {
+      "id": "2b37be4c-a1c4-5531-9da8-b868a6cb672f",
+      "slug": "2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Nvidia",
+        "videokártya",
+        "mesterséges intelligencia",
+        "hardver",
+        "tech"
+      ],
+      "title": "Búcsúzhatunk a piac legdurvább videokártyájától?",
+      "subtitle": null,
+      "lead": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, hogy a vállalat a nagyobb profitlehetőséget nyújtó adatközpontos chipek felé tereli a kapacitásait.",
+      "key_points": [
+        "Az Nvidia leállíthatja a GeForce RTX 5090 asztali grafikus kártya gyártását.",
+        "A gyártási kapacitásokat a mesterséges intelligenciához használt adatközpontos chipek felé csoportosíthatják át.",
+        "A helyettesítésére szánt RTX 5080 esetében még sok a nyitott kérdés a valós teljesítményt illetően."
+      ],
+      "content": "Ha mesterséges intelligencia, akkor Nvidia – a technológiai óriás jelenleg a világ legértékesebb vállalataként diktálja a tempót, de ennek most a gamerek láthatják kárát. A TechSpot beszámolója szerint ugyanis leállíthatják a csúcskategóriás, asztali számítógépekbe szánt GeForce RTX 5090 grafikus kártya gyártását, mivel a mesterséges intelligenciához kapcsolódó chipek elsőbbséget élveznek a játékra optimalizált hardverekkel szemben. Magyarán a cég sokkal több bevételre tehet szert az adatközpontokba szánt gyorsítókon.\n\nA GeForce RTX 5090 a Blackwell architektúrára épülő generáció csúcsmodellje, amely 2025 januárjában debütált a piacon. A hardver 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, így teljesítménye kiemelkedő a nagy felbontású játékok, a sugárkövetés és a professzionális grafikai terhelések mellett is. Ugyanez a GB202 jelzésű grafikus lapka azonban nemcsak a játékosok igényeit szolgálja ki, hanem professzionális számítási feladatokra is tökéletesen alkalmas, ami teljesen más profitlehetőségeket teremt a gyártó számára.\n\nTermészetesen szó van lehetséges helyettesítő termékekről is, mint például az új, 24 GB-os VRAM-mal szerelt RTX 5080, ám ennek képességei körül egyelőre sok a kérdőjel. A Tom’s Hardware értesülései szerint ez a modell válhatna a legerősebb gamerkártyává, miközben a jelenlegi 16 GB-os verzió eltűnne a kínálatból, de a nagyobb memória önmagában még nem garantálja az RTX 5090 szintű teljesítményt. A hivatalos bejelentés eddig elmaradt, a döntés hátterében pedig kizárólag az üzleti racionalitás áll: a vállalat ott csoportosítja át az erőforrásait, ahol a legnagyobb haszonnal tudja értékesíteni a technológiát.",
+      "content_format": "markdown",
+      "body": [
+        "Ha mesterséges intelligencia, akkor Nvidia – a technológiai óriás jelenleg a világ legértékesebb vállalataként diktálja a tempót, de ennek most a gamerek láthatják kárát. A TechSpot beszámolója szerint ugyanis leállíthatják a csúcskategóriás, asztali számítógépekbe szánt GeForce RTX 5090 grafikus kártya gyártását, mivel a mesterséges intelligenciához kapcsolódó chipek elsőbbséget élveznek a játékra optimalizált hardverekkel szemben. Magyarán a cég sokkal több bevételre tehet szert az adatközpontokba szánt gyorsítókon.",
+        "A GeForce RTX 5090 a Blackwell architektúrára épülő generáció csúcsmodellje, amely 2025 januárjában debütált a piacon. A hardver 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, így teljesítménye kiemelkedő a nagy felbontású játékok, a sugárkövetés és a professzionális grafikai terhelések mellett is. Ugyanez a GB202 jelzésű grafikus lapka azonban nemcsak a játékosok igényeit szolgálja ki, hanem professzionális számítási feladatokra is tökéletesen alkalmas, ami teljesen más profitlehetőségeket teremt a gyártó számára.",
+        "Természetesen szó van lehetséges helyettesítő termékekről is, mint például az új, 24 GB-os VRAM-mal szerelt RTX 5080, ám ennek képességei körül egyelőre sok a kérdőjel. A Tom’s Hardware értesülései szerint ez a modell válhatna a legerősebb gamerkártyává, miközben a jelenlegi 16 GB-os verzió eltűnne a kínálatból, de a nagyobb memória önmagában még nem garantálja az RTX 5090 szintű teljesítményt. A hivatalos bejelentés eddig elmaradt, a döntés hátterében pedig kizárólag az üzleti racionalitás áll: a vállalat ott csoportosítja át az erőforrásait, ahol a legnagyobb haszonnal tudja értékesíteni a technológiát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 263,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 718,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "NVIDIA GeForce 7300 LE graphics card",
+        "credit": "Joydeep / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_GeForce_7300_LE.JPG"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa",
+          "title": "Rossz hír: eltűnhet a boltokból az Nvidia GeForce RTX 5090",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:37+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.8,
+      "title_options": [
+        "Búcsúzhatunk a piac legdurvább videokártyájától?",
+        "Az Nvidia leállíthatja a GeForce RTX 5090 gyártását",
+        "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
+        "Megszűnhet a világ legbrutálisabb gamer kártyájának a gyártása?",
+        "Hatalmas fordulat: az MI miatt tüntethetik el a boltokból a csúcs-Nvidiát",
+        "Ezt a videokártyát keresi most mindenki, de hamarosan leállíthatják"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 718,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "NVIDIA GeForce 7300 LE graphics card",
+          "credit": "Joydeep / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_GeForce_7300_LE.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/1280px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 855,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "ASUS NVIDIA GeForce 210 silent graphics card with HDMI",
+          "credit": "Joydeep / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_%282160p_60fps_VP9-160kbit_Opus%29-00.00.18.325.png/1280px-%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_%282160p_60fps_VP9-160kbit_Opus%29-00.00.18.325.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Video about benchmarking with the Black Myth: Wukong benchmark tool with various graphics cards.",
+          "credit": "极客湾Geekerwan / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_(2160p_60fps_VP9-160kbit_Opus)-00.00.18.325.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sapphire-Radeon-HD-5570-Video-Card.jpg/1280px-Sapphire-Radeon-HD-5570-Video-Card.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A Sapphire-brand, Radeon HD 5570 video card for computer graphics.  Specs for the card are:\nInterface - PCI Express 2.1 x16\n Core Clock - 650MHz\n Memory - 1GB DDR3\n\n Capable of DirectX 11 and OpenGL 3",
+          "credit": "Evan-Amos / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sapphire-Radeon-HD-5570-Video-Card.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g3356bdca7b1dde5e865cd1921b784acfa3bf5e3278a12f3ceb27e52ebf8617b52649dcc8bdad42b5071b920ccd3546c0_1280.jpg",
+          "width": 3444,
+          "height": 2296,
+          "kind": "photo",
+          "alt": "keyboard, hardware, computer, computer keyboard, pc, technology, closeup, keys, type, keyboard, keyboard, keyboard, keyboard, keyboard, computer, computer, technology",
+          "credit": "geralt / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/keyboard-hardware-computer-70506/"
+        },
+        {
+          "url": "https://pixabay.com/get/ga24a8d2357a0c6ae8dd0a90ee89c0fbc74862ab3929b3d800fe3bdcfcf03359e5d8b6898cbad129b53beb1dfcc5521c1724579a7bc77928e72fc441913fec6dd_1280.jpg",
+          "width": 4429,
+          "height": 2953,
+          "kind": "photo",
+          "alt": "technology, keyboard, computing, illuminated, mac, blur, technology, technology, technology, technology, technology, keyboard, keyboard, keyboard",
+          "credit": "Pixies / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/technology-keyboard-computing-785742/"
+        },
+        {
+          "url": "https://live.staticflickr.com/3904/33466938116_c8a9d55e51_b.jpg",
+          "width": 1024,
+          "height": 683,
+          "kind": "photo",
+          "alt": "Bunia, Ituri Province, DR Congo : The MONUSCO Bangladeshi contingent conducted a training on computer hardware.",
+          "credit": "MONUSCO / flickr",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://www.flickr.com/photos/67163702@N07/33466938116"
+        },
+        {
+          "url": "https://live.staticflickr.com/4429/36883845876_c9527ab408_b.jpg",
+          "width": 1024,
+          "height": 683,
+          "kind": "photo",
+          "alt": "Firewall Schloss in Computer Hardware - sw - radial",
+          "credit": "Christoph Scholz / flickr",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://www.flickr.com/photos/140988606@N08/36883845876"
+        }
+      ],
+      "story": [
+        {
+          "title": "Rossz hír: eltűnhet a boltokból az Nvidia GeForce RTX 5090",
+          "link": "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa",
+          "summary": "Ha mesterséges intelligencia, akkor Nvidia – az összes kellemetlen következménnyel együtt. Az egyik ilyen, hogy az amerikai technológiai vállalat (amely nem mellesleg jelen pillanatban a világ legértékesebbje) leállíthatja csúcskategóriás, asztali számítógépekbe szánt grafikus kártyájának, az RTX 5090-nek a gyártását.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.8
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol/",
+      "seo": {
+        "meta_title": "Búcsúzhatunk a piac legdurvább videokártyájától?",
+        "meta_description": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, ho",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "50e99db6f4ff5ea4b5496117096988da721f53cac54faca91716f116fe1296b7",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T20:58:37+02:00",
+      "updated_at": "2026-10-17T20:58:37+02:00",
+      "published_at": "2026-10-17T20:58:37+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-17T18:59:28+00:00",
+        "msg_ids": [
+          7351,
+          7352,
+          7353,
+          7354,
+          7355,
+          7356,
+          7357,
+          7358,
+          7359
+        ],
+        "control_id": 7360
+      }
+    },
+    {
+      "id": "bed338b4-2256-50da-b628-2965953de81c",
+      "slug": "2026-10-17-az-apple-az-lg-vel-es-a-schneiderrel-kozosen-fejleszti-okosotthon-ren",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Apple",
+        "okosotthon",
+        "technológia",
+        "mesterséges intelligencia",
+        "IoT"
+      ],
+      "title": "Az Apple az LG-vel és a Schneiderrel közösen fejleszti okosotthon-rendszerét",
+      "subtitle": null,
+      "lead": "Az Apple az LG-vel és a Schneider Electric-kel összefogva mutatta be legújabb otthoni eszközeit, amelyek a Matter-szabványnak köszönhetően más gyártók rendszereivel is kompatibilisek. A kamerákat, termosztátokat és okoszárakat tartalmazó termékcsalád célja, hogy biztonságosabbá és automatizáltabbá tegye a mindennapi életet.",
+      "key_points": [
+        "A Matter-szabványnak köszönhetően az új eszközök nemcsak az Apple ökoszisztémájával használhatók.",
+        "A beltéri kamerák adatvédelmi okokból kikapcsolnak, amint a háztartás elsődleges tagja hazaérkezik.",
+        "Az eszközök internetkapcsolat nélkül, vészhelyzetben is megbízhatóan működnek."
+      ],
+      "content": "Az Apple a napokban jelentette be azokat az új okosotthon-kiegészítőket, amelyeket az LG-vel és a Schneider Electric-kel közösen dobott piacra. A széles termékpalettán okoskamerák, termosztátok és korszerű, elektronikus zárrendszerek egyaránt megtalálhatók. A technológiai alapokat a Thread-protokoll és a széles körben elfogadott Matter-szabvány biztosítja; utóbbi révén az eszközök könnyedén integrálhatók más gyártók okosotthon-rendszereibe is.\n\nA biztonsági funkciók tervezésekor a magánszféra védelme kapta a főszerepet. Az LG által gyártott beltéri kamerák például érzékelik, ha az otthon elsődleges felhasználója hazaérkezik, ilyenkor a felvétel automatikusan leáll. A kültéri egységek, mint például a kétlencsés Video Doorbell, gyenge fényviszonyok között is jól teljesítenek,\n\nAz új eszközök használatához szükség van egy okosotthon-központra, amely lehet egy HomePod hangszóró vagy egy Apple TV 4K. Bár a technológiai fejlesztések sokrétűek, a magyar felhasználóknak egyelőre türelemmel kell lenniük, mivel az eszközök jelenleg nem érhetők el a hazai kereskedelmi forgalomban.",
+      "content_format": "markdown",
+      "body": [
+        "Az Apple a napokban jelentette be azokat az új okosotthon-kiegészítőket, amelyeket az LG-vel és a Schneider Electric-kel közösen dobott piacra. A széles termékpalettán okoskamerák, termosztátok és korszerű, elektronikus zárrendszerek egyaránt megtalálhatók. A technológiai alapokat a Thread-protokoll és a széles körben elfogadott Matter-szabvány biztosítja; utóbbi révén az eszközök könnyedén integrálhatók más gyártók okosotthon-rendszereibe is.",
+        "A biztonsági funkciók tervezésekor a magánszféra védelme kapta a főszerepet. Az LG által gyártott beltéri kamerák például érzékelik, ha az otthon elsődleges felhasználója hazaérkezik, ilyenkor a felvétel automatikusan leáll. A kültéri egységek, mint például a kétlencsés Video Doorbell, gyenge fényviszonyok között is jól teljesítenek,",
+        "Az új eszközök használatához szükség van egy okosotthon-központra, amely lehet egy HomePod hangszóró vagy egy Apple TV 4K. Bár a technológiai fejlesztések sokrétűek, a magyar felhasználóknak egyelőre türelemmel kell lenniük, mivel az eszközök jelenleg nem érhetők el a hazai kereskedelmi forgalomban."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 187,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Apple_HomePod_mini.jpg/1280px-Apple_HomePod_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1218,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Apple HomePod mini",
+        "credit": "Arne Müseler / Wikimedia Commons",
+        "license": "CC BY-SA 3.0 de",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Apple_HomePod_mini.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat",
+          "title": "A nem leskelődő kamerától az érintés nélkül nyitható ajtózárig – mit tudnak az Apple új otthoni kütyüjei?",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:44+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.32,
+      "title_options": [
+        "Az Apple az LG-vel és a Schneiderrel közösen fejleszti okosotthon-rendszerét",
+        "Új Apple kiegészítők érkeznek az LG gyáraiból",
+        "Így teszi okosabbá otthonunkat az Apple és az LG",
+        "Kizárhat a lakásából a saját wifije? Ezt mondja az Apple",
+        "Kulcsok nélkül is kinyílik az ajtó az új Apple-kütyükkel",
+        "Mesterséges intelligencia figyeli a hőmérsékletet az új Apple-rendszerben"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Apple_HomePod_mini.jpg/1280px-Apple_HomePod_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1218,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Apple HomePod mini",
+          "credit": "Arne Müseler / Wikimedia Commons",
+          "license": "CC BY-SA 3.0 de",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_HomePod_mini.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/HomePod_in_Apple_Store_Nagoya_Sakae.jpg/1280px-HomePod_in_Apple_Store_Nagoya_Sakae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Apple Store名古屋栄に展示されていたHomePod。",
+          "credit": "KKPCW / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HomePod_in_Apple_Store_Nagoya_Sakae.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/X-10_smart_home_adapter.jpg/1280px-X-10_smart_home_adapter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 834,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Adaptador con el cuál podemos prender y apagar equipos remotamente desde Linux",
+          "credit": "phylevn / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:X-10_smart_home_adapter.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Haus_V_%28smart_home_in_Unterf%C3%B6hring%29_%E2%80%93_01.JPG/1280px-Haus_V_%28smart_home_in_Unterf%C3%B6hring%29_%E2%80%93_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 805,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Das \"Haus V\", ein Smart Home Ringstraße 5 a; Unterföhring;Architekt: Jakob Bader Architektur, München www.jakobbader.de",
+          "credit": "Monacoporter / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Haus_V_(smart_home_in_Unterf%C3%B6hring)_%E2%80%93_01.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Apple_TV_4K_%283rd_Generation%2C_2022%29_with_Siri_Remote.jpg/1280px-Apple_TV_4K_%283rd_Generation%2C_2022%29_with_Siri_Remote.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Apple TV 4K 3rd Generation with the Siri Remote, which released in 2022.",
+          "credit": "Dillan Payne / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_TV_4K_(3rd_Generation,_2022)_with_Siri_Remote.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Apple_TV_4K_%283rd_Generation%2C_2022%29_with_Siri_Remote_%28cropped%29.jpg/1280px-Apple_TV_4K_%283rd_Generation%2C_2022%29_with_Siri_Remote_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 672,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Apple TV 4K 3rd Generation with the Siri Remote, which released in 2022.",
+          "credit": "Dillan Payne / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_TV_4K_(3rd_Generation,_2022)_with_Siri_Remote_(cropped).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/LG-Electronics-Poland-investment-plant.jpg/1280px-LG-Electronics-Poland-investment-plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 552,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Biskupice Podgórne near Wrocław, Poland, investment plant of Korean LG factory of liquid crystal displays in central Europe.",
+          "credit": "Julo / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:LG-Electronics-Poland-investment-plant.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg/1280px-LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Looking west from Hudson Terrace in a passing bus",
+          "credit": "Jim.henderson / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "A nem leskelődő kamerától az érintés nélkül nyitható ajtózárig – mit tudnak az Apple új otthoni kütyüjei?",
+          "link": "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat",
+          "summary": "Egy sor okosotthon-eszközt mutatott be az Apple a napokban, ám van velük egy apró, mégis oly ismerős probléma: az elérhetőség.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.32
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-az-apple-az-lg-vel-es-a-schneiderrel-kozosen-fejleszti-okosotthon-ren/",
+      "seo": {
+        "meta_title": "Az Apple az LG-vel és a Schneiderrel közösen fejleszti okoso",
+        "meta_description": "Az Apple az LG-vel és a Schneider Electric-kel összefogva mutatta be legújabb otthoni eszközeit, amelyek a Matter-szabványnak köszönhetően más gyártók rendszere",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-az-apple-az-lg-vel-es-a-schneiderrel-kozosen-fejleszti-okosotthon-ren/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Apple_HomePod_mini.jpg/1280px-Apple_HomePod_mini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "845d6018516f1ab52df7a4b881d12c3730ee85bbb8b1a0db61e88458b9311832",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-17T20:58:44+02:00",
+      "updated_at": "2026-10-17T20:58:44+02:00",
+      "published_at": "2026-10-17T20:58:44+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-17T18:59:36+00:00",
+        "msg_ids": [
+          7361,
+          7362,
+          7363,
+          7364,
+          7365,
+          7366,
+          7367,
+          7368,
+          7369
+        ],
+        "control_id": 7370
+      }
     }
   ]
 }
