@@ -16794,12 +16794,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T05:01:34+00:00",
-        "msg_ids": [
-          7082,
-          7083,
-          7087
-        ],
-        "control_id": 7084
+        "msg_ids": [],
+        "control_id": 7084,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
