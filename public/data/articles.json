@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T10:16:35+02:00",
+  "updated_at": "2026-10-18T10:19:22+02:00",
   "articles": [
+    {
+      "id": "bc7cb629-3ffa-5922-bfe9-c11515e6da23",
+      "slug": "2026-10-18-a-melyalvas-edzi-a-testet-es-elesiti-az-agyat",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "alvás",
+        "tudomány",
+        "agy",
+        "anyagcsere"
+      ],
+      "title": "A mélyalvás edzi a testet és élesíti az agyat",
+      "subtitle": null,
+      "lead": "Amerikai kutatók feltárták azokat az agyi mechanizmusokat, amelyek révén a mélyalvás vezérli a növekedési hormonok áramlását. Az új eredmények magyarázatot adhatnak arra, miért károsítja a krónikus alváshiány az anyagcserét és az idegrendszert.",
+      "key_points": [
+        "A mélyalvás ideje alatt a szervezet növekedési hormont bocsát ki.",
+        "A hormontermelést szabályozó neuronokat azonosították a hipotalamuszban.",
+        "A folyamat az alvás és a hormonális egyensúly közötti kétirányú kapcsolatot mutatja."
+      ],
+      "content": "A pihentető éjszakai alvás sokkal többet tesz a szervezetért annál, minthogy egyszerűen elűzi a fáradtságot. A mély, úgynevezett nem-REM fázisban a test növekedési hormont szabadít fel, amely kulcsfontosságú az izomépítéshez, a csontozat erősítéséhez, valamint a zsír- és glükózanyagcsere szabályozásához. A gyermekkori fejlődés során ez a folyamat határozza meg a testmagasság alakulását, míg felnőttkorban a szövetek regenerációjában és fenntartásában kap szerepet.\n\nA Kaliforniai Egyetem (Berkeley) kutatóinak a Cell folyóiratban megjelent tanulmánya részletesen feltárta az e mögött álló agyi áramköröket. , hogy megértsék, miként egyensúlyozza ki az agy a fizikai regenerációt és az éberséget.\n\nA felfedezés szerint a kapcsolat oda-vissza működik: a mélyalvás serkenti a hormontermelést, a növekedési hormon pedig visszajelzéseket küld az agynak az ébredés időzítésének befolyásolására. , amely szoros összefüggésben áll az éberséggel és a figyelemmel.\n\nA krónikus alváshiány károsíthatja ezt a szabályozási folyamatot, ami összefügghet a cukorbetegséggel. A most megismert idegi áramkörök a jövőben új alapokat teremthetnek az alvászavarok, valamint az olyan metabolikus és neurológiai kórképek kezelésére, mint amilyen a Parkinson-kór.",
+      "content_format": "markdown",
+      "body": [
+        "A pihentető éjszakai alvás sokkal többet tesz a szervezetért annál, minthogy egyszerűen elűzi a fáradtságot. A mély, úgynevezett nem-REM fázisban a test növekedési hormont szabadít fel, amely kulcsfontosságú az izomépítéshez, a csontozat erősítéséhez, valamint a zsír- és glükózanyagcsere szabályozásához. A gyermekkori fejlődés során ez a folyamat határozza meg a testmagasság alakulását, míg felnőttkorban a szövetek regenerációjában és fenntartásában kap szerepet.",
+        "A Kaliforniai Egyetem (Berkeley) kutatóinak a Cell folyóiratban megjelent tanulmánya részletesen feltárta az e mögött álló agyi áramköröket. , hogy megértsék, miként egyensúlyozza ki az agy a fizikai regenerációt és az éberséget.",
+        "A felfedezés szerint a kapcsolat oda-vissza működik: a mélyalvás serkenti a hormontermelést, a növekedési hormon pedig visszajelzéseket küld az agynak az ébredés időzítésének befolyásolására. , amely szoros összefüggésben áll az éberséggel és a figyelemmel.",
+        "A krónikus alváshiány károsíthatja ezt a szabályozási folyamatot, ami összefügghet a cukorbetegséggel. A most megismert idegi áramkörök a jövőben új alapokat teremthetnek az alvászavarok, valamint az olyan metabolikus és neurológiai kórképek kezelésére, mint amilyen a Parkinson-kór."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 195,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Computed_tomography_of_human_brain_-_large.png/1280px-Computed_tomography_of_human_brain_-_large.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 856,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Computer tomography of human brain, from base of the skull to top. Taken with intravenous contrast medium.\nIt was taken Mars 23, 2007 on the uploader, after a 20 minute episode of homonymous hemianops",
+        "credit": "Department of Radiology, Uppsala University Hospital. Uploaded by Mikael Häggstr / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computed_tomography_of_human_brain_-_large.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+          "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:56+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T10:19:22+02:00"
+      },
+      "hot_score": 4.85,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261016081140.htm"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/eletmod/2026-10-18-a-melyalvas-edzi-a-testet-es-elesiti-az-agyat/",
+      "seo": {
+        "meta_title": "A mélyalvás edzi a testet és élesíti az agyat",
+        "meta_description": "Amerikai kutatók feltárták azokat az agyi mechanizmusokat, amelyek révén a mélyalvás vezérli a növekedési hormonok áramlását. Az új eredmények magyarázatot adha",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-18-a-melyalvas-edzi-a-testet-es-elesiti-az-agyat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Computed_tomography_of_human_brain_-_large.png/1280px-Computed_tomography_of_human_brain_-_large.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ccd28ec63475a880fecceff9700e2f3a417357898f55d829cadfaf9b192abcf8",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:19:22+02:00",
+      "updated_at": "2026-10-18T10:19:22+02:00",
+      "published_at": "2026-10-18T10:19:22+02:00",
+      "expires_at": null
+    },
     {
       "id": "057ba041-9954-5a7f-b44e-afa46f45a262",
       "slug": "2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet",
