@@ -14992,14 +14992,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-18T14:49:40+00:00",
-        "msg_ids": [
-          7787,
-          7788,
-          7789,
-          7790,
-          7792
-        ],
-        "control_id": 7791
+        "msg_ids": [],
+        "control_id": 7791,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
