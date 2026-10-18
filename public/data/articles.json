@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T19:43:48+02:00",
+  "updated_at": "2026-10-18T19:44:44+02:00",
   "articles": [
     {
       "id": "4aca97e7-a835-56cd-bb2a-24a8601e7d09",
@@ -1445,109 +1445,6 @@
       "created_at": "2026-10-18T16:00:04+02:00",
       "updated_at": "2026-10-18T16:00:04+02:00",
       "published_at": "2026-10-18T16:00:04+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "8cdec617-59f5-5ea2-be10-0c6afe1c7546",
-      "slug": "2026-10-18-milliokat-veszitett-a-capak-kozott-sztarja",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Tomán Szabina",
-        "Cápák között",
-        "üzlet",
-        "befektetés",
-        "bulvár"
-      ],
-      "title": "Milliókat veszített a Cápák között sztárja",
-      "subtitle": null,
-      "lead": "Négy évad után mínuszos egyenleggel zárta a Cápák között című üzleti realityben töltött időszakát Tomán Szabina üzletasszony. Saját tőkéjéből összesen harminc-harmincötmillió forintot veszített el a csődbe ment vállalkozásokon.",
-      "key_points": [
-        "Tomán Szabina négy évadon át volt a Cápák között befektetője.",
-        "A műsorért semmilyen fizetést nem kapott, saját félretett pénzét kockáztatta.",
-        "A rossz befektetések révén összesen mintegy 30-35 millió forintos kár érte."
-      ],
-      "content": "Tomán Szabina az Én és a pénz című podcastben beszélt arról, hogy bár a mai napig büszke a Cápák között című RTL-es üzleti realityben eltöltött éveire, pénzügyi szempontból komoly veszteségeket könyvelhetett el. A Toman Lifestyle Kft. alapító-tulajdonosa a közhiedelemmel ellentétben egy fillért sem kapott a televíziós szereplésért, hanem a saját maga által félretett, kifejezetten erre a célra létrehozott cégbe csoportosított tőkéjét kockáztatta.\n\nA kezdeti hetvenmillió forintos keretből végül körülbelül harminc-harmincötmillió forintot bukott el a vállalkozónő, mivel több olyan cég is csődbe ment, amelynek korábban bizalmat szavazott. Különösen sajnálta a csomagolásmentes bolthálózat kudarcát, amelyben őszintén hitt a társadalmi tudatosság jegyében, ám a vállalkozás végül nem maradt fenn a piacon.\n\nA negatív mérleg ellenére akadtak kifejezetten sikeres befektetései is a produkció keretében. Ilyen volt a Munch nevű vállalkozás, ahová kis összeggel szállt be, valamint a Cseppke hálózsákokat gyártó duó, amelyektől végül nagyon kedvező feltételekkel vásárolták ki.\n\nA veszteségeket az üzletasszony nem kudarcként, hanem értékes tanulópénzként értékeli, amelyből építkezni tud a jövőben. Úgy véli, búslakodás helyett a jövőbe kell tekinteni, és bízik abban, hogy a befektetett energia és tőke hamarosan megtérül.",
-      "content_format": "markdown",
-      "body": [
-        "Tomán Szabina az Én és a pénz című podcastben beszélt arról, hogy bár a mai napig büszke a Cápák között című RTL-es üzleti realityben eltöltött éveire, pénzügyi szempontból komoly veszteségeket könyvelhetett el. A Toman Lifestyle Kft. alapító-tulajdonosa a közhiedelemmel ellentétben egy fillért sem kapott a televíziós szereplésért, hanem a saját maga által félretett, kifejezetten erre a célra létrehozott cégbe csoportosított tőkéjét kockáztatta.",
-        "A kezdeti hetvenmillió forintos keretből végül körülbelül harminc-harmincötmillió forintot bukott el a vállalkozónő, mivel több olyan cég is csődbe ment, amelynek korábban bizalmat szavazott. Különösen sajnálta a csomagolásmentes bolthálózat kudarcát, amelyben őszintén hitt a társadalmi tudatosság jegyében, ám a vállalkozás végül nem maradt fenn a piacon.",
-        "A negatív mérleg ellenére akadtak kifejezetten sikeres befektetései is a produkció keretében. Ilyen volt a Munch nevű vállalkozás, ahová kis összeggel szállt be, valamint a Cseppke hálózsákokat gyártó duó, amelyektől végül nagyon kedvező feltételekkel vásárolták ki.",
-        "A veszteségeket az üzletasszony nem kudarcként, hanem értékes tanulópénzként értékeli, amelyből építkezni tud a jövőben. Úgy véli, búslakodás helyett a jövőbe kell tekinteni, és bízik abban, hogy a befektetett energia és tőke hamarosan megtérül."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 210,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RTL_Hungary_Headquarters_May_2026.jpg/1280px-RTL_Hungary_Headquarters_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Headquarters of the Hungarian television station RTL in Budapest.",
-        "credit": "MysticalEel07 / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:RTL_Hungary_Headquarters_May_2026.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/toman-szabina-capak-kozott-veszteseg-bukas/e6y2mp4",
-          "title": "Tomán Szabina elárulta: ennyi milliót bukott a Cápák között befektetésein",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-18T15:58:55+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Én a műsorért egy forintot sem kaptam, ingyen mentem, és a saját félretett pénzemet kockáztattam. Direkt csináltam erre egy céget, ahová beraktam x milliót, hogy azt merem kockáztatni. Összesen 70 millió forintot kockáztattam, és végül mínuszos lettem. Azt lehet mondani, hogy 30–35 milliót buktam",
-        "who": "Tomán Szabina üzletasszony",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-18T16:00:02+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/hazai-sztarok/toman-szabina-capak-kozott-veszteseg-bukas/e6y2mp4"
-        ]
-      },
-      "date": "2026-10-18",
-      "date_label": "október 18.",
-      "url": "/bulvar/2026-10-18-milliokat-veszitett-a-capak-kozott-sztarja/",
-      "seo": {
-        "meta_title": "Milliókat veszített a Cápák között sztárja",
-        "meta_description": "Négy évad után mínuszos egyenleggel zárta a Cápák között című üzleti realityben töltött időszakát Tomán Szabina üzletasszony. Saját tőkéjéből összesen harminc-h",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-18-milliokat-veszitett-a-capak-kozott-sztarja/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/RTL_Hungary_Headquarters_May_2026.jpg/1280px-RTL_Hungary_Headquarters_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "d0d31beb0a5c4dde8adce77954200fbd79e19dcac66b15353a4098f98390370d",
-      "pipeline_run_id": "39132542839",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-18T16:00:02+02:00",
-      "updated_at": "2026-10-18T16:00:02+02:00",
-      "published_at": "2026-10-18T16:00:02+02:00",
       "expires_at": null
     },
     {
