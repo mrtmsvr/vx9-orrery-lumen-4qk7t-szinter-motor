@@ -2807,11 +2807,12 @@
       "caption": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet\n\nA mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, hogy a vállalat a nagyobb profitlehetőséget nyújtó adatközpontos chipek felé tereli a kapacitásait.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#nvidia #videokártya #mesterségesintelligencia #hírek #kollektíva",
       "created": "2026-10-18T12:40:32+02:00",
       "due": "2026-10-18T13:25:32+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7579,
         7580
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "96834e1a35",
@@ -2907,6 +2908,22 @@
       "tg": [
         7795,
         7796
+      ]
+    },
+    {
+      "id": "8c8b40370d",
+      "art_id": "de791e10-b6cf-58da-93fa-749720ed6d7c",
+      "title": "Magyar Péter szerint Európa többsége szakítana a migrációs politikával",
+      "url": "/kozelet/2026-10-18-magyar-peter-szerint-europa-tobbsege-szakitana-a-migracios-politikava/",
+      "card": "public/img/ig/2026-10-18-magyar-peter-szerint-europa-tobbsege-szakitana-a-migracios-.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-18-magyar-peter-szerint-europa-tobbsege-szakitana-a-migracios-.jpg",
+      "caption": "Magyar Péter szerint Európa többsége szakítana a migrációs politikával\n\nA franciaországi erőszakos tüntetések hatására erősítette meg a kormány álláspontját Magyar Péter. Magyar Péter közölte, hogy a kormány a nemzetközi nyomás ellenére sem lazít a szigorú bevándorlási szabályokon.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#magyarpéter #franciaország #tüntetés #hírek #kollektíva",
+      "created": "2026-10-18T18:40:48+02:00",
+      "due": "2026-10-18T19:25:48+02:00",
+      "status": "queued",
+      "tg": [
+        7802,
+        7803
       ]
     }
   ],
