@@ -2085,6 +2085,69 @@ def build_quiz_page(public: Path) -> None:
                                         f"{SITE_URL}/kviz/", QUIZ_BODY), encoding="utf-8")
 
 
+FIXES_FILE = BASE_DIR / "data" / "article_fixes.b64"
+
+
+def apply_article_fixes(output_dir: Path) -> Optional[dict]:
+    """Egyszeri szerkesztői javítócsomag a kint lévő cikkekre: data/article_fixes.b64 (gzip + base64 JSON:
+    {"fixes": [{id, field: title|lead|kp|body, old, new}], "remove": [{id, why}]}). A robot a saját példányán
+    alkalmazza (nincs ütközés a párhuzamos mentésekkel), majd törli a fájlt."""
+    if not FIXES_FILE.exists():
+        return None
+    import base64
+    import gzip
+    try:
+        pack = json.loads(gzip.decompress(base64.b64decode(FIXES_FILE.read_text().strip())).decode("utf-8"))
+    except Exception as e:  # noqa: BLE001
+        log.warning("Javítócsomag olvasása sikertelen: %s", e)
+        FIXES_FILE.unlink()
+        return {"error": str(e)[:200]}
+    files = [output_dir / "articles.json", output_dir / "retro_articles.json"]
+    datas = [read_json(f, {"articles": []}) for f in files]
+    by_id = {a["id"]: a for d in datas for a in d.get("articles", [])}
+    done = missing = 0
+    for fx in pack.get("fixes", []):
+        a = by_id.get(fx.get("id"))
+        old, new, field = fx.get("old") or "", fx.get("new", ""), fx.get("field")
+        hit = False
+        if a and old and field in ("title", "lead") and old in (a.get(field) or ""):
+            a[field] = re.sub(r"\s{2,}", " ", a[field].replace(old, new, 1)).strip()
+            hit = True
+        elif a and old and field in ("kp", "body"):
+            key = "key_points" if field == "kp" else "body"
+            lst = list(a.get(key) or [])
+            for i, p in enumerate(lst):
+                if old in p:
+                    lst[i] = re.sub(r"[ \t]{2,}", " ", p.replace(old, new, 1)).strip()
+                    hit = True
+                    break
+            a[key] = [p for p in lst if p]
+        if not hit:
+            missing += 1
+            continue
+        done += 1
+        if isinstance(a.get("content"), str) and old in a["content"]:
+            a["content"] = a["content"].replace(old, new, 1)
+        seo = a.get("seo") or {}
+        for k in ("meta_title", "meta_description"):
+            if isinstance(seo.get(k), str) and old in seo[k]:
+                seo[k] = seo[k].replace(old, new, 1)
+        a["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    removed = []
+    for r in pack.get("remove", []):
+        a = by_id.get(r.get("id"))
+        if a and a.get("status") == "published":
+            a["status"] = "removed"
+            a["removed_reason"] = r.get("why", "szerkesztői átnézés")
+            removed.append(a.get("title", ""))
+    for f, d in zip(files, datas):
+        if f.exists():
+            write_json_atomic(f, d)
+    FIXES_FILE.unlink()
+    log.info("Javítócsomag: %d javítás, %d nem illeszkedett, %d cikk levéve", done, missing, len(removed))
+    return {"fixed": done, "missing": missing, "removed": removed}
+
+
 def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
     """A publikált cikkekből (retro + rovatok) statikus oldalakat, sitemapeket és RSS-t generál a public/ alá."""
     public = output_dir.parent  # public/data -> public
@@ -2673,7 +2736,8 @@ def send_pitches(review, cands: list, used_links: set, recent_kw: list) -> None:
     review.tg("sendMessage", {"chat_id": chat, "disable_web_page_preview": True,
                               "text": "📰 További forró témák (nem írtam meg őket). Ha kell valamelyik, nyomd meg a számát:\n\n"
                                       + "\n".join(lines),
-                              "reply_markup": {"inline_keyboard": [btns[k:k + 6] for k in range(0, len(btns), 6)]}})
+                              "reply_markup": {"inline_keyboard": [btns[k:k + 6] for k in range(0, len(btns), 6)]
+                                               + [[{"text": "✖️ Vége – lista bezárása", "callback_data": "pend|x"}]]}})
 
 
 def build_from_pitch(ai: "AIClient", pit: dict, tz: ZoneInfo, articles: list) -> Optional[dict]:
