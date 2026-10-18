@@ -13119,13 +13119,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-18T11:35:10+00:00",
-        "msg_ids": [
-          7661,
-          7662,
-          7663
-        ],
-        "control_id": 7664
-      }
+        "msg_ids": [],
+        "control_id": 7664,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:44 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-18T16:44:31+02:00"
     },
     {
       "id": "156147ee-9f3d-59b2-8e13-a5738b075ec6",
