@@ -12561,19 +12561,10 @@
         "title": 1,
         "image": 6,
         "sent_at": "2026-10-17T19:00:24+00:00",
-        "msg_ids": [
-          7414,
-          7415,
-          7416,
-          7417,
-          7418,
-          7419,
-          7420,
-          7421,
-          7422,
-          7426
-        ],
-        "control_id": 7423
+        "msg_ids": [],
+        "control_id": 7423,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
