@@ -1,7 +1,234 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T13:32:42+02:00",
+  "updated_at": "2026-10-18T13:34:50+02:00",
   "articles": [
+    {
+      "id": "2563f473-9541-5c65-af10-69a7f39ab0e5",
+      "slug": "2026-10-18-forsthoffer-agnes-kiegesziti-vagyonnyilatkozatat-csaladi-cegerdekelts",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Forsthoffer Ágnes",
+        "Országgyűlés",
+        "vagyonnyilatkozat",
+        "belpolitika"
+      ],
+      "title": "Forsthoffer Ágnes kiegészíti vagyonnyilatkozatát családi cégérdekeltsége miatt",
+      "subtitle": null,
+      "lead": "Forsthoffer Ágnes, az Országgyűlés elnöke kiegészítő tájékoztatást nyújt be a mentelmi bizottságnak családi vállalkozásának tulajdonosi hátteréről. A házelnök a vagyonnyilatkozatát ért kritikák hatására döntött az adatok pontosítása mellett.",
+      "key_points": [
+        "Az Országgyűlés elnöke elismerte, hogy családi vállalkozása nem szerepelt a vagyonnyilatkozatában.",
+        "Forsthoffer Ágnes kezdeményezi a vagyonnyilatkozati rendszer szabályainak felülvizsgálatát.",
+        "A házelnök továbbra is hitelesnek tartja korábbi vagyoni és jövedelmi adatait."
+      ],
+      "content": "Forsthoffer Ágnes, az Országgyűlés elnöke közösségi oldalán jelentette be, hogy kiegészítő tájékoztatást küld a mentelmi bizottság elnökének. A politikus lépése azokra a nyilvánosságra került cégadatokra reagál, amelyek szerint nem tüntette fel vagyonnyilatkozatában azt a családi vállalkozást, amelynek 2006 óta tulajdonosa.\n\nA 2026. május 9-i állapotot tükröző dokumentum kapcsán hozzátette, hogy a cégtől származó osztalékjövedelmeit hiánytalanul feltüntette, így eltitkolási szándékról szó sem lehet.\n\nAz ügy kapcsán Forsthoffer Ágnes bírálta a jelenlegi vagyonnyilatkozati rendszert, amelyet elavultnak és hiányosnak nevezett. Véleménye szerint a bevallási kötelezettségekre vonatkozó szabályok nem egyértelműek, ezért módosítási javaslatait eljuttatja a mentelmi bizottsághoz, hogy a jövőben pontosabb iránymutatás segítse a képviselőket.\n\nA politikus a vádakat visszautasítva leszögezte, hogy vagyonnyilatkozata célja a politikai tisztség kezdetekor fennállt vagyoni helyzet hiteles bemutatása, amelyet továbbra is pontosnak tart.",
+      "content_format": "markdown",
+      "body": [
+        "Forsthoffer Ágnes, az Országgyűlés elnöke közösségi oldalán jelentette be, hogy kiegészítő tájékoztatást küld a mentelmi bizottság elnökének. A politikus lépése azokra a nyilvánosságra került cégadatokra reagál, amelyek szerint nem tüntette fel vagyonnyilatkozatában azt a családi vállalkozást, amelynek 2006 óta tulajdonosa.",
+        "A 2026. május 9-i állapotot tükröző dokumentum kapcsán hozzátette, hogy a cégtől származó osztalékjövedelmeit hiánytalanul feltüntette, így eltitkolási szándékról szó sem lehet.",
+        "Az ügy kapcsán Forsthoffer Ágnes bírálta a jelenlegi vagyonnyilatkozati rendszert, amelyet elavultnak és hiányosnak nevezett. Véleménye szerint a bevallási kötelezettségekre vonatkozó szabályok nem egyértelműek, ezért módosítási javaslatait eljuttatja a mentelmi bizottsághoz, hogy a jövőben pontosabb iránymutatás segítse a képviselőket.",
+        "A politikus a vádakat visszautasítva leszögezte, hogy vagyonnyilatkozata célja a politikai tisztség kezdetekor fennállt vagyoni helyzet hiteles bemutatása, amelyet továbbra is pontosnak tart."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 153,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%C3%81gnes_Forsthoffer%2C_2026.jpg/1280px-%C3%81gnes_Forsthoffer%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Fot. Anna Strzyżak / Kancelaria Sejmu",
+        "credit": "Sejm_RP / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81gnes_Forsthoffer,_2026.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261018_forsthoffer-agnes-fenntartja-a-vagyonnyilatkozatat-de-benyujt-egy-kiegeszito-tajekoztatast-a-ceges-erdekeltsegerol",
+          "title": "Forsthoffer Ágnes fenntartja a vagyonnyilatkozatát, de benyújt egy „kiegészítő tájékoztatást” a céges érdekeltségéről",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T13:33:20+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Tekintettel, hogy a 28 százalékos tulajdonrészem értelmezésem szerint nem testesítette meg az Országgyűlésről szóló törvény vagyonnyilatkozati mellékletében szereplő kitételeket, ezért nem tüntettem fel.",
+        "who": "Forsthoffer Ágnes, az Országgyűlés elnöke",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T13:34:50+02:00"
+      },
+      "hot_score": 5.43,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261018_forsthoffer-agnes-fenntartja-a-vagyonnyilatkozatat-de-benyujt-egy-kiegeszito-tajekoztatast-a-ceges-erdekeltsegerol"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kozelet/2026-10-18-forsthoffer-agnes-kiegesziti-vagyonnyilatkozatat-csaladi-cegerdekelts/",
+      "seo": {
+        "meta_title": "Forsthoffer Ágnes kiegészíti vagyonnyilatkozatát családi cég",
+        "meta_description": "Forsthoffer Ágnes, az Országgyűlés elnöke kiegészítő tájékoztatást nyújt be a mentelmi bizottságnak családi vállalkozásának tulajdonosi hátteréről. A házelnök a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-forsthoffer-agnes-kiegesziti-vagyonnyilatkozatat-csaladi-cegerdekelts/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/%C3%81gnes_Forsthoffer%2C_2026.jpg/1280px-%C3%81gnes_Forsthoffer%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "864db0ab-e452-5b0d-954d-8a13c0d4f6fe"
+      ],
+      "see_also": [
+        {
+          "title": "Forsthoffer Ágnes válasza Németh Balázs parlamenti videóira",
+          "url": "/kozelet/2026-10-14-forsthoffer-agnes-valasza-nemeth-balazs-parlamenti-videoira/",
+          "date": "2026-10-14"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "d96771e5834e87fea76e798079951441d3ae92173f4543bae6655e751583dbf6",
+      "pipeline_run_id": "39122371765",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T13:34:50+02:00",
+      "updated_at": "2026-10-18T13:34:50+02:00",
+      "published_at": "2026-10-18T13:34:50+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "d1c96008-64cf-5cee-9449-6fcb016b2b68",
+      "slug": "2026-10-18-tarr-zoltan-lezarna-a-hataron-tuli-kozpenzosztogatas-korszakat",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Tarr Zoltán",
+        "nemzetpolitika",
+        "közpénz",
+        "Erdély",
+        "TISZA Párt"
+      ],
+      "title": "Tarr Zoltán lezárná a határon túli közpénzosztogatás korszakát",
+      "subtitle": null,
+      "lead": "Az erdélyi magyarságnak szánt állami források átvilágítását és a támogatási rendszer teljes átalakítását jelentette be Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter. A kormány célja a korábbi központosított modell felszámolása és a szakmai alapú pályáztatás bevezetése.",
+      "key_points": [
+        "Megszűnnek a zárt, egyedi döntések az állami támogatások odaítélésénél.",
+        "A kormány a párthűség helyett a szakmai tartalmat és a tisztességet helyezi előtérbe.",
+        "Tarr Zoltán szerint az erdélyi közösség nem szenvedhet kollektív hátrányt egyes szereplők visszaélései miatt."
+      ],
+      "content": "Tarr Zoltán erdélyi körútján hangsúlyozta, hogy az új kormányzati irányvonal szakít a korábbi, politikai lojalitásra épülő nemzetpolitikával. A miniszter világossá tette: a kabinet nem kíván egyetlen politikai szervezetet, például az RMDSZ-t kizárólagos partnerként kezelni, ehelyett szélesebb párbeszédre törekszik a helyi civil és társadalmi szereplőkkel.\n\nA támogatási rendszer átvilágítása különösen azokat az eseteket érinti, ahol a választási évek környékén szokatlan mértékben növekedtek az egyedi juttatások. A miniszter szerint nem politikai bosszú, hanem az átláthatóság megteremtése a cél, különbséget téve a közösségért dolgozó szervezetek és a politikai monopóliumot építők között.\n\nA reform egyik legfontosabb eleme a zárt, egyedi döntési mechanizmusok felszámolása és a nyílt, szakmai alapú pályázati rendszer bevezetése.\n\nTarr Zoltán ugyanakkor leszögezte, hogy a Tisza Párt nem kíván erdélyi pártként beavatkozni a helyi közéletbe, és nem másolná le a korábbi központosított irányítást. A kormányzat a szomszédos országokkal fenntartott hivatalos kapcsolatok erősítését tartja prioritásnak, a Magyar Péter látogatását célzó diplomáciai egyeztetéseket azonban a romániai kormányzati stabilitás eléréséig felfüggesztették.",
+      "content_format": "markdown",
+      "body": [
+        "Tarr Zoltán erdélyi körútján hangsúlyozta, hogy az új kormányzati irányvonal szakít a korábbi, politikai lojalitásra épülő nemzetpolitikával. A miniszter világossá tette: a kabinet nem kíván egyetlen politikai szervezetet, például az RMDSZ-t kizárólagos partnerként kezelni, ehelyett szélesebb párbeszédre törekszik a helyi civil és társadalmi szereplőkkel.",
+        "A támogatási rendszer átvilágítása különösen azokat az eseteket érinti, ahol a választási évek környékén szokatlan mértékben növekedtek az egyedi juttatások. A miniszter szerint nem politikai bosszú, hanem az átláthatóság megteremtése a cél, különbséget téve a közösségért dolgozó szervezetek és a politikai monopóliumot építők között.",
+        "A reform egyik legfontosabb eleme a zárt, egyedi döntési mechanizmusok felszámolása és a nyílt, szakmai alapú pályázati rendszer bevezetése.",
+        "Tarr Zoltán ugyanakkor leszögezte, hogy a Tisza Párt nem kíván erdélyi pártként beavatkozni a helyi közéletbe, és nem másolná le a korábbi központosított irányítást. A kormányzat a szomszédos országokkal fenntartott hivatalos kapcsolatok erősítését tartja prioritásnak, a Magyar Péter látogatását célzó diplomáciai egyeztetéseket azonban a romániai kormányzati stabilitás eléréséig felfüggesztették."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 194,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 960,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Montage of well-known Hungarian filmmakers and actors. From top left to bottom right: Zoltán Várkonyi, Zoltán Fábri, Miklós Jancsó, Károly Makk, Péter Bacsó, Márta Mészáros, István Szabó, Gábor Bódy,",
+        "credit": "See sources / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Famous_people_in_Hungarian_cinema.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261018_tarr-zoltan-biztos-hogy-annak-a-vilagnak-vege-van-ahol-a-dolgoknak-nincs-kovetkezmenyuk",
+          "title": "Tarr Zoltán: Biztos, hogy annak a világnak vége van, ahol a dolgoknak nincs következményük",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T13:33:21+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Biztos, hogy annak a világnak vége van, ahol a dolgoknak nincs következményük.",
+        "who": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T13:34:49+02:00"
+      },
+      "hot_score": 5.43,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261018_tarr-zoltan-biztos-hogy-annak-a-vilagnak-vege-van-ahol-a-dolgoknak-nincs-kovetkezmenyuk"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kozelet/2026-10-18-tarr-zoltan-lezarna-a-hataron-tuli-kozpenzosztogatas-korszakat/",
+      "seo": {
+        "meta_title": "Tarr Zoltán lezárná a határon túli közpénzosztogatás korszak",
+        "meta_description": "Az erdélyi magyarságnak szánt állami források átvilágítását és a támogatási rendszer teljes átalakítását jelentette be Tarr Zoltán társadalmi kapcsolatokért és ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-tarr-zoltan-lezarna-a-hataron-tuli-kozpenzosztogatas-korszakat/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Famous_people_in_Hungarian_cinema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "0ad99464-a324-5a02-8798-62cc877b602b",
+        "27d1e0d4-1cd4-5575-b0e8-9afa4a0f926d"
+      ],
+      "see_also": [
+        {
+          "title": "Átvilágítja a Nemzeti Művelődési Intézet szerződéseit Tarr Zoltán",
+          "url": "/kozelet/2026-10-16-atvilagitja-a-nemzeti-muvelodesi-intezet-szerzodeseit-tarr-zoltan/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Vége a függőségnek: Tarr Zoltán új irányt szab az állam és az egyházak viszonyának",
+          "url": "/kozelet/2026-10-15-atalakul-az-egyhazi-tamogatasok-rendszere-tarr-zoltan-ezt-igeri-a-jov/",
+          "date": "2026-10-15"
+        }
+      ],
+      "thread_id": "3cfc98c0-2244-5d82-b106-11eefe5c8532",
+      "dedupe_hash": "3d8acbeb5f273592c9146391dde7e62a2d902d5f9f3f29d42ce729c61605c201",
+      "pipeline_run_id": "39122371765",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T13:34:49+02:00",
+      "updated_at": "2026-10-18T13:34:49+02:00",
+      "published_at": "2026-10-18T13:34:49+02:00",
+      "expires_at": null
+    },
     {
       "id": "671f2938-944a-5c35-ac2f-3fb49c46b5a8",
       "slug": "2026-10-18-osztogatas-nelkul-egyensulyozna-a-tisza-kormany-uj-budzseje",
