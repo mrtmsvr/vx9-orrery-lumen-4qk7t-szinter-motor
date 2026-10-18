@@ -11616,13 +11616,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-18T13:59:45+00:00",
-        "msg_ids": [
-          7711,
-          7712,
-          7713
-        ],
-        "control_id": 7714
-      }
+        "msg_ids": [],
+        "control_id": 7714,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:22 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-18T20:22:54+02:00"
     },
     {
       "id": "82cd954a-2a58-5700-ae1f-2abb4a646324",
