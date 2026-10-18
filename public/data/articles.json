@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T20:03:20+02:00",
+  "updated_at": "2026-10-18T20:17:58+02:00",
   "articles": [
     {
       "id": "bf7f822f-644c-5bd8-9d8b-d8115c6e9950",
@@ -141,17 +141,7 @@
       "reading_time_min": 2,
       "word_count": 277,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792346460-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792346460-0.jpg",
-        "kind": "photo",
-        "alt": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a Fidesz tartalékairól beszélt",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -189,7 +179,7 @@
         "meta_title": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a ",
         "meta_description": "Orbán Viktor a lakitelki Digitális Polgári Kör táborában viccelődve említette az ellenállás eszközeit, amire Magyar Péter nyomban reagált. A volt kormányfő szer",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-orban-viktor-a-lakitelki-taborban-fegyveres-lazadasrol-es-a-fidesz-ta/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792346460-0.jpg",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -227,7 +217,7 @@
       "pipeline_run_id": "39151681228",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-18T20:01:19+02:00",
-      "updated_at": "2026-10-18T20:01:19+02:00",
+      "updated_at": "2026-10-18T20:17:58+02:00",
       "published_at": "2026-10-18T20:01:19+02:00",
       "expires_at": null
     },
