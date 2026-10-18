@@ -11066,14 +11066,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-17T18:59:21+00:00",
-        "msg_ids": [
-          7346,
-          7347,
-          7348,
-          7349
-        ],
-        "control_id": 7350
-      }
+        "msg_ids": [],
+        "control_id": 7350,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:36 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-18T10:36:35+02:00"
     },
     {
       "id": "057ba041-9954-5a7f-b44e-afa46f45a262",
