@@ -12736,15 +12736,16 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792346463-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792346463-1.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Fidesz_szekhaz_Szentkiralyi_18_Budapest_2010-03-15_IMG_0453-1000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
           "kind": "photo",
-          "alt": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a Fidesz tartalékairól beszélt",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "pos": "top",
+          "alt": "Fidesz-pártszékház (Budapest, VIII. ker., Szentkirályi utca 18.)",
+          "credit": "Misibacsi at Hungarian Wikipedia / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fidesz_szekhaz_Szentkiralyi_18_Budapest_2010-03-15_IMG_0453-1000.jpg",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -12819,17 +12820,33 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-18T18:01:18+00:00",
         "msg_ids": [
           7812,
           7813,
           7814,
-          7816
+          7816,
+          7819,
+          7820
         ],
-        "control_id": 7815
+        "control_id": 7821
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Viktor Orbán",
+        "Peter Magyar",
+        "Tisza Party",
+        "Fidesz",
+        "Digital Civil Circle camp",
+        "political rally",
+        "press conference",
+        "campground"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792346463-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792346460-0.jpg"
+      ]
     }
   ]
 }
