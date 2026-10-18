@@ -12637,13 +12637,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-18T17:59:44+00:00",
-        "msg_ids": [
-          7807,
-          7808,
-          7809,
-          7811
-        ],
-        "control_id": 7810
+        "msg_ids": [],
+        "control_id": 7810,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
