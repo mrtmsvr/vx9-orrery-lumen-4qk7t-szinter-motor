@@ -11826,17 +11826,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-18T13:59:54+00:00",
-        "msg_ids": [
-          7715,
-          7716,
-          7717,
-          7718,
-          7719,
-          7720,
-          7721,
-          7732
-        ],
-        "control_id": 7722
+        "msg_ids": [],
+        "control_id": 7722,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
