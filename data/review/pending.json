@@ -12477,17 +12477,12 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-18T14:00:18+00:00",
-        "msg_ids": [
-          7744,
-          7745,
-          7746,
-          7747,
-          7748,
-          7749,
-          7750
-        ],
-        "control_id": 7751
-      }
+        "msg_ids": [],
+        "control_id": 7751,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:02 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-18T20:02:54+02:00"
     },
     {
       "id": "4aca97e7-a835-56cd-bb2a-24a8601e7d09",
