@@ -12761,19 +12761,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-18T11:34:49+00:00",
-        "msg_ids": [
-          7640,
-          7641,
-          7642,
-          7643,
-          7644,
-          7645,
-          7646,
-          7647,
-          7648,
-          7651
-        ],
-        "control_id": 7649
+        "msg_ids": [],
+        "control_id": 7649,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
