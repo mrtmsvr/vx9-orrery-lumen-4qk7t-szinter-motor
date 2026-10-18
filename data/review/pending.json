@@ -11904,18 +11904,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T18:59:51+00:00",
-        "msg_ids": [
-          7377,
-          7378,
-          7379,
-          7380,
-          7381,
-          7382,
-          7383,
-          7384
-        ],
-        "control_id": 7385
-      }
+        "msg_ids": [],
+        "control_id": 7385,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:56 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-18T09:56:00+02:00"
     },
     {
       "id": "f6fd8782-97e8-5e13-8608-7b23cc70a29b",
