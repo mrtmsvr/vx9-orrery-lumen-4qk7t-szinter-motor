@@ -12038,17 +12038,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-18T14:00:02+00:00",
-        "msg_ids": [
-          7723,
-          7724,
-          7725,
-          7726,
-          7727,
-          7728,
-          7729,
-          7733
-        ],
-        "control_id": 7730
+        "msg_ids": [],
+        "control_id": 7730,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
