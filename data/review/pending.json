@@ -13149,6 +13149,1066 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "e19634e2-16d1-5857-bd34-f162f8d579e8",
+      "slug": "2026-10-18-mesterseges-intelligenciaval-es-okoszarakkal-tamad-az-apple-otthoni-f",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Apple",
+        "okosotthon",
+        "LG",
+        "mesterséges intelligencia",
+        "technológia"
+      ],
+      "title": "Mesterséges intelligenciával és okoszárakkal támad az Apple otthoni fronton",
+      "subtitle": null,
+      "lead": "Okoskijelzőt, kamerákat, okoszárakat és termosztátokat mutatott be az Apple az LG-vel és a Schneider Electric-kel közösen. Az új eszközök intelligens módon óvják a magánszférát, ám Magyarországon egyelőre nem lehet megvásárolni őket.",
+      "key_points": [
+        "Az Apple új okosotthon-eszközei az Apple Home mellett a nyílt Matter-szabványt is támogatják.",
+        "Az LG-vel közösen fejlesztett beltéri kamerák automatikusan leállnak vagy félreállnak, ha valaki hazaérkezik.",
+        "Az ultraszélessávú technológiával felszerelt okoszár automatikusan kinyitja az ajtót, ha érzékeli a közeledő felhasználót.",
+        "Az új eszközök egyelőre nem érhetők el a magyar piacon."
+      ],
+      "content": "A napokban egy sor új okosotthon-eszközt prezentált az Apple, amelyeket az LG-vel és a Schneider Electric-kel együttműködve dobott piacra a vállalat. A rendszer kamerákból, okoszárakból, valamint termosztátokból áll, és a HomeView okoskijelző mellett olyan központokkal működik együtt, mint egy HomePod hangszóró vagy egy 4K-s Apple TV.\n\nA kommunikáció a Thread nevű protokollon keresztül zajlik, valamennyi hardver pedig támogatja az Apple Home rendszert és a Matter-szabványt. Ez utóbbi azt jelenti, hogy a kiegészítők nem csupán az almás ökoszisztémával képesek együttműködni. Az okoszárakat ráadásul úgy tervezték, hogy alapfunkcióik helyben, internetkapcsolat nélkül is működjenek, így egy esetleges hálózatkimaradás miatt senki sem rekedhet kívül a lakásán.\n\nAz LG-vel közösen fejlesztett kamerák kifejezetten a magánszféra védelmére fókuszálnak a hagyományos otthonvédelmi funkciók mellett. A felhozatalban beltéri és kültéri eszközök is helyet kaptak, utóbbiak közé tartozik a Video Doorbell nevű, bejáratokhoz szánt kétkamerás csengő is, amely gyenge fényviszonyok között is értékelhető felvételt készít.\n\nA beltéri kamerák működése szigorúan igazodik a lakók jelenlétéhez: amikor egy ismerős személy hazatér, a látószög automatikusan megemelkedik, ha pedig a háztartás elsődleges tagja érkezik meg, a felvétel teljesen leáll. A Home alkalmazásban ezek a beállítások manuálisan is vezérelhetők, internetkapcsolat hiányában pedig a kamerák a saját belső tárhelyükre mentik a videókat.\n\nA HomeView-hoz és az új HomePodhoz hasonlóan azonban ezek a hardverek jelenleg nem szerepelnek a magyar kínálatban.",
+      "content_format": "markdown",
+      "body": [
+        "A napokban egy sor új okosotthon-eszközt prezentált az Apple, amelyeket az LG-vel és a Schneider Electric-kel együttműködve dobott piacra a vállalat. A rendszer kamerákból, okoszárakból, valamint termosztátokból áll, és a HomeView okoskijelző mellett olyan központokkal működik együtt, mint egy HomePod hangszóró vagy egy 4K-s Apple TV.",
+        "A kommunikáció a Thread nevű protokollon keresztül zajlik, valamennyi hardver pedig támogatja az Apple Home rendszert és a Matter-szabványt. Ez utóbbi azt jelenti, hogy a kiegészítők nem csupán az almás ökoszisztémával képesek együttműködni. Az okoszárakat ráadásul úgy tervezték, hogy alapfunkcióik helyben, internetkapcsolat nélkül is működjenek, így egy esetleges hálózatkimaradás miatt senki sem rekedhet kívül a lakásán.",
+        "Az LG-vel közösen fejlesztett kamerák kifejezetten a magánszféra védelmére fókuszálnak a hagyományos otthonvédelmi funkciók mellett. A felhozatalban beltéri és kültéri eszközök is helyet kaptak, utóbbiak közé tartozik a Video Doorbell nevű, bejáratokhoz szánt kétkamerás csengő is, amely gyenge fényviszonyok között is értékelhető felvételt készít.",
+        "A beltéri kamerák működése szigorúan igazodik a lakók jelenlétéhez: amikor egy ismerős személy hazatér, a látószög automatikusan megemelkedik, ha pedig a háztartás elsődleges tagja érkezik meg, a felvétel teljesen leáll. A Home alkalmazásban ezek a beállítások manuálisan is vezérelhetők, internetkapcsolat hiányában pedig a kamerák a saját belső tárhelyükre mentik a videókat.",
+        "A HomeView-hoz és az új HomePodhoz hasonlóan azonban ezek a hardverek jelenleg nem szerepelnek a magyar kínálatban."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 254,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Headquarters_in_Cupertino.jpg/1280px-Apple_Headquarters_in_Cupertino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 835,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Apple's headquarters at Infinite Loop in Cupertino, California, USA.",
+        "credit": "Joe Ravi (Shutterstock iStock Dreamstime) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Apple_Headquarters_in_Cupertino.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat",
+          "title": "A nem leskelődő kamerától az érintés nélkül nyitható ajtózárig – mit tudnak az Apple új otthoni kütyüjei?",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:54+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.32,
+      "title_options": [
+        "Mesterséges intelligenciával és okoszárakkal támad az Apple otthoni fronton",
+        "Az Apple új kütyüi mindent tudnak, csak épp hozzánk nem jutnak el",
+        "Otthonunkat védi az Apple és az LG friss okosrendszere",
+        "A kamera, ami teljesen kikapcsol, ha belépsz a szobába",
+        "Nem kell többé kulcs: ez a kütyü magától kinyitja neked az ajtót",
+        "Megérkeztek az Apple okosotthon-eszközei, de van velük egy óriási probléma"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Headquarters_in_Cupertino.jpg/1280px-Apple_Headquarters_in_Cupertino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 835,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Apple's headquarters at Infinite Loop in Cupertino, California, USA.",
+          "credit": "Joe Ravi (Shutterstock iStock Dreamstime) / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apple_Headquarters_in_Cupertino.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 801,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Aerial view of Apple Park, the corporate headquarters of Apple Inc., located in Cupertino, California. The roof is covered in solar panels with an output of 17 MWp, making it one of the biggest solar",
+          "credit": "Daniel L. Lu (user:dllu) / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/LG-Electronics-Poland-investment-plant.jpg/1280px-LG-Electronics-Poland-investment-plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 552,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Biskupice Podgórne near Wrocław, Poland, investment plant of Korean LG factory of liquid crystal displays in central Europe.",
+          "credit": "Julo / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:LG-Electronics-Poland-investment-plant.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg/1280px-LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Looking west from Hudson Terrace in a passing bus",
+          "credit": "Jim.henderson / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:LG_Electronics_111_Sylvan_Av_from_Hudson_Ter_jeh.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/X-10_smart_home_adapter.jpg/1280px-X-10_smart_home_adapter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 834,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Adaptador con el cuál podemos prender y apagar equipos remotamente desde Linux",
+          "credit": "phylevn / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:X-10_smart_home_adapter.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/TP-Link-Kasa-Amazon-Alexa-Zubeh%C3%B6r-Smart-Home-WLAN-Steckdose-HS110.4.jpg/1280px-TP-Link-Kasa-Amazon-Alexa-Zubeh%C3%B6r-Smart-Home-WLAN-Steckdose-HS110.4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1445,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Power plug with wifi for smart homes (\"HS110\") from TP-Link",
+          "credit": "www.digitalpush.net / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:TP-Link-Kasa-Amazon-Alexa-Zubeh%C3%B6r-Smart-Home-WLAN-Steckdose-HS110.4.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g55ca190ef7ed26630dcacdcb2c8c88774a8e6a50a34b0c9e905216a7688829829616ea2dd7036e573959b59ac09b537f6eba8d7c0e486d48c7c5ed6cbf87634b_1280.jpg",
+          "width": 5184,
+          "height": 3456,
+          "kind": "photo",
+          "alt": "alexa, echo, smart home, box, jukebox, echodot, amazon, computer, alexa, alexa, alexa, alexa, alexa",
+          "credit": "finnhart / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/alexa-echo-smart-home-box-jukebox-4758340/"
+        },
+        {
+          "url": "https://pixabay.com/get/g084512b4e06961098578c87ee5ce6c72ce83e434be2df1d0b0859601e85924add00c9ebc39c65ff44059ce486ccf0c560c250d7afb0138c5708cf1459739ed06_1280.jpg",
+          "width": 4009,
+          "height": 2651,
+          "kind": "photo",
+          "alt": "smart home, computer, internet, canvas, technology, connection, touch, hand, communication, network, screen, multimedia, information medium, networking, social network, structure, presentation, social",
+          "credit": "Pixaline / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/smart-home-computer-internet-canvas-3148026/"
+        }
+      ],
+      "story": [
+        {
+          "title": "A nem leskelődő kamerától az érintés nélkül nyitható ajtózárig – mit tudnak az Apple új otthoni kütyüjei?",
+          "link": "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat",
+          "summary": "Egy sor okosotthon-eszközt mutatott be az Apple a napokban, ám van velük egy apró, mégis oly ismerős probléma: az elérhetőség.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.32
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_apple-home-okosotthon-eszkozok-lg-schneider-electric-kamera-zar-termosztat"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/tech/2026-10-18-mesterseges-intelligenciaval-es-okoszarakkal-tamad-az-apple-otthoni-f/",
+      "seo": {
+        "meta_title": "Mesterséges intelligenciával és okoszárakkal támad az Apple ",
+        "meta_description": "Okoskijelzőt, kamerákat, okoszárakat és termosztátokat mutatott be az Apple az LG-vel és a Schneider Electric-kel közösen. Az új eszközök intelligens módon óvjá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-18-mesterseges-intelligenciaval-es-okoszarakkal-tamad-az-apple-otthoni-f/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Apple_Headquarters_in_Cupertino.jpg/1280px-Apple_Headquarters_in_Cupertino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "845d6018516f1ab52df7a4b881d12c3730ee85bbb8b1a0db61e88458b9311832",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:17:54+02:00",
+      "updated_at": "2026-10-18T10:17:54+02:00",
+      "published_at": "2026-10-18T10:17:54+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:18:25+00:00",
+        "msg_ids": [
+          7470,
+          7471,
+          7472,
+          7473,
+          7474,
+          7475,
+          7476,
+          7477,
+          7478
+        ],
+        "control_id": 7479
+      }
+    },
+    {
+      "id": "4b2e62a1-b78a-5e45-b6ed-00c02cd2fd2e",
+      "slug": "2026-10-18-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat-a-fronton",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Starlink",
+        "Ukrajna",
+        "Oroszország",
+        "SpaceX",
+        "drónok"
+      ],
+      "title": "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat a fronton",
+      "subtitle": null,
+      "lead": "Előzetes figyelmeztetés nélkül drasztikusan korlátozták a Starlink műholdas internetelérést az ukrán fegyveres erők számára, ami azonnal bénító hatással volt a harctéri drónműveletekre. A technológiai akadályok súlyos helyzetbe hozták Kijevet egy olyan időszakban, amikor az orosz erők intenzív rakétatámadásokat mérnek a nagyvárosokra.",
+      "key_points": [
+        "A héten minden előzetes jelzés nélkül korlátozták a Starlink katonai csomagjának, a Starshieldnek a hozzáférését az ukrán hadsereg számára.",
+        "A drónok sebességét és magasságát érintő korlátozások miatt az ukrán egységek komoly kommunikációs és irányítási hátrányba kerültek a fronton.",
+        "Moszkva közben saját műholdas rendszerén, a Rasszveten dolgozik, amely a tervek szerint 2027-re már alkalmas lehet katonai célú felhasználásra.",
+        "A Fehér Ház és a SpaceX közötti felelősségkérdés tisztázatlan maradt a korlátozás hátterében álló döntésről."
+      ],
+      "content": "Az ukrán hadsereg számára nélkülözhetetlen Starshield műholdas rendszer működése napokra akadozni kezdett, miután a SpaceX drasztikus korlátozásokat vezetett be a navigációhoz és kommunikációhoz elengedhetetlen szolgáltatásokban [ahogy korábban megírtuk](/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/). Kedden éjjel hirtelen megszakadt az ukrán drónok műholdas kapcsolata, amikor azok 160 kilométer per órás sebesség fölé gyorsultak, sőt már 110–120 kilométer per órás sebesség mellett is 10-20 másodpercekre elvesztették a jelet.\n\nEz a műszaki akadály azonnal megakasztotta a katonai bevetéseket [ahogy korábban megírtuk](/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/), mivel az erősen lecsökkent elfogórakéta-készletek miatt az ukrán védők saját drónjaikkal próbálják leszedni a támadó eszközöket. Egy 160 kilométer per óra alá korlátozott sebességű robotrepülő azonban képtelen felvenni a versenyt egy ötszáz kilométer per órával száguldó sugárhajtású Sahid drónnal.\n\nA hirtelen jött technológiai szigorítás közvetlenül azután lépett életbe, hogy Oroszország ballisztikus rakétákkal hajtott végre pusztító csapásokat Kijev és Harkiv ellen, ami polgári áldozatokat is követelt. Mivel a nyugati hírszerzés ezúttal nem figyelmeztetett előre a támadásokra, a kommunikációs hálózat szűkítése komoly stratégiai hátrányt okozott Kijevnek.\n\nHogy pontosan ki rendelte el a korlátozást, arról máig ellentmondásos információk láttak napvilágot. Elon Musk X-en közzétett bejegyzésében arra utalt, hogy a Starshield tulajdonosa a Pentagon, így a döntést az amerikai elnök hozhatta meg, míg fehér házi források az Axiosnak úgy nyilatkoztak, hogy a kormányzatnak nincs közvetlen kontrollja a SpaceX felett.\n\nEközben a háttérben az orosz fél gőzerővel fejleszti a Rasszvet nevű saját műholdas rendszerét. Bár ez a technológia jelenleg még erősen korlátozott időtartamban képes jelet küldeni Ukrajna felett, a szakértői becslések szerint 2027-re jelentősen megnőhet a kapacitása, így alkalmassá válhat a közvetlen katonai célú felhasználásra is.",
+      "content_format": "markdown",
+      "body": [
+        "Az ukrán hadsereg számára nélkülözhetetlen Starshield műholdas rendszer működése napokra akadozni kezdett, miután a SpaceX drasztikus korlátozásokat vezetett be a navigációhoz és kommunikációhoz elengedhetetlen szolgáltatásokban [ahogy korábban megírtuk](/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/). Kedden éjjel hirtelen megszakadt az ukrán drónok műholdas kapcsolata, amikor azok 160 kilométer per órás sebesség fölé gyorsultak, sőt már 110–120 kilométer per órás sebesség mellett is 10-20 másodpercekre elvesztették a jelet.",
+        "Ez a műszaki akadály azonnal megakasztotta a katonai bevetéseket [ahogy korábban megírtuk](/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/), mivel az erősen lecsökkent elfogórakéta-készletek miatt az ukrán védők saját drónjaikkal próbálják leszedni a támadó eszközöket. Egy 160 kilométer per óra alá korlátozott sebességű robotrepülő azonban képtelen felvenni a versenyt egy ötszáz kilométer per órával száguldó sugárhajtású Sahid drónnal.",
+        "A hirtelen jött technológiai szigorítás közvetlenül azután lépett életbe, hogy Oroszország ballisztikus rakétákkal hajtott végre pusztító csapásokat Kijev és Harkiv ellen, ami polgári áldozatokat is követelt. Mivel a nyugati hírszerzés ezúttal nem figyelmeztetett előre a támadásokra, a kommunikációs hálózat szűkítése komoly stratégiai hátrányt okozott Kijevnek.",
+        "Hogy pontosan ki rendelte el a korlátozást, arról máig ellentmondásos információk láttak napvilágot. Elon Musk X-en közzétett bejegyzésében arra utalt, hogy a Starshield tulajdonosa a Pentagon, így a döntést az amerikai elnök hozhatta meg, míg fehér házi források az Axiosnak úgy nyilatkoztak, hogy a kormányzatnak nincs közvetlen kontrollja a SpaceX felett.",
+        "Eközben a háttérben az orosz fél gőzerővel fejleszti a Rasszvet nevű saját műholdas rendszerét. Bár ez a technológia jelenleg még erősen korlátozott időtartamban képes jelet küldeni Ukrajna felett, a szakértői becslések szerint 2027-re jelentősen megnőhet a kapacitása, így alkalmassá válhat a közvetlen katonai célú felhasználásra is."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 325,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1584,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+        "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet",
+          "title": "Nemcsak a Starlink lecsavarása riasztó fejlemény Ukrajnának, hanem az is, hogy az oroszok közben gőzerővel fejlesztik a sajátjukat",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:50+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.56,
+      "title_options": [
+        "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat a fronton",
+        "A Starlink-korlátozás miatt bénult meg az ukrán drónvédelem",
+        "Titokzatos döntés akasztotta meg az ukrán katonai műveleteket",
+        "Megmagyarázhatatlan lépés: egyszerre vágta el az ukrán hadsereget a műholdas kapcsolattól Elon Musk cége",
+        "Minden előzetes jelzés nélkül érkezett a csapás: ezért nem tudnak védekezni az ukrán drónok",
+        "Ki rendelte el a drasztikus korlátozást a fronton? Olyan történt, ami teljesen átírhatja a harctéri viszonyokat"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1584,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "U.S. AIR FORCE ACADEMY, Colo. -- Tesla Inc. Chief Executive Officer Elon Musk speaks with Lt. Gen. Richard Clark, Superintendent of the U.S. Air Force Academy, during the Ira C. Eaker Distinguished Sp",
+          "credit": "U.S. Air Force / Trevor Cokley / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1280px-Elon_Musk_Royal_Society_%28crop2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1590,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Elon Musk is a technology entrepreneur, investor, and engineer.",
+          "credit": "Debbie Rowe / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/SpaceX_Starlink_6_over_Cervinia.jpg/1280px-SpaceX_Starlink_6_over_Cervinia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Satellites from the SpaceX Starlink 6 mission passing over Cervinia, Italy on the 24th of April 2020.\n\nPicture taken from Clemente Rivetti, cropped and enhanced by Gtoffoletto",
+          "credit": "Clemente Rivetti / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:SpaceX_Starlink_6_over_Cervinia.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Starlink_SpaceX_1584_satellites_72_Planes_22each.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1138,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "This graphic shows 1,584 Starlink satellites will be placed into 72 orbital planes of 22 satellites each, inclination 53°.",
+          "credit": "Lamid58 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Starlink_SpaceX_1584_satellites_72_Planes_22each.png"
+        },
+        {
+          "url": "https://pixabay.com/get/g9b845f3ff9e38aa6d15bfda74fa7a0b878ce05c73c4cffb982e0af4d7cb32fb3da8482f2f37454af9aac5a64203e999cca217770865effb5a99edd9ac12d2455_1280.jpg",
+          "width": 6011,
+          "height": 4008,
+          "kind": "photo",
+          "alt": "raisting satellite, reception, signal, ground station, earth station, telecommunication, parabolic mirrors, television reception, antenna, satellite dishes, satellite broadcasting, structure, fog, mis",
+          "credit": "mmisof / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/raisting-satellite-reception-signal-1010862/"
+        }
+      ],
+      "story": [
+        {
+          "title": "Nemcsak a Starlink lecsavarása riasztó fejlemény Ukrajnának, hanem az is, hogy az oroszok közben gőzerővel fejlesztik a sajátjukat",
+          "link": "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet",
+          "summary": "A Rasszvetre keresztelt orosz műholdas rendszer erősen korlátozott időtartamban ugyan, de már most képes Ukrajna felett jelet küldeni, 2027-re pedig megugorhat ez a képessége, és már alkalmas lehet katonai célú felhasználásra.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.56
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261017_starlink-starshield-muhold-ukrajna-oroszorszag-haboru-dronok-rasszvet"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/vilag/2026-10-18-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat-a-fronton/",
+      "seo": {
+        "meta_title": "Elon Musk cége hirtelen lekapcsolta az ukrán drónokat a fron",
+        "meta_description": "Előzetes figyelmeztetés nélkül drasztikusan korlátozták a Starlink műholdas internetelérést az ukrán fegyveres erők számára, ami azonnal bénító hatással volt a ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-18-elon-musk-cege-hirtelen-lekapcsolta-az-ukran-dronokat-a-fronton/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+        "412d5960-4268-5e08-9aae-9c6f7aeea40e",
+        "2da9c2df-1eb6-5788-84de-1cc60b97c3fe"
+      ],
+      "see_also": [
+        {
+          "title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+          "url": "/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Elon Musk cége korlátozta, majd részlegesen visszakapcsolta az ukrán Starlinket",
+          "url": "/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Starlink-korlátozások akasztották meg az ukrán katonai bevetéseket",
+          "url": "/vilag/2026-10-14-starlink-korlatozasok-akasztottak-meg-az-ukran-katonai-beveteseket/",
+          "date": "2026-10-14"
+        }
+      ],
+      "thread_id": "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+      "dedupe_hash": "b1864417bfe5227bfe207c2aa82d5bc74b516b0f9418b7f377129f8209a44a63",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:17:50+02:00",
+      "updated_at": "2026-10-18T10:17:50+02:00",
+      "published_at": "2026-10-18T10:17:50+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:18:32+00:00",
+        "msg_ids": [
+          7480,
+          7481,
+          7482,
+          7483,
+          7484,
+          7485
+        ],
+        "control_id": 7486
+      }
+    },
+    {
+      "id": "9f6db7c1-440c-5043-a6eb-1306fe856ec8",
+      "slug": "2026-10-18-az-ai-orulet-aldozata-lehet-a-legujabb-nvidia-videokartya",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Nvidia",
+        "videokártya",
+        "mesterséges intelligencia",
+        "hardver",
+        "Tech"
+      ],
+      "title": "Az AI-őrület áldozata lehet a legújabb Nvidia videokártya",
+      "subtitle": null,
+      "lead": "Az amerikai technológiai vállalat leállíthatja csúcskategóriás, asztali számítógépekbe szánt grafikus kártyájának, az RTX 5090-nek a gyártását. A drasztikus lépés mögött a mesterséges intelligenciával működő chipek iránti óriási kereslet és a nagyobb profit vágya áll.",
+      "key_points": [
+        "Az Nvidia leállíthatja a GeForce RTX 5090 asztali grafikus kártya gyártását.",
+        "A döntés hátterében az áll, hogy az adatközpontokba szánt AI-chipek sokkal jövedelmezőbbek a játékra optimalizált GPU-knál.",
+        "A Blackwell generációs csúcskártya helyett az új, 24 GB-os VRAM-mal szerelt RTX 5080 érkezhet alternatívaként."
+      ],
+      "content": "A mesterséges intelligencia fejlődése magával hozza a technológiai piac átrendeződését is, aminek most a PC-s játékosok láthatják kárát. A jelenleg a világ legértékesebb amerikai technológiai vállalataként tartott Nvidia készülőben lévő lépése alapjaiban forgathatja fel a csúcskategóriás hardverek piacát, mivel háttérbe szoríthatja a gamer videokártyákat a jövedelmezőbb adatközponti gyorsítók javára.\n\nA TechSpot portál értesülései szerint azért kerülhet veszélybe a GeForce RTX 5090 jövője, mert a lapkák gyártókapacitása korlátozott, a mesterséges intelligenciához tervezett egységek pedig sokkal több bevételt termelnek. A 2025 januárjában debütált, Blackwell generációs gamer modell 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, és kiemelkedő teljesítményt nyújt a sugárkövetés vagy a nagy felbontású játékok terén.\n\nA gyártás esetleges leállítása után a 24 GB-os VRAM-mal szerelt új RTX 5080 veheti át a helyet a kínálatban, bár a Tom’s Hardware által idézett források szerint ez a modell technikai paramétereiben kompromisszumot jelenthet. A GB202 jelzésű grafikus lapka ugyanis nem kizárólag játékra használható, hanem professzionális számítási feladatokra is alkalmas, ami miatt a vállalat számára üzletileg logikusabb lépés a profitábilisabb szegmensek felé terelni a kapacitásokat.\n\nBár a hivatalos bejelentés még várat magára, a kiszivárgott hírek rávilágítanak arra, hogy a piaci kereslet átrendeződése miként írhatja felül a hagyományos gamer hardverek elérhetőségét.",
+      "content_format": "markdown",
+      "body": [
+        "A mesterséges intelligencia fejlődése magával hozza a technológiai piac átrendeződését is, aminek most a PC-s játékosok láthatják kárát. A jelenleg a világ legértékesebb amerikai technológiai vállalataként tartott Nvidia készülőben lévő lépése alapjaiban forgathatja fel a csúcskategóriás hardverek piacát, mivel háttérbe szoríthatja a gamer videokártyákat a jövedelmezőbb adatközponti gyorsítók javára.",
+        "A TechSpot portál értesülései szerint azért kerülhet veszélybe a GeForce RTX 5090 jövője, mert a lapkák gyártókapacitása korlátozott, a mesterséges intelligenciához tervezett egységek pedig sokkal több bevételt termelnek. A 2025 januárjában debütált, Blackwell generációs gamer modell 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, és kiemelkedő teljesítményt nyújt a sugárkövetés vagy a nagy felbontású játékok terén.",
+        "A gyártás esetleges leállítása után a 24 GB-os VRAM-mal szerelt új RTX 5080 veheti át a helyet a kínálatban, bár a Tom’s Hardware által idézett források szerint ez a modell technikai paramétereiben kompromisszumot jelenthet. A GB202 jelzésű grafikus lapka ugyanis nem kizárólag játékra használható, hanem professzionális számítási feladatokra is alkalmas, ami miatt a vállalat számára üzletileg logikusabb lépés a profitábilisabb szegmensek felé terelni a kapacitásokat.",
+        "Bár a hivatalos bejelentés még várat magára, a kiszivárgott hírek rávilágítanak arra, hogy a piaci kereslet átrendeződése miként írhatja felül a hagyományos gamer hardverek elérhetőségét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 236,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/1280px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 855,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "ASUS NVIDIA GeForce 210 silent graphics card with HDMI",
+        "credit": "Joydeep / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa",
+          "title": "Rossz hír: eltűnhet a boltokból az Nvidia GeForce RTX 5090",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:49+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.8,
+      "title_options": [
+        "Az AI-őrület áldozata lehet a legújabb Nvidia videokártya",
+        "Gyártásleállítás árnyékolhatja be az RTX 5090 jövőjét",
+        "A profit égeti a GeForce RTX 5090 gyártását",
+        "Ezt a videokártyát keresheted majd hiába a boltokban",
+        "Felszívódhat a boltok polcairól az Nvidia csúcskategóriás hardvere",
+        "Gigantikus váltás jöhet az Nvidia gyáraiban a mesterséges intelligencia miatt"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/1280px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 855,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "ASUS NVIDIA GeForce 210 silent graphics card with HDMI",
+          "credit": "Joydeep / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_%282160p_60fps_VP9-160kbit_Opus%29-00.00.18.325.png/1280px-%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_%282160p_60fps_VP9-160kbit_Opus%29-00.00.18.325.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Video about benchmarking with the Black Myth: Wukong benchmark tool with various graphics cards.",
+          "credit": "极客湾Geekerwan / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E6%82%9F%E7%A9%BA%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%81%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%89%8D%E8%83%BD%E7%8E%A9%EF%BC%9F(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_(2160p_60fps_VP9-160kbit_Opus)-00.00.18.325.png"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sapphire-Radeon-HD-5570-Video-Card.jpg/1280px-Sapphire-Radeon-HD-5570-Video-Card.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A Sapphire-brand, Radeon HD 5570 video card for computer graphics.  Specs for the card are:\nInterface - PCI Express 2.1 x16\n Core Clock - 650MHz\n Memory - 1GB DDR3\n\n Capable of DirectX 11 and OpenGL 3",
+          "credit": "Evan-Amos / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Sapphire-Radeon-HD-5570-Video-Card.jpg"
+        },
+        {
+          "url": "https://live.staticflickr.com/3386/3277905392_954f208305_b.jpg",
+          "width": 1024,
+          "height": 582,
+          "kind": "photo",
+          "alt": "Stock Market Fortune Cookie",
+          "credit": "bransorem / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/13255740@N03/3277905392"
+        },
+        {
+          "url": "https://live.staticflickr.com/2799/4188736287_e74e4dc1ef_b.jpg",
+          "width": 1024,
+          "height": 819,
+          "kind": "photo",
+          "alt": "stock market",
+          "credit": "Dannels / flickr",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://www.flickr.com/photos/23286276@N02/4188736287"
+        }
+      ],
+      "story": [
+        {
+          "title": "Rossz hír: eltűnhet a boltokból az Nvidia GeForce RTX 5090",
+          "link": "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa",
+          "summary": "Ha mesterséges intelligencia, akkor Nvidia – az összes kellemetlen következménnyel együtt. Az egyik ilyen, hogy az amerikai technológiai vállalat (amely nem mellesleg jelen pillanatban a világ legértékesebbje) leállíthatja csúcskategóriás, asztali számítógépekbe szánt grafikus kártyájának, az RTX 5090-nek a gyártását.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.8
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/tech/2026-10-18-az-ai-orulet-aldozata-lehet-a-legujabb-nvidia-videokartya/",
+      "seo": {
+        "meta_title": "Az AI-őrület áldozata lehet a legújabb Nvidia videokártya",
+        "meta_description": "Az amerikai technológiai vállalat leállíthatja csúcskategóriás, asztali számítógépekbe szánt grafikus kártyájának, az RTX 5090-nek a gyártását. A drasztikus lép",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-18-az-ai-orulet-aldozata-lehet-a-legujabb-nvidia-videokartya/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG/1280px-ASUS_NVIDIA_GeForce_210_silent_graphics_card_with_HDMI.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "50e99db6f4ff5ea4b5496117096988da721f53cac54faca91716f116fe1296b7",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:17:49+02:00",
+      "updated_at": "2026-10-18T10:17:49+02:00",
+      "published_at": "2026-10-18T10:17:49+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:18:38+00:00",
+        "msg_ids": [
+          7487,
+          7488,
+          7489,
+          7490,
+          7491,
+          7492
+        ],
+        "control_id": 7493
+      }
+    },
+    {
+      "id": "bdd8d02e-429b-5318-a448-459f40978a1b",
+      "slug": "2026-10-18-antonio-banderas-es-nicolas-cage-is-bekoltozik-a-true-detective-uj-ev",
+      "status": "pending",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "True Detective",
+        "Antonio Banderas",
+        "Nicolas Cage",
+        "HBO",
+        "sorozat"
+      ],
+      "title": "Antonio Banderas és Nicolas Cage is beköltözik a True Detective új évadába",
+      "subtitle": null,
+      "lead": "Az HBO bejelentette, hogy a világhírű True Detective – A törvény nevében ötödik évadában Antonio Banderas és Nicolas Cage alakítja a főbb karaktereket. A Variety értesülései szerint a gyártás 2027-ben indul el Issa López vezetésével.",
+      "key_points": [
+        "Antonio Banderas és Nicolas Cage lesznek a True Detective ötödik évadának főszereplői.",
+        "A gyártási munkálatok 2027-ben kezdődnek az HBO gondozásában.",
+        "A sorozat írója, rendezője, valamint executive producere Issa López.",
+        "Banderas egy Rai García nevű karaktert alakít, míg Cage Henry Logan szerepét ölti magára."
+      ],
+      "content": "A közkedvelt misztikus nyomozós sorozat, a Nic Pizzolatto által megálmodott True Detective újabb fejezettel bővül. A Variety híradása nyomán kiderült, hogy a produkció ötödik évadának főszerepeit Nicolas Cage mellett Antonio Banderas vállalta el; utóbbi egy Rai García nevű karaktert, míg Cage Henry Logan szerepét ölti magára.\n\nA stáb élén Issa López áll, aki íróként, rendezőként és executive producerként is felügyeli a munkálatokat. Mellette olyan nevek biztosítják producerként a produkció hátterét, mint Daniel Zelman, Mari Jo Winkler, Kathleen McCaffrey, maga a két főszereplő, valamint Steve Golin, Richard Brown, Nic Pizzolatto, Cary Joji Fukunaga, Woody Harrelson és Matthew McConaughey.\n\nA széria korábbi évadai komoly kritikai és nézettségi sikereket tudhatnak magukénak. A sorozat eddig összesen 41 Emmy-jelölést érdemelt ki, és hat díjat nyert el. Emellett az HBO adatai szerint a negyedik évad volt a széria eddigi legnézettebb fejezete, amely összesen 12,7 millió nézőt vonzott a különböző platformokon.",
+      "content_format": "markdown",
+      "body": [
+        "A közkedvelt misztikus nyomozós sorozat, a Nic Pizzolatto által megálmodott True Detective újabb fejezettel bővül. A Variety híradása nyomán kiderült, hogy a produkció ötödik évadának főszerepeit Nicolas Cage mellett Antonio Banderas vállalta el; utóbbi egy Rai García nevű karaktert, míg Cage Henry Logan szerepét ölti magára.",
+        "A stáb élén Issa López áll, aki íróként, rendezőként és executive producerként is felügyeli a munkálatokat. Mellette olyan nevek biztosítják producerként a produkció hátterét, mint Daniel Zelman, Mari Jo Winkler, Kathleen McCaffrey, maga a két főszereplő, valamint Steve Golin, Richard Brown, Nic Pizzolatto, Cary Joji Fukunaga, Woody Harrelson és Matthew McConaughey.",
+        "A széria korábbi évadai komoly kritikai és nézettségi sikereket tudhatnak magukénak. A sorozat eddig összesen 41 Emmy-jelölést érdemelt ki, és hat díjat nyert el. Emellett az HBO adatai szerint a negyedik évad volt a széria eddigi legnézettebb fejezete, amely összesen 12,7 millió nézőt vonzott a különböző platformokon."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 181,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Antonio_Banderas_2020.jpg/1280px-Antonio_Banderas_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1840,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Antonio Banderas con su Goya a Mejor actor en la Gala de los Goya 2020",
+        "credit": "Pedro J Pacheco / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Antonio_Banderas_2020.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261017_true-detective-5-evad-antonio-banderas-nicolas-cage",
+          "title": "Sztárparádéval tér vissza a True Detective",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:55+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.13,
+      "title_options": [
+        "Antonio Banderas és Nicolas Cage is beköltözik a True Detective új évadába",
+        "Sztárparádéval érkezik a True Detective ötödik évada",
+        "Nicolas Cage és Antonio Banderas nyomoz majd a True Detective-ben",
+        "{'title': 'Nem fogod elhinni, ki lesz a True Detective új főszereplője', 'reason': 'Sztárnevek említése fokozza a kíváncsiságot'}",
+        "{'title': 'Ilyen sztárparádét még nem láttál a True Detective-ben', 'reason': 'A korábbi évadok sikerére és az új szereplőkre épít'}",
+        "{'title': 'Végre kiderült, kik nyomoznak majd a True Detective ötödik évadában', 'reason': 'Alapvető információt ígér a rajongóknak'}"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Antonio_Banderas_2020.jpg/1280px-Antonio_Banderas_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1840,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Antonio Banderas con su Goya a Mejor actor en la Gala de los Goya 2020",
+          "credit": "Pedro J Pacheco / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Antonio_Banderas_2020.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nicolas_Cage_at_TIFF_2022_%2852393471243%29.jpg/1280px-Nicolas_Cage_at_TIFF_2022_%2852393471243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "from &lt;a href=\"https://www.popularfitness.com\" rel=\"noreferrer nofollow\"&gt;www.popularfitness.com&lt;/a&gt; Nicolas Cage  at the Toronto International Film Festival - TIFF 2022 - for the movie Butc",
+          "credit": "Peter Kudlacz / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Cage_at_TIFF_2022_(52393471243).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nicolas_Cage_2011.jpg/1280px-Nicolas_Cage_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Nicolas Cage in 2011",
+          "credit": "Romain Brami / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Nicolas_Cage_2011.jpg"
+        },
+        {
+          "url": "https://pixabay.com/get/g596b5c2b360525b1e095f41ee05b8945e56e161393ce3d2c913c747d813d04fc9bd4afdfacc86b8aa81c26a85aec704c297eedd6aebbadeaaf7ff694a7584dd7_1280.jpg",
+          "width": 3113,
+          "height": 1909,
+          "kind": "photo",
+          "alt": "popeye village, malta, architecture, travel, tourism, scenery, village, color, landscape, nature, holiday, sea, adventure, anchor bay, summer, hill",
+          "credit": "Magdalenalena / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/popeye-village-malta-architecture-4158038/"
+        },
+        {
+          "url": "https://pixabay.com/get/g0fcece2f117ba985afe6be3b4d4aea127376ff8448a5180c256b636d541b63c5a052ede9e1f054be39d61a996696f626d3693dc3f55050d550b69a357ef0dc9a_1280.jpg",
+          "width": 3714,
+          "height": 2100,
+          "kind": "photo",
+          "alt": "projector, movie, coil, filmstrip, movie set, film projector, film, technology, strip, media, kleinbild film, analog, lens, entertainment, old film projector, 3d, rendering, projector, projector, proj",
+          "credit": "PIRO4D / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/projector-movie-coil-filmstrip-2955551/"
+        },
+        {
+          "url": "https://live.staticflickr.com/3466/3377259391_b7e8e01c48_b.jpg",
+          "width": 1024,
+          "height": 768,
+          "kind": "photo",
+          "alt": "A graffiti wall film set in Los Angeles",
+          "credit": "ricardodiaz11 / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/41652235@N00/3377259391"
+        },
+        {
+          "url": "https://live.staticflickr.com/4426/36203611460_717ac9c8b2_b.jpg",
+          "width": 1024,
+          "height": 654,
+          "kind": "photo",
+          "alt": "Rome Trastevere - May 2015 - Film Set Candid",
+          "credit": "Gareth1953 All Right Now / flickr",
+          "license": "CC BY 2.0",
+          "source_url": "https://www.flickr.com/photos/40837632@N05/36203611460"
+        }
+      ],
+      "story": [
+        {
+          "title": "Sztárparádéval tér vissza a True Detective",
+          "link": "https://hvg.hu/kultura/20261017_true-detective-5-evad-antonio-banderas-nicolas-cage",
+          "summary": "Antonio Banderas lesz az 5. évad egyik főszereplője.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.13
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261017_true-detective-5-evad-antonio-banderas-nicolas-cage"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kultura/2026-10-18-antonio-banderas-es-nicolas-cage-is-bekoltozik-a-true-detective-uj-ev/",
+      "seo": {
+        "meta_title": "Antonio Banderas és Nicolas Cage is beköltözik a True Detect",
+        "meta_description": "Az HBO bejelentette, hogy a világhírű True Detective – A törvény nevében ötödik évadában Antonio Banderas és Nicolas Cage alakítja a főbb karaktereket. A Variet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-18-antonio-banderas-es-nicolas-cage-is-bekoltozik-a-true-detective-uj-ev/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Antonio_Banderas_2020.jpg/1280px-Antonio_Banderas_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c932759c3675c58e7241ec026ada2a60c7e872c091ded87e462ad41f5f439616",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:17:55+02:00",
+      "updated_at": "2026-10-18T10:17:55+02:00",
+      "published_at": "2026-10-18T10:17:55+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:18:45+00:00",
+        "msg_ids": [
+          7494,
+          7495,
+          7496,
+          7497,
+          7498,
+          7499,
+          7500,
+          7501
+        ],
+        "control_id": 7502
+      }
+    },
+    {
+      "id": "36e29dd2-88aa-5c1c-baee-6057549087e4",
+      "slug": "2026-10-18-florence-pugh-sotet-lelku-hosnokent-eleszti-ujja-steinbeck-klasszikus",
+      "status": "pending",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Édentől keletre",
+        "Netflix",
+        "John Steinbeck",
+        "Florence Pugh",
+        "sorozatkritika"
+      ],
+      "title": "Florence Pugh sötét lelkű hősnőként éleszti újjá Steinbeck klasszikusát",
+      "subtitle": null,
+      "lead": "Fél évszázadot és egy egész kontinenst átölelő, grandiózus sorozatadaptációt készített John Steinbeck regényéből a Netflix. Az Édentől keletre új feldolgozása a családi kötelékek és a bibliai testvérviszályok mélyére ás.",
+      "key_points": [
+        "John Steinbeck Nobel-díjas regényéből készített hétrészes sorozatot a Netflix.",
+        "A történet a polgárháború utáni Connecticutból az első világháború utáni Kaliforniáig ível.",
+        "A sorozat forgatókönyvének súlypontja a Florence Pugh által alakított Cathy Ames karakterére tolódik.",
+        "Az alkotó Zoe Kazan, az 1955-ös filmváltozatot jegyző Elia Kazan unokája."
+      ],
+      "content": "Hajlamosak vagyunk a rosszra, vagy minden pusztán nevelés kérdése? Van-e valódi esélyünk kilépni a szüleink nyomdokaiból, vagy csupán vakon ismételjük a sorsukat? Ezen az örök érvényű dilemmán gondolkodik a nagy amerikai klasszikust feldolgozó új széria, az Édentől keletre.\n\nA Száz év magány sikere után a Netflix ismét egy monumentális irodalmi műhöz nyúlt, ezúttal a Nobel-díjas amerikai író, John Steinbeck regényét adaptálva. A cselekmény fél évszázadon és egy teljes kontinensen átívelve követi nyomon két generáció fiútestvéreinek felnövését, viszálykodását, valamint az életüket alapjaiban formáló titokzatos női karaktert. A polgárháború utáni Connecticutból kiindulva az első világháborúból épphogy felocsúdó Kaliforniáig jut el a narratíva, miközben a történelmi és társadalmi átalakulásokkal párhuzamosan Káin és Ábel bibliai története elevenedik meg a nemzedékeken át.\n\nAz új adaptációt a kamera mögött is erős családi kötelékek hálózzák be: a sorozat alkotója az a Zoe Kazan, aki az 1955-ös filmváltozatot rendező Elia Kazan unokája. Mivel az akkori filmklasszikus – amelyben James Dean alakította az egyik emlékezetes főszerepet – a regénynek csupán az utolsó negyedét dolgozta fel, a hétrészes formátum lehetőséget adott a teljes történet elmesélésére. A könyv ismerői szerint az új változat kifejezetten hű maradt az eredeti alapanyaghoz, ám a fókusz egyértelműen a női antihős felé mozdult el.\n\nEzek a gyermekkori sebek és személyiségvonások határozzák meg azt is, hogyan reagálnak a hirtelen a portájukra csöppenő nőre: Charles puskát fog rá, Adam pedig odaadóan ápolja. Cathy törékeny testalkata, nagy szeme és babaarcú megjelenése miatt a legtöbben képtelenek rosszat feltételezni róla, hiszen a szépségéhez reflexből társítják a jóságot, miközben ő egész eddigi életét erre a megtévesztésre alapozta.",
+      "content_format": "markdown",
+      "body": [
+        "Hajlamosak vagyunk a rosszra, vagy minden pusztán nevelés kérdése? Van-e valódi esélyünk kilépni a szüleink nyomdokaiból, vagy csupán vakon ismételjük a sorsukat? Ezen az örök érvényű dilemmán gondolkodik a nagy amerikai klasszikust feldolgozó új széria, az Édentől keletre.",
+        "A Száz év magány sikere után a Netflix ismét egy monumentális irodalmi műhöz nyúlt, ezúttal a Nobel-díjas amerikai író, John Steinbeck regényét adaptálva. A cselekmény fél évszázadon és egy teljes kontinensen átívelve követi nyomon két generáció fiútestvéreinek felnövését, viszálykodását, valamint az életüket alapjaiban formáló titokzatos női karaktert. A polgárháború utáni Connecticutból kiindulva az első világháborúból épphogy felocsúdó Kaliforniáig jut el a narratíva, miközben a történelmi és társadalmi átalakulásokkal párhuzamosan Káin és Ábel bibliai története elevenedik meg a nemzedékeken át.",
+        "Az új adaptációt a kamera mögött is erős családi kötelékek hálózzák be: a sorozat alkotója az a Zoe Kazan, aki az 1955-ös filmváltozatot rendező Elia Kazan unokája. Mivel az akkori filmklasszikus – amelyben James Dean alakította az egyik emlékezetes főszerepet – a regénynek csupán az utolsó negyedét dolgozta fel, a hétrészes formátum lehetőséget adott a teljes történet elmesélésére. A könyv ismerői szerint az új változat kifejezetten hű maradt az eredeti alapanyaghoz, ám a fókusz egyértelműen a női antihős felé mozdult el.",
+        "Ezek a gyermekkori sebek és személyiségvonások határozzák meg azt is, hogyan reagálnak a hirtelen a portájukra csöppenő nőre: Charles puskát fog rá, Adam pedig odaadóan ápolja. Cathy törékeny testalkata, nagy szeme és babaarcú megjelenése miatt a legtöbben képtelenek rosszat feltételezni róla, hiszen a szépségéhez reflexből társítják a jóságot, miközben ő egész eddigi életét erre a megtévesztésre alapozta."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 285,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Florence_Pugh_in_2019_%28cropped%29.jpg/1280px-Florence_Pugh_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1713,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Florence Pugh in 2019",
+        "credit": "https://www.flickr.com/photos/greg2600/ / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Florence_Pugh_in_2019_(cropped).jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/kultura/20261017_edentol-keletre-kritika-netflix-john-steinbeck",
+          "title": "Kitörhetünk-e a bűn körforgásából? – Édentől keletre-kritika",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:44+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.85,
+      "title_options": [
+        "Florence Pugh sötét lelkű hősnőként éleszti újjá Steinbeck klasszikusát",
+        "Florence Pugh és az Édentől keletre új, sötét sorozatváltozata",
+        "Steinbeck klasszikusa a Netflixen: megérkezett az Édentől keletre",
+        "A mai napig rejtély, miért vált minden bűn fészkévé ez a törékeny nő",
+        "Nem is sejtenéd, ki bújhat meg a legújabb nagyszabású irodalmi adaptáció hátterében",
+        "A drámai családregény, amely teljesen átírja mindazt, amit a szabad akaratról gondoltunk"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Florence_Pugh_in_2019_%28cropped%29.jpg/1280px-Florence_Pugh_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1713,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Florence Pugh in 2019",
+          "credit": "https://www.flickr.com/photos/greg2600/ / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Florence_Pugh_in_2019_(cropped).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/John_Steinbeck_1939_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1440,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Photograph of John Steinbeck",
+          "credit": "McFadden Publications, Inc.; no photographer credited; photo likely the work of  / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:John_Steinbeck_1939_(cropped).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/JohnSteinbeck.JPG/1280px-JohnSteinbeck.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1499,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "John Steinbeck and son John visit LBJ at the oval office in the White House.\nTo the left is 19 year-old John Steinbeck, IV with his father, John Steinbeck, III. The senior Steinbeck, a friend and some",
+          "credit": "White House photographer / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:JohnSteinbeck.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Elia_Kazan_NYWTS_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1705,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Elia Kazan, full-length portrait, standing before bookshelves at Brentano's book store  / World Journal Tribune photo by James Kavallines.",
+          "credit": "New York World-Telegram and the Sun staff photographer: Kavallines, James, photo / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elia_Kazan_NYWTS_(cropped).jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Elia_Kazan_NYWTS_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1519,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Elia Kazan, full-length portrait, standing before bookshelves at Brentano's book store  / World Journal Tribune photo by James Kavallines.",
+          "credit": "New York World-Telegram and the Sun staff photographer: Kavallines, James, photo / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Elia_Kazan_NYWTS_b.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_James_Dean_--_2012_--_4997.jpg/1280px-Los_Angeles_%28California%2C_USA%29%2C_Hollywood_Boulevard%2C_James_Dean_--_2012_--_4997.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 831,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Star “James Dean” at the Hollywood Boulevard in Los Angeles, California, USA",
+          "credit": "Dietmar Rabich / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Hollywood_Boulevard,_James_Dean_--_2012_--_4997.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/James_Dean_in_Rebel_Without_a_Cause.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1478,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Publicity still of James Dean for the film Rebel Without a Cause",
+          "credit": "In-house publicity still / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:James_Dean_in_Rebel_Without_a_Cause.jpg"
+        }
+      ],
+      "story": [
+        {
+          "title": "Kitörhetünk-e a bűn körforgásából? – Édentől keletre-kritika",
+          "link": "https://hvg.hu/kultura/20261017_edentol-keletre-kritika-netflix-john-steinbeck",
+          "summary": "Hajlamosak vagyunk-e a rosszra, vagy minden csak nevelés kérdése? Van tényleges lehetőségünk kilépni a szüleink nyomdokaiból, vagy bekötött szemmel is az ő útjukat járjuk? Minden eleve elrendeltetett vagy létezik szabad akarat? Ezekről a kérdésekről gondolkodik a nagy amerikai klasszikust feldolgozó új Netflix-sorozat, az Édentől keletre.",
+          "source": "hvg.hu",
+          "related": false,
+          "hot_score": 5.85
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/kultura/20261017_edentol-keletre-kritika-netflix-john-steinbeck"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kultura/2026-10-18-florence-pugh-sotet-lelku-hosnokent-eleszti-ujja-steinbeck-klasszikus/",
+      "seo": {
+        "meta_title": "Florence Pugh sötét lelkű hősnőként éleszti újjá Steinbeck k",
+        "meta_description": "Fél évszázadot és egy egész kontinenst átölelő, grandiózus sorozatadaptációt készített John Steinbeck regényéből a Netflix. Az Édentől keletre új feldolgozása a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-18-florence-pugh-sotet-lelku-hosnokent-eleszti-ujja-steinbeck-klasszikus/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Florence_Pugh_in_2019_%28cropped%29.jpg/1280px-Florence_Pugh_in_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "55dad865c53493edb672fdd1ceec1b4e45c8a722975235abd996901c99907208",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:17:44+02:00",
+      "updated_at": "2026-10-18T10:17:44+02:00",
+      "published_at": "2026-10-18T10:17:44+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:18:52+00:00",
+        "msg_ids": [
+          7503,
+          7504,
+          7505,
+          7506,
+          7507,
+          7508,
+          7509,
+          7510
+        ],
+        "control_id": 7511
+      }
     }
   ]
 }
