@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T16:04:38+02:00",
+  "updated_at": "2026-10-18T16:24:41+02:00",
   "articles": [
+    {
+      "id": "156147ee-9f3d-59b2-8e13-a5738b075ec6",
+      "slug": "2026-10-18-miert-marad-le-folyamatosan-az-eu-az-egyesult-allamok-mogott",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "gazdaság",
+        "termelékenység",
+        "munkaerőpiac",
+        "Európai Unió",
+        "Egyesült Államok"
+      ],
+      "title": "Miért marad le folyamatosan az EU az Egyesült Államok mögött?",
+      "subtitle": null,
+      "lead": "Európa gazdasági problémája nem az összeomlás, hanem a három évtizede tartó termelékenységi lemaradás az Egyesült Államokhoz képest. Egy globális szakértő szerint a válasz a munkaerőpiaci sajátosságokban rejlik.",
+      "key_points": [
+        "Három évtizedes termelékenységi lemaradásban van Európa az USA-val szemben.",
+        "A munkaerőpiaci rugalmasság hiánya gátolja a technológiai áttérést az EU-ban.",
+        "Az európai cégek sokkal korlátozottabban tudják a munkaerőt tőkével vagy technológiával helyettesíteni."
+      ],
+      "content": "Három évtizedes lemaradásban van az Európai Unió az Egyesült Államokhoz képest a termelékenység növekedése terén. Ez a folyamat nem a napokban kezdődött, és a hátterében olyan strukturális tényezők állnak, amelyek eddig elkerülték a kellő figyelmet.\n\nPhilipp Carlsson-Szlezak, a Boston Consulting Group globális vezető közgazdásza a Budapest Economic Forum 2026 konferenciát követően nyilatkozott erről a Portfoliónak. Kifejtette: amíg az európai munkaerőpiacok működéséről nem esik szó, addig a probléma kulcsfontosságú része rejtve marad.\n\nA szakértő diagnózisa szerint Európában a munkaerő tőkével való helyettesítésének lehetősége jóval korlátozottabb, mint a tengerentúlon. Bár a munkaerőpiacok nálunk is feszesek, a technológiai alapú termelékenységnövelés nem azonos feltételek mellett zajlik.\n\nA vállalatoknak ösztönzésre és valós lehetőségre lenne szükségük ahhoz, hogy a munkaerőigényes termelésről átálljanak a technológiát nagyobb mértékben alkalmazó folyamatokra. Ennek hiányában a gazdaság növekedési potenciálja korlátozott marad, miközben több kormánynál a költségvetési eszközökkel történő ösztönzés lehetősége is fokozatosan szűkül.",
+      "content_format": "markdown",
+      "body": [
+        "Három évtizedes lemaradásban van az Európai Unió az Egyesült Államokhoz képest a termelékenység növekedése terén. Ez a folyamat nem a napokban kezdődött, és a hátterében olyan strukturális tényezők állnak, amelyek eddig elkerülték a kellő figyelmet.",
+        "Philipp Carlsson-Szlezak, a Boston Consulting Group globális vezető közgazdásza a Budapest Economic Forum 2026 konferenciát követően nyilatkozott erről a Portfoliónak. Kifejtette: amíg az európai munkaerőpiacok működéséről nem esik szó, addig a probléma kulcsfontosságú része rejtve marad.",
+        "A szakértő diagnózisa szerint Európában a munkaerő tőkével való helyettesítésének lehetősége jóval korlátozottabb, mint a tengerentúlon. Bár a munkaerőpiacok nálunk is feszesek, a technológiai alapú termelékenységnövelés nem azonos feltételek mellett zajlik.",
+        "A vállalatoknak ösztönzésre és valós lehetőségre lenne szükségük ahhoz, hogy a munkaerőigényes termelésről átálljanak a technológiát nagyobb mértékben alkalmazó folyamatokra. Ennek hiányában a gazdaság növekedési potenciálja korlátozott marad, miközben több kormánynál a költségvetési eszközökkel történő ösztönzés lehetősége is fokozatosan szűkül."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 170,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/1280px-European_Stock_Market_concept_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "In this graphic, the words European Stock Market can be seen on a background of stock market data along with the European flag.",
+        "credit": "forextime.com / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:European_Stock_Market_concept_image.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/unios-forrasok/20261018/europa-inkabb-klub-mint-valodi-unio-egyetlen-donto-teruleten-mulhat-az-eu-gazdasagi-eletkepessege-870182",
+          "title": "Európa inkább klub, mint valódi unió – egyetlen döntő területen múlhat az EU gazdasági életképessége",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T14:23:12+02:00"
+        }
+      ],
+      "quote": {
+        "text": "A diagnózis az, hogy Európa lemaradásban van a termelékenység növekedése terén, és ez nem új keletű jelenség.",
+        "who": "Philipp Carlsson-Szlezak, a Boston Consulting Group globális vezető közgazdásza",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-18T16:24:41+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/unios-forrasok/20261018/europa-inkabb-klub-mint-valodi-unio-egyetlen-donto-teruleten-mulhat-az-eu-gazdasagi-eletkepessege-870182"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/penzvilag/2026-10-18-miert-marad-le-folyamatosan-az-eu-az-egyesult-allamok-mogott/",
+      "seo": {
+        "meta_title": "Miért marad le folyamatosan az EU az Egyesült Államok mögött",
+        "meta_description": "Európa gazdasági problémája nem az összeomlás, hanem a három évtizede tartó termelékenységi lemaradás az Egyesült Államokhoz képest. Egy globális szakértő szeri",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-18-miert-marad-le-folyamatosan-az-eu-az-egyesult-allamok-mogott/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/1280px-European_Stock_Market_concept_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "1af493114cb5b0317bae09f97fd20b0fe8db18f92654c9216532dd88cf756102",
+      "pipeline_run_id": "39125690876",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T16:24:41+02:00",
+      "updated_at": "2026-10-18T16:24:41+02:00",
+      "published_at": "2026-10-18T16:24:41+02:00",
+      "expires_at": null
+    },
     {
       "id": "3c4f5aa0-143c-5b4d-9c97-5cb94e715253",
       "slug": "2026-10-18-tobb-mint-harminc-eve-nem-latott-vizvalsag-sujtja-a-fold-folyoit",
