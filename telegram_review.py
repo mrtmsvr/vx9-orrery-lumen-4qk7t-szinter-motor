@@ -256,6 +256,10 @@ def _write_pitch(out_dir: Path, pit: dict, tz: ZoneInfo, chat: int) -> None:
     if new:
         add_pending(new)
         with LOCK:
+            pf = kc.read_json(kc.PITCH_FILE, {"items": {}})  # megjelölve: a régi lista gombjával se írja meg újra
+            if pit.get("id") in pf.get("items", {}):
+                pf["items"][pit["id"]]["written"] = True
+                kc.write_json_atomic(kc.PITCH_FILE, pf)
             rq = kc.read_json(PITCH_RETRY_FILE, {})
             if rq.pop(pit.get("id"), None) is not None:
                 kc.write_json_atomic(PITCH_RETRY_FILE, rq)
@@ -322,6 +326,26 @@ def _newsletter_check(tz: ZoneInfo) -> None:
     r = subprocess.run([sys.executable, "scripts/newsletter.py"], cwd=kc.BASE_DIR, timeout=600)
     log.info("Hírlevél-ellenőrzés a ciklusból (kilépési kód %s)", r.returncode)
     _save_to_git("Hírlevél")
+
+
+def _apply_fix_pack(out_dir: Path, tz: ZoneInfo) -> None:
+    """Szerkesztői javítócsomag (data/article_fixes.b64) alkalmazása a zár alatt, majd azonnali kirakás + jelzés."""
+    if not kc.FIXES_FILE.exists():
+        return
+    with LOCK:
+        res = kc.apply_article_fixes(out_dir)
+    if not res:
+        return
+    kc.build_static_site(out_dir, tz)
+    _deploy_now()
+    _save_to_git("Cikkjavítások")
+    chat = load_state().get("chat_id")
+    if chat:
+        txt = (f"🧹 Cikk-átnézés alkalmazva: {res.get('fixed', 0)} javítás (elírás, csonka mondat, ismétlés stb.)"
+               + (f", {res['missing']} már nem illeszkedett" if res.get("missing") else "")
+               + (f"\nLevett cikkek ({len(res['removed'])}): " + "; ".join(res["removed"])[:3000] if res.get("removed") else "")
+               + (f"\n⚠️ Hiba: {res['error']}" if res.get("error") else ""))
+        tg("sendMessage", {"chat_id": chat, "text": txt})
 
 
 def _daily_model_check(tz: ZoneInfo) -> None:
@@ -1180,13 +1204,17 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                 tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Előhozom a váró cikkeket…"})
                 changed = _resend_waiting(out_dir, st, pending) or changed
                 continue
+            if parts[0] == "pend":  # ✖️ Vége: a témalista eltűnik (ne keverd össze a következő körével)
+                tg("answerCallbackQuery", {"callback_query_id": q["id"]})
+                tg("deleteMessage", {"chat_id": st["chat_id"], "message_id": q["message"]["message_id"]})
+                continue
             if parts[0] == "pw":  # téma-javaslatból cikk (a kör végi „További forró témák” listából)
                 pit = kc.read_json(kc.PITCH_FILE, {"items": {}}).get("items", {}).get(parts[1])
                 if not pit:
                     tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Ez a téma már nincs meg."})
                     continue
-                if parts[1] in _PITCH_TAKEN:
-                    tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Ezt már írom / megírtam."})
+                if parts[1] in _PITCH_TAKEN or pit.get("written"):
+                    tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Ezt már írom / megírtam.", "show_alert": True})
                     continue
                 _PITCH_TAKEN.add(parts[1])
                 tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Megírom, 1–2 perc…"})
@@ -1585,6 +1613,7 @@ def main(argv: Optional[list] = None) -> int:
         if time.time() - last_rt >= 300:  # 5 percenként: elmaradt ✍️ témák újrapróbálása + napi modell-ellenőrzés
             last_rt = time.time()
             try:
+                _apply_fix_pack(cfg.output_dir, tz)
                 _retry_pitches(cfg.output_dir, tz)
                 _daily_model_check(tz)
                 _newsletter_check(tz)
