@@ -2841,11 +2841,12 @@
       "caption": "Biológiai nem szerint osztják be a betegeket az angol kórházakban\n\nAz angliai egészségügyi szolgálat új iránymutatása értelmében a transznemű betegeket főszabály szerint a biológiai nemüknek megfelelő kórtermekben kell elhelyezni. A módosításra a brit legfelsőbb bíróság korábbi határozata miatt volt szükség.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#egészségügy #nagybritannia #jogalkotás #hírek #kollektíva",
       "created": "2026-10-18T14:23:04+02:00",
       "due": "2026-10-18T15:08:04+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7667,
         7668
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "66f72e51fd",
@@ -2941,6 +2942,22 @@
       "tg": [
         7805,
         7806
+      ]
+    },
+    {
+      "id": "c8126bd117",
+      "art_id": "27938be2-9dc3-5e34-83da-c52fccbbfe99",
+      "title": "A varázsgomba hatóanyaga a legagresszívabb halakat is csendesíti",
+      "url": "/eletmod/2026-10-18-a-varazsgomba-hatoanyaga-a-legagresszivabb-halakat-is-csendesiti/",
+      "card": "public/img/ig/2026-10-18-a-varazsgomba-hatoanyaga-a-legagresszivabb-halakat-is-csend.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-18-a-varazsgomba-hatoanyaga-a-legagresszivabb-halakat-is-csend.jpg",
+      "caption": "A varázsgomba hatóanyaga a legagresszívabb halakat is csendesíti\n\nA varázsgombákban található pszilocibin nevű vegyület megdöbbentő módon képes lecsillapítani a természetüknél fogva rendkívül agresszív mangrove rivulus halakat anélkül, hogy károsítaná a normális társas viselkedésüket. A kanadai kutatók vezetésével végzett vizsgálat új megvilágításba helyezi e pszichedelikus anyag agyra gyakorolt hatásait.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#pszilocibin #viselkedéskutatás #állatkísérlet #hírek #kollektíva",
+      "created": "2026-10-18T20:23:47+02:00",
+      "due": "2026-10-18T21:08:47+02:00",
+      "status": "queued",
+      "tg": [
+        7835,
+        7836
       ]
     }
   ],
