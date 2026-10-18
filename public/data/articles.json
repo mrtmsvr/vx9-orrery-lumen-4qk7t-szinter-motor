@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T09:16:00+02:00",
+  "updated_at": "2026-10-18T09:16:45+02:00",
   "articles": [
     {
       "id": "52854d5e-fba4-53e6-a794-ab7d1f007733",
@@ -138,7 +138,7 @@
       "word_count": 250,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Interior_of_the_Hungarian_Parliament_Building_20180824-1.jpg/1280px-Interior_of_the_Hungarian_Parliament_Building_20180824-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_the_Hungarian_Parliament_Building_20180824-2.jpg/1280px-Interior_of_the_Hungarian_Parliament_Building_20180824-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
         "height": 800,
         "kind": "photo",
@@ -146,7 +146,7 @@
         "alt": "Interior of the Hungarian Parliament Building",
         "credit": "Suicasmo / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Hungarian_Parliament_Building_20180824-1.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Hungarian_Parliament_Building_20180824-2.jpg",
         "vision_score": 5.0
       },
       "inline_images": [],
@@ -208,7 +208,7 @@
         "meta_title": "Fél ezermilliárdos többletforrást kap az egészségügy 2027-be",
         "meta_description": "Hétfőn mutatja be a Parlamentben a 2027-es központi költségvetést Magyar Péter, amelyben az állami működés karcsúsítása mellett ötszáz milliárd forintos többlet",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-fel-ezermilliardos-tobbletforrast-kap-az-egeszsegugy-2027-ben/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Interior_of_the_Hungarian_Parliament_Building_20180824-1.jpg/1280px-Interior_of_the_Hungarian_Parliament_Building_20180824-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_the_Hungarian_Parliament_Building_20180824-2.jpg/1280px-Interior_of_the_Hungarian_Parliament_Building_20180824-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -246,7 +246,7 @@
       "pipeline_run_id": "39097942366",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-18T06:44:02+02:00",
-      "updated_at": "2026-10-18T06:44:02+02:00",
+      "updated_at": "2026-10-18T09:16:45+02:00",
       "published_at": "2026-10-18T06:44:02+02:00",
       "expires_at": null
     },
