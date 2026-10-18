@@ -2796,6 +2796,22 @@
       "container": "18130746553718522",
       "tries": 1,
       "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
+    },
+    {
+      "id": "6c5789df62",
+      "art_id": "057ba041-9954-5a7f-b44e-afa46f45a262",
+      "title": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
+      "url": "/tech/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet/",
+      "card": "public/img/ig/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet.jpg",
+      "caption": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet\n\nA mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, hogy a vállalat a nagyobb profitlehetőséget nyújtó adatközpontos chipek felé tereli a kapacitásait.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#nvidia #videokártya #mesterségesintelligencia #hírek #kollektíva",
+      "created": "2026-10-18T12:40:32+02:00",
+      "due": "2026-10-18T13:25:32+02:00",
+      "status": "queued",
+      "tg": [
+        7579,
+        7580
+      ]
     }
   ],
   "token": {
