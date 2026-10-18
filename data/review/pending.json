@@ -14243,9 +14243,9 @@
       "live": true
     },
     {
-      "id": "bd900223-81d9-53c2-9f60-689232059ce8",
-      "slug": "2026-10-18-tizszeres-ber-es-milliok-adossaga-igy-elnek-a-filippinok-magyarorszag",
-      "status": "pending",
+      "id": "03ce26db-690a-5eea-8f3e-380f8fe642f2",
+      "slug": "2026-10-18-papucshasznalat-lefolyok-es-millios-hitelek-ez-var-a-magyarorszagra-e",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -14255,7 +14255,7 @@
         "munkaerőhiány",
         "munkajog"
       ],
-      "title": "Tízszeres bér és milliók adóssága: így élnek a filippínók Magyarországon",
+      "title": "Papucshasználat, lefolyók és milliós hitelek: ez vár a Magyarországra érkező filippínókra",
       "subtitle": null,
       "lead": "A Fülöp-szigetekről érkező vendégmunkások száma a kétezres évek eleji néhány tucatról mára tizenhatezerre nőtt Magyarországon. A Partizán videójából kiderül, hogy bár a hazai bér tízszerese az otthoninak, a milliós közvetítői adósságok és a szigorú szabályok komoly kihívások elé állítják őket.",
       "key_points": [
@@ -14360,11 +14360,11 @@
       },
       "date": "2026-10-18",
       "date_label": "október 18.",
-      "url": "/kozelet/2026-10-18-tizszeres-ber-es-milliok-adossaga-igy-elnek-a-filippinok-magyarorszag/",
+      "url": "/kozelet/2026-10-18-papucshasznalat-lefolyok-es-millios-hitelek-ez-var-a-magyarorszagra-e/",
       "seo": {
-        "meta_title": "Tízszeres bér és milliók adóssága: így élnek a filippínók Ma",
+        "meta_title": "Papucshasználat, lefolyók és milliós hitelek: ez vár a Magya",
         "meta_description": "A Fülöp-szigetekről érkező vendégmunkások száma a kétezres évek eleji néhány tucatról mára tizenhatezerre nőtt Magyarországon. A Partizán videójából kiderül, ho",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-tizszeres-ber-es-milliok-adossaga-igy-elnek-a-filippinok-magyarorszag/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-papucshasznalat-lefolyok-es-millios-hitelek-ez-var-a-magyarorszagra-e/",
         "og_image": "https://pixabay.com/get/ga98088dd85aa16a75fac023ecf350d8b4370ad8393ddb94696577aa2875eb8e007de5567e0a7a356d2558a3e2236f4ac97725ebb5bb0ade872c336692661ec88_1280.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -14390,9 +14390,9 @@
       "dedupe_hash": "bbcda6362813b4c4d9ae3e1c344d2e268f77b809702313c04357d6571f41f170",
       "pipeline_run_id": "39143630522",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-18T18:15:46+02:00",
-      "updated_at": "2026-10-18T18:15:46+02:00",
-      "published_at": "2026-10-18T18:15:46+02:00",
+      "created_at": "2026-10-18T18:25:07+02:00",
+      "updated_at": "2026-10-18T18:25:07+02:00",
+      "published_at": "2026-10-18T18:25:07+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -14409,13 +14409,12 @@
         "title": 4,
         "image": 0,
         "sent_at": "2026-10-18T16:16:29+00:00",
-        "msg_ids": [
-          7797,
-          7798,
-          7799
-        ],
-        "control_id": 7800
-      }
+        "msg_ids": [],
+        "control_id": 7800,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
