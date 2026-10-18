@@ -1,35 +1,35 @@
 {
-  "id": "6616d2a2fe",
-  "date": "2026-10-17",
+  "id": "b59b4dad27",
+  "date": "2026-10-18",
   "status": "pending",
-  "article_url": "/kozelet/2026-10-16-brusszeli-csucs-magyar-peter-elutasitotta-a-koltesi-keretet/",
-  "article_title": "Magyar Péter Brüsszelbe ment: nem tetszik a hétéves költségvetés",
-  "category": "kozelet",
+  "article_url": "/penzvilag/2026-10-17-egy-evvel-elhalasztjak-az-ets2-t-az-eu-csucs-vitai-utan/",
+  "article_title": "Egy évvel elhalasztják az ETS2-t az EU-csúcs vitái után",
+  "category": "penzvilag",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés volt elutasítani a hétéves uniós költségvetést?",
+      "question": "Ön szerint indokolt volt egy évvel elhalasztani az ETS2 bevezetését az EU-ban?",
       "options": [
-        "Igen, teljesen helyes volt",
-        "Nem, hiba volt elutasítani",
+        "Igen, helyes a gazdasági terhek csökkentése",
+        "Nem, a klímavédelmi célokat nem szabad halasztani",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a magyar érdekérvényesítés hatékonyságát a brüsszeli tárgyalásokon?",
+      "question": "Helyesli-e, hogy az EU-csúcs vitái a hétéves költségvetés átalakításához vezettek?",
       "options": [
-        "Hatásos és eredményes volt",
-        "Eredménytelen és káros volt",
+        "Igen, szükség volt a költségvetési vitákra",
+        "Nem, ez gyengíti az uniós döntéshozatalt",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a hétéves uniós költségvetési tárgyalások során?",
+      "question": "Mit tart fontosabbnak a brüsszeli döntéshozatalban a jövőbeni költségvetési viták során?",
       "options": [
-        "A hazai források maximális védelmét",
-        "A megegyezést és az egységet",
+        "A zöldátállás szigorú ütemezésének betartását",
+        "A lakossági és ipari terhek csökkentését",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 7162
+  "msg_id": 7571
 }
