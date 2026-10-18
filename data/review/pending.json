@@ -12964,13 +12964,10 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-18T04:43:01+00:00",
-        "msg_ids": [
-          7438,
-          7439,
-          7440,
-          7442
-        ],
-        "control_id": 7441
+        "msg_ids": [],
+        "control_id": 7441,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
