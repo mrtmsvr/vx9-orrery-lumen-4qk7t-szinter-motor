@@ -12079,19 +12079,10 @@
         "title": 4,
         "image": 4,
         "sent_at": "2026-10-18T11:34:28+00:00",
-        "msg_ids": [
-          7611,
-          7612,
-          7613,
-          7614,
-          7615,
-          7616,
-          7617,
-          7618,
-          7619,
-          7650
-        ],
-        "control_id": 7620
+        "msg_ids": [],
+        "control_id": 7620,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
