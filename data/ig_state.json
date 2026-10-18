@@ -2824,11 +2824,12 @@
       "caption": "Hirtelen lekapcsolta az ukrán drónokat Elon Musk cége\n\nElőzetes jelzés nélkül jelentősen korlátozták az ukrán hadsereg által használt Starlink, illetve Starshield rendszerek hozzáférését, ami komoly nehézségeket okoz a frontvonalon. A technológiai akadályok éppen akkor léptek fel, amikor Oroszország súlyos rakétatámadásokat mért Kijevre és Harkivra.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#starlink #ukrajna #oroszország #hírek #kollektíva",
       "created": "2026-10-18T13:31:40+02:00",
       "due": "2026-10-18T14:16:40+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7581,
         7582
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "e63e269d5a",
@@ -2924,6 +2925,22 @@
       "tg": [
         7802,
         7803
+      ]
+    },
+    {
+      "id": "a3e5dcc5ea",
+      "art_id": "f41783dc-65b9-5176-9478-cd7bf589a3ad",
+      "title": "Bóna Szabolcs: változnak az aszály sújtotta gazdák támogatási szabályai",
+      "url": "/kozelet/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatasi-szabalya/",
+      "card": "public/img/ig/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatas.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatas.jpg",
+      "caption": "Bóna Szabolcs: változnak az aszály sújtotta gazdák támogatási szabályai\n\nAz aszály okozta termelési nehézségek miatt Bóna Szabolcs, az agrár- és élelmiszergazdaságért felelős miniszter módosította az agrár-környezetgazdálkodási és az ökológiai támogatási felhívások feltételeit. A döntés célja, hogy a gazdálkodók a csapadékhiány ellenére is megtarthassák jogosultságaikat, és teljesíthessék vállalásaikat.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#mezőgazdaság #bónaszabolcs #aszály #hírek #kollektíva",
+      "created": "2026-10-18T19:32:13+02:00",
+      "due": "2026-10-18T20:17:13+02:00",
+      "status": "queued",
+      "tg": [
+        7805,
+        7806
       ]
     }
   ],
