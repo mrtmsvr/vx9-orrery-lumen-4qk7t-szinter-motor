@@ -1,7 +1,307 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T16:00:05+02:00",
+  "updated_at": "2026-10-18T16:00:47+02:00",
   "articles": [
+    {
+      "id": "a84b5db7-d944-5ff6-a04c-8be0660ffd1c",
+      "slug": "2026-10-18-kannabisz-az-almatlansag-ellen-elmaradt-a-vart-csoda",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "alvászavar",
+        "kutatás",
+        "orvosi kannabisz"
+      ],
+      "title": "Kannabisz az álmatlanság ellen: elmaradt a várt csoda",
+      "subtitle": null,
+      "lead": "Az álmatlanság globális népbetegség, amelyre sokan keresnek enyhülést orvosi kannabiszban, ám egy friss elemzés szerint a szer hatékonysága nem igazolható. A Cochrane Library kutatói kilenc korábbi tanulmányt vizsgálva nem találtak klinikai javulást a betegeknél.",
+      "key_points": [
+        "Az álmatlanság a világ népességének mintegy 16,2 százalékát érinti.",
+        "Kilenc tanulmány áttekintése után sem bizonyítható az orvosi kannabisz hatásossága az alvászavarok kezelésében.",
+        "A szakértők szerint pontosabb módszertanú vizsgálatokra lenne szükség a végleges válaszhoz."
+      ],
+      "content": "Világszerte közel 850 millió ember küzd az álmatlanság, azaz az inszomnia tüneteivel, ami a népesség több mint 16 százalékát érinti. A hatékony megoldások iránti folyamatosan magas kereslet miatt került a kutatók látókörébe az orvosi kannabisz mint lehetséges terápiás eszköz.\n\nA Cochrane Library egészségügyi szervezet szakemberei összesen 537 fő részvételével készült kilenc korábbi tanulmányt elemeztek. A vizsgált személyek 18 és 76 év közöttiek voltak, többségüket elsődleges inszomnia, vagyis más betegségtől független álmatlanság miatt kezelték. Az összehasonlítás alapjául a legtöbb esetben placebo szolgált, egy vizsgálatnál azonban az amitriptilin nevű antidepresszánst használták kontrollként.\n\nLucia Varela, a kanadai Manitobai Egyetem neurológusa hangsúlyozta, hogy az elemzés során egyetlen olyan mérőszámot sem azonosítottak, amely az orvosi kannabisz kontrollkezelésekkel szembeni fölényét igazolná. Az adatok alapján az alvásminőség, az alvásidő és a nappali funkciók terén sem tapasztaltak klinikailag jelentős javulást a pácienseknél.\n\nA tanulmányok módszertana is hagy némi kívánnivalót maga után: sok vizsgálat kis mintán alapult, és az alkalmazott kannabisz típusa sem volt egységes, ami nehezíti az eredmények általánosítását. A szakemberek szerint a kérdés lezárásához elengedhetetlenek a jövőbeni, precízebb kutatások, amelyek megbízhatóbb választ adhatnak a szer tényleges hatékonyságáról.",
+      "content_format": "markdown",
+      "body": [
+        "Világszerte közel 850 millió ember küzd az álmatlanság, azaz az inszomnia tüneteivel, ami a népesség több mint 16 százalékát érinti. A hatékony megoldások iránti folyamatosan magas kereslet miatt került a kutatók látókörébe az orvosi kannabisz mint lehetséges terápiás eszköz.",
+        "A Cochrane Library egészségügyi szervezet szakemberei összesen 537 fő részvételével készült kilenc korábbi tanulmányt elemeztek. A vizsgált személyek 18 és 76 év közöttiek voltak, többségüket elsődleges inszomnia, vagyis más betegségtől független álmatlanság miatt kezelték. Az összehasonlítás alapjául a legtöbb esetben placebo szolgált, egy vizsgálatnál azonban az amitriptilin nevű antidepresszánst használták kontrollként.",
+        "Lucia Varela, a kanadai Manitobai Egyetem neurológusa hangsúlyozta, hogy az elemzés során egyetlen olyan mérőszámot sem azonosítottak, amely az orvosi kannabisz kontrollkezelésekkel szembeni fölényét igazolná. Az adatok alapján az alvásminőség, az alvásidő és a nappali funkciók terén sem tapasztaltak klinikailag jelentős javulást a pácienseknél.",
+        "A tanulmányok módszertana is hagy némi kívánnivalót maga után: sok vizsgálat kis mintán alapult, és az alkalmazott kannabisz típusa sem volt egységes, ami nehezíti az eredmények általánosítását. A szakemberek szerint a kérdés lezárásához elengedhetetlenek a jövőbeni, precízebb kutatások, amelyek megbízhatóbb választ adhatnak a szer tényleges hatékonyságáról."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 214,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sleep_disorders_following_TBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Girl with a bandage around her head in a bed, head in hands",
+        "credit": "MartaBaldacci1D / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sleep_disorders_following_TBI.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261018_inszomnia-almatlansag-kezelese-orvosi-kannabisz-kutatas",
+          "title": "Az eredmény sokakat meglephet: tényleg jó a kannabisz álmatlanság ellen?",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T15:59:04+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az elemzésünk során nem találtunk megbízható bizonyítékot arra vonatkozóan, hogy a fő alvási mutatók – alvásminőség, alvásidő, nappali működés – terén klinikailag jelentős javulás mutatkozott volna",
+        "who": "Lucia Varela, a kanadai Manitobai Egyetem neurológusa",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T16:00:47+02:00"
+      },
+      "hot_score": 5.35,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261018_inszomnia-almatlansag-kezelese-orvosi-kannabisz-kutatas"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/eletmod/2026-10-18-kannabisz-az-almatlansag-ellen-elmaradt-a-vart-csoda/",
+      "seo": {
+        "meta_title": "Kannabisz az álmatlanság ellen: elmaradt a várt csoda",
+        "meta_description": "Az álmatlanság globális népbetegség, amelyre sokan keresnek enyhülést orvosi kannabiszban, ám egy friss elemzés szerint a szer hatékonysága nem igazolható. A Co",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-18-kannabisz-az-almatlansag-ellen-elmaradt-a-vart-csoda/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sleep_disorders_following_TBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "0e5ceccc8b53fca7a574859bafd99092e82b555fd165ce93ec0162205e659794",
+      "pipeline_run_id": "39132542839",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T16:00:47+02:00",
+      "updated_at": "2026-10-18T16:00:47+02:00",
+      "published_at": "2026-10-18T16:00:47+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "f41783dc-65b9-5176-9478-cd7bf589a3ad",
+      "slug": "2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatasi-szabalya",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "mezőgazdaság",
+        "Bóna Szabolcs",
+        "aszály",
+        "támogatások",
+        "agrárpolitika"
+      ],
+      "title": "Bóna Szabolcs: változnak az aszály sújtotta gazdák támogatási szabályai",
+      "subtitle": null,
+      "lead": "Az aszály okozta termelési nehézségek miatt Bóna Szabolcs, az agrár- és élelmiszergazdaságért felelős miniszter módosította az agrár-környezetgazdálkodási és az ökológiai támogatási felhívások feltételeit. A döntés célja, hogy a gazdálkodók a csapadékhiány ellenére is megtarthassák jogosultságaikat, és teljesíthessék vállalásaikat.",
+      "key_points": [
+        "Az aszály miatti vis maior események nem számítanak bele a háromalkalmas korlátozásba.",
+        "A meghiúsult másodvetések zöldtrágyázásnak minősülnek a 2026. július 1. és szeptember 1. közötti időszakban.",
+        "A kényszerpihentetett területeknél az ellenőrzéskor az aszályt megelőző főnövényt veszik alapul."
+      ],
+      "content": "A rendkívüli szárazság miatt életbe lépő változtatások legfontosabb eleme, hogy a Magyar Államkincstár által elismert, aszály miatti vis maior esetek a jövőben nem számítanak bele abba a szigorú keretrendszerbe, amely három esemény után eddig kizárta volna a termelőket a támogatási rendszerből. Ez a kedvezmény az agrár-környezetgazdálkodási (AKG) és az ökológiai gazdálkodási (ÖKO) támogatásban részt vevő gazdákat egyaránt megilleti.\n\nJelentős könnyítést vezetnek be a zöldtrágyázási kötelezettségek terén is. Azok a gazdák, akik július 1. és szeptember 1. között vetettek másodvetést, ám a csapadékhiány miatt a növényzet nem kelt ki vagy nem fejlődött megfelelően, a munkát teljesítettnek tekinthetik, függetlenül attól, hogy be tudták-e forgatni a talajba.\n\nA vetésszerkezeti előírások ellenőrzése is rugalmasabbá válik. Amennyiben egy adott földterületet az aszály miatt kényszerűségből pihentetni kellett, a hatóság az aszályt megelőzően bejelentett főnövényt veszi alapul az előírások teljesítésének vizsgálatakor. Ennek feltétele, hogy a gazdálkodó a vis maior kérelemben szabályosan jelölje meg az érintett területet.\n\nBóna Szabolcs miniszter a közösségi oldalán közzétett bejelentésében hangsúlyozta: a módosítások a megváltozott környezeti körülményekhez való alkalmazkodást segítik.",
+      "content_format": "markdown",
+      "body": [
+        "A rendkívüli szárazság miatt életbe lépő változtatások legfontosabb eleme, hogy a Magyar Államkincstár által elismert, aszály miatti vis maior esetek a jövőben nem számítanak bele abba a szigorú keretrendszerbe, amely három esemény után eddig kizárta volna a termelőket a támogatási rendszerből. Ez a kedvezmény az agrár-környezetgazdálkodási (AKG) és az ökológiai gazdálkodási (ÖKO) támogatásban részt vevő gazdákat egyaránt megilleti.",
+        "Jelentős könnyítést vezetnek be a zöldtrágyázási kötelezettségek terén is. Azok a gazdák, akik július 1. és szeptember 1. között vetettek másodvetést, ám a csapadékhiány miatt a növényzet nem kelt ki vagy nem fejlődött megfelelően, a munkát teljesítettnek tekinthetik, függetlenül attól, hogy be tudták-e forgatni a talajba.",
+        "A vetésszerkezeti előírások ellenőrzése is rugalmasabbá válik. Amennyiben egy adott földterületet az aszály miatt kényszerűségből pihentetni kellett, a hatóság az aszályt megelőzően bejelentett főnövényt veszi alapul az előírások teljesítésének vizsgálatakor. Ennek feltétele, hogy a gazdálkodó a vis maior kérelemben szabályosan jelölje meg az érintett területet.",
+        "Bóna Szabolcs miniszter a közösségi oldalán közzétett bejelentésében hangsúlyozta: a módosítások a megváltozott környezeti körülményekhez való alkalmazkodást segítik."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 208,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Museum_of_Hungarian_Agriculture%2C_Budapest.jpg/1280px-Museum_of_Hungarian_Agriculture%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Museum of Hungarian Agriculture, Budapest",
+        "credit": "Slyronit / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Museum_of_Hungarian_Agriculture,_Budapest.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261018/fontos-bejelentes-bona-szabolcstol-mentoovet-kapnak-az-aszaly-miatt-nehez-helyzetbe-kerult-magyar-gazdak-870440",
+          "title": "Fontos bejelentés Bóna Szabolcstól: mentőövet kapnak az aszály miatt nehéz helyzetbe került magyar gazdák",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T15:59:00+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T16:00:46+02:00"
+      },
+      "hot_score": 5.87,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261018/fontos-bejelentes-bona-szabolcstol-mentoovet-kapnak-az-aszaly-miatt-nehez-helyzetbe-kerult-magyar-gazdak-870440"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kozelet/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatasi-szabalya/",
+      "seo": {
+        "meta_title": "Bóna Szabolcs: változnak az aszály sújtotta gazdák támogatás",
+        "meta_description": "Az aszály okozta termelési nehézségek miatt Bóna Szabolcs, az agrár- és élelmiszergazdaságért felelős miniszter módosította az agrár-környezetgazdálkodási és az",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatasi-szabalya/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Museum_of_Hungarian_Agriculture%2C_Budapest.jpg/1280px-Museum_of_Hungarian_Agriculture%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "fdf75a99a1b71d09ab3fea8f4e1ef8d2add518191b89a6258661bca65ab5f880",
+      "pipeline_run_id": "39132542839",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T16:00:46+02:00",
+      "updated_at": "2026-10-18T16:00:46+02:00",
+      "published_at": "2026-10-18T16:00:46+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "88cf626e-e159-5810-bc2d-d229fff3e548",
+      "slug": "2026-10-18-hol-oktatnak-meg-magyarul-uj-atlasz-terkepezi-fel-a-szlovakiai-intezm",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "oktatás",
+        "Szlovákia",
+        "magyar közoktatás",
+        "adatbázis",
+        "térkép"
+      ],
+      "title": "Hol oktatnak még magyarul? Új atlasz térképezi fel a szlovákiai intézményeket",
+      "subtitle": null,
+      "lead": "Elindult a Szlovákiai magyar közoktatási atlasz online felülete, amely a 2010 óta zajló folyamatokat mutatja be adatokkal és térképekkel. Az új tudásbázis célja, hogy közérthető formában tegye áttekinthetővé az intézményhálózat és a tanulói létszámok alakulását.",
+      "key_points": [
+        "Nyáron jelent meg a Szlovákiai magyar közoktatási atlasz kötete.",
+        "Az online felületen települési szinten is böngészhetők a demográfiai és oktatási adatok.",
+        "A projekt a kutatók és pedagógusok mellett a szülők számára is hasznos információforrás."
+      ],
+      "content": "Idén nyáron jelent meg a Szlovákiai magyar közoktatási atlasz, amely átfogó képet ad a szlovákiai magyar közoktatás helyzetéről és az elmúlt másfél évtized változásairól. A kötetet a CSFK Földrajztudományi Intézet, a VEKTOR Társadalomkutató Egyesület és a Horizontum Polgári Társulás közösen adta ki, egységes rendszerbe foglalva az óvodák és középiskolák alakulását.\n\nA projekt egyik fontos célja a területi különbségek szemléltetése, ezért az adatokat nemcsak országos és járási, hanem települési szinten is térképre vitték. Ezzel jól nyomon követhető az oktatási rendszer alakulása az egyes térségekben, illetve az ott kirajzolódó demográfiai folyamatok.\n\nA HUN-REN közleménye szerint a kezdeményezés célja egy hosszú távon is használható, nyilvánosan elérhető tudásbázis létrehozása. Az oldal a kutatók, oktatási szakemberek, újságírók és döntéshozók mellett a pedagógusoknak és a szülőknek is segítséget nyújthat, különösen a jelenleg zajló folyamatok idején.\n\nA folyamatosan bővülő online felületen már elérhetők az adatok és elemzések, a projekt pedig egy interaktív térképpel egészül ki. Ezen a felhasználók települési szinten böngészhetik a szlovákiai magyar közoktatás mutatóit és a magyar népesség demográfiai adatait, a közösségi oldalakon pedig rövid elemzések és adatvizualizációk segítik a tájékozódást.",
+      "content_format": "markdown",
+      "body": [
+        "Idén nyáron jelent meg a Szlovákiai magyar közoktatási atlasz, amely átfogó képet ad a szlovákiai magyar közoktatás helyzetéről és az elmúlt másfél évtized változásairól. A kötetet a CSFK Földrajztudományi Intézet, a VEKTOR Társadalomkutató Egyesület és a Horizontum Polgári Társulás közösen adta ki, egységes rendszerbe foglalva az óvodák és középiskolák alakulását.",
+        "A projekt egyik fontos célja a területi különbségek szemléltetése, ezért az adatokat nemcsak országos és járási, hanem települési szinten is térképre vitték. Ezzel jól nyomon követhető az oktatási rendszer alakulása az egyes térségekben, illetve az ott kirajzolódó demográfiai folyamatok.",
+        "A HUN-REN közleménye szerint a kezdeményezés célja egy hosszú távon is használható, nyilvánosan elérhető tudásbázis létrehozása. Az oldal a kutatók, oktatási szakemberek, újságírók és döntéshozók mellett a pedagógusoknak és a szülőknek is segítséget nyújthat, különösen a jelenleg zajló folyamatok idején.",
+        "A folyamatosan bővülő online felületen már elérhetők az adatok és elemzések, a projekt pedig egy interaktív térképpel egészül ki. Ezen a felhasználók települési szinten böngészhetik a szlovákiai magyar közoktatás mutatóit és a magyar népesség demográfiai adatait, a közösségi oldalakon pedig rövid elemzések és adatvizualizációk segítik a tájékozódást."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 212,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Part_of_the_ruins_of_Pova%C5%BEsk%C3%BD_hrad_in_Pova%C5%BEsk%C3%A1_Bystrica_District%2C_Slovakia%2C_2016_June.jpg/1280px-Part_of_the_ruins_of_Pova%C5%BEsk%C3%BD_hrad_in_Pova%C5%BEsk%C3%A1_Bystrica_District%2C_Slovakia%2C_2016_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 616,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Part of the ruins of Považský hrad in Považská Bystrica District, Slovakia in 2016 June.",
+        "credit": "Ximonic (Simo Räsänen) / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Part_of_the_ruins_of_Pova%C5%BEsk%C3%BD_hrad_in_Pova%C5%BEsk%C3%A1_Bystrica_District,_Slovakia,_2016_June.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261018_szlovakiai-magyar-kozoktatasi-atlasz",
+          "title": "Különös térkép került fel a netre: már böngészhetők a szlovákiai magyar közoktatás változásai",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T15:59:01+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T16:00:45+02:00"
+      },
+      "hot_score": 5.78,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261018_szlovakiai-magyar-kozoktatasi-atlasz"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kozelet/2026-10-18-hol-oktatnak-meg-magyarul-uj-atlasz-terkepezi-fel-a-szlovakiai-intezm/",
+      "seo": {
+        "meta_title": "Hol oktatnak még magyarul? Új atlasz térképezi fel a szlovák",
+        "meta_description": "Elindult a Szlovákiai magyar közoktatási atlasz online felülete, amely a 2010 óta zajló folyamatokat mutatja be adatokkal és térképekkel. Az új tudásbázis célja",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-hol-oktatnak-meg-magyarul-uj-atlasz-terkepezi-fel-a-szlovakiai-intezm/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Part_of_the_ruins_of_Pova%C5%BEsk%C3%BD_hrad_in_Pova%C5%BEsk%C3%A1_Bystrica_District%2C_Slovakia%2C_2016_June.jpg/1280px-Part_of_the_ruins_of_Pova%C5%BEsk%C3%BD_hrad_in_Pova%C5%BEsk%C3%A1_Bystrica_District%2C_Slovakia%2C_2016_June.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "25a43d5f3e5b543ac423b5d502d7079a6cb877e5c9faa6256cae33ebb8f60513",
+      "pipeline_run_id": "39132542839",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T16:00:45+02:00",
+      "updated_at": "2026-10-18T16:00:45+02:00",
+      "published_at": "2026-10-18T16:00:45+02:00",
+      "expires_at": null
+    },
     {
       "id": "de791e10-b6cf-58da-93fa-749720ed6d7c",
       "slug": "2026-10-18-magyar-peter-szerint-europa-tobbsege-szakitana-a-migracios-politikava",
