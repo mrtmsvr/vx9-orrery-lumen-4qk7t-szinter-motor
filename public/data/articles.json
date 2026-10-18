@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T10:36:49+02:00",
+  "updated_at": "2026-10-18T10:57:00+02:00",
   "articles": [
+    {
+      "id": "e1d11bff-3ce2-5181-8e00-7a8736c70c77",
+      "slug": "2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Franciaország",
+        "tüntetés",
+        "zavargások",
+        "megélhetési válság",
+        "Párizs"
+      ],
+      "title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
+      "subtitle": null,
+      "lead": "Több tucat embert vettek őrizetbe szombaton a francia nagyvárosokban kitört zavargásokon, ahol a megélhetési problémák és a közoktatás alulfinanszírozottsága miatt vonultak utcára a tüntetők. A megmozdulásokon fekete ruhás rendbontók is megjelentek, mire a hatóságok vízágyúkkal és könnygázzal válaszoltak.",
+      "key_points": [
+        "Országszerte több ezer ember vett részt a szombati köztéri demonstrációkon.",
+        "Párizsban, Lyonban, Marseille-ben és Rouenban is jelentettek gyújtogatásokat és rongálásokat.",
+        "A belügyminisztérium adatai szerint délig már több mint 150 embert vettek őrizetbe."
+      ],
+      "content": "Szombat reggel óta több francia nagyvárosban – egyebek mellett Párizsban, Lyonban, Marseille-ben, Rennes-ben, Toulouse-ban és Angers-ben – alakultak ki zavargások és összecsapások a tüntetők, valamint a rendfenntartók között. Az AFP hírügynökség jelentése szerint a belügyminisztérium délig 140 megmozdulást regisztrált, amelyeken összesen 32 800 ember vett részt.\n\nA demonstrációk hátterében a megélhetési problémák és az egykori sárgamellényes mozgalom által meghirdetett akciók állnak, amelyekhez a közoktatás alulfinanszírozottsága miatt egy hónapja tüntető középiskolások is csatlakoztak. A párizsi République téren fekete ruhás, úgynevezett black bloc csoportokba szerveződő anarchisták gyújtogattak, utcakövekkel dobálták a rendőröket, akik könnygázzal és vízágyúkkal oszlatták a tömeget.\n\nA vidéki helyszíneken is komoly károk keletkeztek: Lyonban a turisztikai hivatalba, Marseille-ben a városháza épületébe hatoltak be a zavargók, Rouenban pedig a bölcsészkar egyik épületében gyújtottak tüzet. Toulouse-ban a rendőrségnek sikerült megakadályoznia egy vonatblokádot, míg országszerte délig 166 embert vettek őrizetbe a hatóságok.\n\nA megmozdulások előtt Laurent Nunez belügyminiszter már jelezte, hogy jelentős eseményekre és spontán gyűlésekre számítanak.",
+      "content_format": "markdown",
+      "body": [
+        "Szombat reggel óta több francia nagyvárosban – egyebek mellett Párizsban, Lyonban, Marseille-ben, Rennes-ben, Toulouse-ban és Angers-ben – alakultak ki zavargások és összecsapások a tüntetők, valamint a rendfenntartók között. Az AFP hírügynökség jelentése szerint a belügyminisztérium délig 140 megmozdulást regisztrált, amelyeken összesen 32 800 ember vett részt.",
+        "A demonstrációk hátterében a megélhetési problémák és az egykori sárgamellényes mozgalom által meghirdetett akciók állnak, amelyekhez a közoktatás alulfinanszírozottsága miatt egy hónapja tüntető középiskolások is csatlakoztak. A párizsi République téren fekete ruhás, úgynevezett black bloc csoportokba szerveződő anarchisták gyújtogattak, utcakövekkel dobálták a rendőröket, akik könnygázzal és vízágyúkkal oszlatták a tömeget.",
+        "A vidéki helyszíneken is komoly károk keletkeztek: Lyonban a turisztikai hivatalba, Marseille-ben a városháza épületébe hatoltak be a zavargók, Rouenban pedig a bölcsészkar egyik épületében gyújtottak tüzet. Toulouse-ban a rendőrségnek sikerült megakadályoznia egy vonatblokádot, míg országszerte délig 166 embert vettek őrizetbe a hatóságok.",
+        "A megmozdulások előtt Laurent Nunez belügyminiszter már jelezte, hogy jelentős eseményekre és spontán gyűlésekre számítanak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iraq_war_protest_france_2002_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Protest in France against the Iraq war.",
+        "credit": "Kilobug / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Iraq_war_protest_france_2002_0957.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261017_tobb-nagyvarosban-is-osszecsaptak-a-francia-tuntetok-a-rendorseggel-kepek",
+          "title": "Több nagyvárosban is összecsaptak a francia tüntetők a rendőrséggel – képek",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:36+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-18T10:57:00+02:00"
+      },
+      "hot_score": 5.83,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261017_tobb-nagyvarosban-is-osszecsaptak-a-francia-tuntetok-a-rendorseggel-kepek"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult/",
+      "seo": {
+        "meta_title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
+        "meta_description": "Több tucat embert vettek őrizetbe szombaton a francia nagyvárosokban kitört zavargásokon, ahol a megélhetési problémák és a közoktatás alulfinanszírozottsága mi",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iraq_war_protest_france_2002_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "624eb1978abc60911429e00f2f70f95aa8af5e35018ad78a960a237a0d1def82",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:57:00+02:00",
+      "updated_at": "2026-10-18T10:57:00+02:00",
+      "published_at": "2026-10-18T10:57:00+02:00",
+      "expires_at": null
+    },
     {
       "id": "9a8ba9a6-5503-53ce-885c-c334e07c145f",
       "slug": "2026-10-17-hirtelen-lekapcsolta-az-ukran-dronokat-elon-musk-cege",

@@ -10663,7 +10663,7 @@
     {
       "id": "e1d11bff-3ce2-5181-8e00-7a8736c70c77",
       "slug": "2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10694,15 +10694,15 @@
       "word_count": 196,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg/1280px-Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iraq_war_protest_france_2002_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 650,
+        "height": 900,
         "kind": "photo",
         "pos": "center",
-        "alt": "A grey Citroën C5 of the french national parisian police.",
-        "credit": "Jebulon / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg"
+        "alt": "Protest in France against the Iraq war.",
+        "credit": "Kilobug / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Iraq_war_protest_france_2002_0957.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -10843,7 +10843,7 @@
         "meta_title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
         "meta_description": "Több tucat embert vettek őrizetbe szombaton a francia nagyvárosokban kitört zavargásokon, ahol a megélhetési problémák és a közoktatás alulfinanszírozottsága mi",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-konnygaz-es-vizagyuk-franciaorszag-ujra-utcara-vonult/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg/1280px-Citro%C3%ABn_C5_Mk1_Phase_2_Police_Paris_grise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Iraq_war_protest_france_2002_0957.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10860,9 +10860,9 @@
       "dedupe_hash": "624eb1978abc60911429e00f2f70f95aa8af5e35018ad78a960a237a0d1def82",
       "pipeline_run_id": "39058653146",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T20:58:36+02:00",
-      "updated_at": "2026-10-17T20:58:36+02:00",
-      "published_at": "2026-10-17T20:58:36+02:00",
+      "created_at": "2026-10-18T10:57:00+02:00",
+      "updated_at": "2026-10-18T10:57:00+02:00",
+      "published_at": "2026-10-18T10:57:00+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -10877,9 +10877,9 @@
         "msg_ids": [],
         "control_id": 7345,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 10:56 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-18T10:56:35+02:00"
+      "live": true
     },
     {
       "id": "9a8ba9a6-5503-53ce-885c-c334e07c145f",
