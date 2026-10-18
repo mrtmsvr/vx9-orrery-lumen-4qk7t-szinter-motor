@@ -12490,9 +12490,9 @@
       }
     },
     {
-      "id": "6bedd144-1aed-576c-b236-f04203d6cbd5",
-      "slug": "2026-10-18-4-35-milliard-eve-kezdodhetett-az-elet-a-foldon",
-      "status": "pending",
+      "id": "4aca97e7-a835-56cd-bb2a-24a8601e7d09",
+      "slug": "2026-10-18-150-millio-ev-alatt-lettunk-egysejtuekbol-komplex-rendszerek",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -12501,7 +12501,7 @@
         "élet eredete",
         "biológia"
       ],
-      "title": "4,35 milliárd éve kezdődhetett az élet a Földön",
+      "title": "150 millió év alatt lettünk egysejtűekből komplex rendszerek",
       "subtitle": null,
       "lead": "Nemzetközi kutatócsoport modellezte a korai Föld környezetét, és meghatározta azt a kritikus időszakot, amikor az élet kialakulásához szükséges feltételek végleg stabilizálódtak. Az eredmények szerint már 4,35 milliárd éve adottak lehettek az alapok a biológiai fejlődéshez.",
       "key_points": [
@@ -12665,11 +12665,11 @@
       },
       "date": "2026-10-18",
       "date_label": "október 18.",
-      "url": "/tech/2026-10-18-4-35-milliard-eve-kezdodhetett-az-elet-a-foldon/",
+      "url": "/tech/2026-10-18-150-millio-ev-alatt-lettunk-egysejtuekbol-komplex-rendszerek/",
       "seo": {
-        "meta_title": "4,35 milliárd éve kezdődhetett az élet a Földön",
+        "meta_title": "150 millió év alatt lettünk egysejtűekből komplex rendszerek",
         "meta_description": "Nemzetközi kutatócsoport modellezte a korai Föld környezetét, és meghatározta azt a kritikus időszakot, amikor az élet kialakulásához szükséges feltételek végle",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-18-4-35-milliard-eve-kezdodhetett-az-elet-a-foldon/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-18-150-millio-ev-alatt-lettunk-egysejtuekbol-komplex-rendszerek/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hadean_and_Archean_continents.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -12687,9 +12687,9 @@
       "dedupe_hash": "6e2fe1a8c5c9a45e34db7cd66ce192ff42ce4b87065962158fa9008376d0b943",
       "pipeline_run_id": "39132542839",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-18T15:59:02+02:00",
-      "updated_at": "2026-10-18T15:59:02+02:00",
-      "published_at": "2026-10-18T15:59:02+02:00",
+      "created_at": "2026-10-18T19:42:54+02:00",
+      "updated_at": "2026-10-18T19:42:54+02:00",
+      "published_at": "2026-10-18T19:42:54+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12699,19 +12699,12 @@
         "title": 5,
         "image": 0,
         "sent_at": "2026-10-18T14:00:26+00:00",
-        "msg_ids": [
-          7752,
-          7753,
-          7754,
-          7755,
-          7756,
-          7757,
-          7758,
-          7759,
-          7760
-        ],
-        "control_id": 7761
-      }
+        "msg_ids": [],
+        "control_id": 7761,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "f41783dc-65b9-5176-9478-cd7bf589a3ad",
