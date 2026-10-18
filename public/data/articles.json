@@ -1,7 +1,105 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T17:24:38+02:00",
+  "updated_at": "2026-10-18T17:44:37+02:00",
   "articles": [
+    {
+      "id": "836d7b43-965f-504a-828c-79fd6a548892",
+      "slug": "2026-10-18-nyolcvanevesen-hazaarulassal-vadoljak-a-volt-nemet-hirszerzot",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Németország",
+        "hírszerzés",
+        "August Hanning",
+        "Bundestag"
+      ],
+      "title": "Nyolcvanévesen hazaárulással vádolják a volt német hírszerzőt",
+      "subtitle": null,
+      "lead": "Államtitoksértés és hazaárulási kísérlet gyanújával indult eljárás August Hanning volt német hírszerzési főnök ellen. Az eset rávilágít a titkosszolgálati vezetők utólagos ellenőrzésének hiányosságaira.",
+      "key_points": [
+        "A 80 éves August Hanning a gyanú szerint államtitkokat gyűjtött és tiltott ügynöki tevékenységet folytatott.",
+        "A berlini parlamentben a titkosszolgálati vezetők a nyilvánosság előtt számoltak be a szolgálatok tevékenységéről.",
+        "A szakmai szervezetek korábbi sürgetése ellenére sincs érvényben tilalom az egykori hírszerzési vezetők üzleti magántevékenységére vonatkozóan."
+      ],
+      "content": "Különleges eseménynek adott otthont a berlini Bundestag, ahol a titkosszolgálatok felügyeletét ellátó parlamenti bizottság (PKGr) előtt a titkosszolgálati vezetők a nyilvánosság elé álltak. Bár a szolgálatok alapvetően kerülik a nyilvánosságot, a képviselők évente egyszer televíziós közvetítéssel kísért, nyílt ülésen tájékoztatják a közvéleményt.\n\nA találkozó aktualitását súlyos belügyi fejlemények árnyékolják be: a 80 éves August Hanning ellen eljárás indult. A hatóságok gyanúja szerint az egykori hírszerző vezető államtitoknak minősülő információkat gyűjtött, hazaárulást kísérelt meg, emellett tiltott ügynöki tevékenységet folytatott.\n\nAz eset rendszerszintű hiányosságokra mutat rá, mivel szakértők már korábban szorgalmazták, hogy az egykori német titkosszolgálati vezetők számára vezessenek be életfogytig tartó tiltást bizonyos üzleti magántevékenységekre. Ezen korlátozások elmaradása közvetve hozzájárult a mostani botrány kialakulásához.\n\nA berlini bizottsági ülésen jelen volt Martina Rosenberg, a katonai elhárítás vezetője, Sinan Selen, az alkotmányvédelmi hivatal elnöke, valamint Bruno Kahl, a külföldi hírszerzés, a BND igazgatója is. Ez utóbbi a megváltozott biztonsági környezetről, különösen az Oroszország felől érkező fenyegetésekről, valamint a BND sürgős korszerűsítésének szükségességéről beszélt.",
+      "content_format": "markdown",
+      "body": [
+        "Különleges eseménynek adott otthont a berlini Bundestag, ahol a titkosszolgálatok felügyeletét ellátó parlamenti bizottság (PKGr) előtt a titkosszolgálati vezetők a nyilvánosság elé álltak. Bár a szolgálatok alapvetően kerülik a nyilvánosságot, a képviselők évente egyszer televíziós közvetítéssel kísért, nyílt ülésen tájékoztatják a közvéleményt.",
+        "A találkozó aktualitását súlyos belügyi fejlemények árnyékolják be: a 80 éves August Hanning ellen eljárás indult. A hatóságok gyanúja szerint az egykori hírszerző vezető államtitoknak minősülő információkat gyűjtött, hazaárulást kísérelt meg, emellett tiltott ügynöki tevékenységet folytatott.",
+        "Az eset rendszerszintű hiányosságokra mutat rá, mivel szakértők már korábban szorgalmazták, hogy az egykori német titkosszolgálati vezetők számára vezessenek be életfogytig tartó tiltást bizonyos üzleti magántevékenységekre. Ezen korlátozások elmaradása közvetve hozzájárult a mostani botrány kialakulásához.",
+        "A berlini bizottsági ülésen jelen volt Martina Rosenberg, a katonai elhárítás vezetője, Sinan Selen, az alkotmányvédelmi hivatal elnöke, valamint Bruno Kahl, a külföldi hírszerzés, a BND igazgatója is. Ez utóbbi a megváltozott biztonsági környezetről, különösen az Oroszország felől érkező fenyegetésekről, valamint a BND sürgős korszerűsítésének szükségességéről beszélt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bundestag_Berlin_Deutschland_Reichstagsgeb%C3%A4ude_-_07.jpg/1280px-Bundestag_Berlin_Deutschland_Reichstagsgeb%C3%A4ude_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 801,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Reichstag with flag of unity, Berlin, Germany.",
+        "credit": "Norbert Nagel / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bundestag_Berlin_Deutschland_Reichstagsgeb%C3%A4ude_-_07.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261018_202642-nemet-hirszerzes-lebukott-exfonok-bizalomvesztes-veszelyes-titoktudok",
+          "title": "Nyugdíjasként is saját fontosságát próbálta bizonyítani a letartóztatott volt német kémfőnök",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T13:33:16+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-18T17:44:37+02:00"
+      },
+      "hot_score": 5.46,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261018_202642-nemet-hirszerzes-lebukott-exfonok-bizalomvesztes-veszelyes-titoktudok"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/vilag/2026-10-18-nyolcvanevesen-hazaarulassal-vadoljak-a-volt-nemet-hirszerzot/",
+      "seo": {
+        "meta_title": "Nyolcvanévesen hazaárulással vádolják a volt német hírszerző",
+        "meta_description": "Államtitoksértés és hazaárulási kísérlet gyanújával indult eljárás August Hanning volt német hírszerzési főnök ellen. Az eset rávilágít a titkosszolgálati vezet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-18-nyolcvanevesen-hazaarulassal-vadoljak-a-volt-nemet-hirszerzot/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Bundestag_Berlin_Deutschland_Reichstagsgeb%C3%A4ude_-_07.jpg/1280px-Bundestag_Berlin_Deutschland_Reichstagsgeb%C3%A4ude_-_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8f16de0a60ed7b3852e7b43bd0751cddf95c643662464f7069294f0d585a2789",
+      "pipeline_run_id": "39122371765",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T17:44:37+02:00",
+      "updated_at": "2026-10-18T17:44:37+02:00",
+      "published_at": "2026-10-18T17:44:37+02:00",
+      "expires_at": null
+    },
     {
       "id": "d49209fe-de33-590a-b8f4-74104d1e1ee9",
       "slug": "2026-10-18-a-filozofus-aki-az-elte-rol-ugandaba-ment-robotikat-tanitani",
