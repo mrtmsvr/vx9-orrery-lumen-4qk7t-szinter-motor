@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T06:44:02+02:00",
+  "updated_at": "2026-10-18T09:16:00+02:00",
   "articles": [
+    {
+      "id": "52854d5e-fba4-53e6-a794-ab7d1f007733",
+      "slug": "2026-10-17-parancsra-gyilkoltak-zaporizzsjaban-lehallgattak-az-orosz-katonak-keg",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "orosz-ukrán háború",
+        "Zaporizzzsja",
+        "háborús bűncselekmény",
+        "hadifoglyok"
+      ],
+      "title": "Parancsra gyilkoltak Zaporizzsjában: lehallgatták az orosz katonák kegyetlen üzeneteit",
+      "subtitle": null,
+      "lead": "Az ukrán hadifoglyok brutális kivégzését rögzítették a zaporizzsjai fronton lehallgatott kommunikációs csatornák. A hangfelvételek a jövőbeli eljárásokban kulcsfontosságú bizonyítékként szolgálnak majd a háborús bűncselekmény ügyében.",
+      "key_points": [
+        "A fegyvertelen ukrán hadifoglyok meggyilkolása a zaporizzsjai frontszakaszon, a huljapoljei térségben történt.",
+        "Az ukrán déli erők tájékoztatása szerint orosz katonai rádióadások lehallgatásával jutottak a bűncselekményt bizonyító felvételekhez.",
+        "A gyilkossági parancsot az alakulat egyik vezetője, Valerij Kazak ezredes kezdeményezésére adták ki."
+      ],
+      "content": "Kegyetlen háborús bűncselekmény történt a zaporizzsjai frontszakaszon, ahol orosz katonák fegyvertelen ukrán hadifoglyokat végeztek ki. Az eset néhány nappal ezelőtt a huljapoljei térségben zajlott, és vélhetően két ukrán katona életét követelte.\n\nAz eseményekről Makszim Kravcsuk, az ukrán déli erők szóvivője számolt be az Ukrajinszka Pravda hírportálnak. Elmondása szerint az ukrán egységek lehallgatták az orosz kommunikációs csatornákat, így jutottak azokhoz a hangfelvételekhez, amelyek dokumentálják a történteket.\n\nA lehallgatott üzenetváltás az orosz 38. önálló gépkocsizó lövészdandár helyszínen lévő katonái és a parancsnokok között zajlott. A felvételeken egyértelműen hallható, amint az irányító utasítást ad a sebesültek kivégzésére.\n\nA katonák végrehajtották az utasítást, és megölték a foglyokat. A kiszivárgott információk szerint a halálos parancsok kiadását a dandárnál szolgáló Valerij Kazak ezredes kezdeményezte.\n\nA birtokba vett hangfelvételeket és bizonyítékokat a hatóságok a háborús bűncselekmények elkövetőinek felelősségre vonását célzó későbbi bírósági eljárásokban fogják felhasználni.",
+      "content_format": "markdown",
+      "body": [
+        "Kegyetlen háborús bűncselekmény történt a zaporizzsjai frontszakaszon, ahol orosz katonák fegyvertelen ukrán hadifoglyokat végeztek ki. Az eset néhány nappal ezelőtt a huljapoljei térségben zajlott, és vélhetően két ukrán katona életét követelte.",
+        "Az eseményekről Makszim Kravcsuk, az ukrán déli erők szóvivője számolt be az Ukrajinszka Pravda hírportálnak. Elmondása szerint az ukrán egységek lehallgatták az orosz kommunikációs csatornákat, így jutottak azokhoz a hangfelvételekhez, amelyek dokumentálják a történteket.",
+        "A lehallgatott üzenetváltás az orosz 38. önálló gépkocsizó lövészdandár helyszínen lévő katonái és a parancsnokok között zajlott. A felvételeken egyértelműen hallható, amint az irányító utasítást ad a sebesültek kivégzésére.",
+        "A katonák végrehajtották az utasítást, és megölték a foglyokat. A kiszivárgott információk szerint a halálos parancsok kiadását a dandárnál szolgáló Valerij Kazak ezredes kezdeményezte.",
+        "A birtokba vett hangfelvételeket és bizonyítékokat a hatóságok a háborús bűncselekmények elkövetőinek felelősségre vonását célzó későbbi bírósági eljárásokban fogják felhasználni."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 163,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/War_in_Ukraine_%282022%29_en.png/1280px-War_in_Ukraine_%282022%29_en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 842,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "full-scale Russo-Ukrainian war – full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War [edit]",
+        "credit": "Homoatrox / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:War_in_Ukraine_(2022)_en.png"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261017_hadifoglyok-kivegzese-oroszok-zaporizzsja-haborus-buncselekmeny",
+          "title": "„Végezzetek a sebesült rohadékkal” – ukrán hadifoglyokat gyilkoltak meg az oroszok Zaporizzsjában",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:42+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Végezzetek a sebesült rohadékkal",
+        "who": "Orosz parancsnok",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-18T09:16:00+02:00"
+      },
+      "hot_score": 5.33,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261017_hadifoglyok-kivegzese-oroszok-zaporizzsja-haborus-buncselekmeny"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/vilag/2026-10-17-parancsra-gyilkoltak-zaporizzsjaban-lehallgattak-az-orosz-katonak-keg/",
+      "seo": {
+        "meta_title": "Parancsra gyilkoltak Zaporizzsjában: lehallgatták az orosz k",
+        "meta_description": "Az ukrán hadifoglyok brutális kivégzését rögzítették a zaporizzsjai fronton lehallgatott kommunikációs csatornák. A hangfelvételek a jövőbeli eljárásokban kulcs",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-parancsra-gyilkoltak-zaporizzsjaban-lehallgattak-az-orosz-katonak-keg/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/War_in_Ukraine_%282022%29_en.png/1280px-War_in_Ukraine_%282022%29_en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ae3bd5bfbf6f6af8972931b729bc819c9a33d6f03b81ba33de1cdaa2f2ccc4f2",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T09:16:00+02:00",
+      "updated_at": "2026-10-18T09:16:00+02:00",
+      "published_at": "2026-10-18T09:16:00+02:00",
+      "expires_at": null
+    },
     {
       "id": "167ba6fd-e608-554c-8f70-bd3134f4f476",
       "slug": "2026-10-18-fel-ezermilliardos-tobbletforrast-kap-az-egeszsegugy-2027-ben",
