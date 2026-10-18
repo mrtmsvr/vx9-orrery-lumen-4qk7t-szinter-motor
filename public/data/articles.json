@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T13:34:50+02:00",
+  "updated_at": "2026-10-18T13:35:22+02:00",
   "articles": [
+    {
+      "id": "a6f3e706-8cc9-5217-8061-5cb4f6c3cc57",
+      "slug": "2026-10-18-biologiai-nem-szerint-osztjak-be-a-betegeket-az-angol-korhazakban",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "egészségügy",
+        "Nagy-Britannia",
+        "jogalkotás",
+        "NHS"
+      ],
+      "title": "Biológiai nem szerint osztják be a betegeket az angol kórházakban",
+      "subtitle": null,
+      "lead": "Az angliai egészségügyi szolgálat új iránymutatása értelmében a transznemű betegeket főszabály szerint a biológiai nemüknek megfelelő kórtermekben kell elhelyezni. A módosításra a brit legfelsőbb bíróság korábbi határozata miatt volt szükség.",
+      "key_points": [
+        "A transznemű betegeket a biológiai nemüknek megfelelő egynemű kórtermekben helyezik el.",
+        "A mosdókat és öltözőket is a biológiai nem alapján kell használni.",
+        "A döntést a brit legfelsőbb bíróság korábbi, egyenlőségi jogszabályokat érintő ítélete előzte meg."
+      ],
+      "content": "Az NHS England csütörtökön közzétett útmutatása alapján az angliai kórházakban a transznemű betegek elhelyezésénél a biológiai nemet kell figyelembe venni. A BBC által ismertetett előírások szerint a betegeket főszabály szerint egynemű kórtermekben vagy kórtermi részlegeken kell elhelyezni, figyelembe véve a klinikai szükségleteket, a biztonságot és a méltóságot is.\n\nA szabályozás kiterjed az egészségügyi dolgozók által használt, nemek szerint elkülönített öltözőkre és mosdókra is, amelyeket szintén a biológiai nem, és nem a nemi identitás alapján kell használni. Amennyiben a biológiai nem szerinti elhelyezés klinikai szempontból nem indokolt vagy nem lehetséges, a kórházaknak alternatív megoldást kell találniuk, és nemsemleges vagy egyéni használatú helyiségeket is biztosítaniuk kell a hátrányos megkülönböztetés elkerülése érdekében.\n\nA korábbi gyakorlatban a betegek és a személyzet a nemi identitásuknak megfelelő létesítményeket és kórtermeket használhatták, így egy transznemű nő például női kórteremben kaphatott helyet. Ezt az iránymutatást azonban azért vonták vissza, mert a brit legfelsőbb bíróság 2025 áprilisában kimondta, hogy az egyenlőségi jogszabályok alkalmazásában a „nem” fogalma a biológiai nemet jelenti, a „nő” kifejezés pedig a biológiai nőre vonatkozik.\n\nAz új előírások rögzítik, hogy egyedi döntésekre is szükség lehet, és a betegek klinikai szükségleteit minden körülmények között biztosítani kell, különösen a sürgősségi osztályokon, ahol az egészségügyi szempontok élveznek elsőbbséget. Az angliai intézményekben emellett a kapacitáshiány is nehezítette az egynemű kórtermek fenntartását.",
+      "content_format": "markdown",
+      "body": [
+        "Az NHS England csütörtökön közzétett útmutatása alapján az angliai kórházakban a transznemű betegek elhelyezésénél a biológiai nemet kell figyelembe venni. A BBC által ismertetett előírások szerint a betegeket főszabály szerint egynemű kórtermekben vagy kórtermi részlegeken kell elhelyezni, figyelembe véve a klinikai szükségleteket, a biztonságot és a méltóságot is.",
+        "A szabályozás kiterjed az egészségügyi dolgozók által használt, nemek szerint elkülönített öltözőkre és mosdókra is, amelyeket szintén a biológiai nem, és nem a nemi identitás alapján kell használni. Amennyiben a biológiai nem szerinti elhelyezés klinikai szempontból nem indokolt vagy nem lehetséges, a kórházaknak alternatív megoldást kell találniuk, és nemsemleges vagy egyéni használatú helyiségeket is biztosítaniuk kell a hátrányos megkülönböztetés elkerülése érdekében.",
+        "A korábbi gyakorlatban a betegek és a személyzet a nemi identitásuknak megfelelő létesítményeket és kórtermeket használhatták, így egy transznemű nő például női kórteremben kaphatott helyet. Ezt az iránymutatást azonban azért vonták vissza, mert a brit legfelsőbb bíróság 2025 áprilisában kimondta, hogy az egyenlőségi jogszabályok alkalmazásában a „nem” fogalma a biológiai nemet jelenti, a „nő” kifejezés pedig a biológiai nőre vonatkozik.",
+        "Az új előírások rögzítik, hogy egyedi döntésekre is szükség lehet, és a betegek klinikai szükségleteit minden körülmények között biztosítani kell, különösen a sürgősségi osztályokon, ahol az egészségügyi szempontok élveznek elsőbbséget. Az angliai intézményekben emellett a kapacitáshiány is nehezítette az egynemű kórtermek fenntartását."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 241,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Royal_London_Hospital_New.jpg/1280px-Royal_London_Hospital_New.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Façade of the Royal London Hospital",
+        "credit": "ClippednPinned / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Royal_London_Hospital_New.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261018_uj-szabalyozas-az-angliai-korhazakban-a-transznemu-betegek-elhelyezesenel-a-biologiai-nemet-kell-figyelembe-venni",
+          "title": "Új szabályozás az angliai kórházakban: a transznemű betegek elhelyezésénél a biológiai nemet kell figyelembe venni",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-18T13:33:19+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-18T13:35:22+02:00"
+      },
+      "hot_score": 5.45,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261018_uj-szabalyozas-az-angliai-korhazakban-a-transznemu-betegek-elhelyezesenel-a-biologiai-nemet-kell-figyelembe-venni"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/kozelet/2026-10-18-biologiai-nem-szerint-osztjak-be-a-betegeket-az-angol-korhazakban/",
+      "seo": {
+        "meta_title": "Biológiai nem szerint osztják be a betegeket az angol kórház",
+        "meta_description": "Az angliai egészségügyi szolgálat új iránymutatása értelmében a transznemű betegeket főszabály szerint a biológiai nemüknek megfelelő kórtermekben kell elhelyez",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-biologiai-nem-szerint-osztjak-be-a-betegeket-az-angol-korhazakban/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Royal_London_Hospital_New.jpg/1280px-Royal_London_Hospital_New.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "0d90d4c66d29638ecbcd5f1cc8c7d71100b582c3680bf925ff8d73c1cc6bc987",
+      "pipeline_run_id": "39122371765",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T13:35:22+02:00",
+      "updated_at": "2026-10-18T13:35:22+02:00",
+      "published_at": "2026-10-18T13:35:22+02:00",
+      "expires_at": null
+    },
     {
       "id": "2563f473-9541-5c65-af10-69a7f39ab0e5",
       "slug": "2026-10-18-forsthoffer-agnes-kiegesziti-vagyonnyilatkozatat-csaladi-cegerdekelts",
