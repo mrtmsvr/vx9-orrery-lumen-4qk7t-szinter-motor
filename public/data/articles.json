@@ -1,7 +1,105 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T09:56:08+02:00",
+  "updated_at": "2026-10-18T10:16:35+02:00",
   "articles": [
+    {
+      "id": "057ba041-9954-5a7f-b44e-afa46f45a262",
+      "slug": "2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Nvidia",
+        "videokártya",
+        "mesterséges intelligencia",
+        "hardver",
+        "tech"
+      ],
+      "title": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
+      "subtitle": null,
+      "lead": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, hogy a vállalat a nagyobb profitlehetőséget nyújtó adatközpontos chipek felé tereli a kapacitásait.",
+      "key_points": [
+        "Az Nvidia leállíthatja a GeForce RTX 5090 asztali grafikus kártya gyártását.",
+        "A gyártási kapacitásokat a mesterséges intelligenciához használt adatközpontos chipek felé csoportosíthatják át.",
+        "A helyettesítésére szánt RTX 5080 esetében még sok a nyitott kérdés a valós teljesítményt illetően."
+      ],
+      "content": "Ha mesterséges intelligencia, akkor Nvidia – a technológiai óriás jelenleg a világ legértékesebb vállalataként diktálja a tempót, de ennek most a gamerek láthatják kárát. A TechSpot beszámolója szerint ugyanis leállíthatják a csúcskategóriás, asztali számítógépekbe szánt GeForce RTX 5090 grafikus kártya gyártását, mivel a mesterséges intelligenciához kapcsolódó chipek elsőbbséget élveznek a játékra optimalizált hardverekkel szemben. Magyarán a cég sokkal több bevételre tehet szert az adatközpontokba szánt gyorsítókon.\n\nA GeForce RTX 5090 a Blackwell architektúrára épülő generáció csúcsmodellje, amely 2025 januárjában debütált a piacon. A hardver 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, így teljesítménye kiemelkedő a nagy felbontású játékok, a sugárkövetés és a professzionális grafikai terhelések mellett is. Ugyanez a GB202 jelzésű grafikus lapka azonban nemcsak a játékosok igényeit szolgálja ki, hanem professzionális számítási feladatokra is tökéletesen alkalmas, ami teljesen más profitlehetőségeket teremt a gyártó számára.\n\nTermészetesen szó van lehetséges helyettesítő termékekről is, mint például az új, 24 GB-os VRAM-mal szerelt RTX 5080, ám ennek képességei körül egyelőre sok a kérdőjel. A Tom’s Hardware értesülései szerint ez a modell válhatna a legerősebb gamerkártyává, miközben a jelenlegi 16 GB-os verzió eltűnne a kínálatból, de a nagyobb memória önmagában még nem garantálja az RTX 5090 szintű teljesítményt. A hivatalos bejelentés eddig elmaradt, a döntés hátterében pedig kizárólag az üzleti racionalitás áll: a vállalat ott csoportosítja át az erőforrásait, ahol a legnagyobb haszonnal tudja értékesíteni a technológiát.",
+      "content_format": "markdown",
+      "body": [
+        "Ha mesterséges intelligencia, akkor Nvidia – a technológiai óriás jelenleg a világ legértékesebb vállalataként diktálja a tempót, de ennek most a gamerek láthatják kárát. A TechSpot beszámolója szerint ugyanis leállíthatják a csúcskategóriás, asztali számítógépekbe szánt GeForce RTX 5090 grafikus kártya gyártását, mivel a mesterséges intelligenciához kapcsolódó chipek elsőbbséget élveznek a játékra optimalizált hardverekkel szemben. Magyarán a cég sokkal több bevételre tehet szert az adatközpontokba szánt gyorsítókon.",
+        "A GeForce RTX 5090 a Blackwell architektúrára épülő generáció csúcsmodellje, amely 2025 januárjában debütált a piacon. A hardver 32 GB GDDR7 memóriával és 21 760 CUDA-maggal érkezett, így teljesítménye kiemelkedő a nagy felbontású játékok, a sugárkövetés és a professzionális grafikai terhelések mellett is. Ugyanez a GB202 jelzésű grafikus lapka azonban nemcsak a játékosok igényeit szolgálja ki, hanem professzionális számítási feladatokra is tökéletesen alkalmas, ami teljesen más profitlehetőségeket teremt a gyártó számára.",
+        "Természetesen szó van lehetséges helyettesítő termékekről is, mint például az új, 24 GB-os VRAM-mal szerelt RTX 5080, ám ennek képességei körül egyelőre sok a kérdőjel. A Tom’s Hardware értesülései szerint ez a modell válhatna a legerősebb gamerkártyává, miközben a jelenlegi 16 GB-os verzió eltűnne a kínálatból, de a nagyobb memória önmagában még nem garantálja az RTX 5090 szintű teljesítményt. A hivatalos bejelentés eddig elmaradt, a döntés hátterében pedig kizárólag az üzleti racionalitás áll: a vállalat ott csoportosítja át az erőforrásait, ahol a legnagyobb haszonnal tudja értékesíteni a technológiát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 263,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 718,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "NVIDIA GeForce 7300 LE graphics card",
+        "credit": "Joydeep / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:NVIDIA_GeForce_7300_LE.JPG"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa",
+          "title": "Rossz hír: eltűnhet a boltokból az Nvidia GeForce RTX 5090",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-17T20:58:37+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-18T10:16:35+02:00"
+      },
+      "hot_score": 5.8,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261017_nvidia-geforce-rtx-5090-gyartas-leallitasa"
+        ]
+      },
+      "date": "2026-10-17",
+      "date_label": "október 17.",
+      "url": "/tech/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet/",
+      "seo": {
+        "meta_title": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
+        "meta_description": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, ho",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "50e99db6f4ff5ea4b5496117096988da721f53cac54faca91716f116fe1296b7",
+      "pipeline_run_id": "39058653146",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:16:35+02:00",
+      "updated_at": "2026-10-18T10:16:35+02:00",
+      "published_at": "2026-10-18T10:16:35+02:00",
+      "expires_at": null
+    },
     {
       "id": "39c9fc1d-6f9a-585c-a2aa-9ddcc63e8c05",
       "slug": "2026-10-17-florence-pugh-foszereplesevel-keszult-az-edentol-keletre-uj-sorozatad",

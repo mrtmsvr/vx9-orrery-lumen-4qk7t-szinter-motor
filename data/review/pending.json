@@ -11076,9 +11076,9 @@
       }
     },
     {
-      "id": "2b37be4c-a1c4-5531-9da8-b868a6cb672f",
-      "slug": "2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol",
-      "status": "pending",
+      "id": "057ba041-9954-5a7f-b44e-afa46f45a262",
+      "slug": "2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet",
+      "status": "published",
       "category": "tech",
       "subcategory": null,
       "tags": [
@@ -11088,7 +11088,7 @@
         "hardver",
         "tech"
       ],
-      "title": "Búcsúzhatunk a piac legdurvább videokártyájától?",
+      "title": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
       "subtitle": null,
       "lead": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, hogy a vállalat a nagyobb profitlehetőséget nyújtó adatközpontos chipek felé tereli a kapacitásait.",
       "key_points": [
@@ -11250,11 +11250,11 @@
       },
       "date": "2026-10-17",
       "date_label": "október 17.",
-      "url": "/tech/2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol/",
+      "url": "/tech/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet/",
       "seo": {
-        "meta_title": "Búcsúzhatunk a piac legdurvább videokártyájától?",
+        "meta_title": "Játékosok helyett az MI kaphatja a legerősebb Nvidia chipet",
         "meta_description": "A mesterséges intelligencia térnyerése miatt az Nvidia beszüntetheti a csúcskategóriás GeForce RTX 5090 asztali videokártya gyártását. A lépés mögött az áll, ho",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-bucsuzhatunk-a-piac-legdurvabb-videokartyajatol/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-jatekosok-helyett-az-mi-kaphatja-a-legerosebb-nvidia-chipet/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/NVIDIA_GeForce_7300_LE.JPG/1280px-NVIDIA_GeForce_7300_LE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11272,9 +11272,9 @@
       "dedupe_hash": "50e99db6f4ff5ea4b5496117096988da721f53cac54faca91716f116fe1296b7",
       "pipeline_run_id": "39058653146",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T20:58:37+02:00",
-      "updated_at": "2026-10-17T20:58:37+02:00",
-      "published_at": "2026-10-17T20:58:37+02:00",
+      "created_at": "2026-10-18T10:16:35+02:00",
+      "updated_at": "2026-10-18T10:16:35+02:00",
+      "published_at": "2026-10-18T10:16:35+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11284,19 +11284,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-17T18:59:28+00:00",
-        "msg_ids": [
-          7351,
-          7352,
-          7353,
-          7354,
-          7355,
-          7356,
-          7357,
-          7358,
-          7359
-        ],
-        "control_id": 7360
-      }
+        "msg_ids": [],
+        "control_id": 7360,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "176b2cf5-4964-514b-a7d0-a83fb21ac9d8",
