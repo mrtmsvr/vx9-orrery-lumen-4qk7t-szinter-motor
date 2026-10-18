@@ -12129,19 +12129,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-17T18:59:58+00:00",
-        "msg_ids": [
-          7386,
-          7387,
-          7388,
-          7389,
-          7390,
-          7391,
-          7392,
-          7393,
-          7394,
-          7425
-        ],
-        "control_id": 7395
+        "msg_ids": [],
+        "control_id": 7395,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
