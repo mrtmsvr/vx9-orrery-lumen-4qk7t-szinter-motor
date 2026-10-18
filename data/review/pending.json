@@ -15120,6 +15120,160 @@
         ],
         "control_id": 7550
       }
+    },
+    {
+      "id": "5c5134f8-a690-5e7c-a4a7-f34620284caf",
+      "slug": "2026-10-18-a-belfal-megerositesevel-forditottak-vissza-a-zsirmajat-amerikai-kuta",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "orvostudomány",
+        "zsírmáj",
+        "bélflóra",
+        "kutatás"
+      ],
+      "title": "A bélfal megerősítésével fordították vissza a zsírmájat amerikai kutatók",
+      "subtitle": null,
+      "lead": "Egy újonnan kifejlesztett kísérleti molekulával sikerült visszafordítani a súlyos zsírmájbetegséget állatkísérletekben a Michigani Egyetem kutatóinak. A terápia meglepő módon nem közvetlenül a májsejtekre hat, hanem a bélrendszer védőrétegének megerősítésével vágja el a gyulladást szító anyagok útját.",
+      "key_points": [
+        "A DT-109 nevű kísérleti tripeptid sikeresen visszafordította a metabolikus zsírmájat (MASH) egereknél és főemlősöknél.",
+        "A molekula visszaszorította az ammóniát termelő Clostridium perfringens baktériumot, megóvva a bélhám épségét.",
+        "A májzsugorhoz és daganathoz is vezető kórkép a világ felnőtt lakosságának mintegy 7 százalékát érinti.",
+        "Bár az eredmények főemlősöknél különösen biztatóak, a hatóanyag emberi alkalmazásához további klinikai vizsgálatok kellenek."
+      ],
+      "content": "A The Journal of Clinical Investigation című szaklapban közzétett kutatás szerint a DT-109 kódjelű hatóanyag képes volt megállítani és visszafordítani a metabolikus diszfunkcióhoz társuló szteatohepatitiszt (MASH). A Michigani Egyetem orvosi karának munkatársai állatkísérletekben vizsgálták a glicin alapú, három aminosavból álló kismolekulát, amely ahelyett, hogy magát a májszövetet célozná, az emésztőrendszer és a mikrobiom egyensúlyát állítja helyre.\n\nA MASH a zsírmájbetegség agresszív formája, amely a becslések szerint a Föld lakosságának mintegy 7 százalékát érinti. A felhalmozódó zsírréteg krónikus gyulladást és sejtkárosodást okoz a májban, idővel kötőszövetes hegesedést, májzsugort, májelégtelenséget vagy májrákot idézve elő. Bár az utóbbi években történtek előrelépések a gyógyszeres kezelésben, a hatékony terápiás lehetőségek köre továbbra is rendkívül szűkös.\n\nA vizsgálatot vezető Eugene Chen és kutatócsoportja feltárta a májkárosodáshoz vezető láncreakció pontos lépéseit. Megfigyelték, hogy a betegségben kulcsszerepet játszik a Clostridium perfringens nevű baktérium túlszaporodása a bélben. Ez a mikroba nagy mennyiségű ammóniát termel, ami kikezdi a bélnyálkahártya belső védőrétegét. Amikor ez a gát áteresztővé válik, a baktériumok által termelt toxinok kijutnak a keringésbe, és közvetlenül a májba jutva mozgósítják az immunrendszert.\n\nA vérárammal érkező méreganyagok a CD8+ T-sejtek túlzott aktivitását váltják ki, ezek az immunsejtek pedig a fertőzések leküzdése helyett a máj saját szöveteit kezdik pusztítani. A kísérleti DT-109 ezt a folyamatot szakítja meg a gyökerénél: csökkenti a Clostridium perfringens jelenlétét, mérsékli az ammóniaszintet, és megakadályozza, hogy a gyulladást kiváltó mikrobiális anyagok átlépjék a bélfalat.\n\nA molekula hatékonyságát egereken és nem emberi főemlősökön is tesztelték. A makákók bevonása kulcsfontosságú lépés volt, mivel az ő bélflórájuk és májműködésük jóval közelebb áll az emberéhez, mint a rágcsálóké. A kezelés náluk is mérhetően csökkentette a májgyulladást és a zsírosodás mértékét. Bár egyetlen laboratóriumi kísérletsorozat még nem jelent azonnal elérhető gyógyszert, az eredmény új irányt mutat a májbetegségek és a szív-érrendszeri szövődmények megelőzésében.",
+      "content_format": "markdown",
+      "body": [
+        "A The Journal of Clinical Investigation című szaklapban közzétett kutatás szerint a DT-109 kódjelű hatóanyag képes volt megállítani és visszafordítani a metabolikus diszfunkcióhoz társuló szteatohepatitiszt (MASH). A Michigani Egyetem orvosi karának munkatársai állatkísérletekben vizsgálták a glicin alapú, három aminosavból álló kismolekulát, amely ahelyett, hogy magát a májszövetet célozná, az emésztőrendszer és a mikrobiom egyensúlyát állítja helyre.",
+        "A MASH a zsírmájbetegség agresszív formája, amely a becslések szerint a Föld lakosságának mintegy 7 százalékát érinti. A felhalmozódó zsírréteg krónikus gyulladást és sejtkárosodást okoz a májban, idővel kötőszövetes hegesedést, májzsugort, májelégtelenséget vagy májrákot idézve elő. Bár az utóbbi években történtek előrelépések a gyógyszeres kezelésben, a hatékony terápiás lehetőségek köre továbbra is rendkívül szűkös.",
+        "A vizsgálatot vezető Eugene Chen és kutatócsoportja feltárta a májkárosodáshoz vezető láncreakció pontos lépéseit. Megfigyelték, hogy a betegségben kulcsszerepet játszik a Clostridium perfringens nevű baktérium túlszaporodása a bélben. Ez a mikroba nagy mennyiségű ammóniát termel, ami kikezdi a bélnyálkahártya belső védőrétegét. Amikor ez a gát áteresztővé válik, a baktériumok által termelt toxinok kijutnak a keringésbe, és közvetlenül a májba jutva mozgósítják az immunrendszert.",
+        "A vérárammal érkező méreganyagok a CD8+ T-sejtek túlzott aktivitását váltják ki, ezek az immunsejtek pedig a fertőzések leküzdése helyett a máj saját szöveteit kezdik pusztítani. A kísérleti DT-109 ezt a folyamatot szakítja meg a gyökerénél: csökkenti a Clostridium perfringens jelenlétét, mérsékli az ammóniaszintet, és megakadályozza, hogy a gyulladást kiváltó mikrobiális anyagok átlépjék a bélfalat.",
+        "A molekula hatékonyságát egereken és nem emberi főemlősökön is tesztelték. A makákók bevonása kulcsfontosságú lépés volt, mivel az ő bélflórájuk és májműködésük jóval közelebb áll az emberéhez, mint a rágcsálóké. A kezelés náluk is mérhetően csökkentette a májgyulladást és a zsírosodás mértékét. Bár egyetlen laboratóriumi kísérletsorozat még nem jelent azonnal elérhető gyógyszert, az eredmény új irányt mutat a májbetegségek és a szív-érrendszeri szövődmények megelőzésében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 331,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg/1280px-School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Built in 2003-2006, this Postmodern-style building was designed by Centerbrook Architects for the University of Michigan School of Public Health, incorporating an existing building built in 1942 and e",
+        "credit": "w_lemay / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:School_of_Public_Health_Building,_University_of_Michigan,_Observatory_Street_and_Medical_Center_Drive,_Ann_Arbor,_MI.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+          "title": "New drug reverses severe fatty liver disease by repairing the gut",
+          "publisher": "sciencedaily.com",
+          "license": null,
+          "accessed_at": "2026-10-18T10:17:45+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Egyértelmű bizonyítékot látunk arra, hogy a DT-109 védi a bél hámrétegét, csökkentve a MASH kialakulásához és súlyosbodásához hozzájáruló káros mikrobiális termékek beáramlását a szervezetbe.",
+        "who": "Eugene Chen, a Michigani Egyetem kardiovaszkuláris orvostani professzora",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.84,
+      "title_options": [
+        "A bélfal megerősítésével fordították vissza a zsírmájat amerikai kutatók",
+        "Új kísérleti molekula fordította vissza a zsírmájat majmokban",
+        "Nem a májban, hanem a bélben fékezték meg a zsírmájat",
+        "A bélben találták meg a zsírmáj ellenszerét a Michigani Egyetem kutatói",
+        "Hogyan tehet tönkre egyetlen bélbaktérium egy létfontosságú szervet?",
+        "Kiderült, miért a belek felől kell támadni a súlyos zsírmájat"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg/1280px-School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Built in 2003-2006, this Postmodern-style building was designed by Centerbrook Architects for the University of Michigan School of Public Health, incorporating an existing building built in 1942 and e",
+          "credit": "w_lemay / Wikimedia Commons",
+          "license": "CC BY-SA 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:School_of_Public_Health_Building,_University_of_Michigan,_Observatory_Street_and_Medical_Center_Drive,_Ann_Arbor,_MI.jpg",
+          "vision_score": 8.0
+        }
+      ],
+      "story": [
+        {
+          "title": "New drug reverses severe fatty liver disease by repairing the gut",
+          "link": "https://www.sciencedaily.com/releases/2026/10/261016080912.htm",
+          "summary": "Scientists have discovered that a potential new drug can reverse severe fatty liver disease in animal models by restoring gut health and blocking harmful substances from reaching the liver. The breakthrough could pave the way for new treatments for liver disease and potentially other serious conditions, including cardiovascular disease.",
+          "source": "sciencedaily.com",
+          "related": false,
+          "hot_score": 5.84
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.sciencedaily.com/releases/2026/10/261016080912.htm"
+        ]
+      },
+      "date": "2026-10-18",
+      "date_label": "október 18.",
+      "url": "/eletmod/2026-10-18-a-belfal-megerositesevel-forditottak-vissza-a-zsirmajat-amerikai-kuta/",
+      "seo": {
+        "meta_title": "A bélfal megerősítésével fordították vissza a zsírmájat amer",
+        "meta_description": "Egy újonnan kifejlesztett kísérleti molekulával sikerült visszafordítani a súlyos zsírmájbetegséget állatkísérletekben a Michigani Egyetem kutatóinak. A terápia",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-18-a-belfal-megerositesevel-forditottak-vissza-a-zsirmajat-amerikai-kuta/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg/1280px-School_of_Public_Health_Building%2C_University_of_Michigan%2C_Observatory_Street_and_Medical_Center_Drive%2C_Ann_Arbor%2C_MI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "5a1e9a0a29fe89a1dd0cbdbad67280ff7a7cee05422a7fb270d6dd653871084e",
+      "pipeline_run_id": "39108875173",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-18T10:19:55+02:00",
+      "updated_at": "2026-10-18T10:19:55+02:00",
+      "published_at": "2026-10-18T10:19:55+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-18T08:19:30+00:00",
+        "msg_ids": [
+          7552,
+          7553,
+          7555
+        ],
+        "control_id": 7554
+      },
+      "live": true
     }
   ]
 }
