@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T19:41:56+02:00",
+  "updated_at": "2026-10-18T19:42:13+02:00",
   "articles": [
     {
       "id": "03ce26db-690a-5eea-8f3e-380f8fe642f2",
@@ -964,15 +964,16 @@
       "word_count": 208,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Museum_of_Hungarian_Agriculture%2C_Budapest.jpg/1280px-Museum_of_Hungarian_Agriculture%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/6fda777a873f38af.jpg",
+        "width": 2037,
+        "height": 1321,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Museum of Hungarian Agriculture, Budapest",
-        "credit": "Slyronit / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Museum_of_Hungarian_Agriculture,_Budapest.jpg"
+        "alt": "wheat, field, cereals, wheat field, barley, crops, wheat crops, arable land, agriculture, farm, farming, cultivation, nature, landscape, rural, countryside, wheat, wheat, wheat, wheat, wheat",
+        "credit": "Candiix / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/wheat-field-cereals-wheat-field-3241114/",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/6fda777a873f38af.jpg",
+        "orig_url": "https://pixabay.com/get/g3b6960f806fedd0a41b0e9942e95346b0d022352fc94825dbec5a6039a9ccb8d936d1bd62fe922bf01d7e465455f8ac832790c5169e319271715d25b7d1082af_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -1007,7 +1008,7 @@
         "meta_title": "Bóna Szabolcs: változnak az aszály sújtotta gazdák támogatás",
         "meta_description": "Az aszály okozta termelési nehézségek miatt Bóna Szabolcs, az agrár- és élelmiszergazdaságért felelős miniszter módosította az agrár-környezetgazdálkodási és az",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-18-bona-szabolcs-valtoznak-az-aszaly-sujtotta-gazdak-tamogatasi-szabalya/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Museum_of_Hungarian_Agriculture%2C_Budapest.jpg/1280px-Museum_of_Hungarian_Agriculture%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/6fda777a873f38af.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -1025,7 +1026,7 @@
       "pipeline_run_id": "39132542839",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-18T16:00:46+02:00",
-      "updated_at": "2026-10-18T16:00:46+02:00",
+      "updated_at": "2026-10-18T19:42:13+02:00",
       "published_at": "2026-10-18T16:00:46+02:00",
       "expires_at": null
     },
