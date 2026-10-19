@@ -13317,12 +13317,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-19T05:13:19+00:00",
-        "msg_ids": [
-          7908,
-          7909
-        ],
-        "control_id": 7910
-      }
+        "msg_ids": [],
+        "control_id": 7910,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:02 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T09:02:05+02:00"
     }
   ]
 }
