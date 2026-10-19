@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T16:24:06+02:00",
+  "updated_at": "2026-10-19T16:24:27+02:00",
   "articles": [
     {
       "id": "37da9d11-2c8c-5d05-a560-ee71c9fee291",
@@ -35,16 +35,16 @@
       "word_count": 189,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Stelton_Modern_School_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/U_S_%2C_Papua_New_Guinea_engineers_prepare_Igam_Barracks_classrooms_for_renovation_during_Tamiok_Strike_26_%289794295%29.jpg/1280px-U_S_%2C_Papua_New_Guinea_engineers_prepare_Igam_Barracks_classrooms_for_renovation_during_Tamiok_Strike_26_%289794295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 752,
+        "height": 802,
         "kind": "photo",
         "pos": "center",
-        "alt": "School building and shop of the Stelton Modern School (ca.1920), photo by Oscar Stechbardt. Most likely first published in \"The Modern School of Stelton : a sketch / by Joseph J. Cohen and Alexis C. F",
-        "credit": "Oscar Steckbardt / Wikimedia Commons",
+        "alt": "U.S. Army Soldiers from the 844th Engineer Battalion and Soldiers from the Papua New Guinea Defense Force work together to renovate an elementary school at Igam Barracks, Lae, Papua New Guinea, July.",
+        "credit": "U.S. Army photo by Staff Sgt. Mason Tran / Wikimedia Commons",
         "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Stelton_Modern_School_1920.jpg",
-        "vision_score": 6.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:U_S_,_Papua_New_Guinea_engineers_prepare_Igam_Barracks_classrooms_for_renovation_during_Tamiok_Strike_26_(9794295).jpg",
+        "vision_score": 4.0
       },
       "inline_images": [],
       "sources": [
@@ -110,7 +110,7 @@
         "meta_title": "Tízmilliárd forint jut az iskolák korszerűsítésére 2027-ben",
         "meta_description": "Tízmilliárd forintos iskolafejlesztési programot indít a kormány 2027-től az oktatási intézmények korszerűsítésére. A bejelentés célja a korábbi egyenlőtlensége",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-tizmilliard-forint-jut-az-iskolak-korszerusitesere-2027-ben/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Stelton_Modern_School_1920.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/U_S_%2C_Papua_New_Guinea_engineers_prepare_Igam_Barracks_classrooms_for_renovation_during_Tamiok_Strike_26_%289794295%29.jpg/1280px-U_S_%2C_Papua_New_Guinea_engineers_prepare_Igam_Barracks_classrooms_for_renovation_during_Tamiok_Strike_26_%289794295%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -128,7 +128,7 @@
       "pipeline_run_id": "39260083061",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T15:52:49+02:00",
-      "updated_at": "2026-10-19T15:52:49+02:00",
+      "updated_at": "2026-10-19T16:24:27+02:00",
       "published_at": "2026-10-19T15:52:49+02:00",
       "expires_at": null
     },
