@@ -11534,29 +11534,46 @@
           "vision_score": 7.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Chrysler_010.jpg/1280px-Chrysler_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 900,
+          "height": 800,
           "kind": "photo",
           "pos": "center",
-          "alt": "2008 MY Dodge Charger Police Package",
-          "credit": "Karrmann / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Chrysler_010.jpg",
+          "alt": "Budapest, Hungary",
+          "credit": "Thomas Depenbusch (Depi) from Cologne, Germany / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
           "exact": true,
-          "entity": "police car",
-          "vision_score": 6.0
+          "entity": "Budapest",
+          "vision_score": 5.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-86e526914d.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-86e526914d.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Gradska_kuca_u_Novom_Sadu_5.jpg/1280px-Gradska_kuca_u_Novom_Sadu_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 844,
           "kind": "photo",
-          "alt": "A bosszú napja: hetvenöt magyar iskola kapott bombafenyegetést",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
+          "pos": "center",
+          "alt": "This is a photo of Cultural Heritage site of Serbia number СК 1521",
+          "credit": "Vanja Kovac / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gradska_kuca_u_Novom_Sadu_5.jpg",
+          "exact": true,
+          "entity": "Novi Sad",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beograd_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 2400,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Belgrade- photomontage (Panorama of  Belgrade, House of the National Assembly, New Palace, Avala Tower, Ušće Tower, Gardoš Tower, The Serbian Academy of Sciences and Arts' building, Church of Saint Sa",
+          "credit": "Zeks127 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beograd_collage.jpg",
+          "exact": true,
+          "entity": "Belgrade",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -11645,11 +11662,30 @@
           7945,
           7946,
           7947,
-          7949
+          7949,
+          7961,
+          7962,
+          7963,
+          7964
         ],
-        "control_id": 7948
+        "control_id": 7965
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Budapest",
+        "National Police Headquarters (Hungary)",
+        "Novi Sad",
+        "Belgrade",
+        "Serbia",
+        "school hallway",
+        "classroom desk",
+        "police officer"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Chrysler_010.jpg/1280px-Chrysler_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-86e526914d.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zaal_Hoogland.jpg/1280px-Zaal_Hoogland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "e02aa3dd-40a3-54f4-947b-684984460cc0",
