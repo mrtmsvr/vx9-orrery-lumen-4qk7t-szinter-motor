@@ -1325,6 +1325,83 @@ def localize_image(img: Optional[dict], timeout: int = 20) -> Optional[dict]:
     return {**img, "url": f"{SITE_URL}/public/img/px/{name}", "local": str(out_dir / name), "orig_url": img["url"]}
 
 
+AUDIT_FILE = BASE_DIR / "data" / "review" / "image_audit.json"
+
+
+def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[dict]:
+    """Egyszeri visszamenőleges képcsere: a kint lévő cikkek főképét lepontozza a képellenőrzés; ahol nem illik (< 4 pont),
+    vagy közéleti/világ/pénzvilág cikkben stockfotó van, ott az új logikával (Wikidata → Commons → stock csak ha ellenőrzött)
+    cserél, végső esetben márkás borítóra. Hívásonként n cikk; az állapot a data/review/image_audit.json-ban."""
+    st = read_json(AUDIT_FILE, {"active": True, "done": [], "replaced": []})
+    if not st.get("active"):
+        return None
+    arts = [a for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", [])
+            if a.get("status") == "published" and a.get("category") in SECTIONS]
+    done = set(st.get("done") or [])
+    todo = [a for a in arts if a["id"] not in done][:n]
+    if not todo:
+        st["active"] = False
+        write_json_atomic(AUDIT_FILE, st)
+        return {"changes": {}, "checked": 0, "finished": True, "replaced": st.get("replaced", []), "total": len(done)}
+    avoid = used_images(arts)
+    changes, checked = {}, 0
+    for a in todo:
+        hero = dict(a.get("hero_image") or {})
+        section = a.get("category")
+        bad = not hero.get("url")
+        if hero.get("url") and not hero.get("generated"):
+            ranked = vision_rank(ai, a["title"], a.get("lead", ""), [hero], min_score=0)
+            if not ranked or ranked[0].get("unverified") or "vision_score" not in ranked[0]:
+                break  # most nincs képellenőrzés (keret) – később folytatja, a cikk nem kerül a kész listába
+            score = ranked[0]["vision_score"]
+            bad = score < 4 or bool(section in NEWS_SECTIONS and STOCK_CREDIT.search(hero.get("credit") or "") and score < 7)
+        checked += 1
+        done.add(a["id"])
+        if not bad:
+            continue
+        try:
+            r = ai.complete_json("Képszerkesztő vagy. Csak JSON-t adsz vissza.",
+                                 f"Cikk: {a['title']}\n{a.get('lead', '')}\nCímkék: {', '.join(a.get('tags') or [])}\n\n"
+                                 "Adj 6 angol képkereső kifejezést: előbb 3 konkrét (a cikk fő szereplője, intézménye, helyszíne "
+                                 "pontos nevén, pl. „Constitutional Court of Hungary”, „Péter Magyar”), aztán 3 általános témakép. "
+                                 'JSON: {"specific": ["..."], "generic": ["..."]}', 300, light=True)
+            spec = [str(x)[:60] for x in r.get("specific") or [] if str(x).strip()][:3]
+            gen = [str(x)[:40] for x in r.get("generic") or [] if str(x).strip()][:3]
+        except (AIError, ValueError, TypeError, KeyError):
+            spec, gen = [], []
+        block = avoid | img_keys(hero)
+        cands = drop_used(find_images(spec + list(a.get("tags") or [])[:2], gen, ai.cfg.http_timeout, block, limit=6), block)
+        cands = news_image_filter(section, vision_rank(ai, a["title"], a.get("lead", ""), cands, min_score=6))
+        cands = [c for c in cands if "vision_score" in c]
+        new = localize_image(cands[0]) if cands else make_cover(a, section)
+        if new:
+            new = {k: v for k, v in new.items() if k not in ("unverified", "vision_score")}
+            changes[a["id"]] = new
+            avoid |= img_keys(new)
+            st.setdefault("replaced", []).append({"title": a["title"][:90], "old": (hero.get("credit") or "nincs kép")[:60],
+                                                  "new": (new.get("credit") or "")[:60]})
+            log.info("Képcsere: %s → %s", a["title"][:60], new.get("credit"))
+    st["done"] = sorted(done)
+    write_json_atomic(AUDIT_FILE, st)
+    return {"changes": changes, "checked": checked, "finished": False}
+
+
+def apply_hero_changes(output_dir: Path, changes: dict) -> int:
+    """A képcseréket a friss articles.json-ra írja (zár alatt hívandó)."""
+    if not changes:
+        return 0
+    path = output_dir / "articles.json"
+    data = read_json(path, {"articles": []})
+    n = 0
+    for a in data.get("articles", []):
+        if a["id"] in changes:
+            a["hero_image"] = changes[a["id"]]
+            a["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+            n += 1
+    write_json_atomic(path, data)
+    return n
+
+
 LAST_GEN_ERROR = ""
 CF_IMG_EXHAUSTED = False  # a Cloudflare napi ingyenes keret (10 000 neuron) elfogyott → ebben a futásban tartalék
 
