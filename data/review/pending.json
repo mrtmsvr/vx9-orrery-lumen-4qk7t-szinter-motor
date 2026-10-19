@@ -13465,42 +13465,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1280px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/British_proportional_representation_parliament.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 1634,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Example voting booth inside the Old State House, Hartford Connecticut",
-          "credit": "Kenneth C. Zirkel / Wikimedia Commons",
-          "license": "CC0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Example_voting_booth_from_USA_(Connecticut).jpg",
-          "vision_score": 8.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballot_Box_of_the_Municipal_Council_of_Pest.jpg/1280px-Ballot_Box_of_the_Municipal_Council_of_Pest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1088,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "",
-          "credit": "Unknown authorUnknown author / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Ballot_Box_of_the_Municipal_Council_of_Pest.jpg",
+          "height": 3271,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "A diagram showing how the British House of Commons would look under Proportional Representation. \nKey: \n\nBlue-          Conservative Party\n\nRed-          Labour Party\n\nYellow-        Liberal Democrats",
+          "credit": "07bargem / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:British_proportional_representation_parliament.png",
           "vision_score": 6.0
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/MTA_R%C3%A9nyi_Alfr%C3%A9d_Matematikai_Kutat%C3%B3int%C3%A9zet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2019_United_Kingdom_general_election_under_proportional_representation.svg/1280px-2019_United_Kingdom_general_election_under_proportional_representation.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1600,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Rényi Alfréd Matematikai Kutatóintézet épülete",
-          "credit": "Wikizoli at Hungarian Wikipedia / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:MTA_R%C3%A9nyi_Alfr%C3%A9d_Matematikai_Kutat%C3%B3int%C3%A9zet.jpg",
-          "exact": true,
-          "entity": "Alfréd Rényi Institute of Mathematics",
-          "vision_score": 5.0
+          "height": 747,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Chart of the British House of Commons following the 2019 United Kingdom general election under proportional representation.",
+          "credit": "Ben120000 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:2019_United_Kingdom_general_election_under_proportional_representation.svg",
+          "vision_score": 6.0
         }
       ],
       "story": [
@@ -13571,9 +13557,11 @@
           8082,
           8084,
           8085,
-          8086
+          8086,
+          8088,
+          8089
         ],
-        "control_id": 8087
+        "control_id": 8090
       },
       "image_queries": [
         "Hungarian Parliament building Budapest",
@@ -13583,11 +13571,23 @@
         "Hungarian flag Budapest",
         "voting booth",
         "political debate",
-        "election ballot"
+        "election ballot",
+        "Döbrentei Dániel",
+        "Csuka Endre",
+        "Szélsőközép TV studio",
+        "Hungarian electoral map",
+        "Proportional representation chart",
+        "Budapest cityscape",
+        "round table discussion",
+        "legal documents",
+        "lecture hall"
       ],
       "images_seen": [
-        "https://xn--kollektva-m5a.hu/public/img/gen/cover-0736769408.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballot_Box_of_the_Municipal_Council_of_Pest.jpg/1280px-Ballot_Box_of_the_Municipal_Council_of_Pest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1280px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-0736769408.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2f/MTA_R%C3%A9nyi_Alfr%C3%A9d_Matematikai_Kutat%C3%B3int%C3%A9zet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
     }
