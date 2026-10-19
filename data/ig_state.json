@@ -3011,11 +3011,12 @@
       "caption": "Zárt tárgyalás és viták Brüsszeltől Budapestig\n\nSűrű napokat tudhat maga mögött a hazai közélet: míg a nemzetközi színtéren fontos diplomáciai egyeztetések zajlottak, addig a fővárosban és a politikai rendezvényeken is felpörögtek az események, alaposan átrendezve a hétköznapok ritmusát.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#közélet #magyarpéter #volodimirzelenszkij #hírek #kollektíva",
       "created": "2026-10-19T08:48:03+02:00",
       "due": "2026-10-19T09:33:03+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         7933,
         7934
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "f2b274b8fc",
@@ -3111,6 +3112,22 @@
       "tg": [
         8077,
         8078
+      ]
+    },
+    {
+      "id": "0870bca072",
+      "art_id": "f4d8f43c-28f1-537d-8d39-b0517f5392db",
+      "title": "Fekete-Győr András elhagyja a Momentumot",
+      "url": "/kozelet/2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot/",
+      "card": "public/img/ig/2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot.jpg",
+      "caption": "Fekete-Győr András elhagyja a Momentumot\n\nFekete-Győr András hétfőn bejelentette, hogy huszonnégy órával korábban kilépett az általa alapított Momentumból, de független politikusként a közéletben marad. A döntés hátterében a párttal korábban kialakult politikai konfliktusok állnak.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#feketegyőrandrás #momentum #belpolitika #hírek #kollektíva",
+      "created": "2026-10-19T14:49:25+02:00",
+      "due": "2026-10-19T15:34:25+02:00",
+      "status": "queued",
+      "tg": [
+        8093,
+        8094
       ]
     }
   ],
