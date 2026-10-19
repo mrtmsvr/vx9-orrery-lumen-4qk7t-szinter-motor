@@ -13465,43 +13465,42 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Example_voting_booth_from_USA_%28Connecticut%29.jpg/1280px-Example_voting_booth_from_USA_%28Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 888,
+          "height": 1634,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-          "exact": true,
-          "entity": "Hungarian Parliament Building",
-          "vision_score": 9.0
+          "pos": "top",
+          "alt": "Example voting booth inside the Old State House, Hartford Connecticut",
+          "credit": "Kenneth C. Zirkel / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Example_voting_booth_from_USA_(Connecticut).jpg",
+          "vision_score": 8.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ballot_Box_of_the_Municipal_Council_of_Pest.jpg/1280px-Ballot_Box_of_the_Municipal_Council_of_Pest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 800,
+          "height": 1088,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Budapest, Hungary",
-          "credit": "Thomas Depenbusch (Depi) from Cologne, Germany / Wikimedia Commons",
-          "license": "CC BY 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
-          "exact": true,
-          "entity": "Budapest",
-          "vision_score": 9.0
+          "pos": "top",
+          "alt": "",
+          "credit": "Unknown authorUnknown author / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ballot_Box_of_the_Municipal_Council_of_Pest.jpg",
+          "vision_score": 6.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-0736769408.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-0736769408.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/MTA_R%C3%A9nyi_Alfr%C3%A9d_Matematikai_Kutat%C3%B3int%C3%A9zet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
           "kind": "photo",
-          "alt": "Puzsér Róbert szerint Orbán Viktor a saját rendszerébe bukott bele",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
+          "pos": "top",
+          "alt": "Rényi Alfréd Matematikai Kutatóintézet épülete",
+          "credit": "Wikizoli at Hungarian Wikipedia / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:MTA_R%C3%A9nyi_Alfr%C3%A9d_Matematikai_Kutat%C3%B3int%C3%A9zet.jpg",
+          "exact": true,
+          "entity": "Alfréd Rényi Institute of Mathematics",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -13569,10 +13568,28 @@
           8079,
           8080,
           8081,
-          8082
+          8082,
+          8084,
+          8085,
+          8086
         ],
-        "control_id": 8083
-      }
+        "control_id": 8087
+      },
+      "image_queries": [
+        "Hungarian Parliament building Budapest",
+        "Rob Puzser",
+        "Alfréd Rényi Institute of Mathematics",
+        "Hungarian ballot box",
+        "Hungarian flag Budapest",
+        "voting booth",
+        "political debate",
+        "election ballot"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-0736769408.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
