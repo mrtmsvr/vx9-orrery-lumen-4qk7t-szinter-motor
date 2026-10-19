@@ -12914,19 +12914,12 @@
         "title": 1,
         "image": 6,
         "sent_at": "2026-10-19T09:30:46+00:00",
-        "msg_ids": [
-          8000,
-          8001,
-          8002,
-          8003,
-          8004,
-          8005,
-          8006,
-          8007,
-          8008
-        ],
-        "control_id": 8009
-      }
+        "msg_ids": [],
+        "control_id": 8009,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:11 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T12:11:50+02:00"
     },
     {
       "id": "94a035a1-edcc-5362-8da1-3c7000c55baf",
