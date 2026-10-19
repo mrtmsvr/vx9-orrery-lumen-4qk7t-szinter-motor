@@ -13381,6 +13381,198 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "309ed290-e411-56eb-892f-3f67b4db3dfa",
+      "slug": "2026-10-19-belebukott-a-fideszes-valasztasi-torvenybe-orban-viktor-igy-latjak-a",
+      "status": "pending",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "választási rendszer",
+        "Közélet",
+        "politika",
+        "alkotmányosság"
+      ],
+      "title": "Kritikák Orbán Viktorra a fideszes választási törvényben Így látják a szakértők",
+      "subtitle": null,
+      "lead": "A magyar választási rendszer aránytalanságairól és a reformok elkerülhetetlenségéről vitatkoztak szakértők a Szélsőközép műsorában. A résztvevők szerint a jelenlegi szabályozás kizárólag a kormányozhatóságot és a parlamenti többség kontroll nélküli hatalmát szolgálja.",
+      "key_points": [
+        "A jelenlegi választási rendszer minden eddigi országgyűlési választáson kétharmadot eredményezett.",
+        "A szakértők szerint a mechanizmusok hatékonyan iktatják ki az érdemi alkotmányos ellensúlyokat.",
+        "Puzsér Róbert publicista úgy fogalmazott, hogy a rendszer a saját aránytalanságába bukott bele.",
+        "Matematikusok és jogászok is elemzik az egyéni kerületek túlsúlyát és a győzteskompenzáció hatásait."
+      ],
+      "content": "A magyar választási mechanizmusok anomáliáit, az arányos és a többségi képviselet ellentmondásait elemezte Döbrentei Dániel jogász és választási jogi szakértő a Szélsőközép műsorában. Elemzése szerint a mostani rendszer alapvető hibája, hogy ahányszor csak alkalmazták országgyűlési választásokra, mindannyiszor kétharmados többséget eredményezett.\n\nDöbrentei kiemelte, hogy ez a konstrukció nem a klasszikus értelemben vett kormányozhatóságot biztosítja, hanem azt teszi lehetővé, hogy a mindenkori parlamenti többség érdemi ellenőrzés vagy ellensúly nélkül, gyakorlatilag azonnal átírja az alkotmányos rendet.\n\nA beszélgetésben Puzsér Róbert publicista és kritikus is kifejtette álláspontját a politikai mechanizmusokról.\n\nA matematikai hátteret Csuka Endre matematikus és a Rényi Alfréd Matematikai Kutatóintézet kutatója vizsgálta. Elemzésük szerint az egyéni kerületek túlsúlya és a győzteskompenzáció intézménye alapvetően torzítja el az eredményeket, ami miatt a törvényhozás folyamatos legitimitási válsággal küzd.\n\nA résztvevők végül abban is egyetértettek, hogy a demokratikus működés helyreállításához elengedhetetlen lenne egy átfogó választási reform, ám ennek kivitelezése a meglévő politikai erőviszonyok közepette komoly kihívást jelent.",
+      "content_format": "markdown",
+      "body": [
+        "A magyar választási mechanizmusok anomáliáit, az arányos és a többségi képviselet ellentmondásait elemezte Döbrentei Dániel jogász és választási jogi szakértő a Szélsőközép műsorában. Elemzése szerint a mostani rendszer alapvető hibája, hogy ahányszor csak alkalmazták országgyűlési választásokra, mindannyiszor kétharmados többséget eredményezett.",
+        "Döbrentei kiemelte, hogy ez a konstrukció nem a klasszikus értelemben vett kormányozhatóságot biztosítja, hanem azt teszi lehetővé, hogy a mindenkori parlamenti többség érdemi ellenőrzés vagy ellensúly nélkül, gyakorlatilag azonnal átírja az alkotmányos rendet.",
+        "A beszélgetésben Puzsér Róbert publicista és kritikus is kifejtette álláspontját a politikai mechanizmusokról.",
+        "A matematikai hátteret Csuka Endre matematikus és a Rényi Alfréd Matematikai Kutatóintézet kutatója vizsgálta. Elemzésük szerint az egyéni kerületek túlsúlya és a győzteskompenzáció intézménye alapvetően torzítja el az eredményeket, ami miatt a törvényhozás folyamatos legitimitási válsággal küzd.",
+        "A résztvevők végül abban is egyetértettek, hogy a demokratikus működés helyreállításához elengedhetetlen lenne egy átfogó választási reform, ám ennek kivitelezése a meglévő politikai erőviszonyok közepette komoly kihívást jelent."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 182,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 888,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
+        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+        "exact": true,
+        "entity": "Hungarian Parliament Building",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=4ac04FLhRLQ",
+          "title": "A választási rendszer átalakítása — kinek a szavazata mennyit ér? | DE!HOGYNEM Festival #2",
+          "publisher": "Szélsőközép",
+          "license": null,
+          "accessed_at": "2026-10-19T13:58:28+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Orbán-rendszer a maga aránytalan választási rendszerébe bukott bele",
+        "who": "Puzsér Róbert publicista, kritikus",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5,
+      "title_options": [
+        "Kritikák Orbán Viktorra a fideszes választási törvényben Így látják a szakértők",
+        "Aránytalan választási rendszer: Döbrentei Dániel és Puzsér Róbert vitája",
+        "Puzsér Róbert szerint Orbán Viktor a saját rendszerébe bukott bele",
+        "Ebbe a verembe esett bele Orbán Viktor a választási szakértők szerint",
+        "Így hozták létre azt a rendszert, ami végül mégis megbukott",
+        "A matematikusok kiszámolták, miért torzít a magyar választási törvény"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 888,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
+          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+          "exact": true,
+          "entity": "Hungarian Parliament Building",
+          "vision_score": 9.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Budapest, Hungary",
+          "credit": "Thomas Depenbusch (Depi) from Cologne, Germany / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
+          "exact": true,
+          "entity": "Budapest",
+          "vision_score": 9.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-0736769408.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-0736769408.jpg",
+          "kind": "photo",
+          "alt": "Puzsér Róbert szerint Orbán Viktor a saját rendszerébe bukott bele",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
+        }
+      ],
+      "story": [
+        {
+          "title": "A választási rendszer átalakítása — kinek a szavazata mennyit ér? | DE!HOGYNEM Festival #2",
+          "link": "https://www.youtube.com/watch?v=4ac04FLhRLQ",
+          "summary": "A magyar választási rendszer arányossága, hibái és az elméleti, illetve gyakorlati átalakításának lehetőségei.",
+          "source": "Szélsőközép",
+          "related": null,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=4ac04FLhRLQ"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kozelet/2026-10-19-belebukott-a-fideszes-valasztasi-torvenybe-orban-viktor-igy-latjak-a/",
+      "seo": {
+        "meta_title": "Belebukott a fideszes választási törvénybe Orbán Viktor? Így",
+        "meta_description": "A magyar választási rendszer aránytalanságairól és a reformok elkerülhetetlenségéről vitatkoztak szakértők a Szélsőközép műsorában. A résztvevők szerint a jelen",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-belebukott-a-fideszes-valasztasi-torvenybe-orban-viktor-igy-latjak-a/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "be853a610d73b8f841751eb39b3ae40c0a4dbdd5856bf14adbc5ef63ea25f758",
+      "pipeline_run_id": "39248347058",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T13:58:28+02:00",
+      "updated_at": "2026-10-19T13:58:28+02:00",
+      "published_at": "2026-10-19T13:58:28+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "4ac04FLhRLQ",
+        "title": "A választási rendszer átalakítása — kinek a szavazata mennyit ér? | DE!HOGYNEM Festival #2",
+        "channel": "Szélsőközép",
+        "minutes": 60
+      },
+      "legal": {
+        "level": 0,
+        "issues": [],
+        "auto_fixed": [
+          "Az első cikkcím átfogalmazása a jogi lektor megjegyzése alapján a defamáció és az ártatlanság vélelme érdekében."
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-19T11:59:18+00:00",
+        "msg_ids": [
+          8079,
+          8080,
+          8081,
+          8082
+        ],
+        "control_id": 8083
+      }
     }
   ]
 }
