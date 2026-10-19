@@ -13049,43 +13049,15 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 888,
+          "url": "https://pixabay.com/get/gd744b743d57c0b9b3b6a6873db0a716f5f94c09e688116015ab6cecb8950a12a8eb96cc2c0a63f3253b95293ad03f7c962fb8f7455e4a331c53f615a17ae00ca_1280.jpg",
+          "width": 7184,
+          "height": 4792,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-          "exact": true,
-          "entity": "Hungarian Parliament Building",
-          "vision_score": 6.0
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 800,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Budapest és a Duna madártávlatból",
-          "credit": "Civertan / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg",
-          "exact": true,
-          "entity": "Budapest",
-          "vision_score": 6.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-c406cfadbd.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-c406cfadbd.jpg",
-          "kind": "photo",
-          "alt": "Mit keresett a hálószobás fotó a Fidesz fekete kampányában?",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
+          "alt": "cinema, projector, home, video, movie, camera, cinema, video, video, video, video, video, movie",
+          "credit": "Antonio_Cansino / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/cinema-projector-home-video-movie-5069314/",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -13154,10 +13126,26 @@
           8154,
           8155,
           8156,
-          8157
+          8157,
+          8159
         ],
-        "control_id": 8158
-      }
+        "control_id": 8160
+      },
+      "image_queries": [
+        "Magyar Peter",
+        "Fidesz logo",
+        "Hungarian Parliament Building",
+        "Podcas studio microphone",
+        "Budapest street sign",
+        "dark room",
+        "laptop computer",
+        "bedroom interior"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-c406cfadbd.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
     }
   ]
 }
