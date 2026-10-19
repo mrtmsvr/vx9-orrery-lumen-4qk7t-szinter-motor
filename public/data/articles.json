@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T20:02:05+02:00",
+  "updated_at": "2026-10-19T20:05:47+02:00",
   "articles": [
     {
       "id": "896e5da6-632c-58df-ab91-04525e2145d6",
@@ -15,7 +15,7 @@
         "Országgyűlés",
         "mentelmi bizottság"
       ],
-      "title": "Forsthoffer Ágnes: Rejtegetnivalóm nincs, nem is volt",
+      "title": "Vagyonnyilatkozat: kiegészítést adott le Forsthoffer Ágnes",
       "subtitle": null,
       "lead": "Forsthoffer Ágnes országgyűlési képviselő hétfő reggel részletes kiegészítést tett nyitó vagyonnyilatkozatához, miután Hidvéghi Balázs vagyonnyilatkozati eljárást kezdeményezett vele szemben. A politikus hangsúlyozta, hogy rejtegetnivalója nincs, és a sajtóhírek ellenére a cégügy nem érintette az eredeti vagyoni helyzet bemutatását.",
       "key_points": [
@@ -35,18 +35,16 @@
       "word_count": 191,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%81gnes_Forsthoffer%2C_2026_%28cropped3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
         "height": 1600,
         "kind": "photo",
         "pos": "top",
-        "alt": "Fot. Piotr Molęcki / Kancelaria Sejmu",
+        "alt": "Fot. Anna Strzyżak / Kancelaria Sejmu",
         "credit": "Sejm_RP / Wikimedia Commons",
         "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_(cropped).jpg",
-        "exact": true,
-        "entity": "Forsthoffer Ágnes",
-        "vision_score": 13.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81gnes_Forsthoffer,_2026_(cropped3).jpg",
+        "vision_score": 10.0
       },
       "inline_images": [],
       "sources": [
@@ -112,10 +110,10 @@
       "date_label": "október 19.",
       "url": "/kozelet/2026-10-19-forsthoffer-agnes-rejtegetnivalom-nincs-nem-is-volt/",
       "seo": {
-        "meta_title": "Forsthoffer Ágnes: Rejtegetnivalóm nincs, nem is volt",
+        "meta_title": "Vagyonnyilatkozat: kiegészítést adott le Forsthoffer Ágnes",
         "meta_description": "Forsthoffer Ágnes országgyűlési képviselő hétfő reggel részletes kiegészítést tett nyitó vagyonnyilatkozatához, miután Hidvéghi Balázs vagyonnyilatkozati eljárá",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-forsthoffer-agnes-rejtegetnivalom-nincs-nem-is-volt/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C3%81gnes_Forsthoffer%2C_2026_%28cropped3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -147,7 +145,7 @@
       "pipeline_run_id": "39295161506",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T20:02:05+02:00",
-      "updated_at": "2026-10-19T20:02:05+02:00",
+      "updated_at": "2026-10-19T20:05:47+02:00",
       "published_at": "2026-10-19T20:02:05+02:00",
       "expires_at": null
     },
