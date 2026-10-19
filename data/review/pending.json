@@ -12827,19 +12827,19 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1792386761-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1792386761-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0acabf7058-1792388130-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0acabf7058-1792388130-0.jpg",
           "kind": "photo",
           "alt": "Zelenszkij: Történelmi hiba lenne az amerikai támogatás megvonása",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1792386764-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1792386764-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0acabf7058-1792388132-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0acabf7058-1792388132-1.jpg",
           "kind": "photo",
           "alt": "Zelenszkij: Történelmi hiba lenne az amerikai támogatás megvonása",
           "likeness": false,
@@ -12923,9 +12923,11 @@
         "msg_ids": [
           7900,
           7901,
-          7902
+          7902,
+          7925,
+          7926
         ],
-        "control_id": 7903
+        "control_id": 7927
       },
       "image_queries": [
         "Volodymyr Zelenskyy",
