@@ -348,6 +348,35 @@ def _apply_fix_pack(out_dir: Path, tz: ZoneInfo) -> None:
         tg("sendMessage", {"chat_id": chat, "text": txt})
 
 
+_AUDIT_LAST = 0.0
+
+
+def _image_audit(out_dir: Path, tz: ZoneInfo) -> None:
+    """Visszamenőleges képcsere a kint lévő cikkeken (kc.image_audit_step), 10 percenként 6 cikk, a végén jelentés."""
+    global _AUDIT_LAST
+    if time.time() - _AUDIT_LAST < 600 or os.getenv("IMAGE_AUDIT", "true").lower() not in ("1", "true", "yes"):
+        return
+    _AUDIT_LAST = time.time()
+    res = kc.image_audit_step(out_dir, kc.AIClient(kc.Config.from_env()))
+    if not res:
+        return
+    if res.get("changes"):
+        with LOCK:
+            n = kc.apply_hero_changes(out_dir, res["changes"])
+        kc.build_static_site(out_dir, tz)
+        _deploy_now()
+        _save_to_git(f"Képcsere ({n})")
+    elif res.get("checked") or res.get("finished"):
+        _save_to_git("Képellenőrzés")
+    if res.get("finished"):
+        chat = load_state().get("chat_id")
+        rep = res.get("replaced") or []
+        if chat:
+            lines = [f"• {r['title']}\n   {r['old']} → {r['new']}" for r in rep[:40]]
+            tg("sendMessage", {"chat_id": chat, "text": (f"🖼 Képellenőrzés kész: {res.get('total', 0)} cikk átnézve, "
+                                                         f"{len(rep)} főkép cserélve.\n\n" + "\n".join(lines))[:4000]})
+
+
 def _daily_model_check(tz: ZoneInfo) -> None:
     """Naponta egyszer (8 óra után): élnek-e még a beállított AI-modellek, és elég volt-e tegnap a keret."""
     now = datetime.now(tz)
@@ -1617,6 +1646,7 @@ def main(argv: Optional[list] = None) -> int:
                 _retry_pitches(cfg.output_dir, tz)
                 _daily_model_check(tz)
                 _newsletter_check(tz)
+                _image_audit(cfg.output_dir, tz)
             except Exception as e:  # noqa: BLE001
                 log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
