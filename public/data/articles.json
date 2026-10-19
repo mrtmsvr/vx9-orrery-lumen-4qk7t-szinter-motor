@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:22:20+02:00",
+  "updated_at": "2026-10-19T07:32:24+02:00",
   "articles": [
     {
       "id": "445f0860-522a-5e36-aca7-588024f8cfde",
@@ -150,7 +150,7 @@
         "politika",
         "Magyarország"
       ],
-      "title": "Erőskezű vezető helyett demokratikus elveket vallanak a magyar választók",
+      "title": "Csökken a vágy a vasmarok után: mélyelemzés a magyar közvéleményről",
       "subtitle": null,
       "lead": "A magyar választók politikai hovatartozástól függetlenül elutasítják az erőskezű vezetés eszményét. A CEU Demokrácia Intézet legfrissebb mérései szerint a demokratikus berendezkedés, valamint a fékek és egyensúlyok tisztelete került előtérbe a társadalomban.",
       "key_points": [
@@ -214,7 +214,7 @@
       "date_label": "október 19.",
       "url": "/kozelet/2026-10-19-eroskezu-vezeto-helyett-demokratikus-elveket-vallanak-a-magyar-valasz/",
       "seo": {
-        "meta_title": "Erőskezű vezető helyett demokratikus elveket vallanak a magy",
+        "meta_title": "Csökken a vágy a vasmarok után: mélyelemzés a magyar közvéle",
         "meta_description": "A magyar választók politikai hovatartozástól függetlenül elutasítják az erőskezű vezetés eszményét. A CEU Demokrácia Intézet legfrissebb mérései szerint a demok",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-eroskezu-vezeto-helyett-demokratikus-elveket-vallanak-a-magyar-valasz/",
         "og_image": "https://xn--kollektva-m5a.hu/public/img/px/bdca3b44b79cc352.jpg",
@@ -235,7 +235,7 @@
       "pipeline_run_id": "39202189396",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T07:13:20+02:00",
-      "updated_at": "2026-10-19T07:13:20+02:00",
+      "updated_at": "2026-10-19T07:32:24+02:00",
       "published_at": "2026-10-19T07:13:20+02:00",
       "expires_at": null
     },
