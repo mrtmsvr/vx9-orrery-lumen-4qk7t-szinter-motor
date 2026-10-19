@@ -12273,7 +12273,7 @@
     {
       "id": "cb6bd5eb-97fc-5334-9f3e-ac04d13594dc",
       "slug": "2026-10-19-ujra-megnyiltak-az-amerikai-hirszerzesi-csatornak-ukrajna-fele",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12305,16 +12305,16 @@
       "word_count": 213,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1280px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Arrow_anti-ballistic_missile_launch.jpg/1280px-Arrow_anti-ballistic_missile_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1800,
+        "height": 1500,
         "kind": "photo",
         "pos": "top",
-        "alt": "A standard missile 3 is launched from USS Lake Erie (CG 70) April 26, 2007, during a joint Missile Defense Agency/U.S. Navy ballistic missile flight test over the Pacific Ocean. The test was designed",
-        "credit": "Mass Communication Specialist 2nd Class Maebel Tinoko (U.S. Navy) / Wikimedia Commons",
+        "alt": "Arrow anti-ballistic missile launch. Original image caption: 040729-N-0000X-001 Point Mugu, Calif. (July 29, 2004) - An Arrow anti-ballistic missile is launched as part of the on going United States/I",
+        "credit": "Photographer's name not specified / Wikimedia Commons",
         "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:USS_Lake_Erie_(CG_70)_missile_test.jpg",
-        "vision_score": 9.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Arrow_anti-ballistic_missile_launch.jpg",
+        "vision_score": 8.0
       },
       "inline_images": [],
       "sources": [
@@ -12397,7 +12397,7 @@
         "meta_title": "Újra megnyíltak az amerikai hírszerzési csatornák Ukrajna fe",
         "meta_description": "Az Egyesült Államok egy rövid szünetet követően ismét megosztja a kritikus jelentőségű hírszerzési információkat az ukrán hadsereggel. A segítség létfontosságú ",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-ujra-megnyiltak-az-amerikai-hirszerzesi-csatornak-ukrajna-fele/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1280px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Arrow_anti-ballistic_missile_launch.jpg/1280px-Arrow_anti-ballistic_missile_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12414,9 +12414,9 @@
       "dedupe_hash": "9543ccf6096082ccf1f2530508db4e59682b307be1cdc193e214f4597d73927a",
       "pipeline_run_id": "39202189396",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T07:12:09+02:00",
-      "updated_at": "2026-10-19T07:12:09+02:00",
-      "published_at": "2026-10-19T07:12:09+02:00",
+      "created_at": "2026-10-19T08:22:28+02:00",
+      "updated_at": "2026-10-19T08:22:28+02:00",
+      "published_at": "2026-10-19T08:22:28+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12429,9 +12429,9 @@
         "msg_ids": [],
         "control_id": 7890,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:22 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-19T08:22:05+02:00"
+      "live": true
     },
     {
       "id": "af9e9e71-c799-5792-9f1b-147d8454119d",

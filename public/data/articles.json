@@ -1,7 +1,112 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T08:02:31+02:00",
+  "updated_at": "2026-10-19T08:22:28+02:00",
   "articles": [
+    {
+      "id": "cb6bd5eb-97fc-5334-9f3e-ac04d13594dc",
+      "slug": "2026-10-19-ujra-megnyiltak-az-amerikai-hirszerzesi-csatornak-ukrajna-fele",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ukrajna",
+        "USA",
+        "hírszerzés",
+        "technológia",
+        "háború"
+      ],
+      "title": "Újra megnyíltak az amerikai hírszerzési csatornák Ukrajna felé",
+      "subtitle": null,
+      "lead": "Az Egyesült Államok egy rövid szünetet követően ismét megosztja a kritikus jelentőségű hírszerzési információkat az ukrán hadsereggel. A segítség létfontosságú az ukrán városokat érő, folyamatos orosz ballisztikus rakétatámadások kivédésében.",
+      "key_points": [
+        "Washington újra megkezdte az Ukrajnának szánt hírszerzési adatok átadását.",
+        "Az információk segítenek a városokat célzó orosz ballisztikus rakéták felderítésében.",
+        "A Starlink-szolgáltatást a héten jelentősen korlátozták az ukrán hadsereg számára.",
+        "Oroszország saját műholdas rendszert fejleszt, amely 2027-re katonai képességekkel bírhat."
+      ],
+      "content": "Volodimir Zelenszkij ukrán elnök vasárnap erősítette meg, hogy országa ismét megkapja azt a hírszerzési támogatást, amely elengedhetetlen a hatékony légvédelemhez. A Reuters beszámolója szerint az együttműködés a feszült diplomáciai viszonyok ellenére is folytatódik, különösen a lakott területeket célzó, nagy sebességű orosz eszközök elleni védekezésben.\n\nAz információs háttér mellett a technológiai elérés is kritikus ponttá vált az elmúlt napokban. A héten több alkalommal is korlátozták az ukrán hadsereg hozzáférését a Starlink műholdas hálózathoz, valamint annak katonai változatához, a Starshieldhez. A drónok műholdas összeköttetése a 160 kilométer per órás sebesség elérésekor szakadozni kezdett, sőt, már alacsonyabb sebességtartományban is jelentős jelkiesések tapasztalhatók.\n\nA technológiai nyomás fokozódását jelzi, hogy Oroszország intenzíven fejleszti a Rasszvet névre keresztelt műholdas rendszerét. Bár a technológia jelenleg még korlátozottan áll rendelkezésre, az előrejelzések szerint 2027-re képessé válhat a teljes körű katonai alkalmazásra.\n\nAz ukrajnai helyzet Európa számára is kijózanító: a konfliktus nem csupán szárazföldi küzdelem, hanem a modern űr- és információtechnológia folyamatos harctéri tesztelése is. A hírszerzési adatokhoz való hozzáférés és a megbízható kommunikációs csatornák állapota közvetlenül meghatározza a védelmi műveletek sikerességét, ami alapvetően befolyásolja a biztonsági környezetet a kontinens keleti felén.",
+      "content_format": "markdown",
+      "body": [
+        "Volodimir Zelenszkij ukrán elnök vasárnap erősítette meg, hogy országa ismét megkapja azt a hírszerzési támogatást, amely elengedhetetlen a hatékony légvédelemhez. A Reuters beszámolója szerint az együttműködés a feszült diplomáciai viszonyok ellenére is folytatódik, különösen a lakott területeket célzó, nagy sebességű orosz eszközök elleni védekezésben.",
+        "Az információs háttér mellett a technológiai elérés is kritikus ponttá vált az elmúlt napokban. A héten több alkalommal is korlátozták az ukrán hadsereg hozzáférését a Starlink műholdas hálózathoz, valamint annak katonai változatához, a Starshieldhez. A drónok műholdas összeköttetése a 160 kilométer per órás sebesség elérésekor szakadozni kezdett, sőt, már alacsonyabb sebességtartományban is jelentős jelkiesések tapasztalhatók.",
+        "A technológiai nyomás fokozódását jelzi, hogy Oroszország intenzíven fejleszti a Rasszvet névre keresztelt műholdas rendszerét. Bár a technológia jelenleg még korlátozottan áll rendelkezésre, az előrejelzések szerint 2027-re képessé válhat a teljes körű katonai alkalmazásra.",
+        "Az ukrajnai helyzet Európa számára is kijózanító: a konfliktus nem csupán szárazföldi küzdelem, hanem a modern űr- és információtechnológia folyamatos harctéri tesztelése is. A hírszerzési adatokhoz való hozzáférés és a megbízható kommunikációs csatornák állapota közvetlenül meghatározza a védelmi műveletek sikerességét, ami alapvetően befolyásolja a biztonsági környezetet a kontinens keleti felén."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 213,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Arrow_anti-ballistic_missile_launch.jpg/1280px-Arrow_anti-ballistic_missile_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1500,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Arrow anti-ballistic missile launch. Original image caption: 040729-N-0000X-001 Point Mugu, Calif. (July 29, 2004) - An Arrow anti-ballistic missile is launched as part of the on going United States/I",
+        "credit": "Photographer's name not specified / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Arrow_anti-ballistic_missile_launch.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261018_az-amerikaiak-ujra-megosztjak-hirszerzesi-adataikat-ukrajnaval",
+          "title": "Az amerikaiak újra megosztják hírszerzési adataikat Ukrajnával",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T07:12:09+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nagyon hálásak ezért a lépésért.",
+        "who": "Volodimir Zelenszkij, ukrán elnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-19T08:22:28+02:00"
+      },
+      "hot_score": 5.19,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261018_az-amerikaiak-ujra-megosztjak-hirszerzesi-adataikat-ukrajnaval"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/vilag/2026-10-19-ujra-megnyiltak-az-amerikai-hirszerzesi-csatornak-ukrajna-fele/",
+      "seo": {
+        "meta_title": "Újra megnyíltak az amerikai hírszerzési csatornák Ukrajna fe",
+        "meta_description": "Az Egyesült Államok egy rövid szünetet követően ismét megosztja a kritikus jelentőségű hírszerzési információkat az ukrán hadsereggel. A segítség létfontosságú ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-ujra-megnyiltak-az-amerikai-hirszerzesi-csatornak-ukrajna-fele/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Arrow_anti-ballistic_missile_launch.jpg/1280px-Arrow_anti-ballistic_missile_launch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "9543ccf6096082ccf1f2530508db4e59682b307be1cdc193e214f4597d73927a",
+      "pipeline_run_id": "39202189396",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T08:22:28+02:00",
+      "updated_at": "2026-10-19T08:22:28+02:00",
+      "published_at": "2026-10-19T08:22:28+02:00",
+      "expires_at": null
+    },
     {
       "id": "3bb672e1-45b1-5791-a706-61f1104e430a",
       "slug": "2026-10-19-ket-dollaros-karterites-megis-milliardok-forognak-kockan-a-chiphaboru",
