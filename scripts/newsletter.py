@@ -170,7 +170,7 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
                          f'<div style="font:700 34px Georgia,serif;color:#C9A45C;margin:6px 0 4px">{E(n["value"])}</div>'
                          f'<div style="font:14px/1.5 Arial,sans-serif;color:#ECE6D8">{E(n.get("text"))}</div></div></td></tr>')
         items = "".join(parts)
-        subject = f"A hét röviden: {summ['blocks'][0]['items'][0]['title']}"
+        preview = summ['blocks'][0]['items'][0]['title']
     else:
         top, per = [], {}
         for a in arts:  # változatos: rovatonként legfeljebb 2 cikk
@@ -180,13 +180,19 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
             if len(top) == 5:
                 break
         items = "".join(card(a) for a in top)
-        subject = f"Heti Kollektíva: {top[0]['title']}" if top else "Heti Kollektíva"
+        preview = top[0]["title"] if top else ""
+    # egységes tárgy (mindig ugyanaz a forma, mint egy rendes lapnál); a hét fő témája a postafiók előnézetébe kerül
+    months = ["január", "február", "március", "április", "május", "június", "július", "augusztus", "szeptember",
+              "október", "november", "december"]
+    subject = f"Heti Kollektíva · {now.year}. {months[now.month - 1]} {now.day}."
+    preheader = (f'<div style="display:none;max-height:0;overflow:hidden;opacity:0">A hét röviden: {E(preview)}'
+                 + "&#847; " * 60 + "</div>") if preview else ""
     retro_html = (f'<tr><td style="padding:10px 0 4px;font:700 13px Arial,sans-serif;color:#0E1024">'
                   f'EKKOR TÖRTÉNT – A HÉT RETRO SZTORIJA</td></tr>{card({**retro, "category": "retro"})}') if retro else ""
     more = (f'<tr><td align="center" style="padding:6px 0 18px"><a href="{site}/{utm}" style="display:inline-block;'
             f'background:#0E1024;color:#ECE6D8;font:600 14px Arial,sans-serif;text-decoration:none;border-radius:999px;'
             f'padding:12px 22px">Minden friss hír a kollektíva.hu-n</a></td></tr>')
-    body = f"""<!doctype html><html><body style="margin:0;background:#ECE6D8">
+    body = f"""<!doctype html><html><body style="margin:0;background:#ECE6D8">{preheader}
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#ECE6D8"><tr><td align="center" style="padding:24px 12px">
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="max-width:600px;background:#fff;border-radius:14px">
 <tr><td style="background:#0E1024;border-radius:14px 14px 0 0;padding:22px 20px;font:700 26px Georgia,serif;color:#ECE6D8">
