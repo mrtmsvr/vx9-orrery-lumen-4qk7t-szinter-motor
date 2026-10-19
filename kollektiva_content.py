@@ -3000,6 +3000,9 @@ def pick_story(section: dict, used_links: set, now: datetime, timeout: int, max_
         if tr:
             score += 3 + 1.5 * math.log10(max(1, tr["traffic"]) / 100)
             it["trend"] = tr["q"]
+        # a régi skálára (0–~15) visszaszorozva, hogy a küszöbök (MIN_HOT_SCORE 5, PUBLISH_NOW_SCORE 10,
+        # BREAKING_SCORE 11) jelentése nagyjából megmaradjon: rendkívüli ≈ 4+ lap vagy 3 lap + erős keresés
+        score *= float(os.getenv("SCORE_SCALE", "0.65"))
         it["n_pubs"] = len(publishers)
         scored.append((score, group))
     scored.sort(key=lambda x: -x[0])
