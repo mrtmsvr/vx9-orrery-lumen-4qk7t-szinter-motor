@@ -13675,9 +13675,9 @@
       "live": true
     },
     {
-      "id": "f29a7c0b-0c83-5648-913e-9e14165d0416",
-      "slug": "2026-10-19-negyvenharom-ev-utan-szogre-akasztja-a-mikrofont-christiane-amanpour",
-      "status": "pending",
+      "id": "b7043995-57dd-5428-8bf2-abe510a0c45d",
+      "slug": "2026-10-19-nem-vart-fordulat-negyvenharom-ev-utan-felall-a-cnn-sztarmusorvezetoj",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -13687,7 +13687,7 @@
         "egyesülés",
         "tévésorozat"
       ],
-      "title": "Negyvenhárom év után szögre akasztja a mikrofont Christiane Amanpour",
+      "title": "Nem várt fordulat: negyvenhárom év után feláll a CNN sztárműsorvezetője",
       "subtitle": null,
       "lead": "Negyvenhárom év után távozik a CNN-től Christiane Amanpour, a hírcsatorna vezető nemzetközi műsorvezetője. A döntés hátterében tulajdonosváltások és hónapokon át tartó egyeztetések állnak.",
       "key_points": [
@@ -13709,17 +13709,15 @@
       "word_count": 306,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/10.02.2023_-_Entrevista_%C3%A0_CNN_Internacional%2C_em_Washington_%28EUA%29_%2852681050048%29.jpg/1280px-10.02.2023_-_Entrevista_%C3%A0_CNN_Internacional%2C_em_Washington_%28EUA%29_%2852681050048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cnn_Internacional_Logo.png/1280px-Cnn_Internacional_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
-        "kind": "photo",
+        "height": 675,
+        "kind": "graphic",
         "pos": "center",
-        "alt": "10.02.2023 - Presidente da República, Luiz Inácio Lula da Silva, durante Entrevista à CNN Internacional, em Washington (EUA). Foto: Ricardo Stuckert/PR",
-        "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:10.02.2023_-_Entrevista_%C3%A0_CNN_Internacional,_em_Washington_(EUA)_(52681050048).jpg",
-        "exact": true,
-        "entity": "Christiane Amanpour",
+        "alt": "CNN International (CNNI) é um canal de televisão por assinatura de notícias de alcance global, de propriedade da Warner Bros. Discovery. Fundado em 1º de setembro de 1985 por Ted Turner, o canal funci",
+        "credit": "Rede tnb / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cnn_Internacional_Logo.png",
         "unverified": true
       },
       "inline_images": [],
@@ -13887,12 +13885,12 @@
       },
       "date": "2026-10-19",
       "date_label": "október 19.",
-      "url": "/vilag/2026-10-19-negyvenharom-ev-utan-szogre-akasztja-a-mikrofont-christiane-amanpour/",
+      "url": "/vilag/2026-10-19-nem-vart-fordulat-negyvenharom-ev-utan-felall-a-cnn-sztarmusorvezetoj/",
       "seo": {
-        "meta_title": "Negyvenhárom év után szögre akasztja a mikrofont Christiane ",
+        "meta_title": "Nem várt fordulat: negyvenhárom év után feláll a CNN sztármű",
         "meta_description": "Negyvenhárom év után távozik a CNN-től Christiane Amanpour, a hírcsatorna vezető nemzetközi műsorvezetője. A döntés hátterében tulajdonosváltások és hónapokon á",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-negyvenharom-ev-utan-szogre-akasztja-a-mikrofont-christiane-amanpour/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/10.02.2023_-_Entrevista_%C3%A0_CNN_Internacional%2C_em_Washington_%28EUA%29_%2852681050048%29.jpg/1280px-10.02.2023_-_Entrevista_%C3%A0_CNN_Internacional%2C_em_Washington_%28EUA%29_%2852681050048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-nem-vart-fordulat-negyvenharom-ev-utan-felall-a-cnn-sztarmusorvezetoj/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Cnn_Internacional_Logo.png/1280px-Cnn_Internacional_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13909,9 +13907,9 @@
       "dedupe_hash": "a57e47084f54dd5ae2a3efddf4e100f446fa125306a7e3a34a6caf401cb109e0",
       "pipeline_run_id": "39295161506",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T20:02:05+02:00",
-      "updated_at": "2026-10-19T20:02:05+02:00",
-      "published_at": "2026-10-19T20:02:05+02:00",
+      "created_at": "2026-10-19T20:23:38+02:00",
+      "updated_at": "2026-10-19T20:23:38+02:00",
+      "published_at": "2026-10-19T20:23:38+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13924,9 +13922,9 @@
         "msg_ids": [],
         "control_id": 8196,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:22 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-19T20:22:05+02:00"
+      "live": true
     },
     {
       "id": "d5d47d09-eb0f-53f0-9958-1a76f3a4ec12",
@@ -14174,7 +14172,7 @@
       },
       "review": {
         "title": 5,
-        "image": 1,
+        "image": 2,
         "sent_at": "2026-10-19T18:05:41+00:00",
         "msg_ids": [
           8198,
