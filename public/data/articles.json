@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:11:25+02:00",
+  "updated_at": "2026-10-19T07:12:46+02:00",
   "articles": [
+    {
+      "id": "1d58412a-04d9-5974-975a-1c32991828d8",
+      "slug": "2026-10-19-zart-targyalas-es-vitak-brusszeltol-budapestig",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Közélet",
+        "Magyar Péter",
+        "Volodimir Zelenszkij",
+        "Fővárosi Közgyűlés",
+        "Brüsszel"
+      ],
+      "title": "Zárt tárgyalás és viták Brüsszeltől Budapestig",
+      "subtitle": null,
+      "lead": "Sűrű napokat tudhat maga mögött a hazai közélet: míg a nemzetközi színtéren fontos diplomáciai egyeztetések zajlottak, addig a fővárosban és a politikai rendezvényeken is felpörögtek az események, alaposan átrendezve a hétköznapok ritmusát.",
+      "key_points": [
+        "Magyar Péter Brüsszelben tárgyalt Volodimir Zelenszkij ukrán elnökkel.",
+        "Rövid, de viharos ülést tartott a Fővárosi Közgyűlés.",
+        "Lakitelken gyűltek össze a Digitális Polgári Körök résztvevői.",
+        "Változások jöhetnek a V-Híd tulajdonosi struktúrájában."
+      ],
+      "content": "Magyar Péter Brüsszelbe utazott az uniós csúcsra, ahol zárt tárgyalást folytatott Volodimir Zelenszkij ukrán elnökkel.\n\nHazai fronton sem maradtak el a konfliktusok: alig húsz percig tartott, mégis veszekedéssel zárult a Fővárosi Közgyűlés rendkívüli ülése. Az eseményen a frakciók összecsapása ismét felszínre hozta a testületen belüli feszültségeket.\n\nEközben Lakitelken tartottak tábort a Fidesz által létrehozott Digitális Polgári Körök, amelynek rendezvényén Orbán Viktor volt miniszterelnök is megjelent. A találkozó a kormánypárti szellemi holdudvar aktuális kérdéseit helyezte a középpontba.\n\nA gazdasági életben is jelentős mozgások körvonalazódnak, miután hírek kaptak szárnyra arról, hogy Mészáros Lőrinc eladhatja a V-Hidat egy osztrák vállalatnak. Az esetleges tranzakció részleteiről a piaci szereplők egyelőre további tájékoztatást várnak.",
+      "content_format": "markdown",
+      "body": [
+        "Magyar Péter Brüsszelbe utazott az uniós csúcsra, ahol zárt tárgyalást folytatott Volodimir Zelenszkij ukrán elnökkel.",
+        "Hazai fronton sem maradtak el a konfliktusok: alig húsz percig tartott, mégis veszekedéssel zárult a Fővárosi Közgyűlés rendkívüli ülése. Az eseményen a frakciók összecsapása ismét felszínre hozta a testületen belüli feszültségeket.",
+        "Eközben Lakitelken tartottak tábort a Fidesz által létrehozott Digitális Polgári Körök, amelynek rendezvényén Orbán Viktor volt miniszterelnök is megjelent. A találkozó a kormánypárti szellemi holdudvar aktuális kérdéseit helyezte a középpontba.",
+        "A gazdasági életben is jelentős mozgások körvonalazódnak, miután hírek kaptak szárnyra arról, hogy Mészáros Lőrinc eladhatja a V-Hidat egy osztrák vállalatnak. Az esetleges tranzakció részleteiről a piaci szereplők egyelőre további tájékoztatást várnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 141,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/b1d5406c41afc643.jpg",
+        "width": 4256,
+        "height": 2832,
+        "kind": "photo",
+        "alt": "handshake, shaking hands, europe, asia, orient, men's suit, politician, business people, collaboration, negotiation, business, together, friendship, hands, welcome, group, community, people, handshake",
+        "credit": "geralt / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/handshake-shaking-hands-europe-asia-4229703/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/b1d5406c41afc643.jpg",
+        "orig_url": "https://pixabay.com/get/g55c428256e7d0d9b3911240c7fea88f6f12edc024e949fd90c7f6dd2ab3cfc4729aa297448800750785a046b0e61ab0b34e61ea32776663bdbfb77b6277dc114_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261019_magyar-brusszelben-targyalt-karacsony-unicumot-kapott-meszaros-eladhatja-a-v-hidat-newscast",
+          "title": "Magyar Brüsszelben tárgyalt, Karácsony Unicumot kapott, Mészáros eladhatja a V-Hidat – Newscast",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T07:11:55+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-19T07:12:46+02:00"
+      },
+      "hot_score": 6.0,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261019_magyar-brusszelben-targyalt-karacsony-unicumot-kapott-meszaros-eladhatja-a-v-hidat-newscast"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kozelet/2026-10-19-zart-targyalas-es-vitak-brusszeltol-budapestig/",
+      "seo": {
+        "meta_title": "Zárt tárgyalás és viták Brüsszeltől Budapestig",
+        "meta_description": "Sűrű napokat tudhat maga mögött a hazai közélet: míg a nemzetközi színtéren fontos diplomáciai egyeztetések zajlottak, addig a fővárosban és a politikai rendezv",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-zart-targyalas-es-vitak-brusszeltol-budapestig/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/b1d5406c41afc643.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "24b52189-9702-583a-8aba-c9d8405a21c2",
+        "c5af7961-925a-5166-845c-7dddc1d830e5",
+        "541a5b21-8a1e-5ad1-83d8-a3967187d813"
+      ],
+      "see_also": [
+        {
+          "title": "Zárt ajtók mögött találkozott Magyar Péter az ukrán elnökkel",
+          "url": "/kozelet/2026-10-16-zart-ajtok-mogott-talalkozott-magyar-peter-az-ukran-elnokkel/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Unicummal indult, vitával zárult a Fővárosi Közgyűlés pénteki ülése",
+          "url": "/kozelet/2026-10-16-unicummal-indult-vitaval-zarult-a-fovarosi-kozgyules-penteki-ulese/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Magyar Péter és Volodimir Zelenszkij Brüsszelben egyeztet pénteken",
+          "url": "/kozelet/2026-10-15-magyar-peter-es-volodimir-zelenszkij-brusszelben-egyeztet-penteken/",
+          "date": "2026-10-15"
+        }
+      ],
+      "thread_id": "75a852fd-37dc-5ee6-a08a-65a34c7b4f9c",
+      "dedupe_hash": "48b50858e82129d658dea7e7e320ec5acd265577948d48f6c0f1c046e40114cf",
+      "pipeline_run_id": "39202189396",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T07:12:46+02:00",
+      "updated_at": "2026-10-19T07:12:46+02:00",
+      "published_at": "2026-10-19T07:12:46+02:00",
+      "expires_at": null
+    },
     {
       "id": "5c8c12cd-434f-5492-95c9-136ed0820f03",
       "slug": "2026-10-18-szemelyes-arulasrol-beszelt-az-ukran-elnok-donald-trump-lepese-utan",
