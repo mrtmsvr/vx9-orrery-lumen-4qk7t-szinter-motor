@@ -13453,15 +13453,26 @@
       },
       "hot_score": 2.34,
       "title_options": [
-        "Felelősségre vonnák az írek a techóriásokat",
-        "Megint visszautasították a meghívást a közösségi oldalak vezetői",
-        "Nem jelennek meg a politikusok előtt a nagy technológiai cégek",
-        "Megint lepattantak a politikusok a techóriásokról",
         "Botrány az ír parlamentben: megfutamodtak a közösségi oldalak",
-        "Nyíltan szembehelyezkedtek a képviselőkkel a techcégek"
+        "Felelősségre vonnák az írek a techóriásokat",
+        "Megint visszautasították a meghívást a közösségi oldalak vezetői"
       ],
       "clickbait_from": 3,
       "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/1280px-Oireachtas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1177,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Logo of the Oireachtas of Ireland",
+          "credit": "Barryob / (Transferred by Fry1989) / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Oireachtas_logo.svg",
+          "exact": true,
+          "entity": "Irish Parliament",
+          "unverified": true
+        },
         {
           "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792402989-0.jpg",
           "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792402989-0.jpg",
@@ -13483,20 +13494,6 @@
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
           "generated": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/1280px-Oireachtas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1177,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Logo of the Oireachtas of Ireland",
-          "credit": "Barryob / (Transferred by Fry1989) / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Oireachtas_logo.svg",
-          "exact": true,
-          "entity": "Irish Parliament",
-          "unverified": true
         },
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/TikTok_Headquarters.jpg/1280px-TikTok_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -13586,13 +13583,19 @@
         ]
       },
       "review": {
-        "title": 4,
+        "title": 0,
         "image": 0,
-        "sent_at": "2026-10-19T09:31:24+00:00",
-        "msg_ids": [],
-        "control_id": 8045,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "sent_at": "2026-10-19T09:44:02+00:00",
+        "msg_ids": [
+          8046,
+          8047,
+          8048,
+          8049,
+          8050,
+          8051,
+          8052
+        ],
+        "control_id": 8053
       },
       "live": true
     }
