@@ -3096,11 +3096,12 @@
       "caption": "Csaknem 2400 embert vettek őrizetbe a hétvégi francia zavargásokban\n\nCsaknem 2400 embert állítottak elő a hatóságok a megélhetési problémák elleni tiltakozásul szervezett franciaországi megmozdulásokat követő zavargásokban. A tüntetések nyomán kialakult helyzet miatt a politikai vezetők határozott fellépést ígértek.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#franciaország #zavargások #emmanuelmacron #hírek #kollektíva",
       "created": "2026-10-19T12:53:49+02:00",
       "due": "2026-10-19T13:38:49+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         8075,
         8076
-      ]
+      ],
+      "error": "a kártya 6 óra alatt sem került ki az oldalra"
     },
     {
       "id": "8631ebb205",
@@ -3211,6 +3212,22 @@
       "tg": [
         8149,
         8150
+      ]
+    },
+    {
+      "id": "36f1683e4d",
+      "art_id": "94a035a1-edcc-5362-8da1-3c7000c55baf",
+      "title": "Változik a számlázás: decembertől kivezeti az MVM a Díjnetet",
+      "url": "/penzvilag/2026-10-19-valtozik-a-szamlazas-decembertol-kivezeti-az-mvm-a-dijnetet/",
+      "card": "public/img/ig/2026-10-19-valtozik-a-szamlazas-decembertol-kivezeti-az-mvm-a-dijnetet.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-19-valtozik-a-szamlazas-decembertol-kivezeti-az-mvm-a-dijnetet.jpg",
+      "caption": "Változik a számlázás: decembertől kivezeti az MVM a Díjnetet\n\nAz MVM Next megszünteti a Díjnet rendszerén keresztüli elektronikus számlázást és fizetést, így 2026 végétől a gáz- és villanyszámlák kizárólag a cég saját digitális felületein lesznek elérhetők. A változás az egyetemes szolgáltatásban lévő ügyfelek 3 százalékát érinti, akiknek december 1-jéig át kell térniük az új rendszerre.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#mvm #díjnet #rezsi #hírek #kollektíva",
+      "created": "2026-10-19T19:03:17+02:00",
+      "due": "2026-10-19T19:48:17+02:00",
+      "status": "queued",
+      "tg": [
+        8152,
+        8153
       ]
     }
   ],
