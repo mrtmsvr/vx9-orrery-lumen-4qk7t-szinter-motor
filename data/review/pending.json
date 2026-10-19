@@ -13927,9 +13927,9 @@
       "live": true
     },
     {
-      "id": "d5d47d09-eb0f-53f0-9958-1a76f3a4ec12",
-      "slug": "2026-10-19-kilencszazalekos-ado-es-ketszeres-csaladi-potlek-itt-a-tisza-part-ter",
-      "status": "pending",
+      "id": "6be65892-0948-5435-985f-bb93a4d7574d",
+      "slug": "2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -13939,7 +13939,7 @@
         "adózás",
         "gazdaság"
       ],
-      "title": "Kilencszázalékos adó és kétszeres családi pótlék: itt a Tisza Párt terve",
+      "title": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
       "subtitle": null,
       "lead": "Bemutatta 2027-es költségvetési javaslatait a Tisza Párt, amelyek radikális adócsökkentéseket és szociális juttatásokat ígérnek. A tervezet a társadalmi igazságosságot helyezi a középpontba, de a bevételek és kiadások egyensúlya miatt máris gazdasági vitákat váltott ki.",
       "key_points": [
@@ -13961,18 +13961,16 @@
       "word_count": 223,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_magyar.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 888,
+        "height": 1600,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+        "pos": "top",
+        "alt": "Magyar Péter a 2024.04.06-i tüntetésen",
+        "credit": "B. Molnár Béla / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-        "exact": true,
-        "entity": "Hungarian Parliament Building",
-        "vision_score": 10.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Peter_magyar.2.jpg",
+        "unverified": true
       },
       "inline_images": [],
       "sources": [
@@ -14113,12 +14111,12 @@
       },
       "date": "2026-10-19",
       "date_label": "október 19.",
-      "url": "/kozelet/2026-10-19-kilencszazalekos-ado-es-ketszeres-csaladi-potlek-itt-a-tisza-part-ter/",
+      "url": "/kozelet/2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re/",
       "seo": {
-        "meta_title": "Kilencszázalékos adó és kétszeres családi pótlék: itt a Tisz",
+        "meta_title": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 202",
         "meta_description": "Bemutatta 2027-es költségvetési javaslatait a Tisza Párt, amelyek radikális adócsökkentéseket és szociális juttatásokat ígérnek. A tervezet a társadalmi igazság",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-kilencszazalekos-ado-es-ketszeres-csaladi-potlek-itt-a-tisza-part-ter/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_magyar.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -14155,9 +14153,9 @@
       "dedupe_hash": "492260064f6929c02622bc12bc37db5c36eff59311ac15d423336dbec8980403",
       "pipeline_run_id": "39295161506",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T20:04:15+02:00",
-      "updated_at": "2026-10-19T20:04:15+02:00",
-      "published_at": "2026-10-19T20:04:15+02:00",
+      "created_at": "2026-10-19T20:43:43+02:00",
+      "updated_at": "2026-10-19T20:43:43+02:00",
+      "published_at": "2026-10-19T20:43:43+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -14177,7 +14175,7 @@
         "msg_ids": [],
         "control_id": 8219,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:43 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Peter Magyar",
@@ -14197,7 +14195,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ],
-      "scheduled_at": "2026-10-19T20:43:38+02:00"
+      "live": true
     }
   ]
 }

@@ -1,7 +1,157 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T20:23:38+02:00",
+  "updated_at": "2026-10-19T20:43:43+02:00",
   "articles": [
+    {
+      "id": "6be65892-0948-5435-985f-bb93a4d7574d",
+      "slug": "2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "költségvetés 2027",
+        "Tisza Párt",
+        "adózás",
+        "gazdaság"
+      ],
+      "title": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
+      "subtitle": null,
+      "lead": "Bemutatta 2027-es költségvetési javaslatait a Tisza Párt, amelyek radikális adócsökkentéseket és szociális juttatásokat ígérnek. A tervezet a társadalmi igazságosságot helyezi a középpontba, de a bevételek és kiadások egyensúlya miatt máris gazdasági vitákat váltott ki.",
+      "key_points": [
+        "A minimálbér személyi jövedelemadóját 15%-ról 9%-ra csökkentenék.",
+        "A családi pótlék összegét megdupláznák, a minimális nyugdíjat pedig négyszeresére emelnék.",
+        "Az oktatásban, az egészségügyben, a rendvédelemben és a közművelődésben béremeléseket ígérnek.",
+        "A dohány-, alkohol- és különadók terén komoly emeléseket tartalmaz a tervezet."
+      ],
+      "content": "Magyar Péter bemutatta a Tisza Párt 2027-es költségvetési javaslatait, amelyek az elmúlt évek gazdasági nehézségeinek orvoslását és a terhek igazságosabb elosztását célozzák.\n\nA Telex.hu műsorában Rédli Balázs műsorvezető és Brückner Gergely gazdasági újságíró részletesen elemezte a csomag részleteit. A tervezet bruttó 680 000 forintos fizetésig mindenkinek kevesebb adót ígér, a minimálbér személyi jövedelemadóját pedig a jelenlegi 15%-ról 9%-ra mérsékelnék. Emellett a családi pótlékot a duplájára emelnék, a minimális nyugdíjat pedig több mint négyszeresére növelnék.\n\nA költségvetési javaslat béremeléseket irányoz elő az oktatásban, az egészségügyben, a rendvédelemben és a közművelődésben. Az édesanyák adómentességénél bruttó 1 millió forintos jövedelemhatárt vezetnek be, a negyven év feletti kétgyerekes anyák végül nem kapnak adómentességet. Brückner Gergely kiemelte, hogy a költségvetés mozgatórugója a társadalmi igazságosság volt, és a tervezet hosszú távon sorolja a kiadásnövelő tételeket, például a legnehezebb sorsúak támogatását.\n\nA gazdasági intézkedések komoly vitákat váltottak ki, különösen a dohány-, alkohol- és különadók terén, valamint a rezsicsökkentés, a bányászati adók és az e-autó-támogatások változásai miatt. Az újságíró hangsúlyozta, hogy kérdéses, a bevételek és kiadások hogyan egyensúlyozhatók ki a valóságban, és a gazdasági növekedés milyen hatással lesz a költségvetésre.",
+      "content_format": "markdown",
+      "body": [
+        "Magyar Péter bemutatta a Tisza Párt 2027-es költségvetési javaslatait, amelyek az elmúlt évek gazdasági nehézségeinek orvoslását és a terhek igazságosabb elosztását célozzák.",
+        "A Telex.hu műsorában Rédli Balázs műsorvezető és Brückner Gergely gazdasági újságíró részletesen elemezte a csomag részleteit. A tervezet bruttó 680 000 forintos fizetésig mindenkinek kevesebb adót ígér, a minimálbér személyi jövedelemadóját pedig a jelenlegi 15%-ról 9%-ra mérsékelnék. Emellett a családi pótlékot a duplájára emelnék, a minimális nyugdíjat pedig több mint négyszeresére növelnék.",
+        "A költségvetési javaslat béremeléseket irányoz elő az oktatásban, az egészségügyben, a rendvédelemben és a közművelődésben. Az édesanyák adómentességénél bruttó 1 millió forintos jövedelemhatárt vezetnek be, a negyven év feletti kétgyerekes anyák végül nem kapnak adómentességet. Brückner Gergely kiemelte, hogy a költségvetés mozgatórugója a társadalmi igazságosság volt, és a tervezet hosszú távon sorolja a kiadásnövelő tételeket, például a legnehezebb sorsúak támogatását.",
+        "A gazdasági intézkedések komoly vitákat váltottak ki, különösen a dohány-, alkohol- és különadók terén, valamint a rezsicsökkentés, a bányászati adók és az e-autó-támogatások változásai miatt. Az újságíró hangsúlyozta, hogy kérdéses, a bevételek és kiadások hogyan egyensúlyozhatók ki a valóságban, és a gazdasági növekedés milyen hatással lesz a költségvetésre."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 223,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_magyar.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Magyar Péter a 2024.04.06-i tüntetésen",
+        "credit": "B. Molnár Béla / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Peter_magyar.2.jpg",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=zGDvLO1Yhak",
+          "title": "A Fidesz sok szent tehenet hagyott hátra",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-19T20:04:15+02:00"
+        }
+      ],
+      "quote": {
+        "text": "ez egy rendkívül nagy rendszer volt, jóval nagyobb támogatási elemmel, mint a, mint a termék őshazájában, ez egy német típusú ilyen spárkassze, vagy nem tudom, ez a svédbisholl nevű intézmény volt ennek a leghíresebb európai képviselője.",
+        "who": "Brückner Gergely gazdasági újságíró",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-19T20:43:43+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=zGDvLO1Yhak"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kozelet/2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re/",
+      "seo": {
+        "meta_title": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 202",
+        "meta_description": "Bemutatta 2027-es költségvetési javaslatait a Tisza Párt, amelyek radikális adócsökkentéseket és szociális juttatásokat ígérnek. A tervezet a társadalmi igazság",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_magyar.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "74e329e1-d5e1-5221-92c4-8ef3be8a15d0",
+        "445f0860-522a-5e36-aca7-588024f8cfde",
+        "c47e7567-a911-524f-88aa-b3d489bd97c6"
+      ],
+      "see_also": [
+        {
+          "title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
+          "url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Így faragná le a Tisza-kormány a költségvetési hiányt",
+          "url": "/penzvilag/2026-10-19-igy-faragna-le-a-tisza-kormany-a-koltsegvetesi-hianyt/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a Fidesz tartalékairól beszélt",
+          "url": "/kozelet/2026-10-18-orban-viktor-a-lakitelki-taborban-fegyveres-lazadasrol-es-a-fidesz-ta/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "492260064f6929c02622bc12bc37db5c36eff59311ac15d423336dbec8980403",
+      "pipeline_run_id": "39295161506",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T20:43:43+02:00",
+      "updated_at": "2026-10-19T20:43:43+02:00",
+      "published_at": "2026-10-19T20:43:43+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "zGDvLO1Yhak",
+        "title": "A Fidesz sok szent tehenet hagyott hátra",
+        "channel": "Telex․hu",
+        "minutes": 34
+      },
+      "image_queries": [
+        "Peter Magyar",
+        "Tisza Party",
+        "Balazs Redli",
+        "Gergely Brückner",
+        "Telex.hu",
+        "Budapest",
+        "tax form with reduced rate",
+        "family receiving child allowance",
+        "elderly receiving pension check",
+        "students in classroom receiving salary r"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433478-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433507-1.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
+    },
     {
       "id": "b7043995-57dd-5428-8bf2-abe510a0c45d",
       "slug": "2026-10-19-nem-vart-fordulat-negyvenharom-ev-utan-felall-a-cnn-sztarmusorvezetoj",
