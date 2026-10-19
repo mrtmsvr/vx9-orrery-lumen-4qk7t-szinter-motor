@@ -2427,6 +2427,185 @@ def apply_article_fixes(output_dir: Path) -> Optional[dict]:
     return {"fixed": done, "missing": missing, "removed": removed}
 
 
+# ---------------------------------------------------------------------------
+# Gyorsjelzés: rendkívüli hír még azelőtt, hogy sok lap megírná
+# ---------------------------------------------------------------------------
+FLASH_KW = re.compile(r"meghalt|elhunyt|halálos|halott|robban|lövöldöz|merénylet|terror|földrengés|lemondott|lemond\b|"
+                      r"letartóztat|őrizetbe|rendkívüli|bombariadó|bombafenyeget|evakuál|tűzvész|katasztróf|lezuhan|"
+                      r"megtámad|hadüzenet|mozgósít|szükségállapot|kegyelm|kirúgt|menesztett|percről percre|breaking",
+                      re.I)
+FLASH_FILE = BASE_DIR / "data" / "review" / "flash.json"
+FLASH_SECTIONS = ("kozelet", "vilag", "penzvilag", "bulvar")
+
+
+def flash_candidates(timeout: int, used_links: set, recent_kw: list) -> list:
+    """Friss (FLASH_WINDOW_MIN, alap 60 perc) hírek három jelre: (1) terjedési sebesség – 45 percen belül legalább
+    3 lap hozza (a tiltott lapok is számítanak); (2) rendkívüli kulcsszó a címben; (3) Google Trends-ugrás (legalább
+    500 keresés). Legalább KÉT jel kell. Visszaad: témajavaslat-formátum (pitch), a ✍️ írójával megírható."""
+    global _TRENDS
+    _FEED_CACHE.clear()  # friss olvasás (a figyelő folyamat órákig fut)
+    _TRENDS = None
+    now = datetime.now(timezone.utc)
+    win = int(os.getenv("FLASH_WINDOW_MIN", "60")) * 60
+    trends = google_trends(timeout)
+    out, taken = [], set()
+    for sid in FLASH_SECTIONS:
+        items, seen = [], set()
+        for url, cat_re, kw_re in SECTIONS[sid]["feeds"]:
+            for it in fetch_feed(url, timeout):
+                if not it["published"] or (now - it["published"]).total_seconds() > win:
+                    continue
+                if it["link"] in seen or it["link"] in used_links or is_blocked(it["link"]):
+                    continue
+                if cat_re and not re.search(cat_re, " ".join(it["categories"]) + " " + it["link"], re.I):
+                    continue
+                if kw_re and not re.search(kw_re, it["title"] + " " + it["summary"], re.I):
+                    continue
+                if SPONSORED.search(it["title"]) or EXCLUDE_ALL.search(it["title"] + " " + it["summary"][:300]):
+                    continue
+                seen.add(it["link"])
+                it["kw"] = _keywords(it["title"] + " " + it["summary"][:200])
+                items.append(it)
+        sig = [s for s in signal_items(sid, now, timeout, win / 3600) if s["published"]]
+        for it in items:
+            if it["link"] in taken or any(len(it["kw"] & rk) >= 4 for rk in recent_kw):
+                continue
+            group = [it] + [o for o in items if o is not it and same_story(it, o)]
+            fast = [g for g in group + [s for s in sig if same_story(it, s)]
+                    if abs((g["published"] - it["published"]).total_seconds()) <= 45 * 60]
+            pubs = {g["source"] for g in fast}
+            reasons = []
+            if len(pubs) >= int(os.getenv("FLASH_MIN_PUBS", "3")):
+                reasons.append(f"{len(pubs)} lap {45} percen belül")
+            kw = next((m.group(0) for g in group if (m := FLASH_KW.search(g["title"]))), None)
+            if kw:
+                reasons.append(f"kulcsszó: „{kw.lower()}”")
+            tr = trend_match(group, trends)
+            if tr and tr["traffic"] >= int(os.getenv("FLASH_MIN_TRAFFIC", "500")):
+                reasons.append(f"Google-keresés: „{tr['q']}” ({tr['traffic']}+)")
+            if len(reasons) < 2:
+                continue
+            taken.update(g["link"] for g in group)
+            story = [{"title": g["title"], "link": g["link"], "summary": (g.get("summary") or "")[:1500],
+                      "source": g["source"], "related": False, "hot_score": 12} for g in group[:5]]
+            out.append({"id": "fl" + hashlib.sha1(it["link"].encode()).hexdigest()[:10], "link": it["link"],
+                        "title": it["title"][:140], "sid": sid, "pubs": sorted({g["source"] for g in group}),
+                        "score": 12, "story": story, "reasons": reasons, "kw": sorted(it["kw"])})
+    return out
+
+
+# ---------------------------------------------------------------------------
+# Folyamatos minőségellenőrzés a kint lévő cikkeken (csendes órákban, kis adagokban)
+# ---------------------------------------------------------------------------
+QC_FILE = BASE_DIR / "data" / "review" / "quality_audit.json"
+QC_SYSTEM = ("Tapasztalt magyar korrektor és olvasószerkesztő vagy. Egy kint lévő hírcikkben csak a VALÓDI hibákat "
+             "javítod, a legkisebb módosítással. Csak JSON-t adsz vissza.")
+
+
+def _apply_fix(a: dict, fx: dict) -> bool:
+    """Egy {field: title|lead|kp|body, old, new} javítás alkalmazása egy cikkre (content/seo is). Igaz, ha illeszkedett."""
+    old, new, field = fx.get("old") or "", fx.get("new", ""), fx.get("field")
+    hit = False
+    if old and field in ("title", "lead") and old in (a.get(field) or ""):
+        a[field] = re.sub(r"\s{2,}", " ", a[field].replace(old, new, 1)).strip()
+        hit = True
+    elif old and field in ("kp", "body"):
+        key = "key_points" if field == "kp" else "body"
+        lst = list(a.get(key) or [])
+        for i, p in enumerate(lst):
+            if old in p:
+                lst[i] = re.sub(r"[ \t]{2,}", " ", p.replace(old, new, 1)).strip()
+                hit = True
+                break
+        a[key] = [p for p in lst if p]
+    if not hit:
+        return False
+    if isinstance(a.get("content"), str) and old in a["content"]:
+        a["content"] = a["content"].replace(old, new, 1)
+    seo = a.get("seo") or {}
+    for k in ("meta_title", "meta_description"):
+        if isinstance(seo.get(k), str) and old in seo[k]:
+            seo[k] = seo[k].replace(old, new, 1)
+    a["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    return True
+
+
+def _safe_fix(fx: dict) -> bool:
+    """Csak apró, biztonságos javítás mehet át: szám, név (nagybetűs szó) nem változhat, a hossz alig."""
+    old, new = str(fx.get("old") or ""), str(fx.get("new") or "")
+    if not old or old == new or len(old) > 300 or len(new) > len(old) * 1.6 + 25 or len(new) < len(old) * 0.4:
+        return False
+    if re.findall(r"\d+", old) != re.findall(r"\d+", new):
+        return False  # tényadat (szám, dátum) nem változhat
+    caps = lambda t: {w for w in re.findall(r"\b[A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]{2,}", t)}
+    return len(caps(old) ^ caps(new)) <= 1  # mondatkezdő nagybetű változhat, név nem cserélődhet
+
+
+def quality_step(output_dir: Path, ai: "AIClient", n: int = 2) -> Optional[dict]:
+    """n kint lévő cikk átnézése: helyesírás, elgépelés, ékezet, AI által kitalált / nem létező szó, értelmetlen vagy
+    csonka mondat, ismétlés, egyeztetési hiba, tükörfordítás. Tényekhez, nevekhez, számokhoz nem nyúl. Előbb a friss
+    (legalább 1 órája kint lévő) cikkek, aztán visszafelé a régiek. Állapot: data/review/quality_audit.json."""
+    st = read_json(QC_FILE, {"done": {}, "log": []})
+    path = output_dir / "articles.json"
+    arts = [a for a in read_json(path, {"articles": []}).get("articles", [])
+            if a.get("status") == "published" and a.get("category") in SECTIONS and a.get("body")]
+    cut = (datetime.now(timezone.utc) - timedelta(hours=1)).isoformat()
+    todo = [a for a in arts if st["done"].get(a["id"]) is None and (a.get("published_at") or a.get("created_at") or "") <= cut]
+    todo.sort(key=lambda a: a.get("published_at") or a.get("created_at") or "", reverse=True)
+    if not todo:
+        return None
+    changes, checked = {}, 0
+    for a in todo[:n]:
+        body = "\n".join(f"[B{i}] {p}" for i, p in enumerate(a.get("body") or []))
+        kps = "\n".join(f"[K{i}] {p}" for i, p in enumerate(a.get("key_points") or []))
+        prompt = (f"CÍM: {a.get('title', '')}\nLEAD: {a.get('lead', '')}\nKULCSPONTOK:\n{kps}\nSZÖVEG:\n{body}\n\n"
+                  "Keresd meg és javítsd: helyesírási hiba, elgépelés, hiányzó/rossz ékezet, NEM LÉTEZŐ vagy AI által kitalált "
+                  "magyar szó (pl. torz összetétel, idegen szó félrefordítva), értelmetlen, csonka vagy félbemaradt mondat, "
+                  "szó- vagy mondatismétlés, egyeztetési hiba (szám, eset, rag), magyartalan tükörfordítás. NE változtass "
+                  "tényt, nevet, számot, dátumot, idézetet, stílust; ne írd át ízlés szerint. Ha minden rendben, üres lista.\n"
+                  'JSON: {"fixes": [{"field": "title|lead|kp|body", "old": "a hibás rész SZÓ SZERINT a szövegből (a legrövidebb '
+                  'egyértelmű részlet, max. 200 karakter)", "new": "javított változat", "why": "pár szó"}]} – max. 8 javítás.')
+        try:
+            r = ai.complete_json(QC_SYSTEM, prompt, 2500)
+        except (AIError, ValueError, TypeError, KeyError) as e:
+            log.warning("Minőségellenőrzés kimaradt (%s): %s", a.get("title", "")[:50], e)
+            break  # keret / hiba: később folytatja, a cikk nem kerül a kész listába
+        fixes = [f for f in (r.get("fixes") or [])[:8] if isinstance(f, dict) and _safe_fix(f)]
+        checked += 1
+        st["done"][a["id"]] = a.get("updated_at") or ""
+        if fixes:
+            changes[a["id"]] = fixes
+    if checked:
+        write_json_atomic(QC_FILE, st)
+    return {"changes": changes, "checked": checked, "left": max(0, len(todo) - checked)}
+
+
+def apply_quality_fixes(output_dir: Path, changes: dict) -> list:
+    """A minőségellenőrzés javításai a friss articles.json-ra (zár alatt hívandó). Visszaad: [(cím, why-lista)]."""
+    if not changes:
+        return []
+    path = output_dir / "articles.json"
+    data = read_json(path, {"articles": []})
+    out = []
+    for a in data.get("articles", []):
+        fl = changes.get(a["id"])
+        if not fl:
+            continue
+        ok = [f for f in fl if _apply_fix(a, f)]
+        if ok:
+            out.append((a.get("title", ""), [str(f.get("why") or f.get("new"))[:40] for f in ok]))
+    if out:
+        write_json_atomic(path, data)
+        st = read_json(QC_FILE, {"done": {}, "log": []})
+        for a in data.get("articles", []):  # a javítás után ne számítson „új változatnak”
+            if a["id"] in changes and a["id"] in st["done"]:
+                st["done"][a["id"]] = a.get("updated_at") or ""
+        st["log"] = (st.get("log") or [])[-300:] + [{"t": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                                                     "title": t[:90], "n": len(w)} for t, w in out]
+        write_json_atomic(QC_FILE, st)
+    return out
+
+
 def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
     """A publikált cikkekből (retro + rovatok) statikus oldalakat, sitemapeket és RSS-t generál a public/ alá."""
     public = output_dir.parent  # public/data -> public
@@ -2540,6 +2719,31 @@ BLOCKED_SOURCES = {x.strip().lower() for x in os.getenv("BLOCKED_SOURCES", "magy
                    if x.strip()}
 
 
+# Csak jelzésként olvasott lapok (forrásként tiltottak): a forróság-számításba beszámítanak (hány lap írja),
+# de a cikkbe soha nem kerülnek – így a téma súlya nem torzul attól, hogy ezeket kizártuk
+SIGNAL_FEEDS = {
+    "kozelet": [("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/belfold/"),
+                ("https://api.origo.hu/publicapi/hu/rss/origo/itthon/articles", None), ("https://mandiner.hu/rss", r"/belfold/")],
+    "vilag": [("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/kulfold/"),
+              ("https://api.origo.hu/publicapi/hu/rss/origo/nagyvilag/articles", None), ("https://mandiner.hu/rss", r"/kulfold/")],
+    "penzvilag": [("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/gazdasag/"),
+                  ("https://api.origo.hu/publicapi/hu/rss/origo/gazdasag/articles", None)],
+}
+
+
+def signal_items(sid: str, now: datetime, timeout: int, max_age_h: float = 36) -> list:
+    out = []
+    for url, path_re in SIGNAL_FEEDS.get(sid, []):
+        for it in fetch_feed(url, timeout):
+            if path_re and not re.search(path_re, it["link"], re.I):
+                continue
+            if it["published"] and (now - it["published"]).total_seconds() > max_age_h * 3600:
+                continue
+            it["kw"] = _keywords(it["title"] + " " + it["summary"][:200])
+            out.append(it)
+    return out
+
+
 def is_blocked(url: str) -> bool:
     host = re.sub(r"^www\.", "", urllib.parse.urlparse(url or "").netloc.lower())
     return any(host == b or host.endswith("." + b) for b in BLOCKED_SOURCES)
@@ -2623,7 +2827,7 @@ SECTIONS = {
         "feeds": [("https://telex.hu/rss", r"Adat", None), ("https://telex.hu/rss", r"Belföld", None),
                   ("https://hvg.hu/rss", r"Itthon", None), ("https://24.hu/feed/", r"24\.hu/belfold/", None),
                   ("https://index.hu/24ora/rss/", r"index\.hu/belfold/", None),
-                  ("https://444.hu/feed", r"\bbelföld\b", None)],
+                  ("https://444.hu/feed", r"\bbelföld\b", None), ("https://infostart.hu/belfold/rss/", None, None)],
     },
     "vilag": {
         "voice": "magyarázó külpolitikai elemző: földrajzi, történelmi kontextust ad, és elmondja, mit jelent ez Magyarországnak",
@@ -2632,7 +2836,7 @@ SECTIONS = {
         "focus": "külpolitika, nemzetközi események, háborúk és konfliktusok, világgazdaság – tényszerűen",
         "feeds": [("https://telex.hu/rss", r"Külföld|Világ", None), ("https://hvg.hu/rss", r"Világ|Külföld", None),
                   ("https://24.hu/feed/", r"24\.hu/kulfold/", None), ("https://index.hu/24ora/rss/", r"index\.hu/kulfold/", None),
-                  ("https://444.hu/feed", r"\bkülföld\b|\bvilág\b", None)],
+                  ("https://444.hu/feed", r"\bkülföld\b|\bvilág\b", None), ("https://infostart.hu/kulfold/rss/", None, None)],
     },
     "penzvilag": {
         "voice": "józan, gyakorlatias gazdasági újságíró: számokkal dolgozik, és mindig lefordítja, mit jelent a pénztárcának",
@@ -2641,7 +2845,8 @@ SECTIONS = {
         "focus": "gazdaság, pénzügyek, árfolyamok, infláció, bérek, befektetés – a hétköznapi olvasó szemszögéből",
         "feeds": [("https://www.portfolio.hu/rss/all.xml", None, ECON), ("https://www.vg.hu/feed", None, ECON),
                   ("https://telex.hu/rss", r"Gazdaság|Vállalat", ECON),
-                  ("https://index.hu/24ora/rss/", r"index\.hu/gazdasag/", WALLET)],
+                  ("https://index.hu/24ora/rss/", r"index\.hu/gazdasag/", WALLET),
+                  ("https://infostart.hu/gazdasag/rss/", None, WALLET)],
     },
     "tech": {
         "voice": "közérthető, kíváncsi tech-újságíró: a szakszavakat egy félmondatban elmagyarázza, túlzó hype nélkül",
@@ -2997,11 +3202,13 @@ def pick_story(section: dict, used_links: set, now: datetime, timeout: int, max_
     scored = []
     trends = google_trends(timeout)
     weight = SECTION_WEIGHTS.get(section.get("id"), 1.0)
+    signals = signal_items(section.get("id", ""), now, timeout, max_age_h)
     for it in items:
         group = [it] + [o for o in items if o is not it and same_story(it, o)]
         group += [dict(o, related=True) for o in items
                   if o is not it and o not in group and related_story(it, o)][:2]
         publishers = {g["source"] for g in group if not g.get("related")}
+        publishers |= {s["source"] for s in signals if same_story(it, s)}  # tiltott lapok: csak a számításba
         fresh = 1.0 if it["published"] and (now - it["published"]).total_seconds() < 12 * 3600 else 0.0
         score = (min(len(publishers), 4) * 3 + min(len(group), 5) + fresh + min(len(it["summary"]), 400) / 400) * weight
         tr = trend_match(group, trends)
@@ -3760,7 +3967,7 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
     for score, sid, group in cands:
         if made >= max_run:
             break
-        if score < min_score or per_section.get(sid):
+        if score < min_score or per_section.get(sid, 0) >= int(os.getenv("MAX_PER_SECTION_RUN", "1")):
             continue
         if same_story_as_recent(ai, group, recent_titles):
             continue  # más rovatban / más címmel már megírtuk ugyanezt az ügyet
@@ -3809,7 +4016,7 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
                 art.pop(k, None)
             articles.insert(0, art)
         made += 1
-        per_section[sid] = 1
+        per_section[sid] = per_section.get(sid, 0) + 1
         log.info("✔ [%s] \"%s\" (pont: %.1f, %s forrás, kép: %s)", sid, art["title"], score, len(art["sources"]),
                  (art["hero_image"] or {}).get("kind", "nincs"))
         time.sleep(pause)  # ingyenes AI-keret: ne fussunk bele a percenkénti limitbe
