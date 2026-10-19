@@ -12449,9 +12449,9 @@
       ]
     },
     {
-      "id": "25ac24d5-0ced-5913-a8d6-2d8704e5508c",
-      "slug": "2026-10-19-bombafenyegetes-teritette-el-az-osztrak-gepet",
-      "status": "pending",
+      "id": "883d6e8b-b6e0-5187-aab2-f1aab64763c5",
+      "slug": "2026-10-19-bombafenyegetes-miatt-szakitotta-meg-utjat-szofiaban-az-austrian-airl",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12461,7 +12461,7 @@
         "Szófia",
         "légiközlekedés"
       ],
-      "title": "Bombafenyegetés térítette el az osztrák gépet",
+      "title": "Bombafenyegetés miatt szakította meg útját Szófiában az Austrian Airlines gépe",
       "subtitle": null,
       "lead": "Fenyegetés miatt vasárnap este Szófiában szakította meg útját az Austrian Airlines Tel-Avivból Bécsbe tartó járata, amelyet a bolgár légierő vadászgépe kísért a földre. Az incidens hátterében egy bombafenyegetés állt, amely miatt válságstábot hívtak össze.",
       "key_points": [
@@ -12484,17 +12484,17 @@
       "word_count": 190,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Airbus_A320-214%2C_Airbus_Industrie_JP7617615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg/1280px-Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
+        "height": 600,
         "kind": "photo",
         "pos": "center",
-        "alt": "",
-        "credit": "Pedro Aragão / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg",
+        "alt": "Paris-Charles de Gaulle Airport",
+        "credit": "Olivier CABARET / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg",
         "exact": true,
-        "entity": "Airbus A320",
+        "entity": "Austrian Airlines",
         "unverified": true
       },
       "inline_images": [],
@@ -12661,12 +12661,12 @@
       },
       "date": "2026-10-19",
       "date_label": "október 19.",
-      "url": "/vilag/2026-10-19-bombafenyegetes-teritette-el-az-osztrak-gepet/",
+      "url": "/vilag/2026-10-19-bombafenyegetes-miatt-szakitotta-meg-utjat-szofiaban-az-austrian-airl/",
       "seo": {
-        "meta_title": "Bombafenyegetés térítette el az osztrák gépet",
+        "meta_title": "Bombafenyegetés miatt szakította meg útját Szófiában az Aust",
         "meta_description": "Fenyegetés miatt vasárnap este Szófiában szakította meg útját az Austrian Airlines Tel-Avivból Bécsbe tartó járata, amelyet a bolgár légierő vadászgépe kísért a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-bombafenyegetes-teritette-el-az-osztrak-gepet/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Airbus_A320-214%2C_Airbus_Industrie_JP7617615.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-bombafenyegetes-miatt-szakitotta-meg-utjat-szofiaban-az-austrian-airl/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg/1280px-Airbus_A321-200_OE-LBD_%22Steirisches_Weinland%22_Austrian_Airlines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12683,9 +12683,9 @@
       "dedupe_hash": "3372f230fdc11e9da41d9926bff35b9862e007d9567a35307fb2720efa05d337",
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T11:29:41+02:00",
-      "updated_at": "2026-10-19T11:29:41+02:00",
-      "published_at": "2026-10-19T11:29:41+02:00",
+      "created_at": "2026-10-19T11:51:57+02:00",
+      "updated_at": "2026-10-19T11:51:57+02:00",
+      "published_at": "2026-10-19T11:51:57+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12698,9 +12698,9 @@
         "msg_ids": [],
         "control_id": 7999,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:51 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-19T11:51:50+02:00"
+      "live": true
     },
     {
       "id": "6a7cbba9-2933-5a8b-a5c9-e6736311e3e3",
