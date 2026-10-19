@@ -2535,6 +2535,16 @@ for _kv in os.getenv("SECTION_WEIGHTS", "").split(","):
             SECTION_WEIGHTS[_kv.split(":")[0].strip()] = float(_kv.split(":")[1])
         except ValueError:
             pass
+# Tiltólista (szerkesztői döntés): ezek a lapok nem lehetnek forrásaink, és a forróság-számításba sem számítanak bele
+BLOCKED_SOURCES = {x.strip().lower() for x in os.getenv("BLOCKED_SOURCES", "magyarnemzet.hu,origo.hu,mandiner.hu").split(",")
+                   if x.strip()}
+
+
+def is_blocked(url: str) -> bool:
+    host = re.sub(r"^www\.", "", urllib.parse.urlparse(url or "").netloc.lower())
+    return any(host == b or host.endswith("." + b) for b in BLOCKED_SOURCES)
+
+
 TRENDS_URL = os.getenv("TRENDS_URL", "https://trends.google.com/trending/rss?geo=HU")
 _TRENDS: Optional[list] = None
 
@@ -2567,7 +2577,7 @@ def google_trends(timeout: int) -> list:
         m = re.search(r"\d[\d,.]*", _text(it.find(ns + "approx_traffic")).replace(",", "").replace(".", ""))
         traffic = int(m.group(0)) if m else 100
         words = [w for w in re.findall(r"[a-z0-9]+", _fold(q)) if len(w) >= 3]
-        news = it.findall(ns + "news_item")
+        news = [n for n in it.findall(ns + "news_item") if not is_blocked(_text(n.find(ns + "news_item_url")))]
         if not words:
             continue
         _TRENDS.append({"q": q, "traffic": traffic, "words": words,
@@ -2613,8 +2623,7 @@ SECTIONS = {
         "feeds": [("https://telex.hu/rss", r"Adat", None), ("https://telex.hu/rss", r"Belföld", None),
                   ("https://hvg.hu/rss", r"Itthon", None), ("https://24.hu/feed/", r"24\.hu/belfold/", None),
                   ("https://index.hu/24ora/rss/", r"index\.hu/belfold/", None),
-                  ("https://444.hu/feed", r"\bbelföld\b", None),
-                  ("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/belfold/", None)],
+                  ("https://444.hu/feed", r"\bbelföld\b", None)],
     },
     "vilag": {
         "voice": "magyarázó külpolitikai elemző: földrajzi, történelmi kontextust ad, és elmondja, mit jelent ez Magyarországnak",
@@ -2623,8 +2632,7 @@ SECTIONS = {
         "focus": "külpolitika, nemzetközi események, háborúk és konfliktusok, világgazdaság – tényszerűen",
         "feeds": [("https://telex.hu/rss", r"Külföld|Világ", None), ("https://hvg.hu/rss", r"Világ|Külföld", None),
                   ("https://24.hu/feed/", r"24\.hu/kulfold/", None), ("https://index.hu/24ora/rss/", r"index\.hu/kulfold/", None),
-                  ("https://444.hu/feed", r"\bkülföld\b|\bvilág\b", None),
-                  ("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/kulfold/", None)],
+                  ("https://444.hu/feed", r"\bkülföld\b|\bvilág\b", None)],
     },
     "penzvilag": {
         "voice": "józan, gyakorlatias gazdasági újságíró: számokkal dolgozik, és mindig lefordítja, mit jelent a pénztárcának",
@@ -2969,7 +2977,7 @@ def pick_story(section: dict, used_links: set, now: datetime, timeout: int, max_
     items, seen = [], set()
     for url, cat_re, kw_re in section["feeds"]:
         for it in fetch_feed(url, timeout):
-            if it["link"] in seen or it["link"] in used_links:
+            if it["link"] in seen or it["link"] in used_links or is_blocked(it["link"]):
                 continue
             cats = " ".join(it["categories"]) + " " + it["link"]  # a link útvonala is rovatjelölő (24.hu/belfold/…)
             if cat_re and not re.search(cat_re, cats, re.I):
