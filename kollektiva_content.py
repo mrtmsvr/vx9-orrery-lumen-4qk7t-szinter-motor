@@ -1363,7 +1363,9 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
             r = ai.complete_json("Képszerkesztő vagy. Csak JSON-t adsz vissza.",
                                  f"Cikk: {a['title']}\n{a.get('lead', '')}\nCímkék: {', '.join(a.get('tags') or [])}\n\n"
                                  "Adj 6 angol képkereső kifejezést: előbb 3 konkrét (a cikk fő szereplője, intézménye, helyszíne "
-                                 "pontos nevén, pl. „Constitutional Court of Hungary”, „Péter Magyar”), aztán 3 általános témakép. "
+                                 "pontos nevén, pl. „Constitutional Court of Hungary”, „Péter Magyar”), aztán 3 képi asszociáció: "
+                                 "tárgy, gesztus, jelenet vagy szimbólum, ami a hír lényegét mutatja (pl. drágulás → „shopping "
+                                 "cart receipt”, lemondás → „empty office chair”), NEM általános épület. "
                                  'JSON: {"specific": ["..."], "generic": ["..."]}', 300, light=True)
             spec = [str(x)[:60] for x in r.get("specific") or [] if str(x).strip()][:3]
             gen = [str(x)[:40] for x in r.get("generic") or [] if str(x).strip()][:3]
@@ -3612,6 +3614,7 @@ def section_prompt(section: dict, story: list, d: date, context: Optional[list] 
             bg_block += ("\nAKTUÁLIS HÁTTÉR (napi frissítés) – a tisztségeknél (ki a miniszterelnök, ki van "
                          "kormányon, ki az ellenzék) ehhez és a forrásokhoz igazodj, NE a saját emlékeidhez, mert azok elavultak "
                          "lehetnek:\n" + ctx + "\n")
+    bg_block += editor_title_examples()
     if examples:
         bg_block += ("\nCÍMSTÍLUS – így címeznek ma a nagy magyar lapok (csak stílusminta: ritmus, csavar, irónia, "
                      "kattintásra csábító fordulat; a címeiket NE másold, a tényeiket ne vedd át):\n"
@@ -3633,7 +3636,9 @@ esemény külön blokkban szerepeljen, a blokk első bekezdése egy „## ” ke
 
 Írj ebből egy eredeti, magyar nyelvű magazincikket:
 - "title": RÖVID (max. 9 szó), ütős, kattintásra csábító cím: csavar, irónia, kíváncsiságot keltő fordulat,
-  meglepő szám vagy kérdés. A poént NEM kell lelőni (nem kell minden részletnek benne lennie), de legyen benne
+  meglepő szám vagy kérdés. Legyen benne él: szemtelen, magabiztos, csípős hang (mint a 444 vagy a Telex legjobb
+  címei), ne hivatali tényközlés – TILOS a „X bejelentette, hogy…”, „Döntött a kormány…”, „Változás jön…” típusú
+  szürke cím. A legerősebb részlet (ellentmondás, abszurditás, tét, szám) kerüljön előre. A poént NEM kell lelőni (nem kell minden részletnek benne lennie), de legyen benne
   egy konkrét elem (szereplő, ország, szám, tárgy), hogy ne hasson elvontnak. TILOS a sci-fi- vagy mesehangulatú,
   általánosító cím, amiről azt hihetné az olvasó, hogy régi vagy kitalált történet (rossz: „Robotok fordították
   meg a fronthelyzetet”; jobb: „Robotokkal törték át az ukránok az orosz vonalat”). Legyen igaz,
@@ -3675,8 +3680,12 @@ esemény külön blokkban szerepeljen, a blokk első bekezdése egy „## ” ke
   (pl. "Budapest Stock Exchange"). Magyar hírnél magyar helyszínt/intézményt keress, ne általános külföldi képet.
 - "image_query_alt": 2–4 további konkrét angol keresőkifejezés a cikkben szereplő más személyekre, helyekre,
   tárgyakra (pl. ["ELTE Budapest", "Centrál Színház Budapest"])
-- "image_generic": 1–2 szavas ANGOL, egyszerű, fotózható téma a hangulatképhez (ha van jobb, 2 ilyen listában)
-  (pl. "coffee cup", "courtroom", "police car", "stock market", "theatre stage", "rocket launch")
+- "image_generic": 2–3 ANGOL, fotózható KÉPI ASSZOCIÁCIÓ listában – mi ugrik be az olvasónak a hírről: tárgy, gesztus,
+  jelenet, szimbólum, ami a hír LÉNYEGÉT (a cselekvést, érzést, tétet) mutatja, nem a helyszínt. Légy kreatív, de
+  egyértelmű. Példák: drágulás → "shopping cart receipt", "fuel pump nozzle"; lemondás → "empty office chair",
+  "handing over keys"; korrupciós ügy → "envelope of cash", "handcuffs"; költségvetési vita → "calculator red pen";
+  kórházi várólista → "waiting room chairs"; sztárválás → "wedding ring on table". TILOS az általános épület
+  (minisztérium, bíróság, parlament, irodaház, „government building”), hacsak nem ott történt maga az esemény
 - "inline_images": 0–2 szövegközi kép. CSAK akkor, ha a cikk egy konkrét, fotózható dolgot említ, amit az olvasó
   szívesen látna, és ami NEM a főkép témája (pl. egy hadihajó-típus, épület, jármű, eszköz, helyszín, másik szereplő).
   Elemei: {{"after": annak a bekezdésnek a sorszáma (0-tól), ami után jöjjön, "query": pontos angol név vagy
@@ -3807,8 +3816,34 @@ TITLE_JUDGE = (
     "Magyar online lap címszerkesztője vagy. Címváltozatokat rangsorolsz aszerint, melyikre kattintana egy átlagos "
     "magyar olvasó a telefonján, ÉS melyik érthető elsőre. Jó cím: konkrét (ki/mi + mi történt vagy miért érdekes), "
     "rövid (max. 9 szó), van benne feszültség vagy újdonság, nem hazudik, nem homályos metafora, nem tükörfordítás. "
-    "Rossz cím: általános („A … ára”), érthetetlen kép, túl hosszú, nem derül ki belőle a téma. Csak JSON-t adsz vissza."
+    "Rossz cím: általános („A … ára”), érthetetlen kép, túl hosszú, nem derül ki belőle a téma, szürke hivatali "
+    "tényközlés („X bejelentette…”). Két egyformán érthető cím közül a szemtelenebb, csípősebb, csavarosabb nyer – "
+    "de az olcsó, bármire ráhúzható sablon („Döbbenetes”, „Ezt nem hinnéd el”) nem. Csak JSON-t adsz vissza."
 )
+TITLE_PREF_FILE = BASE_DIR / "data" / "review" / "title_choices.json"
+
+
+def log_title_choice(chosen: str, first: str, custom: bool) -> None:
+    """A szerkesztő címválasztása (ha nem az elsőt hagyta, vagy saját címet írt): ezekből tanul a címíró."""
+    chosen = (chosen or "").strip()
+    if not chosen or (chosen == (first or "").strip() and not custom):
+        return
+    st = read_json(TITLE_PREF_FILE, {"items": []})
+    items = [x for x in st.get("items", []) if x.get("chosen") != chosen][-59:]
+    items.append({"chosen": chosen[:160], "instead_of": (first or "")[:160], "custom": bool(custom),
+                  "t": datetime.now(timezone.utc).isoformat(timespec="seconds")})
+    write_json_atomic(TITLE_PREF_FILE, {"items": items})
+
+
+def editor_title_examples(n: int = 10) -> str:
+    """A szerkesztő legutóbbi címválasztásai prompt-blokként (üres, ha még nincs)."""
+    items = read_json(TITLE_PREF_FILE, {"items": []}).get("items", [])[-n:]
+    if not items:
+        return ""
+    rows = [f"- „{x['chosen']}”" + (f" (ehelyett: „{x['instead_of']}”)" if x.get("instead_of") and not x.get("custom") else
+                                     " (saját maga írta)") for x in items]
+    return ("\nA SZERKESZTŐ ÍZLÉSE – ezeket a címeket választotta vagy írta a felajánlottak helyett; ilyen hangvételű, "
+            "ilyen erős címeket írj (a témájukat ne vedd át):\n" + "\n".join(rows) + "\n")
 
 
 def proofread_titles(ai: "AIClient", titles: list) -> list:
@@ -3838,7 +3873,7 @@ def _rank_titles(ai: "AIClient", titles: list, lead: str) -> list:
     """Címlektor: a legjobb (legérthetőbb és legkattintósabb) cím kerül előre; ha mind gyenge, egy jobbat is írhat."""
     if len(titles) < 2 or os.getenv("TITLE_JUDGE", "true").lower() not in ("1", "true", "yes"):
         return titles
-    prompt = (f"Bevezető: {lead[:400]}\n\nCímek:\n" + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(titles))
+    prompt = (editor_title_examples(8) + f"\nBevezető: {lead[:400]}\n\nCímek:\n" + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(titles))
               + "\n\nJSON: {\"order\": [sorszámok a legjobbtól], \"better\": \"ha mindegyik gyenge (homályos, "
                 "általános vagy túl hosszú), egy jobb cím ugyanerre a hírre, különben null\"}")
     try:
