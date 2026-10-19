@@ -141,8 +141,9 @@ def science_sources(topic: dict, timeout: int) -> list:
 
 def gather(topic: dict, timeout: int) -> list:
     """Források egy témához: előbb a tudományos tanulmányok (ha van legalább 2, a Wikipédiából csak 1 magyar
-    szócikk megy mellé háttérnek), különben a magyar, és ha kevés, az angol szócikkek."""
-    papers = science_sources(topic, timeout)
+    szócikk megy mellé háttérnek), különben a magyar, és ha kevés, az angol szócikkek. ScienceDaily-témánál
+    a kiinduló kutatási hír is forrás."""
+    papers = ([{"kind": "news", **topic["sd"]}] if topic.get("sd") else []) + science_sources(topic, timeout)
     if len(papers) >= 2:
         bg = next((ex for ex in (wiki_extract(t, "hu", timeout, 2500) for t in topic.get("wiki_hu", [])[:1]) if ex), None)
         return papers + ([bg] if bg else [])
@@ -166,7 +167,9 @@ def gather(topic: dict, timeout: int) -> list:
 def offtopic_prompt(topic: dict, section: dict, sources: list, d: date) -> str:
     src = "\n\n".join(
         (f"[{i + 1}] TANULMÁNY – {s['title']} ({s['journal']}, {s['year']}; {s['cited']} hivatkozás) – összefoglaló:\n{s['text']}"
-         if s.get("kind") == "paper" else f"[{i + 1}] Wikipédia ({s['lang']}) – {s['title']}\n{s['text']}")
+         if s.get("kind") == "paper" else
+         f"[{i + 1}] ÚJ KUTATÁSI HÍR ({s.get('publisher', 'ScienceDaily')}) – a cikk kiindulópontja – {s['title']}\n{s['text']}"
+         if s.get("kind") == "news" else f"[{i + 1}] Wikipédia ({s['lang']}) – {s['title']}\n{s['text']}")
         for i, s in enumerate(sources))
     sci = any(s.get("kind") == "paper" for s in sources)
     sci_rules = ("""
@@ -188,7 +191,7 @@ Háttéranyag (csak ebből és közismert tudásból dolgozz; angol anyagot magy
 - "title_options": 2 további, eltérő stílusú címváltozat, tömbként
 - "lead": 2 mondatos bevezető, ami behúzza az olvasót
 - "key_points": 4–5 rövid, egymondatos pont a lényegről („Röviden” doboz)
-- "body": bekezdések tömbje, 700–1100 szó (4–6 perc olvasás). 3–5 tematikus blokk, mindegyik első bekezdése
+- "body": bekezdések tömbje, {"1100–1500 szó (6–8 perc olvasás)" if topic.get("longform") else "700–1100 szó (4–6 perc olvasás)"}. 3–5 tematikus blokk, mindegyik első bekezdése
   „## ” kezdetű alcímsorral kezdődjön (pl. „## Miért pont a koffein?” – csak maga az alcím, címke nélkül). Legyen benne: miért érdekes/fontos, hogyan működik, konkrét számok és
   példák, gyakori tévhitek, és hogy mit jelent ez a hétköznapokban. Ahol illik, egy bekezdés lehet felsorolás
   („- ” kezdetű sorok). Ne ismételd a leadet, ne legyen „kerekítő” zárómondat.
@@ -227,7 +230,7 @@ def build_article(ai: "kc.AIClient", topic: dict, d: date, tz: ZoneInfo, avoid_i
         log.warning("Off-topic: nincs forrásanyag ehhez: %s", topic.get("topic"))
         return None
     try:
-        raw = ai.complete_json(OFFTOPIC_SYSTEM, offtopic_prompt(topic, section, sources, d), 6000)
+        raw = ai.complete_json(OFFTOPIC_SYSTEM, offtopic_prompt(topic, section, sources, d), 8000 if topic.get("longform") else 6000)
         kc.validate_retro(raw)
         raw = kc.editorial_polish(ai, raw)
         raw = kc.critical_review(ai, raw, sources)
@@ -257,6 +260,8 @@ def build_article(ai: "kc.AIClient", topic: dict, d: date, tz: ZoneInfo, avoid_i
     srcs = kc.normalize_sources([
         {"url": s["url"], "title": s["title"], "publisher": f"{s['journal']}, {s['year']}"}
         if s.get("kind") == "paper" else
+        {"url": s["url"], "title": s["title"], "publisher": s.get("publisher", "ScienceDaily")}
+        if s.get("kind") == "news" else
         {"url": s["url"], "title": s["title"], "publisher": f"Wikipédia ({s['lang']})", "license": "CC BY-SA 4.0"}
         for s in sources], now_iso)
     full_text = " ".join([art["lead"], *art["body"]])
@@ -272,7 +277,7 @@ def build_article(ai: "kc.AIClient", topic: dict, d: date, tz: ZoneInfo, avoid_i
         "authorship": {"mode": "ai_generated", "byline": "Kollektíva szerkesztőség", "model": ai.label.split(":", 2)[-1],
                        "prompt_version": "offtopic-v2-science", "reviewed_by": None, "reviewed_at": None},
         "hot_score": 0, "offtopic": True, "offtopic_topic": topic,
-        "science_based": any(s.get("kind") == "paper" for s in sources),
+        "science_based": any(s.get("kind") in ("paper", "news") for s in sources),
         "title_options": title_options[:3], "image_options": image_options,
         "category_meta": {"source_links": [s["url"] for s in sources], "offtopic_id": topic.get("id")},
         "date": d.isoformat(), "date_label": f"{kc.HU_MONTHS[d.month - 1]} {d.day}.",
@@ -504,6 +509,65 @@ def hook_topic(ai: "kc.AIClient", articles: list, done: list, d: date) -> Option
     return t
 
 
+SD_FEEDS = ["https://www.sciencedaily.com/rss/top/health.xml",
+            "https://www.sciencedaily.com/rss/health_medicine/fitness.xml",
+            "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+            "https://www.sciencedaily.com/rss/mind_brain.xml"]
+SD_SYSTEM = ("Egy magyar online magazin főszerkesztője vagy. Friss kutatási hírekből választod ki azt, amelyikből a legtöbb "
+             "magyar olvasó kattintana egy alapos, magyarázó cikkre. Csak JSON-t adsz vissza.")
+
+
+def science_topic(ai: Optional["kc.AIClient"], done: list, d: date) -> Optional[dict]:
+    """Heti 3 (SCIENCE_DAYS, alap hétfő/szerda/péntek) hosszabb saját cikk egy friss ScienceDaily-kutatásból: az AI a
+    legkattinthatóbbat választja (egészség, fogyás, alvás, edzés, étel, öregedés, agy – nem sejtszintű/állatos
+    szakhír), a cikk gerincét a témában talált további tanulmányok adják. Nem forró hír: időzítve, csendes sávban megy ki."""
+    if not ai or not ai.enabled:
+        return None
+    days = {int(x) for x in os.getenv("SCIENCE_DAYS", "0,2,4").split(",") if x.strip().isdigit()}
+    if d.weekday() not in days:
+        return None
+    now = datetime.now().astimezone()
+    items, seen = [], set()
+    for u in SD_FEEDS:
+        for it in kc.fetch_feed(u, ai.cfg.http_timeout):
+            tid = "sd-" + hashlib.sha1(it["link"].encode()).hexdigest()[:10]
+            if it["link"] in seen or tid in set(done):
+                continue
+            if it.get("published") and (now - it["published"]).days > 14:
+                continue
+            seen.add(it["link"])
+            items.append((tid, it))
+    items = items[:30]
+    if not items:
+        return None
+    lst = "\n".join(f"{i + 1}. {it['title']} – {(it.get('summary') or '')[:220]}" for i, (_, it) in enumerate(items))
+    prompt = (f"Friss kutatási hírek:\n{lst}\n\nVálaszd ki azt az EGYET, amelyik a legtöbb átlagos magyar olvasót érdekli "
+              "(gyakorlati haszon: egészség, testsúly, alvás, edzés, étkezés, öregedés, agy/lélek, gyereknevelés; meglepő, "
+              "hétköznapi tanulsággal). Kerüld a szűk szakmai, sejtszintű, állatkísérletes vagy gyógyszercéges híreket. "
+              'JSON: {"n": sorszám, "topic": "magyar cím-ötlet", "angle": "mire kíváncsi az olvasó, mit tanul belőle", '
+              '"wiki_hu": ["magyar Wikipédia-szócikk"], "wiki_en": ["angol szócikk"], "images": ["angol képkereső kifejezés"], '
+              '"science": {"db": "epmc", "q": "rövid angol keresés a témához (további tanulmányokhoz)"}}')
+    try:
+        t = ai.complete_json(SD_SYSTEM, prompt, 1000, light=True)
+        n = int(t.get("n", 0)) - 1
+    except (kc.AIError, ValueError, TypeError, KeyError) as e:
+        log.warning("ScienceDaily-téma kimaradt: %s", e)
+        return None
+    if not 0 <= n < len(items) or not t.get("topic"):
+        return None
+    tid, it = items[n]
+    topic = {"id": tid, "section": "eletmod", "topic": str(t["topic"])[:120], "angle": str(t.get("angle") or "")[:300],
+             "wiki_hu": [str(x) for x in t.get("wiki_hu") or []][:2], "wiki_en": [str(x) for x in t.get("wiki_en") or []][:2],
+             "images": [str(x) for x in t.get("images") or []][:3], "longform": True,
+             "sd": {"title": it["title"], "url": it["link"], "text": (it.get("summary") or "")[:1500], "publisher": "ScienceDaily"}}
+    if isinstance(t.get("science"), dict) and t["science"].get("q"):
+        topic["science"] = {"db": "epmc", "q": str(t["science"]["q"])[:80]}
+    topics = kc.read_json(TOPICS_FILE, {"topics": []}).get("topics", [])
+    _write_topics(topics + [topic])
+    log.info("ScienceDaily-téma: %s (%s)", topic["topic"], it["title"][:80])
+    return topic
+
+
 def allow_reroll(d: date) -> bool:
     """Elvetett saját cikk után aznap új készülhet (max. OFFTOPIC_REROLLS alkalommal)."""
     runs = kc.read_json(RUNS_FILE, {})
@@ -533,8 +597,8 @@ def run(ai: "kc.AIClient", d: date, tz: ZoneInfo, output_dir: Path, dry_run: boo
         if not topic:
             return 0
     else:
-        topic = None
-        if d.toordinal() % 2 == 0 and os.getenv("OFFTOPIC_HOOK", "true").lower() in ("1", "true", "yes"):
+        topic = science_topic(ai, done, d)  # hétfő/szerda/péntek: hosszabb, kutatásalapú életmódcikk
+        if not topic and d.toordinal() % 2 == 0 and os.getenv("OFFTOPIC_HOOK", "true").lower() in ("1", "true", "yes"):
             topic = hook_topic(ai, kc.read_json(output_dir / "articles.json", {"articles": []}).get("articles", []), done, d)
         topic = topic or next_topic(done, ai)
     if not topic:
