@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:42:13+02:00",
+  "updated_at": "2026-10-19T11:43:31+02:00",
   "articles": [
     {
       "id": "c68f8b77-9778-54d0-936e-66dbaf3e20ac",
@@ -143,18 +143,15 @@
       "word_count": 253,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/1280px-Oireachtas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1177,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Logo of the Oireachtas of Ireland",
-        "credit": "Barryob / (Transferred by Fry1989) / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Oireachtas_logo.svg",
-        "exact": true,
-        "entity": "Irish Parliament",
-        "unverified": true
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792402989-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792402989-0.jpg",
+        "kind": "photo",
+        "alt": "Botrány az ír parlamentben: megfutamodtak a közösségi oldalak",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -193,7 +190,7 @@
         "meta_title": "Botrány az ír parlamentben: megfutamodtak a közösségi oldala",
         "meta_description": "Egy halálos közúti baleset után az ír parlament elszámoltatná a közösségi oldalak üzemeltetőit, ám a technológiai óriáscégek többször is visszautasították a nyi",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-felelossegre-vonnak-az-irek-a-techoriasokat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/1280px-Oireachtas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792402989-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -211,7 +208,7 @@
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T11:31:49+02:00",
-      "updated_at": "2026-10-19T11:42:13+02:00",
+      "updated_at": "2026-10-19T11:43:31+02:00",
       "published_at": "2026-10-19T11:31:49+02:00",
       "expires_at": null
     },

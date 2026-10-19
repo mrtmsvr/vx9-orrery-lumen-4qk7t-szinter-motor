@@ -13463,6 +13463,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792402989-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792402989-0.jpg",
+          "kind": "photo",
+          "alt": "Botrány az ír parlamentben: megfutamodtak a közösségi oldalak",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792403006-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792403006-1.jpg",
+          "kind": "photo",
+          "alt": "Botrány az ír parlamentben: megfutamodtak a közösségi oldalak",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Oireachtas_logo.svg/1280px-Oireachtas_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1177,
@@ -13511,17 +13533,6 @@
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg",
           "unverified": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5bfcfc81fa.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-5bfcfc81fa.jpg",
-          "kind": "photo",
-          "alt": "Felelősségre vonnák az írek a techóriásokat",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -13585,9 +13596,11 @@
           8030,
           8031,
           8032,
-          8041
+          8041,
+          8043,
+          8044
         ],
-        "control_id": 8033
+        "control_id": 8045
       },
       "live": true
     },
