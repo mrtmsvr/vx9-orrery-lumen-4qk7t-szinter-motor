@@ -1,7 +1,165 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T12:52:12+02:00",
+  "updated_at": "2026-10-19T15:24:53+02:00",
   "articles": [
+    {
+      "id": "74e329e1-d5e1-5221-92c4-8ef3be8a15d0",
+      "slug": "2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "költségvetés",
+        "parlament",
+        "minimálbér",
+        "nyugdíj"
+      ],
+      "title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
+      "subtitle": null,
+      "lead": "Magyar Péter miniszterelnök hétfőn a parlamentben részletesen bemutatta a 2027-es központi költségvetést, amely radikális adócsökkentéseket, valamint jelentős nyugdíj- és szociális emeléseket ígér. A Tisztelt Ház elé terjesztett csomag célja az elmúlt évek gazdasági nehézségeinek orvoslása és a terhek igazságosabb elosztása.",
+      "key_points": [
+        "2027-től 9 százalékra csökken a minimálbér személyi jövedelemadója.",
+        "A minimálnyugdíj a jelenlegi 28 500 forintról 120 ezer forintra emelkedik.",
+        "Megszüntetik a sporttámogatási tao-rendszert, helyette közvetlen költségvetési forrást biztosítanak.",
+        "A kormányfő bejelentése szerint a rezsicsökkentés, a babaváró hitel és a csok szabályai nem változnak."
+      ],
+      "content": "Magyar Péter miniszterelnök a parlamentben ismertette a Pénzügyminisztérium koordinálásával összeállított, „igazságosság és fejlődés” szellemében született jövő évi költségvetést. A kormányfő beszédében hangsúlyozta, hogy az új büdzsé az elmúlt évek gazdasági kihívásaira ad választ, és a választási ígéretek jelentős részét már az első évben teljesítik.\n\nA gazdasági intézkedések közül kiemelkedik az adórendszer átalakítása: 2027-től 9 százalékra csökkentik a minimálbér személyi jövedelemadóját.\n\nA nyugellátások területén is drasztikus változások jönnek. A minimálnyugdíj a jelenlegi 28 500 forintról 120 ezer forintra emelkedik, és sávosan növelik az alacsonyabb összegű nyugdíjakat is, ami összesen 455 ezer idős embernek jelent magasabb ellátást.\n\nA sportfinanszírozásban is strukturális váltás történik: megszüntetik a tao-rendszert, és 150 milliárd forintos közvetlen költségvetési támogatással váltják fel azt, míg az állami sporttámogatás teljes összege 453 milliárd forint marad. A dokumentumról októberben szavaz az Országgyűlés.",
+      "content_format": "markdown",
+      "body": [
+        "Magyar Péter miniszterelnök a parlamentben ismertette a Pénzügyminisztérium koordinálásával összeállított, „igazságosság és fejlődés” szellemében született jövő évi költségvetést. A kormányfő beszédében hangsúlyozta, hogy az új büdzsé az elmúlt évek gazdasági kihívásaira ad választ, és a választási ígéretek jelentős részét már az első évben teljesítik.",
+        "A gazdasági intézkedések közül kiemelkedik az adórendszer átalakítása: 2027-től 9 százalékra csökkentik a minimálbér személyi jövedelemadóját.",
+        "A nyugellátások területén is drasztikus változások jönnek. A minimálnyugdíj a jelenlegi 28 500 forintról 120 ezer forintra emelkedik, és sávosan növelik az alacsonyabb összegű nyugdíjakat is, ami összesen 455 ezer idős embernek jelent magasabb ellátást.",
+        "A sportfinanszírozásban is strukturális váltás történik: megszüntetik a tao-rendszert, és 150 milliárd forintos közvetlen költségvetési támogatással váltják fel azt, míg az állami sporttámogatás teljes összege 453 milliárd forint marad. A dokumentumról októberben szavaz az Országgyűlés."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 173,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Hungary",
+        "credit": "Thomas Depenbusch (Depi) from Cologne, Germany / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungary_(explored)_(14995308504).jpg",
+        "exact": true,
+        "entity": "Budapest",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/10/19/magyar-peter-maratoni-beszede-a-parlamentben-az-uj-koltsegvetesrol-cikkunk-frissul",
+          "title": "„A kormány egy év alatt teljesíti 4 év vállalásainak nagy részét” – Magyar Péter maratoni beszéde a parlamentben",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:24:00+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-bejelentette-hogy-a-minimalnyugdijat-es-az-alacsonyabb-nyugdijakat-is-megemelik/",
+          "title": "Magyar Péter bejelentette, hogy a minimálnyugdíjat és az alacsonyabb nyugdíjakat is megemelik",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:24:00+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/2027-tol-9-szazalekra-csokkentik-a-szemelyi-jovedelemadot/",
+          "title": "2027-től 9 százalékra csökkentik a minimálbér személyi jövedelemadóját",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:24:00+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/",
+          "title": "Magyar Péter bejelentést tett az szja-ról: 2,5 millió dolgozó kap adócsökkentést 2027-től - Az Országgyűlés ülése",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:24:00+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-megszuntetjuk-a-tao-finanszirozasi-rendszert/",
+          "title": "Magyar Péter: megszüntetjük a tao finanszírozási rendszert",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:24:00+02:00"
+        }
+      ],
+      "quote": {
+        "text": "A sportban azt akarjuk, hogy minél több gyermek és felnőtt mozoghasson. A tehetség kibontakoztatása ne a szülő pénztárcájának nagyságán dőljön el. Olyan támogatási rendszeren dolgozunk, amiben követhető, hova kerül a közpénz.",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-19T15:24:53+02:00"
+      },
+      "hot_score": 12.4,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/10/19/magyar-peter-maratoni-beszede-a-parlamentben-az-uj-koltsegvetesrol-cikkunk-frissul",
+          "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-bejelentette-hogy-a-minimalnyugdijat-es-az-alacsonyabb-nyugdijakat-is-megemelik/",
+          "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/2027-tol-9-szazalekra-csokkentik-a-szemelyi-jovedelemadot/",
+          "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+      "seo": {
+        "meta_title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van M",
+        "meta_description": "Magyar Péter miniszterelnök hétfőn a parlamentben részletesen bemutatta a 2027-es központi költségvetést, amely radikális adócsökkentéseket, valamint jelentős n",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "eaf2c33d-101a-587c-80a4-f18e6b6fc60e",
+        "167ba6fd-e608-554c-8f70-bd3134f4f476",
+        "4e88af56-b8ee-5250-9fc3-4fecbccc0edd"
+      ],
+      "see_also": [
+        {
+          "title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
+          "url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Fél ezermilliárdos többletforrást kap az egészségügy 2027-ben",
+          "url": "/kozelet/2026-10-18-fel-ezermilliardos-tobbletforrast-kap-az-egeszsegugy-2027-ben/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Magyar Péter hétfőn mutatja be a 2027-es költségvetést",
+          "url": "/kozelet/2026-10-17-magyar-peter-hetfon-mutatja-be-a-2027-es-koltsegvetest/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "6f97da761db7f0566bcd20093323cb1d08c53909b35757212c1bfb0c1e843c91",
+      "pipeline_run_id": "39259687277",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T15:24:53+02:00",
+      "updated_at": "2026-10-19T15:24:53+02:00",
+      "published_at": "2026-10-19T15:24:53+02:00",
+      "expires_at": null
+    },
     {
       "id": "0bafe88f-d517-5d43-9af2-8aa7862ee3c9",
       "slug": "2026-10-19-szalai-piroska-kiszamolta-hova-tunik-a-brusszelbol-felszabaditott-pen",
