@@ -1,7 +1,164 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T19:14:07+02:00",
+  "updated_at": "2026-10-19T19:58:00+02:00",
   "articles": [
+    {
+      "id": "e0a65e13-af8b-5a5a-904c-59a980555dc1",
+      "slug": "2026-10-19-karacsony-gergely-fellelegezhetnek-az-onkormanyzatok-2027-ben",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Karácsony Gergely",
+        "költségvetés",
+        "önkormányzatok",
+        "Magyar Péter",
+        "Budapest"
+      ],
+      "title": "Karácsony Gergely: Fellélegezhetnek az önkormányzatok 2027-ben",
+      "subtitle": null,
+      "lead": "Karácsony Gergely főpolgármester üdvözölte a 2027-es költségvetési tervezetet, amely szerinte az elmúlt hét év pénzügyi nehézségei után végre fellélegzést hozhat a településeknek. A büdzsé emelkedő normatív támogatásokat és mérséklődő szolidaritási hozzájárulást ígér.",
+      "key_points": [
+        "Hatvannégymilliárd forinttal növekedhet az önkormányzatok normatív támogatása.",
+        "Több mint tizenöt százalékkal csökkenhet a szolidaritási hozzájárulás mértéke.",
+        "A vidéki nagyvárosok visszakaphatják a helyi közösségi közlekedési támogatást."
+      ],
+      "content": "Magyar Péter ismertette a 2027. évi költségvetést, amelyre Karácsony Gergely főpolgármester közösségi oldalán reagált. A fővárosi vezető értékelése szerint a tervezet érdemi előrelépést jelent az elmúlt hét év pénzügyi nehézségei után, és reális esélyt teremt arra, hogy a települések könnyebb év elé nézzenek.\n\nA javaslat értelmében az önkormányzatok normatív támogatása 64 milliárd forinttal nő, ami az inflációt meghaladó forrásbővülést eredményez. Emellett a szolidaritási hozzájárulás mértéke több mint 15 százalékkal csökken, ami jelentős tehermentesítést hoz a helyi önkormányzatok számára.\n\nA költségvetési tervezet tartalmazza a vidéki nagyvárosok által régóta követelt helyi közösségi közlekedési támogatás visszaállítását is. Budapest pedig megkapja azokat a forrásokat, amelyekről október elején sikerült megállapodni a kormánnyal.\n\nBár a főpolgármester elismerte, hogy a tervezet nem oldja meg az önkormányzatok összes problémáját, összességében kedvezőnek nevezte a büdzsét. Kiemelte az egészségügyi kiadások növelését, a családi pótlék emelését, a közalkalmazottak bérfejlesztését, valamint az alacsony keresetűek adóterheinek csökkentését.",
+      "content_format": "markdown",
+      "body": [
+        "Magyar Péter ismertette a 2027. évi költségvetést, amelyre Karácsony Gergely főpolgármester közösségi oldalán reagált. A fővárosi vezető értékelése szerint a tervezet érdemi előrelépést jelent az elmúlt hét év pénzügyi nehézségei után, és reális esélyt teremt arra, hogy a települések könnyebb év elé nézzenek.",
+        "A javaslat értelmében az önkormányzatok normatív támogatása 64 milliárd forinttal nő, ami az inflációt meghaladó forrásbővülést eredményez. Emellett a szolidaritási hozzájárulás mértéke több mint 15 százalékkal csökken, ami jelentős tehermentesítést hoz a helyi önkormányzatok számára.",
+        "A költségvetési tervezet tartalmazza a vidéki nagyvárosok által régóta követelt helyi közösségi közlekedési támogatás visszaállítását is. Budapest pedig megkapja azokat a forrásokat, amelyekről október elején sikerült megállapodni a kormánnyal.",
+        "Bár a főpolgármester elismerte, hogy a tervezet nem oldja meg az önkormányzatok összes problémáját, összességében kedvezőnek nevezte a büdzsét. Kiemelte az egészségügyi kiadások növelését, a családi pótlék emelését, a közalkalmazottak bérfejlesztését, valamint az alacsony keresetűek adóterheinek csökkentését."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 177,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/V%C3%A1rhelyi_Kar%C3%A1csony_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1802,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Gergely Karácsony, Mayor of Budapest.",
+        "credit": "Xavier Lejeune / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A1rhelyi_Kar%C3%A1csony_2024_(cropped).jpg",
+        "exact": true,
+        "entity": "Karácsony Gergely",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/10/19/karacsony-gergely-is-reagalt-magyar-peter-beszedere",
+          "title": "Karácsony Gergely is reagált Magyar Péter beszédére",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T19:55:34+02:00"
+        },
+        {
+          "url": "https://24.hu/belfold/2026/10/19/karacsony-gergely-koltsegvetes-onkormanyzatok/",
+          "title": "Karácsony Gergely szerint 2027 a fellélegzés éve lehet az önkormányzatoknak",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T19:55:34+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/onkormanyzat-koltsegvetes-kormany-budapest-karacsony-gergely/",
+          "title": "Karácsony Gergely: 2027 a fellélegzés éve lehet az önkormányzatoknak",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T19:55:34+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-2027-tol-meghirdetjuk-a-21.-szazadi-magyar-new-dealt/",
+          "title": "Magyar Péter: 2027-től meghirdetjük a 21. századi magyar new dealt",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T19:55:34+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261019_karacsony-gergely-koltsegvetesi-tervezet",
+          "title": "Karácsony Gergely: Ez egy nagyon jó költségvetési tervezet",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T19:55:34+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ez azt jelenti, hogy reális esélye van annak, hogy minden magyar településnek könnyebb legyen a következő év.",
+        "who": "Karácsony Gergely főpolgármester",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-19T19:58:00+02:00"
+      },
+      "hot_score": 12.44,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/10/19/karacsony-gergely-is-reagalt-magyar-peter-beszedere",
+          "https://24.hu/belfold/2026/10/19/karacsony-gergely-koltsegvetes-onkormanyzatok/",
+          "https://index.hu/belfold/2026/10/19/onkormanyzat-koltsegvetes-kormany-budapest-karacsony-gergely/",
+          "https://index.hu/belfold/2026/10/19/orszaggyules-parlament-magyar-peter-koltsegvetes-tisza-part-fidesz-kdnp-mi-hazank-mozgalom/magyar-peter-2027-tol-meghirdetjuk-a-21.-szazadi-magyar-new-dealt/"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kozelet/2026-10-19-karacsony-gergely-fellelegezhetnek-az-onkormanyzatok-2027-ben/",
+      "seo": {
+        "meta_title": "Karácsony Gergely: Fellélegezhetnek az önkormányzatok 2027-b",
+        "meta_description": "Karácsony Gergely főpolgármester üdvözölte a 2027-es költségvetési tervezetet, amely szerinte az elmúlt hét év pénzügyi nehézségei után végre fellélegzést hozha",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-karacsony-gergely-fellelegezhetnek-az-onkormanyzatok-2027-ben/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/V%C3%A1rhelyi_Kar%C3%A1csony_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "74e329e1-d5e1-5221-92c4-8ef3be8a15d0",
+        "445f0860-522a-5e36-aca7-588024f8cfde",
+        "4e88af56-b8ee-5250-9fc3-4fecbccc0edd"
+      ],
+      "see_also": [
+        {
+          "title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
+          "url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Így faragná le a Tisza-kormány a költségvetési hiányt",
+          "url": "/penzvilag/2026-10-19-igy-faragna-le-a-tisza-kormany-a-koltsegvetesi-hianyt/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Magyar Péter hétfőn mutatja be a 2027-es költségvetést",
+          "url": "/kozelet/2026-10-17-magyar-peter-hetfon-mutatja-be-a-2027-es-koltsegvetest/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "fc4157fa3bca7019c7842d1e2c8e6febcea91edb166c5a0f20752324b668b7a6",
+      "pipeline_run_id": "39295161506",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T19:58:00+02:00",
+      "updated_at": "2026-10-19T19:58:00+02:00",
+      "published_at": "2026-10-19T19:58:00+02:00",
+      "expires_at": null
+    },
     {
       "id": "33a4c492-aff0-5ca0-a6c4-90a357ad0975",
       "slug": "2026-10-19-feny-derult-a-radnaimark-hu-titkaraira-es-a-fekete-kampanyra",
