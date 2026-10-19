@@ -1,35 +1,36 @@
 {
-  "id": "b59b4dad27",
-  "date": "2026-10-18",
-  "status": "skipped",
-  "article_url": "/penzvilag/2026-10-17-egy-evvel-elhalasztjak-az-ets2-t-az-eu-csucs-vitai-utan/",
-  "article_title": "Egy évvel elhalasztják az ETS2-t az EU-csúcs vitái után",
-  "category": "penzvilag",
+  "id": "5e169331f7",
+  "date": "2026-10-19",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-18-fel-ezermilliardos-tobbletforrast-kap-az-egeszsegugy-2027-ben/",
+  "article_title": "Fél ezermilliárdos többletforrást kap az egészségügy 2027-ben",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint indokolt volt egy évvel elhalasztani az ETS2 bevezetését az EU-ban?",
+      "question": "Jó iránynak tartja az állami bürokrácia karcsúsításából finanszírozni az egészségügyi többletet?",
       "options": [
-        "Igen, helyes a gazdasági terhek csökkentése",
-        "Nem, a klímavédelmi célokat nem szabad halasztani",
+        "Igen, jó döntés",
+        "Nem, más forrás kellene",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesli-e, hogy az EU-csúcs vitái a hétéves költségvetés átalakításához vezettek?",
+      "question": "Melyik területnek kellene elsőbbséget élveznie a költségvetési többletforrások elosztásánál?",
       "options": [
-        "Igen, szükség volt a költségvetési vitákra",
-        "Nem, ez gyengíti az uniós döntéshozatalt",
+        "Egészségügy",
+        "Oktatás",
+        "Gazdaságfejlesztés",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a brüsszeli döntéshozatalban a jövőbeni költségvetési viták során?",
+      "question": "Ön szerint önmagában a pénzügyi többletforrás megoldja az egészségügy problémáit?",
       "options": [
-        "A zöldátállás szigorú ütemezésének betartását",
-        "A lakossági és ipari terhek csökkentését",
+        "Igen, elegendő a pénz",
+        "Nem, mélyebb reformok kellenek",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 7571
+  "msg_id": 7941
 }
