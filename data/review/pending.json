@@ -13152,20 +13152,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-19T05:13:12+00:00",
-        "msg_ids": [
-          7904,
-          7905,
-          7906,
-          7913,
-          7914,
-          7915,
-          7916,
-          7917,
-          7918,
-          7919,
-          7920
-        ],
-        "control_id": 7921
+        "msg_ids": [],
+        "control_id": 7921,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:22 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Bödőcs Tibor",
@@ -13180,7 +13170,8 @@
       "images_seen": [
         "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386764-0.jpg",
         "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386766-1.jpg"
-      ]
+      ],
+      "scheduled_at": "2026-10-19T09:22:05+02:00"
     },
     {
       "id": "ee2c6c99-bbe6-5130-80a7-579ddfdd61be",
