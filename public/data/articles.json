@@ -1,7 +1,135 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T16:24:27+02:00",
+  "updated_at": "2026-10-19T16:26:07+02:00",
   "articles": [
+    {
+      "id": "fccd105a-d5af-5cf4-b386-5a19018550ca",
+      "slug": "2026-10-19-emmanuel-macron-megsem-utazik-el-a-magyar-allami-unnepsegre",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Emmanuel Macron",
+        "Franciaország",
+        "Budapest",
+        "október 23"
+      ],
+      "title": "Emmanuel Macron mégsem utazik el a magyar állami ünnepségre",
+      "subtitle": null,
+      "lead": "Mégsem érkezik meg október 23-án hivatalos budapesti látogatására Emmanuel Macron francia elnök, miután hazájában súlyos zavargások törtek ki. A francia nagykövetség tájékoztatása nyomán kiderült, hogy a politikus lemondta a részvételét az 1956-os forradalom hetvenedik évfordulójának állami ünnepségén.",
+      "key_points": [
+        "Emmanuel Macron mégsem utazik Budapestre az október 23-i ünnepségre.",
+        "A francia nagykövetség megerősítette az elnök távolmaradását.",
+        "A látogatás elmaradásának hátterében a Franciaországot sújtó belföldi zavargások állnak."
+      ],
+      "content": "Változott az október 23-i állami ünnepség programja, mivel Emmanuel Macron francia elnök mégsem látogat el Budapestre. A Telex által a francia nagykövetség tájékoztatására hivatkozva nyilvánosságra hozott hír szerint a francia elnök mégsem látogat el Budapestre.\n\nA látogatás elmaradása nem tekinthető váratlan fordulatnak a franciaországi események fényében, hiszen az országot jelenleg komoly belpolitikai feszültségek és súlyos zavargások rázzák meg. A helyszíni jelentések szerint a rendfenntartók elvesztették az irányítást a tüntetések felett, a belügyminiszter benyújtotta a lemondását, a helyi városvezetők pedig a kormányon kérik számon a helyzet eszkalálódását.\n\nA francia elnök tervezett budapesti jelenlétéről korábban Magyar Péter miniszterelnök beszélt egy interjúban, megemlítve, hogy a kormány a nemzeti ünnep hetvenedik évfordulójára Putyin kivételével minden állam- és kormányfőt meghívott a rendezvényekre. A francia kormány részéről azonban korábban hivatalosan nem erősítették meg a látogatást, a budapesti nagykövetség pedig hétfőn végül jelezte a francia elnök távolmaradását a pénteki eseménytől.",
+      "content_format": "markdown",
+      "body": [
+        "Változott az október 23-i állami ünnepség programja, mivel Emmanuel Macron francia elnök mégsem látogat el Budapestre. A Telex által a francia nagykövetség tájékoztatására hivatkozva nyilvánosságra hozott hír szerint a francia elnök mégsem látogat el Budapestre.",
+        "A látogatás elmaradása nem tekinthető váratlan fordulatnak a franciaországi események fényében, hiszen az országot jelenleg komoly belpolitikai feszültségek és súlyos zavargások rázzák meg. A helyszíni jelentések szerint a rendfenntartók elvesztették az irányítást a tüntetések felett, a belügyminiszter benyújtotta a lemondását, a helyi városvezetők pedig a kormányon kérik számon a helyzet eszkalálódását.",
+        "A francia elnök tervezett budapesti jelenlétéről korábban Magyar Péter miniszterelnök beszélt egy interjúban, megemlítve, hogy a kormány a nemzeti ünnep hetvenedik évfordulójára Putyin kivételével minden állam- és kormányfőt meghívott a rendezvényekre. A francia kormány részéről azonban korábban hivatalosan nem erősítették meg a látogatást, a budapesti nagykövetség pedig hétfőn végül jelezte a francia elnök távolmaradását a pénteki eseménytől."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/1280px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1660,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Foto: Nebojša Tejić / STA",
+        "credit": "Nebojša Tejić / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg",
+        "exact": true,
+        "entity": "Emmanuel Macron",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/10/19/eg-a-haz-megsem-jon-oktober-23-an-budapestre-emmanuel-macron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Ég a ház, mégsem jön október 23-án Budapestre Emmanuel Macron",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:52:58+02:00"
+        },
+        {
+          "url": "https://hvg.hu/vilag/20261019_emmanuel-macron-oktober-23-allami-unnepseg-nem-jon",
+          "title": "Mégsem jön Macron az október 23-i állami ünnepségre",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T15:52:58+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-19T16:26:07+02:00"
+      },
+      "hot_score": 6.5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/10/19/eg-a-haz-megsem-jon-oktober-23-an-budapestre-emmanuel-macron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://hvg.hu/vilag/20261019_emmanuel-macron-oktober-23-allami-unnepseg-nem-jon"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/vilag/2026-10-19-emmanuel-macron-megsem-utazik-el-a-magyar-allami-unnepsegre/",
+      "seo": {
+        "meta_title": "Emmanuel Macron mégsem utazik el a magyar állami ünnepségre",
+        "meta_description": "Mégsem érkezik meg október 23-án hivatalos budapesti látogatására Emmanuel Macron francia elnök, miután hazájában súlyos zavargások törtek ki. A francia nagyköv",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-19-emmanuel-macron-megsem-utazik-el-a-magyar-allami-unnepsegre/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/1280px-Emmanuel_Macron_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "38a28d12-0a7e-540a-91ed-c77213a5e539",
+        "82cd954a-2a58-5700-ae1f-2abb4a646324",
+        "1717c900-9533-58a3-a4c1-dce3134192de"
+      ],
+      "see_also": [
+        {
+          "title": "Megszólalt a norvég riporter, azonnal lecsapott rá a magyar kormányfő",
+          "url": "/kozelet/2026-10-05-megszolalt-a-norveg-riporter-azonnal-lecsapott-ra-a-magyar-kormanyfo/",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Magyar Péter a franciaországi zavargásokról: marad a szigor",
+          "url": "/kozelet/2026-10-18-magyar-peter-a-franciaorszagi-zavargasokrol-marad-a-szigor/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Évtizedek óta hallod, de vajon felismernéd az utcán a legsikeresebb magyar szinkronszínészt?",
+          "url": "/bulvar/2026-10-18-dwayne-johnson-magyar-hangja-most-a-kamerak-elott-bizonyit/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "9e4f05f30c8b92d031dbf0fdbc568c076dfda88ab0e88610bcedc542926e3d4a",
+      "pipeline_run_id": "39260083061",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T16:26:07+02:00",
+      "updated_at": "2026-10-19T16:26:07+02:00",
+      "published_at": "2026-10-19T16:26:07+02:00",
+      "expires_at": null
+    },
     {
       "id": "37da9d11-2c8c-5d05-a560-ee71c9fee291",
       "slug": "2026-10-19-tizmilliard-forint-jut-az-iskolak-korszerusitesere-2027-ben",
