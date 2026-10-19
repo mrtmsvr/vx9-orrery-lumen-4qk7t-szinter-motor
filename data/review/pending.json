@@ -13929,19 +13929,12 @@
         "title": 4,
         "image": 4,
         "sent_at": "2026-10-19T18:03:46+00:00",
-        "msg_ids": [
-          8187,
-          8188,
-          8189,
-          8190,
-          8191,
-          8192,
-          8193,
-          8194,
-          8195
-        ],
-        "control_id": 8196
-      }
+        "msg_ids": [],
+        "control_id": 8196,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:22 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T20:22:05+02:00"
     }
   ]
 }
