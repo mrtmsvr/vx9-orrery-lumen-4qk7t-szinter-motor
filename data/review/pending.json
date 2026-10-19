@@ -12286,90 +12286,68 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403067-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0bafe88fd5-1792403067-0.jpg",
-          "kind": "photo",
-          "alt": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
-          "likeness": true,
-          "credit": "AI-generált illusztráció – Kollektíva",
-          "license": "saját (AI-generált illusztráció)",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403089-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0bafe88fd5-1792403089-1.jpg",
-          "kind": "photo",
-          "alt": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg/1280px-Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 888,
+          "height": 1421,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+          "pos": "top",
+          "alt": "Szalai Piroska portré",
+          "credit": "Szalaipiroska / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Brussels_view_from_Mont_des_Arts%2C_Brussels%2C_Belgium_%28cropped%29.jpg/1280px-Brussels_view_from_Mont_des_Arts%2C_Brussels%2C_Belgium_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 720,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Brussels view from Mont des Arts, Brussels, Belgium",
+          "credit": "Ank Kumar / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Brussels_view_from_Mont_des_Arts,_Brussels,_Belgium_(cropped).jpg",
           "exact": true,
-          "entity": "Hungarian Parliament Building",
-          "unverified": true
+          "entity": "Brussels",
+          "vision_score": 9.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Facade_of_Great_Protestant_Church_of_Debrecen.jpg/1280px-Facade_of_Great_Protestant_Church_of_Debrecen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Civic_Values_for_the_21st_Century_-_Piroska_Szalai.jpg/1280px-Civic_Values_for_the_21st_Century_-_Piroska_Szalai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "Reformed Great Church of Debrecen",
-          "credit": "Nicu Farcaș / Wikimedia Commons",
+          "alt": "Civic Values for the 21st Century - 2025",
+          "credit": "Elekes Andor / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Civic_Values_for_the_21st_Century_-_Piroska_Szalai.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/EU_on_a_globe.svg/1280px-EU_on_a_globe.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "European Union without Ceuta or Melilla (EU) on a globe",
+          "credit": "S. Solberg J., Kolja21, Masterdeis/ derivative work: Kolja21 / Wikimedia Commons",
           "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Facade_of_Great_Protestant_Church_of_Debrecen.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:EU_on_a_globe.svg",
           "exact": true,
-          "entity": "Debrecen",
-          "unverified": true
+          "entity": "European Union",
+          "vision_score": 7.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Royal_Palace_in_Brussels.JPG/1280px-Royal_Palace_in_Brussels.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 900,
+          "height": 916,
           "kind": "photo",
           "pos": "center",
-          "alt": "European Commission building @ Brussels",
-          "credit": "Guilhem Vellut from Annecy, France / Wikimedia Commons",
-          "license": "CC BY 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:European_Commission_building_@_Brussels_(8177616130).jpg",
-          "unverified": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Debrecen_-_Protestant_Great_Church.JPG/1280px-Debrecen_-_Protestant_Great_Church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 920,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "Debrecen - Protestant Great Church",
-          "credit": "Pudelek (Marcin Szala) / Wikimedia Commons",
+          "alt": "The Royal Palace of Brussels.",
+          "credit": "Martin Falbisoner / Wikimedia Commons",
           "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Debrecen_-_Protestant_Great_Church.JPG",
-          "unverified": true
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Debrecen_l%C3%A1tk%C3%A9pe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 900,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "Panorama of Debrecen from the tower of the Great Church",
-          "credit": "Darinko / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Debrecen_l%C3%A1tk%C3%A9pe.jpg",
-          "unverified": true
+          "source_url": "https://commons.wikimedia.org/wiki/File:Royal_Palace_in_Brussels.JPG",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -12429,7 +12407,7 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 0,
         "sent_at": "2026-10-19T09:30:20+00:00",
         "msg_ids": [
           7982,
@@ -12440,10 +12418,35 @@
           7987,
           7988,
           8054,
-          8055
+          8055,
+          8060,
+          8061,
+          8062,
+          8063,
+          8064
         ],
-        "control_id": 8056
-      }
+        "control_id": 8065
+      },
+      "image_queries": [
+        "Szalai Piroska",
+        "Brussels",
+        "European Union",
+        "Debrecen",
+        "CATL battery factory",
+        "Hungarian government",
+        "financial chart",
+        "government office",
+        "industrial factory interior"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403089-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403067-0.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Facade_of_Great_Protestant_Church_of_Debrecen.jpg/1280px-Facade_of_Great_Protestant_Church_of_Debrecen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Debrecen_-_Protestant_Great_Church.JPG/1280px-Debrecen_-_Protestant_Great_Church.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Debrecen_l%C3%A1tk%C3%A9pe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "25ac24d5-0ced-5913-a8d6-2d8704e5508c",
