@@ -14011,6 +14011,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433317-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d5d47d09eb-1792433317-0.jpg",
+          "kind": "photo",
+          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433334-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d5d47d09eb-1792433334-1.jpg",
+          "kind": "photo",
+          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 888,
@@ -14037,17 +14059,6 @@
           "exact": true,
           "entity": "Budapest Stock Exchange",
           "vision_score": 7.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-7882b3ab5f.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-7882b3ab5f.jpg",
-          "kind": "photo",
-          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -14132,9 +14143,11 @@
           8198,
           8199,
           8200,
-          8201
+          8201,
+          8203,
+          8204
         ],
-        "control_id": 8202
+        "control_id": 8205
       }
     }
   ]
