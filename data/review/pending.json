@@ -12203,7 +12203,7 @@
     {
       "id": "0bafe88f-d517-5d43-9af2-8aa7862ee3c9",
       "slug": "2026-10-19-szalai-piroska-kiszamolta-hova-tunik-a-brusszelbol-felszabaditott-pen",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -12235,18 +12235,16 @@
       "word_count": 256,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg/1280px-Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 888,
+        "height": 1421,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+        "pos": "top",
+        "alt": "Szalai Piroska portré",
+        "credit": "Szalaipiroska / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-        "exact": true,
-        "entity": "Hungarian Parliament Building",
-        "unverified": true
+        "source_url": "https://commons.wikimedia.org/wiki/File:Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg",
+        "vision_score": 10.0
       },
       "inline_images": [],
       "sources": [
@@ -12380,7 +12378,7 @@
         "meta_title": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszaba",
         "meta_description": "Hiába szabadult fel 4,2 milliárd eurónyi uniós forrás Brüsszelben, a pénz közel 60 százalékát a kormány már korábban elköltötte. Szalai Piroska, a Fidesz képvis",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-19-szalai-piroska-kiszamolta-hova-tunik-a-brusszelbol-felszabaditott-pen/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg/1280px-Szalai_Piroska_foto_Papajcsik_P%C3%A9ter_kis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12397,9 +12395,9 @@
       "dedupe_hash": "fb2d913a7d32bd4d93169a31ba325759fb152088196e6c46e94793315d63fdb2",
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T11:29:43+02:00",
-      "updated_at": "2026-10-19T11:29:43+02:00",
-      "published_at": "2026-10-19T11:29:43+02:00",
+      "created_at": "2026-10-19T12:52:12+02:00",
+      "updated_at": "2026-10-19T12:52:12+02:00",
+      "published_at": "2026-10-19T12:52:12+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12412,7 +12410,7 @@
         "msg_ids": [],
         "control_id": 8065,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:51 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Szalai Piroska",
@@ -12434,7 +12432,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/1/15/Debrecen_l%C3%A1tk%C3%A9pe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ],
-      "scheduled_at": "2026-10-19T12:51:50+02:00"
+      "live": true
     },
     {
       "id": "883d6e8b-b6e0-5187-aab2-f1aab64763c5",
