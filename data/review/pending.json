@@ -11898,19 +11898,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-19T05:02:41+00:00",
-        "msg_ids": [
-          7858,
-          7859,
-          7860,
-          7861,
-          7862,
-          7863,
-          7864,
-          7865,
-          7866
-        ],
-        "control_id": 7867
-      }
+        "msg_ids": [],
+        "control_id": 7867,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 07:42 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T07:42:05+02:00"
     }
   ]
 }
