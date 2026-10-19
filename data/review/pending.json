@@ -12263,12 +12263,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-19T05:12:39+00:00",
-        "msg_ids": [
-          7884,
-          7885,
-          7891
-        ],
-        "control_id": 7886
+        "msg_ids": [],
+        "control_id": 7886,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
