@@ -851,6 +851,83 @@ def commons_search_images(query: str, timeout: int, strict: bool = True, avoid: 
     return (photos + graphics)[:limit]
 
 
+def _norm_tokens(t: str) -> list:
+    t = t.lower().translate(str.maketrans("áéíóöőúüű", "aeiooouuu"))
+    return [w for w in re.findall(r"\w{3,}", t) if w not in ("the", "and", "von", "van", "der")]
+
+
+def _wd_entity(query: str, timeout: int) -> Optional[str]:
+    """Wikidata-elem (Q-azonosító) a keresőkifejezéshez – csak ha a neve/álneve pontosan illik (szórendtől függetlenül),
+    így „Constitutional Court of Hungary” a magyar, nem a cseh Alkotmánybíróság; „Magyar Péter” a politikus."""
+    want = set(_norm_tokens(query))
+    if not want:
+        return None
+    for lang in ("en", "hu"):
+        data = http_get_json("https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&type=item"
+                             f"&limit=7&language={lang}&uselang={lang}&search={urllib.parse.quote(query)}", timeout) or {}
+        for r in data.get("search") or []:
+            if re.search(r"disambiguation|egyértelműsítő|Wikimedia", r.get("description") or "", re.I):
+                continue
+            names = [r.get("label") or ""] + [r.get("match", {}).get("text") or ""] + list(r.get("aliases") or [])
+            for n in names:
+                got = set(_norm_tokens(n))
+                if got and want <= got and len(got - want) <= 1:
+                    return r.get("id")
+    return None
+
+
+def _wd_files(qid: str, timeout: int) -> list:
+    """Az elem hivatalos képe(i) a Commonson: P18 (kép), utána P154 (logó), P8592 / P1801 (épület, emléktábla)."""
+    data = http_get_json(f"https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=claims&ids={qid}",
+                         timeout) or {}
+    claims = ((data.get("entities") or {}).get(qid) or {}).get("claims") or {}
+    out = []
+    for prop in ("P18", "P154", "P8592"):
+        vals = sorted(claims.get(prop) or [], key=lambda c: c.get("rank") != "preferred")
+        for c in vals:
+            v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
+            if isinstance(v, str) and v not in out:
+                out.append(v)
+    return out
+
+
+def _commons_file(fname: str, timeout: int) -> Optional[dict]:
+    data = http_get_json("https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo"
+                         f"&iiprop=url|extmetadata|size&iiurlwidth=1200&titles=File:{_q(fname)}", timeout)
+    try:
+        info = next(iter(data["query"]["pages"].values()))["imageinfo"][0]
+    except (TypeError, KeyError, IndexError, StopIteration):
+        return None
+    return _image_from_info(info, fname)
+
+
+def wikidata_images(queries: list, timeout: int, avoid: Optional[set] = None, limit: int = 3) -> list:
+    """Pontos kép név szerint: a cikk szereplőjének / intézményének / helyszínének Wikidata-elemén megadott hivatalos
+    Commons-kép (portré, épület, logó). Ez a legmegbízhatóbb forrás – nem kulcsszó-egyezés, hanem azonosítás."""
+    if os.getenv("WIKIDATA_IMAGES", "true").lower() not in ("1", "true", "yes"):
+        return []
+    out, seen = [], set(avoid or ())
+    for q in queries:
+        q = str(q or "").strip()[:60]
+        if not q or len(out) >= limit:
+            continue
+        try:
+            qid = _wd_entity(q, timeout)
+            files = _wd_files(qid, timeout) if qid else []
+        except Exception:  # noqa: BLE001
+            files = []
+        for f in files[:2]:
+            img = _commons_file(f, timeout)
+            if img and img["url"] not in seen and not (img_keys(img) & seen):
+                img.update({"exact": True, "entity": q})
+                seen.add(img["url"])
+                out.append(img)
+                break
+    if out:
+        log.info("Wikidata-kép: %s", ", ".join(im["entity"] for im in out))
+    return out
+
+
 def openverse_image(query: str, timeout: int, avoid: Optional[set] = None) -> Optional[dict]:
     """Általános témához (pl. „coffee cup”) szabad licencű fotó az Openverse-ből (Flickr CC stb.)."""
     found = openverse_images(query, timeout, avoid, limit=1)
@@ -959,6 +1036,7 @@ def find_images(specific: list, generic: list, timeout: int, avoid: Optional[set
             if im["url"] not in seen and len(out) < limit:
                 seen.add(im["url"])
                 out.append(im)
+    add(wikidata_images(specific, timeout, seen))  # pontos azonosítás név szerint – előre
     for q in specific:
         q = str(q or "").strip()[:60]
         if q and not (re.search(r"parliament|országház", q, re.I) and len(specific) > 1):
@@ -1100,7 +1178,10 @@ def vision_rank(ai: "AIClient", title: str, lead: str, images: list, min_score: 
               "vagy szöveges/diagram. Ha a cikk konkrét személyről szól, más ember képe max. 2 pont. "
               'JSON: {"scores": [szám, ...]} – pontosan ' + str(len(kept)) + " szám, a képek sorrendjében.")
     models = [m.strip() for m in c.gemini_model.split(",") if m.strip()]
+    scores = []
     for model in models[:2]:
+        if _GEMINI_OUT.get(model, 0) > time.time():
+            continue
         try:
             data = post_json("https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
                              {"Authorization": f"Bearer {c.gemini_key}"},
@@ -1111,15 +1192,111 @@ def vision_rank(ai: "AIClient", title: str, lead: str, images: list, min_score: 
             scores = extract_json(data["choices"][0]["message"]["content"]).get("scores") or []
             break
         except Exception as e:  # noqa: BLE001
+            if "429" in str(e) and "quota" in str(e).lower():
+                _GEMINI_OUT[model] = time.time() + 3600
             log.warning("Képellenőrzés (AI) sikertelen (%s): %s", model, str(e)[:160])
             scores = []
+    if len(scores) != len(kept):  # elfogyott a Gemini-keret: Groq képfelismerő modellje (3 kép / kérés)
+        scores = _groq_vision_scores(c, title, lead, parts)
     if len(scores) != len(kept):
+        for im in images:
+            im.setdefault("unverified", True)
         return images
-    ranked = sorted(((float(s), im) for s, im in zip(scores, kept) if float(s) >= min_score), key=lambda x: -x[0])
+    def ok(s: float, im: dict) -> bool:  # a név szerint azonosított kép csak akkor esik ki, ha egyértelműen nem illik
+        return s >= (2 if im.get("exact") else min_score)
+    ranked = sorted(((float(s) + (3 if im.get("exact") else 0), im) for s, im in zip(scores, kept) if ok(float(s), im)),
+                    key=lambda x: -x[0])
     log.info("Képellenőrzés: %d/%d kép maradt (pontok: %s)", len(ranked), len(kept), scores)
     for s, im in ranked:
         im["vision_score"] = s
     return [im for _, im in ranked]
+
+
+def _groq_vision_scores(c: "Config", title: str, lead: str, parts: list) -> list:
+    """Tartalék képellenőrzés a Groq ingyenes képfelismerő modelljével (GROQ_VISION_MODEL), 3-as csomagokban."""
+    if not c.groq_key or not parts:
+        return []
+    model = os.getenv("GROQ_VISION_MODEL", "qwen/qwen3.8-27b")
+    scores = []
+    for i in range(0, len(parts), 3):
+        chunk = parts[i:i + 3]
+        prompt = (f"Cikk címe: {title}\nBevezető: {lead}\n\nPontozd 0–10-ig, mennyire illik a következő {len(chunk)} kép a "
+                  "cikk főképének: 10 = pontosan azt mutatja, akiről/amiről a cikk szól; 0 = nincs köze, félrevezető (másik "
+                  "ember, másik ország, random tárgy), rossz minőségű vagy szöveges/diagram. "
+                  'JSON: {"scores": [szám, ...]} – pontosan ' + str(len(chunk)) + " szám.")
+        try:
+            data = post_json("https://api.groq.com/openai/v1/chat/completions", {"Authorization": f"Bearer {c.groq_key}"},
+                             {"model": model, "max_tokens": 200, "response_format": {"type": "json_object"},
+                              "messages": [{"role": "system", "content": VISION_SYSTEM},
+                                           {"role": "user", "content": [{"type": "text", "text": prompt}, *chunk]}]},
+                             c.http_timeout, 1)
+            got = extract_json(data["choices"][0]["message"]["content"]).get("scores") or []
+        except Exception as e:  # noqa: BLE001
+            log.warning("Képellenőrzés (Groq) sikertelen: %s", str(e)[:160])
+            return []
+        if len(got) != len(chunk):
+            return []
+        scores += got
+    return scores
+
+
+STOCK_CREDIT = re.compile(r"/ (Pixabay|Pexels|Openverse|Flickr)$|/ \w+\.(com|org)$", re.I)
+NEWS_SECTIONS = {"kozelet", "vilag", "penzvilag"}
+
+
+def news_image_filter(section_id: str, images: list) -> list:
+    """Közélet / világ / pénzvilág: általános stockfotó (Pixabay, Pexels, Openverse) csak akkor maradhat, ha a képellenőrzés
+    kifejezetten illőnek találta (≥ 7 pont). Rossz hangulatkép helyett inkább saját grafika vagy borító."""
+    if section_id not in NEWS_SECTIONS:
+        return images
+    return [im for im in images if not STOCK_CREDIT.search(im.get("credit") or "") or (im.get("vision_score") or 0) >= 7]
+
+
+def make_cover(art: dict, section_id: str) -> Optional[dict]:
+    """Márkás borító (rovat, cím, logó) – ha nincs illő fotó, ez mindig hibátlan. 1200×675, a /public/img/gen/ alá."""
+    try:
+        import io
+        import instagram as ig
+        Image, ImageDraw, ImageFont = ig._pil()
+        W, H, pad = 1200, 675, 70
+        img = Image.new("RGB", (W, H), ig.NAVY)
+        d = ImageDraw.Draw(img)
+        for k in range(0, W + H, 46):  # finom átlós mintázat a háttérben
+            d.line([(k, 0), (k - H, H)], fill=(22, 25, 52), width=2)
+        d.rectangle((0, 0, 14, H), fill=ig.BRASS)
+        sec = (SECTIONS.get(section_id) or {}).get("name") or "Kollektíva"
+        f_k = ig._font(ImageFont, 26, serif=False)
+        d.text((pad, pad), sec.upper(), font=f_k, fill=ig.BRASS)
+        d.rectangle((pad, pad + 42, pad + 80, pad + 46), fill=ig.BRASS)
+        title = art.get("title", "")
+        for size in (66, 60, 54, 48, 42, 38):
+            f_t = ig._font(ImageFont, size)
+            lines = ig._wrap(d, title, f_t, W - 2 * pad)
+            if len(lines) <= 4:
+                break
+        lines, lh = lines[:4], int(size * 1.2)
+        y = pad + 80 + max(0, (H - pad - 80 - 110 - lh * len(lines)) // 2)
+        for i, ln in enumerate(lines):
+            d.text((pad, y + i * lh), ln, font=f_t, fill=ig.PARCH)
+        f_l = ig._font(ImageFont, 34)
+        d.text((pad, H - pad - 34), "Kollektíva", font=f_l, fill=ig.PARCH)
+        d.text((pad + d.textlength("Kollektíva", font=f_l) + 2, H - pad - 34), ".", font=f_l, fill=ig.BRASS)
+        try:
+            logo = Image.open(io.BytesIO(ig.LOGO_PNG)).convert("RGBA")
+            logo = logo.resize((96, int(96 * logo.height / logo.width)))
+            img.paste(logo, (W - pad - 96, H - pad - logo.height + 6), logo)
+        except Exception:  # noqa: BLE001
+            pass
+        out_dir = BASE_DIR / "public" / "img" / "gen"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        name = f"cover-{hashlib.sha1(title.encode()).hexdigest()[:10]}.jpg"
+        img.save(out_dir / name, "JPEG", quality=88, optimize=True)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Borító készítése sikertelen: %s", str(e)[:200])
+        return None
+    return {"url": f"{SITE_URL}/public/img/gen/{name}", "local": str(out_dir / name), "kind": "photo", "alt": title[:200],
+            "credit": "Kollektíva", "license": "saját grafika", "source_url": f"{SITE_URL}/info/#impresszum",
+            "generated": True, "cover": True}
 
 
 GEN_SYSTEM = ("Art director vagy. Egy magyar hírmagazin cikkéhez írsz angol nyelvű képgenerálási promptot. "
@@ -1157,6 +1334,31 @@ def _gen_image(acct: str, token: str, prompt: str, timeout: int, seed: int) -> b
     ingyenes keret elfogyott, a Pollinations nyílt FLUX-szolgáltatása (kulcs nélkül) a tartalék."""
     import base64
     global CF_IMG_EXHAUSTED
+    model = os.getenv("CF_IMAGE_MODEL", "flux-2-klein-4b")
+    if acct and token and not CF_IMG_EXHAUSTED and model.startswith("flux-2"):
+        # FLUX.2 [klein] (2026): jobb minőség, kevesebb neuron/kép; multipart űrlapot vár. Hibánál a régi FLUX-1 jön.
+        try:
+            bnd = f"----kollektiva{seed}"
+            fields = {"prompt": prompt[:2000] + ", no watermark, no text", "width": "1280", "height": "720"}
+            body = "".join(f'--{bnd}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'
+                           for k, v in fields.items()) + f"--{bnd}--\r\n"
+            req = urllib.request.Request(
+                f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/black-forest-labs/{model}",
+                data=body.encode("utf-8"), method="POST",
+                headers={"Authorization": f"Bearer {token}", "Content-Type": f"multipart/form-data; boundary={bnd}"})
+            with urllib.request.urlopen(req, timeout=max(timeout, 60)) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            img = base64.b64decode((data.get("result") or {}).get("image") or data.get("image") or "")
+            if len(img) >= 5000:
+                note_usage("cf_image")
+                return img
+        except urllib.error.HTTPError as e:
+            msg = e.read().decode("utf-8", "replace")[:300]
+            if "4006" in msg or "daily free allocation" in msg or e.code == 429:
+                CF_IMG_EXHAUSTED = True
+            log.warning("FLUX.2 képgenerálás hiba (HTTP %s %s) – FLUX-1 jön.", e.code, msg[:160])
+        except Exception as e:  # noqa: BLE001
+            log.warning("FLUX.2 képgenerálás hiba (%s) – FLUX-1 jön.", str(e)[:160])
     if acct and token and not CF_IMG_EXHAUSTED:
         try:
             data = post_json(f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/black-forest-labs/flux-1-schnell",
@@ -3149,8 +3351,12 @@ def build_section_article(ai: AIClient, section: dict, d: date, tz: ZoneInfo, st
     if len(image_options) < 2 and not strict:
         image_options += drop_used(more_images(ai, art, (avoid_images or set()) | {im["url"] for im in image_options}),
                                    avoid_images)
+    image_options = news_image_filter(section["id"], image_options)
     if not image_options:  # nincs illő kép -> saját grafika, hogy a cikk ne kép nélkül menjen jóváhagyásra
         image_options = auto_illustration(ai, art, section["id"])
+    cover = make_cover(art, section["id"])  # mindig van egy hibátlan, márkás választható borító is (utolsóként)
+    if cover:
+        image_options = image_options[:IMAGE_OPTIONS - 1] + [cover]
     image = image_options[0] if image_options else None
     inline_images = find_inline_images(raw, len(art["body"]), ai.cfg.http_timeout,
                                        (avoid_images or set()) | {im["url"] for im in image_options})
