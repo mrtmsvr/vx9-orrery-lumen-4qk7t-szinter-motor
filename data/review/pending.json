@@ -11595,7 +11595,7 @@
     {
       "id": "59ed8e79-08ef-58bd-bb9c-2d769215acdc",
       "slug": "2026-10-19-miert-langolnak-az-indulatok-az-alkotmanybirosag-korul",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -11882,9 +11882,9 @@
       "dedupe_hash": "8d1bb74c3910428cf809ff5a565537e178ae6f285ebe23254b3c6286b9c27769",
       "pipeline_run_id": "39202189396",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T07:02:38+02:00",
-      "updated_at": "2026-10-19T07:02:38+02:00",
-      "published_at": null,
+      "created_at": "2026-10-19T07:42:06+02:00",
+      "updated_at": "2026-10-19T07:42:06+02:00",
+      "published_at": "2026-10-19T07:42:06+02:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-19T09:02:12+02:00",
@@ -11901,9 +11901,9 @@
         "msg_ids": [],
         "control_id": 7867,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 07:42 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-19T07:42:05+02:00"
+      "live": true
     },
     {
       "id": "3bb672e1-45b1-5791-a706-61f1104e430a",
