@@ -11657,18 +11657,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-19T09:26:34+00:00",
-        "msg_ids": [
-          7944,
-          7945,
-          7946,
-          7947,
-          7949,
-          7961,
-          7962,
-          7963,
-          7964
-        ],
-        "control_id": 7965
+        "msg_ids": [],
+        "control_id": 7965,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
