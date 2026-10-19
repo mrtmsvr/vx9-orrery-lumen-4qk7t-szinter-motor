@@ -377,6 +377,115 @@ def _image_audit(out_dir: Path, tz: ZoneInfo) -> None:
                                                          f"{len(rep)} főkép cserélve.\n\n" + "\n".join(lines))[:4000]})
 
 
+_FLASH_LAST = 0.0
+
+
+def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
+    """Gyorsjelzés (10 percenként, 6–23 óra): ha egy friss hírre legalább két jel mutat (terjedési sebesség, rendkívüli
+    kulcsszó, Google Trends-ugrás), a robot azonnal megírja (nem kell kiválasztani), és jön Telegramra jóváhagyásra.
+    Naponta max. FLASH_MAX_DAY (alap 4)."""
+    global _FLASH_LAST
+    if os.getenv("FLASH_ENABLED", "true").lower() not in ("1", "true", "yes"):
+        return
+    now = datetime.now(tz)
+    if time.time() - _FLASH_LAST < int(os.getenv("FLASH_EVERY_MIN", "10")) * 60 or not 6 <= now.hour <= 22:
+        return
+    _FLASH_LAST = time.time()
+    chat = load_state().get("chat_id")
+    if not chat:
+        return
+    st = kc.read_json(kc.FLASH_FILE, {"sent": {}})
+    today = now.date().isoformat()
+    sent_today = sum(1 for v in st["sent"].values() if (v.get("t") or "").startswith(today))
+    if sent_today >= int(os.getenv("FLASH_MAX_DAY", "4")):
+        return
+    arts = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
+    pend = load_pending(out_dir)
+    used = {l for a in arts + pend for l in a.get("category_meta", {}).get("source_links", [])} | rejected_links(out_dir)
+    log_items = kc._sent_log(12)
+    for e in log_items:
+        used.update(e.get("links") or [])
+    recent_kw = [set(e.get("kw") or []) for e in log_items] + [set(v.get("kw") or []) for v in st["sent"].values()]
+    try:
+        cands = kc.flash_candidates(kc.Config.from_env().http_timeout, used, recent_kw)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Gyorsjelzés kimaradt: %s", str(e)[:200])
+        return
+    for pit in cands:
+        if pit["id"] in st["sent"] or pit["id"] in _PITCH_TAKEN:
+            continue
+        with LOCK:
+            pf = kc.read_json(kc.PITCH_FILE, {"items": {}})
+            pf["items"][pit["id"]] = pit
+            kc.write_json_atomic(kc.PITCH_FILE, pf)
+            st = kc.read_json(kc.FLASH_FILE, {"sent": {}})
+            st["sent"] = {k: v for k, v in st["sent"].items() if (v.get("t") or "") >= (now - timedelta(days=3)).isoformat()}
+            st["sent"][pit["id"]] = {"t": now.isoformat(timespec="seconds"), "title": pit["title"], "kw": pit.get("kw")}
+            kc.write_json_atomic(kc.FLASH_FILE, st)
+        _PITCH_TAKEN.add(pit["id"])
+        tg("sendMessage", {"chat_id": chat, "disable_web_page_preview": True,
+                           "text": f"⚡ Gyorsjelzés – már írom: {pit['title']}\n({', '.join(pit['pubs'][:4])}; "
+                                   + "; ".join(pit["reasons"]) + ")"})
+        threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, chat), daemon=False).start()
+        sent_today += 1
+        if sent_today >= int(os.getenv("FLASH_MAX_DAY", "4")):
+            break
+
+
+_QC_LAST = 0.0
+
+
+def _in_hours(spec: str, hour: int) -> bool:
+    for part in spec.split(","):
+        a, _, b = part.strip().partition("-")
+        if a.isdigit() and (b.isdigit() and int(a) <= hour <= int(b) or not b and int(a) == hour):
+            return True
+    return False
+
+
+def _quality_check(out_dir: Path, tz: ZoneInfo) -> None:
+    """Folyamatos minőségellenőrzés a kint lévő cikkeken, a csendes órákban (QC_HOURS, alap 2–6, 8–10, 13–15, 21–23),
+    QC_EVERY_MIN (alap 15) percenként QC_BATCH (alap 2) cikk. Éjjel a Groq friss kerete, nappal a Gemini dolgozik;
+    ha a Gemini-keret elfogyott, nappal kimarad (ne égesse el a cikkíráshoz kellő tartalékot). Reggel 8 után összesítő."""
+    global _QC_LAST
+    if os.getenv("QC_ENABLED", "true").lower() not in ("1", "true", "yes"):
+        return
+    now = datetime.now(tz)
+    st = kc.read_json(kc.QC_FILE, {"done": {}, "log": []})
+    if now.hour >= 8 and st.get("reported") != now.date().isoformat():
+        since = (now - timedelta(days=1)).isoformat()
+        rows = [x for x in st.get("log") or [] if (x.get("t") or "") >= since]
+        chat = load_state().get("chat_id")
+        with LOCK:
+            st = kc.read_json(kc.QC_FILE, {"done": {}, "log": []})
+            st["reported"] = now.date().isoformat()
+            kc.write_json_atomic(kc.QC_FILE, st)
+        if rows and chat:
+            tg("sendMessage", {"chat_id": chat, "text": (f"🧹 Minőségellenőrzés (24 óra): {len(rows)} cikkben "
+                                                         f"{sum(x.get('n', 0) for x in rows)} javítás\n"
+                                                         + "\n".join(f"• {x['title']} ({x.get('n')})" for x in rows[:25]))[:4000]})
+    if time.time() - _QC_LAST < int(os.getenv("QC_EVERY_MIN", "15")) * 60:
+        return
+    if not _in_hours(os.getenv("QC_HOURS", "2-6,8-10,13-15,21-23"), now.hour):
+        return
+    if now.hour >= 7 and kc.ai_quota_out():
+        return
+    _QC_LAST = time.time()
+    res = kc.quality_step(out_dir, kc.AIClient(kc.Config.from_env()), int(os.getenv("QC_BATCH", "2")))
+    if not res:
+        return
+    if res.get("changes"):
+        with LOCK:
+            done = kc.apply_quality_fixes(out_dir, res["changes"])
+        if done:
+            kc.build_static_site(out_dir, tz)
+            _deploy_now()
+            _save_to_git(f"Korrektúra ({sum(len(w) for _, w in done)} javítás)")
+            return
+    if res.get("checked"):
+        _save_to_git("Minőségellenőrzés")
+
+
 def _daily_model_check(tz: ZoneInfo) -> None:
     """Naponta egyszer (8 óra után): élnek-e még a beállított AI-modellek, és elég volt-e tegnap a keret."""
     now = datetime.now(tz)
@@ -1647,6 +1756,8 @@ def main(argv: Optional[list] = None) -> int:
                 _daily_model_check(tz)
                 _newsletter_check(tz)
                 _image_audit(cfg.output_dir, tz)
+                _flash_check(cfg.output_dir, tz)
+                _quality_check(cfg.output_dir, tz)
             except Exception as e:  # noqa: BLE001
                 log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
