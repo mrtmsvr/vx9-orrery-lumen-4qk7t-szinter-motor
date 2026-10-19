@@ -14174,26 +14174,10 @@
         "title": 5,
         "image": 2,
         "sent_at": "2026-10-19T18:05:41+00:00",
-        "msg_ids": [
-          8198,
-          8199,
-          8200,
-          8201,
-          8203,
-          8204,
-          8206,
-          8207,
-          8209,
-          8210,
-          8212,
-          8213,
-          8214,
-          8215,
-          8216,
-          8217,
-          8218
-        ],
-        "control_id": 8219
+        "msg_ids": [],
+        "control_id": 8219,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:43 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Peter Magyar",
@@ -14212,7 +14196,8 @@
         "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433507-1.jpg",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-19T20:43:38+02:00"
     }
   ]
 }
