@@ -159,7 +159,9 @@ def _fresh_titles(ai, a: dict, n: int = 2) -> list:
     try:
         ai = ai or kc.AIClient(kc.Config.from_env())
         raw = ai.complete_json("Hírszerkesztő vagy egy magyar online magazinnál. Csak JSON-t adsz vissza.",
-                               f"Cím: {a.get('title', '')}\nBevezető: {a.get('lead', '')}\n\nÍrj {n} új, ütős, de igaz címet, ami "
+                               kc.editor_title_examples(8)
+                               + f"Cím: {a.get('title', '')}\nBevezető: {a.get('lead', '')}\n\nÍrj {n} új, ütős, szemtelen, csípős, "
+                               "de igaz címet (nem szürke hivatali tényközlés), ami "
                                "más hangsúllyal vagy szöggel szól; a fontos kulcsszavak (személy neve, helyszín, a lényeg) maradhatnak benne, "
                                "ismert személy nevét ne írd körül "
                                "(max. 9 szó, pont nélkül a végén, olcsó clickbait-sablonok nélkül). "
@@ -534,6 +536,28 @@ def _chunks(text: str, size: int = 3800) -> list:
     return out
 
 
+def _title_changed(chat: int, art: dict) -> None:
+    """Más cím lett kiválasztva / beírva: (1) a címes borító(k) újra az új címmel – ha épp a borító a kiválasztott kép,
+    az új változat előnézete is jön; (2) a választás naplózása (a címíró ebből tanulja a szerkesztő ízlését)."""
+    title = _chosen_title(art)
+    rv = art.get("review", {})
+    try:
+        kc.log_title_choice(title, (art.get("title_options") or [art.get("title", "")])[0], bool(rv.get("custom_title")))
+    except Exception as e:  # noqa: BLE001
+        log.warning("Címválasztás naplózása kimaradt: %s", e)
+    opts = art.get("image_options") or []
+    for i, im in enumerate(opts):
+        if im.get("cover") and im.get("alt") != title[:200]:
+            cov = kc.make_cover({**art, "title": title}, art.get("category"))
+            if not cov:
+                continue
+            opts[i] = cov
+            if rv.get("image", 0) == i:
+                mid = _mid(_send_photo_file(chat, cov["local"], f"🖼 Borító az új címmel (kép {i + 1})"))
+                if mid:
+                    rv.setdefault("msg_ids", []).append(mid)
+
+
 def _chosen_title(art: dict) -> str:
     rv = art.get("review", {})
     if rv.get("custom_title"):
@@ -750,12 +774,14 @@ def _new_images(art: dict, ai, hint: str = "") -> list:
                   + ("\n\nEzekkel már kerestünk, ne ismételd: " + "; ".join(used) if used else "")
                   + "\n\nAdj új keresőkifejezéseket. JSON: {\"specific\": [\"4–6 konkrét angol név: a cikkben szereplő "
                     "személyek, helyszínek, intézmények, járművek, tárgyak (pl. 'USS Gerald R. Ford', 'Budapest Keleti "
-                    "railway station')\"], \"generic\": [\"2–3 egyszerű, fotózható angol hangulat-téma, pl. 'coffee cup', "
-                    "'courtroom', 'hospital corridor'\"]}. Parliament / Országház csak ha a cikk tényleg arról szól.")
+                    "railway station')\"], \"generic\": [\"3–4 fotózható angol KÉPI ASSZOCIÁCIÓ: tárgy, gesztus, jelenet, "
+                    "szimbólum, ami a hír lényegét mutatja (pl. drágulás → 'shopping cart receipt', lemondás → 'empty office "
+                    "chair', korrupció → 'envelope of cash'); légy kreatív\"]}. Általános épület (minisztérium, bíróság, "
+                    "parlament, irodaház) csak ha a cikk tényleg ott játszódik.")
         try:
             raw = ai.complete_json(IMG_SYSTEM, prompt, 500, light=True)
             specific = [str(q).strip()[:60] for q in raw.get("specific") or [] if str(q).strip()][:6]
-            generic = [str(q).strip()[:40] for q in raw.get("generic") or [] if str(q).strip()][:3]
+            generic = [str(q).strip()[:40] for q in raw.get("generic") or [] if str(q).strip()][:4]
         except (kc.AIError, ValueError, TypeError, KeyError) as e:
             log.warning("Képkulcsszavak (AI) kimaradtak: %s", e)
     if hint and not specific:
@@ -770,7 +796,8 @@ def _new_images(art: dict, ai, hint: str = "") -> list:
         log.warning("Használt képek szűrése kimaradt: %s", e)
     found = kc.vision_rank(ai, _chosen_title(art), art.get("lead", ""), found)
     art["image_queries"] = (used + specific + generic)[-30:]
-    return found
+    cov = kc.make_cover({**art, "title": _chosen_title(art)}, art.get("category"))  # címes borító a mostani címmel
+    return found + ([cov] if cov else [])
 
 
 def _refresh_images(chat: int, art: dict, ai, hint: str = "") -> str:
@@ -1073,6 +1100,7 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                                            {"text": "🖼 Képet keressek erre", "callback_data": f"ch|i|{m['message_id']}"}]]}})
                 elif art:
                     art["review"]["custom_title"] = text[:140]
+                    _title_changed(st["chat_id"], art)
                     _refresh_control(st["chat_id"], art)
                     if art.get("live"):
                         _apply_live(out_dir, art, tz)
@@ -1169,6 +1197,7 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                                        "text": "Írd a parancs után az új címet, pl.: /c Megszavazták a nyugdíjemelést"})
                 else:
                     art["review"]["custom_title"] = arg[:140]
+                    _title_changed(st["chat_id"], art)
                     _refresh_control(st["chat_id"], art)
                     if art.get("live"):
                         _apply_live(out_dir, art, tz)
@@ -1441,6 +1470,7 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                     tg("editMessageText", {"chat_id": st["chat_id"], "message_id": msg_id, "text": "Ez a cikk már nincs függőben."})
                 elif parts[1] == "t":
                     art["review"]["custom_title"] = c["text"]
+                    _title_changed(st["chat_id"], art)
                     _refresh_control(st["chat_id"], art)
                     if art.get("live"):
                         _apply_live(out_dir, art, tz)
@@ -1478,6 +1508,7 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
             if act == "t":
                 art["review"]["title"] = int(parts[2])
                 art["review"].pop("custom_title", None)
+                _title_changed(st["chat_id"], art)
                 _refresh_control(st["chat_id"], art)
                 note = f"Cím {int(parts[2]) + 1}"
                 if art.get("live"):
