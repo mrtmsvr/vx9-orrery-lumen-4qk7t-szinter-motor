@@ -211,7 +211,8 @@ def _generated_bg(art: dict) -> Optional[bytes]:
 def make_card(art: dict, bg: Optional[bytes] = None, suffix: str = "") -> Path:
     Image, ImageDraw, ImageFont = _pil()
     img = Image.new("RGB", (W, H), NAVY)
-    raw = bg or _hero_bytes(art) or _generated_bg(art)
+    is_cover = bool((art.get("hero_image") or {}).get("cover"))  # márkás borító: a kártya maga a borító, ne duplázzunk
+    raw = bg or (None if is_cover else (_hero_bytes(art) or _generated_bg(art)))
     if raw:
         try:
             ph = Image.open(io.BytesIO(raw)).convert("RGB")
