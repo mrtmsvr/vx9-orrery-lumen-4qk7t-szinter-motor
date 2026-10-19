@@ -13002,26 +13002,92 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386764-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kultura-1792386764-0.jpg",
-          "kind": "photo",
-          "alt": "Jézus a hegyen: Bödőcs Tibor új, szatirikus kötete",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1802,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Tibor Bödőcs.",
+          "credit": "Bödőcs Tibor (a kép készítője Tündik Judit) / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG"
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386766-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kultura-1792386766-1.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Gustave_Dor%C3%A9_-_Crucifixion_of_Jesus.jpg/1280px-Gustave_Dor%C3%A9_-_Crucifixion_of_Jesus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1527,
           "kind": "photo",
-          "alt": "Jézus a hegyen: Bödőcs Tibor új, szatirikus kötete",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "pos": "top",
+          "alt": "Wood engraving Crucifixion of Jesus 1866 by Gustave Doré.",
+          "credit": "Drawn by Gustave Doré, engraved by J. Gauchard Brunier. Scanned by Michael Gäble / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gustave_Dor%C3%A9_-_Crucifixion_of_Jesus.jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Evangeliarium_-_%C3%A9vang%C3%A9liaire_dit_de_Charlemagne_ou_de_Godescalc_-_J%C3%A9sus-Christ_-_BNF_Gallica.jpg/1280px-Evangeliarium_-_%C3%A9vang%C3%A9liaire_dit_de_Charlemagne_ou_de_Godescalc_-_J%C3%A9sus-Christ_-_BNF_Gallica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1775,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Christ in Majesty, from the Evangéliaire dit de Charlemagne.",
+          "credit": "Godescalc / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Evangeliarium_-_%C3%A9vang%C3%A9liaire_dit_de_Charlemagne_ou_de_Godescalc_-_J%C3%A9sus-Christ_-_BNF_Gallica.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Genesis_on_egg_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1423,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The first chapter of B'reshit, or Genesis, written on an egg, in the Jerusalem museum",
+          "credit": "Sputnikcccp, edited by MPF / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Genesis_on_egg_cropped.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Genesis_1_Dead_Sea_Scroll_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1291,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Cropped version of https://commons.wikimedia.org/wiki/File:Genesis_1_Dead_Sea_Scroll.jpg Dead Sea Scroll fragment 4Q7 with Genesis 1.",
+          "credit": "User:KetefHinnomFan / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Genesis_1_Dead_Sea_Scroll_(Cropped).jpg"
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Gospel_from_Moscow.jpg/1280px-Gospel_from_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1736,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Gospel made in December 1815. Exhibited in the National Year in Moscow, Russian Empire, National History Museum, Sofia, Bulgaria.",
+          "credit": "Biso / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gospel_from_Moscow.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kholm_Gospel-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1716,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Ілюстрована сторінка з Холмського Євангелія",
+          "credit": "невідоме / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kholm_Gospel-2.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Apocalypse_fr_403_BNF.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 875,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Double page de l'Apocalypse fr 403 de la BNF",
+          "credit": "BNF / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Apocalypse_fr_403_BNF.png"
         }
       ],
       "story": [
@@ -13078,10 +13144,32 @@
         "msg_ids": [
           7904,
           7905,
-          7906
+          7906,
+          7913,
+          7914,
+          7915,
+          7916,
+          7917,
+          7918,
+          7919,
+          7920
         ],
-        "control_id": 7907
-      }
+        "control_id": 7921
+      },
+      "image_queries": [
+        "Bödőcs Tibor",
+        "Jesus",
+        "Genesis",
+        "Gospel",
+        "Apocalypse",
+        "mountain",
+        "ancient manuscript",
+        "modern newspaper"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386764-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386766-1.jpg"
+      ]
     },
     {
       "id": "ee2c6c99-bbe6-5130-80a7-579ddfdd61be",
