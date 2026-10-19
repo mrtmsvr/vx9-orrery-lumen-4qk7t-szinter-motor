@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T07:42:06+02:00",
+  "updated_at": "2026-10-19T08:02:31+02:00",
   "articles": [
+    {
+      "id": "3bb672e1-45b1-5791-a706-61f1104e430a",
+      "slug": "2026-10-19-ket-dollaros-karterites-megis-milliardok-forognak-kockan-a-chiphaboru",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Qualcomm",
+        "Arm",
+        "chipgyártás",
+        "szabadalmi per",
+        "technológia"
+      ],
+      "title": "Két dolláros kártérítés, mégis milliárdok forognak kockán a chipháborúban",
+      "subtitle": null,
+      "lead": "Kétdollárnyi kártérítést ítélt meg egy delaware-i szövetségi esküdtszék az amerikai Qualcommnak, miután szerződésszegés és jogellenes üzleti beavatkozás miatt elmarasztalta az Armot. Az igazi pénzügyi küzdelem azonban csak most kezdődik, hiszen a jogdíjak sorsa a bíró döntésétől függ.",
+      "key_points": [
+        "Az esküdtszék jelképes, mindössze két dollár kártérítést szavazott meg az Arm ellen.",
+        "A Qualcomm azzal vádolta a chiptervező céget, hogy visszatartotta a szoftverfrissítéseket, és aláásta a Metával folytatott üzleti kapcsolatait.",
+        "A végső pénzügyi következményekről – köztük a licencdíjak esetleges ötéves felfüggesztéséről – egy amerikai kerületi bíró dönt majd."
+      ],
+      "content": "Meglepő ítélet született a technológiai szektor egyik jelentős vitájában: egy amerikai bíróság esküdtszéke mindössze kétdollárnyi kártérítést ítélt meg a Qualcomm javára. A Tom’s Hardware beszámolója szerint az eljárás középpontjában az áll, hogy az Arm – a processzorarchitektúrák tervezője – megsértette az Architektúra Licencszerződést. A felperes azt vetette a chiptervező szemére, hogy szándékosan visszatartott lényeges szoftverfrissítéseket és processzor-ellenőrző eszközöket, emellett megtagadta a tisztességes licencfeltételek biztosítását.\n\nA konfliktus másik szála szerint a Qualcomm azt állította, hogy az Arm szándékosan beavatkozott a Metával fennálló üzleti kapcsolatába. A vádak szerint az Arm azután küldött fenyegető értesítéseket a licencszerződés felmondásáról, hogy 2024 októberében kiszivárogtatta a vonatkozó értesítést a médiának, ami közvetlenül nehezítette a Qualcomm tárgyalásait partnereivel. Az esküdtszék végül részben adott igazat a felperesnek: megállapította a szerződésszegést és a jogellenes üzleti beavatkozást, ám a megállapított kárigények után összesen csupán két dollárt ítélt meg.\n\nAz Arm határozottan visszautasította a jelentősebb pénzügyi követeléseket, arra hivatkozva, hogy a Qualcomm célja csupán a kedvezőbb feltételek elérése és a milliárdos jogdíjfizetések megkerülése. A cég szóvivője hangsúlyozta: az esküdtszék négy keresetben is az ő javukra döntött, ami igazolja, hogy jóhiszeműen jártak el.\n\nA két dolláros összeg azonban megtévesztő, a történetnek ugyanis komoly folytatása lesz a bírósági szakaszban. Maryellen Noreika kerületi bíró hivatott eldönteni, hogy az Arm szerződésszegése feljogosítja-e a Qualcommot a jogdíjfizetések ötéves felfüggesztésére, ami már dollármilliárdos téteket jelent a felek számára.",
+      "content_format": "markdown",
+      "body": [
+        "Meglepő ítélet született a technológiai szektor egyik jelentős vitájában: egy amerikai bíróság esküdtszéke mindössze kétdollárnyi kártérítést ítélt meg a Qualcomm javára. A Tom’s Hardware beszámolója szerint az eljárás középpontjában az áll, hogy az Arm – a processzorarchitektúrák tervezője – megsértette az Architektúra Licencszerződést. A felperes azt vetette a chiptervező szemére, hogy szándékosan visszatartott lényeges szoftverfrissítéseket és processzor-ellenőrző eszközöket, emellett megtagadta a tisztességes licencfeltételek biztosítását.",
+        "A konfliktus másik szála szerint a Qualcomm azt állította, hogy az Arm szándékosan beavatkozott a Metával fennálló üzleti kapcsolatába. A vádak szerint az Arm azután küldött fenyegető értesítéseket a licencszerződés felmondásáról, hogy 2024 októberében kiszivárogtatta a vonatkozó értesítést a médiának, ami közvetlenül nehezítette a Qualcomm tárgyalásait partnereivel. Az esküdtszék végül részben adott igazat a felperesnek: megállapította a szerződésszegést és a jogellenes üzleti beavatkozást, ám a megállapított kárigények után összesen csupán két dollárt ítélt meg.",
+        "Az Arm határozottan visszautasította a jelentősebb pénzügyi követeléseket, arra hivatkozva, hogy a Qualcomm célja csupán a kedvezőbb feltételek elérése és a milliárdos jogdíjfizetések megkerülése. A cég szóvivője hangsúlyozta: az esküdtszék négy keresetben is az ő javukra döntött, ami igazolja, hogy jóhiszeműen jártak el.",
+        "A két dolláros összeg azonban megtévesztő, a történetnek ugyanis komoly folytatása lesz a bírósági szakaszban. Maryellen Noreika kerületi bíró hivatott eldönteni, hogy az Arm szerződésszegése feljogosítja-e a Qualcommot a jogdíjfizetések ötéves felfüggesztésére, ami már dollármilliárdos téteket jelent a felek számára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 260,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Qualcomm_QSC6055_BNSM523.jpg/1280px-Qualcomm_QSC6055_BNSM523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Qualcomm QSC6055 BNSM523 on a LG VN251S motherboard. A Fidelix FMN2SD1SBK-501A is also visible.",
+        "credit": "Mbrickn / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Qualcomm_QSC6055_BNSM523.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261018_qualcomm-arm-per-ketdollaros-karterites",
+          "title": "Megnyerte a gigapert, 650 forintnyi kártérítést kapott",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T07:12:01+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-19T08:02:31+02:00"
+      },
+      "hot_score": 5.86,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261018_qualcomm-arm-per-ketdollaros-karterites"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/penzvilag/2026-10-19-ket-dollaros-karterites-megis-milliardok-forognak-kockan-a-chiphaboru/",
+      "seo": {
+        "meta_title": "Két dolláros kártérítés, mégis milliárdok forognak kockán a ",
+        "meta_description": "Kétdollárnyi kártérítést ítélt meg egy delaware-i szövetségi esküdtszék az amerikai Qualcommnak, miután szerződésszegés és jogellenes üzleti beavatkozás miatt e",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-19-ket-dollaros-karterites-megis-milliardok-forognak-kockan-a-chiphaboru/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Qualcomm_QSC6055_BNSM523.jpg/1280px-Qualcomm_QSC6055_BNSM523.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d316b8435b7d33efa076a4cf44dfb335d8eabba0e53a27dd3ec72b4f49a9370c",
+      "pipeline_run_id": "39202189396",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T08:02:31+02:00",
+      "updated_at": "2026-10-19T08:02:31+02:00",
+      "published_at": "2026-10-19T08:02:31+02:00",
+      "expires_at": null
+    },
     {
       "id": "59ed8e79-08ef-58bd-bb9c-2d769215acdc",
       "slug": "2026-10-19-miert-langolnak-az-indulatok-az-alkotmanybirosag-korul",
