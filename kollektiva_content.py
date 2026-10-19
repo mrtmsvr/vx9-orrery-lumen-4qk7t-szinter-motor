@@ -2519,6 +2519,77 @@ HEALTH = (r"egészs|edzés|mozgás|alvás|táplálkoz|étrend|diéta|vitamin|sz�
           r"elhízás|cukor|kutatás|orvos|betegség|immun|futás|jóga|izom|életmód")
 PUBLIC = (r"adat|statisztik|KSH|felmérés|kutatás|oktatás|iskola|egészségügy|kórház|közlekedés|MÁV|BKV|lakhatás|"
           r"nyugdíj|család|népesség|szavazó|választás|törvény|önkormányzat|időjárás|klíma|környezet")
+# Pénzvilág: csak a „pénztárcás” témák (ezekre keresnek), a vállalati/tőzsdei hírek nem
+WALLET = (r"forint|árfolyam|infláció|kamat|\bbér|fizetés|nyugdíj|\badó|\bár(ak|a)?\b|drág|olcs|benzin|üzemanyag|"
+          r"gázolaj|rezsi|energiaár|hitel|lakás|ingatlan|megtakarít|családtámogat|CSOK|minimálbér|\bÁFA|euró")
+# Kultúra: film, sorozat, tévéműsor, sztárprodukció (ami kattint) – a kiállítás/színház/irodalom kimarad
+SCREEN = (r"film|sorozat|Netflix|HBO|Disney|mozi|premier|tévé|műsor|RTL|TV2|koncert|Oscar|Grammy|színész|"
+          r"rendező|album|Eurovízió|valóságshow|show")
+CELEB = r"sztár|híresség|színész|énekes|modell|műsorvezető|valóságshow|influenszer|szerelm|esküv|válás|baba|terhes"
+# Rovatsúlyok a forróság-pontszámhoz: a kevésbé kattintós rovatok csak erős témával jutnak be (SECTION_WEIGHTS env)
+SECTION_WEIGHTS = {"kozelet": 1.0, "vilag": 1.0, "bulvar": 1.0, "penzvilag": 0.9, "tech": 0.6, "kultura": 0.6,
+                   "eletmod": 0.5}
+for _kv in os.getenv("SECTION_WEIGHTS", "").split(","):
+    if ":" in _kv:
+        try:
+            SECTION_WEIGHTS[_kv.split(":")[0].strip()] = float(_kv.split(":")[1])
+        except ValueError:
+            pass
+TRENDS_URL = os.getenv("TRENDS_URL", "https://trends.google.com/trending/rss?geo=HU")
+_TRENDS: Optional[list] = None
+
+
+def _fold(s: str) -> str:
+    """Kisbetűs, ékezet nélküli alak (a Trends-kifejezés és a hírszöveg összevetéséhez)."""
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", (s or "").lower()) if not unicodedata.combining(c))
+
+
+def google_trends(timeout: int) -> list:
+    """A Google Trends magyar „most felkapott” keresései (futásonként egyszer): [{q, traffic, words, links, titles}].
+    Ez a kattintási kereslet: amire épp sokan keresnek, arra jön olvasó a keresőből és a Discoverből."""
+    global _TRENDS
+    if _TRENDS is not None:
+        return _TRENDS
+    _TRENDS = []
+    if os.getenv("TRENDS_ENABLED", "true").lower() not in ("1", "true", "yes"):
+        return _TRENDS
+    ns = "{https://trends.google.com/trending/rss}"
+    try:
+        req = urllib.request.Request(TRENDS_URL, headers={"User-Agent": "Mozilla/5.0 (compatible; KollektivaBot/1.0)"})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            root = ET.fromstring(r.read())
+    except (urllib.error.URLError, TimeoutError, ET.ParseError, OSError, ValueError) as e:
+        log.warning("Google Trends nem olvasható: %s", e)
+        return _TRENDS
+    for it in root.iter("item"):
+        q = _text(it.find("title"))
+        m = re.search(r"\d[\d,.]*", _text(it.find(ns + "approx_traffic")).replace(",", "").replace(".", ""))
+        traffic = int(m.group(0)) if m else 100
+        words = [w for w in re.findall(r"[a-z0-9]+", _fold(q)) if len(w) >= 3]
+        news = it.findall(ns + "news_item")
+        if not words:
+            continue
+        _TRENDS.append({"q": q, "traffic": traffic, "words": words,
+                        "links": {_text(n.find(ns + "news_item_url")) for n in news},
+                        "titles": [_text(n.find(ns + "news_item_title")) for n in news]})
+    log.info("Google Trends: %d felkapott keresés (%s)", len(_TRENDS), ", ".join(t["q"] for t in _TRENDS[:8]))
+    return _TRENDS
+
+
+def trend_match(group: list, trends: list) -> Optional[dict]:
+    """Melyik felkapott keresésről szól a témacsoport (minden szava benne van a címekben/kivonatokban, vagy a
+    Trends ugyanazt a cikket hozza)?"""
+    text = _fold(" ".join((g.get("title") or "") + " " + (g.get("summary") or "")[:300] for g in group))
+    links = {g.get("link") for g in group}
+    best = None
+    for t in trends:
+        if (links & t["links"]) or all(w in text for w in t["words"]):
+            if not best or t["traffic"] > best["traffic"]:
+                best = t
+    return best
+
+
 # Minden rovatból kizárt témák: csak a szélsőséges tartalom (bűnügy, háború, vádak mehetnek, tényszerűen)
 EXCLUDE_ALL = re.compile(r"öngyilk|pedofil|gyermekpornó|kiskorú.{0,20}(szexuális|bántalmaz)", re.I)
 # Nem önálló hír, hanem „hír a hírről” / gyűjtőcikk / élő közvetítés – ezekből nem írunk
@@ -2540,14 +2611,20 @@ SECTIONS = {
         "tagline": "Belpolitika és közügyek – pártatlanul, érthetően.",
         "focus": "belpolitika, közügyek, társadalom, bűnügyek és közérdekű adatok – pártsemlegesen",
         "feeds": [("https://telex.hu/rss", r"Adat", None), ("https://telex.hu/rss", r"Belföld", None),
-                  ("https://hvg.hu/rss", r"Itthon", None)],
+                  ("https://hvg.hu/rss", r"Itthon", None), ("https://24.hu/feed/", r"24\.hu/belfold/", None),
+                  ("https://index.hu/24ora/rss/", r"index\.hu/belfold/", None),
+                  ("https://444.hu/feed", r"\bbelföld\b", None),
+                  ("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/belfold/", None)],
     },
     "vilag": {
         "voice": "magyarázó külpolitikai elemző: földrajzi, történelmi kontextust ad, és elmondja, mit jelent ez Magyarországnak",
         "id": "vilag", "name": "Világ", "kicker": "Világ",
         "tagline": "Ami a világban történik – háttérrel, magyarul.",
         "focus": "külpolitika, nemzetközi események, háborúk és konfliktusok, világgazdaság – tényszerűen",
-        "feeds": [("https://telex.hu/rss", r"Külföld|Világ", None), ("https://hvg.hu/rss", r"Világ|Külföld", None)],
+        "feeds": [("https://telex.hu/rss", r"Külföld|Világ", None), ("https://hvg.hu/rss", r"Világ|Külföld", None),
+                  ("https://24.hu/feed/", r"24\.hu/kulfold/", None), ("https://index.hu/24ora/rss/", r"index\.hu/kulfold/", None),
+                  ("https://444.hu/feed", r"\bkülföld\b|\bvilág\b", None),
+                  ("https://magyarnemzet.hu/feed", r"magyarnemzet\.hu/kulfold/", None)],
     },
     "penzvilag": {
         "voice": "józan, gyakorlatias gazdasági újságíró: számokkal dolgozik, és mindig lefordítja, mit jelent a pénztárcának",
@@ -2555,7 +2632,8 @@ SECTIONS = {
         "tagline": "Árfolyamok, infláció, bérek – mit jelentenek a számok a pénztárcádnak.",
         "focus": "gazdaság, pénzügyek, árfolyamok, infláció, bérek, befektetés – a hétköznapi olvasó szemszögéből",
         "feeds": [("https://www.portfolio.hu/rss/all.xml", None, ECON), ("https://www.vg.hu/feed", None, ECON),
-                  ("https://telex.hu/rss", r"Gazdaság|Vállalat", ECON)],
+                  ("https://telex.hu/rss", r"Gazdaság|Vállalat", ECON),
+                  ("https://index.hu/24ora/rss/", r"index\.hu/gazdasag/", WALLET)],
     },
     "tech": {
         "voice": "közérthető, kíváncsi tech-újságíró: a szakszavakat egy félmondatban elmagyarázza, túlzó hype nélkül",
@@ -2572,16 +2650,16 @@ SECTIONS = {
         "id": "eletmod", "name": "Életmód & Egészség", "kicker": "Életmód",
         "tagline": "Mozgás, alvás, táplálkozás, mentális jóllét – forrásokkal alátámasztva.",
         "focus": "egészség, mozgás, edzés, alvás, táplálkozás, mentális jóllét – kutatási eredmények érthetően",
-        "feeds": [("https://www.sciencedaily.com/rss/health_medicine/fitness.xml", None, None),
-                  ("https://www.sciencedaily.com/rss/health_medicine/nutrition.xml", None, None),
-                  ("https://telex.hu/rss", r"^Élet$", HEALTH), ("https://hvg.hu/rss", r"Élet|egészség", HEALTH)],
+        # a ScienceDaily-kutatásokból heti 3 hosszabb saját cikk készül (offtopic.py), hírként nem
+        "feeds": [("https://telex.hu/rss", r"^Élet$", HEALTH), ("https://hvg.hu/rss", r"Élet|egészség", HEALTH)],
     },
     "kultura": {
         "voice": "élvezetes kulturális kritikus: érzékletes, személyes hangú, de nem nagyképű",
         "id": "kultura", "name": "Kultúra & Ajánló", "kicker": "Kultúra",
         "tagline": "Film, sorozat, könyv, zene és programok válogatva.",
         "focus": "film, sorozat, könyv, zene, színház, kiállítás, programajánló",
-        "feeds": [("https://telex.hu/rss", r"Kultúra", None), ("https://hvg.hu/rss", r"Kult", None)],
+        "feeds": [("https://telex.hu/rss", r"Kultúra", SCREEN), ("https://hvg.hu/rss", r"Kult", SCREEN),
+                  ("https://24.hu/feed/", r"24\.hu/kultura/", SCREEN)],
     },
     "bulvar": {
         "voice": "könnyed, szórakoztató, kacsintós, de soha nem bántó vagy lekezelő",
@@ -2589,7 +2667,7 @@ SECTIONS = {
         "tagline": "Sztárok, show és az internet legfurcsább történetei.",
         "focus": ("sztárok, hírességek, showbiznisz, tévéműsorok, virális és furcsa történetek – könnyed hangon, de "
                   "ízlésesen: pletykát, feltételezést soha nem állítunk tényként, magánéleti részleteket nem nagyítunk fel"),
-        "feeds": [("https://www.blikk.hu/rss", r"Sztárvilág", None),
+        "feeds": [("https://www.blikk.hu/rss", r"Sztárvilág", None), ("https://24.hu/feed/", r"24\.hu/elet-stilus/", CELEB),
                   ("https://www.borsonline.hu/publicapi/hu/rss/bors/articles", None, None)],
     },
     "univerzum": {
@@ -2777,8 +2855,12 @@ def _fetch_feed(url: str, timeout: int) -> list:
             pub = parsedate_to_datetime(_text(it.find("pubDate")))
         except (TypeError, ValueError):
             pass
+        desc = re.sub(r"The post .*? first appeared on .*$", "", _text(it.find("description"))).strip()
+        if len(desc) < 200:
+            desc = re.sub(r"The post .*? first appeared on .*$", "",
+                          _text(it.find("{http://purl.org/rss/1.0/modules/content/}encoded"))).strip() or desc
         items.append({"title": _text(it.find("title")), "link": _text(it.find("link")),
-                      "summary": _text(it.find("description"))[:600], "published": pub,
+                      "summary": desc[:600], "published": pub,
                       "categories": [_text(c) for c in it.findall("category")], "source": host})
     for it in root.iter(atom + "entry"):
         link = it.find(atom + "link")
@@ -2882,13 +2964,14 @@ def _keywords(text: str) -> set:
 def pick_story(section: dict, used_links: set, now: datetime, timeout: int, max_age_h: int = 36,
                limit: int = 3) -> list:
     """A rovat friss híreiből témacsoportokat képez (egy téma = 1–4 forrás), pontszám szerint csökkenő
-    sorrendben: minél több kiadó írja, annál forróbb."""
+    sorrendben. Pontszám = (hány nagy lap írja, max. 4 számít + források + frissesség) × rovatsúly
+    + kereslet (Google Trends: ha épp sokan keresnek rá, +3…+6)."""
     items, seen = [], set()
     for url, cat_re, kw_re in section["feeds"]:
         for it in fetch_feed(url, timeout):
             if it["link"] in seen or it["link"] in used_links:
                 continue
-            cats = " ".join(it["categories"])
+            cats = " ".join(it["categories"]) + " " + it["link"]  # a link útvonala is rovatjelölő (24.hu/belfold/…)
             if cat_re and not re.search(cat_re, cats, re.I):
                 continue
             if kw_re and not re.search(kw_re, it["title"] + " " + it["summary"], re.I):
@@ -2904,13 +2987,20 @@ def pick_story(section: dict, used_links: set, now: datetime, timeout: int, max_
     if not items:
         return []
     scored = []
+    trends = google_trends(timeout)
+    weight = SECTION_WEIGHTS.get(section.get("id"), 1.0)
     for it in items:
         group = [it] + [o for o in items if o is not it and same_story(it, o)]
         group += [dict(o, related=True) for o in items
                   if o is not it and o not in group and related_story(it, o)][:2]
         publishers = {g["source"] for g in group if not g.get("related")}
         fresh = 1.0 if it["published"] and (now - it["published"]).total_seconds() < 12 * 3600 else 0.0
-        score = len(publishers) * 3 + len(group) + fresh + min(len(it["summary"]), 400) / 400
+        score = (min(len(publishers), 4) * 3 + min(len(group), 5) + fresh + min(len(it["summary"]), 400) / 400) * weight
+        tr = trend_match(group, trends)
+        if tr:
+            score += 3 + 1.5 * math.log10(max(1, tr["traffic"]) / 100)
+            it["trend"] = tr["q"]
+        it["n_pubs"] = len(publishers)
         scored.append((score, group))
     scored.sort(key=lambda x: -x[0])
     out, taken = [], set()
@@ -2997,7 +3087,7 @@ def send_pitches(review, cands: list, used_links: set, recent_kw: list) -> None:
                   "source": g.get("source", ""), "related": bool(g.get("related")), "hot_score": g.get("hot_score", score)}
                  for g in group[:5]]
         out.append({"id": hashlib.sha1(g0["link"].encode()).hexdigest()[:10], "link": g0["link"], "title": g0["title"][:140],
-                    "sid": sid, "pubs": pubs, "score": round(score, 1), "story": story})
+                    "sid": sid, "pubs": pubs, "score": round(score, 1), "story": story, "trend": g0.get("trend")})
         if len(out) >= n:
             break
     if not out:
@@ -3009,11 +3099,12 @@ def send_pitches(review, cands: list, used_links: set, recent_kw: list) -> None:
     chat = review.load_state().get("chat_id")
     if not chat:
         return
-    lines = [f"{i + 1}. {o['title']} – {', '.join(o['pubs'][:3])}{' +' + str(len(o['pubs']) - 3) if len(o['pubs']) > 3 else ''} "
+    lines = [f"{i + 1}. {'📈 ' if o.get('trend') else ''}{o['title']} – {', '.join(o['pubs'][:3])}{' +' + str(len(o['pubs']) - 3) if len(o['pubs']) > 3 else ''} "
              f"({SECTIONS.get(o['sid'], {}).get('name', o['sid'])})" for i, o in enumerate(out)]
     btns = [{"text": f"✍️ {i + 1}", "callback_data": f"pw|{o['id']}"} for i, o in enumerate(out)]
     review.tg("sendMessage", {"chat_id": chat, "disable_web_page_preview": True,
-                              "text": "📰 További forró témák (nem írtam meg őket). Ha kell valamelyik, nyomd meg a számát:\n\n"
+                              "text": "📰 További forró témák (nem írtam meg őket; 📈 = most sokan keresnek rá). "
+                                      "Ha kell valamelyik, nyomd meg a számát:\n\n"
                                       + "\n".join(lines),
                               "reply_markup": {"inline_keyboard": [btns[k:k + 6] for k in range(0, len(btns), 6)]
                                                + [[{"text": "✖️ Vége – lista bezárása", "callback_data": "pend|x"}]]}})
@@ -3647,6 +3738,8 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
             head = group[0]["title"] + " " + (group[0].get("summary") or "")[:200]
             if SPACE_IMG_STORY.search(head):
                 continue  # „új képek”-hír, a képek nélkül értelmetlen
+            if sid == "bulvar" and not group[0].get("trend") and group[0].get("n_pubs", 1) < 2:
+                continue  # bulvár: csak amire keresnek (Trends) vagy több lap is hozza – a „töltelék” sztárhír kimarad
             if SPACE_STORY.search(group[0]["title"]) and (space_today >= int(os.getenv("DAILY_MAX_SPACE", "1"))
                                                           or space_week >= int(os.getenv("WEEKLY_MAX_SPACE", "2"))):
                 continue  # űrkutatás / NASA: naponta max. 1, hetente max. WEEKLY_MAX_SPACE (túl volt tolva)
@@ -3662,6 +3755,11 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
             continue  # más rovatban / más címmel már megírtuk ugyanezt az ügyet
         art = build_section_article(ai, SECTIONS[sid], d, tz, group, recent_imgs, related_past(articles, group))
         if not art:
+            continue
+        if art.get("category") == "bulvar" and (not art.get("hero_image") or (art["hero_image"] or {}).get("generated")):
+            # bulvárhoz a generált grafika/borító gagyi (a szereplő aktuális fotója kellene) → inkább nem írjuk meg
+            log.info("Bulvár kimarad (nincs valódi fotó a szereplőről): %s", art["title"])
+            used_links.update(art["category_meta"]["source_links"])
             continue
         dup = _same_images(art, [e for e in sent if not rej_free(e)])
         if dup and same_story_as_recent(ai, [{"title": art["title"], "summary": art.get("lead", "")}], [dup]):
