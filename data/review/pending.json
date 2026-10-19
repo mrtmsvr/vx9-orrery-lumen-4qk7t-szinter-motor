@@ -12740,12 +12740,12 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-19T05:12:59+00:00",
-        "msg_ids": [
-          7897,
-          7898
-        ],
-        "control_id": 7899
-      }
+        "msg_ids": [],
+        "control_id": 7899,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:42 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T08:42:05+02:00"
     },
     {
       "id": "0acabf70-58af-5ddf-a114-c59dddfeaa2e",
