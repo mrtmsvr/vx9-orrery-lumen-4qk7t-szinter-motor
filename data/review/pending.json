@@ -12691,9 +12691,9 @@
       "live": true
     },
     {
-      "id": "6a7cbba9-2933-5a8b-a5c9-e6736311e3e3",
-      "slug": "2026-10-19-madarassy-pal-aranyermet-szerzett-az-indiai-logikai-vilagbajnoksagon",
-      "status": "pending",
+      "id": "1b2076d8-b515-5d0e-9494-c77f306870b6",
+      "slug": "2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -12703,7 +12703,7 @@
         "India",
         "magyar siker"
       ],
-      "title": "Madarassy Pál aranyérmet szerzett az indiai logikai világbajnokságon",
+      "title": "Magyar siker a kolkatai rejtvényfejtő-világbajnokságon",
       "subtitle": null,
       "lead": "Az indiai Kolkatában megrendezett 33. Logikai Rejtvényfejtő-világbajnokságon Madarassy Pál a szenior kategória aranyérmese lett. A magyar válogatott az erős nemzetközi mezőnyben az előkelő negyedik helyen végzett.",
       "key_points": [
@@ -12724,17 +12724,15 @@
       "word_count": 166,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ketan_donate4.jpg/1280px-Ketan_donate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Set_of_various_puzzles.jpg/1280px-Set_of_various_puzzles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 664,
+        "height": 721,
         "kind": "photo",
         "pos": "center",
-        "alt": "The Victoria Memorial, officially the Victoria Memorial Hall, is a memorial building dedicated to Victoria, Queen of the United Kingdom and Empress of India, which is located in Kolkata, India – the c",
-        "credit": "Ketanmehta4u / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Ketan_donate4.jpg",
-        "exact": true,
-        "entity": "Kolkata",
+        "alt": "various puzzles : rubik's cube, pyraminx, master pyraminx, Megaminx (dodecahedron), babylon tower, hungarian rings,jigsaw puzzle, snake cube, metallic or wood puzzle, lonpos 101 (rectangle or pyramid)",
+        "credit": "Lpele / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Set_of_various_puzzles.jpg",
         "unverified": true
       },
       "inline_images": [],
@@ -12884,12 +12882,12 @@
       },
       "date": "2026-10-19",
       "date_label": "október 19.",
-      "url": "/kultura/2026-10-19-madarassy-pal-aranyermet-szerzett-az-indiai-logikai-vilagbajnoksagon/",
+      "url": "/kultura/2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon/",
       "seo": {
-        "meta_title": "Madarassy Pál aranyérmet szerzett az indiai logikai világbaj",
+        "meta_title": "Magyar siker a kolkatai rejtvényfejtő-világbajnokságon",
         "meta_description": "Az indiai Kolkatában megrendezett 33. Logikai Rejtvényfejtő-világbajnokságon Madarassy Pál a szenior kategória aranyérmese lett. A magyar válogatott az erős nem",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-19-madarassy-pal-aranyermet-szerzett-az-indiai-logikai-vilagbajnoksagon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ketan_donate4.jpg/1280px-Ketan_donate4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Set_of_various_puzzles.jpg/1280px-Set_of_various_puzzles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12906,9 +12904,9 @@
       "dedupe_hash": "aed17f59805c052c3c06049bfabaac346eb11d14d38cb47322a48d60e962a326",
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T11:29:46+02:00",
-      "updated_at": "2026-10-19T11:29:46+02:00",
-      "published_at": "2026-10-19T11:29:46+02:00",
+      "created_at": "2026-10-19T12:12:08+02:00",
+      "updated_at": "2026-10-19T12:12:08+02:00",
+      "published_at": "2026-10-19T12:12:08+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12921,9 +12919,9 @@
         "msg_ids": [],
         "control_id": 8009,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:11 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-19T12:11:50+02:00"
+      "live": true
     },
     {
       "id": "94a035a1-edcc-5362-8da1-3c7000c55baf",
