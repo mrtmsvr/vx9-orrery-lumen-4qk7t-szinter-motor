@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T15:52:49+02:00",
+  "updated_at": "2026-10-19T16:24:06+02:00",
   "articles": [
     {
       "id": "37da9d11-2c8c-5d05-a560-ee71c9fee291",
@@ -165,15 +165,15 @@
       "word_count": 216,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792417863-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792417863-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-72dddcab6b.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-72dddcab6b.jpg",
         "kind": "photo",
         "alt": "Váratlan vezetőcsere a Nemzeti Innovációs Ügynökségnél",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -239,7 +239,7 @@
         "meta_title": "Váratlan vezetőcsere a Nemzeti Innovációs Ügynökségnél",
         "meta_description": "Leváltották Bódis Lászlót a Nemzeti Innovációs Ügynökség éléről, a posztra pályázatot írnak ki. A személyi döntést a Tudományos és Technológiai Minisztérium jel",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-varatlan-vezetocsere-a-nemzeti-innovacios-ugynoksegnel/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792417863-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-72dddcab6b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -277,7 +277,7 @@
       "pipeline_run_id": "39260083061",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T15:51:45+02:00",
-      "updated_at": "2026-10-19T15:51:45+02:00",
+      "updated_at": "2026-10-19T16:24:06+02:00",
       "published_at": "2026-10-19T15:51:45+02:00",
       "expires_at": null
     },
