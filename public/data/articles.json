@@ -1,7 +1,119 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T09:02:27+02:00",
+  "updated_at": "2026-10-19T09:22:24+02:00",
   "articles": [
+    {
+      "id": "e18d1410-b5d9-5b65-9991-d5b6d597acb8",
+      "slug": "2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Bödőcs Tibor",
+        "könyvajánló",
+        "kortárs irodalom",
+        "humor"
+      ],
+      "title": "Nem szent a Szentírás, ha Bödőcs Tibor veszi kezelésbe",
+      "subtitle": null,
+      "lead": "Bödőcs Tibor humorista és író legújabb kötetében a teremtett világ sorsát és az Apokalipszist veszi górcső alá, miközben Jézust országjárásra indítja. A Jézus a hegyen 3 az 1-ben című könyv három fejezetre bontva ötvözi az ókori szövegeket a mai kor híreivel és a szerző egyedi látásmódjával.",
+      "key_points": [
+        "Megjelent Bödőcs Tibor legújabb, Jézus a hegyen 3 az 1-ben című kötete.",
+        "A könyv három egységre oszlik: Genezis, Evangélium és Apokalipszis.",
+        "A kötet azt vizsgálja, mit kezdtek az emberek a teremtés fő művével.",
+        "A szerző kilenc évvel ezelőtt indította el sikeres írói karrierjét a stand-up mellett."
+      ],
+      "content": "Bödőcs Tibor Karinthy-gyűrűs magyar humorista és író ezúttal a Szentírás és a Teremtés könyvének sajátos újraértelmezésével jelentkezett. A Jézus a hegyen 3 az 1-ben című kötetben a vallási toposzok és a mindennapi hírek keverednek, miközben a főhős, Jézus országjárásra indul, hogy feltérképezze, miként alakult a Teremtő munkája a teremtettek kezén.\n\nA kötet szerkezete három fő pillérre épül: a Genezisre, az Evangéliumra és a zárólátomásként funkcionáló Apokalipszisre. A mű az irodalmi szövegek és a szent iratok határvidékén mozog, játékosan átértelmezve a hagyományos narratívákat.\n\nA szerző pályáján eddig is fontos szerepet kapott a magyar és az egyetemes irodalmi hagyományok újrafogalmazása. Az író korábbi kötetei – köztük az Addig se iszik, a Meg se kínáltak, a Mulat a manézs, valamint a Prímszámok hóesésben – mind azt mutatták, hogy Bödőcs otthonosan mozog a gasztronómia, a matematika és a klasszikus dráma világában is, miközben hitelesen szólaltat meg különböző szerzői hangokat Prousttól Esterházy Péterig.",
+      "content_format": "markdown",
+      "body": [
+        "Bödőcs Tibor Karinthy-gyűrűs magyar humorista és író ezúttal a Szentírás és a Teremtés könyvének sajátos újraértelmezésével jelentkezett. A Jézus a hegyen 3 az 1-ben című kötetben a vallási toposzok és a mindennapi hírek keverednek, miközben a főhős, Jézus országjárásra indul, hogy feltérképezze, miként alakult a Teremtő munkája a teremtettek kezén.",
+        "A kötet szerkezete három fő pillérre épül: a Genezisre, az Evangéliumra és a zárólátomásként funkcionáló Apokalipszisre. A mű az irodalmi szövegek és a szent iratok határvidékén mozog, játékosan átértelmezve a hagyományos narratívákat.",
+        "A szerző pályáján eddig is fontos szerepet kapott a magyar és az egyetemes irodalmi hagyományok újrafogalmazása. Az író korábbi kötetei – köztük az Addig se iszik, a Meg se kínáltak, a Mulat a manézs, valamint a Prímszámok hóesésben – mind azt mutatták, hogy Bödőcs otthonosan mozog a gasztronómia, a matematika és a klasszikus dráma világában is, miközben hitelesen szólaltat meg különböző szerzői hangokat Prousttól Esterházy Péterig."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 195,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1802,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Tibor Bödőcs.",
+        "credit": "Bödőcs Tibor (a kép készítője Tündik Judit) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/360/20261018_hvg-bodocs-tibor-jezus-ahegyen",
+          "title": "A Szentírás sem szentírás – ilyen, amikor Bödőcs Tibor azt játssza, hogy ő Jézus",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-19T07:12:03+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-19T09:22:24+02:00"
+      },
+      "hot_score": 5.62,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/360/20261018_hvg-bodocs-tibor-jezus-ahegyen"
+        ]
+      },
+      "date": "2026-10-19",
+      "date_label": "október 19.",
+      "url": "/kultura/2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe/",
+      "seo": {
+        "meta_title": "Nem szent a Szentírás, ha Bödőcs Tibor veszi kezelésbe",
+        "meta_description": "Bödőcs Tibor humorista és író legújabb kötetében a teremtett világ sorsát és az Apokalipszist veszi górcső alá, miközben Jézust országjárásra indítja. A Jézus a",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ebc17c4fd84df77960fa7b6b1700cc8c9e72d76f067824841cf39adccab50876",
+      "pipeline_run_id": "39202189396",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-19T09:22:24+02:00",
+      "updated_at": "2026-10-19T09:22:24+02:00",
+      "published_at": "2026-10-19T09:22:24+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Bödőcs Tibor",
+        "Jesus",
+        "Genesis",
+        "Gospel",
+        "Apocalypse",
+        "mountain",
+        "ancient manuscript",
+        "modern newspaper"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386764-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386766-1.jpg"
+      ]
+    },
     {
       "id": "1993bb17-02de-550b-8a0b-60d8e0c861b0",
       "slug": "2026-10-19-osszehozta-a-tetris-es-a-rubik-kocka-tortenetet-egy-uj-kozos-jatek",
