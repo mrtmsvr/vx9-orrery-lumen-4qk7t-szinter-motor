@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:31:50+02:00",
+  "updated_at": "2026-10-19T11:37:40+02:00",
   "articles": [
     {
       "id": "c68f8b77-9778-54d0-936e-66dbaf3e20ac",
@@ -383,17 +383,15 @@
       "word_count": 344,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/20190502_Guard_of_S%C3%A1ndor_Palace_-_Budapest_-_1102_2031_DxO.jpg/1280px-20190502_Guard_of_S%C3%A1ndor_Palace_-_Budapest_-_1102_2031_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 888,
+        "height": 1630,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+        "pos": "top",
+        "alt": "Guard of Sándor Palace in Budapest",
+        "credit": "Jakub Hałun / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-        "exact": true,
-        "entity": "Hungarian Parliament Building",
+        "source_url": "https://commons.wikimedia.org/wiki/File:20190502_Guard_of_S%C3%A1ndor_Palace_-_Budapest_-_1102_2031_DxO.jpg",
         "unverified": true
       },
       "inline_images": [],
@@ -448,7 +446,7 @@
         "meta_title": "Baka András: Vértelen forradalom zajlik",
         "meta_description": "Első köztársasági elnöki interjújában Baka András arról beszélt, hogy az országban vértelen forradalom zajlik, és szükség esetén törvényi úton is el kell távolí",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-baka-andras-vertelen-forradalom-zajlik/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/20190502_Guard_of_S%C3%A1ndor_Palace_-_Budapest_-_1102_2031_DxO.jpg/1280px-20190502_Guard_of_S%C3%A1ndor_Palace_-_Budapest_-_1102_2031_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -486,7 +484,7 @@
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T11:31:14+02:00",
-      "updated_at": "2026-10-19T11:31:14+02:00",
+      "updated_at": "2026-10-19T11:37:40+02:00",
       "published_at": "2026-10-19T11:31:14+02:00",
       "expires_at": null
     },
