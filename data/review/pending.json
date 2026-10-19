@@ -12409,23 +12409,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-19T09:30:20+00:00",
-        "msg_ids": [
-          7982,
-          7983,
-          7984,
-          7985,
-          7986,
-          7987,
-          7988,
-          8054,
-          8055,
-          8060,
-          8061,
-          8062,
-          8063,
-          8064
-        ],
-        "control_id": 8065
+        "msg_ids": [],
+        "control_id": 8065,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:51 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Szalai Piroska",
@@ -12446,7 +12433,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/1/15/Debrecen_l%C3%A1tk%C3%A9pe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/European_Commission_building_%40_Brussels_%288177616130%29.jpg/1280px-European_Commission_building_%40_Brussels_%288177616130%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-19T12:51:50+02:00"
     },
     {
       "id": "883d6e8b-b6e0-5187-aab2-f1aab64763c5",
