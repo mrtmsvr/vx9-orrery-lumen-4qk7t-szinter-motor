@@ -13174,9 +13174,9 @@
       "live": true
     },
     {
-      "id": "3821c73c-5411-5598-9755-52c8609a7b61",
-      "slug": "2026-10-19-negy-het-lett-volna-a-limit-eveik-mentek-ra-a-nyugtatokra",
-      "status": "pending",
+      "id": "85d03c51-fb4c-5746-86f7-158a48db6627",
+      "slug": "2026-10-19-harommillio-doboz-nyugtato-igy-valt-gyogyszerfuggove-egy-orszag",
+      "status": "published",
       "category": "eletmod",
       "subcategory": null,
       "tags": [
@@ -13185,7 +13185,7 @@
         "nyugtatók",
         "pszichológia"
       ],
-      "title": "Négy hét lett volna a limit, éveik mentek rá a nyugtatókra",
+      "title": "Hárommillió doboz nyugtató: így vált gyógyszerfüggővé egy ország",
       "subtitle": null,
       "lead": "A magyar lakosság körében óriási mennyiségben fogyó benzodiazepin-tartalmú nyugtatók és szorongásoldók szedése súlyos függőségi veszélyeket rejt. A Partizán videójában megszólaló érintettek és szakértők arra hívják fel a figyelmet, hogy a szereket csak rövid távú alkalmazásra szánták, mégis sokan szedik őket évekig ellenőrizetlenül.",
       "key_points": [
@@ -13206,7 +13206,7 @@
       "word_count": 203,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g52443e7830cc0753d9503d2f7735ab82fb730a005b5b2a2fa473ab268633130ddee836ef63825018b4f66a00f4292548ca96936473099580a5abe0488e0b221c_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/120c60b8cab4e7a6.jpg",
         "width": 6240,
         "height": 4160,
         "kind": "photo",
@@ -13214,7 +13214,9 @@
         "credit": "HeungSoon / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/tablets-medicine-supplement-vitamin-5620566/",
-        "vision_score": 8.0
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/120c60b8cab4e7a6.jpg",
+        "orig_url": "https://pixabay.com/get/g52443e7830cc0753d9503d2f7735ab82fb730a005b5b2a2fa473ab268633130ddee836ef63825018b4f66a00f4292548ca96936473099580a5abe0488e0b221c_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -13304,12 +13306,12 @@
       },
       "date": "2026-10-19",
       "date_label": "október 19.",
-      "url": "/eletmod/2026-10-19-negy-het-lett-volna-a-limit-eveik-mentek-ra-a-nyugtatokra/",
+      "url": "/eletmod/2026-10-19-harommillio-doboz-nyugtato-igy-valt-gyogyszerfuggove-egy-orszag/",
       "seo": {
-        "meta_title": "Négy hét lett volna a limit, éveik mentek rá a nyugtatókra",
+        "meta_title": "Hárommillió doboz nyugtató: így vált gyógyszerfüggővé egy or",
         "meta_description": "A magyar lakosság körében óriási mennyiségben fogyó benzodiazepin-tartalmú nyugtatók és szorongásoldók szedése súlyos függőségi veszélyeket rejt. A Partizán vid",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-19-negy-het-lett-volna-a-limit-eveik-mentek-ra-a-nyugtatokra/",
-        "og_image": "https://pixabay.com/get/g52443e7830cc0753d9503d2f7735ab82fb730a005b5b2a2fa473ab268633130ddee836ef63825018b4f66a00f4292548ca96936473099580a5abe0488e0b221c_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-19-harommillio-doboz-nyugtato-igy-valt-gyogyszerfuggove-egy-orszag/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/120c60b8cab4e7a6.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13326,9 +13328,9 @@
       "dedupe_hash": "b5e9b6330a5a4fec745819237d96154eed6936ba437fe2f52383b4289d5f1bdb",
       "pipeline_run_id": "39309776924",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T21:19:12+02:00",
-      "updated_at": "2026-10-19T21:19:12+02:00",
-      "published_at": "2026-10-19T21:19:12+02:00",
+      "created_at": "2026-10-19T21:29:18+02:00",
+      "updated_at": "2026-10-19T21:29:18+02:00",
+      "published_at": "2026-10-19T21:29:18+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -13345,14 +13347,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-19T19:20:13+00:00",
-        "msg_ids": [
-          8225,
-          8226,
-          8227,
-          8228
-        ],
-        "control_id": 8229
-      }
+        "msg_ids": [],
+        "control_id": 8229,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
