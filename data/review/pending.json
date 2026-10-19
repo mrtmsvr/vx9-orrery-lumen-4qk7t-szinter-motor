@@ -13086,13 +13086,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-19T09:30:54+00:00",
-        "msg_ids": [
-          8010,
-          8011,
-          8012
-        ],
-        "control_id": 8013
-      }
+        "msg_ids": [],
+        "control_id": 8013,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:31 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T12:31:50+02:00"
     },
     {
       "id": "f4d8f43c-28f1-537d-8d39-b0517f5392db",
