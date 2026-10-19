@@ -7,7 +7,7 @@ Minden kirakott cikkből (bulvár nélkül; IG_DAILY_MAX, alap 30/nap) – a leg
 különbséggel, 8 és 21:30 között – álló, 4:5-ös képkártyát készít (főkép vagy generált grafika + logó + rovat + cím),
 és képaláírással (cím, lead, „link a bióban”, max. 5 hashtag – az Instagram 2025 vége óta ennyit enged) kiteszi.
 
-Menete: 1) kártya + előnézet Telegramon „🚀 Posztold most” és „🚫 Ne menjen ki” gombbal, a kártya kikerül az oldalra
+Menete: 1) kártya + előnézet Telegramon „🚫 Ne menjen ki” gombbal, a kártya kikerül az oldalra
 (az Instagram csak nyilvános URL-ről tölt le képet); 2) IG_DELAY_MIN (alap 45) perc múlva, ha nem tiltottad le
 és a kártya már elérhető, posztol, és Telegramon jelez (a Telegram-figyelő 2 percenként nézi, nem késik).
 Másik háttér: az előnézetre válaszként küldj egy képet vagy matricát – a kártya azzal újra elkészül.
@@ -332,7 +332,6 @@ def _preview(tr, chat: int, item: dict, card: Path) -> list:
                                               "(Más háttér: válaszolj erre egy képpel vagy matricával.)"[:1000])
     r2 = tr.tg("sendMessage", {"chat_id": chat, "text": "Képaláírás:\n\n" + item.get("caption", "")[:3500],
                                "reply_markup": {"inline_keyboard": [[
-                                   {"text": "🚀 Posztold most", "callback_data": f"ignow|{item['id']}"},
                                    {"text": "🚫 Ne menjen ki", "callback_data": f"igno|{item['id']}"}]]}})
     return [m for m in (tr._mid(r1), tr._mid(r2)) if m]
 
