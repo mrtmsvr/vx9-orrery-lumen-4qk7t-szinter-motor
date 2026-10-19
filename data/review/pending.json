@@ -12595,14 +12595,10 @@
         "title": 4,
         "image": 0,
         "sent_at": "2026-10-19T05:12:53+00:00",
-        "msg_ids": [
-          7892,
-          7893,
-          7894,
-          7895,
-          7911
-        ],
-        "control_id": 7896
+        "msg_ids": [],
+        "control_id": 7896,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
