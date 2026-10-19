@@ -631,218 +631,6 @@
       "live": true
     },
     {
-      "id": "0dda1bf0-aee3-5e86-a96b-d7aa5095f8cd",
-      "slug": "2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "mesterséges intelligencia",
-        "tudomány",
-        "mikroszkóp",
-        "fotópályázat",
-        "Nikon"
-      ],
-      "title": "Mesterséges intelligencia buktatta le a rangos mikroszkópfotó-pályázat győztesét",
-      "subtitle": null,
-      "lead": "Visszavették a fődíjat egy rangos mikroszkópos pályázat győztesétől, miután kiderült, hogy a beküldött felvétel mesterséges intelligenciával generált részleteket tartalmaz. Az eset ismét rávilágított arra, hol húzódik a határ a tudományos hitelesség és a megtévesztés között a digitális utómunka világában.",
-      "key_points": [
-        "Megvonták a Nikon Small World in Motion pályázatának első díját.",
-        "A győztes videón szereplő sejtek és csillók rendellenes módon tűntek fel és el.",
-        "A szervezők bejelentették a verseny szabályzatának és értékelési folyamatának felülvizsgálatát."
-      ],
-      "content": "Megfosztották első helyezésétől a Nikon Small World in Motion verseny idei győztesét, miután független kutatók gépi generálásra utaló jeleket fedeztek fel a videóban. A megmérettetésen nem csupán esztétikus alkotásokat keresnek, hanem a tudományos megfigyelés és a vizuális kifejezésmód hiteles ötvözetét várják az indulóktól.\n\nA győztes Dr. Ning Xu, a kínai Tsinghua Egyetem munkatársa volt, aki egy ritka légzőszervi betegségben, az úgynevezett elsődleges ciliáris diszkinéziában (PCD) szenvedő beteg légútjaiban mozgó csillókat mutatta be. Ezek a mikroszkopikus nyúlványok a valóságban a nyák és a belélegzett szennyeződések eltávolításáért felelősek, így működésük vizsgálata kiemelkedő orvosi jelentőséggel bír.\n\nA felvétel hitelességét azonban szakértők hamar kétségbe vonták: a sejtek szerkezetében olyan rendellenességek mutatkoztak, amelyek a sejtbiológiában nem fordulnak elő. A Floridai Egyetem egyik docense és a Leicesteri Egyetem PCD-diagnosztikával foglalkozó szakembere, Robert Hirst rámutatott, hogy a videón látható struktúrák a semmiből bukkannak fel, a csillók nem hasonlítanak a valódiakhoz,",
-      "content_format": "markdown",
-      "body": [
-        "Megfosztották első helyezésétől a Nikon Small World in Motion verseny idei győztesét, miután független kutatók gépi generálásra utaló jeleket fedeztek fel a videóban. A megmérettetésen nem csupán esztétikus alkotásokat keresnek, hanem a tudományos megfigyelés és a vizuális kifejezésmód hiteles ötvözetét várják az indulóktól.",
-        "A győztes Dr. Ning Xu, a kínai Tsinghua Egyetem munkatársa volt, aki egy ritka légzőszervi betegségben, az úgynevezett elsődleges ciliáris diszkinéziában (PCD) szenvedő beteg légútjaiban mozgó csillókat mutatta be. Ezek a mikroszkopikus nyúlványok a valóságban a nyák és a belélegzett szennyeződések eltávolításáért felelősek, így működésük vizsgálata kiemelkedő orvosi jelentőséggel bír.",
-        "A felvétel hitelességét azonban szakértők hamar kétségbe vonták: a sejtek szerkezetében olyan rendellenességek mutatkoztak, amelyek a sejtbiológiában nem fordulnak elő. A Floridai Egyetem egyik docense és a Leicesteri Egyetem PCD-diagnosztikával foglalkozó szakembere, Robert Hirst rámutatott, hogy a videón látható struktúrák a semmiből bukkannak fel, a csillók nem hasonlítanak a valódiakhoz,"
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 183,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg/1280px-Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Binocular compound microscope from 1914; Carl Zeiss (1816–88), Jena, Germany; materials: brass, metal, glass; owner: The Golub Collection, University of California, Berkeley. golubcollection.berkeley.",
-        "credit": "Chad Anderson, staff photographer for SFO Museum / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak",
-          "title": "Elvették a díjat a fotóstól, miután kiderült, hogy AI-t használt a fotópályázaton",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T15:02:54+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Húsz éve diagnosztizálom a PCD-t a csillók hullámformájának, hosszának, sejtméretének és alakjának vizsgálatával",
-        "who": "Robert Hirst, a Leicesteri Egyetem szakembere",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 5.57,
-      "title_options": [
-        "Mesterséges intelligencia buktatta le a rangos mikroszkópfotó-pályázat győztesét",
-        "Mesterséges intelligencia miatt vették el a mikroszkópos pályázat fődíját",
-        "AI-generált részletek miatt fosztották meg elsőségétől a kínai kutatót",
-        "Az egész világ csodálta a videót, amíg ki nem derült, hogy egy gép csalt",
-        "A semmiből eltűnő sejtek buktatták le a Nikon elismert győztesét",
-        "Megbukott a mesterséges intelligenciával tuningolt tudományos fotó"
-      ],
-      "clickbait_from": 3,
-      "image_options": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg/1280px-Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1800,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Binocular compound microscope from 1914; Carl Zeiss (1816–88), Jena, Germany; materials: brass, metal, glass; owner: The Golub Collection, University of California, Berkeley. golubcollection.berkeley.",
-          "credit": "Chad Anderson, staff photographer for SFO Museum / Wikimedia Commons",
-          "license": "CC BY-SA 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Binocular_compound_microscope,_Carl_Zeiss_Jena,_1914_(6779276516).jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Fine_rotative_table_Microscope_5_%2812996283235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 1600,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "An extremely fine measurement Microscope with slide in graticule and vernier rotating table",
-          "credit": "Les Chatfield from Brighton, England / Wikimedia Commons",
-          "license": "CC BY 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Fine_rotative_table_Microscope_5_(12996283235).jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Lawn_of_Tsinghua_University_%2820240707143852%29.jpg/1280px-Lawn_of_Tsinghua_University_%2820240707143852%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 900,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "​清华大学校园",
-          "credit": "HoweyYuan / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Lawn_of_Tsinghua_University_(20240707143852).jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Streetview_of_Tsinghua_University.jpg/1280px-Streetview_of_Tsinghua_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 900,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "​清华大学街景",
-          "credit": "HoweyYuan / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Streetview_of_Tsinghua_University.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Nikon_headquarters.jpg/1280px-Nikon_headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 2050,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Nikon Corporation headquaters",
-          "credit": "Akonnchiroll / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Nikon_headquarters.jpg"
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Nikon_Logo.svg/1280px-Nikon_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1200,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Nikon Corporation logo",
-          "credit": "Nikon Corporation / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Nikon_Logo.svg"
-        },
-        {
-          "url": "https://pixabay.com/get/g69bbdbbc18786ebe409996a15d773c49137f42ae31e6efb3f17c2e012f06704b253f04266dc5bb2d0eaba4798da320716ad42db20d25322c1a971c486fba9d61_1280.jpg",
-          "width": 5621,
-          "height": 3747,
-          "kind": "photo",
-          "alt": "analysis, biochemistry, biologist, biology, biotechnology, chemistry, clinic, clinical, doctor, equipment, experiment, parties, hospital, laboratory devices, laboratory, lenses, medical, the medicine,",
-          "credit": "Kost9n4 / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/analysis-biochemistry-biologist-2030261/"
-        }
-      ],
-      "story": [
-        {
-          "title": "Elvették a díjat a fotóstól, miután kiderült, hogy AI-t használt a fotópályázaton",
-          "link": "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak",
-          "summary": "Visszavették az első díjat egy rangos Nikon-pályázat győztesétől, miután különböző kutatók olyan részletekre figyeltek fel a felvételén, amelyek nem történhetnek meg a valódi sejtek világában. Persze hogy az AI állt a háttérben.",
-          "source": "hvg.hu",
-          "related": false,
-          "hot_score": 5.57
-        }
-      ],
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/tudomany/20261017_nikon-palyazat-ai-foto-kizartak"
-        ]
-      },
-      "date": "2026-10-17",
-      "date_label": "október 17.",
-      "url": "/tech/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza/",
-      "seo": {
-        "meta_title": "Mesterséges intelligencia buktatta le a rangos mikroszkópfot",
-        "meta_description": "Visszavették a fődíjat egy rangos mikroszkópos pályázat győztesétől, miután kiderült, hogy a beküldött felvétel mesterséges intelligenciával generált részleteke",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg/1280px-Binocular_compound_microscope%2C_Carl_Zeiss_Jena%2C_1914_%286779276516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "02b1cc4e0e01ffc0717ea18f0ae98ce86e8c9ed1f5faf37bdc79160917217b4d",
-      "pipeline_run_id": "39032691807",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T16:27:46+02:00",
-      "updated_at": "2026-10-17T16:27:46+02:00",
-      "published_at": "2026-10-17T16:27:46+02:00",
-      "expires_at": null,
-      "legal": {
-        "level": 0,
-        "issues": []
-      },
-      "review": {
-        "title": 0,
-        "image": 0,
-        "sent_at": "2026-10-17T13:04:00+00:00",
-        "msg_ids": [],
-        "control_id": 7240,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
-      },
-      "live": true
-    },
-    {
       "id": "3e2f93de-cf69-5fb2-9051-48ee45209464",
       "slug": "2026-10-17-trump-zsarolassal-vedekezne-az-ellene-keszulo-eljarasokkal-szemben",
       "status": "published",
@@ -13779,57 +13567,54 @@
       "clickbait_from": 2,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/WangarattaExhibitionsGallery.JPG/1280px-WangarattaExhibitionsGallery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/1280px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 803,
-          "kind": "photo",
-          "pos": "center",
-          "alt": "Exhibitions Gallery at en:Wangaratta, Victoria[1]",
-          "credit": "Mattinbgn / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:WangarattaExhibitionsGallery.JPG",
-          "exact": true,
-          "entity": "Wangaratta",
-          "vision_score": 8.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1601,
+          "height": 1498,
           "kind": "photo",
           "pos": "top",
-          "alt": "Official portrait of Australian Prime Minister Anthony Albanese",
-          "credit": "Australian Government / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
-          "exact": true,
-          "entity": "Anthony Albanese",
-          "vision_score": 5.0
+          "alt": "Independent federal MP for Indi Helen Haines posing for a photo at the 2022 declaration of results for the seat of Indi.",
+          "credit": "Alison Newman / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg",
+          "vision_score": 9.0
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/NewParliamentHouseInCanberra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg/1280px-Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "The new parliament house in Canberra.",
-          "credit": "Jpp / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:NewParliamentHouseInCanberra.jpg",
-          "exact": true,
-          "entity": "Parliament of Australia",
-          "vision_score": 5.0
+          "alt": "The office of federal Indi MP Helen Haines, an independent politician, on Murphy Street in Wangaratta.",
+          "credit": "Alison Newman / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg",
+          "vision_score": 8.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-8f467a9240.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-8f467a9240.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/4Messer_%28fcm%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 2636,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "4 kitchen knives",
+          "credit": "Photograph:  Frank C. Müller, Baden-Baden / Wikimedia Commons",
+          "license": "CC BY-SA 2.0 de",
+          "source_url": "https://commons.wikimedia.org/wiki/File:4Messer_(fcm).png",
+          "exact": true,
+          "entity": "knife",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Ford_Escape_%28fourth_generation%29_1X7A6220.jpg/1280px-Ford_Escape_%28fourth_generation%29_1X7A6220.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 708,
           "kind": "photo",
-          "alt": "Szándékosan gázolhattak el egy ausztrál parlamenti képviselőt",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
+          "pos": "center",
+          "alt": "Ford_Escape_(fourth_generation) in Stuttgart-Vaihingen",
+          "credit": "Alexander Migl / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ford_Escape_(fourth_generation)_1X7A6220.jpg",
+          "vision_score": 5.0
         }
       ],
       "story": [
@@ -13897,10 +13682,31 @@
           8126,
           8127,
           8128,
-          8129
+          8129,
+          8136,
+          8137,
+          8138,
+          8139
         ],
-        "control_id": 8130
-      }
+        "control_id": 8140
+      },
+      "image_queries": [
+        "Helen Haines",
+        "Wangaratta, Victoria",
+        "Australian Parliament",
+        "Australian Counter‑Terrorism Joint Task Force",
+        "4WD SUV",
+        "knife",
+        "hospital corridor",
+        "political rally",
+        "urban street"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/WangarattaExhibitionsGallery.JPG/1280px-WangarattaExhibitionsGallery.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/NewParliamentHouseInCanberra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-8f467a9240.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/1280px-Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
