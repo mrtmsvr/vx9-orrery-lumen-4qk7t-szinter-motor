@@ -14011,54 +14011,91 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433478-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d5d47d09eb-1792433478-0.jpg",
-          "kind": "photo",
-          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
-          "likeness": true,
-          "credit": "AI-generált illusztráció – Kollektíva",
-          "license": "saját (AI-generált illusztráció)",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433507-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d5d47d09eb-1792433507-1.jpg",
-          "kind": "photo",
-          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/TISZA_2024.svg/1280px-TISZA_2024.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 888,
+          "height": 844,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "A TISZA Párt legújabb logója.",
+          "credit": "Tisztelet és Szabadság Párt / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:TISZA_2024.svg",
+          "exact": true,
+          "entity": "Tisza Party",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/A_Telex_indul%C3%A1sa.jpg/1280px-A_Telex_indul%C3%A1sa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
           "kind": "photo",
           "pos": "center",
-          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+          "alt": "Munk Veronika főszerkesztő (balról, fekete farmerkabátban) megnyomja a Kárpáti Márton kiadótulajdonos (kockás ingben) kezében lévő gombot, és ezzel útjára indul a Telex.hu",
+          "credit": "Bődey János / Telex / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:A_Telex_indul%C3%A1sa.jpg",
           "exact": true,
-          "entity": "Hungarian Parliament Building",
-          "vision_score": 10.0
+          "entity": "Telex.hu",
+          "unverified": true
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Peter_magyar.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Magyar Péter a 2024.04.06-i tüntetésen",
+          "credit": "B. Molnár Béla / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Peter_magyar.2.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tisza_I._electoral_speech_1910.jpg/1280px-Tisza_I._electoral_speech_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 589,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "István Tisza, leader of the National Party of Work gives an electoral speech in Sopron in April 1910",
+          "credit": "Gyula Jelfy / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tisza_I._electoral_speech_1910.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Telex.hu-journalist.png/1280px-Telex.hu-journalist.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 675,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "A Telex.hu újságírója diáktüntetésen",
+          "credit": "SZERVÁC Attila / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Telex.hu-journalist.png",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/97._Feier_Buchwoche%2C_%27Telex_After%27_D%C3%A1vid_Saj%C3%B3_und_M%C3%A1t%C3%A9_Kersner_diskutieren%2C_2026_Lip%C3%B3tv%C3%A1ros.jpg/1280px-97._Feier_Buchwoche%2C_%27Telex_After%27_D%C3%A1vid_Saj%C3%B3_und_M%C3%A1t%C3%A9_Kersner_diskutieren%2C_2026_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
           "kind": "photo",
           "pos": "center",
-          "alt": "Budapešť",
-          "credit": "Dezidor / Wikimedia Commons",
-          "license": "CC BY 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budape%C5%A1%C5%A5_0892.jpg",
-          "exact": true,
-          "entity": "Budapest Stock Exchange",
-          "vision_score": 7.0
+          "alt": "Covered outdoor stage in Vörösmarty Square, Budapest. Telex After presents: The 100 Most Important Hungarian Albums. Dávid Sajó and Máté Kersner discuss the book. Part of the 97th 'Celebration Book W",
+          "credit": "Globetrotter19 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:97._Feier_Buchwoche,_%27Telex_After%27_D%C3%A1vid_Saj%C3%B3_und_M%C3%A1t%C3%A9_Kersner_diskutieren,_2026_Lip%C3%B3tv%C3%A1ros.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-7882b3ab5f.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-7882b3ab5f.jpg",
+          "kind": "photo",
+          "alt": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
         }
       ],
       "story": [
@@ -14149,10 +14186,35 @@
           8206,
           8207,
           8209,
-          8210
+          8210,
+          8212,
+          8213,
+          8214,
+          8215,
+          8216,
+          8217,
+          8218
         ],
-        "control_id": 8211
-      }
+        "control_id": 8219
+      },
+      "image_queries": [
+        "Peter Magyar",
+        "Tisza Party",
+        "Balazs Redli",
+        "Gergely Brückner",
+        "Telex.hu",
+        "Budapest",
+        "tax form with reduced rate",
+        "family receiving child allowance",
+        "elderly receiving pension check",
+        "students in classroom receiving salary r"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433478-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/d5d47d09eb-1792433507-1.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
