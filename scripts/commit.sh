@@ -13,7 +13,23 @@ site_changed=0
 if git diff --cached --name-only | grep -qv '^data/'; then site_changed=1; fi
 
 deploy=0
-if [ "$site_changed" = 1 ] || [ -f "$FLAG" ] || [ -f data/deploy_now ]; then
+# Közvetlen feltöltés (Wrangler, CLOUDFLARE_API_TOKEN): nem a havi 500-as Cloudflare build-keretből fogy, így nincs
+# napi/havi adagolás – csak két kirakás között legalább WRANGLER_GAP_MIN perc (alap 3). A git-push ilyenkor mindig
+# [CF-Pages-Skip], a Cloudflare nem épít belőle.
+USE_WR=0
+[ -n "${CLOUDFLARE_API_TOKEN:-}" ] && [ -n "${CLOUDFLARE_ACCOUNT_ID:-}" ] && USE_WR=1
+if [ "$USE_WR" = 1 ]; then
+  if [ "$site_changed" = 1 ] || [ -f "$FLAG" ] || [ -f data/deploy_now ]; then
+    last=$(cat data/last_deploy 2>/dev/null || echo 0)
+    gap=$(( $(date +%s) - ${last:-0} ))
+    if [ -f data/deploy_now ] || [ "$gap" -ge $(( ${WRANGLER_GAP_MIN:-3} * 60 )) ]; then
+      deploy=1; rm -f "$FLAG" data/deploy_now; date +%s > data/last_deploy
+    else
+      touch "$FLAG"
+    fi
+    git add -A data/
+  fi
+elif [ "$site_changed" = 1 ] || [ -f "$FLAG" ] || [ -f data/deploy_now ]; then
   month_start=$(date -u +%Y-%m-01)
   day=$(date -u +%-d)
   dim=$(date -u -d "$month_start +1 month -1 day" +%-d)
@@ -39,12 +55,29 @@ fi
 
 git diff --cached --quiet && exit 0
 MSG="$LABEL: $(TZ=Europe/Budapest date '+%F %H:%M')"
-[ "$deploy" = 1 ] || MSG="$MSG [CF-Pages-Skip]"
+if [ "$USE_WR" = 1 ] || [ "$deploy" != 1 ]; then MSG="$MSG [CF-Pages-Skip]"; fi
+
+wr_deploy() {
+  # csak a gitben követett fájlok mennek ki (a futás közbeni szemét, .env, __pycache__ nem)
+  local dir; dir=$(mktemp -d)
+  git archive HEAD | tar -x -C "$dir"
+  if (cd "$dir" && npx --yes wrangler@3.114.0 pages deploy . --project-name="${CF_PAGES_PROJECT:-kollektiva}" \
+        --branch=main --commit-dirty=true --commit-message="$MSG" >/tmp/wrangler.log 2>&1); then
+    echo "Kirakva (Wrangler): $MSG"
+  else
+    echo "Wrangler-kirakás sikertelen – a következő mentésnél újrapróbálja:" >&2; tail -20 /tmp/wrangler.log >&2
+    touch "$FLAG"; rm -f data/last_deploy
+  fi
+  rm -rf "$dir"
+}
 git commit -q -m "$MSG"
 for i in 1 2 3 4; do
   # ütközésnél (két futás egyszerre írta a data/ állapotfájlokat) a mostani futás változata nyer – különben az egész
   # futás munkája elveszne és hibás futásról jönne e-mail
-  if git pull -q --rebase --autostash -X theirs origin main && git push -q; then exit 0; fi
+  if git pull -q --rebase --autostash -X theirs origin main && git push -q; then
+    if [ "$deploy" = 1 ] && [ "$USE_WR" = 1 ]; then wr_deploy; fi
+    exit 0
+  fi
   git rebase --abort 2>/dev/null || true
   sleep $(( i * 5 ))
 done
