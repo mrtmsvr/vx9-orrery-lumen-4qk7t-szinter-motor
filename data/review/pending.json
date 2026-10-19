@@ -12286,6 +12286,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403067-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0bafe88fd5-1792403067-0.jpg",
+          "kind": "photo",
+          "alt": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0bafe88fd5-1792403089-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0bafe88fd5-1792403089-1.jpg",
+          "kind": "photo",
+          "alt": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 888,
@@ -12348,17 +12370,6 @@
           "license": "Public domain",
           "source_url": "https://commons.wikimedia.org/wiki/File:Debrecen_l%C3%A1tk%C3%A9pe.jpg",
           "unverified": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-463663a66d.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-463663a66d.jpg",
-          "kind": "photo",
-          "alt": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -12427,9 +12438,11 @@
           7985,
           7986,
           7987,
-          7988
+          7988,
+          8054,
+          8055
         ],
-        "control_id": 7989
+        "control_id": 8056
       }
     },
     {
