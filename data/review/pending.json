@@ -12679,19 +12679,12 @@
         "title": 1,
         "image": 2,
         "sent_at": "2026-10-19T09:30:33+00:00",
-        "msg_ids": [
-          7990,
-          7991,
-          7992,
-          7993,
-          7994,
-          7995,
-          7996,
-          7997,
-          7998
-        ],
-        "control_id": 7999
-      }
+        "msg_ids": [],
+        "control_id": 7999,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 11:51 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-19T11:51:50+02:00"
     },
     {
       "id": "6a7cbba9-2933-5a8b-a5c9-e6736311e3e3",
