@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T11:45:50+02:00",
+  "updated_at": "2026-10-19T11:46:52+02:00",
   "articles": [
     {
       "id": "e2d62db7-c254-5def-8aae-5d09f78fcc93",
@@ -38,8 +38,8 @@
       "word_count": 253,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792403119-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792403119-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792403146-1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2d62db7c2-1792403146-1.jpg",
         "kind": "photo",
         "alt": "Botrány az ír parlamentben: megfutamodtak a közösségi oldalak",
         "likeness": false,
@@ -85,7 +85,7 @@
         "meta_title": "Botrány az ír parlamentben: megfutamodtak a közösségi oldala",
         "meta_description": "Egy halálos közúti baleset után az ír parlament elszámoltatná a közösségi oldalak üzemeltetőit, ám a technológiai óriáscégek többször is visszautasították a nyi",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-felelossegre-vonnak-az-irek-a-techoriasokat/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792403119-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/e2d62db7c2-1792403146-1.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -103,7 +103,7 @@
       "pipeline_run_id": "39226975002",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-19T11:31:49+02:00",
-      "updated_at": "2026-10-19T11:45:50+02:00",
+      "updated_at": "2026-10-19T11:46:52+02:00",
       "published_at": "2026-10-19T11:31:49+02:00",
       "expires_at": null
     },
