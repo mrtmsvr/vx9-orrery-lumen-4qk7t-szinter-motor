@@ -13175,13 +13175,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-19T17:57:40+00:00",
-        "msg_ids": [
-          8170,
-          8171,
-          8172,
-          8174
-        ],
-        "control_id": 8173
+        "msg_ids": [],
+        "control_id": 8173,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
