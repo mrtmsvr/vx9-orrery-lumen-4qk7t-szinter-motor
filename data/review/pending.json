@@ -13526,13 +13526,24 @@
       "title_options": [
         "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
         "Pénzváltás, kártya és utalás nélkül maradtak a Revolut felhasználói",
-        "Fennakadások bénították meg kedd reggel a Revolutot",
-        "Senki sem tudott fizetni: óriási hiba bénította meg a Revolutot",
-        "Eltűntek a kedvezményezettek és leálltak az utalások a Revoluton",
-        "Mindenhol elutasították a kártyákat kedd reggel: ezt tapasztalták a felhasználók"
+        "Fennakadások bénították meg kedd reggel a Revolutot"
       ],
       "clickbait_from": 3,
       "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 2597,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Fintech Revolut possibility to invest. The screen shows the basic interface of stock trading in app.",
+          "credit": "MKoala / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:App_Revolut_show_interface_of_stock_trading_inapp.png",
+          "exact": true,
+          "entity": "Revolut app",
+          "unverified": true
+        },
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/1280px-London_Skyline_%28125508655%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
@@ -13594,53 +13605,6 @@
           "license": "CC BY 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Bankomat_with_folding_lid.jpg",
           "unverified": true
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/ROC-NCL_transfer_records_at_Nanking_Branch%2C_Central_Bank_19370915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 1600,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "​1937年9月15日，中華民國國立中央圖書館建築委員會在中央銀行南京分行送金簿登錄的轉帳紀錄。",
-          "credit": "Solomon203 / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:ROC-NCL_transfer_records_at_Nanking_Branch,_Central_Bank_19370915.jpg",
-          "unverified": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Bank_Transfer_Day_poster..jpg/1280px-Bank_Transfer_Day_poster..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 506,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Bank Transfer Day poster: $100 bill featuring Guy Fawkes mask over Benjamin Franklin.",
-          "credit": "Fayerman / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Bank_Transfer_Day_poster..jpg",
-          "unverified": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg/1280px-St_Mary%27s%2C_Bourne_Street_Church_1%2C_London%2C_UK_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1044,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "The interior of St Mary's, Bourne Street Church, London, UK, facing north east towards the altar. The Latin writing on the reredos reads 'et regni eius non erit finis' - 'Of his kingdom there shall be",
-          "credit": "Diliff / Wikimedia Commons",
-          "license": "CC BY-SA 3.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:St_Mary%27s,_Bourne_Street_Church_1,_London,_UK_-_Diliff.jpg",
-          "unverified": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4a9c98d91e.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4a9c98d91e.jpg",
-          "kind": "photo",
-          "alt": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -13692,12 +13656,18 @@
       },
       "review": {
         "title": 0,
-        "image": 1,
-        "sent_at": "2026-10-20T09:18:23+00:00",
-        "msg_ids": [],
-        "control_id": 8375,
-        "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:42 (✏️ → ✅ = azonnal)"
+        "image": 0,
+        "sent_at": "2026-10-20T10:25:56+00:00",
+        "msg_ids": [
+          8382,
+          8383,
+          8384,
+          8385,
+          8386,
+          8387,
+          8388
+        ],
+        "control_id": 8389
       },
       "image_queries": [
         "Revolut Ltd.",
