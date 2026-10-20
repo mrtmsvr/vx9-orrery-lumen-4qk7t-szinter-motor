@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T12:23:10+02:00",
+  "updated_at": "2026-10-20T12:27:01+02:00",
   "articles": [
+    {
+      "id": "65ec0c02-3a90-593d-b8eb-fc5de2f07cd8",
+      "slug": "2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Revolut",
+        "banki hiba",
+        "pénzügy",
+        "alkalmazás",
+        "gazdaság"
+      ],
+      "title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
+      "subtitle": null,
+      "lead": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A beszámolók szerint a pénzügyi alkalmazásban sem a pénzváltás, sem a kedvezményezettek adatainak betöltése nem működött.",
+      "key_points": [
+        "Kedd reggel komoly fennakadások nehezítették a Revolut működését.",
+        "A bolti kártyás fizetések és az ATM-es készpénzfelvételek sem működtek.",
+        "A más bankokból küldött utalások nem érkeztek meg a számlákra.",
+        "A hivatalos státuszoldal eközben nem jelzett semmilyen szolgáltatási hibát."
+      ],
+      "content": "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.\n\nA technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.\n\nBár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.",
+        "A technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.",
+        "Bár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 136,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Revolut_Standard_Visa_debit_card.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 808,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "This is the front view of a Revolut Standard VISA Debit Card.",
+        "credit": "Filippos Fragkogiannis / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Revolut_Standard_Visa_debit_card.png",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi",
+          "title": "Bajba kerültek a Revolut felhasználói",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T11:17:39+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-20T12:27:01+02:00"
+      },
+      "hot_score": 6.94,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
+      "seo": {
+        "meta_title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az ",
+        "meta_description": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A bes",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Revolut_Standard_Visa_debit_card.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d20e08bd3c9ff673ebb47161a608dbe1ab1e4b0b9410e6561d112b4289c7dbdc",
+      "pipeline_run_id": "39398981594",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T12:27:01+02:00",
+      "updated_at": "2026-10-20T12:27:01+02:00",
+      "published_at": "2026-10-20T12:27:01+02:00",
+      "expires_at": null,
+      "image_queries": [
+        "Revolut Ltd.",
+        "Revolut Card",
+        "ATM",
+        "Bank Transfer",
+        "London",
+        "declined credit card",
+        "empty ATM",
+        "error message on mobile app",
+        "person looking stressed at phone"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/1280px-Credit-cards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png/1280px-Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/First_cash_machine_blue_plaque_in_Enfield.jpg/1280px-First_cash_machine_blue_plaque_in_Enfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/1280px-Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/1280px-Credit_card_terminal_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Revolut_app_%2848956162153%29.jpg/1280px-Revolut_app_%2848956162153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-4a9c98d91e.jpg"
+      ]
+    },
     {
       "id": "31b23fd8-8c49-5982-8ac8-de85e90d89fd",
       "slug": "2026-10-20-terroristavaddal-birosag-ele-allitjak-a-143-eves-varoshaza-felgyujtoj",
@@ -67092,109 +67213,6 @@
       "created_at": "2026-09-29T16:06:51+02:00",
       "updated_at": "2026-09-29T16:06:51+02:00",
       "published_at": "2026-09-29T16:06:51+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1c4ebbdb-12f8-5a44-af49-70e9f9c7c35c",
-      "slug": "2026-09-29-katonai-mozgasok-es-letszamnovelesek-komoly-erokifejtes-a-vilagpoliti",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "világpolitika",
-        "gazdaság",
-        "hadiipar",
-        "egyesült államok",
-        "oroszország"
-      ],
-      "title": "Katonai mozgások és létszámnövelések: komoly erőkifejtés a világpolitikában",
-      "subtitle": null,
-      "lead": "Az Egyesült Államok friss haditengerészeti egységeket vetett be és csoportosított át, míg Oroszországban újabb létszámnövelésről döntöttek. Ezek a lépések alapvetően határozzák meg a nemzetközi biztonsági helyzetet.",
-      "content": "A nemzetközi biztonságpolitika és a hadiipari fejlesztések közvetve a globális gazdaságra és a hétköznapi pénzügyekre is komoly hatással lehetnek. A legfrissebb hírek szerint az Egyesült Államok jelentős katonai eszközöket mozgat meg: míg az európai hadszíntéren az első bevetését teljesítette az amerikaiak legújabb, Virginia-osztályú támadó tengeralattjárója, a USS Idaho, addig máshol is komoly erőátcsoportosítások zajlanak.\n\nA Közel-Kelet irányába is újabb acélmonstrum indult el: a USS Theodore Roosevelt repülőgép-hordozó hagyta el San Diegót, hogy a térségben váltsa a USS George Washington hajót. Ennek a lépésnek a hátterében az áll, hogy az Egyesült Államok tartósan két hordozó-csapásmérő csoportot kíván fenntartani a régióban az Irán elleni műveletek folytatásához.\n\nEzzel párhuzamosan Oroszországban is jelentős belső döntések születtek. Vlagyimir Putyin legújabb rendelete értelmében tovább növelik az orosz fegyveres erők és a szolgálatot teljesítő katonák létszámát. Az ilyen nagyságrendű katonai és költségvetési mozgások mindig mélyen érintik az érintett országok gazdaságát.\n\nA hétköznapi olvasó számára ezek a folyamatok leginkább a globális bizonytalanság növekedésén, az energia- és nyersanyagárak esetleges ingadozásán, valamint a biztonságpolitikai kockázatok árazásán keresztül válhatnak kézzelfoghatóvá a pénzpiacokon. A nagyszabású katonai kiadások ugyanis elvonják a forrásokat a polgári szférától, ami közvetett módon mindannyiunk mindennapjait befolyásolhatja.",
-      "content_format": "markdown",
-      "body": [
-        "A nemzetközi biztonságpolitika és a hadiipari fejlesztések közvetve a globális gazdaságra és a hétköznapi pénzügyekre is komoly hatással lehetnek. A legfrissebb hírek szerint az Egyesült Államok jelentős katonai eszközöket mozgat meg: míg az európai hadszíntéren az első bevetését teljesítette az amerikaiak legújabb, Virginia-osztályú támadó tengeralattjárója, a USS Idaho, addig máshol is komoly erőátcsoportosítások zajlanak.",
-        "A Közel-Kelet irányába is újabb acélmonstrum indult el: a USS Theodore Roosevelt repülőgép-hordozó hagyta el San Diegót, hogy a térségben váltsa a USS George Washington hajót. Ennek a lépésnek a hátterében az áll, hogy az Egyesült Államok tartósan két hordozó-csapásmérő csoportot kíván fenntartani a régióban az Irán elleni műveletek folytatásához.",
-        "Ezzel párhuzamosan Oroszországban is jelentős belső döntések születtek. Vlagyimir Putyin legújabb rendelete értelmében tovább növelik az orosz fegyveres erők és a szolgálatot teljesítő katonák létszámát. Az ilyen nagyságrendű katonai és költségvetési mozgások mindig mélyen érintik az érintett országok gazdaságát.",
-        "A hétköznapi olvasó számára ezek a folyamatok leginkább a globális bizonytalanság növekedésén, az energia- és nyersanyagárak esetleges ingadozásán, valamint a biztonságpolitikai kockázatok árazásán keresztül válhatnak kézzelfoghatóvá a pénzpiacokon. A nagyszabású katonai kiadások ugyanis elvonják a forrásokat a polgári szférától, ami közvetett módon mindannyiunk mindennapjait befolyásolhatja."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 218,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg/1280px-An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 795,
-        "kind": "photo",
-        "alt": "Pacific Ocean (Aug. 17, 2005) – An F/A-18C Hornet, assigned to the \"Golden Dragons\" of Strike Fighter Squadron One Nine Two (VFA-192), launches from the flight deck of the conventionally powered aircr",
-        "credit": "U.S. Navy photo by Photographer's Mate 3rd Class Jonathan Chandler / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/global/20260929/mar-a-vizeket-szeli-az-egyesult-allamok-legujabb-fegyvere-brutalis-csapasmero-erovel-bir-866012",
-          "title": "Már a vizeket szeli az Egyesült Államok legújabb fegyvere: brutális csapásmérő erővel bír",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T16:06:17+02:00"
-        },
-        {
-          "url": "https://www.portfolio.hu/global/20260929/hatalmas-erot-csoportosit-at-az-egyesult-allamok-ujabb-acelmonstrum-erkezik-a-kozel-keletre-866010",
-          "title": "Hatalmas erőt csoportosít át az Egyesült Államok: újabb acélmonstrum érkezik a Közel-Keletre",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T16:06:17+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/kozelet/2026/09/orosz-hadsereg-letszamnoveles-putyin-ukrajna-haboru?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Nagy bejelentést tett Putyin: tovább növeli az orosz hadsereg létszámát – brutális számokat tartalmaz a legújabb rendelet",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T16:06:17+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/global/20260929/mar-a-vizeket-szeli-az-egyesult-allamok-legujabb-fegyvere-brutalis-csapasmero-erovel-bir-866012",
-          "https://www.portfolio.hu/global/20260929/hatalmas-erot-csoportosit-at-az-egyesult-allamok-ujabb-acelmonstrum-erkezik-a-kozel-keletre-866010",
-          "https://www.vg.hu/kozelet/2026/09/orosz-hadsereg-letszamnoveles-putyin-ukrajna-haboru?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/penzvilag/2026-09-29-katonai-mozgasok-es-letszamnovelesek-komoly-erokifejtes-a-vilagpoliti/",
-      "seo": {
-        "meta_title": "Katonai mozgások és létszámnövelések: komoly erőkifejtés a v",
-        "meta_description": "Az Egyesült Államok friss haditengerészeti egységeket vetett be és csoportosított át, míg Oroszországban újabb létszámnövelésről döntöttek. Ezek a lépések alapv",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-29-katonai-mozgasok-es-letszamnovelesek-komoly-erokifejtes-a-vilagpoliti/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg/1280px-An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "07409bf658dd0955efe71fff39420a06e9a598f41bc5b5cc6e8ad8e95b5142c8",
-      "pipeline_run_id": "36579995345",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T16:06:17+02:00",
-      "updated_at": "2026-09-29T16:06:17+02:00",
-      "published_at": "2026-09-29T16:06:17+02:00",
       "expires_at": null
     }
   ]
