@@ -11420,9 +11420,9 @@
       "live": true
     },
     {
-      "id": "562935e9-4f4c-565e-87d2-9e4e1f0a88df",
-      "slug": "2026-10-20-nem-nyult-a-kamathoz-a-jegybank-maris-gyengulessel-reagalt-a-forint",
-      "status": "pending",
+      "id": "559071d6-b70f-540a-86d0-7fa6ad42a471",
+      "slug": "2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11432,7 +11432,7 @@
         "gazdaság",
         "monetáris politika"
       ],
-      "title": "Nem nyúlt a kamathoz a jegybank, máris gyengüléssel reagált a forint",
+      "title": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
       "subtitle": null,
       "lead": "Keddi ülésén változatlanul, 5,50 százalékon hagyta az alapkamatot a Magyar Nemzeti Bank Monetáris Tanácsa. A döntéssel a nyári csökkentési ciklus utáni kiváró hangulat maradt érvényben, miközben a forint gyengüléssel reagált a nemzetközi folyamatokra.",
       "key_points": [
@@ -11453,18 +11453,18 @@
       "word_count": 209,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_of_the_Hungarian_National_Bank.svg/1280px-Logo_of_the_Hungarian_National_Bank.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1600,
+        "height": 1200,
         "kind": "graphic",
         "pos": "center",
-        "alt": "",
-        "credit": "ismeretlen szerző / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
+        "alt": "Logo of the Hungarian National Bank since 20 August 2013.",
+        "credit": "Magyar Nemzeti Bank / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Hungarian_National_Bank.svg",
         "exact": true,
-        "entity": "Magyar Nemzeti Bank",
-        "vision_score": 5.0
+        "entity": "Hungarian National Bank",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -11599,12 +11599,12 @@
       },
       "date": "2026-10-20",
       "date_label": "október 20.",
-      "url": "/penzvilag/2026-10-20-nem-nyult-a-kamathoz-a-jegybank-maris-gyengulessel-reagalt-a-forint/",
+      "url": "/penzvilag/2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat/",
       "seo": {
-        "meta_title": "Nem nyúlt a kamathoz a jegybank, máris gyengüléssel reagált ",
+        "meta_title": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
         "meta_description": "Keddi ülésén változatlanul, 5,50 százalékon hagyta az alapkamatot a Magyar Nemzeti Bank Monetáris Tanácsa. A döntéssel a nyári csökkentési ciklus utáni kiváró h",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-nem-nyult-a-kamathoz-a-jegybank-maris-gyengulessel-reagalt-a-forint/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_of_the_Hungarian_National_Bank.svg/1280px-Logo_of_the_Hungarian_National_Bank.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11635,9 +11635,9 @@
       "dedupe_hash": "d1e99009c455b5c358f8a4911934f956912d3830c2c79f97e60c5caac3e344c6",
       "pipeline_run_id": "39428712442",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T15:44:38+02:00",
-      "updated_at": "2026-10-20T15:44:38+02:00",
-      "published_at": "2026-10-20T15:44:38+02:00",
+      "created_at": "2026-10-20T18:25:43+02:00",
+      "updated_at": "2026-10-20T18:25:43+02:00",
+      "published_at": "2026-10-20T18:25:43+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11647,14 +11647,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-20T13:46:10+00:00",
-        "msg_ids": [
-          8422,
-          8423,
-          8424,
-          8425
-        ],
-        "control_id": 8426
-      }
+        "msg_ids": [],
+        "control_id": 8426,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "8a1b857c-f0e1-5b62-be1e-57b8828e008c",

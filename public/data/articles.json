@@ -1,7 +1,145 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T18:25:10+02:00",
+  "updated_at": "2026-10-20T18:25:43+02:00",
   "articles": [
+    {
+      "id": "559071d6-b70f-540a-86d0-7fa6ad42a471",
+      "slug": "2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "MNB",
+        "alapkamat",
+        "forint",
+        "gazdaság",
+        "monetáris politika"
+      ],
+      "title": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
+      "subtitle": null,
+      "lead": "Keddi ülésén változatlanul, 5,50 százalékon hagyta az alapkamatot a Magyar Nemzeti Bank Monetáris Tanácsa. A döntéssel a nyári csökkentési ciklus utáni kiváró hangulat maradt érvényben, miközben a forint gyengüléssel reagált a nemzetközi folyamatokra.",
+      "key_points": [
+        "Az MNB Monetáris Tanácsa kedden az előzetes várakozásoknak megfelelően nem változtatott az 5,50 százalékos alapkamaton.",
+        "A kamatfolyosó két széle is változatlan maradt: az egynapos betéti kamat 4,5, az egynapos hitelkamat pedig 6,5 százalék.",
+        "A döntés napján a forint gyengült mind az euróval, mind a dollárral szemben a nemzetközi energiapiaci és devizapiaci hatások miatt."
+      ],
+      "content": "A Magyar Nemzeti Bank Monetáris Tanácsa keddi ülésén úgy határozott, hogy nem nyúl az alapkamat mértékéhez, így az továbbra is 5,50 százalék maradt. A testület ezzel a lépéssel megerősítette a szeptemberben megkezdett megfontoltabb vonalat, miután a nyár folyamán három hónapon keresztül még fokozatosan mérsékelték a mutatót.\n\nA jegybanki határozat értelmében a kamatfolyosó alsó és felső széle sem mozdult: az egynapos betétek után továbbra is 4,5 százalékos kamat jár, míg az egynapos hiteleket 6,5 százalékos költséggel lehet igénybe venni. A szakértői várakozásokkal egyező döntés hátterében a nemzetközi gazdasági környezet bizonytalanságai és az inflációs kockázatok figyelése áll.\n\nA kamatbejelentéssel párhuzamosan a hazai fizetőeszköz árfolyama nyomás alá került. Az eurót a döntés előtti percekben 364,44 forinton jegyezték, majd röviddel később 364,57 forintra drágult, míg a dollár jegyzése 325,09 forintról 325,12 forintra módosult a nap folyamán.\n\nA devizapiaci mozgásokat a külső tényezők is befolyásolták, mivel a világpiacon az olaj- és gázárak emelkedése – köztük a Brent olaj drágulása – nehezítette a hazai fizetőeszköz helyzetét, és a régiós devizák körében is széles körű gyengülés mutatkozott.",
+      "content_format": "markdown",
+      "body": [
+        "A Magyar Nemzeti Bank Monetáris Tanácsa keddi ülésén úgy határozott, hogy nem nyúl az alapkamat mértékéhez, így az továbbra is 5,50 százalék maradt. A testület ezzel a lépéssel megerősítette a szeptemberben megkezdett megfontoltabb vonalat, miután a nyár folyamán három hónapon keresztül még fokozatosan mérsékelték a mutatót.",
+        "A jegybanki határozat értelmében a kamatfolyosó alsó és felső széle sem mozdult: az egynapos betétek után továbbra is 4,5 százalékos kamat jár, míg az egynapos hiteleket 6,5 százalékos költséggel lehet igénybe venni. A szakértői várakozásokkal egyező döntés hátterében a nemzetközi gazdasági környezet bizonytalanságai és az inflációs kockázatok figyelése áll.",
+        "A kamatbejelentéssel párhuzamosan a hazai fizetőeszköz árfolyama nyomás alá került. Az eurót a döntés előtti percekben 364,44 forinton jegyezték, majd röviddel később 364,57 forintra drágult, míg a dollár jegyzése 325,09 forintról 325,12 forintra módosult a nap folyamán.",
+        "A devizapiaci mozgásokat a külső tényezők is befolyásolták, mivel a világpiacon az olaj- és gázárak emelkedése – köztük a Brent olaj drágulása – nehezítette a hazai fizetőeszköz helyzetét, és a régiós devizák körében is széles körű gyengülés mutatkozott."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 209,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_of_the_Hungarian_National_Bank.svg/1280px-Logo_of_the_Hungarian_National_Bank.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Logo of the Hungarian National Bank since 20 August 2013.",
+        "credit": "Magyar Nemzeti Bank / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Logo_of_the_Hungarian_National_Bank.svg",
+        "exact": true,
+        "entity": "Hungarian National Bank",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/20/itt-az-mnb-kamatdontese",
+          "title": "Itt az MNB kamatdöntése",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:44:38+02:00"
+        },
+        {
+          "url": "https://index.hu/gazdasag/2026/10/20/mnb-jegybank-alapkamat-monetaris-tanacs-kamatfolyoso/",
+          "title": "Változatlan maradt az 5,5 százalékos jegybanki alapkamat",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:44:38+02:00"
+        },
+        {
+          "url": "https://www.portfolio.hu/deviza/20261020/tovabb-utik-a-forintot-egyre-nagyobb-a-gyengules-870812",
+          "title": "Tovább ütik a forintot: egyre nagyobb a gyengülés",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:44:38+02:00"
+        },
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261020/varga-mihaly-a-pozitiv-hazai-folyamatok-mellett-is-indokolt-az-ovatossag-870944",
+          "title": "Varga Mihály: a pozitív hazai folyamatok mellett is indokolt az óvatosság",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:44:38+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-20T18:25:43+02:00"
+      },
+      "hot_score": 6.63,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/gazdasag/2026/10/20/itt-az-mnb-kamatdontese",
+          "https://index.hu/gazdasag/2026/10/20/mnb-jegybank-alapkamat-monetaris-tanacs-kamatfolyoso/"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/penzvilag/2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat/",
+      "seo": {
+        "meta_title": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
+        "meta_description": "Keddi ülésén változatlanul, 5,50 százalékon hagyta az alapkamatot a Magyar Nemzeti Bank Monetáris Tanácsa. A döntéssel a nyári csökkentési ciklus utáni kiváró h",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_of_the_Hungarian_National_Bank.svg/1280px-Logo_of_the_Hungarian_National_Bank.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "cdfb46f1-db3f-5a1f-bfcb-0ba0e6354cc0",
+        "708de4c2-5978-58d3-9206-91185a37096d"
+      ],
+      "see_also": [
+        {
+          "title": "Nyomozás és milliárdos veszteségek: bajban a jegybank kedvenc építőcége",
+          "url": "/kozelet/2026-10-12-nyomozas-es-milliardos-vesztesegek-bajban-a-jegybank-kedvenc-epitoceg/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Megvan a pontos terv a magyar euróbevezetésre",
+          "url": "/penzvilag/2026-10-06-megvan-a-pontos-terv-a-magyar-eurobevezetesre/",
+          "date": "2026-10-06"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "d1e99009c455b5c358f8a4911934f956912d3830c2c79f97e60c5caac3e344c6",
+      "pipeline_run_id": "39428712442",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T18:25:43+02:00",
+      "updated_at": "2026-10-20T18:25:43+02:00",
+      "published_at": "2026-10-20T18:25:43+02:00",
+      "expires_at": null
+    },
     {
       "id": "8a1b857c-f0e1-5b62-be1e-57b8828e008c",
       "slug": "2026-10-20-otszaz-katonat-vezenyel-milanoba-a-meloni-kormany-a-fosztogatasok-mia",
@@ -67248,93 +67386,6 @@
       "created_at": "2026-09-29T18:53:59+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-29T18:53:59+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "8aa8ee56-7727-54bc-a46c-cc06dc133c51",
-      "slug": "2026-09-29-ingyenes-mesterseges-intelligencia-het-indul-az-elte-n",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "mesterséges intelligencia",
-        "ELTE",
-        "technológia",
-        "tudomány",
-        "kutatás"
-      ],
-      "title": "Ingyenes mesterséges intelligencia hét indul az ELTE-n",
-      "subtitle": null,
-      "lead": "Október elején ingyenes rendezvénysorozat mutatja be a mesterséges intelligencia legfrissebb eredményeit és nyitott kérdéseit. Az esemény célja, hogy közelebb hozza a hazai fejlesztéseket és a technológia gyakorlati alkalmazásait az érdeklődőkhöz.",
-      "content": "A mesterséges intelligencia (AI) napjainkban egyre nagyobb szerepet kap a legkülönbözőbb területeken, a mindennapi munkától kezdve a tudományos kutatásokig. Október 5. és 9. között az Eötvös Loránd Tudományegyetem (ELTE) ad otthont az AI hete elnevezésű rendezvénysorozatnak, amely díjmentesen kínál betekintést ebbe a dinamikusan fejlődő világba.\n\nA program során olyan izgalmas és sokakat foglalkoztató kérdésekre keresik a választ, mint például hogy mi a kapcsolat a stratégiai go játék és a nyelvi modellek működése között. Ezen túlmenően azt is megvizsgálják a szakértők, hogy a technológia milyen feladatokat vehet át biztonsággal egy orvos munkája mellett, vagy éppen milyen szerep jut neki egy kutatólaboratóriumban.\n\nA rendezvény különlegessége, hogy élvonalbeli kutatók és elismert szakemberek szólalnak meg a friss eredményekről. Nem csupán a nemzetközi trendeket tekintik át, hanem a hazai fejlesztésekre is hangsúlyt fektetnek, így a résztvevők első kézből kaphatnak képet arról, hol tart ma a magyar szakma.\n\nA technológia fejlődésével a hétköznapi emberek számára is egyre fontosabbá válik, hogy értsék az AI korlátait és lehetőségeit. Az ilyen nyitott szakmai fórumok abban segítenek, hogy a túlzott elvárások vagy a félelmek helyett a valós, gyakorlati tudás jusson el a nagyközönséghez, átláthatóbbá téve a jövő digitális eszközeit.",
-      "content_format": "markdown",
-      "body": [
-        "A mesterséges intelligencia (AI) napjainkban egyre nagyobb szerepet kap a legkülönbözőbb területeken, a mindennapi munkától kezdve a tudományos kutatásokig. Október 5. és 9. között az Eötvös Loránd Tudományegyetem (ELTE) ad otthont az AI hete elnevezésű rendezvénysorozatnak, amely díjmentesen kínál betekintést ebbe a dinamikusan fejlődő világba.",
-        "A program során olyan izgalmas és sokakat foglalkoztató kérdésekre keresik a választ, mint például hogy mi a kapcsolat a stratégiai go játék és a nyelvi modellek működése között. Ezen túlmenően azt is megvizsgálják a szakértők, hogy a technológia milyen feladatokat vehet át biztonsággal egy orvos munkája mellett, vagy éppen milyen szerep jut neki egy kutatólaboratóriumban.",
-        "A rendezvény különlegessége, hogy élvonalbeli kutatók és elismert szakemberek szólalnak meg a friss eredményekről. Nem csupán a nemzetközi trendeket tekintik át, hanem a hazai fejlesztésekre is hangsúlyt fektetnek, így a résztvevők első kézből kaphatnak képet arról, hol tart ma a magyar szakma.",
-        "A technológia fejlődésével a hétköznapi emberek számára is egyre fontosabbá válik, hogy értsék az AI korlátait és lehetőségeit. Az ilyen nyitott szakmai fórumok abban segítenek, hogy a túlzott elvárások vagy a félelmek helyett a valós, gyakorlati tudás jusson el a nagyközönséghez, átláthatóbbá téve a jövő digitális eszközeit."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 219,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Krishna_Bajpai_delivering_invited_lecture_on_use_of_Artificial_Intelligence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 903,
-        "kind": "photo",
-        "alt": "Krishna Bajpai delivering invited lecture on use of Artificial Intelligence at Khwaja Moinuddin Chisthi Language University",
-        "credit": "Krishna56788 / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Krishna_Bajpai_delivering_invited_lecture_on_use_of_Artificial_Intelligence.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://qubit.hu/2026/09/29/nem-kell-szazezres-konferenciajegy-ingyenes-ai-hetet-szerveznek-az-elte-n?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "title": "Nem kell százezres konferenciajegy, ingyenes AI-hetet szerveznek az ELTE-n",
-          "publisher": "qubit.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T18:53:37+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://qubit.hu/2026/09/29/nem-kell-szazezres-konferenciajegy-ingyenes-ai-hetet-szerveznek-az-elte-n?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/tech/2026-09-29-ingyenes-mesterseges-intelligencia-het-indul-az-elte-n/",
-      "seo": {
-        "meta_title": "Ingyenes mesterséges intelligencia hét indul az ELTE-n",
-        "meta_description": "Október elején ingyenes rendezvénysorozat mutatja be a mesterséges intelligencia legfrissebb eredményeit és nyitott kérdéseit. Az esemény célja, hogy közelebb h",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-09-29-ingyenes-mesterseges-intelligencia-het-indul-az-elte-n/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Krishna_Bajpai_delivering_invited_lecture_on_use_of_Artificial_Intelligence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "94036250797d9627e33e96b69113753ca80066779c189ad2b45bac31afa0f9eb",
-      "pipeline_run_id": "36600936606",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T18:53:37+02:00",
-      "updated_at": "2026-09-29T18:53:37+02:00",
-      "published_at": "2026-09-29T18:53:37+02:00",
       "expires_at": null
     }
   ]
