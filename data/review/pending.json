@@ -11869,17 +11869,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-20T13:47:11+00:00",
-        "msg_ids": [
-          8427,
-          8428,
-          8429,
-          8430,
-          8431,
-          8432,
-          8433,
-          8435
-        ],
-        "control_id": 8434
+        "msg_ids": [],
+        "control_id": 8434,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
