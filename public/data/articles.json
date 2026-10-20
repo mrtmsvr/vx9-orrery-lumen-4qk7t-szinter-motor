@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T09:39:29+02:00",
+  "updated_at": "2026-10-20T09:52:21+02:00",
   "articles": [
     {
       "id": "e95ec51b-637d-5e9a-8894-c9f2d3cbaf97",
@@ -15,7 +15,7 @@
         "Tarr Zoltán",
         "béremelés"
       ],
-      "title": "Utcára vonultak a kulturális dolgozók Magyar Péter bejelentése után",
+      "title": "„Ez nullával egyenlő” – felháborodtak a könyvtárosok és muzeológusok",
       "subtitle": null,
       "lead": "Tüntetést tartottak a közgyűjteményi és közművelődési dolgozók Budapesten, miután a kormány 10,7 százalékos nettó bérkorrekciót jelentett be az ágazatban. A szakszervezet megalázónak tartja az emelés mértékét a bruttó 460 ezer forintos átlagfizetések mellett, miközben a szaktárca vezetői a helyszínen igyekeztek csillapítani az indulatokat.",
       "key_points": [
@@ -37,17 +37,15 @@
       "word_count": 372,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Budapest_Fine_Arts_Museum_R01.jpg/1280px-Budapest_Fine_Arts_Museum_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/National_Sz%C3%A9ch%C3%A9nyi_Library_Southern_Reading_room.png/1280px-National_Sz%C3%A9ch%C3%A9nyi_Library_Southern_Reading_room.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1471,
+        "height": 878,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Budapest (Hungary): Museum of Fine Arts",
-        "credit": "Marc Ryckaert (MJJR) / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_Fine_Arts_Museum_R01.jpg",
-        "exact": true,
-        "entity": "Museum of Fine Arts Budapest",
+        "pos": "center",
+        "alt": "Southern Reading room on the 7th floor of the National Széchényi Library in Budapest",
+        "credit": "Evel Prior / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:National_Sz%C3%A9ch%C3%A9nyi_Library_Southern_Reading_room.png",
         "unverified": true
       },
       "inline_images": [],
@@ -114,10 +112,10 @@
       "date_label": "október 20.",
       "url": "/kozelet/2026-10-20-utcara-vonultak-a-kulturalis-dolgozok-magyar-peter-bejelentese-utan/",
       "seo": {
-        "meta_title": "Utcára vonultak a kulturális dolgozók Magyar Péter bejelenté",
+        "meta_title": "„Ez nullával egyenlő” – felháborodtak a könyvtárosok és muze",
         "meta_description": "Tüntetést tartottak a közgyűjteményi és közművelődési dolgozók Budapesten, miután a kormány 10,7 százalékos nettó bérkorrekciót jelentett be az ágazatban. A sza",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-utcara-vonultak-a-kulturalis-dolgozok-magyar-peter-bejelentese-utan/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Budapest_Fine_Arts_Museum_R01.jpg/1280px-Budapest_Fine_Arts_Museum_R01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/National_Sz%C3%A9ch%C3%A9nyi_Library_Southern_Reading_room.png/1280px-National_Sz%C3%A9ch%C3%A9nyi_Library_Southern_Reading_room.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -155,7 +153,7 @@
       "pipeline_run_id": "39386102475",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-20T09:39:29+02:00",
-      "updated_at": "2026-10-20T09:39:29+02:00",
+      "updated_at": "2026-10-20T09:52:21+02:00",
       "published_at": "2026-10-20T09:39:29+02:00",
       "expires_at": null
     },
