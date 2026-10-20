@@ -1,36 +1,35 @@
 {
-  "id": "5e169331f7",
-  "date": "2026-10-19",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-18-fel-ezermilliardos-tobbletforrast-kap-az-egeszsegugy-2027-ben/",
-  "article_title": "Fél ezermilliárdos többletforrást kap az egészségügy 2027-ben",
+  "id": "fab196fc6a",
+  "date": "2026-10-20",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+  "article_title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Jó iránynak tartja az állami bürokrácia karcsúsításából finanszírozni az egészségügyi többletet?",
+      "question": "Ön támogatja a kilencszázalékos személyi jövedelemadó bevezetését?",
       "options": [
-        "Igen, jó döntés",
-        "Nem, más forrás kellene",
+        "Igen, támogatom",
+        "Nem, ellenkezem vele",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Melyik területnek kellene elsőbbséget élveznie a költségvetési többletforrások elosztásánál?",
+      "question": "Mit tart fontosabbnak egy új költségvetési tervben?",
       "options": [
-        "Egészségügy",
-        "Oktatás",
-        "Gazdaságfejlesztés",
+        "A radikális adócsökkentést",
+        "A szociális kiadások növelését",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Ön szerint önmagában a pénzügyi többletforrás megoldja az egészségügy problémáit?",
+      "question": "Reálisak-e a bemutatott nyugdíj- és szociális emelési ígéretek?",
       "options": [
-        "Igen, elegendő a pénz",
-        "Nem, mélyebb reformok kellenek",
+        "Igen, megvalósíthatók",
+        "Nem, túlzóak",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 7941
+  "msg_id": 8310
 }
