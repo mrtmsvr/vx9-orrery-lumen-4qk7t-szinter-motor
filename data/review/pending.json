@@ -13559,9 +13559,9 @@
       "live": true
     },
     {
-      "id": "abb602e0-004d-5e67-a0b1-fa4f0869e2ee",
-      "slug": "2026-10-20-nemcsak-az-allasok-veshetnek-oda-a-fizeteseket-is-befagyasztana-a-nem",
-      "status": "pending",
+      "id": "db52335d-0b9b-5696-a065-acadcb5d7f6b",
+      "slug": "2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -13571,7 +13571,7 @@
         "leépítés",
         "gazdaság"
       ],
-      "title": "Nemcsak az állások veshetnek oda: a fizetéseket is befagyasztaná a német autóóriás",
+      "title": "Akár százezer munkahely is megszűnhet a német autógyártónál",
       "subtitle": null,
       "lead": "Belső dokumentumok szerint 2030-ig befagyasztaná a fizetéseket és további munkahelyeket szüntetne meg a Volkswagen, ami súlyos reálbércsökkenést jelenthet a dolgozóknak. A német autóóriás az ágazat tartós nehézségeivel és a költségcsökkentési célok elérésével indokolja a lépéseket.",
       "key_points": [
@@ -13591,15 +13591,16 @@
       "word_count": 187,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg",
-        "width": 3488,
-        "height": 2616,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg/1280px-D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
         "kind": "photo",
-        "alt": "company, factory, production, machine production line, the production of, machine, line, the industry, industrial, traffic, technology, metal, machining, milling, stainless steel, the palette, element",
-        "credit": "marcin049 / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/company-factory-production-186980/",
-        "vision_score": 7.0
+        "pos": "center",
+        "alt": "Volkswagen Beetle 1303 in the Dernekamp hamlet, Kirchspiel, Dülmen, North Rhine-Westphalia, GermanyThe Volkswagen 1303 was a further development of the classic VW Beetle and was built from 1972 to 197",
+        "credit": "Dietmar Rabich / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_VW_1303_--_2017_--_2279.jpg",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -13698,12 +13699,12 @@
       },
       "date": "2026-10-20",
       "date_label": "október 20.",
-      "url": "/penzvilag/2026-10-20-nemcsak-az-allasok-veshetnek-oda-a-fizeteseket-is-befagyasztana-a-nem/",
+      "url": "/penzvilag/2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal/",
       "seo": {
-        "meta_title": "Nemcsak az állások veshetnek oda: a fizetéseket is befagyasz",
+        "meta_title": "Akár százezer munkahely is megszűnhet a német autógyártónál",
         "meta_description": "Belső dokumentumok szerint 2030-ig befagyasztaná a fizetéseket és további munkahelyeket szüntetne meg a Volkswagen, ami súlyos reálbércsökkenést jelenthet a dol",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-nemcsak-az-allasok-veshetnek-oda-a-fizeteseket-is-befagyasztana-a-nem/",
-        "og_image": "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg/1280px-D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -13720,9 +13721,9 @@
       "dedupe_hash": "b09cf231c9c5583840880c0740a281ab1374bea51183a77f62898cf10c352a95",
       "pipeline_run_id": "39372231869",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T07:01:04+02:00",
-      "updated_at": "2026-10-20T07:01:04+02:00",
-      "published_at": "2026-10-20T07:01:04+02:00",
+      "created_at": "2026-10-20T07:40:53+02:00",
+      "updated_at": "2026-10-20T07:40:53+02:00",
+      "published_at": "2026-10-20T07:40:53+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13739,7 +13740,7 @@
         "msg_ids": [],
         "control_id": 8277,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 07:40 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Volkswagen",
@@ -13759,7 +13760,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg"
       ],
-      "scheduled_at": "2026-10-20T07:40:35+02:00"
+      "live": true
     },
     {
       "id": "8d0c0403-2efd-5fca-8871-bdf95f4d4311",
