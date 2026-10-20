@@ -12376,17 +12376,12 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 3,
         "sent_at": "2026-10-20T17:46:07+00:00",
-        "msg_ids": [
-          8471,
-          8472,
-          8473,
-          8474,
-          8475,
-          8477
-        ],
-        "control_id": 8476
+        "msg_ids": [],
+        "control_id": 8476,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -12886,14 +12881,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-20T17:56:12+00:00",
-        "msg_ids": [
-          8486,
-          8487,
-          8488,
-          8489,
-          8491
-        ],
-        "control_id": 8490
+        "msg_ids": [],
+        "control_id": 8490,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
