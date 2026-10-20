@@ -1,7 +1,114 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T18:26:19+02:00",
+  "updated_at": "2026-10-20T18:45:47+02:00",
   "articles": [
+    {
+      "id": "107c3f91-5d59-5f7f-b23b-46d9795792cd",
+      "slug": "2026-10-20-haromnegyedes-tobbseggel-mondtak-nemet-a-tartomanyi-fuggetlensegre-ka",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Kanada",
+        "Alberta",
+        "népszavazás",
+        "Mark Carney",
+        "olajipar"
+      ],
+      "title": "Háromnegyedes többséggel mondtak nemet a tartományi függetlenségre Kanadában",
+      "subtitle": null,
+      "lead": "A szavazók több mint háromnegyede a maradás mellett voksolt az Alberta tartomány jövőjéről szóló népszavazáson. A kezdeményezés elbukásával lekerült napirendről a Kanadából való kiszakadás ügye.",
+      "key_points": [
+        "A szavazók 76 százaléka a Kanadában maradást választotta.",
+        "A kiválást mindössze a voksok 24 százaléka támogatta.",
+        "Mark Carney, a kanadai központi bank volt főigazgatója aktívan kampányolt a maradás mellett a referendum előtt.",
+        "A függetlenedést korábban olyan olajipari szereplők szorgalmazták, akiket zavartak a szövetségi környezetvédelmi előírások."
+      ],
+      "content": "Nagy többséggel győztek a maradáspartiak a Kanadából való kiválás megkezdéséről szóló népszavazáson Alberta tartományban a CBC News jelentése szerint. Az eddigi adatok alapján a résztvevők 76 százaléka szavazott az egység mellett, míg a függetlenedést csupán 24 százalék támogatta.\n\nMark Carney, a kanadai központi bank volt főigazgatója nyilatkozatban reagált a referendumra, méltatva a választók döntését. A volt tisztségviselő a szavazást megelőző napokban személyesen is kampányolt a maradás mellett, gyűléseket tartva a tartomány két legnagyobb városában, Calgaryban és Edmontonban.\n\nAz eredmények szinte teljesen lekövették a felméréseket, amelyek a maradáspartiak táborát 70 százalék körülire, a kiválás híveit pedig 20 százalékra becsülték. A függetlenedés mögött korábban olyan olajipari szereplők is felsorakoztak, akik szerint a szövetségi szintű környezetvédelmi szabályozások korlátozzák a gazdasági működésüket.\n\nAmennyiben a távozáspártiak többséget szereztek volna, a mostani voks önmagában még nem jelentette volna a tartomány azonnali kiszakadását. Ekkor egy olyan eljárás indult volna el, amelynek a végén egy újabb, már a tényleges függetlenségről szóló népszavazást írtak volna ki, ám a mostani eredmények értelmében erre nem kerül sor.",
+      "content_format": "markdown",
+      "body": [
+        "Nagy többséggel győztek a maradáspartiak a Kanadából való kiválás megkezdéséről szóló népszavazáson Alberta tartományban a CBC News jelentése szerint. Az eddigi adatok alapján a résztvevők 76 százaléka szavazott az egység mellett, míg a függetlenedést csupán 24 százalék támogatta.",
+        "Mark Carney, a kanadai központi bank volt főigazgatója nyilatkozatban reagált a referendumra, méltatva a választók döntését. A volt tisztségviselő a szavazást megelőző napokban személyesen is kampányolt a maradás mellett, gyűléseket tartva a tartomány két legnagyobb városában, Calgaryban és Edmontonban.",
+        "Az eredmények szinte teljesen lekövették a felméréseket, amelyek a maradáspartiak táborát 70 százalék körülire, a kiválás híveit pedig 20 százalékra becsülték. A függetlenedés mögött korábban olyan olajipari szereplők is felsorakoztak, akik szerint a szövetségi szintű környezetvédelmi szabályozások korlátozzák a gazdasági működésüket.",
+        "Amennyiben a távozáspártiak többséget szereztek volna, a mostani voks önmagában még nem jelentette volna a tartomány azonnali kiszakadását. Ekkor egy olyan eljárás indult volna el, amelynek a végén egy újabb, már a tényleges függetlenségről szóló népszavazást írtak volna ki, ám a mostani eredmények értelmében erre nem kerül sor."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 186,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/PengrowthSaddledomeDay.jpg/1280px-PengrowthSaddledomeDay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 585,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Calgary skyline and Pengrowth Saddledome",
+        "credit": "Gorgo / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:PengrowthSaddledomeDay.jpg",
+        "exact": true,
+        "entity": "Calgary",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261020_kanada-alberta-fuggetlenseg-nepszavazas-mark-carney",
+          "title": "Leszavazta a függetlenséget Kanada negyedik legnagyobb tartománya",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:47:22+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Október 19-én az albertaiak egyértelmű döntést hoztak. Az egységet választották, a közös építkezést és gondviselést",
+        "who": "Mark Carney kanadai miniszterelnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-20T18:45:47+02:00"
+      },
+      "hot_score": 6.06,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261020_kanada-alberta-fuggetlenseg-nepszavazas-mark-carney"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/vilag/2026-10-20-haromnegyedes-tobbseggel-mondtak-nemet-a-tartomanyi-fuggetlensegre-ka/",
+      "seo": {
+        "meta_title": "Háromnegyedes többséggel mondtak nemet a tartományi függetle",
+        "meta_description": "A szavazók több mint háromnegyede a maradás mellett voksolt az Alberta tartomány jövőjéről szóló népszavazáson. A kezdeményezés elbukásával lekerült napirendről",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-haromnegyedes-tobbseggel-mondtak-nemet-a-tartomanyi-fuggetlensegre-ka/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/PengrowthSaddledomeDay.jpg/1280px-PengrowthSaddledomeDay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "03c8f9cc6d088518ed7c3f8b59ea6dcd649c8233cd143d433e87e80629fdbc7b",
+      "pipeline_run_id": "39428712442",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T18:45:47+02:00",
+      "updated_at": "2026-10-20T18:45:47+02:00",
+      "published_at": "2026-10-20T18:45:47+02:00",
+      "expires_at": null
+    },
     {
       "id": "559071d6-b70f-540a-86d0-7fa6ad42a471",
       "slug": "2026-10-20-kivarasra-jatszik-a-jegybank-nem-mozdult-az-alapkamat",
@@ -67291,101 +67398,6 @@
       "created_at": "2026-09-29T18:54:20+02:00",
       "updated_at": "2026-09-29T18:54:20+02:00",
       "published_at": "2026-09-29T18:54:20+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ac36a6e3-10e9-5ea9-8d16-556167c9496c",
-      "slug": "2026-09-29-magyarorszag-hamarosan-csatlakozhat-az-europai-ugyeszseghez",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Európai Ügyészség",
-        "pénzügyek",
-        "EU-s források",
-        "gazdaság",
-        "NAV"
-      ],
-      "title": "Magyarország hamarosan csatlakozhat az Európai Ügyészséghez",
-      "subtitle": null,
-      "lead": "Budapesti egyeztetések után jelentették be, hogy Magyarország a csatlakozás előkészítésén dolgozik az uniós pénzeket felügyelő szervezethez. Ez a lépés jelentősen átalakíthatja az európai uniós források felhasználásának ellenőrzését és a hazai nyomozóhatóságok együttműködését.",
-      "content": "Budapestre látogatott Laura Codruța Kövesi, az Európai Ügyészség (EPPO) európai főügyésze, aki az Igazságügyi Minisztériumban egyeztetett a magyar csatlakozás részleteiről. A megbeszélések során Kármán András pénzügyminiszter számolt be a fejleményekről egy közösségi oldalon megjelent bejegyzésben, amely a hivatalos előkészületek kezdetét jelzi.\n\nA közeledő csatlakozás legfontosabb gyakorlati teendői közé tartozik a szükséges jogszabály-harmonizáció végrehajtása. Ez azt jelenti, hogy a hazai jogrendszert össze kell hangolni az uniós ügyészség elvárásaival és működési kereteivel, hogy a szervezet zökkenőmentesen láthassa el feladatait a magyar határokon belül is.\n\nAz előkészületi munkálatok részeként már megkezdődtek az egyeztetések arról is, hogy a Nemzeti Adó- és Vámhivatal (NAV) milyen jövőbeli szerepet kap majd az Európai Ügyészség nyomozásaiban. Mivel a NAV eddig is kiemelt szerepet játszott a gazdasági bűncselekmények felderítésében, a hazai hatóság és az uniós szervezet közötti munkamegosztás kulcsfontosságú lesz a jövőben.\n\nA hétköznapi olvasó számára ez a folyamat elsősorban az uniós pénzek átláthatóbb és szigorúbb ellenőrzését hozhatja magával. Mivel az Európai Ügyészség kifejezetten az uniós pénzügyi érdekeket sértő bűncselekmények – például a támogatásokkal kapcsolatos visszaélések – felkutatására és üldözésére jött létre, a csatlakozás új garanciákat teremthet a közpénzek szabályos felhasználása terén.",
-      "content_format": "markdown",
-      "body": [
-        "Budapestre látogatott Laura Codruța Kövesi, az Európai Ügyészség (EPPO) európai főügyésze, aki az Igazságügyi Minisztériumban egyeztetett a magyar csatlakozás részleteiről. A megbeszélések során Kármán András pénzügyminiszter számolt be a fejleményekről egy közösségi oldalon megjelent bejegyzésben, amely a hivatalos előkészületek kezdetét jelzi.",
-        "A közeledő csatlakozás legfontosabb gyakorlati teendői közé tartozik a szükséges jogszabály-harmonizáció végrehajtása. Ez azt jelenti, hogy a hazai jogrendszert össze kell hangolni az uniós ügyészség elvárásaival és működési kereteivel, hogy a szervezet zökkenőmentesen láthassa el feladatait a magyar határokon belül is.",
-        "Az előkészületi munkálatok részeként már megkezdődtek az egyeztetések arról is, hogy a Nemzeti Adó- és Vámhivatal (NAV) milyen jövőbeli szerepet kap majd az Európai Ügyészség nyomozásaiban. Mivel a NAV eddig is kiemelt szerepet játszott a gazdasági bűncselekmények felderítésében, a hazai hatóság és az uniós szervezet közötti munkamegosztás kulcsfontosságú lesz a jövőben.",
-        "A hétköznapi olvasó számára ez a folyamat elsősorban az uniós pénzek átláthatóbb és szigorúbb ellenőrzését hozhatja magával. Mivel az Európai Ügyészség kifejezetten az uniós pénzügyi érdekeket sértő bűncselekmények – például a támogatásokkal kapcsolatos visszaélések – felkutatására és üldözésére jött létre, a csatlakozás új garanciákat teremthet a közpénzek szabályos felhasználása terén."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 214,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Geographic_centre_of_the_European_Union_Westerngrund.jpg/1280px-Geographic_centre_of_the_European_Union_Westerngrund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "alt": "The geographical centre of the European Union near Westerngrund, Bavaria",
-        "credit": "Freak-Line-Community / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Geographic_centre_of_the_European_Union_Westerngrund.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20260929/karman-andras-magyarorszag-hamarosan-csatlakozik-az-europai-ugyeszseghez-akik-az-unios-penzeket-felugyelik-866094",
-          "title": "Kármán András: Magyarország hamarosan csatlakozik az Európai Ügyészséghez, akik az uniós pénzeket felügyelik",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T18:53:59+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/kozelet/2026/09/karman-andras-gorog-marta-romanok-korrupcio-fougyesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Kármán Andrásnál és Görög Mártánál nem akárki járt: a románok rettegett korrupcióellenes főügyészét vetné be a Tisza-kormány a Fidesz ellen – Laura Codruța Kövesi valamire készül Budapesten",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T18:53:59+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20260929/karman-andras-magyarorszag-hamarosan-csatlakozik-az-europai-ugyeszseghez-akik-az-unios-penzeket-felugyelik-866094",
-          "https://www.vg.hu/kozelet/2026/09/karman-andras-gorog-marta-romanok-korrupcio-fougyesz?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/penzvilag/2026-09-29-magyarorszag-hamarosan-csatlakozhat-az-europai-ugyeszseghez/",
-      "seo": {
-        "meta_title": "Magyarország hamarosan csatlakozhat az Európai Ügyészséghez",
-        "meta_description": "Budapesti egyeztetések után jelentették be, hogy Magyarország a csatlakozás előkészítésén dolgozik az uniós pénzeket felügyelő szervezethez. Ez a lépés jelentős",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-29-magyarorszag-hamarosan-csatlakozhat-az-europai-ugyeszseghez/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Geographic_centre_of_the_European_Union_Westerngrund.jpg/1280px-Geographic_centre_of_the_European_Union_Westerngrund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "53b96fa5119816d271fa45e764d2afd54815d51f86e519236dcbb5dd86fbad16",
-      "pipeline_run_id": "36600936606",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T18:53:59+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-29T18:53:59+02:00",
       "expires_at": null
     }
   ]
