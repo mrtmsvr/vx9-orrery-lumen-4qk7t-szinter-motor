@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T12:27:01+02:00",
+  "updated_at": "2026-10-20T15:14:12+02:00",
   "articles": [
+    {
+      "id": "246b9dff-c0cf-565f-a1f2-e10b93a25f76",
+      "slug": "2026-10-20-elfogatasi-es-dns-kezelesi-jogot-kapott-a-vagyonvisszaszerzesi-hivata",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "NVVH",
+        "Magyar Közlöny",
+        "körözés",
+        "rendőrség",
+        "adatkezelés"
+      ],
+      "title": "Elfogatási és DNS-kezelési jogot kapott a vagyonvisszaszerzési hivatal",
+      "subtitle": null,
+      "lead": "A legfrissebb Magyar Közlönyben megjelent belügyminiszteri rendelet értelmében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal önállóan is jogosult körözést elrendelni és elfogatóparancsot kiadni. A bővülő jogosítványok révén a szervezet a biometrikus adatkezelésbe és a DNS-mintavételi eljárásokba is bekapcsolódott.",
+      "key_points": [
+        "Az NVVH az ügyészséghez hasonlóan jogosulttá vált körözést elrendelni és elfogatóparancsot kiadni.",
+        "A rendőrség és a határrendészeti szervek feladata lett az érintett személyek átkísérése.",
+        "A hivatal elnöke, elnökhelyettesei és statisztikai munkatársai hozzáférhetnek a bűnügyi statisztikai rendszer adataihoz.",
+        "A szervezet belépett a DNS-mintavételi és biometrikus adatkezelési eljárásokba is."
+      ],
+      "content": "Önálló körözési és elfogatóparancs-kiadási jogkörrel ruházta fel a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt a legfrissebb Magyar Közlönyben megjelent belügyminiszteri rendelet. A módosítás nyomán a hivatal ezen a területen az ügyészséggel azonos jogosultságokat kapott, ami a körözési nyilvántartási rendszer szabályainak átalakítását is magával vonta.\n\nAz új rendelkezések szerint, ha a körözést vagy az elfogatóparancsot a vagyonvisszaszerzési hivatal rendeli el, a rendőrség és a határrendészeti szervek feladata lesz az érintett személyek átkísérése. Ezzel párhuzamosan a szervezet felső vezetésének tagjai és a statisztikai feladatokat ellátó munkatársak hozzáférést kaptak a bűnügyi statisztikai rendszer adataihoz is.\n\nA jogszabály-módosítás emellett rögzíti, hogy az NVVH által folytatott büntetőeljárások részleteit kizárólag a konkrét ügyben eljáró munkatársak, azok felettesei, valamint a statisztikai feladatokat végző személyek ismerhetik meg. A hivatal a DNS-mintavételre és a biometrikus adatok kezelésére vonatkozó eljárásokba is bekerült, így ezekben a folyamatokban jogosulttá vált az adatkezelésre és az adatszolgáltatásra is – számolt be az MTI.",
+      "content_format": "markdown",
+      "body": [
+        "Önálló körözési és elfogatóparancs-kiadási jogkörrel ruházta fel a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt a legfrissebb Magyar Közlönyben megjelent belügyminiszteri rendelet. A módosítás nyomán a hivatal ezen a területen az ügyészséggel azonos jogosultságokat kapott, ami a körözési nyilvántartási rendszer szabályainak átalakítását is magával vonta.",
+        "Az új rendelkezések szerint, ha a körözést vagy az elfogatóparancsot a vagyonvisszaszerzési hivatal rendeli el, a rendőrség és a határrendészeti szervek feladata lesz az érintett személyek átkísérése. Ezzel párhuzamosan a szervezet felső vezetésének tagjai és a statisztikai feladatokat ellátó munkatársak hozzáférést kaptak a bűnügyi statisztikai rendszer adataihoz is.",
+        "A jogszabály-módosítás emellett rögzíti, hogy az NVVH által folytatott büntetőeljárások részleteit kizárólag a konkrét ügyben eljáró munkatársak, azok felettesei, valamint a statisztikai feladatokat végző személyek ismerhetik meg. A hivatal a DNS-mintavételre és a biometrikus adatok kezelésére vonatkozó eljárásokba is bekerült, így ezekben a folyamatokban jogosulttá vált az adatkezelésre és az adatszolgáltatásra is – számolt be az MTI."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 188,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Skoda_Octavia_III..jpg/1280px-Skoda_Octavia_III..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 600,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Skoda Octavia III. járőrautó",
+        "credit": "Gábor20 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Skoda_Octavia_III..jpg",
+        "exact": true,
+        "entity": "Hungarian police",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/belfold/2026/10/20/nvvh-rendorseg-nemzeti-vagyonvisszaszerzesi-hivatal/",
+          "title": "Már körözést és elfogatóparancsot is kiadhat a Nemzeti Vagyonvisszaszerzési Hivatal",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:09:56+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261020_nvvh-dns-mintak-elfogatoparancs-rendelet-es-dns-mintakhoz-is-hozzaferhet",
+          "title": "Unger Anna hivatala elfogatóparancsot is kiadhat, és DNS-mintákhoz is hozzáférhet",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:09:56+02:00"
+        },
+        {
+          "url": "https://444.hu/2026/10/20/elfogatoparancsot-adhat-es-dns-mintakhoz-is-hozzafer-mostantol-az-nvvh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Elfogatóparancsot adhat ki és DNS-mintákhoz is hozzáférhet ezentúl az NVVH",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:09:56+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/20/bovulo-hataskor-korozest-rendelhet-el-es-dns-mintakhoz-is-hozzaferhet-az-nvvh",
+          "title": "Bővülő hatáskör: körözést rendelhet el és DNS-mintákhoz is hozzáférhet az NVVH",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:09:56+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/20/csaloka-csalamadek-sok-hatosagi-eljaras-indult",
+          "title": "Csalóka csalamádék: sok hatósági eljárás indult",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:09:56+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-20T15:14:11+02:00"
+      },
+      "hot_score": 12.83,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/belfold/2026/10/20/nvvh-rendorseg-nemzeti-vagyonvisszaszerzesi-hivatal/",
+          "https://hvg.hu/itthon/20261020_nvvh-dns-mintak-elfogatoparancs-rendelet-es-dns-mintakhoz-is-hozzaferhet",
+          "https://444.hu/2026/10/20/elfogatoparancsot-adhat-es-dns-mintakhoz-is-hozzafer-mostantol-az-nvvh?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kozelet/2026-10-20-elfogatasi-es-dns-kezelesi-jogot-kapott-a-vagyonvisszaszerzesi-hivata/",
+      "seo": {
+        "meta_title": "Elfogatási és DNS-kezelési jogot kapott a vagyonvisszaszerzé",
+        "meta_description": "A legfrissebb Magyar Közlönyben megjelent belügyminiszteri rendelet értelmében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal önállóan is jogosult körö",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-elfogatasi-es-dns-kezelesi-jogot-kapott-a-vagyonvisszaszerzesi-hivata/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Skoda_Octavia_III..jpg/1280px-Skoda_Octavia_III..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "bd658bb2-f4e3-5d5b-a2ab-41195a01c9a5",
+        "6b4e396a-f118-5943-9ac3-4515b4b7b2b1"
+      ],
+      "see_also": [
+        {
+          "title": "Százmilliók jutnak idéntől Unger Anna és Tasnády Katalin védelmére",
+          "url": "/kozelet/2026-10-10-szazmilliok-jutnak-identol-unger-anna-es-tasnady-katalin-vedelmere/",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba",
+          "url": "/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv/",
+          "date": "2026-10-12"
+        }
+      ],
+      "thread_id": "bd658bb2-f4e3-5d5b-a2ab-41195a01c9a5",
+      "dedupe_hash": "a55577f0ddebcce2929a379a4a76233ec1579379d98826d0b1b71e2d4b5654f9",
+      "pipeline_run_id": "39427848630",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T15:14:11+02:00",
+      "updated_at": "2026-10-20T15:14:11+02:00",
+      "published_at": "2026-10-20T15:14:11+02:00",
+      "expires_at": null
+    },
     {
       "id": "65ec0c02-3a90-593d-b8eb-fc5de2f07cd8",
       "slug": "2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas",
@@ -67127,92 +67273,6 @@
       "created_at": "2026-09-29T16:07:15+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-29T16:07:15+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "83ac5ce0-4a11-552f-89df-d6b92373ff87",
-      "slug": "2026-09-29-politika-es-tablajatek-uj-fejezet-nyilt-a-nemzetkozi-sakk-vilagaban",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "sakk",
-        "világpolitika",
-        "nemzetközi hírek",
-        "gazdaság"
-      ],
-      "title": "Politika és táblajáték: Új fejezet nyílt a nemzetközi sakk világában",
-      "subtitle": null,
-      "lead": "A Nemzetközi Sakkszövetség élére egy olyan milliárdos került, aki korábban orosz állampolgársággal is rendelkezett. Az ügy rávilágít arra, hogy a sportág és a nagypolitika összefonódása a jövőben is meghatározhatja a sakkvilág mindennapjait.",
-      "content": "Oroszország történetében a sakk évszázadok óta nem csupán egy szellemi sportág, hanem a nemzetközi propaganda és a politikai befolyásgyakorlás egyik fontos eszköze is. Ebbe a hagyományba illeszkedik a Nemzetközi Sakkszövetség élén történt vezetőváltás, amely során egy új, komoly gazdasági hátterrel rendelkező személy vette át az irányítást.\n\nA szövetség új elnöke Timur Turlov, egy szankciókkal sújtott milliárdos, akinek a hivatalba lépése komoly visszhangot váltott ki. Bár Turlov hivatalosan már 2022-ben lemondott orosz állampolgárságáról, a háttérinformációk szerint a hatalomra jutásához Vlagyimir Putyin támogatására is szüksége lehetett, ami ismét felveti a sport és a politika függetlenségének kérdését.\n\nAz új elnök személyisége és módszerei is tartogatnak érdekességeket a nagyközönség számára. A róla szóló beszámolók szerint Turlov a környezetében életnagyságú kartonfigurákat tart olyan meghatározó globális szereplőkről, mint Donald Trump, Elon Musk és Joe Biden, ami jól mutatja vonzalmát a nemzetközi közélet iránt.\n\nA hétköznapi olvasó számára ez a változás azt jelzi, hogy a hagyományos táblajátékok világa sem vonhatja ki magát a globális gazdasági és politikai erőtér hatásai alól. A sportág jövőjét és irányvonalát a jövőben is alapvetően határozhatják meg a színfalak mögötti érdekek és a befolyásos vezetők döntései.",
-      "content_format": "markdown",
-      "body": [
-        "Oroszország történetében a sakk évszázadok óta nem csupán egy szellemi sportág, hanem a nemzetközi propaganda és a politikai befolyásgyakorlás egyik fontos eszköze is. Ebbe a hagyományba illeszkedik a Nemzetközi Sakkszövetség élén történt vezetőváltás, amely során egy új, komoly gazdasági hátterrel rendelkező személy vette át az irányítást.",
-        "A szövetség új elnöke Timur Turlov, egy szankciókkal sújtott milliárdos, akinek a hivatalba lépése komoly visszhangot váltott ki. Bár Turlov hivatalosan már 2022-ben lemondott orosz állampolgárságáról, a háttérinformációk szerint a hatalomra jutásához Vlagyimir Putyin támogatására is szüksége lehetett, ami ismét felveti a sport és a politika függetlenségének kérdését.",
-        "Az új elnök személyisége és módszerei is tartogatnak érdekességeket a nagyközönség számára. A róla szóló beszámolók szerint Turlov a környezetében életnagyságú kartonfigurákat tart olyan meghatározó globális szereplőkről, mint Donald Trump, Elon Musk és Joe Biden, ami jól mutatja vonzalmát a nemzetközi közélet iránt.",
-        "A hétköznapi olvasó számára ez a változás azt jelzi, hogy a hagyományos táblajátékok világa sem vonhatja ki magát a globális gazdasági és politikai erőtér hatásai alól. A sportág jövőjét és irányvonalát a jövőben is alapvetően határozhatják meg a színfalak mögötti érdekek és a befolyásos vezetők döntései."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 216,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 787,
-        "kind": "photo",
-        "alt": "Chess set composed of Rio Staunton pieces by House of Chess and a Wegiel Handmade Wooden Chess Board. The pieces are made of Ringy rosewood and boxwood, with triple internal weighting, beveled bases,",
-        "credit": "Wilfredor / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Chess_game_Staunton_No._6_perfil_view_8.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/elet/20260929_nemzetkozi-sakkszovetseg-fide-elnok-timur-turlov-oroszorszag-kazahsztan-vlagyimir-putyin-kreml",
-          "title": "Putyin segítségével kerülhetett a sakkvilág csúcsára az ukrán szankciókkal sújtott milliárdos",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T16:06:51+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/elet/20260929_nemzetkozi-sakkszovetseg-fide-elnok-timur-turlov-oroszorszag-kazahsztan-vlagyimir-putyin-kreml"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/eletmod/2026-09-29-politika-es-tablajatek-uj-fejezet-nyilt-a-nemzetkozi-sakk-vilagaban/",
-      "seo": {
-        "meta_title": "Politika és táblajáték: Új fejezet nyílt a nemzetközi sakk v",
-        "meta_description": "A Nemzetközi Sakkszövetség élére egy olyan milliárdos került, aki korábban orosz állampolgársággal is rendelkezett. Az ügy rávilágít arra, hogy a sportág és a n",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-09-29-politika-es-tablajatek-uj-fejezet-nyilt-a-nemzetkozi-sakk-vilagaban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Chess_game_Staunton_No._6_perfil_view_8.jpg/1280px-Chess_game_Staunton_No._6_perfil_view_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "42f14108f39eedc5afad1a5909f61b2280cc37ff809090de77baee8106817c12",
-      "pipeline_run_id": "36579995345",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T16:06:51+02:00",
-      "updated_at": "2026-09-29T16:06:51+02:00",
-      "published_at": "2026-09-29T16:06:51+02:00",
       "expires_at": null
     }
   ]
