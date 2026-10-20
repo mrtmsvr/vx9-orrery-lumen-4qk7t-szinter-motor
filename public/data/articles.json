@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T18:24:47+02:00",
+  "updated_at": "2026-10-20T18:25:10+02:00",
   "articles": [
     {
       "id": "8a1b857c-f0e1-5b62-be1e-57b8828e008c",
@@ -144,18 +144,17 @@
       "word_count": 189,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mafilm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1806,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/88a8c4363e13bffb.jpg",
+        "width": 3805,
+        "height": 2592,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Mafilm Audio HQ, Budapest, Róna street",
-        "credit": "VinceB / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Mafilm.JPG",
-        "exact": true,
-        "entity": "Nemzeti Filmintézet",
-        "vision_score": 10.0
+        "alt": "filing cabinet, invoices, accounting, archives, documents, accounting, accounting, accounting, accounting, accounting, documents",
+        "credit": "jackmac34 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/filing-cabinet-invoices-accounting-1205044/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/88a8c4363e13bffb.jpg",
+        "orig_url": "https://pixabay.com/get/geea77dd301564fad3617076e609f936786294e17eca6ee38fb5a638e3eab6b86c7e06544d3b5db265c509bc726711519ba3fa83fd079dd9d32f856cdc34c09e8_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -196,9 +195,9 @@
       "url": "/kozelet/2026-10-20-koltsegvetesi-csalas-gyanuja-miatt-vizsgalja-a-nav-a-magyar-filmtorte/",
       "seo": {
         "meta_title": "Költségvetési csalás gyanúja miatt vizsgálja a NAV a magyar ",
-        "meta_description": "Költségvetési csalás gyanúja miatt tartott házkutatást és lefoglalást a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézetnél. Az eljárás a Most vagy soha! című, ",
+        "meta_description": "Költségvetési csalás gyanúja miatt tartott házkutatást és lefoglalást a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézetnél. Az eljárás a gyanú szerint a Most v",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-koltsegvetesi-csalas-gyanuja-miatt-vizsgalja-a-nav-a-magyar-filmtorte/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mafilm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/88a8c4363e13bffb.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -230,7 +229,7 @@
       "pipeline_run_id": "39428712442",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-20T15:44:30+02:00",
-      "updated_at": "2026-10-20T15:44:30+02:00",
+      "updated_at": "2026-10-20T18:25:10+02:00",
       "published_at": "2026-10-20T15:44:30+02:00",
       "expires_at": null
     },
