@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T19:57:19+02:00",
+  "updated_at": "2026-10-20T19:59:28+02:00",
   "articles": [
+    {
+      "id": "1001c0e8-d4d9-51d9-8556-35bd479ecf3e",
+      "slug": "2026-10-20-szinte-soha-nem-dontenek-az-eletfenntartas-leallitasarol-a-magyar-kor",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "egészségügy",
+        "stroke",
+        "orvostudomány",
+        "kutatás",
+        "nemzetközi hír"
+      ],
+      "title": "Szinte soha nem döntenek az életfenntartás leállításáról a magyar kórházakban",
+      "subtitle": null,
+      "lead": "Egy friss európai kutatás szerint hatalmas szakadék tátong az egyes országok között a legsúlyosabb stroke-betegek kezelésében. Hollandiában a páciensek felénél korlátozzák az életfenntartó beavatkozásokat, míg Magyarországon egyetlen ilyen esetet sem rögzítettek.",
+      "key_points": [
+        "Kilenc európai ország hatvankét kórházának adatait elemezték újra a kutatók.",
+        "A holland betegek közel felénél huszonnégy órán belül rögzítettek kezelési korlátozást.",
+        "Magyarországon és Lengyelországban egyetlen hasonló esetet sem dokumentáltak az első héten sem."
+      ],
+      "content": "Egy nemzetközi kutatócsoport a The Lancet Regional Health – Europe szaklapban megjelent tanulmányban az idősebb akut stroke-betegek szövődményeinek megelőzését vizsgáló PRECIOUS klinikai vizsgálat adatait elemezte újra. A Debreceni Egyetem Neurológiai Klinikájának professzora, Csiba László is részt vett abban a munkában, amely azt vizsgálta, hogy a súlyos stroke után korán meghozott kezelési korlátozások – például az újraélesztés vagy a gépi lélegeztetés mellőzése – valóban hozzájárulnak-e a betegek halálához, vagy csupán azt jelzik, hogy a páciensek állapota már eleve rendkívül rossz volt.\n\nA vizsgálatba 2016 és 2022 között kilenc európai ország hatvankét kórházából vontak be betegeket, a mostani elemzés pedig 1451 olyan páciens adatait tartalmazta, akik legalább 66 évesek voltak, és akut ischaemiás stroke-on vagy agyállományi vérzésen estek át. A mintában szereplők 86,1 százalékának agyi infarktusa, 13,9 százalékának pedig agyvérzése volt, de a kutatásból kizárták a 65 év alattiakat, az enyhe stroke-betegeket, valamint azokat, akiknél a halál már a beválasztáskor közelinek tűnt.\n\nAz eredmények szerint óriási különbségek rajzolódnak ki az európai országok gyakorlatában. Hollandiában a bevont betegek 48,1 százalékánál már a randomizációt követő huszonnégy órában rögzítettek valamilyen életfenntartó kezelési korlátozást, és ez az arány az első hét végére 55,7 százalékra emelkedett. Az Egyesült Királyságban 19,4 százalékos, Németországban pedig 17,8 százalékos volt a korai korlátozások aránya.\n\nA statisztika másik végpontján Magyarország és Lengyelország állt. A vizsgálatban szereplő 52 magyar és 74 lengyel beteg közül egyetlen esetben sem dokumentáltak korai kezelési korlátozást sem az első 24 órában, sem az első héten, hasonlóan Olaszországhoz, Görögországhoz és Észtországhoz, ahol szintén rendkívül ritkán fordultak elő ilyen dokumentált döntések.\n\nAz utóelemzés rámutatott, hogy bár egyéni szinten a korlátozásban részesülő betegek gyakrabban haltak meg, azokban az országokban, ahol szinte soha nem rögzítettek ilyen döntést, nem volt jobb a páciensek 90 napos túlélése. Ez azt jelenti, hogy a formális korlátozások hiánya önmagában nem jelent jobb esélyt a túlélésre.",
+      "content_format": "markdown",
+      "body": [
+        "Egy nemzetközi kutatócsoport a The Lancet Regional Health – Europe szaklapban megjelent tanulmányban az idősebb akut stroke-betegek szövődményeinek megelőzését vizsgáló PRECIOUS klinikai vizsgálat adatait elemezte újra. A Debreceni Egyetem Neurológiai Klinikájának professzora, Csiba László is részt vett abban a munkában, amely azt vizsgálta, hogy a súlyos stroke után korán meghozott kezelési korlátozások – például az újraélesztés vagy a gépi lélegeztetés mellőzése – valóban hozzájárulnak-e a betegek halálához, vagy csupán azt jelzik, hogy a páciensek állapota már eleve rendkívül rossz volt.",
+        "A vizsgálatba 2016 és 2022 között kilenc európai ország hatvankét kórházából vontak be betegeket, a mostani elemzés pedig 1451 olyan páciens adatait tartalmazta, akik legalább 66 évesek voltak, és akut ischaemiás stroke-on vagy agyállományi vérzésen estek át. A mintában szereplők 86,1 százalékának agyi infarktusa, 13,9 százalékának pedig agyvérzése volt, de a kutatásból kizárták a 65 év alattiakat, az enyhe stroke-betegeket, valamint azokat, akiknél a halál már a beválasztáskor közelinek tűnt.",
+        "Az eredmények szerint óriási különbségek rajzolódnak ki az európai országok gyakorlatában. Hollandiában a bevont betegek 48,1 százalékánál már a randomizációt követő huszonnégy órában rögzítettek valamilyen életfenntartó kezelési korlátozást, és ez az arány az első hét végére 55,7 százalékra emelkedett. Az Egyesült Királyságban 19,4 százalékos, Németországban pedig 17,8 százalékos volt a korai korlátozások aránya.",
+        "A statisztika másik végpontján Magyarország és Lengyelország állt. A vizsgálatban szereplő 52 magyar és 74 lengyel beteg közül egyetlen esetben sem dokumentáltak korai kezelési korlátozást sem az első 24 órában, sem az első héten, hasonlóan Olaszországhoz, Görögországhoz és Észtországhoz, ahol szintén rendkívül ritkán fordultak elő ilyen dokumentált döntések.",
+        "Az utóelemzés rámutatott, hogy bár egyéni szinten a korlátozásban részesülő betegek gyakrabban haltak meg, azokban az országokban, ahol szinte soha nem rögzítettek ilyen döntést, nem volt jobb a páciensek 90 napos túlélése. Ez azt jelenti, hogy a formális korlátozások hiánya önmagában nem jelent jobb esélyt a túlélésre."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 337,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg/1280px-Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1475,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A patient is lying in a hospital bed in an intensive care unit of a hospital in Germany 2015. Above the man is a monitor for heart rate and other parameters, to the right are apparatuses (infusion pum",
+        "credit": "Pittigrilli / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/global/20261020/oriasi-kulonbsegre-derult-feny-europaban-a-sulyos-stroke-betegek-kezeleseben-870870",
+          "title": "Óriási különbségre derült fény Európában a súlyos stroke-betegek kezelésében",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:56:31+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-20T19:59:28+02:00"
+      },
+      "hot_score": 7.41,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/global/20261020/oriasi-kulonbsegre-derult-feny-europaban-a-sulyos-stroke-betegek-kezeleseben-870870"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kozelet/2026-10-20-szinte-soha-nem-dontenek-az-eletfenntartas-leallitasarol-a-magyar-kor/",
+      "seo": {
+        "meta_title": "Szinte soha nem döntenek az életfenntartás leállításáról a m",
+        "meta_description": "Egy friss európai kutatás szerint hatalmas szakadék tátong az egyes országok között a legsúlyosabb stroke-betegek kezelésében. Hollandiában a páciensek felénél ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-szinte-soha-nem-dontenek-az-eletfenntartas-leallitasarol-a-magyar-kor/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg/1280px-Patient_lying_in_hospital_bed_in_intensive_care_unit_in_Germany_in_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "51f9d922855a11425c5758b68c43631fab942333ce8349ca6480d7d28a4a0402",
+      "pipeline_run_id": "39464876633",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T19:59:28+02:00",
+      "updated_at": "2026-10-20T19:59:28+02:00",
+      "published_at": "2026-10-20T19:59:28+02:00",
+      "expires_at": null
+    },
     {
       "id": "99355acc-78a5-5f0e-a27d-f76ceb7edbf5",
       "slug": "2026-10-20-megszavazta-a-roman-parlament-a-luca-niculescu-vezette-kabinetet",
@@ -67485,112 +67586,6 @@
       "created_at": "2026-09-30T01:19:40+02:00",
       "updated_at": "2026-09-30T01:19:40+02:00",
       "published_at": "2026-09-30T01:19:40+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "72cd3766-286d-57da-86a7-0e11b12f04a6",
-      "slug": "2026-09-30-csodeljaras-indult-a-hazai-oriasceg-ellen",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Bayer Construct",
-        "csődeljárás",
-        "építőipar",
-        "gazdaság",
-        "pénzügyek"
-      ],
-      "title": "Csődeljárás indult a hazai óriáscég ellen",
-      "subtitle": null,
-      "lead": "Hivatalos csődeljárás kezdődött a Bayer Construct Zrt. építőipari vállalatnál, miután a cég maga kezdeményezte azt. Az ügy komoly hullámokat vethet a hazai gazdaságban, hiszen egy stratégiai jelentőségű nagyvállalat került nehéz helyzetbe.",
-      "key_points": [
-        "Hivatalos csődeljárás indult a Bayer Construct Zrt.-nél.",
-        "A kormány korábban stratégiailag kiemelt jelentőségűvé minősítette a társaságot.",
-        "A hitelezőknek jogvesztő határidőn belül kell bejelenteniük követeléseiket a bírósági vagyonfelügyelőnek."
-      ],
-      "content": "Hivatalossá vált, hogy fizetési nehézségek miatt csődeljárás alá került Magyarország egyik legnagyobb építőipari vállalata, a Bayer Construct Zrt. – írja a portfolio.hu és a vg.hu. A fejlemény nemcsak az építőipart rázza meg, hanem a gazdasági szereplők figyelmét is felkeltette, hiszen a cég kulcsszerepet tölt be a piacon.\n\nA vállalatot jelenleg fizetési moratórium védi a hitelezők követeléseitől, ami azt jelenti, hogy ideiglenesen mentesül a tartozások azonnali törlesztése alól. Ezzel a jogi eszközzel a cégek időt nyerhetnek arra, hogy rendezzék pénzügyeiket és megpróbáljanak megegyezni partnereikkel.\n\nA helyzet komolyságát jelzi, hogy a kormány korábban stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítette a társaságot. Az ilyen státuszú cégek esetében a csődeljárás lefolytatása speciális mederben zajlik a gazdasági súlyuk miatt.\n\nA hitelezők számára most szigorú szabályok léptek életbe:\n\n- szigorú határidőn belül kell cselekedniük,\n\n- a követeléseiket hivatalosan be kell jelenteniük,\n\n- a bíróság által kijelölt vagyonfelügyelőhöz kell benyújtaniuk az igényeket,\n\n- a határidő elmulasztása jogvesztéssel jár.\n\nAz olvasók számára ez az eset rávilágít arra, hogy a finanszírozási nehézségek a nagyobb piaci szereplőket sem kerülik el. Az építőipari láncolatokban egy ilyen méretű cég megingása a kisebb alvállalkozókra is hatással lehet, ezért a következő hetekben kulcsfontosságú lesz a vagyonfelügyelő munkája és a hitelezők megállapodása.",
-      "content_format": "markdown",
-      "body": [
-        "Hivatalossá vált, hogy fizetési nehézségek miatt csődeljárás alá került Magyarország egyik legnagyobb építőipari vállalata, a Bayer Construct Zrt. – írja a portfolio.hu és a vg.hu. A fejlemény nemcsak az építőipart rázza meg, hanem a gazdasági szereplők figyelmét is felkeltette, hiszen a cég kulcsszerepet tölt be a piacon.",
-        "A vállalatot jelenleg fizetési moratórium védi a hitelezők követeléseitől, ami azt jelenti, hogy ideiglenesen mentesül a tartozások azonnali törlesztése alól. Ezzel a jogi eszközzel a cégek időt nyerhetnek arra, hogy rendezzék pénzügyeiket és megpróbáljanak megegyezni partnereikkel.",
-        "A helyzet komolyságát jelzi, hogy a kormány korábban stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítette a társaságot. Az ilyen státuszú cégek esetében a csődeljárás lefolytatása speciális mederben zajlik a gazdasági súlyuk miatt.",
-        "A hitelezők számára most szigorú szabályok léptek életbe:",
-        "- szigorú határidőn belül kell cselekedniük,",
-        "- a követeléseiket hivatalosan be kell jelenteniük,",
-        "- a bíróság által kijelölt vagyonfelügyelőhöz kell benyújtaniuk az igényeket,",
-        "- a határidő elmulasztása jogvesztéssel jár.",
-        "Az olvasók számára ez az eset rávilágít arra, hogy a finanszírozási nehézségek a nagyobb piaci szereplőket sem kerülik el. Az építőipari láncolatokban egy ilyen méretű cég megingása a kisebb alvállalkozókra is hatással lehet, ezért a következő hetekben kulcsfontosságú lesz a vagyonfelügyelő munkája és a hitelezők megállapodása."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 225,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BET_szekhaz_Krisztinakrt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "alt": "A Budapesti Értéktőzsde Krisztina körúti székháza (Budapest, Krisztina krt. 55, 1013)",
-        "credit": "Soós Bertalan / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:BET_szekhaz_Krisztinakrt.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/uzlet/20260929/hivatalos-csodeljaras-indult-a-magyar-epitoipari-orias-ellen-866118",
-          "title": "Hivatalos: csődeljárás indult a magyar építőipari óriás ellen",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T01:18:19+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/csodeljaras-bayer-construct-bet-kozlemeny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Itt a vége, nincs tovább: hivatalosan is csődeljárás alá került Magyarország egyik legnagyobb építőipari vállalata",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T01:18:19+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 9.9,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/uzlet/20260929/hivatalos-csodeljaras-indult-a-magyar-epitoipari-orias-ellen-866118",
-          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/09/csodeljaras-bayer-construct-bet-kozlemeny?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/penzvilag/2026-09-30-csodeljaras-indult-a-hazai-oriasceg-ellen/",
-      "seo": {
-        "meta_title": "Csődeljárás indult a hazai óriáscég ellen",
-        "meta_description": "Hivatalos csődeljárás kezdődött a Bayer Construct Zrt. építőipari vállalatnál, miután a cég maga kezdeményezte azt. Az ügy komoly hullámokat vethet a hazai gazd",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-30-csodeljaras-indult-a-hazai-oriasceg-ellen/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BET_szekhaz_Krisztinakrt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "683311cdfd3112d323eeb40dd47a763e0d0fdb559690e39603a92a1b193991b8",
-      "pipeline_run_id": "36644327392",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T01:18:19+02:00",
-      "updated_at": "2026-09-30T01:18:19+02:00",
-      "published_at": "2026-09-30T01:18:19+02:00",
       "expires_at": null
     }
   ]
