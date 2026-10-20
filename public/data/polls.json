@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-19T10:20:39+02:00",
+  "updated_at": "2026-10-20T10:23:18+02:00",
   "polls": [
+    {
+      "id": "4338195c7021",
+      "date": "2026-10-20",
+      "question": "Ön támogatja a kilencszázalékos személyi jövedelemadó bevezetését?",
+      "options": [
+        "Igen, támogatom",
+        "Nem, ellenkezem vele",
+        "Nem tudom / nincs véleményem"
+      ],
+      "article_url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
+      "article_title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
+      "category": "kozelet",
+      "created_at": "2026-10-20T10:23:18+02:00",
+      "closes_at": "2026-10-27T10:23:18+01:00"
+    },
     {
       "id": "07fb437c159d",
       "date": "2026-10-19",
