@@ -3471,11 +3471,14 @@
       "caption": "Százmilliós nagytakarítás: Kovács Zoltán feleségének cége nyert a Mavirnál\n\nÚj vezető testület vizsgálja a Mavir öt régiós takarítási közbeszerzését, amelyet nettó 712,9 millió forintért nyert el a Profi-Komfort Kft. A három évre szóló megbízást a korábbi nemzetközi kommunikációért felelős államtitkár, Kovács Zoltán feleségének közvetett tulajdonában lévő cég kapta.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#kovácszoltán #mavir #közbeszerzés #hírek #kollektíva",
       "created": "2026-10-20T15:08:57+02:00",
       "due": "2026-10-20T15:53:57+02:00",
-      "status": "queued",
+      "status": "failed",
       "tg": [
         8400,
         8401
-      ]
+      ],
+      "container": "18131522320718522",
+      "tries": 1,
+      "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
     }
   ],
   "token": {
