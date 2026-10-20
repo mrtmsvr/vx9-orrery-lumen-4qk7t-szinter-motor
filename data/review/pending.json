@@ -11412,15 +11412,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-20T13:44:29+00:00",
-        "msg_ids": [
-          8415,
-          8416,
-          8417,
-          8418,
-          8419,
-          8421
-        ],
-        "control_id": 8420
+        "msg_ids": [],
+        "control_id": 8420,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -11551,10 +11546,10 @@
           "vision_score": 6.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-88853cbc8b.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-88853cbc8b.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-2f6d95d865.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-2f6d95d865.jpg",
           "kind": "photo",
-          "alt": "Makacsul tartja magát az MNB kamata",
+          "alt": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
           "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
@@ -11649,8 +11644,8 @@
         "issues": []
       },
       "review": {
-        "title": 0,
-        "image": 0,
+        "title": 1,
+        "image": 1,
         "sent_at": "2026-10-20T13:46:10+00:00",
         "msg_ids": [
           8422,
