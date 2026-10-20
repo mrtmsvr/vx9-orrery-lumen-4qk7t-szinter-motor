@@ -12465,15 +12465,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-20T17:59:27+00:00",
-        "msg_ids": [
-          8492,
-          8493,
-          8494,
-          8495,
-          8496,
-          8498
-        ],
-        "control_id": 8497
+        "msg_ids": [],
+        "control_id": 8497,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
