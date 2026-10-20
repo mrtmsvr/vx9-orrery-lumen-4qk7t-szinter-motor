@@ -13148,16 +13148,12 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
+        "image": 2,
         "sent_at": "2026-10-20T04:59:05+00:00",
-        "msg_ids": [
-          8244,
-          8245,
-          8246,
-          8247,
-          8249
-        ],
-        "control_id": 8248
+        "msg_ids": [],
+        "control_id": 8248,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
