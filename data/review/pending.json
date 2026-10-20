@@ -13736,18 +13736,10 @@
         "title": 4,
         "image": 2,
         "sent_at": "2026-10-20T05:02:20+00:00",
-        "msg_ids": [
-          8260,
-          8261,
-          8262,
-          8263,
-          8264,
-          8273,
-          8274,
-          8275,
-          8276
-        ],
-        "control_id": 8277
+        "msg_ids": [],
+        "control_id": 8277,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 07:40 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Volkswagen",
@@ -13766,7 +13758,8 @@
         "https://xn--kollektva-m5a.hu/public/img/gen/cover-a1ea675594.jpg",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg"
-      ]
+      ],
+      "scheduled_at": "2026-10-20T07:40:35+02:00"
     }
   ]
 }
