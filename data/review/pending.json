@@ -14119,13 +14119,10 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-20T06:26:32+00:00",
-        "msg_ids": [
-          8289,
-          8290,
-          8291,
-          8293
-        ],
-        "control_id": 8292
+        "msg_ids": [],
+        "control_id": 8292,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
