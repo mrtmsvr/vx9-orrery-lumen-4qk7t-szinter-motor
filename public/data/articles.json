@@ -1,7 +1,166 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T19:06:02+02:00",
+  "updated_at": "2026-10-20T19:46:08+02:00",
   "articles": [
+    {
+      "id": "b52dd344-bc63-57b7-9360-2734854fbe17",
+      "slug": "2026-10-20-budapesten-targyalt-az-izraeli-allamfo-es-magyar-peter",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Jichák Hercog",
+        "külpolitika",
+        "Izrael",
+        "diplomácia"
+      ],
+      "title": "Budapesten tárgyalt az izraeli államfő és Magyar Péter",
+      "subtitle": null,
+      "lead": "Magyar Péter miniszterelnök kedden Budapesten fogadta Jichák Hercog izraeli államelnököt. A megbeszélésen a két ország gazdasági, védelmi és kulturális kapcsolatainak elmélyítése állt a középpontban.",
+      "key_points": [
+        "Magyar Péter és Jichák Hercog Budapesten tárgyalt a kétoldalú együttműködésről.",
+        "A miniszterelnök elfogadta az izraeli elnök meghívását egy későbbi izraeli látogatásra.",
+        "A felek hangsúlyozták a történelmi és védelmi szálak további erősítésének fontosságát.",
+        "Jichák Hercog a nap folyamán Baka András köztársasági elnökkel is találkozott."
+      ],
+      "content": "A megbeszélés során a két vezető egyetértett abban, hogy Magyarország és Izrael érdeke a szoros kapcsolatok további mélyítése. Magyar Péter a közösségi oldalán kiemelte, hogy örömmel tett eleget a meghívásnak, így a jövőben hivatalos izraeli látogatáson erősítheti tovább az államközi viszonyt.\n\nIzrael államfője budapesti programja során nemcsak a miniszterelnökkel, hanem Sulyok Tamás köztársasági elnökkel is egyeztetett. A köztársasági elnök a találkozót követően rögzítette, hogy a két ország diplomáciai viszonya stabil, a partnerség pedig kiemelten fontos gazdasági területekre is kiterjed.\n\nA kétoldalú kapcsolatok kapcsán érdemes felidézni, hogy a korábbi időszakban a miniszterelnök Benjámin Netanjahu izraeli kormányfővel is tárgyalt, ám azok a tervek a nemzetközi büntetőjogi eljárások miatt nem valósultak meg. Ezzel párhuzamosan a magyar diplomácia más frontokon is aktív: ahogy korábban megírtuk, Magyar Péter a múlt héten Brüsszelben Volodimir Zelenszkij ukrán elnökkel egyeztetett a kétoldalú kapcsolatok új alapokra helyezéséről.\n\nA külpolitikai események mellett a kormányzat már javában készül a nemzeti ünnepre is. A miniszterelnök a napokban ismertette az október 23-i programsorozatot, amely az 1956-os forradalom 70. évfordulója alkalmából országszerte és a határokon túl is számos megemlékezést kínál az érdeklődőknek.",
+      "content_format": "markdown",
+      "body": [
+        "A megbeszélés során a két vezető egyetértett abban, hogy Magyarország és Izrael érdeke a szoros kapcsolatok további mélyítése. Magyar Péter a közösségi oldalán kiemelte, hogy örömmel tett eleget a meghívásnak, így a jövőben hivatalos izraeli látogatáson erősítheti tovább az államközi viszonyt.",
+        "Izrael államfője budapesti programja során nemcsak a miniszterelnökkel, hanem Sulyok Tamás köztársasági elnökkel is egyeztetett. A köztársasági elnök a találkozót követően rögzítette, hogy a két ország diplomáciai viszonya stabil, a partnerség pedig kiemelten fontos gazdasági területekre is kiterjed.",
+        "A kétoldalú kapcsolatok kapcsán érdemes felidézni, hogy a korábbi időszakban a miniszterelnök Benjámin Netanjahu izraeli kormányfővel is tárgyalt, ám azok a tervek a nemzetközi büntetőjogi eljárások miatt nem valósultak meg. Ezzel párhuzamosan a magyar diplomácia más frontokon is aktív: ahogy korábban megírtuk, Magyar Péter a múlt héten Brüsszelben Volodimir Zelenszkij ukrán elnökkel egyeztetett a kétoldalú kapcsolatok új alapokra helyezéséről.",
+        "A külpolitikai események mellett a kormányzat már javában készül a nemzeti ünnepre is. A miniszterelnök a napokban ismertette az október 23-i programsorozatot, amely az 1956-os forradalom 70. évfordulója alkalmából országszerte és a határokon túl is számos megemlékezést kínál az érdeklődőknek."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 204,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Israeli_President_Isaac_Herzog_in_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1613,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Secretary of State Antony J. Blinken meets with Israeli President Isaac Herzog in Tel Aviv, Israel, June 11, 2024. (Official State Department photo by Chuck Kennedy)",
+        "credit": "U.S. Department of State / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Israeli_President_Isaac_Herzog_in_2024_(cropped).jpg",
+        "exact": true,
+        "entity": "Isaac Herzog",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/10/20/magyar-peter-izrael-elnok-jichak-hercog-budapest/",
+          "title": "Magyar Péter Budapesten fogadta az izraeli elnököt",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:38:37+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261020_magyar-peter-jichak-hercog-izrael-budapest-talalkozo",
+          "title": "Magyar Péter találkozott az izraeli elnökkel, és meghívást kapott Izraelbe",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:38:37+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/20/magyar-peter-jichak-hercog-izrael-elnok-latogatas-miniszterelnok/",
+          "title": "Magyar Péter Budapesten fogadta Izrael elnökét, izraeli látogatásra is meghívták",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:38:37+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/20/magyar-peter-kozos-unneplesre-hiv-a-70-evfordulon",
+          "title": "Magyar Péter ismertette az október 23-i programokat",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:38:37+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/20/magyar-peternel-jart-izrael-allamfoje",
+          "title": "Magyar Péternél járt Izrael államfője",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T19:38:37+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Örömmel fogadtam elnök úr meghívását egy izraeli látogatásra.",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-20T19:46:08+02:00"
+      },
+      "hot_score": 16.25,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/10/20/magyar-peter-izrael-elnok-jichak-hercog-budapest/",
+          "https://hvg.hu/itthon/20261020_magyar-peter-jichak-hercog-izrael-budapest-talalkozo",
+          "https://index.hu/belfold/2026/10/20/magyar-peter-jichak-hercog-izrael-elnok-latogatas-miniszterelnok/",
+          "https://infostart.hu/belfold/2026/10/20/magyar-peter-kozos-unneplesre-hiv-a-70-evfordulon",
+          "https://infostart.hu/belfold/2026/10/20/magyar-peternel-jart-izrael-allamfoje"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kozelet/2026-10-20-budapesten-targyalt-az-izraeli-allamfo-es-magyar-peter/",
+      "seo": {
+        "meta_title": "Budapesten tárgyalt az izraeli államfő és Magyar Péter",
+        "meta_description": "Magyar Péter miniszterelnök kedden Budapesten fogadta Jichák Hercog izraeli államelnököt. A megbeszélésen a két ország gazdasági, védelmi és kulturális kapcsola",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-budapesten-targyalt-az-izraeli-allamfo-es-magyar-peter/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Israeli_President_Isaac_Herzog_in_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "24b52189-9702-583a-8aba-c9d8405a21c2",
+        "38a28d12-0a7e-540a-91ed-c77213a5e539",
+        "cd237d04-ed2b-5e00-864c-8dbe574f472c"
+      ],
+      "see_also": [
+        {
+          "title": "Zárt ajtók mögött találkozott Magyar Péter az ukrán elnökkel",
+          "url": "/kozelet/2026-10-16-zart-ajtok-mogott-talalkozott-magyar-peter-az-ukran-elnokkel/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Megszólalt a norvég riporter, azonnal lecsapott rá a magyar kormányfő",
+          "url": "/kozelet/2026-10-05-megszolalt-a-norveg-riporter-azonnal-lecsapott-ra-a-magyar-kormanyfo/",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Brüsszelben találkozik Magyar Péter és Volodimir Zelenszkij",
+          "url": "/kozelet/2026-10-12-brusszelben-talalkozik-magyar-peter-es-volodimir-zelenszkij/",
+          "date": "2026-10-12"
+        }
+      ],
+      "thread_id": "75a852fd-37dc-5ee6-a08a-65a34c7b4f9c",
+      "dedupe_hash": "dc9d729ecb660ddecd164d9762ca8dcb453a47bd5ab5a890b0ffe28db58f42dc",
+      "pipeline_run_id": "39464876633",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T19:46:08+02:00",
+      "updated_at": "2026-10-20T19:46:08+02:00",
+      "published_at": "2026-10-20T19:46:08+02:00",
+      "expires_at": null
+    },
     {
       "id": "364984da-75d7-57e4-a091-05df52dd100b",
       "slug": "2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j",
@@ -67320,109 +67479,6 @@
       "created_at": "2026-09-29T18:55:20+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-29T18:55:20+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "bc508689-2caf-5fe9-b190-f2d774f0145d",
-      "slug": "2026-09-29-ujabb-merfoldkovek-az-urkutatasban-indulasra-kesz-a-crew-13-es-fejlod",
-      "status": "published",
-      "category": "univerzum",
-      "subcategory": null,
-      "tags": [
-        "űrkutatás",
-        "NASA",
-        "SpaceX",
-        "Starliner",
-        "Mars és Hold"
-      ],
-      "title": "Újabb mérföldkövek az űrkutatásban: indulásra kész a Crew-13 és fejlődik a Starliner",
-      "subtitle": null,
-      "lead": "Az amerikai űrkutatás mozgalmas időszakot él át: útjára indulhat a SpaceX Crew-13 küldetése, miközben a NASA és a Boeing is beszámolt a Starliner program fejleményeiről. A technológiai újítások célja, hogy fenntarthatóbbá és hatékonyabbá tegyék a jövőbeli űrutazásokat.",
-      "content": "Az űrkutatás jelenlegi korszaka izgalmas lehetőségeket tartogat, amit a friss bejelentések is jól mutatnak. A NASA és a Boeing nemrégiben részleteket osztott meg a Starliner űrhajó fejlesztési terveiről, amelynek keretében újabb személyzetes küldetéseket adnak hozzá a programhoz, és egy új rakétát is hitelesítenek a Föld körüli pályára irányuló emberes szállításokhoz. Az ilyen jellegű együttműködések és technológiai bővítések alapvetően határozzák meg a közeljövő űrutazási lehetőségeit.\n\nEzzel párhuzamosan a floridai Cape Canaveral Space Force Station területén, a 40-es indítóálláson már függőleges helyzetben várakozik a SpaceX Falcon 9 rakétája és a Dragon űrhajó. Ez a szerkezet a NASA közelgő Crew-13 küldetésének előkészületeit szolgálja. A fedélzeten nemzetközi összefogás rajzolódik ki: a NASA asztronautái, Jessica Watkins és Luke Delaney mellett a Kanadai Űrügynökség (CSA) képviselője, Joshua Kutryk, valamint a Roszkozmosz egyik űrhajósa is helyet kap.\n\nA távolabbi célok eléréséhez azonban nemcsak a szállításban, hanem az anyaghasználatban is áttörésekre van szükség. A NASA Glenn Kutatóközpontjában, Clevelandben egy olyan új anyagot fejlesztettek ki, amely mikroszkóp alatt vizsgálva színes, kaleidoszkópszerű kristályszerkezetet mutat. Ez a speciális anyag a jövőbeli űrküldetések során közvetlenül a Holdon vagy a Marson is előállítható lesz.\n\nMiért fontos mindez a hétköznapi ember számára? A Holdon vagy a Vörös Bolygón történő helyszíni gyártás lehetősége azt jelenti, hogy az űrutazóknak kevesebb felszerelést kell magukkal vinniük a Földről. Ez jelentős tömegmegtakarítást eredményez, ami hatékonyabbá és gazdaságosabbá teszi a mélyűr feltérképezését, és közelebb hozza az emberiséget az űrben való tartós jelenléthez.",
-      "content_format": "markdown",
-      "body": [
-        "Az űrkutatás jelenlegi korszaka izgalmas lehetőségeket tartogat, amit a friss bejelentések is jól mutatnak. A NASA és a Boeing nemrégiben részleteket osztott meg a Starliner űrhajó fejlesztési terveiről, amelynek keretében újabb személyzetes küldetéseket adnak hozzá a programhoz, és egy új rakétát is hitelesítenek a Föld körüli pályára irányuló emberes szállításokhoz. Az ilyen jellegű együttműködések és technológiai bővítések alapvetően határozzák meg a közeljövő űrutazási lehetőségeit.",
-        "Ezzel párhuzamosan a floridai Cape Canaveral Space Force Station területén, a 40-es indítóálláson már függőleges helyzetben várakozik a SpaceX Falcon 9 rakétája és a Dragon űrhajó. Ez a szerkezet a NASA közelgő Crew-13 küldetésének előkészületeit szolgálja. A fedélzeten nemzetközi összefogás rajzolódik ki: a NASA asztronautái, Jessica Watkins és Luke Delaney mellett a Kanadai Űrügynökség (CSA) képviselője, Joshua Kutryk, valamint a Roszkozmosz egyik űrhajósa is helyet kap.",
-        "A távolabbi célok eléréséhez azonban nemcsak a szállításban, hanem az anyaghasználatban is áttörésekre van szükség. A NASA Glenn Kutatóközpontjában, Clevelandben egy olyan új anyagot fejlesztettek ki, amely mikroszkóp alatt vizsgálva színes, kaleidoszkópszerű kristályszerkezetet mutat. Ez a speciális anyag a jövőbeli űrküldetések során közvetlenül a Holdon vagy a Marson is előállítható lesz.",
-        "Miért fontos mindez a hétköznapi ember számára? A Holdon vagy a Vörös Bolygón történő helyszíni gyártás lehetősége azt jelenti, hogy az űrutazóknak kevesebb felszerelést kell magukkal vinniük a Földről. Ez jelentős tömegmegtakarítást eredményez, ami hatékonyabbá és gazdaságosabbá teszi a mélyűr feltérképezését, és közelebb hozza az emberiséget az űrben való tartós jelenléthez."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 273,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_%284%29.jpg/1280px-Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 799,
-        "kind": "photo",
-        "alt": "The Service arms are raised into position around the Soyuz rocket, with the TMA-09M spacecraft, after arriving at the Baikonur Cosmodrome launch pad by train, Sunday, May 26, 2013, in Kazakhstan. The",
-        "credit": "Bill Ingalls / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_(4).jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
-          "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-29T18:54:40+02:00"
-        },
-        {
-          "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
-          "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-29T18:54:40+02:00"
-        },
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-          "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-29T18:54:40+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
-          "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
-          "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/univerzum/2026-09-29-ujabb-merfoldkovek-az-urkutatasban-indulasra-kesz-a-crew-13-es-fejlod/",
-      "seo": {
-        "meta_title": "Újabb mérföldkövek az űrkutatásban: indulásra kész a Crew-13",
-        "meta_description": "Az amerikai űrkutatás mozgalmas időszakot él át: útjára indulhat a SpaceX Crew-13 küldetése, miközben a NASA és a Boeing is beszámolt a Starliner program fejlem",
-        "canonical_url": "https://xn--kollektva-m5a.hu/univerzum/2026-09-29-ujabb-merfoldkovek-az-urkutatasban-indulasra-kesz-a-crew-13-es-fejlod/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_%284%29.jpg/1280px-Soyuz_TMA-09M_spacecraft_at_the_Baikonur_Cosmodrome_launch_pad_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "ef84a793742de57a4505bcff53de7c26d52406fd5fb259f3c55516a56d6b9c87",
-      "pipeline_run_id": "36600936606",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T18:54:40+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-29T18:54:40+02:00",
       "expires_at": null
     }
   ]
