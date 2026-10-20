@@ -13912,13 +13912,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-20T10:22:48+00:00",
-        "msg_ids": [
-          8377,
-          8378,
-          8379,
-          8380
-        ],
-        "control_id": 8381
+        "msg_ids": [],
+        "control_id": 8381,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
