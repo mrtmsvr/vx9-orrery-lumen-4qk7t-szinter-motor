@@ -1,7 +1,120 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T18:45:47+02:00",
+  "updated_at": "2026-10-20T19:06:02+02:00",
   "articles": [
+    {
+      "id": "364984da-75d7-57e4-a091-05df52dd100b",
+      "slug": "2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Karafiáth Orsolya",
+        "Nyáry Krisztián",
+        "irodalom",
+        "verseskötet",
+        "Telex"
+      ],
+      "title": "Félreértett szerepek és fájdalom: tizenegy év után új verseskötettel jelentkezett Karafiáth Orsolya",
+      "subtitle": null,
+      "lead": "Karafiáth Orsolya költő és író a Telex.hu műsorában beszélt pályafutásáról, valamint tizenegy év után megjelent Sehogyse című kötetéről. A jubileumi beszélgetésben a korai traumák, az idő múlása és az önismeret kérdései is terítékre kerültek.",
+      "key_points": [
+        "Karafiáth Orsolya tizenegy év után jelentkezett önálló verseskötettel Sehogyse címmel.",
+        "A költő az ötvenedik születésnapja alkalmából tekintett vissza pályájára Nyáry Krisztián műsorvezető társaságában.",
+        "A kötet a korábbiaknál is őszintébben sűríti a személyes traumákat és az érzelmi hullámzásokat.",
+        "A beszélgetés során szó esett a Margó Irodalmi Fesztiválon bemutatott kortárs antológiákról is."
+      ],
+      "content": "Az ötvenedik születésnap mérföldköve adta az alapot ahhoz a mélyinterjúhoz, amelyet a Telex.hu videójában láthatott a közönség. Nyáry Krisztián műsorvezető vendégeként Karafiáth Orsolya költő, író tekintett vissza arra a kezdeti időszakra, amikor fiatal alkotóként még maga sem látta előre a jövőjét. A családi tragédiák, a szülői háttér és a zenei tapasztalatok mind hozzájárultak ahhoz a pályához, amely során egyszerre építette publicista, dalszövegíró és költő énjét.\n\nA friss, Sehogyse című verseskötet tizenegy év várakozás után látott napvilágot, és a szerző vallomása szerint eddigi legbelsőbb rétegeit tárja fel. A versek az érzelmi hullámzásokon túl az idő múlásával való szembenézést és a fájdalomból való kiutat keresik, miközben a szerző igyekszik maga mögött hagyni a korábbi, gyakran félreértett szerepeit. A kötet címéről elhangzott, hogy egyfajta keserédes, mégis életigenlő viszonyulást hordoz magában, amely rávilágít az emberi lét ellentmondásaira.\n\nA kötetbemutatók és a személyes vallomások sora a Margó Irodalmi Fesztiválon bemutatott kortárs irodalmi antológiákkal is kiegészült, amelyekben a szerző művei szintén helyet kaptak. Ez a közösségi alkotói forma jól mutatja, hogy a költészet nemcsak magányos műfaj, hanem a világhoz való viszony újraértelmezésének terepe is.",
+      "content_format": "markdown",
+      "body": [
+        "Az ötvenedik születésnap mérföldköve adta az alapot ahhoz a mélyinterjúhoz, amelyet a Telex.hu videójában láthatott a közönség. Nyáry Krisztián műsorvezető vendégeként Karafiáth Orsolya költő, író tekintett vissza arra a kezdeti időszakra, amikor fiatal alkotóként még maga sem látta előre a jövőjét. A családi tragédiák, a szülői háttér és a zenei tapasztalatok mind hozzájárultak ahhoz a pályához, amely során egyszerre építette publicista, dalszövegíró és költő énjét.",
+        "A friss, Sehogyse című verseskötet tizenegy év várakozás után látott napvilágot, és a szerző vallomása szerint eddigi legbelsőbb rétegeit tárja fel. A versek az érzelmi hullámzásokon túl az idő múlásával való szembenézést és a fájdalomból való kiutat keresik, miközben a szerző igyekszik maga mögött hagyni a korábbi, gyakran félreértett szerepeit. A kötet címéről elhangzott, hogy egyfajta keserédes, mégis életigenlő viszonyulást hordoz magában, amely rávilágít az emberi lét ellentmondásaira.",
+        "A kötetbemutatók és a személyes vallomások sora a Margó Irodalmi Fesztiválon bemutatott kortárs irodalmi antológiákkal is kiegészült, amelyekben a szerző művei szintén helyet kaptak. Ez a közösségi alkotói forma jól mutatja, hogy a költészet nemcsak magányos műfaj, hanem a világhoz való viszony újraértelmezésének terepe is."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 214,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg/1280px-Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1799,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Karafiáth Orsolya (Budapest, 1976. szeptember 19. –) magyar író, költő, fordító, publicista, szerkesztő, énekesnő.",
+        "credit": "Miklós Déri / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Karafi%C3%A1th_Orsolya_(D%C3%A9ri_Mikl%C3%B3s).jpg",
+        "exact": true,
+        "entity": "Karafiáth Orsolya",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=An7xCEq_NFw",
+          "title": "Karafiáth Orsolya: Valahogy túl kell éljem a saját romlásomat is",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-20T17:03:07+02:00"
+        }
+      ],
+      "quote": {
+        "text": "a Sehogyse, ami egy verssorból jön, tulajdonképpen azt a fajta életérzést tükrözi, hogy az életünk tele van ellentmondással, de a szeretet és a küzdelem a legfontosabb.",
+        "who": "Karafiáth Orsolya költő, író",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-20T19:06:02+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=An7xCEq_NFw"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kultura/2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j/",
+      "seo": {
+        "meta_title": "Félreértett szerepek és fájdalom: tizenegy év után új verses",
+        "meta_description": "Karafiáth Orsolya költő és író a Telex.hu műsorában beszélt pályafutásáról, valamint tizenegy év után megjelent Sehogyse című kötetéről. A jubileumi beszélgetés",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg/1280px-Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "cced3633b085ff3b32163681f485eaf7d626f3f81efcab94728feefbcf13494d",
+      "pipeline_run_id": "39443996315",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T19:06:02+02:00",
+      "updated_at": "2026-10-20T19:06:02+02:00",
+      "published_at": "2026-10-20T19:06:02+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "An7xCEq_NFw",
+        "title": "Karafiáth Orsolya: Valahogy túl kell éljem a saját romlásomat is",
+        "channel": "Telex․hu",
+        "minutes": 58
+      }
+    },
     {
       "id": "107c3f91-5d59-5f7f-b23b-46d9795792cd",
       "slug": "2026-10-20-haromnegyedes-tobbseggel-mondtak-nemet-a-tartomanyi-fuggetlensegre-ka",
@@ -67310,94 +67423,6 @@
       "created_at": "2026-09-29T18:54:40+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-29T18:54:40+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1b042b28-9088-5dcc-8b84-e6932b8e4bf1",
-      "slug": "2026-09-29-igy-koti-ossze-a-kave-a-belrendszert-es-az-agymukodest",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "kávé",
-        "egészség",
-        "bélrendszer",
-        "agy",
-        "kutatás"
-      ],
-      "title": "Így köti össze a kávé a bélrendszert és az agyműködést",
-      "subtitle": null,
-      "lead": "Egy friss tudományos kutatás rávilágított, hogy a kávé a bélbaktériumainkon keresztül befolyásolhatja a hangulatunkat és az agyi funkcióinkat. Az eredmények rámutatnak, hogy mind a koffeines, mind a koffeinmentes változat hatással van a mentális jóllétünkre.",
-      "content": "A mindennapi kávézás rituáléja sokunk számára elengedhetetlen a nap indításához, de eddig kevésbé volt ismert, hogy pontosan milyen rejtett folyamatok zajlanak le a szervezetünkben a fekete ital hatására. Egy új kutatás most részletesen feltérképezte, hogyan kapcsolódik össze a kávéfogyasztás és a bélrendszerünk mikrobiomja, valamint ez utóbbi hogyan üzen az agyunknak.\n\nA vizsgálat során a kutatók mind a koffeines, mind a koffeinmentes kávé hatásait elemezték. Az eredmények azt mutatták, hogy mindkét változat összefüggésbe hozható a stressz, a depresszió és az impulzivitás csökkenésével. Ezzel párhuzamosan a szakemberek mérhető változásokat figyeltek meg a bélbaktériumok összetételében és a kapcsolódó metabolitokban is.\n\nA kutatás különbséget tett a koffeines és a mentes ital specifikus hatásai között is. A koffeinmentes kávé a tanulás és a memória javulásával mutatott összefüggést, míg a koffeines változat a szorongás csökkentésében és a figyelmi szint javításában játszott szerepet.\n\nMit jelent ez a mindennapokban a kávéimádók számára? A felfedezés újabb bizonyíték arra, hogy az elfogyasztott ételeink és italaink közvetlen kapcsolatban állnak a mentális állapotunkkal. Bár a pontos biológiai mechanizmusok feltárása még tart, az biztos, hogy a reggeli csésze kávénk nemcsak a figyelmünket éberen tartja, hanem a bélflóránkon keresztül a hangulatunkra és a kognitív képességeinkre is hatással lehet.",
-      "content_format": "markdown",
-      "body": [
-        "A mindennapi kávézás rituáléja sokunk számára elengedhetetlen a nap indításához, de eddig kevésbé volt ismert, hogy pontosan milyen rejtett folyamatok zajlanak le a szervezetünkben a fekete ital hatására. Egy új kutatás most részletesen feltérképezte, hogyan kapcsolódik össze a kávéfogyasztás és a bélrendszerünk mikrobiomja, valamint ez utóbbi hogyan üzen az agyunknak.",
-        "A vizsgálat során a kutatók mind a koffeines, mind a koffeinmentes kávé hatásait elemezték. Az eredmények azt mutatták, hogy mindkét változat összefüggésbe hozható a stressz, a depresszió és az impulzivitás csökkenésével. Ezzel párhuzamosan a szakemberek mérhető változásokat figyeltek meg a bélbaktériumok összetételében és a kapcsolódó metabolitokban is.",
-        "A kutatás különbséget tett a koffeines és a mentes ital specifikus hatásai között is. A koffeinmentes kávé a tanulás és a memória javulásával mutatott összefüggést, míg a koffeines változat a szorongás csökkentésében és a figyelmi szint javításában játszott szerepet.",
-        "Mit jelent ez a mindennapokban a kávéimádók számára? A felfedezés újabb bizonyíték arra, hogy az elfogyasztott ételeink és italaink közvetlen kapcsolatban állnak a mentális állapotunkkal. Bár a pontos biológiai mechanizmusok feltárása még tart, az biztos, hogy a reggeli csésze kávénk nemcsak a figyelmünket éberen tartja, hanem a bélflóránkon keresztül a hangulatunkra és a kognitív képességeinkre is hatással lehet."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 228,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/1280px-A_small_cup_of_coffee.JPG",
-        "width": 1280,
-        "height": 960,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Egy csésze kávé",
-        "credit": "Julius Schorzman / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG"
-      },
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-          "title": "Scientists just discovered what coffee really does to your gut and brain",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-09-29T18:54:20+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/09/260927034331.htm"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/eletmod/2026-09-29-igy-koti-ossze-a-kave-a-belrendszert-es-az-agymukodest/",
-      "seo": {
-        "meta_title": "Így köti össze a kávé a bélrendszert és az agyműködést",
-        "meta_description": "Egy friss tudományos kutatás rávilágított, hogy a kávé a bélbaktériumainkon keresztül befolyásolhatja a hangulatunkat és az agyi funkcióinkat. Az eredmények ráv",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-09-29-igy-koti-ossze-a-kave-a-belrendszert-es-az-agymukodest/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/1280px-A_small_cup_of_coffee.JPG",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "118ad26438f3318b6ee8b80bbbd9fdd837f007abe10066b6b90851539764d2da",
-      "pipeline_run_id": "36600936606",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T18:54:20+02:00",
-      "updated_at": "2026-09-29T18:54:20+02:00",
-      "published_at": "2026-09-29T18:54:20+02:00",
       "expires_at": null
     }
   ]

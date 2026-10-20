@@ -12085,9 +12085,9 @@
       "live": true
     },
     {
-      "id": "a8724594-a1fd-53f1-ad78-0ddec6b3b3f2",
-      "slug": "2026-10-20-otvenevesen-a-romlasrol-es-a-tulelesrol-mesel-karafiath-orsolya",
-      "status": "pending",
+      "id": "364984da-75d7-57e4-a091-05df52dd100b",
+      "slug": "2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -12097,7 +12097,7 @@
         "verseskötet",
         "Telex"
       ],
-      "title": "Ötvenévesen a romlásról és a túlélésről mesél Karafiáth Orsolya",
+      "title": "Félreértett szerepek és fájdalom: tizenegy év után új verseskötettel jelentkezett Karafiáth Orsolya",
       "subtitle": null,
       "lead": "Karafiáth Orsolya költő és író a Telex.hu műsorában beszélt pályafutásáról, valamint tizenegy év után megjelent Sehogyse című kötetéről. A jubileumi beszélgetésben a korai traumák, az idő múlása és az önismeret kérdései is terítékre kerültek.",
       "key_points": [
@@ -12280,11 +12280,11 @@
       },
       "date": "2026-10-20",
       "date_label": "október 20.",
-      "url": "/kultura/2026-10-20-otvenevesen-a-romlasrol-es-a-tulelesrol-mesel-karafiath-orsolya/",
+      "url": "/kultura/2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j/",
       "seo": {
-        "meta_title": "Ötvenévesen a romlásról és a túlélésről mesél Karafiáth Orso",
+        "meta_title": "Félreértett szerepek és fájdalom: tizenegy év után új verses",
         "meta_description": "Karafiáth Orsolya költő és író a Telex.hu műsorában beszélt pályafutásáról, valamint tizenegy év után megjelent Sehogyse című kötetéről. A jubileumi beszélgetés",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-20-otvenevesen-a-romlasrol-es-a-tulelesrol-mesel-karafiath-orsolya/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg/1280px-Karafi%C3%A1th_Orsolya_%28D%C3%A9ri_Mikl%C3%B3s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -12302,9 +12302,9 @@
       "dedupe_hash": "cced3633b085ff3b32163681f485eaf7d626f3f81efcab94728feefbcf13494d",
       "pipeline_run_id": "39443996315",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T17:03:07+02:00",
-      "updated_at": "2026-10-20T17:03:07+02:00",
-      "published_at": "2026-10-20T17:03:07+02:00",
+      "created_at": "2026-10-20T19:06:02+02:00",
+      "updated_at": "2026-10-20T19:06:02+02:00",
+      "published_at": "2026-10-20T19:06:02+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -12324,9 +12324,9 @@
         "msg_ids": [],
         "control_id": 8459,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 19:05 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-20T19:05:43+02:00"
+      "live": true
     }
   ]
 }
