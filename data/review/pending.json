@@ -13384,9 +13384,9 @@
       "live": true
     },
     {
-      "id": "425debd3-e9aa-5c66-9ba8-6dbc0d8abe72",
-      "slug": "2026-10-20-szandekosan-gazoltak-el-egy-ausztral-kepviselot-az-irodaja-elott",
-      "status": "pending",
+      "id": "d42b354e-e30b-5bdd-89ef-18ac2d9e9a2b",
+      "slug": "2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -13396,7 +13396,7 @@
         "rendőrség",
         "bűnügy"
       ],
-      "title": "Szándékosan gázoltak el egy ausztrál képviselőt az irodája előtt",
+      "title": "Terepjáróval gázolták el a választókerületi irodája előtt az ausztrál képviselőnőt",
       "subtitle": null,
       "lead": "Kritikus állapotban, kórházban ápolják Helen Haines ausztrál képviselőt, akit szándékosan gázolt el egy terepjáró a választókerületi irodája előtt Wangarattában. A rendőrség a helyszínen elfogta a támadót, akit egy bátor járókelő tartóztatott fel.",
       "key_points": [
@@ -13517,11 +13517,11 @@
       },
       "date": "2026-10-20",
       "date_label": "október 20.",
-      "url": "/vilag/2026-10-20-szandekosan-gazoltak-el-egy-ausztral-kepviselot-az-irodaja-elott/",
+      "url": "/vilag/2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral/",
       "seo": {
-        "meta_title": "Szándékosan gázoltak el egy ausztrál képviselőt az irodája e",
+        "meta_title": "Terepjáróval gázolták el a választókerületi irodája előtt az",
         "meta_description": "Kritikus állapotban, kórházban ápolják Helen Haines ausztrál képviselőt, akit szándékosan gázolt el egy terepjáró a választókerületi irodája előtt Wangarattában",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-szandekosan-gazoltak-el-egy-ausztral-kepviselot-az-irodaja-elott/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg/1280px-Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -13539,9 +13539,9 @@
       "dedupe_hash": "66fae16c6bdbe9b59ca53c1fc1fbcf329b64c6a1856d5c9d9a7931a69cc35382",
       "pipeline_run_id": "39372231869",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T07:00:06+02:00",
-      "updated_at": "2026-10-20T07:00:06+02:00",
-      "published_at": "2026-10-20T07:00:06+02:00",
+      "created_at": "2026-10-20T07:20:35+02:00",
+      "updated_at": "2026-10-20T07:20:35+02:00",
+      "published_at": "2026-10-20T07:20:35+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13551,14 +13551,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-20T05:00:55+00:00",
-        "msg_ids": [
-          8255,
-          8256,
-          8257,
-          8258
-        ],
-        "control_id": 8259
-      }
+        "msg_ids": [],
+        "control_id": 8259,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "abb602e0-004d-5e67-a0b1-fa4f0869e2ee",

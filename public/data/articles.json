@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T07:19:46+02:00",
+  "updated_at": "2026-10-20T07:20:35+02:00",
   "articles": [
+    {
+      "id": "d42b354e-e30b-5bdd-89ef-18ac2d9e9a2b",
+      "slug": "2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ausztrália",
+        "Wangaratta",
+        "Helen Haines",
+        "rendőrség",
+        "bűnügy"
+      ],
+      "title": "Terepjáróval gázolták el a választókerületi irodája előtt az ausztrál képviselőnőt",
+      "subtitle": null,
+      "lead": "Kritikus állapotban, kórházban ápolják Helen Haines ausztrál képviselőt, akit szándékosan gázolt el egy terepjáró a választókerületi irodája előtt Wangarattában. A rendőrség a helyszínen elfogta a támadót, akit egy bátor járókelő tartóztatott fel.",
+      "key_points": [
+        "Helen Haines hatvanöt éves ausztrál képviselő kritikus állapotban fekszik a melbourne-i Alfred kórházban.",
+        "A gázoló a helyszíni beszámolók szerint szándékosan, kétszer is nekihajtott a politikusnak.",
+        "A feltételezett elkövetőt egy gyalogos fékezte meg, a rendőrség pedig még a helyszínen letartóztatta."
+      ],
+      "content": "Súlyos sérülésekkel szállították helikopterrel a Victoria állambeli Wangarattából a melbourne-i Alfred kórházba Helen Haines ausztrál képviselőt, miután egy terepjáróval szándékosan elütötték a választókerületi irodája előtt. A hatvanöt éves politikus az első híradások szerint a lábát is elveszítette a gázolásban, állapota pedig továbbra is kritikus, miközben az orvosok műtéttel próbálják stabilizálni.\n\nTony Burke belügyminiszter tájékoztatása szerint a támadás különösen brutális módon zajlott le.\n\nA tragédiának egy arra járó civil vetett véget, aki odarohant a járműhöz, és a rendőrség kiérkezéséig visszatartotta a sofőrt. A helyszínen elfogott, a Tarrawingee-ből származó, negyvenhárom éves Brendan Nugent a környéken környezetvédelmi aktivistaként volt ismert, és a BBC értesülései szerint akár tíz év börtönbüntetésre is számíthat hivatalos személy elleni erőszak miatt.\n\nAz eset váratlanul érte az ausztrál társadalmat, mivel az országban rendkívül ritkán fordulnak elő nyílt politikai erőszakos cselekmények. Anthony Albanese miniszterelnök nyilatkozatában úgy fogalmazott, hogy a történtek egész Ausztráliát mélyen megrázták.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos sérülésekkel szállították helikopterrel a Victoria állambeli Wangarattából a melbourne-i Alfred kórházba Helen Haines ausztrál képviselőt, miután egy terepjáróval szándékosan elütötték a választókerületi irodája előtt. A hatvanöt éves politikus az első híradások szerint a lábát is elveszítette a gázolásban, állapota pedig továbbra is kritikus, miközben az orvosok műtéttel próbálják stabilizálni.",
+        "Tony Burke belügyminiszter tájékoztatása szerint a támadás különösen brutális módon zajlott le.",
+        "A tragédiának egy arra járó civil vetett véget, aki odarohant a járműhöz, és a rendőrség kiérkezéséig visszatartotta a sofőrt. A helyszínen elfogott, a Tarrawingee-ből származó, negyvenhárom éves Brendan Nugent a környéken környezetvédelmi aktivistaként volt ismert, és a BBC értesülései szerint akár tíz év börtönbüntetésre is számíthat hivatalos személy elleni erőszak miatt.",
+        "Az eset váratlanul érte az ausztrál társadalmat, mivel az országban rendkívül ritkán fordulnak elő nyílt politikai erőszakos cselekmények. Anthony Albanese miniszterelnök nyilatkozatában úgy fogalmazott, hogy a történtek egész Ausztráliát mélyen megrázták."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 178,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg/1280px-Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The office of federal Indi MP Helen Haines, an independent politician, on Murphy Street in Wangaratta.",
+        "credit": "Alison Newman / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/10/20/ketszer-is-nekihajtottak-egy-autoval-az-ausztral-kepviselononek-akit-szandekosan-utottek-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Kétszer is nekihajtottak autóval az ausztrál képviselőnőnek, szándékosan ütötték el, kritikus állapotban van",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T07:00:06+02:00"
+        }
+      ],
+      "quote": {
+        "text": "A szemtanúk leírása szerint a sofőr egy U-kanyart hajtott végre, hogy bejusson a parkolóba, hogy ott Helen-t egy autónak lökje, majd tolatott, és ezt újra megismételte.",
+        "who": "Tony Burke belügyminiszter",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-20T07:20:35+02:00"
+      },
+      "hot_score": 6.53,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/10/20/ketszer-is-nekihajtottak-egy-autoval-az-ausztral-kepviselononek-akit-szandekosan-utottek-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/vilag/2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral/",
+      "seo": {
+        "meta_title": "Terepjáróval gázolták el a választókerületi irodája előtt az",
+        "meta_description": "Kritikus állapotban, kórházban ápolják Helen Haines ausztrál képviselőt, akit szándékosan gázolt el egy terepjáró a választókerületi irodája előtt Wangarattában",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg/1280px-Helen_Haines_office_in_Wangaratta_%E2%80%94_June_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "66fae16c6bdbe9b59ca53c1fc1fbcf329b64c6a1856d5c9d9a7931a69cc35382",
+      "pipeline_run_id": "39372231869",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T07:20:35+02:00",
+      "updated_at": "2026-10-20T07:20:35+02:00",
+      "published_at": "2026-10-20T07:20:35+02:00",
+      "expires_at": null
+    },
     {
       "id": "771f3da0-f871-5ac4-9462-f0adca0f3941",
       "slug": "2026-10-20-orditva-zavartak-ki-a-parlamentbol-a-fideszes-pocs-janos-vendeget",
