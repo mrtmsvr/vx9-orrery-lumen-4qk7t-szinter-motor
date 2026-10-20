@@ -13393,9 +13393,9 @@
       "live": true
     },
     {
-      "id": "f3612c58-a47b-59d9-bf42-bf3102137270",
-      "slug": "2026-10-20-zelenszkij-nelkul-osztana-fel-az-ukrajnai-beket-putyin-es-trump",
-      "status": "pending",
+      "id": "f2b7ca79-ba49-52a9-bca6-45f93884d270",
+      "slug": "2026-10-20-putyin-es-trump-haromoldalu-csucson-targyalna-ukrajnarol-sencsenben",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -13405,7 +13405,7 @@
         "Vlagyimir Putyin",
         "diplomácia"
       ],
-      "title": "Zelenszkij nélkül osztaná fel az ukrajnai békét Putyin és Trump",
+      "title": "Putyin és Trump háromoldalú csúcson tárgyalna Ukrajnáról Sencsenben",
       "subtitle": null,
       "lead": "Donald Trump amerikai elnök közlése szerint Volodimir Zelenszkij ukrán elnök helyett másnak kellene tárgyalnia a háború lezárásáról, miközben Washington és Moszkva már egy Sencsenbe tervezett, ukránok nélküli csúcstalálkozóról egyeztet. A folyamat részeként magas rangú amerikai küldöttség indul Norvégiába, majd Oroszországba a békefeltételek egyeztetésére.",
       "key_points": [
@@ -13587,11 +13587,11 @@
       },
       "date": "2026-10-20",
       "date_label": "október 20.",
-      "url": "/vilag/2026-10-20-zelenszkij-nelkul-osztana-fel-az-ukrajnai-beket-putyin-es-trump/",
+      "url": "/vilag/2026-10-20-putyin-es-trump-haromoldalu-csucson-targyalna-ukrajnarol-sencsenben/",
       "seo": {
-        "meta_title": "Zelenszkij nélkül osztaná fel az ukrajnai békét Putyin és Tr",
+        "meta_title": "Putyin és Trump háromoldalú csúcson tárgyalna Ukrajnáról Sen",
         "meta_description": "Donald Trump amerikai elnök közlése szerint Volodimir Zelenszkij ukrán elnök helyett másnak kellene tárgyalnia a háború lezárásáról, miközben Washington és Mosz",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-zelenszkij-nelkul-osztana-fel-az-ukrajnai-beket-putyin-es-trump/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-20-putyin-es-trump-haromoldalu-csucson-targyalna-ukrajnarol-sencsenben/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -13629,9 +13629,9 @@
       "dedupe_hash": "a5a060748c4f5618faf47712312495bcfb40d672f3f4105fb79525dfa37d1487",
       "pipeline_run_id": "39398981594",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T11:15:28+02:00",
-      "updated_at": "2026-10-20T11:15:28+02:00",
-      "published_at": "2026-10-20T11:15:28+02:00",
+      "created_at": "2026-10-20T12:20:13+02:00",
+      "updated_at": "2026-10-20T12:20:13+02:00",
+      "published_at": "2026-10-20T12:20:13+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -13641,16 +13641,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-20T09:16:05+00:00",
-        "msg_ids": [
-          8326,
-          8327,
-          8328,
-          8329,
-          8330,
-          8331
-        ],
-        "control_id": 8332
-      }
+        "msg_ids": [],
+        "control_id": 8332,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "729893b4-fde5-5f9f-98b1-4535d67fb888",
