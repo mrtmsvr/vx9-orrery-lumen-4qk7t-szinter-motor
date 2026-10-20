@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T07:19:04+02:00",
+  "updated_at": "2026-10-20T07:19:25+02:00",
   "articles": [
     {
       "id": "771f3da0-f871-5ac4-9462-f0adca0f3941",
@@ -14,7 +14,7 @@
         "Pócs János",
         "parlamenti botrány"
       ],
-      "title": "Ordítva zavarták ki a parlamentből a fideszes Pócs János vendégét",
+      "title": "Pócs János vendégeként ordibált a parlamenti páholyban Szabó Bálint",
       "subtitle": null,
       "lead": "Pócs János vendégeként jutott be az Országházba a korábbi politikai akcióiról ismert Szabó Bálint, aki az ülésteremben tartott kiabálás után csak vonakodva hagyta el a helyszínt. Az eset miatt a házelnök és a miniszterelnök is számon kérte a Fidesz frakcióját.",
       "key_points": [
@@ -103,7 +103,7 @@
       "date_label": "október 20.",
       "url": "/kozelet/2026-10-20-orditva-zavartak-ki-a-parlamentbol-a-fideszes-pocs-janos-vendeget/",
       "seo": {
-        "meta_title": "Ordítva zavarták ki a parlamentből a fideszes Pócs János ven",
+        "meta_title": "Pócs János vendégeként ordibált a parlamenti páholyban Szabó",
         "meta_description": "Pócs János vendégeként jutott be az Országházba a korábbi politikai akcióiról ismert Szabó Bálint, aki az ülésteremben tartott kiabálás után csak vonakodva hagy",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-orditva-zavartak-ki-a-parlamentbol-a-fideszes-pocs-janos-vendeget/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -144,7 +144,7 @@
       "pipeline_run_id": "39372231869",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-20T07:00:13+02:00",
-      "updated_at": "2026-10-20T07:00:13+02:00",
+      "updated_at": "2026-10-20T07:19:25+02:00",
       "published_at": "2026-10-20T07:00:13+02:00",
       "expires_at": null
     },
