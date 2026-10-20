@@ -14003,10 +14003,7 @@
       "title_options": [
         "Szikora Linda cége nyerte a Mavir milliós takarítási tenderét",
         "Százmilliós nagytakarítás: Kovács Zoltán feleségének cége nyert a Mavirnál",
-        "Megvizsgálják Kovács Zoltán feleségének állami megbízását",
-        "Nulla árbevételből milliós állami megbízás: így nyert a korábbi államtitkár felesége",
-        "Tizenhárom pályázót zártak ki a Mavir milliós takarítási tenderén",
-        "Éves szinten tízmilliókkal drágább ajánlattal húzta be a Mavir-megbízást a Profi-Komfort"
+        "Megvizsgálják Kovács Zoltán feleségének állami megbízását"
       ],
       "clickbait_from": 3,
       "image_options": [
@@ -14106,11 +14103,14 @@
       "review": {
         "title": 0,
         "image": 0,
-        "sent_at": "2026-10-20T09:19:55+00:00",
-        "msg_ids": [],
-        "control_id": 8353,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "sent_at": "2026-10-20T10:22:48+00:00",
+        "msg_ids": [
+          8377,
+          8378,
+          8379,
+          8380
+        ],
+        "control_id": 8381
       },
       "live": true
     },
