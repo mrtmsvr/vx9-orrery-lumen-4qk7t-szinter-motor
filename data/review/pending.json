@@ -12661,15 +12661,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-20T17:51:16+00:00",
-        "msg_ids": [
-          8479,
-          8480,
-          8481,
-          8482,
-          8483,
-          8485
-        ],
-        "control_id": 8484
+        "msg_ids": [],
+        "control_id": 8484,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
