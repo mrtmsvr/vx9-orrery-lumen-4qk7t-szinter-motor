@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T07:20:35+02:00",
+  "updated_at": "2026-10-20T07:36:01+02:00",
   "articles": [
+    {
+      "id": "8d0c0403-2efd-5fca-8871-bdf95f4d4311",
+      "slug": "2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "M3-as autópálya",
+        "baleset",
+        "tűzeset",
+        "közlekedés",
+        "katasztrófavédelem"
+      ],
+      "title": "Lángoló kamion miatt áll az M3-as Budapestre vezető oldala Bagnál",
+      "subtitle": null,
+      "lead": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométernél. Az érintett sztrádaszakaszt teljes szélességében lezárták, ami miatt jelentős, legalább öt kilométeres torlódás alakult ki.",
+      "key_points": [
+        "Kigyulladt egy kamion az M3-as autópályán Bag közelében a 36-os kilométernél.",
+        "Az aszódi és gödöllői hivatásos tűzoltók két vízsugárral fékezték meg a lángokat.",
+        "A sztráda Budapest felé vezető oldalát teljes szélességében lezárták.",
+        "Az Útinform adatai szerint legalább öt kilométeres torlódás nehezíti a közlekedést."
+      ],
+      "content": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag térségében, a 36-os kilométerszelvénynél – írta a katasztrófavédelem. A járműtűz miatt azonnali beavatkozásra volt szükség a helyszínen.\n\nA lángok megfékezésére az aszódi és a gödöllői hivatásos tűzoltók vonultak ki, akik két vízsugárral oltották el a járművet.\n\nA mentési és oltási munkálatok idejére az érintett sztrádaszakaszt teljes szélességében lezárták a hatóságok. Az Útinform tájékoztatása alapján a korlátozás következtében legalább öt kilométeres torlódás alakult ki a főváros felé vezető oldalon, ami jelentős fennakadásokat okoz a közlekedésben.",
+      "content_format": "markdown",
+      "body": [
+        "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag térségében, a 36-os kilométerszelvénynél – írta a katasztrófavédelem. A járműtűz miatt azonnali beavatkozásra volt szükség a helyszínen.",
+        "A lángok megfékezésére az aszódi és a gödöllői hivatásos tűzoltók vonultak ki, akik két vízsugárral oltották el a járművet.",
+        "A mentési és oltási munkálatok idejére az érintett sztrádaszakaszt teljes szélességében lezárták a hatóságok. Az Útinform tájékoztatása alapján a korlátozás következtében legalább öt kilométeres torlódás alakult ki a főváros felé vezető oldalon, ami jelentős fennakadásokat okoz a közlekedésben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 120,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Malaysia_Federal_Highway_Traffic_Jam.jpg/1280px-Malaysia_Federal_Highway_Traffic_Jam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Traffic jam at Federal Highway (Malaysia)",
+        "credit": "Countryball mys123 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Malaysia_Federal_Highway_Traffic_Jam.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://telex.hu/belfold/2026/10/20/m3-utinform-baleset-kamion-tuz",
+          "title": "Kigyulladt egy kamion az M3-ason Bagnál",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T07:34:30+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-20T07:36:01+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://telex.hu/belfold/2026/10/20/m3-utinform-baleset-kamion-tuz"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kozelet/2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal/",
+      "seo": {
+        "meta_title": "Lángoló kamion miatt áll az M3-as Budapestre vezető oldala B",
+        "meta_description": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométernél. Az érintett sztrádaszakaszt teljes széles",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Malaysia_Federal_Highway_Traffic_Jam.jpg/1280px-Malaysia_Federal_Highway_Traffic_Jam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "cf284d811c4348ec43c167ab49a3ad2590cfeb6859864f40a919653647f76be7",
+      "pipeline_run_id": "39374489906",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T07:36:01+02:00",
+      "updated_at": "2026-10-20T07:36:01+02:00",
+      "published_at": "2026-10-20T07:36:01+02:00",
+      "expires_at": null,
+      "requested": true
+    },
     {
       "id": "d42b354e-e30b-5bdd-89ef-18ac2d9e9a2b",
       "slug": "2026-10-20-terepjaroval-gazoltak-el-a-valasztokeruleti-irodaja-elott-az-ausztral",
