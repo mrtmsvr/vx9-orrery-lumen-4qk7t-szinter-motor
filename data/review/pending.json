@@ -14107,6 +14107,246 @@
         "control_id": 8337
       },
       "live": true
+    },
+    {
+      "id": "65ec0c02-3a90-593d-b8eb-fc5de2f07cd8",
+      "slug": "2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Revolut",
+        "banki hiba",
+        "pénzügy",
+        "alkalmazás",
+        "gazdaság"
+      ],
+      "title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
+      "subtitle": null,
+      "lead": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A beszámolók szerint a pénzügyi alkalmazásban sem a pénzváltás, sem a kedvezményezettek adatainak betöltése nem működött.",
+      "key_points": [
+        "Kedd reggel komoly fennakadások nehezítették a Revolut működését.",
+        "A bolti kártyás fizetések és az ATM-es készpénzfelvételek sem működtek.",
+        "A más bankokból küldött utalások nem érkeztek meg a számlákra.",
+        "A hivatalos státuszoldal eközben nem jelzett semmilyen szolgáltatási hibát."
+      ],
+      "content": "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.\n\nA technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.\n\nBár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.",
+        "A technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.",
+        "Bár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 136,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 2597,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Fintech Revolut possibility to invest. The screen shows the basic interface of stock trading in app.",
+        "credit": "MKoala / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:App_Revolut_show_interface_of_stock_trading_inapp.png",
+        "exact": true,
+        "entity": "Revolut app",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi",
+          "title": "Bajba kerültek a Revolut felhasználói",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T11:17:39+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.94,
+      "title_options": [
+        "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
+        "Pénzváltás, kártya és utalás nélkül maradtak a Revolut felhasználói",
+        "Fennakadások bénították meg kedd reggel a Revolutot",
+        "Senki sem tudott fizetni: óriási hiba bénította meg a Revolutot",
+        "Eltűntek a kedvezményezettek és leálltak az utalások a Revoluton",
+        "Mindenhol elutasították a kártyákat kedd reggel: ezt tapasztalták a felhasználók"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 2597,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Fintech Revolut possibility to invest. The screen shows the basic interface of stock trading in app.",
+          "credit": "MKoala / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:App_Revolut_show_interface_of_stock_trading_inapp.png",
+          "exact": true,
+          "entity": "Revolut app",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Revolut_app_%2848956162153%29.jpg/1280px-Revolut_app_%2848956162153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 902,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Revolut app \n\nMotorola One smartphone",
+          "credit": "Olgierd (Creative Commons licensed only) / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Revolut_app_(48956162153).jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png/1280px-Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 797,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Front view of the Visa Infinite card in Midnight Blue, issued by Revolut for Premium plan customers.",
+          "credit": "MysticalEel07 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/First_cash_machine_blue_plaque_in_Enfield.jpg/1280px-First_cash_machine_blue_plaque_in_Enfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "First cash machine blue plaque in Enfield",
+          "credit": "LondonHistoryatHome / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:First_cash_machine_blue_plaque_in_Enfield.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/1280px-Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 720,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Bankomat Euronetu RCNQ0Q56 w Galerii Tomaszów w Tomaszowie Mazowieckim, woj. łódzkie",
+          "credit": "WrS.tm.pl / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/1280px-Credit-cards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Credit cards",
+          "credit": "Lotus Head from Johannesburg, Gauteng, South Africa / Wikimedia Commons",
+          "license": "CC BY-SA 2.5",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Credit-cards.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/1280px-Credit_card_terminal_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Processing credit card terminal with a visa card inserted, in Laos. Picture made by the focus stacking technique from 4 images (Helicon focus software). The number of the card has been modified on Pho",
+          "credit": "Basile Morin / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_Laos.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4a9c98d91e.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4a9c98d91e.jpg",
+          "kind": "photo",
+          "alt": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Bajba kerültek a Revolut felhasználói",
+          "link": "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi",
+          "summary": "Súlyos fennakadások jelentkeztek a Revolut működésében kedd reggel. Több felhasználó nem tudott utalni vagy pénzt váltani, emellett a kártyás fizetések és a készpénzfelvételek is meghiúsultak – írta a Revb. A cég hivatalos státuszoldala ugyanakkor nem jelzett szolgáltatási hibát.",
+          "source": "infostart.hu",
+          "related": null,
+          "hot_score": 6.94
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
+      "seo": {
+        "meta_title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az ",
+        "meta_description": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A bes",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d20e08bd3c9ff673ebb47161a608dbe1ab1e4b0b9410e6561d112b4289c7dbdc",
+      "pipeline_run_id": "39398981594",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T11:17:39+02:00",
+      "updated_at": "2026-10-20T11:17:39+02:00",
+      "published_at": "2026-10-20T11:17:39+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-20T09:18:23+00:00",
+        "msg_ids": [
+          8339,
+          8340,
+          8341,
+          8342,
+          8343,
+          8344,
+          8345,
+          8346,
+          8347
+        ],
+        "control_id": 8348
+      }
     }
   ]
 }
