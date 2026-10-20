@@ -13858,14 +13858,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-20T13:14:00+00:00",
-        "msg_ids": [
-          8403,
-          8404,
-          8405,
-          8406,
-          8408
-        ],
-        "control_id": 8407
+        "msg_ids": [],
+        "control_id": 8407,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
