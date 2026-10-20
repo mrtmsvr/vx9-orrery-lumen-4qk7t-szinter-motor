@@ -13632,37 +13632,41 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg",
-          "width": 3488,
-          "height": 2616,
-          "kind": "photo",
-          "alt": "company, factory, production, machine production line, the production of, machine, line, the industry, industrial, traffic, technology, metal, machining, milling, stainless steel, the palette, element",
-          "credit": "marcin049 / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/company-factory-production-186980/",
-          "vision_score": 7.0
-        },
-        {
-          "url": "https://pixabay.com/get/g96630fdf7efca2453938e89a7337554abfe0c647df69e9f6c322910b6a25729e9b99c3a31fe0a23f97dde0f6bfab420409c2fa01711247d8fea3e58d13830803_1280.jpg",
-          "width": 5999,
-          "height": 3216,
-          "kind": "photo",
-          "alt": "industry, lost places, factory, production, assembly line, work, industrial plant, factory building, abandoned, building, hall, architecture, empty, road, crane, abandoned places, factory, factory, fa",
-          "credit": "Tama66 / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/industry-lost-places-factory-1801661/",
-          "vision_score": 7.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/VW_Werk_Altes_Heizkraftwerk_WB_edit.jpg/1280px-VW_Werk_Altes_Heizkraftwerk_WB_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 900,
+          "height": 581,
           "kind": "photo",
           "pos": "center",
-          "alt": "Professor Agasa's Volkswagen Beetle at the Gosho Aoyama Manga Factory",
-          "credit": "Scarper Montgomery / Wikimedia Commons",
-          "license": "CC BY-SA 2.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg",
+          "alt": "Old heating plant @ Volkswagen Plant, Wolfsburg, Germany",
+          "credit": "VW_Werk_Altes_Heizkraftwerk.jpg: Richard Bartz\nderivative work: Diliff / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:VW_Werk_Altes_Heizkraftwerk_WB_edit.jpg",
+          "exact": true,
+          "entity": "Volkswagen",
+          "vision_score": 12.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg/1280px-1957_Volkswagen_Beetle%2C_export_model%2C_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 882,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Volkswagen Beetle, export model, built 1957 (licence plate modified for privacy reasons), in front of UNESCO world heritage site Porta Nigra in Trier.",
+          "credit": "Palauenc05 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:1957_Volkswagen_Beetle,_export_model,_in_front_of_Porta_Nigra_in_Trier_2023-05-01.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg/1280px-D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Volkswagen Beetle 1303 in the Dernekamp hamlet, Kirchspiel, Dülmen, North Rhine-Westphalia, GermanyThe Volkswagen 1303 was a further development of the classic VW Beetle and was built from 1972 to 197",
+          "credit": "Dietmar Rabich / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_VW_1303_--_2017_--_2279.jpg",
           "vision_score": 6.0
         },
         {
@@ -13737,10 +13741,32 @@
           8261,
           8262,
           8263,
-          8264
+          8264,
+          8273,
+          8274,
+          8275,
+          8276
         ],
-        "control_id": 8265
-      }
+        "control_id": 8277
+      },
+      "image_queries": [
+        "Volkswagen",
+        "Süddeutsche Zeitung",
+        "Germany",
+        "Volkswagen Supervisory Board",
+        "Volkswagen Group",
+        "German factories",
+        "frozen paycheck",
+        "empty office chair",
+        "factory shutdown sign",
+        "layoff notice document"
+      ],
+      "images_seen": [
+        "https://pixabay.com/get/g96630fdf7efca2453938e89a7337554abfe0c647df69e9f6c322910b6a25729e9b99c3a31fe0a23f97dde0f6bfab420409c2fa01711247d8fea3e58d13830803_1280.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-a1ea675594.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg"
+      ]
     },
     {
       "id": "a78869e7-36a9-55c1-b410-a3436353e5bb",
