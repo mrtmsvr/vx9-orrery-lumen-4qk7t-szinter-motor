@@ -13850,18 +13850,10 @@
         "title": 2,
         "image": 5,
         "sent_at": "2026-10-20T07:39:28+00:00",
-        "msg_ids": [
-          8297,
-          8298,
-          8299,
-          8300,
-          8301,
-          8302,
-          8303,
-          8304,
-          8306
-        ],
-        "control_id": 8305
+        "msg_ids": [],
+        "control_id": 8305,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
