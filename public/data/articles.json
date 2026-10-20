@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T15:41:24+02:00",
+  "updated_at": "2026-10-20T15:44:30+02:00",
   "articles": [
+    {
+      "id": "5ca7593f-4c8a-5127-a120-20adcb9af71f",
+      "slug": "2026-10-20-koltsegvetesi-csalas-gyanuja-miatt-vizsgalja-a-nav-a-magyar-filmtorte",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "NAV",
+        "Nemzeti Filmintézet",
+        "Rákay Philip",
+        "Most vagy soha!",
+        "bűnügy"
+      ],
+      "title": "Költségvetési csalás gyanúja miatt vizsgálja a NAV a magyar filmtörténet legdrágább alkotását",
+      "subtitle": null,
+      "lead": "Költségvetési csalás gyanúja miatt tartott házkutatást és lefoglalást a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézetnél. Az eljárás a gyanú szerint a Most vagy soha! című, állami támogatásból készült film pénzügyi elszámolását vizsgálja.",
+      "key_points": [
+        "A NAV Közép-Magyarországi Bűnügyi Igazgatósága tartott házkutatást a Nemzeti Filmintézet budapesti székházában.",
+        "Ezzel egy időben a hatóság szemlét tartott a fóti telephelyen is, ahol a filmhez kapcsolódó díszletvárost is felépítették.",
+        "A nyomozást költségvetési csalás gyanúja miatt rendelték el a támogatások felhasználása kapcsán.",
+        "A Rákay Philiphez köthető produkció jelentős állami támogatást kapott."
+      ],
+      "content": "Házkutatást és lefoglalást tartott a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézet budapesti székhelyén, míg ezzel egy időben szemlét tartottak az NFI fóti telephelyén is. A hatóság költségvetési csalás gyanúja miatt indított büntetőeljárást, amelynek célja a gyanú szerint a tárgyi és okirati bizonyítékok felkutatása.\n\nAz intézkedések során a hatóság a Most vagy soha! című film támogatásaihoz kapcsolódó iratokat kereste, különös tekintettel a pályázatok és kormányhatározatok alapján igénybe vett összegek odaítélésére, folyósítására és elszámolására. A vizsgálat kiterjedt az NFI tulajdonában álló fóti ingatlan adásvételének dokumentumaira, valamint a filmhez kapcsolódó beruházások irataira is.\n\nA Rákay Philip kreatív producerként jegyzett, az 1848. március 15-ei forradalmat feldolgozó alkotás a magyar filmtörténet legdrágább produkciója lett a maga hétmilliárdos összköltségvetésével. A film összesen 6,1 milliárd forintnyi állami pénzt kapott, amiből kétmilliárd forintot külön kormányhatározattal a Fóton felépített díszletvárosra szántak.\n\nA Nemzeti Adó- és Vámhivatal szeptember 24-én rendelte el a nyomozást a támogatások felhasználása miatt. A hatósági cselekmények során a Nemzeti Filmintézet mindenben együttműködött a nyomozókkal.",
+      "content_format": "markdown",
+      "body": [
+        "Házkutatást és lefoglalást tartott a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézet budapesti székhelyén, míg ezzel egy időben szemlét tartottak az NFI fóti telephelyén is. A hatóság költségvetési csalás gyanúja miatt indított büntetőeljárást, amelynek célja a gyanú szerint a tárgyi és okirati bizonyítékok felkutatása.",
+        "Az intézkedések során a hatóság a Most vagy soha! című film támogatásaihoz kapcsolódó iratokat kereste, különös tekintettel a pályázatok és kormányhatározatok alapján igénybe vett összegek odaítélésére, folyósítására és elszámolására. A vizsgálat kiterjedt az NFI tulajdonában álló fóti ingatlan adásvételének dokumentumaira, valamint a filmhez kapcsolódó beruházások irataira is.",
+        "A Rákay Philip kreatív producerként jegyzett, az 1848. március 15-ei forradalmat feldolgozó alkotás a magyar filmtörténet legdrágább produkciója lett a maga hétmilliárdos összköltségvetésével. A film összesen 6,1 milliárd forintnyi állami pénzt kapott, amiből kétmilliárd forintot külön kormányhatározattal a Fóton felépített díszletvárosra szántak.",
+        "A Nemzeti Adó- és Vámhivatal szeptember 24-én rendelte el a nyomozást a támogatások felhasználása miatt. A hatósági cselekmények során a Nemzeti Filmintézet mindenben együttműködött a nyomozókkal."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 189,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mafilm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1806,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Mafilm Audio HQ, Budapest, Róna street",
+        "credit": "VinceB / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mafilm.JPG",
+        "exact": true,
+        "entity": "Nemzeti Filmintézet",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/10/20/hazkutatast-nfi-rakay-philip-koltsegvetesi-csalas/",
+          "title": "Házkutatást tartottak a Nemzeti Filmintézetnél Rákay Philip filmjének ügyében",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:41:32+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/20/nav-nemzeti-filmintezet-rakay-philip-petofi-film-most-vagy-soha-hazkutatas/",
+          "title": "Házkutatást tartott a NAV a Nemzeti Filmintézetnél Rákay Philip Petőfi-filmje miatt",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-20T15:41:32+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-20T15:44:30+02:00"
+      },
+      "hot_score": 10.4,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/10/20/hazkutatast-nfi-rakay-philip-koltsegvetesi-csalas/",
+          "https://index.hu/belfold/2026/10/20/nav-nemzeti-filmintezet-rakay-philip-petofi-film-most-vagy-soha-hazkutatas/"
+        ]
+      },
+      "date": "2026-10-20",
+      "date_label": "október 20.",
+      "url": "/kozelet/2026-10-20-koltsegvetesi-csalas-gyanuja-miatt-vizsgalja-a-nav-a-magyar-filmtorte/",
+      "seo": {
+        "meta_title": "Költségvetési csalás gyanúja miatt vizsgálja a NAV a magyar ",
+        "meta_description": "Költségvetési csalás gyanúja miatt tartott házkutatást és lefoglalást a Nemzeti Adó- és Vámhivatal a Nemzeti Filmintézetnél. Az eljárás a Most vagy soha! című, ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-koltsegvetesi-csalas-gyanuja-miatt-vizsgalja-a-nav-a-magyar-filmtorte/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mafilm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "96e2669c-f84d-5308-afb4-3f2d0064a0a3",
+        "661da993-22be-53f1-aaef-ec1887045ff0"
+      ],
+      "see_also": [
+        {
+          "title": "Milliárdos rácalmási földügylet miatt indult nyomozás Rákay Philip cége ellen",
+          "url": "/kozelet/2026-10-10-milliardos-racalmasi-foldugylet-miatt-indult-nyomozas-rakay-philip-ce/",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Válságtanácskozások az ukrán aranykonvoj ügyében",
+          "url": "/kozelet/2026-10-06-null/",
+          "date": "2026-10-06"
+        }
+      ],
+      "thread_id": "96e2669c-f84d-5308-afb4-3f2d0064a0a3",
+      "dedupe_hash": "3f4471c18e7a6758e3eba15952e329345417899e82a01a90825add73613d240f",
+      "pipeline_run_id": "39428712442",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-20T15:44:30+02:00",
+      "updated_at": "2026-10-20T15:44:30+02:00",
+      "published_at": "2026-10-20T15:44:30+02:00",
+      "expires_at": null
+    },
     {
       "id": "136e445b-e6c9-5edf-b21e-91054d424e0f",
       "slug": "2026-10-20-nem-kernek-a-morzsakbol-igy-reagaltak-a-rendvedelmisek-a-bejelentesre",
@@ -67201,93 +67326,6 @@
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-29T16:08:17+02:00",
       "expires_at": null
-    },
-    {
-      "id": "87c527ec-5605-5d58-b6dc-220a64c11994",
-      "slug": "2026-09-29-valtozas-a-central-szinhazban-uj-szinesz-erkezik-szabo-kimmel-tamas-h",
-      "status": "removed",
-      "category": "kultura",
-      "subcategory": null,
-      "tags": [
-        "Centrál Színház",
-        "Szabó Kimmel Tamás",
-        "színház",
-        "kultura"
-      ],
-      "title": "Változás a Centrál Színházban: új színész érkezik Szabó Kimmel Tamás helyére",
-      "subtitle": null,
-      "lead": "Váratlan váltás előtt áll a fővárosi teátrum, miután Szabó Kimmel Tamás bejelentette távozását. A népszerű színész helyét hamarosan új művész veszi át a Centrál Színházban.",
-      "content": "A kulturális életben mindig jelentős rezonanciát kelt, ha egy népszerű teátrum társulatában vagy az előadások szereposztásában kulcsfontosságú változások történnek. A közelmúltban hivatalossá vált hír szerint Szabó Kimmel Tamás úgy határozott, hogy a jövőben nem folytatja munkáját a Centrál Színházban, így a színész nemrégiben bejelentett távozása nyomán új fejezet kezdődik az intézmény életében.\n\nEgy-egy ilyen színészcsere nem csupán adminisztratív vagy logisztikai kérdés egy színház számára, hanem komoly művészeti újratervezést is igényel. A Centrál Színház vezetése és a rendezők számára most az a legfontosabb feladat, hogy megtalálják azt a művészt, aki zökkenőmentesen tudja átvenni a megüresedett feladatokat, és hitelesen tudja képviselni az érintett karaktereket a színpadon.\n\nA nézők számára ezek a pillanatnyi helyzetcserék gyakran izgalmas színházi élményeket tartogatnak. Bár egy kedvelt előadó búcsúja mindig nosztalgiával és hiányérzettel töltheti el a közönséget, az új arcok érkezése gyakran friss dinamikát hoz a produkciókba, és lehetőséget teremt arra, hogy a darabok új árnyalatokkal gazdagodjanak az elkövetkező időszakban.\n\nA színházkedvelők számára a legfőbb kérdés most az, hogy ki veszi át a stafétabotot, és hogyan alakulnak majd a jövőbeni előadások. A Centrál Színház hamarosan nyilvánosságra hozza az új szereplő kilétét, ami biztosítja, hogy a repertoár zökkenőmentesen folytatódhasson a fővárosi közönség nagy örömére.",
-      "content_format": "markdown",
-      "body": [
-        "A kulturális életben mindig jelentős rezonanciát kelt, ha egy népszerű teátrum társulatában vagy az előadások szereposztásában kulcsfontosságú változások történnek. A közelmúltban hivatalossá vált hír szerint Szabó Kimmel Tamás úgy határozott, hogy a jövőben nem folytatja munkáját a Centrál Színházban, így a színész nemrégiben bejelentett távozása nyomán új fejezet kezdődik az intézmény életében.",
-        "Egy-egy ilyen színészcsere nem csupán adminisztratív vagy logisztikai kérdés egy színház számára, hanem komoly művészeti újratervezést is igényel. A Centrál Színház vezetése és a rendezők számára most az a legfontosabb feladat, hogy megtalálják azt a művészt, aki zökkenőmentesen tudja átvenni a megüresedett feladatokat, és hitelesen tudja képviselni az érintett karaktereket a színpadon.",
-        "A nézők számára ezek a pillanatnyi helyzetcserék gyakran izgalmas színházi élményeket tartogatnak. Bár egy kedvelt előadó búcsúja mindig nosztalgiával és hiányérzettel töltheti el a közönséget, az új arcok érkezése gyakran friss dinamikát hoz a produkciókba, és lehetőséget teremt arra, hogy a darabok új árnyalatokkal gazdagodjanak az elkövetkező időszakban.",
-        "A színházkedvelők számára a legfőbb kérdés most az, hogy ki veszi át a stafétabotot, és hogyan alakulnak majd a jövőbeni előadások. A Centrál Színház hamarosan nyilvánosságra hozza az új szereplő kilétét, ami biztosítja, hogy a repertoár zökkenőmentesen folytatódhasson a fővárosi közönség nagy örömére."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 221,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/View_of_Orpheum_Theater_auditorium_from_stage.jpg/1280px-View_of_Orpheum_Theater_auditorium_from_stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "alt": "Orpheum Theater, Minneapolis. View of the auditorium from stage. The large circle dome seen at the ceiling has a practical acoustic purpose. So long as one can project their voice, it can be heard cle",
-        "credit": "Tommy Sar / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Orpheum_Theater_auditorium_from_stage.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/kultura/20260929_megvan-ki-veszi-at-szabo-kimmel-tamas-szerepet",
-          "title": "Megvan, ki veszi át Szabó Kimmel Tamás szerepét a Centrálban",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-29T16:07:37+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/kultura/20260929_megvan-ki-veszi-at-szabo-kimmel-tamas-szerepet"
-        ]
-      },
-      "date": "2026-09-29",
-      "date_label": "szeptember 29.",
-      "url": "/kultura/2026-09-29-valtozas-a-central-szinhazban-uj-szinesz-erkezik-szabo-kimmel-tamas-h/",
-      "seo": {
-        "meta_title": "Változás a Centrál Színházban: új színész érkezik Szabó Kimm",
-        "meta_description": "Váratlan váltás előtt áll a fővárosi teátrum, miután Szabó Kimmel Tamás bejelentette távozását. A népszerű színész helyét hamarosan új művész veszi át a Centrál",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-09-29-valtozas-a-central-szinhazban-uj-szinesz-erkezik-szabo-kimmel-tamas-h/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/View_of_Orpheum_Theater_auditorium_from_stage.jpg/1280px-View_of_Orpheum_Theater_auditorium_from_stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "e5bc77341ce6fbdf8ee4a7d6feb3d329663dfef68230e41fc328d1a61aeb0c1c",
-      "pipeline_run_id": "36579995345",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-29T16:07:37+02:00",
-      "updated_at": "2026-09-29T16:07:37+02:00",
-      "published_at": "2026-09-29T16:07:37+02:00",
-      "expires_at": null,
-      "removed_reason": "tartalmatlan"
     }
   ]
 }
