@@ -975,7 +975,7 @@ def find_image(specific: list, generic: list, timeout: int, avoid: Optional[set]
     return None
 
 
-def find_inline_images(raw: dict, n_paras: int, timeout: int, avoid: Optional[set] = None) -> list:
+def find_inline_images(raw: dict, n_paras: int, timeout: int, avoid: Optional[set] = None, ai: "Optional[AIClient]" = None) -> list:
     """Szövegközi képek (max. 2): amit a cikk konkrétan említ (hajó, épület, eszköz, helyszín, személy), azt mutatjuk
     meg a megfelelő bekezdés után. Csak szigorú (nevében egyező) Commons-fotó jöhet; ha nincs, kimarad."""
     out, seen = [], set(avoid or ())
@@ -986,6 +986,12 @@ def find_inline_images(raw: dict, n_paras: int, timeout: int, avoid: Optional[se
         if not q or re.search(r"parliament|országház", q, re.I):
             continue
         found = [im for im in commons_search_images(q, timeout, strict=True, avoid=seen, limit=2) if im["kind"] == "photo"]
+        if found and ai is not None:
+            # a név szerinti Commons-találat is lehet félrevezető (pl. „Kossuth tér” → a metróállomás mozgólépcsője):
+            # a képellenőr a képaláíráshoz méri; ha nem illik vagy nem tudta ellenőrizni, inkább nincs szövegközi kép
+            cap = str(item.get("caption") or q)
+            found = [im for im in vision_rank(ai, cap, f"A képen ennek kell látszania: {q}. {cap}", found, min_score=0)
+                     if im.get("vision_score", 0) >= 6 and not im.get("unverified")]
         if not found:
             continue
         try:
@@ -1375,7 +1381,8 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
         cands = drop_used(find_images(spec + list(a.get("tags") or [])[:2], gen, ai.cfg.http_timeout, block, limit=6), block)
         cands = news_image_filter(section, vision_rank(ai, a["title"], a.get("lead", ""), cands, min_score=6))
         cands = [c for c in cands if "vision_score" in c]
-        new = localize_image(cands[0]) if cands else make_cover(a, section)
+        # fotó híján generált (szöveg nélküli) illusztráció; a címes borító csak végső tartalék (a cikkoldalon nem jelenik meg)
+        new = localize_image(cands[0]) if cands else ((auto_illustration(ai, a, section) or [None])[0] or make_cover(a, section))
         if new:
             new = {k: v for k, v in new.items() if k not in ("unverified", "vision_score")}
             changes[a["id"]] = new
@@ -2147,7 +2154,9 @@ def render_article_page(a: dict, related: Optional[list] = None) -> str:
         f'{" (" + E(s["publisher"]) + ")" if s.get("publisher") and s.get("publisher") != s.get("title") else ""}</li>'
         for s in a.get("sources", []) if s.get("url"))
     img = a.get("hero_image") or None
-    figure = _figure(img, a["title"], eager=True) if img and img.get("url") else ""
+    # a címes borító (rovat + cím a navy háttéren) a cikk tetején csak a címet ismételné – ott nem mutatjuk, megosztáskor
+    # (og:image) és a listákban marad
+    figure = _figure(img, a["title"], eager=True) if img and img.get("url") and not img.get("cover") else ""
     published = (a.get("published_at") or a.get("created_at") or a["date"])[:10]
     v = a.get("video") if isinstance(a.get("video"), dict) else None
     video = (f'<div class="vid"><iframe src="https://www.youtube-nocookie.com/embed/{E(v["id"])}" title="{E(v.get("title") or "Videó")}" '
@@ -2414,6 +2423,12 @@ def apply_article_fixes(output_dir: Path) -> Optional[dict]:
             if isinstance(seo.get(k), str) and old in seo[k]:
                 seo[k] = seo[k].replace(old, new, 1)
         a["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for iid in pack.get("inline_remove", []):  # rossz szövegközi kép(ek) levétele: {"inline_remove": [cikk-id]}
+        a = by_id.get(iid)
+        if a and a.get("inline_images"):
+            a["inline_images"] = []
+            a["updated_at"] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+            done += 1
     removed = []
     for r in pack.get("remove", []):
         a = by_id.get(r.get("id"))
@@ -3754,7 +3769,7 @@ def build_section_article(ai: AIClient, section: dict, d: date, tz: ZoneInfo, st
         image_options = image_options[:IMAGE_OPTIONS - 1] + [cover]
     image = image_options[0] if image_options else None
     inline_images = find_inline_images(raw, len(art["body"]), ai.cfg.http_timeout,
-                                       (avoid_images or set()) | {im["url"] for im in image_options})
+                                       (avoid_images or set()) | {im["url"] for im in image_options}, ai)
     art["body"] = strip_bad_links(art["body"], {p.get("url") for p in past or [] if p.get("url")})
     quote = checked_quote(raw.get("quote"), story, len(art["body"]))
     if quote:  # ne legyen kétszer ugyanaz: kiemelt idézet + ugyanaz a mondat a szövegben
