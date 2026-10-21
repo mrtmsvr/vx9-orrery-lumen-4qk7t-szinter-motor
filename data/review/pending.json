@@ -11791,15 +11791,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-21T04:45:31+00:00",
-        "msg_ids": [
-          8512,
-          8513,
-          8514,
-          8515,
-          8516
-        ],
-        "control_id": 8517
-      }
+        "msg_ids": [],
+        "control_id": 8517,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:11 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-21T08:11:06+02:00"
     },
     {
       "id": "22c5a999-2176-5e6d-bc60-bebdabda4208",
@@ -12299,16 +12296,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-21T04:46:56+00:00",
-        "msg_ids": [
-          8527,
-          8528,
-          8529,
-          8530,
-          8531,
-          8532,
-          8534
-        ],
-        "control_id": 8533
+        "msg_ids": [],
+        "control_id": 8533,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
