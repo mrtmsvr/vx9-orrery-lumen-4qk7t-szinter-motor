@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-20T20:03:27+02:00",
+  "updated_at": "2026-10-21T06:47:12+02:00",
   "articles": [
+    {
+      "id": "24b3d89a-5b7a-5070-aac4-3afd2ecc9207",
+      "slug": "2026-10-21-kover-laszlo-a-kormany-is-felelos-az-oktatas-siralmas-allapotaert",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Kövér László",
+        "Fidesz",
+        "oktatás",
+        "választás",
+        "KözBeszéd"
+      ],
+      "title": "Kövér László: A kormány is felelős az oktatás siralmas állapotáért",
+      "subtitle": null,
+      "lead": "Kövér László önkritikus nyilatkozatot tett a Fidesz választási vereségéről és az oktatás helyzetéről egy közelmúltbeli interjúban. A volt házelnök szerint a kabinet mulasztásai is hozzájárultak ahhoz, hogy a közoktatás ma rosszabb állapotban van, mint másfél évtizeddel ezelőtt.",
+      "key_points": [
+        "Kövér László elismerte, hogy az oktatási rendszer rosszabb állapotban van, mint 16 éve.",
+        "A volt házelnök szerint a Fidesz több területen hibázott, és a vereség mértéke számukra is meglepetés volt.",
+        "Orbán Viktor jövőbeni miniszterelnök-jelöltségével kapcsolatban óvatosságra intett."
+      ],
+      "content": "Egy kedden sugárzott, több mint kétórás műsorban nyilatkozott Kövér László, aki a Fidesz választási vereségének okairól és a kormánypárt elmúlt évekbeli mulasztásairól is beszélt. A volt házelnök önkritikusan úgy fogalmazott, hogy a párt nem tett meg mindent, amit megtehetett volna, és példaként közvetlenül az oktatási szférát említette.\n\nA nehézségek hátteréről szólva megjegyezte, hogy a problémákért nem kizárólag a kormányzat felelős, mivel a rendszernek a családok széteséséből fakadó társadalmi terhekkel is meg kellett küzdenie. A Fidesz politikusa emellett kitért a kampány hibáira is, kiemelve, hogy a fiatalokkal folytatott párbeszédet már korábban is intenzívebben kellett volna építeni.\n\nA vereség kapcsán elmondta, hogy bár a felmérések alapján szoros küzdelemre számítottak, és a választás napján is bíztak a győzelemben, a kapott eredmény döbbenetes meglepetést okozott számukra. Orbán Viktor jövőjéről szólva pedig úgy vélekedett, hogy a párt irányításában betöltött meghatározó szerepe nem jelenti automatikusan azt, hogy ő lesz a miniszterelnök-jelölt.",
+      "content_format": "markdown",
+      "body": [
+        "Egy kedden sugárzott, több mint kétórás műsorban nyilatkozott Kövér László, aki a Fidesz választási vereségének okairól és a kormánypárt elmúlt évekbeli mulasztásairól is beszélt. A volt házelnök önkritikusan úgy fogalmazott, hogy a párt nem tett meg mindent, amit megtehetett volna, és példaként közvetlenül az oktatási szférát említette.",
+        "A nehézségek hátteréről szólva megjegyezte, hogy a problémákért nem kizárólag a kormányzat felelős, mivel a rendszernek a családok széteséséből fakadó társadalmi terhekkel is meg kellett küzdenie. A Fidesz politikusa emellett kitért a kampány hibáira is, kiemelve, hogy a fiatalokkal folytatott párbeszédet már korábban is intenzívebben kellett volna építeni.",
+        "A vereség kapcsán elmondta, hogy bár a felmérések alapján szoros küzdelemre számítottak, és a választás napján is bíztak a győzelemben, a kapott eredmény döbbenetes meglepetést okozott számukra. Orbán Viktor jövőjéről szólva pedig úgy vélekedett, hogy a párt irányításában betöltött meghatározó szerepe nem jelenti automatikusan azt, hogy ő lesz a miniszterelnök-jelölt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/17_02_2022_Encontro_com_o_Presidente_da_Assembleia_Nacional%2C_L%C3%A1szl%C3%B3_K%C3%B6ver_%2851887780433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1679,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "(Budapeste - Hungria, 17/02/2022)  Presidente da República Jair Bolsonaro acompanhado do Presidente da Assembleia Nacional, László Köver, posam para fotografia.\nFoto: Isac Nóbrega/PR",
+        "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:17_02_2022_Encontro_com_o_Presidente_da_Assembleia_Nacional,_L%C3%A1szl%C3%B3_K%C3%B6ver_(51887780433).jpg",
+        "exact": true,
+        "entity": "Kövér László",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/10/20/kover-laszlo-az-oktatasi-rendszer-rosszabb-allapotban-van-mint-16-eve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Kövér László: Az oktatási rendszer rosszabb állapotban van, mint 16 éve",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T06:46:22+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261020_kover-laszlo-fidesz-mulasztasok-oktatas-allapota",
+          "title": "Kövér László: A Fidesz is elmulasztott sok mindent, amit megtehetett volna",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T06:46:22+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Igen, a Fidesz is elmulasztott sok mindent, amit megtehetett volna. Például szerintem az oktatási rendszerünk ilyen szempontból rosszabb állapotban van, mint 16 évvel ezelőtt volt.",
+        "who": "Kövér László, a volt házelnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-21T06:47:12+02:00"
+      },
+      "hot_score": 6.5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/10/20/kover-laszlo-az-oktatasi-rendszer-rosszabb-allapotban-van-mint-16-eve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://hvg.hu/itthon/20261020_kover-laszlo-fidesz-mulasztasok-oktatas-allapota"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kozelet/2026-10-21-kover-laszlo-a-kormany-is-felelos-az-oktatas-siralmas-allapotaert/",
+      "seo": {
+        "meta_title": "Kövér László: A kormány is felelős az oktatás siralmas állap",
+        "meta_description": "Kövér László önkritikus nyilatkozatot tett a Fidesz választási vereségéről és az oktatás helyzetéről egy közelmúltbeli interjúban. A volt házelnök szerint a kab",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-kover-laszlo-a-kormany-is-felelos-az-oktatas-siralmas-allapotaert/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/62/17_02_2022_Encontro_com_o_Presidente_da_Assembleia_Nacional%2C_L%C3%A1szl%C3%B3_K%C3%B6ver_%2851887780433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "771f3da0-f871-5ac4-9462-f0adca0f3941"
+      ],
+      "see_also": [
+        {
+          "title": "Pócs János vendégeként ordibált a parlamenti páholyban Szabó Bálint",
+          "url": "/kozelet/2026-10-20-orditva-zavartak-ki-a-parlamentbol-a-fideszes-pocs-janos-vendeget/",
+          "date": "2026-10-20"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "6a097f9f3461538987401dcc8be681173e2cbe9b72808a41920e05a1a28a5a5e",
+      "pipeline_run_id": "39545647596",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T06:47:12+02:00",
+      "updated_at": "2026-10-21T06:47:12+02:00",
+      "published_at": "2026-10-21T06:47:12+02:00",
+      "expires_at": null
+    },
     {
       "id": "f397a3f2-e4ef-538b-aec1-666c15dca3c5",
       "slug": "2026-10-20-kinaig-gyuruzott-a-soskuti-gyar-engedelyenek-visszavonasa",
@@ -67507,115 +67628,6 @@
       "created_at": "2026-09-30T08:12:15+02:00",
       "updated_at": "2026-09-30T08:12:15+02:00",
       "published_at": "2026-09-30T08:12:15+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ea09d0b1-c943-5107-9b9e-0d3d9b75525a",
-      "slug": "2026-09-30-uj-korszak-kuszoben-az-urkutatas-vilaga",
-      "status": "published",
-      "category": "univerzum",
-      "subcategory": null,
-      "tags": [
-        "NASA",
-        "űrkutatás",
-        "Nemzetközi Űrállomás",
-        "Artemis",
-        "SpaceX"
-      ],
-      "title": "Új korszak küszöbén az űrkutatás világa",
-      "subtitle": null,
-      "lead": "A NASA hamarosan elindítja legújabb küldetését a Nemzetközi Űrállomásra, miközben már a jövő holdbéli bázisaira és az űripar fejlődésére készül. Az ügynökség egyszerre fókuszál a gyakorlati kivitelezésre, a hosszú távú stratégiai partnerségekre és az utánpótlás-nevelésre.",
-      "key_points": [
-        "Október elején indul a SpaceX Crew-13 küldetés a Nemzetközi Űrállomásra.",
-        "A NASA képviselői jelen lesznek a törökországi Nemzetközi Asztronautikai Kongresszuson.",
-        "Egyetemi hallgatók ötleteit várják a fenntartható holdbéli kommunikáció fejlesztéséhez."
-      ],
-      "content": "Intenzív napok elé néz az űrkutatási szféra, hiszen a NASA hivatalos tájékoztatása szerint hamarosan útnak indítják a SpaceX Crew-13 missziót. A startot csütörtökön, délelőtt 11 óra 10 perckor tervezik a floridai űrközpontból, a program részleteiről pedig élőben számolnak be az érdeklődőknek. Ez a járat a Nemzetközi Űrállomásra tart, amely az alacsony Föld körüli pályán keringő, tizenhat ország együttműködésével fenntartott, kiemelkedően fontos tudományos laboratórium.\n\nA közvetlen űrrepülési események mellett a nemzetközi kapcsolatok és a hosszú távú tervek is előtérbe kerülnek. Október elején az antalyai Nemzetközi Asztronautikai Kongresszuson is részt vesz az amerikai űrügynökség. A rendezvényen az emberes Hold- és Mars-utazások jövőjéről, a kereskedelmi szektor támogatásáról, valamint a felelős űrtevékenység alapelveit rögzítő Artemis Egyezmény szellemiségéről lesz szó.\n\nA jövő kihívásaira való felkészülés jegyében a kutatók már a következő éveket is tervezik. Ebbe a sorba illeszkedik a 2027-es Human Lander Challenge is, amelyre főiskolás és egyetemi hallgatók jelentkezését várják. A pályázat célja, hogy friss ötleteket gyűjtsenek a tartós holdbéli jelenlét egyik legfőbb technikai akadályához, a megbízható kommunikációs rendszerek kialakításához.\n\nAz olvasó számára ezek a hírek azt mutatják, hogy az űrkutatás már nem csupán elvont tudományos kísérlet, hanem egy strukturált, kereskedelmi partnerekkel és fiatal tehetségekkel közösen épített jövőkép. A most elinduló rakéta és a megfogalmazott hallgatói kihívások egyaránt hozzájárulnak ahhoz, hogy az emberiség biztonságosan vesse meg a lábát a Földön túli világokban.",
-      "content_format": "markdown",
-      "body": [
-        "Intenzív napok elé néz az űrkutatási szféra, hiszen a NASA hivatalos tájékoztatása szerint hamarosan útnak indítják a SpaceX Crew-13 missziót. A startot csütörtökön, délelőtt 11 óra 10 perckor tervezik a floridai űrközpontból, a program részleteiről pedig élőben számolnak be az érdeklődőknek. Ez a járat a Nemzetközi Űrállomásra tart, amely az alacsony Föld körüli pályán keringő, tizenhat ország együttműködésével fenntartott, kiemelkedően fontos tudományos laboratórium.",
-        "A közvetlen űrrepülési események mellett a nemzetközi kapcsolatok és a hosszú távú tervek is előtérbe kerülnek. Október elején az antalyai Nemzetközi Asztronautikai Kongresszuson is részt vesz az amerikai űrügynökség. A rendezvényen az emberes Hold- és Mars-utazások jövőjéről, a kereskedelmi szektor támogatásáról, valamint a felelős űrtevékenység alapelveit rögzítő Artemis Egyezmény szellemiségéről lesz szó.",
-        "A jövő kihívásaira való felkészülés jegyében a kutatók már a következő éveket is tervezik. Ebbe a sorba illeszkedik a 2027-es Human Lander Challenge is, amelyre főiskolás és egyetemi hallgatók jelentkezését várják. A pályázat célja, hogy friss ötleteket gyűjtsenek a tartós holdbéli jelenlét egyik legfőbb technikai akadályához, a megbízható kommunikációs rendszerek kialakításához.",
-        "Az olvasó számára ezek a hírek azt mutatják, hogy az űrkutatás már nem csupán elvont tudományos kísérlet, hanem egy strukturált, kereskedelmi partnerekkel és fiatal tehetségekkel közösen épített jövőkép. A most elinduló rakéta és a megfogalmazott hallgatói kihívások egyaránt hozzájárulnak ahhoz, hogy az emberiség biztonságosan vesse meg a lábát a Földön túli világokban."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 257,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/1280px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 821,
-        "kind": "photo",
-        "alt": "iss056e162175 (Sept. 12, 2018) --- Cameras outside the International Space Station captured a stark and sobering view of Hurricane Florence the morning of Sept. 12 as it churned across the Atlantic in",
-        "credit": "NASA/Goddard Space Flight Center / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
-          "title": "NASA Features Exploration, Science at International Space Conference",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-30T01:20:08+02:00"
-        },
-        {
-          "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-          "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-30T01:20:08+02:00"
-        },
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-          "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-30T01:20:08+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v1",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 8,
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
-          "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-          "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/univerzum/2026-09-30-uj-korszak-kuszoben-az-urkutatas-vilaga/",
-      "seo": {
-        "meta_title": "Új korszak küszöbén az űrkutatás világa",
-        "meta_description": "A NASA hamarosan elindítja legújabb küldetését a Nemzetközi Űrállomásra, miközben már a jövő holdbéli bázisaira és az űripar fejlődésére készül. Az ügynökség eg",
-        "canonical_url": "https://xn--kollektva-m5a.hu/univerzum/2026-09-30-uj-korszak-kuszoben-az-urkutatas-vilaga/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/1280px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "47e6c623cc37baf89a263ab6103799236d30fa380dea8a81736736785ab61a86",
-      "pipeline_run_id": "36644327392",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T01:20:08+02:00",
-      "updated_at": "2026-09-30T01:20:08+02:00",
-      "published_at": "2026-09-30T01:20:08+02:00",
       "expires_at": null
     }
   ]
