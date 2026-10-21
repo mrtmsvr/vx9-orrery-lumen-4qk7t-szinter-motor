@@ -12711,14 +12711,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-21T09:24:26+00:00",
-        "msg_ids": [
-          8636,
-          8637,
-          8638,
-          8639,
-          8641
-        ],
-        "control_id": 8640
+        "msg_ids": [],
+        "control_id": 8640,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
