@@ -1,7 +1,149 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T19:54:33+02:00",
+  "updated_at": "2026-10-21T20:08:50+02:00",
   "articles": [
+    {
+      "id": "225d8fa6-ede1-5d70-ac77-3fbbca1ffbd4",
+      "slug": "2026-10-21-elon-musk-egymaga-huzta-be-a-kezifeket-az-ukran-frontvonalon",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Elon Musk",
+        "Starlink",
+        "Ukrajna",
+        "Orosz-ukrán háború",
+        "Egyesült Államok"
+      ],
+      "title": "Elon Musk egymaga húzta be a kéziféket az ukrán frontvonalon",
+      "subtitle": null,
+      "lead": "Előzetes figyelmeztetés nélkül korlátozta az ukrán hadsereg által használt Starshield rendszer sebességét a SpaceX, ami súlyos zavarokat okozott a frontvonalon. Az ügy miatt informális vizsgálat indult a Fehér Házban, miután kiderült, hogy a kormányzat előre nem is tudott a döntésről.",
+      "key_points": [
+        "Elon Musk rendelte el a Starlink katonai változatának, a Starshieldnek a lelassítását a múlt héten.",
+        "A korlátozás miatt az ukrán egységek kritikus kommunikációs és irányítási lehetőségeket veszítettek el.",
+        "A Fehér Házban vizsgálat indult, Marco Rubio külügyminisztériumának pedig nem volt előzetes tudomása az intézkedésről."
+      ],
+      "content": "Október 14-én kezdődött meg az a váratlan műholdas lassítás, amely során előzetes figyelmeztetés nélkül korlátozta a SpaceX a Starlink katonai változatának, a Starshieldnek a sebességét az ukrán frontvonalon. A Wall Street Journal amerikai tisztviselőkre hivatkozva arról számolt be, hogy a korlátozást Elon Musk rendelte el, ami azonnali technikai zavarokat okozott a navigációs, kommunikációs és vezetésirányítási rendszerekben. Az ukrán katonai hardverek nem tudtak megfelelően csatlakozni, ezért több bevetést is el kellett halasztani.\n\nVolodimir Zelenszkij ukrán elnök nyílt tiltakozásban figyelmeztetett arra, hogy ukránok halhatnak meg a korlátozásmentes szolgáltatás hiánya miatt, míg a katonai tanácsadó, Szerhij Beskrestnov a múlt héten a rendszer hibáiról számolt be. Október 16-án ráadásul újabb üzemzavarok nehezítették a SpaceX műholdas internetet szolgáltató rendszerének működését.\n\nA Washingtonban kialakult bizonytalanság miatt informális vizsgálat indult a Fehér Házban, miután kiderült, hogy a kormányzat nem kérte a Starlink lassítását.\n\nA korlátozást megelőzően a Trump-kormányzat több olyan nyilatkozatot is tett, amelyet Kijev ellenségesnek értékelt, beleértve Donald Trump és Musk kritikáit az ukrán vezetéssel szemben. Elemzők mindezt közvetlenül az amerikai–orosz dízelmegállapodáshoz kötik, amelynek értelmében Moszkva év végéig 2-2,5 millió tonna gázolajat szállíthat le a világpiacra, cserébe az Egyesült Államok felfüggesztette az újabb szankciós csomagot. A feszültséget fokozta, hogy Trump és az amerikai elnök szövetségeseként ismert Musk is nemtetszését fejezte ki az ukránok olajfinomítók elleni katonai akciói miatt, mivel az elnök szerint ezek hajtják fel az üzemanyagárakat.\n\nA sajtóban megjelenő hírek után a SpaceX képviselői felhívták fehér házi kapcsolattartóikat, hogy közös kommunikációs álláspontot alakítsanak ki arról, miszerint a vállalat és a kormányzat egyeztetett az utasítás előtt. Ezzel szemben a Wall Street Journal forrásai azt állították, hogy a milliárdos egyoldalúan, önállóan cselekedett, és a döntésről csak utólag értesítette a vezetést, noha a háttérben telefonon is beszélt Trumppal a lépésről. Musk maga az X-en úgy reagált a fejleményekre, hogy a sebességre vagy a használatra vonatkozó korlátozásokról az amerikai hadsereg és végső soron az Egyesült Államok elnöke dönt.",
+      "content_format": "markdown",
+      "body": [
+        "Október 14-én kezdődött meg az a váratlan műholdas lassítás, amely során előzetes figyelmeztetés nélkül korlátozta a SpaceX a Starlink katonai változatának, a Starshieldnek a sebességét az ukrán frontvonalon. A Wall Street Journal amerikai tisztviselőkre hivatkozva arról számolt be, hogy a korlátozást Elon Musk rendelte el, ami azonnali technikai zavarokat okozott a navigációs, kommunikációs és vezetésirányítási rendszerekben. Az ukrán katonai hardverek nem tudtak megfelelően csatlakozni, ezért több bevetést is el kellett halasztani.",
+        "Volodimir Zelenszkij ukrán elnök nyílt tiltakozásban figyelmeztetett arra, hogy ukránok halhatnak meg a korlátozásmentes szolgáltatás hiánya miatt, míg a katonai tanácsadó, Szerhij Beskrestnov a múlt héten a rendszer hibáiról számolt be. Október 16-án ráadásul újabb üzemzavarok nehezítették a SpaceX műholdas internetet szolgáltató rendszerének működését.",
+        "A Washingtonban kialakult bizonytalanság miatt informális vizsgálat indult a Fehér Házban, miután kiderült, hogy a kormányzat nem kérte a Starlink lassítását.",
+        "A korlátozást megelőzően a Trump-kormányzat több olyan nyilatkozatot is tett, amelyet Kijev ellenségesnek értékelt, beleértve Donald Trump és Musk kritikáit az ukrán vezetéssel szemben. Elemzők mindezt közvetlenül az amerikai–orosz dízelmegállapodáshoz kötik, amelynek értelmében Moszkva év végéig 2-2,5 millió tonna gázolajat szállíthat le a világpiacra, cserébe az Egyesült Államok felfüggesztette az újabb szankciós csomagot. A feszültséget fokozta, hogy Trump és az amerikai elnök szövetségeseként ismert Musk is nemtetszését fejezte ki az ukránok olajfinomítók elleni katonai akciói miatt, mivel az elnök szerint ezek hajtják fel az üzemanyagárakat.",
+        "A sajtóban megjelenő hírek után a SpaceX képviselői felhívták fehér házi kapcsolattartóikat, hogy közös kommunikációs álláspontot alakítsanak ki arról, miszerint a vállalat és a kormányzat egyeztetett az utasítás előtt. Ezzel szemben a Wall Street Journal forrásai azt állították, hogy a milliárdos egyoldalúan, önállóan cselekedett, és a döntésről csak utólag értesítette a vezetést, noha a háttérben telefonon is beszélt Trumppal a lépésről. Musk maga az X-en úgy reagált a fejleményekre, hogy a sebességre vagy a használatra vonatkozó korlátozásokról az amerikai hadsereg és végső soron az Egyesült Államok elnöke dönt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 356,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1642,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Elon Musk at the Memorial for Charlie Kirk at State Farm Stadium in Glendale, Arizona.",
+        "credit": "Gage Skidmore / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg",
+        "exact": true,
+        "entity": "Elon Musk",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/10/21/a-wall-street-journal-szerint-elon-musk-rendelte-el-az-ukran-katonak-altal-hasznalt-starlink-lassitasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "A Wall Street Journal szerint Elon Musk rendelte el az ukrán katonák által használt Starlink lassítását",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T19:52:55+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/21/elon-musk-starlink-leallitas-ukrajna-egyesult-allamok",
+          "title": "Wall Street Journal: Elon Musk rendelte el a Starshield korlátozását",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T19:52:55+02:00"
+        },
+        {
+          "url": "https://hvg.hu/vilag/20261021_elon-musk-starlink-starshield-ukrajna-korlatozas-haboru-trump-zelenszkij",
+          "title": "A WSJ szerint is Musk rendelte el a Starlink-rendszer sebességének korlátozását",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T19:52:55+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nem volt előzetes tudomásunk róla",
+        "who": "Marco Rubio amerikai külügyminiszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-21T20:08:50+02:00"
+      },
+      "hot_score": 7.15,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/10/21/a-wall-street-journal-szerint-elon-musk-rendelte-el-az-ukran-katonak-altal-hasznalt-starlink-lassitasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://telex.hu/kulfold/2026/10/21/elon-musk-starlink-leallitas-ukrajna-egyesult-allamok"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/vilag/2026-10-21-elon-musk-egymaga-huzta-be-a-kezifeket-az-ukran-frontvonalon/",
+      "seo": {
+        "meta_title": "Elon Musk egymaga húzta be a kéziféket az ukrán frontvonalon",
+        "meta_description": "Előzetes figyelmeztetés nélkül korlátozta az ukrán hadsereg által használt Starshield rendszer sebességét a SpaceX, ami súlyos zavarokat okozott a frontvonalon.",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-21-elon-musk-egymaga-huzta-be-a-kezifeket-az-ukran-frontvonalon/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "9a8ba9a6-5503-53ce-885c-c334e07c145f",
+        "412d5960-4268-5e08-9aae-9c6f7aeea40e",
+        "62e4cbc1-fdbe-546e-959d-b1516c731fb3"
+      ],
+      "see_also": [
+        {
+          "title": "Hirtelen lekapcsolta az ukrán drónokat Elon Musk cége",
+          "url": "/vilag/2026-10-17-hirtelen-lekapcsolta-az-ukran-dronokat-elon-musk-cege/",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Elon Musk cége korlátozta, majd részlegesen visszakapcsolta az ukrán Starlinket",
+          "url": "/vilag/2026-10-15-elon-musk-cege-korlatozta-majd-reszlegesen-visszakapcsolta-az-ukran-s/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Zelenszkij árulásnak nevezte Donald Trump Starlink-döntését",
+          "url": "/vilag/2026-10-15-zelenszkij-arulasnak-nevezte-donald-trump-starlink-donteset/",
+          "date": "2026-10-15"
+        }
+      ],
+      "thread_id": "62e4cbc1-fdbe-546e-959d-b1516c731fb3",
+      "dedupe_hash": "0171ad3a0c39e884c1c3be3022df0eeea281d900e27c6e2367432a964cefcffa",
+      "pipeline_run_id": "39643435972",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T20:08:50+02:00",
+      "updated_at": "2026-10-21T20:08:50+02:00",
+      "published_at": "2026-10-21T20:08:50+02:00",
+      "expires_at": null
+    },
     {
       "id": "44175464-740c-5a5a-8aa2-be78154d1796",
       "slug": "2026-10-21-megszolalt-furcht-pal-felulrol-erkezo-utasitassal-akartak-lezarni-a-v",
@@ -67959,112 +68101,6 @@
       "created_at": "2026-09-30T13:34:05+02:00",
       "updated_at": "2026-09-30T13:39:23+02:00",
       "published_at": "2026-09-30T13:34:05+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "b1e181b7-dc96-529d-9d6c-0cb0a076c8c6",
-      "slug": "2026-09-30-gyaszol-a-hazai-cirkuszvilag-elhunyt-a-recirquel-muvesze",
-      "status": "published",
-      "category": "kultura",
-      "subcategory": null,
-      "tags": [
-        "Recirquel",
-        "cirkusz",
-        "gyász",
-        "Kultúra"
-      ],
-      "title": "Gyászol a hazai cirkuszvilág: elhunyt a Recirquel művésze",
-      "subtitle": null,
-      "lead": "Életének harminckettedik évében, közúti balesetben vesztette életét Nagy Ferenc Karádi-díjas cirkuszművész, a Recirquel társulatának tagja. A tragédia miatt a produkció több előadását is elhalasztották.",
-      "key_points": [
-        "Hétfőn közúti balesetben elhunyt Nagy Ferenc cirkuszművész.",
-        "A művész tavaly óta volt a Recirquel tagja, a Walk My World című előadásban Jupiter szerepét alakította.",
-        "A társulat kegyeleti okokból lemondta a csütörtöki és pénteki előadásait.",
-        "Az október 25-i produkció teljes jegybevételét a gyászoló családnak ajánlják fel."
-      ],
-      "content": "Hétfőn tragikus hirtelenséggel, közúti balesetben elhunyt Nagy Ferenc Karádi-díjas cirkuszművész, aki tavaly csatlakozott a Recirquel társulatához. A hír hallatán a művészeti közösség mély megrendüléssel reagált, kiemelve a művész egyedi színpadi jelenlétét és szakmai elhivatottságát.\n\nNagy Ferenc 2008-ban végzett az Állami Artistaképző Intézetben rhönrád szakon; pályájára nagy hatással volt Kováts Tibor balettművész, akire mentorként tekintett. Pályafutása során a világ számos országában fellépett, és munkásságának egyik legmeghatározóbb állomása volt a németországi Flic-Flac cirkusz is.\n\nMűvészi munkáját pályája során több rangos elismeréssel díjazták:\n\n- A porond ifjú csillaga díj\n\n- Karádi Béla-díj\n\n- Hortobágyi Károly-díj\n\n- A 8. Albacetei Nemzetközi Cirkuszfesztivál ezüstérme\n\nA Recirquel a gyász miatt átalakította műsorrendjét: a csütörtöki és pénteki Walk My World előadások elmaradnak, szombaton pedig gyászszünettel emlékeznek meg a művészről. Az október 25-i est teljes jegybevételét a család támogatására fordítják.",
-      "content_format": "markdown",
-      "body": [
-        "Hétfőn tragikus hirtelenséggel, közúti balesetben elhunyt Nagy Ferenc Karádi-díjas cirkuszművész, aki tavaly csatlakozott a Recirquel társulatához. A hír hallatán a művészeti közösség mély megrendüléssel reagált, kiemelve a művész egyedi színpadi jelenlétét és szakmai elhivatottságát.",
-        "Nagy Ferenc 2008-ban végzett az Állami Artistaképző Intézetben rhönrád szakon; pályájára nagy hatással volt Kováts Tibor balettművész, akire mentorként tekintett. Pályafutása során a világ számos országában fellépett, és munkásságának egyik legmeghatározóbb állomása volt a németországi Flic-Flac cirkusz is.",
-        "Művészi munkáját pályája során több rangos elismeréssel díjazták:",
-        "- A porond ifjú csillaga díj",
-        "- Karádi Béla-díj",
-        "- Hortobágyi Károly-díj",
-        "- A 8. Albacetei Nemzetközi Cirkuszfesztivál ezüstérme",
-        "A Recirquel a gyász miatt átalakította műsorrendjét: a csütörtöki és pénteki Walk My World előadások elmaradnak, szombaton pedig gyászszünettel emlékeznek meg a művészről. Az október 25-i est teljes jegybevételét a család támogatására fordítják."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 160,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/V%C3%A1gi_Bence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1801,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Vági Bence, a Recirquel Újcirkusz Társulat alapítója és művészeti vezetője.",
-        "credit": "Bálint Hirling, photographer / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A1gi_Bence.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/kultura/20260930_kozuti-balesetben-elhunyt-a-recirquel-tarsulatanak-tagja",
-          "title": "Meghalt Nagy Ferenc, a Recirquel társulatának tagja",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T13:32:08+02:00"
-        },
-        {
-          "url": "https://telex.hu/karakter/kultura/2026/09/30/kozuti-balesetben-meghalt-nagy-ferenc-recirquel-tarsulat-tagja",
-          "title": "Balesetben meghalt a Recirquel Társulat egyik tagja",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T13:32:08+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-09-30T13:34:01+02:00"
-      },
-      "hot_score": 9.27,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/kultura/20260930_kozuti-balesetben-elhunyt-a-recirquel-tarsulatanak-tagja",
-          "https://telex.hu/karakter/kultura/2026/09/30/kozuti-balesetben-meghalt-nagy-ferenc-recirquel-tarsulat-tagja"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/kultura/2026-09-30-gyaszol-a-hazai-cirkuszvilag-elhunyt-a-recirquel-muvesze/",
-      "seo": {
-        "meta_title": "Gyászol a hazai cirkuszvilág: elhunyt a Recirquel művésze",
-        "meta_description": "Életének harminckettedik évében, közúti balesetben vesztette életét Nagy Ferenc Karádi-díjas cirkuszművész, a Recirquel társulatának tagja. A tragédia miatt a p",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-09-30-gyaszol-a-hazai-cirkuszvilag-elhunyt-a-recirquel-muvesze/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/V%C3%A1gi_Bence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "96415d189b88fd24021d0476794bd9be1a25df72312e781fb35c0bf12e103276",
-      "pipeline_run_id": "36709036752",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T13:34:01+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T13:34:01+02:00",
       "expires_at": null
     }
   ]
