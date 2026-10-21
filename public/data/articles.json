@@ -1,7 +1,134 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T09:39:29+02:00",
+  "updated_at": "2026-10-21T09:39:35+02:00",
   "articles": [
+    {
+      "id": "4f7d97b0-de0a-5f77-8e6e-87c34c37195e",
+      "slug": "2026-10-21-gazdasagi-buncselekmenyek-miatt-orizetbe-vettek-matolcsy-gyorgyot",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Matolcsy György",
+        "MNB",
+        "ügyészség",
+        "gazdasági bűncselekmény"
+      ],
+      "title": "Gazdasági bűncselekmények gyanúja miatt előállították Matolcsy Györgyöt",
+      "subtitle": null,
+      "lead": "Szerda kora reggel előállították Matolcsy György volt jegybankelnököt. A Központi Nyomozó Főügyészség nagyszabású akciója egy elhúzódó gazdasági bűnügyi nyomozás újabb állomása.",
+      "key_points": [
+        "Matolcsy Györgyöt jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
+        "A hatóságok összehangolt akciót hajtanak végre az MNB-vel összefüggő ügyekben.",
+        "A nyomozás 2025 márciusa óta tart.",
+        "Az ügyészség a nap folyamán további részletes tájékoztatást ígért."
+      ],
+      "content": "Szerda reggel a nyomozók a Központi Nyomozó Főügyészségre szállították Matolcsy György volt jegybankelnököt. A gyanúsítotti kihallgatás még nem kezdődött el, várhatóan délelőtt kerül rá sor.\n\nAz akció nem előzmények nélküli: a hatóságok az úgynevezett MNB-ügyben különösen jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt folytatnak vizsgálatot. A Központi Nyomozó Főügyészség megerősítette, hogy több helyszínen hajtanak végre összehangolt intézkedéseket. A munkában a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság, a Nemzeti Védelmi Szolgálat és a Készenléti Rendőrség is részt vesz.\n\nAz ügy 2025 márciusában indult, amikor az Állami Számvevőszék feljelentést tett a Magyar Nemzeti Bank működésével összefüggésben. A gyanú szerint a jegybank alapítványának vagyonkezelője indokolatlanul kockáztatta a rábízott forrásokat: több száz milliárd forintot fektetett két külföldi ingatlancégbe, amelyek jelentős értéket veszítettek. Az Optima csoport kapcsán például 60 milliárd forint indokolatlan túlfizetés gyanúja merült fel.",
+      "content_format": "markdown",
+      "body": [
+        "Szerda reggel a nyomozók a Központi Nyomozó Főügyészségre szállították Matolcsy György volt jegybankelnököt. A gyanúsítotti kihallgatás még nem kezdődött el, várhatóan délelőtt kerül rá sor.",
+        "Az akció nem előzmények nélküli: a hatóságok az úgynevezett MNB-ügyben különösen jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt folytatnak vizsgálatot. A Központi Nyomozó Főügyészség megerősítette, hogy több helyszínen hajtanak végre összehangolt intézkedéseket. A munkában a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság, a Nemzeti Védelmi Szolgálat és a Készenléti Rendőrség is részt vesz.",
+        "Az ügy 2025 márciusában indult, amikor az Állami Számvevőszék feljelentést tett a Magyar Nemzeti Bank működésével összefüggésben. A gyanú szerint a jegybank alapítványának vagyonkezelője indokolatlanul kockáztatta a rábízott forrásokat: több száz milliárd forintot fektetett két külföldi ingatlancégbe, amelyek jelentős értéket veszítettek. Az Optima csoport kapcsán például 60 milliárd forint indokolatlan túlfizetés gyanúja merült fel."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 156,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1045398161.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-1045398161.jpg",
+        "kind": "photo",
+        "alt": "Matolcsy György őrizetben",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot/",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/21/kozponti-nyomozo-ugyeszseg-mnb-eljarasi-cselekmeny-helyszinek/",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgy-volt-jegybankelnokot",
+          "title": "Őrizetbe vették Matolcsy György volt jegybankelnököt",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ügyfelemet jelentős vagyoni hátrányt okozó gazdasági csalás bűntettével és hamis magánokirat felhasználásának vétségével gyanúsítják.",
+        "who": "Bátki Pál, Matolcsy György jogi képviselője",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-21T09:39:35+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot/",
+          "https://index.hu/belfold/2026/10/21/kozponti-nyomozo-ugyeszseg-mnb-eljarasi-cselekmeny-helyszinek/",
+          "https://infostart.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgy-volt-jegybankelnokot"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kozelet/2026-10-21-gazdasagi-buncselekmenyek-miatt-orizetbe-vettek-matolcsy-gyorgyot/",
+      "seo": {
+        "meta_title": "Gazdasági bűncselekmények gyanúja miatt előállították Matolc",
+        "meta_description": "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt. A Központi Nyomozó Főügyészség nagyszabású akciója egy elhúzódó gazdasági bűnügyi nyomo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-gazdasagi-buncselekmenyek-miatt-orizetbe-vettek-matolcsy-gyorgyot/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1045398161.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "c38f14b5-1be5-5751-992d-503a6482dc2e"
+      ],
+      "see_also": [
+        {
+          "title": "Kátai-Németh Vilmos feljelentést tett a szerencsi közpénzek ügyében",
+          "url": "/kozelet/2026-10-17-koncz-zsofia-kampanyara-kolthettek-a-csaladbarat-milliokat/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "31a29a57bc51e00df04bbb5535701d24795abf43a7a7893cedde295e9c7de97e",
+      "pipeline_run_id": "39562525647",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T09:39:35+02:00",
+      "updated_at": "2026-10-21T09:39:35+02:00",
+      "published_at": "2026-10-21T09:39:35+02:00",
+      "expires_at": null,
+      "hold": true
+    },
     {
       "id": "8bf31311-b220-5ab0-999e-d15b8c9936ff",
       "slug": "2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko",
@@ -67669,100 +67796,6 @@
       "created_at": "2026-09-30T13:31:16+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-30T13:31:16+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "5c7bbb4f-155e-5e39-bc9b-81c8d20e8826",
-      "slug": "2026-09-30-kisebb-oroszorszag-nagyobb-afrika-az-uj-terkepen",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "földrajz",
-        "ENSZ",
-        "térkép",
-        "tudomány",
-        "geopolitika"
-      ],
-      "title": "Kisebb Oroszország, nagyobb Afrika az új térképen",
-      "subtitle": null,
-      "lead": "Az ENSZ Közgyűlése megszavazta az Equal Earth-vetületet használó térképeket, amelyek pontosabban mutatják a földrészek valódi arányait. Ez a döntés nemcsak a földrajzi szemléletünket formálja át, hanem a társadalmi identitásunkra is hatással van.",
-      "key_points": [
-        "Az ENSZ elfogadta az Equal Earth-térképeket.",
-        "A hagyományos Mercator-vetület torzít a sarkok felé.",
-        "Afrika jóval nagyobbnak, Oroszország pedig kisebbnek látszik az új ábrázolásban."
-      ],
-      "content": "A Qubit beszámolója szerint az ENSZ Közgyűlése nemrég szavazta meg azt a területtartó világtérképet, amely alapjaiban rajzolhatja újra a globális arányokról alkotott képet. Az afrikai kezdeményezésre indult Equal Earth-vetület matematikai pontossággal őrzi meg a területarányokat, miközben szakít a 16. század óta használt hagyományos rendszerek vizuális torzításaival.\n\nA mindennapokban használt webes térképek és atlaszok eddig a Mercator-vetületi rendszert követték, amelyet eredetileg hajózási navigációhoz terveztek. Ennek a struktúrának a legfőbb sajátossága, hogy a sarkok felé haladva fokozatosan felnagyítja a területeket, így Grönland vagy Oroszország mérete jelentősen túlméretezetté vált a valósághoz képest.\n\nA Szegedi Tudományegyetem Földrajz- és Földtudományi Intézetének szakértői, Kriska Olivér társadalomföldrajz-kutató és Kádár Anett friss tanulmányukban rámutatnak a vizuális ábrázolások identitásformáló erejére. A gyerekek mentális térképe és a társadalmak önképe is nagymértékben függ attól, hogy a térképeken hogyan viszonyulnak egymáshoz a kontinensek.\n\nAz ENSZ-szavazás során a nemzetközi diplomácia is megosztottnak bizonyult az új vetület kérdésében. Az Egyesült Államok ideológiai ambíciókat sejtett a kezdeményezés mögött, ezért leszavazta azt, míg hat ország – Észtország, Grúzia, Litvánia, Moldova, Szerbia és Ukrajna – tartózkodott a szavazástól.",
-      "content_format": "markdown",
-      "body": [
-        "A Qubit beszámolója szerint az ENSZ Közgyűlése nemrég szavazta meg azt a területtartó világtérképet, amely alapjaiban rajzolhatja újra a globális arányokról alkotott képet. Az afrikai kezdeményezésre indult Equal Earth-vetület matematikai pontossággal őrzi meg a területarányokat, miközben szakít a 16. század óta használt hagyományos rendszerek vizuális torzításaival.",
-        "A mindennapokban használt webes térképek és atlaszok eddig a Mercator-vetületi rendszert követték, amelyet eredetileg hajózási navigációhoz terveztek. Ennek a struktúrának a legfőbb sajátossága, hogy a sarkok felé haladva fokozatosan felnagyítja a területeket, így Grönland vagy Oroszország mérete jelentősen túlméretezetté vált a valósághoz képest.",
-        "A Szegedi Tudományegyetem Földrajz- és Földtudományi Intézetének szakértői, Kriska Olivér társadalomföldrajz-kutató és Kádár Anett friss tanulmányukban rámutatnak a vizuális ábrázolások identitásformáló erejére. A gyerekek mentális térképe és a társadalmak önképe is nagymértékben függ attól, hogy a térképeken hogyan viszonyulnak egymáshoz a kontinensek.",
-        "Az ENSZ-szavazás során a nemzetközi diplomácia is megosztottnak bizonyult az új vetület kérdésében. Az Egyesült Államok ideológiai ambíciókat sejtett a kezdeményezés mögött, ezért leszavazta azt, míg hat ország – Észtország, Grúzia, Litvánia, Moldova, Szerbia és Ukrajna – tartózkodott a szavazástól."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 206,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Szegedi_Tudom%C3%A1nyegyetem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "szegedi tudományegyetem",
-        "credit": "szeged university / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Szegedi_Tudom%C3%A1nyegyetem.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://qubit.hu/2026/09/30/oroszorszag-sokkal-kisebb-afrika-joval-nagyobb-mint-azt-az-eddigi-terkepek-mutattak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "title": "Oroszország sokkal kisebb, Afrika jóval nagyobb, mint azt az eddigi térképek mutatták",
-          "publisher": "qubit.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:26:59+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 5.67,
-      "category_meta": {
-        "source_links": [
-          "https://qubit.hu/2026/09/30/oroszorszag-sokkal-kisebb-afrika-joval-nagyobb-mint-azt-az-eddigi-terkepek-mutattak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/tech/2026-09-30-kisebb-oroszorszag-nagyobb-afrika-az-uj-terkepen/",
-      "seo": {
-        "meta_title": "Kisebb Oroszország, nagyobb Afrika az új térképen",
-        "meta_description": "Az ENSZ Közgyűlése megszavazta az Equal Earth-vetületet használó térképeket, amelyek pontosabban mutatják a földrészek valódi arányait. Ez a döntés nemcsak a fö",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-09-30-kisebb-oroszorszag-nagyobb-afrika-az-uj-terkepen/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Szegedi_Tudom%C3%A1nyegyetem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "d95ecdedcaedf3892d7226521e72ede1ba4845ee4e0badd4764b16c0939d3053",
-      "pipeline_run_id": "36683412396",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T09:26:59+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T09:26:59+02:00",
       "expires_at": null
     }
   ]
