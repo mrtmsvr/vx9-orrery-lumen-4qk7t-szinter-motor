@@ -269,10 +269,15 @@ def caption(art: dict) -> str:
     def tag(t: str) -> str:
         return "#" + re.sub(r"[^\wáéíóöőúüű]", "", str(t).lower().replace(" ", ""))
     sec = (kc.SECTIONS.get(art.get("category"), {}) or {}).get("name", "")
-    # az Instagram 2025 decembere óta posztonként max. 5 hashtaget enged: 3 téma (a cikk címkéi: név, ügy, hely) + 2 saját
-    topical = [tag(t) for t in (art.get("tags") or [])] + ([tag(sec)] if sec else [])
-    topical = [t for i, t in enumerate(topical) if 2 < len(t) <= 30 and t not in topical[:i]][:3]
-    tags = topical + ["#hírek", "#kollektíva"]
+    # max. 5 hashtag (Instagram, 2025 dec. óta): 2 téma (a cikk címkéi: név, ügy) + a nagy magyar hírlapok által is
+    # használt általános hírcímkék (rovatcímke + #hírek + #magyarország) – így a posztok ugyanazokra a hashtag-oldalakra
+    # kerülnek, ahol az ő posztjaik is vannak. Más lapok márkanév-címkéje (#telex) nem: az az ő gyűjtőoldaluk, spamnek hat.
+    sec_tag = {"kozelet": "#belföld", "vilag": "#külföld", "penzvilag": "#gazdaság", "tech": "#tudomány",
+               "eletmod": "#egészség", "kultura": "#kultúra", "bulvar": "#sztárok"}.get(art.get("category"), "")
+    base = [t for t in (sec_tag, "#hírek", "#magyarország") if t]
+    topical = [tag(t) for t in (art.get("tags") or [])]
+    topical = [t for i, t in enumerate(topical) if 2 < len(t) <= 30 and t not in topical[:i] and t not in base][:5 - len(base)]
+    tags = topical + base
     text = (f"{art.get('title', '')}\n\n{art.get('lead', '')}\n\n"
             "👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n" + " ".join(tags[:5]))
     return text[:2150]
