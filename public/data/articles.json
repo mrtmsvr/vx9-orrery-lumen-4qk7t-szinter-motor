@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T09:38:31+02:00",
+  "updated_at": "2026-10-21T09:39:29+02:00",
   "articles": [
+    {
+      "id": "8bf31311-b220-5ab0-999e-d15b8c9936ff",
+      "slug": "2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Matolcsy György",
+        "MNB",
+        "ügyészség",
+        "nyomozás",
+        "közélet"
+      ],
+      "title": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
+      "subtitle": null,
+      "lead": "Szerda kora reggel a Központi Nyomozó Főügyészség őrizetbe vette Matolcsy György volt jegybankelnököt. Az intézkedés annak a széles körű nyomozásnak a része, amely az MNB ingatlanberuházásait és alapítványi pénzmozgásait vizsgálja.",
+      "key_points": [
+        "Matolcsy Györgyöt jelentős vagyoni hátrányt okozó gazdasági csalással és hamis magánokirat felhasználásával gyanúsítják.",
+        "A Központi Nyomozó Főügyészség több helyszínen hajtott végre összehangolt eljárási cselekményeket.",
+        "Az ügyészség a nap folyamán ígért bővebb tájékoztatást a nyomozati lépésekről."
+      ],
+      "content": "Szerda reggel a hatóságok a Központi Nyomozó Főügyészségre szállították Matolcsy Györgyöt. Jogi képviselője, Bátki Pál a sajtónak megerősítette, hogy ügyfelét több bűncselekménnyel gyanúsítják.\n\nA hatósági akció kiterjedtségét jelzi, hogy az ügyészség irányításával a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság, a Nemzeti Védelmi Szolgálat és a Készenléti Rendőrség állománya is részt vesz a munkában. Az eljárás azokra a gyanús pénzmozgásokra fókuszál, amelyek az MNB alapítványainak ingatlanberuházásai és a kecskeméti Neumann János Egyetem kölcsönügyletei körül merültek fel.\n\nMatolcsy György szeptemberben még úgy nyilatkozott, hogy áll elébe a vizsgálatoknak, hangsúlyozva, hogy a jegybanki alapítványok vagyona közpénz jellegű.\n\nA hatóságok a szerdai eljárási cselekmények lezárultát követően, az esti órákra ígértek részletes tájékoztatást.",
+      "content_format": "markdown",
+      "body": [
+        "Szerda reggel a hatóságok a Központi Nyomozó Főügyészségre szállították Matolcsy Györgyöt. Jogi képviselője, Bátki Pál a sajtónak megerősítette, hogy ügyfelét több bűncselekménnyel gyanúsítják.",
+        "A hatósági akció kiterjedtségét jelzi, hogy az ügyészség irányításával a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság, a Nemzeti Védelmi Szolgálat és a Készenléti Rendőrség állománya is részt vesz a munkában. Az eljárás azokra a gyanús pénzmozgásokra fókuszál, amelyek az MNB alapítványainak ingatlanberuházásai és a kecskeméti Neumann János Egyetem kölcsönügyletei körül merültek fel.",
+        "Matolcsy György szeptemberben még úgy nyilatkozott, hogy áll elébe a vizsgálatoknak, hangsúlyozva, hogy a jegybanki alapítványok vagyona közpénz jellegű.",
+        "A hatóságok a szerdai eljárási cselekmények lezárultát követően, az esti órákra ígértek részletes tájékoztatást."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 139,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
+        "exact": true,
+        "entity": "Magyar Nemzeti Bank",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/gazdasag/20261021_orizetbe-vettek-matolcsy-gyorgyot-mnb",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/21/kozponti-nyomozo-ugyeszseg-mnb-eljarasi-cselekmeny-helyszinek/",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgy-volt-jegybankelnokot",
+          "title": "Őrizetbe vették Matolcsy György volt jegybankelnököt",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:38+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ügyfelemet jelentős vagyoni hátrányt okozó gazdasági csalás bűntettével és hamis magánokirat felhasználásának vétségével gyanúsítják",
+        "who": "Bátki Pál, Matolcsy György jogi képviselője",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-21T09:39:29+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/gazdasag/20261021_orizetbe-vettek-matolcsy-gyorgyot-mnb",
+          "https://index.hu/belfold/2026/10/21/kozponti-nyomozo-ugyeszseg-mnb-eljarasi-cselekmeny-helyszinek/",
+          "https://infostart.hu/belfold/2026/10/21/orizetbe-vettek-matolcsy-gyorgy-volt-jegybankelnokot"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kozelet/2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko/",
+      "seo": {
+        "meta_title": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegyb",
+        "meta_description": "Szerda kora reggel a Központi Nyomozó Főügyészség őrizetbe vette Matolcsy György volt jegybankelnököt. Az intézkedés annak a széles körű nyomozásnak a része, am",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "21f2c10b27c854bf3a32d2e23bf33e6a8a084b8f225594b9650283f26f026abb",
+      "pipeline_run_id": "39562525647",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T09:39:29+02:00",
+      "updated_at": "2026-10-21T09:39:29+02:00",
+      "published_at": "2026-10-21T09:39:29+02:00",
+      "expires_at": null
+    },
     {
       "id": "3cc10bee-1eea-564d-98f3-55d538c58f10",
       "slug": "2026-10-21-bilincsben-a-volt-jegybankelnok-nagyszabasu-razziat-tart-az-ugyeszseg",
@@ -67641,99 +67763,6 @@
       "created_at": "2026-09-30T09:26:59+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-30T09:26:59+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "2e3b7ae9-ac98-5cf4-a2ac-52ae4a3b5264",
-      "slug": "2026-09-30-urbiztonsagi-szolgaltatasokra-szerzodott-a-nasa",
-      "status": "published",
-      "category": "univerzum",
-      "subcategory": null,
-      "tags": [
-        "NASA",
-        "űrkutatás",
-        "biztonság",
-        "űrutazás"
-      ],
-      "title": "Űrbiztonsági szolgáltatásokra szerződött a NASA",
-      "subtitle": null,
-      "lead": "A NASA szerződést kötött az Omitron Inc. vállalattal űrbiztonsági elemzési szolgáltatások ellátására. A megállapodás célja az űreszközök és az űrhajósok védelmének garantálása.",
-      "key_points": [
-        "A megegyezés értéke megközelítőleg 23,5 millió dollár.",
-        "A szerződés ötéves teljesítési időszakra szól.",
-        "A feladatok közé tartozik a személyzet nélküli űrhajók pályaelemzése."
-      ],
-      "content": "A nasa.gov-on megjelent hivatalos közlemény szerint a NASA szerződést kötött az Omitron Inc. céggel űrbiztonsági elemzői szolgáltatások ellátására. A megállapodás kulcsszerepet játszik az űrügynökség repülőeszközeinek és az űrhajósok életének védelmében.\n\nA megbízás ötéves teljesítési időszakra szól, a szerződés becsült értéke pedig megközelíti a 23,5 millió dollárt. A keretmegállapodás értelmében a vállalat végzi el az összes személyzet nélküli NASA-űrhajó pályametszés-ellenőrzési (conjunction assessment) szűrési feladatát.\n\nAz ehhez hasonló technológiai és biztonsági szolgáltatások elengedhetetlenek a mind zsúfoltabbá váló alacsony Föld körüli pályán, ahol a különböző űreszközök és műholdak ütközésének elkerülése mindennapos mérnöki kihívást jelent.\n\nA jövőben ezek a szolgáltatások garantálják majd, hogy a folyamatosan bővülő űrkutatási és emberes küldetések – amilyenek például a Crew-missziók is – zavartalanul és a legnagyobb biztonságban valósulhassanak meg.",
-      "content_format": "markdown",
-      "body": [
-        "A nasa.gov-on megjelent hivatalos közlemény szerint a NASA szerződést kötött az Omitron Inc. céggel űrbiztonsági elemzői szolgáltatások ellátására. A megállapodás kulcsszerepet játszik az űrügynökség repülőeszközeinek és az űrhajósok életének védelmében.",
-        "A megbízás ötéves teljesítési időszakra szól, a szerződés becsült értéke pedig megközelíti a 23,5 millió dollárt. A keretmegállapodás értelmében a vállalat végzi el az összes személyzet nélküli NASA-űrhajó pályametszés-ellenőrzési (conjunction assessment) szűrési feladatát.",
-        "Az ehhez hasonló technológiai és biztonsági szolgáltatások elengedhetetlenek a mind zsúfoltabbá váló alacsony Föld körüli pályán, ahol a különböző űreszközök és műholdak ütközésének elkerülése mindennapos mérnöki kihívást jelent.",
-        "A jövőben ezek a szolgáltatások garantálják majd, hogy a folyamatosan bővülő űrkutatási és emberes küldetések – amilyenek például a Crew-missziók is – zavartalanul és a legnagyobb biztonságban valósulhassanak meg."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 146,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 927,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "NASA Headquarters at 300 E Street SW in Washington D.C.\nDeutsch:  NASA Hauptsitz auf der 300 E Street SW in Washington D.C.\n中文：​位于美国华盛顿300 E Street SW的美国国家航空航天局(NASA)总部大楼\nБеларуская:  Штаб-кватэра NAS",
-        "credit": "NASA / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:NASA_HQ_Building.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
-          "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-09-30T09:25:44+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 6.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/univerzum/2026-09-30-urbiztonsagi-szolgaltatasokra-szerzodott-a-nasa/",
-      "seo": {
-        "meta_title": "Űrbiztonsági szolgáltatásokra szerződött a NASA",
-        "meta_description": "A NASA szerződést kötött az Omitron Inc. vállalattal űrbiztonsági elemzési szolgáltatások ellátására. A megállapodás célja az űreszközök és az űrhajósok védelmé",
-        "canonical_url": "https://xn--kollektva-m5a.hu/univerzum/2026-09-30-urbiztonsagi-szolgaltatasokra-szerzodott-a-nasa/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "f28fdea1ab8e1e40c83d0cb30ade0e71ccca4defef6b8b526749d197c056863d",
-      "pipeline_run_id": "36683412396",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T09:25:44+02:00",
-      "updated_at": "2026-09-30T09:25:44+02:00",
-      "published_at": "2026-09-30T09:25:44+02:00",
       "expires_at": null
     }
   ]
