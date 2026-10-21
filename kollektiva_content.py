@@ -3255,18 +3255,19 @@ DUP_SYSTEM = ("Hírszerkesztő vagy. Eldöntöd, hogy egy új hír UGYANARRÓL a
               "már megírt cikkünk (akkor is, ha más szemszögből, más szavakkal vagy más rovatban). Csak JSON-t adsz vissza.")
 
 
-def same_story_as_recent(ai: "AIClient", group: list, recent_titles: list) -> bool:
+def same_story_as_recent(ai: "AIClient", group: list, recent_titles: list, score: Optional[float] = None) -> bool:
     """Rovatok közötti duplikáció szűrése: a kulcsszavas egyezés nem fogja meg, ha két kiadó másképp fogalmaz
     (pl. „Nem írta alá a Sándor-palota…” vs. „Miért akadt el az új orvosi törvény?”), ezért egy rövid AI-ellenőrzés
     dönt. Hibánál nem szűr (inkább legyen cikk)."""
     if not recent_titles or os.getenv("DUP_CHECK", "true").lower() not in ("1", "true", "yes"):
         return False
     cand = "\n".join(f"- {s.get('title', '')}: {(s.get('summary') or '')[:200]}" for s in group[:3])
-    prompt = (f"ÚJ HÍR (több forrás címe és kivonata):\n{cand}\n\nMÁR MEGÍRT CIKKEINK (az elmúlt órákból):\n"
-              + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(recent_titles[-40:]))
+    prompt = (f"ÚJ HÍR (több forrás címe és kivonata):\n{cand}\n\nMÁR MEGÍRT VAGY JÓVÁHAGYÁSRA VÁRÓ CIKKEINK (az elmúlt 3 napból):\n"
+              + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(recent_titles[:100]))
               + "\n\nUgyanarról a konkrét eseményről/ügyről szól az új hír, mint valamelyik megírt cikk? Ha csak a téma "
                 "hasonló (pl. két külön egészségügyi hír), az NEM ugyanaz. Ha ugyanannak az ügynek ÚJ fejleménye (új "
-                "nyilatkozat, döntés, letartóztatás, reakció, adat), az sem ugyanaz – arról új cikk kell. JSON: {\"same\": true/false, \"which\": sorszám vagy null}")
+                "nyilatkozat, döntés, letartóztatás, reakció, adat), azt \"followup\": true jelzi. JSON: {\"same\": true/false, "
+                "\"followup\": true/false, \"which\": sorszám vagy null}")
     try:
         raw = ai.complete_json(DUP_SYSTEM, prompt, 150, light=True)
     except (AIError, ValueError, TypeError, KeyError) as e:
@@ -3274,6 +3275,11 @@ def same_story_as_recent(ai: "AIClient", group: list, recent_titles: list) -> bo
         return False
     if raw.get("same") is True:
         log.info("Kihagyva (már megírtuk, %s. cikk): %s", raw.get("which"), group[0].get("title"))
+        return True
+    # ugyanannak az ügynek új fejleménye: csak akkor ér új cikket, ha a téma maga is forró (különben pl. egy külföldi
+    # baleset 3 napon át 3 cikkben jönne: „Kritikus állapotban…”, „Elgázolták…”, „Lábat vesztett…”)
+    if raw.get("followup") is True and score is not None and score < float(os.getenv("FOLLOWUP_MIN_SCORE", "9")):
+        log.info("Kihagyva (folytatás, de nem elég forró: %.1f): %s", score, group[0].get("title"))
         return True
     return False
 
@@ -3961,8 +3967,12 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
     # Ugyanarról az ügyről FOLLOWUP_MIN_H órán belül nem írunk újra; utána egy új fejlemény már „folytatás” lehet
     # (a korábbi cikkek előzményként mennek, és a cikkek egy ügyfolyamba kapcsolódnak).
     followup_h = float(os.getenv("FOLLOWUP_MIN_H", "10"))
+    # az AI-duplikációszűrő 72 órára visszanéz (DUP_WINDOW_H) – a függő (még jóvá nem hagyott) cikkeket korától függetlenül
+    dup_cut = (now - timedelta(hours=float(os.getenv("DUP_WINDOW_H", "72")))).isoformat()
     recent_titles = [a.get("title", "") for a in articles_all
-                     if (a.get("created_at") or "") >= (now - timedelta(hours=followup_h)).isoformat() and a.get("title")]
+                     if a.get("title") and ((a.get("created_at") or "") >= dup_cut or a.get("status") == "pending")]
+    recent_titles += [e["title"] for e in _sent_log(float(os.getenv("DUP_WINDOW_H", "72"))) if e.get("title")]
+    recent_titles = list(dict.fromkeys(recent_titles))
     recent_kw = [_keywords(a.get("title", "") + " " + " ".join(s.get("title", "") for s in a.get("sources", [])))
                  for a in articles_all if (a.get("created_at") or "") >= (now - timedelta(hours=followup_h)).isoformat()]
     # a már elküldött (de a függő listából esetleg kiesett) témák is számítanak
@@ -4019,7 +4029,7 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
             break
         if score < min_score or per_section.get(sid, 0) >= int(os.getenv("MAX_PER_SECTION_RUN", "1")):
             continue
-        if same_story_as_recent(ai, group, recent_titles):
+        if same_story_as_recent(ai, group, recent_titles, score):
             continue  # más rovatban / más címmel már megírtuk ugyanezt az ügyet
         art = build_section_article(ai, SECTIONS[sid], d, tz, group, recent_imgs, related_past(articles, group))
         if not art:
