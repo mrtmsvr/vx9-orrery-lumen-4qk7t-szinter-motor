@@ -3624,11 +3624,14 @@
       "caption": "Versekkel és naplókkal várja a nosztalgiázókat a Deák téri villamos\n\nVersekkel, korabeli naplórészletekkel és irodalmi alkotásokkal idézik fel az 1956-os forradalom eseményeit egy különleges, ingyenes kulturális program keretében. Október 23-án a Deák Ferenc téren kiállított nosztalgiavillamos fedélzetén élő előadásokkal és hangjátékokkal várják az érdeklődőket.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#1956 #nosztalgiavillamos #budapest #hírek #kollektíva",
       "created": "2026-10-21T08:13:56+02:00",
       "due": "2026-10-21T08:58:56+02:00",
-      "status": "queued",
+      "status": "posted",
       "tg": [
-        8558,
-        8559
-      ]
+        8560
+      ],
+      "container": "18131789233718522",
+      "tries": 1,
+      "unconfirmed": true,
+      "posted": "2026-10-21T08:59:05+02:00"
     }
   ],
   "token": {
@@ -3641,5 +3644,6 @@
       "m": "8bbfcd16bd7a28caf0e93a0c653f6beb19d75b29ecf6f68a2e5db7ecd10cf78a"
     },
     "expires": "2026-12-14T01:35:18+01:00"
-  }
+  },
+  "uid": "17841421555639801"
 }
