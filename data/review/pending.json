@@ -12638,13 +12638,21 @@
       "title_options": [
         "Gazdasági bűncselekmények gyanúja miatt előállították Matolcsy Györgyöt",
         "Gazdasági csalással gyanúsítják Matolcsy Györgyöt",
-        "Kora reggel vitték el a volt jegybankelnököt",
-        "Megérkeztek a nyomozók: Matolcsy Györgyöt előállították",
-        "Hatalmas akció zajlik: Matolcsy Györgyöt kihallgatják",
-        "Itt a fordulat az MNB-ügyben: Matolcsy Györgyöt előállították a hatóságok"
+        "Kora reggel vitték el a volt jegybankelnököt"
       ],
       "clickbait_from": 3,
       "image_options": [
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1045398161.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-1045398161.jpg",
+          "kind": "photo",
+          "alt": "Matolcsy György őrizetben",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
@@ -12670,17 +12678,6 @@
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Handcuffs_GDR_-_State_Securit_-_Image_2.jpg",
           "unverified": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1045398161.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-1045398161.jpg",
-          "kind": "photo",
-          "alt": "Matolcsy György őrizetben",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -12766,12 +12763,15 @@
       },
       "review": {
         "title": 0,
-        "image": 2,
-        "sent_at": "2026-10-21T07:39:15+00:00",
-        "msg_ids": [],
-        "control_id": 8592,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "image": 0,
+        "sent_at": "2026-10-21T07:48:50+00:00",
+        "msg_ids": [
+          8594,
+          8595,
+          8596,
+          8597
+        ],
+        "control_id": 8598
       },
       "live": true
     }
