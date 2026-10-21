@@ -10105,9 +10105,9 @@
       "live": true
     },
     {
-      "id": "f68d9eb0-9a0e-58d4-b4b3-b29a32c8879d",
-      "slug": "2026-10-21-kivagjak-az-utolso-tokeket-is-tarol-az-aranyszinu-sargasag-a-magyar-b",
-      "status": "pending",
+      "id": "85b7dcce-feda-5ae9-8069-b98a5269d892",
+      "slug": "2026-10-21-pusztit-a-fitoplazma-idozitett-bomban-ul-a-hazai-szoloagazat",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -10117,7 +10117,7 @@
         "mezőgazdaság",
         "Qubit"
       ],
-      "title": "Kivágják az utolsó tőkéket is: tarol az aranyszínű sárgaság a magyar borvidékeken",
+      "title": "Pusztít a fitoplazma: időzített bombán ül a hazai szőlőágazat",
       "subtitle": null,
       "lead": "Idén már az összes hazai borvidéken igazolták a szőlő aranyszínű sárgaságát okozó fitoplazma jelenlétét, amely ellen gyógymód híján csak a tőkék kényszerű kivágása marad. A villámgyorsan terjedő fertőzés miatt komoly gazdasági veszteségek érik a termelőket.",
       "key_points": [
@@ -10266,11 +10266,11 @@
       },
       "date": "2026-10-21",
       "date_label": "október 21.",
-      "url": "/penzvilag/2026-10-21-kivagjak-az-utolso-tokeket-is-tarol-az-aranyszinu-sargasag-a-magyar-b/",
+      "url": "/penzvilag/2026-10-21-pusztit-a-fitoplazma-idozitett-bomban-ul-a-hazai-szoloagazat/",
       "seo": {
-        "meta_title": "Kivágják az utolsó tőkéket is: tarol az aranyszínű sárgaság ",
+        "meta_title": "Pusztít a fitoplazma: időzített bombán ül a hazai szőlőágaza",
         "meta_description": "Idén már az összes hazai borvidéken igazolták a szőlő aranyszínű sárgaságát okozó fitoplazma jelenlétét, amely ellen gyógymód híján csak a tőkék kényszerű kivág",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-21-kivagjak-az-utolso-tokeket-is-tarol-az-aranyszinu-sargasag-a-magyar-b/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-21-pusztit-a-fitoplazma-idozitett-bomban-ul-a-hazai-szoloagazat/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Gwinllan_Llanerch_vinyard%2C_nr_Caerdydd_%28Cardiff%29%2C_Cymru_%28Wales%29_July_2025_09.jpg/1280px-Gwinllan_Llanerch_vinyard%2C_nr_Caerdydd_%28Cardiff%29%2C_Cymru_%28Wales%29_July_2025_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -10288,9 +10288,9 @@
       "dedupe_hash": "8d7a56e14fdd7e588f2da47bc185220e5ece8fc8c0a78db1bc261691205e4a06",
       "pipeline_run_id": "39607709361",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-21T15:52:58+02:00",
-      "updated_at": "2026-10-21T15:52:58+02:00",
-      "published_at": "2026-10-21T15:52:58+02:00",
+      "created_at": "2026-10-21T16:35:29+02:00",
+      "updated_at": "2026-10-21T16:35:29+02:00",
+      "published_at": "2026-10-21T16:35:29+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10300,16 +10300,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-21T13:57:50+00:00",
-        "msg_ids": [
-          8666,
-          8667,
-          8668,
-          8669,
-          8670,
-          8671
-        ],
-        "control_id": 8672
-      }
+        "msg_ids": [],
+        "control_id": 8672,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
