@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T11:27:27+02:00",
+  "updated_at": "2026-10-21T11:27:41+02:00",
   "articles": [
     {
       "id": "b0355f5d-1916-5a53-93da-21f1ade6f8b9",
@@ -284,7 +284,7 @@
         "természeti katasztrófa",
         "Dunántúl"
       ],
-      "title": "Szerda hajnalban mozdult meg a föld Székesfehérvárnál",
+      "title": "2-es erősségű földrengés ébresztette a lakókat Székesfehérvárnál",
       "subtitle": null,
       "lead": "Szerda hajnalban 2,0-s magnitúdójú földrengés pattant ki Székesfehérvártól körülbelül kilenc kilométerre. A természeti eseményt a lakosság is érzékelte, de károkról eddig nem érkezett bejelentés.",
       "key_points": [
@@ -361,7 +361,7 @@
       "date_label": "október 21.",
       "url": "/kozelet/2026-10-21-2-es-erossegu-foldrenges-ebresztette-a-lakokat-szekesfehervarnal/",
       "seo": {
-        "meta_title": "Szerda hajnalban mozdult meg a föld Székesfehérvárnál",
+        "meta_title": "2-es erősségű földrengés ébresztette a lakókat Székesfehérvá",
         "meta_description": "Szerda hajnalban 2,0-s magnitúdójú földrengés pattant ki Székesfehérvártól körülbelül kilenc kilométerre. A természeti eseményt a lakosság is érzékelte, de káro",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-2-es-erossegu-foldrenges-ebresztette-a-lakokat-szekesfehervarnal/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Historischer_Seismograph.jpg/1280px-Historischer_Seismograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -382,7 +382,7 @@
       "pipeline_run_id": "39574435863",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T11:21:35+02:00",
-      "updated_at": "2026-10-21T11:27:27+02:00",
+      "updated_at": "2026-10-21T11:27:41+02:00",
       "published_at": "2026-10-21T11:21:35+02:00",
       "expires_at": null
     },
