@@ -12544,13 +12544,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-21T07:48:50+00:00",
-        "msg_ids": [
-          8594,
-          8595,
-          8596,
-          8597
-        ],
-        "control_id": 8598
+        "msg_ids": [],
+        "control_id": 8598,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
