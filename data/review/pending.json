@@ -11943,9 +11943,9 @@
       "live": true
     },
     {
-      "id": "1ab7478e-8087-5763-9782-fe51b57c2e60",
-      "slug": "2026-10-21-napi-haromezer-lepes-is-eleg-az-alzheimer-ellen",
-      "status": "pending",
+      "id": "5b0c7092-29c1-5311-abb8-07e8d0a879f0",
+      "slug": "2026-10-21-seta-a-tiszta-agyert-mire-eleg-haromezer-lepes",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -11955,7 +11955,7 @@
         "mozgás",
         "kutatás"
       ],
-      "title": "Napi háromezer lépés is elég az Alzheimer ellen?",
+      "title": "Séta a tiszta agyért: mire elég háromezer lépés?",
       "subtitle": null,
       "lead": "Figyelmeztetés: A cikkben leírtak tájékoztató jellegűek, nem helyettesítik az orvosi diagnózist vagy kezelést. Egy friss tudományos kutatás szerint már a szerényebb napi lépésszám is érezhetően lassíthatja az Alzheimer-kórhoz kapcsolódó agyi leépülést, azonban a mozgás önmagában nem tekinthető gyógymódnak.",
       "key_points": [
@@ -11987,16 +11987,17 @@
       "word_count": 602,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ford_Park%2C_Old_Man_Walks%2C_Redlands%2C_CA_7-12_%287795780746%29.jpg/1280px-Ford_Park%2C_Old_Man_Walks%2C_Redlands%2C_CA_7-12_%287795780746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1119,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/543aec44f641e5df.jpg",
+        "width": 2440,
+        "height": 1440,
         "kind": "photo",
-        "pos": "top",
-        "alt": "(1 in a multiple picrure set)\nThough I wanted to put down my camera after the old man's stare at me, I took one more shot as he turned and walked further away. He had nearly circled the pond, and had",
-        "credit": "inkknife_2000 (7.5 million views +) / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Ford_Park,_Old_Man_Walks,_Redlands,_CA_7-12_(7795780746).jpg",
-        "unverified": true
+        "alt": "father and son, walking, railway, railroad, gravel, silhouettes, nature, sunset, family, dusk, twilight, walking together, parent, fatherhood, parenthood, love, child, joy, childhood, father, boy, kid",
+        "credit": "4144132 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/father-and-son-walking-railway-2258681/",
+        "unverified": true,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/543aec44f641e5df.jpg",
+        "orig_url": "https://pixabay.com/get/gdb8691a7fd099a677507e5c357b868d3d39e6f275214d03e4d967cbb67ebee3f839b7aa01513b0c4e06a7286569c3407745513d43127dd8ce12dc948b878bdc1_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -12161,12 +12162,12 @@
       },
       "date": "2026-10-21",
       "date_label": "október 21.",
-      "url": "/eletmod/2026-10-21-napi-haromezer-lepes-is-eleg-az-alzheimer-ellen/",
+      "url": "/eletmod/2026-10-21-seta-a-tiszta-agyert-mire-eleg-haromezer-lepes/",
       "seo": {
-        "meta_title": "Napi háromezer lépés is elég az Alzheimer ellen?",
+        "meta_title": "Séta a tiszta agyért: mire elég háromezer lépés?",
         "meta_description": "Egy friss tudományos kutatás szerint már a szerényebb napi lépésszám is érezhetően lassíthatja az Alzheimer-kórhoz kapcsolódó agyi leépülést. Nem kell rögtön ma",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-21-napi-haromezer-lepes-is-eleg-az-alzheimer-ellen/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Ford_Park%2C_Old_Man_Walks%2C_Redlands%2C_CA_7-12_%287795780746%29.jpg/1280px-Ford_Park%2C_Old_Man_Walks%2C_Redlands%2C_CA_7-12_%287795780746%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-21-seta-a-tiszta-agyert-mire-eleg-haromezer-lepes/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/543aec44f641e5df.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -12181,9 +12182,9 @@
       "dedupe_hash": "7524c51a3e44b7850dc88a494c4d26deee51f0bf198a8b8171d35e962f75837f",
       "pipeline_run_id": "39548467041",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-21T07:16:20+02:00",
-      "updated_at": "2026-10-21T07:16:20+02:00",
-      "published_at": null,
+      "created_at": "2026-10-21T08:31:17+02:00",
+      "updated_at": "2026-10-21T08:31:17+02:00",
+      "published_at": "2026-10-21T08:31:17+02:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-21T09:15:43+02:00",
@@ -12208,9 +12209,9 @@
         "msg_ids": [],
         "control_id": 8555,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:31 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-21T08:31:06+02:00"
+      "live": true
     }
   ]
 }
