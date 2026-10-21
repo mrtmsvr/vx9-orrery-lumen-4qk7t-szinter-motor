@@ -1,7 +1,289 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T09:31:00+02:00",
+  "updated_at": "2026-10-21T09:38:31+02:00",
   "articles": [
+    {
+      "id": "3cc10bee-1eea-564d-98f3-55d538c58f10",
+      "slug": "2026-10-21-bilincsben-a-volt-jegybankelnok-nagyszabasu-razziat-tart-az-ugyeszseg",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Matolcsy György",
+        "MNB",
+        "Központi Nyomozó Főügyészség",
+        "bűnügy",
+        "gazdasági csalás"
+      ],
+      "title": "Vizsgálat a volt jegybankelnök ügyében: nagyszabású razziát tart az ügyészség az MNB-ügyben",
+      "subtitle": null,
+      "lead": "Szerda kora reggel a hatóságok intézkedtek Matolcsy György volt jegybankelnökkel szemben, miközben a Központi Nyomozó Főügyészség több helyszínen kiterjedt bűnügyi akciót hajt végre az MNB-ügyben. A hatósági fellépés során különösen jelentős vagyoni hátrányt okozó hűtlen kezelés, valamint gazdasági csalás gyanúja merült fel, az ártatlanság vélelme természetesen az érintettet is megilleti.",
+      "key_points": [
+        "Szerda kora reggel a hatóságok intézkedtek Matolcsy György volt MNB-elnökkel szemben.",
+        "A Központi Nyomozó Főügyészség nagyszabású razziát tart az MNB-ügyben.",
+        "A gyanú szerint különösen jelentős vagyoni hátrányt okozó hűtlen kezelés és gazdasági csalás történt.",
+        "A rendőri szervek összehangoltan, több helyszínen hajtanak végre eljárási cselekményeket."
+      ],
+      "content": "Szerda kora reggel a hatóságok a Központi Nyomozó Főügyészségre kísérték Matolcsy György volt jegybankelnököt – értesült a Telex. Ezzel párhuzamosan a főügyészség nagyszabású, több helyszínt érintő bűnügyi akciót hajt végre az úgynevezett MNB-ügyben, különösen jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt.\n\nA volt jegybankelnök kihallgatására, akit a gyanú szerint összefüggésbe hoztak az üggyel, a délelőtti órákban kerül sor.\n\nA kiterjedt műveletben az ügyészség felkérésére a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság és a Nemzeti Védelmi Szolgálat munkatársai is részt vesznek, míg a helyszínek biztosításáért a Készenléti Rendőrség felel. Az eljárásról a hatóságok a kora esti órákban ígértek részletes tájékoztatást.\n\nAz ügy előzményei közé tartozik, hogy a Magyar Nemzeti Bank vezetése korábban hűtlen kezelés, hanyag kezelés, csalás és hivatali visszaélés gyanúja miatt tett feljelentést ingatlanok értékvesztésével összefüggésben.",
+      "content_format": "markdown",
+      "body": [
+        "Szerda kora reggel a hatóságok a Központi Nyomozó Főügyészségre kísérték Matolcsy György volt jegybankelnököt – értesült a Telex. Ezzel párhuzamosan a főügyészség nagyszabású, több helyszínt érintő bűnügyi akciót hajt végre az úgynevezett MNB-ügyben, különösen jelentős vagyoni hátrányt okozó hűtlen kezelés gyanúja miatt.",
+        "A volt jegybankelnök kihallgatására, akit a gyanú szerint összefüggésbe hoztak az üggyel, a délelőtti órákban kerül sor.",
+        "A kiterjedt műveletben az ügyészség felkérésére a Nemzeti Nyomozó Iroda, a Budapesti Rendőr-főkapitányság és a Nemzeti Védelmi Szolgálat munkatársai is részt vesznek, míg a helyszínek biztosításáért a Készenléti Rendőrség felel. Az eljárásról a hatóságok a kora esti órákban ígértek részletes tájékoztatást.",
+        "Az ügy előzményei közé tartozik, hogy a Magyar Nemzeti Bank vezetése korábban hűtlen kezelés, hanyag kezelés, csalás és hivatali visszaélés gyanúja miatt tett feljelentést ingatlanok értékvesztésével összefüggésben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 161,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
+        "exact": true,
+        "entity": "Magyar Nemzeti Bank",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261021/tisza-kormany-orizetbe-vettek-matolcsy-gyorgyot-razzia-indult-az-mnb-ugyben-871118",
+          "title": "Tisza-kormány: őrizetbe vették Matolcsy Györgyöt, razzia indult az MNB-ügyben",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        },
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261021/nagyszabasu-razziat-hajt-vegre-a-rendorseg-az-mnb-ugyben-kora-este-johetnek-a-bejelentesek-871130",
+          "title": "Nagyszabású razziát hajt végre a rendőrség az MNB-ügyben: kora este jöhetnek a bejelentések",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/kozelet/2026/10/matolcsy-gyorgy-mnb-kozponti-nyomozo-fougyeszseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Őrizetbe vették Matolcsy Györgyöt – délelőtt kezdődhet el az MNB volt elnökének kihallgatása",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        },
+        {
+          "url": "https://telex.hu/gazdasag/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ügyfelemet jelentős vagyoni hátrányt okozó gazdasági csalás bűntettével és hamis magánokirat felhasználásának vétségével gyanúsítják",
+        "who": "Bátki Pál, Matolcsy György jogi képviselője",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-21T09:38:31+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261021/tisza-kormany-orizetbe-vettek-matolcsy-gyorgyot-razzia-indult-az-mnb-ugyben-871118",
+          "https://www.portfolio.hu/gazdasag/20261021/nagyszabasu-razziat-hajt-vegre-a-rendorseg-az-mnb-ugyben-kora-este-johetnek-a-bejelentesek-871130",
+          "https://www.vg.hu/kozelet/2026/10/matolcsy-gyorgy-mnb-kozponti-nyomozo-fougyeszseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "https://telex.hu/gazdasag/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kozelet/2026-10-21-bilincsben-a-volt-jegybankelnok-nagyszabasu-razziat-tart-az-ugyeszseg/",
+      "seo": {
+        "meta_title": "Vizsgálat a volt jegybankelnök ügyében: nagyszabású razziát ",
+        "meta_description": "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt, miközben a Központi Nyomozó Főügyészség több helyszínen kiterjedt bűnügyi akciót hajt v",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-bilincsben-a-volt-jegybankelnok-nagyszabasu-razziat-tart-az-ugyeszseg/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "3e0a8b85-356a-5e5e-b245-d30b05fc1b6b",
+        "c38f14b5-1be5-5751-992d-503a6482dc2e"
+      ],
+      "see_also": [
+        {
+          "title": "Havi 50 milliót fizetett az állam egy irodáért, aminek a kulcsát sem vették át",
+          "url": "/kozelet/2026-10-09-havi-50-milliot-fizetett-az-allam-egy-irodaert-aminek-a-kulcsat-sem-v/",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Kátai-Németh Vilmos feljelentést tett a szerencsi közpénzek ügyében",
+          "url": "/kozelet/2026-10-17-koncz-zsofia-kampanyara-kolthettek-a-csaladbarat-milliokat/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": "3e0a8b85-356a-5e5e-b245-d30b05fc1b6b",
+      "dedupe_hash": "000a2aaed5dcee9b9568c405d37534dfafaf0695c5cd769d621401fc29fac5ba",
+      "pipeline_run_id": "39562525647",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T09:38:31+02:00",
+      "updated_at": "2026-10-21T09:38:31+02:00",
+      "published_at": "2026-10-21T09:38:31+02:00",
+      "expires_at": null
+    },
+    {
+      "id": "91498749-904f-588a-96c8-517e617f0e18",
+      "slug": "2026-10-21-gazdasagi-csalassal-gyanusitjak-a-volt-jegybankelnokot",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Matolcsy György",
+        "MNB",
+        "Központi Nyomozó Főügyészség",
+        "gazdasági csalás",
+        "hűtlen kezelés"
+      ],
+      "title": "Gazdasági csalással gyanúsítják a volt jegybankelnököt",
+      "subtitle": null,
+      "lead": "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt, akit a Központi Nyomozó Főügyészségre szállítottak a nyomozók. Ügyvédje szerint jelentős vagyoni hátrányt okozó gazdasági csalás és hamis magánokirat felhasználása miatt gyanúsítják.",
+      "key_points": [
+        "Szerda kora reggel vették őrizetbe Matolcsy György volt jegybankelnököt.",
+        "A gyanú szerint gazdasági csalásról és hamis magánokirat felhasználásáról van szó.",
+        "A Központi Nyomozó Főügyészség közleménye különösen jelentős vagyoni hátrányt okozó hűtlen kezelés miatt folytatott nyomozást említ.",
+        "Az MNB-ügyben több helyszínen is összehangolt eljárási cselekményeket hajtanak végre."
+      ],
+      "content": "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt, akit a nyomozók a Központi Nyomozó Főügyészségre kísértek – értesült a Telex.\n\nEzzel párhuzamosan a Központi Nyomozó Főügyészség szerda reggel kiadott közleményében arról tájékoztatott, hogy különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette miatt folyamatban lévő eljárásban hajtanak végre összehangolt nyomozási cselekményeket. Az ügyészek jelenleg több helyszínen dolgoznak az MNB-ügyhöz kapcsolódóan.\n\nAz ügy előzményei közé tartozik, hogy szeptemberben Varga Mihály, az MNB jelenlegi elnöke mintegy 30 ezer oldalnyi dokumentumot adott át a Magyar Nemzeti Bank korábbi működését vizsgáló parlamenti vizsgálóbizottságnak. Október elején a bizottság meghallgatta Kósa Lajost és Bánki Eriket is.\n\nA Matolcsy György elnöksége idején az MNB-nél és annak alapítványainál feltételezett visszaélések miatt indult eljárás során korábban már több tízmilliárd forint értékben foglaltak le vagyonelemeket, a gyanúsítotti kihallgatás pedig a délelőtt folyamán várható.",
+      "content_format": "markdown",
+      "body": [
+        "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt, akit a nyomozók a Központi Nyomozó Főügyészségre kísértek – értesült a Telex.",
+        "Ezzel párhuzamosan a Központi Nyomozó Főügyészség szerda reggel kiadott közleményében arról tájékoztatott, hogy különösen jelentős vagyoni hátrányt okozó hűtlen kezelés bűntette miatt folyamatban lévő eljárásban hajtanak végre összehangolt nyomozási cselekményeket. Az ügyészek jelenleg több helyszínen dolgoznak az MNB-ügyhöz kapcsolódóan.",
+        "Az ügy előzményei közé tartozik, hogy szeptemberben Varga Mihály, az MNB jelenlegi elnöke mintegy 30 ezer oldalnyi dokumentumot adott át a Magyar Nemzeti Bank korábbi működését vizsgáló parlamenti vizsgálóbizottságnak. Október elején a bizottság meghallgatta Kósa Lajost és Bánki Eriket is.",
+        "A Matolcsy György elnöksége idején az MNB-nél és annak alapítványainál feltételezett visszaélések miatt indult eljárás során korábban már több tízmilliárd forint értékben foglaltak le vagyonelemeket, a gyanúsítotti kihallgatás pedig a délelőtt folyamán várható."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 165,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
+        "exact": true,
+        "entity": "Magyar Nemzeti Bank",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261021/orizetbe-vettek-matolcsy-gyorgyot-871146",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/kozelet/2026/10/matolcsy-gyorgy-mnb-kozponti-nyomozo-fougyeszseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Őrizetbe vették Matolcsy Györgyöt – délelőtt kezdődhet el az MNB volt elnökének kihallgatása",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        },
+        {
+          "url": "https://telex.hu/gazdasag/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot",
+          "title": "Őrizetbe vették Matolcsy Györgyöt",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T09:37:39+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ügyfelemet jelentős vagyoni hátrányt okozó gazdasági csalás bűntettével és hamis magánokirat felhasználásának vétségével gyanúsítják",
+        "who": "Bátki Pál, Matolcsy György jogi képviselője",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-21T09:38:30+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261021/orizetbe-vettek-matolcsy-gyorgyot-871146",
+          "https://www.vg.hu/kozelet/2026/10/matolcsy-gyorgy-mnb-kozponti-nyomozo-fougyeszseg?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "https://telex.hu/gazdasag/2026/10/21/orizetbe-vettek-matolcsy-gyorgyot"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kozelet/2026-10-21-gazdasagi-csalassal-gyanusitjak-a-volt-jegybankelnokot/",
+      "seo": {
+        "meta_title": "Gazdasági csalással gyanúsítják a volt jegybankelnököt",
+        "meta_description": "Szerda kora reggel őrizetbe vették Matolcsy György volt jegybankelnököt, akit a Központi Nyomozó Főügyészségre szállítottak a nyomozók. Ügyvédje szerint jelentő",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-gazdasagi-csalassal-gyanusitjak-a-volt-jegybankelnokot/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "3e0a8b85-356a-5e5e-b245-d30b05fc1b6b",
+        "c38f14b5-1be5-5751-992d-503a6482dc2e"
+      ],
+      "see_also": [
+        {
+          "title": "Havi 50 milliót fizetett az állam egy irodáért, aminek a kulcsát sem vették át",
+          "url": "/kozelet/2026-10-09-havi-50-milliot-fizetett-az-allam-egy-irodaert-aminek-a-kulcsat-sem-v/",
+          "date": "2026-10-09"
+        },
+        {
+          "title": "Kátai-Németh Vilmos feljelentést tett a szerencsi közpénzek ügyében",
+          "url": "/kozelet/2026-10-17-koncz-zsofia-kampanyara-kolthettek-a-csaladbarat-milliokat/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": "3e0a8b85-356a-5e5e-b245-d30b05fc1b6b",
+      "dedupe_hash": "104a294cb417f14b3852e9ec58acb4760a472e4078c73f95a6fb51b9e311a645",
+      "pipeline_run_id": "39562525647",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T09:38:30+02:00",
+      "updated_at": "2026-10-21T09:38:30+02:00",
+      "published_at": "2026-10-21T09:38:30+02:00",
+      "expires_at": null
+    },
     {
       "id": "710eeb9a-48ce-5478-b616-d0617417e6b8",
       "slug": "2026-10-21-megduplazodott-lakberek-es-kiurulo-kasszak-ez-duhitette-fel-nyugat-eu",
@@ -67452,216 +67734,6 @@
       "created_at": "2026-09-30T09:25:44+02:00",
       "updated_at": "2026-09-30T09:25:44+02:00",
       "published_at": "2026-09-30T09:25:44+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "47814d47-fabd-5006-a676-0af9c4384d79",
-      "slug": "2026-09-30-szazmilliardos-penzugyi-terhet-hagyott-maga-utan-a-lang-negyed-beruha",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Láng Negyed",
-        "Magyar Fejlesztési Bank",
-        "ingatlanfejlesztés",
-        "Váci út",
-        "gazdaság"
-      ],
-      "title": "Százmilliárdos pénzügyi terhet hagyott maga után a Láng Negyed beruházása",
-      "subtitle": null,
-      "lead": "Több százmilliárd forintos pénzügyi kockázatot és nehezen felbontható kötelezettségeket örökölt a Váci úton épülő Láng Negyed ingatlanberuházásából a Magyar Péter vezette kormány. A pesti gigaprojekt hátterében álló milliárdosok vállalkozását az állami MFB kötvényvásárlással és garanciákkal segítette ki.",
-      "key_points": [
-        "Az MFB 70 milliárd forint értékű kötvényt jegyzett le a Southblaze Kft. februári kibocsátásából.",
-        "A Bayer Construct nehéz helyzete miatt a 39 milliárd forintos bankgarancia komoly terhet jelenthet az adófizetőknek.",
-        "A Láng Negyedben épülő sportkomplexumot az állam 150 milliárd forintért venné meg a World Aquatics számára."
-      ],
-      "content": "A HVG és a Portfolio beszámolója szerint a pesti Váci út 152–156. szám alatt futó, mintegy 500 milliárd forintos összköltségvetésű Láng Negyed ingatlanfejlesztés körül komoly pénzügyi kihívások rajzolódnak ki az új vezetés számára. A Southblaze Kft., amelynek tulajdonosai fele-fele arányban Ruszlan Rahimkulov orosz származású milliárdos és Zentai Péter üzletember, februárban 100 milliárd forint értékben bocsátott ki kötvényeket. Ennek 70 százalékát, vagyis 70 milliárd forintot az állami tulajdonú Magyar Fejlesztési Bank (MFB) jegyzett le, míg a fennmaradó 30 milliárdot piaci forrásokból fedezték a befektetők.\n\nA beruházás pénzügyi hátterét tovább bonyolítja, hogy a kivitelezési munkákért felelős Bayer Construct építőipari cég a zuglói állami irodaház-vásárlások leállítása miatt nehéz helyzetbe került. Az állam ráadásul egy 39 milliárd forintos bankgaranciával is jótállt a kivitelező munkájáért, ami közvetlen kockázatot jelent az adófizetők számára, ha a cég nem tud teljesíteni.\n\nA helyzetet súlyosbítja a Nemzetközi Úszószövetség (World Aquatics) új budapesti központjának ügye is. Szijjártó Péter volt külgazdasági és külügyminiszter 2023-as megállapodása értelmében a Láng Negyedben felépülő, legalább 150 milliárd forintra becsült sportkomplexumot az állam vásárolná meg, majd 15 éven át bérletidíj-mentesen biztosítaná a szövetségnek. Bár az új Pénzügyminisztérium tart a megörökölt tehertől, a nemzetközi szervezet már Budapesten működteti ideiglenes irodáját.\n\nA megváltozott piaci igényekre hivatkozva a beruházók időközben módosították a terveket, így az irodák helyett a lakófunkciót helyezték előtérbe. A 13–18 emeletes tornyokban így mintegy ezer, 30 és 82 négyzetméter közötti lakást alakítanak ki, miközben a Magyar Péter vezette kormány a terület északi részén visszavonta a beruházás kiemelt állami státuszát.",
-      "content_format": "markdown",
-      "body": [
-        "A HVG és a Portfolio beszámolója szerint a pesti Váci út 152–156. szám alatt futó, mintegy 500 milliárd forintos összköltségvetésű Láng Negyed ingatlanfejlesztés körül komoly pénzügyi kihívások rajzolódnak ki az új vezetés számára. A Southblaze Kft., amelynek tulajdonosai fele-fele arányban Ruszlan Rahimkulov orosz származású milliárdos és Zentai Péter üzletember, februárban 100 milliárd forint értékben bocsátott ki kötvényeket. Ennek 70 százalékát, vagyis 70 milliárd forintot az állami tulajdonú Magyar Fejlesztési Bank (MFB) jegyzett le, míg a fennmaradó 30 milliárdot piaci forrásokból fedezték a befektetők.",
-        "A beruházás pénzügyi hátterét tovább bonyolítja, hogy a kivitelezési munkákért felelős Bayer Construct építőipari cég a zuglói állami irodaház-vásárlások leállítása miatt nehéz helyzetbe került. Az állam ráadásul egy 39 milliárd forintos bankgaranciával is jótállt a kivitelező munkájáért, ami közvetlen kockázatot jelent az adófizetők számára, ha a cég nem tud teljesíteni.",
-        "A helyzetet súlyosbítja a Nemzetközi Úszószövetség (World Aquatics) új budapesti központjának ügye is. Szijjártó Péter volt külgazdasági és külügyminiszter 2023-as megállapodása értelmében a Láng Negyedben felépülő, legalább 150 milliárd forintra becsült sportkomplexumot az állam vásárolná meg, majd 15 éven át bérletidíj-mentesen biztosítaná a szövetségnek. Bár az új Pénzügyminisztérium tart a megörökölt tehertől, a nemzetközi szervezet már Budapesten működteti ideiglenes irodáját.",
-        "A megváltozott piaci igényekre hivatkozva a beruházók időközben módosították a terveket, így az irodák helyett a lakófunkciót helyezték előtérbe. A 13–18 emeletes tornyokban így mintegy ezer, 30 és 82 négyzetméter közötti lakást alakítanak ki, miközben a Magyar Péter vezette kormány a terület északi részén visszavonta a beruházás kiemelt állami státuszát."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 286,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/V%C3%A1ci_%C3%BAt_2018-05-20.jpg/1280px-V%C3%A1ci_%C3%BAt_2018-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Váci út at its intersection with Árbóc utca. The street is closed because of the construction of Agora Budapest. The overpass bridge over Róbert Károly körút is on the left.",
-        "credit": "Vauia Rex / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A1ci_%C3%BAt_2018-05-20.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/ingatlan/20260930/500-milliardos-ingatlanfejlesztes-a-vaci-uton-hatalmas-terhet-hagyott-hatra-az-orban-kormany-866200",
-          "title": "500 milliárdos ingatlanfejlesztés a Váci úton: hatalmas terhet hagyott hátra az Orbán-kormány",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:24:51+02:00"
-        },
-        {
-          "url": "https://telex.hu/gazdasag/2026/09/30/rahimkulov-ruszlan-lang-negyed-zentai-peter-mfb-kotveny",
-          "title": "HVG: Jelentős adófizetői kockázat, hogy Orbánék megsegítették Rahimkulovékat a Láng Negyedben",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:24:51+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 7.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/ingatlan/20260930/500-milliardos-ingatlanfejlesztes-a-vaci-uton-hatalmas-terhet-hagyott-hatra-az-orban-kormany-866200"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/penzvilag/2026-09-30-szazmilliardos-penzugyi-terhet-hagyott-maga-utan-a-lang-negyed-beruha/",
-      "seo": {
-        "meta_title": "Százmilliárdos pénzügyi terhet hagyott maga után a Láng Negy",
-        "meta_description": "Több százmilliárd forintos pénzügyi kockázatot és nehezen felbontható kötelezettségeket örökölt a Váci úton épülő Láng Negyed ingatlanberuházásából a Magyar Pét",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-30-szazmilliardos-penzugyi-terhet-hagyott-maga-utan-a-lang-negyed-beruha/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/V%C3%A1ci_%C3%BAt_2018-05-20.jpg/1280px-V%C3%A1ci_%C3%BAt_2018-05-20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "7425b3425fa5eeaf198353d80ced9795e44e112bbed28ac7aaa26b158b148cce",
-      "pipeline_run_id": "36683412396",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T09:24:51+02:00",
-      "updated_at": "2026-09-30T09:24:51+02:00",
-      "published_at": "2026-09-30T09:24:51+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "5730da9b-ef92-53fa-8365-f954ac6163f4",
-      "slug": "2026-09-30-kiderult-mirol-targyalt-zart-ajtok-mogott-orban",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "kormányülések",
-        "Orbán Viktor",
-        "jegyzőkönyvek",
-        "kormányhatározatok"
-      ],
-      "title": "Kiderült, miről tárgyalt zárt ajtók mögött Orbán",
-      "subtitle": null,
-      "lead": "Szerdán nyilvánosságra hozta a kormány a második Orbán-kabinet 2010-es üléseinek hivatalos összefoglalóit, amelyek részletesen bemutatják a hatalomátvétel utáni első hónapok kulisszatitkait. A dokumentumok feltárják a magánnyugdíjpénztárak államosításának előkészítését, az Alkotmánybíróság jogköreinek szűkítését és a legfelsőbb vezetők hatalomfelfogását.",
-      "key_points": [
-        "A közzétett iratok szerint a 2010-es kabinet kiemelten foglalkozott a nyugdíjpénztárak államosításával és a taláros testület jogköreinek visszavágásával.",
-        "Orbán Viktor az összefoglaló tanúsága szerint nyíltan rögzítette, hogy a köztársasági elnököt nem tekinti a kormány ellensúlyának.",
-        "A mostani lépést megelőzően a 2010 és 2026 közötti, több mint 3500 nem nyilvános kormányhatározat jegyzékét is elérhetővé tették."
-      ],
-      "content": "A hvg.hu és a Telex beszámolója szerint a kormány szerda reggel közzétette a második Orbán-kormány 2010 májusa és decembere között tartott üléseinek jegyzőkönyveit és összefoglalóit. A kabinet tájékoztatása alapján az állampolgároknak évek múltán is joguk van megismerni a korábbi döntések hátterét, így a nemzetbiztonsági átvilágítások lezárultával az elkövetkező hónapokban a későbbi évek anyagai is felkerülnek az internetre.\n\nA friss iratok közvetlen rálátást adnak arra, milyen témák uralták a kabinetasztalt 2010-ben. A miniszterek intenzíven készítették elő a magánnyugdíjpénztárak államosítását, vitáztak az Alkotmánybíróság döntési hatásköreinek szűkítéséről, miközben az asztalon feküdt Balog Zoltán romaügyi stratégiája, a 2011-es európai uniós elnökség menetrendje, valamint a súlyos környezeti károkat okozó ajkai vörösiszap-katasztrófa kezelése is.\n\nAz iratcsomó egyik legemlékezetesebb részlete a 2010. augusztus 11-i üléshez kötődik, amelyen a frissen hivatalba lépett köztársasági elnök, Schmitt Pál is megjelent. Orbán Viktor ekkor egyértelművé tette az államfői pozícióhoz fűződő elvárásait: kijelentette, hogy a köztársasági elnök nem képez ellensúlyt a végrehajtó hatalommal szemben, hanem az elnök és a kormánytagok közösen őrzik az alkotmányt, miközben személyes kapcsolattartást és folyamatos tájékoztatást kért a miniszterektől.\n\nKözben a kormány az elmúlt másfél évtized egyéb zárt döntéseiről is igyekszik lerántani a leplet: alig egy nappal korábban tették elérhetővé a 2010 és 2026 között hozott úgynevezett 2000-es számozású határozatok címlistáját. Ezek olyan nem nyilvános döntések, amelyek nem jelentek meg a Magyar Közlönyben, és amelyekből tizenhat év alatt összesen 3598 darab született állami feladatok kijelölésére, illetve kiemelt beruházási támogatások odaítélésére.\n\nA nem nyilvános határozatok száma a második Orbán-kormány kezdeti évi 10–20 darabjáról 2014-re 33-ra nőtt, majd a koronavírus-járvány idején érte el a csúcsot: 2021-ben 679, míg 2023-ban 635 ilyen határozat készült. Ezekből az derül ki, hogy 2020 után egyedi döntésekkel finanszíroztak cégeket és szervezeteket, többek között a gödi Samsung-gyárat és a csádi katonai missziót is. Bár a határozatok pontos szövege továbbra sem hozzáférhető, a címek nyilvánossá váltak, és a kabinet ígérete szerint a korábbi kormányülések részleteit is folyamatosan megismerheti a nyilvánosság.",
-      "content_format": "markdown",
-      "body": [
-        "A hvg.hu és a Telex beszámolója szerint a kormány szerda reggel közzétette a második Orbán-kormány 2010 májusa és decembere között tartott üléseinek jegyzőkönyveit és összefoglalóit. A kabinet tájékoztatása alapján az állampolgároknak évek múltán is joguk van megismerni a korábbi döntések hátterét, így a nemzetbiztonsági átvilágítások lezárultával az elkövetkező hónapokban a későbbi évek anyagai is felkerülnek az internetre.",
-        "A friss iratok közvetlen rálátást adnak arra, milyen témák uralták a kabinetasztalt 2010-ben. A miniszterek intenzíven készítették elő a magánnyugdíjpénztárak államosítását, vitáztak az Alkotmánybíróság döntési hatásköreinek szűkítéséről, miközben az asztalon feküdt Balog Zoltán romaügyi stratégiája, a 2011-es európai uniós elnökség menetrendje, valamint a súlyos környezeti károkat okozó ajkai vörösiszap-katasztrófa kezelése is.",
-        "Az iratcsomó egyik legemlékezetesebb részlete a 2010. augusztus 11-i üléshez kötődik, amelyen a frissen hivatalba lépett köztársasági elnök, Schmitt Pál is megjelent. Orbán Viktor ekkor egyértelművé tette az államfői pozícióhoz fűződő elvárásait: kijelentette, hogy a köztársasági elnök nem képez ellensúlyt a végrehajtó hatalommal szemben, hanem az elnök és a kormánytagok közösen őrzik az alkotmányt, miközben személyes kapcsolattartást és folyamatos tájékoztatást kért a miniszterektől.",
-        "Közben a kormány az elmúlt másfél évtized egyéb zárt döntéseiről is igyekszik lerántani a leplet: alig egy nappal korábban tették elérhetővé a 2010 és 2026 között hozott úgynevezett 2000-es számozású határozatok címlistáját. Ezek olyan nem nyilvános döntések, amelyek nem jelentek meg a Magyar Közlönyben, és amelyekből tizenhat év alatt összesen 3598 darab született állami feladatok kijelölésére, illetve kiemelt beruházási támogatások odaítélésére.",
-        "A nem nyilvános határozatok száma a második Orbán-kormány kezdeti évi 10–20 darabjáról 2014-re 33-ra nőtt, majd a koronavírus-járvány idején érte el a csúcsot: 2021-ben 679, míg 2023-ban 635 ilyen határozat készült. Ezekből az derül ki, hogy 2020 után egyedi döntésekkel finanszíroztak cégeket és szervezeteket, többek között a gödi Samsung-gyárat és a csádi katonai missziót is. Bár a határozatok pontos szövege továbbra sem hozzáférhető, a címek nyilvánossá váltak, és a kabinet ígérete szerint a korábbi kormányülések részleteit is folyamatosan megismerheti a nyilvánosság."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 367,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1666,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires.",
-        "credit": "Vox España / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20260930_orba-viktor-kormany-2010-kormanyules-osszefoglalo-kozzetetel",
-          "title": "Közzétették az Orbán-kormány 2010-es üléseinek összefoglalóit",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:23:44+02:00"
-        },
-        {
-          "url": "https://telex.hu/belfold/2026/09/30/nyilvanos-2010-orban-kormany-kormanyulesek-jegyzokonyv",
-          "title": "Nyilvánosságra hozta a kormány a 2010-es kormányülések jegyzőkönyveit",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:23:44+02:00"
-        },
-        {
-          "url": "https://telex.hu/belfold/2026/09/29/nyilvanossarga-hoztak-a-ner-titkos-kormanyhatarozatainak-listajat",
-          "title": "Nyilvánosságra hozták a NER 16 éve alatt született nem nyilvános kormányhatározatok listáját",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T09:23:44+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 10.31,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20260930_orba-viktor-kormany-2010-kormanyules-osszefoglalo-kozzetetel",
-          "https://telex.hu/belfold/2026/09/30/nyilvanos-2010-orban-kormany-kormanyulesek-jegyzokonyv"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/kozelet/2026-09-30-kiderult-mirol-targyalt-zart-ajtok-mogott-orban/",
-      "seo": {
-        "meta_title": "Kiderült, miről tárgyalt zárt ajtók mögött Orbán",
-        "meta_description": "Szerdán nyilvánosságra hozta a kormány a második Orbán-kabinet 2010-es üléseinek hivatalos összefoglalóit, amelyek részletesen bemutatják a hatalomátvétel utáni",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-09-30-kiderult-mirol-targyalt-zart-ajtok-mogott-orban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "94da653ec27e6a5a1c76456462e3d1cada0a3a61665e8228b79931733564fa5b",
-      "pipeline_run_id": "36683412396",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T09:23:44+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T09:23:44+02:00",
       "expires_at": null
     }
   ]
