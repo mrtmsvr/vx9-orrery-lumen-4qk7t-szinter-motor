@@ -12950,18 +12950,12 @@
         "title": 1,
         "image": 5,
         "sent_at": "2026-10-21T05:16:35+00:00",
-        "msg_ids": [
-          8547,
-          8548,
-          8549,
-          8550,
-          8551,
-          8552,
-          8553,
-          8554
-        ],
-        "control_id": 8555
-      }
+        "msg_ids": [],
+        "control_id": 8555,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:31 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-21T08:31:06+02:00"
     }
   ]
 }
