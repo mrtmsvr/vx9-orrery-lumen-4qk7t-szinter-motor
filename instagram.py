@@ -3,7 +3,7 @@
 Kollektíva – automatikus Instagram-posztolás (Instagram API with Instagram Login, Facebook-oldal nélkül)
 =====================================================================================================
 
-Minden kirakott cikkből (bulvár nélkül; IG_DAILY_MAX, alap 30/nap) – a legforróbb előre, legalább IG_GAP_H (alap 0,5) óra
+A legforróbb kirakott cikkekből (bulvár nélkül; IG_DAILY_MAX, alap 4/nap), legalább IG_GAP_H (alap 2,5) óra
 különbséggel, 8 és 21:30 között – álló, 4:5-ös képkártyát készít (főkép vagy generált grafika + logó + rovat + cím),
 és képaláírással (cím, lead, „link a bióban”, max. 5 hashtag – az Instagram 2025 vége óta ennyit enged) kiteszi.
 
@@ -46,8 +46,11 @@ log = logging.getLogger("kollektiva.instagram")
 API = "https://graph.instagram.com"
 STATE = kc.BASE_DIR / "data" / "ig_state.json"
 CARD_DIR = kc.BASE_DIR / "public" / "img" / "ig"
-DAILY_MAX = int(os.getenv("IG_DAILY_MAX", "30"))  # gyakorlatilag minden kirakott cikkből (bulvár kivételével)
-GAP_H = float(os.getenv("IG_GAP_H", "0.5"))
+# Napi 16 automata poszt után az Instagram spam-védelme letiltotta a fiókot (2207051, „action is blocked”) –
+# új fióknál a napi néhány poszt a biztonságos. A sikertelen posztok is számítanak a napi keretbe.
+DAILY_MAX = int(os.getenv("IG_DAILY_MAX", "4"))
+GAP_H = float(os.getenv("IG_GAP_H", "2.5"))
+PAUSE_H = int(os.getenv("IG_PAUSE_H", "48"))  # tiltás után ennyi óráig nem próbálkozik (a próbálkozás meghosszabbítja)
 DELAY_MIN = int(os.getenv("IG_DELAY_MIN", "45"))
 W, H = 1080, 1350
 NAVY, BRASS, PARCH = (14, 16, 36), (201, 164, 92), (236, 230, 216)
@@ -279,8 +282,26 @@ def caption(art: dict) -> str:
 # Ütemezés
 # ---------------------------------------------------------------------------
 
+def _paused(st: dict, now: datetime) -> bool:
+    return (st.get("paused_until") or "") > now.isoformat()
+
+
+def _block(st: dict, now: datetime, msg: str) -> None:
+    """Az Instagram letiltotta az automatikus posztolást: PAUSE_H óra szünet, a sorban állók törlődnek, egyetlen jelzés."""
+    st["paused_until"] = (now + timedelta(hours=PAUSE_H)).isoformat(timespec="seconds")
+    for q in st.get("posts", []):
+        if q.get("status") == "queued":
+            q["status"] = "cancelled"
+            q["error"] = "Instagram-tiltás miatt kimaradt"
+    _notify(f"⛔ Az Instagram ideiglenesen letiltotta az automatikus posztolást (spam-védelem: „action is blocked”). "
+            f"{PAUSE_H} órára leállítottam, a sorban álló posztokat töröltem; utána naponta legfeljebb {DAILY_MAX} poszt megy, "
+            f"legalább {GAP_H:g} óra különbséggel. Ha az Instagram-appban rákérdez, jelezd, hogy tévedés "
+            "(„Tell us if you think we made a mistake”).")
+    log.warning("Instagram-tiltás: szünet %s-ig (%s)", st["paused_until"], msg[:120])
+
+
 def _pick(articles: list, st: dict, now: datetime) -> Optional[dict]:
-    if not (8 <= now.hour < 21 or (now.hour == 21 and now.minute < 30)):
+    if not (8 <= now.hour < 21 or (now.hour == 21 and now.minute < 30)) or _paused(st, now):
         return None
     posts = [p for p in st.get("posts", []) if p.get("status") != "cancelled"]
     today = now.date().isoformat()
@@ -455,6 +476,8 @@ def _live(url: str) -> bool:
 
 def publish_due(st: dict, now: datetime, only: str = "") -> int:
     n = 0
+    if _paused(st, now):
+        return 0
     for p in st.get("posts", []):
         if p.get("status") != "queued" or (p.get("due") or "") > now.isoformat() or (only and p.get("id") != only):
             continue
@@ -487,6 +510,11 @@ def publish_due(st: dict, now: datetime, only: str = "") -> int:
         except Exception as e:  # noqa: BLE001
             msg = str(e)
             p["tries"] = p.get("tries", 0) + 1
+            if "2207051" in msg or "action is blocked" in msg or '"code":4,' in msg:
+                p["status"] = "failed"
+                p["error"] = msg[:300]
+                _block(st, now, msg)
+                break
             if ("9007" in msg or "not ready" in msg or "is_transient\":true" in msg) and p["tries"] < 5:
                 log.info("Instagram: a kép még nincs kész, később újra (%s)", p.get("title"))
                 continue  # átmeneti hiba – a poszt várakozik tovább, a 2 perces körben újrapróbálja
