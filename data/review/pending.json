@@ -11323,15 +11323,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-21T13:20:49+00:00",
-        "msg_ids": [
-          8647,
-          8648,
-          8649,
-          8650,
-          8651,
-          8653
-        ],
-        "control_id": 8652
+        "msg_ids": [],
+        "control_id": 8652,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
