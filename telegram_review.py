@@ -1721,10 +1721,14 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
                 a["review"].setdefault("msg_ids", []).append(mid)
     # lejárt függő cikkek
     limit = (datetime.now(tz) - timedelta(hours=PENDING_MAX_AGE_H)).isoformat()
-    for a in [a for a in pending if (a.get("created_at") or "") < limit and (a.get("live") or MODE != "hybrid")]:
+    # (hybrid módban a jóvá nem hagyott cikkek eddig sosem jártak le – 10.21-én 8 napos is várt a sorban)
+    for a in [a for a in pending if (a.get("created_at") or "") < limit and not a.get("scheduled_at")]:
         pending.remove(a)  # az élő cikk kint marad, csak az ellenőrzés zárul le
         if not a.get("live"):
             st.setdefault("rejected_links", []).extend(a.get("category_meta", {}).get("source_links", []))
+            for mid in (a.get("review", {}).get("msg_ids") or []) + [a.get("review", {}).get("control_id")]:
+                if mid:  # a lejárt cikk üzenetei se maradjanak a chatben
+                    tg("deleteMessage", {"chat_id": st.get("chat_id"), "message_id": mid})
         changed = True
     if changed:
         save_state(st)
