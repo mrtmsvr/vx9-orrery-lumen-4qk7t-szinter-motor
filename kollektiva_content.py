@@ -3722,6 +3722,32 @@ Kizárólag ezt a JSON-t add vissza:
 {{"title": "...", "title_options": ["...", "..."], "lead": "...", "key_points": ["...", "...", "..."], "body": ["...", "..."], "tags": ["..."], "image_query": "...", "image_query_alt": ["..."], "image_generic": "...", "inline_images": [], "quote": null}}"""
 
 
+def _expand_if_thin(ai: "AIClient", raw: dict, story: list) -> dict:
+    """Túl rövid cikk (10.15–21. medián 190 szó – a Google ezt „vékony tartalomnak” látja, és nem rangsorolja): ha a
+    forrásokban van még tény, egy körben bővíti MIN_ARTICLE_WORDS (alap 300) fölé. Csak a forrásokból, töltelék nélkül."""
+    words = len(re.findall(r"\w+", " ".join(raw.get("body") or [])))
+    minw = int(os.getenv("MIN_ARTICLE_WORDS", "300"))
+    src = "\n\n".join(f"[{i + 1}] {s.get('title', '')}\n{(s.get('fulltext') or s.get('summary') or '')[:3500]}"
+                       for i, s in enumerate(story[:4]))
+    if words >= minw or len(src) < 1800:
+        return raw
+    try:
+        r = ai.complete_json(SECTION_SYSTEM, (
+            f"FORRÁSOK:\n{src}\n\nA CIKK MOST ({words} szó, túl rövid):\n{json.dumps({'lead': raw.get('lead'), 'body': raw.get('body')}, ensure_ascii=False)}"
+            f"\n\nBővítsd a \"body\"-t {minw + 50}–{minw + 250} szóra KIZÁRÓLAG a források további tényeivel: előzmények, "
+            "számok, ki mit mondott, mi következik, mit jelent az olvasónak. Ne ismételd a leadet, ne általánosíts, ne "
+            "találj ki semmit; a meglévő bekezdéseket megtarthatod és kiegészítheted, alcímek („## ”) maradhatnak. "
+            'JSON: {"body": ["..."]}'), 4000)
+        body = [str(p).strip() for p in (r.get("body") or []) if str(p).strip()]
+        nw = len(re.findall(r"\w+", " ".join(body)))
+        if nw > words * 1.2 and len(body) >= 3:
+            log.info("Rövid cikk bővítve: %d → %d szó", words, nw)
+            return {**raw, "body": body}
+    except (AIError, ValueError, TypeError, KeyError) as e:
+        log.warning("Bővítés kimaradt: %s", e)
+    return raw
+
+
 def build_section_article(ai: AIClient, section: dict, d: date, tz: ZoneInfo, story: list,
                           avoid_images: Optional[set] = None, past: Optional[list] = None) -> Optional[dict]:
     now = datetime.now(tz)
@@ -3737,6 +3763,7 @@ def build_section_article(ai: AIClient, section: dict, d: date, tz: ZoneInfo, st
         raw = ai.complete_json(SECTION_SYSTEM, section_prompt(section, story, d, context, past,
                                                                    headline_examples(ai.cfg.http_timeout)), 4000)
         validate_retro(raw)
+        raw = _expand_if_thin(ai, raw, story)
         raw = editorial_polish(ai, raw)
         raw = critical_review(ai, raw, story)
         if title_too_similar(str(raw.get("title", "")), story):
