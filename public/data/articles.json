@@ -1,7 +1,146 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T15:50:30+02:00",
+  "updated_at": "2026-10-21T15:51:29+02:00",
   "articles": [
+    {
+      "id": "5c138760-e005-5e39-9094-e126a378857b",
+      "slug": "2026-10-21-meddig-maradnak-az-orosz-szankciok",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ursula von der Leyen",
+        "Európai Bizottság",
+        "szankciók",
+        "Oroszország",
+        "energiapolitika"
+      ],
+      "title": "Meddig maradnak az orosz szankciók?",
+      "subtitle": null,
+      "lead": "Az Európai Bizottság elnöke strasbourgi felszólalásában egyértelművé tette, hogy az Oroszországgal szembeni korlátozások addig maradnak érvényben, amíg a háború le nem zárul. A döntés meghatározza az uniós gazdaságpolitika és az energiaellátás jövőjét.",
+      "key_points": [
+        "Az uniós szankciók, különösen az energiaügyi korlátozások a háború végéig érvényben maradnak.",
+        "Brüsszel álláspontja szerint Oroszország fegyverként használja az energiafüggőséget és a migrációt is.",
+        "A tagállamok vezetői a megfizethető energia biztosításáról és a versenyképesség növeléséről egyeztettek."
+      ],
+      "content": "Az Európai Bizottság elnöke az Európai Parlament plenáris ülésén értékelte a múlt heti uniós csúcstalálkozó eredményeit, hangsúlyozva, hogy az Oroszországgal szemben bevezetett büntetőintézkedések fenntartása nem vitás kérdés. A testület vezetője szerint a Moszkva által leállított gázszállítások megmutatták, hogy Oroszország nem megbízható partner, és az energiafüggőséget zsarolásra használja.\n\nA kétnapos strasbourgi tanácskozás során a migrációs kihívások és a gazdasági versenyképesség is terítékre került. Az európai vezetők célja egy olyan új vészhelyzeti rendszer felállítása, amely megakadályozza, hogy állami szereplők szándékosan tömegeket indítsanak az unió külső határai felé.\n\nA Magyarországot érintő belpolitikai és gazdasági viták szintén megjelenítettek a plenáris ülésen, ahol az ellenzéki és a kormánypárti delegációk tagjai is kifejtették álláspontjukat a versenyképességről, az energiaárakból fakadó regionális hátrányokról és a történelmi évfordulókról.",
+      "content_format": "markdown",
+      "body": [
+        "Az Európai Bizottság elnöke az Európai Parlament plenáris ülésén értékelte a múlt heti uniós csúcstalálkozó eredményeit, hangsúlyozva, hogy az Oroszországgal szemben bevezetett büntetőintézkedések fenntartása nem vitás kérdés. A testület vezetője szerint a Moszkva által leállított gázszállítások megmutatták, hogy Oroszország nem megbízható partner, és az energiafüggőséget zsarolásra használja.",
+        "A kétnapos strasbourgi tanácskozás során a migrációs kihívások és a gazdasági versenyképesség is terítékre került. Az európai vezetők célja egy olyan új vészhelyzeti rendszer felállítása, amely megakadályozza, hogy állami szereplők szándékosan tömegeket indítsanak az unió külső határai felé.",
+        "A Magyarországot érintő belpolitikai és gazdasági viták szintén megjelenítettek a plenáris ülésen, ahol az ellenzéki és a kormánypárti delegációk tagjai is kifejtették álláspontjukat a versenyképességről, az energiaárakból fakadó regionális hátrányokról és a történelmi évfordulókról."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 151,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Ursula_von_der_Leyen_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Ursula_von_der_Leyen_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Ursula von der Leyen während der Karlspreisverleihung 2026",
+        "credit": "Grunpfnul / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Ursula_von_der_Leyen_I.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/kulfold/2026/10/21/ursula-von-der-leyen-europai-bizottsag-szankciok-oroszorszag-haboru-lezaras/",
+          "title": "Ursula von der Leyen: Addig maradnak a szankciók, amíg Oroszország be nem fejezi a háborút",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T15:44:57+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/21/eu-europai-parlament-europai-tanacs-csucstalalkozo-vita",
+          "title": "Von der Leyen: A szankciók maradnak, amíg Oroszország be nem fejezi a háborút",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T15:44:57+02:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/21/ursula-von-der-leyen-az-oroszorszaggal-szembeni-szankciok-a-haboru-teljes-lezarasaig-ervenyben-maradnak",
+          "title": "Ursula von der Leyen: az Oroszországgal szembeni szankciók a háború teljes lezárásáig érvényben maradnak",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T15:44:57+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Oroszország zsarolásra használja az európai energiafüggőséget, ezt a leckét Európa soha nem fogja elfelejteni",
+        "who": "Ursula von der Leyen, az Európai Bizottság elnöke",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-21T15:51:29+02:00"
+      },
+      "hot_score": 12.77,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/kulfold/2026/10/21/ursula-von-der-leyen-europai-bizottsag-szankciok-oroszorszag-haboru-lezaras/",
+          "https://telex.hu/kulfold/2026/10/21/eu-europai-parlament-europai-tanacs-csucstalalkozo-vita",
+          "https://infostart.hu/kulfold/2026/10/21/ursula-von-der-leyen-az-oroszorszaggal-szembeni-szankciok-a-haboru-teljes-lezarasaig-ervenyben-maradnak"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
+      "seo": {
+        "meta_title": "Meddig maradnak az orosz szankciók?",
+        "meta_description": "Az Európai Bizottság elnöke strasbourgi felszólalásában egyértelművé tette, hogy az Oroszországgal szembeni korlátozások addig maradnak érvényben, amíg a háború",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Ursula_von_der_Leyen_I.jpg/1280px-AC_SO_Karlspreisverleihung_2026_14._Mai_Kr%C3%B6nungssaal_Ursula_von_der_Leyen_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "f2b7ca79-ba49-52a9-bca6-45f93884d270",
+        "f4a1bb0d-45dd-57b5-92e4-b3b47c33b265",
+        "cb9bfd39-7f05-5387-a64c-3f7c1bd4fbe7"
+      ],
+      "see_also": [
+        {
+          "title": "Putyin és Trump háromoldalú csúcson tárgyalna Ukrajnáról Sencsenben",
+          "url": "/vilag/2026-10-20-putyin-es-trump-haromoldalu-csucson-targyalna-ukrajnarol-sencsenben/",
+          "date": "2026-10-20"
+        },
+        {
+          "title": "Egymilliárd eurót veszített Magyarország, de idén év végére egyezményt írnának alá",
+          "url": "/kozelet/2026-10-21-maffiafilmekhez-hasonlitotta-a-politikat-magyar-peter/",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Zelenszkij újra orosz olajfinomítókat támad, miután az USA-val kötött megállapodás meghiúsult",
+          "url": "/vilag/2026-10-15-zelenszkij-ujra-orosz-olajfinomitokat-tamad-miutan-az-usa-val-kotott/",
+          "date": "2026-10-15"
+        }
+      ],
+      "thread_id": "7a44a206-e931-5605-8043-f5f490beaf0e",
+      "dedupe_hash": "bd9bb68013dcbe3b75e14ffa605538c0c75768356dbdb09e831c340f451e6f9c",
+      "pipeline_run_id": "39607709361",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T15:51:29+02:00",
+      "updated_at": "2026-10-21T15:51:29+02:00",
+      "published_at": "2026-10-21T15:51:29+02:00",
+      "expires_at": null
+    },
     {
       "id": "2f849891-7510-52eb-8934-8839df762001",
       "slug": "2026-10-21-megallt-a-spagettigyartas-del-olaszorszagban-az-egekbe-szoko-arak-mia",
@@ -67836,102 +67975,6 @@
       "created_at": "2026-09-30T13:31:21+02:00",
       "updated_at": "2026-09-30T13:31:21+02:00",
       "published_at": "2026-09-30T13:31:21+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "8055701a-2ee0-5fbd-b9e6-15acf26a5bb2",
-      "slug": "2026-09-30-mrns-koktellal-tuntettek-el-a-hasnyalmirigyrakot",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "mRNS",
-        "hasnyálmirigyrák",
-        "immunterápia",
-        "egérkísérlet",
-        "orvostudomány"
-      ],
-      "title": "Egy év után sem tért vissza a rák",
-      "subtitle": null,
-      "lead": "Egy kísérleti mRNS-kezelés hatására teljesen eltűntek a hasnyálmirigyrákos daganatok az egerekből, és a betegség egy év elteltével sem újult ki. A UMass Chan Orvosi Egyetem kutatóinak áttörése a Covid-vakcinák sikereire épül.",
-      "key_points": [
-        "Az mRNS-koktél aktiválja az immunrendszert, és áttöri a daganat védőszövetét.",
-        "A kísérleti egerek közel felénél teljesen eltűntek a rákos sejtek.",
-        "A kezelés után egy évvel sem tért vissza a betegség.",
-        "Az emberi klinikai alkalmazáshoz még további vizsgálatok szükségesek."
-      ],
-      "content": "A UMass Chan Orvosi Egyetem kutatói olyan kísérleti eljárást fejlesztettek ki, amely hírvivő RNS-ek koktélját használja a nehezen kezelhető hasnyálmirigyrák leküzdésére. A módszer az immunrendszer aktiválásával, a daganatot körülvevő védőszövet áttörésével és az immunsejtek támogatásával éri el, hogy azok fenyegetésként ismerjék fel a rákos sejteket.\n\nA hasnyálmirigyrák az egyik legellenállóbb daganatfajta, mivel egy sűrű, heges-rostos szövetből álló burok veszi körül, amely távol tartja a gyógyszereket és az immunsejteket. Emellett úgynevezett immunológiailag hideg daganatként viselkedik, amely megakadályozza a T-sejtek bejutását.\n\nAz amerikai fejlesztés során a sejtek ideiglenes genetikai utasításkészletet kapnak, amely öt citokin- és három tumorantigén-mRNS kombinációját tartalmazza. A citokin-mRNS-ek az immuntámadást indítják be, míg az antigének idegen anyagként jelölik meg a rákos sejteket.\n\nA Nature Communications folyóiratban ismertetett eredmények szerint a kezelés hatására meggyengült a tumor fizikai védelme, és fokozott sejtpusztulás ment végbe. A kezelt egerek közel felénél a daganatok eltűntek, és az állapot egy év múlva is fennállt, ami hosszan tartó immunmemóriára utal.\n\nBár a fejlesztést a Covid-vakcinák terén elért eredmények ihlették, a kutatók hangsúlyozzák, hogy jelenleg csak egérkísérletekről van szó. Az emberi alkalmazáshoz további fejlesztésekre és klinikai vizsgálatokra lesz szükség.",
-      "content_format": "markdown",
-      "body": [
-        "A UMass Chan Orvosi Egyetem kutatói olyan kísérleti eljárást fejlesztettek ki, amely hírvivő RNS-ek koktélját használja a nehezen kezelhető hasnyálmirigyrák leküzdésére. A módszer az immunrendszer aktiválásával, a daganatot körülvevő védőszövet áttörésével és az immunsejtek támogatásával éri el, hogy azok fenyegetésként ismerjék fel a rákos sejteket.",
-        "A hasnyálmirigyrák az egyik legellenállóbb daganatfajta, mivel egy sűrű, heges-rostos szövetből álló burok veszi körül, amely távol tartja a gyógyszereket és az immunsejteket. Emellett úgynevezett immunológiailag hideg daganatként viselkedik, amely megakadályozza a T-sejtek bejutását.",
-        "Az amerikai fejlesztés során a sejtek ideiglenes genetikai utasításkészletet kapnak, amely öt citokin- és három tumorantigén-mRNS kombinációját tartalmazza. A citokin-mRNS-ek az immuntámadást indítják be, míg az antigének idegen anyagként jelölik meg a rákos sejteket.",
-        "A Nature Communications folyóiratban ismertetett eredmények szerint a kezelés hatására meggyengült a tumor fizikai védelme, és fokozott sejtpusztulás ment végbe. A kezelt egerek közel felénél a daganatok eltűntek, és az állapot egy év múlva is fennállt, ami hosszan tartó immunmemóriára utal.",
-        "Bár a fejlesztést a Covid-vakcinák terén elért eredmények ihlették, a kutatók hangsúlyozzák, hogy jelenleg csak egérkísérletekről van szó. Az emberi alkalmazáshoz további fejlesztésekre és klinikai vizsgálatokra lesz szükség."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 222,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SARS-CoV-2_%28%C2%B5-IMAGE%29_vaccines_mRNA-1273_%28moderna%29%2C_Ad5_%28CanSinoBio%2C_NantKwest_ImmunityBio%29%2C_ChAdOx1_nCoV-19_%28Oxford_university%29._-_Other_remedies_S309_%28antibody%29%2C_hydroxychloroquin_%28Malaria-medicament%29%2C_fluvoxamin_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 768,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "CAPTION This transmission electron microscope image shows SARS-CoV-2 - the virus that causes COVID-19 - isolated from a patient in the U.S. The protrusions visible on the outside are the spike protein",
-        "credit": "quapan / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:SARS-CoV-2_(%C2%B5-IMAGE)_vaccines_mRNA-1273_(moderna),_Ad5_(CanSinoBio,_NantKwest_ImmunityBio),_ChAdOx1_nCoV-19_(Oxford_university)._-_Other_remedies_S309_(antibody),_hydroxychloroquin_(Malaria-medicament),_fluvoxamin_.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/tudomany/20260930_sikeres-mrns-terapia-hasnyalmirigyrakos-egereknel",
-          "title": "Eltűnt a hasnyálmirigyrák az mRNS immunterápia után az egerekben",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T10:36:43+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-09-30T13:31:20+02:00"
-      },
-      "hot_score": 5.65,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/tudomany/20260930_sikeres-mrns-terapia-hasnyalmirigyrakos-egereknel"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/tech/2026-09-30-mrns-koktellal-tuntettek-el-a-hasnyalmirigyrakot/",
-      "seo": {
-        "meta_title": "Egy év után sem tért vissza a rák",
-        "meta_description": "Egy kísérleti mRNS-kezelés hatására teljesen eltűntek a hasnyálmirigyrákos daganatok az egerekből, és a betegség egy év elteltével sem újult ki. A UMass Chan Or",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-09-30-mrns-koktellal-tuntettek-el-a-hasnyalmirigyrakot/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/SARS-CoV-2_%28%C2%B5-IMAGE%29_vaccines_mRNA-1273_%28moderna%29%2C_Ad5_%28CanSinoBio%2C_NantKwest_ImmunityBio%29%2C_ChAdOx1_nCoV-19_%28Oxford_university%29._-_Other_remedies_S309_%28antibody%29%2C_hydroxychloroquin_%28Malaria-medicament%29%2C_fluvoxamin_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "1bc8722d6f2a123a48686d23722988149231ff141e44733a10ba2d5ef26894e7",
-      "pipeline_run_id": "36690486430",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T13:31:20+02:00",
-      "updated_at": "2026-09-30T13:36:16+02:00",
-      "published_at": "2026-09-30T13:31:20+02:00",
       "expires_at": null
     }
   ]
