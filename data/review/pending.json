@@ -12421,10 +12421,7 @@
       "title_options": [
         "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
         "Őrizetben a volt jegybankelnök: az MNB-ügy fejleményei",
-        "Őrizetbe vették a volt jegybankelnököt",
-        "Bilincsben vitték el a volt jegybankelnököt",
-        "Itt a fordulat: Matolcsy Györgyöt az ügyészségre szállították",
-        "Ezért csapott le az ügyészség Matolcsy Györgyre"
+        "Őrizetbe vették a volt jegybankelnököt"
       ],
       "clickbait_from": 3,
       "image_options": [
@@ -12545,12 +12542,16 @@
       },
       "review": {
         "title": 0,
-        "image": 3,
-        "sent_at": "2026-10-21T07:38:42+00:00",
-        "msg_ids": [],
-        "control_id": 8587,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "image": 0,
+        "sent_at": "2026-10-21T07:49:01+00:00",
+        "msg_ids": [
+          8599,
+          8600,
+          8601,
+          8602,
+          8603
+        ],
+        "control_id": 8604
       },
       "live": true
     },
