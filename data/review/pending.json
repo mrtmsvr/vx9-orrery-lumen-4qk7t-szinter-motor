@@ -12008,16 +12008,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-21T09:20:12+00:00",
-        "msg_ids": [
-          8615,
-          8616,
-          8617,
-          8618,
-          8619,
-          8620,
-          8628
-        ],
-        "control_id": 8621
+        "msg_ids": [],
+        "control_id": 8621,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -12236,15 +12230,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-21T09:21:34+00:00",
-        "msg_ids": [
-          8622,
-          8623,
-          8624,
-          8625,
-          8626,
-          8629
-        ],
-        "control_id": 8627
+        "msg_ids": [],
+        "control_id": 8627,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
