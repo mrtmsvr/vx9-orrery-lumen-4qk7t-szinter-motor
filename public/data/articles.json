@@ -1,7 +1,107 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T07:52:27+02:00",
+  "updated_at": "2026-10-21T08:11:20+02:00",
   "articles": [
+    {
+      "id": "3ae8f119-a5e7-58d9-a70f-4c0cbd8deb22",
+      "slug": "2026-10-21-versekkel-es-naplokkal-varja-a-nosztalgiazokat-a-deak-teri-villamos",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "1956",
+        "nosztalgiavillamos",
+        "Budapest",
+        "október 23",
+        "kultura"
+      ],
+      "title": "Versekkel és naplókkal várja a nosztalgiázókat a Deák téri villamos",
+      "subtitle": null,
+      "lead": "Versekkel, korabeli naplórészletekkel és irodalmi alkotásokkal idézik fel az 1956-os forradalom eseményeit egy különleges, ingyenes kulturális program keretében. Október 23-án a Deák Ferenc téren kiállított nosztalgiavillamos fedélzetén élő előadásokkal és hangjátékokkal várják az érdeklődőket.",
+      "key_points": [
+        "A 120 éves, 2624-es pályaszámú nosztalgiavillamos a Deák Ferenc téri kihúzóvágányon várja a látogatókat október 23-án 10 és 18 óra között.",
+        "A fedélzeten Olasz Renátó rendezésében, Kádár Kinga és Medveczky Balázs előadásában hangzanak el a korabeli művek és hangjátékok.",
+        "A Fővárosi Önkormányzat programsorozatához kapcsolódó esemény ingyenesen látogatható.",
+        "A helyszínen a BMK közreműködésével könyvjelzőket és zászlókat is kapnak a résztvevők."
+      ],
+      "content": "Különleges kulturális élménnyel készül a Fővárosi Önkormányzat az 1956-os forradalom és szabadságharc évfordulójára. Október 23-án a nagyközönség ingyenesen látogathatja meg a Deák Ferenc téri kihúzóvágányon kiállított, 120 éves, 2624-es pályaszámú nosztalgiavillamost.\n\nA jármű fedélzetén irodalmi művek, versek és korabeli naplórészletek segítségével elevenednek meg a forradalmi napok. Az Olasz Renátó rendezésében megvalósuló programban Kádár Kinga és Medveczky Balázs közreműködésével szólalnak meg a szövegek, amelyeket élő előadások, dalok, valamint előre rögzített hangjátékok és műsorrészletek tesznek teljessé.\n\nAz eseményhez kapcsolódva a BMK közreműködésével zászlókkal és könyvjelzőkkel is gazdagodnak a kilátogatók. További részletek az önkormányzat hivatalos weboldalán érhetők el.",
+      "content_format": "markdown",
+      "body": [
+        "Különleges kulturális élménnyel készül a Fővárosi Önkormányzat az 1956-os forradalom és szabadságharc évfordulójára. Október 23-án a nagyközönség ingyenesen látogathatja meg a Deák Ferenc téri kihúzóvágányon kiállított, 120 éves, 2624-es pályaszámú nosztalgiavillamost.",
+        "A jármű fedélzetén irodalmi művek, versek és korabeli naplórészletek segítségével elevenednek meg a forradalmi napok. Az Olasz Renátó rendezésében megvalósuló programban Kádár Kinga és Medveczky Balázs közreműködésével szólalnak meg a szövegek, amelyeket élő előadások, dalok, valamint előre rögzített hangjátékok és műsorrészletek tesznek teljessé.",
+        "Az eseményhez kapcsolódva a BMK közreműködésével zászlókkal és könyvjelzőkkel is gazdagodnak a kilátogatók. További részletek az önkormányzat hivatalos weboldalán érhetők el."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 134,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ganz_tram_Budapest_September_2013.JPG/1280px-Ganz_tram_Budapest_September_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 832,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A Ganz tram in Budapest.",
+        "credit": "Felix König / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ganz_tram_Budapest_September_2013.JPG",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/10/20/nosztalgiavillamoson-kostolhatunk-bele-a-forradalmi-napokba-oktober-23-an",
+          "title": "Nosztalgiavillamoson „kóstolhatunk bele” a forradalmi napokba október 23-án",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T06:44:52+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-21T08:11:20+02:00"
+      },
+      "hot_score": 7.52,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/10/20/nosztalgiavillamoson-kostolhatunk-bele-a-forradalmi-napokba-oktober-23-an"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/kultura/2026-10-21-versekkel-es-naplokkal-varja-a-nosztalgiazokat-a-deak-teri-villamos/",
+      "seo": {
+        "meta_title": "Versekkel és naplókkal várja a nosztalgiázókat a Deák téri v",
+        "meta_description": "Versekkel, korabeli naplórészletekkel és irodalmi alkotásokkal idézik fel az 1956-os forradalom eseményeit egy különleges, ingyenes kulturális program keretében",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-21-versekkel-es-naplokkal-varja-a-nosztalgiazokat-a-deak-teri-villamos/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ganz_tram_Budapest_September_2013.JPG/1280px-Ganz_tram_Budapest_September_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d6e3ae0d1951208e7ce809afb1088f0a24fb0eb4d651c9042f238263ca0596a4",
+      "pipeline_run_id": "39545647596",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T08:11:20+02:00",
+      "updated_at": "2026-10-21T08:11:20+02:00",
+      "published_at": "2026-10-21T08:11:20+02:00",
+      "expires_at": null
+    },
     {
       "id": "22c5a999-2176-5e6d-bc60-bebdabda4208",
       "slug": "2026-10-21-halat-rebeg-washingtonnak-zelenszkij-mikozben-raketak-hullnak-kijevre",
@@ -67548,110 +67648,6 @@
       "created_at": "2026-09-30T08:36:46+02:00",
       "updated_at": "2026-09-30T10:30:00+02:00",
       "published_at": "2026-09-30T08:36:46+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "2c3e6fbb-d476-50ca-aab1-b91625dc52e3",
-      "slug": "2026-09-30-heti-negynapos-irodai-kotelezettseget-vezet-be-a-mercedes",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Mercedes",
-        "Commerzbank",
-        "UniCredit",
-        "home office",
-        "német gazdaság"
-      ],
-      "title": "Heti négynapos irodai kötelezettséget vezet be a Mercedes",
-      "subtitle": null,
-      "lead": "Szigorítja a távmunka szabályait a Mercedes-Benz, miközben a német kormány garanciákat vár el az UniCredittől a Commerzbank ügyében. A gazdasági változások alapjaiban formálják át a német nagyvállalatok mindennapjait.",
-      "key_points": [
-        "Heti négy nap irodai jelenlétet rendel el a Mercedes Németországban.",
-        "Az olasz UniCredit már a Commerzbank részvényeinek közel felét birtokolja.",
-        "A német állam a munkahelyek megőrzését és a kkv-k finanszírozását követeli."
-      ],
-      "content": "A Handelsblatt és a Reuters friss értesülései szerint jelentős átszervezések zajlanak a német gazdaság meghatározó szereplőinél, amelyek a munkavállalókat és a pénzpiacokat is közvetlenül érintik. A Mercedes-Benz e-mailben tájékoztatta németországi munkavállalóit arról, hogy a 2016-ban kötött, akár ötnapos otthoni munkavégzést is engedélyező megállapodást felváltja a heti négynapos kötelező irodai jelenlét. Britta Seeger munkaügyi igazgató korábbi nyilatkozatában úgy fogalmazott, hogy a személyes együttműködés az a ragasztó, amelyre a csapatoknak szüksége van.\n\nA szigorítás hátterében a járműgyártó évekre visszanyúló, csökkenő profitja és romló értékesítési mutatói állnak, ami miatt a vállalat termelékenységi offenzívát indított. Ola Källenius vezérigazgató belső források szerint még ennél is szigorúbb feltételeket szorgalmazott, mivel a belső adatok alapján a távmunka időszakában az irodai jelenlét gyakran az ötven százalékot sem érte el.\n\nEzzel párhuzamosan a pénzügyi szektorban is feszült egyeztetések zajlanak, miután az olasz UniCredit közel került a Commerzbank többségi irányításának megszerzéséhez. Lars Klingbeil német pénzügyminiszter és Andrea Orcel, az UniCredit vezérigazgatója szeptemberben tárgyalt az akvizícióról, amely során a német kormány egyértelmű kötelezettségvállalásokat szabott meg.\n\nA német állam, amely a Commerzbank 13,3 százalékát birtokolja, két fő feltételhez köti a folyamatot:\n\n- Biztosítani kell a munkahelyek megőrzését a pénzintézetnél.\n\n- Fenn kell tartani a bank hagyományos szerepét a német kis- és középvállalkozások finanszírozásában.\n\nAmennyiben az UniCredit elfogadja ezeket a feltételeket, a német kormány alapvető aggályai eloszlanak, a Financial Times híradása szerint pedig az olasz vezérigazgató már januárban átalakíthatja a felügyelőbizottságot.",
-      "content_format": "markdown",
-      "body": [
-        "A Handelsblatt és a Reuters friss értesülései szerint jelentős átszervezések zajlanak a német gazdaság meghatározó szereplőinél, amelyek a munkavállalókat és a pénzpiacokat is közvetlenül érintik. A Mercedes-Benz e-mailben tájékoztatta németországi munkavállalóit arról, hogy a 2016-ban kötött, akár ötnapos otthoni munkavégzést is engedélyező megállapodást felváltja a heti négynapos kötelező irodai jelenlét. Britta Seeger munkaügyi igazgató korábbi nyilatkozatában úgy fogalmazott, hogy a személyes együttműködés az a ragasztó, amelyre a csapatoknak szüksége van.",
-        "A szigorítás hátterében a járműgyártó évekre visszanyúló, csökkenő profitja és romló értékesítési mutatói állnak, ami miatt a vállalat termelékenységi offenzívát indított. Ola Källenius vezérigazgató belső források szerint még ennél is szigorúbb feltételeket szorgalmazott, mivel a belső adatok alapján a távmunka időszakában az irodai jelenlét gyakran az ötven százalékot sem érte el.",
-        "Ezzel párhuzamosan a pénzügyi szektorban is feszült egyeztetések zajlanak, miután az olasz UniCredit közel került a Commerzbank többségi irányításának megszerzéséhez. Lars Klingbeil német pénzügyminiszter és Andrea Orcel, az UniCredit vezérigazgatója szeptemberben tárgyalt az akvizícióról, amely során a német kormány egyértelmű kötelezettségvállalásokat szabott meg.",
-        "A német állam, amely a Commerzbank 13,3 százalékát birtokolja, két fő feltételhez köti a folyamatot:",
-        "- Biztosítani kell a munkahelyek megőrzését a pénzintézetnél.",
-        "- Fenn kell tartani a bank hagyományos szerepét a német kis- és középvállalkozások finanszírozásában.",
-        "Amennyiben az UniCredit elfogadja ezeket a feltételeket, a német kormány alapvető aggályai eloszlanak, a Financial Times híradása szerint pedig az olasz vezérigazgató már januárban átalakíthatja a felügyelőbizottságot."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 259,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Mercedes-Benz_W115_220D_%281973%29.jpg/1280px-Mercedes-Benz_W115_220D_%281973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 772,
-        "kind": "photo",
-        "alt": "A 1973 model, pre-facelift Mercedes-Benz W115 220D photographed near Gorczenica, Poland. All W115 models feature four-cylinder engines with the 220D version having a 2.2 L diesel engine.",
-        "credit": "1bumer / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W115_220D_(1973).jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/bank/20260930/commerzbank-felvasarlas-itt-vannak-a-nemet-kormany-feltetelei-866158",
-          "title": "Commerzbank-felvásárlás: itt vannak a német kormány feltételei",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T08:12:49+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/cegvilag/2026/09/mercedes-benz-nemet-irodai-dolgozok-otthoni-munkavegzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Elege lett a Magyarországon jelenlévő autóipari multinak: akkora bajban a Mercedes, hogy berendelte az irodákba a dolgozóit – Ola Källenius egyre keményebb döntésekre kényszerül",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T08:12:49+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 9.72,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/bank/20260930/commerzbank-felvasarlas-itt-vannak-a-nemet-kormany-feltetelei-866158",
-          "https://www.vg.hu/cegvilag/2026/09/mercedes-benz-nemet-irodai-dolgozok-otthoni-munkavegzes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/penzvilag/2026-09-30-heti-negynapos-irodai-kotelezettseget-vezet-be-a-mercedes/",
-      "seo": {
-        "meta_title": "Heti négynapos irodai kötelezettséget vezet be a Mercedes",
-        "meta_description": "Szigorítja a távmunka szabályait a Mercedes-Benz, miközben a német kormány garanciákat vár el az UniCredittől a Commerzbank ügyében. A gazdasági változások alap",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-30-heti-negynapos-irodai-kotelezettseget-vezet-be-a-mercedes/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Mercedes-Benz_W115_220D_%281973%29.jpg/1280px-Mercedes-Benz_W115_220D_%281973%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "317febb3008abb0118390b512b45a01fe6f65c23384cd8f341713103c3eccdf6",
-      "pipeline_run_id": "36677026694",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T08:12:49+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T08:12:49+02:00",
       "expires_at": null
     }
   ]
