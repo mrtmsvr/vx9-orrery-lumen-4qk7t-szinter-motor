@@ -12467,10 +12467,10 @@
           "unverified": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5d81726a30.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-5d81726a30.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-dd1b163185.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-dd1b163185.jpg",
           "kind": "photo",
-          "alt": "Ezért csapott le az ügyészség Matolcsy Györgyre",
+          "alt": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
           "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
@@ -12544,18 +12544,13 @@
         "issues": []
       },
       "review": {
-        "title": 5,
-        "image": 0,
+        "title": 0,
+        "image": 3,
         "sent_at": "2026-10-21T07:38:42+00:00",
-        "msg_ids": [
-          8582,
-          8583,
-          8584,
-          8585,
-          8586,
-          8593
-        ],
-        "control_id": 8587
+        "msg_ids": [],
+        "control_id": 8587,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },

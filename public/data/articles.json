@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T09:39:55+02:00",
+  "updated_at": "2026-10-21T09:40:22+02:00",
   "articles": [
     {
       "id": "4f7d97b0-de0a-5f77-8e6e-87c34c37195e",
@@ -142,7 +142,7 @@
         "nyomozás",
         "közélet"
       ],
-      "title": "Ezért csapott le az ügyészség Matolcsy Györgyre",
+      "title": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
       "subtitle": null,
       "lead": "Szerda kora reggel a Központi Nyomozó Főügyészség őrizetbe vette Matolcsy György volt jegybankelnököt. Az intézkedés annak a széles körű nyomozásnak a része, amely az MNB ingatlanberuházásait és alapítványi pénzmozgásait vizsgálja.",
       "key_points": [
@@ -163,18 +163,15 @@
       "word_count": 139,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "",
-        "credit": "ismeretlen szerző / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
-        "exact": true,
-        "entity": "Magyar Nemzeti Bank",
-        "unverified": true
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-dd1b163185.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-dd1b163185.jpg",
+        "kind": "photo",
+        "alt": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -226,10 +223,10 @@
       "date_label": "október 21.",
       "url": "/kozelet/2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko/",
       "seo": {
-        "meta_title": "Ezért csapott le az ügyészség Matolcsy Györgyre",
+        "meta_title": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegyb",
         "meta_description": "Szerda kora reggel a Központi Nyomozó Főügyészség őrizetbe vette Matolcsy György volt jegybankelnököt. Az intézkedés annak a széles körű nyomozásnak a része, am",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-21-orizetbe-vette-a-nyomozougyeszseg-matolcsy-gyorgy-volt-jegybankelnoko/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-dd1b163185.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -247,7 +244,7 @@
       "pipeline_run_id": "39562525647",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T09:39:29+02:00",
-      "updated_at": "2026-10-21T09:39:55+02:00",
+      "updated_at": "2026-10-21T09:40:22+02:00",
       "published_at": "2026-10-21T09:39:29+02:00",
       "expires_at": null
     },
