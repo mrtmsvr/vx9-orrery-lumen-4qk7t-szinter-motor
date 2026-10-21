@@ -398,7 +398,7 @@ def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
         return
     st = kc.read_json(kc.FLASH_FILE, {"sent": {}})
     today = now.date().isoformat()
-    sent_today = sum(1 for v in st["sent"].values() if (v.get("t") or "").startswith(today))
+    sent_today = sum(1 for v in st["sent"].values() if (v.get("t") or "").startswith(today) and not v.get("skipped"))
     if sent_today >= int(os.getenv("FLASH_MAX_DAY", "4")):
         return
     arts = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
@@ -413,9 +413,27 @@ def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
     except Exception as e:  # noqa: BLE001
         log.warning("Gyorsjelzés kimaradt: %s", str(e)[:200])
         return
+    # egy körben legfeljebb EGY gyorsjelzés: ugyanaz a hír több lapnál más-más címmel jön, és a kulcsszavas csoportosítás
+    # nem mindig fogja össze (10.21.: Matolcsy őrizetbe vétele 4 jelöltként) – a többit a következő kör AI-szűrője látja
+    cands = [c for c in cands if c["id"] not in st["sent"] and c["id"] not in _PITCH_TAKEN][:1]
+    if cands:
+        cut = (now - timedelta(hours=72)).isoformat()
+        titles = [a.get("title", "") for a in arts + pend if a.get("title") and ((a.get("created_at") or "") >= cut
+                                                                              or a.get("status") == "pending")]
+        titles += [e.get("title", "") for e in kc._sent_log(72) if e.get("title")]
+        titles += [v.get("title", "") for v in st["sent"].values() if v.get("title")]
+        try:
+            if kc.same_story_as_recent(kc.AIClient(kc.Config.from_env()), cands[0]["story"], list(dict.fromkeys(titles)),
+                                       float(cands[0].get("score") or 12)):
+                with LOCK:  # megjelölve, hogy a következő körben se jöjjön újra
+                    st = kc.read_json(kc.FLASH_FILE, {"sent": {}})
+                    st["sent"][cands[0]["id"]] = {"t": now.isoformat(timespec="seconds"), "title": cands[0]["title"],
+                                                  "kw": cands[0].get("kw"), "skipped": True}
+                    kc.write_json_atomic(kc.FLASH_FILE, st)
+                return
+        except Exception as e:  # noqa: BLE001
+            log.warning("Gyorsjelzés duplikáció-ellenőrzése kimaradt: %s", str(e)[:150])
     for pit in cands:
-        if pit["id"] in st["sent"] or pit["id"] in _PITCH_TAKEN:
-            continue
         with LOCK:
             pf = kc.read_json(kc.PITCH_FILE, {"items": {}})
             pf["items"][pit["id"]] = pit
