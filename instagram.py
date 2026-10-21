@@ -487,18 +487,22 @@ def publish_due(st: dict, now: datetime, only: str = "") -> int:
                 p["error"] = "a kártya 6 óra alatt sem került ki az oldalra"
                 _notify(f"⚠️ Instagram: nem ment ki ({p['error']}): {p.get('title')}")
             continue
+        stage = "prep"
         try:
-            uid = api("me", {"fields": "user_id,username"}).get("user_id")
+            # az Instagram API-kerete 0 követőnél nagyon szűk (a napi keret az elérésekkel arányos), ezért minimális hívás:
+            # a fiók-azonosító elmentve, a feldolgozás figyelése ritkán, permalink-lekérés nincs
+            uid = st.get("uid") or api("me", {"fields": "user_id"}).get("user_id")
+            st["uid"] = uid
             cid = p.get("container")  # újrapróbálásnál ugyanazt a feltöltést tesszük ki (nincs dupla poszt)
             if not cid:
                 cid = api(f"{uid}/media", {"image_url": p["card_url"], "caption": p["caption"]}, post=True).get("id")
                 p["container"] = cid
             status = ""
-            for _ in range(20):  # a feltöltött képet az Instagram feldolgozza (max. ~60 mp)
+            for _ in range(4):  # a feltöltött képet az Instagram feldolgozza (általában 10–30 mp)
+                time.sleep(12)
                 status = api(cid, {"fields": "status_code"}).get("status_code") or ""
                 if status in ("FINISHED", "ERROR", "EXPIRED"):
                     break
-                time.sleep(3)
             if status in ("ERROR", "EXPIRED"):
                 p.pop("container", None)
                 raise RuntimeError(f"az Instagram nem tudta feldolgozni a képet ({status})")
@@ -506,14 +510,24 @@ def publish_due(st: dict, now: datetime, only: str = "") -> int:
                 p["tries"] = p.get("tries", 0) + 1
                 if p["tries"] < 5:
                     continue
+            stage = "publish"
             r = api(f"{uid}/media_publish", {"creation_id": cid}, post=True)
         except Exception as e:  # noqa: BLE001
             msg = str(e)
             p["tries"] = p.get("tries", 0) + 1
-            if "2207051" in msg or "action is blocked" in msg or '"code":4,' in msg:
-                p["status"] = "failed"
-                p["error"] = msg[:300]
-                _block(st, now, msg)
+            limit = "2207051" in msg or "request limit" in msg or '"code":4,' in msg
+            if limit and stage == "publish":
+                # tapasztalat (10.15–20.): a poszt ilyenkor KIMEGY, csak a válasz hibás → nem hiba, nem jelzünk
+                p.update({"status": "posted", "unconfirmed": True, "posted": now.isoformat(timespec="seconds")})
+                n += 1
+                try:
+                    _collapse(p, f"✅ Instagramon: {p.get('title')}")
+                except Exception as e2:  # noqa: BLE001
+                    log.warning("Instagram-jelzés kimaradt: %s", e2)
+                continue
+            if limit and p["tries"] < 5:  # a feltöltés előtt ütközött a keretbe: 40 perc múlva újra, jelzés nélkül
+                p["due"] = (now + timedelta(minutes=40)).isoformat(timespec="seconds")
+                log.info("Instagram: API-keret, később újra (%s)", p.get("title"))
                 break
             if ("9007" in msg or "not ready" in msg or "is_transient\":true" in msg) and p["tries"] < 5:
                 log.info("Instagram: a kép még nincs kész, később újra (%s)", p.get("title"))
@@ -525,10 +539,6 @@ def publish_due(st: dict, now: datetime, only: str = "") -> int:
             continue
         p.update({"status": "posted", "media_id": r.get("id"), "posted": now.isoformat(timespec="seconds")})
         n += 1
-        try:  # a poszt már kint van – ami innen hibázik, az ne jelölje sikertelennek
-            p["permalink"] = api(r.get("id"), {"fields": "permalink"}).get("permalink")
-        except Exception:  # noqa: BLE001
-            pass
         try:
             _collapse(p, f"✅ Instagramon: {p.get('title')}" + (f"\n{p['permalink']}" if p.get("permalink") else ""),
                       [{"text": "🗑 Leszedés Instagramról", "callback_data": f"igdel|{p['id']}"}])
