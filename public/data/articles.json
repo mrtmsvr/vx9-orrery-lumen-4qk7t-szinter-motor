@@ -1,7 +1,154 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T11:27:56+02:00",
+  "updated_at": "2026-10-21T11:44:27+02:00",
   "articles": [
+    {
+      "id": "c5390d36-6348-543b-b833-d2cc7d510c32",
+      "slug": "2026-10-21-ilyen-meg-nem-volt-tiszas-politikust-valasztottak-meg-brusszelben",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Lakos Eszter",
+        "Tisza Párt",
+        "Európai Néppárt",
+        "Európai Parlament",
+        "Brüsszel"
+      ],
+      "title": "Ilyen még nem volt: tiszás politikust választottak meg Brüsszelben",
+      "subtitle": null,
+      "lead": "Az Európai Néppárt európai parlamenti frakciójának alelnökévé választották Lakos Esztert, a Tisza Párt EP-delegációjának vezetőjét a keddi tisztújításon. A meglepetésszerű jelölés és a sikeres szavazás tovább erősítheti Magyarország érdekérvényesítő képességét a brüsszeli testületben.",
+      "key_points": [
+        "Lakos Esztert az Európai Néppárt európai parlamenti frakciójának alelnökévé választották a ciklus közepén.",
+        "A Tisza Párt delegációvezetője volt az egyetlen újként megválasztott jelölt a tíz alelnöki helyre.",
+        "A politikus a második legtöbb szavazatot kapta a jelöltek közül a keddi szavazáson."
+      ],
+      "content": "Lakos Esztert, a Tisza Párt európai parlamenti delegációjának vezetőjét választotta meg az Európai Néppárt (EPP) EP-frakciója az alelnökei közé a ciklus közepén esedékes tisztújításon. A tíz elérhető alelnöki helyért kilenc eddigi tisztségviselő mellett három új jelölt indult, a szavazáson pedig a magyar politikus kapta a második legtöbb voksot.\n\nA Politico és más európai lapok beszámolói szerint a frakciót vezető Manfred Weber eredetileg a korábbi tíz alelnök újraválasztását tervezte, ám a portugál delegáció manőverei és az új indulók átírták a forgatókönyvét. A belső szabályok által megkövetelt női kvóták és a váratlan jelölések nyomán kialakult helyzetben Lakos Eszter ellenfele egy cseh politikus, Danuše Nerudová volt.\n\nA Tisza Párt közleménye történelmi sikerként értékelte az eredményt, amely a választási győzelem mellett a demokrácia helyreállítása terén elért eredmények elismerését is tükrözi. Lakos Eszter a választás után úgy nyilatkozott, hogy a néppárti vezetésben még több lehetősége nyílik a magyar érdekek hatékony képviseletére és az európai politika alakítására.\n\nKözben a többi pártcsaládban is megkezdődtek a vezetőségválasztások a hamarosan esedékes európai parlamenti félidős tisztújítás előtt. A Patrióták Európáért frakció kedden például Gál Kingát választotta meg a fideszes politikus hivatalos társelnökének Jordan Bardella mellé.",
+      "content_format": "markdown",
+      "body": [
+        "Lakos Esztert, a Tisza Párt európai parlamenti delegációjának vezetőjét választotta meg az Európai Néppárt (EPP) EP-frakciója az alelnökei közé a ciklus közepén esedékes tisztújításon. A tíz elérhető alelnöki helyért kilenc eddigi tisztségviselő mellett három új jelölt indult, a szavazáson pedig a magyar politikus kapta a második legtöbb voksot.",
+        "A Politico és más európai lapok beszámolói szerint a frakciót vezető Manfred Weber eredetileg a korábbi tíz alelnök újraválasztását tervezte, ám a portugál delegáció manőverei és az új indulók átírták a forgatókönyvét. A belső szabályok által megkövetelt női kvóták és a váratlan jelölések nyomán kialakult helyzetben Lakos Eszter ellenfele egy cseh politikus, Danuše Nerudová volt.",
+        "A Tisza Párt közleménye történelmi sikerként értékelte az eredményt, amely a választási győzelem mellett a demokrácia helyreállítása terén elért eredmények elismerését is tükrözi. Lakos Eszter a választás után úgy nyilatkozott, hogy a néppárti vezetésben még több lehetősége nyílik a magyar érdekek hatékony képviseletére és az európai politika alakítására.",
+        "Közben a többi pártcsaládban is megkezdődtek a vezetőségválasztások a hamarosan esedékes európai parlamenti félidős tisztújítás előtt. A Patrióták Európáért frakció kedden például Gál Kingát választotta meg a fideszes politikus hivatalos társelnökének Jordan Bardella mellé."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 220,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/European_Parliament_building_Brussels_3.jpg/1280px-European_Parliament_building_Brussels_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 795,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Het pand van het Europees Parlement in Brussel.",
+        "credit": "Steven Lek / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:European_Parliament_building_Brussels_3.jpg",
+        "vision_score": 4.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/21/tiszas-frakcioalelnoke-lett-az-europai-neppartnak",
+          "title": "Tiszás frakcióalelnöke lett az Európai Néppártnak",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T11:21:43+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-lakos-eszter-europai-neppart",
+          "title": "Lakos Esztert a Tiszából a legnagyobb európai parlamenti frakció egyik alelnökévé választották",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T11:21:43+02:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/20/alelnokot-ad-a-tisza-az-europai-neppartban",
+          "title": "Alelnököt ad a Tisza az Európai Néppártban",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T11:21:43+02:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-patriotak-europaert-gal-kinga",
+          "title": "Először választott magyar társelnököt egy európai parlamenti frakció",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-21T11:21:43+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Az Európai Néppárt EP-frakciójának alelnökeként, Európa legbefolyásosabb politikai erejének vezetésében még több lehetőségünk lesz arra, hogy hatékonyan képviseljük a magyar érdekeket és az európai politikát a magyar emberek számára kedvező irányba alakítsuk.",
+        "who": "Lakos Eszter EP-képviselő",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-21T11:44:27+02:00"
+      },
+      "hot_score": 7.51,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/kulfold/2026/10/21/tiszas-frakcioalelnoke-lett-az-europai-neppartnak",
+          "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-lakos-eszter-europai-neppart",
+          "https://infostart.hu/kulfold/2026/10/20/alelnokot-ad-a-tisza-az-europai-neppartban"
+        ]
+      },
+      "date": "2026-10-21",
+      "date_label": "október 21.",
+      "url": "/vilag/2026-10-21-ilyen-meg-nem-volt-tiszas-politikust-valasztottak-meg-brusszelben/",
+      "seo": {
+        "meta_title": "Ilyen még nem volt: tiszás politikust választottak meg Brüss",
+        "meta_description": "Az Európai Néppárt európai parlamenti frakciójának alelnökévé választották Lakos Esztert, a Tisza Párt EP-delegációjának vezetőjét a keddi tisztújításon. A megl",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-21-ilyen-meg-nem-volt-tiszas-politikust-valasztottak-meg-brusszelben/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/European_Parliament_building_Brussels_3.jpg/1280px-European_Parliament_building_Brussels_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "1d92ba89-3227-565f-a65f-636520291f1d",
+        "a85f6b11-14d1-5f52-880d-9ff91e5856fb",
+        "274853b8-feda-52f6-b59e-c928acd6cb79"
+      ],
+      "see_also": [
+        {
+          "title": "Brüsszelhez fordult kétségbeesésében a Fidesz-KDNP",
+          "url": "/kozelet/2026-10-04-brusszelhez-fordult-ketsegbeeseseben-a-fidesz-kdnp/",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "44 nő ült asztalhoz a Tisza-frakcióban",
+          "url": "/kozelet/2026-10-06-soha-nem-latott-szamu-noi-kepviselo-indit-szakmai-muhelyt-a-parlament/",
+          "date": "2026-10-06"
+        },
+        {
+          "title": "Olajalkut kötött Trump és Putyin, az unió azonnal rálép a fékre",
+          "url": "/penzvilag/2026-10-11-olajalkut-kotott-trump-es-putyin-az-unio-azonnal-ralep-a-fekre/",
+          "date": "2026-10-11"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "a57f9cfb15f010854713fe852d96246cc933fafaa59413ff053227ba4d909dec",
+      "pipeline_run_id": "39574435863",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-21T11:44:27+02:00",
+      "updated_at": "2026-10-21T11:44:27+02:00",
+      "published_at": "2026-10-21T11:44:27+02:00",
+      "expires_at": null
+    },
     {
       "id": "b0355f5d-1916-5a53-93da-21f1ade6f8b9",
       "slug": "2026-10-21-gal-kinga-veszi-at-a-harmadik-legnagyobb-ep-frakcio-iranyitasat",
@@ -67729,107 +67876,6 @@
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
       "created_at": "2026-09-30T13:31:18+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T13:31:18+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1ab27d1e-c67c-5f36-974f-37c01caf7ea6",
-      "slug": "2026-09-30-harom-eve-nem-latott-kulkereskedelmi-hiany-jott-ossze-magyarorszagon",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "gazdaság",
-        "forint",
-        "külkereskedelem",
-        "tőzsde"
-      ],
-      "title": "Megtorpant az export, kilőtt az import augusztusban",
-      "subtitle": null,
-      "lead": "Augusztusban a kivitel stagnálása és a behozatal jelentős növekedése miatt 2023 óta nem látott külkereskedelmi hiány keletkezett Magyarországon. Ezzel párhuzamosan a hazai deviza is hullámvasútra ült a nemzetközi pénzpiacokon.",
-      "key_points": [
-        "Augusztusban gyakorlatilag stagnált a magyar export, míg az import jelentősen nőtt.",
-        "A folyamatok eredményeként 2023 óta nem látott külkereskedelmi hiány alakult ki.",
-        "A forint a nap folyamán 366,2-es euróárfolyam környékén is járt.",
-        "A tőzsdén az OTP részvényei emelkedtek, míg a Mol árfolyama csökkent."
-      ],
-      "content": "## Külkereskedelmi pofon és devizamozgások\n\nAugusztusban a magyar export gyakorlatilag stagnált, miközben az import volumene jelentős mértékben emelkedett. Ez oda vezetett, hogy 2023 óta nem látott külkereskedelmi hiány jött össze az év nyolcadik hónapjában. A Portfolio beszámolója szerint a nemzetközi devizapiacokon is mozgalmasan telt a szerda: a forint a nap folyamán a 365,5-ös napi csúcsról 366,2-es euróárfolyamig gyengült vissza, míg a dollárral szemben 322 környékére korrigált.\n\n## Mozgásban a hazai nagypapírok\n\nKözben a hazai tőzsdén is markáns mozgások zajlottak a szerdai kereskedésben. A nap elején az OTP részvénye 0,7 százalékkal 44 090 forintra drágult, miután kiderült, hogy év végéig megszülethet a döntés a pénzintézet oroszországi piacának elhagyásáról. Ezzel szemben a Mol árfolyama 0,3 százalékkal 5035 forintra süllyedt a keddi komolyabb zuhanást követően, a Richter kurzusa pedig 12 330 forinton stagnált.",
-      "content_format": "markdown",
-      "body": [
-        "## Külkereskedelmi pofon és devizamozgások",
-        "Augusztusban a magyar export gyakorlatilag stagnált, miközben az import volumene jelentős mértékben emelkedett. Ez oda vezetett, hogy 2023 óta nem látott külkereskedelmi hiány jött össze az év nyolcadik hónapjában. A Portfolio beszámolója szerint a nemzetközi devizapiacokon is mozgalmasan telt a szerda: a forint a nap folyamán a 365,5-ös napi csúcsról 366,2-es euróárfolyamig gyengült vissza, míg a dollárral szemben 322 környékére korrigált.",
-        "## Mozgásban a hazai nagypapírok",
-        "Közben a hazai tőzsdén is markáns mozgások zajlottak a szerdai kereskedésben. A nap elején az OTP részvénye 0,7 százalékkal 44 090 forintra drágult, miután kiderült, hogy év végéig megszülethet a döntés a pénzintézet oroszországi piacának elhagyásáról. Ezzel szemben a Mol árfolyama 0,3 százalékkal 5035 forintra süllyedt a keddi komolyabb zuhanást követően, a Richter kurzusa pedig 12 330 forinton stagnált."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 163,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/100_Forint_Comemmorative_Army_Front.jpg/1280px-100_Forint_Comemmorative_Army_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The forint was released on 2023 May 22 as a comemmoration of the Hungarian Army.",
-        "credit": "ByRussia45 / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:100_Forint_Comemmorative_Army_Front.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/deviza/20260930/lenduletet-vett-a-forint-de-hatra-van-meg-a-fekete-leves-866176",
-          "title": "Lendületet vett a forint, de hátra van még a fekete leves",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T10:34:03+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/penz-es-tokepiac/2026/09/megindult-az-otp-erosit-a-forint-is?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Megindult az OTP, erősít a forint is",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T10:34:03+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-09-30T13:31:18+02:00"
-      },
-      "hot_score": 7.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/deviza/20260930/lenduletet-vett-a-forint-de-hatra-van-meg-a-fekete-leves-866176"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/penzvilag/2026-09-30-harom-eve-nem-latott-kulkereskedelmi-hiany-jott-ossze-magyarorszagon/",
-      "seo": {
-        "meta_title": "Megtorpant az export, kilőtt az import augusztusban",
-        "meta_description": "Augusztusban a kivitel stagnálása és a behozatal jelentős növekedése miatt 2023 óta nem látott külkereskedelmi hiány keletkezett Magyarországon. Ezzel párhuzamo",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-09-30-harom-eve-nem-latott-kulkereskedelmi-hiany-jott-ossze-magyarorszagon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/100_Forint_Comemmorative_Army_Front.jpg/1280px-100_Forint_Comemmorative_Army_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "7779f25bc4dad045d178f7a6375cf3e19fed6a5b5e64ad1c8bea38f764f6cc0d",
-      "pipeline_run_id": "36690486430",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T13:31:18+02:00",
-      "updated_at": "2026-09-30T13:37:35+02:00",
       "published_at": "2026-09-30T13:31:18+02:00",
       "expires_at": null
     }
