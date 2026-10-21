@@ -415,7 +415,19 @@ def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
         return
     # egy körben legfeljebb EGY gyorsjelzés: ugyanaz a hír több lapnál más-más címmel jön, és a kulcsszavas csoportosítás
     # nem mindig fogja össze (10.21.: Matolcsy őrizetbe vétele 4 jelöltként) – a többit a következő kör AI-szűrője látja
-    cands = [c for c in cands if c["id"] not in st["sent"] and c["id"] not in _PITCH_TAKEN][:1]
+    cands = [c for c in cands if c["id"] not in st["sent"] and c["id"] not in _PITCH_TAKEN]
+    merged = {}
+    if len(cands) > 1:  # az első jelölthöz a többi lap ugyanarról szóló híre forrásként csatlakozik (egy cikk, több forrás)
+        names = lambda c: {w for w in re.findall(r"\b[A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]{4,}", c["title"])}
+        base = cands[0]
+        for c in cands[1:]:
+            if names(base) & names(c) and len(set(base.get("kw") or []) & set(c.get("kw") or [])) >= 2:
+                have = {s_["link"] for s_ in base["story"]}
+                base["story"] += [s_ for s_ in c["story"] if s_["link"] not in have][:max(0, 5 - len(base["story"]))]
+                base["pubs"] = sorted(set(base["pubs"]) | set(c["pubs"]))
+                merged[c["id"]] = {"t": now.isoformat(timespec="seconds"), "title": c["title"], "kw": c.get("kw"),
+                                   "skipped": True}
+    cands = cands[:1]
     if cands:
         cut = (now - timedelta(hours=72)).isoformat()
         titles = [a.get("title", "") for a in arts + pend if a.get("title") and ((a.get("created_at") or "") >= cut
@@ -441,6 +453,7 @@ def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
             st = kc.read_json(kc.FLASH_FILE, {"sent": {}})
             st["sent"] = {k: v for k, v in st["sent"].items() if (v.get("t") or "") >= (now - timedelta(days=3)).isoformat()}
             st["sent"][pit["id"]] = {"t": now.isoformat(timespec="seconds"), "title": pit["title"], "kw": pit.get("kw")}
+            st["sent"].update(merged)  # a beolvasztott (ugyanarról szóló) jelöltek se jöjjenek újra
             kc.write_json_atomic(kc.FLASH_FILE, st)
         _PITCH_TAKEN.add(pit["id"])
         tg("sendMessage", {"chat_id": chat, "disable_web_page_preview": True,
