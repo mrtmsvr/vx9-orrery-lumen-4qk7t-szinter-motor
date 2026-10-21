@@ -1,35 +1,35 @@
 {
-  "id": "fab196fc6a",
-  "date": "2026-10-20",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-19-kilencszazalekos-szja-es-drasztikus-nyugdijemeles-itt-van-magyar-pete/",
-  "article_title": "Kilencszázalékos szja és drasztikus nyugdíjemelés: itt van Magyar Péter új költségvetési terve",
+  "id": "96af18a343",
+  "date": "2026-10-21",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-20-utcara-vonultak-a-kulturalis-dolgozok-magyar-peter-bejelentese-utan/",
+  "article_title": "„Ez nullával egyenlő” – felháborodtak a könyvtárosok és muzeológusok",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön támogatja a kilencszázalékos személyi jövedelemadó bevezetését?",
+      "question": "Ön szerint megfelelő mértékű-e a kulturális dolgozók számára bejelentett béremelés?",
       "options": [
-        "Igen, támogatom",
-        "Nem, ellenkezem vele",
-        "Nem tudom / nincs véleményem"
+        "Igen, megfelelő és fenntartható.",
+        "Nem, ez az emelés kevés.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Mit tart fontosabbnak egy új költségvetési tervben?",
+      "question": "Melyik szempontot tartja fontosabbnak a közgyűjtemények finanszírozása során?",
       "options": [
-        "A radikális adócsökkentést",
-        "A szociális kiadások növelését",
-        "Nem tudom / nincs véleményem"
+        "A dolgozók bérének jelentős emelését.",
+        "A költségvetési hiány szigorú tartását.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Reálisak-e a bemutatott nyugdíj- és szociális emelési ígéretek?",
+      "question": "Hogyan értékeli a kormány döntését a közgyűjteményi bérek emeléséről?",
       "options": [
-        "Igen, megvalósíthatók",
-        "Nem, túlzóak",
-        "Nem tudom / nincs véleményem"
+        "Felelős és elfogadható lépés.",
+        "Kevés a szakma megbecsüléséhez.",
+        "Nem tudom / nincs véleményem."
       ]
     }
   ],
-  "msg_id": 8310
+  "msg_id": 8605
 }
