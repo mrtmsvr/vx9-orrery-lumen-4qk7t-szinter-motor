@@ -9079,9 +9079,9 @@
       "live": true
     },
     {
-      "id": "f708a63d-fa06-55b3-9695-962cf5e780c7",
-      "slug": "2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt",
-      "status": "pending",
+      "id": "d35f60be-d5c5-52b6-8da2-7e2dcf714da9",
+      "slug": "2026-10-22-a-hoszivattyu-rejtelyei-tenyek-es-tevhitek",
+      "status": "published",
       "category": "tech",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -9091,7 +9091,7 @@
         "fenntarthatóság",
         "energiatakarékosság"
       ],
-      "title": "Több hőt ad, mint amennyi áramot fogyaszt?",
+      "title": "A hőszivattyú rejtélyei: tények és tévhitek",
       "subtitle": null,
       "lead": "Sokan idegenkednek a hőszivattyúktól a téli fagyok miatt, pedig a modern kutatások szerint még zordabb éghajlaton is meglepő hatékonysággal működnek. Cikkünkben bemutatjuk, hogyan használható ki a termodinamika a háztartások hatékony fűtésére.",
       "key_points": [
@@ -9341,11 +9341,11 @@
       },
       "date": "2026-10-22",
       "date_label": "október 22.",
-      "url": "/tech/2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt/",
+      "url": "/tech/2026-10-22-a-hoszivattyu-rejtelyei-tenyek-es-tevhitek/",
       "seo": {
-        "meta_title": "Több hőt ad, mint amennyi áramot fogyaszt?",
+        "meta_title": "A hőszivattyú rejtélyei: tények és tévhitek",
         "meta_description": "Sokan idegenkednek a hőszivattyúktól a téli fagyok miatt, pedig a modern kutatások szerint még zordabb éghajlaton is meglepő hatékonysággal működnek. Cikkünkben",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-22-a-hoszivattyu-rejtelyei-tenyek-es-tevhitek/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heat_pump_model.jpg/1280px-Heat_pump_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "Article"
@@ -9361,9 +9361,9 @@
       "dedupe_hash": "ca69f4c8e95f2e6ece7e4e8f358d3d2a6e399969b2bd80717709cfe1a2dd89cd",
       "pipeline_run_id": "39727764366",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-22T07:25:07+02:00",
-      "updated_at": "2026-10-22T07:25:07+02:00",
-      "published_at": null,
+      "created_at": "2026-10-22T07:30:58+02:00",
+      "updated_at": "2026-10-22T07:30:58+02:00",
+      "published_at": "2026-10-22T07:30:58+02:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-22T09:24:22+02:00",
@@ -9377,19 +9377,12 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-22T05:25:12+00:00",
-        "msg_ids": [
-          8715,
-          8716,
-          8717,
-          8718,
-          8719,
-          8720,
-          8721,
-          8722,
-          8723
-        ],
-        "control_id": 8724
-      }
+        "msg_ids": [],
+        "control_id": 8724,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
