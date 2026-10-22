@@ -8813,15 +8813,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-22T17:52:01+00:00",
-        "msg_ids": [
-          8846,
-          8847,
-          8848,
-          8849,
-          8850,
-          8852
-        ],
-        "control_id": 8851
+        "msg_ids": [],
+        "control_id": 8851,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
