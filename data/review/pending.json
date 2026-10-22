@@ -8916,6 +8916,260 @@
         "control_id": 8751
       },
       "live": true
+    },
+    {
+      "id": "232da882-f154-5d9e-b497-810c64b8601f",
+      "slug": "2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "PHP",
+        "kiberbiztonság",
+        "Nemzeti Kiberbiztonsági Intézet",
+        "sérülékenység"
+      ],
+      "title": "Évtizedes szoftverhiba bénította meg az európai netet",
+      "subtitle": null,
+      "lead": "Kormányzati honlapokat és internetes közszolgáltatásokat állítottak le szerdán több európai országban a széles körben használt PHP programozási nyelvben azonosított két kritikus biztonsági hiba miatt. Az Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat szerint ezek a szoftver eddigi legsúlyosabb, mesterséges intelligenciával feltárt sérülékenységei.",
+      "key_points": [
+        "Két súlyos biztonsági hiba miatt több európai országban lekapcsolták a fontosabb kormányzati és közszolgáltatási honlapokat.",
+        "A PHP programozási nyelvben azonosított hibákat a támadók akár jelszó nélkül, távolról is kihasználhatták volna.",
+        "A magyar Nemzeti Kiberbiztonsági Intézet riasztást adott ki, és a javítások haladéktalan telepítését, illetve szükség esetén a lekapcsolást sürgette."
+      ],
+      "content": "Szerdán több európai országban elővigyázatossági intézkedésként leállították a kormányzati honlapokat és az internetes közszolgáltatásokat a világszerte elterjedt PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt. A PHP egy olyan programozási nyelv, amely a világ weboldalainak mintegy 70 százalékába be van építve, így a hibák megjelenése rendkívül széles körben okozott problémákat. A kritikus besorolású sérülékenységek lehetővé tennék a támadók számára, hogy jelszó nélkül, távolról is programokat futtassanak az érintett szervereken, bár a rendszerek feltöréséről nem érkezett megerősített jelentés. A szoftveres hiba globális fenyegetést jelent, hiszen a weboldalak túlnyomó többsége támaszkodik a PHP működésére, ezáltal szerverek milliói váltak sebezhetővé.\n\nHollandiában elővigyázatosságból lekapcsolták a rotterdami kikötőt, a kormányzati ügyintézési portált, több kórházat, az öt legnagyobb politikai párt honlapját, valamint a nemzeti kiberbiztonsági központ saját weboldalát is. Finnországban több kormányzati internetes szolgáltatást függesztettek fel, Dániában az iskolák és a szülők közötti kapcsolattartásra használt országos rendszert iktatták ki, Franciaországban pedig a belügyminisztérium állította le ideiglenesen a helyi közigazgatási szervek egyes honlapjait. Továbbá Ausztráliában is észlelték a PHP-t érintő hibákat, és ott is lekapcsolták a kormányzati weboldalakat. A Cloudflare internetbiztonsági vállalat már a javítások megjelenése előtt észlelte, hogy támadók megpróbálják kihasználni a hibákat.\n\nMagyarországon a Nemzeti Kiberbiztonsági Intézet riasztást adott ki a kritikus besorolású biztonsági hibák miatt, és sürgette a javítások haladéktalan telepítését. Az intézet javaslata szerint ahol ez nem lehetséges, ott az érintett rendszereket ideiglenesen le kell választani az internetről vagy le kell állítani. A PHP fejlesztői szerdán közzétették a biztonsági javításokat, a szakértők pedig figyelmeztettek, hogy a WordPress-alapú honlapok szokásos frissítése önmagában nem elegendő, a szervereken futó PHP-t is frissíteni kell. A hazai intézmény határozott útmutatása nyomán a rendszergazdáknak azonnali cselekvésre volt szükségük az infrastruktúra védelmében.\n\nAz Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat – amely szintén részt vett a hibák feltárásában – külön hangsúlyozta a mesterséges intelligencia szerepét, és az MI segítségével valaha feltárt legsúlyosabb biztonsági hibáknak nevezte a mostaniakat. A cég tájékoztatása szerint a hibák több mint egy évtizedig észrevétlenek maradtak, részben azért, mert a kihasználásukhoz rendkívül bonyolult műveletsort kellett kidolgozni. Ez a több mint tíz évig rejtve maradt szoftveres hiányosság rávilágít arra, hogy a modern technológiai eszközök, mint a mesterséges intelligencia, milyen kulcsfontosságú szerepet töltenek be a rejtett informatikai veszélyek feltárásában és a digitális biztonság fenntartásában.",
+      "content_format": "markdown",
+      "body": [
+        "Szerdán több európai országban elővigyázatossági intézkedésként leállították a kormányzati honlapokat és az internetes közszolgáltatásokat a világszerte elterjedt PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt. A PHP egy olyan programozási nyelv, amely a világ weboldalainak mintegy 70 százalékába be van építve, így a hibák megjelenése rendkívül széles körben okozott problémákat. A kritikus besorolású sérülékenységek lehetővé tennék a támadók számára, hogy jelszó nélkül, távolról is programokat futtassanak az érintett szervereken, bár a rendszerek feltöréséről nem érkezett megerősített jelentés. A szoftveres hiba globális fenyegetést jelent, hiszen a weboldalak túlnyomó többsége támaszkodik a PHP működésére, ezáltal szerverek milliói váltak sebezhetővé.",
+        "Hollandiában elővigyázatosságból lekapcsolták a rotterdami kikötőt, a kormányzati ügyintézési portált, több kórházat, az öt legnagyobb politikai párt honlapját, valamint a nemzeti kiberbiztonsági központ saját weboldalát is. Finnországban több kormányzati internetes szolgáltatást függesztettek fel, Dániában az iskolák és a szülők közötti kapcsolattartásra használt országos rendszert iktatták ki, Franciaországban pedig a belügyminisztérium állította le ideiglenesen a helyi közigazgatási szervek egyes honlapjait. Továbbá Ausztráliában is észlelték a PHP-t érintő hibákat, és ott is lekapcsolták a kormányzati weboldalakat. A Cloudflare internetbiztonsági vállalat már a javítások megjelenése előtt észlelte, hogy támadók megpróbálják kihasználni a hibákat.",
+        "Magyarországon a Nemzeti Kiberbiztonsági Intézet riasztást adott ki a kritikus besorolású biztonsági hibák miatt, és sürgette a javítások haladéktalan telepítését. Az intézet javaslata szerint ahol ez nem lehetséges, ott az érintett rendszereket ideiglenesen le kell választani az internetről vagy le kell állítani. A PHP fejlesztői szerdán közzétették a biztonsági javításokat, a szakértők pedig figyelmeztettek, hogy a WordPress-alapú honlapok szokásos frissítése önmagában nem elegendő, a szervereken futó PHP-t is frissíteni kell. A hazai intézmény határozott útmutatása nyomán a rendszergazdáknak azonnali cselekvésre volt szükségük az infrastruktúra védelmében.",
+        "Az Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat – amely szintén részt vett a hibák feltárásában – külön hangsúlyozta a mesterséges intelligencia szerepét, és az MI segítségével valaha feltárt legsúlyosabb biztonsági hibáknak nevezte a mostaniakat. A cég tájékoztatása szerint a hibák több mint egy évtizedig észrevétlenek maradtak, részben azért, mert a kihasználásukhoz rendkívül bonyolult műveletsort kellett kidolgozni. Ez a több mint tíz évig rejtve maradt szoftveres hiányosság rávilágít arra, hogy a modern technológiai eszközök, mint a mesterséges intelligencia, milyen kulcsfontosságú szerepet töltenek be a rejtett informatikai veszélyek feltárásában és a digitális biztonság fenntartásában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 407,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Codigo_php.jpg/1280px-Codigo_php.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 645,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Código en PHP.",
+        "credit": "lmonk72 / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Codigo_php.jpg",
+        "exact": true,
+        "entity": "PHP programming language",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/21/tobb-mint-tiz-evig-rejtve-maradt-a-hiba-most-europai-szolgaltatasokat-allitottak-le-miatta",
+          "title": "Több mint tíz évig rejtve maradt a hiba, most európai szolgáltatásokat állítottak le miatta",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/10/22/europa-kormanyzati-honlapok-biztonsagi-hibak-leallas/",
+          "title": "Kormányzati honlapokat és közszolgáltatásokat állítottak le Európában, Magyarországon is riasztást adtak ki",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        },
+        {
+          "url": "https://hvg.hu/tudomany/20261021_php-kiberbiztonsag-europa-kormanyzati-honlapok-leallitasa",
+          "title": "Több európai ország kormányzati weboldala elsötétült egy veszélyes kiberbiztonsági hiba miatt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.17,
+      "title_options": [
+        "Évtizedes szoftverhiba bénította meg az európai netet",
+        "A mesterséges intelligencia segítségével találták meg a PHP eddigi legsúlyosabb hibáját",
+        "Évtizedes szoftverhiba miatt állítottak le kulcsfontosságú európai weboldalakat",
+        "Olyan hibát találtak a világ legelterjedtebb programozási nyelvében, ami miatt azonnali lekapcsolásokat kértek",
+        "Évtizedekig észrevétlen maradt az a szoftveres rés, amely most európai közszolgáltatásokat döntött romba"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Codigo_php.jpg/1280px-Codigo_php.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 645,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Código en PHP.",
+          "credit": "lmonk72 / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Codigo_php.jpg",
+          "exact": true,
+          "entity": "PHP programming language",
+          "vision_score": 11.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/139_Server_Room_01.jpg/1280px-139_Server_Room_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Indian Railway 139 Server Room.",
+          "credit": "Indrajit Das / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg",
+          "exact": true,
+          "entity": "Server room",
+          "vision_score": 9.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Computer_locked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1704,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Apple Power Mac G4 Security lock",
+          "credit": "Juan Pablo Olmo / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Computer_locked.jpg",
+          "exact": true,
+          "entity": "Cyber security",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/g5e17a3e1b6cf9a83de51a5657fd418f1a5734706b60442f5f673ff8db19b8309fc06da78f7d1ffe6f71b35369d56da8b27f1ed9c2b36df367a8f1b9d8708617d_1280.jpg",
+          "width": 4038,
+          "height": 2783,
+          "kind": "photo",
+          "alt": "computer, virus, hacker, privacy policy, internet, trojan, security, digital, technology, crime, laptop, malware, system error, pc problem, computer problem, error message, malware, malware, malware, ",
+          "credit": "Jackson_893 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/computer-virus-hacker-4282377/",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Server_Room_%2822397102849%29.jpg/1280px-Server_Room_%2822397102849%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Real Estate",
+          "credit": "Carl Lender from Sunrise, USA / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Server_Room_(22397102849).jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4f8d7b9bdb.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4f8d7b9bdb.jpg",
+          "kind": "photo",
+          "alt": "Évtizedes szoftverhiba bénította meg az európai netet",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Több mint tíz évig rejtve maradt a hiba, most európai szolgáltatásokat állítottak le miatta",
+          "link": "https://infostart.hu/kulfold/2026/10/21/tobb-mint-tiz-evig-rejtve-maradt-a-hiba-most-europai-szolgaltatasokat-allitottak-le-miatta",
+          "summary": "Több európai országban kormányzati honlapokat és internetes közszolgáltatásokat állítottak le szerdán a világszerte elterjedt PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt.",
+          "source": "infostart.hu",
+          "related": null,
+          "hot_score": 6.17
+        },
+        {
+          "title": "Kormányzati honlapokat és közszolgáltatásokat állítottak le Európában, Magyarországon is riasztást adtak ki",
+          "link": "https://index.hu/kulfold/2026/10/22/europa-kormanyzati-honlapok-biztonsagi-hibak-leallas/",
+          "summary": "Súlyos biztonsági hibák miatt.",
+          "source": "index.hu",
+          "related": null,
+          "hot_score": null
+        },
+        {
+          "title": "Több európai ország kormányzati weboldala elsötétült egy veszélyes kiberbiztonsági hiba miatt",
+          "link": "https://hvg.hu/tudomany/20261021_php-kiberbiztonsag-europa-kormanyzati-honlapok-leallitasa",
+          "summary": "Franciaország is érintett, de Ausztráliában is észlelték a PHP-t érintő hibákat.",
+          "source": "hvg.hu",
+          "related": true,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/kulfold/2026/10/21/tobb-mint-tiz-evig-rejtve-maradt-a-hiba-most-europai-szolgaltatasokat-allitottak-le-miatta",
+          "https://index.hu/kulfold/2026/10/22/europa-kormanyzati-honlapok-biztonsagi-hibak-leallas/"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/tech/2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet/",
+      "seo": {
+        "meta_title": "Évtizedes szoftverhiba bénította meg az európai netet",
+        "meta_description": "Kormányzati honlapokat és internetes közszolgáltatásokat állítottak le szerdán több európai országban a széles körben használt PHP programozási nyelvben azonosí",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Codigo_php.jpg/1280px-Codigo_php.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "82cd954a-2a58-5700-ae1f-2abb4a646324"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar Péter a franciaországi zavargásokról: marad a szigor",
+          "url": "/kozelet/2026-10-18-magyar-peter-a-franciaorszagi-zavargasokrol-marad-a-szigor/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "879c54e99f2cc035bd4a5e05473f7b3dccf22d487e18040adddb06b8d5fd19d1",
+      "pipeline_run_id": "39754686127",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T11:27:15+02:00",
+      "updated_at": "2026-10-22T11:27:15+02:00",
+      "published_at": "2026-10-22T11:27:15+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-22T09:28:17+00:00",
+        "msg_ids": [
+          8753,
+          8754,
+          8755,
+          8756,
+          8757,
+          8758,
+          8759
+        ],
+        "control_id": 8760
+      }
     }
   ]
 }
