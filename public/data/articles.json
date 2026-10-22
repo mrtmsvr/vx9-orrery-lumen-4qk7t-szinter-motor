@@ -1,7 +1,131 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T11:29:04+02:00",
+  "updated_at": "2026-10-22T12:18:54+02:00",
   "articles": [
+    {
+      "id": "232da882-f154-5d9e-b497-810c64b8601f",
+      "slug": "2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "PHP",
+        "kiberbiztonság",
+        "Nemzeti Kiberbiztonsági Intézet",
+        "sérülékenység"
+      ],
+      "title": "Évtizedes szoftverhiba bénította meg az európai netet",
+      "subtitle": null,
+      "lead": "Kormányzati honlapokat és internetes közszolgáltatásokat állítottak le szerdán több európai országban a széles körben használt PHP programozási nyelvben azonosított két kritikus biztonsági hiba miatt. Az Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat szerint ezek a szoftver eddigi legsúlyosabb, mesterséges intelligenciával feltárt sérülékenységei.",
+      "key_points": [
+        "Két súlyos biztonsági hiba miatt több európai országban lekapcsolták a fontosabb kormányzati és közszolgáltatási honlapokat.",
+        "A PHP programozási nyelvben azonosított hibákat a támadók akár jelszó nélkül, távolról is kihasználhatták volna.",
+        "A magyar Nemzeti Kiberbiztonsági Intézet riasztást adott ki, és a javítások haladéktalan telepítését, illetve szükség esetén a lekapcsolást sürgette."
+      ],
+      "content": "Szerdán több európai országban elővigyázatossági intézkedésként leállították a kormányzati honlapokat és az internetes közszolgáltatásokat a világszerte elterjedt PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt. A PHP egy olyan programozási nyelv, amely a világ weboldalainak mintegy 70 százalékába be van építve, így a hibák megjelenése rendkívül széles körben okozott problémákat. A kritikus besorolású sérülékenységek lehetővé tennék a támadók számára, hogy jelszó nélkül, távolról is programokat futtassanak az érintett szervereken, bár a rendszerek feltöréséről nem érkezett megerősített jelentés. A szoftveres hiba globális fenyegetést jelent, hiszen a weboldalak túlnyomó többsége támaszkodik a PHP működésére, ezáltal szerverek milliói váltak sebezhetővé.\n\nHollandiában elővigyázatosságból lekapcsolták a rotterdami kikötőt, a kormányzati ügyintézési portált, több kórházat, az öt legnagyobb politikai párt honlapját, valamint a nemzeti kiberbiztonsági központ saját weboldalát is. Finnországban több kormányzati internetes szolgáltatást függesztettek fel, Dániában az iskolák és a szülők közötti kapcsolattartásra használt országos rendszert iktatták ki, Franciaországban pedig a belügyminisztérium állította le ideiglenesen a helyi közigazgatási szervek egyes honlapjait. Továbbá Ausztráliában is észlelték a PHP-t érintő hibákat, és ott is lekapcsolták a kormányzati weboldalakat. A Cloudflare internetbiztonsági vállalat már a javítások megjelenése előtt észlelte, hogy támadók megpróbálják kihasználni a hibákat.\n\nMagyarországon a Nemzeti Kiberbiztonsági Intézet riasztást adott ki a kritikus besorolású biztonsági hibák miatt, és sürgette a javítások haladéktalan telepítését. Az intézet javaslata szerint ahol ez nem lehetséges, ott az érintett rendszereket ideiglenesen le kell választani az internetről vagy le kell állítani. A PHP fejlesztői szerdán közzétették a biztonsági javításokat, a szakértők pedig figyelmeztettek, hogy a WordPress-alapú honlapok szokásos frissítése önmagában nem elegendő, a szervereken futó PHP-t is frissíteni kell. A hazai intézmény határozott útmutatása nyomán a rendszergazdáknak azonnali cselekvésre volt szükségük az infrastruktúra védelmében.\n\nAz Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat – amely szintén részt vett a hibák feltárásában – külön hangsúlyozta a mesterséges intelligencia szerepét, és az MI segítségével valaha feltárt legsúlyosabb biztonsági hibáknak nevezte a mostaniakat. A cég tájékoztatása szerint a hibák több mint egy évtizedig észrevétlenek maradtak, részben azért, mert a kihasználásukhoz rendkívül bonyolult műveletsort kellett kidolgozni. Ez a több mint tíz évig rejtve maradt szoftveres hiányosság rávilágít arra, hogy a modern technológiai eszközök, mint a mesterséges intelligencia, milyen kulcsfontosságú szerepet töltenek be a rejtett informatikai veszélyek feltárásában és a digitális biztonság fenntartásában.",
+      "content_format": "markdown",
+      "body": [
+        "Szerdán több európai országban elővigyázatossági intézkedésként leállították a kormányzati honlapokat és az internetes közszolgáltatásokat a világszerte elterjedt PHP programozási nyelvben azonosított két súlyos biztonsági hiba miatt. A PHP egy olyan programozási nyelv, amely a világ weboldalainak mintegy 70 százalékába be van építve, így a hibák megjelenése rendkívül széles körben okozott problémákat. A kritikus besorolású sérülékenységek lehetővé tennék a támadók számára, hogy jelszó nélkül, távolról is programokat futtassanak az érintett szervereken, bár a rendszerek feltöréséről nem érkezett megerősített jelentés. A szoftveres hiba globális fenyegetést jelent, hiszen a weboldalak túlnyomó többsége támaszkodik a PHP működésére, ezáltal szerverek milliói váltak sebezhetővé.",
+        "Hollandiában elővigyázatosságból lekapcsolták a rotterdami kikötőt, a kormányzati ügyintézési portált, több kórházat, az öt legnagyobb politikai párt honlapját, valamint a nemzeti kiberbiztonsági központ saját weboldalát is. Finnországban több kormányzati internetes szolgáltatást függesztettek fel, Dániában az iskolák és a szülők közötti kapcsolattartásra használt országos rendszert iktatták ki, Franciaországban pedig a belügyminisztérium állította le ideiglenesen a helyi közigazgatási szervek egyes honlapjait. Továbbá Ausztráliában is észlelték a PHP-t érintő hibákat, és ott is lekapcsolták a kormányzati weboldalakat. A Cloudflare internetbiztonsági vállalat már a javítások megjelenése előtt észlelte, hogy támadók megpróbálják kihasználni a hibákat.",
+        "Magyarországon a Nemzeti Kiberbiztonsági Intézet riasztást adott ki a kritikus besorolású biztonsági hibák miatt, és sürgette a javítások haladéktalan telepítését. Az intézet javaslata szerint ahol ez nem lehetséges, ott az érintett rendszereket ideiglenesen le kell választani az internetről vagy le kell állítani. A PHP fejlesztői szerdán közzétették a biztonsági javításokat, a szakértők pedig figyelmeztettek, hogy a WordPress-alapú honlapok szokásos frissítése önmagában nem elegendő, a szervereken futó PHP-t is frissíteni kell. A hazai intézmény határozott útmutatása nyomán a rendszergazdáknak azonnali cselekvésre volt szükségük az infrastruktúra védelmében.",
+        "Az Alphabet tulajdonában álló Wiz kiberbiztonsági vállalat – amely szintén részt vett a hibák feltárásában – külön hangsúlyozta a mesterséges intelligencia szerepét, és az MI segítségével valaha feltárt legsúlyosabb biztonsági hibáknak nevezte a mostaniakat. A cég tájékoztatása szerint a hibák több mint egy évtizedig észrevétlenek maradtak, részben azért, mert a kihasználásukhoz rendkívül bonyolult műveletsort kellett kidolgozni. Ez a több mint tíz évig rejtve maradt szoftveres hiányosság rávilágít arra, hogy a modern technológiai eszközök, mint a mesterséges intelligencia, milyen kulcsfontosságú szerepet töltenek be a rejtett informatikai veszélyek feltárásában és a digitális biztonság fenntartásában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 407,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Codigo_php.jpg/1280px-Codigo_php.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 645,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Código en PHP.",
+        "credit": "lmonk72 / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Codigo_php.jpg",
+        "exact": true,
+        "entity": "PHP programming language",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/21/tobb-mint-tiz-evig-rejtve-maradt-a-hiba-most-europai-szolgaltatasokat-allitottak-le-miatta",
+          "title": "Több mint tíz évig rejtve maradt a hiba, most európai szolgáltatásokat állítottak le miatta",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/10/22/europa-kormanyzati-honlapok-biztonsagi-hibak-leallas/",
+          "title": "Kormányzati honlapokat és közszolgáltatásokat állítottak le Európában, Magyarországon is riasztást adtak ki",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        },
+        {
+          "url": "https://hvg.hu/tudomany/20261021_php-kiberbiztonsag-europa-kormanyzati-honlapok-leallitasa",
+          "title": "Több európai ország kormányzati weboldala elsötétült egy veszélyes kiberbiztonsági hiba miatt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:27:15+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-22T12:18:54+02:00"
+      },
+      "hot_score": 6.17,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/kulfold/2026/10/21/tobb-mint-tiz-evig-rejtve-maradt-a-hiba-most-europai-szolgaltatasokat-allitottak-le-miatta",
+          "https://index.hu/kulfold/2026/10/22/europa-kormanyzati-honlapok-biztonsagi-hibak-leallas/"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/tech/2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet/",
+      "seo": {
+        "meta_title": "Évtizedes szoftverhiba bénította meg az európai netet",
+        "meta_description": "Kormányzati honlapokat és internetes közszolgáltatásokat állítottak le szerdán több európai országban a széles körben használt PHP programozási nyelvben azonosí",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-22-evtizedes-szoftverhiba-benitotta-meg-az-europai-netet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Codigo_php.jpg/1280px-Codigo_php.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "82cd954a-2a58-5700-ae1f-2abb4a646324"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar Péter a franciaországi zavargásokról: marad a szigor",
+          "url": "/kozelet/2026-10-18-magyar-peter-a-franciaorszagi-zavargasokrol-marad-a-szigor/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "879c54e99f2cc035bd4a5e05473f7b3dccf22d487e18040adddb06b8d5fd19d1",
+      "pipeline_run_id": "39754686127",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T12:18:54+02:00",
+      "updated_at": "2026-10-22T12:18:54+02:00",
+      "published_at": "2026-10-22T12:18:54+02:00",
+      "expires_at": null
+    },
     {
       "id": "1579bef9-6069-589c-a1d1-5aac30631832",
       "slug": "2026-10-22-matthesz-flora-vezeti-oktober-vegetol-a-fokuszt-is",
@@ -68177,101 +68301,6 @@
       "updated_at": "2026-09-30T17:45:05+02:00",
       "published_at": "2026-09-30T17:37:30+02:00",
       "expires_at": null
-    },
-    {
-      "id": "01b97a4b-4358-5870-9b81-062d99d7eed1",
-      "slug": "2026-09-30-miert-akadt-el-az-uj-orvosi-torveny",
-      "status": "removed",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészségügy",
-        "Magyar Orvosi Kamara",
-        "Hegedűs Zsolt",
-        "Baka András",
-        "Országgyűlés"
-      ],
-      "title": "Miért akadt el az új orvosi törvény?",
-      "subtitle": null,
-      "lead": "Baka András államfő megfontolásra visszaküldte az Országgyűlésnek a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást. Az egészségügyi miniszter ígéretet tett arra, hogy a Sándor-palota észrevételeit mérlegelik a parlamentben.",
-      "key_points": [
-        "A kötelező orvosi kamarai tagságot visszaállító jogszabályt szeptember 22-én fogadta el az Országgyűlés 135 igen és 50 nem szavazattal.",
-        "Baka András köztársasági elnök egyetért a törvény céljával, de a tisztségviselők választásának korlátozását kifogásolta.",
-        "Hegedűs Zsolt egészségügyi miniszter közösségi oldalán jelezte, hogy az észrevételeket a Törvényalkotási Bizottság következő ülésén tárgyalják."
-      ],
-      "content": "Megálljt parancsolt az államfő a kötelező orvosi kamarai tagság visszaállításáról szóló jogszabálynak, miután Baka András visszaküldte a törvénymódosítást az Országgyűlésnek. A parlament szeptember 22-én szavazta meg a kormány által kezdeményezett előterjesztést, amely 135 igen és 50 nem szavazattal kapott zöld utat.\n\nAz elnöki vétó hátterében az áll, hogy bár a Sándor-palota egyetért a törvény alapvető célkitűzésével, a kamarai tisztségviselők választásának korlátozását aggályosnak tartja. A korábbi rendszer elemeit 2023-ban törölte el a kormány, ám Hegedűs Zsolt egészségügyi miniszter már áprilisban ígéretet tett a jogosultságok visszavezetésére.\n\nA kialakult helyzetre Hegedűs Zsolt is reagált a közösségi oldalán, ahol hangsúlyozta a konstruktív párbeszéd fontosságát. „A Sándor-palota észrevételeit érdemben mérlegeljük, és előkészítjük azok megtárgyalását az Országgyűlés Törvényalkotási Bizottságának következő ülésére” – fogalmazott a tárcavezető, üdvözölve a fékek és ellensúlyok működését.\n\nA jogszabály sorsa így visszakerül a parlament elé, ahol a szakmai szervezetek jövőbeni felépítéséről és a választási szabályok finomításáról döntenek majd a következő ülésen.",
-      "content_format": "markdown",
-      "body": [
-        "Megálljt parancsolt az államfő a kötelező orvosi kamarai tagság visszaállításáról szóló jogszabálynak, miután Baka András visszaküldte a törvénymódosítást az Országgyűlésnek. A parlament szeptember 22-én szavazta meg a kormány által kezdeményezett előterjesztést, amely 135 igen és 50 nem szavazattal kapott zöld utat.",
-        "Az elnöki vétó hátterében az áll, hogy bár a Sándor-palota egyetért a törvény alapvető célkitűzésével, a kamarai tisztségviselők választásának korlátozását aggályosnak tartja. A korábbi rendszer elemeit 2023-ban törölte el a kormány, ám Hegedűs Zsolt egészségügyi miniszter már áprilisban ígéretet tett a jogosultságok visszavezetésére.",
-        "A kialakult helyzetre Hegedűs Zsolt is reagált a közösségi oldalán, ahol hangsúlyozta a konstruktív párbeszéd fontosságát. „A Sándor-palota észrevételeit érdemben mérlegeljük, és előkészítjük azok megtárgyalását az Országgyűlés Törvényalkotási Bizottságának következő ülésére” – fogalmazott a tárcavezető, üdvözölve a fékek és ellensúlyok működését.",
-        "A jogszabály sorsa így visszakerül a parlament elé, ahol a szakmai szervezetek jövőbeni felépítéséről és a választási szabályok finomításáról döntenek majd a következő ülésen."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 180,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Zsolt_Heged%C5%B1s.jpg/1280px-Zsolt_Heged%C5%B1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Employment, Social Policy, Health and Consumer Affairs Council (Health) Doorstep Zsolt HEGEDŰS, Minister of Health of Hungary",
-        "credit": "European Commission Audiovisual Service / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Zsolt_Heged%C5%B1s.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20260930_hegedus-zsolt-baka-andras-torvenymodositas-kotelezo-orvosi-kamarai-tagsag-visszaallitasa",
-          "title": "Hegedűs Zsolt reagált arra, hogy Baka András visszadobta a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T15:35:59+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-09-30T15:41:28+02:00"
-      },
-      "hot_score": 5.22,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20260930_hegedus-zsolt-baka-andras-torvenymodositas-kotelezo-orvosi-kamarai-tagsag-visszaallitasa"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/eletmod/2026-09-30-miert-akadt-el-az-uj-orvosi-torveny/",
-      "seo": {
-        "meta_title": "Miért akadt el az új orvosi törvény?",
-        "meta_description": "Baka András államfő megfontolásra visszaküldte az Országgyűlésnek a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást. Az egészségügyi miniszter í",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-09-30-miert-akadt-el-az-uj-orvosi-torveny/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Zsolt_Heged%C5%B1s.jpg/1280px-Zsolt_Heged%C5%B1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "f6d4b54d401b52664ff7498cc0d7292f3b402ca4e1592852ca9b17a9a812aef1",
-      "pipeline_run_id": "36722227905",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T15:41:28+02:00",
-      "updated_at": "2026-09-30T15:41:28+02:00",
-      "published_at": "2026-09-30T15:41:28+02:00",
-      "expires_at": null,
-      "removed_reason": "duplikátum"
     }
   ]
 }
