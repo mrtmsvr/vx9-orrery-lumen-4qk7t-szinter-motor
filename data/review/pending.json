@@ -8581,7 +8581,7 @@
     {
       "id": "4519dda2-781e-53d8-96a2-206b8f19721d",
       "slug": "2026-10-22-valtohiba-miatt-egettek-porig-a-magyar-bmw-ket-becsben",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -8748,9 +8748,9 @@
       "dedupe_hash": "4f7325f164c0799ac822c2cbefb16ec6022e4cebcc109af535c9a066f8ab18b8",
       "pipeline_run_id": "39790238090",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-22T16:03:25+02:00",
-      "updated_at": "2026-10-22T16:03:25+02:00",
-      "published_at": "2026-10-22T16:03:25+02:00",
+      "created_at": "2026-10-22T17:26:31+02:00",
+      "updated_at": "2026-10-22T17:26:31+02:00",
+      "published_at": "2026-10-22T17:26:31+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -8763,9 +8763,9 @@
         "msg_ids": [],
         "control_id": 8798,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 17:26 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-22T17:26:10+02:00"
+      "live": true
     },
     {
       "id": "f8023a16-a298-5516-894b-88bf692e992e",
