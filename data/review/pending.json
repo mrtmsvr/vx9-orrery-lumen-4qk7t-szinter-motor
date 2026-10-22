@@ -9349,19 +9349,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-22T17:57:53+00:00",
-        "msg_ids": [
-          8871,
-          8872,
-          8873,
-          8874,
-          8875,
-          8876,
-          8877,
-          8878,
-          8879,
-          8881
-        ],
-        "control_id": 8880
+        "msg_ids": [],
+        "control_id": 8880,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
