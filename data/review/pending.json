@@ -9263,19 +9263,10 @@
         "title": 5,
         "image": 0,
         "sent_at": "2026-10-22T18:00:02+00:00",
-        "msg_ids": [
-          8882,
-          8883,
-          8884,
-          8885,
-          8886,
-          8887,
-          8888,
-          8889,
-          8890,
-          8893
-        ],
-        "control_id": 8891
+        "msg_ids": [],
+        "control_id": 8891,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
