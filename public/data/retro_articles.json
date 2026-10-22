@@ -1,7 +1,139 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T00:20:48+02:00",
+  "updated_at": "2026-10-23T00:18:10+02:00",
   "articles": [
+    {
+      "id": "c0f0ba22-ce19-535d-99d2-4c9378904bfb",
+      "slug": "2026-10-23-a-nap-amikor-a-bekes-diakok-tuntetese-megvaltoztatta-a-tortenelem-men",
+      "status": "published",
+      "category": "retro",
+      "subcategory": null,
+      "tags": [
+        "1956",
+        "forradalom",
+        "Budapest",
+        "történelem",
+        "október 23"
+      ],
+      "title": "A nap, amikor a békés diákok tüntetése megváltoztatta a történelem menetét",
+      "subtitle": null,
+      "lead": "1956. október 23-án Budapest utcáin békés diáktüntetéssel vette kezdetét az a forradalom és szabadságharc, amely a huszadik századi magyar történelem legmeghatározóbb eseményévé vált. A sztálinista terror és a szovjet megszállás ellen fellépő népfelkelés napok alatt az egész országra kiterjedt.",
+      "content": "> A budapesti diákok békés felvonulása egy olyan országos népfelkelés nyitánya lett, amely megrengette a szovjet érdekszférát.\n\nAz 1956-os magyar forradalom, amelyet gyakran magyar felkelésként is említenek, a Magyar Népköztársaság kormánya és a Szovjetuniótól való függőség politikája ellen irányult. A szovjet típusú gazdaságpolitika és a diktatórikus viszonyok ellen kibontakozó elégedetlenség végül az egyetemekről kiinduló diákmozgalmakban csúcsosodott ki.\n\nA történelem lapjaira bevonuló eseménysorozat 1956. október 23-án egy békés tüntetéssel kezdődött. A megmozduláshoz ezrek csatlakoztak, miközben a tömeg végigvonult Budapest központján, hogy kifejezze követeléseit.\n\nA tüntetők útvonala a főváros szívén át az Országház épületéhez vezetett. A Duna bal partján, a Kossuth Lajos téren magasodó Országház – amelyet a köznyemben gyakran egyszerűen Parlamentnek neveznek – hamarosan a történelmi sorsfordító pillanatok központjává vált.\n\nA diákok békés demonstrációja azonban nem maradt elszigetelt esemény, hanem egész országra kiterjedt népfelkeléssé terebélyesedett. A magyar társadalom egységbe kovácsolódva szállt szembe a sztálinista terrorral és a szovjet megszállással.\n\nA szabadságharc küzdelmei tizenöt napon keresztül tartottak. A túlerővel szemben harcoló fegyveres felkelők ellenállását végül szovjet tankok és csapatok verték szét november elején.\n\nA harcok és a megtorlás következtében ezrek vesztették életüket vagy sebesültek meg, és közel negyedmillió magyar kényszerült arra, hogy elhagyja a hazáját. Az 1956-os októberi napok emléke azonban kitörölhetetlen maradt a magyar nemzet emlékezetében.",
+      "content_format": "markdown",
+      "body": [
+        "Az 1956-os magyar forradalom, amelyet gyakran magyar felkelésként is említenek, a Magyar Népköztársaság kormánya és a Szovjetuniótól való függőség politikája ellen irányult. A szovjet típusú gazdaságpolitika és a diktatórikus viszonyok ellen kibontakozó elégedetlenség végül az egyetemekről kiinduló diákmozgalmakban csúcsosodott ki.",
+        "A történelem lapjaira bevonuló eseménysorozat 1956. október 23-án egy békés tüntetéssel kezdődött. A megmozduláshoz ezrek csatlakoztak, miközben a tömeg végigvonult Budapest központján, hogy kifejezze követeléseit.",
+        "A tüntetők útvonala a főváros szívén át az Országház épületéhez vezetett. A Duna bal partján, a Kossuth Lajos téren magasodó Országház – amelyet a köznyemben gyakran egyszerűen Parlamentnek neveznek – hamarosan a történelmi sorsfordító pillanatok központjává vált.",
+        "A diákok békés demonstrációja azonban nem maradt elszigetelt esemény, hanem egész országra kiterjedt népfelkeléssé terebélyesedett. A magyar társadalom egységbe kovácsolódva szállt szembe a sztálinista terrorral és a szovjet megszállással.",
+        "A szabadságharc küzdelmei tizenöt napon keresztül tartottak. A túlerővel szemben harcoló fegyveres felkelők ellenállását végül szovjet tankok és csapatok verték szét november elején.",
+        "A harcok és a megtorlás következtében ezrek vesztették életüket vagy sebesültek meg, és közel negyedmillió magyar kényszerült arra, hogy elhagyja a hazáját. Az 1956-os októberi napok emléke azonban kitörölhetetlen maradt a magyar nemzet emlékezetében."
+      ],
+      "pull_quote": "A budapesti diákok békés felvonulása egy olyan országos népfelkelés nyitánya lett, amely megrengette a szovjet érdekszférát.",
+      "reading_time_min": 2,
+      "word_count": 229,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg/1280px-Hungarian_Parliament_Building_from_across_the_Danube%2C_2025-01-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 672,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Vue du Parlement hongrois depuis l'autre côté du Danube.",
+        "credit": "Kilyann Le Hen / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg"
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+          "title": "Hungarian Revolution of 1956",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Student_activism",
+          "title": "Student activism",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/1956-os_forradalom",
+          "title": "1956-os forradalom",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://www.un.org/depts/dhl/dag/docs/a3485e.pdf",
+          "title": "United Nations",
+          "publisher": "United Nations",
+          "license": null,
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://www.nytimes.com/uwire/uwire_CTBI051020063326145.html?ex=122516640",
+          "title": "The New York Times",
+          "publisher": "The New York Times",
+          "license": null,
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Orsz%C3%A1gh%C3%A1z",
+          "title": "Országház",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/400",
+          "title": "UNESCO",
+          "publisher": "UNESCO",
+          "license": null,
+          "accessed_at": "2026-10-23T00:18:10+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "retro-v1",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "category_meta": {
+        "event_year": 1956,
+        "event_date": "10-23",
+        "event_title": "The Hungarian Revolution began as a peaceful student demonstration that attracted thousands while marching through centr"
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/retro/2026-10-23-a-nap-amikor-a-bekes-diakok-tuntetese-megvaltoztatta-a-tortenelem-men/",
+      "seo": {
+        "meta_title": "A nap, amikor a békés diákok tüntetése megváltoztatta a tört",
+        "meta_description": "1956. október 23-án Budapest utcáin békés diáktüntetéssel vette kezdetét az a forradalom és szabadságharc, amely a huszadik századi magyar történelem legmeghatá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/retro/2026-10-23-a-nap-amikor-a-bekes-diakok-tuntetese-megvaltoztatta-a-tortenelem-men/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "fc0778e4931b114d939b3cea0a1fabafc626a525bfb4ddff7b98a261e0006ce5",
+      "pipeline_run_id": "39863252241",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T00:18:10+02:00",
+      "updated_at": "2026-10-23T00:18:10+02:00",
+      "published_at": "2026-10-23T00:18:10+02:00",
+      "expires_at": null
+    },
     {
       "id": "f1d3b528-3c54-5969-94ad-66bd0aea2a68",
       "slug": "2026-10-22-a-brit-szigetek-tortenetenek-legsulyosabb-hajokatasztrofaja-tragedia",
