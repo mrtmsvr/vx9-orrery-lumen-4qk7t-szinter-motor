@@ -9629,13 +9629,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-22T20:21:14+00:00",
-        "msg_ids": [
-          8905,
-          8906,
-          8907,
-          8909
-        ],
-        "control_id": 8908
+        "msg_ids": [],
+        "control_id": 8908,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
