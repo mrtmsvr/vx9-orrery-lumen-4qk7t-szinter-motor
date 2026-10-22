@@ -1,7 +1,121 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T12:39:19+02:00",
+  "updated_at": "2026-10-22T13:00:46+02:00",
   "articles": [
+    {
+      "id": "965e8a1e-05de-5634-acc9-f0c0104be40b",
+      "slug": "2026-10-22-sokkal-melyebb-a-godor-mint-hittuk-ezt-titkoljak-az-egeszsegugyrol",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "egészségügy",
+        "Telex",
+        "Egyensúly Intézet",
+        "alapellátás",
+        "statisztika"
+      ],
+      "title": "Sokkal mélyebb a gödör, mint hittük: ezt titkolják az egészségügyről",
+      "subtitle": null,
+      "lead": "A magyar lakosság átlagosan öt évvel kevesebbet él az uniós átlagnál, és az ellátórendszer struktúrája komoly hiányosságokkal küzd. A Telex.hu műsorában részletesen elemezték a hazai egészségügy mélyreható problémáit.",
+      "key_points": [
+        "A születéskor várható élettartam nagyjából öt évvel marad el az uniós átlagtól.",
+        "A kezelhető okokból bekövetkező halálozások aránya kiemelkedően magas Magyarországon.",
+        "A lakosság saját zsebből fizetett egészségügyi hozzájárulása a nyugat-európai átlag kétszerese.",
+        "A vidéki alapellátásból és a praxisokból hiányoznak a megfelelő kapacitások és a háziorvosok."
+      ],
+      "content": "A magyar egészségügyi rendszer strukturális hiányosságairól és a lakosság egészségi állapotáról beszélt Boros Tamás, az Egyensúly Intézet vezetője, Filippov Gábor, az intézet kutatási igazgatója, valamint Joób Sándor, a Telex újságírója a Telex.hu videójában. A beszélgetés során elhangzott, hogy a hazai mutatók az európai rangsor végén helyezkednek el, aminek a hátterében mélyebb rendszerszintű gondok állnak, és ezeket a nehézségeket nem oldják meg a felületi jellegű intézkedések.\n\nEmellett a kezelhető okokból bekövetkező halálozások száma százezer főre vetítve az egyik legrosszabb eredményt mutatja, ami közvetlenül rávilágít az ellátórendszer működési zavaraira.\n\nA szakértők rámutattak, hogy a vidéki praxisokból és az egészségügyi alapellátásból hiányoznak a szükséges kapacitások, valamint a háziorvosok is elosztási nehézségekkel szembesülnek, miközben a rendszer túlságosan az akut esetekre fókuszál. A krónikus betegek átfogó és koordinált kezelése, valamint a megelőzés területén súlyos hiányosságok tapasztalhatók, amelyek miatt sok beteg nem kap megfelelő gondozást.\n\nA finanszírozási struktúra is komoly aggályokat vet fel, hiszen a magyar egészségügy GDP-arányosan kevesebb forrást kap az uniós átlagnál. Boros Tamás megfogalmazása szerint az állampolgárok saját zsebből fizetett hozzájárulásának aránya az összes egészségügyi kiadáshoz viszonyítva a nyugat-európai mérték duplája, ami óriási terhet ró a lakosságra.\n\nJoób Sándor a Telex.hu interjújában hangsúlyozta, hogy az egészségügy állapota messze túlmutat a felszíni hibákon, így hiába várható javulás attól, ha csupán a vakolat omladozását vagy a vécépapír hiányát róják fel az intézményekben. A valódi kihívást az jelenti, hogy a rendszer nem a megfelelő elvek mentén kapja a forrásokat.\n\nFilippov Gábor összegzése szerint nem az a baj az egészségüggyel, hogy omlik a vakolat és nincs vécépapír; a probléma jóval mélyebb, mert az egész intézményi hálózat hiányosan reagál a tartós betegségekre. A Telex.hu műsorában elhangzott elemzés alapján amíg a finanszírozási és a szervezési struktúra nem változik meg gyökeresen, addig a lakosság egészségi állapota és a várható élettartam sem fog jelentősen javulni.",
+      "content_format": "markdown",
+      "body": [
+        "A magyar egészségügyi rendszer strukturális hiányosságairól és a lakosság egészségi állapotáról beszélt Boros Tamás, az Egyensúly Intézet vezetője, Filippov Gábor, az intézet kutatási igazgatója, valamint Joób Sándor, a Telex újságírója a Telex.hu videójában. A beszélgetés során elhangzott, hogy a hazai mutatók az európai rangsor végén helyezkednek el, aminek a hátterében mélyebb rendszerszintű gondok állnak, és ezeket a nehézségeket nem oldják meg a felületi jellegű intézkedések.",
+        "Emellett a kezelhető okokból bekövetkező halálozások száma százezer főre vetítve az egyik legrosszabb eredményt mutatja, ami közvetlenül rávilágít az ellátórendszer működési zavaraira.",
+        "A szakértők rámutattak, hogy a vidéki praxisokból és az egészségügyi alapellátásból hiányoznak a szükséges kapacitások, valamint a háziorvosok is elosztási nehézségekkel szembesülnek, miközben a rendszer túlságosan az akut esetekre fókuszál. A krónikus betegek átfogó és koordinált kezelése, valamint a megelőzés területén súlyos hiányosságok tapasztalhatók, amelyek miatt sok beteg nem kap megfelelő gondozást.",
+        "A finanszírozási struktúra is komoly aggályokat vet fel, hiszen a magyar egészségügy GDP-arányosan kevesebb forrást kap az uniós átlagnál. Boros Tamás megfogalmazása szerint az állampolgárok saját zsebből fizetett hozzájárulásának aránya az összes egészségügyi kiadáshoz viszonyítva a nyugat-európai mérték duplája, ami óriási terhet ró a lakosságra.",
+        "Joób Sándor a Telex.hu interjújában hangsúlyozta, hogy az egészségügy állapota messze túlmutat a felszíni hibákon, így hiába várható javulás attól, ha csupán a vakolat omladozását vagy a vécépapír hiányát róják fel az intézményekben. A valódi kihívást az jelenti, hogy a rendszer nem a megfelelő elvek mentén kapja a forrásokat.",
+        "Filippov Gábor összegzése szerint nem az a baj az egészségüggyel, hogy omlik a vakolat és nincs vécépapír; a probléma jóval mélyebb, mert az egész intézményi hálózat hiányosan reagál a tartós betegségekre. A Telex.hu műsorában elhangzott elemzés alapján amíg a finanszírozási és a szervezési struktúra nem változik meg gyökeresen, addig a lakosság egészségi állapota és a várható élettartam sem fog jelentősen javulni."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 328,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg/1280px-Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A woman wearing a stethoscope sits at a table in a home office. She reads a book with several closed books nearby. The setting appears cozy and informal.",
+        "credit": "Shixart1985 / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=l04aX025iY4",
+          "title": "Nem az a baj az egészségüggyel, hogy omlik a vakolat és nincs vécépapír, a probléma jóval mélyebb",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-22T12:51:29+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Magyarországon a születéskor várható átlagos élettartam az nagjából öt évvel kevesebb, mint az Európai Uniónak az átlaga.",
+        "who": "Filippov Gábor, az Egyensúly Intézet kutatási igazgatója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-22T13:00:45+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=l04aX025iY4"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/kozelet/2026-10-22-sokkal-melyebb-a-godor-mint-hittuk-ezt-titkoljak-az-egeszsegugyrol/",
+      "seo": {
+        "meta_title": "Sokkal mélyebb a gödör, mint hittük: ezt titkolják az egészs",
+        "meta_description": "A magyar lakosság átlagosan öt évvel kevesebbet él az uniós átlagnál, és az ellátórendszer struktúrája komoly hiányosságokkal küzd. A Telex.hu műsorában részlet",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-22-sokkal-melyebb-a-godor-mint-hittuk-ezt-titkoljak-az-egeszsegugyrol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg/1280px-Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "e2871748d6266c99e631615cd37c6c7eb053b936b569c124d60be38b479bc435",
+      "pipeline_run_id": "39763879386",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T13:00:45+02:00",
+      "updated_at": "2026-10-22T13:00:45+02:00",
+      "published_at": "2026-10-22T13:00:45+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "l04aX025iY4",
+        "title": "Nem az a baj az egészségüggyel, hogy omlik a vakolat és nincs vécépapír, a probléma jóval mélyebb",
+        "channel": "Telex․hu",
+        "minutes": 51
+      }
+    },
     {
       "id": "ca6c09fe-ac55-5c3f-9d75-eda331602fad",
       "slug": "2026-10-22-oriasi-uzlet-a-futureal-felvasarolta-a-premier-outletet",
@@ -68231,103 +68345,6 @@
       "created_at": "2026-09-30T17:39:14+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-30T17:39:14+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "103326b1-a651-55a4-aec2-a39fd793b27e",
-      "slug": "2026-09-30-az-eperfa-rejtelyes-hatasa-a-belrendszerre",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészség",
-        "bélflóra",
-        "anyagcsere",
-        "kutatás",
-        "táplálkozás"
-      ],
-      "title": "Az eperfa rejtélyes hatása a bélrendszerre",
-      "subtitle": null,
-      "lead": "A bélmikrobiom összetételét és az anyagcserét is befolyásolhatják az eperfafélék egyes vegyületei laboratóriumi vizsgálatok szerint. A Wroclawi Orvosi Egyetem kutatói áttekintették a növény biológiailag aktív összetevőinek hatásait.",
-      "key_points": [
-        "Az eperfa leveléből és gyümölcséből készült kivonatok hatással lehetnek a bélbaktériumok összetételére.",
-        "A fehér és a fekete eper is gazdag polifenolokban, poliszacharidokban, valamint egyéb biológiailag aktív anyagokban.",
-        "A feldolgozási módszerek – például a szárítás vagy az extrakció – jelentősen megváltoztatják a készítmények hatását."
-      ],
-      "content": "Az eperfát évszázadok óta használják a hagyományos gyógyászatban és élelmiszerként, a legújabb tudományos vizsgálatok azonban molekuláris szinten is részletesen elemezték a növényt. Anna Prescha professzor, a Wroclawi Orvosi Egyetem dietetikai és bromatológiai tanszékének kutatója szerint a bélmikrobióta nemcsak az emésztőrendszer működéséhez járul hozzá, hanem az egész szervezet anyagcseréjét befolyásolhatja.\n\nA kutatások eddig főként a fehér eperre (Morus alba) koncentráltak, de a fekete eper (Morus nigra) gyümölcse is figyelemre méltó eredményeket mutatott. A növényi részek különböző hatóanyagokat tartalmaznak:\n\n- A levelekben 1-deoxinojirimycin (DNJ) található, amely a szénhidrát-anyagcserére hat.\n\n- A fekete eper gyümölcse magas antocianin- és fenolosvegyület-tartalommal bír.\n\n- Poliszacharidok mindkét növényi részben előfordulnak.\n\nA szakemberek megfigyelték, hogy a feldolgozási eljárások – mint a szárítás, a fermentáció vagy a különböző extrakciós módszerek – átalakítják a hatóanyagok arányát. A vízzel és pektát-liázzal végzett kivonások például a fekete eper esetében különösen erős prebiotikus potenciált mutattak.\n\nEgérkísérletek során, magas zsírtartalmú diétán tartott állatoknál a fehér eper gyümölcséből származó, polifenolokat és poliszacharidokat egyaránt tartalmazó frakció kedvezőbb bélflóra-változásokat idézett elő, mint az egyes összetevők külön-külön. A mikrobióta-transzplantációs kísérletek ráadásul alátámasztották, hogy a bélbaktériumok összetételének megváltoztatása önmagában is hozzájárulhatott a mérsékelt anyagcsere-javulásokhoz.",
-      "content_format": "markdown",
-      "body": [
-        "Az eperfát évszázadok óta használják a hagyományos gyógyászatban és élelmiszerként, a legújabb tudományos vizsgálatok azonban molekuláris szinten is részletesen elemezték a növényt. Anna Prescha professzor, a Wroclawi Orvosi Egyetem dietetikai és bromatológiai tanszékének kutatója szerint a bélmikrobióta nemcsak az emésztőrendszer működéséhez járul hozzá, hanem az egész szervezet anyagcseréjét befolyásolhatja.",
-        "A kutatások eddig főként a fehér eperre (Morus alba) koncentráltak, de a fekete eper (Morus nigra) gyümölcse is figyelemre méltó eredményeket mutatott. A növényi részek különböző hatóanyagokat tartalmaznak:",
-        "- A levelekben 1-deoxinojirimycin (DNJ) található, amely a szénhidrát-anyagcserére hat.",
-        "- A fekete eper gyümölcse magas antocianin- és fenolosvegyület-tartalommal bír.",
-        "- Poliszacharidok mindkét növényi részben előfordulnak.",
-        "A szakemberek megfigyelték, hogy a feldolgozási eljárások – mint a szárítás, a fermentáció vagy a különböző extrakciós módszerek – átalakítják a hatóanyagok arányát. A vízzel és pektát-liázzal végzett kivonások például a fekete eper esetében különösen erős prebiotikus potenciált mutattak.",
-        "Egérkísérletek során, magas zsírtartalmú diétán tartott állatoknál a fehér eper gyümölcséből származó, polifenolokat és poliszacharidokat egyaránt tartalmazó frakció kedvezőbb bélflóra-változásokat idézett elő, mint az egyes összetevők külön-külön. A mikrobióta-transzplantációs kísérletek ráadásul alátámasztották, hogy a bélbaktériumok összetételének megváltoztatása önmagában is hozzájárulhatott a mérsékelt anyagcsere-javulásokhoz."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 215,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Morus_alba_MHNT.BOT.2006.0.1270.JPG/1280px-Morus_alba_MHNT.BOT.2006.0.1270.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1165,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "White mulberry ,  wood",
-        "credit": "Roger Culos / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Morus_alba_MHNT.BOT.2006.0.1270.JPG"
-      },
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
-          "title": "Mulberry may reshape gut bacteria and influence metabolism",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-09-30T17:33:01+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-09-30T17:37:31+02:00"
-      },
-      "hot_score": 5.78,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/09/260928100551.htm"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/eletmod/2026-09-30-az-eperfa-rejtelyes-hatasa-a-belrendszerre/",
-      "seo": {
-        "meta_title": "Az eperfa rejtélyes hatása a bélrendszerre",
-        "meta_description": "A bélmikrobiom összetételét és az anyagcserét is befolyásolhatják az eperfafélék egyes vegyületei laboratóriumi vizsgálatok szerint. A Wroclawi Orvosi Egyetem k",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-09-30-az-eperfa-rejtelyes-hatasa-a-belrendszerre/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Morus_alba_MHNT.BOT.2006.0.1270.JPG/1280px-Morus_alba_MHNT.BOT.2006.0.1270.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "a0a75ddb55324ac2d9a5ed61fc81e91d9638cda9b7611f192d780d8e2a9743ec",
-      "pipeline_run_id": "36736957934",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T17:37:31+02:00",
-      "updated_at": "2026-09-30T17:37:31+02:00",
-      "published_at": "2026-09-30T17:37:31+02:00",
       "expires_at": null
     }
   ]
