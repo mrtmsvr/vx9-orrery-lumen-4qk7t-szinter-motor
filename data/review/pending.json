@@ -9550,15 +9550,10 @@
         "title": 0,
         "image": 3,
         "sent_at": "2026-10-22T15:46:06+00:00",
-        "msg_ids": [
-          8829,
-          8830,
-          8831,
-          8832,
-          8833,
-          8835
-        ],
-        "control_id": 8834
+        "msg_ids": [],
+        "control_id": 8834,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
