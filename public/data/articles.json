@@ -1,7 +1,145 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T19:57:56+02:00",
+  "updated_at": "2026-10-22T20:00:12+02:00",
   "articles": [
+    {
+      "id": "dcb6449a-5371-5619-873e-d4be04c089a1",
+      "slug": "2026-10-22-eloszor-kapott-el-embert-a-marhakat-pusztito-shamonda-virus",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": null,
+      "tags": [
+        "egészség",
+        "vírus",
+        "járvány",
+        "Franciaország",
+        "kutatás"
+      ],
+      "title": "Először kapott el embert a marhákat pusztító Shamonda-vírus",
+      "subtitle": null,
+      "lead": "A francia egészségügyi hatóságok beszámolója szerint először mutatták ki emberi szervezetben a főként szarvasmarhákat és haszonállatokat fertőző Shamonda-vírust. A ritka és váratlan eset körülményeit jelenleg is vizsgálják a szakemberek.",
+      "key_points": [
+        "Először mutatták ki embernél a korábban csak állatokat fertőző Shamonda-vírust.",
+        "A fertőzött beteg október elején hunyt el egy lyoni kórházban, ahol idegrendszeri szövődményekkel kezelték.",
+        "Az Európai Betegségmegelőzési és Járványvédelmi Központ (ECDC) jelenleg nem lát közvetlen veszélyt a lakosságra nézve."
+      ],
+      "content": "A francia egészségügyi hatóságok tájékoztatása szerint egy október elején elhunyt, súlyosan immunhiányos beteg szervezetében azonosították a Shamonda-vírust. Az Európai Betegségmegelőzési és Járványvédelmi Központ közlése alapján a kórokozó eddig kizárólag állatoknál – elsősorban szarvasmarháknál, juhoknál, kecskéknél, alpakáknál és lovaknál – fordult elő, emberi fertőzést pedig eddig nem dokumentáltak a világon. A fertőzött állatok körében a kór lázzal, hasmenéssel, a tejelő állatoknál pedig alacsony tejtermeléssel jár.\n\nA vírust törpeszúnyogok terjesztik, amelyek Afrikában és Ázsiában évtizedek óta hordozzák azt. Európában idén nyáron azonosították először haszonállatokban: július vége óta Ausztriában, Belgiumban, Franciaországban, Németországban, Írországban, Olaszországban, Liechtensteinben, Luxemburgban, Hollandiában, Portugáliában, Spanyolországban, Svájcban és Jersey szigetén is kimutatták állatoknál. A kontinensen a törpeszúnyogok tavasztól őszig a legaktívabbak, tevékenységüket a hőmérséklet csökkenése mérsékli.\n\nA megbetegedett személyt egy lyoni kórházban kezelték, ahol a fertőzéssel nagy valószínűséggel összefüggésbe hozható idegrendszeri szövődmények jelentkeztek nála. A francia hatóságok és az ECDC jelenleg is vizsgálják, miként fertőződhetett meg a beteg Kelet-Franciaországban – ahol tavasszal először azonosítottak állati eseteket –, és pontosan mekkora szerepe volt a vírusnak a halálában.\n\nA hatóságok hangsúlyozása szerint ez egy rendkívüli eset volt egy eleve súlyos egészségi állapotban lévő személynél, így a jelenlegi helyzetben nincs közvetlen veszély a lakosságra nézve. Az ECDC szoros együttműködést alakított ki az Európai Bizottsággal és az Európai Élelmiszerbiztonsági Hatósággal a járványügyi felkészültség és a reagálási tervek megerősítése érdekében.\n\nA szúnyogok által terjesztett fertőzések ellen más módszerekkel is védekeznek Európában: Barcelonában augusztus közepétől november közepéig több mint másfél millió, Wolbachia baktériummal fertőzött hím ázsiai tigrisszúnyogot engedtek szabadon a Rentokil és az Alphabethez tartozó Debug projekt együttműködésében. Ez a faj Magyarországon is jelen van, ahol 2014-es észlelése óta stabil populációk alakultak ki, és kis vízmennyiségben is szaporodik.\n\nA barcelonai programban alkalmazott technológia lényege, hogy a baktériummal fertőzött hímek nem nemzenek életképes utódot a helyi nőstényekkel, így csökkentve a dengue-lázat és más fertőzéseket terjesztő rovarok számát. Szingapúrban és az Egyesült Államok egyes részein már alkalmazzák ezt a technikát.",
+      "content_format": "markdown",
+      "body": [
+        "A francia egészségügyi hatóságok tájékoztatása szerint egy október elején elhunyt, súlyosan immunhiányos beteg szervezetében azonosították a Shamonda-vírust. Az Európai Betegségmegelőzési és Járványvédelmi Központ közlése alapján a kórokozó eddig kizárólag állatoknál – elsősorban szarvasmarháknál, juhoknál, kecskéknél, alpakáknál és lovaknál – fordult elő, emberi fertőzést pedig eddig nem dokumentáltak a világon. A fertőzött állatok körében a kór lázzal, hasmenéssel, a tejelő állatoknál pedig alacsony tejtermeléssel jár.",
+        "A vírust törpeszúnyogok terjesztik, amelyek Afrikában és Ázsiában évtizedek óta hordozzák azt. Európában idén nyáron azonosították először haszonállatokban: július vége óta Ausztriában, Belgiumban, Franciaországban, Németországban, Írországban, Olaszországban, Liechtensteinben, Luxemburgban, Hollandiában, Portugáliában, Spanyolországban, Svájcban és Jersey szigetén is kimutatták állatoknál. A kontinensen a törpeszúnyogok tavasztól őszig a legaktívabbak, tevékenységüket a hőmérséklet csökkenése mérsékli.",
+        "A megbetegedett személyt egy lyoni kórházban kezelték, ahol a fertőzéssel nagy valószínűséggel összefüggésbe hozható idegrendszeri szövődmények jelentkeztek nála. A francia hatóságok és az ECDC jelenleg is vizsgálják, miként fertőződhetett meg a beteg Kelet-Franciaországban – ahol tavasszal először azonosítottak állati eseteket –, és pontosan mekkora szerepe volt a vírusnak a halálában.",
+        "A hatóságok hangsúlyozása szerint ez egy rendkívüli eset volt egy eleve súlyos egészségi állapotban lévő személynél, így a jelenlegi helyzetben nincs közvetlen veszély a lakosságra nézve. Az ECDC szoros együttműködést alakított ki az Európai Bizottsággal és az Európai Élelmiszerbiztonsági Hatósággal a járványügyi felkészültség és a reagálási tervek megerősítése érdekében.",
+        "A szúnyogok által terjesztett fertőzések ellen más módszerekkel is védekeznek Európában: Barcelonában augusztus közepétől november közepéig több mint másfél millió, Wolbachia baktériummal fertőzött hím ázsiai tigrisszúnyogot engedtek szabadon a Rentokil és az Alphabethez tartozó Debug projekt együttműködésében. Ez a faj Magyarországon is jelen van, ahol 2014-es észlelése óta stabil populációk alakultak ki, és kis vízmennyiségben is szaporodik.",
+        "A barcelonai programban alkalmazott technológia lényege, hogy a baktériummal fertőzött hímek nem nemzenek életképes utódot a helyi nőstényekkel, így csökkentve a dengue-lázat és más fertőzéseket terjesztő rovarok számát. Szingapúrban és az Egyesült Államok egyes részein már alkalmazzák ezt a technikát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 342,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mosquito_on_human_skin.jpg/1280px-Mosquito_on_human_skin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 784,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Image of mosquito",
+        "credit": "James Gathany, USCDCP / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Mosquito_on_human_skin.jpg",
+        "exact": true,
+        "entity": "Mosquito",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/tudomany/20261022_franciaorszag-shamonda-virus-fertozott-ember",
+          "title": "Először fertőzött meg embert a Shamonda-vírus",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T19:58:05+02:00"
+        },
+        {
+          "url": "https://qubit.hu/2026/10/22/eloszor-mutattak-ki-a-shamonda-virust-embernel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Először mutatták ki a Shamonda-vírust embernél",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T19:58:05+02:00"
+        },
+        {
+          "url": "https://qubit.hu/2026/10/21/masfel-millio-fertozott-szunyogot-engedtek-szabadon-barcelonaban-hogy-kevesebb-fertozo-szunyog-legyen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Másfél millió fertőzött szúnyogot engedtek szabadon Barcelonában, hogy kevesebb fertőző szúnyog legyen",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T19:58:05+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-22T20:00:12+02:00"
+      },
+      "hot_score": 6.02,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/tudomany/20261022_franciaorszag-shamonda-virus-fertozott-ember"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/eletmod/2026-10-22-eloszor-kapott-el-embert-a-marhakat-pusztito-shamonda-virus/",
+      "seo": {
+        "meta_title": "Először kapott el embert a marhákat pusztító Shamonda-vírus",
+        "meta_description": "A francia egészségügyi hatóságok beszámolója szerint először mutatták ki emberi szervezetben a főként szarvasmarhákat és haszonállatokat fertőző Shamonda-vírust",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-22-eloszor-kapott-el-embert-a-marhakat-pusztito-shamonda-virus/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mosquito_on_human_skin.jpg/1280px-Mosquito_on_human_skin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "48237085-842c-5f07-9c6f-0d1ef7a993ba",
+        "559f02cc-75a3-59b3-8f42-0f7485156df1",
+        "6b5d437b-1a89-5531-9756-593d69d09b77"
+      ],
+      "see_also": [
+        {
+          "title": "Megújul a Gubacsi híd",
+          "url": "/kozelet/2026-10-04-megujul-a-gubacsi-hid/",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Senki sem tudja pontosan, hány orvos dolgozik ma Magyarországon",
+          "url": "/kozelet/2026-10-10-senki-sem-tudja-pontosan-hany-orvos-dolgozik-ma-magyarorszagon/",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Nevünkön szólít a szállodai robot",
+          "url": "/tech/2026-10-01-nevunkon-szolit-a-szallodai-robot/",
+          "date": "2026-10-01"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "545794e27b8c6a49ef8066987dc6b942d5bd020570ffde96035312ac9d224c2c",
+      "pipeline_run_id": "39822751815",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T20:00:12+02:00",
+      "updated_at": "2026-10-22T20:00:12+02:00",
+      "published_at": "2026-10-22T20:00:12+02:00",
+      "expires_at": null
+    },
     {
       "id": "c733d314-6b9b-5fe6-b4f8-caef359cb036",
       "slug": "2026-10-22-meguszta-a-kemot-a-daganatos-xiv-leo-papa-johet-a-visszateres",
@@ -68253,103 +68391,6 @@
       "created_at": "2026-10-01T08:36:01+02:00",
       "updated_at": "2026-10-01T08:36:01+02:00",
       "published_at": "2026-10-01T08:36:01+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1b99d207-36aa-597b-8b60-6a58ffc87c37",
-      "slug": "2026-10-01-5g-a-holdon-ezt-hozza-az-uj-halozat",
-      "status": "published",
-      "category": "univerzum",
-      "subcategory": null,
-      "tags": [
-        "NASA",
-        "Hold",
-        "5G",
-        "űrkutatás",
-        "technológia"
-      ],
-      "title": "Így épül ki a holdi 5G hálózat",
-      "subtitle": null,
-      "lead": "A NASA megbízást adott egy fejlett hálózat kifejlesztésére a Hold felszínére, amely stabil összeköttetést biztosít majd az űrhajósoknak. Ez a technológia a mindennapokban olyan, mintha otthoni gigabites optikai netet vinnénk magunkkal a sivatag közepére.",
-      "key_points": [
-        "A NASA megbízást adott egy holdi 5G kommunikációs rendszer kifejlesztésére.",
-        "A fejlesztés a clevelandi Glenn Kutatóközpont irányításával zajlik.",
-        "A technológia beépített Wi-Fi 6 kapcsolattal is rendelkezik majd a felszíni munkához."
-      ],
-      "content": "A Modulate Space Corporation nevű vállalkozás nyerte el a megbízást a NASA-tól, hogy kulcsfontosságú elemeket fejlesszen ki egy olyan hálózathoz, amely a Hold felszínén biztosít stabil kapcsolatot. Ez a feladat olyan, mintha egy teljesen új, földi mobilhálózatot kellene felhúzni egy olyan helyen, ahol eddig még vezetékes telefon sem létezett.\n\nA munkálatokat a clevelandi Glenn Kutatóközpont koordinálja, a cél pedig egy skálázható, szabványokon alapuló kommunikációs képesség létrehozása. A rendszer kifejlesztése két fő területre oszlik, amelyek együttesen teszik lehetővé a jövőbeli űrmissziók zavartalan adatforgalmát a Hold felszínén.\n\nA tervezett rendszer különlegessége, hogy a modern 5G technológia mellett beépített Wi-Fi 6 szabványt is tartalmaz, ami megkönnyíti a helyi eszközök közötti adatcserét. A Wi-Fi a rádióhullámokat használó, vezeték nélküli hálózatok elterjedt technológiája, amelyet eredetileg fülbemászó marketingnévként alkottak meg a hifi rendszerek hangulatára utalva, ma pedig már a mindennapjaink alapja.\n\nA jövőben ezekre a fejlesztésekre azért van égető szükség, mert az Artemis program keretében visszatérő űrhajósoknak nagy sávszélességre lesz szükségük a kutatási adatok továbbításához és a földi irányítással való kapcsolattartáshoz.",
-      "content_format": "markdown",
-      "body": [
-        "A Modulate Space Corporation nevű vállalkozás nyerte el a megbízást a NASA-tól, hogy kulcsfontosságú elemeket fejlesszen ki egy olyan hálózathoz, amely a Hold felszínén biztosít stabil kapcsolatot. Ez a feladat olyan, mintha egy teljesen új, földi mobilhálózatot kellene felhúzni egy olyan helyen, ahol eddig még vezetékes telefon sem létezett.",
-        "A munkálatokat a clevelandi Glenn Kutatóközpont koordinálja, a cél pedig egy skálázható, szabványokon alapuló kommunikációs képesség létrehozása. A rendszer kifejlesztése két fő területre oszlik, amelyek együttesen teszik lehetővé a jövőbeli űrmissziók zavartalan adatforgalmát a Hold felszínén.",
-        "A tervezett rendszer különlegessége, hogy a modern 5G technológia mellett beépített Wi-Fi 6 szabványt is tartalmaz, ami megkönnyíti a helyi eszközök közötti adatcserét. A Wi-Fi a rádióhullámokat használó, vezeték nélküli hálózatok elterjedt technológiája, amelyet eredetileg fülbemászó marketingnévként alkottak meg a hifi rendszerek hangulatára utalva, ma pedig már a mindennapjaink alapja.",
-        "A jövőben ezekre a fejlesztésekre azért van égető szükség, mert az Artemis program keretében visszatérő űrhajósoknak nagy sávszélességre lesz szükségük a kutatási adatok továbbításához és a földi irányítással való kapcsolattartáshoz."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 202,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Moon_surface_10k.png/1280px-Moon_surface_10k.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Moon surface",
-        "credit": "Wikideas1 / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Moon_surface_10k.png"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-          "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-10-01T06:22:45+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-01T06:56:04+02:00"
-      },
-      "hot_score": 5.92,
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/univerzum/2026-10-01-5g-a-holdon-ezt-hozza-az-uj-halozat/",
-      "seo": {
-        "meta_title": "Így épül ki a holdi 5G hálózat",
-        "meta_description": "A NASA megbízást adott egy fejlett hálózat kifejlesztésére a Hold felszínére, amely stabil összeköttetést biztosít majd az űrhajósoknak. Ez a technológia a mind",
-        "canonical_url": "https://xn--kollektva-m5a.hu/univerzum/2026-10-01-5g-a-holdon-ezt-hozza-az-uj-halozat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Moon_surface_10k.png/1280px-Moon_surface_10k.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "7c8e3203e418627ba485cb3e59d118e5637c331436959c49394887b4dc32dda6",
-      "pipeline_run_id": "36814621504",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T06:56:04+02:00",
-      "updated_at": "2026-10-01T07:18:07+02:00",
-      "published_at": "2026-10-01T06:56:04+02:00",
       "expires_at": null
     }
   ]
