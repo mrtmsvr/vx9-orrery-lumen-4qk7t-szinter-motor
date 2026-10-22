@@ -9500,13 +9500,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-22T09:30:43+00:00",
-        "msg_ids": [
-          8766,
-          8767,
-          8768
-        ],
-        "control_id": 8769
-      }
+        "msg_ids": [],
+        "control_id": 8769,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 12:38 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-22T12:38:54+02:00"
     }
   ]
 }
