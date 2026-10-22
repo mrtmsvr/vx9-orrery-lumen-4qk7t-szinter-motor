@@ -9086,6 +9086,319 @@
         "control_id": 8713
       },
       "live": true
+    },
+    {
+      "id": "f708a63d-fa06-55b3-9695-962cf5e780c7",
+      "slug": "2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "hőszivattyú",
+        "fűtés",
+        "megújuló energia",
+        "fenntarthatóság",
+        "energiatakarékosság"
+      ],
+      "title": "Több hőt ad, mint amennyi áramot fogyaszt?",
+      "subtitle": null,
+      "lead": "Sokan idegenkednek a hőszivattyúktól a téli fagyok miatt, pedig a modern kutatások szerint még zordabb éghajlaton is meglepő hatékonysággal működnek. Cikkünkben bemutatjuk, hogyan használható ki a termodinamika a háztartások hatékony fűtésére.",
+      "key_points": [
+        "A hőszivattyú nem előállítja a hőt, hanem átviszi azt a környezetből a lakásba.",
+        "A rendszer működéséhez külső munkára, azaz elektromos áramra van szükség.",
+        "A zordabb téli napokon a hatékonyság csökkenhet, de napelemes rendszerekkel ez ellensúlyozható.",
+        "A helyes vezérlési stratégiák és a levegő újrakeringtetése jelentősen javíthatják az energiamegtakarítást."
+      ],
+      "content": "## Hogy lehet több energia annál, mint amit beleinvesktál?\n\nA hőszivattyú alapvetően egy kalorikus gép, amely a fizika és a hűtőgépek jól ismert elveit fordítja meg: nem a hideg oldalon elvont, hanem a meleg oldalon leadott hőt hasznosítja. A termodinamika második főtétele szerint a hő önkéntelenül csak a melegebb helyről áramlik a hidegebb felé, így a hidegebb környezetből való hőátvitelhez külső munkára, vagyis elektromos áramra van szükség. A gőzkompressziós berendezésekben egy zárt csővezetékben keringő hűtőfolyadék gőze áramlik, amely a fűteni kívánt oldalon lecsapódik, és átadja hőjét a lakás levegőjének vagy a fűtővíznek. Ezután a cseppfolyós hűtőközeg egy fojtószelepen át hirtelen elpárolog, lehűl, majd a külső környezet felmelegíti, és a kompresszor ismét összesűríti. Így a berendezés képes arra, hogy a környezet alacsonyabb hőmérsékletű forrásaiból – mint a levegő, a talaj vagy a felszíni vizek – hőt vonjon ki, és azt magasabb hőmérsékletű helyre szállítsa.\n\n## Tévhitek a fagyról: meddig bírják a levegő-víz rendszerek?\n\nAz egyik leggyakoribb aggodalom a hőszivattyúkkal kapcsolatban, hogy a téli fagyokban csődöt mondanak. A Renewable Energy folyóiratban közölt, 2025-ös tanulmány szerint a levegős hőszivattyúk hatékonysága és kapacitása a hidegebb klímán valóban csökken, és ilyenkor magasabb kiegészítő fűtési terhelést igényelnek. Egy 2 tonnás névleges kapacitású, −25 °C-os alsó határra tervezett rendszer esetében a kutatók azt vizsgálták, mi történik, ha a hőszivattyút napenergiával és energiatárolással kombinálják. A vizsgálatok kimutatták, hogy ha a berendezést legalább 300 W/m² napsugárzás és −25 °C feletti külső hőmérséklet mellett működtetik, a teljesítménytényező (COP) 18 százalékkal nő, a hőszivattyú lefedettségi aránya pedig eléri a 94 százalékot, ami 20 százalékos energiamegtakarítást eredményez. Sőt, ha a napenergiát gyűjtő kollektorban a levegőt újrakeringetik, a teljesítmény további 24 százalékkal javul.\n\n## A talajszondás rendszerek és a hosszú távú egyensúly\n\nA levegős rendszerek mellett a talajszondás (földhőalapú) hőszivattyúk szintén népszerűek, ám itt is adódhatnak kihívások, például a talaj termikus egyensúlyának megbomlása a hideg éghajlaton. Egy Applied Thermal Engineeringben megjelent 2025-ös kutatás azt elemezte, hogyan lehet napelemes és hőtároló cölöpökkel javítani a talajszondás rendszerek hatékonyságát. Az eredmények azt mutatják, hogy ha a napenergiát nem közvetlenül a hőszivattyúba küldik, hanem a fűtési vagy hűtési üzemmód szerint osztják el, azzal a talaj hőegyensúlyhiánya −0,27 kelvin/évről csaknem tökéletes, 0,01 kelvin/év körüli szintre hozható vissza. Ezzel a konfigurációval a teljesítmény 6,7 és 19,7 százalék között javul, sőt, a legfejlettebb, 3,5 négyzetméteres kollektormérettel szerelt tesztrendszerek annyi energiát termeltek, ami nemcsak a hőszivattyú működtetéséhez volt elég, hanem még 3,7 megawattóra nettó többletenergiát is biztosított.\n\n## Mit jelent ez a magyar háztartások számára a gyakorlatban?\n\nA mindennapokban a hőszivattyús rendszerek kiválasztásakor érdemes szem előtt tartani a helyi adottságokat és a gazdasági környezetet. A kanadai lakóépületekben végzett, 2025-ös Sustainability tanulmány arra hívja fel a figyelmet, hogy bár a levegős hőszivattyús vízmelegítők jelentősen csökkenthetik az üvegházhatású gázok kibocsátását a hagyományos gázfűtéssel szemben, a jelenlegi gázárak mellett nem mindenhol ezek a legköltséghatékonyabbak. Ugyanakkor a technológia fejlődésével és a megújuló energiaforrások integrálásával a jövőben ezek az arányok javulhatnak. Nem szabad elfelejteni azt sem, hogy a különböző hőszivattyús szárító- vagy kiegészítő rendszerek – mint a 2019-es Energies tanulmányban vizsgált, visszatérő levegővel kevert egységek – akár 39,56 százalékos teljesítménynövekedést is elérhetnek a zárt rendszerű társaikhoz képest.\n\nEz a cikk kizárólag tájékoztató jellegű, és nem helyettesíti a gépészeti, illetve energetikai szakértő személyre szabott véleményét.",
+      "content_format": "markdown",
+      "body": [
+        "## Hogy lehet több energia annál, mint amit beleinvesktál?",
+        "A hőszivattyú alapvetően egy kalorikus gép, amely a fizika és a hűtőgépek jól ismert elveit fordítja meg: nem a hideg oldalon elvont, hanem a meleg oldalon leadott hőt hasznosítja. A termodinamika második főtétele szerint a hő önkéntelenül csak a melegebb helyről áramlik a hidegebb felé, így a hidegebb környezetből való hőátvitelhez külső munkára, vagyis elektromos áramra van szükség. A gőzkompressziós berendezésekben egy zárt csővezetékben keringő hűtőfolyadék gőze áramlik, amely a fűteni kívánt oldalon lecsapódik, és átadja hőjét a lakás levegőjének vagy a fűtővíznek. Ezután a cseppfolyós hűtőközeg egy fojtószelepen át hirtelen elpárolog, lehűl, majd a külső környezet felmelegíti, és a kompresszor ismét összesűríti. Így a berendezés képes arra, hogy a környezet alacsonyabb hőmérsékletű forrásaiból – mint a levegő, a talaj vagy a felszíni vizek – hőt vonjon ki, és azt magasabb hőmérsékletű helyre szállítsa.",
+        "## Tévhitek a fagyról: meddig bírják a levegő-víz rendszerek?",
+        "Az egyik leggyakoribb aggodalom a hőszivattyúkkal kapcsolatban, hogy a téli fagyokban csődöt mondanak. A Renewable Energy folyóiratban közölt, 2025-ös tanulmány szerint a levegős hőszivattyúk hatékonysága és kapacitása a hidegebb klímán valóban csökken, és ilyenkor magasabb kiegészítő fűtési terhelést igényelnek. Egy 2 tonnás névleges kapacitású, −25 °C-os alsó határra tervezett rendszer esetében a kutatók azt vizsgálták, mi történik, ha a hőszivattyút napenergiával és energiatárolással kombinálják. A vizsgálatok kimutatták, hogy ha a berendezést legalább 300 W/m² napsugárzás és −25 °C feletti külső hőmérséklet mellett működtetik, a teljesítménytényező (COP) 18 százalékkal nő, a hőszivattyú lefedettségi aránya pedig eléri a 94 százalékot, ami 20 százalékos energiamegtakarítást eredményez. Sőt, ha a napenergiát gyűjtő kollektorban a levegőt újrakeringetik, a teljesítmény további 24 százalékkal javul.",
+        "## A talajszondás rendszerek és a hosszú távú egyensúly",
+        "A levegős rendszerek mellett a talajszondás (földhőalapú) hőszivattyúk szintén népszerűek, ám itt is adódhatnak kihívások, például a talaj termikus egyensúlyának megbomlása a hideg éghajlaton. Egy Applied Thermal Engineeringben megjelent 2025-ös kutatás azt elemezte, hogyan lehet napelemes és hőtároló cölöpökkel javítani a talajszondás rendszerek hatékonyságát. Az eredmények azt mutatják, hogy ha a napenergiát nem közvetlenül a hőszivattyúba küldik, hanem a fűtési vagy hűtési üzemmód szerint osztják el, azzal a talaj hőegyensúlyhiánya −0,27 kelvin/évről csaknem tökéletes, 0,01 kelvin/év körüli szintre hozható vissza. Ezzel a konfigurációval a teljesítmény 6,7 és 19,7 százalék között javul, sőt, a legfejlettebb, 3,5 négyzetméteres kollektormérettel szerelt tesztrendszerek annyi energiát termeltek, ami nemcsak a hőszivattyú működtetéséhez volt elég, hanem még 3,7 megawattóra nettó többletenergiát is biztosított.",
+        "## Mit jelent ez a magyar háztartások számára a gyakorlatban?",
+        "A mindennapokban a hőszivattyús rendszerek kiválasztásakor érdemes szem előtt tartani a helyi adottságokat és a gazdasági környezetet. A kanadai lakóépületekben végzett, 2025-ös Sustainability tanulmány arra hívja fel a figyelmet, hogy bár a levegős hőszivattyús vízmelegítők jelentősen csökkenthetik az üvegházhatású gázok kibocsátását a hagyományos gázfűtéssel szemben, a jelenlegi gázárak mellett nem mindenhol ezek a legköltséghatékonyabbak. Ugyanakkor a technológia fejlődésével és a megújuló energiaforrások integrálásával a jövőben ezek az arányok javulhatnak. Nem szabad elfelejteni azt sem, hogy a különböző hőszivattyús szárító- vagy kiegészítő rendszerek – mint a 2019-es Energies tanulmányban vizsgált, visszatérő levegővel kevert egységek – akár 39,56 százalékos teljesítménynövekedést is elérhetnek a zárt rendszerű társaikhoz képest.",
+        "Ez a cikk kizárólag tájékoztató jellegű, és nem helyettesíti a gépészeti, illetve energetikai szakértő személyre szabott véleményét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 567,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heat_pump_model.jpg/1280px-Heat_pump_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 3280,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Deutsches Museum, Munich.",
+        "credit": "Tiia Monto / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Heat_pump_model.jpg",
+        "exact": true,
+        "entity": "ground source heat pump",
+        "vision_score": 12.0
+      },
+      "inline_images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Solar_Air_Heat_Collector.JPG/1280px-Solar_Air_Heat_Collector.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Typical residential installation of two Rural Renewable Energy Alliance Solar Powered Furnaces, Model SPF32, glazed, back-pass, flat-plate solar thermal air heat collectors, mounted seamlessly in para",
+          "credit": "Own work / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Solar_Air_Heat_Collector.JPG",
+          "after": 1,
+          "caption": "A napenergiával kombinált levegős rendszerek hatékonyan veszik fel a küzdelmet a téli hideggel."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://doi.org/10.1016/j.renene.2025.122682",
+          "title": "Influence of control strategy on the energetic performance of an air source heat pump coupled with a solar air collector for domestic hot water in a cold climate",
+          "publisher": "Renewable Energy, 2025",
+          "license": null,
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.applthermaleng.2025.125568",
+          "title": "Performance investigation of a solar-assisted ground source heat pump system coupled with novel offset pipe energy piles and solar PVT collectors for cold climate applications",
+          "publisher": "Applied Thermal Engineering, 2025",
+          "license": null,
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        },
+        {
+          "url": "https://doi.org/10.3390/en12163125",
+          "title": "Performance Analysis of Heat Pump Dryer with Unit-Room in Cold Climate Regions",
+          "publisher": "Energies, 2019",
+          "license": null,
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.energy.2024.131806",
+          "title": "Development and performance evaluation of a high solar contribution resorption-compression cascade heat pump for cold climates",
+          "publisher": "Energy, 2024",
+          "license": null,
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        },
+        {
+          "url": "https://doi.org/10.3390/su17052234",
+          "title": "Residential Air Source Heat Pump Water Heater Performance Testing and Feasibility Analysis in Cold Climate",
+          "publisher": "Sustainability, 2025",
+          "license": null,
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/H%C5%91szivatty%C3%BA",
+          "title": "Hőszivattyú",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-22T07:25:07+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "offtopic_topic": {
+        "id": "hoszivattyu",
+        "section": "tech",
+        "topic": "Hőszivattyú: tényleg több hőt ad, mint amennyi áramot eszik?",
+        "angle": "Hogyan működik, mit jelent a COP, mikor éri meg egy magyar családi háznál, tévhitek a hidegről",
+        "wiki_hu": [
+          "Hőszivattyú"
+        ],
+        "wiki_en": [
+          "Heat pump"
+        ],
+        "images": [
+          "heat pump house"
+        ],
+        "science": {
+          "db": "openalex",
+          "q": "heat pump performance cold climate"
+        },
+        "curated": "2026-10"
+      },
+      "science_based": true,
+      "title_options": [
+        "Több hőt ad, mint amennyi áramot fogyaszt?",
+        "Hogyan fűtsünk a hidegben is hőszivattyúval?",
+        "A hőszivattyú rejtélyei: tények és tévhitek"
+      ],
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heat_pump_model.jpg/1280px-Heat_pump_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 3280,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Deutsches Museum, Munich.",
+          "credit": "Tiia Monto / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Heat_pump_model.jpg",
+          "exact": true,
+          "entity": "ground source heat pump",
+          "vision_score": 12.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Mitsubishi_Electric_MUZ-FD25VABH_room_air_conditioner.jpg/1280px-Mitsubishi_Electric_MUZ-FD25VABH_room_air_conditioner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 901,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "The condenser unit of a Mitsubishi Electric MUZ-FD25VABH air source heat pump.",
+          "credit": "Santeri Viinamäki / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Electric_MUZ-FD25VABH_room_air_conditioner.jpg",
+          "exact": true,
+          "entity": "air source heat pump",
+          "vision_score": 11.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Ecodan_outdoor_unit_Internal_view.jpg/1280px-Ecodan_outdoor_unit_Internal_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "An internal view of the outdoor unit of an Ecodan air source heat pump",
+          "credit": "PeterEastern / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ecodan_outdoor_unit_Internal_view.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Ecodan_outdoor_unit_in_the_snow.jpg/1280px-Ecodan_outdoor_unit_in_the_snow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 685,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Showing the outdoor unit for an air source heat pump operating in the snow",
+          "credit": "PeterEastern / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ecodan_outdoor_unit_in_the_snow.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/NIBE_S2125_air_source_heat_pump_%28front%29_-_Science_Museum%2C_London.jpg/1280px-NIBE_S2125_air_source_heat_pump_%28front%29_-_Science_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "NIBE S2125 air source heat pump (front) in the new Energy Revolution gallery of the Science Museum, London.\nObject number 2023-358",
+          "credit": "The wub / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:NIBE_S2125_air_source_heat_pump_(front)_-_Science_Museum,_London.jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/NIBE_S2125_air_source_heat_pump_%28rear%29_-_Science_Museum%2C_London.jpg/1280px-NIBE_S2125_air_source_heat_pump_%28rear%29_-_Science_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "NIBE S2125 air source heat pump (rear) in the new Energy Revolution gallery of the Science Museum, London.\nObject number 2023-358",
+          "credit": "The wub / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:NIBE_S2125_air_source_heat_pump_(rear)_-_Science_Museum,_London.jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kensa_Shoebox_ground_source_heat_pump_-_Science_Museum%2C_London.jpg/1280px-Kensa_Shoebox_ground_source_heat_pump_-_Science_Museum%2C_London.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Kensa Shoebox ground source heat pump in the new Energy Revolution gallery of the Science Museum, London.\nObject number 2023-158",
+          "credit": "The wub / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kensa_Shoebox_ground_source_heat_pump_-_Science_Museum,_London.jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Geothermal_heat_pump.JPG/1280px-Geothermal_heat_pump.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Geothermal heat pump",
+          "credit": "Dr Tzeferis Petros / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Geothermal_heat_pump.JPG",
+          "vision_score": 5.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://doi.org/10.1016/j.renene.2025.122682",
+          "https://doi.org/10.1016/j.applthermaleng.2025.125568",
+          "https://doi.org/10.3390/en12163125",
+          "https://doi.org/10.1016/j.energy.2024.131806",
+          "https://doi.org/10.3390/su17052234",
+          "https://hu.wikipedia.org/wiki/H%C5%91szivatty%C3%BA"
+        ],
+        "offtopic_id": "hoszivattyu"
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/tech/2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt/",
+      "seo": {
+        "meta_title": "Több hőt ad, mint amennyi áramot fogyaszt?",
+        "meta_description": "Sokan idegenkednek a hőszivattyúktól a téli fagyok miatt, pedig a modern kutatások szerint még zordabb éghajlaton is meglepő hatékonysággal működnek. Cikkünkben",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-22-tobb-hot-ad-mint-amennyi-aramot-fogyaszt/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heat_pump_model.jpg/1280px-Heat_pump_model.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "ca69f4c8e95f2e6ece7e4e8f358d3d2a6e399969b2bd80717709cfe1a2dd89cd",
+      "pipeline_run_id": "39727764366",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T07:25:07+02:00",
+      "updated_at": "2026-10-22T07:25:07+02:00",
+      "published_at": null,
+      "expires_at": null,
+      "schedule": {
+        "earliest": "2026-10-22T09:24:22+02:00",
+        "deadline": "2026-10-22T21:30:00+02:00"
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-22T05:25:12+00:00",
+        "msg_ids": [
+          8715,
+          8716,
+          8717,
+          8718,
+          8719,
+          8720,
+          8721,
+          8722,
+          8723
+        ],
+        "control_id": 8724
+      }
     }
   ]
 }
