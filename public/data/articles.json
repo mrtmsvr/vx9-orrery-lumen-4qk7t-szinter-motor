@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T12:18:54+02:00",
+  "updated_at": "2026-10-22T12:19:23+02:00",
   "articles": [
     {
       "id": "232da882-f154-5d9e-b497-810c64b8601f",
@@ -160,18 +160,15 @@
       "word_count": 159,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/US_Navy_070702-N-8110K-002_New_England_Cable_News_television_anchor%2C_Karen_Meyers_speaks_to_Commander%2C_Naval_Sea_Systems_Command%2C_Vice_Adm._Paul_Sullivan_about_the_Navy%27s_role_in_the_global_war_on_terrorism.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-fe5c6b41c7.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-fe5c6b41c7.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "BOSTON (July 2, 2007) - New England Cable News television anchor, Karen Meyers speaks to Commander, Naval Sea Systems Command, Vice Adm. Paul Sullivan about the Navy’s role in the global war on terror",
-        "credit": "U.S. Navy photo by Chief Mass Communication Specialist Dave Kaylor / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:US_Navy_070702-N-8110K-002_New_England_Cable_News_television_anchor,_Karen_Meyers_speaks_to_Commander,_Naval_Sea_Systems_Command,_Vice_Adm._Paul_Sullivan_about_the_Navy%27s_role_in_the_global_war_on_terrorism.jpg",
-        "exact": true,
-        "entity": "TV presenter",
-        "vision_score": 5.0
+        "alt": "Matthesz Flóra a Fókusz új arcaként folytatja",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -206,7 +203,7 @@
         "meta_title": "Matthesz Flóra vezeti október végétől a Fókuszt is",
         "meta_description": "Új szerepkörben láthatják a nézők Matthesz Flórát, aki október 24-től a Fókusz műsorvezetői csapatát erősíti. A sportrajongók számára már jól ismert televíziós ",
         "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-22-matthesz-flora-vezeti-oktober-vegetol-a-fokuszt-is/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/US_Navy_070702-N-8110K-002_New_England_Cable_News_television_anchor%2C_Karen_Meyers_speaks_to_Commander%2C_Naval_Sea_Systems_Command%2C_Vice_Adm._Paul_Sullivan_about_the_Navy%27s_role_in_the_global_war_on_terrorism.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-fe5c6b41c7.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -224,7 +221,7 @@
       "pipeline_run_id": "39754686127",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-22T11:29:04+02:00",
-      "updated_at": "2026-10-22T11:29:04+02:00",
+      "updated_at": "2026-10-22T12:19:23+02:00",
       "published_at": "2026-10-22T11:29:04+02:00",
       "expires_at": null
     },
