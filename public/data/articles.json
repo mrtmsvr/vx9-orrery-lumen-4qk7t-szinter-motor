@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T16:03:08+02:00",
+  "updated_at": "2026-10-22T16:45:45+02:00",
   "articles": [
     {
       "id": "db3353bf-58e1-59f2-a1e4-55630fd9ddee",
@@ -37,18 +37,15 @@
       "word_count": 365,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/1280px-Ursula_von_der_Leyen_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1599,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5450feaefa.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-5450feaefa.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "The following images are available for download and use free of rights",
-        "credit": "European People's Party / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_2024.jpg",
-        "exact": true,
-        "entity": "Ursula von der Leyen",
-        "vision_score": 10.0
+        "alt": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1956-ot",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -109,7 +106,7 @@
         "meta_title": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1",
         "meta_description": "Az 1956-os forradalom hetvenedik évfordulójára több mint száz külföldi politikust hívott meg a miniszterelnök, ám a legmagasabb szintű államfői jelenlét helyett",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-22-europai-csucsvezetokkel-es-miniszterekkel-unnepli-budapest-1956-ot/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/1280px-Ursula_von_der_Leyen_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5450feaefa.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -141,7 +138,7 @@
       "pipeline_run_id": "39790238090",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-22T16:03:08+02:00",
-      "updated_at": "2026-10-22T16:03:08+02:00",
+      "updated_at": "2026-10-22T16:45:45+02:00",
       "published_at": "2026-10-22T16:03:08+02:00",
       "expires_at": null
     },
