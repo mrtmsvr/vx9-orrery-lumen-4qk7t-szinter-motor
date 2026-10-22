@@ -8291,16 +8291,12 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-22T13:57:18+00:00",
-        "msg_ids": [
-          8780,
-          8781,
-          8782,
-          8783,
-          8784,
-          8785
-        ],
-        "control_id": 8786
-      }
+        "msg_ids": [],
+        "control_id": 8786,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 17:46 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-22T17:46:10+02:00"
     },
     {
       "id": "db3353bf-58e1-59f2-a1e4-55630fd9ddee",
