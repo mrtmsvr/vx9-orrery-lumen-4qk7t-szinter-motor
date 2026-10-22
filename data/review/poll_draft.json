@@ -1,35 +1,35 @@
 {
-  "id": "96af18a343",
-  "date": "2026-10-21",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-20-utcara-vonultak-a-kulturalis-dolgozok-magyar-peter-bejelentese-utan/",
-  "article_title": "„Ez nullával egyenlő” – felháborodtak a könyvtárosok és muzeológusok",
-  "category": "kozelet",
+  "id": "72c28c6aa6",
+  "date": "2026-10-22",
+  "status": "pending",
+  "article_url": "/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
+  "article_title": "Meddig maradnak az orosz szankciók?",
+  "category": "vilag",
   "choices": [
     {
-      "question": "Ön szerint megfelelő mértékű-e a kulturális dolgozók számára bejelentett béremelés?",
+      "question": "Ön szerint helyes-e fenntartani az Oroszországgal szembeni gazdasági szankciókat?",
       "options": [
-        "Igen, megfelelő és fenntartható.",
-        "Nem, ez az emelés kevés.",
-        "Nem tudom / nincs véleményem."
+        "Igen, a háború végéig szükségesek",
+        "Nem, fel kell őket oldani",
+        "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Melyik szempontot tartja fontosabbnak a közgyűjtemények finanszírozása során?",
+      "question": "Hogyan értékeli a szankciók hatását az európai gazdaságra?",
       "options": [
-        "A dolgozók bérének jelentős emelését.",
-        "A költségvetési hiány szigorú tartását.",
-        "Nem tudom / nincs véleményem."
+        "Több kárt okoznak Európának, mint Oroszországnak",
+        "Hatásosan gyengítik az orosz gazdaságot",
+        "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a kormány döntését a közgyűjteményi bérek emeléséről?",
+      "question": "Milyen feltételhez kellene kötni a szankciók feloldását?",
       "options": [
-        "Felelős és elfogadható lépés.",
-        "Kevés a szakma megbecsüléséhez.",
-        "Nem tudom / nincs véleményem."
+        "Kizárólag a békeszerződés aláírásához",
+        "Akár korábbi részmegállapodásokhoz is",
+        "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 8605
+  "msg_id": 8740
 }
