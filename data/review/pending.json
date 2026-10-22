@@ -8088,7 +8088,7 @@
     {
       "id": "2f553292-b25e-5413-8269-5840abeb2554",
       "slug": "2026-10-22-halalos-merget-arultak-fajdalomcsillapitokent-a-holland-webshopok",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -8119,18 +8119,16 @@
       "word_count": 232,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Operation_Intrusive_-_Birmingham_%289014904512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Prozac_pills_cropped.jpg/1280px-Prozac_pills_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 882,
+        "height": 972,
         "kind": "photo",
         "pos": "center",
-        "alt": "These photos were all taken during Operation Intrusive - A crackdown on burglary and related offences.\n\nIn June 2013, officers conducted a series of warrants across Birmingham. For results, please see",
-        "credit": "West Midlands Police from West Midlands, United Kingdom / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Operation_Intrusive_-_Birmingham_(9014904512).jpg",
-        "exact": true,
-        "entity": "Police raid",
-        "vision_score": 10.0
+        "alt": "Fluoxetine HCl 20mg Capsules (Prozac)",
+        "credit": "Tom Varco / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Prozac_pills_cropped.jpg",
+        "vision_score": 8.0
       },
       "inline_images": [],
       "sources": [
@@ -8262,7 +8260,7 @@
         "meta_title": "Halálos mérget árultak fájdalomcsillapítóként a holland webs",
         "meta_description": "Három ember halála után harminc illegális gyógyszer- és kábítószer-kereskedő weboldalt számoltak fel a holland hatóságok. Az áldozatok olyan hamisítványokat sze",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-22-halalos-merget-arultak-fajdalomcsillapitokent-a-holland-webshopok/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Operation_Intrusive_-_Birmingham_%289014904512%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Prozac_pills_cropped.jpg/1280px-Prozac_pills_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -8279,9 +8277,9 @@
       "dedupe_hash": "f0ea5ec1905eeee66f1575556f35ed42d76a90f2bfa26c15254c15982d363884",
       "pipeline_run_id": "39790238090",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-22T15:50:47+02:00",
-      "updated_at": "2026-10-22T15:50:47+02:00",
-      "published_at": "2026-10-22T15:50:47+02:00",
+      "created_at": "2026-10-22T17:46:22+02:00",
+      "updated_at": "2026-10-22T17:46:22+02:00",
+      "published_at": "2026-10-22T17:46:22+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -8294,9 +8292,9 @@
         "msg_ids": [],
         "control_id": 8786,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 17:46 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-22T17:46:10+02:00"
+      "live": true
     },
     {
       "id": "db3353bf-58e1-59f2-a1e4-55630fd9ddee",
@@ -9342,6 +9340,225 @@
         "control_id": 8827,
         "title_prompt_id": null,
         "compact": "✅ Kint"
+      },
+      "live": true
+    },
+    {
+      "id": "049c75a5-76c5-56c5-9fa9-ab64e91ed240",
+      "slug": "2026-10-22-aramkimaradasok-benitjak-a-veszpremi-korhazat",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "egészségügy",
+        "Veszprém",
+        "áramkimaradás",
+        "kórház"
+      ],
+      "title": "Áramkimaradások bénítják a veszprémi kórházat",
+      "subtitle": null,
+      "lead": "Több áramkimaradást észleltek csütörtökön a Veszprém Megyei Csolnoky Ferenc Kórházban, ami érinti az orvostechnikai berendezések, a liftek és az informatikai rendszerek működését is. A szolgáltató tájékoztatása szerint a jövőben további átmeneti kimaradások is előfordulhatnak.",
+      "key_points": [
+        "Több áramszünet hátráltatta a veszprémi kórház munkáját csütörtökön.",
+        "Az áramellátási zavarok a lifteket és az orvosi gépeket is érintik.",
+        "A hiba elhárításán már dolgoznak a szakemberek."
+      ],
+      "content": "Csütörtökön több alkalommal is áramkimaradás nehezítette a Veszprém Megyei Csolnoky Ferenc Kórház mindennapjait. Az intézmény hivatalos közösségi oldalán számolt be arról, hogy a szolgáltató tájékoztatása értelmében további átmeneti szünetekre is számítani kell a következő időszakban.\n\nAz áramellátásban fellépő zavarok egyes orvostechnikai berendezések, liftek és informatikai rendszerek működését is érintették. Ennek következtében a kórház több területén átmeneti fennakadások alakultak ki, és a betegeknek a megszokottnál hosszabb várakozási idővel kell számolniuk.\n\nA kialakult helyzet kezelése érdekében a betegellátást folyamatosan átszervezik. A hiba megszüntetésén és a rendszerek zavartalan működésének helyreállításán jelenleg a kórház saját műszaki szakemberei mellett a szolgáltató munkatársai is közösen dolgoznak.\n\nA Veszprém Megyei Csolnoky Ferenc Kórházban tapasztalt műszaki nehézségek rávilágítanak arra, hogy a kritikus infrastruktúra, mint a gyógyintézmények hálózata, mekkora figyelmet igényel. Az áramszünetek közvetlenül befolyásolják a járóbeteg- és fekvőbeteg-ellátás ütemét, hiszen a liftek leállása és az informatikai rendszerek akadozása miatt a vizsgálatok koordinálása lassabbá válik.\n\nA helyszínen dolgozó szakemberek mindent megtesznek azért, hogy a szolgáltatás a lehető leghamarabb visszatérjen a rendes kerékvágásba. A lakosság számára ez azt jelenti, hogy a soron következő napokban a veszprémi kórházat felkeresőknek érdemes fokozott türelemmel készülniük, és számolniuk kell azzal, hogy az adminisztrációs folyamatok, illetve a diagnosztikai vizsgálatok a megszokottnál több időt vehetnek igénybe.",
+      "content_format": "markdown",
+      "body": [
+        "Csütörtökön több alkalommal is áramkimaradás nehezítette a Veszprém Megyei Csolnoky Ferenc Kórház mindennapjait. Az intézmény hivatalos közösségi oldalán számolt be arról, hogy a szolgáltató tájékoztatása értelmében további átmeneti szünetekre is számítani kell a következő időszakban.",
+        "Az áramellátásban fellépő zavarok egyes orvostechnikai berendezések, liftek és informatikai rendszerek működését is érintették. Ennek következtében a kórház több területén átmeneti fennakadások alakultak ki, és a betegeknek a megszokottnál hosszabb várakozási idővel kell számolniuk.",
+        "A kialakult helyzet kezelése érdekében a betegellátást folyamatosan átszervezik. A hiba megszüntetésén és a rendszerek zavartalan működésének helyreállításán jelenleg a kórház saját műszaki szakemberei mellett a szolgáltató munkatársai is közösen dolgoznak.",
+        "A Veszprém Megyei Csolnoky Ferenc Kórházban tapasztalt műszaki nehézségek rávilágítanak arra, hogy a kritikus infrastruktúra, mint a gyógyintézmények hálózata, mekkora figyelmet igényel. Az áramszünetek közvetlenül befolyásolják a járóbeteg- és fekvőbeteg-ellátás ütemét, hiszen a liftek leállása és az informatikai rendszerek akadozása miatt a vizsgálatok koordinálása lassabbá válik.",
+        "A helyszínen dolgozó szakemberek mindent megtesznek azért, hogy a szolgáltatás a lehető leghamarabb visszatérjen a rendes kerékvágásba. A lakosság számára ez azt jelenti, hogy a soron következő napokban a veszprémi kórházat felkeresőknek érdemes fokozott türelemmel készülniük, és számolniuk kell azzal, hogy az adminisztrációs folyamatok, illetve a diagnosztikai vizsgálatok a megszokottnál több időt vehetnek igénybe."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 235,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg/1280px-Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Csolnoky Ferenc",
+        "credit": "Elekes Andor / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_(9).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/10/22/aramkimaradas-okoz-fennakadasokat-a-veszpremi-korhazban",
+          "title": "Áramkimaradás okoz fennakadásokat a veszprémi kórházban",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T17:41:20+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261022_veszprem-korhaz-aramkimaradas",
+          "title": "Áramszünetek okoznak fennakadásokat a veszprémi kórházban",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T17:41:20+02:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/10/22/veszprem-korhaz-aram-aramkimaradas-orvos-lift-egeszsegugy/",
+          "title": "Többször is elment az áram a veszprémi kórházban, orvosi gépek és liftek működését is érinti",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T17:41:20+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 11.78,
+      "title_options": [
+        "Áramkimaradások bénítják a veszprémi kórházat",
+        "Áramkimaradások nehezítették a Veszprémi Csolnoky Ferenc Kórház munkáját",
+        "Megálltak a liftek és az orvosi gépek a veszprémi kórházban",
+        "Áramszünetek nehezítik a betegellátást Veszprémben",
+        "További áramkimaradásokra figyelmeztet a veszprémi kórház"
+      ],
+      "clickbait_from": 2,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg/1280px-Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Csolnoky Ferenc",
+          "credit": "Elekes Andor / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_(9).jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%283%29.jpg/1280px-Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Csolnoky Ferenc",
+          "credit": "Elekes Andor / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_(3).jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Veszpr%C3%A9m_castle.jpg/1280px-Veszpr%C3%A9m_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 798,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Medieval castle of Veszprém.",
+          "credit": "Csendesmark / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9m_castle.jpg",
+          "exact": true,
+          "entity": "Veszprém",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4fdd44c876.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4fdd44c876.jpg",
+          "kind": "photo",
+          "alt": "Áramkimaradások nehezítették a Veszprémi Csolnoky Ferenc Kórház munkáját",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Áramkimaradás okoz fennakadásokat a veszprémi kórházban",
+          "link": "https://infostart.hu/belfold/2026/10/22/aramkimaradas-okoz-fennakadasokat-a-veszpremi-korhazban",
+          "summary": "Több áramkimaradást észleltek csütörtökön a Veszprém Megyei Csolnoky Ferenc Kórházban, és a szolgáltatótól kapott információk szerint további átmeneti kimaradások is előfordulhatnak – közölte az egészségügyi intézmény csütörtökön a Facebook-oldalán.",
+          "source": "infostart.hu",
+          "related": null,
+          "hot_score": 11.78
+        },
+        {
+          "title": "Áramszünetek okoznak fennakadásokat a veszprémi kórházban",
+          "link": "https://hvg.hu/itthon/20261022_veszprem-korhaz-aramkimaradas",
+          "summary": "Már dolgoznak a hiba elhárításán, de a szolgáltató szerint előfordulhatnak még áramkimaradások.",
+          "source": "hvg.hu",
+          "related": null,
+          "hot_score": null
+        },
+        {
+          "title": "Többször is elment az áram a veszprémi kórházban, orvosi gépek és liftek működését is érinti",
+          "link": "https://index.hu/belfold/2026/10/22/veszprem-korhaz-aram-aramkimaradas-orvos-lift-egeszsegugy/",
+          "summary": "A szolgáltató szerint további átmeneti kimaradások is előfordulhatnak.",
+          "source": "index.hu",
+          "related": null,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/10/22/aramkimaradas-okoz-fennakadasokat-a-veszpremi-korhazban",
+          "https://hvg.hu/itthon/20261022_veszprem-korhaz-aramkimaradas",
+          "https://index.hu/belfold/2026/10/22/veszprem-korhaz-aram-aramkimaradas-orvos-lift-egeszsegugy/"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/kozelet/2026-10-22-aramkimaradasok-benitjak-a-veszpremi-korhazat/",
+      "seo": {
+        "meta_title": "Áramkimaradások bénítják a veszprémi kórházat",
+        "meta_description": "Több áramkimaradást észleltek csütörtökön a Veszprém Megyei Csolnoky Ferenc Kórházban, ami érinti az orvostechnikai berendezések, a liftek és az informatikai re",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-22-aramkimaradasok-benitjak-a-veszpremi-korhazat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg/1280px-Csolnoky_Ferenc_K%C3%B3rh%C3%A1z_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "ced73e8f0273ae9614b30f25b4b074cdfde1af353073b91fca019f31009c67f2",
+      "pipeline_run_id": "39806257647",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T17:46:23+02:00",
+      "updated_at": "2026-10-22T17:46:23+02:00",
+      "published_at": "2026-10-22T17:46:23+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-22T15:46:06+00:00",
+        "msg_ids": [
+          8829,
+          8830,
+          8831,
+          8832,
+          8833,
+          8835
+        ],
+        "control_id": 8834
       },
       "live": true
     }
