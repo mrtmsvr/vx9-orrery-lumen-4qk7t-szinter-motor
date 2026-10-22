@@ -8186,14 +8186,10 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-22T09:23:13+00:00",
-        "msg_ids": [
-          8741,
-          8742,
-          8743,
-          8744,
-          8746
-        ],
-        "control_id": 8745
+        "msg_ids": [],
+        "control_id": 8745,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
