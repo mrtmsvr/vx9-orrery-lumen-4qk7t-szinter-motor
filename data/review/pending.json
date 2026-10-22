@@ -8622,9 +8622,9 @@
       "live": true
     },
     {
-      "id": "938509ef-e58a-59a8-9bc9-d4cec1fd49cf",
-      "slug": "2026-10-22-nem-epit-most-vasarol-a-futureal-lecsapott-a-biatorbagyi-outletre",
-      "status": "pending",
+      "id": "ca6c09fe-ac55-5c3f-9d75-eda331602fad",
+      "slug": "2026-10-22-oriasi-uzlet-a-futureal-felvasarolta-a-premier-outletet",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -8634,7 +8634,7 @@
         "ingatlanpiac",
         "befektetés"
       ],
-      "title": "Nem épít, most vásárol: a Futureal lecsapott a biatorbágyi outletre",
+      "title": "Óriási üzlet: a Futureal felvásárolta a Premier Outletet",
       "subtitle": null,
       "lead": "Felvásárolta Magyarország legnagyobb outletközpontját, a biatorbágyi Premier Outlet Budapestet a Futureal-csoport. Az októberben lezárult tranzakció jól mutatja, hogy a cég az eddigi ingatlanfejlesztések helyett a stabilan működő kereskedelmi ingatlanok felé nyit.",
       "key_points": [
@@ -8743,11 +8743,11 @@
       },
       "date": "2026-10-22",
       "date_label": "október 22.",
-      "url": "/penzvilag/2026-10-22-nem-epit-most-vasarol-a-futureal-lecsapott-a-biatorbagyi-outletre/",
+      "url": "/penzvilag/2026-10-22-oriasi-uzlet-a-futureal-felvasarolta-a-premier-outletet/",
       "seo": {
-        "meta_title": "Nem épít, most vásárol: a Futureal lecsapott a biatorbágyi o",
+        "meta_title": "Óriási üzlet: a Futureal felvásárolta a Premier Outletet",
         "meta_description": "Felvásárolta Magyarország legnagyobb outletközpontját, a biatorbágyi Premier Outlet Budapestet a Futureal-csoport. Az októberben lezárult tranzakció jól mutatja",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-22-nem-epit-most-vasarol-a-futureal-lecsapott-a-biatorbagyi-outletre/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-22-oriasi-uzlet-a-futureal-felvasarolta-a-premier-outletet/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Biatorb%C3%A1gy_viadukt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -8779,9 +8779,9 @@
       "dedupe_hash": "9fce92d31c05c708036c6ccb47619ec1189a1a069297c74ffa7d24e0faa869ce",
       "pipeline_run_id": "39754686127",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-22T11:29:06+02:00",
-      "updated_at": "2026-10-22T11:29:06+02:00",
-      "published_at": "2026-10-22T11:29:06+02:00",
+      "created_at": "2026-10-22T12:39:19+02:00",
+      "updated_at": "2026-10-22T12:39:19+02:00",
+      "published_at": "2026-10-22T12:39:19+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -8794,9 +8794,9 @@
         "msg_ids": [],
         "control_id": 8769,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 12:38 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-22T12:38:54+02:00"
+      "live": true
     }
   ]
 }
