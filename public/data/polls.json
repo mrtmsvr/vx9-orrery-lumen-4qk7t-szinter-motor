@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-21T10:28:46+02:00",
+  "updated_at": "2026-10-22T13:00:20+02:00",
   "polls": [
+    {
+      "id": "cae53fe408a1",
+      "date": "2026-10-22",
+      "question": "Hogyan értékeli a szankciók hatását az európai gazdaságra?",
+      "options": [
+        "Több kárt okoznak Európának, mint Oroszországnak",
+        "Hatásosan gyengítik az orosz gazdaságot",
+        "Nem tudom / nincs véleményem"
+      ],
+      "article_url": "/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
+      "article_title": "Meddig maradnak az orosz szankciók?",
+      "category": "vilag",
+      "created_at": "2026-10-22T13:00:20+02:00",
+      "closes_at": "2026-10-29T13:00:20+01:00"
+    },
     {
       "id": "a1b021e0cfa4",
       "date": "2026-10-21",
