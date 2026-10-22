@@ -9071,19 +9071,10 @@
         "title": 2,
         "image": 1,
         "sent_at": "2026-10-22T04:56:47+00:00",
-        "msg_ids": [
-          8704,
-          8705,
-          8706,
-          8707,
-          8708,
-          8709,
-          8710,
-          8711,
-          8712,
-          8714
-        ],
-        "control_id": 8713
+        "msg_ids": [],
+        "control_id": 8713,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
