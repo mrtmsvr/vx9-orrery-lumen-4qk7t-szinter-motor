@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T09:28:58+02:00",
+  "updated_at": "2026-10-22T11:23:28+02:00",
   "articles": [
+    {
+      "id": "649ce2ec-257c-5794-9ef3-011c461bcf7d",
+      "slug": "2026-10-22-ket-napra-sotetbe-borul-a-magyarorszag-hu-egy-globalis-szoftverhiba-m",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "kiberbiztonság",
+        "magyarorszag.hu",
+        "Tanács Zoltán",
+        "informatikai biztonság",
+        "PHP"
+      ],
+      "title": "Két napra sötétbe borul a magyarorszag.hu egy globális szoftverhiba miatt",
+      "subtitle": null,
+      "lead": "Átmenetileg leállította a kormány a magyarorszag.hu portált és több más digitális közszolgáltatást egy nemzetközi szinten is kritikus szoftverhiba miatt. A Tanács Zoltán által irányított tárca elővigyázatosságból korlátozta a rendszereket, hogy megvédje az állampolgárok adatait.",
+      "key_points": [
+        "A magyarorszag.hu oldalon keresztüli ügyintézés várhatóan negyvennyolc óráig szünetel.",
+        "A Nemzeti Kiberbiztonsági Intézet 9,2-es súlyossági értékű, kritikus riasztást adott ki szerdán.",
+        "A problémát a világszerte elterjedt PHP programozási nyelvben felfedezett két súlyos biztonsági rés okozta."
+      ],
+      "content": "Csütörtökön több európai országhoz hasonlóan Magyarországon is korlátozták egyes digitális közszolgáltatások elérését, miután a PHP programozási nyelvben mesterséges intelligencia segítségével, több mint egy évtized után felfedeztek két rendkívül súlyos biztonsági rést. A kritikus informatikai biztonsági kockázat miatt a magyar kormány az éjszaka során elővigyázatosságból átmenetileg leállította a magyarorszag.hu oldalt és néhány további kormányzati weboldal elérését is. A Magyarországhoz hasonlóan Hollandiában, Finnországban, Dániában és Franciaországban is kénytelenek voltak ideiglenesen leállítani több kormányzati, illetve közszolgáltatási rendszert, ráadásul a biztonsági hiba miatt a Wikipédia és a BBC egyes szolgáltatásai is elérhetetlenné váltak.\n\nTanács Zoltán tudományért és technológiáért felelős miniszter a közösségi oldalán közölte, hogy az intézkedést az állampolgárok adatainak védelme, valamint a kormányzati informatikai rendszerek biztonságos működésének garantálása indokolta. A tárcavezető hangsúlyozta, hogy egyelőre nem észleltek kibertámadásra utaló jeleket a rendszerekben, a magyarorszag.hu portálon keresztüli ügyintézés pedig a biztonsági probléma elhárításáig és a szükséges javítások végrehajtásáig várhatóan 48 órán keresztül szünetel. A miniszter külön megköszönte az ügyfelek türelmét és megértését a kellemetlenségek miatt.\n\nA Nemzeti Kiberbiztonsági Intézet már október 21-én, szerdán 9,2-es súlyossági értékű, kritikus besorolású riasztást adott ki az ügyben, és a biztonsági javítások haladéktalan telepítését javasolta az érintett rendszereken; ahol ez nem oldható meg azonnal, ott az intézkedés az átmeneti korlátozást tartja indokoltnak. Mivel a hibás technológiát világszerte a weboldalak mintegy 70 százalékánál alkalmazzák, Tanács Zoltán arra kérte a hazai vállalkozásokat, hogy informatikai vagy információbiztonsági szakértőikkel haladéktalanul vizsgáltassák meg saját rendszereiket, és gondoskodjanak a javítások mielőbbi elvégzéséről.\n\nA programozási nyelv fejlesztői ugyancsak szerdán közzétették a hibák hivatalos javításait, ám ezeket a rengeteg érintett rendszerben még végre kell hajtani. A feltárt biztonsági rések mibenléte azt jelenti, hogy az illetéktelenek elméletileg kódokat, programokat futtathattak a szervereken jelszó nélkül, távolról is, emellett adatokat vihettek el, vagy akár törölhették is a különböző tartalmakat.",
+      "content_format": "markdown",
+      "body": [
+        "Csütörtökön több európai országhoz hasonlóan Magyarországon is korlátozták egyes digitális közszolgáltatások elérését, miután a PHP programozási nyelvben mesterséges intelligencia segítségével, több mint egy évtized után felfedeztek két rendkívül súlyos biztonsági rést. A kritikus informatikai biztonsági kockázat miatt a magyar kormány az éjszaka során elővigyázatosságból átmenetileg leállította a magyarorszag.hu oldalt és néhány további kormányzati weboldal elérését is. A Magyarországhoz hasonlóan Hollandiában, Finnországban, Dániában és Franciaországban is kénytelenek voltak ideiglenesen leállítani több kormányzati, illetve közszolgáltatási rendszert, ráadásul a biztonsági hiba miatt a Wikipédia és a BBC egyes szolgáltatásai is elérhetetlenné váltak.",
+        "Tanács Zoltán tudományért és technológiáért felelős miniszter a közösségi oldalán közölte, hogy az intézkedést az állampolgárok adatainak védelme, valamint a kormányzati informatikai rendszerek biztonságos működésének garantálása indokolta. A tárcavezető hangsúlyozta, hogy egyelőre nem észleltek kibertámadásra utaló jeleket a rendszerekben, a magyarorszag.hu portálon keresztüli ügyintézés pedig a biztonsági probléma elhárításáig és a szükséges javítások végrehajtásáig várhatóan 48 órán keresztül szünetel. A miniszter külön megköszönte az ügyfelek türelmét és megértését a kellemetlenségek miatt.",
+        "A Nemzeti Kiberbiztonsági Intézet már október 21-én, szerdán 9,2-es súlyossági értékű, kritikus besorolású riasztást adott ki az ügyben, és a biztonsági javítások haladéktalan telepítését javasolta az érintett rendszereken; ahol ez nem oldható meg azonnal, ott az intézkedés az átmeneti korlátozást tartja indokoltnak. Mivel a hibás technológiát világszerte a weboldalak mintegy 70 százalékánál alkalmazzák, Tanács Zoltán arra kérte a hazai vállalkozásokat, hogy informatikai vagy információbiztonsági szakértőikkel haladéktalanul vizsgáltassák meg saját rendszereiket, és gondoskodjanak a javítások mielőbbi elvégzéséről.",
+        "A programozási nyelv fejlesztői ugyancsak szerdán közzétették a hibák hivatalos javításait, ám ezeket a rengeteg érintett rendszerben még végre kell hajtani. A feltárt biztonsági rések mibenléte azt jelenti, hogy az illetéktelenek elméletileg kódokat, programokat futtathattak a szervereken jelszó nélkül, távolról is, emellett adatokat vihettek el, vagy akár törölhették is a különböző tartalmakat."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 328,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/583afdfa2c5a3cf9.jpg",
+        "width": 4000,
+        "height": 1400,
+        "kind": "photo",
+        "alt": "server, space, the server room, dark, led, shining, mystical, template, artificially, neon, gray, basement, cellar, fog, flash, hardware, computer, data, to process, coloured, garish, tube, cold, ligh",
+        "credit": "Schäferle / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/server-space-the-server-room-dark-2160321/",
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/583afdfa2c5a3cf9.jpg",
+        "orig_url": "https://pixabay.com/get/gf80ad9f6a7db8b187af357a4c7365cf8ad9a0481bedbd58ae298b06404861b4231905614ab2aa75d5694f6c06bececc48991c25d6d0006b375f7381aa923ff94_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/belfold/2026/10/22/weboldal-leallas-kormany-kockazat-informatika/",
+          "title": "Leállt több kormányzati oldal, Tanács Zoltán informatikai kockázatra figyelmeztetett",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:21:37+02:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261022_magyarorszag-hu-weboldal-leallitas-php-hiba-kiberbiztonsag-tanacs-zoltan-kormany",
+          "title": "A kormány leállította a magyarorszag.hu weboldalt egy több országot érintő, veszélyes kiberbiztonsági hiba miatt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:21:37+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/22/leallt-a-magyarorszaghu-es-tobb-kormanyzati-portal-vilagszerte-nagy-gondok-vannak-a-nettel",
+          "title": "Leállt a magyarorszag.hu és több kormányzati portál, világszerte nagy gondok vannak a nettel",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T11:21:37+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Több európai országhoz hasonlóan azért döntöttünk egyes kormányzati internetes szolgáltatások leállítása vagy korlátozása mellett, mert az állampolgárok adatainak védelme és a kormányzati digitális szolgáltatások biztonságos működésének biztosítása elsődleges számunkra",
+        "who": "Tanács Zoltán tudományos és technológiai miniszter",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-22T11:23:28+02:00"
+      },
+      "hot_score": 13.39,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/belfold/2026/10/22/weboldal-leallas-kormany-kockazat-informatika/",
+          "https://hvg.hu/itthon/20261022_magyarorszag-hu-weboldal-leallitas-php-hiba-kiberbiztonsag-tanacs-zoltan-kormany",
+          "https://infostart.hu/belfold/2026/10/22/leallt-a-magyarorszaghu-es-tobb-kormanyzati-portal-vilagszerte-nagy-gondok-vannak-a-nettel"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/kozelet/2026-10-22-ket-napra-sotetbe-borul-a-magyarorszag-hu-egy-globalis-szoftverhiba-m/",
+      "seo": {
+        "meta_title": "Két napra sötétbe borul a magyarorszag.hu egy globális szoft",
+        "meta_description": "Átmenetileg leállította a kormány a magyarorszag.hu portált és több más digitális közszolgáltatást egy nemzetközi szinten is kritikus szoftverhiba miatt. A Taná",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-22-ket-napra-sotetbe-borul-a-magyarorszag-hu-egy-globalis-szoftverhiba-m/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/583afdfa2c5a3cf9.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "66b5cf0864b9f3530ebe6e4308836bda48a1f64fd0a2c1e6cde63481f59fccf9",
+      "pipeline_run_id": "39754686127",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T11:23:28+02:00",
+      "updated_at": "2026-10-22T11:23:28+02:00",
+      "published_at": "2026-10-22T11:23:28+02:00",
+      "expires_at": null
+    },
     {
       "id": "8c172c69-cf57-57fa-b070-a489daab5bcf",
       "slug": "2026-10-22-haromoldalu-targyalasok-johetnek-putyin-rabolintott-a-novemberi-egyez",
@@ -68107,117 +68228,6 @@
       "created_at": "2026-09-30T15:39:48+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-09-30T15:39:48+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "d120b396-5efb-5543-8f09-166ce4129faf",
-      "slug": "2026-09-30-nem-irta-ala-a-sandor-palota-az-egeszsegugyi-kamarai-modositast",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Baka András",
-        "Magyar Orvosi Kamara",
-        "Hegedűs Zsolt",
-        "egészségügy",
-        "Országgyűlés"
-      ],
-      "title": "Nem írta alá a Sándor-palota az egészségügyi kamarai módosítást",
-      "subtitle": null,
-      "lead": "Baka András köztársasági elnök megfontolásra visszaküldte az Országgyűlésnek a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást. Az államfő a célkitűzéssel egyetért, de a tisztségviselő-választás törvényi korlátozását aggályosnak tartja.",
-      "key_points": [
-        "Baka András visszaküldte a kötelező orvosi kamarai tagságról szóló törvényjavaslatot.",
-        "Az államfő támogatja a kamarák önkormányzatiságának helyreállítását, de a tisztségviselő-választás korlátozását ellenzi.",
-        "A Sándor-palota közleménye szerint el kell kerülni, hogy adminisztratív okok miatt orvosok essenek ki az ellátórendszerből.",
-        "Hegedűs Zsolt egészségügyi miniszter jelezte, hogy megvizsgálják a Sándor-palota észrevételeit a törvényalkotási bizottságban."
-      ],
-      "content": "Baka András köztársasági elnök a Sándor-palota közlése szerint megfontolásra visszaküldte az Országgyűlésnek az egészségügyben működő szakmai kamarákról szóló törvénymódosítást. A parlament szeptember 22-én, 135 igen és 50 nem szavazattal fogadta el azt a jogszabályt, amely újra kötelezővé tenné a Magyar Orvosi Kamara tagságát az orvosok, fogorvosok és egészségügyi szakdolgozók számára. A kötelező tagságot a Fidesz-kormány 2023 februárjában törölte el, miután a MOK bírálta a háziorvosi ügyeleti rendszer átalakítását, ám a Tisza-kormány által támogatott új szabályozás célja a szakmai önkormányzat jogainak visszaállítása.\n\nAz államfő indoklása szerint kifejezetten támogatja a törvény elsődleges célját, vagyis a kamarák önrendelkezésének és függetlenségének erősítését. Ugyanakkor ezzel ellentétesnek tartja, hogy a jogszabály törvényi úton korlátozza a kamarai tisztségviselők választásának szabadságát. A köztársasági elnök meggyőződése, hogy az autonómiát jobban szolgálja, ha a tisztségviselők megválasztásának részleteit a testületek a saját belső alapszabályukra vagy ügyrendjükre bízzák, ahelyett hogy azt központilag szabályoznák.\n\nA Sándor-palota álláspontja rávilágít arra is, hogy az egészségügyi ellátórendszer biztonsága érdekében a kötelező kamarai tagság visszaállítását a legésszerűbb átmeneti rendelkezésekkel kell megvalósítani. Az államfő arra kérte a törvényhozókat, hogy küszöböljék ki azokat a felesleges adminisztratív korlátozásokat, amelyek miatt a tagsággal jelenleg nem rendelkező orvosok elveszíthetnék a szakmagyakorlási jogukat, így kiesve a rendszerből. Emellett az etikai eljárások átmeneti szabályaihoz kapcsolódóan is javasolt kisebb szövegezési pontosításokat.\n\nHegedűs Zsolt egészségügyi miniszter szerda délutáni közösségi oldalas bejegyzésében úgy reagált, hogy a Sándor-palota észrevételeit érdemben mérlegelik, és azokat előkészítik az Országgyűlés Törvényalkotási Bizottságának következő ülésére. A miniszter a konstruktív párbeszéd és a fékek és ellensúlyok gyakorlati érvényesülésének természetes részeként értékelte a történteket, hangsúlyozva a felelős intézményi együttműködés fontosságát.",
-      "content_format": "markdown",
-      "body": [
-        "Baka András köztársasági elnök a Sándor-palota közlése szerint megfontolásra visszaküldte az Országgyűlésnek az egészségügyben működő szakmai kamarákról szóló törvénymódosítást. A parlament szeptember 22-én, 135 igen és 50 nem szavazattal fogadta el azt a jogszabályt, amely újra kötelezővé tenné a Magyar Orvosi Kamara tagságát az orvosok, fogorvosok és egészségügyi szakdolgozók számára. A kötelező tagságot a Fidesz-kormány 2023 februárjában törölte el, miután a MOK bírálta a háziorvosi ügyeleti rendszer átalakítását, ám a Tisza-kormány által támogatott új szabályozás célja a szakmai önkormányzat jogainak visszaállítása.",
-        "Az államfő indoklása szerint kifejezetten támogatja a törvény elsődleges célját, vagyis a kamarák önrendelkezésének és függetlenségének erősítését. Ugyanakkor ezzel ellentétesnek tartja, hogy a jogszabály törvényi úton korlátozza a kamarai tisztségviselők választásának szabadságát. A köztársasági elnök meggyőződése, hogy az autonómiát jobban szolgálja, ha a tisztségviselők megválasztásának részleteit a testületek a saját belső alapszabályukra vagy ügyrendjükre bízzák, ahelyett hogy azt központilag szabályoznák.",
-        "A Sándor-palota álláspontja rávilágít arra is, hogy az egészségügyi ellátórendszer biztonsága érdekében a kötelező kamarai tagság visszaállítását a legésszerűbb átmeneti rendelkezésekkel kell megvalósítani. Az államfő arra kérte a törvényhozókat, hogy küszöböljék ki azokat a felesleges adminisztratív korlátozásokat, amelyek miatt a tagsággal jelenleg nem rendelkező orvosok elveszíthetnék a szakmagyakorlási jogukat, így kiesve a rendszerből. Emellett az etikai eljárások átmeneti szabályaihoz kapcsolódóan is javasolt kisebb szövegezési pontosításokat.",
-        "Hegedűs Zsolt egészségügyi miniszter szerda délutáni közösségi oldalas bejegyzésében úgy reagált, hogy a Sándor-palota észrevételeit érdemben mérlegelik, és azokat előkészítik az Országgyűlés Törvényalkotási Bizottságának következő ülésére. A miniszter a konstruktív párbeszéd és a fékek és ellensúlyok gyakorlati érvényesülésének természetes részeként értékelte a történteket, hangsúlyozva a felelős intézményi együttműködés fontosságát."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 287,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andr%C3%A1s_Baka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 690,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Former President of the Hungarian Supreme Court András Baka",
-        "credit": "scienche (https://www.youtube.com/@tudomam) / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_Baka.png"
-      },
-      "sources": [
-        {
-          "url": "https://telex.hu/belfold/2026/09/30/baka-andras-kotelezo-orvosi-kamarai-tagsagot-visszaallito-torvenytervezet-visszakuldes-megfontolas",
-          "title": "Baka András visszadobta a kötelező orvosi kamarai tagságot visszaállító törvénytervezetet",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T15:31:29+02:00"
-        },
-        {
-          "url": "https://hvg.hu/itthon/20260930_hegedus-zsolt-baka-andras-torvenymodositas-kotelezo-orvosi-kamarai-tagsag-visszaallitasa",
-          "title": "Hegedűs Zsolt reagált arra, hogy Baka András visszadobta a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T15:31:29+02:00"
-        },
-        {
-          "url": "https://hvg.hu/itthon/20260930_baka-andras-torvenymodositas-visszakuldes-orszaggyules-kotelezo-orvosi-kamarai-tagsag-visszaallitasa",
-          "title": "Baka András visszadobta a törvénymódosítást, amely visszaállítaná a kötelező orvosi kamarai tagságot",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T15:31:29+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-09-30T15:39:01+02:00"
-      },
-      "hot_score": 10.38,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/belfold/2026/09/30/baka-andras-kotelezo-orvosi-kamarai-tagsagot-visszaallito-torvenytervezet-visszakuldes-megfontolas",
-          "https://hvg.hu/itthon/20260930_hegedus-zsolt-baka-andras-torvenymodositas-kotelezo-orvosi-kamarai-tagsag-visszaallitasa",
-          "https://hvg.hu/itthon/20260930_baka-andras-torvenymodositas-visszakuldes-orszaggyules-kotelezo-orvosi-kamarai-tagsag-visszaallitasa"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/kozelet/2026-09-30-nem-irta-ala-a-sandor-palota-az-egeszsegugyi-kamarai-modositast/",
-      "seo": {
-        "meta_title": "Nem írta alá a Sándor-palota az egészségügyi kamarai módosít",
-        "meta_description": "Baka András köztársasági elnök megfontolásra visszaküldte az Országgyűlésnek a kötelező orvosi kamarai tagságot visszaállító törvénymódosítást. Az államfő a cél",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-09-30-nem-irta-ala-a-sandor-palota-az-egeszsegugyi-kamarai-modositast/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andr%C3%A1s_Baka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "6eec36397f09e6967ab5c148fc1dd6501b2b3604261a4f2b20fbf9f25e54caf9",
-      "pipeline_run_id": "36722227905",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T15:39:01+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T15:39:01+02:00",
       "expires_at": null
     }
   ]
