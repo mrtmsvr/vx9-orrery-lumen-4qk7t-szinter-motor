@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T16:45:45+02:00",
+  "updated_at": "2026-10-22T16:46:10+02:00",
   "articles": [
+    {
+      "id": "438567a0-3bb0-5062-8573-34f8eff899be",
+      "slug": "2026-10-22-jokedvu-ipar-borus-lakossag-ezt-hozta-az-oktoberi-gki-mutato",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "GKI",
+        "konjunktúraindex",
+        "gazdaság",
+        "infláció",
+        "foglalkoztatás"
+      ],
+      "title": "Jókedvű ipar, borús lakosság: ezt hozta az októberi GKI-mutató",
+      "subtitle": null,
+      "lead": "Enyhén emelkedett októberben a GKI Gazdaságkutató konjunktúraindexe a szeptemberi adatokhoz képest, A vállalkozások többsége továbbra sem tervez sem nagyobb létszámbővítést, sem drasztikus áremelést a következő három hónapban.",
+      "key_points": [
+        "Októberben kismértékben emelkedett a GKI konjunktúraindexe az üzleti hangulat javulása miatt.",
+        "A vállalkozások mindössze 7 százaléka tervez létszámbővítést a közeljövőben, míg 14 százalékuk leépítésre készül."
+      ],
+      "content": "Októberben enyhén emelkedett a GKI konjunktúraindexe szeptemberhez képest, ami az üzleti hangulat javulásának és a fogyasztói kilátások romlásának az eredője. A mutató júliusban még 4,5 éves csúcsot ért el, majd augusztusban 4 pontot esett, szeptemberben pedig 1 ponttal emelkedett. A négy szektor átlagából képzett üzleti bizalmi index júliusban ért fel a hároméves csúcsára, augusztusban 4 pontot apadt, ám szeptemberben és októberben is 1-1 ponttal nőtt, így októberre mínusz 7,4 pont lett.\n\nA hónapban az ipari mutató 1,5 ponttal, a szolgáltatói pedig 2 ponttal nőtt, miközben az építőipari index 3 ponttal, a kereskedelmi pedig 4 ponttal mérséklődött. Az ipar ezzel a második hónapban mutatja a leginkább derűlátó arcot, bár az üzleti bizalmi index értéke még mindig a hosszú távú átlag alatt marad. Az uniós hosszú távú átlag mínusz 1,2 pont, míg a magyar mínusz 4 pont körüli, és az uniós üzleti bizalmi index az elmúlt 4,5 évben minden hónapban a magyar felett állt.\n\nA rövid távú foglalkoztatási tervek terén a vállalkozások 7 százaléka tervez létszámbővítést a következő három hónapban, míg 14 százalékuk leépítésre készül. Mind a négy ágazatban a leépítést tervezők vannak többségben, különösen az építőipar területén. Az árindikátorok eközben nem változtak szeptemberhez képest: a megkérdezett cégek 18 százaléka tervez áremelést, 8 százalékuk pedig árcsökkentést, míg az építőiparban egyetlen vállalkozás sem készül áremelésre.\n\nAz inflációs várakozások üteme idén júliusig hónapról hónapra csökkent, az azóta eltelt három hónapban pedig stagnált a mutató, ami a hosszú távú átlag alatt van. Ez arra utal, hogy nincsen komoly árnyomás a gazdaságban. Ezzel szemben a gazdálkodási környezet kiszámíthatóságának megítélése érezhetően romlott: egyedül az ipari cégek számoltak be javulásról, míg a kereskedelemben, az építőiparban és a szolgáltatások területén kedvezőtlenebbé váltak a vélemények.",
+      "content_format": "markdown",
+      "body": [
+        "Októberben enyhén emelkedett a GKI konjunktúraindexe szeptemberhez képest, ami az üzleti hangulat javulásának és a fogyasztói kilátások romlásának az eredője. A mutató júliusban még 4,5 éves csúcsot ért el, majd augusztusban 4 pontot esett, szeptemberben pedig 1 ponttal emelkedett. A négy szektor átlagából képzett üzleti bizalmi index júliusban ért fel a hároméves csúcsára, augusztusban 4 pontot apadt, ám szeptemberben és októberben is 1-1 ponttal nőtt, így októberre mínusz 7,4 pont lett.",
+        "A hónapban az ipari mutató 1,5 ponttal, a szolgáltatói pedig 2 ponttal nőtt, miközben az építőipari index 3 ponttal, a kereskedelmi pedig 4 ponttal mérséklődött. Az ipar ezzel a második hónapban mutatja a leginkább derűlátó arcot, bár az üzleti bizalmi index értéke még mindig a hosszú távú átlag alatt marad. Az uniós hosszú távú átlag mínusz 1,2 pont, míg a magyar mínusz 4 pont körüli, és az uniós üzleti bizalmi index az elmúlt 4,5 évben minden hónapban a magyar felett állt.",
+        "A rövid távú foglalkoztatási tervek terén a vállalkozások 7 százaléka tervez létszámbővítést a következő három hónapban, míg 14 százalékuk leépítésre készül. Mind a négy ágazatban a leépítést tervezők vannak többségben, különösen az építőipar területén. Az árindikátorok eközben nem változtak szeptemberhez képest: a megkérdezett cégek 18 százaléka tervez áremelést, 8 százalékuk pedig árcsökkentést, míg az építőiparban egyetlen vállalkozás sem készül áremelésre.",
+        "Az inflációs várakozások üteme idén júliusig hónapról hónapra csökkent, az azóta eltelt három hónapban pedig stagnált a mutató, ami a hosszú távú átlag alatt van. Ez arra utal, hogy nincsen komoly árnyomás a gazdaságban. Ezzel szemben a gazdálkodási környezet kiszámíthatóságának megítélése érezhetően romlott: egyedül az ipari cégek számoltak be javulásról, míg a kereskedelemben, az építőiparban és a szolgáltatások területén kedvezőtlenebbé váltak a vélemények."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 308,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapešť",
+        "credit": "Dezidor / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budape%C5%A1%C5%A5_0892.jpg",
+        "exact": true,
+        "entity": "Budapest Stock Exchange",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/22/enyhen-emelkedett-a-gki-konjunkturaindexe-oktoberben",
+          "title": "Enyhén emelkedett a GKI konjunktúraindexe októberben",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-22T16:11:31+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-22T16:46:10+02:00"
+      },
+      "hot_score": 6.44,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/gazdasag/2026/10/22/enyhen-emelkedett-a-gki-konjunkturaindexe-oktoberben"
+        ]
+      },
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "url": "/penzvilag/2026-10-22-jokedvu-ipar-borus-lakossag-ezt-hozta-az-oktoberi-gki-mutato/",
+      "seo": {
+        "meta_title": "Jókedvű ipar, borús lakosság: ezt hozta az októberi GKI-muta",
+        "meta_description": "Enyhén emelkedett októberben a GKI Gazdaságkutató konjunktúraindexe a szeptemberi adatokhoz képest, A vállalkozások többsége továbbra sem tervez sem nagyobb lét",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-22-jokedvu-ipar-borus-lakossag-ezt-hozta-az-oktoberi-gki-mutato/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "4abfab857f5707d5f51d44f7d292902bb300766f12834694e4d2ba539e5b4de6",
+      "pipeline_run_id": "39790238090",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-22T16:46:10+02:00",
+      "updated_at": "2026-10-22T16:46:10+02:00",
+      "published_at": "2026-10-22T16:46:10+02:00",
+      "expires_at": null
+    },
     {
       "id": "db3353bf-58e1-59f2-a1e4-55630fd9ddee",
       "slug": "2026-10-22-europai-csucsvezetokkel-es-miniszterekkel-unnepli-budapest-1956-ot",
@@ -68291,100 +68392,6 @@
       "created_at": "2026-09-30T19:26:26+02:00",
       "updated_at": "2026-09-30T19:26:26+02:00",
       "published_at": "2026-09-30T19:26:26+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "2d2967e9-7c2d-5937-a5f9-de29310874a9",
-      "slug": "2026-09-30-kozel-a-harmadik-vilaghaboru-megszolalt-a-volt-hirszerzesi-vezeto",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Avril Haines",
-        "Egyesült Államok",
-        "hírszerzés",
-        "külpolitika",
-        "biztonságpolitika"
-      ],
-      "title": "Közel a harmadik világháború? Megszólalt a volt hírszerzési vezető",
-      "subtitle": null,
-      "lead": "Nem tart a harmadik világháború felé a világ, de hiányzik a megfelelő megelőzési mechanizmus – nyilatkozta a Financial Timesnak adott interjújában Avril Haines, az amerikai nemzeti hírszerzés volt igazgatója. A szakember szerint a döntéshozók gyakran figyelmen kívül hagyják a szakértői figyelmeztetéseket.",
-      "key_points": [
-        "Avril Haines szerint a világ még nem sodródik a harmadik világháború felé.",
-        "A korábbi hírszerzési vezető hiányolja a konfliktusok megelőzésére szolgáló eszközöket.",
-        "A Fehér Ház jelenlegi vezetője a szakértők helyett inkább a megérzéseire hagyatkozik."
-      ],
-      "content": "Avril Haines, a Carnegie Alapítvány a Nemzetközi Békéért elnöke, aki Joe Biden elnöksége alatt a nemzeti hírszerzés igazgatójaként irányította az amerikai hírszerző közösséget, a Financial Timesnak nyilatkozott a globális biztonsági kockázatokról. A jogász végzettségű szakember – aki korábban a CIA első női igazgatóhelyettese és Obama-elnökség ideje alatt helyettes nemzetbiztonsági tanácsadó is volt – úgy véli, hogy a globális konfliktus veszélye fennáll, habár a jelenlegi helyzet nem jelenti azt, hogy elkerülhetetlen lenne a harmadik világháború.\n\nA volt hírszerzési vezető arra is kitért, hogy a Fehér Házban döntéshozói szinten komoly problémát jelent a szakmai vélemények mellőzése. Elemzése szerint az Egyesült Államok elnöke inkább a saját megérzéseire hallgat ahelyett, hogy a hivatalos elemzőkre támaszkodna. Hozzátette, hogy bár lettek volna a környezetében olyan tisztviselők, akik képesek lettek volna pontos helyzetértékelést adni, sokan inkább a hallgatást választották a konfliktusok elkerülése érdekében.\n\nAz interjúban szó esett a Közel-Kelet kérdéséről is, különösen Izrael szerepéről. Haines megfogalmazása szerint Benjamin Netanjahu izraeli kormányfő Gáza ügyében félrevezette az amerikai elnököt, amihez hozzájárult az is, hogy a Fehér Ház lakója nem mutatott nyitottságot a külső figyelmeztetésekre.\n\nA szakértő hangsúlyozta, hogy a legnagyobb hiányosság jelenleg a nemzetközi biztonságban az, hogy még nem alakult ki az a megelőzési mechanizmus, amellyel hatékonyan el lehetne kerülni a nukleáris fegyverek bevetését vagy egy globális összecsapást.",
-      "content_format": "markdown",
-      "body": [
-        "Avril Haines, a Carnegie Alapítvány a Nemzetközi Békéért elnöke, aki Joe Biden elnöksége alatt a nemzeti hírszerzés igazgatójaként irányította az amerikai hírszerző közösséget, a Financial Timesnak nyilatkozott a globális biztonsági kockázatokról. A jogász végzettségű szakember – aki korábban a CIA első női igazgatóhelyettese és Obama-elnökség ideje alatt helyettes nemzetbiztonsági tanácsadó is volt – úgy véli, hogy a globális konfliktus veszélye fennáll, habár a jelenlegi helyzet nem jelenti azt, hogy elkerülhetetlen lenne a harmadik világháború.",
-        "A volt hírszerzési vezető arra is kitért, hogy a Fehér Házban döntéshozói szinten komoly problémát jelent a szakmai vélemények mellőzése. Elemzése szerint az Egyesült Államok elnöke inkább a saját megérzéseire hallgat ahelyett, hogy a hivatalos elemzőkre támaszkodna. Hozzátette, hogy bár lettek volna a környezetében olyan tisztviselők, akik képesek lettek volna pontos helyzetértékelést adni, sokan inkább a hallgatást választották a konfliktusok elkerülése érdekében.",
-        "Az interjúban szó esett a Közel-Kelet kérdéséről is, különösen Izrael szerepéről. Haines megfogalmazása szerint Benjamin Netanjahu izraeli kormányfő Gáza ügyében félrevezette az amerikai elnököt, amihez hozzájárult az is, hogy a Fehér Ház lakója nem mutatott nyitottságot a külső figyelmeztetésekre.",
-        "A szakértő hangsúlyozta, hogy a legnagyobb hiányosság jelenleg a nemzetközi biztonságban az, hogy még nem alakult ki az a megelőzési mechanizmus, amellyel hatékonyan el lehetne kerülni a nukleáris fegyverek bevetését vagy egy globális összecsapást."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 249,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Avril_Haines_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1500,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Portrait of Deputy National Security Advisor Avril Haines",
-        "credit": "United States Department of State / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Avril_Haines_portrait.jpg"
-      },
-      "sources": [
-        {
-          "url": "https://hvg.hu/360/20260930_lapszemle-ft-avriol-haines-amerikai-nemzeti-hirszerzes-volt-igazgatoja-vilaghaboru-atomfegyver",
-          "title": "Az amerikai nemzeti hírszerzés volt igazgatója: Még nem jön a harmadik világháború, de nincs meg az eszköz, amellyel megelőzhetnénk",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-09-30T17:35:37+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-09-30T17:45:57+02:00"
-      },
-      "hot_score": 5.51,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/360/20260930_lapszemle-ft-avriol-haines-amerikai-nemzeti-hirszerzes-volt-igazgatoja-vilaghaboru-atomfegyver"
-        ]
-      },
-      "date": "2026-09-30",
-      "date_label": "szeptember 30.",
-      "url": "/vilag/2026-09-30-kozel-a-harmadik-vilaghaboru-megszolalt-a-volt-hirszerzesi-vezeto/",
-      "seo": {
-        "meta_title": "Közel a harmadik világháború? Megszólalt a volt hírszerzési ",
-        "meta_description": "Nem tart a harmadik világháború felé a világ, de hiányzik a megfelelő megelőzési mechanizmus – nyilatkozta a Financial Timesnak adott interjújában Avril Haines,",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-09-30-kozel-a-harmadik-vilaghaboru-megszolalt-a-volt-hirszerzesi-vezeto/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Avril_Haines_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "dedupe_hash": "d82029a44e8d74a2e886c6813d213f02780fc9485ac55e5d7d09237332e22aa4",
-      "pipeline_run_id": "36736957934",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-09-30T17:45:57+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-09-30T17:45:57+02:00",
       "expires_at": null
     }
   ]
