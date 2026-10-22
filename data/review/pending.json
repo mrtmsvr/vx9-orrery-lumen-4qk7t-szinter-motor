@@ -9090,18 +9090,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-22T17:56:12+00:00",
-        "msg_ids": [
-          8862,
-          8863,
-          8864,
-          8865,
-          8866,
-          8867,
-          8868,
-          8869
-        ],
-        "control_id": 8870
-      }
+        "msg_ids": [],
+        "control_id": 8870,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:17 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-22T20:17:56+02:00"
     },
     {
       "id": "c733d314-6b9b-5fe6-b4f8-caef359cb036",
