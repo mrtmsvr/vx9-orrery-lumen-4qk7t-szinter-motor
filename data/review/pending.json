@@ -8832,17 +8832,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-22T17:53:58+00:00",
-        "msg_ids": [
-          8853,
-          8854,
-          8855,
-          8856,
-          8857,
-          8858,
-          8859,
-          8861
-        ],
-        "control_id": 8860
+        "msg_ids": [],
+        "control_id": 8860,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
