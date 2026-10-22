@@ -9338,15 +9338,10 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-22T15:17:57+00:00",
-        "msg_ids": [
-          8822,
-          8823,
-          8824,
-          8825,
-          8826,
-          8828
-        ],
-        "control_id": 8827
+        "msg_ids": [],
+        "control_id": 8827,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
