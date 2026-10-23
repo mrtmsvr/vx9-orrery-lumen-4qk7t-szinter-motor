@@ -11194,17 +11194,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-23T13:54:34+00:00",
-        "msg_ids": [
-          9072,
-          9073,
-          9074,
-          9075,
-          9076,
-          9077,
-          9078
-        ],
-        "control_id": 9079
-      }
+        "msg_ids": [],
+        "control_id": 9079,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:11 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T16:11:32+02:00"
     },
     {
       "id": "3927ddd5-a498-5895-a9f1-c2162948ec1e",
@@ -11427,15 +11422,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T13:59:09+00:00",
-        "msg_ids": [
-          9080,
-          9081,
-          9082,
-          9083,
-          9084
-        ],
-        "control_id": 9085
-      }
+        "msg_ids": [],
+        "control_id": 9085,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:31 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T16:31:32+02:00"
     }
   ]
 }
