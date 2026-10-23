@@ -1,35 +1,35 @@
 {
-  "id": "72c28c6aa6",
-  "date": "2026-10-22",
+  "id": "b8e935b888",
+  "date": "2026-10-23",
   "status": "approved",
-  "article_url": "/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
-  "article_title": "Meddig maradnak az orosz szankciók?",
-  "category": "vilag",
+  "article_url": "/kozelet/2026-10-22-nemzeti-emlekmuzeumot-avat-56-nak-magyar-peter-a-bem-teren/",
+  "article_title": "Ötvenhatos emlékmúzeumot alapít a kormány",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes-e fenntartani az Oroszországgal szembeni gazdasági szankciókat?",
+      "question": "Ön szerint helyes döntés egy új ötvenhatos emlékmúzeum alapítása?",
       "options": [
-        "Igen, a háború végéig szükségesek",
-        "Nem, fel kell őket oldani",
+        "Igen, fontos a méltó emlékezés",
+        "Nem, másra kellene fordítani a pénzt",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a szankciók hatását az európai gazdaságra?",
+      "question": "Mit tartana fontosabbnak az emlékhely létrehozása helyett?",
       "options": [
-        "Több kárt okoznak Európának, mint Oroszországnak",
-        "Hatásosan gyengítik az orosz gazdaságot",
+        "Az egészségügy fejlesztését",
+        "Az oktatás támogatását",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Milyen feltételhez kellene kötni a szankciók feloldását?",
+      "question": "Hogyan értékeli a kormány kulturális kiadási politikáját?",
       "options": [
-        "Kizárólag a békeszerződés aláírásához",
-        "Akár korábbi részmegállapodásokhoz is",
+        "Támogatandó",
+        "Elutasítandó",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 8740
+  "msg_id": 8997
 }
