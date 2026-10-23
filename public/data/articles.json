@@ -1,7 +1,109 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T11:20:19+02:00",
+  "updated_at": "2026-10-23T11:22:46+02:00",
   "articles": [
+    {
+      "id": "8d8e9134-54ba-54f8-8753-7ffdf83d2f41",
+      "slug": "2026-10-23-parizsi-megemlekezessel-tisztelegtunk-az-1956-os-hosok-elott",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "1956",
+        "Párizs",
+        "Velkey György László",
+        "megemlékezés",
+        "történelem"
+      ],
+      "title": "Párizsi megemlékezéssel tisztelegtünk az 1956-os hősök előtt",
+      "subtitle": null,
+      "lead": "Párizsban emlékezett meg az 1956-os forradalom hőseiről Velkey György László, a külügyminisztérium parlamenti államtitkára a napokban. Egy Franciaországban élő egykori felkelő történetén keresztül idézték fel a pesti eseményeket.",
+      "key_points": [
+        "Velkey György László pénteken Párizsban találkozott az 1956-os emigránsokkal.",
+        "A megosztott történet szerint egy ma már Franciaországban élő férfi tizenhat évesen, puskával a kezében harcolt a forradalomban.",
+        "A visszaemlékezés alapján a szülők a barikádokon osztogatták a fiú által festett jelvényeket."
+      ],
+      "content": "Párizsban, az 1956-os forradalom helyi emigránsaival közösen emlékezett meg a magyar szabadság hőseiről Velkey György László pénteken. A külügyminisztérium parlamenti államtitkára a közösségi oldalán hozta nyilvánosságra egy Franciaországban élő egykori felkelő visszaemlékezését, amely a forradalmi napok hétköznapi drámáit mutatja be egy túlélő szemével.\n\nA megosztott történet főszereplője tizenhat évesen, fegyverrel a kezében vett részt a harcokban, miközben családja is kivette a részét a megmozdulásokból: szülei a pesti barikádokon osztogatták azokat a jelvényeket, amelyeket maga a fiatal fiú festett.\n\nA felidézett emlékek szerint a harcok súlyosságát jól mutatja az Oktogonon felállított egyik barikád esete, amelynek robbanásakor a lökéshullámtól a környék összes ablaka betört. A környéken így a felkelő családjának otthona maradt az egyetlen ép és lakható lakás, ahová a környékről harmincan húzódtak be az emeletekről, hogy ott dohányozzanak és a Szabad Európa rádiót hallgassák.",
+      "content_format": "markdown",
+      "body": [
+        "Párizsban, az 1956-os forradalom helyi emigránsaival közösen emlékezett meg a magyar szabadság hőseiről Velkey György László pénteken. A külügyminisztérium parlamenti államtitkára a közösségi oldalán hozta nyilvánosságra egy Franciaországban élő egykori felkelő visszaemlékezését, amely a forradalmi napok hétköznapi drámáit mutatja be egy túlélő szemével.",
+        "A megosztott történet főszereplője tizenhat évesen, fegyverrel a kezében vett részt a harcokban, miközben családja is kivette a részét a megmozdulásokból: szülei a pesti barikádokon osztogatták azokat a jelvényeket, amelyeket maga a fiatal fiú festett.",
+        "A felidézett emlékek szerint a harcok súlyosságát jól mutatja az Oktogonon felállított egyik barikád esete, amelynek robbanásakor a lökéshullámtól a környék összes ablaka betört. A környéken így a felkelő családjának otthona maradt az egyetlen ép és lakható lakás, ahová a környékről harmincan húzódtak be az emeletekről, hogy ott dohányozzanak és a Szabad Európa rádiót hallgassák."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 163,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792747318-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792747318-0.jpg",
+        "kind": "photo",
+        "alt": "Párizsból üzent 1956-nak Velkey György László",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/10/23/velkey-gyorgy-egy-56-os-emigrans-tortenetet-osztotta-meg-parizsbol/",
+          "title": "Velkey György egy ’56-os emigráns történetét osztotta meg Párizsból",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T11:20:23+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Úgyhogy az egyedüli élhető lakás a miénk volt. Úgyhogy harminc ember leköltözött az emeletekről hozzánk, szívták a cigit, hallgatták a Szabad Európát.",
+        "who": "egy Franciaországban élő '56-os emigráns",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-23T11:22:46+02:00"
+      },
+      "hot_score": 5.85,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/10/23/velkey-gyorgy-egy-56-os-emigrans-tortenetet-osztotta-meg-parizsbol/"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-parizsi-megemlekezessel-tisztelegtunk-az-1956-os-hosok-elott/",
+      "seo": {
+        "meta_title": "Párizsi megemlékezéssel tisztelegtünk az 1956-os hősök előtt",
+        "meta_description": "Párizsban emlékezett meg az 1956-os forradalom hőseiről Velkey György László, a külügyminisztérium parlamenti államtitkára a napokban. Egy Franciaországban élő ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-parizsi-megemlekezessel-tisztelegtunk-az-1956-os-hosok-elott/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792747318-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "1ed29a5f81f07a274fb3cfcacb269f53f411108b275cd4271a6aeaa4db80c58f",
+      "pipeline_run_id": "39930316367",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T11:22:46+02:00",
+      "updated_at": "2026-10-23T11:22:46+02:00",
+      "published_at": "2026-10-23T11:22:46+02:00",
+      "expires_at": null
+    },
     {
       "id": "f6a4e343-5aa3-5329-937d-c14343b6f729",
       "slug": "2026-10-23-kilencszazalekos-dragulas-jon-betaraztak-a-magyar-dohanyboltok",
@@ -68425,109 +68527,6 @@
       "created_at": "2026-10-01T16:37:13+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-01T16:37:13+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ceb68079-3911-503c-8747-b90f80746457",
-      "slug": "2026-10-01-harmadszor-is-megnosult-jim-carrey",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Jim Carrey",
-        "esküvő",
-        "bulvár",
-        "Hollywood"
-      ],
-      "title": "Harmadszor is megnősült Jim Carrey",
-      "subtitle": null,
-      "lead": "Jim Carrey harmadszor is oltár elé állt egy szűk körű Los Angeles-i szertartáson. A 64 éves színész választottja a harminc évvel fiatalabb Min Ah volt.",
-      "key_points": [
-        "Jim Carrey harmadszor is megnősült Los Angelesben.",
-        "A választottja Min Ah, akivel idén februárban léptek először nyilvánosság elé.",
-        "A színész korábban Melissa Womer és Lauren Holly férje volt."
-      ],
-      "content": "Új fejezet kezdődött a kétszeres Golden Globe-díjas kanadai humorista és színész magánéletében, miután harmadszor is megházasodott. Az Ace Ventura és A Maszk sztára egy szűk körű, a nyilvánosság kizárásával tartott Los Angeles-i szertartáson vette feleségül párját, Min Ah-t. A People magazinnak a szóvivője szeptember 30-án erősítette meg a hírt, amely különösen meglepő annak fényében, hogy korábbi nyilatkozatai alapján nem tervezett újabb esküvőt.\n\nA pár kapcsolata évekre nyúlik vissza, hiszen a Los Angeles-i sajtó már 2022-ben is látta őket együtt, ám magánéletüket sokáig szigorúan óvták. Végül idén februárban léptek először hivatalosan a kamerák elé a párizsi César-díjátadón, ahol a színész tiszteletbeli elismerést vehetett át, beszédében pedig franciául vallott szerelmet kedvesének.\n\nA komikus számára nem ez az első házasság, hiszen a múltjában már két korábbi frigy is szerepel. Első feleségét, Melissa Womert 1987-ben vette el, akitől egy Jane nevű lánya született, majd 1996-ban a Dumb és Dumber forgatásán megismert kolléganőjével, Lauren Hollyval állt oltár elé. Az elmúlt évtizedekben magánélete gyakran került a figyelem középpontjába, legutóbb pedig párizsi megjelenése váltott ki vad internetes találgatásokat a külseje miatt, amelyeket menedzsmentje gyorsan tisztázott.\n\nKalifornia gazdasági és kulturális központja, az amerikai filmipar otthona ezúttal egy kifejezetten zárt körű ceremóniának adott otthont a sztár számára. A szűk családi és baráti körben zajló esemény jól illeszkedik ahhoz a visszafogott életmódhoz, amelyet a pár nyilvános felvállalása óta képvisel.",
-      "content_format": "markdown",
-      "body": [
-        "Új fejezet kezdődött a kétszeres Golden Globe-díjas kanadai humorista és színész magánéletében, miután harmadszor is megházasodott. Az Ace Ventura és A Maszk sztára egy szűk körű, a nyilvánosság kizárásával tartott Los Angeles-i szertartáson vette feleségül párját, Min Ah-t. A People magazinnak a szóvivője szeptember 30-án erősítette meg a hírt, amely különösen meglepő annak fényében, hogy korábbi nyilatkozatai alapján nem tervezett újabb esküvőt.",
-        "A pár kapcsolata évekre nyúlik vissza, hiszen a Los Angeles-i sajtó már 2022-ben is látta őket együtt, ám magánéletüket sokáig szigorúan óvták. Végül idén februárban léptek először hivatalosan a kamerák elé a párizsi César-díjátadón, ahol a színész tiszteletbeli elismerést vehetett át, beszédében pedig franciául vallott szerelmet kedvesének.",
-        "A komikus számára nem ez az első házasság, hiszen a múltjában már két korábbi frigy is szerepel. Első feleségét, Melissa Womert 1987-ben vette el, akitől egy Jane nevű lánya született, majd 1996-ban a Dumb és Dumber forgatásán megismert kolléganőjével, Lauren Hollyval állt oltár elé. Az elmúlt évtizedekben magánélete gyakran került a figyelem középpontjába, legutóbb pedig párizsi megjelenése váltott ki vad internetes találgatásokat a külseje miatt, amelyeket menedzsmentje gyorsan tisztázott.",
-        "Kalifornia gazdasági és kulturális központja, az amerikai filmipar otthona ezúttal egy kifejezetten zárt körű ceremóniának adott otthont a sztár számára. A szűk családi és baráti körben zajló esemény jól illeszkedik ahhoz a visszafogott életmódhoz, amelyet a pár nyilvános felvállalása óta képvisel."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 254,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jim_Carrey_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1633,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Jim Carrey, Yes Man premiere, 2008",
-        "credit": "Ian Smith from London, England / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Jim_Carrey_2008.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/nemzetkozi-sztarok/jim-carrey-megnosult-uj-felesege-min-ah/2gpt3zd",
-          "title": "Titokban újranősült Jim Carrey: ezt a gyönyörű nőt vette el – fotó",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-01T16:31:05+02:00"
-        },
-        {
-          "url": "https://borsonline.origo.hu/kulfoldi-sztarhirek/2026/10/jim-carrey-titokban-megnosult",
-          "title": "Jim Carrey teljes titokban feleségül vette fele annyi idős szerelmét",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-01T16:31:05+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-01T16:37:09+02:00"
-      },
-      "hot_score": 6.46,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/nemzetkozi-sztarok/jim-carrey-megnosult-uj-felesege-min-ah/2gpt3zd"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/bulvar/2026-10-01-harmadszor-is-megnosult-jim-carrey/",
-      "seo": {
-        "meta_title": "Harmadszor is megnősült Jim Carrey",
-        "meta_description": "Jim Carrey harmadszor is oltár elé állt egy szűk körű Los Angeles-i szertartáson. A 64 éves színész választottja a harminc évvel fiatalabb Min Ah volt.",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-01-harmadszor-is-megnosult-jim-carrey/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jim_Carrey_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "f1ba1cc12729073c95a47c1276b45bf5c7223de12df88948f9b1a706af1899c5",
-      "pipeline_run_id": "36876886244",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T16:37:09+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-01T16:37:09+02:00",
       "expires_at": null
     }
   ]
