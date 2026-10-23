@@ -9134,7 +9134,7 @@
     {
       "id": "912f5792-e4c9-55fe-a911-28fc2e04336d",
       "slug": "2026-10-23-macron-szerint-az-ultrabaloldal-a-koztarsasag-megdontesere-keszul",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -9436,9 +9436,9 @@
       "dedupe_hash": "8951d6e78016b1f55005fbc10b78695413162107b500890379e2b80d45b951fe",
       "pipeline_run_id": "39899547325",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T06:18:44+02:00",
-      "updated_at": "2026-10-23T06:18:44+02:00",
-      "published_at": "2026-10-23T06:18:44+02:00",
+      "created_at": "2026-10-23T08:04:34+02:00",
+      "updated_at": "2026-10-23T08:04:34+02:00",
+      "published_at": "2026-10-23T08:04:34+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -9455,19 +9455,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T04:20:46+00:00",
-        "msg_ids": [
-          8910,
-          8911,
-          8912,
-          8913,
-          8914,
-          8915,
-          8916,
-          8917,
-          8918
-        ],
-        "control_id": 8919
-      }
+        "msg_ids": [],
+        "control_id": 8919,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "c11df0dc-28c8-5910-a4d4-13a3ba281391",
