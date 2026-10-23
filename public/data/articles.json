@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T08:04:34+02:00",
+  "updated_at": "2026-10-23T08:05:08+02:00",
   "articles": [
     {
       "id": "912f5792-e4c9-55fe-a911-28fc2e04336d",
@@ -574,16 +574,15 @@
       "word_count": 264,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Petrovics_%26_R%C3%B3zsa_plaque_%28Balassagyarmat_Bencz%C3%BAr_Gyula_u_1a%29.jpg/1280px-Petrovics_%26_R%C3%B3zsa_plaque_%28Balassagyarmat_Bencz%C3%BAr_Gyula_u_1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 799,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4d91bdca21.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4d91bdca21.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "Commemorative plaque to József Petrovics (1879-1919) and András Rózsa (1879-1919) Hungarian railwaymen who suffered fatal wounding during the reconquest of the city from the the Czechoslovak troops on",
-        "credit": "Fekist / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Petrovics_%26_R%C3%B3zsa_plaque_(Balassagyarmat_Bencz%C3%BAr_Gyula_u_1a).jpg",
-        "unverified": true
+        "alt": "Rózsa András bekeményített: kartellgyanúval küldte a GVH-ra Zugló faápolóit",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -646,7 +645,7 @@
         "meta_title": "Kartelleztek a zuglói kertészek? Rózsa András bekeményített",
         "meta_description": "Kartellezés gyanújával tett bejelentést a Gazdasági Versenyhivatalnál Rózsa András, Zugló polgármestere a zöldterület-fenntartó cégek közbeszerzései miatt. A vá",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-kartelleztek-a-zugloi-kerteszek-rozsa-andras-bekemenyitett/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Petrovics_%26_R%C3%B3zsa_plaque_%28Balassagyarmat_Bencz%C3%BAr_Gyula_u_1a%29.jpg/1280px-Petrovics_%26_R%C3%B3zsa_plaque_%28Balassagyarmat_Bencz%C3%BAr_Gyula_u_1a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4d91bdca21.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -672,7 +671,7 @@
       "pipeline_run_id": "39902786295",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T06:56:21+02:00",
-      "updated_at": "2026-10-23T06:56:21+02:00",
+      "updated_at": "2026-10-23T08:05:08+02:00",
       "published_at": "2026-10-23T06:56:21+02:00",
       "expires_at": null
     },
