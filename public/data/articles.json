@@ -46992,10 +46992,10 @@
       ],
       "title": "Megosztotta a szakmát a mesterséges intelligencia által írt matematikai csomag",
       "subtitle": null,
-      "lead": "Az OpenAI október 6-án közzétett 722 olyan matematikai tanulmányt, amelyeket egy, a nagyközönség elől eddig elzárt, belső mesterségesintelligencia-modellel írtak.",
+      "lead": "Az OpenAI október 6-án tett közzé 722 olyan matematikai tanulmányt, amelyeket egy, a nagyközönség elől eddig elzárt, belső mesterségesintelligencia-modellel írtak.",
       "key_points": [
         "Az OpenAI 722 új matematikai tanulmányt tett közzé egy nyilvános GitHub-tárhelyen.",
-        "A vizsgált témák között szerepel a egymillió dolláros jutalommal járó Riemann-sejtés egy gyengébb változata is."
+        "A vizsgált témák között szerepel az egymillió dolláros jutalommal járó Riemann-sejtés egy gyengébb változata is."
       ],
       "content": "Az OpenAI október 6-án, kedden egy nyilvánosan még nem elérhető, belső mesterségesintelligencia-modellje által írt matematikai tanulmányokat hozott nyilvánosságra egy GitHub-tárhelyen. Az összesen 722 anyagot 372 eredménycsoportba rendezték, amelyek 17 különböző matematikai területet ölelnek fel. A dokumentumok a modell fejlesztése során készültek, miután a szoftver a meglévő matematikai teszteken már a maximális eredményt hozta. A tesztidőszak alatt a rendszer megközelítőleg 4000 problémát kapott, egy-egy végeredmény pedig átlagosan három órányi ChatGPT Pro-gondolkodásnak megfelelő számítási kapacitást igényelt.\n\nA kiadott tanulmányok közül a legnagyobb visszhangot a Riemann-sejtéshez kapcsolódó eredmény kapta. A prímszámok eloszlásáról szóló, egymillió dolláros jutalommal kiírt millenniumi probléma teljes megoldását a csomag ugyan nem tartalmazza, de annak egy gyengébb változatát sikerült bizonyítaniuk: a levezetés szerint egy széles függvénycsaládnak – beleértve a Riemann-féle zétafüggvényt is – egy jól meghatározott tartományban nincs zérushelye. Ezenfelül a dokumentumok között szerepel Kaplansky egyik algebrai sejtésének ellenpéldája, valamint a Mahler-sejtés bizonyítása is.\n\nA mesterséges intelligencia által elért eredmények hitelességét a szakma még vizsgálja. A cég a bizonyítások egy részét Lean programozási nyelven is közzétette, amellyel egy gép ellenőrizheti a levezetés minden lépését; ez a módszer 162 fő eredményre terjed ki. Az OpenAI fejlesztői ugyanakkor maguk is figyelmeztetnek arra, hogy a gépileg még nem ellenőrzött levezetések között hibásak is előfordulhatnak, az eredmények megítélését pedig a tudományos közösségre bízzák.\n\nA tudományos élet szereplői rendkívül eltérően reagáltak a példátlan publikációra. Peter Woit, a Columbia Egyetem matematika tanszékének fizikusa szerint a kiadvány az úgynevezett slopokalipszis, vagyis az MI-generált szemét tudományos formába csomagolt változata, míg Alvaro Lozano-Robledo, a Connecticuti Egyetem matematikusa azt kifogásolta, hogy a cég miért akar egyszerre ennyi ellenőrizetlen anyagot közzétenni.",
       "content_format": "markdown",
@@ -47055,7 +47055,7 @@
       "url": "/tech/2026-10-08-megosztotta-a-szakmat-a-mesterseges-intelligencia-altal-irt-matematik/",
       "seo": {
         "meta_title": "Megosztotta a szakmát a mesterséges intelligencia által írt ",
-        "meta_description": "Az OpenAI október 6-án közzétett 722 olyan matematikai tanulmányt, amelyeket egy, a nagyközönség elől eddig elzárt, belső mesterségesintelligencia-modellel írta",
+        "meta_description": "Az OpenAI október 6-án tett közzé 722 olyan matematikai tanulmányt, amelyeket egy, a nagyközönség elől eddig elzárt, belső mesterségesintelligencia-modellel írta",
         "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-08-megosztotta-a-szakmat-a-mesterseges-intelligencia-altal-irt-matematik/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Artificial_Intelligence_Word_Cloud.png/1280px-Artificial_Intelligence_Word_Cloud.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
@@ -47075,7 +47075,7 @@
       "pipeline_run_id": "37773398530",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
       "created_at": "2026-10-08T14:32:04+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
+      "updated_at": "2026-10-23T04:55:29+00:00",
       "published_at": "2026-10-08T14:32:04+02:00",
       "expires_at": null
     },
@@ -47101,13 +47101,13 @@
         "A zenész öt évig élt Svájcban és Liechtensteinben, ahol vendéglátózott, mielőtt visszatért a hazai rockszínpadokra.",
         "Október 10-én a Prognózis a Barba Negra klubban lép fel a Dinoszauruszok éjszakáján."
       ],
-      "content": "A nyolcvanas évek közepén meglehetősen szokatlan látványt nyújtott egy piros dzsekis, fekete farmerre húzott mintás alsógatyában éneklő fiatalember az utcai járókelők között. Vörös István akkori fellépése és a Tele van a város szerelemmel című dala mára a korszak egyik legemlékezetesebb szimbólumává vált. A Blikknek adott interjúja szerint a dal nem hordoz bonyolult filozófiát, csupán azt az elemi vágyat tükrözi, amelyet a katonaságtól való leszerelés után érzett: a vad, szabad és korlátok nélküli életet.\n\nEz a szerzemény a korabeli, elvtársias légkörben szinte a szinglik és a magányosok himnuszává vált, sőt később még a fiatalon elhunyt szépségkirálynő, Molnár Andrea életéről szóló filmben is felcsendült. Bár a kultikus videóklipben szereplő alsógatya az évek során valahol elveszett, az előadó ma is remek fizikai formában őrzi a hetvenegy évesen is lendületes életstílusát.\n\nA zenei pálya nem alakult folyamatosan lineárisan: a Prognózis nevű formáció 1981 februári megalakulásától 1988-ig létezett, utána Vörös István külföldre távozott. Svájcban és Liechtensteinben vendéglátózott, mielőtt hazatért és visszatért a rockzenéhez.\n\nA rajongóknak sem kell sokat várniuk az újabb találkozásra, hiszen október 10-én, szombaton a Prognózis a Barba Negra klubban koncertezik a Dinoszauruszok éjszakáján a P. Mobil és az ős-P.Box társaságában.",
+      "content": "A nyolcvanas évek közepén meglehetősen szokatlan látványt nyújtott egy piros dzsekis, fekete farmerre húzott mintás alsógatyában éneklő fiatalember az utcai járókelők között. Vörös István akkori fellépése és a Tele van a város szerelemmel című dala mára a korszak egyik legemlékezetesebb szimbólumává vált. A Blikknek adott interjúja szerint a dal nem hordoz bonyolult filozófiát, csupán azt az elemi vágyat tükrözi, amelyet a katonaságtól való leszerelés után érzett: a vad, szabad és korlátok nélküli életet.\n\nEz a szerzemény a korabeli, elvtársias légkörben szinte a szinglik és a magányosok himnuszává vált, sőt később még a fiatalon elhunyt szépségkirálynő, Molnár Andrea életéről szóló filmben is felcsendült. Bár a kultikus videóklipben szereplő alsógatya az évek során valahol elveszett, az előadó ma is remek fizikai formában őrzi a hetvenegy évesen is lendületes életstílusát.\n\nA zenei pálya nem alakult folyamatosan lineárisan: a Prognózis nevű formáció 1981. februári megalakulásától 1988-ig létezett, utána Vörös István külföldre távozott. Svájcban és Liechtensteinben vendéglátózott, mielőtt hazatért és visszatért a rockzenéhez.\n\nA rajongóknak sem kell sokat várniuk az újabb találkozásra, hiszen október 10-én a Prognózis a Barba Negra klubban koncertezik a Dinoszauruszok éjszakáján a P. Mobil és az ős-P.Box társaságában.",
       "content_format": "markdown",
       "body": [
         "A nyolcvanas évek közepén meglehetősen szokatlan látványt nyújtott egy piros dzsekis, fekete farmerre húzott mintás alsógatyában éneklő fiatalember az utcai járókelők között. Vörös István akkori fellépése és a Tele van a város szerelemmel című dala mára a korszak egyik legemlékezetesebb szimbólumává vált. A Blikknek adott interjúja szerint a dal nem hordoz bonyolult filozófiát, csupán azt az elemi vágyat tükrözi, amelyet a katonaságtól való leszerelés után érzett: a vad, szabad és korlátok nélküli életet.",
         "Ez a szerzemény a korabeli, elvtársias légkörben szinte a szinglik és a magányosok himnuszává vált, sőt később még a fiatalon elhunyt szépségkirálynő, Molnár Andrea életéről szóló filmben is felcsendült. Bár a kultikus videóklipben szereplő alsógatya az évek során valahol elveszett, az előadó ma is remek fizikai formában őrzi a hetvenegy évesen is lendületes életstílusát.",
-        "A zenei pálya nem alakult folyamatosan lineárisan: a Prognózis nevű formáció 1981 februári megalakulásától 1988-ig létezett, utána Vörös István külföldre távozott. Svájcban és Liechtensteinben vendéglátózott, mielőtt hazatért és visszatért a rockzenéhez.",
-        "A rajongóknak sem kell sokat várniuk az újabb találkozásra, hiszen október 10-én, szombaton a Prognózis a Barba Negra klubban koncertezik a Dinoszauruszok éjszakáján a P. Mobil és az ős-P.Box társaságában."
+        "A zenei pálya nem alakult folyamatosan lineárisan: a Prognózis nevű formáció 1981. februári megalakulásától 1988-ig létezett, utána Vörös István külföldre távozott. Svájcban és Liechtensteinben vendéglátózott, mielőtt hazatért és visszatért a rockzenéhez.",
+        "A rajongóknak sem kell sokat várniuk az újabb találkozásra, hiszen október 10-én a Prognózis a Barba Negra klubban koncertezik a Dinoszauruszok éjszakáján a P. Mobil és az ős-P.Box társaságában."
       ],
       "pull_quote": null,
       "reading_time_min": 2,
@@ -47180,7 +47180,7 @@
       "pipeline_run_id": "37773398530",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
       "created_at": "2026-10-08T14:29:55+02:00",
-      "updated_at": "2026-10-08T14:29:55+02:00",
+      "updated_at": "2026-10-23T04:55:29+00:00",
       "published_at": "2026-10-08T14:29:55+02:00",
       "expires_at": null
     },
