@@ -9913,14 +9913,10 @@
         "title": 1,
         "image": 2,
         "sent_at": "2026-10-23T07:46:24+00:00",
-        "msg_ids": [
-          8991,
-          8992,
-          8993,
-          8994,
-          8996
-        ],
-        "control_id": 8995
+        "msg_ids": [],
+        "control_id": 8995,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
