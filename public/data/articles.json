@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T06:58:48+02:00",
+  "updated_at": "2026-10-23T06:59:58+02:00",
   "articles": [
+    {
+      "id": "1f82c92f-4323-50dd-a5dc-50e1e50fbb98",
+      "slug": "2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "gazdaság",
+        "áfacsökkentés",
+        "költségvetés",
+        "élelmiszerárak",
+        "Kármán András"
+      ],
+      "title": "Nem lesz olcsóbb a zöldség: a kormány lefújta az áfacsökkentést",
+      "subtitle": null,
+      "lead": "A kormány 2027-ben mégsem csökkenti a zöldségek és gyümölcsök jelenleg 27 százalékos áfáját, mivel a költségvetési hiány nem teszi lehetővé az intézkedést. A döntés éles bírálatot váltott ki az ágazati szereplőkből, akik szerint az adókulcs mérséklése segíthetné a fogyasztói árak csökkentését.",
+      "key_points": [
+        "A 27 százalékos áfakulcs 5 százalékra való mérséklése 2027-ben elmarad.",
+        "Kármán András pénzügyminiszter a költségvetési hiányra hivatkozva halasztotta el az intézkedést.",
+        "A terméktanács szerint az áfacsökkentés jelentősen mérsékelhette volna a bolti árakat."
+      ],
+      "content": "Kármán András pénzügyminiszter szerdai nyilatkozatában megerősítette: a kormány továbbra is tervezi a zöldségek és gyümölcsök áfájának 27-ről 5 százalékra történő mérséklését, ám a jövő évi költségvetésben erre nincs mód. A döntés hátterében a költségvetési hiány kezelése áll, amely a tárcavezető szerint prioritást élvez az egyéb gazdaságpolitikai célokkal szemben.\n\nA kormány a választások után még optimistább volt: Bóna Szabolcs agrár- és élelmiszergazdaságért felelős miniszter az új Országgyűlés alakuló ülésén az egészséges élelmiszerek adóterheinek mérsékléséről beszélt, míg Magyar Péter miniszterelnök júliusban, egy közösségi kérdezz-felelek során úgy fogalmazott, reméli, hogy legkésőbb 2027-re megvalósulhat a könnyítés. A mostani bejelentés azonban a 2027-es évre vonatkozóan is véglegesen elnapolta az intézkedést.\n\nA szakmai visszhang kifejezetten negatív: Apáti Ferenc, a FruitVeb elnöke csalódottnak nevezte a fejleményeket.\n\nA 2027-es költségvetés tervezése a finisbe érkezett: Kármán András pénzügyminiszter szerint a tárca szakértői már egyeztettek a Költségvetési Tanáccsal, a végleges tervezetet pedig október 31-ig nyújtják be az Országgyűlésnek, ahol decemberben várható a végszavazás. A tárcavezető hangsúlyozta, hogy a rezsivédelem megőrzése továbbra is prioritás, ahogy a minimálbér emelése körüli egyeztetések is folytatódnak. Ez utóbbi kapcsán megjegyezte, hogy a havi 680 ezer forint alatti jövedelemmel rendelkezőknek szja-adójóváírás segíti a nettó bérük növelését.",
+      "content_format": "markdown",
+      "body": [
+        "Kármán András pénzügyminiszter szerdai nyilatkozatában megerősítette: a kormány továbbra is tervezi a zöldségek és gyümölcsök áfájának 27-ről 5 százalékra történő mérséklését, ám a jövő évi költségvetésben erre nincs mód. A döntés hátterében a költségvetési hiány kezelése áll, amely a tárcavezető szerint prioritást élvez az egyéb gazdaságpolitikai célokkal szemben.",
+        "A kormány a választások után még optimistább volt: Bóna Szabolcs agrár- és élelmiszergazdaságért felelős miniszter az új Országgyűlés alakuló ülésén az egészséges élelmiszerek adóterheinek mérsékléséről beszélt, míg Magyar Péter miniszterelnök júliusban, egy közösségi kérdezz-felelek során úgy fogalmazott, reméli, hogy legkésőbb 2027-re megvalósulhat a könnyítés. A mostani bejelentés azonban a 2027-es évre vonatkozóan is véglegesen elnapolta az intézkedést.",
+        "A szakmai visszhang kifejezetten negatív: Apáti Ferenc, a FruitVeb elnöke csalódottnak nevezte a fejleményeket.",
+        "A 2027-es költségvetés tervezése a finisbe érkezett: Kármán András pénzügyminiszter szerint a tárca szakértői már egyeztettek a Költségvetési Tanáccsal, a végleges tervezetet pedig október 31-ig nyújtják be az Országgyűlésnek, ahol decemberben várható a végszavazás. A tárcavezető hangsúlyozta, hogy a rezsivédelem megőrzése továbbra is prioritás, ahogy a minimálbér emelése körüli egyeztetések is folytatódnak. Ez utóbbi kapcsán megjegyezte, hogy a havi 680 ezer forint alatti jövedelemmel rendelkezőknek szja-adójóváírás segíti a nettó bérük növelését."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 246,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "András Kármán, Hungarian Minister of Finance",
+        "credit": "Ferenc Isza / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg",
+        "exact": true,
+        "entity": "Kármán András",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261022/megsem-csokkenti-a-zoldsegek-es-gyumolcsok-afajat-a-kormany-csalodottak-a-termelok-871634",
+          "title": "Mégsem csökkenti a zöldségek és gyümölcsök áfáját a kormány – csalódottak a termelők",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T06:58:42+02:00"
+        },
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/21/fontos-dolgot-tisztazott-a-rezsivedelemrol-a-penzugyminiszter",
+          "title": "Fontos dolgot tisztázott a rezsivédelemről a pénzügyminiszter",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T06:58:42+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Természetesen ez továbbra is a terveink között szerepel.",
+        "who": "Kármán András pénzügyminiszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-23T06:59:58+02:00"
+      },
+      "hot_score": 6.05,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261022/megsem-csokkenti-a-zoldsegek-es-gyumolcsok-afajat-a-kormany-csalodottak-a-termelok-871634"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest/",
+      "seo": {
+        "meta_title": "Nem lesz olcsóbb a zöldség: a kormány lefújta az áfacsökkent",
+        "meta_description": "A kormány 2027-ben mégsem csökkenti a zöldségek és gyümölcsök jelenleg 27 százalékos áfáját, mivel a költségvetési hiány nem teszi lehetővé az intézkedést. A dö",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "526d6001-ea67-5d92-83c0-e2c656f5c07a"
+      ],
+      "see_also": [
+        {
+          "title": "Radikálisan átalakul a nyugdíjrendszer!",
+          "url": "/kozelet/2026-10-03-radikalisan-atalakul-a-nyugdijrendszer/",
+          "date": "2026-10-03"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "f4b39135b6ec557557d4a3406363267f4a0ee1d7cfb3656c16e0af8d219e3502",
+      "pipeline_run_id": "39902786295",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T06:59:58+02:00",
+      "updated_at": "2026-10-23T06:59:58+02:00",
+      "published_at": "2026-10-23T06:59:58+02:00",
+      "expires_at": null
+    },
     {
       "id": "c52d9edb-9642-5c09-a51e-2e8f4fea0c67",
       "slug": "2026-10-23-ketszazharminc-uj-munkahelyet-hoz-az-ismeretlen-pecsi-beruhazo",
@@ -68320,123 +68441,6 @@
       "created_at": "2026-10-01T12:53:39+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-01T12:53:39+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "3cfd2358-057b-562c-937e-cd15d4b4d6b8",
-      "slug": "2026-10-01-arnyek-vetult-a-brit-legitamaszpontra",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Egyesült Királyság",
-        "Irán",
-        "légitámaszpont",
-        "biztonság"
-      ],
-      "title": "Árnyék vetült a brit légitámaszpontra",
-      "subtitle": null,
-      "lead": "Öt brit férfit vettek őrizetbe terrorcselekmény előkészítésének gyanújával a nyugat-angliai Fairford légitámaszpont közelében. A brit miniszterelnök szerint erős jelek utalnak arra, hogy Iránnak szerepe lehetett az incidensben, míg Teherán határozottan tagadja a vádakat.",
-      "key_points": [
-        "Öt londoni férfit igazoltattak és vettek őrizetbe fegyveres rendőrök Gloucestershire-ben.",
-        "A gyanúsítottak furgonjaiban nem találtak robbanószerkezetet, benzint viszont igen.",
-        "Andy Burnham brit miniszterelnök szerint iráni szálak is felmerültek az ügyben."
-      ],
-      "content": "Vasárnap hajnalban ötfős csoportot tartóztattak le a Gloucestershire megyében található Whelford falu határában, miután bejelentés érkezett arról, hogy három gyanús furgon tart az amerikai légierő által is használt RAF Fairford légitámaszpont felé. A helyszínre érkező fegyveres rendőrök átvizsgálták a járműveket, amelyekben robbanóeszközt nem, benzint azonban találtak. A húszas éveikben járó, londoni lakhelyű brit állampolgárokat a letartóztatásuk után feltételesen szabadlábra helyezték, ám a rendőrségi eljárás továbbra is érvényben van ellenük.\n\nAz ügyben felszólalt Andy Burnham brit miniszterelnök is, aki a BBC rádiónak adott szerdai nyilatkozatában úgy fogalmazott, hogy erős jelek utalnak egy külső állami szereplő részvételére. A kormányfő szerint Iránnak is szerepe volt a támaszpont körüli történésekben, bár konkrét részleteket a folyamatban lévő nyomozásra hivatkozva nem árult el. Ezzel párhuzamosan Marco Rubio amerikai külügyminiszter kedden szintén arról beszélt, hogy egyértelműen külföldi szálak mozgathatták a feltételezett merénylettervet.\n\nA teheráni vezetés a londoni nagykövetségén keresztül határozottan elutasította a feltételezéseket, és visszautasította a bázis elleni akcióval kapcsolatos vádakat. A brit hatóságok jelenleg azt is vizsgálják, hogy a gyanúsítottak tudatosan, egy idegen hatalom megbízásából vagy esetleg ennek tudta nélkül cselekedtek-e. A szigetország védelmi szervei szoros együttműködésben dolgoznak az Egyesült Államok hivatalos szerveivel a nyomozás során.",
-      "content_format": "markdown",
-      "body": [
-        "Vasárnap hajnalban ötfős csoportot tartóztattak le a Gloucestershire megyében található Whelford falu határában, miután bejelentés érkezett arról, hogy három gyanús furgon tart az amerikai légierő által is használt RAF Fairford légitámaszpont felé. A helyszínre érkező fegyveres rendőrök átvizsgálták a járműveket, amelyekben robbanóeszközt nem, benzint azonban találtak. A húszas éveikben járó, londoni lakhelyű brit állampolgárokat a letartóztatásuk után feltételesen szabadlábra helyezték, ám a rendőrségi eljárás továbbra is érvényben van ellenük.",
-        "Az ügyben felszólalt Andy Burnham brit miniszterelnök is, aki a BBC rádiónak adott szerdai nyilatkozatában úgy fogalmazott, hogy erős jelek utalnak egy külső állami szereplő részvételére. A kormányfő szerint Iránnak is szerepe volt a támaszpont körüli történésekben, bár konkrét részleteket a folyamatban lévő nyomozásra hivatkozva nem árult el. Ezzel párhuzamosan Marco Rubio amerikai külügyminiszter kedden szintén arról beszélt, hogy egyértelműen külföldi szálak mozgathatták a feltételezett merénylettervet.",
-        "A teheráni vezetés a londoni nagykövetségén keresztül határozottan elutasította a feltételezéseket, és visszautasította a bázis elleni akcióval kapcsolatos vádakat. A brit hatóságok jelenleg azt is vizsgálják, hogy a gyanúsítottak tudatosan, egy idegen hatalom megbízásából vagy esetleg ennek tudta nélkül cselekedtek-e. A szigetország védelmi szervei szoros együttműködésben dolgoznak az Egyesült Államok hivatalos szerveivel a nyomozás során."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 225,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford%2C_England%2C_November_1%2C_2023.jpg/1280px-Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford%2C_England%2C_November_1%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Airmen from the 9th Expeditionary Bomb Squadron perform a rapid engine change on a B-1 Lancer during a Bomber Task Force mission at RAF Fairford, United Kingdom, Nov. 1, 2023. The missions are represe",
-        "credit": "Senior Airman Ryan Hayman / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford,_England,_November_1,_2023.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/vilag/20260930_burnham-brit-legibazis-tamadas-iran",
-          "title": "Brit miniszterelnök: Iránnak szerepe volt a brit légitámaszpont közelében történt incidensben",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-01T10:29:09+02:00"
-        },
-        {
-          "url": "https://telex.hu/kulfold/2026/09/30/brit-miniszterelnok-iran-fairford-legibazis-merenylet",
-          "title": "A brit miniszterelnök szerint Iránnak köze lehetett a Fairford katonai bázis elleni feltételezett merénylettervhez",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-01T10:29:09+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-01T11:00:06+02:00"
-      },
-      "hot_score": 8.41,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/vilag/20260930_burnham-brit-legibazis-tamadas-iran",
-          "https://telex.hu/kulfold/2026/09/30/brit-miniszterelnok-iran-fairford-legibazis-merenylet"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/vilag/2026-10-01-arnyek-vetult-a-brit-legitamaszpontra/",
-      "seo": {
-        "meta_title": "Árnyék vetült a brit légitámaszpontra",
-        "meta_description": "Öt brit férfit vettek őrizetbe terrorcselekmény előkészítésének gyanújával a nyugat-angliai Fairford légitámaszpont közelében. A brit miniszterelnök szerint erő",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-01-arnyek-vetult-a-brit-legitamaszpontra/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford%2C_England%2C_November_1%2C_2023.jpg/1280px-Airmen_from_the_9th_Expeditionary_Bomb_Squadron_perform_a_rapid_engine_change_on_a_B-1_Lancer_at_RAF_Fairford%2C_England%2C_November_1%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "94c60679-ed80-5134-905b-10b867edbc52",
-        "1b8d58ce-a33f-52ae-b64f-816a7d47401d"
-      ],
-      "see_also": [
-        {
-          "title": "Így telt Orbán Viktor londoni útja a letartóztatások árnyékában",
-          "url": "/kozelet/2026-09-30-igy-telt-orban-viktor-londoni-utja-a-letartoztatasok-arnyekaban/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Négymilliárd forint ment el a csádi misszióra",
-          "url": "/kozelet/2026-09-30-negymilliard-forint-ment-el-a-csadi-missziora/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "ba7f5be4e7087bc740e0c20c18037c61c82d0a6af635c58a9390d79d52cf42a3",
-      "pipeline_run_id": "36836221676",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T11:00:06+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-01T11:00:06+02:00",
       "expires_at": null
     }
   ]
