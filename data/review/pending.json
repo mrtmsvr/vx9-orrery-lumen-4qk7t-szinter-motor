@@ -10432,7 +10432,7 @@
     {
       "id": "7c1aad47-9228-523d-81e6-99754f95e183",
       "slug": "2026-10-23-sorozatgyilkos-tempo-halalos-lovoldozes-razta-meg-a-parizsi-elovarost",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10599,9 +10599,9 @@
       "dedupe_hash": "0c91c78d8961d5f974705a2f173cf4d3d11b0660c158c32ab9275d1378746e68",
       "pipeline_run_id": "39945661115",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T13:23:55+02:00",
-      "updated_at": "2026-10-23T13:23:55+02:00",
-      "published_at": "2026-10-23T13:23:55+02:00",
+      "created_at": "2026-10-23T13:25:27+02:00",
+      "updated_at": "2026-10-23T13:25:27+02:00",
+      "published_at": "2026-10-23T13:25:27+02:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -10613,14 +10613,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T11:24:48+00:00",
-        "msg_ids": [
-          9033,
-          9034,
-          9035,
-          9036
-        ],
-        "control_id": 9037
-      }
+        "msg_ids": [],
+        "control_id": 9037,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
