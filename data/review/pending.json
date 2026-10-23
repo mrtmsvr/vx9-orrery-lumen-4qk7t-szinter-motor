@@ -10323,13 +10323,10 @@
         "title": 2,
         "image": 0,
         "sent_at": "2026-10-23T09:17:41+00:00",
-        "msg_ids": [
-          9004,
-          9005,
-          9006,
-          9008
-        ],
-        "control_id": 9007
+        "msg_ids": [],
+        "control_id": 9007,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
