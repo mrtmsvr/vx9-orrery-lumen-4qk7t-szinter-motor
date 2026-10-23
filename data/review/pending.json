@@ -10543,16 +10543,12 @@
         "title": 3,
         "image": 0,
         "sent_at": "2026-10-23T09:19:21+00:00",
-        "msg_ids": [
-          9009,
-          9010,
-          9011,
-          9012,
-          9013,
-          9014
-        ],
-        "control_id": 9015
-      }
+        "msg_ids": [],
+        "control_id": 9015,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 11:40 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T11:40:19+02:00"
     },
     {
       "id": "f6a4e343-5aa3-5329-937d-c14343b6f729",
