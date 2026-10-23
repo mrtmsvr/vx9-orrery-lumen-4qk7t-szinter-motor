@@ -3255,6 +3255,27 @@ DUP_SYSTEM = ("Hírszerkesztő vagy. Eldöntöd, hogy egy új hír UGYANARRÓL a
               "már megírt cikkünk (akkor is, ha más szemszögből, más szavakkal vagy más rovatban). Csak JSON-t adsz vissza.")
 
 
+_NAME = re.compile(r"\b[A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+(?:[- ][A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+)+")
+_NOT_NAMES = {"Magyar Péter", "Orbán Viktor", "Donald Trump", "Európai Unió", "Európai Bizottság", "Egyesült Államok"}
+
+
+def _recent_name_clash(group: list, recent24: list, score: Optional[float]) -> bool:
+    """Ugyanaz a (nem mindennapos) teljes név a címben, mint egy 24 órán belüli cikkünkében → ugyanannak az ügynek az
+    újramondása; csak nagyon forró témánál (SAME_NAME_MIN_SCORE, alap 13) mehet. A mindennap szereplő nevek kivételek."""
+    inst = {"Ház", "Bank", "Unió", "Bizottság", "Parlament", "Kormány", "Egyesült", "Nemzeti", "Európai", "Állami",
+            "Magyar", "Legfelsőbb", "Bíróság", "Párt", "Tanács", "Hivatal", "Minisztérium", "Új", "Nagy", "Kis"}
+    names = {n for g in group[:3] for n in _NAME.findall(g.get("title") or "")
+             if len(n.replace("-", " ").split()) == 2 and not set(n.replace("-", " ").split()) & inst} - _NOT_NAMES
+    if not names or (score is not None and score >= float(os.getenv("SAME_NAME_MIN_SCORE", "13"))):
+        return False
+    for t in recent24:
+        hit = names & set(_NAME.findall(t or ""))
+        if hit:
+            log.info("Kihagyva (24 órán belül már írtunk róla: %s): %s", ", ".join(hit), group[0].get("title"))
+            return True
+    return False
+
+
 def same_story_as_recent(ai: "AIClient", group: list, recent_titles: list, score: Optional[float] = None) -> bool:
     """Rovatok közötti duplikáció szűrése: a kulcsszavas egyezés nem fogja meg, ha két kiadó másképp fogalmaz
     (pl. „Nem írta alá a Sándor-palota…” vs. „Miért akadt el az új orvosi törvény?”), ezért egy rövid AI-ellenőrzés
@@ -4000,6 +4021,9 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
                      if a.get("title") and ((a.get("created_at") or "") >= dup_cut or a.get("status") == "pending")]
     recent_titles += [e["title"] for e in _sent_log(float(os.getenv("DUP_WINDOW_H", "72"))) if e.get("title")]
     recent_titles = list(dict.fromkeys(recent_titles))
+    cut24 = (now - timedelta(hours=24)).isoformat()
+    recent24 = [a.get("title", "") for a in articles_all if (a.get("created_at") or "") >= cut24 or a.get("status") == "pending"]
+    recent24 += [e.get("title", "") for e in _sent_log(24)]
     recent_kw = [_keywords(a.get("title", "") + " " + " ".join(s.get("title", "") for s in a.get("sources", [])))
                  for a in articles_all if (a.get("created_at") or "") >= (now - timedelta(hours=followup_h)).isoformat()]
     # a már elküldött (de a függő listából esetleg kiesett) témák is számítanak
@@ -4056,6 +4080,8 @@ def run_sections(ai: AIClient, d: date, tz: ZoneInfo, output_dir: Path, dry_run:
             break
         if score < min_score or per_section.get(sid, 0) >= int(os.getenv("MAX_PER_SECTION_RUN", "1")):
             continue
+        if _recent_name_clash(group, recent24, score):
+            continue  # ugyanaz a szereplő 24 órán belül már cikkben volt (pl. „Bús Balázs rács mögött” 10.22. és 10.23.)
         if same_story_as_recent(ai, group, recent_titles, score):
             continue  # más rovatban / más címmel már megírtuk ugyanezt az ügyet
         art = build_section_article(ai, SECTIONS[sid], d, tz, group, recent_imgs, related_past(articles, group))
