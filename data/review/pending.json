@@ -10208,19 +10208,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-23T04:58:32+00:00",
-        "msg_ids": [
-          8936,
-          8937,
-          8938,
-          8939,
-          8940,
-          8941,
-          8942,
-          8943,
-          8944,
-          8946
-        ],
-        "control_id": 8945
+        "msg_ids": [],
+        "control_id": 8945,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -10470,7 +10461,7 @@
         ]
       },
       "review": {
-        "title": 0,
+        "title": 2,
         "image": 0,
         "sent_at": "2026-10-23T04:59:49+00:00",
         "msg_ids": [
