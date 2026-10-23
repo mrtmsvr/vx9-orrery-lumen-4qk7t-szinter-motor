@@ -1,7 +1,152 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T15:37:15+02:00",
+  "updated_at": "2026-10-23T15:46:21+02:00",
   "articles": [
+    {
+      "id": "c9c997b0-6790-546f-b547-692bb7f74380",
+      "slug": "2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Fitch Ratings",
+        "költségvetés",
+        "gazdaság",
+        "államadósság",
+        "euró"
+      ],
+      "title": "A Fitch szerint a kormány terveivel ellentétben magasabb hiány jöhet",
+      "subtitle": null,
+      "lead": "A Fitch Ratings friss előrejelzése szerint Magyarország 2027-es költségvetési tervei összhangban vannak az euró 2030-as bevezetésének céljával, ám a hitelminősítő a kormánynál magasabb hiánnyal számol.",
+      "key_points": [
+        "A Fitch Ratings 5,4 százalékos hiányt vár 2027-re a kormány által tervezett 4,9 százalék helyett.",
+        "Az államadósság a hitelminősítő becslése szerint 2027–2028-ban éri el a csúcsát a GDP 77,7 százalékán.",
+        "A szakértők szerint a forint árfolyama és a gazdaság növekedési üteme kulcsfontosságú az adósságpálya alakulása szempontjából."
+      ],
+      "content": "Magyarország 2027-es költségvetési tervezete és középtávú hiánycéljai elvben összeegyeztethetők azzal a kormányzati céllal, hogy az ország 2030-ra teljesítse az euróövezeti csatlakozás feltételeit, ám a Fitch Ratings londoni értékelése szerint a konszolidáció végrehajtása komoly kockázatokat rejteget. A kabinet a héten benyújtott javaslatában az államháztartási hiány 4,9 százalékra csökkentését tűzte ki célul a 2026-ra becsült 7,5 százalékos GDP-arányos deficit után, ami 2,6 százalékpontos javulást jelentene. A hitelminősítő saját előrejelzése azonban szerényebb pályával számol: szerinte a hiány 2027-ben 5,4 százalékra mérséklődik, és csak 2030-ra csökken 3 százalék alá.\n\nA tervezett kiigazítás elsősorban kiadáscsökkentésre és bevételi intézkedésekre épül, A kiadási oldali megtakarítások a GDP 1,5 százalékát teszik ki, az ideiglenes és egyszeri, választás előtti intézkedések kivezetése további 1,4 százalékot, míg az inflációkövető kötvények és a csökkenő hozamok miatti alacsonyabb kamatkiadások mintegy 0,2 százalékos könnyebbséget jelentenek. A bevételi oldalon a kabinet körülbelül 1 százalékos GDP-arányos többlettel számol.\n\nA tervezett kiadáscsökkentések a koncessziós szerződésekre, a gazdaságfejlesztési támogatásokra, a kormányzati kommunikációra, a közmédiára, valamint az állami beruházási és működési költségekre összpontosítanak, beleértve a minisztériumok és az állami vállalatok működési kiadásainak legalább 10 százalékos mérséklését. Ezzel párhuzamosan az adóemelések a társasági adó és az innovációs járulék növelésével a GDP 0,25, a vagyonadóval 0,2, az energetikai különadóval pedig 0,1 százalékát hoznák, kiegészülve a bányajáradék, a cégautóadó és a reklámadó kisebb mértékű emelésével. A Fitch véleménye szerint a sok, viszonylag kis tételből álló intézkedéscsomag és a tartós konszolidáció fenntartásának kényszere végrehajtási kockázatokat hordoz.\n\nA hitelminősítő várakozása szerint a GDP-arányos magyar államadósságráta 77,7 százalékon tetőzik 2027–2028-ban, ami jelentősen meghaladja a BBB adósosztályzati kategória 57,5 százalékos mediánját.\n\nAz adósságpálya alakulása a költségvetési célok teljesítése mellett a forint árfolyamától és a gazdasági növekedéstől is függ. A forint az év eleje óta 5 százalékkal erősödött az euróval szemben, a magyar gazdaság növekedése azonban 2023 óta elmaradt a hasonló besorolású országokétól a gyenge külső kereslet, a korábbi szakpolitikai bizonytalanságok, az EU-folyósítások késleltetése és a megszorítások beruházásokra gyakorolt hatása miatt.",
+      "content_format": "markdown",
+      "body": [
+        "Magyarország 2027-es költségvetési tervezete és középtávú hiánycéljai elvben összeegyeztethetők azzal a kormányzati céllal, hogy az ország 2030-ra teljesítse az euróövezeti csatlakozás feltételeit, ám a Fitch Ratings londoni értékelése szerint a konszolidáció végrehajtása komoly kockázatokat rejteget. A kabinet a héten benyújtott javaslatában az államháztartási hiány 4,9 százalékra csökkentését tűzte ki célul a 2026-ra becsült 7,5 százalékos GDP-arányos deficit után, ami 2,6 százalékpontos javulást jelentene. A hitelminősítő saját előrejelzése azonban szerényebb pályával számol: szerinte a hiány 2027-ben 5,4 százalékra mérséklődik, és csak 2030-ra csökken 3 százalék alá.",
+        "A tervezett kiigazítás elsősorban kiadáscsökkentésre és bevételi intézkedésekre épül, A kiadási oldali megtakarítások a GDP 1,5 százalékát teszik ki, az ideiglenes és egyszeri, választás előtti intézkedések kivezetése további 1,4 százalékot, míg az inflációkövető kötvények és a csökkenő hozamok miatti alacsonyabb kamatkiadások mintegy 0,2 százalékos könnyebbséget jelentenek. A bevételi oldalon a kabinet körülbelül 1 százalékos GDP-arányos többlettel számol.",
+        "A tervezett kiadáscsökkentések a koncessziós szerződésekre, a gazdaságfejlesztési támogatásokra, a kormányzati kommunikációra, a közmédiára, valamint az állami beruházási és működési költségekre összpontosítanak, beleértve a minisztériumok és az állami vállalatok működési kiadásainak legalább 10 százalékos mérséklését. Ezzel párhuzamosan az adóemelések a társasági adó és az innovációs járulék növelésével a GDP 0,25, a vagyonadóval 0,2, az energetikai különadóval pedig 0,1 százalékát hoznák, kiegészülve a bányajáradék, a cégautóadó és a reklámadó kisebb mértékű emelésével. A Fitch véleménye szerint a sok, viszonylag kis tételből álló intézkedéscsomag és a tartós konszolidáció fenntartásának kényszere végrehajtási kockázatokat hordoz.",
+        "A hitelminősítő várakozása szerint a GDP-arányos magyar államadósságráta 77,7 százalékon tetőzik 2027–2028-ban, ami jelentősen meghaladja a BBB adósosztályzati kategória 57,5 százalékos mediánját.",
+        "Az adósságpálya alakulása a költségvetési célok teljesítése mellett a forint árfolyamától és a gazdasági növekedéstől is függ. A forint az év eleje óta 5 százalékkal erősödött az euróval szemben, a magyar gazdaság növekedése azonban 2023 óta elmaradt a hasonló besorolású országokétól a gyenge külső kereslet, a korábbi szakpolitikai bizonytalanságok, az EU-folyósítások késleltetése és a megszorítások beruházásokra gyakorolt hatása miatt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 364,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg/1280px-London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "London : Tower Hamlets - HSBC &amp; Fitch Ratings",
+        "credit": "Lewis Clarke / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:London_,_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261023/megerkezett-a-friss-elorejelzes-magyarorszagrol-nem-teljesen-hisz-a-kormany-szamainak-a-hitelminosito-871702",
+          "title": "Megérkezett a friss előrejelzés Magyarországról: nem teljesen hisz a kormány számainak a hitelminősítő",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T15:44:14+02:00"
+        },
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/koltsegvetes-iteletet-fitch-euro-bevezetes-allamadossag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Ítéletet mondott a nagy amerikai hitelminősítő a Tisza-kormány 2027-es költségvetéséről és az euró bevezetéséről: nagyon nem tetszik nekik a magyar államadósság",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T15:44:14+02:00"
+        },
+        {
+          "url": "https://telex.hu/gazdasag/2026/10/23/fitch-ratings-magyarorszag",
+          "title": "A Fitch hitelminősítő szerint is van esély rá, hogy Magyarország 2030-ra teljesítse az euróövezeti csatlakozás feltételeit",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T15:44:14+02:00"
+        },
+        {
+          "url": "https://infostart.hu/gazdasag/2026/10/23/ket-dologtol-fugg-a-fitch-szerint-a-2027-es-magyar-koltsegvetes-egyik-fo-celjanak-sikere",
+          "title": "Két dologtól függ a Fitch szerint a 2027-es magyar költségvetés fő céljának sikere",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T15:44:14+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-23T15:46:21+02:00"
+      },
+      "hot_score": 12.67,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261023/megerkezett-a-friss-elorejelzes-magyarorszagrol-nem-teljesen-hisz-a-kormany-szamainak-a-hitelminosito-871702",
+          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/koltsegvetes-iteletet-fitch-euro-bevezetes-allamadossag?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "https://telex.hu/gazdasag/2026/10/23/fitch-ratings-magyarorszag",
+          "https://infostart.hu/gazdasag/2026/10/23/ket-dologtol-fugg-a-fitch-szerint-a-2027-es-magyar-koltsegvetes-egyik-fo-celjanak-sikere"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet/",
+      "seo": {
+        "meta_title": "A Fitch szerint a kormány terveivel ellentétben magasabb hiá",
+        "meta_description": "A Fitch Ratings friss előrejelzése szerint Magyarország 2027-es költségvetési tervei összhangban vannak az euró 2030-as bevezetésének céljával, ám a hitelminősí",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg/1280px-London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "8d3dfa1f-d751-55a6-92dc-b8cd6ba20884",
+        "445f0860-522a-5e36-aca7-588024f8cfde",
+        "756ff19c-ce44-588a-95f5-e140353ef51e"
+      ],
+      "see_also": [
+        {
+          "title": "Megszólalt a jegybankelnök: ezt gondolja a magyar euróról",
+          "url": "/kozelet/2026-10-10-megszolalt-a-jegybankelnok-ezt-gondolja-a-magyar-eurorol/",
+          "date": "2026-10-10"
+        },
+        {
+          "title": "Így faragná le a Tisza-kormány a költségvetési hiányt",
+          "url": "/penzvilag/2026-10-19-igy-faragna-le-a-tisza-kormany-a-koltsegvetesi-hianyt/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Mennyit érne a fizetésünk euróban?",
+          "url": "/penzvilag/2026-10-13-mennyit-erne-a-fizetesunk-euroban/",
+          "date": "2026-10-13"
+        }
+      ],
+      "thread_id": "8d3dfa1f-d751-55a6-92dc-b8cd6ba20884",
+      "dedupe_hash": "cc053ce67eed47efae7e5e781470d9cfc846e29174c12be78db7a5ed430c2562",
+      "pipeline_run_id": "39962722353",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T15:46:21+02:00",
+      "updated_at": "2026-10-23T15:46:21+02:00",
+      "published_at": "2026-10-23T15:46:21+02:00",
+      "expires_at": null
+    },
     {
       "id": "e2b4d000-6b43-5afa-8202-656c58a86ef7",
       "slug": "2026-10-23-dr-mate-gabor-rendszervaltozas-meg-nem-tortent-magyarorszagon",
@@ -68362,103 +68507,6 @@
         "https://upload.wikimedia.org/wikipedia/commons/f/fe/Singer_Jun17.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://upload.wikimedia.org/wikipedia/commons/f/fe/Toni_Braxton_press_photo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
       ]
-    },
-    {
-      "id": "5d978366-c4dc-5c1f-8527-5aff1880eb24",
-      "slug": "2026-10-01-ez-az-etrend-lassithatja-az-agy-oregedeset",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészség",
-        "táplálkozás",
-        "agy",
-        "kutatás",
-        "életmód"
-      ],
-      "title": "Ez az étrend lassíthatja az agy öregedését",
-      "subtitle": null,
-      "lead": "A mediterrán és a vérnyomáscsökkentő étrend elemeit ötvöző MIND-diéta szoros összefüggést mutat a lassabb agyi öregedéssel és a kisebb szövetvesztéssel. A Journal of Neurology Neurosurgery & Psychiatry szaklapban közölt kutatás szerint a helyes táplálkozás évekkel késleltetheti a szellemi hanyatlást.",
-      "key_points": [
-        "A MIND-diéta szorosabb követése lassabb szürkeállomány-vesztési ütemmel járt együtt.",
-        "A bogyós gyümölcsök és a szárnyasok fogyasztása kifejezetten kedvező hatásúnak bizonyult.",
-        "Az édességek és a sült gyorsételek ezzel szemben nagyobb szövetvesztéssel és zsugorodással mutattak kapcsolatot."
-      ],
-      "content": "A szellemi frissesség megőrzésében kulcsszerepet játszó szürkeállomány és az agykamrák méretváltozását vizsgálták kutatók egy 1647 fős, középkorú és idősebb résztvevőket bevonó vizsgálatban. Az alanyok átlagéletkora 60 év volt a Framingham Heart Study Offspring kohorszból, és a résztvevők rendszeres egészségügyi értékelésen, valamint időközönként agyi MRI-vizsgálaton estek át 1999 és 2019 között. Az étrendi szokásokat legalább egy étrendi kérdőívvel mérték fel az 1991 és 2001 közötti időszakban, miközben a kezdeti mérésekkor egyiküknél sem állapítottak meg stroke-ot vagy demenciát.\n\nAz eredmények alapján a legmagasabb pontszámot elérő, vagyis a MIND-diétát leginkább követő embereknél lassabban csökkent a memóriáért, a tanulásért és a döntéshozatalért felelős szürkeállomány mennyisége. Minden hármas pontszámnövekedés 0,279 köbcentiméterrel lassabb éves szürkeállomány-vesztést eredményezett, ami a szakemberek számítása szerint húszszázalékos csökkenést és 2,5 évnyi késleltetett agyi öregedést jelent. Hasonló folyamat rajzolódott ki a folyadékkal teli agykamrák tágulásánál is, ahol ugyancsak mérsékeltebb növekedést mértek a diétát szigorúbban követők körében.\n\nA MIND jelölésű táplálkozási forma a zöld leveles zöldségeket, egyéb zöldségeket, bogyós gyümölcsöket, olajos magvakat, teljes kiőrlésű gabonákat, halat, hüvelyeseket, olívaolajat és a szárnyasokat helyezi előtérbe, miközben mérsékelt borfogyasztást enged meg. Ezzel szemben határozottan javasolja a vaj, a margarin, a sajt, a vörös húsok, a sütemények, az édességek és a sült gyorsételek visszaszorítását. A kutatás adatai szerint a bogyós gyümölcsök és a szárnyasok fogyasztása összefüggött a kamrák lassabb tágulásával, míg az édességek és a gyorsételek a hippocampus zsugorodásához kapcsolódtak.\n\nA magasabb pontszámot elérő csoport tagjai körében jellemzőbb volt a felsőfokú végzettség, emellett ritkábban dohányoztak, és kevesebbeknél fordult elő elhízás vagy 2-es típusú cukorbetegség, magas vérnyomás, illetve kardiovaszkuláris megbetegedés. A kutatók megállapítása szerint a diétában szereplő, antioxidánsokban gazdag élelmiszerek és a minőségi fehérjék csökkenthetik az oxidatív stresszt, ezáltal mérsékelve az idegsejtek károsodását.",
-      "content_format": "markdown",
-      "body": [
-        "A szellemi frissesség megőrzésében kulcsszerepet játszó szürkeállomány és az agykamrák méretváltozását vizsgálták kutatók egy 1647 fős, középkorú és idősebb résztvevőket bevonó vizsgálatban. Az alanyok átlagéletkora 60 év volt a Framingham Heart Study Offspring kohorszból, és a résztvevők rendszeres egészségügyi értékelésen, valamint időközönként agyi MRI-vizsgálaton estek át 1999 és 2019 között. Az étrendi szokásokat legalább egy étrendi kérdőívvel mérték fel az 1991 és 2001 közötti időszakban, miközben a kezdeti mérésekkor egyiküknél sem állapítottak meg stroke-ot vagy demenciát.",
-        "Az eredmények alapján a legmagasabb pontszámot elérő, vagyis a MIND-diétát leginkább követő embereknél lassabban csökkent a memóriáért, a tanulásért és a döntéshozatalért felelős szürkeállomány mennyisége. Minden hármas pontszámnövekedés 0,279 köbcentiméterrel lassabb éves szürkeállomány-vesztést eredményezett, ami a szakemberek számítása szerint húszszázalékos csökkenést és 2,5 évnyi késleltetett agyi öregedést jelent. Hasonló folyamat rajzolódott ki a folyadékkal teli agykamrák tágulásánál is, ahol ugyancsak mérsékeltebb növekedést mértek a diétát szigorúbban követők körében.",
-        "A MIND jelölésű táplálkozási forma a zöld leveles zöldségeket, egyéb zöldségeket, bogyós gyümölcsöket, olajos magvakat, teljes kiőrlésű gabonákat, halat, hüvelyeseket, olívaolajat és a szárnyasokat helyezi előtérbe, miközben mérsékelt borfogyasztást enged meg. Ezzel szemben határozottan javasolja a vaj, a margarin, a sajt, a vörös húsok, a sütemények, az édességek és a sült gyorsételek visszaszorítását. A kutatás adatai szerint a bogyós gyümölcsök és a szárnyasok fogyasztása összefüggött a kamrák lassabb tágulásával, míg az édességek és a gyorsételek a hippocampus zsugorodásához kapcsolódtak.",
-        "A magasabb pontszámot elérő csoport tagjai körében jellemzőbb volt a felsőfokú végzettség, emellett ritkábban dohányoztak, és kevesebbeknél fordult elő elhízás vagy 2-es típusú cukorbetegség, magas vérnyomás, illetve kardiovaszkuláris megbetegedés. A kutatók megállapítása szerint a diétában szereplő, antioxidánsokban gazdag élelmiszerek és a minőségi fehérjék csökkenthetik az oxidatív stresszt, ezáltal mérsékelve az idegsejtek károsodását."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 321,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/1280px-DIETA_MEDITERRANEA_ITALIA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 832,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "mediterranean diet foods",
-        "credit": "G.steph.rocket / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:DIETA_MEDITERRANEA_ITALIA.JPG"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-          "title": "This diet may slow brain aging by 2.5 years",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-10-01T18:38:45+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-01T18:40:06+02:00"
-      },
-      "hot_score": 5.84,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/09/260930225503.htm"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/eletmod/2026-10-01-ez-az-etrend-lassithatja-az-agy-oregedeset/",
-      "seo": {
-        "meta_title": "Ez az étrend lassíthatja az agy öregedését",
-        "meta_description": "A mediterrán és a vérnyomáscsökkentő étrend elemeit ötvöző MIND-diéta szoros összefüggést mutat a lassabb agyi öregedéssel és a kisebb szövetvesztéssel. A Journ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-01-ez-az-etrend-lassithatja-az-agy-oregedeset/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/DIETA_MEDITERRANEA_ITALIA.JPG/1280px-DIETA_MEDITERRANEA_ITALIA.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "8b35a9f0c318c48b7996a46342587970a8d8ac6e8f952b5662c967d559ea9a34",
-      "pipeline_run_id": "36893141296",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T18:40:06+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-01T18:40:06+02:00",
-      "expires_at": null
     }
   ]
 }
