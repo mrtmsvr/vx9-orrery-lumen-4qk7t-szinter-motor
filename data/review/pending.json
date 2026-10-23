@@ -10865,7 +10865,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 0,
         "sent_at": "2026-10-23T18:06:25+00:00",
         "msg_ids": [
@@ -11089,16 +11089,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T18:08:11+00:00",
-        "msg_ids": [
-          9109,
-          9110,
-          9111,
-          9112,
-          9113,
-          9114,
-          9116
-        ],
-        "control_id": 9115
+        "msg_ids": [],
+        "control_id": 9115,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -11340,18 +11334,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T18:09:05+00:00",
-        "msg_ids": [
-          9117,
-          9118,
-          9119,
-          9120,
-          9121,
-          9122,
-          9123,
-          9124
-        ],
-        "control_id": 9125
-      }
+        "msg_ids": [],
+        "control_id": 9125,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:28 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T20:28:18+02:00"
     },
     {
       "id": "f7a1bfdd-4931-526f-868a-f318b50dc1f1",
@@ -11483,10 +11471,10 @@
           "vision_score": 6.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-a80daa540a.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-a80daa540a.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-4bc90b4b37.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-4bc90b4b37.jpg",
           "kind": "photo",
-          "alt": "117 dollár fölött az olaj, miközben szakadnak a tőzsdék",
+          "alt": "Pánikhangulat az amerikai tőzsdéken a közeledő konfliktus miatt",
           "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
@@ -11542,7 +11530,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 4,
         "image": 0,
         "sent_at": "2026-10-23T18:09:53+00:00",
         "msg_ids": [
@@ -11554,255 +11542,6 @@
           9131
         ],
         "control_id": 9132
-      }
-    },
-    {
-      "id": "38300a98-0e3f-5061-858e-3373de05ef4f",
-      "slug": "2026-10-23-bekemenet-helyett-zaszlomenettel-unnepelt-a-fidesz-oktober-23-an",
-      "status": "pending",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "október 23",
-        "Békemenet",
-        "Fidesz",
-        "Orbán Viktor",
-        "Bem tér"
-      ],
-      "title": "Békemenet helyett zászlómenettel ünnepelt a Fidesz október 23-án",
-      "subtitle": null,
-      "lead": "A megszokott Békemenet helyett szerényebb zászlómenetet tartottak október 23-án Budapesten, ráadásul a rendezvényen a miniszterelnök sem vett részt. A politikusok és a szervezők nyilatkozataiból kiderül, hogyan értékelték a fideszes szimpatizánsok a megváltozott körülményeket.",
-      "key_points": [
-        "Október 23-án a szokásos Békemenet elmaradt, helyette zászlómenetet rendeztek Budapesten.",
-        "Orbán Viktor miniszterelnök nem volt jelen az eseményen, mivel Párizsban tartózkodott.",
-        "A résztvevők létszáma elmaradt a korábbi években megszokottól, amit a politikusok is elismertek.",
-        "A szervezők szerint a Békemenetet akkor tartják majd meg, amikor arra valóban szükség lesz."
-      ],
-      "content": "Szokatlan formában, a korábbi évek tömegmegmozdulásaihoz képest jóval szerényebb keretek között emlékeztek meg október 23-áról a kormánypárti szimpatizánsok a fővárosban. A Békemenet ezúttal elmaradt, a megjelentek helyette egy zászlómeneten vettek részt a Bem téren. A helyszínen gyülekező tömeg létszáma azonban észrevehetően elmaradt a korábbi eseményeken megszokottól.\n\nA rendezvény egyik legfőbb beszédtémája a kormányfő távolléte volt, mivel Orbán Viktor Párizsban tartózkodott az ünnep napján. Ezzel párhuzamosan Tuzson Bence Fidesz-képviselő a helyszínen arról beszélt, hogy az idei megemlékezés inkább csak egy frakcióünnepnek tekinthető.\n\nA Békemenet elmaradásának okairól Bencsik András főszervező is kifejtette álláspontját, hangsúlyozva, hogy a hagyományos menetet csak akkor hívják életre, amikor arra valóban szükség van. A megjelent tüntetők és résztvevők vegyes érzelmekkel reagáltak a fejleményekre: míg némelyek sajnálatukat fejezték ki a kisebb tömeg miatt, többen optimistán bíznak abban, hogy a jövőben újra nagyobb számban gyűlnek majd össze.\n\nAz eseményen Semjén Zsolt is jelen volt, míg Szűcs Gábor és Bóka János felszólaltak az ünnepségen. A videóban több résztvevő és tüntető is megszólal, akik a Fidesz politikáját és a kormány jövőjét vitatják.",
-      "content_format": "markdown",
-      "body": [
-        "Szokatlan formában, a korábbi évek tömegmegmozdulásaihoz képest jóval szerényebb keretek között emlékeztek meg október 23-áról a kormánypárti szimpatizánsok a fővárosban. A Békemenet ezúttal elmaradt, a megjelentek helyette egy zászlómeneten vettek részt a Bem téren. A helyszínen gyülekező tömeg létszáma azonban észrevehetően elmaradt a korábbi eseményeken megszokottól.",
-        "A rendezvény egyik legfőbb beszédtémája a kormányfő távolléte volt, mivel Orbán Viktor Párizsban tartózkodott az ünnep napján. Ezzel párhuzamosan Tuzson Bence Fidesz-képviselő a helyszínen arról beszélt, hogy az idei megemlékezés inkább csak egy frakcióünnepnek tekinthető.",
-        "A Békemenet elmaradásának okairól Bencsik András főszervező is kifejtette álláspontját, hangsúlyozva, hogy a hagyományos menetet csak akkor hívják életre, amikor arra valóban szükség van. A megjelent tüntetők és résztvevők vegyes érzelmekkel reagáltak a fejleményekre: míg némelyek sajnálatukat fejezték ki a kisebb tömeg miatt, többen optimistán bíznak abban, hogy a jövőben újra nagyobb számban gyűlnek majd össze.",
-        "Az eseményen Semjén Zsolt is jelen volt, míg Szűcs Gábor és Bóka János felszólaltak az ünnepségen. A videóban több résztvevő és tüntető is megszólal, akik a Fidesz politikáját és a kormány jövőjét vitatják."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 216,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1601,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban",
-        "credit": "The White House / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg",
-        "exact": true,
-        "entity": "Viktor Orbán",
-        "vision_score": 11.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.youtube.com/watch?v=RDijO9-JApk",
-          "title": "Ezen Orbán sem tudna változtatni",
-          "publisher": "444.hu",
-          "license": null,
-          "accessed_at": "2026-10-23T20:10:14+02:00"
-        }
-      ],
-      "quote": {
-        "text": "nem változtat semmin sem, hogyha itt lenne",
-        "who": "Havasi Bertalan, a Fidesz szóvivője",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 5,
-      "title_options": [
-        "Békemenet helyett zászlómenettel ünnepelt a Fidesz október 23-án",
-        "Nem volt Békemenet október 23-án, de a zászlómenet sem maradt el",
-        "Zászlómenettel ünnepelt a Fidesz, miközben Párizsból üzentek Orbánnak",
-        "Itt a válasz arra, miért nem volt ott Orbán Viktor a zászlómeneten",
-        "Ezt mondta a Békemenet főszervezője a váratlanul elmaradt tömegrendezvényről",
-        "Frakcióünnepé törpült a hagyományos október 23-i megemlékezés"
-      ],
-      "clickbait_from": 3,
-      "image_options": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 1601,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban",
-          "credit": "The White House / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg",
-          "exact": true,
-          "entity": "Viktor Orbán",
-          "vision_score": 11.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1666,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires.",
-          "credit": "Vox España / Wikimedia Commons",
-          "license": "CC0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg",
-          "vision_score": 8.0
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Viktor_Orb%C3%A1n.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "width": 1200,
-          "height": 1171,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Viktor Orban",
-          "credit": "Romiro / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n.png",
-          "vision_score": 8.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg/1280px-Flag_of_Hungary_%281915-1918%2C_1919-1946%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 600,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Flag of Hungary from 6 November 1915 to 29 November 1918 and from August 1919 until mid/late 1946.",
-          "credit": "User:Zscout370, colour correction: User:R-41, current version: Thommy / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary_(1915-1918,_1919-1946).svg",
-          "vision_score": 6.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Flag_of_Hungary_%281918%E2%80%931919%29.svg/1280px-Flag_of_Hungary_%281918%E2%80%931919%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 600,
-          "kind": "graphic",
-          "pos": "center",
-          "alt": "Flag of Hungary from 29 November 1918 to 21 March 1919 and from 2 August to 8 August 1919.",
-          "credit": "Thommy / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Hungary_(1918%E2%80%931919).svg",
-          "vision_score": 6.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-b04c8d8b4c.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-b04c8d8b4c.jpg",
-          "kind": "photo",
-          "alt": "Zászlómenettel ünnepelt a Fidesz, miközben Párizsból üzentek Orbánnak",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
-        }
-      ],
-      "story": [
-        {
-          "title": "Ezen Orbán sem tudna változtatni",
-          "link": "https://www.youtube.com/watch?v=RDijO9-JApk",
-          "summary": "A 2024. október 23-i zászlómenet, a Békemenet elmaradása és Orbán Viktor távolmaradása a Fidesz-támogatók körében.",
-          "source": "444.hu",
-          "related": null,
-          "hot_score": null
-        }
-      ],
-      "category_meta": {
-        "source_links": [
-          "https://www.youtube.com/watch?v=RDijO9-JApk"
-        ]
-      },
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "url": "/kozelet/2026-10-23-bekemenet-helyett-zaszlomenettel-unnepelt-a-fidesz-oktober-23-an/",
-      "seo": {
-        "meta_title": "Békemenet helyett zászlómenettel ünnepelt a Fidesz október 2",
-        "meta_description": "A megszokott Békemenet helyett szerényebb zászlómenetet tartottak október 23-án Budapesten, ráadásul a rendezvényen a miniszterelnök sem vett részt. A politikus",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-bekemenet-helyett-zaszlomenettel-unnepelt-a-fidesz-oktober-23-an/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "c47e7567-a911-524f-88aa-b3d489bd97c6",
-        "02f50abf-1a44-5dd2-9642-fd6c0733434d",
-        "1e4b2c3f-b6c7-5478-8d8d-f0ae0498ad23"
-      ],
-      "see_also": [
-        {
-          "title": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a Fidesz tartalékairól beszélt",
-          "url": "/kozelet/2026-10-18-orban-viktor-a-lakitelki-taborban-fegyveres-lazadasrol-es-a-fidesz-ta/",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Orbán Viktor: Nemzeti rombolás zajlik az elmúlt tizenhat év után",
-          "url": "/kozelet/2026-10-18-orban-viktor-nemzeti-rombolas-zajlik-az-elmult-tizenhat-ev-utan/",
-          "date": "2026-10-18"
-        },
-        {
-          "title": "Orbán mást mond, mint Hankó a támogatásokról",
-          "url": "/kozelet/2026-10-04-orban-mast-mond-mint-hanko-a-tamogatasokrol/",
-          "date": "2026-10-04"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "f5d151b5d645ba2d40723d2f3e77467ffc528ea0d17f954b9bb847fa39fda0bf",
-      "pipeline_run_id": "39996563236",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T20:10:14+02:00",
-      "updated_at": "2026-10-23T20:10:14+02:00",
-      "published_at": "2026-10-23T20:10:14+02:00",
-      "expires_at": null,
-      "hold": true,
-      "video": {
-        "id": "RDijO9-JApk",
-        "title": "Ezen Orbán sem tudna változtatni",
-        "channel": "444.hu",
-        "minutes": 9
-      },
-      "legal": {
-        "level": 0,
-        "issues": [],
-        "auto_fixed": [
-          "Törölve lett a miniszterelnök becsületét és jó hírnevét sértő, valótlan megállapítás a harmadik bekezdésből."
-        ]
-      },
-      "review": {
-        "title": 0,
-        "image": 0,
-        "sent_at": "2026-10-23T18:10:51+00:00",
-        "msg_ids": [
-          9134,
-          9135,
-          9136,
-          9137,
-          9138,
-          9139,
-          9140
-        ],
-        "control_id": 9141
       }
     }
   ]
