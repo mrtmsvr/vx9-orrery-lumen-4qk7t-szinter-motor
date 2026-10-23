@@ -10852,14 +10852,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T13:46:02+00:00",
-        "msg_ids": [
-          9051,
-          9052,
-          9053,
-          9054,
-          9056
-        ],
-        "control_id": 9055
+        "msg_ids": [],
+        "control_id": 9055,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
