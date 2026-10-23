@@ -1,7 +1,154 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T09:50:33+02:00",
+  "updated_at": "2026-10-23T11:17:42+02:00",
   "articles": [
+    {
+      "id": "2de3f565-bd4a-59a3-8247-a228e7781cfb",
+      "slug": "2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "október 23",
+        "Magyar Péter",
+        "1956",
+        "Budapest",
+        "ünnepség"
+      ],
+      "title": "Magyar Péter hangjával hívják az embereket a Kossuth téri ünnepségre",
+      "subtitle": null,
+      "lead": "Automata hívásokkal és Magyar Péter hangjával toborozzák az érdeklődőket a pénteki Kossuth téri állami ünnepségre. A hetvenedik évfordulón negyven külföldi delegáció és számos megemlékezés várja a fővárosba látogatókat.",
+      "key_points": [
+        "Magyar Péter hangjával ellátott automata hívások buzdítják a lakosságot az október 23-i Kossuth téri ünnepségre.",
+        "A Műegyetem rakpartot már október 22-én lezárták, a fővárosban pedig korlátozások léptek életbe a megemlékezések miatt.",
+        "Az Országházban délután tartják a parlamenti díszülést Ursula von der Leyen és külföldi vendégek részvételével.",
+        "A Fidesz a Bem téren emlékezik meg Áder János és Schmidt Mária felszólalásával, míg a Mi Hazánk a Corvin közben tart gyűlést."
+      ],
+      "content": "Magyar Péter hangján szólalnak meg azok az automata hívások, amelyek az 1956-os forradalom hetvenedik évfordulójára invitálják a lakosságot a Kossuth térre. A péntek délutáni ünnepségre családokat is várnak, korábbi nyilatkozatok szerint ugyanis felszabadult, közös ünneplésre készül az ország, hiszen mint fogalmazott, az 1956-os örökség minden magyaré.\n\nA fővárosi programsorozat már csütörtök délután kezdetét vette a Műegyetemnél és a Bem téren, pénteken pedig a Kossuth téren és a pesti alsó rakparton folytatódik. Az Országházban délután két órától tartják a parlamenti díszülést a köztársasági elnök és a külföldi vendégek – köztük Ursula von der Leyen európai bizottsági elnök – részvételével, míg az állami műsor négy órakor kezdődik a Kossuth téren. A nemzetközi vendégek tiszteletére este a Szépművészeti Múzeumban adnak fogadást. A programokhoz kapcsolódóan délelőtt tíz óra harminc perckor emlékoszlopot avatnak az 1956-os forradalom áldozatainak tiszteletére, ezen köszöntőt mond Baranyi Krisztina, Ferencváros polgármestere és Karácsony Gergely főpolgármester, míg este tizenkilenc óra ötvenhat perctől a fővárosi önkormányzat és a Budapesti Művelődési Központ tart jelképes fényfestést Forradalmunk fényénél címmel a Városháza parkban.\n\nAz ellenzéki pártok jelezték, hogy távol maradnak a parlamenti díszüléstől. A Fidesz zászlómenettel emlékezik: péntek délelőtt a Műegyetemtől a Bem térre vonulnak, ahol beszédet mond Áder János volt államfő, Bóka János fideszes frakcióvezető, valamint Schmidt Mária történész, a Terror Háza nemrégiben menesztett főigazgatója. A Mi Hazánk Mozgalom hagyományaihoz híven a Corvin közben tart saját rendezvényt délután három órakor, ahol felszólal Toroczkai László, a párt elnöke, és díszlövés is lesz ágyúval.\n\nEmellett a fővárosi programok miatt már október 22-én lezárták a Műegyetem rakpartot, és a közösségi közlekedésben is jelentős változások nehezítik a haladást a hosszú hétvégén.",
+      "content_format": "markdown",
+      "body": [
+        "Magyar Péter hangján szólalnak meg azok az automata hívások, amelyek az 1956-os forradalom hetvenedik évfordulójára invitálják a lakosságot a Kossuth térre. A péntek délutáni ünnepségre családokat is várnak, korábbi nyilatkozatok szerint ugyanis felszabadult, közös ünneplésre készül az ország, hiszen mint fogalmazott, az 1956-os örökség minden magyaré.",
+        "A fővárosi programsorozat már csütörtök délután kezdetét vette a Műegyetemnél és a Bem téren, pénteken pedig a Kossuth téren és a pesti alsó rakparton folytatódik. Az Országházban délután két órától tartják a parlamenti díszülést a köztársasági elnök és a külföldi vendégek – köztük Ursula von der Leyen európai bizottsági elnök – részvételével, míg az állami műsor négy órakor kezdődik a Kossuth téren. A nemzetközi vendégek tiszteletére este a Szépművészeti Múzeumban adnak fogadást. A programokhoz kapcsolódóan délelőtt tíz óra harminc perckor emlékoszlopot avatnak az 1956-os forradalom áldozatainak tiszteletére, ezen köszöntőt mond Baranyi Krisztina, Ferencváros polgármestere és Karácsony Gergely főpolgármester, míg este tizenkilenc óra ötvenhat perctől a fővárosi önkormányzat és a Budapesti Művelődési Központ tart jelképes fényfestést Forradalmunk fényénél címmel a Városháza parkban.",
+        "Az ellenzéki pártok jelezték, hogy távol maradnak a parlamenti díszüléstől. A Fidesz zászlómenettel emlékezik: péntek délelőtt a Műegyetemtől a Bem térre vonulnak, ahol beszédet mond Áder János volt államfő, Bóka János fideszes frakcióvezető, valamint Schmidt Mária történész, a Terror Háza nemrégiben menesztett főigazgatója. A Mi Hazánk Mozgalom hagyományaihoz híven a Corvin közben tart saját rendezvényt délután három órakor, ahol felszólal Toroczkai László, a párt elnöke, és díszlövés is lesz ágyúval.",
+        "Emellett a fővárosi programok miatt már október 22-én lezárták a Műegyetem rakpartot, és a közösségi közlekedésben is jelentős változások nehezítik a haladást a hosszú hétvégén."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 292,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Magyar Péter 2024. április-án",
+        "credit": "B. Molnár Béla / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/itthon/20261022_magyar-peter-hangjaval-toboroznak-az-oktober-23-i-rendezvenyekre",
+          "title": "Magyar Péter hangjával toboroznak az október 23-i megemlékezésre",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T11:16:23+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/23/1956-70-eve-az-unnepnap-programjai",
+          "title": "1956 70 éve – az ünnepnap programjai",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T11:16:23+02:00"
+        },
+        {
+          "url": "https://24.hu/belfold/2026/10/23/ruszin-szendi-1956-milliard-forint-lesz-jovore-a-honvedseg-koltsegvetese/",
+          "title": "Ruszin-Szendi: 1956 milliárd forint lesz jövőre a honvédség költségvetése",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T11:16:23+02:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/10/23/polt-peter-megszolalt",
+          "title": "Polt Péter megszólalt",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T11:16:23+02:00"
+        }
+      ],
+      "quote": {
+        "text": "1956 öröksége az minden magyar öröksége",
+        "who": "Magyar Péter miniszterelnök",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-23T11:17:42+02:00"
+      },
+      "hot_score": 8.55,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/itthon/20261022_magyar-peter-hangjaval-toboroznak-az-oktober-23-i-rendezvenyekre",
+          "https://infostart.hu/belfold/2026/10/23/1956-70-eve-az-unnepnap-programjai"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre/",
+      "seo": {
+        "meta_title": "Magyar Péter hangjával hívják az embereket a Kossuth téri ün",
+        "meta_description": "Automata hívásokkal és Magyar Péter hangjával toborozzák az érdeklődőket a pénteki Kossuth téri állami ünnepségre. A hetvenedik évfordulón negyven külföldi dele",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "090cb33e-80b6-59a1-8781-174e0cc9eb71",
+        "fce1e42e-a0f1-5184-8764-58712d19f150",
+        "05c6735d-8219-51a3-bb66-4b11b04dcb70"
+      ],
+      "see_also": [
+        {
+          "title": "A Műegyetemtől a Bem térig vonulnak az 1956-os forradalom évfordulóján",
+          "url": "/kozelet/2026-10-22-a-muegyetemtol-a-bem-terig-vonulnak-az-1956-os-forradalom-evforduloja/",
+          "date": "2026-10-22"
+        },
+        {
+          "title": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
+          "url": "/kozelet/2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Teljes menetrend: ez vár ránk október 23-án",
+          "url": "/kozelet/2026-10-20-teljes-menetrend-ez-var-rank-oktober-23-an/",
+          "date": "2026-10-20"
+        }
+      ],
+      "thread_id": "05c6735d-8219-51a3-bb66-4b11b04dcb70",
+      "dedupe_hash": "b4fba3aa6def6cef3be821b488415914ea3724cdaed70fc72b2b609eee173b2d",
+      "pipeline_run_id": "39930316367",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T11:17:42+02:00",
+      "updated_at": "2026-10-23T11:17:42+02:00",
+      "published_at": "2026-10-23T11:17:42+02:00",
+      "expires_at": null
+    },
     {
       "id": "fce1e42e-a0f1-5184-8764-58712d19f150",
       "slug": "2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap",
@@ -68441,110 +68588,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Slave_Tax_Document_New_Orleans_-_03.jpg/1280px-Slave_Tax_Document_New_Orleans_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Building_of_the_former_Ministry_of_Transport_and_Communication._Monument_ID_826_Now_Stamp_Museum_and_the_Tax_Authority_offices_-_Budapest%2C_VII._Dob_St_75-81.%2C_H%C3%A1rsfa_St_47.%2C_Csengery_J%C3%A1nos_St_14-16.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "6b5d437b-1a89-5531-9756-593d69d09b77",
-      "slug": "2026-10-01-nevunkon-szolit-a-szallodai-robot",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "mesterséges intelligencia",
-        "szálloda",
-        "Accor",
-        "turizmus",
-        "tech"
-      ],
-      "title": "Nevünkön szólít a szállodai robot",
-      "subtitle": null,
-      "lead": "Megkezdte működését az ALL Concierge nevű, mesterséges intelligencián alapuló szolgáltatás, amely ötvennyolcszáz szállodában segíti a vendégeket a tervezéstől a tartózkodás utáni támogatásig. A hvg.hu beszámolója szerint a rendszer a világon több ezer, Magyarországon pedig harminchárom hotelt – köztük az Ibis, a Tribe és a Mercure egységeit – üzemeltető Accor lánc fejlesztéseként indul.",
-      "key_points": [
-        "Az Accor elindította az ALL Concierge nevű, mesterséges intelligencián alapuló virtuális asszisztensét 5800 szállodában.",
-        "A rendszer egy tavaly július óta tartó, több mint egymillió vendégbeszélgetést feldolgozó kísérleti szakasz után állt élesbe.",
-        "A szoftver tizenegy nyelven, valamint a WhatsAppon és az iMessage-en keresztül is elérhető a felhasználók számára."
-      ],
-      "content": "## Megújuló szállodai élmény\n\nAz Accor szállodalánc új digitális asszisztense, az ALL Concierge azért jött létre, hogy átfogóan kísérje végig az utazókat a szálláskereséstől kezdve a foglalás kezelésén át egészen a kiköltözés utáni teendőkig. A szoftver a vendégek által megadott nyaralási stílus, hangulat vagy konkrét elvárások alapján valós időben, néhány másodperces válaszidővel javasol személyre szabott szálláshelyeket egyetlen beszélgetés keretében.\n\nA fejlesztést egy tavaly júliusban rajtoló kísérleti szakasz előzte meg, amelynek során több mint egymillió vendégbeszélgetés tapasztalatait elemezték ki a szakemberek. Ezen adatok alapján finomították a rendszert, amely jelenleg tizenegy különböző nyelven működik, ám az év végéig ezt a kört minden nyelvre kiterjesztik. Az alkalmazott technológia ráadásul felismeri a visszatérő vendégeket, így figyelembe veszi korábbi tartózkodásaikat, egyéni preferenciáikat és hűségprofiljukat is.\n\nA technikai háttér integrálva van az ALL Accor mobilalkalmazásba és az ALL.com weboldalra, de a felhasználók a mindennapokban használt üzenetküldő platformokon, így a WhatsAppon és az iMessage-en keresztül is kapcsolatba léphetnek a rendszerrel. A program önállóan kezeli a foglalások visszaigazolását és a leggyakoribb kéréseket, ám a bonyolultabb, speciális esetekben azonnal jelzi a feladatot a hús-vér ügyintézőknek. Magyarországon a lánc harminchárom hotelt – köztük Ibis, Tribe és Mercure márkájú egységeket – üzemeltet, ahol szintén elérhetők a modern digitális megoldások.",
-      "content_format": "markdown",
-      "body": [
-        "## Megújuló szállodai élmény",
-        "Az Accor szállodalánc új digitális asszisztense, az ALL Concierge azért jött létre, hogy átfogóan kísérje végig az utazókat a szálláskereséstől kezdve a foglalás kezelésén át egészen a kiköltözés utáni teendőkig. A szoftver a vendégek által megadott nyaralási stílus, hangulat vagy konkrét elvárások alapján valós időben, néhány másodperces válaszidővel javasol személyre szabott szálláshelyeket egyetlen beszélgetés keretében.",
-        "A fejlesztést egy tavaly júliusban rajtoló kísérleti szakasz előzte meg, amelynek során több mint egymillió vendégbeszélgetés tapasztalatait elemezték ki a szakemberek. Ezen adatok alapján finomították a rendszert, amely jelenleg tizenegy különböző nyelven működik, ám az év végéig ezt a kört minden nyelvre kiterjesztik. Az alkalmazott technológia ráadásul felismeri a visszatérő vendégeket, így figyelembe veszi korábbi tartózkodásaikat, egyéni preferenciáikat és hűségprofiljukat is.",
-        "A technikai háttér integrálva van az ALL Accor mobilalkalmazásba és az ALL.com weboldalra, de a felhasználók a mindennapokban használt üzenetküldő platformokon, így a WhatsAppon és az iMessage-en keresztül is kapcsolatba léphetnek a rendszerrel. A program önállóan kezeli a foglalások visszaigazolását és a leggyakoribb kéréseket, ám a bonyolultabb, speciális esetekben azonnal jelzi a feladatot a hús-vér ügyintézőknek. Magyarországon a lánc harminchárom hotelt – köztük Ibis, Tribe és Mercure márkájú egységeket – üzemeltet, ahol szintén elérhetők a modern digitális megoldások."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 249,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/2408/2466357253_03622550a9_b.jpg",
-        "width": 1024,
-        "height": 683,
-        "kind": "photo",
-        "alt": "Fairmont Hotel Lobby",
-        "credit": "Pargon / flickr",
-        "license": "CC BY 2.0",
-        "source_url": "https://www.flickr.com/photos/24539921@N08/2466357253"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/tudomany/20261001_accor-all-concierge-szallodai-ai",
-          "title": "Fejből tudja a vendég nevét, meg azt is, hogy milyen szobát szeretne – AI indul 5800 hotelben",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-01T14:31:36+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-01T14:42:37+02:00"
-      },
-      "hot_score": 5.88,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/tudomany/20261001_accor-all-concierge-szallodai-ai"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/tech/2026-10-01-nevunkon-szolit-a-szallodai-robot/",
-      "seo": {
-        "meta_title": "Nevünkön szólít a szállodai robot",
-        "meta_description": "Megkezdte működését az ALL Concierge nevű, mesterséges intelligencián alapuló szolgáltatás, amely ötvennyolcszáz szállodában segíti a vendégeket a tervezéstől a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-01-nevunkon-szolit-a-szallodai-robot/",
-        "og_image": "https://live.staticflickr.com/2408/2466357253_03622550a9_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "8aa8ee56-7727-54bc-a46c-cc06dc133c51"
-      ],
-      "see_also": [
-        {
-          "title": "Ingyenes mesterséges intelligencia hét indul az ELTE-n",
-          "url": "/tech/2026-09-29-ingyenes-mesterseges-intelligencia-het-indul-az-elte-n/",
-          "date": "2026-09-29"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "743a085533b6ecfb73f97e62cf2f90f0f456cd383429c2e69d58d8952f75d922",
-      "pipeline_run_id": "36861986596",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T14:42:37+02:00",
-      "updated_at": "2026-10-01T14:42:37+02:00",
-      "published_at": "2026-10-01T14:42:37+02:00",
-      "expires_at": null
     }
   ]
 }
