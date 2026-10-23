@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T09:46:24+02:00",
+  "updated_at": "2026-10-23T09:50:33+02:00",
   "articles": [
     {
       "id": "fce1e42e-a0f1-5184-8764-58712d19f150",
@@ -15,7 +15,7 @@
         "Parlament",
         "Magyar Honvédség"
       ],
-      "title": "Állami ünnepséggel és vadászgépes áthúzással emlékeznek 1956-ra Budapesten",
+      "title": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
       "subtitle": null,
       "lead": "Péntek délelőtt, az 1956-os forradalom hetvenedik évfordulóján felvonták a nemzeti zászlót a Parlament épülete előtt, a Kossuth Lajos téren. Az eseményen a Himnusz hangjaira a honvédség díszegysége működött közre.",
       "key_points": [
@@ -39,18 +39,15 @@
       "word_count": 354,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 888,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5087ab4c28.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-5087ab4c28.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-        "exact": true,
-        "entity": "Hungarian Parliament Building",
-        "vision_score": 13.0
+        "alt": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -90,10 +87,10 @@
       "date_label": "október 23.",
       "url": "/kozelet/2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap/",
       "seo": {
-        "meta_title": "Állami ünnepséggel és vadászgépes áthúzással emlékeznek 1956",
+        "meta_title": "Zászlófelvonással és katonai tiszteletadással indult az októ",
         "meta_description": "Péntek délelőtt, az 1956-os forradalom hetvenedik évfordulóján felvonták a nemzeti zászlót a Parlament épülete előtt, a Kossuth Lajos téren. Az eseményen a Himn",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5087ab4c28.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -111,7 +108,7 @@
       "pipeline_run_id": "39917241850",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T09:46:24+02:00",
-      "updated_at": "2026-10-23T09:46:24+02:00",
+      "updated_at": "2026-10-23T09:50:33+02:00",
       "published_at": "2026-10-23T09:46:24+02:00",
       "expires_at": null,
       "requested": true
