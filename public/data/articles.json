@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T11:22:46+02:00",
+  "updated_at": "2026-10-23T11:22:56+02:00",
   "articles": [
     {
       "id": "8d8e9134-54ba-54f8-8753-7ffdf83d2f41",
@@ -220,7 +220,7 @@
         "Budapest",
         "ünnepség"
       ],
-      "title": "Magyar Péter hangjával hívják az embereket a Kossuth téri ünnepségre",
+      "title": "Automatikus hívásokkal toboroznak az állami ünnepségre Magyar Péter hangján",
       "subtitle": null,
       "lead": "Automata hívásokkal és Magyar Péter hangjával toborozzák az érdeklődőket a pénteki Kossuth téri állami ünnepségre. A hetvenedik évfordulón negyven külföldi delegáció és számos megemlékezés várja a fővárosba látogatókat.",
       "key_points": [
@@ -309,7 +309,7 @@
       "date_label": "október 23.",
       "url": "/kozelet/2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre/",
       "seo": {
-        "meta_title": "Magyar Péter hangjával hívják az embereket a Kossuth téri ün",
+        "meta_title": "Automatikus hívásokkal toboroznak az állami ünnepségre Magya",
         "meta_description": "Automata hívásokkal és Magyar Péter hangjával toborozzák az érdeklődőket a pénteki Kossuth téri állami ünnepségre. A hetvenedik évfordulón negyven külföldi dele",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -350,7 +350,7 @@
       "pipeline_run_id": "39930316367",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T11:17:42+02:00",
-      "updated_at": "2026-10-23T11:17:42+02:00",
+      "updated_at": "2026-10-23T11:22:56+02:00",
       "published_at": "2026-10-23T11:17:42+02:00",
       "expires_at": null
     },
