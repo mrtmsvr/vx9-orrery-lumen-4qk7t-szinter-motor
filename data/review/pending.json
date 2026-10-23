@@ -10740,16 +10740,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T09:20:09+00:00",
-        "msg_ids": [
-          9016,
-          9017,
-          9018,
-          9019,
-          9020,
-          9021,
-          9023
-        ],
-        "control_id": 9022
+        "msg_ids": [],
+        "control_id": 9022,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
