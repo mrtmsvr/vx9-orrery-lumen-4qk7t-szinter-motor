@@ -1,7 +1,122 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T20:04:06+02:00",
+  "updated_at": "2026-10-23T20:08:18+02:00",
   "articles": [
+    {
+      "id": "b797814f-e581-5269-8847-1fbef6058d2e",
+      "slug": "2026-10-23-tizenot-ev-alatt-kitiltjak-a-kozossegi-mediabol-a-gorog-fiatalokat",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Görögország",
+        "közösségi média",
+        "gyermekvédelem",
+        "Európai Unió",
+        "internet"
+      ],
+      "title": "Tizenöt év alatt kitiltják a közösségi médiából a görög fiatalokat",
+      "subtitle": null,
+      "lead": "A görög parlament pénteken elfogadta azt a jogszabályt, amely 2027. január 1-től tiltja a közösségi média használatát a 15 éven aluliak számára. Ezzel Görögország az első olyan uniós tagállam, amely ilyen szigorú korlátozást vezet be a kiskorúak mentális egészségének védelmében.",
+      "key_points": [
+        "2027-től a 15 éven aluliak nem használhatják a közösségi oldalakat Görögországban.",
+        "A platformoknak ellenőrizniük kell az életkort a Kids Wallet nevű kormányzati alkalmazással.",
+        "Az Európai Bizottság szintén szigorító javaslatot terjesztett elő szeptemberben."
+      ],
+      "content": "A görög parlament pénteken megszavazta a jogszabálycsomagot, amelynek értelmében 2027. január 1-jétől a 15 éven aluli fiatalok nem regisztrálhatnak a közösségi média platformjaira, és nem is használhatják azokat. Az ERT News és az MTI tájékoztatása szerint az intézkedéssel Görögország az első olyan uniós tagállam, amely ilyen jellegű korlátozást iktat törvénybe a fiatalok mentális egészségének és biztonságának védelmében.\n\nDimítrisz Papaszterjíu digitális kormányzási miniszter a többórás, heves parlamenti vitában határozottan védelmébe vette a beterjesztett javaslatot. A tárcavezető hangsúlyozta, hogy az intézkedés szükséges, hatékony és arányos, emellett teljes mértékben összhangban áll az uniós joggal.\n\nA jövőben a közösségi médiaplatformoknak kötelezően ellenőrizniük kell a felhasználók életkorát. Ebben a digitális kormányzásért felelős minisztérium által kifejlesztett Kids Wallet nevű mobilalkalmazás nyújt majd segítséget a szülőknek, amely a gyerekek adatait kezelve anélkül ellenőrzi a korhatár betöltését, hogy egyéb személyes adatokat kellene átadni az érintett felületeknek.\n\nNemzetközi szinten is felerősödtek a hasonló kiskorúvédelmi törekvések. Franciaországban tavaly júliusban próbálták meg bevezetni a 15 év alattiak tiltását, ám a francia alkotmánytanács 2026 augusztusában alkotmányellenesnek és aránytalannak ítélte a törvényt azzal az indokkal, hogy az aránytalanul beavatkozna a véleménynyilvánítás és a kommunikáció szabadságába. Emmanuel Macron francia elnök ennek ellenére ragaszkodik a jogszabályhoz, és megbízta Sébastien Lecornu miniszterelnököt, hogy dolgozzon ki egy új, jogilag jobban megalapozott szöveget.\n\nVilágszinten elsőként Ausztráliában tiltották meg a gyerekek közösségi média használatát, ahol a korlátozást a 16 éven aluliakra rótták ki. A javaslat jelenleg az Európai Parlament és a tagállamok előtt van megvitatás alatt, míg Ausztria, Dánia, Spanyolország, Szlovénia, Törökország, az Egyesült Királyság, Kanada, Indonézia szintén hasonló nemzeti szabályozásokon dolgozik, vagy már szigorúbb korhatárokat vezetett be.",
+      "content_format": "markdown",
+      "body": [
+        "A görög parlament pénteken megszavazta a jogszabálycsomagot, amelynek értelmében 2027. január 1-jétől a 15 éven aluli fiatalok nem regisztrálhatnak a közösségi média platformjaira, és nem is használhatják azokat. Az ERT News és az MTI tájékoztatása szerint az intézkedéssel Görögország az első olyan uniós tagállam, amely ilyen jellegű korlátozást iktat törvénybe a fiatalok mentális egészségének és biztonságának védelmében.",
+        "Dimítrisz Papaszterjíu digitális kormányzási miniszter a többórás, heves parlamenti vitában határozottan védelmébe vette a beterjesztett javaslatot. A tárcavezető hangsúlyozta, hogy az intézkedés szükséges, hatékony és arányos, emellett teljes mértékben összhangban áll az uniós joggal.",
+        "A jövőben a közösségi médiaplatformoknak kötelezően ellenőrizniük kell a felhasználók életkorát. Ebben a digitális kormányzásért felelős minisztérium által kifejlesztett Kids Wallet nevű mobilalkalmazás nyújt majd segítséget a szülőknek, amely a gyerekek adatait kezelve anélkül ellenőrzi a korhatár betöltését, hogy egyéb személyes adatokat kellene átadni az érintett felületeknek.",
+        "Nemzetközi szinten is felerősödtek a hasonló kiskorúvédelmi törekvések. Franciaországban tavaly júliusban próbálták meg bevezetni a 15 év alattiak tiltását, ám a francia alkotmánytanács 2026 augusztusában alkotmányellenesnek és aránytalannak ítélte a törvényt azzal az indokkal, hogy az aránytalanul beavatkozna a véleménynyilvánítás és a kommunikáció szabadságába. Emmanuel Macron francia elnök ennek ellenére ragaszkodik a jogszabályhoz, és megbízta Sébastien Lecornu miniszterelnököt, hogy dolgozzon ki egy új, jogilag jobban megalapozott szöveget.",
+        "Világszinten elsőként Ausztráliában tiltották meg a gyerekek közösségi média használatát, ahol a korlátozást a 16 éven aluliakra rótták ki. A javaslat jelenleg az Európai Parlament és a tagállamok előtt van megvitatás alatt, míg Ausztria, Dánia, Spanyolország, Szlovénia, Törökország, az Egyesült Királyság, Kanada, Indonézia szintén hasonló nemzeti szabályozásokon dolgozik, vagy már szigorúbb korhatárokat vezetett be."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 301,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg/1280px-Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The swearing-in ceremony of the new members of the Hellenic Parliament that emerged from the October 4 general elections.",
+        "credit": "ΠΑΣΟΚ / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg",
+        "exact": true,
+        "entity": "Hellenic Parliament",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/kulfold/2026/10/23/gorogorszag-tinik-kozossegi-media-tilalom/",
+          "title": "Görögország megtiltotta a közösségi média használatát a 15 éven aluliak számára",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T20:06:34+02:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/10/23/gorogorszag-kozossegi-media-szabalyozas-tiltas-europai-unio/",
+          "title": "Görögország betiltotta a közösségi média használatát a 15 éven aluliaknak",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-23T20:06:34+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nagyon egyszerű volna, ha egyáltalán nem tennénk semmit és a tökéletes európai jogszabályra várnánk",
+        "who": "Dimítrisz Papaszterjíu digitális kormányzási miniszter",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-23T20:08:18+02:00"
+      },
+      "hot_score": 6.5,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/kulfold/2026/10/23/gorogorszag-tinik-kozossegi-media-tilalom/",
+          "https://index.hu/kulfold/2026/10/23/gorogorszag-kozossegi-media-szabalyozas-tiltas-europai-unio/"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-tizenot-ev-alatt-kitiltjak-a-kozossegi-mediabol-a-gorog-fiatalokat/",
+      "seo": {
+        "meta_title": "Tizenöt év alatt kitiltják a közösségi médiából a görög fiat",
+        "meta_description": "A görög parlament pénteken elfogadta azt a jogszabályt, amely 2027. január 1-től tiltja a közösségi média használatát a 15 éven aluliak számára. Ezzel Görögorsz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-tizenot-ev-alatt-kitiltjak-a-kozossegi-mediabol-a-gorog-fiatalokat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg/1280px-Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "bdca1ac6b5ce5922bee327deb931b83111729896a9837f803a87c7d2787ebcfe",
+      "pipeline_run_id": "39996563236",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-23T20:08:18+02:00",
+      "updated_at": "2026-10-23T20:08:18+02:00",
+      "published_at": "2026-10-23T20:08:18+02:00",
+      "expires_at": null
+    },
     {
       "id": "54ffa6c2-499f-588e-a37f-ede865683243",
       "slug": "2026-10-23-harminc-napra-letartoztattak-matolcsy-gyorgyot-gazdasagi-csalas-gyanu",
@@ -68456,102 +68571,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ministry_of_Foreign_Affairs_of_Russia_Building.jpg/1280px-Ministry_of_Foreign_Affairs_of_Russia_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Dmitry_Peskov_portrait.jpg/1280px-Dmitry_Peskov_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "74e92860-e064-5d6d-a395-9f3217a22bc6",
-      "slug": "2026-10-01-minden-tizenharmadik-fiatal-ereiben-ott-rejlik-a-baj",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészség",
-        "szívbetegség",
-        "kutatás",
-        "orvostudomány"
-      ],
-      "title": "Minden tizenharmadik fiatal ereiben ott rejlik a baj",
-      "subtitle": null,
-      "lead": "A tizennyolc és huszonkilenc év közötti korosztály mintegy hét százalékánál már kimutathatók a rejtett érrendszeri lerakódások, jóllehet ők maguk teljesen egészségesnek tűnnek. Egy nagyszabású nemzetközi vizsgálat szerint az érelmeszesedés jóval korábban kezdődik, mint ahogy azt eddig a szakemberek feltételezték.",
-      "key_points": [
-        "A vizsgálatban részt vevő, tünetmentes felnőttek több mint felénél találtak artériás plakkokat.",
-        "A kutatók tizennyolc és hetven év közötti, összesen 16 808 személyt vizsgáltak meg Dániában és Spanyolországban.",
-        "A program első fázisát a Novo Nordisk Alapítvány huszonhárom millió eurós támogatásával finanszírozták."
-      ],
-      "content": "A szív- és érrendszeri megbetegedések hátterében leggyakrabban álló érelmeszesedés évtizedek alatt, észrevétlenül alakul ki a szervezetben. A folyamat során az artériák falán plakkok halmozódnak fel, ami végül szívrohamhoz, szélütéshez vagy hirtelen halálhoz vezethet. Az elváltozások megléte önmagában még nem jelenti azt, hogy a betegségnél tünetek is jelentkeznek, ám a világon évente csaknem húszmillió ember haláláért felelősek ezek a kórképek. A betegség korai felismerése eddig azért ütközött akadályokba, mert a szakemberek leginkább közvetett kockázati tényezőkre – mint a vérnyomás, a koleszterinszint vagy a dohányzás – támaszkodtak.\n\nA most közölt eredmények a REACT elnevezésű nemzetközi kutatási program első szakaszából származnak, amelynek részleteit a New England Journal of Medicine szaklapban publikálták, és az ESC Congress 2024 elnevezésű rendezvényen is bemutatták. A dániai és spanyolországi központok – köztük a koppenhágai Rigshospitalet és a spanyolországi CNIC – együttműködésében zajló nyolcéves program első fázisában tizennyolc és hetven év közötti önkénteseket vizsgáltak meg. Henning Bundgaard, a Rigshospitalet kardiológia professzora és Borja Ibáñez, a CNIC tudományos igazgatója irányításával a szakemberek fejlett képalkotó eljárásokkal azt vizsgálták, hogy a nyaki, a lábszári és a szívkoszorúerekben hogyan jelennek meg a lerakódások.\n\nA vizsgált 16 808 tünetmentes ember 57,1 százalékánál azonosítottak atheroscleroticus plakkokat. Különösen figyelemre méltó, hogy a tizennyolc és huszonkilenc év közötti korcsoportban tizenháromból egy ember szervezetében már jelen voltak ezek a rejtett elváltozások. A kutatók célja egy olyan precíziós medicina alapú megelőzési modell kialakítása, amelyben a jövőben nem csupán becslésekre hagyatkoznak, hanem közvetlenül a képalkotó vizsgálatok eredményei alapján határozzák meg a szükséges kezeléseket és a rizikófaktorok terápiáját.\n\nA tervezett ütemezés szerint a program első szakasza után, a források biztosításától függően, a második fázis 2027 és 2032 között fut majd. A kutatás eddigi adatai pontosabb képet adnak arról, hogy a különböző korcsoportokban, valamint a nők és a férfiak körében miként alakul a csendes érelmeszesedés előfordulása. A mindennapi gyakorlatban ez azt jelenti, hogy a jövőben a megelőzés már a tünetek megjelenése előtt sokkal pontosabbá válhat az artériák közvetlen feltérképezésének köszönhetően.",
-      "content_format": "markdown",
-      "body": [
-        "A szív- és érrendszeri megbetegedések hátterében leggyakrabban álló érelmeszesedés évtizedek alatt, észrevétlenül alakul ki a szervezetben. A folyamat során az artériák falán plakkok halmozódnak fel, ami végül szívrohamhoz, szélütéshez vagy hirtelen halálhoz vezethet. Az elváltozások megléte önmagában még nem jelenti azt, hogy a betegségnél tünetek is jelentkeznek, ám a világon évente csaknem húszmillió ember haláláért felelősek ezek a kórképek. A betegség korai felismerése eddig azért ütközött akadályokba, mert a szakemberek leginkább közvetett kockázati tényezőkre – mint a vérnyomás, a koleszterinszint vagy a dohányzás – támaszkodtak.",
-        "A most közölt eredmények a REACT elnevezésű nemzetközi kutatási program első szakaszából származnak, amelynek részleteit a New England Journal of Medicine szaklapban publikálták, és az ESC Congress 2024 elnevezésű rendezvényen is bemutatták. A dániai és spanyolországi központok – köztük a koppenhágai Rigshospitalet és a spanyolországi CNIC – együttműködésében zajló nyolcéves program első fázisában tizennyolc és hetven év közötti önkénteseket vizsgáltak meg. Henning Bundgaard, a Rigshospitalet kardiológia professzora és Borja Ibáñez, a CNIC tudományos igazgatója irányításával a szakemberek fejlett képalkotó eljárásokkal azt vizsgálták, hogy a nyaki, a lábszári és a szívkoszorúerekben hogyan jelennek meg a lerakódások.",
-        "A vizsgált 16 808 tünetmentes ember 57,1 százalékánál azonosítottak atheroscleroticus plakkokat. Különösen figyelemre méltó, hogy a tizennyolc és huszonkilenc év közötti korcsoportban tizenháromból egy ember szervezetében már jelen voltak ezek a rejtett elváltozások. A kutatók célja egy olyan precíziós medicina alapú megelőzési modell kialakítása, amelyben a jövőben nem csupán becslésekre hagyatkoznak, hanem közvetlenül a képalkotó vizsgálatok eredményei alapján határozzák meg a szükséges kezeléseket és a rizikófaktorok terápiáját.",
-        "A tervezett ütemezés szerint a program első szakasza után, a források biztosításától függően, a második fázis 2027 és 2032 között fut majd. A kutatás eddigi adatai pontosabb képet adnak arról, hogy a különböző korcsoportokban, valamint a nők és a férfiak körében miként alakul a csendes érelmeszesedés előfordulása. A mindennapi gyakorlatban ez azt jelenti, hogy a jövőben a megelőzés már a tünetek megjelenése előtt sokkal pontosabbá válhat az artériák közvetlen feltérképezésének köszönhetően."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 354,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Infers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg/1280px-Infers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1025,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The man in the image is bent over in pain and clutching his heart,\nshowing the agony of not taking care of our hearts. The blue colour\nrepresents the mood of the topic – cold.\nThe exaggerated heart re",
-        "credit": "James-Alex Matthews, Infers Group / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Infers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053541.htm",
-          "title": "1 in 13 adults under 30 already had hidden artery plaque",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-10-01T22:43:44+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-01T22:45:17+02:00"
-      },
-      "hot_score": 5.74,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/09/260929053541.htm"
-        ]
-      },
-      "date": "2026-10-01",
-      "date_label": "október 1.",
-      "url": "/eletmod/2026-10-01-minden-tizenharmadik-fiatal-ereiben-ott-rejlik-a-baj/",
-      "seo": {
-        "meta_title": "Minden tizenharmadik fiatal ereiben ott rejlik a baj",
-        "meta_description": "A tizennyolc és huszonkilenc év közötti korosztály mintegy hét százalékánál már kimutathatók a rejtett érrendszeri lerakódások, jóllehet ők maguk teljesen egész",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-01-minden-tizenharmadik-fiatal-ereiben-ott-rejlik-a-baj/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Infers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg/1280px-Infers_group_arting_health_2018_street_art_graffiti_cardiovascular_disease_hypertension_funded_by_welcome_5112x4368.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "22beea4eaee56afc829ec7fbb06267aa6673a17046bcfd7bae14cef54c3fa9ae",
-      "pipeline_run_id": "36923287538",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-01T22:45:17+02:00",
-      "updated_at": "2026-10-01T22:45:17+02:00",
-      "published_at": "2026-10-01T22:45:17+02:00",
-      "expires_at": null
     }
   ]
 }
