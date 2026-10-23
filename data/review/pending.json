@@ -10660,9 +10660,9 @@
       "live": true
     },
     {
-      "id": "f5ddbd9d-2ea3-5b96-98cc-a9d43778aa48",
-      "slug": "2026-10-23-zaszlomenettel-potolta-a-bekemenetet-a-fidesz-mikozben-magyar-peter-b",
-      "status": "pending",
+      "id": "09116177-7606-528a-b265-6affc6b17df8",
+      "slug": "2026-10-23-ezt-mondta-bencsik-andras-a-zaszlomeneten-magyar-peterrol",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10672,7 +10672,7 @@
         "Bencsik András",
         "Partizán"
       ],
-      "title": "Zászlómenettel pótolta a Békemenetet a Fidesz, miközben Magyar Péter bukását jósolják",
+      "title": "Ezt mondta Bencsik András a zászlómeneten Magyar Péterről",
       "subtitle": null,
       "lead": "Az 56-os forradalom évfordulóján hagyományos Békemenet helyett Zászlómenetet tartottak Budapesten, ahol a Fideszhez köthető szereplők a Tisza Párt és Magyar Péter jövőjét elemezték. A Partizán videójából az is kiderült, hogyan viszonyul a kormányoldal a jelenlegi politikai kihívásokhoz.",
       "key_points": [
@@ -10693,17 +10693,17 @@
       "word_count": 284,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Akos_Szilagyi_Val_di_Fiemme_2013_qualification_round_%28normal_hill%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bencsik_Andr%C3%A1s.JPG/1280px-Bencsik_Andr%C3%A1s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Akos Szilagyi podczas serii kwalifikacyjnej do konkursu Mistrzostw Świata 2013 na skoczni normalnej",
-        "credit": "Tadeusz Mieczyński / Wikimedia Commons",
+        "height": 1581,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bencsik András magyar újságíró, lapszerkesztő.",
+        "credit": "Derzsi Elekes Andor / Wikimedia Commons",
         "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Akos_Szilagyi_Val_di_Fiemme_2013_qualification_round_(normal_hill).jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bencsik_Andr%C3%A1s.JPG",
         "exact": true,
-        "entity": "Szilágyi Ákos",
+        "entity": "Bencsik András",
         "unverified": true
       },
       "inline_images": [],
@@ -10844,12 +10844,12 @@
       },
       "date": "2026-10-23",
       "date_label": "október 23.",
-      "url": "/kozelet/2026-10-23-zaszlomenettel-potolta-a-bekemenetet-a-fidesz-mikozben-magyar-peter-b/",
+      "url": "/kozelet/2026-10-23-ezt-mondta-bencsik-andras-a-zaszlomeneten-magyar-peterrol/",
       "seo": {
-        "meta_title": "Zászlómenettel pótolta a Békemenetet a Fidesz, miközben Magy",
+        "meta_title": "Ezt mondta Bencsik András a zászlómeneten Magyar Péterről",
         "meta_description": "Az 56-os forradalom évfordulóján hagyományos Békemenet helyett Zászlómenetet tartottak Budapesten, ahol a Fideszhez köthető szereplők a Tisza Párt és Magyar Pét",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-zaszlomenettel-potolta-a-bekemenetet-a-fidesz-mikozben-magyar-peter-b/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Akos_Szilagyi_Val_di_Fiemme_2013_qualification_round_%28normal_hill%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-ezt-mondta-bencsik-andras-a-zaszlomeneten-magyar-peterrol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Bencsik_Andr%C3%A1s.JPG/1280px-Bencsik_Andr%C3%A1s.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10886,9 +10886,9 @@
       "dedupe_hash": "0767e9a95b7664d7b656a624877736403a892e6bdc833c674a9468a9237a5861",
       "pipeline_run_id": "39992492783",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T19:09:23+02:00",
-      "updated_at": "2026-10-23T19:09:23+02:00",
-      "published_at": "2026-10-23T19:09:23+02:00",
+      "created_at": "2026-10-23T19:19:30+02:00",
+      "updated_at": "2026-10-23T19:19:30+02:00",
+      "published_at": "2026-10-23T19:19:30+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -10905,18 +10905,12 @@
         "title": 4,
         "image": 1,
         "sent_at": "2026-10-23T17:13:23+00:00",
-        "msg_ids": [
-          9090,
-          9091,
-          9092,
-          9093,
-          9094,
-          9095,
-          9096,
-          9097
-        ],
-        "control_id": 9098
-      }
+        "msg_ids": [],
+        "control_id": 9098,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
