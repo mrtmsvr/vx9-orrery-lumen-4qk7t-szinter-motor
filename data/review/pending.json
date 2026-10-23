@@ -11616,6 +11616,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d32aaea16d-1792785463-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d32aaea16d-1792785463-0.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter megbékélést követelt, miközben Párizsban fotózták le Orbán Viktort",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d32aaea16d-1792785493-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d32aaea16d-1792785493-1.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter megbékélést követelt, miközben Párizsban fotózták le Orbán Viktort",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 1601,
@@ -11666,17 +11688,6 @@
           "exact": true,
           "entity": "Ursula von der Leyen",
           "vision_score": 5.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-2f14d99d2e.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-2f14d99d2e.jpg",
-          "kind": "photo",
-          "alt": "Bilincs, Párizs és Kossuth téri beszédek: így telt az ünnep Magyar Péterrel és Orbán Viktorral",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -11743,9 +11754,11 @@
           9149,
           9150,
           9151,
-          9152
+          9152,
+          9159,
+          9160
         ],
-        "control_id": 9153
+        "control_id": 9161
       }
     },
     {
