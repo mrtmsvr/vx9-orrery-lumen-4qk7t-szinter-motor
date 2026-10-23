@@ -50469,7 +50469,7 @@
       "lead": "A rendkívül zsíros, szénhidrátszegény ketogén étrend eddig ismeretlen kockázataira figyelmeztetnek kutatók, miután kiderült, hogy a diéta alapkövének számító zsírégetés a gyanú szerint felgyorsíthatja a sejtek osztódását a vékonybélben. Az MIT szakembereinek vizsgálata szerint a táplálkozás gyökeresen eltérő hatást gyakorol a gyomor-bél traktus különböző szakaszaira.",
       "key_points": [
         "A ketogén étrend bizonyos sejtekben a szakértők szerint növelheti a daganatok kialakulásának esélyét a vékonybélben.",
-        "A korábbi kutatások még a vastagbél rákos elváltozásai elleni védelemként mutatták be a diétát.",
+        "A korábbi kutatások még a vastagbélrákos elváltozásai elleni védelemként mutatták be a diétát.",
         "A folyamat mögött a megfigyelések szerint nem a ketontestek, hanem a zsírsavak oxidációja áll, ami fokozza az őssejtek osztódását."
       ],
       "content": "A ketogén diéta az 1920-as években még az epilepszia kezelésére kifejlesztett, napjainkban viszont a gyors súlycsökkenés és a hosszabb élet reményében elterjedt étrendi forma, amely magas zsírtartalommal és szigorúan korlátozott szénhidrátmennyiséggel operál. Mivel a szervezet a glükózhiány miatt a zsírsavak égetésére kényszerül, a folyamat során úgynevezett ketontestek jönnek létre, amelyek korábbi, a Nature című folyóiratban megjelent megfigyelések szerint védőhatást fejtettek ki a vastagbélben a daganatos megbetegedésekkel szemben.\n\nAz MIT Stem Cell Initiative igazgatója, Omer Yilmaz vezetésével azonban új irányt vettek a vizsgálatok, miután a kutatók arra lettek figyelmesek, hogy a vékonybélben teljesen ellentétes folyamatok zajlanak. A genetikai hajlammal rendelkező egereken végzett kísérletek során kiderült, hogy a ketogén étrenden tartott állatok vékonybelében gyakrabban alakultak ki tumorok, mint a kontrollcsoport egyedeinél, és az eredmények még a magas zsírtartalmú, elhízást okozó étrendet követő egerek értékeit is elérték.\n\nA kutatócsoport váratlan eredményre jutott, amikor kiderült, hogy maguk a ketontestek állítólag nem közvetlenül idézik elő a tumornövekedést. A megnövekedett kockázatért a zsírsavak oxidációja felelős, vagyis az a biológiai folyamat, amellyel a bélsejtek energiát nyernek a táplálékzsírból; ez a mechanizmus aktiválja a PPAR nevű fehérjecsaládot, amely az őssejtek gyorsabb osztódását ösztönzi.\n\nA túl aktív őssejtek jelenléte kettős arculatú biológiai jelenség a szervezetben, hiszen sérülések vagy betegségek után ez a fokozott növekedés segíti a bélfal gyorsabb gyógyulását és regenerációját. Ugyanakkor a túlzott sejtosztódás megnöveli annak valószínűségét is, hogy a megújulási folyamat során rosszindulatú elváltozások jöjjenek létre.\n\nA szakértők hangsúlyozzák, hogy a gyomor-bél traktus eltérő szövetei rendkívül sajátosan reagálnak ugyanarra az étrendi hatásra, ezért óvatosan kell kezelni az általánosító következtetéseket. Ami az egyik szervszakaszon kifejezetten előnyös tulajdonságokat mutat, az egy másik szerven belül akár káros folyamatokat is elindíthat.",
@@ -50551,7 +50551,7 @@
       "pipeline_run_id": "37621495052",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
       "created_at": "2026-10-07T14:47:40+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
+      "updated_at": "2026-10-23T08:30:09+00:00",
       "published_at": "2026-10-07T14:47:40+02:00",
       "expires_at": null
     },
