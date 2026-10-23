@@ -10647,16 +10647,10 @@
         "title": 0,
         "image": 1,
         "sent_at": "2026-10-23T18:03:52+00:00",
-        "msg_ids": [
-          9099,
-          9100,
-          9101,
-          9102,
-          9104,
-          9143,
-          9144
-        ],
-        "control_id": 9145
+        "msg_ids": [],
+        "control_id": 9145,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
@@ -11533,16 +11527,12 @@
         "title": 4,
         "image": 0,
         "sent_at": "2026-10-23T18:09:53+00:00",
-        "msg_ids": [
-          9126,
-          9127,
-          9128,
-          9129,
-          9130,
-          9131
-        ],
-        "control_id": 9132
-      }
+        "msg_ids": [],
+        "control_id": 9132,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:48 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T20:48:18+02:00"
     }
   ]
 }
