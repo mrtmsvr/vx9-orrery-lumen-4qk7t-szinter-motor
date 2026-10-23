@@ -10541,21 +10541,10 @@
           "generated": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792778617-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792778617-1.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-ccecd6417c.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-ccecd6417c.jpg",
           "kind": "photo",
-          "alt": "Harminc napra letartóztatták Matolcsy Györgyöt",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-46f1c249b0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-46f1c249b0.jpg",
-          "kind": "photo",
-          "alt": "Harminc napra letartóztatták Matolcsy Györgyöt",
+          "alt": "Harminc napra letartóztatták Matolcsy Györgyöt gazdasági csalás gyanúja miatt",
           "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
@@ -10656,18 +10645,37 @@
       },
       "review": {
         "title": 0,
-        "image": 1,
+        "image": 0,
         "sent_at": "2026-10-23T18:03:52+00:00",
         "msg_ids": [
           9099,
           9100,
           9101,
           9102,
-          9104
+          9104,
+          9143,
+          9144
         ],
-        "control_id": 9103
+        "control_id": 9145
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Gyorgy Matolcsy",
+        "Adam Matolcsy",
+        "Budapest Central District Court",
+        "Hungarian National Bank (MNB)",
+        "Pallas Athene Foundations",
+        "Optima Investment Management Ltd",
+        "gavel and handcuffs",
+        "courtroom interior",
+        "financial documents with seals",
+        "money bag and scales of justice"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792778591-0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-46f1c249b0.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792778617-1.jpg"
+      ]
     },
     {
       "id": "8504389c-78f9-5499-b5ca-470a598cdeb1",
