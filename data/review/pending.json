@@ -10440,7 +10440,7 @@
     {
       "id": "7262f294-2fbb-563b-aa35-7b0ea905d2a4",
       "slug": "2026-10-23-halalos-drontamadas-ert-egy-tankhajot-konstancatol-tizenharom-merfold",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10471,18 +10471,16 @@
       "word_count": 232,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Sea_Nasa_May_25_2004.jpg/1280px-Black_Sea_Nasa_May_25_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg/1280px-USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 857,
         "kind": "photo",
         "pos": "center",
-        "alt": "Black Sea, satellite image, May 2004. – Original image caption from Visible Earth collection of NASA: \n\"Phytoplankton blooms and plumes of sediment form the bright blue swirls that ring the Black Sea",
-        "credit": "Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC / Wikimedia Commons",
+        "alt": "190107-N-AT530-0085 CONSTANTA, ROMANIA (Jan. 7, 2019) – The Whidbey Island-class amphibious dock landing ship USS Fort McHenry (LSD 43) pulls into Constanta, Romania, for a scheduled port visit, Jan.",
+        "credit": "Mass Communication Specialist 3rd Class Chris Roys / Wikimedia Commons",
         "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Black_Sea_Nasa_May_25_2004.jpg",
-        "exact": true,
-        "entity": "Black Sea",
-        "vision_score": 9.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg",
+        "vision_score": 7.0
       },
       "inline_images": [],
       "sources": [
@@ -10659,7 +10657,7 @@
         "meta_title": "Halálos dróntámadás ért egy tankhajót Konstancától tizenháro",
         "meta_description": "Péntek délelőtt dróntalálat ért egy Törökországból Romániába tartó teherhajót a Fekete-tengeren; a támadás következtében egy ember életét vesztette, hárman pedi",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-23-halalos-drontamadas-ert-egy-tankhajot-konstancatol-tizenharom-merfold/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Black_Sea_Nasa_May_25_2004.jpg/1280px-Black_Sea_Nasa_May_25_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg/1280px-USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10676,9 +10674,9 @@
       "dedupe_hash": "496139750a8e1e0137c221869c59845db88ff45ecf26821d5f018ccffc9bad85",
       "pipeline_run_id": "39962722353",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T15:46:11+02:00",
-      "updated_at": "2026-10-23T15:46:11+02:00",
-      "published_at": "2026-10-23T15:46:11+02:00",
+      "created_at": "2026-10-23T16:00:52+02:00",
+      "updated_at": "2026-10-23T16:00:52+02:00",
+      "published_at": "2026-10-23T16:00:52+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10691,18 +10689,12 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-23T13:48:49+00:00",
-        "msg_ids": [
-          9057,
-          9058,
-          9059,
-          9060,
-          9061,
-          9062,
-          9063,
-          9064
-        ],
-        "control_id": 9065
-      }
+        "msg_ids": [],
+        "control_id": 9065,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "07029811-a9b3-5caa-bfef-3661523470ca",
