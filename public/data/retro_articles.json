@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T00:18:10+02:00",
+  "updated_at": "2026-10-24T00:19:01+02:00",
   "articles": [
+    {
+      "id": "87465a88-474f-5ca3-aa9f-ba14f78337a5",
+      "slug": "2026-10-24-ket-uj-egitest-az-uranusz-korul-william-lassell-csillagasz-nagy-felfe",
+      "status": "published",
+      "category": "retro",
+      "subcategory": null,
+      "tags": [
+        "Uránusz",
+        "csillagászat",
+        "William Lassell",
+        "holdak",
+        "Voyager-2"
+      ],
+      "title": "Két új égitest az Uránusz körül: William Lassell csillagász nagy felfedezése",
+      "subtitle": null,
+      "lead": "Az 1851-es év októberében a csillagászat újabb titkokat fedezett fel a Naprendszer külső vidékein. William Lassell brit csillagász ekkor pillantotta meg az Uránusz addig ismeretlen, lenyűgöző égitesteit, az Arielt és az Umbrielt.",
+      "content": "> Az 1851-es októberi napokban William Lassell olyan távoli világok ablakait nyitotta meg, amelyek évszázadokig rejtőztek az emberi szem elől.\n\nA távoli Uránusz bolygó, amely a Naprendszer hetedik bolygója, hosszú ideig rejtőzködött a csillagászok elől, és csak lassan tárta fel kísérőit. Bár a bolygó első két holdját, a Titániát és az Oberont még William Herschel fedezte fel 1787-ben, a kutatás ezt követően évtizedekig nem hozott újabb áttörést a holdak számában.\n\nEz a csend szakadt meg 1851 októberében, amikor William Lassell brit csillagász mikroszkópok és távcsövek segítségével újabb égitesteket azonosított az Uránusz környezetében. Lassell ekkor fedezte fel az Umbriel és az Ariel nevű holdakat, amelyek a bolygó harmadik, illetve negyedik legnagyobb kísérőinek bizonyultak.\n\nA felfedezett égitestek közül az Umbriel az Uránusz harmadik legnagyobb holdja. A felszíne a legsötétebb az összes uránuszi hold közül, és elsősorban becsapódások formálták, bár a kanyonok léte korábbi belső folyamatokra enged következtetni. Az Umbriel főként jégből és tetemes mennyiségű kőből áll, magja és jégköpenye pedig elkülönülhetett egymástól.\n\nA negyedik legnagyobb hold, az Ariel az Uránusz egyenlítői síkjában kering, amely szinte merőleges a bolygó pályasíkjára. Ez a sajátos keringési geometria rendkívüli és erőteljes évszakok váltakozását idézi elő a hold felszínén.\n\nAz elnevezések hátterében is különleges irodalmi utalások állnak. Az Uránusz holdjait híres irodalmi művek szereplőiről nevezték el; így az Umbrielt Alexander Pope 1712-es, A fürdőfürt elrablása című költeményének karaktere után keresztelték el, és maga a név is Lasselltől származik, akárcsak az Ariel elnevezése.\n\nA holdakról szerzett ismereteink a huszadik század második felében hatalmas lépést tettek előre. Az égitestekről való jelenlegi tudásunk nagy része egyetlen űrszondától, a Voyager–2-től származik, mely 1986-ban repült el az Uránusz mellett, és az Ariel felszínének körülbelül 35 százalékát feltérképezte, újabb részleteket fedve fel e távoli világokról.",
+      "content_format": "markdown",
+      "body": [
+        "A távoli Uránusz bolygó, amely a Naprendszer hetedik bolygója, hosszú ideig rejtőzködött a csillagászok elől, és csak lassan tárta fel kísérőit. Bár a bolygó első két holdját, a Titániát és az Oberont még William Herschel fedezte fel 1787-ben, a kutatás ezt követően évtizedekig nem hozott újabb áttörést a holdak számában.",
+        "Ez a csend szakadt meg 1851 októberében, amikor William Lassell brit csillagász mikroszkópok és távcsövek segítségével újabb égitesteket azonosított az Uránusz környezetében. Lassell ekkor fedezte fel az Umbriel és az Ariel nevű holdakat, amelyek a bolygó harmadik, illetve negyedik legnagyobb kísérőinek bizonyultak.",
+        "A felfedezett égitestek közül az Umbriel az Uránusz harmadik legnagyobb holdja. A felszíne a legsötétebb az összes uránuszi hold közül, és elsősorban becsapódások formálták, bár a kanyonok léte korábbi belső folyamatokra enged következtetni. Az Umbriel főként jégből és tetemes mennyiségű kőből áll, magja és jégköpenye pedig elkülönülhetett egymástól.",
+        "A negyedik legnagyobb hold, az Ariel az Uránusz egyenlítői síkjában kering, amely szinte merőleges a bolygó pályasíkjára. Ez a sajátos keringési geometria rendkívüli és erőteljes évszakok váltakozását idézi elő a hold felszínén.",
+        "Az elnevezések hátterében is különleges irodalmi utalások állnak. Az Uránusz holdjait híres irodalmi művek szereplőiről nevezték el; így az Umbrielt Alexander Pope 1712-es, A fürdőfürt elrablása című költeményének karaktere után keresztelték el, és maga a név is Lasselltől származik, akárcsak az Ariel elnevezése.",
+        "A holdakról szerzett ismereteink a huszadik század második felében hatalmas lépést tettek előre. Az égitestekről való jelenlegi tudásunk nagy része egyetlen űrszondától, a Voyager–2-től származik, mely 1986-ban repült el az Uránusz mellett, és az Ariel felszínének körülbelül 35 százalékát feltérképezte, újabb részleteket fedve fel e távoli világokról."
+      ],
+      "pull_quote": "Az 1851-es októberi napokban William Lassell olyan távoli világok ablakait nyitotta meg, amelyek évszázadokig rejtőztek az emberi szem elől.",
+      "reading_time_min": 2,
+      "word_count": 300,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Umbriel",
+          "title": "Umbriel",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ariel_(moon)",
+          "title": "Ariel (moon)",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Umbriel_(hold)",
+          "title": "Umbriel (hold)",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Ariel_(hold)",
+          "title": "Ariel (hold)",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://solarsystem.nasa.gov/moons/uranus-moons/ariel/in-depth/",
+          "title": "NASA",
+          "publisher": "NASA",
+          "license": null,
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Az_Ur%C3%A1nusz_holdjai",
+          "title": "Az Uránusz holdjai",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        },
+        {
+          "url": "https://query.nytimes.com/gst/abstract.html?res=9F05EFDF143AE33BBC4E51DFB4678383659EDE&legacy=true",
+          "title": "The New York Times",
+          "publisher": "The New York Times",
+          "license": null,
+          "accessed_at": "2026-10-24T00:19:01+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "retro-v1",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "category_meta": {
+        "event_year": 1851,
+        "event_date": "10-24",
+        "event_title": "Umbriel and Ariel, the third- and fourth-largest moons of Uranus, were discovered by William Lassell"
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/retro/2026-10-24-ket-uj-egitest-az-uranusz-korul-william-lassell-csillagasz-nagy-felfe/",
+      "seo": {
+        "meta_title": "Két új égitest az Uránusz körül: William Lassell csillagász ",
+        "meta_description": "Az 1851-es év októberében a csillagászat újabb titkokat fedezett fel a Naprendszer külső vidékein. William Lassell brit csillagász ekkor pillantotta meg az Urán",
+        "canonical_url": "https://xn--kollektva-m5a.hu/retro/2026-10-24-ket-uj-egitest-az-uranusz-korul-william-lassell-csillagasz-nagy-felfe/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "d04b87d1c5bae865eff7ae396ae3d3524d4a4a715c6ba4e9b26b5d73fc345731",
+      "pipeline_run_id": "40032498027",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T00:19:01+02:00",
+      "updated_at": "2026-10-24T00:19:01+02:00",
+      "published_at": "2026-10-24T00:19:01+02:00",
+      "expires_at": null
+    },
     {
       "id": "c0f0ba22-ce19-535d-99d2-4c9378904bfb",
       "slug": "2026-10-23-a-nap-amikor-a-bekes-diakok-tuntetese-megvaltoztatta-a-tortenelem-men",
