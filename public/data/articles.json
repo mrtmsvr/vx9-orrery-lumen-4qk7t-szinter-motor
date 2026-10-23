@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-23T08:06:15+02:00",
+  "updated_at": "2026-10-23T08:06:35+02:00",
   "articles": [
     {
       "id": "912f5792-e4c9-55fe-a911-28fc2e04336d",
@@ -195,17 +195,15 @@
       "word_count": 246,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg/1280px-The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1600,
+        "height": 900,
         "kind": "photo",
-        "pos": "top",
-        "alt": "András Kármán, Hungarian Minister of Finance",
-        "credit": "Ferenc Isza / Wikimedia Commons",
+        "pos": "center",
+        "alt": "The produce area inside an Ingles supermarket in Murphy, N.C.",
+        "credit": "Harrison Keely / Wikimedia Commons",
         "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg",
-        "exact": true,
-        "entity": "Kármán András",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_produce_area_inside_an_Ingles_supermarket_in_Murphy,_N.C.jpg",
         "unverified": true
       },
       "inline_images": [],
@@ -252,7 +250,7 @@
         "meta_title": "Marad a 27 százalékos áfa a zöldségeken és gyümölcsökön",
         "meta_description": "A kormány 2027-ben mégsem csökkenti a zöldségek és gyümölcsök jelenleg 27 százalékos áfáját, mivel a költségvetési hiány nem teszi lehetővé az intézkedést. A dö",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg/1280px-The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -278,7 +276,7 @@
       "pipeline_run_id": "39902786295",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T06:59:58+02:00",
-      "updated_at": "2026-10-23T08:06:15+02:00",
+      "updated_at": "2026-10-23T08:06:35+02:00",
       "published_at": "2026-10-23T06:59:58+02:00",
       "expires_at": null
     },
