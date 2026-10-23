@@ -10862,13 +10862,12 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-23T18:06:25+00:00",
-        "msg_ids": [
-          9105,
-          9106,
-          9107
-        ],
-        "control_id": 9108
-      }
+        "msg_ids": [],
+        "control_id": 9108,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:08 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-23T21:08:18+02:00"
     },
     {
       "id": "b797814f-e581-5269-8847-1fbef6058d2e",
