@@ -11335,9 +11335,9 @@
       "live": true
     },
     {
-      "id": "f7a1bfdd-4931-526f-868a-f318b50dc1f1",
-      "slug": "2026-10-23-117-dollar-folott-az-olaj-mikozben-szakadnak-a-tozsdek",
-      "status": "pending",
+      "id": "2adb7165-4f72-5635-bee0-73317ec95570",
+      "slug": "2026-10-23-panikhangulat-az-amerikai-tozsdeken-a-kozeledo-konfliktus-miatt",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11347,7 +11347,7 @@
         "Közel-Kelet",
         "infláció"
       ],
-      "title": "117 dollár fölött az olaj, miközben szakadnak a tőzsdék",
+      "title": "Pánikhangulat az amerikai tőzsdéken a közeledő konfliktus miatt",
       "subtitle": null,
       "lead": "Tavaly december óta nem látott magasságba, hordónként 117 dollár fölé emelkedett az olaj ára pénteken a fokozódó közel-keleti feszültségek miatt. Ezzel párhuzamosan az amerikai tőzsdék is jelentős mínuszba fordultak a befektetői aggodalmak hatására.",
       "key_points": [
@@ -11492,11 +11492,11 @@
       },
       "date": "2026-10-23",
       "date_label": "október 23.",
-      "url": "/penzvilag/2026-10-23-117-dollar-folott-az-olaj-mikozben-szakadnak-a-tozsdek/",
+      "url": "/penzvilag/2026-10-23-panikhangulat-az-amerikai-tozsdeken-a-kozeledo-konfliktus-miatt/",
       "seo": {
-        "meta_title": "117 dollár fölött az olaj, miközben szakadnak a tőzsdék",
+        "meta_title": "Pánikhangulat az amerikai tőzsdéken a közeledő konfliktus mi",
         "meta_description": "Tavaly december óta nem látott magasságba, hordónként 117 dollár fölé emelkedett az olaj ára pénteken a fokozódó közel-keleti feszültségek miatt. Ezzel párhuzam",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-23-117-dollar-folott-az-olaj-mikozben-szakadnak-a-tozsdek/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-23-panikhangulat-az-amerikai-tozsdeken-a-kozeledo-konfliktus-miatt/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_raffinaderij%2C_Rozenburg%2C_Bestanddeelnr_924-8259.jpg/1280px-Gulf_raffinaderij%2C_Rozenburg%2C_Bestanddeelnr_924-8259.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -11514,9 +11514,9 @@
       "dedupe_hash": "89d1b231df86f9708f67be5f5e41b1a4448d5e2b56dbc1414c329a2766e389da",
       "pipeline_run_id": "39996563236",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T20:09:17+02:00",
-      "updated_at": "2026-10-23T20:09:17+02:00",
-      "published_at": "2026-10-23T20:09:17+02:00",
+      "created_at": "2026-10-23T20:48:36+02:00",
+      "updated_at": "2026-10-23T20:48:36+02:00",
+      "published_at": "2026-10-23T20:48:36+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11529,9 +11529,9 @@
         "msg_ids": [],
         "control_id": 9132,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:48 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-23T20:48:18+02:00"
+      "live": true
     }
   ]
 }
