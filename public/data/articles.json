@@ -1714,15 +1714,15 @@
       "word_count": 449,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-ccecd6417c.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-ccecd6417c.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-52bd4f291d.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-52bd4f291d.jpg",
         "kind": "photo",
-        "alt": "Harminc napra letartóztatták Matolcsy Györgyöt gazdasági csalás gyanúja miatt",
-        "credit": "Kollektíva",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "alt": "Térkép: Budapest",
+        "credit": "Térkép: © OpenStreetMap közreműködők",
+        "license": "ODbL",
+        "source_url": "https://www.openstreetmap.org/copyright",
         "generated": true,
-        "cover": true
+        "card": "map"
       },
       "inline_images": [],
       "sources": [
@@ -1819,7 +1819,7 @@
       "pipeline_run_id": "39996563236",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T20:04:06+02:00",
-      "updated_at": "2026-10-23T20:26:19+02:00",
+      "updated_at": "2026-10-24T09:20:11+00:00",
       "published_at": "2026-10-23T20:04:06+02:00",
       "expires_at": null
     },
@@ -3308,15 +3308,15 @@
       "word_count": 354,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5087ab4c28.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-5087ab4c28.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-fd7fdc8b0d.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-fd7fdc8b0d.jpg",
         "kind": "photo",
-        "alt": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
-        "credit": "Kollektíva",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "alt": "Térkép: Kossuth Lajos tér",
+        "credit": "Térkép: © OpenStreetMap közreműködők",
+        "license": "ODbL",
+        "source_url": "https://www.openstreetmap.org/copyright",
         "generated": true,
-        "cover": true
+        "card": "map"
       },
       "inline_images": [],
       "sources": [
@@ -3377,7 +3377,7 @@
       "pipeline_run_id": "39917241850",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-23T09:46:24+02:00",
-      "updated_at": "2026-10-23T11:02:51+00:00",
+      "updated_at": "2026-10-24T09:20:11+00:00",
       "published_at": "2026-10-23T09:46:24+02:00",
       "expires_at": null,
       "requested": true
