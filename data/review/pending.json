@@ -11938,9 +11938,9 @@
       "scheduled_at": "2026-10-24T09:24:45+02:00"
     },
     {
-      "id": "dcb6ed02-eb46-5283-a323-ba78673585b8",
-      "slug": "2026-10-24-gumicsere-iden-elkerulheto-a-szazezer-forintos-sokk",
-      "status": "pending",
+      "id": "88ddd523-8c55-5bb4-9aa3-ed2e4a63edff",
+      "slug": "2026-10-24-nem-dragulnak-a-teli-gumik-de-a-muhelyben-fizetunk",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -11950,7 +11950,7 @@
         "közlekedés",
         "pénzügyek"
       ],
-      "title": "Gumicsere: idén elkerülhető a százezer forintos sokk",
+      "title": "Nem drágulnak a téli gumik, de a műhelyben fizetünk",
       "subtitle": null,
       "lead": "Az autósok az idei téli szezonban a tavalyihoz hasonló árakkal találkozhatnak a gumiabroncsok piacán, így elmarad a korábbi évek drasztikus drágulása. A szakemberek szerint a biztonságos közlekedés érdekében érdemes a hajnali fagyok beállta előtt sort keríteni a cserére.",
       "key_points": [
@@ -11970,17 +11970,17 @@
       "word_count": 285,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Vredestein_Wintrac_Pro.jpg/1280px-Vredestein_Wintrac_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Car_tires.jpg/1280px-Car_tires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1463,
+        "height": 1200,
         "kind": "photo",
         "pos": "top",
-        "alt": "A Vredestein Wintrac Pro tyre. The size is 205/45 R17 88V",
-        "credit": "MatthewGhera / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Vredestein_Wintrac_Pro.jpg",
+        "alt": "Stacked and standing car tiresAt the Tire Store",
+        "credit": "Angie from Sawara, Chiba-ken, Japan / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Car_tires.jpg",
         "exact": true,
-        "entity": "Winter tires",
+        "entity": "car tire",
         "unverified": true
       },
       "inline_images": [],
@@ -12140,12 +12140,12 @@
       },
       "date": "2026-10-24",
       "date_label": "október 24.",
-      "url": "/penzvilag/2026-10-24-gumicsere-iden-elkerulheto-a-szazezer-forintos-sokk/",
+      "url": "/penzvilag/2026-10-24-nem-dragulnak-a-teli-gumik-de-a-muhelyben-fizetunk/",
       "seo": {
-        "meta_title": "Gumicsere: idén elkerülhető a százezer forintos sokk",
+        "meta_title": "Nem drágulnak a téli gumik, de a műhelyben fizetünk",
         "meta_description": "Az autósok az idei téli szezonban a tavalyihoz hasonló árakkal találkozhatnak a gumiabroncsok piacán, így elmarad a korábbi évek drasztikus drágulása. A szakemb",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-gumicsere-iden-elkerulheto-a-szazezer-forintos-sokk/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Vredestein_Wintrac_Pro.jpg/1280px-Vredestein_Wintrac_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-nem-dragulnak-a-teli-gumik-de-a-muhelyben-fizetunk/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Car_tires.jpg/1280px-Car_tires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12162,9 +12162,9 @@
       "dedupe_hash": "e56c9949cce507a8920588e056d5d0c98d2fdb593da55233598b10b1554a6957",
       "pipeline_run_id": "40063683311",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T06:51:17+02:00",
-      "updated_at": "2026-10-24T06:51:17+02:00",
-      "published_at": "2026-10-24T06:51:17+02:00",
+      "created_at": "2026-10-24T09:05:08+02:00",
+      "updated_at": "2026-10-24T09:05:08+02:00",
+      "published_at": "2026-10-24T09:05:08+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12177,7 +12177,7 @@
         "msg_ids": [],
         "control_id": 9230,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 09:04 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "winter tire",
@@ -12201,7 +12201,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fleet_service_car_park_-_geograph.org.uk_-_7363454.jpg/1280px-Fleet_service_car_park_-_geograph.org.uk_-_7363454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://xn--kollektva-m5a.hu/public/img/gen/cover-5a9b5cab12.jpg"
       ],
-      "scheduled_at": "2026-10-24T09:04:45+02:00"
+      "live": true
     },
     {
       "id": "e75b8193-ec70-5ed7-b71e-b3768a04db2b",
