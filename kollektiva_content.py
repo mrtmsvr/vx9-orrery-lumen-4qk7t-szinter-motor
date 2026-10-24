@@ -2625,33 +2625,38 @@ def build_people_pages(public: Path, articles: list, today: date) -> list:
 
 
 def _newsletter_html(source: str = "cikk") -> str:
-    """Hírlevél: kicsi, egysoros doboz a cikk alján + jobb oldali „Hírlevél” fül (mint a bal oldali szavazás-fül),
-    rányomásra becsúszó kis panellel. Feliratkozás: Brevo, /api/subscribe. Feliratkozás után a fül eltűnik."""
-    return f"""<div class="nl" id="nlbox"><p><b>Heti Kollektíva</b> – a hét röviden, vasárnap reggel</p>
-<form class="nlf" novalidate><input type="email" placeholder="e-mail címed" autocomplete="email" aria-label="E-mail cím" required><button type="submit">Feliratkozom</button>
-<input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
-<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label><small role="status"></small></form></div>
-<button type="button" id="nltab" hidden aria-label="Hírlevél">✉<span>HÍRLEVÉL</span></button>
-<div id="nlpan" hidden><button type="button" class="x" aria-label="Bezárás">×</button><p><b>Heti Kollektíva</b><br>A hét legfontosabb hírei, vasárnap reggel, 5 perc.</p>
-<form class="nlf" novalidate><input type="email" placeholder="e-mail címed" autocomplete="email" aria-label="E-mail cím" required><button type="submit">Feliratkozom</button>
-<input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
-<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label><small role="status"></small></form></div>
-<style>.nl{{margin:28px 0;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font-size:14px;color:var(--dusk)}}.nl p{{margin:0 0 8px}}.nl b,#nlpan b{{color:var(--brass)}}
+    """Hírlevél: kicsi doboz CSAK a cikk alján (oldalsó fül nincs – szerkesztői döntés, 10.24.): e-mail VAGY egy kattintás
+    Google-fiókkal (feliratkozás + belépés a mentett cikkekhez). Brevo: /api/subscribe, ill. /api/login newsletter:true."""
+    gbtn = ('<button type="button" class="ggl"><svg width="16" height="16" viewBox="0 0 48 48" aria-hidden="true">'
+            '<path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.6 5.4 2.7 13.3l7.9 6.1C12.5 13.6 17.8 9.5 24 9.5z"/>'
+            '<path fill="#4285F4" d="M46.1 24.6c0-1.6-.1-3.1-.4-4.6H24v9h12.4c-.5 2.9-2.2 5.3-4.6 6.9l7.4 5.7c4.3-4 6.9-9.9 6.9-17z"/>'
+            '<path fill="#FBBC05" d="M10.6 28.6c-.5-1.4-.8-3-.8-4.6s.3-3.2.8-4.6l-7.9-6.1C1 16.6 0 20.2 0 24s1 7.4 2.7 10.7l7.9-6.1z"/>'
+            '<path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.4-5.7c-2.1 1.4-4.8 2.3-8.5 2.3-6.2 0-11.5-4.1-13.4-9.8l-7.9 6.1C6.6 42.6 14.6 48 24 48z"/>'
+            '</svg><span>Feliratkozás Google-fiókkal</span></button>')
+    form = ('<form class="nlf" novalidate><input type="email" placeholder="e-mail címed" autocomplete="email" aria-label="E-mail cím" required>'
+            '<button type="submit">Feliratkozom</button><input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">'
+            '<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label>'
+            + gbtn + '<small role="status"></small></form>')
+    return f"""<div class="nl" id="nlbox"><p><b>Heti Kollektíva</b> – a hét röviden, vasárnap reggel</p>{form}</div>
+<style>.nl{{margin:28px 0;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font-size:14px;color:var(--dusk)}}.nl p{{margin:0 0 8px}}.nl b{{color:var(--brass)}}
 .nlf{{display:flex;flex-wrap:wrap;gap:6px;align-items:center}}.nlf input[type=email]{{flex:1 1 160px;min-width:0;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--night);color:var(--parch);font:14px Manrope,system-ui,sans-serif}}
-.nlf button{{padding:7px 14px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 13px Manrope,system-ui,sans-serif;cursor:pointer}}.nlf label{{flex-basis:100%;font-size:12px;color:var(--dusk)}}.nlf small{{flex-basis:100%;font-size:12px;color:var(--brass)}}.nlf small:empty{{display:none}}
-#nltab{{position:fixed;right:0;top:46%;z-index:55;display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 7px;background:var(--vault);color:var(--brass);border:1px solid var(--brass);border-right:0;border-radius:10px 0 0 10px;cursor:pointer;font:700 15px/1 Manrope,system-ui,sans-serif}}
-#nltab span{{writing-mode:vertical-rl;transform:rotate(180deg);font-size:10px;letter-spacing:.16em}}#nltab[hidden],#nlpan[hidden]{{display:none}}
-#nlpan{{position:fixed;right:10px;top:calc(46% - 60px);z-index:60;width:min(300px,calc(100vw - 20px));padding:14px;background:var(--vault);border:1px solid var(--brass);border-radius:12px;font-size:13px;color:var(--dusk);box-shadow:0 8px 30px rgba(0,0,0,.45)}}#nlpan p{{margin:0 22px 10px 0;line-height:1.5}}
-#nlpan .x{{position:absolute;right:8px;top:4px;background:none;border:0;color:var(--dusk);font-size:20px;cursor:pointer}}</style>
-<script>(function(){{var K='nl_done',tab=document.getElementById('nltab'),pan=document.getElementById('nlpan');
-function done(){{try{{return !!localStorage.getItem(K)}}catch(x){{return false}}}}
-if(!done()){{var sh=false;function chk(){{if(sh)return;if(scrollY>innerHeight*.6){{sh=true;tab.hidden=false}}}}addEventListener('scroll',chk,{{passive:true}});chk()}}
-tab.onclick=function(){{pan.hidden=false;tab.hidden=true}};pan.querySelector('.x').onclick=function(){{pan.hidden=true;tab.hidden=done()}};
-document.querySelectorAll('.nlf').forEach(function(f){{f.onsubmit=function(ev){{ev.preventDefault();var m=f.querySelector('small'),e=f.querySelector('input[type=email]').value.trim();
+.nlf button[type=submit]{{padding:7px 14px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 13px Manrope,system-ui,sans-serif;cursor:pointer}}.nlf label{{flex-basis:100%;font-size:12px;color:var(--dusk)}}.nlf small{{flex-basis:100%;font-size:12px;color:var(--brass)}}.nlf small:empty{{display:none}}
+.nlf .ggl{{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:#1f1f1f;font:600 12px Manrope,system-ui,sans-serif;cursor:pointer}}
+</style>
+<script>(function(){{var K='nl_done';
+function ok(f){{f.innerHTML='<p>Kész, feliratkoztál! Vasárnap jön az első levél.</p>';try{{localStorage.setItem(K,'1')}}catch(x){{}}}}
+function gis(){{return window.google&&google.accounts?Promise.resolve():new Promise(function(a,b){{var x=document.createElement('script');x.src='https://accounts.google.com/gsi/client';x.onload=a;x.onerror=b;document.head.appendChild(x)}})}}
+document.querySelectorAll('.nlf').forEach(function(f){{var m=f.querySelector('small'),c=f.querySelector('input[type=checkbox]');
+f.querySelector('.ggl').onclick=function(){{if(!c.checked){{m.textContent='Pipáld be a hozzájárulást.';return}}m.textContent='';
+gis().then(function(){{google.accounts.oauth2.initTokenClient({{client_id:'{GOOGLE_CLIENT_ID}',scope:'openid email profile',callback:function(rp){{
+if(!rp||!rp.access_token)return;fetch('/api/login',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{access_token:rp.access_token,newsletter:true,source:'{source}'}})}})
+.then(function(r){{return r.json()}}).then(function(j){{if(!j.ok)throw 0;try{{localStorage.setItem('kollektiva_user',JSON.stringify(Object.assign({{}},j.user,{{session:j.session}})))}}catch(x){{}}ok(f)}})
+.catch(function(){{m.textContent='A Google-belépés nem sikerült, próbáld újra.'}})}}}}).requestAccessToken()}}).catch(function(){{m.textContent='A Google-belépés most nem érhető el.'}})}};
+f.onsubmit=function(ev){{ev.preventDefault();var e=f.querySelector('input[type=email]').value.trim();
 if(!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]{{2,}}$/.test(e)){{m.textContent='Adj meg egy érvényes e-mail címet.';return}}
-if(!f.querySelector('input[type=checkbox]').checked){{m.textContent='Pipáld be a hozzájárulást.';return}}
+if(!c.checked){{m.textContent='Pipáld be a hozzájárulást.';return}}
 fetch('/api/subscribe',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{email:e,consent_at:new Date().toISOString(),source:'{source}',website:f.querySelector('input[type=text]').value}})}})
-.then(function(r){{return r.json()}}).then(function(r){{if(r.ok){{f.innerHTML='<p>Kész, feliratkoztál! Vasárnap jön az első levél.</p>';try{{localStorage.setItem(K,'1')}}catch(x){{}}tab.hidden=true}}else m.textContent='Nem sikerült, próbáld újra később.'}})
+.then(function(r){{return r.json()}}).then(function(r){{if(r.ok)ok(f);else m.textContent='Nem sikerült, próbáld újra később.'}})
 .catch(function(){{m.textContent='Nem sikerült, próbáld újra később.'}})}}}})}})();</script>"""
 
 
