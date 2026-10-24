@@ -44,7 +44,7 @@ jobs:
       AUTO_PUBLISH_NEWS: "false"
       AUTO_PUBLISH_MIN: "30"
       REVIEW_SLOTS: "08:00,13:00,19:00"
-      ARTICLES_PER_SLOT: "5"
+      ARTICLES_PER_SLOT: "3"
       MAX_PER_SECTION_RUN: "2"
       # jóváhagyás nélkül kikerülő rovatok (jogi 🔴 esetén ezek is várnak); bulvár naponta max. 1, NASA/űr hetente max. 2
       AUTO_SECTIONS: "kozelet,eletmod,bulvar"
