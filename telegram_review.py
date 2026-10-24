@@ -69,10 +69,16 @@ E = lambda t: html.escape(str(t or ""), quote=False)  # noqa: E731
 # Telegram API
 # ---------------------------------------------------------------------------
 
+_SEND = {"sendMessage", "sendPhoto", "sendMediaGroup", "sendDocument", "sendVideo", "sendAnimation", "sendSticker"}
+
+
 def tg(method: str, payload: dict, timeout: int = 30) -> dict:
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     if not token:
         return {}
+    if method in _SEND:  # minden üzenet NÉMA; rezgés csak a kör-összefoglalónál és valódi hibánál (_ping=True)
+        payload = dict(payload)
+        payload.setdefault("disable_notification", not payload.pop("_ping", False))
     req = urllib.request.Request(f"https://api.telegram.org/bot{token}/{method}",
                                  data=json.dumps(payload).encode(), headers={"Content-Type": "application/json"})
     try:
@@ -380,11 +386,7 @@ def _image_audit(out_dir: Path, tz: ZoneInfo) -> None:
     res = kc.image_audit_step(out_dir, kc.AIClient(kc.Config.from_env()))
     if not res:
         return
-    chat = load_state().get("chat_id")
-    if res.get("covers") and chat:  # régi címes borítók cseréje: rövid jelzés Telegramra (ellenőrzésre)
-        tg("sendMessage", {"chat_id": chat, "text": ("🖼 Borítócsere (címes borító helyett):\n" + "\n".join(
-            f"• {c['title']} → {c['new']}" for c in res["covers"]))[:4000]})
-    if res.get("changes"):
+    if res.get("changes"):  # képcseréről nincs Telegram-üzenet (szerkesztői kérés, 10.24.)
         with LOCK:
             n = kc.apply_hero_changes(out_dir, res["changes"])
         kc.build_static_site(out_dir, tz)
@@ -393,12 +395,7 @@ def _image_audit(out_dir: Path, tz: ZoneInfo) -> None:
     elif res.get("checked") or res.get("finished"):
         _save_to_git("Képellenőrzés")
     if res.get("finished"):
-        chat = load_state().get("chat_id")
-        rep = res.get("replaced") or []
-        if chat:
-            lines = [f"• {r['title']}\n   {r['old']} → {r['new']}" for r in rep[:40]]
-            tg("sendMessage", {"chat_id": chat, "text": (f"🖼 Képellenőrzés kész: {res.get('total', 0)} cikk átnézve, "
-                                                         f"{len(rep)} főkép cserélve.\n\n" + "\n".join(lines))[:4000]})
+        log.info("Képellenőrzés kész: %s cikk, %s csere", res.get("total", 0), len(res.get("replaced") or []))
 
 
 _FLASH_LAST = 0.0
@@ -771,6 +768,7 @@ def _send_photo_file(chat: int, path: str, caption: str) -> dict:
         return {}
     bnd = uuid.uuid4().hex
     body = (f"--{bnd}\r\nContent-Disposition: form-data; name=\"chat_id\"\r\n\r\n{chat}\r\n"
+            f"--{bnd}\r\nContent-Disposition: form-data; name=\"disable_notification\"\r\n\r\ntrue\r\n"
             f"--{bnd}\r\nContent-Disposition: form-data; name=\"caption\"\r\n\r\n{caption}\r\n"
             f"--{bnd}\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"kep.jpg\"\r\n"
             "Content-Type: image/jpeg\r\n\r\n").encode() + open(path, "rb").read() + f"\r\n--{bnd}--\r\n".encode()
@@ -790,7 +788,7 @@ def _send_images(chat: int, imgs: list, note: str = "") -> list:
     if any(im.get("local") for im in imgs):  # generált képek: egyenként, feltöltéssel
         out = []
         for i, im in enumerate(imgs):
-            capt = (f"{i + 1}. kép{note if i == 0 else ''} – {im.get('credit', '')}")[:200]
+            capt = (f"{i + 1}. kép{note if i == 0 else ''} – {'🤖 AI-kép · ' if kc.is_ai_image(im) else ''}{im.get('credit', '')}")[:200]
             r = _send_photo_file(chat, im["local"], capt) if im.get("local") else tg("sendPhoto", {"chat_id": chat, "photo": im["url"], "caption": capt})
             out.append(_mid(r) if r.get("ok") else None)
         return out
@@ -1444,6 +1442,11 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                 # külön szálon írja, hogy közben a többi gombnyomásra is azonnal reagáljon
                 threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, st["chat_id"]), daemon=False).start()
                 continue
+            if parts[0] in ("igok", "igtpl"):  # AI-képes Instagram-poszt: mehet így / sablonháttérrel
+                import instagram
+                res = instagram.approve(parts[1], template=parts[0] == "igtpl")
+                tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": res[:190]})
+                continue
             if parts[0] == "ignow":  # Instagram-poszt azonnal
                 import instagram
                 tg("answerCallbackQuery", {"callback_query_id": q["id"], "text": "Posztolom…"})
@@ -1734,6 +1737,21 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
                 msg = f"⏱ Nem jött döntés {AUTO_PUBLISH_MIN} percen belül, ezért kiraktam."
             else:
                 continue
+            imgs = a.get("image_options") or []
+            rv = a.setdefault("review", {})
+            ii = rv.get("image", 0 if imgs else -1)
+            if 0 <= ii < len(imgs) and kc.is_ai_image(imgs[ii]):
+                alt = next((k for k, im in enumerate(imgs) if not kc.is_ai_image(im)), None)
+                if alt is None:
+                    cov = kc.make_cover({**a, "title": _chosen_title(a)}, a.get("category"))
+                    if cov:
+                        imgs.append(cov)
+                        a["image_options"] = imgs
+                        alt = len(imgs) - 1
+                if alt is not None:
+                    rv["image"] = alt
+                    msg += (f" Az AI-képet ({ii + 1}. kép) nem raktam ki magától, helyette a {alt + 1}. kép ment – ha jó az "
+                            f"AI-kép, nyomj a Kép {ii + 1} gombra.")
             _go_live(out_dir, a, tz, auto=True)
             published += 1
             changed = True
