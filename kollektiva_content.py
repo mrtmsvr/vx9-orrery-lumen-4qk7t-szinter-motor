@@ -1339,10 +1339,28 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
     vagy közéleti/világ/pénzvilág cikkben stockfotó van, ott az új logikával (Wikidata → Commons → stock csak ha ellenőrzött)
     cserél, végső esetben márkás borítóra. Hívásonként n cikk; az állapot a data/review/image_audit.json-ban."""
     st = read_json(AUDIT_FILE, {"active": True, "done": [], "replaced": []})
-    if not st.get("active"):
-        return None
     arts = [a for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", [])
             if a.get("status") == "published" and a.get("category") in SECTIONS]
+    # 1. kör: a régi címes borítók cseréje az okos képpótlóra (előbb fotót keres, ha nincs: szám/térkép/ikon/generált)
+    cdone = set(st.get("cover_done") or [])
+    covers = [a for a in arts if (a.get("hero_image") or {}).get("cover") and a["id"] not in cdone][:2]
+    if covers:
+        changes = {}
+        for a in covers:
+            cdone.add(a["id"])
+            new = (smart_visuals(ai, a, a.get("category"), n=1) or [None])[0]
+            if new and not new.get("cover"):
+                changes[a["id"]] = new
+                st.setdefault("cover_replaced", []).append({"title": a["title"][:90], "new": new.get("card") or "kép"})
+                log.info("Borítócsere: %s → %s", a["title"][:60], new.get("card") or new.get("credit"))
+        st["cover_done"] = sorted(cdone)
+        write_json_atomic(AUDIT_FILE, st)
+        names = {"num": "kulcsszám-kártya", "map": "térkép", "ico": "témaikon"}
+        return {"changes": changes, "checked": len(covers), "finished": False,
+                "covers": [{"title": a["title"][:90], "new": names.get(changes[a["id"]].get("card"), "generált kép")}
+                           for a in covers if a["id"] in changes]}
+    if not st.get("active"):
+        return None
     done = set(st.get("done") or [])
     todo = [a for a in arts if a["id"] not in done][:n]
     if not todo:
@@ -1382,7 +1400,7 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
         cands = news_image_filter(section, vision_rank(ai, a["title"], a.get("lead", ""), cands, min_score=6))
         cands = [c for c in cands if "vision_score" in c]
         # fotó híján generált (szöveg nélküli) illusztráció; a címes borító csak végső tartalék (a cikkoldalon nem jelenik meg)
-        new = localize_image(cands[0]) if cands else ((auto_illustration(ai, a, section) or [None])[0] or make_cover(a, section))
+        new = localize_image(cands[0]) if cands else (smart_visuals(ai, a, section, n=1) or [None])[0]
         if new:
             new = {k: v for k, v in new.items() if k not in ("unverified", "vision_score")}
             changes[a["id"]] = new
@@ -1538,6 +1556,206 @@ def auto_illustration(ai: "AIClient", art: dict, tag: str) -> list:
     if gen:
         log.info("Nincs illő kép – %d generált grafika készült.", len(gen))
     return gen
+
+
+# ---------- Okos képpótló (a címes borító helyett): kulcsszám-kártya / térkép / ikon / generált kép ----------
+VISUAL_SYSTEM = "Képszerkesztő vagy egy magyar hírportálnál. Csak JSON-t adsz vissza."
+MAP_UA = {"User-Agent": "KollektivaBot/1.0 (https://xn--kollektva-m5a.hu; szerkesztoseg@xn--kollektva-m5a.hu)"}
+_LAST_OSM = [0.0]
+
+
+def _brand_canvas(section_id: str):
+    import instagram as ig
+    Image, ImageDraw, ImageFont = ig._pil()
+    W, H, pad = 1200, 675, 70
+    img = Image.new("RGB", (W, H), ig.NAVY)
+    d = ImageDraw.Draw(img)
+    for k in range(0, W + H, 46):
+        d.line([(k, 0), (k - H, H)], fill=(22, 25, 52), width=2)
+    d.rectangle((0, 0, 14, H), fill=ig.BRASS)
+    sec = (SECTIONS.get(section_id) or {}).get("name") or "Kollektíva"
+    d.text((pad, pad), sec.upper(), font=ig._font(ImageFont, 26, serif=False), fill=ig.BRASS)
+    d.rectangle((pad, pad + 42, pad + 80, pad + 46), fill=ig.BRASS)
+    return ig, Image, ImageDraw, ImageFont, img, d, W, H, pad
+
+
+def _brand_logo(ig, Image, img, d, ImageFont, W, H, pad) -> None:
+    import io
+    f_l = ig._font(ImageFont, 30)
+    d.text((pad, H - pad - 30), "Kollektíva", font=f_l, fill=ig.PARCH)
+    d.text((pad + d.textlength("Kollektíva", font=f_l) + 2, H - pad - 30), ".", font=f_l, fill=ig.BRASS)
+    try:
+        logo = Image.open(io.BytesIO(ig.LOGO_PNG)).convert("RGBA")
+        logo = logo.resize((80, int(80 * logo.height / logo.width)))
+        img.paste(logo, (W - pad - 80, H - pad - logo.height + 6), logo)
+    except Exception:  # noqa: BLE001
+        pass
+
+
+def _save_visual(img, kind: str, key: str, alt: str, credit: str, license_: str, source_url: str) -> dict:
+    out_dir = BASE_DIR / "public" / "img" / "gen"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    name = f"{kind}-{hashlib.sha1(key.encode()).hexdigest()[:10]}.jpg"
+    img.save(out_dir / name, "JPEG", quality=88, optimize=True)
+    return {"url": f"{SITE_URL}/public/img/gen/{name}", "local": str(out_dir / name), "kind": "photo", "alt": alt[:200],
+            "credit": credit, "license": license_, "source_url": source_url, "generated": True, "card": kind}
+
+
+def number_card(art: dict, section_id: str, number: str, label: str) -> Optional[dict]:
+    """Kulcsszám-kártya: egy nagy szám (pl. „1 milliárd €”) + rövid magyarázat. Csak a cikkben szereplő számmal."""
+    try:
+        ig, Image, ImageDraw, ImageFont, img, d, W, H, pad = _brand_canvas(section_id)
+        for size in (190, 170, 150, 130, 110, 92, 78):
+            f_n = ig._font(ImageFont, size)
+            if d.textlength(number, font=f_n) <= W - 2 * pad:
+                break
+        y = pad + 95
+        d.text((pad, y), number, font=f_n, fill=ig.BRASS)
+        y += int(size * 1.12) + 18
+        f_lb = ig._font(ImageFont, 46)
+        for i, ln in enumerate(ig._wrap(d, label, f_lb, W - 2 * pad)[:3]):
+            d.text((pad, y + i * 58), ln, font=f_lb, fill=ig.PARCH)
+        _brand_logo(ig, Image, img, d, ImageFont, W, H, pad)
+        return _save_visual(img, "num", number + label + art.get("title", ""), f"{number} – {label}",
+                            "Kollektíva grafika", "saját grafika", f"{SITE_URL}/info/#impresszum")
+    except Exception as e:  # noqa: BLE001
+        log.warning("Számkártya sikertelen: %s", str(e)[:200])
+        return None
+
+
+def _osm_get(url: str, timeout: int) -> bytes:
+    wait = 1.1 - (time.time() - _LAST_OSM[0])  # OSM-szabály: max. 1 kérés/mp, saját User-Agent
+    if wait > 0:
+        time.sleep(wait)
+    _LAST_OSM[0] = time.time()
+    with urllib.request.urlopen(urllib.request.Request(url, headers=MAP_UA), timeout=timeout) as r:
+        return r.read()
+
+
+def map_card(art: dict, section_id: str, place: str, timeout: int = 20) -> Optional[dict]:
+    """Helyszíntérkép (OpenStreetMap, ODbL – a forrás fel van tüntetve): a hír helyszíne jelölővel, márkás színezéssel."""
+    try:
+        import io
+        q = urllib.parse.urlencode({"q": place, "format": "json", "limit": 1, "accept-language": "hu"})
+        res = json.loads(_osm_get(f"https://nominatim.openstreetmap.org/search?{q}", timeout).decode("utf-8"))
+        if not res:
+            return None
+        lat, lon = float(res[0]["lat"]), float(res[0]["lon"])
+        cls = res[0].get("addresstype") or res[0].get("type") or ""
+        z = {"country": 5, "state": 7, "county": 8, "region": 7, "city": 11, "town": 12, "village": 13}.get(cls, 14)
+        n = 2 ** z
+        xf = (lon + 180) / 360 * n
+        yf = (1 - math.asinh(math.tan(math.radians(lat))) / math.pi) / 2 * n
+        ig, Image, ImageDraw, ImageFont, img, d, W, H, pad = _brand_canvas(section_id)
+        x0, y0 = xf * 256 - W / 2, yf * 256 - H / 2
+        base = Image.new("RGB", (W, H), (200, 200, 200))
+        for tx in range(int(x0 // 256), int((x0 + W) // 256) + 1):
+            for ty in range(int(y0 // 256), int((y0 + H) // 256) + 1):
+                if not 0 <= ty < n:
+                    continue
+                tile = Image.open(io.BytesIO(_osm_get(f"https://tile.openstreetmap.org/{z}/{tx % n}/{ty}.png", timeout)))
+                base.paste(tile.convert("RGB"), (int(tx * 256 - x0), int(ty * 256 - y0)))
+        from PIL import ImageOps
+        tint = ImageOps.colorize(ImageOps.grayscale(base), black=ig.NAVY, white=(232, 226, 210))  # márkaszínű térkép
+        img.paste(Image.blend(tint, base, 0.25))
+        d = ImageDraw.Draw(img)
+        cx, cy = W // 2, H // 2
+        d.ellipse((cx - 34, cy - 34, cx + 34, cy + 34), outline=ig.BRASS, width=6)
+        d.ellipse((cx - 11, cy - 11, cx + 11, cy + 11), fill=ig.BRASS)
+        label = place.split(",")[0].strip()
+        f_p = ig._font(ImageFont, 44)
+        tw = d.textlength(label, font=f_p)
+        d.rectangle((pad - 20, pad - 18, pad + tw + 20, pad + 56), fill=ig.NAVY)
+        d.text((pad, pad - 6), label, font=f_p, fill=ig.PARCH)
+        f_a = ig._font(ImageFont, 18, serif=False)
+        att = "© OpenStreetMap közreműködők"
+        d.rectangle((W - d.textlength(att, font=f_a) - 24, H - 34, W, H), fill=ig.NAVY)
+        d.text((W - d.textlength(att, font=f_a) - 12, H - 30), att, font=f_a, fill=ig.PARCH)
+        d.rectangle((0, 0, 14, H), fill=ig.BRASS)
+        return _save_visual(img, "map", f"{place}{z}", f"Térkép: {label}", "Térkép: © OpenStreetMap közreműködők",
+                            "ODbL", "https://www.openstreetmap.org/copyright")
+    except Exception as e:  # noqa: BLE001
+        log.warning("Térkép sikertelen (%s): %s", place, str(e)[:200])
+        return None
+
+
+def icon_card(art: dict, section_id: str, emoji: str, label: str, timeout: int = 20) -> Optional[dict]:
+    """Témaikon (OpenMoji, CC BY-SA 4.0) nagyban a márkás háttéren + 2–5 szavas téma."""
+    try:
+        import io
+        code = "-".join(f"{ord(c):X}" for c in emoji if ord(c) not in (0xFE0F, 0x200D))
+        if not code:
+            return None
+        ig, Image, ImageDraw, ImageFont, img, d, W, H, pad = _brand_canvas(section_id)
+        with urllib.request.urlopen(urllib.request.Request(
+                f"https://cdn.jsdelivr.net/npm/openmoji@15.0.0/color/618x618/{code}.png", headers=MAP_UA),
+                timeout=timeout) as r:
+            ico = Image.open(io.BytesIO(r.read())).convert("RGBA")
+        s = 400
+        ico = ico.resize((s, s))
+        cx = W - pad - s // 2 - 30
+        d.ellipse((cx - s // 2 - 20, H // 2 - s // 2 - 20, cx + s // 2 + 20, H // 2 + s // 2 + 20), fill=(28, 32, 64))
+        img.paste(ico, (cx - s // 2, H // 2 - s // 2), ico)
+        f_lb = ig._font(ImageFont, 56)
+        lines = ig._wrap(d, label, f_lb, W - 2 * pad - s - 60)[:4]
+        y = H // 2 - len(lines) * 35
+        for i, ln in enumerate(lines):
+            d.text((pad, y + i * 70), ln, font=f_lb, fill=ig.PARCH)
+        _brand_logo(ig, Image, img, d, ImageFont, W, H, pad)
+        return _save_visual(img, "ico", code + label + art.get("title", ""), label, "Kollektíva grafika (ikon: OpenMoji)",
+                            "CC BY-SA 4.0", "https://openmoji.org/")
+    except Exception as e:  # noqa: BLE001
+        log.warning("Ikonkártya sikertelen: %s", str(e)[:200])
+        return None
+
+
+def _num_ok(number: str, art: dict) -> bool:
+    """A kártyán csak a cikkben szereplő szám lehet (a számjegyek egyezzenek)."""
+    digits = re.sub(r"\D", "", number)
+    text = re.sub(r"[\s.,]", "", " ".join([art.get("title", ""), art.get("lead", ""), *[str(p) for p in art.get("body") or []]]))
+    return bool(digits) and digits in text
+
+
+def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2) -> list:
+    """A címes borító helyett: az AI kiválasztja a cikkhez legjobban illő képtípust (kulcsszám / térkép / ikon /
+    szöveg nélküli generált kép), és a legjobb 1–2 elkészül. Végső tartalék a címes borító."""
+    try:
+        r = ai.complete_json(VISUAL_SYSTEM, (
+            f"Cikk: {art.get('title', '')}\n{art.get('lead', '')}\n" + " ".join(str(p) for p in (art.get('body') or [])[:3])[:1500]
+            + "\n\nNincs a cikkhez illő fotó. Válaszd ki, milyen saját kép lenne a legerősebb főkép, sorrendben (a legjobb "
+            "elöl): \"number\" = ha egy feltűnő SZÁM a hír lényege (összeg, százalék, darabszám – csak a cikkben szereplő!), "
+            "\"map\" = ha a hír egy konkrét helyszínhez kötődik (település, épület, ország), \"icon\" = egyszerű témaikon, "
+            "\"image\" = szöveg nélküli, szimbolikus generált illusztráció. JSON: {\"order\": [\"...\", \"...\"], "
+            "\"number\": \"rövid szám mértékegységgel, pl. 1 milliárd €\", \"number_label\": \"max. 7 szavas magyarázat\", "
+            "\"place\": \"helyszín pontos neve, ország, pl. Veszprém, Magyarország\", \"emoji\": \"egy emoji\", "
+            "\"icon_label\": \"2–5 szavas téma\"}"), 400, light=True)
+    except (AIError, ValueError, TypeError, KeyError) as e:
+        log.warning("Képtípus-választás kimaradt: %s", e)
+        r = {}
+    order = [str(x).strip().lower() for x in r.get("order") or [] if str(x).strip()]
+    for k in ("image", "icon"):
+        if k not in order:
+            order.append(k)
+    out = []
+    for kind in order:
+        if len(out) >= n:
+            break
+        v = None
+        if kind == "number" and r.get("number") and _num_ok(str(r["number"]), art):
+            v = number_card(art, section_id, str(r["number"])[:24], str(r.get("number_label") or "")[:80])
+        elif kind == "map" and r.get("place"):
+            v = map_card(art, section_id, str(r["place"])[:80], ai.cfg.http_timeout)
+        elif kind == "icon" and r.get("emoji"):
+            v = icon_card(art, section_id, str(r["emoji"])[:8], str(r.get("icon_label") or art.get("title", ""))[:60],
+                          ai.cfg.http_timeout)
+        elif kind == "image":
+            v = (auto_illustration(ai, art, section_id) or [None])[0]
+        if v:
+            out.append(v)
+    if not out:
+        cov = make_cover(art, section_id)
+        out = [cov] if cov else []
+    return out
 
 
 def wiki_onthisday_event(d: date, http_timeout: int) -> Optional[dict]:
@@ -2451,6 +2669,10 @@ FLASH_KW = re.compile(r"meghalt|elhunyt|halálos|halott|robban|lövöldöz|meré
                       r"letartóztat|őrizetbe|rendkívüli|bombariadó|bombafenyeget|evakuál|tűzvész|katasztróf|lezuhan|"
                       r"megtámad|hadüzenet|mozgósít|szükségállapot|kegyelm|kirúgt|menesztett|percről percre|breaking",
                       re.I)
+# bulvár gyorssáv: sztárhír-kulcsszavak (szakítás, baba, esküvő, kórház…) – bulvárnál ez + 2 lap már elég a gyorsjelzéshez
+BULVAR_KW = re.compile(r"szakít|szétmen|válnak|válik|válás|eljegyez|megkérte|babát vár|terhes|megszületett|kisbab|"
+                       r"esküvő|összeházas|kórházba|kórházban|megműtött|kiesett|kiesik|búcsúz|visszavonul|"
+                       r"kiderült|vallomás|beismerte|kirúgták|új szerelm|összejött|megcsalt", re.I)
 FLASH_FILE = BASE_DIR / "data" / "review" / "flash.json"
 FLASH_SECTIONS = ("kozelet", "vilag", "penzvilag", "bulvar")
 
@@ -2492,9 +2714,11 @@ def flash_candidates(timeout: int, used_links: set, recent_kw: list) -> list:
                     if abs((g["published"] - it["published"]).total_seconds()) <= 45 * 60]
             pubs = {g["source"] for g in fast}
             reasons = []
-            if len(pubs) >= int(os.getenv("FLASH_MIN_PUBS", "3")):
+            min_pubs = int(os.getenv("FLASH_MIN_PUBS_BULVAR", "2")) if sid == "bulvar" else int(os.getenv("FLASH_MIN_PUBS", "3"))
+            if len(pubs) >= min_pubs:
                 reasons.append(f"{len(pubs)} lap {45} percen belül")
-            kw = next((m.group(0) for g in group if (m := FLASH_KW.search(g["title"]))), None)
+            kw_re = BULVAR_KW if sid == "bulvar" else FLASH_KW
+            kw = next((m.group(0) for g in group if (m := kw_re.search(g["title"]) or FLASH_KW.search(g["title"]))), None)
             if kw:
                 reasons.append(f"kulcsszó: „{kw.lower()}”")
             tr = trend_match(group, trends)
@@ -2906,7 +3130,9 @@ SECTIONS = {
         "id": "bulvar", "name": "Bulvár", "kicker": "Bulvár",
         "tagline": "Sztárok, show és az internet legfurcsább történetei.",
         "focus": ("sztárok, hírességek, showbiznisz, tévéműsorok, virális és furcsa történetek – könnyed hangon, de "
-                  "ízlésesen: pletykát, feltételezést soha nem állítunk tényként, magánéleti részleteket nem nagyítunk fel"),
+                  "ízlésesen: pletykát, feltételezést soha nem állítunk tényként, magánéleti részleteket nem nagyítunk fel. "
+                  "Cím: a sztár NEVE elöl, és kíváncsiságot keltő kérdés vagy kiderült-forma (pl. „Kiderült, miért szakított "
+                  "X?”, „X kórházba került – mi történt?”), mert az olvasók erre keresnek rá"),
         "feeds": [("https://www.blikk.hu/rss", r"Sztárvilág", None), ("https://24.hu/feed/", r"24\.hu/elet-stilus/", CELEB),
                   ("https://www.borsonline.hu/publicapi/hu/rss/bors/articles", None, None)],
     },
@@ -3820,17 +4046,16 @@ def build_section_article(ai: AIClient, section: dict, d: date, tz: ZoneInfo, st
                                 (generic if isinstance(generic, list) else [generic])[:2], ai.cfg.http_timeout,
                                 avoid_images, limit=IMAGE_OPTIONS)
     image_options = drop_used(image_options, avoid_images)
-    strict = section["id"] == "bulvar"  # celebhírnél csak nagyon illő kép (különben inkább a rovat grafikája)
-    image_options = vision_rank(ai, art["title"], art["lead"], image_options, min_score=7 if strict else 5)
+    strict = section["id"] == "bulvar"  # celebhírnél a szereplő felismerhető fotója kell (Commons/Wikidata is jó)
+    image_options = vision_rank(ai, art["title"], art["lead"], image_options,
+                                min_score=int(os.getenv("BULVAR_MIN_VISION", "6")) if strict else 5)
     if len(image_options) < 2 and not strict:
         image_options += drop_used(more_images(ai, art, (avoid_images or set()) | {im["url"] for im in image_options}),
                                    avoid_images)
     image_options = news_image_filter(section["id"], image_options)
-    if not image_options:  # nincs illő kép -> saját grafika, hogy a cikk ne kép nélkül menjen jóváhagyásra
-        image_options = auto_illustration(ai, art, section["id"])
-    cover = make_cover(art, section["id"])  # mindig van egy hibátlan, márkás választható borító is (utolsóként)
-    if cover:
-        image_options = image_options[:IMAGE_OPTIONS - 1] + [cover]
+    # nincs (elég) illő fotó -> okos képpótló: kulcsszám / térkép / ikon / generált kép (a címes borító csak végső tartalék)
+    extra = smart_visuals(ai, art, section["id"], n=2 if not image_options else 1)
+    image_options = image_options[:IMAGE_OPTIONS - len(extra)] + extra
     image = image_options[0] if image_options else None
     inline_images = find_inline_images(raw, len(art["body"]), ai.cfg.http_timeout,
                                        (avoid_images or set()) | {im["url"] for im in image_options}, ai)
