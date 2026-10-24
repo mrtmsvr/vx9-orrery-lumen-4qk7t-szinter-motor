@@ -11222,19 +11222,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-24T06:17:13+00:00",
-        "msg_ids": [
-          9235,
-          9236,
-          9237,
-          9239,
-          9240,
-          9241,
-          9242,
-          9243,
-          9244,
-          9245
-        ],
-        "control_id": 9246
+        "msg_ids": [],
+        "control_id": 9246,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
