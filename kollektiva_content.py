@@ -1755,9 +1755,8 @@ def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2) -> lis
             v = number_card(art, section_id, str(r["number"])[:24], str(r.get("number_label") or "")[:80])
         elif kind == "map" and r.get("place"):
             v = map_card(art, section_id, str(r["place"])[:80], ai.cfg.http_timeout)
-        elif kind == "icon" and r.get("emoji"):
-            v = icon_card(art, section_id, str(r["emoji"])[:8], str(r.get("icon_label") or art.get("title", ""))[:60],
-                          ai.cfg.http_timeout)
+        elif kind == "icon" and r.get("emoji") and r.get("icon_label"):  # a cím nem kerül a képre (címcsere után is jó)
+            v = icon_card(art, section_id, str(r["emoji"])[:8], str(r["icon_label"])[:60], ai.cfg.http_timeout)
         elif kind == "image":
             v = (auto_illustration(ai, art, section_id) or [None])[0]
         if v:
