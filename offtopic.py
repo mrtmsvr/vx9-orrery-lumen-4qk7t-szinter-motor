@@ -143,6 +143,9 @@ def gather(topic: dict, timeout: int) -> list:
     """Források egy témához: előbb a tudományos tanulmányok (ha van legalább 2, a Wikipédiából csak 1 magyar
     szócikk megy mellé háttérnek), különben a magyar, és ha kevés, az angol szócikkek. ScienceDaily-témánál
     a kiinduló kutatási hír is forrás."""
+    if topic.get("news"):  # keresési válaszcikk: a friss hírek (eredeti lapokkal) + 1 Wikipédia-háttér
+        bg = next((ex for ex in (wiki_extract(t, "hu", timeout, 2500) for t in topic.get("wiki_hu", [])[:1]) if ex), None)
+        return list(topic["news"]) + ([bg] if bg else [])
     papers = ([{"kind": "news", **topic["sd"]}] if topic.get("sd") else []) + science_sources(topic, timeout)
     if len(papers) >= 2:
         bg = next((ex for ex in (wiki_extract(t, "hu", timeout, 2500) for t in topic.get("wiki_hu", [])[:1]) if ex), None)
@@ -168,10 +171,35 @@ def offtopic_prompt(topic: dict, section: dict, sources: list, d: date) -> str:
     src = "\n\n".join(
         (f"[{i + 1}] TANULMÁNY – {s['title']} ({s['journal']}, {s['year']}; {s['cited']} hivatkozás) – összefoglaló:\n{s['text']}"
          if s.get("kind") == "paper" else
+         f"[{i + 1}] HÍR ({s.get('publisher', '')}) – {s['title']}\n{s['text']}"
+         if s.get("kind") == "news" and topic.get("search") else
          f"[{i + 1}] ÚJ KUTATÁSI HÍR ({s.get('publisher', 'ScienceDaily')}) – a cikk kiindulópontja – {s['title']}\n{s['text']}"
          if s.get("kind") == "news" else f"[{i + 1}] Wikipédia ({s['lang']}) – {s['title']}\n{s['text']}")
         for i, s in enumerate(sources))
     sci = any(s.get("kind") == "paper" for s in sources)
+    if topic.get("search"):  # keresési válaszcikk: a válasz az elején (Google kiemelt válasz), utána részletek + GYIK
+        return f"""Rovat: {section['name']}. Dátum: {kc.hu_date(d)}.
+Ezt a kérdést keresik a Google-ben: {topic['topic']}
+Amit a kereső tudni akar: {topic.get('angle', '')}
+
+Háttéranyag (CSAK ebből dolgozz; számot, dátumot, összeget csak innen vegyél; ha valami nem derül ki, írd meg, hogy még
+nem ismert):
+{src}
+
+Írj keresőre optimalizált magyar válaszcikket:
+- "title": a kérdés vagy a válasz a keresett kifejezéssel, max. 10 szó (pl. „Mennyi lesz a minimálbér 2027-ben? Itt a válasz”)
+- "title_options": 2 további változat (a keresett kifejezés mindegyikben benne legyen)
+- "lead": 2 mondat, az ELSŐ mondat maga a válasz (szám, dátum, igen/nem), hogy a Google kiemelhesse
+- "key_points": 4–5 egymondatos pont: a legfontosabb tények (ki, mennyi, mikortól, hogyan)
+- "body": 600–900 szó, 4–6 blokk „## ” alcímmel, az alcímek is kérdések legyenek, ahogy keresik (pl. „## Kinek jár?”,
+  „## Mikor fizetik ki?”, „## Mennyivel több, mint tavaly?”); konkrét számok, példák; az utolsó blokk „## Gyakori
+  kérdések” 3–4 rövid kérdés-válasz párral (felsorolás). Semleges, tájékoztató hang, véleményt ne írj.
+- "tags": 3–5 címke (a keresett kifejezések)
+- "image_query": 1–4 szavas angol keresőkifejezés, "image_query_alt": 2–3 további, "image_generic": 1–2 szavas angol téma
+- "inline_images": üres tömb
+
+Kizárólag ezt a JSON-t add vissza:
+{{"title": "...", "title_options": ["...", "..."], "lead": "...", "key_points": ["..."], "body": ["..."], "tags": ["..."], "image_query": "...", "image_query_alt": ["..."], "image_generic": "...", "inline_images": []}}"""
     sci_rules = ("""
 TUDOMÁNYOS ALAP: a cikk gerincét a fenti tanulmányok adják. Mondd el közérthetően, mit vizsgáltak és mit találtak
 (pl. „egy 2019-es, több tucat kutatást összesítő áttekintés szerint…”, a folyóirat neve megemlíthető). Jelezd, ha
@@ -475,6 +503,65 @@ HOOK_SYSTEM = ("Egy magyar online magazin főszerkesztője vagy. A heti hírekb�
                "ami megmagyarázza a hírek mögötti fogalmat, intézményt, történetet vagy tudományt. Csak JSON-t adsz vissza.")
 
 
+SEARCH_SYSTEM = ("Egy magyar hírportál keresőoptimalizálási szerkesztője vagy. Olyan kérdést választasz, amit az emberek "
+                 "hetekig beírnak a Google-be, és amire egy jól megírt válaszcikk az első helyre kerülhet. Csak JSON-t adsz vissza.")
+
+
+def search_topic(ai: Optional["kc.AIClient"], articles: list, done: list, d: date) -> Optional[dict]:
+    """Keresési válaszcikk (napi 1): a friss hírekből + a Google Trends kereséseiből egy KÉRDÉS, amit hetekig keresnek
+    („Mennyi lesz a minimálbér 2027-ben?”, „Kinek jár a 14. havi nyugdíj?”). Forrás: a kapcsolódó friss cikkeink
+    (az eredeti lapok megjelölésével) + Wikipédia. A hírverseny helyett itt tudunk nyerni a keresőben."""
+    if not ai or not ai.enabled or os.getenv("SEARCH_ARTICLES", "true").lower() not in ("1", "true", "yes"):
+        return None
+    since = (d - timedelta(days=5)).isoformat()
+    recent = [a for a in articles if (a.get("date") or "") >= since and not a.get("offtopic") and a.get("status") == "published"
+              and a.get("category") in ("kozelet", "penzvilag", "vilag", "eletmod", "tech")][:50]
+    if len(recent) < 5:
+        return None
+    try:
+        trends = [f"{t['q']} ({t['traffic']}+)" for t in kc.google_trends(ai.cfg.http_timeout)[:20]]
+    except Exception:  # noqa: BLE001
+        trends = []
+    topics = kc.read_json(TOPICS_FILE, {"topics": []}).get("topics", [])
+    have = "; ".join(t.get("topic", "") for t in topics if t.get("search"))[-2000:]
+    prompt = ("Friss cikkeink (sorszám: cím):\n" + "\n".join(f"{i}: {a['title']}" for i, a in enumerate(recent))
+              + ("\n\nMost felkapott Google-keresések Magyarországon:\n" + ", ".join(trends) if trends else "")
+              + f"\n\nKorábbi válaszcikkeink (NE ismételd): {have}\n\n"
+              "Válassz EGY kérdést, amit sokan beírnak a Google-be, és a válasza legalább hetekig érvényes: pénz (bér, nyugdíj, "
+              "adó, támogatás, árak – kinek jár, mennyi, mikortól), szabályváltozás (mi változik, kit érint), ünnep/szünet/"
+              "menetrend, ismert ember vagy fogalom („ki az a…”, „mi az a…”). Pártpolitikai vélemény NEM. A kérdés úgy legyen "
+              "megfogalmazva, ahogy az emberek a keresőbe írják. Add meg, mely friss cikkeink tartalmazzák a válasz tényeit. "
+              'JSON: {"id": "rovid-kotojeles-azonosito", "section": "kozelet|penzvilag|vilag|eletmod|tech", '
+              '"topic": "a kérdés, ahogy keresik", "angle": "mit akar pontosan tudni a kereső", "articles": [sorszámok], '
+              '"wiki_hu": ["magyar Wikipédia-szócikk, ha van"], "images": ["angol képkereső kifejezés"]}')
+    try:
+        t = ai.complete_json(SEARCH_SYSTEM, prompt, 1200)
+    except (kc.AIError, ValueError, TypeError, KeyError) as e:
+        log.warning("Keresési téma kimaradt: %s", e)
+        return None
+    if not isinstance(t, dict) or not t.get("topic") or t.get("section") not in kc.SECTIONS:
+        return None
+    t["id"] = "q-" + kc.slugify(str(t.get("id") or t["topic"]))[:40]
+    if t["id"] in set(done):
+        return None
+    news = []
+    for i in t.pop("articles", None) or []:
+        try:
+            a = recent[int(i)]
+        except (ValueError, TypeError, IndexError):
+            continue
+        src = next((s for s in a.get("sources") or [] if s.get("url")), None)
+        if src:
+            news.append({"kind": "news", "url": src["url"], "title": src.get("title") or a["title"],
+                         "publisher": src.get("publisher") or "forrás",
+                         "text": (a.get("lead", "") + "\n" + "\n".join(str(p) for p in a.get("body") or []))[:4000]})
+    if not news:
+        return None
+    t.update({"search": True, "news": news[:4], "wiki_en": []})
+    _write_topics(topics + [{k: v for k, v in t.items() if k != "news"}])
+    return t
+
+
 def hook_topic(ai: "kc.AIClient", articles: list, done: list, d: date) -> Optional[dict]:
     """A hét híreihez kötött háttéranyag (pl. euró-bevezetés hírére: „Mi kell az euróhoz?”) – ezt keresik az olvasók."""
     if not ai or not ai.enabled:
@@ -590,10 +677,17 @@ def run(ai: "kc.AIClient", d: date, tz: ZoneInfo, output_dir: Path, dry_run: boo
     done = runs.get("offtopic_done", [])
     slot = "last_offtopic_date"
     if runs.get("last_offtopic_date") == d.isoformat():
-        # a napi időtálló anyag már megvolt → ha van esedékes ünnepi téma, az jön (naponta egy)
-        if runs.get("last_seasonal_date") == d.isoformat():
-            return 0
-        topic, slot = next_seasonal(done, ai, d), "last_seasonal_date"
+        # a napi időtálló anyag már megvolt → keresési válaszcikk (naponta 1), aztán ha van esedékes ünnepi téma, az
+        topic = None
+        if runs.get("last_search_date") != d.isoformat() and now.hour >= 9:
+            topic, slot = search_topic(ai, kc.read_json(output_dir / "articles.json", {"articles": []}).get("articles", []),
+                                       done, d), "last_search_date"
+            if not topic:  # ma nem talált jó kérdést: ne próbálkozzon minden futásnál
+                kc.write_json_atomic(RUNS_FILE, {**kc.read_json(RUNS_FILE, {}), "last_search_date": d.isoformat()})
+        if not topic:
+            if runs.get("last_seasonal_date") == d.isoformat():
+                return 0
+            topic, slot = next_seasonal(done, ai, d), "last_seasonal_date"
         if not topic:
             return 0
     else:
