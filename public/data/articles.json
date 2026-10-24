@@ -399,16 +399,17 @@
       "word_count": 324,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1666,
+        "height": 1599,
         "kind": "photo",
         "pos": "top",
-        "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires.",
-        "credit": "Vox España / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg",
-        "vision_score": 8.0
+        "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra",
+        "credit": "Norbert Banhalmi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Peter-Magyar-portrait-2026.jpg",
+        "exact": true,
+        "entity": "Magyar Péter"
       },
       "inline_images": [],
       "sources": [
@@ -503,7 +504,7 @@
       "pipeline_run_id": "40080454817",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-24T11:23:16+02:00",
-      "updated_at": "2026-10-24T11:25:32+02:00",
+      "updated_at": "2026-10-24T10:45:51+00:00",
       "published_at": "2026-10-24T11:23:16+02:00",
       "expires_at": null
     },
