@@ -2347,8 +2347,16 @@ def _share_html(url: str, title: str, n_src: int = 0) -> str:
 def _tags_html(tags: list) -> str:
     """Kulcsszavak a cikk tetején – kattintásra a keresőben az összes kapcsolódó cikk."""
     tags = [str(x).strip() for x in tags or [] if str(x).strip()][:6]
-    return ('<p class="tags">' + "".join(f'<a href="/?kereses={E(urllib.parse.quote(x))}" rel="nofollow">{E(x)}</a>' for x in tags)
-            + '</p>') if tags else ""
+    pages = _PEOPLE_PAGES
+
+    def link(x: str) -> str:
+        if x in pages:
+            return f'<a href="{E(person_url(x))}">{E(x)}</a>'
+        return f'<a href="/?kereses={E(urllib.parse.quote(x))}" rel="nofollow">{E(x)}</a>'
+    return ('<p class="tags">' + "".join(link(x) for x in tags) + '</p>') if tags else ""
+
+
+_PEOPLE_PAGES: set = set()  # a szereplőoldallal rendelkező címkék (a build_static_site tölti fel)
 
 
 def render_article_page(a: dict, related: Optional[list] = None) -> str:
@@ -2408,6 +2416,7 @@ box.querySelectorAll('button').forEach(function(b){{b.onclick=function(){{fetch(
 fetch('/api/poll?id='+encodeURIComponent(p.id)+'&v='+encodeURIComponent(KV)).then(function(r){{return r.json()}}).then(function(r){{if(!r.ok)return;(r.voted!==null||r.closed)?show(r):ask()}})}}).catch(function(){{}})}})();</script>
 {_share_html(a["seo"]["canonical_url"], a["title"], len(a.get("sources", [])))}
 <div class="srclist" id="srclist" hidden><ul>{sources or "<li>—</li>"}</ul></div>
+{_newsletter_html(a.get("category") or "cikk")}
 {_support_html()}
 {see_also}
 {_related_html(related or [])}"""
@@ -2415,6 +2424,213 @@ fetch('/api/poll?id='+encodeURIComponent(p.id)+'&v='+encodeURIComponent(KV)).the
           if img and img.get("url") else '<meta property="og:type" content="article">\n')
     return _page(f'{a["seo"]["meta_title"] or a["title"]} – {SITE_NAME}', a["seo"]["meta_description"] or a["lead"],
                  a["seo"]["canonical_url"], body, og + _article_jsonld(a), noindex=a["seo"].get("noindex", False))
+
+
+# ---------------------------------------------------------------------------
+# Örökzöld szereplőoldalak (/szereplo/<név>/): életkor, rövid életrajz (Wikipédia), fotó (Commons), összes cikkünk
+# ---------------------------------------------------------------------------
+PEOPLE_FILE = BASE_DIR / "data" / "review" / "people.json"
+PEOPLE_MIN_ARTICLES = int(os.getenv("PEOPLE_MIN_ARTICLES", "2"))
+_PERSON_TAG = re.compile(r"^[A-ZÁÉÍÓÖŐÚÜŰ][\w'.-]+(?: [A-ZÁÉÍÓÖŐÚÜŰ][\w'.-]+){1,3}$")
+_HU_MONTHS = ["január", "február", "március", "április", "május", "június", "július", "augusztus", "szeptember",
+              "október", "november", "december"]
+
+
+def _wd_time(claims: dict, prop: str) -> str:
+    for c in claims.get(prop) or []:
+        v = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value") or {}
+        t = str(v.get("time") or "")
+        if re.match(r"^\+\d{4}-\d\d-\d\d", t) and int(v.get("precision") or 0) >= 11:
+            return t[1:11]
+    return ""
+
+
+def _resolve_person(tag: str, timeout: int) -> Optional[dict]:
+    """Wikidata: csak ha a címke egy EMBER (P31 = Q5) pontos nevére illik. Életrajz a magyar (vagy angol) Wikipédiából."""
+    qid = _wd_entity(tag, timeout)
+    if not qid:
+        return None
+    data = http_get_json(f"https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids={qid}"
+                         "&props=claims|sitelinks|descriptions|labels&languages=hu|en", timeout) or {}
+    ent = (data.get("entities") or {}).get(qid) or {}
+    claims = ent.get("claims") or {}
+    human = any(((c.get("mainsnak") or {}).get("datavalue") or {}).get("value", {}).get("id") == "Q5"
+                for c in claims.get("P31") or [])
+    if not human:
+        return None
+    desc = ((ent.get("descriptions") or {}).get("hu") or {}).get("value") or ""
+    p = {"qid": qid, "name": tag, "birth": _wd_time(claims, "P569"), "death": _wd_time(claims, "P570"), "desc": desc}
+    for lang in ("hu", "en"):
+        title = ((ent.get("sitelinks") or {}).get(f"{lang}wiki") or {}).get("title")
+        if not title:
+            continue
+        s = http_get_json(f"https://{lang}.wikipedia.org/api/rest_v1/page/summary/{urllib.parse.quote(title.replace(' ', '_'))}",
+                          timeout) or {}
+        if s.get("extract") and lang == "hu":
+            p.update({"bio": s["extract"][:1200], "wiki_url": f"https://hu.wikipedia.org/wiki/{urllib.parse.quote(title.replace(' ', '_'))}"})
+        if not p.get("desc") and s.get("description"):
+            p["desc"] = s["description"][:160]
+        if p.get("bio"):
+            break
+    for c in claims.get("P18") or []:
+        fname = ((c.get("mainsnak") or {}).get("datavalue") or {}).get("value")
+        if isinstance(fname, str):
+            img = _commons_file(fname, timeout)
+            if img:
+                p["image"] = img
+                break
+    return p
+
+
+def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
+    """Új, legalább PEOPLE_MIN_ARTICLES cikkben szereplő név-címkék feloldása (hívásonként n). Visszaad: új szereplők száma."""
+    st = read_json(PEOPLE_FILE, {"tags": {}})
+    known = st.setdefault("tags", {})
+    cnt: dict = {}
+    for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", []):
+        if a.get("status") == "published":
+            for t in {str(x).strip() for x in a.get("tags") or []}:
+                if _PERSON_TAG.match(t):
+                    cnt[t] = cnt.get(t, 0) + 1
+    todo = [t for t, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= PEOPLE_MIN_ARTICLES and t not in known][:n]
+    added = 0
+    for t in todo:
+        try:
+            p = _resolve_person(t, timeout)
+        except Exception as e:  # noqa: BLE001
+            log.warning("Szereplő-feloldás kimaradt (%s): %s", t, str(e)[:160])
+            continue
+        known[t] = p or {"none": True}
+        added += bool(p)
+    if todo:
+        write_json_atomic(PEOPLE_FILE, st)
+    return added
+
+
+def _hu_date(iso: str) -> str:
+    try:
+        y, m, d = (int(x) for x in iso.split("-"))
+        return f"{y}. {_HU_MONTHS[m - 1]} {d}."
+    except (ValueError, IndexError):
+        return ""
+
+
+def _age(birth: str, death: str = "", today: Optional[date] = None) -> Optional[int]:
+    try:
+        b = date.fromisoformat(birth)
+        e = date.fromisoformat(death) if death else (today or date.today())
+    except ValueError:
+        return None
+    return e.year - b.year - ((e.month, e.day) < (b.month, b.day))
+
+
+def people_index(articles: list) -> dict:
+    """{címke: (szereplő-adat, [cikkek])} – csak a feloldott, legalább PEOPLE_MIN_ARTICLES cikkes szereplők."""
+    known = read_json(PEOPLE_FILE, {"tags": {}}).get("tags", {})
+    out = {}
+    for tag, p in known.items():
+        if not p or p.get("none"):
+            continue
+        arts = [a for a in articles if tag in (a.get("tags") or [])]
+        if len(arts) >= PEOPLE_MIN_ARTICLES:
+            out[tag] = (p, arts)
+    return out
+
+
+def person_url(tag: str) -> str:
+    return f"/szereplo/{slugify(tag)}/"
+
+
+def render_person_page(p: dict, arts: list, today: date) -> str:
+    name = p["name"]
+    age = _age(p.get("birth") or "", p.get("death") or "", today)
+    facts = []
+    if p.get("birth"):
+        facts.append(f"<li><b>Született:</b> {E(_hu_date(p['birth']))}"
+                     + (f" ({age} éves)" if age is not None and not p.get("death") else "") + "</li>")
+    if p.get("death"):
+        facts.append(f"<li><b>Elhunyt:</b> {E(_hu_date(p['death']))}" + (f" ({age} évesen)" if age is not None else "") + "</li>")
+    if p.get("desc"):
+        facts.append(f"<li><b>Ki ő?</b> {E(p['desc'])}</li>")
+    facts.append(f"<li><b>Cikkeink róla:</b> {len(arts)}</li>")
+    qa = ""
+    if age is not None and not p.get("death"):
+        qa = (f'<h2>Hány éves {E(name)}?</h2><p>{E(name)} {E(_hu_date(p["birth"]))} született, így ma '
+              f'<b>{age} éves</b>.</p>')
+    bio = (f'<h2>Röviden róla</h2><p>{E(p["bio"])}</p><p class="meta">Forrás: <a href="{E(p["wiki_url"])}" rel="noopener" '
+           f'target="_blank">Wikipédia</a> (CC BY-SA 4.0)</p>') if p.get("bio") else ""
+    img = p.get("image")
+    figure = _figure(img, name, eager=True) if img and img.get("url") else ""
+    items = "".join(f'<li><a href="{E(a["url"])}">{E(a["title"])}</a> <span class="meta">· '
+                    f'{E((a.get("published_at") or a.get("date") or "")[:10].replace("-", ". "))}.</span></li>' for a in arts[:60])
+    body = (f'<article><p class="kicker">Szereplő</p><h1>{E(name)}</h1>{figure}'
+            f'<div class="box"><ul>{"".join(facts)}</ul></div>{qa}'
+            f'<h2>Legfrissebb cikkeink: {E(name)}</h2><ul class="plist">{items}</ul>{bio}</article>'
+            + _newsletter_html("szereplo"))
+    ld = {"@context": "https://schema.org", "@type": "ProfilePage", "mainEntity": {
+        "@type": "Person", "name": name, **({"birthDate": p["birth"]} if p.get("birth") else {}),
+        **({"deathDate": p["death"]} if p.get("death") else {}), **({"description": p["desc"]} if p.get("desc") else {}),
+        **({"image": img["url"]} if img and img.get("url") else {}),
+        "sameAs": [f"https://www.wikidata.org/wiki/{p['qid']}"] + ([p["wiki_url"]] if p.get("wiki_url") else [])}}
+    head = (f'<script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>\n'
+            + (f'<meta property="og:image" content="{E(img["url"])}">\n' if img and img.get("url") else ""))
+    desc = (f"{name}" + (f" ({age} éves)" if age is not None and not p.get("death") else "")
+            + (f" – {p['desc']}" if p.get("desc") else "") + f". Életkor, életrajz és {len(arts)} cikkünk róla.")
+    return _page(f"{name}" + (" – hány éves, ki ő?" if p.get("birth") and not p.get("death") else "") + f" – {SITE_NAME}",
+                 desc[:300], f"{SITE_URL}{person_url(name)}", body, head)
+
+
+def build_people_pages(public: Path, articles: list, today: date) -> list:
+    """A szereplőoldalak + a /szereplo/ index; visszaadja az URL-eket a sitemaphez."""
+    idx = people_index(articles)
+    root = public / "szereplo"
+    keep = {slugify(t) for t in idx}
+    if root.exists():
+        for child in root.iterdir():
+            if child.is_dir() and child.name not in keep:
+                for f in child.iterdir():
+                    f.unlink()
+                child.rmdir()
+    urls = []
+    for tag, (p, arts) in idx.items():
+        d = root / slugify(tag)
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "index.html").write_text(render_person_page({**p, "name": tag}, arts, today), encoding="utf-8")
+        urls.append(f"{SITE_URL}{person_url(tag)}")
+    if idx:
+        lis = "".join(f'<li><a href="{E(person_url(t))}">{E(t)}</a> <span class="meta">· {len(a)} cikk</span></li>'
+                      for t, (p, a) in sorted(idx.items(), key=lambda x: -len(x[1][1])))
+        (root / "index.html").write_text(_page(f"Szereplők – {SITE_NAME}", "Közszereplők és sztárok: életkor, életrajz, cikkeink.",
+                                               f"{SITE_URL}/szereplo/", f'<p class="kicker">Szereplők</p><h1>Akikről írunk</h1>'
+                                               f'<ul class="plist">{lis}</ul>'), encoding="utf-8")
+        urls.append(f"{SITE_URL}/szereplo/")
+    return urls
+
+
+def _newsletter_html(source: str = "cikk") -> str:
+    """Hírlevél-feliratkozás a cikkek alján (Brevo, /api/subscribe) + egyszeri, bezárható alsó sáv a cikk 60%-ánál."""
+    return f"""<div class="box nl" id="nlbox"><b>Heti Kollektíva</b><h3>A hét röviden, vasárnap reggel – 5 perc alatt képben leszel.</h3>
+<form id="nlf" novalidate><input type="email" id="nle" placeholder="e-mail címed" autocomplete="email" required>
+<input type="text" id="nlw" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+<button type="submit">Feliratkozom</button>
+<label><input type="checkbox" id="nlc"> Kérem a heti levelet, és elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label>
+<small id="nlm" role="status"></small></form></div>
+<div id="nlbar" hidden><span>📬 <b>Heti Kollektíva</b> – a hét legfontosabb hírei vasárnap reggel</span><a href="#nlbox">Kérem</a><button type="button" aria-label="Bezárás">×</button></div>
+<style>.nl h3{{margin:6px 0 12px;font-size:18px;line-height:1.4;color:var(--parch)}}.nl b{{color:var(--brass);font-size:12px;letter-spacing:.16em;text-transform:uppercase}}
+.nl form{{display:flex;flex-wrap:wrap;gap:8px}}.nl input[type=email]{{flex:1 1 220px;padding:11px 14px;border-radius:999px;border:1px solid var(--line);background:var(--night);color:var(--parch);font:15px Manrope,system-ui,sans-serif}}
+.nl button{{padding:11px 18px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 14px Manrope,system-ui,sans-serif;cursor:pointer}}.nl label{{flex-basis:100%;font-size:13px}}.nl small{{flex-basis:100%;color:var(--brass)}}
+#nlbar{{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);z-index:70;display:flex;align-items:center;gap:12px;max-width:calc(100% - 24px);padding:10px 12px 10px 16px;background:var(--vault);border:1px solid var(--brass);border-radius:999px;font-size:14px;box-shadow:0 8px 30px rgba(0,0,0,.4)}}
+#nlbar[hidden]{{display:none}}#nlbar a{{color:#0E1024;background:var(--brass);border-radius:999px;padding:6px 14px;text-decoration:none;font-weight:600;white-space:nowrap}}#nlbar button{{background:none;border:0;color:var(--dusk);font-size:20px;cursor:pointer}}</style>
+<script>(function(){{var K='nlbar_off',f=document.getElementById('nlf'),bar=document.getElementById('nlbar');
+function off(){{try{{return Date.now()<+(localStorage.getItem(K)||0)}}catch(x){{return false}}}}function hide(d){{bar.hidden=true;try{{localStorage.setItem(K,String(Date.now()+d*864e5))}}catch(x){{}}}}
+if(!off()){{var sh=false;addEventListener('scroll',function(){{if(sh)return;var r=scrollY/(document.body.scrollHeight-innerHeight);if(r>.6){{sh=true;bar.hidden=false}}}},{{passive:true}})}}
+bar.querySelector('button').onclick=function(){{hide(14)}};bar.querySelector('a').onclick=function(){{bar.hidden=true}};
+f.onsubmit=function(ev){{ev.preventDefault();var m=document.getElementById('nlm'),e=document.getElementById('nle').value.trim();
+if(!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]{{2,}}$/.test(e)){{m.textContent='Adj meg egy érvényes e-mail címet.';return}}
+if(!document.getElementById('nlc').checked){{m.textContent='Pipáld be a hozzájárulást.';return}}
+fetch('/api/subscribe',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{email:e,consent_at:new Date().toISOString(),source:'{source}',website:document.getElementById('nlw').value}})}})
+.then(function(r){{return r.json()}}).then(function(r){{if(r.ok){{f.innerHTML='<h3>Kész, feliratkoztál! Vasárnap jön az első levél.</h3>';hide(365)}}else m.textContent='Nem sikerült, próbáld újra később.'}})
+.catch(function(){{m.textContent='Nem sikerült, próbáld újra később.'}})}}}})();</script>"""
 
 
 def render_section_index(section: dict, articles: list) -> str:
@@ -2874,6 +3090,13 @@ def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
         a["seo"]["canonical_url"] = f"{SITE_URL}/{sid}/{a['slug']}/"
         by_section[sid].append(a)
     articles.sort(key=lambda a: a.get("published_at") or a.get("created_at") or "", reverse=True)
+    try:
+        _PEOPLE_PAGES.clear()
+        _PEOPLE_PAGES.update(people_index(articles))
+        people_urls = build_people_pages(public, articles, datetime.now(tz).date())
+    except Exception as e:  # noqa: BLE001 – a szereplőoldalak hibája ne állítsa meg a kirakást
+        log.warning("Szereplőoldalak kimaradtak: %s", str(e)[:200])
+        people_urls = []
     for sid, items in by_section.items():
         sec_dir = public / sid
         keep = {a["slug"] for a in items}
@@ -2898,6 +3121,7 @@ def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
     urls += [(f"{SITE_URL}/{sid}/", now.date().isoformat()) for sid in by_section]
     urls += [(f"{SITE_URL}/kviz/", now.date().isoformat()), (f"{SITE_URL}/szavazasok/", now.date().isoformat())]
     urls += [(a["seo"]["canonical_url"], (a.get("updated_at") or a["date"])[:10]) for a in articles]
+    urls += [(u, now.date().isoformat()) for u in people_urls]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sitemap += [f"  <url><loc>{E(u)}</loc><lastmod>{m}</lastmod></url>" for u, m in urls]
