@@ -11053,10 +11053,7 @@
       "title_options": [
         "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
         "Nemzeti egységet követelt Magyar Péter a Tisza Párt Kossuth téri rendezvényén",
-        "Kossuth téri megemlékezés: A szabadságé volt a főszerep október 23-án",
-        "Ezt mondta Magyar Péter a Tisza Párt első kormányváltás utáni október 23-i ünnepségén",
-        "Feszült pillanatok a Kossuth téren: biztonságiak kísértek ki egy csoportot",
-        "Így ünnepelte a Tisza Párt az 1956-os forradalom hetvenedik évfordulóját"
+        "Kossuth téri megemlékezés: A szabadságé volt a főszerep október 23-án"
       ],
       "clickbait_from": 3,
       "image_options": [
@@ -11162,12 +11159,14 @@
       },
       "review": {
         "title": 0,
-        "image": -1,
-        "sent_at": "2026-10-23T20:50:29+00:00",
-        "msg_ids": [],
-        "control_id": 9165,
-        "title_prompt_id": null,
-        "compact": "✅ Kint"
+        "image": 0,
+        "sent_at": "2026-10-24T06:17:13+00:00",
+        "msg_ids": [
+          9235,
+          9236,
+          9237
+        ],
+        "control_id": 9238
       },
       "live": true
     },
