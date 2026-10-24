@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T20:30:14+02:00",
+  "updated_at": "2026-10-24T20:50:13+02:00",
   "articles": [
+    {
+      "id": "f0696caa-03c6-5ac6-9ee7-932aede2dc65",
+      "slug": "2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "OpenAI",
+        "tudomány",
+        "matematika",
+        "Google"
+      ],
+      "title": "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az OpenAI",
+      "subtitle": null,
+      "lead": "Az OpenAI belső használatú mesterséges intelligencia modellje több mint hétszáz matematikai tanulmányt tett közzé egyetlen nap alatt. Ez a példátlan lépés egyszerre hozott áttörést és robbantott ki éles vitákat a tudományos életben.",
+      "key_points": [
+        "Az OpenAI október elején 722 matematikai tanulmányt publikált egy belső modelljével.",
+        "A matematikusokat mélyen megosztják az eredmények: van, aki az elmúlt fél évszázad legnagyobb előrelépését látja benne, mások viszont alacsony minőségű tartalomról beszélnek.",
+        "A technológiai szektorban a Google, a Meta és a francia Mistral is sorra adja ki új, csúcskategóriás modelljeit."
+      ],
+      "content": "Október elején az OpenAI összesen 722 matematikai tanulmányt tett közzé, amelyeket egy házon belül fejlesztett mesterséges intelligencia állított elő. Bár a közzétett anyagok közül többet máris vissza kellett vonni, a kibocsátás alapjaiban formálhatja át a jövőben a tudományos kutatások és a publikálás mechanizmusát.\n\nA történtek éles ellentétet szültek a szakmában. Terence Tao, a világ egyik legismertebb élő matematikusa úgy véli, az egyik modelleredmény az elmúlt ötven év legnagyobb előrelépését hozta az adott témában. Ezzel szemben kritikusok sora emelt szót az úgynevezett slopokalipszis, vagyis a tudományos köntösbe bújtatott digitális szemét áradata miatt, míg mások azt firtatják, baj-e az, ha a felfedezéseket már a terület kiválóságai sem képesek követni.\n\nA technológiai óriások versenye közben szintén felpörgött, miután a korábbi lassítási hírek mára teljesen elhalványultak. A Google a Gemini 4 Argon kiadásával tért vissza az élmezőnybe, a Meta pedig Muse Wonder nevű csúcsmodelljével az OpenAI eddigi legerősebb GPT-rendszerét is maga mögé utasította.\n\nA nyílt forráskódú és szabadon letölthető modellek piacán is komoly átrendeződés zajlik. A Meta legújabb, nyugati fejlesztésű csomagsorozata éppen elhódította a címet a Mistral Large 4 elől; utóbbi francia modell a Le Chonk becenevet kapta.",
+      "content_format": "markdown",
+      "body": [
+        "Október elején az OpenAI összesen 722 matematikai tanulmányt tett közzé, amelyeket egy házon belül fejlesztett mesterséges intelligencia állított elő. Bár a közzétett anyagok közül többet máris vissza kellett vonni, a kibocsátás alapjaiban formálhatja át a jövőben a tudományos kutatások és a publikálás mechanizmusát.",
+        "A történtek éles ellentétet szültek a szakmában. Terence Tao, a világ egyik legismertebb élő matematikusa úgy véli, az egyik modelleredmény az elmúlt ötven év legnagyobb előrelépését hozta az adott témában. Ezzel szemben kritikusok sora emelt szót az úgynevezett slopokalipszis, vagyis a tudományos köntösbe bújtatott digitális szemét áradata miatt, míg mások azt firtatják, baj-e az, ha a felfedezéseket már a terület kiválóságai sem képesek követni.",
+        "A technológiai óriások versenye közben szintén felpörgött, miután a korábbi lassítási hírek mára teljesen elhalványultak. A Google a Gemini 4 Argon kiadásával tért vissza az élmezőnybe, a Meta pedig Muse Wonder nevű csúcsmodelljével az OpenAI eddigi legerősebb GPT-rendszerét is maga mögé utasította.",
+        "A nyílt forráskódú és szabadon letölthető modellek piacán is komoly átrendeződés zajlik. A Meta legújabb, nyugati fejlesztésű csomagsorozata éppen elhódította a címet a Mistral Large 4 elől; utóbbi francia modell a Le Chonk becenevet kapta."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 218,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "A symbolic representation of AI, generated using DALL-E 3, with the prompt: \"draw an icon, white background, of a human brain made out of printed circuit board\".",
+        "credit": "JPxG / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png",
+        "exact": true,
+        "entity": "Artificial intelligence",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/24/megrengette-a-tudomany-vilagat-az-openai-eledezik-az-eu-ujra-versenyben-a-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Megrengette a tudomány világát az OpenAI, éledezik az EU, újra versenyben a Google",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T20:04:48+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T20:50:13+02:00"
+      },
+      "hot_score": 5.15,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/24/megrengette-a-tudomany-vilagat-az-openai-eledezik-az-eu-ujra-versenyben-a-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/tech/2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai/",
+      "seo": {
+        "meta_title": "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az ",
+        "meta_description": "Az OpenAI belső használatú mesterséges intelligencia modellje több mint hétszáz matematikai tanulmányt tett közzé egyetlen nap alatt. Ez a példátlan lépés egysz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
+        "b9d21afe-e165-52a0-9ace-511adb1c12db",
+        "22c02636-7232-5271-ae5d-1ed6120babcc"
+      ],
+      "see_also": [
+        {
+          "title": "Történelmi áttörést hozott az OpenAI a matematikában",
+          "url": "/kozelet/2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban/",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "A Google legerősebb tudományos modelljeit kapják az európai kutatók",
+          "url": "/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Zuckerberg bolyhos kabalája rekordsebességgel hódította meg az App Store-t",
+          "url": "/tech/2026-10-10-zuckerberg-bolyhos-kabalaja-rekordsebesseggel-hoditotta-meg-az-app-st/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
+      "dedupe_hash": "d74c900b9b34f9658bd0117410304f1ed78db782077890a858c3c2128e33471a",
+      "pipeline_run_id": "40117610379",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T20:50:13+02:00",
+      "updated_at": "2026-10-24T20:50:13+02:00",
+      "published_at": "2026-10-24T20:50:13+02:00",
+      "expires_at": null
+    },
     {
       "id": "5e0ed0b3-fcd4-5307-bc63-a8bf63eb2719",
       "slug": "2026-10-24-masfel-milliard-euros-kart-okoztak-a-hetek-ota-tarto-francia-zavargas",
@@ -68458,94 +68580,6 @@
       "created_at": "2026-10-02T22:17:36+02:00",
       "updated_at": "2026-10-02T22:17:36+02:00",
       "published_at": "2026-10-02T22:17:36+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "48952a86-33aa-56a5-9dc7-1768152de0e1",
-      "slug": "2026-10-02-ezert-kellett-magyarazkodnia-hobonak-a-temetesen",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Hobo",
-        "Deák Bill Gyula",
-        "zene",
-        "bulvár",
-        "gyász"
-      ],
-      "title": "Megszólalt Hobo a temetési botrányról",
-      "subtitle": null,
-      "lead": "Földes László Hobo a Blikknek adott interjúban tisztázta, miért hagyta el korábban Deák Bill Gyula temetését. A Kossuth-díjas zenész friss térdműtétje és a szertartás körülményei miatt nem tudott végig ott lenni barátja búcsúztatásán.",
-      "key_points": [
-        "Hobo friss térdműtétje és rehabilitációja miatt nehezen gyalogol.",
-        "A zenész idő előtt elhagyta a ravatalozót, amit egyesek a sajtóban élesen bíráltak.",
-        "A két művész öt évtizedes zenei és baráti kapcsolatot tudhat maga mögött.",
-        "Hobo mélyen elítélte a búcsúztatást övező szenzációhajhászást."
-      ],
-      "content": "Földes László Hobo Kossuth-díjas művész a Blikknek nyilatkozva tisztázta azokat a támadásokat, amelyek amiatt érték, mert elhagyta Deák Bill Gyula temetését a szertartás vége előtt. A zenész megdöbbenéssel fogadta a kritikákat, hiszen halálhíre után azonnal nekrológgal és két televíziós interjúval emlékezett meg zenésztársáról.\n\nA legendás előadók pályája öt évtizeden át fonódott össze, amelynek során Deák Bill Gyula – akit a magyar blueskirályként is emlegetnek – öt évig a Hobo Blues Band tagja volt. A közös munka kitörölhetetlen nyomot hagyott a magyar rocktörténeten, hiszen olyan lemezeken énekelt, mint a Hobo Blues Band albumai, valamint a Póka Egonnal közösen írt szólólemezek, a Rossz vér és a Bűnön, börtönön, bánaton túl.\n\nA búcsúztatón való részvételt nehezítette Hobo fizikai állapota, ugyanis nemrégiben a jobb térdét műtötték, és jelenleg is rehabilitáció alatt áll. Piliscsabáról érkezve Szabó Attila segítségével jutott el a ravatalozóig, ám a lábfájdalma és a tömeg miatt érezte, hogy nem tudja végigállni az órákat.\n\nA helyszínen lerótta tiszteletét, elhelyezte a virágot, és beszélt a gyászoló családdal, köztük a zenész fiával, Tomival, valamint Koltay Gábor filmrendezővel és Koltay Gergellyel. Az útközben érkező interjúfelkéréseket elutasította, mivel nem tartotta illendőnek a temetési szertartás alatt, ennek ellenére a sajtóban mégis kritikák érték a távozása miatt.",
-      "content_format": "markdown",
-      "body": [
-        "Földes László Hobo Kossuth-díjas művész a Blikknek nyilatkozva tisztázta azokat a támadásokat, amelyek amiatt érték, mert elhagyta Deák Bill Gyula temetését a szertartás vége előtt. A zenész megdöbbenéssel fogadta a kritikákat, hiszen halálhíre után azonnal nekrológgal és két televíziós interjúval emlékezett meg zenésztársáról.",
-        "A legendás előadók pályája öt évtizeden át fonódott össze, amelynek során Deák Bill Gyula – akit a magyar blueskirályként is emlegetnek – öt évig a Hobo Blues Band tagja volt. A közös munka kitörölhetetlen nyomot hagyott a magyar rocktörténeten, hiszen olyan lemezeken énekelt, mint a Hobo Blues Band albumai, valamint a Póka Egonnal közösen írt szólólemezek, a Rossz vér és a Bűnön, börtönön, bánaton túl.",
-        "A búcsúztatón való részvételt nehezítette Hobo fizikai állapota, ugyanis nemrégiben a jobb térdét műtötték, és jelenleg is rehabilitáció alatt áll. Piliscsabáról érkezve Szabó Attila segítségével jutott el a ravatalozóig, ám a lábfájdalma és a tömeg miatt érezte, hogy nem tudja végigállni az órákat.",
-        "A helyszínen lerótta tiszteletét, elhelyezte a virágot, és beszélt a gyászoló családdal, köztük a zenész fiával, Tomival, valamint Koltay Gábor filmrendezővel és Koltay Gergellyel. Az útközben érkező interjúfelkéréseket elutasította, mivel nem tartotta illendőnek a temetési szertartás alatt, ennek ellenére a sajtóban mégis kritikák érték a távozása miatt."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 231,
-      "locale": "hu-HU",
-      "hero_image": null,
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/hobo-temetes-deak-bill-gyula/msv13dr",
-          "title": "Hobo elárulta, miért hagyta ott Deák Bill Gyula temetését: Bizonyos „újseggírók” kikezdtek",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T19:44:28+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T20:18:42+02:00"
-      },
-      "hot_score": 5.97,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/hazai-sztarok/hobo-temetes-deak-bill-gyula/msv13dr"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/bulvar/2026-10-02-ezert-kellett-magyarazkodnia-hobonak-a-temetesen/",
-      "seo": {
-        "meta_title": "Megszólalt Hobo a temetési botrányról",
-        "meta_description": "Földes László Hobo a Blikknek adott interjúban tisztázta, miért hagyta el korábban Deák Bill Gyula temetését. A Kossuth-díjas zenész friss térdműtétje és a szer",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-02-ezert-kellett-magyarazkodnia-hobonak-a-temetesen/",
-        "og_image": null,
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "4154c6cd3dc3b2cd8b6d3bcd689f429c00e8067d9418d25df6924b3e3d7dadda",
-      "pipeline_run_id": "37042147706",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T20:18:42+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-02T20:18:42+02:00",
       "expires_at": null
     }
   ]
