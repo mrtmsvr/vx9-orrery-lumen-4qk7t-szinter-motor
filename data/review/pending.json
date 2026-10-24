@@ -12442,6 +12442,188 @@
         ],
         "control_id": 9404
       }
+    },
+    {
+      "id": "f0696caa-03c6-5ac6-9ee7-932aede2dc65",
+      "slug": "2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "OpenAI",
+        "tudomány",
+        "matematika",
+        "Google"
+      ],
+      "title": "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az OpenAI",
+      "subtitle": null,
+      "lead": "Az OpenAI belső használatú mesterséges intelligencia modellje több mint hétszáz matematikai tanulmányt tett közzé egyetlen nap alatt. Ez a példátlan lépés egyszerre hozott áttörést és robbantott ki éles vitákat a tudományos életben.",
+      "key_points": [
+        "Az OpenAI október elején 722 matematikai tanulmányt publikált egy belső modelljével.",
+        "A matematikusokat mélyen megosztják az eredmények: van, aki az elmúlt fél évszázad legnagyobb előrelépését látja benne, mások viszont alacsony minőségű tartalomról beszélnek.",
+        "A technológiai szektorban a Google, a Meta és a francia Mistral is sorra adja ki új, csúcskategóriás modelljeit."
+      ],
+      "content": "Október elején az OpenAI összesen 722 matematikai tanulmányt tett közzé, amelyeket egy házon belül fejlesztett mesterséges intelligencia állított elő. Bár a közzétett anyagok közül többet máris vissza kellett vonni, a kibocsátás alapjaiban formálhatja át a jövőben a tudományos kutatások és a publikálás mechanizmusát.\n\nA történtek éles ellentétet szültek a szakmában. Terence Tao, a világ egyik legismertebb élő matematikusa úgy véli, az egyik modelleredmény az elmúlt ötven év legnagyobb előrelépését hozta az adott témában. Ezzel szemben kritikusok sora emelt szót az úgynevezett slopokalipszis, vagyis a tudományos köntösbe bújtatott digitális szemét áradata miatt, míg mások azt firtatják, baj-e az, ha a felfedezéseket már a terület kiválóságai sem képesek követni.\n\nA technológiai óriások versenye közben szintén felpörgött, miután a korábbi lassítási hírek mára teljesen elhalványultak. A Google a Gemini 4 Argon kiadásával tért vissza az élmezőnybe, a Meta pedig Muse Wonder nevű csúcsmodelljével az OpenAI eddigi legerősebb GPT-rendszerét is maga mögé utasította.\n\nA nyílt forráskódú és szabadon letölthető modellek piacán is komoly átrendeződés zajlik. A Meta legújabb, nyugati fejlesztésű csomagsorozata éppen elhódította a címet a Mistral Large 4 elől; utóbbi francia modell a Le Chonk becenevet kapta.",
+      "content_format": "markdown",
+      "body": [
+        "Október elején az OpenAI összesen 722 matematikai tanulmányt tett közzé, amelyeket egy házon belül fejlesztett mesterséges intelligencia állított elő. Bár a közzétett anyagok közül többet máris vissza kellett vonni, a kibocsátás alapjaiban formálhatja át a jövőben a tudományos kutatások és a publikálás mechanizmusát.",
+        "A történtek éles ellentétet szültek a szakmában. Terence Tao, a világ egyik legismertebb élő matematikusa úgy véli, az egyik modelleredmény az elmúlt ötven év legnagyobb előrelépését hozta az adott témában. Ezzel szemben kritikusok sora emelt szót az úgynevezett slopokalipszis, vagyis a tudományos köntösbe bújtatott digitális szemét áradata miatt, míg mások azt firtatják, baj-e az, ha a felfedezéseket már a terület kiválóságai sem képesek követni.",
+        "A technológiai óriások versenye közben szintén felpörgött, miután a korábbi lassítási hírek mára teljesen elhalványultak. A Google a Gemini 4 Argon kiadásával tért vissza az élmezőnybe, a Meta pedig Muse Wonder nevű csúcsmodelljével az OpenAI eddigi legerősebb GPT-rendszerét is maga mögé utasította.",
+        "A nyílt forráskódú és szabadon letölthető modellek piacán is komoly átrendeződés zajlik. A Meta legújabb, nyugati fejlesztésű csomagsorozata éppen elhódította a címet a Mistral Large 4 elől; utóbbi francia modell a Le Chonk becenevet kapta."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 218,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "A symbolic representation of AI, generated using DALL-E 3, with the prompt: \"draw an icon, white background, of a human brain made out of printed circuit board\".",
+        "credit": "JPxG / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png",
+        "exact": true,
+        "entity": "Artificial intelligence",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://qubit.hu/2026/10/24/megrengette-a-tudomany-vilagat-az-openai-eledezik-az-eu-ujra-versenyben-a-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Megrengette a tudomány világát az OpenAI, éledezik az EU, újra versenyben a Google",
+          "publisher": "qubit.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T20:04:48+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5.15,
+      "title_options": [
+        "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az OpenAI",
+        "Egyetlen nap alatt hozott nyilvánosságra 722 AI-tanulmányt az OpenAI",
+        "Több mint 700 mesterséges intelligencia által írt tanulmányt publikált az OpenAI",
+        "Ezt nem hinnéd el: egyetlen nap alatt tarolta le a tudományt az OpenAI",
+        "Felfoghatatlan mennyiségű tanulmányt zúdított a világra az OpenAI",
+        "Az AI írja a jövő tudományos papírjait? Itt vannak a megdöbbentő részletek"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "A symbolic representation of AI, generated using DALL-E 3, with the prompt: \"draw an icon, white background, of a human brain made out of printed circuit board\".",
+          "credit": "JPxG / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png",
+          "exact": true,
+          "entity": "Artificial intelligence",
+          "vision_score": 11.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-01e95090dc.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-01e95090dc.jpg",
+          "kind": "photo",
+          "alt": "722 tanulmány – Ennyi matematikai tanulmányt publikált az OpenAI egy nap alatt",
+          "credit": "Kollektíva grafika",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "card": "num"
+        }
+      ],
+      "story": [
+        {
+          "title": "Megrengette a tudomány világát az OpenAI, éledezik az EU, újra versenyben a Google",
+          "link": "https://qubit.hu/2026/10/24/megrengette-a-tudomany-vilagat-az-openai-eledezik-az-eu-ujra-versenyben-a-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "summary": "A matematika történetének legjelentősebb pillanatának nevezték, amikor az OpenAI modellje több mint 700 új tanulmánnyal állt elő egy nap alatt. A Google és a Meta újra felrázta a nagy AI-versenyt, míg a francia Mistral Kínával szállt harcba a nyílt modellek terepén. Itt az AI Híradó.",
+          "source": "qubit.hu",
+          "related": null,
+          "hot_score": 5.15
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://qubit.hu/2026/10/24/megrengette-a-tudomany-vilagat-az-openai-eledezik-az-eu-ujra-versenyben-a-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/tech/2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai/",
+      "seo": {
+        "meta_title": "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az ",
+        "meta_description": "Az OpenAI belső használatú mesterséges intelligencia modellje több mint hétszáz matematikai tanulmányt tett közzé egyetlen nap alatt. Ez a példátlan lépés egysz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
+        "b9d21afe-e165-52a0-9ace-511adb1c12db",
+        "22c02636-7232-5271-ae5d-1ed6120babcc"
+      ],
+      "see_also": [
+        {
+          "title": "Történelmi áttörést hozott az OpenAI a matematikában",
+          "url": "/kozelet/2026-10-13-tortenelmi-attorest-hozott-az-openai-a-matematikaban/",
+          "date": "2026-10-13"
+        },
+        {
+          "title": "A Google legerősebb tudományos modelljeit kapják az európai kutatók",
+          "url": "/tech/2026-10-14-a-google-legerosebb-tudomanyos-modelljeit-kapjak-az-europai-kutatok/",
+          "date": "2026-10-14"
+        },
+        {
+          "title": "Zuckerberg bolyhos kabalája rekordsebességgel hódította meg az App Store-t",
+          "url": "/tech/2026-10-10-zuckerberg-bolyhos-kabalaja-rekordsebesseggel-hoditotta-meg-az-app-st/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": "ee29a89c-c988-5ed2-8725-09a4c61a5b2b",
+      "dedupe_hash": "d74c900b9b34f9658bd0117410304f1ed78db782077890a858c3c2128e33471a",
+      "pipeline_run_id": "40117610379",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T20:04:48+02:00",
+      "updated_at": "2026-10-24T20:04:48+02:00",
+      "published_at": "2026-10-24T20:04:48+02:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-24T18:06:25+00:00",
+        "msg_ids": [
+          9405,
+          9406,
+          9407
+        ],
+        "control_id": 9408
+      }
     }
   ]
 }
