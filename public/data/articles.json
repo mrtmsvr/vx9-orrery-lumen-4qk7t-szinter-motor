@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T16:24:52+02:00",
+  "updated_at": "2026-10-24T16:45:12+02:00",
   "articles": [
+    {
+      "id": "b8f793a8-ed09-5645-9a58-78ce729ae5aa",
+      "slug": "2026-10-24-rekordokon-a-tozsdek-de-kifulladoban-a-gazdasag-vedohaloja",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "tőzsde",
+        "kamatszint",
+        "befektetés",
+        "infláció",
+        "gazdaság"
+      ],
+      "title": "Rekordokon a tőzsdék, de kifulladóban a gazdaság védőhálója",
+      "subtitle": null,
+      "lead": "Bár a magas kamatok ellenére a tőzsdék rekordokat döntögetnek, a gazdaság eddigi védőhálója vészesen kopik. A drága pénz hatása ugyanis lassan, de biztosan halmozódik a háttérben.",
+      "key_points": [
+        "A tőzsdék rekordokat döntenek a magas kamatok dacára is.",
+        "A korábbi gazdasági mentőövek, mint a Covid alatti olcsó hitelek vagy a mesterséges intelligencia beruházásai, már kifutóban vannak.",
+        "A magas kamatok terhe időben elnyújtva, fokozatosan épült be a rendszerbe.",
+        "Felszínre kerültek a korábban felhalmozódott kockázatok a gazdaságban."
+      ],
+      "content": "Az elmúlt évek egyik legnagyobb pénzügyi rejtélye volt, hogy a szigorú kamatkörnyezet dacára a tőzsdék sorra döntötték a rekordokat, az amerikai gazdaság pedig kifejezetten ellenállónak bizonyult. Eközben az inflációt sem sikerült tartósan a jegybanki célok szintjére szorítani, a növekedés mégis töretlennek tűnt a felszínen.\n\nA Portfolio.hu elemzése szerint a vártnál jobb teljesítmény mögött olyan sajátos tényezők álltak, mint a koronavírus-járvány idején olcsón rögzített hitelek, a tartós fiskális ösztönzés, valamint a mesterséges intelligenciához kapcsolódó hatalmas beruházási hullám. Ezek a tényezők eddig hatékonyan tompították a gazdaságra nehezedő terheket.\n\nEzeknek a mentőöveknek a türelmi ideje azonban mára vészesen fogy, a drága pénz pedig már hosszú ideje velünk van. A magas kamatok gazdasági hatása ugyanis nem azonnal robban be, hanem időben elnyújtva jelentkezik, miközben a kockázatok fokozatosan halmozódnak a rendszerben.\n\nA mostani helyzetet éppen ez a lassú építkezés teszi kockázatossá, mivel elindultak azok a folyamatok, amelyek a felszínre hozzák a korábban elrejtett problémákat. A különböző csatornákon beszivárgó kamatkockázatok így összeérhetnek és erősíthetik egymást, ami komoly fejtörést okozhat a befektetőknek.",
+      "content_format": "markdown",
+      "body": [
+        "Az elmúlt évek egyik legnagyobb pénzügyi rejtélye volt, hogy a szigorú kamatkörnyezet dacára a tőzsdék sorra döntötték a rekordokat, az amerikai gazdaság pedig kifejezetten ellenállónak bizonyult. Eközben az inflációt sem sikerült tartósan a jegybanki célok szintjére szorítani, a növekedés mégis töretlennek tűnt a felszínen.",
+        "A Portfolio.hu elemzése szerint a vártnál jobb teljesítmény mögött olyan sajátos tényezők álltak, mint a koronavírus-járvány idején olcsón rögzített hitelek, a tartós fiskális ösztönzés, valamint a mesterséges intelligenciához kapcsolódó hatalmas beruházási hullám. Ezek a tényezők eddig hatékonyan tompították a gazdaságra nehezedő terheket.",
+        "Ezeknek a mentőöveknek a türelmi ideje azonban mára vészesen fogy, a drága pénz pedig már hosszú ideje velünk van. A magas kamatok gazdasági hatása ugyanis nem azonnal robban be, hanem időben elnyújtva jelentkezik, miközben a kockázatok fokozatosan halmozódnak a rendszerben.",
+        "A mostani helyzetet éppen ez a lassú építkezés teszi kockázatossá, mivel elindultak azok a folyamatok, amelyek a felszínre hozzák a korábban elrejtett problémákat. A különböző csatornákon beszivárgó kamatkockázatok így összeérhetnek és erősíthetik egymást, ami komoly fejtörést okozhat a befektetőknek."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 193,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg/1280px-New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Street signs at corner of Broadway and Wall Street in New York City, New York, USA",
+        "credit": "Dietmar Rabich / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Manhattan,_Stra%C3%9Fenschilder_--_2012_--_6607.jpg",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/befektetes/20261024/sakk-matt-csunya-egyuttallas-utheti-meg-a-befekteteseidet-871518",
+          "title": "Sakk-matt: csúnya együttállás ütheti meg a befektetéseidet",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T16:03:53+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T16:45:12+02:00"
+      },
+      "hot_score": 6.4,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/befektetes/20261024/sakk-matt-csunya-egyuttallas-utheti-meg-a-befekteteseidet-871518"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/penzvilag/2026-10-24-rekordokon-a-tozsdek-de-kifulladoban-a-gazdasag-vedohaloja/",
+      "seo": {
+        "meta_title": "Rekordokon a tőzsdék, de kifulladóban a gazdaság védőhálója",
+        "meta_description": "Bár a magas kamatok ellenére a tőzsdék rekordokat döntögetnek, a gazdaság eddigi védőhálója vészesen kopik. A drága pénz hatása ugyanis lassan, de biztosan halm",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-rekordokon-a-tozsdek-de-kifulladoban-a-gazdasag-vedohaloja/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg/1280px-New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "fc31bf61cab2b805221dff2c71ee91105f6ac0e2a373daa187ca516b225d8032",
+      "pipeline_run_id": "40098906476",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T16:45:12+02:00",
+      "updated_at": "2026-10-24T16:45:12+02:00",
+      "published_at": "2026-10-24T16:45:12+02:00",
+      "expires_at": null
+    },
     {
       "id": "8f913d23-44ae-5598-be3d-b74f68a2d0c3",
       "slug": "2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg",
@@ -68567,101 +68668,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/12_March_2025_-_Washington%2C_DC_-_US_Secretary_of_Labor_Lori_M._Chavez-DeRemer_arrives_at_the_US_Department_of_Labor_and_greets_staff_-_3.jpg/1280px-12_March_2025_-_Washington%2C_DC_-_US_Secretary_of_Labor_Lori_M._Chavez-DeRemer_arrives_at_the_US_Department_of_Labor_and_greets_staff_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg/1280px-Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "7cd8bc04-951a-5bbc-b1f9-384a5d4c02dc",
-      "slug": "2026-10-02-ilyen-rendetlenseggel-kuzd-berki-mazsi-otthon",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Berki Mazsi",
-        "Sztárbox",
-        "bulvár",
-        "költözés"
-      ],
-      "title": "Ilyen rendetlenséggel küzd Berki Mazsi otthon",
-      "subtitle": null,
-      "lead": "Katona Renáta, ismertebb nevén Berki Mazsi a közelmúltban kénytelen volt az összes fiatalkori emlékét egyetlen helyiségbe zsúfolni. Az influenszer a költözés mellett a mindennapi teendőit és az időbeosztását is teljesen átalakította.",
-      "key_points": [
-        "Berki Mazsi a tizenkilenc éves kora óta gyűjtött holmijait eddig egy raktárban tárolta.",
-        "A korábbi raktárból el kellett költöznie, így a dobozok egyetlen szobába kerültek.",
-        "Az anyuka a közösségi oldalak helyett a családjára és a kislányára fókuszál.",
-        "A Sztárbox 2023-as női könnyűsúlyú bajnoki övét megnyerő híresség az orrát is megműtteti a sportág miatt."
-      ],
-      "content": "Katona Renáta, aki a Sztárbox 2023-as évadában női könnyűsúlyú bajnoki címet szerzett, jelentős változásokon ment keresztül az elmúlt időszakban. A korábban a közösségi médiában aktívan szereplő influenszer a nyári hónapokban szinte teljesen eltűnt a nyilvánosság elől, hogy a családjára és a kislányára fordíthassa az idejét. A mindennapi teendők rendezése érdekében a tárgyait is alaposan átválogatta.\n\nA történet hátterében egy költözés áll, amely során az édesanya szembesült a fiatalkora óta felhalmozott holmijaival. Az RTL Reggeli műsorában elmondása szerint tizenkilenc éves kora óta gyűltek a dolgai, amelyeket eddig egy raktárban tartott, ám onnan most ki kellett költöznie. Ennek következtében az egész addigi életét dobozokba zárva egyetlen szobába tornyosította otthon.\n\nA mindennapokban eddig sokszor kapkodó híresség rájött, hogy a közösségi oldalak fenntartása óriási energiát emészt fel, miközben nehezen mond nemet a felkérésekre. A prioritások átértékelésében a sport is segített neki, miután Túrós Arnold edző irányításával, kőkemény felkészülés után megnyerte a 2023-as évad bokszmeccseit. Azóta az élete egyre strukturáltabbá válik, miközben a ringben szerzett sérülések miatt egy orvosi beavatkozás is vár rá.",
-      "content_format": "markdown",
-      "body": [
-        "Katona Renáta, aki a Sztárbox 2023-as évadában női könnyűsúlyú bajnoki címet szerzett, jelentős változásokon ment keresztül az elmúlt időszakban. A korábban a közösségi médiában aktívan szereplő influenszer a nyári hónapokban szinte teljesen eltűnt a nyilvánosság elől, hogy a családjára és a kislányára fordíthassa az idejét. A mindennapi teendők rendezése érdekében a tárgyait is alaposan átválogatta.",
-        "A történet hátterében egy költözés áll, amely során az édesanya szembesült a fiatalkora óta felhalmozott holmijaival. Az RTL Reggeli műsorában elmondása szerint tizenkilenc éves kora óta gyűltek a dolgai, amelyeket eddig egy raktárban tartott, ám onnan most ki kellett költöznie. Ennek következtében az egész addigi életét dobozokba zárva egyetlen szobába tornyosította otthon.",
-        "A mindennapokban eddig sokszor kapkodó híresség rájött, hogy a közösségi oldalak fenntartása óriási energiát emészt fel, miközben nehezen mond nemet a felkérésekre. A prioritások átértékelésében a sport is segített neki, miután Túrós Arnold edző irányításával, kőkemény felkészülés után megnyerte a 2023-as évad bokszmeccseit. Azóta az élete egyre strukturáltabbá válik, miközben a ringben szerzett sérülések miatt egy orvosi beavatkozás is vár rá."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 200,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/4093/4758670232_fbe0eb6163_b.jpg",
-        "width": 1024,
-        "height": 576,
-        "kind": "photo",
-        "alt": "Cardboard Box City",
-        "credit": "James Nash (aka Cirrus) / flickr",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://www.flickr.com/photos/86318165@N00/4758670232"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/berki-mazsi-koltozes-rendszerezes-pakolas/t27p0vc",
-          "title": "„El kellett költöznöm” – Berki Mazsi az egész életét egyetlen szobába zsúfolta",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T15:44:48+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-02T15:50:05+02:00"
-      },
-      "hot_score": 6.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/hazai-sztarok/berki-mazsi-koltozes-rendszerezes-pakolas/t27p0vc"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/bulvar/2026-10-02-ilyen-rendetlenseggel-kuzd-berki-mazsi-otthon/",
-      "seo": {
-        "meta_title": "Ilyen rendetlenséggel küzd Berki Mazsi otthon",
-        "meta_description": "Katona Renáta, ismertebb nevén Berki Mazsi a közelmúltban kénytelen volt az összes fiatalkori emlékét egyetlen helyiségbe zsúfolni. Az influenszer a költözés me",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-02-ilyen-rendetlenseggel-kuzd-berki-mazsi-otthon/",
-        "og_image": "https://live.staticflickr.com/4093/4758670232_fbe0eb6163_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "05597bb83609bb698b30e5b28c86bb2f20103b335a4343b8be4d293e72951c6c",
-      "pipeline_run_id": "37014810278",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T15:50:05+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-02T15:50:05+02:00",
-      "expires_at": null
     }
   ]
 }
