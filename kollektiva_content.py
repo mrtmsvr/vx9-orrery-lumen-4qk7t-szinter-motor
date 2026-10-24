@@ -2597,6 +2597,16 @@ def quality_step(output_dir: Path, ai: "AIClient", n: int = 2) -> Optional[dict]
     return {"changes": changes, "checked": checked, "left": max(0, len(todo) - checked)}
 
 
+def qc_fresh_pending(output_dir: Path, hours: float = 12) -> bool:
+    """Van-e 1–12 órája kint lévő, még át nem nézett cikk (ezeket a csendes órákon kívül is ellenőrizzük)."""
+    st = read_json(QC_FILE, {"done": {}})
+    now = datetime.now(timezone.utc)
+    lo, hi = (now - timedelta(hours=hours)).isoformat(), (now - timedelta(hours=1)).isoformat()
+    return any(a.get("status") == "published" and a.get("category") in SECTIONS and a["id"] not in st.get("done", {})
+               and lo <= (a.get("published_at") or a.get("created_at") or "") <= hi
+               for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", []))
+
+
 def apply_quality_fixes(output_dir: Path, changes: dict) -> list:
     """A minőségellenőrzés javításai a friss articles.json-ra (zár alatt hívandó). Visszaad: [(cím, why-lista)]."""
     if not changes:
