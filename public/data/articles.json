@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T18:13:46+02:00",
+  "updated_at": "2026-10-24T18:29:10+02:00",
   "articles": [
+    {
+      "id": "46a4ef7f-6b68-513b-898a-b7152c88e9a3",
+      "slug": "2026-10-24-halalos-tomegbaleset-a-42-esen-egy-ember-meghalt-mezopeterdnel",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "baleset",
+        "Mezőpeterd",
+        "42-es főút",
+        "katasztrófavédelem",
+        "mentők"
+      ],
+      "title": "Halálos tömegbaleset a 42-esen: egy ember meghalt Mezőpeterdnél",
+      "subtitle": null,
+      "lead": "Szombat délelőtt tömegbaleset történt a 42-es főúton Mezőpeterd közelében, ahol két személyautó és egy kisbusz ütközött össze. A tragédia következtében egy ötvenéves férfi életét vesztette, és több sérültet kórházba kellett szállítani.",
+      "key_points": [
+        "Egy ötvenéves férfi meghalt a 42-es főúton történt karambolban.",
+        "Az Országos Mentőszolgálat tájékoztatása szerint hat embert vizsgáltak meg a helyszínen.",
+        "A berettyóújfalui tűzoltók feszítővágóval szabadították ki a roncsok közé szorult utasokat.",
+        "A hatóságok délutánra oldották fel a teljes, majd a félpályás útlezárást."
+      ],
+      "content": "Halálos kimenetelű tömegbaleset történt szombat délelőtt a 42-es főúton, Mezőpeterd térségében. A karambolban két személyautó és egy kisbusz ütközött össze, és az eddigi adatok szerint a helyszínre kiérkező mentőegységek már nem tudtak segíteni az egyik érintetten.\n\nAz Országos Mentőszolgálat közlése alapján a szakemberek összesen hat embert vizsgáltak át a baleset helyszínén. A sérültek között volt egy harminc év körüli nő is, akit a roncsokból való kiszabadítása közben újra kellett éleszteni, mivel a légzése leállt; az időben megkezdett szakszerű beavatkozásnak köszönhetően végül életveszélyes állapotban szállították kórházba.\n\nA helyszíni adatok szerint a további négy sérült könnyebb sérüléseket szenvedett, őket ugyancsak kórházi ellátásra vitték a mentők. A műszaki mentést a katasztrófavédelem irányította, a berettyóújfalui hivatásos tűzoltók feszítővágó segítségével avatkoztak be a beszorult utasok kimentése érdekében.\n\nA helyszínelés és a mentési munkálatok idejére a hatóságok teljesen lezárták a főút érintett szakaszát. A Hajdú-Bihar vármegyei rendőrség tájékoztatása alapján a forgalom először délután két óra húsz perckor indulhatott meg újra, míg a korlátozás utolsó fázisaként a félpályás lezárást délután öt órakor szüntették meg teljesen.",
+      "content_format": "markdown",
+      "body": [
+        "Halálos kimenetelű tömegbaleset történt szombat délelőtt a 42-es főúton, Mezőpeterd térségében. A karambolban két személyautó és egy kisbusz ütközött össze, és az eddigi adatok szerint a helyszínre kiérkező mentőegységek már nem tudtak segíteni az egyik érintetten.",
+        "Az Országos Mentőszolgálat közlése alapján a szakemberek összesen hat embert vizsgáltak át a baleset helyszínén. A sérültek között volt egy harminc év körüli nő is, akit a roncsokból való kiszabadítása közben újra kellett éleszteni, mivel a légzése leállt; az időben megkezdett szakszerű beavatkozásnak köszönhetően végül életveszélyes állapotban szállították kórházba.",
+        "A helyszíni adatok szerint a további négy sérült könnyebb sérüléseket szenvedett, őket ugyancsak kórházi ellátásra vitték a mentők. A műszaki mentést a katasztrófavédelem irányította, a berettyóújfalui hivatásos tűzoltók feszítővágó segítségével avatkoztak be a beszorult utasok kimentése érdekében.",
+        "A helyszínelés és a mentési munkálatok idejére a hatóságok teljesen lezárták a főút érintett szakaszát. A Hajdú-Bihar vármegyei rendőrség tájékoztatása alapján a forgalom először délután két óra húsz perckor indulhatott meg újra, míg a korlátozás utolsó fázisaként a félpályás lezárást délután öt órakor szüntették meg teljesen."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 202,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/KatSchutzUebungKarlsruhe2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Civil protection exercise in Karlsruhe, Germany.",
+        "credit": "Beate Paland / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:KatSchutzUebungKarlsruhe2004.jpg",
+        "exact": true,
+        "entity": "Katasztrófavédelem",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/10/24/halalos-auto-baleset-mezopeterd/",
+          "title": "Halálos karambol a 42-es főúton, a mentőknek egy nőt sikerült újraéleszteniük",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T18:26:00+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-24T18:29:10+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/10/24/halalos-auto-baleset-mezopeterd/"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/kozelet/2026-10-24-halalos-tomegbaleset-a-42-esen-egy-ember-meghalt-mezopeterdnel/",
+      "seo": {
+        "meta_title": "Halálos tömegbaleset a 42-esen: egy ember meghalt Mezőpeterd",
+        "meta_description": "Szombat délelőtt tömegbaleset történt a 42-es főúton Mezőpeterd közelében, ahol két személyautó és egy kisbusz ütközött össze. A tragédia következtében egy ötve",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-24-halalos-tomegbaleset-a-42-esen-egy-ember-meghalt-mezopeterdnel/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/36/KatSchutzUebungKarlsruhe2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2008284705c4b2f617d7b7788a7541a59251b886e5cc5aadca7f44dd2ff07a98",
+      "pipeline_run_id": "40109250373",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T18:29:10+02:00",
+      "updated_at": "2026-10-24T18:29:10+02:00",
+      "published_at": "2026-10-24T18:29:10+02:00",
+      "expires_at": null
+    },
     {
       "id": "8211868d-3bf1-52e1-b84e-f531db5ec95b",
       "slug": "2026-10-24-kosa-lajos-latvanypekseg-a-letartoztatasi-hullam-jon-a-folytatas",
@@ -68494,138 +68597,6 @@
       "updated_at": "2026-10-24T13:56:34+00:00",
       "published_at": "2026-10-02T17:53:39+02:00",
       "expires_at": null
-    },
-    {
-      "id": "43729cd9-3ced-5943-81b1-c197efef8824",
-      "slug": "2026-10-02-egyseges-parkolas-ossztuz-zudul-karacsony-gergelyre",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Budapest",
-        "parkolás",
-        "Karácsony Gergely",
-        "önkormányzat",
-        "útfelújítás"
-      ],
-      "title": "Egységes parkolás: össztűz zúdul Karácsony Gergelyre",
-      "subtitle": null,
-      "lead": "Pártállástól függetlenül fordultak szembe a budapesti kerületvezetők Karácsony Gergellyel, miután a Fővárosi Közfejlesztések Tanácsa döntött a parkolási bevételek központosításáról. A polgármesterek szerint a városházi útalap terve nem oldja meg a főváros gondjait, miközben a helyi kerületektől kulcsfontosságú forrásokat von el.",
-      "key_points": [
-        "Tizenhárom kerület helyett egyetlen központi rendszer működtetné a budapesti parkolást a kormány és a főváros megállapodása alapján.",
-        "Ellenzéki és kormánypárti kerületvezetők egyaránt tiltakoznak az egyeztetés nélküli elvonás ellen.",
-        "A parkolásból származó évi 10–15 milliárd forintos tiszta profitot Karácsony Gergely egy új útfelújítási alapba irányítaná.",
-        "A polgármesterek rámutattak: 306 fővárosi út legolcsóbb javítása is 100 milliárdba kerülne, így a lépés szerintük alig segít a valós problémákon."
-      ],
-      "content": "Ritkán látott politikai egység alakult ki Budapesten a csütörtöki Fővárosi Közfejlesztések Tanácsa (FKT) döntése nyomán: kormánypárti és ellenzéki kerületvezetők együtt tiltakoznak a parkolási rendszer központosítása ellen. Karácsony Gergely főpolgármester konszenzusként értékelte az állami és fővárosi vezetők megállapodását, amellyel 13 kerület helyett egy kézbe vonnák össze a teljes budapesti parkolási hálózatot. Ezzel a lépéssel a főváros magához vonja a működtetésből származó bevételeket és a profitot is.\n\nAhogy korábban beszámoltunk róla, az FKT ülésén a kormány és a főváros képviselői 120 milliárd forintos fejlesztési támogatásról és a közlekedés finanszírozásáról tárgyaltak, ám a kerületek képviselői nem vettek részt a megbeszélésen. A döntés előkészítésének hiányosságait jelzi, hogy Niedermüller Pétert, Erzsébetváros polgármesterét is mindössze szerda este fél kilenckor hívta fel a főpolgármester az egyezségről.\n\nA tiltakozás élére Baranyi Krisztina ferencvárosi, Pikó András józsefvárosi, Rózsa András zuglói és Soproni Tamás terézvárosi polgármester állt Niedermüller Péterrel közösen, de a felháborodáshoz azonnal csatlakozott az I. és az V. kerület fideszes vezetése, valamint a III. és a XI. kerület is. A városvezetők sérelmezik, hogy érdemi párbeszéd nélkül veszik el a helyi költségvetésekből a bevételeket, veszélyeztetve a köztisztasági és fenntartási feladatokat.\n\nA vita középpontjában álló összeg a becslések szerint évente 10 és 15 milliárd forint közötti tiszta profitot jelent. Karácsony Gergely közölte, hogy ezt az összeget nem az általános fővárosi költségvetési hiány foltozására szánják, hanem egy célzott útfelújítási alapba irányítják. Érvelése szerint a budapesti úthálózat 75 százaléka legalább 15 éve nem látott komolyabb felújítást, és a kerületi fenntartású útszakaszok is kapnának támogatást az új keretből.\n\nA kerületi vezetők szerint azonban a számok nem támasztják alá a fővárosi terveket. Baranyi Krisztina rámutatott, hogy a Fővárosi Önkormányzat kezelésében lévő utak közül 306 azonnali beavatkozást igényel, ám ezeknek még a legolcsóbb, felszíni kátyúzása is mintegy 100 milliárd forintot emésztene fel. Rózsa András zuglói polgármester szintén terelésnek nevezte az útkarbantartási érvelést, kiemelve, hogy a fővárosi utak túlnyomó részét eddig is azok a kerületek gondozták, amelyektől most éppen ezt a forrást készülnek elvonni.",
-      "content_format": "markdown",
-      "body": [
-        "Ritkán látott politikai egység alakult ki Budapesten a csütörtöki Fővárosi Közfejlesztések Tanácsa (FKT) döntése nyomán: kormánypárti és ellenzéki kerületvezetők együtt tiltakoznak a parkolási rendszer központosítása ellen. Karácsony Gergely főpolgármester konszenzusként értékelte az állami és fővárosi vezetők megállapodását, amellyel 13 kerület helyett egy kézbe vonnák össze a teljes budapesti parkolási hálózatot. Ezzel a lépéssel a főváros magához vonja a működtetésből származó bevételeket és a profitot is.",
-        "Ahogy korábban beszámoltunk róla, az FKT ülésén a kormány és a főváros képviselői 120 milliárd forintos fejlesztési támogatásról és a közlekedés finanszírozásáról tárgyaltak, ám a kerületek képviselői nem vettek részt a megbeszélésen. A döntés előkészítésének hiányosságait jelzi, hogy Niedermüller Pétert, Erzsébetváros polgármesterét is mindössze szerda este fél kilenckor hívta fel a főpolgármester az egyezségről.",
-        "A tiltakozás élére Baranyi Krisztina ferencvárosi, Pikó András józsefvárosi, Rózsa András zuglói és Soproni Tamás terézvárosi polgármester állt Niedermüller Péterrel közösen, de a felháborodáshoz azonnal csatlakozott az I. és az V. kerület fideszes vezetése, valamint a III. és a XI. kerület is. A városvezetők sérelmezik, hogy érdemi párbeszéd nélkül veszik el a helyi költségvetésekből a bevételeket, veszélyeztetve a köztisztasági és fenntartási feladatokat.",
-        "A vita középpontjában álló összeg a becslések szerint évente 10 és 15 milliárd forint közötti tiszta profitot jelent. Karácsony Gergely közölte, hogy ezt az összeget nem az általános fővárosi költségvetési hiány foltozására szánják, hanem egy célzott útfelújítási alapba irányítják. Érvelése szerint a budapesti úthálózat 75 százaléka legalább 15 éve nem látott komolyabb felújítást, és a kerületi fenntartású útszakaszok is kapnának támogatást az új keretből.",
-        "A kerületi vezetők szerint azonban a számok nem támasztják alá a fővárosi terveket. Baranyi Krisztina rámutatott, hogy a Fővárosi Önkormányzat kezelésében lévő utak közül 306 azonnali beavatkozást igényel, ám ezeknek még a legolcsóbb, felszíni kátyúzása is mintegy 100 milliárd forintot emésztene fel. Rózsa András zuglói polgármester szintén terelésnek nevezte az útkarbantartási érvelést, kiemelve, hogy a fővárosi utak túlnyomó részét eddig is azok a kerületek gondozták, amelyektől most éppen ezt a forrást készülnek elvonni."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 358,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Budapest_road_sign_P8230406_%2814934337770%29.jpg/1280px-Budapest_road_sign_P8230406_%2814934337770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 797,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "OLYMPUS DIGITAL CAMERA",
-        "credit": "Davide Rizzo from Pieve a Nievole (Tuscany), Planet Earth ('ntil now) / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_road_sign_P8230406_(14934337770).jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261002_parkolas-einstand-karacsony-gergely-sok-veszteseg-keves-penz-kerulet-polgarmester",
-          "title": "„Kevés pénzért sokat veszített” – hogyan tudnak visszavágni Karácsonynak a polgármesterek a parkolás einstandolásáért?",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T15:43:15+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-02T15:55:46+02:00"
-      },
-      "hot_score": 6.0,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261002_parkolas-einstand-karacsony-gergely-sok-veszteseg-keves-penz-kerulet-polgarmester"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/kozelet/2026-10-02-egyseges-parkolas-ossztuz-zudul-karacsony-gergelyre/",
-      "seo": {
-        "meta_title": "Egységes parkolás: össztűz zúdul Karácsony Gergelyre",
-        "meta_description": "Pártállástól függetlenül fordultak szembe a budapesti kerületvezetők Karácsony Gergellyel, miután a Fővárosi Közfejlesztések Tanácsa döntött a parkolási bevétel",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-02-egyseges-parkolas-ossztuz-zudul-karacsony-gergelyre/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Budapest_road_sign_P8230406_%2814934337770%29.jpg/1280px-Budapest_road_sign_P8230406_%2814934337770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "49a1742d-6794-5749-87f0-3131bc9920fb",
-        "a98aec1b-fa6a-595b-8d14-8c77df19389c"
-      ],
-      "see_also": [
-        {
-          "title": "Megállapodás született: pénzt kap a főváros",
-          "url": "/penzvilag/2026-10-01-megallapodas-szuletett-penzt-kap-a-fovaros/",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Kilencmilliárd forintért feszülnek egymásnak a budapesti kerületek",
-          "url": "/penzvilag/2026-10-01-kilencmilliard-forintert-feszulnek-egymasnak-a-budapesti-keruletek/",
-          "date": "2026-10-01"
-        }
-      ],
-      "thread_id": "49a1742d-6794-5749-87f0-3131bc9920fb",
-      "dedupe_hash": "576b8e726f083cc4cbe736bb22fae6cfa4834cdc7f7e9573c947071c0ee2bee3",
-      "pipeline_run_id": "37014810278",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T15:55:46+02:00",
-      "updated_at": "2026-10-02T15:55:46+02:00",
-      "published_at": "2026-10-02T15:55:46+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Budapest Parliament building",
-        "Gergely Karacsony",
-        "Budapest street parking",
-        "Budapest city sign",
-        "angry crowd protest",
-        "city traffic jam",
-        "municipal building"
-      ],
-      "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Bp_New_City_Hall_1.jpg/1280px-Bp_New_City_Hall_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Kert%C3%A9sz_Imre_t%C3%A1blaavat%C3%B3_%282022._okt%C3%B3ber_10.%29_-_Pik%C3%B3_Andr%C3%A1s.jpg/1280px-Kert%C3%A9sz_Imre_t%C3%A1blaavat%C3%B3_%282022._okt%C3%B3ber_10.%29_-_Pik%C3%B3_Andr%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://upload.wikimedia.org/wikipedia/commons/3/3a/Baranyi_Krisztina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Kar%C3%A1csony_Gergely_besz%C3%A9de_a_V%C3%A1rosh%C3%A1za_el%C5%91tt_%282%29.jpg/1280px-Kar%C3%A1csony_Gergely_besz%C3%A9de_a_V%C3%A1rosh%C3%A1za_el%C5%91tt_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Budapest_City_Hall.jpg/1280px-Budapest_City_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Pik%C3%B3_Andr%C3%A1s.jpg/1280px-Pik%C3%B3_Andr%C3%A1s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Baranyi_Krisztina_%28cropped%29_2.jpg/1280px-Baranyi_Krisztina_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Kar%C3%A1csony_Gergely_-_portrait.jpg/1280px-Kar%C3%A1csony_Gergely_-_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
     }
   ]
 }
