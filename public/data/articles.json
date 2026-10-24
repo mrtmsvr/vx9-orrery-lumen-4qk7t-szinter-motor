@@ -8065,15 +8065,15 @@
       "word_count": 329,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-0aa60d0494.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-0aa60d0494.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792836576-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792836576-0.jpg",
         "kind": "photo",
-        "alt": "Nyomásgyakorlásról beszélt Fürcht Pál a parlamentben",
-        "credit": "Kollektíva",
-        "license": "saját grafika",
+        "alt": "Megszólalt Fürcht Pál: felülről érkező utasítással akarták lezárni a vizsgálatot",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true,
-        "cover": true
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -8176,7 +8176,7 @@
       "pipeline_run_id": "39643435972",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T19:52:39+02:00",
-      "updated_at": "2026-10-21T21:03:40+00:00",
+      "updated_at": "2026-10-24T10:10:46+00:00",
       "published_at": "2026-10-21T19:52:39+02:00",
       "expires_at": null
     },
@@ -9386,15 +9386,15 @@
       "word_count": 214,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-ccd87fe0a3.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-ccd87fe0a3.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792836625-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792836625-0.jpg",
         "kind": "photo",
         "alt": "Egymilliárd eurót veszített Magyarország, de idén év végére egyezményt írnának alá",
-        "credit": "Kollektíva",
-        "license": "saját grafika",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true,
-        "cover": true
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -9502,7 +9502,7 @@
       "pipeline_run_id": "39569566635",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T10:55:44+02:00",
-      "updated_at": "2026-10-21T12:10:50+00:00",
+      "updated_at": "2026-10-24T10:10:46+00:00",
       "published_at": "2026-10-21T10:55:44+02:00",
       "expires_at": null
     },
