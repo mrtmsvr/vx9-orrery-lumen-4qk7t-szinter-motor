@@ -1,35 +1,35 @@
 {
-  "id": "b8e935b888",
-  "date": "2026-10-23",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-22-nemzeti-emlekmuzeumot-avat-56-nak-magyar-peter-a-bem-teren/",
-  "article_title": "Ötvenhatos emlékmúzeumot alapít a kormány",
+  "id": "30ae4b0651",
+  "date": "2026-10-24",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet/",
+  "article_title": "A Fitch szerint a kormány terveivel ellentétben magasabb hiány jöhet",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés egy új ötvenhatos emlékmúzeum alapítása?",
+      "question": "Ön szerint reális célkitűzés Magyarország számára a 2030-as euróbevezetés?",
       "options": [
-        "Igen, fontos a méltó emlékezés",
-        "Nem, másra kellene fordítani a pénzt",
+        "Igen, reális és fontos cél",
+        "Nem, ez túl korai lenne",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tartana fontosabbnak az emlékhely létrehozása helyett?",
+      "question": "Mit tart fontosabbnak a gazdaságpolitikában a következő években?",
       "options": [
-        "Az egészségügy fejlesztését",
-        "Az oktatás támogatását",
+        "A költségvetési hiány gyors csökkentését",
+        "A gazdasági növekedés ösztönzését",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a kormány kulturális kiadási politikáját?",
+      "question": "Helyesli-e, hogy a nemzetközi hitelminősítők eltérnek a hivatalos tervektől?",
       "options": [
-        "Támogatandó",
-        "Elutasítandó",
+        "Igen, a reális képet mutatják",
+        "Nem, alaptalanul aggódnak",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 8997
+  "msg_id": 9266
 }
