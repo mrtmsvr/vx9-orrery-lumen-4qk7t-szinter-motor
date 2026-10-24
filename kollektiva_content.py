@@ -2625,29 +2625,34 @@ def build_people_pages(public: Path, articles: list, today: date) -> list:
 
 
 def _newsletter_html(source: str = "cikk") -> str:
-    """Hírlevél-feliratkozás a cikkek alján (Brevo, /api/subscribe) + egyszeri, bezárható alsó sáv a cikk 60%-ánál."""
-    return f"""<div class="box nl" id="nlbox"><b>Heti Kollektíva</b><h3>A hét röviden, vasárnap reggel – 5 perc alatt képben leszel.</h3>
-<form id="nlf" novalidate><input type="email" id="nle" placeholder="e-mail címed" autocomplete="email" required>
-<input type="text" id="nlw" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
-<button type="submit">Feliratkozom</button>
-<label><input type="checkbox" id="nlc"> Kérem a heti levelet, és elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label>
-<small id="nlm" role="status"></small></form></div>
-<div id="nlbar" hidden><span>📬 <b>Heti Kollektíva</b> – a hét legfontosabb hírei vasárnap reggel</span><a href="#nlbox">Kérem</a><button type="button" aria-label="Bezárás">×</button></div>
-<style>.nl h3{{margin:6px 0 12px;font-size:18px;line-height:1.4;color:var(--parch)}}.nl b{{color:var(--brass);font-size:12px;letter-spacing:.16em;text-transform:uppercase}}
-.nl form{{display:flex;flex-wrap:wrap;gap:8px}}.nl input[type=email]{{flex:1 1 220px;padding:11px 14px;border-radius:999px;border:1px solid var(--line);background:var(--night);color:var(--parch);font:15px Manrope,system-ui,sans-serif}}
-.nl button{{padding:11px 18px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 14px Manrope,system-ui,sans-serif;cursor:pointer}}.nl label{{flex-basis:100%;font-size:13px}}.nl small{{flex-basis:100%;color:var(--brass)}}
-#nlbar{{position:fixed;left:50%;bottom:14px;transform:translateX(-50%);z-index:70;display:flex;align-items:center;gap:12px;max-width:calc(100% - 24px);padding:10px 12px 10px 16px;background:var(--vault);border:1px solid var(--brass);border-radius:999px;font-size:14px;box-shadow:0 8px 30px rgba(0,0,0,.4)}}
-#nlbar[hidden]{{display:none}}#nlbar a{{color:#0E1024;background:var(--brass);border-radius:999px;padding:6px 14px;text-decoration:none;font-weight:600;white-space:nowrap}}#nlbar button{{background:none;border:0;color:var(--dusk);font-size:20px;cursor:pointer}}</style>
-<script>(function(){{var K='nlbar_off',f=document.getElementById('nlf'),bar=document.getElementById('nlbar');
-function off(){{try{{return Date.now()<+(localStorage.getItem(K)||0)}}catch(x){{return false}}}}function hide(d){{bar.hidden=true;try{{localStorage.setItem(K,String(Date.now()+d*864e5))}}catch(x){{}}}}
-if(!off()){{var sh=false;addEventListener('scroll',function(){{if(sh)return;var r=scrollY/(document.body.scrollHeight-innerHeight);if(r>.6){{sh=true;bar.hidden=false}}}},{{passive:true}})}}
-bar.querySelector('button').onclick=function(){{hide(14)}};bar.querySelector('a').onclick=function(){{bar.hidden=true}};
-f.onsubmit=function(ev){{ev.preventDefault();var m=document.getElementById('nlm'),e=document.getElementById('nle').value.trim();
+    """Hírlevél: kicsi, egysoros doboz a cikk alján + jobb oldali „Hírlevél” fül (mint a bal oldali szavazás-fül),
+    rányomásra becsúszó kis panellel. Feliratkozás: Brevo, /api/subscribe. Feliratkozás után a fül eltűnik."""
+    return f"""<div class="nl" id="nlbox"><p><b>Heti Kollektíva</b> – a hét röviden, vasárnap reggel</p>
+<form class="nlf" novalidate><input type="email" placeholder="e-mail címed" autocomplete="email" aria-label="E-mail cím" required><button type="submit">Feliratkozom</button>
+<input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label><small role="status"></small></form></div>
+<button type="button" id="nltab" hidden aria-label="Hírlevél">✉<span>HÍRLEVÉL</span></button>
+<div id="nlpan" hidden><button type="button" class="x" aria-label="Bezárás">×</button><p><b>Heti Kollektíva</b><br>A hét legfontosabb hírei, vasárnap reggel, 5 perc.</p>
+<form class="nlf" novalidate><input type="email" placeholder="e-mail címed" autocomplete="email" aria-label="E-mail cím" required><button type="submit">Feliratkozom</button>
+<input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label><small role="status"></small></form></div>
+<style>.nl{{margin:28px 0;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font-size:14px;color:var(--dusk)}}.nl p{{margin:0 0 8px}}.nl b,#nlpan b{{color:var(--brass)}}
+.nlf{{display:flex;flex-wrap:wrap;gap:6px;align-items:center}}.nlf input[type=email]{{flex:1 1 160px;min-width:0;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--night);color:var(--parch);font:14px Manrope,system-ui,sans-serif}}
+.nlf button{{padding:7px 14px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 13px Manrope,system-ui,sans-serif;cursor:pointer}}.nlf label{{flex-basis:100%;font-size:12px;color:var(--dusk)}}.nlf small{{flex-basis:100%;font-size:12px;color:var(--brass)}}.nlf small:empty{{display:none}}
+#nltab{{position:fixed;right:0;top:46%;z-index:55;display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 7px;background:var(--vault);color:var(--brass);border:1px solid var(--brass);border-right:0;border-radius:10px 0 0 10px;cursor:pointer;font:700 15px/1 Manrope,system-ui,sans-serif}}
+#nltab span{{writing-mode:vertical-rl;transform:rotate(180deg);font-size:10px;letter-spacing:.16em}}#nltab[hidden],#nlpan[hidden]{{display:none}}
+#nlpan{{position:fixed;right:10px;top:calc(46% - 60px);z-index:60;width:min(300px,calc(100vw - 20px));padding:14px;background:var(--vault);border:1px solid var(--brass);border-radius:12px;font-size:13px;color:var(--dusk);box-shadow:0 8px 30px rgba(0,0,0,.45)}}#nlpan p{{margin:0 22px 10px 0;line-height:1.5}}
+#nlpan .x{{position:absolute;right:8px;top:4px;background:none;border:0;color:var(--dusk);font-size:20px;cursor:pointer}}</style>
+<script>(function(){{var K='nl_done',tab=document.getElementById('nltab'),pan=document.getElementById('nlpan');
+function done(){{try{{return !!localStorage.getItem(K)}}catch(x){{return false}}}}
+if(!done()){{var sh=false;function chk(){{if(sh)return;if(scrollY>innerHeight*.6){{sh=true;tab.hidden=false}}}}addEventListener('scroll',chk,{{passive:true}});chk()}}
+tab.onclick=function(){{pan.hidden=false;tab.hidden=true}};pan.querySelector('.x').onclick=function(){{pan.hidden=true;tab.hidden=done()}};
+document.querySelectorAll('.nlf').forEach(function(f){{f.onsubmit=function(ev){{ev.preventDefault();var m=f.querySelector('small'),e=f.querySelector('input[type=email]').value.trim();
 if(!/^[^\\s@]+@[^\\s@]+\\.[^\\s@]{{2,}}$/.test(e)){{m.textContent='Adj meg egy érvényes e-mail címet.';return}}
-if(!document.getElementById('nlc').checked){{m.textContent='Pipáld be a hozzájárulást.';return}}
-fetch('/api/subscribe',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{email:e,consent_at:new Date().toISOString(),source:'{source}',website:document.getElementById('nlw').value}})}})
-.then(function(r){{return r.json()}}).then(function(r){{if(r.ok){{f.innerHTML='<h3>Kész, feliratkoztál! Vasárnap jön az első levél.</h3>';hide(365)}}else m.textContent='Nem sikerült, próbáld újra később.'}})
-.catch(function(){{m.textContent='Nem sikerült, próbáld újra később.'}})}}}})();</script>"""
+if(!f.querySelector('input[type=checkbox]').checked){{m.textContent='Pipáld be a hozzájárulást.';return}}
+fetch('/api/subscribe',{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{email:e,consent_at:new Date().toISOString(),source:'{source}',website:f.querySelector('input[type=text]').value}})}})
+.then(function(r){{return r.json()}}).then(function(r){{if(r.ok){{f.innerHTML='<p>Kész, feliratkoztál! Vasárnap jön az első levél.</p>';try{{localStorage.setItem(K,'1')}}catch(x){{}}tab.hidden=true}}else m.textContent='Nem sikerült, próbáld újra később.'}})
+.catch(function(){{m.textContent='Nem sikerült, próbáld újra később.'}})}}}})}})();</script>"""
 
 
 def render_section_index(section: dict, articles: list) -> str:
