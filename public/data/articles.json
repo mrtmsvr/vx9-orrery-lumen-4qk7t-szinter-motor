@@ -1,7 +1,105 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T16:04:52+02:00",
+  "updated_at": "2026-10-24T16:24:52+02:00",
   "articles": [
+    {
+      "id": "8f913d23-44ae-5598-be3d-b74f68a2d0c3",
+      "slug": "2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Szerbia",
+        "energiabiztonság",
+        "szankciók",
+        "olajipar"
+      ],
+      "title": "Újabb amerikai engedélyért könyörög a szerb olajcég",
+      "subtitle": null,
+      "lead": "Működési engedélyének meghosszabbításáért folyamodik Washingtonban a Szerbiai Kőolajipari Vállalat, miután a feje felett lebegő amerikai szankciók miatt október 30-án lejár a jelenlegi határideje. A pancsovai finomító folyamatos üzemeltetése és a teljes szerbiai üzemanyag-ellátás közvetlen veszélybe került.",
+      "key_points": [
+        "A Szerbiai Kőolajipari Vállalat a működési engedélye meghosszabbítását kéri Washingtontól.",
+        "A jelenlegi felmentés október 30-án érvényét veszti, ami komoly energiabiztonsági kockázatot jelent.",
+        "Washington 2025 októberében vetett ki szankciókat a cégre az orosz többségi tulajdon miatt.",
+        "A korlátozások elkerülése érdekében az orosz tulajdonrész értékesítéséről is tárgyalások indultak."
+      ],
+      "content": "A Szerbiai Kőolajipari Vállalat szombati bejelentése szerint sürgős kérelmet nyújtott be az Egyesült Államok hatóságaihoz a működési engedélye meghosszabbításáért. A vállalat jelenlegi státusza október 30-án szűnik meg, így a következő napok kulcsfontosságúak az ország energiaellátása szempontjából.\n\nAz amerikai kormányzat még 2025. október 9-én indított korlátozó eljárást a NIS ellen, közvetlenül az orosz többségi tulajdonosi háttérre hivatkozva. A szankciók élesedése bénító csapást mérhet a pancsovai kőolajfinomító működésére, közvetve pedig a teljes szerbiai üzemanyagpiacra.\n\nA feszültség enyhítése érdekében a felek már korábban tárgyalássorozatot kezdtek az érintett orosz tulajdonrész esetleges értékesítéséről, ám a határidő vészesen közeledik.",
+      "content_format": "markdown",
+      "body": [
+        "A Szerbiai Kőolajipari Vállalat szombati bejelentése szerint sürgős kérelmet nyújtott be az Egyesült Államok hatóságaihoz a működési engedélye meghosszabbításáért. A vállalat jelenlegi státusza október 30-án szűnik meg, így a következő napok kulcsfontosságúak az ország energiaellátása szempontjából.",
+        "Az amerikai kormányzat még 2025. október 9-én indított korlátozó eljárást a NIS ellen, közvetlenül az orosz többségi tulajdonosi háttérre hivatkozva. A szankciók élesedése bénító csapást mérhet a pancsovai kőolajfinomító működésére, közvetve pedig a teljes szerbiai üzemanyagpiacra.",
+        "A feszültség enyhítése érdekében a felek már korábban tárgyalássorozatot kezdtek az érintett orosz tulajdonrész esetleges értékesítéséről, ám a határidő vészesen közeledik."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 133,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-5dd422a911.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-5dd422a911.jpg",
+        "kind": "photo",
+        "alt": "október 30. – a szankciós határidő lejárta",
+        "credit": "Kollektíva grafika",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "card": "num"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261024/nis-ugy-amerikahoz-fordulnak-a-szerbek-oktober-30-an-benito-csapas-johet-871778",
+          "title": "NIS-ügy: amerikához fordulnak a szerbek, október 30-án bénító csapás jöhet",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T16:05:31+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T16:24:52+02:00"
+      },
+      "hot_score": 6.17,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261024/nis-ugy-amerikahoz-fordulnak-a-szerbek-oktober-30-an-benito-csapas-johet-871778"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/vilag/2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg/",
+      "seo": {
+        "meta_title": "Újabb amerikai engedélyért könyörög a szerb olajcég",
+        "meta_description": "Működési engedélyének meghosszabbításáért folyamodik Washingtonban a Szerbiai Kőolajipari Vállalat, miután a feje felett lebegő amerikai szankciók miatt október",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/num-5dd422a911.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "25a2d47a003b84d0d1e682c3d806697590db4accbfbf9b106163ff951d604da4",
+      "pipeline_run_id": "40098906476",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T16:24:52+02:00",
+      "updated_at": "2026-10-24T16:24:52+02:00",
+      "published_at": "2026-10-24T16:24:52+02:00",
+      "expires_at": null
+    },
     {
       "id": "f05c1225-a36f-52aa-b203-27d5e4b32f18",
       "slug": "2026-10-24-levegoben-utkozott-a-fulop-szigeteki-legiero-ket-gepe-negy-pilota-meg",
@@ -68563,109 +68661,6 @@
       "created_at": "2026-10-02T15:50:05+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-02T15:50:05+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "0622f6b5-d68d-5c59-a140-ec3ac3fa950a",
-      "slug": "2026-10-02-fel-ora-alatt-elkeszul-a-vegleges-fogpotlas",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "fogászat",
-        "3D nyomtatás",
-        "technológia",
-        "egészségügy"
-      ],
-      "title": "Fél óra alatt elkészül a végleges fogpótlás",
-      "subtitle": null,
-      "lead": "A Texasi Egyetem kutatói olyan új eljárást fejlesztettek ki, amely harminc perc alá csökkenti a cirkónium-dioxid fogpótlások gyártási idejét. Az innovációnak köszönhetően a páciensek akár egyetlen rendelői látogatás után távozhatnak a végleges koronával.",
-      "key_points": [
-        "A 3D-nyomtatással készült cirkónium koronák eddigi legnagyobb akadálya a lassú kötőanyag-eltávolítás volt.",
-        "Az új technológia porózus grafitfilcet használ, amely képes átlépni az 1400 Celsius-fokos hőmérsékletet.",
-        "A folyamat kevesebb mint harminc percet vesz igénybe anélkül, hogy a korona megrepedne.",
-        "A jövőben a módszer feleslegessé teheti az ideiglenes fogpótlások alkalmazását."
-      ],
-      "content": "A fogászat egyik legmagasabb minőségi standardja a cirkónium-dioxid korona, amely kiemelkedő szilárdsággal bír, és pontosan illeszkedik a természetes fogakhoz. Eddig azonban a 3D-s nyomtatási technológia alkalmazásakor komoly nehézséget jelentett a kötőanyag-eltávolítás, azaz a debinding nevű fázis. A nyomtatás alatt a formát egyben tartó anyag eltávolítása jellemzően 20 és 100 óra közötti időt emésztett fel, mivel a túl gyors melegítés a korona törését vagy repedését okozta.\n\nA Texasi Egyetem szakemberei ezt a szűk keresztmetszetet oldották meg egy speciális eljárással, amely harminc percnél rövidebb időre sűríti ezt a lépést. A módszer kulcsa a jobb hőátadás mellett egy olyan porózus grafitfilc alkalmazása, amely 1400 Celsius-fok fölötti hőmérséklet elérésére képes. Ez a burkolat úgy veszi körül a nyomtatott tárgyat, hogy közben engedi távozni a gyanta elpárolgásakor keletkező gázokat, miközben épségben tartja a szerkezetet.\n\nA mindennapi fogorvosi gyakorlatban ez a fejlesztés radikális átalakulást hozhat, hiszen jelenleg a pácienseknek heteket kell várniuk a végleges pótlásra, és ideiglenes megoldásokra van szükségük. A marással készült azonnali cirkónium pótlások eddig korlátozott tervezési rugalmasságot nyújtottak, és mikrorepedések kockázatával jártak. Az új 3D-nyomtatási áttörés viszont megnyitja az utat az egynapos, végleges beavatkozások előtt, amint lezajlanak a szükséges klinikai validációk és a hatósági engedélyeztetések.",
-      "content_format": "markdown",
-      "body": [
-        "A fogászat egyik legmagasabb minőségi standardja a cirkónium-dioxid korona, amely kiemelkedő szilárdsággal bír, és pontosan illeszkedik a természetes fogakhoz. Eddig azonban a 3D-s nyomtatási technológia alkalmazásakor komoly nehézséget jelentett a kötőanyag-eltávolítás, azaz a debinding nevű fázis. A nyomtatás alatt a formát egyben tartó anyag eltávolítása jellemzően 20 és 100 óra közötti időt emésztett fel, mivel a túl gyors melegítés a korona törését vagy repedését okozta.",
-        "A Texasi Egyetem szakemberei ezt a szűk keresztmetszetet oldották meg egy speciális eljárással, amely harminc percnél rövidebb időre sűríti ezt a lépést. A módszer kulcsa a jobb hőátadás mellett egy olyan porózus grafitfilc alkalmazása, amely 1400 Celsius-fok fölötti hőmérséklet elérésére képes. Ez a burkolat úgy veszi körül a nyomtatott tárgyat, hogy közben engedi távozni a gyanta elpárolgásakor keletkező gázokat, miközben épségben tartja a szerkezetet.",
-        "A mindennapi fogorvosi gyakorlatban ez a fejlesztés radikális átalakulást hozhat, hiszen jelenleg a pácienseknek heteket kell várniuk a végleges pótlásra, és ideiglenes megoldásokra van szükségük. A marással készült azonnali cirkónium pótlások eddig korlátozott tervezési rugalmasságot nyújtottak, és mikrorepedések kockázatával jártak. Az új 3D-nyomtatási áttörés viszont megnyitja az utat az egynapos, végleges beavatkozások előtt, amint lezajlanak a szükséges klinikai validációk és a hatósági engedélyeztetések."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 231,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/968/28368615508_3dd464f9e7_b.jpg",
-        "width": 1024,
-        "height": 725,
-        "kind": "photo",
-        "alt": "Surgery in the Rail Dental Clinic",
-        "credit": "Queensland State Archives / flickr",
-        "license": "Public domain",
-        "source_url": "https://www.flickr.com/photos/60455048@N02/28368615508"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/tudomany/20261002_tartos-fogpotlas-gyorsan-korona-fogaszat",
-          "title": "Azonnal kész a fogpótlás: tartós korona pár óra alatt",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T15:45:31+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-02T15:50:02+02:00"
-      },
-      "hot_score": 5.77,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/tudomany/20261002_tartos-fogpotlas-gyorsan-korona-fogaszat"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/tech/2026-10-02-fel-ora-alatt-elkeszul-a-vegleges-fogpotlas/",
-      "seo": {
-        "meta_title": "Fél óra alatt elkészül a végleges fogpótlás",
-        "meta_description": "A Texasi Egyetem kutatói olyan új eljárást fejlesztettek ki, amely harminc perc alá csökkenti a cirkónium-dioxid fogpótlások gyártási idejét. Az innovációnak kö",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-02-fel-ora-alatt-elkeszul-a-vegleges-fogpotlas/",
-        "og_image": "https://live.staticflickr.com/968/28368615508_3dd464f9e7_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "35dc1aee-8209-541f-a0fa-921b5928f7a6"
-      ],
-      "see_also": [
-        {
-          "title": "Fürdőszobai krém hozhatja el a lítiumforradalmat",
-          "url": "/tech/2026-09-30-furdoszobai-krem-hozhatja-el-a-litiumforradalmat/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": "35dc1aee-8209-541f-a0fa-921b5928f7a6",
-      "dedupe_hash": "25985f5b52cbe50fb6bc51133ff69b1a05b0feb0a2869270208ca1aec0e89b55",
-      "pipeline_run_id": "37014810278",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T15:50:02+02:00",
-      "updated_at": "2026-10-02T15:50:02+02:00",
-      "published_at": "2026-10-02T15:50:02+02:00",
       "expires_at": null
     }
   ]
