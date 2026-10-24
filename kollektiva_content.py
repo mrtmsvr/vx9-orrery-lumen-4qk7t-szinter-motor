@@ -2188,7 +2188,7 @@ def _page(title: str, description: str, canonical: str, body: str, head_extra: s
 <footer>© {datetime.now().year} {SITE_NAME}<br><a href="/">Főoldal</a>{NAV_LINKS}<a href="/feed.xml">RSS</a><br><a href="/info/#impresszum">Impresszum</a><a href="/info/#adatkezeles">Adatkezelés</a><a href="/info/#sutik">Sütik</a><a href="/info/#hirdetes">Hirdetés</a>{sup_link}{GPREF_FOOT}</footer>
 {NEW_TOAST_HTML}
 <script src="/poll-widget.js?v=10" defer></script>
-<script>try{{navigator.sendBeacon("/api/olvas",JSON.stringify({{p:location.pathname,r:document.referrer}}))}}catch(e){{}}</script>
+<script>try{{if(/[?&]en=1/.test(location.search))localStorage.setItem("kv_en","1");if(/[?&]en=0/.test(location.search))localStorage.removeItem("kv_en");if(!localStorage.getItem("kv_en"))navigator.sendBeacon("/api/olvas",JSON.stringify({{p:location.pathname,r:document.referrer}}))}}catch(e){{}}</script>
 </body>
 </html>
 """
