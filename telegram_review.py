@@ -499,7 +499,9 @@ def _quality_check(out_dir: Path, tz: ZoneInfo) -> None:
                                                          + "\n".join(f"• {x['title']} ({x.get('n')})" for x in rows[:25]))[:4000]})
     if time.time() - _QC_LAST < int(os.getenv("QC_EVERY_MIN", "15")) * 60:
         return
-    if not _in_hours(os.getenv("QC_HOURS", "2-6,8-10,13-15,21-23"), now.hour):
+    # a csendes órákban a régi cikkek is; azon kívül csak a friss (1–12 órája kint lévő) cikkek – így ami aznap kimegy,
+    # azt még aznap átnézi (a régiek átnézése 10.24-re lényegében kész)
+    if not _in_hours(os.getenv("QC_HOURS", "2-6,8-10,13-15,21-23"), now.hour) and not kc.qc_fresh_pending(out_dir):
         return
     if now.hour >= 7 and kc.ai_quota_out():
         return
