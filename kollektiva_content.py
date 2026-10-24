@@ -2637,8 +2637,11 @@ def _newsletter_html(source: str = "cikk") -> str:
             '<button type="submit">Feliratkozom</button><input type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">'
             '<label><input type="checkbox"> Elfogadom az <a href="/info/#adatkezeles" target="_blank">adatkezelési tájékoztatót</a>.</label>'
             + gbtn + '<small role="status"></small></form>')
-    return f"""<div class="nl" id="nlbox"><p><b>Heti Kollektíva</b> – a hét röviden, vasárnap reggel</p>{form}</div>
-<style>.nl{{margin:28px 0;padding:12px 14px;border:1px solid var(--line);border-radius:10px;font-size:14px;color:var(--dusk)}}.nl p{{margin:0 0 8px}}.nl b{{color:var(--brass)}}
+    # összecsukva egyetlen hosszú gomb a Megosztás-sor alatt; rányomásra nyílik le az űrlap (kevés hely, látszik a többi hír)
+    return f"""<details class="nl" id="nlbox"><summary>✉ Heti Kollektíva – hírlevél</summary><div class="nlb"><p>A hét röviden, vasárnap reggel – 5 perc alatt képben leszel.</p>{form}</div></details>
+<style>.nl{{margin:10px 0 28px;font-size:14px;color:var(--dusk)}}.nl summary{{list-style:none;cursor:pointer;text-align:center;padding:11px 16px;border:1px solid var(--line);border-radius:999px;font:600 14px Manrope,system-ui,sans-serif;color:var(--parch)}}
+.nl summary::-webkit-details-marker{{display:none}}.nl summary:hover{{border-color:var(--brass);color:var(--brass)}}.nl[open] summary{{border-color:var(--brass);color:var(--brass)}}
+.nlb{{margin-top:10px;padding:12px 14px;border:1px solid var(--line);border-radius:12px}}.nlb p{{margin:0 0 8px}}
 .nlf{{display:flex;flex-wrap:wrap;gap:6px;align-items:center}}.nlf input[type=email]{{flex:1 1 160px;min-width:0;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--night);color:var(--parch);font:14px Manrope,system-ui,sans-serif}}
 .nlf button[type=submit]{{padding:7px 14px;border:0;border-radius:999px;background:var(--brass);color:#0E1024;font:600 13px Manrope,system-ui,sans-serif;cursor:pointer}}.nlf label{{flex-basis:100%;font-size:12px;color:var(--dusk)}}.nlf small{{flex-basis:100%;font-size:12px;color:var(--brass)}}.nlf small:empty{{display:none}}
 .nlf .ggl{{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;color:#1f1f1f;font:600 12px Manrope,system-ui,sans-serif;cursor:pointer}}
