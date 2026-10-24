@@ -43,7 +43,7 @@ jobs:
       REVIEW_MODE: hybrid
       AUTO_PUBLISH_NEWS: "false"
       AUTO_PUBLISH_MIN: "30"
-      REVIEW_SLOTS: "07:00,11:30,16:00,20:00"
+      REVIEW_SLOTS: "08:00,13:00,19:00"
       ARTICLES_PER_SLOT: "5"
       MAX_PER_SECTION_RUN: "2"
       # jóváhagyás nélkül kikerülő rovatok (jogi 🔴 esetén ezek is várnak); bulvár naponta max. 1, NASA/űr hetente max. 2
