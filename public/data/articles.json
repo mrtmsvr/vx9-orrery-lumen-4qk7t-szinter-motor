@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T20:09:51+02:00",
+  "updated_at": "2026-10-24T20:13:15+02:00",
   "articles": [
     {
       "id": "086923b6-edbc-520b-807a-bff3998a578b",
@@ -258,16 +258,18 @@
       "word_count": 364,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/1280px-Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG/1280px-Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 732,
+        "height": 900,
         "kind": "photo",
         "pos": "center",
-        "alt": "Parliament building, Budapest",
-        "credit": "Dirk Beyer / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_Parliament_4604.JPG",
-        "vision_score": 9.0
+        "alt": "Live on the 21st   of  September, 2015.  House of Commons,  Budapest, Hungary.  On this day  Autumn  Session of  the Parliament, first day.  Viktor Orbán adressing the House:  Dealing with  mass migra",
+        "credit": "Elekes Andor / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_(1).JPG",
+        "exact": true,
+        "entity": "Hungarian National Assembly",
+        "vision_score": 11.0
       },
       "inline_images": [],
       "sources": [
@@ -320,7 +322,7 @@
         "meta_title": "Parlament előtt a javaslat, amely kisöpörné a politikusokat ",
         "meta_description": "Benyújtották az Országgyűlésnek a sportösszeférhetetlenségi törvénycsomagot, amely november végén már zárószavazásra is kerülhet. A jogszabály célja, hogy megsz",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-24-parlament-elott-a-javaslat-amely-kisoporne-a-politikusokat-a-klubelno/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/1280px-Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG/1280px-Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -338,7 +340,7 @@
       "pipeline_run_id": "40117610379",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-24T20:00:14+02:00",
-      "updated_at": "2026-10-24T20:00:14+02:00",
+      "updated_at": "2026-10-24T20:13:15+02:00",
       "published_at": "2026-10-24T20:00:14+02:00",
       "expires_at": null
     },
