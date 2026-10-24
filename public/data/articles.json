@@ -9652,15 +9652,15 @@
       "word_count": 156,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1045398161.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-1045398161.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-bb4b161a97.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-bb4b161a97.jpg",
         "kind": "photo",
-        "alt": "Matolcsy György őrizetben",
-        "credit": "Kollektíva",
+        "alt": "60 milliárd forint – indokolatlan túlfizetés gyanúja az Optima csoportnál",
+        "credit": "Kollektíva grafika",
         "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
         "generated": true,
-        "cover": true
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -9741,7 +9741,7 @@
       "pipeline_run_id": "39562525647",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T09:39:35+02:00",
-      "updated_at": "2026-10-21T09:39:35+02:00",
+      "updated_at": "2026-10-24T10:20:30+00:00",
       "published_at": "2026-10-21T09:39:35+02:00",
       "expires_at": null,
       "hold": true
@@ -10900,15 +10900,15 @@
       "word_count": 204,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-c4d83b5b72.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-c4d83b5b72.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792837214-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792837214-0.jpg",
         "kind": "photo",
         "alt": "Budapesten tárgyalt az izraeli államfő és Magyar Péter",
-        "credit": "Kollektíva",
-        "license": "saját grafika",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true,
-        "cover": true
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -11017,7 +11017,7 @@
       "pipeline_run_id": "39464876633",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-20T19:46:08+02:00",
-      "updated_at": "2026-10-20T20:52:47+00:00",
+      "updated_at": "2026-10-24T10:20:30+00:00",
       "published_at": "2026-10-20T19:46:08+02:00",
       "expires_at": null
     },
