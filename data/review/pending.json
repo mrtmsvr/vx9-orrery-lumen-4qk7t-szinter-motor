@@ -12204,9 +12204,9 @@
       "scheduled_at": "2026-10-24T09:04:45+02:00"
     },
     {
-      "id": "bb93e06e-6365-5f1e-8bd7-cb992e56f4b9",
-      "slug": "2026-10-24-januartol-allhat-le-a-munka-europa-legnagyobb-autogyartojanal",
-      "status": "pending",
+      "id": "e75b8193-ec70-5ed7-b71e-b3768a04db2b",
+      "slug": "2026-10-24-berbefagyasztas-es-leepitesek-elesedik-a-konfliktus-a-volkswagennel",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -12216,7 +12216,7 @@
         "munkaerőpiac",
         "Németország"
       ],
-      "title": "Januártól állhat le a munka Európa legnagyobb autógyártójánál",
+      "title": "Bérbefagyasztás és leépítések: élesedik a konfliktus a Volkswagennél",
       "subtitle": null,
       "lead": "Január elejétől munkabeszüntetés kezdődhet a Volkswagennél, miután a vállalat vezetése felmondta az eddigi bérmegállapodásokat. A cégcsoport a kínai piaci nehézségek és az átállási költségek miatt jelentős megtakarításokat tervez, ami akár 100 ezer munkahelyet is érinthet.",
       "key_points": [
@@ -12237,15 +12237,15 @@
       "word_count": 345,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg/1280px-Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wolfsburg_-_Volkswagen_Assembly_Line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 854,
+        "height": 829,
         "kind": "photo",
         "pos": "center",
-        "alt": "Wolfsburg Nord thermal power station (part of the Volkswagen factory, Wolfsburg, Lower Saxony, Germany)",
-        "credit": "Dietmar Rabich / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Wolfsburg,_Volkswagenwerk_--_2009_--_0822.jpg",
+        "alt": "Inside the Volkswagen plant. The bodies are dropped from an overhead line to be attached to the chassis.",
+        "credit": "Roger Wollstadt / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Wolfsburg_-_Volkswagen_Assembly_Line.jpg",
         "unverified": true
       },
       "inline_images": [],
@@ -12347,12 +12347,12 @@
       },
       "date": "2026-10-24",
       "date_label": "október 24.",
-      "url": "/penzvilag/2026-10-24-januartol-allhat-le-a-munka-europa-legnagyobb-autogyartojanal/",
+      "url": "/penzvilag/2026-10-24-berbefagyasztas-es-leepitesek-elesedik-a-konfliktus-a-volkswagennel/",
       "seo": {
-        "meta_title": "Januártól állhat le a munka Európa legnagyobb autógyártójáná",
+        "meta_title": "Bérbefagyasztás és leépítések: élesedik a konfliktus a Volks",
         "meta_description": "Január elejétől munkabeszüntetés kezdődhet a Volkswagennél, miután a vállalat vezetése felmondta az eddigi bérmegállapodásokat. A cégcsoport a kínai piaci nehéz",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-januartol-allhat-le-a-munka-europa-legnagyobb-autogyartojanal/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg/1280px-Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-berbefagyasztas-es-leepitesek-elesedik-a-konfliktus-a-volkswagennel/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wolfsburg_-_Volkswagen_Assembly_Line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12377,9 +12377,9 @@
       "dedupe_hash": "14e499f2f11ca29c98103cf4d889c886d6c4ca37ff609c1a9ad93ee8c2a2ff65",
       "pipeline_run_id": "40063683311",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T06:52:16+02:00",
-      "updated_at": "2026-10-24T06:52:16+02:00",
-      "published_at": "2026-10-24T06:52:16+02:00",
+      "created_at": "2026-10-24T08:44:45+02:00",
+      "updated_at": "2026-10-24T08:44:45+02:00",
+      "published_at": "2026-10-24T08:44:45+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12392,9 +12392,9 @@
         "msg_ids": [],
         "control_id": 9208,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:44 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-24T08:44:45+02:00"
+      "live": true
     },
     {
       "id": "5c6c3f12-3033-5ea9-b714-8294c12ca0de",
