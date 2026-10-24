@@ -4758,7 +4758,7 @@ def main(argv: Optional[list] = None) -> int:
                     log.warning("Instagram-jóváhagyások kimaradtak: %s", e)
                     ig_wait = 0
                 if chat and (waiting or ig_wait):
-                    tr.tg("sendMessage", {"chat_id": chat, "_ping": True, "text": f"🗂 Jóváhagyási kör ({os.getenv('CURRENT_SLOT')[-5:]}): "
+                    tr.tg("sendMessage", {"chat_id": chat, "_ping": bool(ig_wait), "text": f"🗂 Jóváhagyási kör ({os.getenv('CURRENT_SLOT')[-5:]}): "
                                           + (f"{len(waiting)} cikk vár rád. " if waiting else "")
                                           + (f"{ig_wait} Instagram-poszt AI-képpel vár jóváhagyásra. " if ig_wait else ""),
                                           "reply_markup": {"inline_keyboard": [[{"text": "📋 Mind a chat aljára",
