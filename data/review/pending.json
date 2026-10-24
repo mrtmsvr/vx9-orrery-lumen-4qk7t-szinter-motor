@@ -12476,7 +12476,7 @@
     {
       "id": "c93a1f61-3e7d-5612-8fff-bc8d983cc309",
       "slug": "2026-10-24-6-9-es-renges-es-cunamiveszely-kettos-foldrenges-csapott-le-vanuatuna",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12689,9 +12689,9 @@
       "dedupe_hash": "1bfc70cd3f956703bed9387c4e418f5fe1bad2b28f844f815c062b327e62eab2",
       "pipeline_run_id": "40080454817",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T11:19:37+02:00",
-      "updated_at": "2026-10-24T11:19:37+02:00",
-      "published_at": "2026-10-24T11:19:37+02:00",
+      "created_at": "2026-10-24T11:45:52+02:00",
+      "updated_at": "2026-10-24T11:45:52+02:00",
+      "published_at": "2026-10-24T11:45:52+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -12704,9 +12704,9 @@
         "msg_ids": [],
         "control_id": 9282,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 11:43 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-24T11:43:16+02:00"
+      "live": true
     },
     {
       "id": "96ef6bed-d2b8-552f-8c2f-682639c7329c",
