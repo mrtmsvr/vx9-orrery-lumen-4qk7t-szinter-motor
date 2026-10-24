@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-10-17T08:23:38+02:00",
+  "updated_at": "2026-10-24T08:14:27+02:00",
   "quizzes": [
+    {
+      "id": "76ec7a59a4",
+      "week": "2026-W43",
+      "date": "2026-10-24",
+      "title": "Tudáspróba: a hét legfontosabb hírei",
+      "created_at": "2026-10-24T08:14:27+02:00",
+      "questions": [
+        {
+          "question": "Ki látogatott Budapestre október 20-án, hogy Magyar Péterrel tárgyaljon?",
+          "options": [
+            "Jichák Hercog",
+            "Volodimir Zelenszkij",
+            "Emmanuel Macron",
+            "Donald Tusk"
+          ],
+          "correct": 0,
+          "explain": "Jichák Hercog izraeli államelnök érkezett Budapestre kétoldalú tárgyalásokra.",
+          "article_url": "/kozelet/2026-10-20-budapesten-targyalt-az-izraeli-allamfo-es-magyar-peter/",
+          "article_title": "Budapesten tárgyalt az izraeli államfő és Magyar Péter",
+          "category": "kozelet"
+        },
+        {
+          "question": "Melyik állami szerv éléről távozott Bódis László vezérigazgató?",
+          "options": [
+            "Nemzeti Adóhivatal",
+            "Magyar Turisztikai Ügynökség",
+            "Központi Statisztikai Hivatal",
+            "Nemzeti Innovációs Ügynökség"
+          ],
+          "correct": 3,
+          "explain": "A Tudományos és Technológiai Minisztérium jelentette be Bódis László leváltását a NIÜ éléről.",
+          "article_url": "/kozelet/2026-10-19-varatlan-vezetocsere-a-nemzeti-innovacios-ugynoksegnel/",
+          "article_title": "Váratlan vezetőcsere a Nemzeti Innovációs Ügynökségnél",
+          "category": "kozelet"
+        },
+        {
+          "question": "Kik kaptak állami kitüntetést az október 23-i ünnepségen az Országházban?",
+          "options": [
+            "Krasznahorkai László és Schiff András",
+            "Puskás Ferenc és Hosszú Katinka",
+            "Kossuth Lajos és Petőfi Sándor",
+            "Orbán Viktor és Gyurcsány Ferenc"
+          ],
+          "correct": 0,
+          "explain": "Az 1956-os forradalom 70. évfordulója alkalmából Krasznahorkai László és Schiff András is elismerésben részesült.",
+          "article_url": "/kozelet/2026-10-21-krasznahorkai-es-schiff-is-allami-dijat-kapott/",
+          "article_title": "Krasznahorkai és Schiff is állami díjat kapott",
+          "category": "kozelet"
+        },
+        {
+          "question": "Ki váltja Kivés Zoltánt a helyettes államtitkári pozícióban?",
+          "options": [
+            "Magyar Péter",
+            "Peresztegi Gergely",
+            "Sébastien Lecornu",
+            "Bódis László"
+          ],
+          "correct": 1,
+          "explain": "November 2-tól a korábban a Pénzügyminisztériumban dolgozó Peresztegi Gergely veszi át a posztot.",
+          "article_url": "/kozelet/2026-10-23-uj-embert-ultetett-a-miniszteriumba-a-kormany-menesztettek-kives-zolt/",
+          "article_title": "Új embert ültetett a minisztériumba a kormány: menesztették Kivés Zoltánt",
+          "category": "kozelet"
+        },
+        {
+          "question": "Meddig maradnak érvényben az oroszokkal szembeni uniós szankciók?",
+          "options": [
+            "Az év végéig",
+            "A háború végéig",
+            "Határozatlan ideig",
+            "2027 tavaszáig"
+          ],
+          "correct": 1,
+          "explain": "Az Európai Bizottság egyértelművé tette, hogy a korlátozások a háború lezárulásáig érvényben maradnak.",
+          "article_url": "/vilag/2026-10-21-meddig-maradnak-az-orosz-szankciok/",
+          "article_title": "Meddig maradnak az orosz szankciók?",
+          "category": "vilag"
+        },
+        {
+          "question": "Melyik francia városban gyújtották fel a 143 éves városházát?",
+          "options": [
+            "Trappes",
+            "Lyon",
+            "Párizs",
+            "Limoges"
+          ],
+          "correct": 3,
+          "explain": "Terrorizmusellenes eljárás indult a 143 éves limoges-i városháza felgyújtása miatt.",
+          "article_url": "/vilag/2026-10-20-terroristavaddal-birosag-ele-allitjak-a-143-eves-varoshaza-felgyujtoj/",
+          "article_title": "Terroristaváddal bíróság elé állítják a 143 éves városháza felgyújtóját",
+          "category": "vilag"
+        },
+        {
+          "question": "Hány páros maradt együtt a Házasság első látásra végére?",
+          "options": [
+            "Kettő",
+            "Három",
+            "Egyik sem",
+            "Összesen négy"
+          ],
+          "correct": 2,
+          "explain": "A kísérlet negyedik évadának végére egyetlen páros sem döntött úgy, hogy fenntartja a házasságát.",
+          "article_url": "/bulvar/2026-10-17-teljes-kudarc-a-hazassag-elso-latasra-finalejaban/",
+          "article_title": "Teljes kudarc a Házasság első látásra fináléjában",
+          "category": "bulvar"
+        },
+        {
+          "question": "Melyik pályaszámú nosztalgiavillamos várta az érdeklődőket a Deák téren?",
+          "options": [
+            "500-as",
+            "1956-os",
+            "100-as",
+            "2624-es"
+          ],
+          "correct": 3,
+          "explain": "A 120 éves, 2624-es pályaszámú villamos adott otthont a kulturális programnak.",
+          "article_url": "/kultura/2026-10-21-versekkel-es-naplokkal-varja-a-nosztalgiazokat-a-deak-teri-villamos/",
+          "article_title": "Versekkel és naplókkal várja a nosztalgiázókat a Deák téri villamos",
+          "category": "kultura"
+        }
+      ]
+    },
     {
       "id": "225bb50b14",
       "week": "2026-W42",
