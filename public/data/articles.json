@@ -1,7 +1,104 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T20:50:13+02:00",
+  "updated_at": "2026-10-24T21:04:26+02:00",
   "articles": [
+    {
+      "id": "b91a7862-951e-5f5a-be08-8a1dba64f41d",
+      "slug": "2026-10-24-megvan-az-ev-masodik-lottomilliardosa-otmillioert-vette-meg-a-szerenc",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "Ötöslottó",
+        "Szerencsejáték Zrt.",
+        "főnyeremény",
+        "lottónyeremény"
+      ],
+      "title": "Megvan az év második lottómilliárdosa: ötmillióért vette meg a szerencsét",
+      "subtitle": null,
+      "lead": "Több mint ötmillió forint híján 5,2 milliárd forintos főnyereményt hozott a szombati számsorsolás az Ötöslottón. A hatalmas összegért a sorsolást követő három hónapon belül kell jelentkeznie a lottótársaságnál a szerencsés nyertesnek.",
+      "key_points": [
+        "Pontosan 5 197 132 880 forint talált gazdára a szombati húzáson.",
+        "A főnyeremény elviteléhez a 12, 36, 68, 84, 89-es számokat kellett eltalálni.",
+        "Huszonegyen is örülhettek a négyes találatnak, szelvényenként 3,2 millió forint jár nekik."
+      ],
+      "content": "Az év második telitalálatát hozta a szombati számsorsolás, amely során az Ötöslottó eddigi ötödik legmagasabb összegű főnyereményét vihette haza egyetlen játékos. A Szerencsejáték Zrt. közleménye szerint a pontos nyereményösszeg 5 197 132 880 forint, amihez a 12, 36, 68, 84 és 89-es számok helyes megjátszása kellett. A telitalálat mellett a kisebb nyeremények is figyelmet érdemelnek: huszonegyen találták el a négyest, amiért szelvényenként 3,2 millió forint jár a tulajdonosoknak.\n\nA hatalmas vagyon birtokosának szigorú szabályokhoz kell tartania magát a kifizetési folyamatban. A sorsolás másnapjától számított 90 napon belül fel kell hívnia a nemzeti lottótársaság úgynevezett nagynyertes-vonalát, ahol elindul a beazonosítás. A lottótársaság munkatársa a hívás során ellenőrzi a vonal túloldalán lévő személy adatait, ezt követően kerülhet sor a személyes találkozóra és az adatok egyeztetésére.\n\nA többmilliárdos összeg átvételéhez elengedhetetlen, hogy a nyertes saját nevére szóló, Magyarországon nyitott folyószámlával rendelkezzen. A lottótársaság ugyanis a nagy összegű nyeremények kifizetését minden esetben banki átutalással teljesíti.",
+      "content_format": "markdown",
+      "body": [
+        "Az év második telitalálatát hozta a szombati számsorsolás, amely során az Ötöslottó eddigi ötödik legmagasabb összegű főnyereményét vihette haza egyetlen játékos. A Szerencsejáték Zrt. közleménye szerint a pontos nyereményösszeg 5 197 132 880 forint, amihez a 12, 36, 68, 84 és 89-es számok helyes megjátszása kellett. A telitalálat mellett a kisebb nyeremények is figyelmet érdemelnek: huszonegyen találták el a négyest, amiért szelvényenként 3,2 millió forint jár a tulajdonosoknak.",
+        "A hatalmas vagyon birtokosának szigorú szabályokhoz kell tartania magát a kifizetési folyamatban. A sorsolás másnapjától számított 90 napon belül fel kell hívnia a nemzeti lottótársaság úgynevezett nagynyertes-vonalát, ahol elindul a beazonosítás. A lottótársaság munkatársa a hívás során ellenőrzi a vonal túloldalán lévő személy adatait, ezt követően kerülhet sor a személyes találkozóra és az adatok egyeztetésére.",
+        "A többmilliárdos összeg átvételéhez elengedhetetlen, hogy a nyertes saját nevére szóló, Magyarországon nyitott folyószámlával rendelkezzen. A lottótársaság ugyanis a nagy összegű nyeremények kifizetését minden esetben banki átutalással teljesíti."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 186,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-b095a0ad57.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-b095a0ad57.jpg",
+        "kind": "photo",
+        "alt": "5,197,132,880 Ft – főnyeremény összege",
+        "credit": "Kollektíva grafika",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "card": "num"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/10/24/szombat-este-egyik-pillanatrol-a-masikra-519-milliard-forinttal-lett-gazdagabb-egy-ember-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Szombat este egyik pillanatról a másikra 5,19 milliárd forinttal lett gazdagabb egy ember Magyarországon",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T21:02:12+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T21:04:26+02:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/10/24/szombat-este-egyik-pillanatrol-a-masikra-519-milliard-forinttal-lett-gazdagabb-egy-ember-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/penzvilag/2026-10-24-megvan-az-ev-masodik-lottomilliardosa-otmillioert-vette-meg-a-szerenc/",
+      "seo": {
+        "meta_title": "Megvan az év második lottómilliárdosa: ötmillióért vette meg",
+        "meta_description": "Több mint ötmillió forint híján 5,2 milliárd forintos főnyereményt hozott a szombati számsorsolás az Ötöslottón. A hatalmas összegért a sorsolást követő három h",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-24-megvan-az-ev-masodik-lottomilliardosa-otmillioert-vette-meg-a-szerenc/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/num-b095a0ad57.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "089bc28ec5745226ac5ff36179966c2a9b984c720f5cf2756616c98765da9a08",
+      "pipeline_run_id": "40121558399",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T21:04:26+02:00",
+      "updated_at": "2026-10-24T21:04:26+02:00",
+      "published_at": "2026-10-24T21:04:26+02:00",
+      "expires_at": null
+    },
     {
       "id": "f0696caa-03c6-5ac6-9ee7-932aede2dc65",
       "slug": "2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai",
@@ -68448,138 +68545,6 @@
       "created_at": "2026-10-02T22:17:37+02:00",
       "updated_at": "2026-10-02T22:17:37+02:00",
       "published_at": "2026-10-02T22:17:37+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "e9bdfa62-6d8e-5e5b-816b-1e893208b382",
-      "slug": "2026-10-02-magyar-peter-az-arresstop-kivezeteset-surgeti",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "árrésstop",
-        "infláció",
-        "kiskereskedelem",
-        "gazdaság",
-        "élelmiszerárak"
-      ],
-      "title": "Magyar Péter az árrésstop kivezetését sürgeti",
-      "subtitle": null,
-      "lead": "Komoly gazdasági fordulat körvonalazódik a hazai élelmiszer-kereskedelemben, miután a kormányfő bejelentette az árrésstop esetleges kivezetését. A döntést a megváltozott inflációs környezet és a piaci szereplők jelzései indokolják.",
-      "key_points": [
-        "A miniszterelnök szerint meg kell fontolni az árrésstop kivezetését.",
-        "Augusztusban 1,3 százalékra mérséklődött az éves infláció.",
-        "Az élelmiszerek ára éves alapon 1,4 százalékkal csökkent.",
-        "A kamarával és a kereskedelmi láncokkal egyeztetnek a döntésről."
-      ],
-      "content": "A kiskereskedelmi árkorlátozás felülvizsgálatát helyezte kilátásba a kormány a piaci szereplők jelzései alapján. Az intézkedést, amely a 100 milliárd forint feletti árbevételű láncoknál legfeljebb 10 százalékos árrést engedett, a mezőgazdaság és a kisebb üzletek terheinek növekedése miatt vizsgálják újra. A szabályozás bevezetése óta a piaci környezet jelentősen átalakult, ami új alapokra helyezheti a boltok működését.\n\nA Központi Statisztikai Hivatal friss adatai szerint az inflációs nyomás tartósan alacsony szintre süllyedt: augusztusban 1,3 százalékos volt az éves drágulás. Ezzel párhuzamosan az élelmiszerek árai éves alapon 1,4 százalékkal csökkentek, júliushoz képest pedig átlagosan 0,2 százalékkal estek vissza a bolti árak, ami megteremtheti a korlátozások kivezetésének gazdasági alapját.\n\nA Magyar Kereskedelmi és Iparkamara (MKIK) már szeptember közepén sürgette a szabály felülvizsgálatát, arra hivatkozva, hogy a tartós árszabályozás torzítja a versenyt. Emellett a Joint Venture Szövetség (JVSZ) is úgy véli, hogy az erős forintárfolyam és a visszafogott infláció mellett időszerűvé vált a rendszer kivezetése. A tervezett lépésről a kamarákkal és a láncokkal folytatott egyeztetések után határoznak.\n\nKözben Kisvárdán egy másik, helyi jelentőségű gazdasági és agrárhelyzetet is érintő fórum zajlott, ahol a térség nehézségeiről tárgyaltak. Az aszály és a fegyveres konfliktusok gazdasági hatásai mellett a helyi foglalkoztatási kérdések is terítékre kerültek, amelyek szintén befolyásolják a hazai mezőgazdaság kilátásait.",
-      "content_format": "markdown",
-      "body": [
-        "A kiskereskedelmi árkorlátozás felülvizsgálatát helyezte kilátásba a kormány a piaci szereplők jelzései alapján. Az intézkedést, amely a 100 milliárd forint feletti árbevételű láncoknál legfeljebb 10 százalékos árrést engedett, a mezőgazdaság és a kisebb üzletek terheinek növekedése miatt vizsgálják újra. A szabályozás bevezetése óta a piaci környezet jelentősen átalakult, ami új alapokra helyezheti a boltok működését.",
-        "A Központi Statisztikai Hivatal friss adatai szerint az inflációs nyomás tartósan alacsony szintre süllyedt: augusztusban 1,3 százalékos volt az éves drágulás. Ezzel párhuzamosan az élelmiszerek árai éves alapon 1,4 százalékkal csökkentek, júliushoz képest pedig átlagosan 0,2 százalékkal estek vissza a bolti árak, ami megteremtheti a korlátozások kivezetésének gazdasági alapját.",
-        "A Magyar Kereskedelmi és Iparkamara (MKIK) már szeptember közepén sürgette a szabály felülvizsgálatát, arra hivatkozva, hogy a tartós árszabályozás torzítja a versenyt. Emellett a Joint Venture Szövetség (JVSZ) is úgy véli, hogy az erős forintárfolyam és a visszafogott infláció mellett időszerűvé vált a rendszer kivezetése. A tervezett lépésről a kamarákkal és a láncokkal folytatott egyeztetések után határoznak.",
-        "Közben Kisvárdán egy másik, helyi jelentőségű gazdasági és agrárhelyzetet is érintő fórum zajlott, ahol a térség nehézségeiről tárgyaltak. Az aszály és a fegyveres konfliktusok gazdasági hatásai mellett a helyi foglalkoztatási kérdések is terítékre kerültek, amelyek szintén befolyásolják a hazai mezőgazdaság kilátásait."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 233,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1599,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra",
-        "credit": "Norbert Banhalmi / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Peter-Magyar-portrait-2026.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20261002/nagy-valtozas-johet-a-boltokban-magyar-peter-szerint-meg-kell-fontolni-az-arresstop-kivezeteset-867072",
-          "title": "Nagy változás jöhet a boltokban, Magyar Péter szerint meg kell fontolni az árrésstop kivezetését",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T21:44:36+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/arresstop-kivezetese-magyar-peter-lidl-tesco-kisboltok?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Megtörtént, erre várt a Tisza-kormánytól a Lidl, az Aldi, a Tesco és a Spar: Magyar Péter hatalmas bejelentést tett a boltoknak, készülhetnek a vásárlók – küszöbön az árrésstop kivezetése",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T21:44:36+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/kozelet/2026/10/magyar-peter-orszagjaras-kisvarda-sesztak-miklos-elo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "800 milliárdos agrárkár, árstopok és várólisták: Magyar Péter Kisvárdán vázolta a terveit",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T21:44:36+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T22:17:36+02:00"
-      },
-      "hot_score": 8.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20261002/nagy-valtozas-johet-a-boltokban-magyar-peter-szerint-meg-kell-fontolni-az-arresstop-kivezeteset-867072"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/penzvilag/2026-10-02-magyar-peter-az-arresstop-kivezeteset-surgeti/",
-      "seo": {
-        "meta_title": "Magyar Péter az árrésstop kivezetését sürgeti",
-        "meta_description": "Komoly gazdasági fordulat körvonalazódik a hazai élelmiszer-kereskedelemben, miután a kormányfő bejelentette az árrésstop esetleges kivezetését. A döntést a meg",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-02-magyar-peter-az-arresstop-kivezeteset-surgeti/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "47814d47-fabd-5006-a676-0af9c4384d79",
-        "b5a6486b-8656-5913-8f0b-876d4353fbbc",
-        "83639ddc-34e0-5c32-97eb-0137ed96e4c1"
-      ],
-      "see_also": [
-        {
-          "title": "Százmilliárdos pénzügyi terhet hagyott maga után a Láng Negyed beruházása",
-          "url": "/penzvilag/2026-09-30-szazmilliardos-penzugyi-terhet-hagyott-maga-utan-a-lang-negyed-beruha/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Börtönben a NER egykori miniszterei – jöhet a vádalku?",
-          "url": "/kozelet/2026-10-02-vadalkut-kothetnek-a-letartoztatott-exminiszterek/",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Hetvenmilliárdos kérdések várnak Szijjártó Péterre",
-          "url": "/kozelet/2026-10-02-hetvenmilliardos-kerdesek-varnak-szijjarto-peterre/",
-          "date": "2026-10-02"
-        }
-      ],
-      "thread_id": "47814d47-fabd-5006-a676-0af9c4384d79",
-      "dedupe_hash": "00f3fd8e1b88a1c5ebfed644e19530b1e2063b8f5daa5305e52784f58c1ceec1",
-      "pipeline_run_id": "37056048304",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T22:17:36+02:00",
-      "updated_at": "2026-10-02T22:17:36+02:00",
-      "published_at": "2026-10-02T22:17:36+02:00",
       "expires_at": null
     }
   ]
