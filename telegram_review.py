@@ -623,7 +623,7 @@ def _control(art: dict) -> tuple:
     rv = art.get("review", {})
     sid = art["id"][:8]
     if rv.get("compact"):  # lezárt cikk: egyetlen sor; a ✏️ gomb (vagy /e) mindent újra előhoz
-        return (f"{rv['compact']} · <b>{E(_chosen_title(art))}</b>\n{kc.SITE_URL}{art.get('url', '')}",
+        return (f"{rv['compact']} · <b>{E(_chosen_title(art))}</b>\n{kc.SITE_URL}{art.get('url', '')}?en=1",
                 {"inline_keyboard": [[{"text": "✏️ Módosítás (cím, kép, törlés…)", "callback_data": f"{sid}|ed"}]]})
     opts = art.get("title_options") or [art["title"]]
     imgs = art.get("image_options") or []
@@ -653,7 +653,7 @@ def _control(art: dict) -> tuple:
         auto = f" (magától: legkésőbb {str(art['schedule'].get('deadline', ''))[11:16]})"
     if art.get("scheduled_at") and not live:
         auto = f" (időzítve {art['scheduled_at'][11:16]} – ✅ = azonnal)"
-    state = f"🟢 <b>Kint van</b> – {kc.SITE_URL}{art.get('url', '')}" if live else "⏳ <b>Vár</b>" + auto
+    state = f"🟢 <b>Kint van</b> – {kc.SITE_URL}{art.get('url', '')}?en=1" if live else "⏳ <b>Vár</b>" + auto
     text = (f"{state} · {E(kc.SECTIONS.get(art['category'], {}).get('name', art['category']))}\n"
             f"<b>{E(_chosen_title(art))}</b> · {img_txt}")
     return text, {"inline_keyboard": rows}
