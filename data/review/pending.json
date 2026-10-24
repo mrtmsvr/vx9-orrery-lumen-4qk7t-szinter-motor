@@ -11869,19 +11869,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-24T04:51:05+00:00",
-        "msg_ids": [
-          9183,
-          9184,
-          9185,
-          9186,
-          9187,
-          9188,
-          9189,
-          9190,
-          9191
-        ],
-        "control_id": 9192
-      }
+        "msg_ids": [],
+        "control_id": 9192,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:24 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-24T09:24:45+02:00"
     },
     {
       "id": "dcb6ed02-eb46-5283-a323-ba78673585b8",
@@ -12120,27 +12113,10 @@
         "title": 1,
         "image": 0,
         "sent_at": "2026-10-24T04:52:06+00:00",
-        "msg_ids": [
-          9193,
-          9194,
-          9195,
-          9196,
-          9197,
-          9198,
-          9199,
-          9200,
-          9201,
-          9221,
-          9222,
-          9223,
-          9224,
-          9225,
-          9226,
-          9227,
-          9228,
-          9229
-        ],
-        "control_id": 9230
+        "msg_ids": [],
+        "control_id": 9230,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:04 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "winter tire",
@@ -12163,7 +12139,8 @@
         "https://upload.wikimedia.org/wikipedia/commons/d/db/Resta_changing_tire_LOC_14813051947.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Fleet_service_car_park_-_geograph.org.uk_-_7363454.jpg/1280px-Fleet_service_car_park_-_geograph.org.uk_-_7363454.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://xn--kollektva-m5a.hu/public/img/gen/cover-5a9b5cab12.jpg"
-      ]
+      ],
+      "scheduled_at": "2026-10-24T09:04:45+02:00"
     },
     {
       "id": "bb93e06e-6365-5f1e-8bd7-cb992e56f4b9",
