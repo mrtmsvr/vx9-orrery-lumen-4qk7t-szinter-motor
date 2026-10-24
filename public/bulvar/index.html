@@ -122,6 +122,6 @@ if(!fresh.length)return;var n=fresh[0];a.href=n.url;a.textContent='ÚJ · '+(N[n
 box.style.transform='translate(-50%,0)';clearTimeout(t);t=setTimeout(function(){box.style.transform='translate(-50%,-180%)'},/\/(kozelet|vilag|penzvilag|tech|eletmod|kultura|univerzum|bulvar|retro)\/./.test(location.pathname)?3500:6000)}).catch(function(){})}
 check();setInterval(check,90000);document.addEventListener('visibilitychange',check)})();</script>
 <script src="/poll-widget.js?v=10" defer></script>
-<script>try{navigator.sendBeacon("/api/olvas",JSON.stringify({p:location.pathname,r:document.referrer}))}catch(e){}</script>
+<script>try{if(/[?&]en=1/.test(location.search))localStorage.setItem("kv_en","1");if(/[?&]en=0/.test(location.search))localStorage.removeItem("kv_en");if(!localStorage.getItem("kv_en"))navigator.sendBeacon("/api/olvas",JSON.stringify({p:location.pathname,r:document.referrer}))}catch(e){}</script>
 </body>
 </html>
