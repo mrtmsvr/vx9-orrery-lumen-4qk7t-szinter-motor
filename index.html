@@ -362,6 +362,7 @@
           <input type="text" name="website" id="nlWebsite" tabindex="-1" autocomplete="off" aria-hidden="true" class="hidden">
           <p id="formError" class="hidden text-[14px] text-[#E38B8B]" role="alert"></p>
           <button type="submit" id="submitBtn" class="w-full rounded-full bg-brass px-6 py-4 text-[16px] font-semibold text-night transition hover:bg-[#D8B46B] disabled:opacity-60">Feliratkozom</button>
+          <button type="button" id="nlGoogle" class="flex w-full items-center justify-center gap-2 rounded-full border border-line bg-white px-6 py-3 text-[15px] font-semibold text-[#1f1f1f]"><svg width="18" height="18" viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9.1 3.6l6.8-6.8C35.8 2.4 30.3 0 24 0 14.6 0 6.6 5.4 2.7 13.3l7.9 6.1C12.5 13.6 17.8 9.5 24 9.5z"/><path fill="#4285F4" d="M46.1 24.6c0-1.6-.1-3.1-.4-4.6H24v9h12.4c-.5 2.9-2.2 5.3-4.6 6.9l7.4 5.7c4.3-4 6.9-9.9 6.9-17z"/><path fill="#FBBC05" d="M10.6 28.6c-.5-1.4-.8-3-.8-4.6s.3-3.2.8-4.6l-7.9-6.1C1 16.6 0 20.2 0 24s1 7.4 2.7 10.7l7.9-6.1z"/><path fill="#34A853" d="M24 48c6.5 0 11.9-2.1 15.9-5.8l-7.4-5.7c-2.1 1.4-4.8 2.3-8.5 2.3-6.2 0-11.5-4.1-13.4-9.8l-7.9 6.1C6.6 42.6 14.6 48 24 48z"/></svg>Feliratkozás Google-fiókkal</button>
           <p class="text-[13px] leading-relaxed text-dusk/80">Bármikor leiratkozhatsz, egyetlen kattintással.</p>
         </form>
 
@@ -593,10 +594,16 @@ async function googleLogin() {
       if (!resp || !resp.access_token) return;
       try {
         const r = await fetch('/api/login', { method: 'POST', headers: { 'Content-Type': 'application/json' },
-                                              body: JSON.stringify({ access_token: resp.access_token }) });
+                                              body: JSON.stringify({ access_token: resp.access_token, newsletter: !!window.__nlG, source: 'kollektiva_home' }) });
         const j = await r.json();
         if (!j.ok) throw new Error(j.error || r.status);
         setUser({ ...j.user, session: j.session || null });
+        if (window.__nlG) {  // „Feliratkozás Google-fiókkal”: a belépés egyben feliratkozás is
+          window.__nlG = false; try { localStorage.setItem('nl_done', '1'); } catch (x) {}
+          $('leadForm').classList.add('hidden');
+          $('successText').textContent = `Vasárnap reggel érkezik az első Heti Kollektíva a(z) ${j.user.email} címre.`;
+          $('formSuccess').classList.remove('hidden'); const t = $('nlTab'); if (t) t.remove();
+        }
         if (pendingAcct) { pendingAcct = false; openAcct(); }
       } catch (ex) { console.error('[Kollektíva] Belépés:', ex); alert('A belépés nem sikerült, próbáld újra.'); }
     },
@@ -937,12 +944,35 @@ $('leadForm').addEventListener('submit', async e => {
     $('leadForm').classList.add('hidden');
     $('successText').textContent = `Vasárnap reggel érkezik az első Heti Kollektíva a(z) ${email} címre.`;
     $('formSuccess').classList.remove('hidden');
+    try { localStorage.setItem('nl_done', '1'); } catch (x) {} const nt = $('nlTab'); if (nt) nt.remove();
   } catch (ex) {
     console.error('[Kollektíva] Hírlevél:', ex);
     fail('A feliratkozás nem sikerült: a szerver nem válaszolt. Próbáld újra pár perc múlva.');
     btn.disabled = false; btn.textContent = 'Feliratkozom';
   }
 });
+
+$('nlGoogle').addEventListener('click', () => {
+  const err = $('formError');
+  if (!$('consent').checked) { err.textContent = 'A feliratkozáshoz fogadd el az adatkezelési tájékoztatót.'; err.classList.remove('hidden'); return; }
+  err.classList.add('hidden'); window.__nlG = true; googleLogin();
+});
+/* bal oldali „Hírlevél” fül a „Szavazz” fül fölött – a hírlevél-szekcióhoz görget */
+(function () {
+  try { if (localStorage.getItem('nl_done')) return; } catch (x) {}
+  const t = document.createElement('a'); t.id = 'nlTab'; t.href = '#hirlevel'; t.setAttribute('aria-label', 'Hírlevél');
+  t.innerHTML = '✉<span>HÍRLEVÉL</span>';
+  t.style.cssText = 'position:fixed;left:0;z-index:55;display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 7px;background:#171A36;color:#C9A45C;border:1px solid #C9A45C;border-left:0;border-radius:0 10px 10px 0;font:700 15px/1 Manrope,system-ui,sans-serif;text-decoration:none';
+  t.querySelector('span').style.cssText = 'writing-mode:vertical-rl;transform:rotate(180deg);font-size:10px;letter-spacing:.16em';
+  document.body.appendChild(t);
+  function place() {
+    const p = document.getElementById('kpw-tab'), r = p && !p.classList.contains('off') ? p.getBoundingClientRect() : null;
+    if (r && r.height) { t.style.top = 'auto'; t.style.bottom = (innerHeight - r.top + 12) + 'px'; }
+    else if (matchMedia('(max-width:1023px)').matches) { t.style.top = 'auto'; t.style.bottom = '96px'; }
+    else { t.style.bottom = 'auto'; t.style.top = '46%'; }
+  }
+  place(); setTimeout(place, 1500); setTimeout(place, 4000); addEventListener('resize', place);
+})();
 
 /* =====================================================================
    INDÍTÁS – a két betöltés egymástól független
