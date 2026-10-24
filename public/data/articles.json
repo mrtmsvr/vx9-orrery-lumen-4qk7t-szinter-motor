@@ -1,7 +1,138 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T10:04:54+02:00",
+  "updated_at": "2026-10-24T11:01:49+02:00",
   "articles": [
+    {
+      "id": "cac4b5a6-47e7-5faa-892c-2f7fde111014",
+      "slug": "2026-10-24-nem-volt-bekemenet-zaszloval-vonult-az-ellenzekbe-szorult-fidesz",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Fidesz",
+        "október 23",
+        "Zászlómenet",
+        "Bem tér",
+        "Bóka János"
+      ],
+      "title": "Nem volt Békemenet: zászlóval vonult az ellenzékbe szorult Fidesz",
+      "subtitle": null,
+      "lead": "Az 1956-os forradalom 70. évfordulóján a hagyományos Békemenet helyett Zászlómenetet tartott a Fidesz, amely már ellenzékben, Magyar Péter kormányának regnálása idején emlékezett meg az ünnepről. A Bem téren tartott rendezvényen Bóka János és Schmidt Mária is beszédet mondott.",
+      "key_points": [
+        "A hagyományos Békemenet helyett egy csaknem két kilométeres nemzeti színű zászlóval vonultak a Petőfi hídtól a Bem térig a tüntetők.",
+        "A Fidesz hivatalos megemlékezésén Bóka János, Schmidt Mária és Áder János szólalt fel, Orbán Viktor pedig egy korábbi interjúban indokolt."
+      ],
+      "content": "Az 1956-os forradalom hetvenedik évfordulóján, október 23-án a Fidesz a megszokott Békemenet helyett Zászlómenetet szervezett a fővárosban, miután a záróképernyő szerint egy fiktív, 2026-os jövőbeli helyzetben a párt már ellenzékben van, Magyar Péter kormánya alatt. A demonstrálók a Petőfi hídtól a Bem térig vonultak egy csaknem két kilométeres nemzeti színű zászlóval, mivel az '56 Lángja Alapítvány képviselője szerint a Zászlómenetet már nyolc éve szervezik, és véleménye szerint Nyugat-Európában már elkezdődött a háború érdemi része, így az uniós ideológiák, a migráció és a genderpropaganda ellen kell védekezni, hasonlóan az 1956-os harchoz.\n\nA Bem téren megtartott hivatalos ünnepségen Schmidt Mária és Bóka János is felszólalt az eseményen. A Telex.hu videójában megszólaló tüntetők közül egy nő arról panaszkodott, hogy Brüsszel mondja meg, mit csináljanak, és pénzeket tartanak vissza, egy másik résztvevő pedig felidézte gyermekkori emlékeit az 1956-os sortűzről, hozzátéve, hogy a jelenlegi kormány tagjainak egyetlen szavát sem hiszi el.\n\nA Telex.hu videójában szereplő Havasi Bertalan a Fidesz sajtófőnökeként volt feltüntetve, a videó címe és témája pedig az volt: „Egy volt miniszterelnök egyszer tud visszatérni, ez nem most van”.",
+      "content_format": "markdown",
+      "body": [
+        "Az 1956-os forradalom hetvenedik évfordulóján, október 23-án a Fidesz a megszokott Békemenet helyett Zászlómenetet szervezett a fővárosban, miután a záróképernyő szerint egy fiktív, 2026-os jövőbeli helyzetben a párt már ellenzékben van, Magyar Péter kormánya alatt. A demonstrálók a Petőfi hídtól a Bem térig vonultak egy csaknem két kilométeres nemzeti színű zászlóval, mivel az '56 Lángja Alapítvány képviselője szerint a Zászlómenetet már nyolc éve szervezik, és véleménye szerint Nyugat-Európában már elkezdődött a háború érdemi része, így az uniós ideológiák, a migráció és a genderpropaganda ellen kell védekezni, hasonlóan az 1956-os harchoz.",
+        "A Bem téren megtartott hivatalos ünnepségen Schmidt Mária és Bóka János is felszólalt az eseményen. A Telex.hu videójában megszólaló tüntetők közül egy nő arról panaszkodott, hogy Brüsszel mondja meg, mit csináljanak, és pénzeket tartanak vissza, egy másik résztvevő pedig felidézte gyermekkori emlékeit az 1956-os sortűzről, hozzátéve, hogy a jelenlegi kormány tagjainak egyetlen szavát sem hiszi el.",
+        "A Telex.hu videójában szereplő Havasi Bertalan a Fidesz sajtófőnökeként volt feltüntetve, a videó címe és témája pedig az volt: „Egy volt miniszterelnök egyszer tud visszatérni, ez nem most van”."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 237,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1601,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban",
+        "credit": "The White House / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg",
+        "exact": true,
+        "entity": "Orbán Viktor",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=s7eWBXJ9S9c",
+          "title": "„Egy volt miniszterelnök egyszer tud visszatérni, ez nem most van\"",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-24T10:54:32+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Nem tűntem el, csak nem én vagyok a csapatkapitány, én az edző vagyok. A csapatkapitányt Bóka Jánosnak hívják...",
+        "who": "Orbán Viktor volt miniszterelnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T11:01:49+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=s7eWBXJ9S9c"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/kozelet/2026-10-24-nem-volt-bekemenet-zaszloval-vonult-az-ellenzekbe-szorult-fidesz/",
+      "seo": {
+        "meta_title": "Nem volt Békemenet: zászlóval vonult az ellenzékbe szorult F",
+        "meta_description": "Az 1956-os forradalom 70. évfordulóján a hagyományos Békemenet helyett Zászlómenetet tartott a Fidesz, amely már ellenzékben, Magyar Péter kormányának regnálása",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-24-nem-volt-bekemenet-zaszloval-vonult-az-ellenzekbe-szorult-fidesz/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "1e4b2c3f-b6c7-5478-8d8d-f0ae0498ad23",
+        "c47e7567-a911-524f-88aa-b3d489bd97c6",
+        "02f50abf-1a44-5dd2-9642-fd6c0733434d"
+      ],
+      "see_also": [
+        {
+          "title": "Orbán mást mond, mint Hankó a támogatásokról",
+          "url": "/kozelet/2026-10-04-orban-mast-mond-mint-hanko-a-tamogatasokrol/",
+          "date": "2026-10-04"
+        },
+        {
+          "title": "Orbán Viktor a lakitelki táborban fegyveres lázadásról és a Fidesz tartalékairól beszélt",
+          "url": "/kozelet/2026-10-18-orban-viktor-a-lakitelki-taborban-fegyveres-lazadasrol-es-a-fidesz-ta/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Orbán Viktor: Nemzeti rombolás zajlik az elmúlt tizenhat év után",
+          "url": "/kozelet/2026-10-18-orban-viktor-nemzeti-rombolas-zajlik-az-elmult-tizenhat-ev-utan/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": "1e4b2c3f-b6c7-5478-8d8d-f0ae0498ad23",
+      "dedupe_hash": "145ecd1687d9be143c60124b6056e97b686d6564094eae8bbc886e7b1cb56d15",
+      "pipeline_run_id": "40078469983",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T11:01:49+02:00",
+      "updated_at": "2026-10-24T11:01:49+02:00",
+      "published_at": "2026-10-24T11:01:49+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "s7eWBXJ9S9c",
+        "title": "„Egy volt miniszterelnök egyszer tud visszatérni, ez nem most van\"",
+        "channel": "Telex․hu",
+        "minutes": 25
+      }
+    },
     {
       "id": "4a649cce-cafe-5145-b58f-11a597ce7025",
       "slug": "2026-10-24-dan-j-rgensen-nem-lesz-feltetlenul-jobb-az-elete-a-mai-fiataloknak",
@@ -68410,122 +68541,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/View_from_Buda_Castle_2014_01.jpg/1280px-View_from_Buda_Castle_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Sustainable_Urban_Mobility_Planning_Cycle.png/1280px-The_Sustainable_Urban_Mobility_Planning_Cycle.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "c0f7409b-5437-5a6b-9c1d-7977e88b8914",
-      "slug": "2026-10-02-attorte-a-pentagon-a-legfobb-urtabut",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "világűr",
-        "Pentagon",
-        "egyesült államok",
-        "fegyverkezés",
-        "geopolitika"
-      ],
-      "title": "Áttörte a Pentagon a legfőbb űrtabut?",
-      "subtitle": null,
-      "lead": "Az Amerikai Egyesült Államok védelmi minisztériuma a világon elsőként ismerte el, hogy fegyverrendszereket állított pályára a világűrben. Ez a bejelentés gyökeresen változtatja meg a nemzetközi fegyverkezési verseny eddigi szabályait.",
-      "key_points": [
-        "A Pentagon elismerte pályára állított űrfegyverek létezését.",
-        "Troy Meink államtitkár és Douglas Schiess vezérkari főnök is megerősítette a lépést.",
-        "A fejlesztések célja a katonai erők védelme és az űrdominancia elérése."
-      ],
-      "content": "A nemzetközi biztonságpolitika eddigi egyik legszigorúbb tabuját döntötte le az Egyesült Államok, amikor hivatalosan is megerősítette fegyverek jelenlétét a Föld körüli pályán. Troy Meink, a légierőért felelős államtitkár egy konferencián mondott beszédében említette, hogy az amerikai erőknek vannak olyan eszközeik a világűrben, amelyek képesek megvédeni az összhaderőnemi egységeket az esetleges támadásoktól. A kijelentést Douglas Schiess, a 2019-ben önálló ágként megalakult amerikai űrharcászati parancsnokság vezérkari főnöke is megerősítette, jelezve, hogy a következő években komoly erőforrásokkal folytatják e képességek kiépítését.\n\nA bejelentés rávilágít arra, hogy a modern konfliktusok dimenziói kibővültek, és a katonai stratégák már nyíltan számolnak a Földön túli hadviseléssel. A hvg.hu beszámolója szerint az űrhaderő költségvetését megnövelték, és jelenleg is zajlik az úgynevezett Aranykupola építése. A katonai terminológiában eddig szokatlan kifejezések, mint az „űrfölény” vagy az „űrdominancia”, mostantól a közbeszéd részévé válnak, ami új korszakot nyit a globális nagyhatalmi rivalizálásban.\n\nMagyarország számára ezek a geopolitikai folyamatok elsősorban a nemzetközi szövetségi rendszereken és a globális gazdasági stabilitáson keresztül bírnak jelentőséggel. Mivel a modern infokommunikációs hálózatok, a navigációs rendszerek és a gazdasági infrastruktúra jelentős része függ a Föld körüli pályán mozgó műholdaktól, az űr militarizálása közvetve a hazai digitális és gazdasági biztonságot is érintheti. A fegyverkezési verseny fokozódása hosszú távon növelheti a technológiai kockázatokat és a nemzetközi feszültséget.",
-      "content_format": "markdown",
-      "body": [
-        "A nemzetközi biztonságpolitika eddigi egyik legszigorúbb tabuját döntötte le az Egyesült Államok, amikor hivatalosan is megerősítette fegyverek jelenlétét a Föld körüli pályán. Troy Meink, a légierőért felelős államtitkár egy konferencián mondott beszédében említette, hogy az amerikai erőknek vannak olyan eszközeik a világűrben, amelyek képesek megvédeni az összhaderőnemi egységeket az esetleges támadásoktól. A kijelentést Douglas Schiess, a 2019-ben önálló ágként megalakult amerikai űrharcászati parancsnokság vezérkari főnöke is megerősítette, jelezve, hogy a következő években komoly erőforrásokkal folytatják e képességek kiépítését.",
-        "A bejelentés rávilágít arra, hogy a modern konfliktusok dimenziói kibővültek, és a katonai stratégák már nyíltan számolnak a Földön túli hadviseléssel. A hvg.hu beszámolója szerint az űrhaderő költségvetését megnövelték, és jelenleg is zajlik az úgynevezett Aranykupola építése. A katonai terminológiában eddig szokatlan kifejezések, mint az „űrfölény” vagy az „űrdominancia”, mostantól a közbeszéd részévé válnak, ami új korszakot nyit a globális nagyhatalmi rivalizálásban.",
-        "Magyarország számára ezek a geopolitikai folyamatok elsősorban a nemzetközi szövetségi rendszereken és a globális gazdasági stabilitáson keresztül bírnak jelentőséggel. Mivel a modern infokommunikációs hálózatok, a navigációs rendszerek és a gazdasági infrastruktúra jelentős része függ a Föld körüli pályán mozgó műholdaktól, az űr militarizálása közvetve a hazai digitális és gazdasági biztonságot is érintheti. A fegyverkezési verseny fokozódása hosszú távon növelheti a technológiai kockázatokat és a nemzetközi feszültséget."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 237,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Pentagon_January_2008.jpg/1280px-The_Pentagon_January_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 686,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Pentagon, headquarters of the United States Department of Defense (AKA the Department of War), taken from an airplane in January 2008",
-        "credit": "David B. Gleason from Chicago, IL / Wikimedia Commons",
-        "license": "CC BY-SA 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:The_Pentagon_January_2008.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/360/20261002_202640-fegyverkezesi-verseny-vilagur-amerikai-beismeres-urahdero-aranykupola-muhold-troy-meink",
-          "title": "Új fejezetet nyit a világűr történetében, hogy az Egyesült Államok elismerte a felfegyverzését",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T10:02:59+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T10:38:42+02:00"
-      },
-      "hot_score": 5.91,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/360/20261002_202640-fegyverkezesi-verseny-vilagur-amerikai-beismeres-urahdero-aranykupola-muhold-troy-meink"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/vilag/2026-10-02-attorte-a-pentagon-a-legfobb-urtabut/",
-      "seo": {
-        "meta_title": "Áttörte a Pentagon a legfőbb űrtabut?",
-        "meta_description": "Az Amerikai Egyesült Államok védelmi minisztériuma a világon elsőként ismerte el, hogy fegyverrendszereket állított pályára a világűrben. Ez a bejelentés gyöker",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-02-attorte-a-pentagon-a-legfobb-urtabut/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Pentagon_January_2008.jpg/1280px-The_Pentagon_January_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "89e126da-589e-5162-a67c-8ed74dbe9c0a",
-        "7a44a206-e931-5605-8043-f5f490beaf0e",
-        "7a23eb02-d67e-5029-b303-233559af9bea"
-      ],
-      "see_also": [
-        {
-          "title": "Tananyaggá vált Vujity Tvrtko életútja az Egyesült Államokban",
-          "url": "/bulvar/2026-09-30-tananyagga-valt-vujity-tvrtko-eletutja-az-egyesult-allamokban/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Így vizsgálják át a mesterséges intelligenciát",
-          "url": "/tech/2026-09-30-kiderult-mikent-ellenoriznek-az-ai-cegeket/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Újabb mérföldkövek az űrkutatásban: Artemis-küldetés, űripari fejlesztések és történelmi évfordulók",
-          "url": "/univerzum/2026-09-29-ujabb-merfoldkovek-az-urkutatasban-artemis-kuldetes-uripari-fejleszte/",
-          "date": "2026-09-29"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "5f2149f09d1cc5df82b9583acb5a8916c8057a291ca3a1fd1f45dbb4760f9e77",
-      "pipeline_run_id": "36981434519",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T10:38:42+02:00",
-      "updated_at": "2026-10-02T10:38:42+02:00",
-      "published_at": "2026-10-02T10:38:42+02:00",
-      "expires_at": null
     }
   ]
 }
