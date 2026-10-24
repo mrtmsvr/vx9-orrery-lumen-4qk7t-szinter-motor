@@ -362,6 +362,10 @@ def _image_audit(out_dir: Path, tz: ZoneInfo) -> None:
     res = kc.image_audit_step(out_dir, kc.AIClient(kc.Config.from_env()))
     if not res:
         return
+    chat = load_state().get("chat_id")
+    if res.get("covers") and chat:  # régi címes borítók cseréje: rövid jelzés Telegramra (ellenőrzésre)
+        tg("sendMessage", {"chat_id": chat, "text": ("🖼 Borítócsere (címes borító helyett):\n" + "\n".join(
+            f"• {c['title']} → {c['new']}" for c in res["covers"]))[:4000]})
     if res.get("changes"):
         with LOCK:
             n = kc.apply_hero_changes(out_dir, res["changes"])
