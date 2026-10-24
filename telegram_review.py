@@ -208,6 +208,7 @@ def _resend_waiting(out_dir: Path, st: dict, pending: list) -> bool:
     for a in waiting:
         keep = {k: a.get("review", {}).get(k) for k in ("title", "image", "custom_title") if a.get("review", {}).get(k) is not None}
         _drop_old_messages(st["chat_id"], a)
+        a["_quiet"] = True  # kérésre előhozva: nem szól
         send_article(out_dir, a)
         if keep:  # a korábbi cím-/képválasztásod megmarad
             a["review"].update(keep)
@@ -692,6 +693,7 @@ def _expand(out_dir: Path, art: dict) -> None:
     art["review"] = {}
     if art.get("live"):
         art.setdefault("legal", {})  # kint lévő cikknél ne fusson újra a jogi automata (ne írja át csendben a szöveget)
+    art["_quiet"] = True  # kérésre előhozva: nem szól
     send_article(out_dir, art)
 
 
@@ -729,6 +731,8 @@ def send_article(_out_dir: Optional[Path], art: dict) -> None:
         _m = art["video"].get("minutes")
         kind = f"🎬 VIDEÓBÓL ({art['video'].get('channel') or 'YouTube'}{f', {_m} perces videó' if _m else ''})"
     resent = art.pop("resent", None)
+    # új cikk: a fejléc-üzenet SZÓL (cím/kép/téma ellenőrzése); a képek, gombok és a kérésre újraküldött cikk némán
+    ping = resent is None and not art.pop("_quiet", False)
     if resent == "v":
         kind = "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új)"
     elif resent == "rw":
@@ -750,7 +754,7 @@ def send_article(_out_dir: Optional[Path], art: dict) -> None:
     elif legal_txt:
         extra.append(E(legal_txt)[:3900])
     ids = [_mid(tg("sendMessage", {"chat_id": chat, "text": head[:4000], "parse_mode": "HTML",
-                                   "disable_web_page_preview": True}))]
+                                   "disable_web_page_preview": True, "_ping": ping}))]
     ids += [_mid(tg("sendMessage", {"chat_id": chat, "text": x, "parse_mode": "HTML"})) for x in extra]
     # a teljes szöveget nem küldjük el (elég a „Röviden”); kérésre: 📄 Teljes szöveg gomb
     imgs = art.get("image_options") or []
