@@ -11369,15 +11369,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-23T23:17:39+00:00",
-        "msg_ids": [
-          9166,
-          9167,
-          9168,
-          9169,
-          9170
-        ],
-        "control_id": 9171
-      }
+        "msg_ids": [],
+        "control_id": 9171,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:44 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-24T09:44:45+02:00"
     },
     {
       "id": "25354403-f0a1-59b7-a902-ff64df803cbe",
