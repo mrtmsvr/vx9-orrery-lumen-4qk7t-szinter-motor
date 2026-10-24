@@ -11539,7 +11539,7 @@
     {
       "id": "086923b6-edbc-520b-807a-bff3998a578b",
       "slug": "2026-10-24-otthonaban-lottek-agyon-a-volt-ep-kepviselot-szofiaban",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11781,9 +11781,9 @@
       "dedupe_hash": "1b265ea2b4a80bfc3a3d36520273848cc543d31672c25b0ed1ff27a19f037574",
       "pipeline_run_id": "40117610379",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T19:54:03+02:00",
-      "updated_at": "2026-10-24T19:54:03+02:00",
-      "published_at": "2026-10-24T19:54:03+02:00",
+      "created_at": "2026-10-24T20:09:51+02:00",
+      "updated_at": "2026-10-24T20:09:51+02:00",
+      "published_at": "2026-10-24T20:09:51+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11793,19 +11793,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-24T17:56:43+00:00",
-        "msg_ids": [
-          9374,
-          9375,
-          9376,
-          9377,
-          9378,
-          9379,
-          9380,
-          9381,
-          9382
-        ],
-        "control_id": 9383
-      }
+        "msg_ids": [],
+        "control_id": 9383,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "dc29eb33-6a11-5a10-b546-8752d7532797",
