@@ -1,7 +1,125 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T20:13:15+02:00",
+  "updated_at": "2026-10-24T20:30:14+02:00",
   "articles": [
+    {
+      "id": "5e0ed0b3-fcd4-5307-bc63-a8bf63eb2719",
+      "slug": "2026-10-24-masfel-milliard-euros-kart-okoztak-a-hetek-ota-tarto-francia-zavargas",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Franciaország",
+        "gazdaság",
+        "tüntetés",
+        "költségvetés"
+      ],
+      "title": "Másfél milliárd eurós kárt okoztak a hetek óta tartó francia zavargások",
+      "subtitle": null,
+      "lead": "Az október közepe óta tartó erőszakhullám rázza meg Franciaországot, amelynek a biztosított vagyonbeli kárai már most elérik az 1,2 milliárd eurót. A megélhetési költségek csökkenését követelő tiltakozások súlyos lyukakat vághatnak az eleve nehéz helyzetben lévő állam költségvetésébe.",
+      "key_points": [
+        "Október 20-i adatok szerint több mint kétezer vállalkozást érintettek közvetlenül a zavargások.",
+        "A Morningstar becslése alapján a biztosított károk elérik a francia GDP 0,04 százalékát."
+      ],
+      "content": "Az október közepe óta Párizst és más francia városokat lázban tartó erőszakhullám ezúttal a gazdaság alapjait fenyegeti, miután a kezdeti diáktüntetések szélesebb körű, a megélhetési nehézségek enyhítését és a közszolgáltatások javítását célzó megmozdulásokká fajultak. A francia kereskedelmi kamarák hálózatának október 20-i adatai szerint a közvetlenül érintett vállalkozások száma meghaladja a kétezret, míg a Morningstar első becslései szerint a biztosított vagyoni károk elérik az 1,2 milliárd eurót, ami a francia bruttó hazai termék mintegy 0,04 százalékának felel meg.\n\nEz az összeg jelentősen meghaladja a korábbi hasonló megmozdulások mérlegét: a 2023-as nyári városi zavargások 790 millió, a teljes sárgamellényes mozgalom pedig 256 millió eurós kárt okoztak a biztosítóknak. Az ING Bank elemzőinek figyelmeztetése szerint azonban a vagyoni kár csupán a kezdet. A sárgamellényes időszakról szóló parlamenti jelentések alapján a bevásárlóközpontok mintegy 2 milliárd, a szállodák, kávézók és éttermek pedig közel 850 millió eurós forgalomkiesést szenvedtek el, miközben a biztosítók által kifizetett vagyoni kár akkor is csupán 217 millió euró volt.\n\nA pénzpiacok azonnal reagáltak a bizonytalanságra, miközben a tőzsdei részvények árfolyama esésnek indult.\n\nA szigorodó pénzügyi feltételek önmagukban is fékezik a gazdasági aktivitást, mivel emelik a finanszírozási költségeket, visszafogják a beruházásokat, és növelik a gazdasági szereplők óvatosságát.",
+      "content_format": "markdown",
+      "body": [
+        "Az október közepe óta Párizst és más francia városokat lázban tartó erőszakhullám ezúttal a gazdaság alapjait fenyegeti, miután a kezdeti diáktüntetések szélesebb körű, a megélhetési nehézségek enyhítését és a közszolgáltatások javítását célzó megmozdulásokká fajultak. A francia kereskedelmi kamarák hálózatának október 20-i adatai szerint a közvetlenül érintett vállalkozások száma meghaladja a kétezret, míg a Morningstar első becslései szerint a biztosított vagyoni károk elérik az 1,2 milliárd eurót, ami a francia bruttó hazai termék mintegy 0,04 százalékának felel meg.",
+        "Ez az összeg jelentősen meghaladja a korábbi hasonló megmozdulások mérlegét: a 2023-as nyári városi zavargások 790 millió, a teljes sárgamellényes mozgalom pedig 256 millió eurós kárt okoztak a biztosítóknak. Az ING Bank elemzőinek figyelmeztetése szerint azonban a vagyoni kár csupán a kezdet. A sárgamellényes időszakról szóló parlamenti jelentések alapján a bevásárlóközpontok mintegy 2 milliárd, a szállodák, kávézók és éttermek pedig közel 850 millió eurós forgalomkiesést szenvedtek el, miközben a biztosítók által kifizetett vagyoni kár akkor is csupán 217 millió euró volt.",
+        "A pénzpiacok azonnal reagáltak a bizonytalanságra, miközben a tőzsdei részvények árfolyama esésnek indult.",
+        "A szigorodó pénzügyi feltételek önmagukban is fékezik a gazdasági aktivitást, mivel emelik a finanszírozási költségeket, visszafogják a beruházásokat, és növelik a gazdasági szereplők óvatosságát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 237,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Smoke_during_demonstrations_and_protests_in_Paris_in_2017_%28F4hO0SEi1h8%29.jpg/1280px-Smoke_during_demonstrations_and_protests_in_Paris_in_2017_%28F4hO0SEi1h8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Paris, France",
+        "credit": "Damien Checoury damcy / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Smoke_during_demonstrations_and_protests_in_Paris_in_2017_(F4hO0SEi1h8).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261024/terdre-kenyszeritik-a-francia-gazdasagot-a-zavargasok-871446",
+          "title": "Térdre kényszerítik a francia gazdaságot a zavargások?",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-10-24T20:03:29+02:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T20:30:14+02:00"
+      },
+      "hot_score": 5.46,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261024/terdre-kenyszeritik-a-francia-gazdasagot-a-zavargasok-871446"
+        ]
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/vilag/2026-10-24-masfel-milliard-euros-kart-okoztak-a-hetek-ota-tarto-francia-zavargas/",
+      "seo": {
+        "meta_title": "Másfél milliárd eurós kárt okoztak a hetek óta tartó francia",
+        "meta_description": "Az október közepe óta tartó erőszakhullám rázza meg Franciaországot, amelynek a biztosított vagyonbeli kárai már most elérik az 1,2 milliárd eurót. A megélhetés",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-24-masfel-milliard-euros-kart-okoztak-a-hetek-ota-tarto-francia-zavargas/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Smoke_during_demonstrations_and_protests_in_Paris_in_2017_%28F4hO0SEi1h8%29.jpg/1280px-Smoke_during_demonstrations_and_protests_in_Paris_in_2017_%28F4hO0SEi1h8%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "50af2293-a46c-5781-97c0-cb2930fae901",
+        "7f5080ea-06a4-5f95-8938-5580544c0d89",
+        "96ef6bed-d2b8-552f-8c2f-682639c7329c"
+      ],
+      "see_also": [
+        {
+          "title": "Nem bírnak a fosztogatókkal: korlátozások jönnek Franciaországban",
+          "url": "/vilag/2026-10-19-nem-birnak-a-fosztogatokkal-korlatozasok-jonnek-franciaorszagban/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Brutális diáktüntetés rázza meg Franciaországot: bénulás az oktatásban",
+          "url": "/vilag/2026-10-05-brutalis-diaktuntetes-razza-meg-franciaorszagot-benulas-az-oktatasban/",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Terrorelhárítókat és vízágyúkat is bevetnek a hétvégén a francia hatóságok",
+          "url": "/vilag/2026-10-24-terrorelharitokat-es-vizagyukat-is-bevetnek-a-hetvegen-a-francia-hato/",
+          "date": "2026-10-24"
+        }
+      ],
+      "thread_id": "50af2293-a46c-5781-97c0-cb2930fae901",
+      "dedupe_hash": "e3934491d338de23d9cb7543e7436acf10c4d7ff238abffbf357f86f2e7353c9",
+      "pipeline_run_id": "40117610379",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T20:30:14+02:00",
+      "updated_at": "2026-10-24T20:30:14+02:00",
+      "published_at": "2026-10-24T20:30:14+02:00",
+      "expires_at": null
+    },
     {
       "id": "086923b6-edbc-520b-807a-bff3998a578b",
       "slug": "2026-10-24-otthonaban-lottek-agyon-a-volt-ep-kepviselot-szofiaban",
@@ -68428,122 +68546,6 @@
       "created_at": "2026-10-02T20:18:42+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-02T20:18:42+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "b5a6486b-8656-5913-8f0b-876d4353fbbc",
-      "slug": "2026-10-02-vadalkut-kothetnek-a-letartoztatott-exminiszterek",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "korrupció",
-        "Seszták Miklós",
-        "belföld",
-        "nyomozás",
-        "NVVH"
-      ],
-      "title": "Börtönben a NER egykori miniszterei – jöhet a vádalku?",
-      "subtitle": null,
-      "lead": "Akár vádalkut is köthetnek a hatóságokkal a korrupciós bűncselekménnyel gyanúsított, letartóztatásban lévő volt kormányzati tisztségviselők. Újabb részletek láttak napvilágot a Volánbuszhoz kapcsolódó, milliárdos tételeket érintő eljárásról.",
-      "key_points": [
-        "Seszták Miklóst harminc napra letartóztatta a bíróság egy tizenegymilliárdos vesztegetési ügyben.",
-        "A gyanúsítottak körében felmerült a vádalku lehetősége a hvg.hu podcastműsorának elemzése szerint.",
-        "A védőügyvéd korábban titkos megfigyelésekről számolt be a mentelmi jog felfüggesztése előtt.",
-        "Az ügyben érintettként Hankó Balázs neve is felmerült a hatósági eljárások kapcsán."
-      ],
-      "content": "Újabb fejlemények láttak napvilágot a tizenegymilliárd forintos vesztegetési gyanú miatt elrendelt kényszerintézkedések ügyében, miután a bíróság harminc napra letartóztatta Seszták Miklós KDNP-s országgyűlési képviselőt, a harmadik Orbán-kormány volt nemzeti fejlesztési miniszterét. A Volánbuszhoz kapcsolódó korrupciós gyanúkat vizsgáló eljárásban a gyanúsítottak számára reális opcióvá válhat a vádalku megkötése – derült ki a hvg.hu Fülke című podcastjából.\n\nAz elmúlt napokban a védelem részéről is érkeztek vitatott állítások: a letartóztatott politikus ügyvédje, Papp Gábor arról beszélt, hogy ügyfelét és őket magukat is titokban megfigyelték még a mentelmi jog hivatalos felfüggesztése előtt. A jogi képviselő aggályosnak nevezte a hatóságok eljárási lépéseit, míg a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) vezetője, Unger Anna határozottan visszautasította a jogsértésre vonatkozó vádakat.\n\nA folyamatban lévő ügy jelentőségét az adja, hogy a fideszes politikusok érintettsége mellett a gazdasági szereplők és a vagyonvisszaszerzési mechanizmusok átláthatósága is fókuszba került. A hatóságok vizsgálják a vesztegetési láncolat részleteit, miközben a közbeszédben a rendszerváltás óta nem látott lépésekről és az intézményi függetlenségről szóló viták élénkültek meg.",
-      "content_format": "markdown",
-      "body": [
-        "Újabb fejlemények láttak napvilágot a tizenegymilliárd forintos vesztegetési gyanú miatt elrendelt kényszerintézkedések ügyében, miután a bíróság harminc napra letartóztatta Seszták Miklós KDNP-s országgyűlési képviselőt, a harmadik Orbán-kormány volt nemzeti fejlesztési miniszterét. A Volánbuszhoz kapcsolódó korrupciós gyanúkat vizsgáló eljárásban a gyanúsítottak számára reális opcióvá válhat a vádalku megkötése – derült ki a hvg.hu Fülke című podcastjából.",
-        "Az elmúlt napokban a védelem részéről is érkeztek vitatott állítások: a letartóztatott politikus ügyvédje, Papp Gábor arról beszélt, hogy ügyfelét és őket magukat is titokban megfigyelték még a mentelmi jog hivatalos felfüggesztése előtt. A jogi képviselő aggályosnak nevezte a hatóságok eljárási lépéseit, míg a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) vezetője, Unger Anna határozottan visszautasította a jogsértésre vonatkozó vádakat.",
-        "A folyamatban lévő ügy jelentőségét az adja, hogy a fideszes politikusok érintettsége mellett a gazdasági szereplők és a vagyonvisszaszerzési mechanizmusok átláthatósága is fókuszba került. A hatóságok vizsgálják a vesztegetési láncolat részleteit, miközben a közbeszédben a rendszerváltás óta nem látott lépésekről és az intézményi függetlenségről szóló viták élénkültek meg."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 190,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/3392/3256155178_cca1df0ae1_b.jpg",
-        "width": 1024,
-        "height": 768,
-        "kind": "photo",
-        "alt": "Prison Bars",
-        "credit": "wwarby / flickr",
-        "license": "CC BY 2.0",
-        "source_url": "https://www.flickr.com/photos/26782864@N00/3256155178"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261002_akar-vadalkut-is-kothetnek-a-letartoztatott-ner-miniszterek-fulke",
-          "title": "Akár vádalkut is köthetnek a letartóztatott NER-miniszterek – Fülke",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T19:42:30+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T20:14:24+02:00"
-      },
-      "hot_score": 6.0,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261002_akar-vadalkut-is-kothetnek-a-letartoztatott-ner-miniszterek-fulke"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/kozelet/2026-10-02-vadalkut-kothetnek-a-letartoztatott-exminiszterek/",
-      "seo": {
-        "meta_title": "Börtönben a NER egykori miniszterei – jöhet a vádalku?",
-        "meta_description": "Akár vádalkut is köthetnek a hatóságokkal a korrupciós bűncselekménnyel gyanúsított, letartóztatásban lévő volt kormányzati tisztségviselők. Újabb részletek lát",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-02-vadalkut-kothetnek-a-letartoztatott-exminiszterek/",
-        "og_image": "https://live.staticflickr.com/3392/3256155178_cca1df0ae1_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "f56b9961-0ced-5cf9-960d-6a0cdd4b02b1",
-        "d175dfc4-cc8d-5dec-9114-714cd54e2297",
-        "86fab367-0e3a-5110-8751-055aa62bd9a1"
-      ],
-      "see_also": [
-        {
-          "title": "11 milliárdos vesztegetési gyanú: letartóztatták Seszták Miklóst",
-          "url": "/kozelet/2026-09-30-11-milliardos-vesztegetesi-gyanu-letartoztattak-sesztak-miklost/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Hogyan gondolkodik a ChatGPT?",
-          "url": "/tech/2026-10-02-hogyan-gondolkodik-a-chatgpt/",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "Titkos megfigyelésről beszél Seszták ügyvédje",
-          "url": "/kozelet/2026-10-01-megfigyelesi-botrany-sesztak-miklos-ugyeben/",
-          "date": "2026-10-01"
-        }
-      ],
-      "thread_id": "f56b9961-0ced-5cf9-960d-6a0cdd4b02b1",
-      "dedupe_hash": "541d3d72f4bc31300c1c1c45819ffa112393800f734043287e47d6422db0a890",
-      "pipeline_run_id": "37042147706",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T20:14:24+02:00",
-      "updated_at": "2026-10-02T20:53:59+02:00",
-      "published_at": "2026-10-02T20:14:24+02:00",
       "expires_at": null
     }
   ]
