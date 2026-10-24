@@ -11688,7 +11688,7 @@
     {
       "id": "edee464e-0003-5b69-b9f6-26dcff668d25",
       "slug": "2026-10-24-kemkedesert-zavart-haza-orosz-diplomatakat-ausztria",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11918,9 +11918,9 @@
       "dedupe_hash": "aedf474ff2db474f503986f4cfbb762740f3f1c33c5bd0f808879d6f924ca255",
       "pipeline_run_id": "40063683311",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T06:50:19+02:00",
-      "updated_at": "2026-10-24T06:50:19+02:00",
-      "published_at": "2026-10-24T06:50:19+02:00",
+      "created_at": "2026-10-24T09:24:51+02:00",
+      "updated_at": "2026-10-24T09:24:51+02:00",
+      "published_at": "2026-10-24T09:24:51+02:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -11933,9 +11933,9 @@
         "msg_ids": [],
         "control_id": 9192,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 09:24 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-24T09:24:45+02:00"
+      "live": true
     },
     {
       "id": "88ddd523-8c55-5bb4-9aa3-ed2e4a63edff",
