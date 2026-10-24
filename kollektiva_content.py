@@ -1353,7 +1353,7 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
             redo.add(a["id"])
         st["map_redo"] = sorted(redo)
         for a in covers:
-            new = (smart_visuals(ai, a, a.get("category"), n=1) or [None])[0]
+            new = (smart_visuals(ai, a, a.get("category"), n=1, allow_ai=False) or [None])[0]
             if new and not new.get("cover"):
                 changes[a["id"]] = new
                 st.setdefault("cover_replaced", []).append({"title": a["title"][:90], "new": new.get("card") or "kép"})
@@ -1405,7 +1405,7 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
         cands = news_image_filter(section, vision_rank(ai, a["title"], a.get("lead", ""), cands, min_score=6))
         cands = [c for c in cands if "vision_score" in c]
         # fotó híján generált (szöveg nélküli) illusztráció; a címes borító csak végső tartalék (a cikkoldalon nem jelenik meg)
-        new = localize_image(cands[0]) if cands else (smart_visuals(ai, a, section, n=1) or [None])[0]
+        new = localize_image(cands[0]) if cands else (smart_visuals(ai, a, section, n=1, allow_ai=False) or [None])[0]
         if new:
             new = {k: v for k, v in new.items() if k not in ("unverified", "vision_score")}
             changes[a["id"]] = new
@@ -1606,6 +1606,12 @@ def _save_visual(img, kind: str, key: str, alt: str, credit: str, license_: str,
             "credit": credit, "license": license_, "source_url": source_url, "generated": True, "card": kind}
 
 
+def is_ai_image(im: Optional[dict]) -> bool:
+    """AI-generált kép (FLUX stb.) – NEM a márkás borító és NEM a saját kártya (szám/térkép/ikon). Ilyen kép csak
+    jóváhagyással kerülhet ki (cikkre és Instagramra is)."""
+    return bool(im and im.get("generated") and not im.get("cover") and not im.get("card"))
+
+
 def number_card(art: dict, section_id: str, number: str, label: str) -> Optional[dict]:
     """Kulcsszám-kártya: egy nagy szám (pl. „1 milliárd €”) + rövid magyarázat. Csak a cikkben szereplő számmal."""
     try:
@@ -1725,7 +1731,7 @@ def _num_ok(number: str, art: dict) -> bool:
     return bool(digits) and digits in text
 
 
-def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2) -> list:
+def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2, allow_ai: bool = True) -> list:
     """A címes borító helyett: az AI kiválasztja a cikkhez legjobban illő képtípust (kulcsszám / térkép / ikon /
     szöveg nélküli generált kép), és a legjobb 1–2 elkészül. Végső tartalék a címes borító."""
     try:
@@ -1746,6 +1752,8 @@ def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2) -> lis
     for k in ("image", "icon"):
         if k not in order:
             order.append(k)
+    if not allow_ai:  # jóváhagyás nélküli csere (kint lévő cikk): AI-kép nem mehet ki magától
+        order = [k for k in order if k != "image"]
     out = []
     for kind in order:
         if len(out) >= n:
@@ -4743,10 +4751,18 @@ def main(argv: Optional[list] = None) -> int:
                 import telegram_review as tr
                 chat = tr.load_state().get("chat_id")
                 waiting = [a for a in tr.load_pending() if not a.get("live")]
-                if chat and waiting:
-                    tr.tg("sendMessage", {"chat_id": chat, "text": f"🗂 Jóváhagyási kör ({os.getenv('CURRENT_SLOT')[-5:]}): "
-                                          f"{len(waiting)} cikk vár rád. Magától egyik sem kerül ki.",
-                                          })
+                try:
+                    import instagram
+                    ig_wait = instagram.flush_awaiting()
+                except Exception as e:  # noqa: BLE001
+                    log.warning("Instagram-jóváhagyások kimaradtak: %s", e)
+                    ig_wait = 0
+                if chat and (waiting or ig_wait):
+                    tr.tg("sendMessage", {"chat_id": chat, "_ping": True, "text": f"🗂 Jóváhagyási kör ({os.getenv('CURRENT_SLOT')[-5:]}): "
+                                          + (f"{len(waiting)} cikk vár rád. " if waiting else "")
+                                          + (f"{ig_wait} Instagram-poszt AI-képpel vár jóváhagyásra. " if ig_wait else ""),
+                                          "reply_markup": {"inline_keyboard": [[{"text": "📋 Mind a chat aljára",
+                                                                                 "callback_data": "fall"}]]}})
             except Exception as e:  # noqa: BLE001
                 log.warning("Kör-összefoglaló kimaradt: %s", e)
     elif args.if_due:
