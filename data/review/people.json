@@ -45,6 +45,69 @@
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg"
       }
+    },
+    "Donald Trump": {
+      "qid": "Q22686",
+      "name": "Donald Trump",
+      "birth": "1946-06-14",
+      "death": "",
+      "desc": "az Egyesült Államok elnöke (2017–2021, 2025–)",
+      "bio": "Donald John Trump amerikai üzletember, multimilliárdos és politikus; 2017 és 2021 között az Amerikai Egyesült Államok 45., illetve 2025 óta 47. elnöke.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Donald_Trump",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official Presidential Portrait of President Donald J. Trump in his second term",
+        "credit": "Daniel Torok / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4).jpg"
+      }
+    },
+    "Vitézy Dávid": {
+      "qid": "Q1460530",
+      "name": "Vitézy Dávid",
+      "birth": "1985-12-01",
+      "death": "",
+      "desc": "(1985–) magyar közgazdász, politikus, miniszter",
+      "bio": "Vitézy Dávid László magyar közgazdász, politikus, közlekedési és városmobilitási szakértő, budapesti önkormányzati képviselő és korábbi közlekedésért felelős államtitkár, a Magyar Urbanisztikai Társaság Közlekedési Tagozatának elnöke, a Podmaniczky Mozgalom frakcióvezetője, 2026-tól Magyarország közlekedési és beruházási minisztere. Korábbi kritikáinak fő címzettje, Lázár János helyére érkezett a tárca élére.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Vit%C3%A9zy_D%C3%A1vid",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me).",
+        "credit": "NyitraiD / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg"
+      }
+    },
+    "Tisza Párt": {
+      "none": true
+    },
+    "Karácsony Gergely": {
+      "qid": "Q1105049",
+      "name": "Karácsony Gergely",
+      "birth": "1975-06-11",
+      "death": "",
+      "desc": "magyar szociológus, politikus, Budapest főpolgármestere 2019-től (* 1975)",
+      "bio": "Karácsony Gergely Szilveszter magyar szociológus, egyetemi oktató, politikus, 2010 és 2014 között országgyűlési képviselő. Kutatási területe a választási rendszerek és a választói magatartás. A 2014-es önkormányzati választáson Budapest XIV. kerülete (Zugló) polgármesterének, a 2019-es önkormányzati választáson Budapest főpolgármesterének választották meg. A 2024-es Befolyás-barométer szerint ő Magyarország 32. legbefolyásosabb személye. 2014 és 2022 között a Párbeszéd társelnöke.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Kar%C3%A1csony_Gergely_%28politikus%29",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/V%C3%A1rhelyi_Kar%C3%A1csony_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1802,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Gergely Karácsony, Mayor of Budapest.",
+        "credit": "Xavier Lejeune / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A1rhelyi_Kar%C3%A1csony_2024_(cropped).jpg"
+      }
     }
   }
 }
