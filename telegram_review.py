@@ -330,6 +330,24 @@ def _newsletter_check(tz: ZoneInfo) -> None:
     _save_to_git("Hírlevél")
 
 
+_PEOPLE_LAST = 0.0
+
+
+def _people_check(out_dir: Path, tz: ZoneInfo) -> None:
+    """Örökzöld szereplőoldalak: 30 percenként max. 4 új név feloldása (Wikidata/Wikipédia); ha lett új, újraépítés."""
+    global _PEOPLE_LAST
+    if time.time() - _PEOPLE_LAST < 1800 or os.getenv("PEOPLE_PAGES", "true").lower() not in ("1", "true", "yes"):
+        return
+    _PEOPLE_LAST = time.time()
+    n = kc.people_step(out_dir, kc.Config.from_env().http_timeout)
+    if n:
+        kc.build_static_site(out_dir, tz)
+        _deploy_now()
+        _save_to_git(f"Szereplőoldalak (+{n})")
+    else:
+        _save_to_git("Szereplő-ellenőrzés")
+
+
 def _apply_fix_pack(out_dir: Path, tz: ZoneInfo) -> None:
     """Szerkesztői javítócsomag (data/article_fixes.b64) alkalmazása a zár alatt, majd azonnali kirakás + jelzés."""
     if not kc.FIXES_FILE.exists():
@@ -1830,6 +1848,7 @@ def main(argv: Optional[list] = None) -> int:
                 _image_audit(cfg.output_dir, tz)
                 _flash_check(cfg.output_dir, tz)
                 _quality_check(cfg.output_dir, tz)
+                _people_check(cfg.output_dir, tz)
             except Exception as e:  # noqa: BLE001
                 log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
