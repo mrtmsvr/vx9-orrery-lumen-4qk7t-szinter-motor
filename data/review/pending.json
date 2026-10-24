@@ -13347,15 +13347,12 @@
         "title": 0,
         "image": 2,
         "sent_at": "2026-10-24T14:05:14+00:00",
-        "msg_ids": [
-          9341,
-          9342,
-          9343,
-          9344,
-          9345
-        ],
-        "control_id": 9346
-      }
+        "msg_ids": [],
+        "control_id": 9346,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:44 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-24T16:44:52+02:00"
     },
     {
       "id": "8f913d23-44ae-5598-be3d-b74f68a2d0c3",
