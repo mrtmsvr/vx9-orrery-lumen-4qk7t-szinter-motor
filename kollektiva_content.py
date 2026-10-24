@@ -1343,11 +1343,16 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
             if a.get("status") == "published" and a.get("category") in SECTIONS]
     # 1. kör: a régi címes borítók cseréje az okos képpótlóra (előbb fotót keres, ha nincs: szám/térkép/ikon/generált)
     cdone = set(st.get("cover_done") or [])
-    covers = [a for a in arts if (a.get("hero_image") or {}).get("cover") and a["id"] not in cdone][:2]
+    redo = set(st.get("map_redo") or [])  # az első (10.24.) térképek túl kicsi nagyítással készültek → újra
+    covers = [a for a in arts if ((a.get("hero_image") or {}).get("cover") and a["id"] not in cdone)
+              or ((a.get("hero_image") or {}).get("card") == "map" and "zoom" not in a["hero_image"] and a["id"] not in redo)][:2]
     if covers:
         changes = {}
         for a in covers:
             cdone.add(a["id"])
+            redo.add(a["id"])
+        st["map_redo"] = sorted(redo)
+        for a in covers:
             new = (smart_visuals(ai, a, a.get("category"), n=1) or [None])[0]
             if new and not new.get("cover"):
                 changes[a["id"]] = new
@@ -1641,8 +1646,12 @@ def map_card(art: dict, section_id: str, place: str, timeout: int = 20) -> Optio
         if not res:
             return None
         lat, lon = float(res[0]["lat"]), float(res[0]["lon"])
-        cls = res[0].get("addresstype") or res[0].get("type") or ""
-        z = {"country": 5, "state": 7, "county": 8, "region": 7, "city": 11, "town": 12, "village": 13}.get(cls, 14)
+        try:  # nagyítás a helyszín kiterjedéséhez: a befoglaló téglalap kb. a kép felét töltse ki
+            s_, n_, w_, e_ = (float(v) for v in res[0]["boundingbox"])
+            span = max(abs(e_ - w_), abs(n_ - s_) * 1.5, 1e-4)
+            z = max(5, min(16, int(math.log2(360 * 600 / (256 * span)))))
+        except (KeyError, ValueError, TypeError):
+            z = 12
         n = 2 ** z
         xf = (lon + 180) / 360 * n
         yf = (1 - math.asinh(math.tan(math.radians(lat))) / math.pi) / 2 * n
@@ -1672,8 +1681,8 @@ def map_card(art: dict, section_id: str, place: str, timeout: int = 20) -> Optio
         d.rectangle((W - d.textlength(att, font=f_a) - 24, H - 34, W, H), fill=ig.NAVY)
         d.text((W - d.textlength(att, font=f_a) - 12, H - 30), att, font=f_a, fill=ig.PARCH)
         d.rectangle((0, 0, 14, H), fill=ig.BRASS)
-        return _save_visual(img, "map", f"{place}{z}", f"Térkép: {label}", "Térkép: © OpenStreetMap közreműködők",
-                            "ODbL", "https://www.openstreetmap.org/copyright")
+        return {**_save_visual(img, "map", f"{place}{z}", f"Térkép: {label}", "Térkép: © OpenStreetMap közreműködők",
+                               "ODbL", "https://www.openstreetmap.org/copyright"), "zoom": z}
     except Exception as e:  # noqa: BLE001
         log.warning("Térkép sikertelen (%s): %s", place, str(e)[:200])
         return None
@@ -1724,10 +1733,11 @@ def smart_visuals(ai: "AIClient", art: dict, section_id: str, n: int = 2) -> lis
             f"Cikk: {art.get('title', '')}\n{art.get('lead', '')}\n" + " ".join(str(p) for p in (art.get('body') or [])[:3])[:1500]
             + "\n\nNincs a cikkhez illő fotó. Válaszd ki, milyen saját kép lenne a legerősebb főkép, sorrendben (a legjobb "
             "elöl): \"number\" = ha egy feltűnő SZÁM a hír lényege (összeg, százalék, darabszám – csak a cikkben szereplő!), "
-            "\"map\" = ha a hír egy konkrét helyszínhez kötődik (település, épület, ország), \"icon\" = egyszerű témaikon, "
+            "\"map\" = csak ha maga a HELYSZÍN a hír lényege (baleset, katasztrófa, helyi esemény, építkezés, "
+            "útlezárás) – nem ha csak ott történt (pl. letartóztatás, nyilatkozat: ott inkább image), \"icon\" = egyszerű témaikon, "
             "\"image\" = szöveg nélküli, szimbolikus generált illusztráció. JSON: {\"order\": [\"...\", \"...\"], "
             "\"number\": \"rövid szám mértékegységgel, pl. 1 milliárd €\", \"number_label\": \"max. 7 szavas magyarázat\", "
-            "\"place\": \"helyszín pontos neve, ország, pl. Veszprém, Magyarország\", \"emoji\": \"egy emoji\", "
+            "\"place\": \"helyszín pontos neve, ország, a LEGPONTOSABB, pl. Kossuth tér, Budapest vagy Veszprém, Magyarország\", \"emoji\": \"egy emoji\", "
             "\"icon_label\": \"2–5 szavas téma\"}"), 400, light=True)
     except (AIError, ValueError, TypeError, KeyError) as e:
         log.warning("Képtípus-választás kimaradt: %s", e)
