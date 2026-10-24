@@ -6651,15 +6651,15 @@
       "word_count": 365,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-1517ec4309.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-1517ec4309.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792836344-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792836344-0.jpg",
         "kind": "photo",
-        "alt": "Térkép: Budapest",
-        "credit": "Térkép: © OpenStreetMap közreműködők",
-        "license": "ODbL",
-        "source_url": "https://www.openstreetmap.org/copyright",
-        "generated": true,
-        "card": "map"
+        "alt": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1956-ot",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -6752,7 +6752,7 @@
       "pipeline_run_id": "39790238090",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-22T16:03:08+02:00",
-      "updated_at": "2026-10-24T09:39:52+00:00",
+      "updated_at": "2026-10-24T10:06:04+00:00",
       "published_at": "2026-10-22T16:03:08+02:00",
       "expires_at": null
     },
@@ -7390,15 +7390,15 @@
       "word_count": 328,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3b53b07092.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-3b53b07092.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-d3eeceb16b.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-d3eeceb16b.jpg",
         "kind": "photo",
-        "alt": "Két napra sötétbe borul a magyarorszag.hu egy globális szoftverhiba miatt",
-        "credit": "Kollektíva",
+        "alt": "48 óra – ennyi ideig szünetel a magyarorszag.hu",
+        "credit": "Kollektíva grafika",
         "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
         "generated": true,
-        "cover": true
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -7471,7 +7471,7 @@
       "pipeline_run_id": "39754686127",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-22T11:23:28+02:00",
-      "updated_at": "2026-10-22T12:21:00+02:00",
+      "updated_at": "2026-10-24T10:06:04+00:00",
       "published_at": "2026-10-22T11:23:28+02:00",
       "expires_at": null
     },
