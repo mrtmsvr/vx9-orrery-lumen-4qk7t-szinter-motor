@@ -12793,15 +12793,12 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-24T18:11:39+00:00",
-        "msg_ids": [
-          9410,
-          9411,
-          9412,
-          9413,
-          9414
-        ],
-        "control_id": 9415
-      }
+        "msg_ids": [],
+        "control_id": 9415,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:09 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-24T21:09:51+02:00"
     }
   ]
 }
