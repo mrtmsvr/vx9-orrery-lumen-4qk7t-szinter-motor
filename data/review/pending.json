@@ -13202,9 +13202,9 @@
       "live": true
     },
     {
-      "id": "c44127c9-a5e7-5a5b-a56f-f23bbf8921e6",
-      "slug": "2026-10-24-nov-4-en-indul-a-legujabb-ugynokaktas-kereso-a-neten",
-      "status": "pending",
+      "id": "933196df-9cd4-5e0f-b6a4-d7e7d12ad670",
+      "slug": "2026-10-24-itt-a-reszletes-lista-ekkor-nyilik-a-nyitottaktak-hu",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -13214,7 +13214,7 @@
         "levéltár",
         "adatbázis"
       ],
-      "title": "Nov. 4-én indul a legújabb ügynökaktás kereső a neten",
+      "title": "Itt a részletes lista: ekkor nyílik a nyitottaktak.hu",
       "subtitle": null,
       "lead": "November 4-én indul az Állambiztonsági Szolgálatok Történeti Levéltárának első ügynökaktás adatbázisa és keresőrendszere a nyitottaktak.hu oldalon. Az online felületen keresztül a hálózati nyilvántartások adatai is elérhetővé válnak.",
       "key_points": [
@@ -13337,11 +13337,11 @@
       },
       "date": "2026-10-24",
       "date_label": "október 24.",
-      "url": "/kozelet/2026-10-24-nov-4-en-indul-a-legujabb-ugynokaktas-kereso-a-neten/",
+      "url": "/kozelet/2026-10-24-itt-a-reszletes-lista-ekkor-nyilik-a-nyitottaktak-hu/",
       "seo": {
-        "meta_title": "Nov. 4-én indul a legújabb ügynökaktás kereső a neten",
+        "meta_title": "Itt a részletes lista: ekkor nyílik a nyitottaktak.hu",
         "meta_description": "November 4-én indul az Állambiztonsági Szolgálatok Történeti Levéltárának első ügynökaktás adatbázisa és keresőrendszere a nyitottaktak.hu oldalon. Az online fe",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-24-nov-4-en-indul-a-legujabb-ugynokaktas-kereso-a-neten/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-24-itt-a-reszletes-lista-ekkor-nyilik-a-nyitottaktak-hu/",
         "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -13359,9 +13359,9 @@
       "dedupe_hash": "407876f2b63c24fc4a3dc7ec1fb96f886c8413e878a6365edf2d96f7da9bfe10",
       "pipeline_run_id": "40084354226",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-24T12:09:36+02:00",
-      "updated_at": "2026-10-24T12:09:36+02:00",
-      "published_at": "2026-10-24T12:09:36+02:00",
+      "created_at": "2026-10-24T12:19:20+02:00",
+      "updated_at": "2026-10-24T12:19:20+02:00",
+      "published_at": "2026-10-24T12:19:20+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -13378,14 +13378,12 @@
         "title": 4,
         "image": 0,
         "sent_at": "2026-10-24T10:10:46+00:00",
-        "msg_ids": [
-          9319,
-          9320,
-          9321,
-          9322
-        ],
-        "control_id": 9323
-      }
+        "msg_ids": [],
+        "control_id": 9323,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
