@@ -11058,24 +11058,85 @@
       "clickbait_from": 3,
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 888,
+          "height": 1599,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-          "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+          "pos": "top",
+          "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra",
+          "credit": "Norbert Banhalmi / Wikimedia Commons",
           "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Peter-Magyar-portrait-2026.jpg",
           "exact": true,
-          "entity": "Hungarian Parliament Building",
-          "vision_score": 9.0
+          "entity": "Magyar Péter",
+          "unverified": true
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-7c1f688b40.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-7c1f688b40.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/TISZA_2024.svg/1280px-TISZA_2024.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 844,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "A TISZA Párt legújabb logója.",
+          "credit": "Tisztelet és Szabadság Párt / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:TISZA_2024.svg",
+          "exact": true,
+          "entity": "Tisza Party",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tisza_I._electoral_speech_1910.jpg/1280px-Tisza_I._electoral_speech_1910.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 589,
           "kind": "photo",
-          "alt": "Nemzeti egységet követelt Magyar Péter a Tisza Párt Kossuth téri rendezvényén",
+          "pos": "center",
+          "alt": "István Tisza, leader of the National Party of Work gives an electoral speech in Sopron in April 1910",
+          "credit": "Gyula Jelfy / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tisza_I._electoral_speech_1910.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Kossuth_square_Christimas_tree_2022_02.jpg/1280px-Kossuth_square_Christimas_tree_2022_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Christmas tree at Kossuth square, Budapest (December 2022)",
+          "credit": "Norden1990 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kossuth_square_Christimas_tree_2022_02.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_of_Hungarian_news_portal_Telex_colored.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 628,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "This is the logo of the Hungarian online news portal Telex.hu",
+          "credit": "Telex.hu / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Logo_of_Hungarian_news_portal_Telex_colored.png",
+          "unverified": true
+        },
+        {
+          "url": "https://pixabay.com/get/g3a85373673dd955532d11d3595ef851e6ee96f6935920892d433709dc67c91577db62a0e39970b2e9da5e03a79f24cc0b1cde5d675906fb104cd7b89379356db_1280.jpg",
+          "width": 6240,
+          "height": 4160,
+          "kind": "photo",
+          "alt": "woman, masses, event, group of people, problems, masks, karlsruhe, event, event, event, event, event, masks, masks, masks",
+          "credit": "justifotka / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/woman-masses-event-group-of-people-5275027/",
+          "unverified": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-90132fa712.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-90132fa712.jpg",
+          "kind": "photo",
+          "alt": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
           "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
@@ -11164,11 +11225,33 @@
         "msg_ids": [
           9235,
           9236,
-          9237
+          9237,
+          9239,
+          9240,
+          9241,
+          9242,
+          9243,
+          9244,
+          9245
         ],
-        "control_id": 9238
+        "control_id": 9246
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "Magyar Péter",
+        "Tisza Party",
+        "Kossuth Square, Budapest",
+        "Telex.hu news portal",
+        "controversial rainbow banner",
+        "large public rally in a city square",
+        "politician speaking at a podium with mic",
+        "crowd holding protest signs",
+        "colorful political banner with text"
+      ],
+      "images_seen": [
+        "https://xn--kollektva-m5a.hu/public/img/gen/cover-7c1f688b40.jpg",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     },
     {
       "id": "4e5efa3a-222c-5fea-be71-515d36a80884",
