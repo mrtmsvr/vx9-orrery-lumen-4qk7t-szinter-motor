@@ -1,7 +1,130 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T08:16:11+02:00",
+  "updated_at": "2026-10-24T08:25:24+02:00",
   "articles": [
+    {
+      "id": "5c6c3f12-3033-5ea9-b714-8294c12ca0de",
+      "slug": "2026-10-24-tulelesi-tippek-az-oraatallitashoz",
+      "status": "published",
+      "category": "eletmod",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "Óraátállítás (téli időszámítás)",
+        "óraátállítás",
+        "alvásritmus",
+        "cirkadián ritmus",
+        "zeitgeber",
+        "egészség"
+      ],
+      "title": "Túlélési tippek az óraátállításhoz",
+      "subtitle": null,
+      "lead": "Az évi kétszeri óraátállítás alaposan felboríthatja a belső ritmusunkat, mivel a szervezetünk nehezen alkalmazkodik a hirtelen időbeli ugrásokhoz. Ebből a cikkből megtudhatja, hogyan készítheti fel tudományos alapon a biológiai óráját a váltásra.",
+      "key_points": [
+        "A Föld lakosságának közel egynegyedét érinti a nyári időszámítás rendszere.",
+        "A belső óra számára a legerősebb külső szinkronizáló jel, a zeitgeber a fényhatás.",
+        "A kanadai közegészségügyi folyóiratban megjelent tanulmány is a biológiai ritmusok védelmének fontosságát hangsúlyozza."
+      ],
+      "content": "## Miért ráz meg minket egyetlen óra is?\n\nA modern társadalmakban az óraátállítás szinte észrevétlenül olvad bele az évszakok váltakozásába, biológiai szinten azonban komoly kihívást jelent. A nyári időszámítás – angol nevén daylight saving time, vagyis DST – során a helyi időt tavasszal egy órával előre állítják, majd ősszel a standard időhöz képest vissza. Ez a rendszer a Föld népességének közelítőleg a negyedét érinti. Bár eredetileg energiamegtakarítási célból javasolták a napfényes órák jobb kihasználása érdekében, a tudományos életben folyamatos viták övezik. Az ellenzők rámutatnak, hogy a biológiai óra és az alvási ciklusok megzavarása károsan hathat az emberi egészségre. Egy 2024-ben a Canadian Journal of Public Health szaklapban megjelent tanulmány is elemzi az évi kétszeri időváltozás alvásra és cirkadián ritmusokra gyakorolt hatásait, kiemelve a lakosság jólétének védelmét.\n\n## Hogyan igazodik a szervezet a nap járásához?\n\nAz emberi test nem a faliórához, hanem a természethez igazodik. A biológiai óránk szinkronizálásában kulcsszerepet játszanak azok a külső ingerek, amelyeket a német cronobiológia úttörője, Jürgen Aschoff nyomán zeitgebernek, azaz időadónak nevezünk. A legerősebb zeitgeber minden élőlény, így az ember számára is a fényhatás. A fény mellett a hangok, a hőmérséklet, a társas interakciók, a hormonális hatások és a táplálkozási minták szintén jelzéseket küldenek a belső óránknak. Míg a mezőgazdasági társadalmak életritmusa szorosan követte a nap járását, az iparosodás és a városodás során ez az összhang megbomlott. Ezzel szemben a mai merev időzónák és az óraátállítások arra kényszerítik a szervezetünket, hogy mesterségesen ugorjon egy órát.\n\n## Gyakorlati lépések az alvási ritmus megőrzésére\n\nA kutatási eredmények és a szakmai szervezetek állásfoglalásai arra hívják fel a figyelmet, hogy érdemes tudatosan kezelni az átállás napjait. Mivel a fény a legfőbb zeitgeber, a reggeli és esti fényviszonyok tudatos megváltoztatása segíthet a szervezetnek az alkalmazkodásban. A kanadai alváskutatók és kronobiológusok által is támogatott szemlélet szerint a biológiai ritmusunk stabilizálása érdekében érdemes az alvási higiéniára fókuszálni.\n\n- Fényhatás szabályozása: Ébredés után törekedjünk a természetes fényre, este pedig csökkentsük a képernyők kék fényét, amely késleltetheti a melatonin termelődését.\n\n- Fokozatos eltolódás: Az átállás előtti napokban érdemes tizenöt-húsz perccel korábban vagy később feküdni, igazodva a közelgő óraforgatáshoz.\n\n- Rendszeres étkezési minták: Mivel az evés maga is zeitgeberként hat a belső órára, az étkezések időpontjának állandósága segíti a ritmus megőrzését.\n\n## A történelem és a jövő nyitott kérdései\n\nAz óraátállítás története évszázadokra nyúlik vissza. Bár a nyári időszámítás ötletét gyakran Benjamin Franklinnak tulajdonítják egy 1784-es szatirikus írása miatt, ő valójában csak a világítás költségeinek csökkentése érdekében buzdította korai kelésre az embereket. A modern kori óraátállítást először George Vernon Hudson új-zélandi rovarszakértő javasolta 1895-ben, akinek kétórás átállítási terve a wellingtoni társasághoz futott be. A ma ismert európai rendszert az első világháború alatt, 1916-ban vezették be először a Német Császárság és az Osztrák-Magyar Monarchia területén. Az Európai Unió 1996-ban egységesítette a szabályokat, Magyarországon pedig ekkor vált szokássá, hogy október utolsó vasárnapján ér véget a nyári időszámítás. Az Európai Bizottság 2018-ban javaslatot tett az óraátállítás eltörlésére, ám a döntést a tagállamoknak nehéz volt meghozni, a határidők tolódtak, majd a Covid-19 pandémia és az ukrajnai háború miatt a téma háttérbe szorult. Jelenleg a tudományos közösség egy része – köztük kanadai és nemzetközi alváskutató egyesületek – a permanens standard idő mellett foglal állást, de a kérdés végleges rendezése még várat magára.",
+      "content_format": "markdown",
+      "body": [
+        "## Miért ráz meg minket egyetlen óra is?",
+        "A modern társadalmakban az óraátállítás szinte észrevétlenül olvad bele az évszakok váltakozásába, biológiai szinten azonban komoly kihívást jelent. A nyári időszámítás – angol nevén daylight saving time, vagyis DST – során a helyi időt tavasszal egy órával előre állítják, majd ősszel a standard időhöz képest vissza. Ez a rendszer a Föld népességének közelítőleg a negyedét érinti. Bár eredetileg energiamegtakarítási célból javasolták a napfényes órák jobb kihasználása érdekében, a tudományos életben folyamatos viták övezik. Az ellenzők rámutatnak, hogy a biológiai óra és az alvási ciklusok megzavarása károsan hathat az emberi egészségre. Egy 2024-ben a Canadian Journal of Public Health szaklapban megjelent tanulmány is elemzi az évi kétszeri időváltozás alvásra és cirkadián ritmusokra gyakorolt hatásait, kiemelve a lakosság jólétének védelmét.",
+        "## Hogyan igazodik a szervezet a nap járásához?",
+        "Az emberi test nem a faliórához, hanem a természethez igazodik. A biológiai óránk szinkronizálásában kulcsszerepet játszanak azok a külső ingerek, amelyeket a német cronobiológia úttörője, Jürgen Aschoff nyomán zeitgebernek, azaz időadónak nevezünk. A legerősebb zeitgeber minden élőlény, így az ember számára is a fényhatás. A fény mellett a hangok, a hőmérséklet, a társas interakciók, a hormonális hatások és a táplálkozási minták szintén jelzéseket küldenek a belső óránknak. Míg a mezőgazdasági társadalmak életritmusa szorosan követte a nap járását, az iparosodás és a városodás során ez az összhang megbomlott. Ezzel szemben a mai merev időzónák és az óraátállítások arra kényszerítik a szervezetünket, hogy mesterségesen ugorjon egy órát.",
+        "## Gyakorlati lépések az alvási ritmus megőrzésére",
+        "A kutatási eredmények és a szakmai szervezetek állásfoglalásai arra hívják fel a figyelmet, hogy érdemes tudatosan kezelni az átállás napjait. Mivel a fény a legfőbb zeitgeber, a reggeli és esti fényviszonyok tudatos megváltoztatása segíthet a szervezetnek az alkalmazkodásban. A kanadai alváskutatók és kronobiológusok által is támogatott szemlélet szerint a biológiai ritmusunk stabilizálása érdekében érdemes az alvási higiéniára fókuszálni.",
+        "- Fényhatás szabályozása: Ébredés után törekedjünk a természetes fényre, este pedig csökkentsük a képernyők kék fényét, amely késleltetheti a melatonin termelődését.",
+        "- Fokozatos eltolódás: Az átállás előtti napokban érdemes tizenöt-húsz perccel korábban vagy később feküdni, igazodva a közelgő óraforgatáshoz.",
+        "- Rendszeres étkezési minták: Mivel az evés maga is zeitgeberként hat a belső órára, az étkezések időpontjának állandósága segíti a ritmus megőrzését.",
+        "## A történelem és a jövő nyitott kérdései",
+        "Az óraátállítás története évszázadokra nyúlik vissza. Bár a nyári időszámítás ötletét gyakran Benjamin Franklinnak tulajdonítják egy 1784-es szatirikus írása miatt, ő valójában csak a világítás költségeinek csökkentése érdekében buzdította korai kelésre az embereket. A modern kori óraátállítást először George Vernon Hudson új-zélandi rovarszakértő javasolta 1895-ben, akinek kétórás átállítási terve a wellingtoni társasághoz futott be. A ma ismert európai rendszert az első világháború alatt, 1916-ban vezették be először a Német Császárság és az Osztrák-Magyar Monarchia területén. Az Európai Unió 1996-ban egységesítette a szabályokat, Magyarországon pedig ekkor vált szokássá, hogy október utolsó vasárnapján ér véget a nyári időszámítás. Az Európai Bizottság 2018-ban javaslatot tett az óraátállítás eltörlésére, ám a döntést a tagállamoknak nehéz volt meghozni, a határidők tolódtak, majd a Covid-19 pandémia és az ukrajnai háború miatt a téma háttérbe szorult. Jelenleg a tudományos közösség egy része – köztük kanadai és nemzetközi alváskutató egyesületek – a permanens standard idő mellett foglal állást, de a kérdés végleges rendezése még várat magára."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 562,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/1280px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1161,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The clock-face of Big Ben (Elizabeth Tower) as it looked in 2009 before being renovated and restored.[1] The clock-face framework has since been restored to its original color of Prussian blue, and th",
+        "credit": "Ermell / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://doi.org/10.17269/s41997-024-00870-0",
+          "title": "The practice of Daylight Saving Time in Canada: Its suitability with respect to sleep and circadian rhythms",
+          "publisher": "Canadian Journal of Public Health, 2024",
+          "license": null,
+          "accessed_at": "2026-10-24T07:48:35+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Ny%C3%A1ri_id%C5%91sz%C3%A1m%C3%ADt%C3%A1s",
+          "title": "Nyári időszámítás",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T07:48:35+02:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Zeitgeber",
+          "title": "Zeitgeber",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-24T07:48:35+02:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T08:25:24+02:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": true,
+      "category_meta": {
+        "source_links": [
+          "https://doi.org/10.17269/s41997-024-00870-0",
+          "https://hu.wikipedia.org/wiki/Ny%C3%A1ri_id%C5%91sz%C3%A1m%C3%ADt%C3%A1s",
+          "https://hu.wikipedia.org/wiki/Zeitgeber"
+        ],
+        "offtopic_id": "oraatallitas-osz-oraatallitas-alvas-tippek-2026"
+      },
+      "date": "2026-10-24",
+      "date_label": "október 24.",
+      "url": "/eletmod/2026-10-24-tulelesi-tippek-az-oraatallitashoz/",
+      "seo": {
+        "meta_title": "Túlélési tippek az óraátállításhoz",
+        "meta_description": "Az évi kétszeri óraátállítás alaposan felboríthatja a belső ritmusunkat, mivel a szervezetünk nehezen alkalmazkodik a hirtelen időbeli ugrásokhoz. Ebből a cikkb",
+        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-24-tulelesi-tippek-az-oraatallitashoz/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/1280px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "71d954998b16ca6819e50c66a34c1430cce4f6dbb9a6434ed8f19741d8ab3578",
+      "pipeline_run_id": "40067633176",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T08:25:24+02:00",
+      "updated_at": "2026-10-24T08:25:24+02:00",
+      "published_at": "2026-10-24T08:25:24+02:00",
+      "expires_at": null
+    },
     {
       "id": "5c23d6ae-ff7e-546e-a7ab-287338250274",
       "slug": "2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale",
@@ -68472,103 +68595,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/View_Landscape_Kerkafalva_Zala.jpg/1280px-View_Landscape_Kerkafalva_Zala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://live.staticflickr.com/54/117048243_7cc6bb0b87_b.jpg"
       ]
-    },
-    {
-      "id": "234a392f-f1c5-57d6-bc18-fbf12e0d129e",
-      "slug": "2026-10-02-miert-ul-az-alkotmanybirosag-a-legkenyesebb-torvenyeken",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Alkotmánybíróság",
-        "normakontroll",
-        "törvények",
-        "Közélet",
-        "parlament"
-      ],
-      "title": "Miért ül az Alkotmánybíróság a legkényesebb törvényeken?",
-      "subtitle": null,
-      "lead": "Hét friss, vitatott törvény utólagos normakontroll-kérelme várakozik az Alkotmánybíróságon, miközben a testületnél az egyedi panaszok ügyében is hatalmas a lemaradás. Az Alaptörvény-ellenesnek ítélt jogszabályok ügyében az idő múlásával egyre nehezebb lenne érdemi jogi lépéseket tenni.",
-      "key_points": [
-        "Hét utólagos normakontroll-kérelem vár arra, hogy az Alkotmánybíróság napirendre tűzze.",
-        "A vitatott jogszabályok érintik az NVVH-t, a kekvákat, a közmédiát és a választójogot is.",
-        "A testületnél az egyedi panaszokból is óriási a hátralék, a legrégebbi 2015-ös.",
-        "Czine Ágnes elnökhelyettes vezetésével a bírák közt éles ellentétek feszülnek."
-      ],
-      "content": "Az ellenzéki képviselők által benyújtott hét utólagos normakontroll-kérelem jelenleg hiába szerepel az Alkotmánybíróság asztalán, a testület jövő heti napirendjén ehelyett egyedi panaszok, így közterület-használati és földforgalmi ügyek szerepelnek. A Fidesz és a KDNP képviselői által Alaptörvény-ellenesnek ítélt jogszabályok sorában szerepel a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról (NVVH), az Országgyűlés vizsgálóbizottságairól, a kekvákról, a közmédiáról, a politikai kommunikációról, a plakáteltávolításról és a passzív választójog korlátozásáról szóló törvény, valamint az Alkotmánybíróság új tagjának megválasztását lehetővé tévő jogszabály is.\n\nMivel ezek nem magát az Alaptörvény 16. és 17. módosítását érintik, az Alkotmánybíróság elméletben vizsgálhatná őket, hiszen a Fidesz-többségű Alaptörvény-módosítások tartalmi vizsgálatát tiltó szabályai ezekre közvetlenül nem vonatkoznak. A gyakorlatban azonban az idő múlásával a megsemmisítésük egyre inkább fikcióvá válik, mivel a kekva-alapítványok – a felsőoktatást fenntartókat leszámítva – megszűntek, az NVVH, az új Médiatanács, a Független Közmédia Testület és a vizsgálóbizottságok pedig már megalakultak és működni kezdtek. Ha az Alkotmánybíróság hetek vagy hónapok múlva mégis megsemmisítené ezeket, az elképesztő jogi káoszt eredményezne.\n\nA testület jelenlegi tizenöt bírája közül tízet még a Fidesz-többségű parlament választott meg, nyolcat ráadásul ellenzéki támogatás nélkül. Az augusztusi visszautasító végzésekhez fűzött különvélemények rávilágítottak az alkotmánybírák közötti éles ellentétekre, hiszen mérlegelniük kell azt is, milyen következményekkel járna egy elsöprő választási győzelmet aratott párt elfogadott programján alapuló törvények hirtelen semmissé nyilvánítása. Az Alkotmánybíróság ráadásul máskor sem sieti el a döntéseket: a friss kérelmek mellett hat olyan, régen értelmét vesztett normakontroll-kérelem is hever elbírálatlanul, amelyet az előző két ciklus baloldali ellenzéki képviselői nyújtottak be.\n\nAz egyedi panaszok terén is óriási a lemaradás, hiszen kizárólag 2026-ban 403 új panasz érkezett, miközben a legrégibb, a 637. sorszámú panasz még 2015-ös, amellyel kapcsolatban a testület 2016-ban kétszer, 2020-ban pedig egyszer tárgyalt, de végül soha nem hozott döntést. Ugyancsak ezen a héten adtak igazat egy újságíró ügyében, aki még 2018-ban fordult a testülethez, miután külföldi menekültnek kiadva magát jutott információhoz, amiért a bíróság elítélte; az ő ügyét 2019-ben, 2020-ban és 2021-ben is csak félbehagyták, mielőtt most megszületett volna a határozat. Az Alkotmánybíróság élén egyelőre Czine Ágnes elnökhelyettes áll a régiek közül, noha már megszületett a törvény arról, hogy az alkotmánybírák maguk választják meg a vezetőjüket, és Orosz Árpád is novemberben lép hivatalba új tagként.",
-      "content_format": "markdown",
-      "body": [
-        "Az ellenzéki képviselők által benyújtott hét utólagos normakontroll-kérelem jelenleg hiába szerepel az Alkotmánybíróság asztalán, a testület jövő heti napirendjén ehelyett egyedi panaszok, így közterület-használati és földforgalmi ügyek szerepelnek. A Fidesz és a KDNP képviselői által Alaptörvény-ellenesnek ítélt jogszabályok sorában szerepel a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról (NVVH), az Országgyűlés vizsgálóbizottságairól, a kekvákról, a közmédiáról, a politikai kommunikációról, a plakáteltávolításról és a passzív választójog korlátozásáról szóló törvény, valamint az Alkotmánybíróság új tagjának megválasztását lehetővé tévő jogszabály is.",
-        "Mivel ezek nem magát az Alaptörvény 16. és 17. módosítását érintik, az Alkotmánybíróság elméletben vizsgálhatná őket, hiszen a Fidesz-többségű Alaptörvény-módosítások tartalmi vizsgálatát tiltó szabályai ezekre közvetlenül nem vonatkoznak. A gyakorlatban azonban az idő múlásával a megsemmisítésük egyre inkább fikcióvá válik, mivel a kekva-alapítványok – a felsőoktatást fenntartókat leszámítva – megszűntek, az NVVH, az új Médiatanács, a Független Közmédia Testület és a vizsgálóbizottságok pedig már megalakultak és működni kezdtek. Ha az Alkotmánybíróság hetek vagy hónapok múlva mégis megsemmisítené ezeket, az elképesztő jogi káoszt eredményezne.",
-        "A testület jelenlegi tizenöt bírája közül tízet még a Fidesz-többségű parlament választott meg, nyolcat ráadásul ellenzéki támogatás nélkül. Az augusztusi visszautasító végzésekhez fűzött különvélemények rávilágítottak az alkotmánybírák közötti éles ellentétekre, hiszen mérlegelniük kell azt is, milyen következményekkel járna egy elsöprő választási győzelmet aratott párt elfogadott programján alapuló törvények hirtelen semmissé nyilvánítása. Az Alkotmánybíróság ráadásul máskor sem sieti el a döntéseket: a friss kérelmek mellett hat olyan, régen értelmét vesztett normakontroll-kérelem is hever elbírálatlanul, amelyet az előző két ciklus baloldali ellenzéki képviselői nyújtottak be.",
-        "Az egyedi panaszok terén is óriási a lemaradás, hiszen kizárólag 2026-ban 403 új panasz érkezett, miközben a legrégibb, a 637. sorszámú panasz még 2015-ös, amellyel kapcsolatban a testület 2016-ban kétszer, 2020-ban pedig egyszer tárgyalt, de végül soha nem hozott döntést. Ugyancsak ezen a héten adtak igazat egy újságíró ügyében, aki még 2018-ban fordult a testülethez, miután külföldi menekültnek kiadva magát jutott információhoz, amiért a bíróság elítélte; az ő ügyét 2019-ben, 2020-ban és 2021-ben is csak félbehagyták, mielőtt most megszületett volna a határozat. Az Alkotmánybíróság élén egyelőre Czine Ágnes elnökhelyettes áll a régiek közül, noha már megszületett a törvény arról, hogy az alkotmánybírák maguk választják meg a vezetőjüket, és Orosz Árpád is novemberben lép hivatalba új tagként."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 3,
-      "word_count": 409,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/54/117048243_7cc6bb0b87_b.jpg",
-        "width": 1024,
-        "height": 683,
-        "kind": "photo",
-        "alt": "Courtroom One Gavel",
-        "credit": "Joe Gratz / flickr",
-        "license": "Public domain",
-        "source_url": "https://www.flickr.com/photos/63126465@N00/117048243"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261002_alkotmanybirosag-napirend-targyalas-nvvh-kekva-ciklus-korlatozas-alaptorveny-panasz-fidesz-kdnp",
-          "title": "Az Alkotmánybíróság nem foglalkozik a kényes ügyekkel",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T08:01:45+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-02T08:08:23+02:00"
-      },
-      "hot_score": 5.64,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261002_alkotmanybirosag-napirend-targyalas-nvvh-kekva-ciklus-korlatozas-alaptorveny-panasz-fidesz-kdnp"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/kozelet/2026-10-02-miert-ul-az-alkotmanybirosag-a-legkenyesebb-torvenyeken/",
-      "seo": {
-        "meta_title": "Miért ül az Alkotmánybíróság a legkényesebb törvényeken?",
-        "meta_description": "Hét friss, vitatott törvény utólagos normakontroll-kérelme várakozik az Alkotmánybíróságon, miközben a testületnél az egyedi panaszok ügyében is hatalmas a lema",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-02-miert-ul-az-alkotmanybirosag-a-legkenyesebb-torvenyeken/",
-        "og_image": "https://live.staticflickr.com/54/117048243_7cc6bb0b87_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "c0d84c47fb8af73005e7a5d32a7ded08a3e991a9e64f6db723a394fd842d57a3",
-      "pipeline_run_id": "36971570166",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T08:08:23+02:00",
-      "updated_at": "2026-10-02T08:08:23+02:00",
-      "published_at": "2026-10-02T08:08:23+02:00",
-      "expires_at": null
     }
   ]
 }
