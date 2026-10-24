@@ -1735,6 +1735,9 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
                 msg = "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
             elif a.get("category") in AUTO_SECTIONS and _age_min(a) >= AUTO_SECTION_MIN:
                 msg = f"⚡ {kc.SECTIONS.get(a['category'], {}).get('name', '')}: jóváhagyás nélkül kiraktam."
+            elif float(a.get("hot_score") or 0) >= float(os.getenv("AUTO_HOT_SCORE", "10")):
+                # forró hír: nem vár a jóváhagyási körre (a verseny miatt azonnal kint kell lennie); utólag cserélhető/törölhető
+                msg = f"🔥 Forró hír (forróság {a.get('hot_score')}): azonnal kiraktam."
             elif a.get("category") == "bulvar":
                 continue
             elif AUTO_NEWS and _age_min(a) >= AUTO_PUBLISH_MIN:
