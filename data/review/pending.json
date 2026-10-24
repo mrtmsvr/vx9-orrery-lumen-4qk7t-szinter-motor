@@ -10996,7 +10996,7 @@
     {
       "id": "5c23d6ae-ff7e-546e-a7ab-287338250274",
       "slug": "2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -11025,20 +11025,7 @@
       "reading_time_min": 1,
       "word_count": 178,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 888,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
-        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
-        "exact": true,
-        "entity": "Hungarian Parliament Building",
-        "vision_score": 9.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -11121,7 +11108,7 @@
         "meta_title": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
         "meta_description": "A Tisza Párt tartotta meg október 23-i nagygyűlését a Kossuth téren, ahol Magyar Péter elnök a nemzeti szimbólumok közösségéről beszélt. A rendezvényen a tömege",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -11158,9 +11145,9 @@
       "dedupe_hash": "6e5c65590cb6b536fb2dd64de86687c84d0b83e892ac0e38fd80a3667b1adf83",
       "pipeline_run_id": "40021930184",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-23T22:48:55+02:00",
-      "updated_at": "2026-10-23T22:48:55+02:00",
-      "published_at": "2026-10-23T22:48:55+02:00",
+      "created_at": "2026-10-24T08:04:45+02:00",
+      "updated_at": "2026-10-24T08:04:45+02:00",
+      "published_at": "2026-10-24T08:04:45+02:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -11177,13 +11164,12 @@
         "title": 0,
         "image": -1,
         "sent_at": "2026-10-23T20:50:29+00:00",
-        "msg_ids": [
-          9162,
-          9163,
-          9164
-        ],
-        "control_id": 9165
-      }
+        "msg_ids": [],
+        "control_id": 9165,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "4e5efa3a-222c-5fea-be71-515d36a80884",

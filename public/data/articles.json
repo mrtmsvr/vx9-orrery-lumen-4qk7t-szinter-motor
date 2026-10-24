@@ -1,7 +1,126 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T06:50:11+02:00",
+  "updated_at": "2026-10-24T08:04:45+02:00",
   "articles": [
+    {
+      "id": "5c23d6ae-ff7e-546e-a7ab-287338250274",
+      "slug": "2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "október 23",
+        "Tisza Párt",
+        "Magyar Péter",
+        "Kossuth tér",
+        "Budaházy György"
+      ],
+      "title": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
+      "subtitle": null,
+      "lead": "A Tisza Párt tartotta meg október 23-i nagygyűlését a Kossuth téren, ahol Magyar Péter elnök a nemzeti szimbólumok közösségéről beszélt. A rendezvényen a tömeges ünneplés mellett feszültebb pillanatok is kialakultak egy transzparens miatt.",
+      "key_points": [
+        "Magyar Péter mondott beszédet a Kossuth téren október 23-án.",
+        "A Tisza Párt elnöke hangsúlyozta, hogy a nemzeti ügyek és szimbólumok nem tartozhatnak egyetlen politikai táborhoz sem.",
+        "A megkérdezett résztvevők örömüket fejezték ki a rendezvénnyel kapcsolatban."
+      ],
+      "content": "A Tisza Párt tartott nagygyűlést Budapesten, a Kossuth téren október 23-án. Az eseményen Magyar Péter, a Tisza Párt elnöke mondott beszédet, amelyben hangsúlyozta: a nemzet és a nemzeti szimbólumok nem kisajátíthatók egyetlen politikai oldal számára sem. A rendezvényen a résztvevők is kifejtették véleményüket a Telex.hu videójában.\n\nA Telex.hu videójában megszólaló résztvevők zömmel elégedettségüknek adtak hangot a rendezvénnyel és az elmúlt fél év folyamataival kapcsolatban. Egy interjúalany népünnepélyként írta le az eseményt,\n\nAz intézkedésre amiatt került sor, mert a csoport a Telex.hu videójában is rögzített módon olyan transzparenst tartott fel, amelyen a „Szivárványcsalád = gyermekveszélyeztetés” felirat szerepelt. A kísérés során feszült pillanatok alakultak ki, az újságírók és a jelenlévők kameráztak, és több kommentár is elhangzott a helyszínen. A videóban megszólaló egyik női résztvevő a történtekre is reagált, míg a téren lévők eltérő véleményeket fogalmaztak meg a megnyilvánulások határairól és a közterületi demonstrációkról.",
+      "content_format": "markdown",
+      "body": [
+        "A Tisza Párt tartott nagygyűlést Budapesten, a Kossuth téren október 23-án. Az eseményen Magyar Péter, a Tisza Párt elnöke mondott beszédet, amelyben hangsúlyozta: a nemzet és a nemzeti szimbólumok nem kisajátíthatók egyetlen politikai oldal számára sem. A rendezvényen a résztvevők is kifejtették véleményüket a Telex.hu videójában.",
+        "A Telex.hu videójában megszólaló résztvevők zömmel elégedettségüknek adtak hangot a rendezvénnyel és az elmúlt fél év folyamataival kapcsolatban. Egy interjúalany népünnepélyként írta le az eseményt,",
+        "Az intézkedésre amiatt került sor, mert a csoport a Telex.hu videójában is rögzített módon olyan transzparenst tartott fel, amelyen a „Szivárványcsalád = gyermekveszélyeztetés” felirat szerepelt. A kísérés során feszült pillanatok alakultak ki, az újságírók és a jelenlévők kameráztak, és több kommentár is elhangzott a helyszínen. A videóban megszólaló egyik női résztvevő a történtekre is reagált, míg a téren lévők eltérő véleményeket fogalmaztak meg a megnyilvánulások határairól és a közterületi demonstrációkról."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 178,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=ufeWCGpoemI",
+          "title": "Matolcsy Ádika és a többiek is üljenek, mint varjak a karón!",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-23T22:48:55+02:00"
+        }
+      ],
+      "quote": {
+        "text": "Ennek most vége. Senkinek sincs joga többé kisajátítani a szabadságot, és senkinek nincs joga többé magyarságából kitüntetni azokat, akik másképp gondolkodnak a világról.",
+        "who": "Magyar Péter a Tisza Párt elnöke",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-24T08:04:45+02:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=ufeWCGpoemI"
+        ]
+      },
+      "date": "2026-10-23",
+      "date_label": "október 23.",
+      "url": "/kozelet/2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale/",
+      "seo": {
+        "meta_title": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
+        "meta_description": "A Tisza Párt tartotta meg október 23-i nagygyűlését a Kossuth téren, ahol Magyar Péter elnök a nemzeti szimbólumok közösségéről beszélt. A rendezvényen a tömege",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "126152f8-5619-5654-84dc-bb8ed99b03f7",
+        "2de3f565-bd4a-59a3-8247-a228e7781cfb",
+        "fce1e42e-a0f1-5184-8764-58712d19f150"
+      ],
+      "see_also": [
+        {
+          "title": "Megállt a Tisza lejtmenete, Vitézy Dávid a legnépszerűbb",
+          "url": "/kozelet/2026-10-15-megallt-a-tisza-lejtmenete-vitezy-david-a-legnepszerubb/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Automatikus hívásokkal toboroznak az állami ünnepségre Magyar Péter hangján",
+          "url": "/kozelet/2026-10-23-magyar-peter-hangjaval-hivjak-az-embereket-a-kossuth-teri-unnepsegre/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
+          "url": "/kozelet/2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap/",
+          "date": "2026-10-23"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "6e5c65590cb6b536fb2dd64de86687c84d0b83e892ac0e38fd80a3667b1adf83",
+      "pipeline_run_id": "40021930184",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-24T08:04:45+02:00",
+      "updated_at": "2026-10-24T08:04:45+02:00",
+      "published_at": "2026-10-24T08:04:45+02:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "ufeWCGpoemI",
+        "title": "Matolcsy Ádika és a többiek is üljenek, mint varjak a karón!",
+        "channel": "Telex․hu",
+        "minutes": 10
+      }
+    },
     {
       "id": "25354403-f0a1-59b7-a902-ff64df803cbe",
       "slug": "2026-10-24-deutsch-anita-es-csomor-csilla-elsokent-esett-ki-az-azsia-expresszbol",
@@ -68439,101 +68558,6 @@
       "created_at": "2026-10-02T08:08:23+02:00",
       "updated_at": "2026-10-02T08:08:23+02:00",
       "published_at": "2026-10-02T08:08:23+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "46e17fc6-8aae-5ec2-9695-695a7e933497",
-      "slug": "2026-10-02-igy-kolt-el-1-4-milliard-dollart-a-nasa",
-      "status": "published",
-      "category": "univerzum",
-      "subcategory": null,
-      "tags": [
-        "NASA",
-        "űrkutatás",
-        "logisztika",
-        "pénzügyek"
-      ],
-      "title": "Így költ el 1,4 milliárd dollárt a NASA",
-      "subtitle": null,
-      "lead": "Tizenhat céggel kötött új, átfogó logisztikai megállapodást a NASA, hogy hatékonyabban kezelje erőforrásait és eszközeit. Az 1,4 milliárd dolláros keretösszegű program egységesíti a beszerzéseket és a szállítási műveleteket.",
-      "key_points": [
-        "A NASA 16 céggel szerződött le az Enterprise Logistics Support Services keretén belül.",
-        "A program teljes keretösszege 1,4 milliárd dollárra rúg.",
-        "Az új megállapodások célja a költségek és az erőforrások hatékonyabb menedzselése."
-      ],
-      "content": "Új alapokra helyezi háttérműveleteit az amerikai űrügynökség, miután tizenhat különböző vállalkozással írt alá átfogó beszerzési megállapodásokat. Ez a pénzügyi és szervezeti hálózat olyan, mint amikor egy hatalmas multinacionális vállalat egyetlen kézbe vonja az összes gyárának logisztikáját, szállítmányozását és alkatrész-ellátását ahelyett, hogy minden telephely külön-külön szerződne.\n\nAz Enterprise Logistics Support Services névre hallgató keretrendszer pontosan a belső működés racionalizálását célozza. A nasa.gov által közzétett adatok alapján a program átfogja a berendezések és ingatlanok kezelését, a terméktámogatást, a repülési hardverek fenntartását, valamint az exportkontrollt és a költözési műveleteket is.\n\nAz 1,4 milliárd dolláros keretösszegű megállapodások legfőbb feladata, hogy egységesítsék a követelményeket és javítsák a jelentéstételi rendszereket. A jövőben ezeknek a háttérfolyamatoknak köszönhetően pontosabban és átláthatóbban követhetők majd az űrmissziókhoz kapcsolódó költségek, valamint az eszközök karbantartási feladatai.",
-      "content_format": "markdown",
-      "body": [
-        "Új alapokra helyezi háttérműveleteit az amerikai űrügynökség, miután tizenhat különböző vállalkozással írt alá átfogó beszerzési megállapodásokat. Ez a pénzügyi és szervezeti hálózat olyan, mint amikor egy hatalmas multinacionális vállalat egyetlen kézbe vonja az összes gyárának logisztikáját, szállítmányozását és alkatrész-ellátását ahelyett, hogy minden telephely külön-külön szerződne.",
-        "Az Enterprise Logistics Support Services névre hallgató keretrendszer pontosan a belső működés racionalizálását célozza. A nasa.gov által közzétett adatok alapján a program átfogja a berendezések és ingatlanok kezelését, a terméktámogatást, a repülési hardverek fenntartását, valamint az exportkontrollt és a költözési műveleteket is.",
-        "Az 1,4 milliárd dolláros keretösszegű megállapodások legfőbb feladata, hogy egységesítsék a követelményeket és javítsák a jelentéstételi rendszereket. A jövőben ezeknek a háttérfolyamatoknak köszönhetően pontosabban és átláthatóbban követhetők majd az űrmissziókhoz kapcsolódó költségek, valamint az eszközök karbantartási feladatai."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 157,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/NASA%27s_modified_747_Shuttle_Carrier_Aircraft_is_positioned_under_the_Space_Shuttle_Discovery_to_be_attached_for_their_ferry_flight_to_the_Kennedy_Space_Center_%28ED05-0166-30%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 793,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "NASA's specially modified 747 Shuttle Carrier Aircraft, or SCA, is positioned under the Space Shuttle Discovery to be attached for their ferry flight to the Kennedy Space Center in Florida. After its",
-        "credit": "NASA Armstrong Flight Research Center / NASA/Carla Thomas / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:NASA%27s_modified_747_Shuttle_Carrier_Aircraft_is_positioned_under_the_Space_Shuttle_Discovery_to_be_attached_for_their_ferry_flight_to_the_Kennedy_Space_Center_(ED05-0166-30).jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/",
-          "title": "NASA Awards Enterprise Logistics Support Services Agreements",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-10-02T06:07:35+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T06:42:05+02:00"
-      },
-      "hot_score": 6.0,
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/univerzum/2026-10-02-igy-kolt-el-1-4-milliard-dollart-a-nasa/",
-      "seo": {
-        "meta_title": "Így költ el 1,4 milliárd dollárt a NASA",
-        "meta_description": "Tizenhat céggel kötött új, átfogó logisztikai megállapodást a NASA, hogy hatékonyabban kezelje erőforrásait és eszközeit. Az 1,4 milliárd dolláros keretösszegű ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/univerzum/2026-10-02-igy-kolt-el-1-4-milliard-dollart-a-nasa/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/NASA%27s_modified_747_Shuttle_Carrier_Aircraft_is_positioned_under_the_Space_Shuttle_Discovery_to_be_attached_for_their_ferry_flight_to_the_Kennedy_Space_Center_%28ED05-0166-30%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "1610a9532065857699b163c33cd6890b43b8cb46e4a3c17764ec73a120a4a9e8",
-      "pipeline_run_id": "36962872003",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T06:42:05+02:00",
-      "updated_at": "2026-10-02T06:50:37+02:00",
-      "published_at": "2026-10-02T06:42:05+02:00",
       "expires_at": null
     }
   ]
