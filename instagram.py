@@ -138,9 +138,10 @@ def _tg():
 
 
 def _notify(text: str) -> None:
+    """Hibajelzés: ez szólhat (rezeghet), mert ritka és teendő van vele."""
     tr, chat = _tg()
     if tr:
-        tr.tg("sendMessage", {"chat_id": chat, "text": text, "disable_web_page_preview": True})
+        tr.tg("sendMessage", {"chat_id": chat, "text": text, "disable_web_page_preview": True, "_ping": True})
 
 
 # ---------------------------------------------------------------------------
@@ -211,11 +212,25 @@ def _generated_bg(art: dict) -> Optional[bytes]:
     return None
 
 
-def make_card(art: dict, bg: Optional[bytes] = None, suffix: str = "") -> Path:
+LAST_CARD_AI = False  # az utolsó make_card AI-generált hátteret használt-e
+
+
+def make_card(art: dict, bg: Optional[bytes] = None, suffix: str = "", allow_ai: bool = True) -> Path:
+    """Instagram-kártya. allow_ai=False: AI-kép nem lehet a háttér (ilyenkor a főfotó, vagy a sima márkás sablon)."""
+    global LAST_CARD_AI
     Image, ImageDraw, ImageFont = _pil()
     img = Image.new("RGB", (W, H), NAVY)
-    is_cover = bool((art.get("hero_image") or {}).get("cover"))  # márkás borító: a kártya maga a borító, ne duplázzunk
-    raw = bg or (None if is_cover else (_hero_bytes(art) or _generated_bg(art)))
+    hero = art.get("hero_image") or {}
+    is_cover = bool(hero.get("cover"))  # márkás borító: a kártya maga a borító, ne duplázzunk
+    hero_ai = kc.is_ai_image(hero)
+    raw, LAST_CARD_AI = bg, False
+    if raw is None and not is_cover:
+        if hero.get("url") and not (hero_ai and not allow_ai):
+            raw = _hero_bytes(art)
+            LAST_CARD_AI = bool(raw) and hero_ai
+        if raw is None and allow_ai and not hero.get("url"):
+            raw = _generated_bg(art)
+            LAST_CARD_AI = bool(raw)
     if raw:
         try:
             ph = Image.open(io.BytesIO(raw)).convert("RGB")
@@ -332,12 +347,15 @@ def enqueue(out_dir: Path, st: dict, now: datetime, dry: bool = False) -> bool:
     if not art:
         return False
     card = make_card(art)
+    ai_bg = LAST_CARD_AI
     cap = caption(art)
     pid = hashlib.sha1(art["id"].encode()).hexdigest()[:10]
     item = {"id": pid, "art_id": art["id"], "title": art.get("title"), "url": art.get("url"),
             "card": str(card.relative_to(kc.BASE_DIR)), "card_url": f"{kc.SITE_URL}/{card.relative_to(kc.BASE_DIR).as_posix()}",
             "caption": cap, "created": now.isoformat(timespec="seconds"),
             "due": (now + timedelta(minutes=DELAY_MIN)).isoformat(timespec="seconds"), "status": "queued"}
+    if ai_bg:  # AI-képes háttér: csak jóváhagyással megy ki – a következő jóváhagyási körben jön elő
+        item.update({"status": "await", "due": "", "ai": True})
     log.info("Instagram-poszt sorban: %s", art.get("title"))
     if dry:
         print(json.dumps(item, ensure_ascii=False, indent=2))
@@ -348,9 +366,59 @@ def enqueue(out_dir: Path, st: dict, now: datetime, dry: bool = False) -> bool:
     except OSError:
         pass
     tr, chat = _tg()
-    if tr:
+    if tr and not item.get("ai"):
         item["tg"] = _preview(tr, chat, item, card)
     return True
+
+
+def flush_awaiting() -> int:
+    """Jóváhagyási kör: az AI-képes, még nem mutatott Instagram-posztok előnézete (3 gomb). Visszaad: hány vár."""
+    st = load_state()
+    tr, chat = _tg()
+    waiting = [p for p in st.get("posts", []) if p.get("status") == "await"]
+    if not tr:
+        return len(waiting)
+    now = datetime.now(ZoneInfo(kc.Config.from_env().timezone)).isoformat(timespec="seconds")
+    for p in waiting:
+        if p.get("shown"):
+            continue
+        r1 = tr._send_photo_file(chat, str(kc.BASE_DIR / p["card"]),
+                                 f"🤖 Instagram-poszt AI-képpel – jóváhagyásra vár:\n{p.get('title')}"[:1000])
+        r2 = tr.tg("sendMessage", {"chat_id": chat, "text": "Képaláírás:\n\n" + p.get("caption", "")[:3500],
+                                   "reply_markup": {"inline_keyboard": [[
+                                       {"text": "✅ Mehet így", "callback_data": f"igok|{p['id']}"},
+                                       {"text": "🧩 Sablonháttérrel", "callback_data": f"igtpl|{p['id']}"}],
+                                       [{"text": "🚫 Ne menjen ki", "callback_data": f"igno|{p['id']}"}]]}})
+        p["tg"] = [m for m in (tr._mid(r1), tr._mid(r2)) if m]
+        p["shown"] = now
+    save_state(st)
+    return len(waiting)
+
+
+def approve(pid: str, template: bool = False) -> str:
+    """AI-képes poszt döntése: mehet így, vagy sablonháttérrel (AI-kép nélkül) készül újra. 5 perc múlva kimegy."""
+    st = load_state()
+    p = next((x for x in st.get("posts", []) if x.get("id") == pid and x.get("status") == "await"), None)
+    if not p:
+        return "Ez a poszt már nem vár jóváhagyásra."
+    now = datetime.now(ZoneInfo(kc.Config.from_env().timezone))
+    if template:
+        articles = kc.read_json(kc.Config.from_env().output_dir / "articles.json", {"articles": []}).get("articles", [])
+        art = next((a for a in articles if a.get("id") == p.get("art_id")), None)
+        if not art:
+            return "A cikket nem találom."
+        card = make_card(art, suffix=f"-t{int(time.time()) % 100000}", allow_ai=False)
+        p.update({"card": str(card.relative_to(kc.BASE_DIR)),
+                  "card_url": f"{kc.SITE_URL}/{card.relative_to(kc.BASE_DIR).as_posix()}"})
+        try:
+            (kc.BASE_DIR / "data" / "deploy_now").write_text("1")
+        except OSError:
+            pass
+    p.update({"status": "queued", "ai": not template, "due": (now + timedelta(minutes=5)).isoformat(timespec="seconds")})
+    _collapse(p, f"{'🧩 Sablonháttérrel' if template else '✅ AI-képpel'} megy Instagramra ~5 perc múlva: {p.get('title')}",
+              [{"text": "🚫 Mégse", "callback_data": f"igno|{p['id']}"}])
+    save_state(st)
+    return "Rendben, ~5 perc múlva kimegy."
 
 
 def _preview(tr, chat: int, item: dict, card: Path) -> list:
@@ -365,7 +433,7 @@ def _preview(tr, chat: int, item: dict, card: Path) -> list:
 def post_for_message(mid: int) -> Optional[str]:
     """Melyik várakozó poszt előnézetéhez tartozik ez a Telegram-üzenet."""
     for p in load_state().get("posts", []):
-        if p.get("status") == "queued" and mid in (p.get("tg") or []):
+        if p.get("status") in ("queued", "await") and mid in (p.get("tg") or []):
             return p["id"]
     return None
 
@@ -373,9 +441,11 @@ def post_for_message(mid: int) -> Optional[str]:
 def set_background(pid: str, data: bytes) -> str:
     """A chatben küldött kép/matrica lesz a kártya háttere; a kártya újra elkészül, és új előnézet jön."""
     st = load_state()
-    p = next((x for x in st.get("posts", []) if x.get("id") == pid and x.get("status") == "queued"), None)
+    p = next((x for x in st.get("posts", []) if x.get("id") == pid and x.get("status") in ("queued", "await")), None)
     if not p:
         return "Ez a poszt már nem várakozik."
+    if p.get("status") == "await":  # saját háttér = nem AI-kép → mehet a sorba
+        p.update({"status": "queued", "ai": False, "due": datetime.now(ZoneInfo(kc.Config.from_env().timezone)).isoformat()})
     articles = kc.read_json(kc.Config.from_env().output_dir / "articles.json", {"articles": []}).get("articles", [])
     art = next((a for a in articles if a.get("id") == p.get("art_id")), None)
     if not art:
@@ -422,8 +492,14 @@ def publish_pending() -> int:
         return 0
     st = load_state()
     now = datetime.now(ZoneInfo(kc.Config.from_env().timezone))
+    late = [p for p in st.get("posts", []) if p.get("status") == "await" and p.get("shown")
+            and p["shown"] < (now - timedelta(hours=3)).isoformat()]
+    for p in late:  # nem jött döntés: AI-kép nélkül (sablonháttérrel) megy ki
+        approve(p["id"], template=True)
+    if late:
+        st = load_state()
     if not any(p.get("status") == "queued" and (p.get("due") or "") <= now.isoformat() for p in st.get("posts", [])):
-        return 0
+        return 1 if late else 0
     n = publish_due(st, now)
     save_state(st)
     return n or 1  # az állapot változhatott (pl. hibás poszt) – mentsük
@@ -444,7 +520,7 @@ def _collapse(p: dict, line: str, buttons: Optional[list] = None) -> None:
 def cancel(pid: str) -> bool:
     st = load_state()
     for p in st.get("posts", []):
-        if p.get("id") == pid and p.get("status") == "queued":
+        if p.get("id") == pid and p.get("status") in ("queued", "await"):
             p["status"] = "cancelled"
             _collapse(p, f"🚫 Nem ment ki Instagramra: {p.get('title')}")
             save_state(st)
