@@ -692,6 +692,29 @@
     },
     "Nemzeti Kulturális Alap": {
       "none": true
+    },
+    "Für Anikó": {
+      "qid": "Q219628",
+      "name": "Für Anikó",
+      "birth": "1964-02-27",
+      "death": "",
+      "desc": "magyar színésznő",
+      "bio": "Für Anikó Jászai Mari-díjas magyar színésznő, érdemes művész, a Halhatatlanok Társulatának örökös tagja.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/F%C3%BCr_Anik%C3%B3",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/F%C3%BCr_Anik%C3%B3_%28%C3%96rk%C3%A9ny%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Anikó Für a Hungarian actress",
+        "credit": "Nagy Gergő / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:F%C3%BCr_Anik%C3%B3_(%C3%96rk%C3%A9ny).jpg"
+      }
+    },
+    "Mommy Blue": {
+      "none": true
     }
   }
 }
