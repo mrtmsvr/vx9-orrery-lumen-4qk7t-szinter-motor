@@ -11761,15 +11761,15 @@
       "word_count": 214,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792836625-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792836625-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-ccd87fe0a3.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-ccd87fe0a3.jpg",
         "kind": "photo",
         "alt": "Egymilliárd eurót veszített Magyarország, de idén év végére egyezményt írnának alá",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -11877,7 +11877,7 @@
       "pipeline_run_id": "39569566635",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-21T10:55:44+02:00",
-      "updated_at": "2026-10-24T10:10:46+00:00",
+      "updated_at": "2026-10-25T07:50:13+00:00",
       "published_at": "2026-10-21T10:55:44+02:00",
       "expires_at": null
     },
@@ -15384,15 +15384,16 @@
       "word_count": 154,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792837836-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1792837836-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-ad5e9d6590.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-ad5e9d6590.jpg",
         "kind": "photo",
-        "alt": "Pócs János vendégeként ordibált a parlamenti páholyban Szabó Bálint",
-        "likeness": true,
-        "credit": "AI-generált illusztráció – Kollektíva",
-        "license": "saját (AI-generált illusztráció)",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
+        "alt": "Térkép: Országház",
+        "credit": "Térkép: © OpenStreetMap közreműködők",
+        "license": "ODbL",
+        "source_url": "https://www.openstreetmap.org/copyright",
+        "generated": true,
+        "card": "map",
+        "zoom": 16
       },
       "inline_images": [],
       "sources": [
@@ -15491,7 +15492,7 @@
       "pipeline_run_id": "39372231869",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-20T07:00:13+02:00",
-      "updated_at": "2026-10-24T10:31:01+00:00",
+      "updated_at": "2026-10-25T07:50:13+00:00",
       "published_at": "2026-10-20T07:00:13+02:00",
       "expires_at": null
     },
