@@ -1300,8 +1300,12 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
             elif re.match(r"(?i)/(e|elo|elő|elohiv|előhív)\b", text):
                 # kint lévő cikk teljes vezérlője újra (cím, kép, grafika, újraírás, törlés) – az oldalon kint marad
                 qtxt = text.split(maxsplit=1)[1].strip().lower() if len(text.split(maxsplit=1)) > 1 else ""
+                if "/" in qtxt:  # teljes link (https://kollektíva.hu/rovat/slug/?en=1) → csak az útvonal számít
+                    import urllib.parse as _up
+                    qtxt = _up.unquote(_up.urlparse(qtxt if "://" in qtxt else "https://x/" + qtxt.lstrip("/")).path).rstrip("/").lower()
                 live_arts = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
-                hits = [a for a in live_arts if qtxt and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
+                hits = [a for a in live_arts if a.get("status") == "published" and qtxt
+                        and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
                 if len(hits) != 1:
                     tg("sendMessage", {"chat_id": st["chat_id"], "text": (
                         "Használat: /e <link vagy címrészlet> – a kint lévő cikk minden gombja újra (kint marad)" if not hits else
@@ -1319,8 +1323,12 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
             elif re.match(r"(?i)/(v|vissza)\b", text):
                 # kint lévő cikk levétele + visszaküldése ide javításra (nem kerül ki magától, csak ✅ Kirakom után)
                 qtxt = text.split(maxsplit=1)[1].strip().lower() if len(text.split(maxsplit=1)) > 1 else ""
+                if "/" in qtxt:  # teljes link (https://kollektíva.hu/rovat/slug/?en=1) → csak az útvonal számít
+                    import urllib.parse as _up
+                    qtxt = _up.unquote(_up.urlparse(qtxt if "://" in qtxt else "https://x/" + qtxt.lstrip("/")).path).rstrip("/").lower()
                 live_arts = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
-                hits = [a for a in live_arts if qtxt and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
+                hits = [a for a in live_arts if a.get("status") == "published" and qtxt
+                        and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
                 if len(hits) != 1:
                     tg("sendMessage", {"chat_id": st["chat_id"], "text": (
                         "Használat: /v <link vagy címrészlet> – leveszi az oldalról, és ide küldi javításra" if not hits else
@@ -1451,8 +1459,12 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
             elif re.match(r"(?i)/(t|torles|törlés)\b", text):
                 # bármikor (a 48 órás szerkesztési idő után is) leszedhető egy kint lévő cikk: link vagy címrészlet alapján
                 qtxt = text.split(maxsplit=1)[1].strip().lower() if len(text.split(maxsplit=1)) > 1 else ""
+                if "/" in qtxt:  # teljes link (https://kollektíva.hu/rovat/slug/?en=1) → csak az útvonal számít
+                    import urllib.parse as _up
+                    qtxt = _up.unquote(_up.urlparse(qtxt if "://" in qtxt else "https://x/" + qtxt.lstrip("/")).path).rstrip("/").lower()
                 live_arts = kc.read_json(out_dir / "articles.json", {"articles": []}).get("articles", [])
-                hits = [a for a in live_arts if qtxt and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
+                hits = [a for a in live_arts if a.get("status") == "published" and qtxt
+                        and (qtxt in (a.get("url") or "").lower() or qtxt in a.get("title", "").lower())]
                 if len(hits) == 1:
                     h = hits[0]
                     tg("sendMessage", {"chat_id": st["chat_id"], "text": f"Biztosan leszedjem?\n{h['title']}\n{kc.SITE_URL}{h.get('url', '')}",
