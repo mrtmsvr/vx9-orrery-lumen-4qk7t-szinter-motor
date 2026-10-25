@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-25T12:58:31+01:00",
+  "updated_at": "2026-10-25T13:00:32+01:00",
   "articles": [
     {
       "id": "a3be4bcf-d68e-55c4-9396-b4deedc10b27",
@@ -299,16 +299,17 @@
       "word_count": 403,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Tracked-explosive-disposal-robot-Tuzoltonap-2013.jpg/1280px-Tracked-explosive-disposal-robot-Tuzoltonap-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/66993c7cf69e264f.jpg",
+        "width": 3008,
+        "height": 2000,
         "kind": "photo",
-        "pos": "center",
-        "alt": "A remote-controlled explosive disposal robot demonstrated on Tűzoltónap (festival honoring firefighters is held every year in the spring, formerly around Saint George's feast day) in the Budapest City",
-        "credit": "B jonas / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Tracked-explosive-disposal-robot-Tuzoltonap-2013.jpg",
-        "vision_score": 8.0
+        "alt": "police line, yellow, crime, cemetery, tape, warning, police line, police line, police line, police line, police line",
+        "credit": "ValynPi14 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/police-line-yellow-crime-cemetery-3953745/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/66993c7cf69e264f.jpg",
+        "orig_url": "https://pixabay.com/get/g60c260ddad42760dfe46e313da7be2c104f5e7a3b823125204564ab7f4f9854f7ba5ff42e49900c1e27b581d572606ddea5dc141ab7ea8e1e22dd2931c3ce2d9_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -374,7 +375,7 @@
         "meta_title": "Másodszor is tűzszerészek bénítják meg az Üllői utat",
         "meta_description": "Vasárnap reggel óta tűzszerészeti munkálatok zajlanak a főváros XVIII. kerületében, miután egy építkezésen egy százkilogrammos rombolóbomba és további huszonnég",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-25-masodszor-is-tuzszereszek-benitjak-meg-az-ulloi-utat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Tracked-explosive-disposal-robot-Tuzoltonap-2013.jpg/1280px-Tracked-explosive-disposal-robot-Tuzoltonap-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/66993c7cf69e264f.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -392,7 +393,7 @@
       "pipeline_run_id": "40185976843",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-25T12:04:03+01:00",
-      "updated_at": "2026-10-25T12:04:03+01:00",
+      "updated_at": "2026-10-25T13:00:32+01:00",
       "published_at": "2026-10-25T12:04:03+01:00",
       "expires_at": null
     },
