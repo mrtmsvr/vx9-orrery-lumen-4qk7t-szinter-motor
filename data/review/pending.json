@@ -11790,18 +11790,12 @@
         "title": 1,
         "image": 1,
         "sent_at": "2026-10-25T06:02:24+00:00",
-        "msg_ids": [
-          9428,
-          9429,
-          9430,
-          9431,
-          9432,
-          9433,
-          9434,
-          9435
-        ],
-        "control_id": 9436
-      }
+        "msg_ids": [],
+        "control_id": 9436,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:00 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-25T08:00:04+01:00"
     },
     {
       "id": "e740fe31-cfc9-5039-a990-c9341bc054c4",
