@@ -11423,8 +11423,11 @@
         "lead": "Vasárnap parlamenti választást tartanak Szerbiában, ahol a 2012 óta hatalmon lévő Alekszandar Vucsics eddigi legkomolyabb politikai kihívásával néz szembe. A tét a kormánypárt hatalmának megőrzése mellett az újvidéki tragédia után fellángoló társadalmi feszültségek rendezése.",
         "ctl_photo": true,
         "control_id": 9500,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:18 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-25T13:18:31+01:00"
     },
     {
       "id": "a3be4bcf-d68e-55c4-9396-b4deedc10b27",
