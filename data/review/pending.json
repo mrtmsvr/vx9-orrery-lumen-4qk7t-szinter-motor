@@ -12646,19 +12646,12 @@
         "title": 4,
         "image": 7,
         "sent_at": "2026-10-25T06:58:40+00:00",
-        "msg_ids": [
-          9470,
-          9471,
-          9472,
-          9473,
-          9474,
-          9475,
-          9476,
-          9477,
-          9478
-        ],
-        "control_id": 9479
-      }
+        "msg_ids": [],
+        "control_id": 9479,
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 08:20 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-25T08:20:04+01:00"
     }
   ]
 }
