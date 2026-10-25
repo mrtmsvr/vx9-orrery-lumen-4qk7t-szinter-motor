@@ -138,9 +138,11 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
     site = kc.SITE_URL
     utm = "?utm_source=hirlevel&utm_medium=email&utm_campaign=heti-" + now.strftime("%G-%V")
     link = lambda a: f"{site}{E(a['url'])}{utm}"  # noqa: E731
+    # a levélben csak valódi fotó vagy saját grafika (szám/térkép/ikon): AI-kép és címes borító nem (ott még feltűnőbb a hiba)
     img = lambda a: (f'<a href="{link(a)}"><img src="{E(a["hero_image"]["url"])}" width="560" alt="" '  # noqa: E731
                      'style="width:100%;max-width:560px;height:auto;border-radius:10px;display:block;margin:0 0 12px"></a>'
-                     if (a.get("hero_image") or {}).get("url") else "")
+                     if (a.get("hero_image") or {}).get("url") and not kc.is_ai_image(a["hero_image"])
+                     and not a["hero_image"].get("cover") else "")
     card = lambda a: (  # noqa: E731
         f'<tr><td style="padding:0 0 22px">{img(a)}'
         f'<div style="font:600 12px Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#A8853F">'
@@ -184,7 +186,7 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
     # egységes tárgy (mindig ugyanaz a forma, mint egy rendes lapnál); a hét fő témája a postafiók előnézetébe kerül
     months = ["január", "február", "március", "április", "május", "június", "július", "augusztus", "szeptember",
               "október", "november", "december"]
-    subject = f"Heti Kollektíva · {now.year}. {months[now.month - 1]} {now.day}."
+    subject = f"Heti Kollektíva · Hírlevél · {now.isocalendar()[1]}. hét"
     preheader = (f'<div style="display:none;max-height:0;overflow:hidden;opacity:0">A hét röviden: {E(preview)}'
                  + "&#847; " * 60 + "</div>") if preview else ""
     retro_html = (f'<tr><td style="padding:10px 0 4px;font:700 13px Arial,sans-serif;color:#0E1024">'
@@ -199,7 +201,13 @@ def build(tz: ZoneInfo) -> tuple[str, str]:
 Kollektíva<span style="color:#C9A45C">.</span><div style="font:13px Arial,sans-serif;color:#9492B3;margin-top:4px">
 Heti Kollektíva · a hét röviden · {now.strftime('%Y.%m.%d.')}</div></td></tr>
 <tr><td style="padding:24px 20px 4px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">
-{items}{sponsor_html()}{retro_html}{more}</table></td></tr>
+<tr><td style="padding:0 0 18px;font:16px/1.6 Arial,sans-serif;color:#3b3d58">Szép vasárnap reggelt! 👋<br>
+Itt a Heti Kollektíva: a hét legfontosabb hírei röviden, egy kávé mellé – hogy öt perc alatt képben legyél mindennel,
+ami a héten számított.</td></tr>
+{items}{sponsor_html()}{retro_html}{more}
+<tr><td style="padding:4px 0 18px;font:15px/1.6 Arial,sans-serif;color:#3b3d58">Köszönjük, hogy velünk tartasz! Ha tetszett,
+küldd tovább egy ismerősödnek – és ha van ötleted vagy észrevételed, csak válaszolj erre a levélre, minden levelet elolvasunk.<br><br>
+Jó hetet kíván:<br><b style="color:#0E1024">a Kollektíva szerkesztősége</b></td></tr></table></td></tr>
 <tr><td style="padding:14px 20px 22px;font:12px/1.5 Arial,sans-serif;color:#8a8aa3;border-top:1px solid #eee">
 Azért kapod ezt a levelet, mert feliratkoztál a Heti Kollektívára a kollektíva.hu oldalon.<br>
 <a href="{{{{ unsubscribe }}}}" style="color:#8a8aa3">Leiratkozás</a></td></tr>
