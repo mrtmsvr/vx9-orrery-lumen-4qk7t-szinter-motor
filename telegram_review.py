@@ -704,6 +704,16 @@ def _drop_old_messages(chat: int, art: dict) -> None:
             tg("deleteMessage", {"chat_id": chat, "message_id": mid})  # 48 óránál régebbit a Telegram nem enged – nem baj
 
 
+def _will_auto(a: dict) -> bool:
+    """Ez a cikk jóváhagyás nélkül, azonnal kikerül-e (közélet/életmód/bulvár rovat, vagy forró hír)."""
+    if MODE != "hybrid" or a.get("live") or a.get("hold") or a.get("schedule"):
+        return False
+    if a.get("category") == "bulvar" and "bulvar" not in AUTO_SECTIONS:
+        return False
+    return ((a.get("category") in AUTO_SECTIONS and AUTO_SECTION_MIN <= 0)
+            or float(a.get("hot_score") or 0) >= float(os.getenv("AUTO_HOT_SCORE", "10")))
+
+
 def send_article(_out_dir: Optional[Path], art: dict) -> None:
     chat = load_state().get("chat_id")
     if not chat:
@@ -732,6 +742,8 @@ def send_article(_out_dir: Optional[Path], art: dict) -> None:
     resent = art.pop("resent", None)
     # új cikk: a fejléc-üzenet SZÓL (cím/kép/téma ellenőrzése); a képek, gombok és a kérésre újraküldött cikk némán
     ping = resent is None and not art.pop("_quiet", False)
+    if ping and _will_auto(art):
+        ping = False  # azonnal magától kikerül → a rezgés akkor jön, amikor kint van („🔥 kiraktam”), nem kétszer
     if resent == "v":
         kind = "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új)"
     elif resent == "rw":
@@ -1857,10 +1869,13 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
             _go_live(out_dir, a, tz, auto=True)
             published += 1
             changed = True
-            # magától kikerült (nem te hagytad jóvá): minden üzenete marad, hogy reggel is lásd; csak a vezérlő frissül
-            _refresh_control(st["chat_id"], a)
-            a["review"]["note"] = msg  # a cikk saját üzenetébe kerül (nincs külön üzenet = nincs újabb rezgés)
-            _refresh_control(st["chat_id"], a)
+            # magától kikerült: a cikk üzenete újra jön, EZ szól (a beküldéskor némán ment) → egy cikk = egy rezgés, kint-állapotban
+            a["review"]["note"] = msg
+            if a.get("schedule"):  # saját időzített anyag: beküldéskor már szólt → most csak frissül (nincs 2. rezgés)
+                _refresh_control(st["chat_id"], a)
+            else:
+                tg("deleteMessage", {"chat_id": st["chat_id"], "message_id": a["review"].get("control_id")})
+                _send_control(st["chat_id"], a, ping=True)
     # lejárt függő cikkek
     limit = (datetime.now(tz) - timedelta(hours=PENDING_MAX_AGE_H)).isoformat()
     # (hybrid módban a jóvá nem hagyott cikkek eddig sosem jártak le – 10.21-én 8 napos is várt a sorban)
