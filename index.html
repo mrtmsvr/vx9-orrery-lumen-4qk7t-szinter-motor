@@ -957,21 +957,33 @@ $('nlGoogle').addEventListener('click', () => {
   if (!$('consent').checked) { err.textContent = 'A feliratkozáshoz fogadd el az adatkezelési tájékoztatót.'; err.classList.remove('hidden'); return; }
   err.classList.add('hidden'); window.__nlG = true; googleLogin();
 });
-/* bal oldali „Hírlevél” fül a „Szavazz” fül fölött – a hírlevél-szekcióhoz görget */
+/* bal oldali „Hírlevél” fül a „Szavazz” fül fölött – a hírlevél-szekcióhoz görget. Nem ugrál: rejtve vár, amíg a
+   „Szavazz” fül megjelenik, akkor a végleges helyén, vele együtt csúszik be balról (ha nincs szavazás: 3 mp után a helyén) */
 (function () {
   try { if (localStorage.getItem('nl_done')) return; } catch (x) {}
   const t = document.createElement('a'); t.id = 'nlTab'; t.href = '#hirlevel'; t.setAttribute('aria-label', 'Hírlevél');
   t.innerHTML = '✉<span>HÍRLEVÉL</span>';
-  t.style.cssText = 'position:fixed;left:0;z-index:55;display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 7px;background:#171A36;color:#C9A45C;border:1px solid #C9A45C;border-left:0;border-radius:0 10px 10px 0;font:700 15px/1 Manrope,system-ui,sans-serif;text-decoration:none';
+  t.style.cssText = 'position:fixed;left:0;z-index:55;display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 7px;background:#171A36;color:#C9A45C;border:1px solid #C9A45C;border-left:0;border-radius:0 10px 10px 0;font:700 15px/1 Manrope,system-ui,sans-serif;text-decoration:none;transform:translateX(-130%);transition:transform .35s ease;visibility:hidden';
   t.querySelector('span').style.cssText = 'writing-mode:vertical-rl;transform:rotate(180deg);font-size:10px;letter-spacing:.16em';
   document.body.appendChild(t);
-  function place() {
-    const p = document.getElementById('kpw-tab'), r = p && !p.classList.contains('off') ? p.getBoundingClientRect() : null;
-    if (r && r.height) { t.style.top = 'auto'; t.style.bottom = (innerHeight - r.top + 12) + 'px'; }
-    else if (matchMedia('(max-width:1023px)').matches) { t.style.top = 'auto'; t.style.bottom = '96px'; }
-    else { t.style.bottom = 'auto'; t.style.top = '46%'; }
+  const start = Date.now(); let shown = false;
+  function place(p) {
+    const mob = matchMedia('(max-width:1023px)').matches;
+    const top = p ? p.getBoundingClientRect().top : (mob ? innerHeight - 96 - 130 : innerHeight * 0.46);
+    t.style.top = Math.max(8, top - t.offsetHeight - 12) + 'px';
   }
-  place(); setTimeout(place, 1500); setTimeout(place, 4000); addEventListener('resize', place);
+  function tick() {
+    const p = document.getElementById('kpw-tab');
+    if (p) {
+      place(p);
+      const on = !p.classList.contains('off');  // a szavazás-füllel együtt látszik / tűnik el
+      if (on && !shown) { shown = true; t.style.visibility = 'visible'; setTimeout(() => { t.style.transform = 'none'; }, 150); }
+      else if (shown) t.style.transform = on ? 'none' : 'translateX(-130%)';
+    } else if (!shown && Date.now() - start > (matchMedia('(max-width:1023px)').matches ? 15000 : 3000)) {
+      place(null); shown = true; t.style.visibility = 'visible'; setTimeout(() => { t.style.transform = 'none'; }, 50);
+    }
+  }
+  setInterval(tick, 300); addEventListener('resize', tick);
 })();
 
 /* =====================================================================
