@@ -972,18 +972,17 @@ $('nlGoogle').addEventListener('click', () => {
     const top = p ? p.getBoundingClientRect().top : (mob ? innerHeight - 96 - 130 : innerHeight * 0.46);
     t.style.top = Math.max(8, top - t.offsetHeight - 12) + 'px';
   }
-  function tick() {
+  function tick() {  // egyszer csúszik be (a „Szavazz” füllel együtt), utána nem mozog
+    if (shown) return;
     const p = document.getElementById('kpw-tab');
     if (p) {
       place(p);
-      const on = !p.classList.contains('off');  // a szavazás-füllel együtt látszik / tűnik el
-      if (on && !shown) { shown = true; t.style.visibility = 'visible'; setTimeout(() => { t.style.transform = 'none'; }, 150); }
-      else if (shown) t.style.transform = on ? 'none' : 'translateX(-130%)';
+      if (!p.classList.contains('off')) { shown = true; t.style.visibility = 'visible'; setTimeout(() => { t.style.transform = 'none'; }, 150); }
     } else if (!shown && Date.now() - start > (matchMedia('(max-width:1023px)').matches ? 15000 : 3000)) {
       place(null); shown = true; t.style.visibility = 'visible'; setTimeout(() => { t.style.transform = 'none'; }, 50);
     }
   }
-  setInterval(tick, 300); addEventListener('resize', tick);
+  const iv = setInterval(() => { tick(); if (shown) clearInterval(iv); }, 300);
 })();
 
 /* =====================================================================
