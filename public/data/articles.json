@@ -36,17 +36,17 @@
       "word_count": 355,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/0306620dd0f15ce3.jpg",
-        "width": 5975,
-        "height": 3971,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Aleksandar_Vu%C4%8Di%C4%87_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1598,
         "kind": "photo",
-        "alt": "municipal election, choice, elections, select, right to vote, poll, vote, local politics, politics, elections, vote, vote, vote, vote, vote",
-        "credit": "pics_kartub / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/municipal-election-choice-elections-4878405/",
-        "vision_score": 8.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/0306620dd0f15ce3.jpg",
-        "orig_url": "https://pixabay.com/get/gcf7f5ee9861b8f6e920ef991d6f443c914f107a2eebb496f0492b937c42cd9234244326be8b71e8603e0988780af8c4d6fd539790a1cd40a31accb0466b4589d_1280.jpg"
+        "pos": "top",
+        "alt": "Serbian Prime Minister Miloš Vučević, German Chancellor Olaf Scholz, Serbian President Aleksandar Vučić and Maroš Šefčovič, Executive Vice-President of the European Commission for the European Green D",
+        "credit": "Oliver Bunic - European Commission / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg",
+        "exact": true,
+        "entity": "Aleksandar Vučić"
       },
       "inline_images": [],
       "sources": [
@@ -142,7 +142,7 @@
       "pipeline_run_id": "40236369609",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-25T22:41:58+01:00",
-      "updated_at": "2026-10-25T22:41:58+01:00",
+      "updated_at": "2026-10-25T21:50:15+00:00",
       "published_at": "2026-10-25T22:41:58+01:00",
       "expires_at": null
     },
