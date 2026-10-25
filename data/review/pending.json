@@ -9761,7 +9761,7 @@
     {
       "id": "ec4397b4-a9ea-56d7-bd6a-f154e596c7b6",
       "slug": "2026-10-25-okologusok-kongatjak-a-veszharangot-letelt-a-moratorium-szabad-a-pred",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -9792,16 +9792,18 @@
       "word_count": 293,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Beech_forest_M%C3%A1tra_in_winter.jpg/1280px-Beech_forest_M%C3%A1tra_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Tarnica_na_wiosn%C4%99.JPG/1280px-Tarnica_na_wiosn%C4%99.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 795,
         "kind": "photo",
         "pos": "center",
-        "alt": "Beech forest in the Mátra mountains (Hungary)",
-        "credit": "Susulyka / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Beech_forest_M%C3%A1tra_in_winter.jpg",
-        "vision_score": 8.0
+        "alt": "This is a photograph of a Natura 2000 protected area with ID",
+        "credit": "Jakub Kwaśniewicz / Wikimedia Commons",
+        "license": "CC BY-SA 3.0 pl",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Tarnica_na_wiosn%C4%99.JPG",
+        "exact": true,
+        "entity": "Natura 2000 protected area",
+        "vision_score": 9.0
       },
       "inline_images": [],
       "sources": [
@@ -9897,7 +9899,7 @@
         "meta_title": "Ökológusok kongatják a vészharangot: letelt a moratórium, sz",
         "meta_description": "Szeptember végén lejárt a védett és Natura 2000-es területekre vonatkozó fakitermelési moratórium, ami komoly vitákat váltott ki a környezetvédők és a szakember",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-25-okologusok-kongatjak-a-veszharangot-letelt-a-moratorium-szabad-a-pred/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Beech_forest_M%C3%A1tra_in_winter.jpg/1280px-Beech_forest_M%C3%A1tra_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Tarnica_na_wiosn%C4%99.JPG/1280px-Tarnica_na_wiosn%C4%99.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -9914,9 +9916,9 @@
       "dedupe_hash": "a48da4b398299513f09314817d060259b345303199196e4911ee9380ccedc431",
       "pipeline_run_id": "40229839104",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T21:23:29+01:00",
-      "updated_at": "2026-10-25T21:23:29+01:00",
-      "published_at": "2026-10-25T21:23:29+01:00",
+      "created_at": "2026-10-25T22:19:19+01:00",
+      "updated_at": "2026-10-25T22:19:19+01:00",
+      "published_at": "2026-10-25T22:19:19+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -9943,7 +9945,7 @@
         "control_id": 9518,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:19 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Dr. Réka Aszalós",
@@ -9963,7 +9965,7 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Budapest%2C_Hungarian_National_Gallery%2C_L%C3%A1szl%C3%B3_Pa%C3%A1l%2C_forest_road.jpg/1280px-Budapest%2C_Hungarian_National_Gallery%2C_L%C3%A1szl%C3%B3_Pa%C3%A1l%2C_forest_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Beech_forest_M%C3%A1tra_in_winter.jpg/1280px-Beech_forest_M%C3%A1tra_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ],
-      "scheduled_at": "2026-10-25T22:19:12+01:00"
+      "live": true
     }
   ]
 }
