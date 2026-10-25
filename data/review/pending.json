@@ -12048,9 +12048,9 @@
       "live": true
     },
     {
-      "id": "0d1bfafc-d015-50e3-aaeb-3007b31bde5d",
-      "slug": "2026-10-25-le-pen-b-terve-bardella-maradt-a-francia-szelsojobb-elen",
-      "status": "pending",
+      "id": "8d76caf4-f9e4-501e-b413-093cb167e558",
+      "slug": "2026-10-25-rekordtamogatottsaggal-maradt-pozicioban-le-pen-bizalmasa",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -12059,7 +12059,7 @@
         "Marine Le Pen",
         "külpolitika"
       ],
-      "title": "Le Pen B-terve: Bardella maradt a francia szélsőjobb élén",
+      "title": "Rekordtámogatottsággal maradt pozícióban Le Pen bizalmasa",
       "subtitle": null,
       "lead": "Elsöprő többséggel választották újra a 31 éves Jordan Bardellát a francia Nemzeti Tömörülés elnökévé a párt orléans-i kongresszusán. A politikus pozíciója kulcsfontosságú lehet, amennyiben Marine Le Pen jogi problémái miatt akadályoztatva lenne a jövő évi elnökválasztáson.",
       "key_points": [
@@ -12081,18 +12081,15 @@
       "word_count": 332,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg/1280px-Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1628,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-531895c90c.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-531895c90c.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "Jordan Bardella at the European Parliament",
-        "credit": "Raphael ATTAL @BootEXE / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_(Cropped).jpg",
-        "exact": true,
-        "entity": "Jordan Bardella",
-        "unverified": true
+        "alt": "98,98% – A párttagok elsöprő támogatása az elnöknek",
+        "credit": "Kollektíva grafika",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -12273,12 +12270,12 @@
       },
       "date": "2026-10-25",
       "date_label": "október 25.",
-      "url": "/vilag/2026-10-25-le-pen-b-terve-bardella-maradt-a-francia-szelsojobb-elen/",
+      "url": "/vilag/2026-10-25-rekordtamogatottsaggal-maradt-pozicioban-le-pen-bizalmasa/",
       "seo": {
-        "meta_title": "Le Pen B-terve: Bardella maradt a francia szélsőjobb élén",
+        "meta_title": "Rekordtámogatottsággal maradt pozícióban Le Pen bizalmasa",
         "meta_description": "Elsöprő többséggel választották újra a 31 éves Jordan Bardellát a francia Nemzeti Tömörülés elnökévé a párt orléans-i kongresszusán. A politikus pozíciója kulcs",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-25-le-pen-b-terve-bardella-maradt-a-francia-szelsojobb-elen/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg/1280px-Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_%28Cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-25-rekordtamogatottsaggal-maradt-pozicioban-le-pen-bizalmasa/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/num-531895c90c.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -12295,9 +12292,9 @@
       "dedupe_hash": "ffb3be272fec31dd5a328ebeca1d505c4973d4b1062759259581c10e4cfbdc3a",
       "pipeline_run_id": "40169882629",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T07:57:48+01:00",
-      "updated_at": "2026-10-25T07:57:48+01:00",
-      "published_at": "2026-10-25T07:57:48+01:00",
+      "created_at": "2026-10-25T08:20:12+01:00",
+      "updated_at": "2026-10-25T08:20:12+01:00",
+      "published_at": "2026-10-25T08:20:12+01:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -12318,9 +12315,9 @@
         "msg_ids": [],
         "control_id": 9479,
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 08:20 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-25T08:20:04+01:00"
+      "live": true
     },
     {
       "id": "eaf4fb78-7b64-5889-94db-1d38075b2140",
