@@ -1344,8 +1344,11 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
     # 1. kör: a régi címes borítók cseréje az okos képpótlóra (előbb fotót keres, ha nincs: szám/térkép/ikon/generált)
     cdone = set(st.get("cover_done") or [])
     redo = set(st.get("map_redo") or [])  # az első (10.24.) térképek túl kicsi nagyítással készültek → újra
-    covers = [a for a in arts if ((a.get("hero_image") or {}).get("cover") and a["id"] not in cdone)
+    # 10.24. 11–20 óra között a borítócsere AI-képet is kitett jóváhagyás nélkül (hiba) → ezek visszacserélése nem-AI képre
+    ai_bad = {a["id"] for a in arts if a["id"] in cdone and is_ai_image(a.get("hero_image"))} - set(st.get("ai_undo") or [])
+    covers = [a for a in arts if ((a.get("hero_image") or {}).get("cover") and a["id"] not in cdone) or a["id"] in ai_bad
               or ((a.get("hero_image") or {}).get("card") == "map" and "zoom" not in a["hero_image"] and a["id"] not in redo)][:2]
+    st["ai_undo"] = sorted(set(st.get("ai_undo") or []) | {a["id"] for a in covers if a["id"] in ai_bad})
     if covers:
         changes = {}
         for a in covers:
@@ -1354,7 +1357,7 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
         st["map_redo"] = sorted(redo)
         for a in covers:
             new = (smart_visuals(ai, a, a.get("category"), n=1, allow_ai=False) or [None])[0]
-            if new and not new.get("cover"):
+            if new and (not new.get("cover") or a["id"] in ai_bad):  # AI-kép helyett a címes borító is jobb
                 changes[a["id"]] = new
                 st.setdefault("cover_replaced", []).append({"title": a["title"][:90], "new": new.get("card") or "kép"})
                 log.info("Borítócsere: %s → %s", a["title"][:60], new.get("card") or new.get("credit"))
