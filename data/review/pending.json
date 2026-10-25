@@ -9564,7 +9564,7 @@
     {
       "id": "a71189d9-5a16-543b-af98-4cfa74d8ba97",
       "slug": "2026-10-25-negyedszazad-utan-ujra-eljatszottak-az-istvan-a-kiralyt-amerikaban",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -9597,16 +9597,18 @@
       "word_count": 349,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pels%C5%91czy_L%C3%A1szl%C3%B3_fortepan_125570.jpg/1280px-Pels%C5%91czy_L%C3%A1szl%C3%B3_fortepan_125570.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/1280px-Los_Angeles_with_Mount_Baldy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1934,
+        "height": 562,
         "kind": "photo",
-        "pos": "top",
-        "alt": "László Pelsőczy  plays the title role of Stephen in w:István, a király, which he played at the King's Hill and at the Szeged Open Air Festival)",
-        "credit": "FOTO:Fortepan — ID 125570: Adományozó/Donor: Urbán Tamás. archive copy at the Wa / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Pels%C5%91czy_L%C3%A1szl%C3%B3_fortepan_125570.jpg",
-        "vision_score": 9.0
+        "pos": "center",
+        "alt": "February shot of downtown Los Angeles sunset with Mount Baldy in the background after a large snow storm.",
+        "credit": "Alek Leckszas / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Los_Angeles_with_Mount_Baldy.jpg",
+        "exact": true,
+        "entity": "Los Angeles",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -9690,7 +9692,7 @@
         "meta_title": "Negyedszázad után újra eljátszották az István, a királyt Ame",
         "meta_description": "Az 1956 után az Amerikai Egyesült Államokba menekült magyarok leszármazottai évtizedek óta őrzik a hazai kultúrát a cserkészet és a közösségi hagyományok révén.",
         "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-25-negyedszazad-utan-ujra-eljatszottak-az-istvan-a-kiralyt-amerikaban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Pels%C5%91czy_L%C3%A1szl%C3%B3_fortepan_125570.jpg/1280px-Pels%C5%91czy_L%C3%A1szl%C3%B3_fortepan_125570.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/1280px-Los_Angeles_with_Mount_Baldy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -9707,9 +9709,9 @@
       "dedupe_hash": "dfffff576fa972ae00ce44ec485e6667bb8c63baebae5a4f7fba56687be3d5aa",
       "pipeline_run_id": "40224161627",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T20:04:40+01:00",
-      "updated_at": "2026-10-25T20:04:40+01:00",
-      "published_at": "2026-10-25T20:04:40+01:00",
+      "created_at": "2026-10-25T21:59:12+01:00",
+      "updated_at": "2026-10-25T21:59:12+01:00",
+      "published_at": "2026-10-25T21:59:12+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -9730,7 +9732,9 @@
         "lead": "Az 1956 után az Amerikai Egyesült Államokba menekült magyarok leszármazottai évtizedek óta őrzik a hazai kultúrát a cserkészet és a közösségi hagyományok révén. A 444.hu műsorában bemutatott dokumentumfilm annak a zárt, mégis erős világnak a mindennapjait tárja fel, amelyben két kultúra között nőttek fel a fiatalok.",
         "ctl_photo": true,
         "control_id": 9517,
-        "msg_ids": []
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Pigniczky Réka",
@@ -9751,7 +9755,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Istv%C3%A1n_a_kir%C3%A1ly_fortepan_125575.jpg/1280px-Istv%C3%A1n_a_kir%C3%A1ly_fortepan_125575.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/WSJ2007_Sunrise_Hungarian_Scouts.JPG/1280px-WSJ2007_Sunrise_Hungarian_Scouts.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/g6e384276faf87abc59803d334798c01aa42e9c20139dbf8079db5e7e8757c4a6645df908b60526c19743b6b5b6a07825af29459f24aa621007c2c0e2b39ed225_1280.jpg"
-      ]
+      ],
+      "live": true
     },
     {
       "id": "ec4397b4-a9ea-56d7-bd6a-f154e596c7b6",
