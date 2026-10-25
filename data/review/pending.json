@@ -11804,9 +11804,9 @@
       }
     },
     {
-      "id": "152e6ecb-0b48-544c-a507-2d94785d3fcf",
-      "slug": "2026-10-25-miert-allitjuk-at-az-orainkat",
-      "status": "pending",
+      "id": "e740fe31-cfc9-5039-a990-c9341bc054c4",
+      "slug": "2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat",
+      "status": "published",
       "category": "tech",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -11816,7 +11816,7 @@
         "technológia",
         "történelem"
       ],
-      "title": "Miért állítjuk át az óráinkat?",
+      "title": "Téli vagy nyári: miért állítjuk át az órát?",
       "subtitle": null,
       "lead": "Évente kétszer az egész ország ritmust vált, amikor közösen átállítjuk az óráinkat, látszólag kiszakítva magunkat a természetes fényviszonyokból. De vajon miért ragaszkodunk ehhez az évszázados, sokszor vitatott gyakorlathoz, és hogyan függ össze ez a Föld forgásával?",
       "key_points": [
@@ -11844,17 +11844,17 @@
       "word_count": 503,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1604,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "",
-        "credit": "ismeretlen szerző / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Royal_observatory_greenwich.jpg",
+        "height": 1694,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Shepherd gate clock at the Royal Greenwich Observatory, London, England, United Kingdom",
+        "credit": "Dietmar Rabich / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:London,_Greenwich,_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg",
         "exact": true,
-        "entity": "Greenwich Royal Observatory",
+        "entity": "Greenwich Mean Time",
         "unverified": true
       },
       "inline_images": [
@@ -12054,12 +12054,12 @@
       },
       "date": "2026-10-25",
       "date_label": "október 25.",
-      "url": "/tech/2026-10-25-miert-allitjuk-at-az-orainkat/",
+      "url": "/tech/2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat/",
       "seo": {
-        "meta_title": "Miért állítjuk át az óráinkat?",
+        "meta_title": "Téli vagy nyári: miért állítjuk át az órát?",
         "meta_description": "Évente kétszer az egész ország ritmust vált, amikor közösen átállítjuk az óráinkat, látszólag kiszakítva magunkat a természetes fényviszonyokból. De vajon miért",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-25-miert-allitjuk-at-az-orainkat/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -12074,9 +12074,9 @@
       "dedupe_hash": "6712e73450cb5891cdad2062c5d34fed423f88bd02b2e8ec5e4108b23db6849a",
       "pipeline_run_id": "40169248536",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T07:31:27+01:00",
-      "updated_at": "2026-10-25T07:31:27+01:00",
-      "published_at": null,
+      "created_at": "2026-10-25T07:40:04+01:00",
+      "updated_at": "2026-10-25T07:40:04+01:00",
+      "published_at": "2026-10-25T07:40:04+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-25T09:30:06+01:00",
@@ -12090,27 +12090,10 @@
         "title": 2,
         "image": 2,
         "sent_at": "2026-10-25T06:31:30+00:00",
-        "msg_ids": [
-          9437,
-          9438,
-          9439,
-          9440,
-          9441,
-          9442,
-          9443,
-          9444,
-          9445,
-          9448,
-          9449,
-          9450,
-          9451,
-          9452,
-          9453,
-          9454,
-          9455,
-          9456
-        ],
-        "control_id": 9457
+        "msg_ids": [],
+        "control_id": 9457,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "image_queries": [
         "Royal Observatory, Greenwich",
@@ -12132,7 +12115,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/View_of_the_Royal_Observatory_Greenwich_from_One_Tree_Hill_in_Greenwich_Park%2C_London%2C_20260719_0940_4508.jpg/1280px-View_of_the_Royal_Observatory_Greenwich_from_One_Tree_Hill_in_Greenwich_Park%2C_London%2C_20260719_0940_4508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://upload.wikimedia.org/wikipedia/commons/5/55/Atomic_Clock-Louis_Essen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Beidou_atomic_clock_at_CSTM_02.jpg/1280px-Beidou_atomic_clock_at_CSTM_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "live": true
     }
   ]
 }

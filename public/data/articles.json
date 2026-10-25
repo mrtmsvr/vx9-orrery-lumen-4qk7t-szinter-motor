@@ -1,7 +1,158 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-24T22:12:10+02:00",
+  "updated_at": "2026-10-25T07:40:04+01:00",
   "articles": [
+    {
+      "id": "e740fe31-cfc9-5039-a990-c9341bc054c4",
+      "slug": "2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat",
+      "status": "published",
+      "category": "tech",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "Óraátállítás (téli időszámítás)",
+        "tudomány",
+        "időmérés",
+        "technológia",
+        "történelem"
+      ],
+      "title": "Téli vagy nyári: miért állítjuk át az órát?",
+      "subtitle": null,
+      "lead": "Évente kétszer az egész ország ritmust vált, amikor közösen átállítjuk az óráinkat, látszólag kiszakítva magunkat a természetes fényviszonyokból. De vajon miért ragaszkodunk ehhez az évszázados, sokszor vitatott gyakorlathoz, és hogyan függ össze ez a Föld forgásával?",
+      "key_points": [
+        "Az óraátállítás célja a nappali világos órák hatékonyabb kihasználása, igazodva az évszakok változásához.",
+        "A történelem során a naptárak és az időszámítási rendszerek alapja mindig a Föld, a Nap és a Hold mozgása volt.",
+        "A mai, pontos időszámításunk egy közös megegyezésen alapuló rendszer, amely az atomórák stabilitását ötvözi a Föld forgásával.",
+        "A naptárak és az órák nem természeti törvények, hanem az emberiség által alkotott segédeszközök az események összehangolására."
+      ],
+      "content": "## Az időmérés természetes és mesterséges gyökerei\n\nAz időt alapvetően csillagászati jelenségek határozzák meg: a nap a Föld tengely körüli forgása, a hónap a Hold keringése, az év pedig a Nap körüli pályánk hossza. Hétköznapi időrendszereink mégsem puszta tükröződései a természetnek, hanem gondosan kidolgozott, emberi megegyezéseken alapuló rendszerek. A kronológia tudománya épp azért jött létre, hogy ezeket a bonyolult, kultúránként eltérő számítási módokat egységesítse. Míg az ókori civilizációk – például Egyiptom – a Nílus áradásához vagy a csillagok deleléséhez igazították naptárukat, a modern ember már a percek és másodpercek precíziós hálójában él.\n\nA naptárak történetében az évszázadok során folyamatos küzdelem zajlott a holdév és a napév közötti eltérés kiküszöbölésére. Mivel a 12 holdhónapból álló év csak 354 nap, a földművelő társadalmaknak – amelyek számára az évszakok ciklikussága létkérdés volt – muszáj volt korrekciókat bevezetniük. Így alkalmazunk például szökőhónapokat vagy a mai, 12 hónapos szoláris naptárat, amely már nem a Hold fázisait követi, hanem a Nap körüli keringésünk önkényesen felosztott szeleteit.\n\n## Miért a greenwichi középidő lett a mérce?\n\nA 19. század végéig minden régió a saját helyi idejét használta, ami a vasút és a távíró elterjedésével egyre kezelhetetlenebb káoszt okozott. 1884-ben, a Nemzetközi Meridián Konferencia döntése nyomán vált a Greenwichi Királyi Obszervatórium helyi ideje a globális viszonyítási alappá, a nulla délkörré. Ez volt az az időzóna, amelyhez a világ többi részét igazították, létrehozva az egységes, globális időrendszert.\n\nEz a rendszer azonban önmagában nem volt elég pontos a modern technológia számára. Az 1955-ben megjelent atomórák olyan stabilitást kínáltak, amelyet a Föld szabálytalan forgása – amely a különféle fizikai hatások miatt lassulhat vagy gyorsulhat – nem tudott követni. 1961-ben az egyezményes koordinált világidő (UTC) bevezetése oldotta fel ezt az ellentmondást: az atomórák precizitását ötvözte a Föld forgásához igazított időrenddel, biztosítva, hogy a polgári életünk és a bolygó csillagászati állapota ne csússzon el egymástól.\n\n## Az átállítás valódi célja és korlátai\n\nAz óraátállítás koncepciója a nappali fény maximális kihasználásának szándékából született. Az ötlet egyszerű: a tevékenységeinket a természetes fényhez igazítva energiát takaríthatunk meg, hiszen a világos órákban kevésbé van szükség mesterséges megvilágításra. Ez a gyakorlat azonban nem univerzális, és hatékonysága számos szakmai vitát váltott ki. A kronológiai szempontból ez a társadalmi szerveződés rugalmasságát mutatja: képesek vagyunk a nap kezdetét és végét teljesen önkényesen, megegyezéses alapon kijelölni.\n\nFontos látni, hogy az időszámításunk alapvető egységei – mint a nap vagy az év – bár természeti alapokon nyugszanak, kezdetük meghatározása már az emberi döntéshozatal része. A középkorban vált általánossá az év január elsejei kezdete, és az éjféltől éjfélig tartó napok mérése is csupán újabb kori hagyomány. Az óraátállítás tehát nem más, mint a modern társadalom kísérlete arra, hogy az absztrakt időnket minél inkább szinkronba hozza a biológiai és fényviszonyokkal, még akkor is, ha ez a folyamat nem mentes a gyakorlati nehézségektől.\n\nEz a cikk nem helyettesíti az orvosi vagy szakértői véleményt, különösen az alvási ciklusra és az egészségre gyakorolt hatások tekintetében.",
+      "content_format": "markdown",
+      "body": [
+        "## Az időmérés természetes és mesterséges gyökerei",
+        "Az időt alapvetően csillagászati jelenségek határozzák meg: a nap a Föld tengely körüli forgása, a hónap a Hold keringése, az év pedig a Nap körüli pályánk hossza. Hétköznapi időrendszereink mégsem puszta tükröződései a természetnek, hanem gondosan kidolgozott, emberi megegyezéseken alapuló rendszerek. A kronológia tudománya épp azért jött létre, hogy ezeket a bonyolult, kultúránként eltérő számítási módokat egységesítse. Míg az ókori civilizációk – például Egyiptom – a Nílus áradásához vagy a csillagok deleléséhez igazították naptárukat, a modern ember már a percek és másodpercek precíziós hálójában él.",
+        "A naptárak történetében az évszázadok során folyamatos küzdelem zajlott a holdév és a napév közötti eltérés kiküszöbölésére. Mivel a 12 holdhónapból álló év csak 354 nap, a földművelő társadalmaknak – amelyek számára az évszakok ciklikussága létkérdés volt – muszáj volt korrekciókat bevezetniük. Így alkalmazunk például szökőhónapokat vagy a mai, 12 hónapos szoláris naptárat, amely már nem a Hold fázisait követi, hanem a Nap körüli keringésünk önkényesen felosztott szeleteit.",
+        "## Miért a greenwichi középidő lett a mérce?",
+        "A 19. század végéig minden régió a saját helyi idejét használta, ami a vasút és a távíró elterjedésével egyre kezelhetetlenebb káoszt okozott. 1884-ben, a Nemzetközi Meridián Konferencia döntése nyomán vált a Greenwichi Királyi Obszervatórium helyi ideje a globális viszonyítási alappá, a nulla délkörré. Ez volt az az időzóna, amelyhez a világ többi részét igazították, létrehozva az egységes, globális időrendszert.",
+        "Ez a rendszer azonban önmagában nem volt elég pontos a modern technológia számára. Az 1955-ben megjelent atomórák olyan stabilitást kínáltak, amelyet a Föld szabálytalan forgása – amely a különféle fizikai hatások miatt lassulhat vagy gyorsulhat – nem tudott követni. 1961-ben az egyezményes koordinált világidő (UTC) bevezetése oldotta fel ezt az ellentmondást: az atomórák precizitását ötvözte a Föld forgásához igazított időrenddel, biztosítva, hogy a polgári életünk és a bolygó csillagászati állapota ne csússzon el egymástól.",
+        "## Az átállítás valódi célja és korlátai",
+        "Az óraátállítás koncepciója a nappali fény maximális kihasználásának szándékából született. Az ötlet egyszerű: a tevékenységeinket a természetes fényhez igazítva energiát takaríthatunk meg, hiszen a világos órákban kevésbé van szükség mesterséges megvilágításra. Ez a gyakorlat azonban nem univerzális, és hatékonysága számos szakmai vitát váltott ki. A kronológiai szempontból ez a társadalmi szerveződés rugalmasságát mutatja: képesek vagyunk a nap kezdetét és végét teljesen önkényesen, megegyezéses alapon kijelölni.",
+        "Fontos látni, hogy az időszámításunk alapvető egységei – mint a nap vagy az év – bár természeti alapokon nyugszanak, kezdetük meghatározása már az emberi döntéshozatal része. A középkorban vált általánossá az év január elsejei kezdete, és az éjféltől éjfélig tartó napok mérése is csupán újabb kori hagyomány. Az óraátállítás tehát nem más, mint a modern társadalom kísérlete arra, hogy az absztrakt időnket minél inkább szinkronba hozza a biológiai és fényviszonyokkal, még akkor is, ha ez a folyamat nem mentes a gyakorlati nehézségektől.",
+        "Ez a cikk nem helyettesíti az orvosi vagy szakértői véleményt, különösen az alvási ciklusra és az egészségre gyakorolt hatások tekintetében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 503,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1694,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Shepherd gate clock at the Royal Greenwich Observatory, London, England, United Kingdom",
+        "credit": "Dietmar Rabich / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:London,_Greenwich,_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg",
+        "exact": true,
+        "entity": "Greenwich Mean Time",
+        "unverified": true
+      },
+      "inline_images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/NIST-F2_cesium_fountain_atomic_clock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 857,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "NIST physicists Steve Jefferts (foreground) and Tom Heavner with the NIST-F2 cesium fountain atomic clock, a new civilian time standard for the United States.",
+          "credit": "National Institute of Standards and Technology - Physics Laboratory: Time and Fr / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:NIST-F2_cesium_fountain_atomic_clock.jpg",
+          "after": 1,
+          "caption": "Az atomórák precizitása nélkülözhetetlen a mai modern technológia működéséhez."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://hu.wikipedia.org/wiki/Kronol%C3%B3gia",
+          "title": "Kronológia",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-25T07:31:27+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Greenwichi_k%C3%B6z%C3%A9pid%C5%91",
+          "title": "Greenwichi középidő",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-25T07:31:27+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-25T07:40:04+01:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": false,
+      "category_meta": {
+        "source_links": [
+          "https://hu.wikipedia.org/wiki/Kronol%C3%B3gia",
+          "https://hu.wikipedia.org/wiki/Greenwichi_k%C3%B6z%C3%A9pid%C5%91"
+        ],
+        "offtopic_id": "oraatallitas-osz-teli-idoszamitas-tortenete-mier-2026"
+      },
+      "date": "2026-10-25",
+      "date_label": "október 25.",
+      "url": "/tech/2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat/",
+      "seo": {
+        "meta_title": "Téli vagy nyári: miért állítjuk át az órát?",
+        "meta_description": "Évente kétszer az egész ország ritmust vált, amikor közösen átállítjuk az óráinkat, látszólag kiszakítva magunkat a természetes fényviszonyokból. De vajon miért",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "6712e73450cb5891cdad2062c5d34fed423f88bd02b2e8ec5e4108b23db6849a",
+      "pipeline_run_id": "40169248536",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-25T07:40:04+01:00",
+      "updated_at": "2026-10-25T07:40:04+01:00",
+      "published_at": "2026-10-25T07:40:04+01:00",
+      "expires_at": null,
+      "image_queries": [
+        "Royal Observatory, Greenwich",
+        "International Meridian Conference",
+        "Atomic clock",
+        "Greenwich Mean Time",
+        "European Union",
+        "clock with sun and moon",
+        "hand turning a clock",
+        "sunrise over cityscape",
+        "calendar page turning"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Improvements_in_Atomic_Clock_Accuracy.jpg/1280px-Improvements_in_Atomic_Clock_Accuracy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Sundial_on_the_porch_of_St._Giles_Church%2C_Chesterton.jpg/1280px-Sundial_on_the_porch_of_St._Giles_Church%2C_Chesterton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fb/Got_the_time%5E_-_geograph.org.uk_-_1469342.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4695.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4695.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/View_of_the_Royal_Observatory_Greenwich_from_One_Tree_Hill_in_Greenwich_Park%2C_London%2C_20260719_0940_4508.jpg/1280px-View_of_the_Royal_Observatory_Greenwich_from_One_Tree_Hill_in_Greenwich_Park%2C_London%2C_20260719_0940_4508.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/5/55/Atomic_Clock-Louis_Essen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Beidou_atomic_clock_at_CSTM_02.jpg/1280px-Beidou_atomic_clock_at_CSTM_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
+    },
     {
       "id": "0de24077-5036-5c0a-97f0-33c622d96373",
       "slug": "2026-10-24-szombat-este-valaki-zsebre-vagott-5-19-milliard-forintot-magyarorszag",
@@ -68469,104 +68620,6 @@
       "created_at": "2026-10-03T06:38:28+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-03T06:38:28+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "0a162dd3-459c-542a-a0e7-22ccba6d1ab0",
-      "slug": "2026-10-02-ezert-ultettek-le-a-fideszes-exminisztert",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Seszták Miklós",
-        "Kisvárda",
-        "Magyar Péter",
-        "korrupció",
-        "Volánbusz"
-      ],
-      "title": "Ezért ültették le a fideszes exminisztert?",
-      "subtitle": null,
-      "lead": "Magyar Péter szabolcsi országjárásán a helyiek Seszták Miklós letartóztatásáról és a környék elmúlt éveiről beszéltek. A volt minisztert túlárazott Volánbusz-beszerzésekkel és milliárdos kenőpénzekkel gyanúsítják.",
-      "key_points": [
-        "Seszták Miklóst letartóztatták a túlárazott Volánbusz-beszerzések ügyében.",
-        "A gyanú szerint 11 milliárd forint kenőpénz vándorolt a politikushoz.",
-        "A helyiek vegyesen élik meg a NER kisvárdai erős emberének bukását.",
-        "A tiszás választási győzelem óta sokan a félelem enyhülését, mások a status quo fennállását tapasztalják."
-      ],
-      "content": "Magyar Péter pénteki szabolcsi országjárásán a résztvevők leginkább Seszták Miklós letartóztatásáról és a helyi közéleti hangulatról beszélgettek. A volt nemzeti fejlesztési miniszter és fideszes országgyűlési képviselő ügye azután kapott országos visszhangot, hogy a Központi Nyomozó Főügyészség őrizetbe vette, a bíróság pedig elrendelte a letartóztatását.\n\nA hatóságok gyanúja szerint a politikushoz köthető ügyekben túlárazott Volánbusz-beszerzések zajlottak, amelyek során tizenegymilliárd forint kenőpénz áramlott. Seszták 2010 óta képviselte a kisvárdai központú választókerületet, idén azonban alulmaradt a Tisza Párt jelöltjével, Dicső Viktóriával szemben.\n\nA fórumra érkező helyiek és a szomszédos településekről utazók eltérően ítélik meg a várost az elmúlt másfél évtizedben formáló beruházásokat. – Van lówellness, meg le van térkövezve minden, de ettől még hatalmas a szegénység – fogalmazott egy helyi középkorú férfi, aki szerint a hivatalosan fejlesztésekre szánt forrásokból a képviselő körei profitáltak.\n\nA lakosok tapasztalatai megoszlanak arról is, hogy a tavaszi országgyűlési váltás óta szabadabban beszélnek-e a politikáról a kistelepüléseken. Míg egyesek a félelem enyhüléséről számoltak be, addig egy környékbeli vízszerelő és egy falusi Tisza Sziget alapítója szerint a mindennapi kiszolgáltatottság és a fideszes vezetés alatt megszokott légkör továbbra is jelen van a megyében.",
-      "content_format": "markdown",
-      "body": [
-        "Magyar Péter pénteki szabolcsi országjárásán a résztvevők leginkább Seszták Miklós letartóztatásáról és a helyi közéleti hangulatról beszélgettek. A volt nemzeti fejlesztési miniszter és fideszes országgyűlési képviselő ügye azután kapott országos visszhangot, hogy a Központi Nyomozó Főügyészség őrizetbe vette, a bíróság pedig elrendelte a letartóztatását.",
-        "A hatóságok gyanúja szerint a politikushoz köthető ügyekben túlárazott Volánbusz-beszerzések zajlottak, amelyek során tizenegymilliárd forint kenőpénz áramlott. Seszták 2010 óta képviselte a kisvárdai központú választókerületet, idén azonban alulmaradt a Tisza Párt jelöltjével, Dicső Viktóriával szemben.",
-        "A fórumra érkező helyiek és a szomszédos településekről utazók eltérően ítélik meg a várost az elmúlt másfél évtizedben formáló beruházásokat. – Van lówellness, meg le van térkövezve minden, de ettől még hatalmas a szegénység – fogalmazott egy helyi középkorú férfi, aki szerint a hivatalosan fejlesztésekre szánt forrásokból a képviselő körei profitáltak.",
-        "A lakosok tapasztalatai megoszlanak arról is, hogy a tavaszi országgyűlési váltás óta szabadabban beszélnek-e a politikáról a kistelepüléseken. Míg egyesek a félelem enyhüléséről számoltak be, addig egy környékbeli vízszerelő és egy falusi Tisza Sziget alapítója szerint a mindennapi kiszolgáltatottság és a fideszes vezetés alatt megszokott légkör továbbra is jelen van a megyében."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 207,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg/1280px-Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1803,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Seszták Miklós nemzeti fejlesztési miniszter",
-        "credit": "ismeretlen szerző / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261002_magyar-peter-sesztak-mikllos-orszagjaras-kisvarda-riport",
-          "title": "„Elsőnek jó volt a Seszták, Hankó meg másodiknak” – Kisvárdán mindenkinek van ötlete arra, melyik fideszes menjen legközelebb börtönbe",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-02T21:47:18+02:00"
-        }
-      ],
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-02T22:18:08+02:00"
-      },
-      "hot_score": 5.79,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261002_magyar-peter-sesztak-mikllos-orszagjaras-kisvarda-riport"
-        ]
-      },
-      "date": "2026-10-02",
-      "date_label": "október 2.",
-      "url": "/kozelet/2026-10-02-ezert-ultettek-le-a-fideszes-exminisztert/",
-      "seo": {
-        "meta_title": "Ezért ültették le a fideszes exminisztert?",
-        "meta_description": "Magyar Péter szabolcsi országjárásán a helyiek Seszták Miklós letartóztatásáról és a környék elmúlt éveiről beszéltek. A volt minisztert túlárazott Volánbusz-be",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-02-ezert-ultettek-le-a-fideszes-exminisztert/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg/1280px-Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "5c7643befadf5987ab3c7d68d941bb6f8fd6766ce8bcfc7f785c072d44b9fb2e",
-      "pipeline_run_id": "37056048304",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-02T22:18:08+02:00",
-      "updated_at": "2026-10-02T22:18:08+02:00",
-      "published_at": "2026-10-02T22:18:08+02:00",
       "expires_at": null
     }
   ]
