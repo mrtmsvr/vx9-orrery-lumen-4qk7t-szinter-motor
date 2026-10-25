@@ -13130,7 +13130,7 @@
     {
       "id": "b52dd344-bc63-57b7-9360-2734854fbe17",
       "slug": "2026-10-20-budapesten-targyalt-az-izraeli-allamfo-es-magyar-peter",
-      "status": "published",
+      "status": "removed",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -13281,7 +13281,8 @@
       "created_at": "2026-10-20T19:46:08+02:00",
       "updated_at": "2026-10-24T10:20:30+00:00",
       "published_at": "2026-10-20T19:46:08+02:00",
-      "expires_at": null
+      "expires_at": null,
+      "removed_reason": "szerkesztői döntés (AI-kép, 10.25.)"
     },
     {
       "id": "364984da-75d7-57e4-a091-05df52dd100b",
@@ -16839,7 +16840,7 @@
     {
       "id": "e77e248a-48bf-5fe5-8616-dc4920b085e3",
       "slug": "2026-10-19-varatlan-vezetocsere-a-nemzeti-innovacios-ugynoksegnel",
-      "status": "published",
+      "status": "removed",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -16983,7 +16984,8 @@
       "created_at": "2026-10-19T15:51:45+02:00",
       "updated_at": "2026-10-24T10:35:34+00:00",
       "published_at": "2026-10-19T15:51:45+02:00",
-      "expires_at": null
+      "expires_at": null,
+      "removed_reason": "szerkesztői döntés (AI-kép, 10.25.)"
     },
     {
       "id": "74e329e1-d5e1-5221-92c4-8ef3be8a15d0",
