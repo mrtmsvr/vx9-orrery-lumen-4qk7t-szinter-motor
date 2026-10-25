@@ -10845,7 +10845,7 @@
     {
       "id": "5bb84a3b-1678-511e-9361-ca883b0a158f",
       "slug": "2026-10-25-trump-szavazott-floridaban-aztan-letamadta-a-demokratakat-es-irant",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -11096,9 +11096,9 @@
       "dedupe_hash": "dc2b9f3d1bf5f46577b1b09c1b1304a749df6e0032008f47412d22088e744550",
       "pipeline_run_id": "40189751682",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T12:54:39+01:00",
-      "updated_at": "2026-10-25T12:54:39+01:00",
-      "published_at": "2026-10-25T12:54:39+01:00",
+      "created_at": "2026-10-25T12:57:00+01:00",
+      "updated_at": "2026-10-25T12:57:00+01:00",
+      "published_at": "2026-10-25T12:57:00+01:00",
       "expires_at": null,
       "legal": {
         "level": 1,
@@ -11116,8 +11116,311 @@
         "sent_at": "2026-10-25T11:55:59+00:00",
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 11.93 · 5 forrás\n\n1) Trump szavazott Floridában, aztán letámadta a demokratákat és Iránt\n2) Szavazott Trump, majd Iránt és korrupciót emlegetett\n3) Megszólalt a szavazata után Donald Trump: üzenet Iránnak és a demokratáknak\n🔥 4) Ezt mondta Donald Trump a golfpálya után a korrupcióról és Iránról\n🔥 5) Így szavazott Donald Trump tíz nappal a félidős választások előtt\n🔥 6) Ilyen hangulatban várja a félidős választásokat Donald Trump\n\n<b>Források:</b> infostart.hu, telex.hu, hvg.hu, index.hu, index.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
         "lead": "Donald Trump amerikai elnök és felesége szombaton személyesen adta le szavazatát egy floridai szavazókörben, alig tíz nappal a szövetségi félidős választások előtt. A szavazást követő rögtönzött sajtótájékoztatón az elnök korrupciós vádakkal illette a demokratákat, miközben az Iránnal kapcsolatos kérdésekre is válaszolt.",
-        "ctl_photo": false,
-        "control_id": 9499,
+        "ctl_photo": true,
+        "control_id": 9501,
+        "msg_ids": [],
+        "note": "🔥 Forró hír (forróság 11.93): azonnal kiraktam."
+      },
+      "live": true
+    },
+    {
+      "id": "44442b06-5503-59c9-906e-180a74dd256c",
+      "slug": "2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban",
+      "status": "pending",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Szerbia",
+        "választás",
+        "Alekszandar Vucsics",
+        "Magyar Külügyi Intézet",
+        "Balkán"
+      ],
+      "title": "Vucsics eddigi legnehezebb választása jön vasárnap Szerbiában",
+      "subtitle": null,
+      "lead": "Vasárnap parlamenti választást tartanak Szerbiában, ahol a 2012 óta hatalmon lévő Alekszandar Vucsics eddigi legkomolyabb politikai kihívásával néz szembe. A tét a kormánypárt hatalmának megőrzése mellett az újvidéki tragédia után fellángoló társadalmi feszültségek rendezése.",
+      "key_points": [
+        "Az Egyetemista Lista első alkalommal jelent valódi országos kihívást a Szerb Haladó Párt számára.",
+        "A 2024 novemberében történt újvidéki vasútállomási tragédia katalizátorként hatott a jelenlegi politikai válságban.",
+        "A részvételi arány alapvetően befolyásolhatja a választás kimenetelét a stabil kormánypárti tábor ellenére."
+      ],
+      "content": "Vasárnap minden korábbinál feszültebb és kiélezettebb parlamenti választásra kerül sor Szerbiában, ahol az országot 2012 óta irányító Szerb Haladó Párt (SNS) most először néz szembe egységesnek látszó, rendszerszintű kihívással. A belgrádi politikai életben tapasztalható feszültséget tovább fokozza, hogy a kampányidőszakban valós veszélyként merült fel az összecsapások kirobbanásának esélye a kormánypárti szimpatizánsok és a diákok tüntető csoportjai között.\n\nA jelenlegi politikai válság közvetlen előzményeként a 2024. november 1-jén délelőtt bekövetkezett újvidéki tragédiát tartják számon, amelyben a gyanú szerint tizenhat ember vesztette életét egy vasúti pályaudvar tetőomlása miatt, és többen megsérültek. A történtek után kibontakozó tiltakozások nyomán formálódott meg az Egyetemista Lista, amely a jogállamiság helyreállítását, a médiaszabadság megerősítését és a felelősségre vonást tűzte ki zászlajára, miközben az érintettek a megmozdulásokat népszavazásként keretezik. Ezzel szemben a kormányoldal elsősorban a stabilitás ígéretére és az elmúlt évtized infrastrukturális fejlesztéseire épít, bár a beruházások emlegetése az újvidéki katasztrófa árnyékában ellentmondásos helyzetet teremtett a nyilvánosságban.\n\nA két tábor esélyeit rendkívül nehéz felmérni, mivel a közvélemény-kutatások egymásnak ellentmondó adatokat mutatnak, ráadásul a felmérések megbízhatóságát rontja, hogy a társadalmi nyomás miatt a választók egy része nem meri felvállalni valódi preferenciáját, vagy szándékosan félrevezeti a kérdezőket. Az IPSOS adatai szerint az SNS vezette tábor a voksok 47 százalékára számíthat, míg a diákok listája legfeljebb 40 százalékot érhet el, ezzel szemben az ellenzékhez húzó intézetek akár 52-37 arányú győzelmet is prognosztizálnak. Nikowitz-Holló Márton, a Magyar Külügyi Intézet vezető kutatója szerint a friss adatok alapján a kormánypárt előnye 6-7 százalék körül mozoghat, ám a tényleges különbség még ennél is kisebb lehet, a kulcsfontosságú részvételi arány tekintetében pedig a 60 százalék alatti részvétel az SNS-nek, a 65 százalék fölötti részvétel pedig az egyetemistáknak kedvezhet.\n\nA kormánypárt rendkívül stabil bázissal rendelkezik, mintegy 1,6-1,7 millió biztos szavazóra támaszkodhat, míg az ellenzéki siker legfőbb feltétele az első szavazók és a politikailag addig passzív rétegek hatékony mozgósítása. A parlamenti küszöb körüli pártok szintén mérleg nyelveként szolgálhatnak, különösen az Ivica Dacic vezette Szerbiai Szocialista Párt (SPS), amely a legtöbb mérés szerint a háromszázalékos határ közelében áll. Bár az SPS hagyományosan az SNS szövetségese, a szoros eredmény miatt kialakuló királycsináló helyzetben a politikai túlélési szempontok akár más irányba is terelhetik a pártvezetőt. A választás tisztaságával kapcsolatban a szakértők arra hívják fel a figyelmet, hogy a névjegyzék felülvizsgálatának elmaradása és az esetleges adminisztrációs visszaélések nehezítik az átlátható folyamatot.",
+      "content_format": "markdown",
+      "body": [
+        "Vasárnap minden korábbinál feszültebb és kiélezettebb parlamenti választásra kerül sor Szerbiában, ahol az országot 2012 óta irányító Szerb Haladó Párt (SNS) most először néz szembe egységesnek látszó, rendszerszintű kihívással. A belgrádi politikai életben tapasztalható feszültséget tovább fokozza, hogy a kampányidőszakban valós veszélyként merült fel az összecsapások kirobbanásának esélye a kormánypárti szimpatizánsok és a diákok tüntető csoportjai között.",
+        "A jelenlegi politikai válság közvetlen előzményeként a 2024. november 1-jén délelőtt bekövetkezett újvidéki tragédiát tartják számon, amelyben a gyanú szerint tizenhat ember vesztette életét egy vasúti pályaudvar tetőomlása miatt, és többen megsérültek. A történtek után kibontakozó tiltakozások nyomán formálódott meg az Egyetemista Lista, amely a jogállamiság helyreállítását, a médiaszabadság megerősítését és a felelősségre vonást tűzte ki zászlajára, miközben az érintettek a megmozdulásokat népszavazásként keretezik. Ezzel szemben a kormányoldal elsősorban a stabilitás ígéretére és az elmúlt évtized infrastrukturális fejlesztéseire épít, bár a beruházások emlegetése az újvidéki katasztrófa árnyékában ellentmondásos helyzetet teremtett a nyilvánosságban.",
+        "A két tábor esélyeit rendkívül nehéz felmérni, mivel a közvélemény-kutatások egymásnak ellentmondó adatokat mutatnak, ráadásul a felmérések megbízhatóságát rontja, hogy a társadalmi nyomás miatt a választók egy része nem meri felvállalni valódi preferenciáját, vagy szándékosan félrevezeti a kérdezőket. Az IPSOS adatai szerint az SNS vezette tábor a voksok 47 százalékára számíthat, míg a diákok listája legfeljebb 40 százalékot érhet el, ezzel szemben az ellenzékhez húzó intézetek akár 52-37 arányú győzelmet is prognosztizálnak. Nikowitz-Holló Márton, a Magyar Külügyi Intézet vezető kutatója szerint a friss adatok alapján a kormánypárt előnye 6-7 százalék körül mozoghat, ám a tényleges különbség még ennél is kisebb lehet, a kulcsfontosságú részvételi arány tekintetében pedig a 60 százalék alatti részvétel az SNS-nek, a 65 százalék fölötti részvétel pedig az egyetemistáknak kedvezhet.",
+        "A kormánypárt rendkívül stabil bázissal rendelkezik, mintegy 1,6-1,7 millió biztos szavazóra támaszkodhat, míg az ellenzéki siker legfőbb feltétele az első szavazók és a politikailag addig passzív rétegek hatékony mozgósítása. A parlamenti küszöb körüli pártok szintén mérleg nyelveként szolgálhatnak, különösen az Ivica Dacic vezette Szerbiai Szocialista Párt (SPS), amely a legtöbb mérés szerint a háromszázalékos határ közelében áll. Bár az SPS hagyományosan az SNS szövetségese, a szoros eredmény miatt kialakuló királycsináló helyzetben a politikai túlélési szempontok akár más irányba is terelhetik a pártvezetőt. A választás tisztaságával kapcsolatban a szakértők arra hívják fel a figyelmet, hogy a névjegyzék felülvizsgálatának elmaradása és az esetleges adminisztrációs visszaélések nehezítik az átlátható folyamatot."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 419,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rektorat_Beogradskog_univerziteta.jpg/1280px-Rektorat_Beogradskog_univerziteta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Building of Rectorate of University of Belgrade.",
+        "credit": "Matija / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rektorat_Beogradskog_univerziteta.jpg",
+        "exact": true,
+        "entity": "University of Belgrade",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/kulfold/2026/10/25/valasztas-szerbia-alekszandar-vucsics/",
+          "title": "Vasárnap eldőlhet, hatalomban marad-e Alekszandar Vucsics",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-10-25T12:56:11+01:00"
+        },
+        {
+          "url": "https://hvg.hu/360/20261024_alekszandar-vucsics-szerbia-valasztas",
+          "title": "Elüti-e a budapesti gyors Orbán belgrádi barátját? – erről szól a vasárnapi szerbiai választás",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-10-25T12:56:11+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/25/stabilitas-vagy-elszamoltatas-valasztasok-es-forro-vasarnap-elott-all-szerbia",
+          "title": "Stabilitás vagy elszámoltatás? – Választások és forró vasárnap előtt áll Szerbia",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-25T12:56:11+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/25/egyertelmu-magyar-visszaeses-szlovakiaban",
+          "title": "Egyértelmű magyar vereség Szlovákiában",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-25T12:56:11+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/10/24/pasztor-balint-oriasi-a-vasarnapi-elore-hozott-szerb-valasztasok-magyar-tetje",
+          "title": "Pásztor Bálint: óriási a vasárnapi előre hozott szerb választások magyar tétje",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-10-25T12:56:11+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A tét alapvetően az, hogy Alekszandar Vucsics politikailag túléli-e a választásokat",
+        "who": "Németh Ferenc, a Magyar Külügyi Intézet vezető kutatója",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 9.9,
+      "title_options": [
+        "Vucsics eddigi legnehezebb választása jön vasárnap Szerbiában",
+        "Vasárnap eldőlhet Alekszandar Vucsics és a Szerb Haladó Párt sorsa",
+        "Döntő pillanat előtt áll Alekszandar Vucsics a szerbiai választásokon",
+        "Mindent egy lapra tett fel a szerb miniszterelnök, ma este minden kiderül",
+        "Ez a vasárnap átírhatja Szerbia legújabb kori történetét"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rektorat_Beogradskog_univerziteta.jpg/1280px-Rektorat_Beogradskog_univerziteta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Building of Rectorate of University of Belgrade.",
+          "credit": "Matija / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Rektorat_Beogradskog_univerziteta.jpg",
+          "exact": true,
+          "entity": "University of Belgrade",
+          "vision_score": 13.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg/1280px-Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 771,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Mikheil Kavelashvili meeting Vucic in Serbia",
+          "credit": "Administration of the President of Georgia / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg/1280px-Church_of_Saint_Sava_%28Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Church of Saint Sava (Belgrade, Serbia) with the monument to Karađorđe, leader of first Serbian uprising against the Turks",
+          "credit": "Petar Milošević / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Sava_(Belgrade,_Serbia).jpg",
+          "vision_score": 7.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%D0%A1%D1%82%D0%B0%D0%BA%D0%BB%D0%B5%D1%9A%D0%B0%D0%BA%2C_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%88%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B0%D1%86_%28greenhouse_Jevremovac_Botanical_Garden%2C_Belgrade%2C_Serbia%29.jpg/1280px-%D0%A1%D1%82%D0%B0%D0%BA%D0%BB%D0%B5%D1%9A%D0%B0%D0%BA%2C_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%88%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B0%D1%86_%28greenhouse_Jevremovac_Botanical_Garden%2C_Belgrade%2C_Serbia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 760,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Greenhouse of Jevremovac Botanical Garden, Belgrade, Serbia",
+          "credit": "Petar Milošević / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D1%82%D0%B0%D0%BA%D0%BB%D0%B5%D1%9A%D0%B0%D0%BA,_%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%BA%D0%B0_%D0%B1%D0%B0%D1%88%D1%82%D0%B0_%D0%88%D0%B5%D0%B2%D1%80%D0%B5%D0%BC%D0%BE%D0%B2%D0%B0%D1%86_(greenhouse_Jevremovac_Botanical_Garden,_Belgrade,_Serbia).jpg",
+          "vision_score": 6.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Beograd_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 2400,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Belgrade- photomontage (Panorama of  Belgrade, House of the National Assembly, New Palace, Avala Tower, Ušće Tower, Gardoš Tower, The Serbian Academy of Sciences and Arts' building, Church of Saint Sa",
+          "credit": "Zeks127 / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Beograd_collage.jpg",
+          "exact": true,
+          "entity": "Belgrade",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-954d8845b9.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-954d8845b9.jpg",
+          "kind": "photo",
+          "alt": "16 halott – az újvidéki vasútállomás tragédiájának áldozatai",
+          "credit": "Kollektíva grafika",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "card": "num"
+        }
+      ],
+      "story": [
+        {
+          "title": "Vasárnap eldőlhet, hatalomban marad-e Alekszandar Vucsics",
+          "link": "https://index.hu/kulfold/2026/10/25/valasztas-szerbia-alekszandar-vucsics/",
+          "summary": "Királycsináló lehet a Vajdasági Magyar Szövetség és a szocialisták a szerbiai választáson.",
+          "source": "index.hu",
+          "related": null,
+          "hot_score": 9.9
+        },
+        {
+          "title": "Elüti-e a budapesti gyors Orbán belgrádi barátját? – erről szól a vasárnapi szerbiai választás",
+          "link": "https://hvg.hu/360/20261024_alekszandar-vucsics-szerbia-valasztas",
+          "summary": "Szerbia legújabb kori történelmének legfontosabb választását tartják vasárnap: most először van valós esély arra, hogy kiszorul a hatalomból az országot több mint egy évtizede kormányzó Alekszandar Vucsics. Az ottani helyzet sok mindenben emlékeztet az ellenzék győzelmét hozó áprilisi magyarországi választás előtti időszakra, igaz, akad különbség is. Közben komoly veszélye van annak, hogy összecsapások törnek ki Vucsics hívei és az ellenzéket vezető egyetemisták között.",
+          "source": "hvg.hu",
+          "related": null,
+          "hot_score": null
+        },
+        {
+          "title": "Stabilitás vagy elszámoltatás? – Választások és forró vasárnap előtt áll Szerbia",
+          "link": "https://infostart.hu/kulfold/2026/10/25/stabilitas-vagy-elszamoltatas-valasztasok-es-forro-vasarnap-elott-all-szerbia",
+          "summary": "Minden korábbinál feszültebb és kiélezettebb parlamenti választásra számítanak ma Szerbiában. Az Egyetemista Lista és az Alekszandar Vucic – Egyesült Szerbia lista (a Szerb Haladó Párt és a szövetségesei) fej-fej mellett áll a felmérések szerint. A szerbiai közhangulatról és a választás tisztaságáról is kérdezte Nikowicz-Holló Mártont, a Magyar Külügyi Intézet vezető kutatóját az InfoRádió.",
+          "source": "infostart.hu",
+          "related": null,
+          "hot_score": null
+        },
+        {
+          "title": "Egyértelmű magyar vereség Szlovákiában",
+          "link": "https://infostart.hu/kulfold/2026/10/25/egyertelmu-magyar-visszaeses-szlovakiaban",
+          "summary": "Jelentősen, 54-ről 37-re csökkent a Magyar Szövetség megyei képviselőinek száma a szlovákiai önkormányzati választásokon a szavazatok csaknem teljes feldolgozottsága alapján. Dunaszerdahelyen a nem hivatalos részeredmények szerint Hájos Zoltán nyerheti a polgármester-választást.",
+          "source": "infostart.hu",
+          "related": true,
+          "hot_score": null
+        },
+        {
+          "title": "Pásztor Bálint: óriási a vasárnapi előre hozott szerb választások magyar tétje",
+          "link": "https://infostart.hu/kulfold/2026/10/24/pasztor-balint-oriasi-a-vasarnapi-elore-hozott-szerb-valasztasok-magyar-tetje",
+          "summary": "Vasárnap előre hozott parlamenti választást tartanak Szerbiában, ahol a politikai erőviszonyok alakulása nemcsak az ország jövőjét, hanem a vajdasági magyar közösség mozgásterét is meghatározhatja. Az InfoRádió a Vajdasági Magyar Szövetség (VMSZ) elnökét, Pásztor Bálintot kérdezte a várható eredményről és a vajdasági magyarság helyzetéről.",
+          "source": "infostart.hu",
+          "related": true,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/kulfold/2026/10/25/valasztas-szerbia-alekszandar-vucsics/",
+          "https://hvg.hu/360/20261024_alekszandar-vucsics-szerbia-valasztas",
+          "https://infostart.hu/kulfold/2026/10/25/stabilitas-vagy-elszamoltatas-valasztasok-es-forro-vasarnap-elott-all-szerbia"
+        ]
+      },
+      "date": "2026-10-25",
+      "date_label": "október 25.",
+      "url": "/vilag/2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban/",
+      "seo": {
+        "meta_title": "Vucsics eddigi legnehezebb választása jön vasárnap Szerbiába",
+        "meta_description": "Vasárnap parlamenti választást tartanak Szerbiában, ahol a 2012 óta hatalmon lévő Alekszandar Vucsics eddigi legkomolyabb politikai kihívásával néz szembe. A té",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Rektorat_Beogradskog_univerziteta.jpg/1280px-Rektorat_Beogradskog_univerziteta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "588e068d-77fb-5ed9-897e-29dc08b31a44",
+        "ae426463-bee8-5005-97c2-cd968876087d",
+        "5c23d6ae-ff7e-546e-a7ab-287338250274"
+      ],
+      "see_also": [
+        {
+          "title": "Belgrádi nagygyűlés: Orbán helyett mégis Fico érkezik",
+          "url": "/vilag/2026-10-03-megmenekult-a-pozsonyi-koalicio-oda-az-orban-fele-szerb-kampanyszerep/",
+          "date": "2026-10-03"
+        },
+        {
+          "title": "Szóváltás és feszültség alakult ki a Fidesz megemlékezésén a Bem téren",
+          "url": "/kozelet/2026-10-24-magyar-peter-mondott-beszedet-a-kormanyzati-oktober-23-an-orban-vikto/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
+          "url": "/kozelet/2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale/",
+          "date": "2026-10-23"
+        }
+      ],
+      "thread_id": "588e068d-77fb-5ed9-897e-29dc08b31a44",
+      "dedupe_hash": "e8d04447e6fb4d10bf530672e724cdbdeaa55962ada3f23ead4acb565d2ede62",
+      "pipeline_run_id": "40189751682",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-25T12:56:11+01:00",
+      "updated_at": "2026-10-25T12:56:11+01:00",
+      "published_at": "2026-10-25T12:56:11+01:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 bűnügy + kiskorú: ne legyen azonosítható (név, iskola, lakóhely, kép)"
+        ],
+        "auto_fixed": [
+          "Bűnügyi tartalom (áldozatok száma) ellátása feltételes móddal („a gyanú szerint”)."
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-25T11:56:58+00:00",
+        "head": "🆕 ÚJ · <b>Világ</b> · forróság 9.9 · 5 forrás\n\n1) Vucsics eddigi legnehezebb választása jön vasárnap Szerbiában\n2) Vasárnap eldőlhet Alekszandar Vucsics és a Szerb Haladó Párt sorsa\n3) Döntő pillanat előtt áll Alekszandar Vucsics a szerbiai választásokon\n🔥 4) Mindent egy lapra tett fel a szerb miniszterelnök, ma este minden kiderül\n🔥 5) Ez a vasárnap átírhatja Szerbia legújabb kori történetét\n\n<b>Források:</b> index.hu, hvg.hu, infostart.hu, infostart.hu, infostart.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
+        "lead": "Vasárnap parlamenti választást tartanak Szerbiában, ahol a 2012 óta hatalmon lévő Alekszandar Vucsics eddigi legkomolyabb politikai kihívásával néz szembe. A tét a kormánypárt hatalmának megőrzése mellett az újvidéki tragédia után fellángoló társadalmi feszültségek rendezése.",
+        "ctl_photo": true,
+        "control_id": 9500,
         "msg_ids": []
       }
     }
