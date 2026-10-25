@@ -383,13 +383,12 @@ def flush_awaiting() -> int:
         if p.get("shown"):
             continue
         r1 = tr._send_photo_file(chat, str(kc.BASE_DIR / p["card"]),
-                                 f"🤖 Instagram-poszt AI-képpel – jóváhagyásra vár:\n{p.get('title')}"[:1000])
-        r2 = tr.tg("sendMessage", {"chat_id": chat, "text": "Képaláírás:\n\n" + p.get("caption", "")[:3500],
-                                   "reply_markup": {"inline_keyboard": [[
-                                       {"text": "✅ Mehet így", "callback_data": f"igok|{p['id']}"},
-                                       {"text": "🧩 Sablonháttérrel", "callback_data": f"igtpl|{p['id']}"}],
-                                       [{"text": "🚫 Ne menjen ki", "callback_data": f"igno|{p['id']}"}]]}})
-        p["tg"] = [m for m in (tr._mid(r1), tr._mid(r2)) if m]
+                                 ("🤖 Instagram-poszt AI-képpel – jóváhagyásra vár\n\n" + p.get("caption", ""))[:1020],
+                                 reply_markup={"inline_keyboard": [[
+                                     {"text": "✅ Mehet így", "callback_data": f"igok|{p['id']}"},
+                                     {"text": "🧩 Sablonháttérrel", "callback_data": f"igtpl|{p['id']}"}],
+                                     [{"text": "🚫 Ne menjen ki", "callback_data": f"igno|{p['id']}"}]]})
+        p["tg"] = [m for m in (tr._mid(r1),) if m]
         p["shown"] = now
     save_state(st)
     return len(waiting)
@@ -422,12 +421,12 @@ def approve(pid: str, template: bool = False) -> str:
 
 
 def _preview(tr, chat: int, item: dict, card: Path) -> list:
-    r1 = tr._send_photo_file(chat, str(card), f"📸 Instagram-poszt kb. {DELAY_MIN} perc múlva:\n{item.get('title')}\n"
-                                              "(Más háttér: válaszolj erre egy képpel vagy matricával.)"[:1000])
-    r2 = tr.tg("sendMessage", {"chat_id": chat, "text": "Képaláírás:\n\n" + item.get("caption", "")[:3500],
-                               "reply_markup": {"inline_keyboard": [[
-                                   {"text": "🚫 Ne menjen ki", "callback_data": f"igno|{item['id']}"}]]}})
-    return [m for m in (tr._mid(r1), tr._mid(r2)) if m]
+    """EGY üzenet (kártya + képaláírás + gomb) – egy poszt = egy üzenet, némán."""
+    cap = (f"📸 Instagram-poszt kb. {DELAY_MIN} perc múlva (más háttér: válaszolj egy képpel)\n\n"
+           + item.get("caption", ""))[:1020]
+    r1 = tr._send_photo_file(chat, str(card), cap, reply_markup={"inline_keyboard": [[
+        {"text": "🚫 Ne menjen ki", "callback_data": f"igno|{item['id']}"}]]})
+    return [m for m in (tr._mid(r1),) if m]
 
 
 def post_for_message(mid: int) -> Optional[str]:
@@ -510,10 +509,18 @@ def _collapse(p: dict, line: str, buttons: Optional[list] = None) -> None:
     tr, chat = _tg()
     if not tr:
         return
-    for mid in p.get("tg") or []:
+    ids = p.get("tg") or []
+    kb = {"inline_keyboard": [buttons] if buttons else []}
+    # a meglévő előnézet-üzenet szerkesztése (nem új üzenet → nincs újabb értesítés); a többi régi üzenet törlődik
+    if ids and tr.tg("editMessageCaption", {"chat_id": chat, "message_id": ids[0], "caption": line, "reply_markup": kb}).get("ok"):
+        for mid in ids[1:]:
+            tr.tg("deleteMessage", {"chat_id": chat, "message_id": mid})
+        p["tg"] = ids[:1]
+        return
+    for mid in ids:
         tr.tg("deleteMessage", {"chat_id": chat, "message_id": mid})
     r = tr.tg("sendMessage", {"chat_id": chat, "text": line, "disable_web_page_preview": True,
-                              **({"reply_markup": {"inline_keyboard": [buttons]}} if buttons else {})})
+                              **({"reply_markup": kb} if buttons else {})})
     p["tg"] = [m for m in [tr._mid(r)] if m]
 
 
