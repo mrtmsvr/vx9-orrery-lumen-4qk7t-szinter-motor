@@ -10463,14 +10463,16 @@
         "ctl_photo": true,
         "control_id": 9510,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
     {
       "id": "fbc94742-31a8-5240-a474-1fef569c9020",
       "slug": "2026-10-25-musk-elismerte-sajat-kezzel-nemitotta-el-az-ukran-starlinket-a-fronto",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10676,9 +10678,9 @@
       "dedupe_hash": "83b7e1762787ac1e90785245c000062226754d72c99096cd2689575981a07615",
       "pipeline_run_id": "40217127779",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-25T18:36:39+01:00",
-      "updated_at": "2026-10-25T18:36:39+01:00",
-      "published_at": "2026-10-25T18:36:39+01:00",
+      "created_at": "2026-10-25T19:01:24+01:00",
+      "updated_at": "2026-10-25T19:01:24+01:00",
+      "published_at": "2026-10-25T19:01:24+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10692,8 +10694,11 @@
         "lead": "Elon Musk elismerte, hogy cége, a SpaceX korlátozta az ukrajnai Starlink internet-szolgáltatást, miután szerinte Kijev katonai célokra használta a rendszert. Az eset súlyos feszültséget keltett a frontvonalon, ahol a műholdas kapcsolat elengedhetetlen a védekezéshez.",
         "ctl_photo": true,
         "control_id": 9511,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "79aa591d-80ee-50ad-8237-1b6955ef7fcb",
@@ -10912,7 +10917,9 @@
         "ctl_photo": true,
         "control_id": 9514,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
