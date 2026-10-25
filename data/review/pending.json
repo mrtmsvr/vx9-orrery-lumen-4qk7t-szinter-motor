@@ -9941,7 +9941,9 @@
         "lead": "Szeptember végén lejárt a védett és Natura 2000-es területekre vonatkozó fakitermelési moratórium, ami komoly vitákat váltott ki a környezetvédők és a szakemberek körében. A kialakult helyzetről a Telex.hu interjújában beszélt Dr. Aszalós Réka ökológus és Dr. Gálhidy László, a WWF Magyarország erdőprogramjának vezetője.",
         "ctl_photo": true,
         "control_id": 9518,
-        "msg_ids": []
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:19 (✏️ → ✅ = azonnal)"
       },
       "image_queries": [
         "Dr. Réka Aszalós",
@@ -9960,7 +9962,8 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%27So_k%C3%B6nnen_Sie_Holz_schneiden%27_Pilisi_Parkerd%C5%91_und_WWF_Programm%2C_2022_Budakeszierd%C5%91.jpg/1280px-%27So_k%C3%B6nnen_Sie_Holz_schneiden%27_Pilisi_Parkerd%C5%91_und_WWF_Programm%2C_2022_Budakeszierd%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Budapest%2C_Hungarian_National_Gallery%2C_L%C3%A1szl%C3%B3_Pa%C3%A1l%2C_forest_road.jpg/1280px-Budapest%2C_Hungarian_National_Gallery%2C_L%C3%A1szl%C3%B3_Pa%C3%A1l%2C_forest_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Beech_forest_M%C3%A1tra_in_winter.jpg/1280px-Beech_forest_M%C3%A1tra_in_winter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
+      ],
+      "scheduled_at": "2026-10-25T22:19:12+01:00"
     }
   ]
 }
