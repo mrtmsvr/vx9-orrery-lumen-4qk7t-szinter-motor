@@ -11533,6 +11533,275 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "1037398a-9846-5df5-9d81-a30afb724de9",
+      "slug": "2026-10-25-amikor-a-szemunknek-sem-hihetunk",
+      "status": "pending",
+      "category": "tech",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "deepfake",
+        "mesterséges intelligencia",
+        "tudomány",
+        "dezinformáció",
+        "technológia"
+      ],
+      "title": "Amikor a szemünknek sem hihetünk",
+      "subtitle": null,
+      "lead": "A mesterséges intelligencia által generált hamis videók és hangfelvételek korában emberi érzékelésünk már nem nyújt kellő biztonságot. Egyre kifinomultabb technológiákkal állunk szemben, miközben agyunk a legkönnyebb célponttá válik.",
+      "key_points": [
+        "A mesterséges intelligencia által előállított hamis videók, hangok és képek komoly veszélyt jelentenek a közbizalomra és a magánszférára.",
+        "Egy 492 egyetemi hallgató bevonásával készült friss empirikus vizsgálat szerint az emberek átlagosan mindössze 57%-os pontossággal ismerik fel a hamisítványokat.",
+        "Az orvosi területen végzett kutatások kettős kihívásra világítanak rá: míg a gépi detektorok 99% feletti pontosságot érnek el, a radiológusok csak 75%-os sikerrel különböztetik meg a szintetikus felvételeket az eredetiektől.",
+        "A felhasználók leginkább az MI által adott előrejelzésekre és saját vélt kockázatérzetükre támaszkodva próbálnak eligazodni.",
+        "A hazai digitális kommunikáció kutatói, köztük Veszelszki Ágnes, kiemelten foglalkoznak a vizuális megtévesztés és a netnyelvészet kérdéseivel."
+      ],
+      "content": "## A digitális valóságvesztés kihívásai\n\nA mesterséges intelligencia fejlődésével a szintetikus képek, hangok és videók létrehozása, illetve szerkesztése bárki számára elérhetővé vált. A Proceedings of the ACM on Human-Computer Interaction folyóiratban közölt tanulmány szerzői hangsúlyozzák, hogy a szintetikus adatok rosszindulatú felhasználása komoly aggályokat vet fel a kiberbiztonság, a személyes adatok védelme és a közéletbe vetett bizalom terén. Bár léteznek már mesterségesintelligencia-alapú detektorok a hamis tartalmak kiszűrésére, ezek korlátai gyakran bizonytalanságot szülnek a felhasználókban.\n\nEgy empirikus vizsgálat – amelyet a Taskenti Információs Technológiai Egyetem hallgatói körében végeztek – konkrét képet ad az emberi tévedésekről. A 492 megkérdezett diák öt rövid videót tekintett meg, majd döntött azok valódiságáról. Az eredmények azt mutatták, hogy a válaszadók átlagosan 57%-os pontosságot értek el, és 43%-uk legalább egy videót félreismert. A helyzet súlyosságát jelzi, hogy a résztvevők 46%-a korábban még a deepfake kifejezést sem hallotta.\n\n## Miért dőlünk be a hamisítványoknak?\n\nA Proceedings of the ACM-ben megjelent kutatás egy 400 fős online kísérlettel vizsgálta, hogyan alakul a felhasználók bizalma és függősége a detektáló rendszerektől. A kutatók megállapították, hogy az emberek saját, aktuális kockázatérzetük és a gépektől kapott eredmények alapján kalibrálják, mennyire hagyatkoznak az algoritmusokra. Ha az MI teljesítménye bizonytalan, a felhasználói bizalom is azonnal meginog.\n\nA vizuális megtévesztés és a mesterséges intelligencia társadalmi hatásai Magyarországon is a kutatások fókuszában állnak. Veszelszki Ágnes kommunikációkutató és nyelvész – aki az NKE Digitális Média és Kommunikáció Tanszékét is vezeti – évek óta vizsgálja a témát. Munkássága kiterjed a vizuális megtévesztés mechanizmusaira, valamint arra, hogyan alakítják át az infokommunikációs technológiák mindennapi kommunikációnkat.\n\n## Különleges területek: amikor az egészségügy a tét\n\nA probléma messze túlmutat a közösségi oldalakon megosztott szórakoztató videókon. A SAIMSARA-ban megjelent áttekintés – amely 57 eredeti tanulmány adatait és közel 172 ezer résztvevőt dolgozott fel – az orvosi deepfakek világát térképezte fel. A tanulmány rávilágít egy markáns kettősségre az egészségügyi adatok terén:\n\n- az automatizált detektorok közel tökéletes, esetenként 99% feletti pontosságot érnek el a CT-adatbázisokon,\n\n- ugyanakkor a hús-vér radiológusok mindössze 75%-os pontossággal tudták megkülönböztetni a szintetikus radiográfiai képeket az eredetiektől,\n\n- a generatív technológiák egyszerre kínálnak törvényes lehetőségeket az adatok bővítésére és a magánszféra védelmét szolgáló anonimizálásra, ugyanakkor komoly kockázatot is jelentenek.\n\nMivel a legtöbb eddigi bizonyíték laboratóriumi, in-silico kísérletekből származik, a valós klinikai munka során jelentkező ember-gép sebezhetőség egyelőre nyitott kérdés. A tudomány jelenlegi állása szerint a jövőben nagyobb hangsúlyt kell fektetni a validált együttműködési protokollokra és a megbízható ellenőrző eszközökre.\n\n## Hogyan tovább a digitális dzsungelben?\n\nA rendelkezésre álló kutatási adatok egyértelműen mutatják, hogy a tisztán emberi érzékelés és intuíció nem megbízható pajzs a szintetikus tartalmakkal szemben. A dezinformáció elleni küzdelemben szükség van a médiaértudatosság fejlesztésére és megbízható, átlátható MI-alapú verifikációs eszközökre. A tudomány jelenleg ott tart, hogy a technológia mélyebb megértésével próbálja támogatni a felhasználókat a károk mérséklésében, ám a végső válaszok még váratnak magukra.",
+      "content_format": "markdown",
+      "body": [
+        "## A digitális valóságvesztés kihívásai",
+        "A mesterséges intelligencia fejlődésével a szintetikus képek, hangok és videók létrehozása, illetve szerkesztése bárki számára elérhetővé vált. A Proceedings of the ACM on Human-Computer Interaction folyóiratban közölt tanulmány szerzői hangsúlyozzák, hogy a szintetikus adatok rosszindulatú felhasználása komoly aggályokat vet fel a kiberbiztonság, a személyes adatok védelme és a közéletbe vetett bizalom terén. Bár léteznek már mesterségesintelligencia-alapú detektorok a hamis tartalmak kiszűrésére, ezek korlátai gyakran bizonytalanságot szülnek a felhasználókban.",
+        "Egy empirikus vizsgálat – amelyet a Taskenti Információs Technológiai Egyetem hallgatói körében végeztek – konkrét képet ad az emberi tévedésekről. A 492 megkérdezett diák öt rövid videót tekintett meg, majd döntött azok valódiságáról. Az eredmények azt mutatták, hogy a válaszadók átlagosan 57%-os pontosságot értek el, és 43%-uk legalább egy videót félreismert. A helyzet súlyosságát jelzi, hogy a résztvevők 46%-a korábban még a deepfake kifejezést sem hallotta.",
+        "## Miért dőlünk be a hamisítványoknak?",
+        "A Proceedings of the ACM-ben megjelent kutatás egy 400 fős online kísérlettel vizsgálta, hogyan alakul a felhasználók bizalma és függősége a detektáló rendszerektől. A kutatók megállapították, hogy az emberek saját, aktuális kockázatérzetük és a gépektől kapott eredmények alapján kalibrálják, mennyire hagyatkoznak az algoritmusokra. Ha az MI teljesítménye bizonytalan, a felhasználói bizalom is azonnal meginog.",
+        "A vizuális megtévesztés és a mesterséges intelligencia társadalmi hatásai Magyarországon is a kutatások fókuszában állnak. Veszelszki Ágnes kommunikációkutató és nyelvész – aki az NKE Digitális Média és Kommunikáció Tanszékét is vezeti – évek óta vizsgálja a témát. Munkássága kiterjed a vizuális megtévesztés mechanizmusaira, valamint arra, hogyan alakítják át az infokommunikációs technológiák mindennapi kommunikációnkat.",
+        "## Különleges területek: amikor az egészségügy a tét",
+        "A probléma messze túlmutat a közösségi oldalakon megosztott szórakoztató videókon. A SAIMSARA-ban megjelent áttekintés – amely 57 eredeti tanulmány adatait és közel 172 ezer résztvevőt dolgozott fel – az orvosi deepfakek világát térképezte fel. A tanulmány rávilágít egy markáns kettősségre az egészségügyi adatok terén:",
+        "- az automatizált detektorok közel tökéletes, esetenként 99% feletti pontosságot érnek el a CT-adatbázisokon,",
+        "- ugyanakkor a hús-vér radiológusok mindössze 75%-os pontossággal tudták megkülönböztetni a szintetikus radiográfiai képeket az eredetiektől,",
+        "- a generatív technológiák egyszerre kínálnak törvényes lehetőségeket az adatok bővítésére és a magánszféra védelmét szolgáló anonimizálásra, ugyanakkor komoly kockázatot is jelentenek.",
+        "Mivel a legtöbb eddigi bizonyíték laboratóriumi, in-silico kísérletekből származik, a valós klinikai munka során jelentkező ember-gép sebezhetőség egyelőre nyitott kérdés. A tudomány jelenlegi állása szerint a jövőben nagyobb hangsúlyt kell fektetni a validált együttműködési protokollokra és a megbízható ellenőrző eszközökre.",
+        "## Hogyan tovább a digitális dzsungelben?",
+        "A rendelkezésre álló kutatási adatok egyértelműen mutatják, hogy a tisztán emberi érzékelés és intuíció nem megbízható pajzs a szintetikus tartalmakkal szemben. A dezinformáció elleni küzdelemben szükség van a médiaértudatosság fejlesztésére és megbízható, átlátható MI-alapú verifikációs eszközökre. A tudomány jelenleg ott tart, hogy a technológia mélyebb megértésével próbálja támogatni a felhasználókat a károk mérséklésében, ám a végső válaszok még váratnak magukra."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 490,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1478,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The raise of AI over the last 8 decades",
+        "credit": "Our World in Data / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://doi.org/10.1145/3757588",
+          "title": "Effect of AI Performance, Risk Perception, and Trust on Human Dependence in Deepfake Detection AI System",
+          "publisher": "Proceedings of the ACM on Human-Computer Interaction, 2025",
+          "license": null,
+          "accessed_at": "2026-10-25T07:02:19+01:00"
+        },
+        {
+          "url": "https://doi.org/10.62487/saimsara570eea90",
+          "title": "Medical Deepfakes in Healthcare — Detection, Generation, Human Perception, and Clinical Implications: Scoping Review with ☸SAIMSARA",
+          "publisher": "SAIMSARA Journal, 2026",
+          "license": null,
+          "accessed_at": "2026-10-25T07:02:19+01:00"
+        },
+        {
+          "url": "https://doi.org/10.5281/zenodo.17880803",
+          "title": "HUMAN PERCEPTION VERSUS ARTIFICIAL INTELLIGENCE IN DEEPFAKE VIDEO DETECTION: AN EMPIRICAL STUDY",
+          "publisher": "Zenodo (CERN European Organization for Nuclear Research), 2025",
+          "license": null,
+          "accessed_at": "2026-10-25T07:02:19+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Veszelszki_%C3%81gnes",
+          "title": "Veszelszki Ágnes",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-10-25T07:02:19+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "offtopic_topic": {
+        "id": "deepfake-felismeres",
+        "section": "tech",
+        "topic": "Deepfake: így ismerd fel a hamis videót",
+        "angle": "Hogyan készül, mire figyelj (fény, pislogás, hang), milyen ügyek voltak, mit tesz ellene az EU",
+        "wiki_hu": [
+          "Deepfake"
+        ],
+        "wiki_en": [
+          "Deepfake"
+        ],
+        "images": [
+          "face recognition"
+        ],
+        "science": {
+          "db": "openalex",
+          "q": "deepfake detection human perception"
+        },
+        "curated": "2026-10"
+      },
+      "science_based": true,
+      "title_options": [
+        "Amikor a szemünknek sem hihetünk",
+        "Átverhet-e a mesterséges intelligencia?",
+        "Ezért buknak el a deepfake teszteken az emberek"
+      ],
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1478,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The raise of AI over the last 8 decades",
+          "credit": "Our World in Data / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Data_Security_Breach_%2829723649810%29.jpg/1280px-Data_Security_Breach_%2829723649810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Every image posted in the Blogtrepreneur Flickr Photostream is available for use under the Creative Commons Attribution License.\nPlease provide attribution via a link to blogtrepreneur.com/tech\nYou ge",
+          "credit": "Blogtrepreneur / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Data_Security_Breach_(29723649810).jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Data_Security_%2829972713206%29.jpg/1280px-Data_Security_%2829972713206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "All content posted in the Blogtrepreneur Flickr Photostream is available for use under the Creative Commons Attribution License.\n\nPlease provide attribution via a link to howtostartablogonline.net\n\nYo",
+          "credit": "Blogtrepreneur / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Data_Security_(29972713206).jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/US%2C_Tanzania_hunt_for_cyber_threats_during_JA26_training_%289566558%29.jpg/1280px-US%2C_Tanzania_hunt_for_cyber_threats_during_JA26_training_%289566558%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "U.S. Army Chief Warrant Officer 2 Benjamin Brown, cyber operations technician with the 200th Cyber Protection Team, U.S. Army Cyber Protection Brigade, overlooks the screens of Tanzania mission partne",
+          "credit": "U.S. Army SETAF-AF by Staff Sgt. Jan Valle / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:US,_Tanzania_hunt_for_cyber_threats_during_JA26_training_(9566558).jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Face_Recognition_Field_Test_at_S%C3%BCdkreuz_12.jpg/1280px-Face_Recognition_Field_Test_at_S%C3%BCdkreuz_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "On August 1st, 2017 a field test on face recognition was started at the Berlin Südkreuz railway station",
+          "credit": "This image is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reu / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Face_Recognition_Field_Test_at_S%C3%BCdkreuz_12.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Face_Recognition_Field_Test_at_S%C3%BCdkreuz_24.jpg/1280px-Face_Recognition_Field_Test_at_S%C3%BCdkreuz_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "On August 1st, 2017 a field test on face recognition was started at the Berlin Südkreuz railway station",
+          "credit": "This image is a work by Wikipedia and Wikimedia Commons user C.Suthorn. When reu / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Face_Recognition_Field_Test_at_S%C3%BCdkreuz_24.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://pixabay.com/get/g876eee95951c811a98f69443eb408919acb13562d9e096de993c8bacd6445ef21f084320129965f2cc2e009203b6169bc76d45cf0b7bc77b597d8ba42bf6ccc5_1280.jpg",
+          "width": 5900,
+          "height": 1844,
+          "kind": "photo",
+          "alt": "mobile phone, smartphone, hand, particles, waves, colorful, lines, pattern, abstract, design, interference, lights, banner, communication, mobile phone, smartphone, abstract, abstract, design, banner,",
+          "credit": "geralt / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/mobile-phone-smartphone-hand-1419275/",
+          "unverified": true
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://doi.org/10.1145/3757588",
+          "https://doi.org/10.62487/saimsara570eea90",
+          "https://doi.org/10.5281/zenodo.17880803",
+          "https://hu.wikipedia.org/wiki/Veszelszki_%C3%81gnes"
+        ],
+        "offtopic_id": "deepfake-felismeres"
+      },
+      "date": "2026-10-25",
+      "date_label": "október 25.",
+      "url": "/tech/2026-10-25-amikor-a-szemunknek-sem-hihetunk/",
+      "seo": {
+        "meta_title": "Amikor a szemünknek sem hihetünk",
+        "meta_description": "A mesterséges intelligencia által generált hamis videók és hangfelvételek korában emberi érzékelésünk már nem nyújt kellő biztonságot. Egyre kifinomultabb techn",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-25-amikor-a-szemunknek-sem-hihetunk/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png/1280px-Timeline_of_artificial_intelligence_training_computation_for_the_last_8_decades.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "f3f130fe69c254ececf70ee213db43955befbb51530b28f51debf2e6d7da5e32",
+      "pipeline_run_id": "40167503614",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-25T07:02:19+01:00",
+      "updated_at": "2026-10-25T07:02:19+01:00",
+      "published_at": null,
+      "expires_at": null,
+      "schedule": {
+        "earliest": "2026-10-25T09:00:36+01:00",
+        "deadline": "2026-10-25T21:30:00+01:00"
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-10-25T06:02:24+00:00",
+        "msg_ids": [
+          9428,
+          9429,
+          9430,
+          9431,
+          9432,
+          9433,
+          9434,
+          9435
+        ],
+        "control_id": 9436
+      }
     }
   ]
 }
