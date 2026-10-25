@@ -212,7 +212,7 @@ def _tg(text: str) -> None:
         import telegram_review as tr
         chat = tr.load_state().get("chat_id")
         if chat and os.getenv("TELEGRAM_BOT_TOKEN"):
-            tr.tg("sendMessage", {"chat_id": chat, "text": text})
+            tr.tg("sendMessage", {"chat_id": chat, "text": text, "_ping": True})  # csak hiba esetén hívjuk
     except Exception as e:  # noqa: BLE001
         log.warning("Telegram-jelzés kimaradt: %s", e)
 
@@ -280,7 +280,7 @@ def main(argv=None) -> int:
     if not args.test:
         kc.write_json_atomic(RUNS, {**kc.read_json(RUNS, {}), "last_newsletter_week": week})
         _, info = brevo(f"/contacts/lists/{lid}")
-        _tg(f"📧 Kiment a heti hírlevél ({info.get('uniqueSubscribers') or info.get('totalSubscribers') or '?'} feliratkozó): {subject}")
+        log.info("Kiment a heti hírlevél (%s feliratkozó): %s", info.get("uniqueSubscribers") or info.get("totalSubscribers") or "?", subject)  # nincs Telegram-üzenet (csak hibánál)
     return 0
 
 
