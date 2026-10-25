@@ -12371,19 +12371,10 @@
         "title": 0,
         "image": 0,
         "sent_at": "2026-10-25T06:57:38+00:00",
-        "msg_ids": [
-          9459,
-          9460,
-          9461,
-          9462,
-          9463,
-          9464,
-          9465,
-          9466,
-          9467,
-          9469
-        ],
-        "control_id": 9468
+        "msg_ids": [],
+        "control_id": 9468,
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
