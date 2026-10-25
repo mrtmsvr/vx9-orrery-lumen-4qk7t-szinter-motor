@@ -476,9 +476,8 @@ def _flash_check(out_dir: Path, tz: ZoneInfo) -> None:
             st["sent"].update(merged)  # a beolvasztott (ugyanarról szóló) jelöltek se jöjjenek újra
             kc.write_json_atomic(kc.FLASH_FILE, st)
         _PITCH_TAKEN.add(pit["id"])
-        tg("sendMessage", {"chat_id": chat, "disable_web_page_preview": True,
-                           "text": f"⚡ Gyorsjelzés – már írom: {pit['title']}\n({', '.join(pit['pubs'][:4])}; "
-                                   + "; ".join(pit["reasons"]) + ")"})
+        # nincs külön „már írom” üzenet: a kész cikk egyetlen üzenete jön (egy cikk = egy rezgés)
+        log.info("Gyorsjelzés – írom: %s (%s)", pit["title"], "; ".join(pit["reasons"]))
         threading.Thread(target=_write_pitch, args=(out_dir, pit, tz, chat), daemon=False).start()
         sent_today += 1
         if sent_today >= int(os.getenv("FLASH_MAX_DAY", "4")):
@@ -656,6 +655,8 @@ def _control(art: dict) -> tuple:
     state = f"🟢 <b>Kint van</b> – {kc.SITE_URL}{art.get('url', '')}?en=1" if live else "⏳ <b>Vár</b>" + auto
     text = (f"{state} · {E(kc.SECTIONS.get(art['category'], {}).get('name', art['category']))}\n"
             f"<b>{E(_chosen_title(art))}</b> · {img_txt}")
+    if rv.get("note"):  # pl. „🔥 Forró hír: azonnal kiraktam.” – a cikk saját üzenetében, nem külön üzenetben
+        text += "\n" + E(rv["note"])
     return text, {"inline_keyboard": rows}
 
 
@@ -748,31 +749,124 @@ def send_article(_out_dir: Optional[Path], art: dict) -> None:
         head += "\n\n<b>Röviden</b>\n" + "\n".join("• " + E(k) for k in art["key_points"])
     head += "\n\n<b>Források:</b> " + ", ".join(
         f'<a href="{html.escape(s["url"])}">{E(s.get("publisher") or "forrás")}</a>' for s in art.get("sources", []))
-    extra = []
-    if legal_txt and len(head) + len(E(legal_txt)) < 3990:
+    if legal_txt:
         head += "\n\n" + E(legal_txt)
-    elif legal_txt:
-        extra.append(E(legal_txt)[:3900])
-    ids = [_mid(tg("sendMessage", {"chat_id": chat, "text": head[:4000], "parse_mode": "HTML",
-                                   "disable_web_page_preview": True, "_ping": ping}))]
-    ids += [_mid(tg("sendMessage", {"chat_id": chat, "text": x, "parse_mode": "HTML"})) for x in extra]
-    # a teljes szöveget nem küldjük el (elég a „Röviden”); kérésre: 📄 Teljes szöveg gomb
     imgs = art.get("image_options") or []
-    ids += _send_images(chat, imgs)
     art["review"] = {"title": 0, "image": 0 if imgs else -1, "sent_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+    # cikkenként EGYETLEN üzenet (= egy rezgés az órán is): a képjelöltek egy számozott kollázson, alatta a rövid fejléc
+    # (címek, lead, források) és minden gomb. A hosszú rész (Röviden, teljes jogi jelzés) a 📄 Teljes szöveg gomb mögött.
+    short = (f"{kind} · <b>{E(sec)}</b> · forróság {art.get('hot_score', 0)} · {len(art.get('sources', []))} forrás\n\n"
+             + "\n".join(f"{'🔥 ' if i >= art.get('clickbait_from', len(titles)) else ''}{i + 1}) {E(t)}"
+                         for i, t in enumerate(titles))
+             + "\n\n<b>Források:</b> " + E(", ".join(s.get("publisher") or "forrás" for s in art.get("sources", []))[:160])
+             + (f"\n\n{E(legal_txt.splitlines()[0][:160])}" if legal_txt else ""))
+    art["review"]["head"] = short
+    art["review"]["lead"] = str(art.get("lead") or "")
+    _send_control(chat, art, ping)
+
+
+def _caption(art: dict, text: str, limit: int = 1024) -> str:
+    """Kollázs-üzenet képaláírása: fejléc + lead (amennyi belefér) + vezérlősor. A Telegram-korlát 1024 karakter."""
+    rv = art.get("review") or {}
+    vis = lambda h: len(html.unescape(re.sub(r"<[^>]+>", "", h)))  # noqa: E731 – a Telegram a látható karaktereket számolja
+    if rv.get("compact") or not rv.get("head"):
+        return text
+    head = rv["head"].split("\n")
+    while head and vis("\n".join(head)) + vis(text) + 4 > limit:  # ha nem fér el: a fejléc végéről sorok el (épek maradnak a tagek)
+        head.pop()
+    head = "\n".join(head).rstrip()
+    room = limit - vis(head) - vis(text) - 8
+    lead = rv.get("lead") or ""
+    lead_html = f"\n\n<i>{E(lead if len(lead) <= room else lead[:max(0, room - 1)].rstrip() + '…')}</i>" if room > 40 else ""
+    return head + lead_html + "\n\n" + text
+
+
+def _collage(imgs: list) -> Optional[str]:
+    """A képjelöltek egy képen, nagy sorszámokkal (1 kép: maga a kép). Visszaad: helyi fájl útvonala."""
+    if not imgs:
+        return None
+    try:
+        import io
+        from PIL import Image, ImageDraw, ImageFont
+        tiles = []
+        for im in imgs[:6]:
+            data = None
+            try:
+                if im.get("local") and os.path.exists(im["local"]):
+                    data = open(im["local"], "rb").read()
+                else:
+                    req = urllib.request.Request(im.get("url", ""), headers=kc.WIKI_UA)
+                    with urllib.request.urlopen(req, timeout=25) as resp:
+                        data = resp.read()
+                tiles.append(Image.open(io.BytesIO(data)).convert("RGB"))
+            except Exception:  # noqa: BLE001
+                tiles.append(None)
+        n = len(tiles)
+        cols = 1 if n == 1 else (2 if n <= 4 else 3)
+        rows = (n + cols - 1) // cols
+        tw, th = (1200, 675) if n == 1 else (640, 360)
+        out = Image.new("RGB", (cols * tw + (cols - 1) * 8, rows * th + (rows - 1) * 8), (14, 16, 36))
+        d = ImageDraw.Draw(out)
+        try:
+            font = ImageFont.truetype("DejaVuSans-Bold.ttf", 54)
+        except OSError:
+            font = ImageFont.load_default()
+        for i, t in enumerate(tiles):
+            x, y = (i % cols) * (tw + 8), (i // cols) * (th + 8)
+            if t is not None:
+                sc = max(tw / t.width, th / t.height)
+                t = t.resize((int(t.width * sc) + 1, int(t.height * sc) + 1))
+                out.paste(t.crop(((t.width - tw) // 2, (t.height - th) // 2, (t.width - tw) // 2 + tw, (t.height - th) // 2 + th)), (x, y))
+            if n > 1:
+                d.ellipse((x + 14, y + 14, x + 94, y + 94), fill=(201, 164, 92))
+                d.text((x + 54, y + 54), str(i + 1), font=font, fill=(14, 16, 36), anchor="mm")
+            if kc.is_ai_image(imgs[i]):
+                d.rectangle((x + tw - 130, y + 14, x + tw - 14, y + 60), fill=(14, 16, 36))
+                d.text((x + tw - 72, y + 37), "AI", font=font, fill=(201, 164, 92), anchor="mm")
+        path = os.path.join("/tmp", f"kollazs-{uuid.uuid4().hex[:8]}.jpg")
+        out.save(path, "JPEG", quality=82)
+        return path
+    except Exception as e:  # noqa: BLE001
+        log.warning("Képkollázs nem készült: %s", e)
+        return None
+
+
+def _send_control(chat: int, art: dict, ping: bool = False) -> None:
+    """A cikk egyetlen üzenete: kollázs + képaláírás + gombok (kép nélkül sima szöveg). control_id = ez az üzenet."""
+    rv = art.setdefault("review", {})
     text, kb = _control(art)
-    ctl = _mid(tg("sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML", "reply_markup": kb}))
-    art["review"].update({"msg_ids": [i for i in ids if i], "control_id": ctl})
+    path = _collage(art.get("image_options") or [])
+    ctl = None
+    if path:
+        resp = _send_photo_file(chat, path, _caption(art, text), parse_mode="HTML", reply_markup=kb, ping=ping)
+        ctl = _mid(resp) if resp.get("ok") else None
+        try:
+            os.remove(path)
+        except OSError:
+            pass
+    rv["ctl_photo"] = bool(ctl)
+    if not ctl:
+        body = (rv.get("head", "") + (f"\n\n<i>{E(rv.get('lead', ''))}</i>" if rv.get("lead") else "") + "\n\n" + text
+                if rv.get("head") else text)
+        ctl = _mid(tg("sendMessage", {"chat_id": chat, "text": body[:4000], "parse_mode": "HTML", "reply_markup": kb,
+                                      "disable_web_page_preview": True, "_ping": ping}))
+    rv["control_id"] = ctl
+    rv.setdefault("msg_ids", [])
 
 
-def _send_photo_file(chat: int, path: str, caption: str) -> dict:
+def _send_photo_file(chat: int, path: str, caption: str, parse_mode: str = "", reply_markup: Optional[dict] = None,
+                     ping: bool = False) -> dict:
     """Helyi kép feltöltése (multipart) – a generált illusztráció még nincs kint az oldalon."""
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     if not token or not os.path.exists(path):
         return {}
     bnd = uuid.uuid4().hex
+    extra = (f"--{bnd}\r\nContent-Disposition: form-data; name=\"parse_mode\"\r\n\r\n{parse_mode}\r\n" if parse_mode else "")
+    if reply_markup:
+        extra += f"--{bnd}\r\nContent-Disposition: form-data; name=\"reply_markup\"\r\n\r\n{json.dumps(reply_markup)}\r\n"
     body = (f"--{bnd}\r\nContent-Disposition: form-data; name=\"chat_id\"\r\n\r\n{chat}\r\n"
-            f"--{bnd}\r\nContent-Disposition: form-data; name=\"disable_notification\"\r\n\r\ntrue\r\n"
+            f"--{bnd}\r\nContent-Disposition: form-data; name=\"disable_notification\"\r\n\r\n{'false' if ping else 'true'}\r\n"
+            + extra +
             f"--{bnd}\r\nContent-Disposition: form-data; name=\"caption\"\r\n\r\n{caption}\r\n"
             f"--{bnd}\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"kep.jpg\"\r\n"
             "Content-Type: image/jpeg\r\n\r\n").encode() + open(path, "rb").read() + f"\r\n--{bnd}--\r\n".encode()
@@ -868,20 +962,23 @@ def _refresh_images(chat: int, art: dict, ai, hint: str = "") -> str:
     keep = [art["hero_image"]] if art.get("live") and art.get("hero_image") else []
     art["image_options"] = keep + new
     art["review"]["image"] = 0
-    ids = _send_images(chat, art["image_options"], " (a mostani)" if keep else "")
-    art["review"]["msg_ids"] = (art["review"].get("msg_ids") or []) + [i for i in ids if i]
-    # a vezérlő újra a képek alá kerül, hogy ne kelljen felgörgetni
+    # a cikk üzenete újra (új kollázzsal), a régi törlődik
     tg("deleteMessage", {"chat_id": chat, "message_id": art["review"].get("control_id")})
-    text, kb = _control(art)
-    art["review"]["control_id"] = _mid(tg("sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML",
-                                                          "reply_markup": kb}))
+    _send_control(chat, art)
     return f"{len(new)} új kép"
 
 
 def _refresh_control(chat: int, art: dict) -> None:
     text, kb = _control(art)
-    tg("editMessageText", {"chat_id": chat, "message_id": art["review"].get("control_id"), "text": text,
-                           "parse_mode": "HTML", "reply_markup": kb})
+    rv = art["review"]
+    if rv.get("ctl_photo"):
+        tg("editMessageCaption", {"chat_id": chat, "message_id": rv.get("control_id"), "caption": _caption(art, text),
+                                  "parse_mode": "HTML", "reply_markup": kb})
+        return
+    if rv.get("head") and not rv.get("compact"):
+        text = rv["head"] + (f"\n\n<i>{E(rv.get('lead', ''))}</i>" if rv.get("lead") else "") + "\n\n" + text
+    tg("editMessageText", {"chat_id": chat, "message_id": rv.get("control_id"), "text": text[:4000],
+                           "parse_mode": "HTML", "reply_markup": kb, "disable_web_page_preview": True})
 
 
 # ---------------------------------------------------------------------------
@@ -1764,10 +1861,8 @@ def _finish(out_dir: Path, tz: ZoneInfo, st: dict, pending: list, published: int
             changed = True
             # magától kikerült (nem te hagytad jóvá): minden üzenete marad, hogy reggel is lásd; csak a vezérlő frissül
             _refresh_control(st["chat_id"], a)
-            mid = _mid(tg("sendMessage", {"chat_id": st["chat_id"], "reply_to_message_id": a["review"].get("control_id"),
-                                          "text": msg + " Utólag még cserélheted a címet/képet, vagy törölheted (✅ Rendben = lezárom)."}))
-            if mid:
-                a["review"].setdefault("msg_ids", []).append(mid)
+            a["review"]["note"] = msg  # a cikk saját üzenetébe kerül (nincs külön üzenet = nincs újabb rezgés)
+            _refresh_control(st["chat_id"], a)
     # lejárt függő cikkek
     limit = (datetime.now(tz) - timedelta(hours=PENDING_MAX_AGE_H)).isoformat()
     # (hybrid módban a jóvá nem hagyott cikkek eddig sosem jártak le – 10.21-én 8 napos is várt a sorban)
