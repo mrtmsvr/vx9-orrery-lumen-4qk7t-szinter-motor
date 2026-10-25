@@ -1,35 +1,35 @@
 {
-  "id": "30ae4b0651",
-  "date": "2026-10-24",
+  "id": "aeefac5c6b",
+  "date": "2026-10-25",
   "status": "approved",
-  "article_url": "/kozelet/2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet/",
-  "article_title": "A Fitch szerint a kormány terveivel ellentétben magasabb hiány jöhet",
+  "article_url": "/kozelet/2026-10-25-oraatallitas-miert-nem-sikerult-meg-eltorolni-a-nyugot/",
+  "article_title": "Óraátállítás: miért nem sikerült még eltörölni a nyűgöt?",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint reális célkitűzés Magyarország számára a 2030-as euróbevezetés?",
+      "question": "Ön szerint melyik időszámítást lenne célszerű állandósítani?",
       "options": [
-        "Igen, reális és fontos cél",
-        "Nem, ez túl korai lenne",
+        "A téli időszámítást",
+        "A nyári időszámítást",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a gazdaságpolitikában a következő években?",
+      "question": "Helyesnek tartja-e az évi kétszeri óraátállítás megtartását?",
       "options": [
-        "A költségvetési hiány gyors csökkentését",
-        "A gazdasági növekedés ösztönzését",
+        "Igen, megtartanám",
+        "Nem, eltörölném",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesli-e, hogy a nemzetközi hitelminősítők eltérnek a hivatalos tervektől?",
+      "question": "Jelentős problémát okoz-e Önnek az óraátállításhoz való alkalmazkodás?",
       "options": [
-        "Igen, a reális képet mutatják",
-        "Nem, alaptalanul aggódnak",
+        "Igen, megvisel a váltás",
+        "Nem, szinte észre sem veszem",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9266
+  "msg_id": 9495
 }
