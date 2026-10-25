@@ -512,10 +512,8 @@ def _quality_check(out_dir: Path, tz: ZoneInfo) -> None:
             st = kc.read_json(kc.QC_FILE, {"done": {}, "log": []})
             st["reported"] = now.date().isoformat()
             kc.write_json_atomic(kc.QC_FILE, st)
-        if rows and chat:
-            tg("sendMessage", {"chat_id": chat, "text": (f"🧹 Minőségellenőrzés (24 óra): {len(rows)} cikkben "
-                                                         f"{sum(x.get('n', 0) for x in rows)} javítás\n"
-                                                         + "\n".join(f"• {x['title']} ({x.get('n')})" for x in rows[:25]))[:4000]})
+        if rows:  # nincs Telegram-üzenet a javításokról (szerkesztői kérés, 10.25.) – csak a naplóban
+            log.info("Minőségellenőrzés (24 óra): %d cikk, %d javítás", len(rows), sum(x.get("n", 0) for x in rows))
     if time.time() - _QC_LAST < int(os.getenv("QC_EVERY_MIN", "15")) * 60:
         return
     # a csendes órákban a régi cikkek is; azon kívül csak a friss (1–12 órája kint lévő) cikkek – így ami aznap kimegy,
