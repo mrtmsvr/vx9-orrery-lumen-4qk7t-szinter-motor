@@ -9504,11 +9504,10 @@
         "lead": "Luiz Inácio Lula da Silva nyerte a vasárnapi brazil elnökválasztás második fordulóját, így negyedik alkalommal is ő irányíthatja a dél-amerikai országot. A legyőzött ellenfél azonban nem ismerte el a vereséget, és a szavazás megsemmisítését kezdeményezi.",
         "ctl_photo": true,
         "control_id": 9527,
-        "msg_ids": [
-          9534,
-          9535
-        ],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "msg_ids": [],
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
