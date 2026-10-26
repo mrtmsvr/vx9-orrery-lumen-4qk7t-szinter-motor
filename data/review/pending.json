@@ -9327,12 +9327,11 @@
       "hot_score": 12.35,
       "title_options": [
         "Negedszer nyert Lula, de Bolsonaro nem ismerte el a vereséget",
-        "Negedszer nyert Lula Brazíliában, a kihívója azonban csalást kiált",
-        "Lula negyedszer is Brazília élén, de Bolsonaro fia nem adja fel",
-        "Fordulat a brazil választáson: az első fordulós vesztes húzta be a győzelmet",
-        "Nem akarja elhinni a kihívó, mi történt a vasárnapi szavazáson Brazíliában"
+        "Lula negyedszer is befutott, Bolsonaro mégis a labdát rugdossa",
+        "Megint Lula ül Brazília trónjára, de a vesztes nem bírja csellel",
+        "Lula negyedik meccsét nyerte, Bolsonaro szerint viszont csalás volt a pálya"
       ],
-      "clickbait_from": 3,
+      "clickbait_from": 4,
       "image_options": [
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg/1280px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -9505,7 +9504,9 @@
         "lead": "Luiz Inácio Lula da Silva nyerte a vasárnapi brazil elnökválasztás második fordulóját, így negyedik alkalommal is ő irányíthatja a dél-amerikai országot. A legyőzött ellenfél azonban nem ismerte el a vereséget, és a szavazás megsemmisítését kezdeményezi.",
         "ctl_photo": true,
         "control_id": 9527,
-        "msg_ids": [],
+        "msg_ids": [
+          9534
+        ],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
       "live": true
