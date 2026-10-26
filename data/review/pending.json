@@ -8634,13 +8634,16 @@
         "lead": "Szerbiában az előrehozott parlamenti választások után a Telex.hu videója szerint hatalmas tömeg ünnepelt Belgrád utcáin.",
         "ctl_photo": false,
         "control_id": 9540,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:13 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-26T13:13:25+01:00"
     },
     {
-      "id": "cfd3f1ee-5ee9-5e84-9ce7-173b7396335e",
-      "slug": "2026-10-26-orban-anita-washingtont-veszi-celba-marco-rubio-miatt",
-      "status": "pending",
+      "id": "6d14115f-9dea-53a7-8b33-1765d5ffd3fc",
+      "slug": "2026-10-26-kedden-targyal-washingtonban-orban-anita-es-marco-rubio",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -8649,7 +8652,7 @@
         "Washington",
         "külpolitika"
       ],
-      "title": "Orbán Anita Washingtont veszi célba Marco Rubio miatt",
+      "title": "Kedden tárgyal Washingtonban Orbán Anita és Marco Rubio",
       "subtitle": null,
       "lead": "Kedden Washingtonban tárgyal egymással Orbán Anita külügyminiszter és Marco Rubio amerikai tárcavezető. A hivatalos egyeztetés miatt a külügyminiszter lemondta korábbi hazai programjait.",
       "key_points": [
@@ -8670,18 +8673,16 @@
       "word_count": 474,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Official_portrait_of_Secretary_Marco_Rubio.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
         "height": 1650,
         "kind": "photo",
         "pos": "top",
-        "alt": "Official portrait of US Secretary of State Marco Rubio",
+        "alt": "Official portrait of Secretary Marco Rubio, January 2025. (Official State Department photo)",
         "credit": "U.S. Department of State / Wikimedia Commons",
         "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg",
-        "exact": true,
-        "entity": "Marco Rubio",
-        "vision_score": 13.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg",
+        "vision_score": 10.0
       },
       "inline_images": [],
       "sources": [
@@ -8866,12 +8867,12 @@
       },
       "date": "2026-10-26",
       "date_label": "október 26.",
-      "url": "/vilag/2026-10-26-orban-anita-washingtont-veszi-celba-marco-rubio-miatt/",
+      "url": "/vilag/2026-10-26-kedden-targyal-washingtonban-orban-anita-es-marco-rubio/",
       "seo": {
-        "meta_title": "Orbán Anita Washingtont veszi célba Marco Rubio miatt",
+        "meta_title": "Kedden tárgyal Washingtonban Orbán Anita és Marco Rubio",
         "meta_description": "Kedden Washingtonban tárgyal egymással Orbán Anita külügyminiszter és Marco Rubio amerikai tárcavezető. A hivatalos egyeztetés miatt a külügyminiszter lemondta ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-26-orban-anita-washingtont-veszi-celba-marco-rubio-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Official_portrait_of_Secretary_Marco_Rubio.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-26-kedden-targyal-washingtonban-orban-anita-es-marco-rubio/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -8908,24 +8909,27 @@
       "dedupe_hash": "4518dfe48961c2db86702485967882236a98dc3ed28e12f56a8d4a995e53ebf2",
       "pipeline_run_id": "40317852893",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-26T12:50:25+01:00",
-      "updated_at": "2026-10-26T12:50:25+01:00",
-      "published_at": "2026-10-26T12:50:25+01:00",
+      "created_at": "2026-10-26T12:53:25+01:00",
+      "updated_at": "2026-10-26T12:53:25+01:00",
+      "published_at": "2026-10-26T12:53:25+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 1,
         "sent_at": "2026-10-26T11:52:18+00:00",
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 7.21 · 4 forrás\n\n1) Orbán Anita Washingtont veszi célba Marco Rubio miatt\n2) Kedden tárgyal Washingtonban Orbán Anita és Marco Rubio\n3) Washingtonba utazik Orbán Anita, Marco Rubióval tárgyal\n🔥 4) Itt a váratlan amerikai találkozó részletei: Orbán Anita Washingtonba utazik\n🔥 5) Kedden ül le egymással Orbán Anita és Marco Rubio az Egyesült Államokban\n🔥 6) Külföldi program miatt marad el a hazai esemény: Washingtonba tart Orbán Anita\n\n<b>Források:</b> hvg.hu, index.hu, index.hu, 444.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Kedden Washingtonban tárgyal egymással Orbán Anita külügyminiszter és Marco Rubio amerikai tárcavezető. A hivatalos egyeztetés miatt a külügyminiszter lemondta korábbi hazai programjait.",
         "ctl_photo": false,
         "control_id": 9542,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
