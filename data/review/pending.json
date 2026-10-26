@@ -9326,10 +9326,10 @@
       },
       "hot_score": 12.35,
       "title_options": [
-        "Negedszer nyert Lula, de Bolsonaro nem ismerte el a vereséget",
         "Lula negyedszer is befutott, Bolsonaro mégis a labdát rugdossa",
-        "Megint Lula ül Brazília trónjára, de a vesztes nem bírja csellel",
-        "Lula negyedik meccsét nyerte, Bolsonaro szerint viszont csalás volt a pálya"
+        "Lula visszatért a trónra, Bolsonaro mégis hisztizik",
+        "Negedszer is győzött Lula, Bolsonaro viszont labdába sem rúgott",
+        "Lula behúzta a negyediket, Bolsonaro pedig nem tud veszíteni"
       ],
       "clickbait_from": 4,
       "image_options": [
@@ -9497,7 +9497,7 @@
         ]
       },
       "review": {
-        "title": 1,
+        "title": 0,
         "image": 0,
         "sent_at": "2026-10-26T07:29:38+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 12.35 · 5 forrás\n\n1) Negedszer nyert Lula, de Bolsonaro nem ismerte el a vereséget\n2) Negedszer nyert Lula Brazíliában, a kihívója azonban csalást kiált\n3) Lula negyedszer is Brazília élén, de Bolsonaro fia nem adja fel\n🔥 4) Fordulat a brazil választáson: az első fordulós vesztes húzta be a győzelmet\n🔥 5) Nem akarja elhinni a kihívó, mi történt a vasárnapi szavazáson Brazíliában\n\n<b>Források:</b> 444.hu, hvg.hu, index.hu, infostart.hu, hvg.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
@@ -9505,7 +9505,8 @@
         "ctl_photo": true,
         "control_id": 9527,
         "msg_ids": [
-          9534
+          9534,
+          9535
         ],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
