@@ -10227,7 +10227,7 @@
     {
       "id": "cea972d1-c6a0-5863-a64a-8212515b9bfa",
       "slug": "2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -10487,9 +10487,9 @@
       "dedupe_hash": "8c7b0e0d573357cd9cd6a6a02c2d487f85984c87c287981b0c8e599e4c724857",
       "pipeline_run_id": "40279916340",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-26T07:33:20+01:00",
-      "updated_at": "2026-10-26T07:33:20+01:00",
-      "published_at": "2026-10-26T07:33:20+01:00",
+      "created_at": "2026-10-26T07:35:40+01:00",
+      "updated_at": "2026-10-26T07:35:40+01:00",
+      "published_at": "2026-10-26T07:35:40+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -10502,9 +10502,11 @@
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 12.35 · 5 forrás\n\n1) Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára\n2) Washington közös amerikai-orosz-kínai jelöltként látná szívesen Orbán Viktort az ENSZ élén\n🔥 3) Három nagyhatalom közös jelöltjeként merült fel Orbán Viktor neve az ENSZ élére\n🔥 4) Az amerikai kormányzat szerint Orbán Viktor a tökéletes ember az ENSZ főtitkári posztjára\n🔥 5) Meglepő diplomáciai fordulat: Washington az ENSZ főtitkári székébe ültetné a volt magyar kormányfőt\n\n<b>Források:</b> 24.hu, index.hu, infostart.hu, index.hu, index.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A The Wall Street Journal értesülései szerint Donald Trump amerikai elnök kormánya azt szeretné, ha Orbán Viktor volt magyar kormányfő indulna az ENSZ főtitkári posztjáért. A washingtoni diplomáciai egyeztetések alapján Moszkva és Peking is támogatná a jelöltségét.",
         "ctl_photo": true,
-        "control_id": 9523,
-        "msg_ids": []
-      }
+        "control_id": 9524,
+        "msg_ids": [],
+        "note": "🔥 Forró hír (forróság 12.35): azonnal kiraktam."
+      },
+      "live": true
     }
   ]
 }
