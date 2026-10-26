@@ -1,7 +1,114 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T13:08:10+01:00",
+  "updated_at": "2026-10-26T13:13:27+01:00",
   "articles": [
+    {
+      "id": "c6bdf5ac-d887-55f6-bd74-e3444de4f1e7",
+      "slug": "2026-10-26-vu-i-bukasat-unnepelte-a-tomeg-belgradban",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Szerbia",
+        "Aleksandar Vučić",
+        "választások",
+        "Belgrád",
+        "tüntetés"
+      ],
+      "title": "Vučić bukását ünnepelte a tömeg Belgrádban",
+      "subtitle": null,
+      "lead": "Szerbiában az előrehozott parlamenti választások után a Telex.hu videója szerint hatalmas tömeg ünnepelt Belgrád utcáin.",
+      "key_points": [
+        "Előrehozott parlamenti választásokat tartottak vasárnap Szerbiában.",
+        "A Telex.hu videója szerint a diákok és a lakosság pirotechnikai eszközökkel ünnepelt Belgrádban.",
+        "A megkérdezett tüntetők a változást egy magyarországi forgatókönyvhöz hasonlították."
+      ],
+      "content": "Vasárnap előrehozott parlamenti választásokat rendeztek Szerbiában, amelyről a Telex.hu készített videós összeállítást. A Telex.hu videójában bemutatott felvételek szerint a választások lezárulta után órákon belül hatalmas tömeg lepte el Belgrád utcáit, ahol füstbombákkal, tűzijátékkal és a „pumpaj” rigmust skandálva ünnepeltek az emberek a kordonok előtti területen.\n\nA helyszínen nyilatkozó polgárok és tüntetők arról számoltak be, hogy a magas részvétel átszakította a gátakat, és az ellenzéki győzelem elhozta a változást. Egyikük angol nyelvű nyilatkozatában úgy fogalmazott, hogy az ország most szabad lett, és egy magyarországi forgatókönyvhöz hasonló, csaknem kétharmados helyzet alakult ki, míg egy másik megszólaló hangsúlyozta, hogy az ifjúság végre esélyt kapott a tudáshoz igazodó, méltó jövőhöz.\n\nA megkérdezett fiatalok és diákok egyhangúlag úgy látták, hogy a korábbi rendszerben minden korrupt volt, de kitartottak a harc mellett a siker érdekében. A tüntetők közül többen megjegyezték, hogy az 1991-es horvátországi és boszniai háborúk óta húzódó feszültségek után most először tapasztalnak valódi fordulatot, és Slobodan Milošević bukása után a jelenlegi államfő távozásával új politikai változást élnek meg.\n\nA helyszíni szereplők összegzése szerint a hatalmas ünneplés után a munka következik, és egy jól működő, normális ország építésébe kezdenek a következő napokban a fiatal aktivisták részvételével.",
+      "content_format": "markdown",
+      "body": [
+        "Vasárnap előrehozott parlamenti választásokat rendeztek Szerbiában, amelyről a Telex.hu készített videós összeállítást. A Telex.hu videójában bemutatott felvételek szerint a választások lezárulta után órákon belül hatalmas tömeg lepte el Belgrád utcáit, ahol füstbombákkal, tűzijátékkal és a „pumpaj” rigmust skandálva ünnepeltek az emberek a kordonok előtti területen.",
+        "A helyszínen nyilatkozó polgárok és tüntetők arról számoltak be, hogy a magas részvétel átszakította a gátakat, és az ellenzéki győzelem elhozta a változást. Egyikük angol nyelvű nyilatkozatában úgy fogalmazott, hogy az ország most szabad lett, és egy magyarországi forgatókönyvhöz hasonló, csaknem kétharmados helyzet alakult ki, míg egy másik megszólaló hangsúlyozta, hogy az ifjúság végre esélyt kapott a tudáshoz igazodó, méltó jövőhöz.",
+        "A megkérdezett fiatalok és diákok egyhangúlag úgy látták, hogy a korábbi rendszerben minden korrupt volt, de kitartottak a harc mellett a siker érdekében. A tüntetők közül többen megjegyezték, hogy az 1991-es horvátországi és boszniai háborúk óta húzódó feszültségek után most először tapasztalnak valódi fordulatot, és Slobodan Milošević bukása után a jelenlegi államfő távozásával új politikai változást élnek meg.",
+        "A helyszíni szereplők összegzése szerint a hatalmas ünneplés után a munka következik, és egy jól működő, normális ország építésébe kezdenek a következő napokban a fiatal aktivisták részvételével."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 211,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/House_of_the_National_Assembly_of_Serbia_003.jpg/1280px-House_of_the_National_Assembly_of_Serbia_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Поглед на Дома Народне скупштине Републике Србије и церемонију промоције нових официра 134. класе Војне Академије.",
+        "credit": "MikyM / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:House_of_the_National_Assembly_of_Serbia_003.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=LKVSx6-OUP4",
+          "title": "Majdnem kétharmadunk lesz, a magyar forgatókönyv szerint fogunk menni",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-10-26T11:24:51+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-26T13:13:27+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=LKVSx6-OUP4"
+        ]
+      },
+      "date": "2026-10-26",
+      "date_label": "október 26.",
+      "url": "/vilag/2026-10-26-vu-i-bukasat-unnepelte-a-tomeg-belgradban/",
+      "seo": {
+        "meta_title": "Vučić bukását ünnepelte a tömeg Belgrádban",
+        "meta_description": "Szerbiában az előrehozott parlamenti választások után a Telex.hu videója szerint hatalmas tömeg ünnepelt Belgrád utcáin.",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-26-vu-i-bukasat-unnepelte-a-tomeg-belgradban/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/House_of_the_National_Assembly_of_Serbia_003.jpg/1280px-House_of_the_National_Assembly_of_Serbia_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "635622c17c8b0ab07a5ebf1cbde1ec28afc80ceac7ab4b858deb3f1d85466397",
+      "pipeline_run_id": "40304861435",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-26T13:13:27+01:00",
+      "updated_at": "2026-10-26T13:13:27+01:00",
+      "published_at": "2026-10-26T13:13:27+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "LKVSx6-OUP4",
+        "title": "Majdnem kétharmadunk lesz, a magyar forgatókönyv szerint fogunk menni",
+        "channel": "Telex․hu",
+        "minutes": 7
+      }
+    },
     {
       "id": "05b39445-aec1-57e5-98b7-718b2cec064d",
       "slug": "2026-10-26-letaroltak-stohl-andras-autojat-szentendrenel",
@@ -69109,105 +69216,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/-_ITALY_-_Intesa_Sanpaolo_filiale.JPG/1280px--_ITALY_-_Intesa_Sanpaolo_filiale.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Grattacielo_Intesa_Sanpaolo_Torino.jpg/1280px-Grattacielo_Intesa_Sanpaolo_Torino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "4d58d7a1-de03-5abc-84b1-0bb368b86571",
-      "slug": "2026-10-04-tortenelmi-attorest-hozhat-az-anthropic-mesterseges-intelligenciajana",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "mesterséges intelligencia",
-        "biológia",
-        "Anthropic",
-        "DNS",
-        "tudomány"
-      ],
-      "title": "Történelmi áttörést hozhat az Anthropic mesterséges intelligenciájának legújabb felfedezése",
-      "subtitle": null,
-      "lead": "Ismeretlen biológiai rendszert azonosítottak bakteriofágokban a kutatók az Anthropic mesterséges intelligenciája, a Claude segítségével. A fejlesztés drasztikusan felgyorsíthatja az élettudományi kutatásokat.",
-      "key_points": [
-        "Közel 950 ügynök vizsgálta huszonegy órán át a genomok adatait.",
-        "A mesterséges intelligencia csaknem 200 000 reverz transzkriptázt elemzett.",
-        "A kutatók által talált új rendszer hasonlít a CRISPR-hez, de a funkciója még ismeretlen."
-      ],
-      "content": "Új, eddig ismeretlen enzimrendszerre bukkantak a kutatók a bakteriofágokban – vagyis a baktériumokat fertőző vírusokban –, a munkát pedig az Anthropic Claude nevű mesterséges intelligencia modellje segítette. A technológia az élettudományi kezdeményezés keretében csaknem 200 000 reverz transzkriptázt (olyan enzimet, amely az RNS-t DNS-sé alakítja) vizsgált át, összesen 210 millió tokent elhasználva a folyamat során.\n\nA kutatásban közel 950 ügynök vett részt, amelyek 21 órán keresztül kutatták a genomok adatait, miközben több ezer biológiai rendszert generáltak további elemzés céljára. Az ügynökök végül nagyjából 3500 potenciális rendszert azonosítottak, ezt a kört pedig 20 jelöltre szűkítették a részletes jelentésekhez. A fejlesztő cég állítása szerint ez a mennyiségű elemzés egy emberi kutatónak hetekbe vagy akár hónapokba telt volna.\n\nAz egyik Claude-ügynök egy különös reverztranszkriptáz-családra fókuszált, és a szomszédos nyers DNS vizsgálata során olyan tandem-ismétlődés-sorozatot észlelt, amilyet korábban még nem látott a tudomány. Az eszköz megszámolta az ismétlődéseket, rámért a távolságokra, összevetette az adatokat az ismert rendszerekkel, majd átpörgette a szakirodalmat is.\n\nAz újonnan azonosított rendszer, az ART (array-associated reverse transcriptase) egy reverz transzkriptázt egyesít egy szomszédos partnergénnel és egy hosszú DNS-ismétlődéssel. Az elrendezés rendkívül hasonlít a génszerkesztésből ismert CRISPR-rendszerekhez, ám az ART biológiai szerepét egyelőre homály fedi, így a szakemberek jelenleg is kísérleteket folytatnak a pontos funkció feltárására.",
-      "content_format": "markdown",
-      "body": [
-        "Új, eddig ismeretlen enzimrendszerre bukkantak a kutatók a bakteriofágokban – vagyis a baktériumokat fertőző vírusokban –, a munkát pedig az Anthropic Claude nevű mesterséges intelligencia modellje segítette. A technológia az élettudományi kezdeményezés keretében csaknem 200 000 reverz transzkriptázt (olyan enzimet, amely az RNS-t DNS-sé alakítja) vizsgált át, összesen 210 millió tokent elhasználva a folyamat során.",
-        "A kutatásban közel 950 ügynök vett részt, amelyek 21 órán keresztül kutatták a genomok adatait, miközben több ezer biológiai rendszert generáltak további elemzés céljára. Az ügynökök végül nagyjából 3500 potenciális rendszert azonosítottak, ezt a kört pedig 20 jelöltre szűkítették a részletes jelentésekhez. A fejlesztő cég állítása szerint ez a mennyiségű elemzés egy emberi kutatónak hetekbe vagy akár hónapokba telt volna.",
-        "Az egyik Claude-ügynök egy különös reverztranszkriptáz-családra fókuszált, és a szomszédos nyers DNS vizsgálata során olyan tandem-ismétlődés-sorozatot észlelt, amilyet korábban még nem látott a tudomány. Az eszköz megszámolta az ismétlődéseket, rámért a távolságokra, összevetette az adatokat az ismert rendszerekkel, majd átpörgette a szakirodalmat is.",
-        "Az újonnan azonosított rendszer, az ART (array-associated reverse transcriptase) egy reverz transzkriptázt egyesít egy szomszédos partnergénnel és egy hosszú DNS-ismétlődéssel. Az elrendezés rendkívül hasonlít a génszerkesztésből ismert CRISPR-rendszerekhez, ám az ART biológiai szerepét egyelőre homály fedi, így a szakemberek jelenleg is kísérleteket folytatnak a pontos funkció feltárására."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 233,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/90bf2695544a6218.jpg",
-        "width": 3072,
-        "height": 2048,
-        "kind": "photo",
-        "alt": "cyber brain, computer, brain, the internet, web3, 0, blockchain, cyber, artificial intelligence, brain, brain, brain, brain, brain, artificial intelligence, artificial intelligence, artificial intelli",
-        "credit": "DeltaWorks / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/cyber-brain-computer-brain-7633488/",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/90bf2695544a6218.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/tudomany/20261004_anthropic-claude-biologia-felfedezes-dns-vizsgalat",
-          "title": "Ráeresztették az AI-t az enzimekre, ami ezután történt, az történelmi lehet",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-04T08:08:30+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-04T08:11:36+02:00"
-      },
-      "hot_score": 5.19,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/tudomany/20261004_anthropic-claude-biologia-felfedezes-dns-vizsgalat"
-        ]
-      },
-      "date": "2026-10-04",
-      "date_label": "október 4.",
-      "url": "/tech/2026-10-04-tortenelmi-attorest-hozhat-az-anthropic-mesterseges-intelligenciajana/",
-      "seo": {
-        "meta_title": "Történelmi áttörést hozhat az Anthropic mesterséges intellig",
-        "meta_description": "Ismeretlen biológiai rendszert azonosítottak bakteriofágokban a kutatók az Anthropic mesterséges intelligenciája, a Claude segítségével. A fejlesztés drasztikus",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-04-tortenelmi-attorest-hozhat-az-anthropic-mesterseges-intelligenciajana/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/90bf2695544a6218.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "2a9fe994e35b96abddda45c51e4f78d47031bfea2dbd4a0a124db0e62aab862b",
-      "pipeline_run_id": "37181702317",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-04T08:11:36+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-04T08:11:36+02:00",
-      "expires_at": null
     }
   ]
 }
