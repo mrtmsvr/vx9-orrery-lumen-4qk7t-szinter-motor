@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
-      "instead_of": "Kilencszázalékos adó és kétszeres családi pótlék: itt a Tisza Párt terve",
-      "custom": false,
-      "t": "2026-10-19T18:23:36+00:00"
-    },
-    {
       "chosen": "Hárommillió doboz nyugtató: így vált gyógyszerfüggővé egy ország",
       "instead_of": "Négy hét lett volna a limit, éveik mentek rá a nyugtatókra",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Meghalt egy idős nő a II. kerületi robbanásban",
       "custom": false,
       "t": "2026-10-26T08:22:40+00:00"
+    },
+    {
+      "chosen": "Lula negyedszer is befutott, Bolsonaro mégis a labdát rugdossa",
+      "instead_of": "Negedszer nyert Lula, de Bolsonaro nem ismerte el a vereséget",
+      "custom": false,
+      "t": "2026-10-26T08:23:02+00:00"
     }
   ]
 }
