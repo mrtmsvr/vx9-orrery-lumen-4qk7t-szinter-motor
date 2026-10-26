@@ -1,7 +1,137 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-26T19:53:38+01:00",
+  "updated_at": "2026-10-26T20:13:44+01:00",
   "articles": [
+    {
+      "id": "6b5fce7e-3b3d-5870-9017-7dc3ea00f7c8",
+      "slug": "2026-10-26-stofa-gyorgy-a-bilincs-a-magyar-rendorseg-legfobb-mutatoja",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Közélet",
+        "Stofa György",
+        "Matolcsy György",
+        "Orbán Viktor",
+        "külpolitika"
+      ],
+      "title": "Stofa György: A bilincs a magyar rendőrség legfőbb mutatója",
+      "subtitle": null,
+      "lead": "A nemzetközi jegybankelnök-letartóztatási trendeket és a magyar közélet dinamikáját is elemezték a 444.hu műsorában. A beszélgetésben szó esett a hazai hatóságok működéséről és a külpolitikai kommunikációról is.",
+      "key_points": [
+        "A 444.hu műsorában Koszovótól Nigériáig tekintették át a letartóztatott jegybankelnökök nemzetközi ügyeit.",
+        "Stofa György a hazai letartóztatás-értékelési rendszerről és annak motivációs erejéről beszélt.",
+        "A szereplők a magyar külpolitikai lépések mellett a rezsiszámlák alakulását és az ünnepek kereskedelmi oldalát is érintették."
+      ],
+      "content": "A nemzetközi jegybankelnökök megítélését, valamint a hazai politikai események alakulását boncolgatta a 444.hu műsorában Stofa György és a műsor többi szereplője. A beszélgetés során megvizsgálták, milyen párhuzamok vonhatók a külföldi példák és a magyar valóság között, kitekintéssel Koszovóra és Nigériára.\n\nA műsorban érintették a magyar kormány külpolitikai lépéseit, valamint szó esett Matolcsy Györgyről, Orbán Viktorról, továbbá olyan nemzetközi politikai szereplőkről, mint Putyin, Lavrov és Sikorski. Az elemzők a különböző vezetők retorikáját, az uniós csatlakozási folyamatokat, valamint a diplomáciai kommunikációban megjelenő fordulatokat is górcső alá vették a 444.hu műsorában.\n\nA komolyabb közéleti témák mellett a mindennapi kiadások is előkerültek: a szereplők kitértek a benzin-, víz- és fűtésszámlák alakulására, valamint az olyan ünnepek kereskedelmi jellegére, mint a Valentin-nap vagy a Halloween, amelyek évről évre jelentős gazdasági terhet jelentnek a lakosságnak.\n\nA hazai hatóságok működésével kapcsolatban Stofa György kiemelte a rendszer sajátosságait, valamint a magyar valóság és a nemzetközi folyamatok összefüggéseit a 444.hu műsorában. – fogalmazott a beszélgetésben.",
+      "content_format": "markdown",
+      "body": [
+        "A nemzetközi jegybankelnökök megítélését, valamint a hazai politikai események alakulását boncolgatta a 444.hu műsorában Stofa György és a műsor többi szereplője. A beszélgetés során megvizsgálták, milyen párhuzamok vonhatók a külföldi példák és a magyar valóság között, kitekintéssel Koszovóra és Nigériára.",
+        "A műsorban érintették a magyar kormány külpolitikai lépéseit, valamint szó esett Matolcsy Györgyről, Orbán Viktorról, továbbá olyan nemzetközi politikai szereplőkről, mint Putyin, Lavrov és Sikorski. Az elemzők a különböző vezetők retorikáját, az uniós csatlakozási folyamatokat, valamint a diplomáciai kommunikációban megjelenő fordulatokat is górcső alá vették a 444.hu műsorában.",
+        "A komolyabb közéleti témák mellett a mindennapi kiadások is előkerültek: a szereplők kitértek a benzin-, víz- és fűtésszámlák alakulására, valamint az olyan ünnepek kereskedelmi jellegére, mint a Valentin-nap vagy a Halloween, amelyek évről évre jelentős gazdasági terhet jelentnek a lakosságnak.",
+        "A hazai hatóságok működésével kapcsolatban Stofa György kiemelte a rendszer sajátosságait, valamint a magyar valóság és a nemzetközi folyamatok összefüggéseit a 444.hu műsorában. – fogalmazott a beszélgetésben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 187,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793039925-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1793039925-0.jpg",
+        "kind": "photo",
+        "alt": "Stofa György: Magyarországon komoly motivációt jelent a letartóztatás-értékelési rendszer",
+        "likeness": true,
+        "credit": "AI-generált illusztráció – Kollektíva",
+        "license": "saját (AI-generált illusztráció)",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=QLMndGyQZ9I",
+          "title": "Lecsukott jegybankelnökök Koszovótól Nigériáig | Borízű hang #291",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-10-26T19:35:35+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Én nem akarok, nem akarom a saját jelentőségünket túlfeszíteni, de szerintem ami letartóztatás-értékelési rendszerünk, az egy komoly motivációt jelent az ezen a hatóságoknál.",
+        "who": "Stofa György, vendég",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-26T20:13:44+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=QLMndGyQZ9I"
+        ]
+      },
+      "date": "2026-10-26",
+      "date_label": "október 26.",
+      "url": "/kozelet/2026-10-26-stofa-gyorgy-a-bilincs-a-magyar-rendorseg-legfobb-mutatoja/",
+      "seo": {
+        "meta_title": "Stofa György: A bilincs a magyar rendőrség legfőbb mutatója",
+        "meta_description": "A nemzetközi jegybankelnök-letartóztatási trendeket és a magyar közélet dinamikáját is elemezték a 444.hu műsorában. A beszélgetésben szó esett a hazai hatóságo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-26-stofa-gyorgy-a-bilincs-a-magyar-rendorseg-legfobb-mutatoja/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793039925-0.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "0b62563c-e786-5f7b-a1ee-aa0d6377d07c",
+        "ae426463-bee8-5005-97c2-cd968876087d",
+        "bbdcf82e-f0cd-51e8-a6ca-645f14a992e2"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar Péter római robogózása és más közéleti furcsaságok",
+          "url": "/kozelet/2026-10-05-magyar-peter-romai-robogozasa-es-mas-kozeleti-furcsasagok/",
+          "date": "2026-10-05"
+        },
+        {
+          "title": "Szóváltás és feszültség alakult ki a Fidesz megemlékezésén a Bem téren",
+          "url": "/kozelet/2026-10-24-magyar-peter-mondott-beszedet-a-kormanyzati-oktober-23-an-orban-vikto/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Ruszin-Szendi elszámoltatná Orbánt az aranykonvoj miatt",
+          "url": "/kozelet/2026-10-09-ruszin-szendi-elszamoltatna-orbant-az-aranykonvoj-miatt/",
+          "date": "2026-10-09"
+        }
+      ],
+      "thread_id": "0b62563c-e786-5f7b-a1ee-aa0d6377d07c",
+      "dedupe_hash": "06bd1e893091e5932818a0007295ab245f7453f190214702337412b56b44256d",
+      "pipeline_run_id": "40378292809",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-26T20:13:44+01:00",
+      "updated_at": "2026-10-26T20:13:44+01:00",
+      "published_at": "2026-10-26T20:13:44+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "QLMndGyQZ9I",
+        "title": "Lecsukott jegybankelnökök Koszovótól Nigériáig | Borízű hang #291",
+        "channel": "444.hu",
+        "minutes": 44
+      }
+    },
     {
       "id": "b5ef141d-3628-51dc-a581-8ef454f35f1b",
       "slug": "2026-10-26-szelroham-lokott-kontenerhajonak-egy-oriasi-oceanjarot-bremerhavenben",
@@ -69112,114 +69242,6 @@
       "published_at": "2026-10-04T11:54:34+02:00",
       "expires_at": null,
       "hold": true
-    },
-    {
-      "id": "262200b8-cea7-5728-a0d5-c2b5289f5413",
-      "slug": "2026-10-04-szappanopera-a-politikaban-elnokvalasztas-braziliaban",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Brazília",
-        "elnökválasztás",
-        "Dél-Amerika",
-        "külpolitika"
-      ],
-      "title": "Szappanopera a politikában: elnökválasztás Brazíliában",
-      "subtitle": null,
-      "lead": "Vasárnap rendezik a brazil elnökválasztás első fordulóját, ahol a tét nemcsak az ország irányítása, hanem Dél-Amerika utolsó amerikaiellenes bástyájának sorsa is. A kampányt korrupciós botrányok, családi dinasztiák versenye és sajátos helyi politikai alkuk határozzák meg.",
-      "key_points": [
-        "Vasárnap tartják az első fordulót a brazil elnökválasztáson.",
-        "A posztért a korábbi elnök fia, Flavio Bolsonaro is küzd, amerikai hátszéllel.",
-        "A brazil politikai rendszerben az elnöknek kis pártokkal kell alkukat kötnie a többségért."
-      ],
-      "content": "Vasárnap kezdődik a brazil elnökválasztás első fordulója, amelynek középpontjában a hatalomért folyó küzdelem áll. A megmérettetésen Jair Bolsonaro fia, Flavio Bolsonaro száll szembe a karizmatikus munkásvezérből lett korábbi brazil elnökkel, Lulával. A Partizán szerkesztőinek elemzése szerint a brazil választási küzdelem látványos és feszült dinamikával bír.\n\nA helyi politikai rendszer sajátossága, hogy az államfőnek soha nincs önálló többsége a törvényhozásban, ezért apróbb pártokkal kell egyezkednie a kormányzáshoz. Ezt a koalíciós kényszert és a politikai alkukat a helyiek csak mocsárnak nevezik, amely nélkül esélytelen a politikai többség elérése.\n\nA háttérben ott van a család története is: a korábbi államfő, Jair Bolsonaro azért van bajban, mert a legutóbbi választás előtt lázadást és puccsot készített elő. Az eseményeknek magyar szála is van, mivel a politikust korábban rövid ideig a brazíliai magyar követségen bújtatták.\n\nNemzetközi kitekintésben Brazília maradt az utolsó olyan jelentős dél-amerikai állam, amely szembehelyezkedik az Egyesült Államok befolyásával, miután Venezuela, Chile, Peru és Kolumbia korábban már igazodott a washingtoni irányvonalhoz.",
-      "content_format": "markdown",
-      "body": [
-        "Vasárnap kezdődik a brazil elnökválasztás első fordulója, amelynek középpontjában a hatalomért folyó küzdelem áll. A megmérettetésen Jair Bolsonaro fia, Flavio Bolsonaro száll szembe a karizmatikus munkásvezérből lett korábbi brazil elnökkel, Lulával. A Partizán szerkesztőinek elemzése szerint a brazil választási küzdelem látványos és feszült dinamikával bír.",
-        "A helyi politikai rendszer sajátossága, hogy az államfőnek soha nincs önálló többsége a törvényhozásban, ezért apróbb pártokkal kell egyezkednie a kormányzáshoz. Ezt a koalíciós kényszert és a politikai alkukat a helyiek csak mocsárnak nevezik, amely nélkül esélytelen a politikai többség elérése.",
-        "A háttérben ott van a család története is: a korábbi államfő, Jair Bolsonaro azért van bajban, mert a legutóbbi választás előtt lázadást és puccsot készített elő. Az eseményeknek magyar szála is van, mivel a politikust korábban rövid ideig a brazíliai magyar követségen bújtatták.",
-        "Nemzetközi kitekintésben Brazília maradt az utolsó olyan jelentős dél-amerikai állam, amely szembehelyezkedik az Egyesült Államok befolyásával, miután Venezuela, Chile, Peru és Kolumbia korábban már igazodott a washingtoni irányvonalhoz."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 194,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/e0e5b1d869-1791104865-1.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e0e5b1d869-1791104865-1.jpg",
-        "kind": "photo",
-        "alt": "Brazília választ: a mocsár és a dinasztia árnyékában",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.youtube.com/watch?v=gzkcsRHWbss",
-          "title": "Nem hiszed el, mi folyik Brazíliában",
-          "publisher": "Partizán",
-          "license": null,
-          "accessed_at": "2026-10-04T11:03:34+02:00"
-        }
-      ],
-      "quote": {
-        "text": "A brazil választás olyan, mint a brazil foci: izgalmas, látványos, és persze rettenthetetlenül korrupt.",
-        "who": "Endrey Mátyás, a Partizán szerkesztője",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-04T11:10:44+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.youtube.com/watch?v=gzkcsRHWbss"
-        ]
-      },
-      "date": "2026-10-04",
-      "date_label": "október 4.",
-      "url": "/vilag/2026-10-04-szappanopera-a-politikaban-elnokvalasztas-braziliaban/",
-      "seo": {
-        "meta_title": "Szappanopera a politikában: elnökválasztás Brazíliában",
-        "meta_description": "Vasárnap rendezik a brazil elnökválasztás első fordulóját, ahol a tét nemcsak az ország irányítása, hanem Dél-Amerika utolsó amerikaiellenes bástyájának sorsa i",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-04-szappanopera-a-politikaban-elnokvalasztas-braziliaban/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/e0e5b1d869-1791104865-1.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "3b3879923d8f63958c9fd7039b3e7e2a089d41d5bb5d615c925a3134e6ce203f",
-      "pipeline_run_id": "37190882874",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-04T11:10:44+02:00",
-      "updated_at": "2026-10-24T06:41:02+00:00",
-      "published_at": "2026-10-04T11:10:44+02:00",
-      "expires_at": null,
-      "hold": true,
-      "video": {
-        "id": "gzkcsRHWbss",
-        "title": "Nem hiszed el, mi folyik Brazíliában",
-        "channel": "Partizán"
-      }
     }
   ]
 }
