@@ -1,35 +1,35 @@
 {
-  "id": "aeefac5c6b",
-  "date": "2026-10-25",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-25-oraatallitas-miert-nem-sikerult-meg-eltorolni-a-nyugot/",
-  "article_title": "Óraátállítás: miért nem sikerült még eltörölni a nyűgöt?",
-  "category": "kozelet",
+  "id": "0319fa5f5b",
+  "date": "2026-10-26",
+  "status": "pending",
+  "article_url": "/vilag/2026-10-26-masodik-fordulora-kenyszerul-a-bolgar-elnok-az-ukrajnai-fegyverszalli/",
+  "article_title": "Második fordulóra kényszerül a bolgár elnök, az ukrajnai fegyverszállítás a tét",
+  "category": "vilag",
   "choices": [
     {
-      "question": "Ön szerint melyik időszámítást lenne célszerű állandósítani?",
+      "question": "Ön szerint helyes-e fegyvereket szállítani Ukrajnába?",
       "options": [
-        "A téli időszámítást",
-        "A nyári időszámítást",
+        "Igen, támogatni kell az ukrán védelmet",
+        "Nem, ez csak növeli a feszültséget",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesnek tartja-e az évi kétszeri óraátállítás megtartását?",
+      "question": "Mit tart fontosabbnak a bolgár elnökválasztás kapcsán?",
       "options": [
-        "Igen, megtartanám",
-        "Nem, eltörölném",
+        "A mielőbbi békés tárgyalásokat",
+        "Ukrajna katonai támogatásának folytatását",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jelentős problémát okoz-e Önnek az óraátállításhoz való alkalmazkodás?",
+      "question": "Hogyan ítéli meg a fegyverszállítások szerepét a konfliktusban?",
       "options": [
-        "Igen, megvisel a váltás",
-        "Nem, szinte észre sem veszem",
+        "Segít megállítani az orosz agressziót",
+        "Meghosszabbítja a háborút és a szenvedést",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9495
+  "msg_id": 9536
 }
