@@ -9621,8 +9621,11 @@
         "lead": "Vasárnap este súlyos balesetet szenvedett a Mein Schiff 3 nevű óriási óceánjáró a németországi Bremerhavenben, miután egy erős szélroham két lehorgonyzott konténerhajónak sodorta. A hirtelen lecsapó vihar miatt a 2428 utast és 922 fős legénységet szállító hajó húsznaposra tervezett körútja már az induláskor véget ért.",
         "ctl_photo": true,
         "control_id": 9561,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 19:53 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-26T19:53:31+01:00"
     },
     {
       "id": "6b5fce7e-3b3d-5870-9017-7dc3ea00f7c8",
