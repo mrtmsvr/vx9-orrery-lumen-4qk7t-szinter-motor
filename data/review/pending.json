@@ -9821,8 +9821,11 @@
         "lead": "A nemzetközi jegybankelnök-letartóztatási trendeket és a magyar közélet dinamikáját is elemezték a 444.hu műsorában. A beszélgetésben szó esett a hazai hatóságok működéséről és a külpolitikai kommunikációról is.",
         "ctl_photo": true,
         "control_id": 9563,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:13 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-26T20:13:31+01:00"
     }
   ]
 }
