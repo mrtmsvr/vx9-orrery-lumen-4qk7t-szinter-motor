@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Hárommillió doboz nyugtató: így vált gyógyszerfüggővé egy ország",
-      "instead_of": "Négy hét lett volna a limit, éveik mentek rá a nyugtatókra",
-      "custom": false,
-      "t": "2026-10-19T19:29:14+00:00"
-    },
-    {
       "chosen": "Pócs János vendégeként ordibált a parlamenti páholyban Szabó Bálint",
       "instead_of": "Ordítva zavarták ki a parlamentből a fideszes Pócs János vendégét",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Negedszer nyert Lula, de Bolsonaro nem ismerte el a vereséget",
       "custom": false,
       "t": "2026-10-26T08:23:02+00:00"
+    },
+    {
+      "chosen": "Lula behúzta a negyediket, Bolsonaro pedig nem tud veszíteni",
+      "instead_of": "Lula negyedszer is befutott, Bolsonaro mégis a labdát rugdossa",
+      "custom": false,
+      "t": "2026-10-26T08:23:52+00:00"
     }
   ]
 }
