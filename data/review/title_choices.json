@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Vagyonnyilatkozat: kiegészítést adott le Forsthoffer Ágnes",
-      "instead_of": "Forsthoffer Ágnes: Rejtegetnivalóm nincs, nem is volt",
-      "custom": false,
-      "t": "2026-10-19T18:05:46+00:00"
-    },
-    {
-      "chosen": "Adócsökkentés és éles viták: ezt hozza a 2027-es költségvetési javaslat",
-      "instead_of": "Kilencszázalékos adó és kétszeres családi pótlék: itt a Tisza Párt terve",
-      "custom": false,
-      "t": "2026-10-19T18:23:31+00:00"
-    },
-    {
       "chosen": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
       "instead_of": "Kilencszázalékos adó és kétszeres családi pótlék: itt a Tisza Párt terve",
       "custom": false,
@@ -359,6 +347,18 @@
       "instead_of": "Pintér Bence: Népszavazással lehessen visszahívni a győri képviselőket",
       "custom": false,
       "t": "2026-10-25T07:02:13+00:00"
+    },
+    {
+      "chosen": "Nem kegyelmezett a tűz a II. kerületi lakásnak: egy ember meghalt",
+      "instead_of": "Meghalt egy idős nő a II. kerületi robbanásban",
+      "custom": false,
+      "t": "2026-10-26T08:22:39+00:00"
+    },
+    {
+      "chosen": "Halálos lakástűz és robbanás történt a Szeréna úton",
+      "instead_of": "Meghalt egy idős nő a II. kerületi robbanásban",
+      "custom": false,
+      "t": "2026-10-26T08:22:40+00:00"
     }
   ]
 }
