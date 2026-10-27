@@ -5799,7 +5799,7 @@
     {
       "id": "1706fdda-b163-58e6-a4d8-6c81099d0614",
       "slug": "2026-10-27-ujpetrei-tarsasjatek-urhajos-lanyok-akasztottak-ki-a-fideszt-es-a-mi",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -5995,9 +5995,9 @@
       "dedupe_hash": "b2c6f1df65aa5e6328ace1c75cc4996975bc09910e37838e657f9da732519938",
       "pipeline_run_id": "40570866707",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-27T20:46:57+01:00",
-      "updated_at": "2026-10-27T20:46:57+01:00",
-      "published_at": "2026-10-27T20:46:57+01:00",
+      "created_at": "2026-10-27T21:12:14+01:00",
+      "updated_at": "2026-10-27T21:12:14+01:00",
+      "published_at": "2026-10-27T21:12:14+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -6018,8 +6018,11 @@
         "lead": "Pályaorientációs foglalkozás nyomán robbant ki politikai vita az Emberség Erejével Alapítvány újpetrei programja miatt, miután a Fidesz és a Mi Hazánk genderpropagandát sejtett a háttérben. Az eset jól mutatja, mekkora feszültséget szül az új gyermekvédelmi törvény körüli bizonytalanság.",
         "ctl_photo": true,
         "control_id": 9572,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
