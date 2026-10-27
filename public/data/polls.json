@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-10-26T10:07:01+01:00",
+  "updated_at": "2026-10-27T11:03:11+01:00",
   "polls": [
+    {
+      "id": "5ab69fb279a7",
+      "date": "2026-10-27",
+      "question": "Ön szerint helyes döntés, hogy házon belül gyártja a közmédia a Petőfi brand műsorait?",
+      "options": [
+        "Igen, jobb így a hatékonyság",
+        "Nem, jobb lenne külsős partnerekkel dolgozni",
+        "Nem tudom / nincs véleményem"
+      ],
+      "article_url": "/kozelet/2026-10-26-kirugta-kulsos-partnereit-a-kozmedia-hazon-belul-gyartjak-a-petofit/",
+      "article_title": "Kirúgta külsős partnereit a közmédia, házon belül gyártják a Petőfit",
+      "category": "kozelet",
+      "created_at": "2026-10-27T11:03:11+01:00",
+      "closes_at": "2026-11-03T11:03:11+01:00"
+    },
     {
       "id": "1b2f5d6bb2cf",
       "date": "2026-10-26",
