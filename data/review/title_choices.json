@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "„Ez nullával egyenlő” – felháborodtak a könyvtárosok és muzeológusok",
-      "instead_of": "Utcára vonultak a kulturális dolgozók Magyar Péter bejelentése után",
-      "custom": false,
-      "t": "2026-10-20T07:52:19+00:00"
-    },
-    {
       "chosen": "Putyin és Trump háromoldalú csúcson tárgyalna Ukrajnáról Sencsenben",
       "instead_of": "Zelenszkij nélkül osztaná fel az ukrajnai békét Putyin és Trump",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Itt van a Wekerle Plusz hitel és lakástakarék",
       "custom": false,
       "t": "2026-10-27T14:59:13+00:00"
+    },
+    {
+      "chosen": "Nemzetközi elfogatóparancs a lélegeztetőgép-biznisz bukott vezetője ellen",
+      "instead_of": "Szökésben a koronavírus-járvány idején milliárdokat kaszinózó vállalkozás irányítója",
+      "custom": false,
+      "t": "2026-10-27T19:44:23+00:00"
     }
   ]
 }
