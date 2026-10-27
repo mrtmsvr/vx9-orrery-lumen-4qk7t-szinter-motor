@@ -1,35 +1,35 @@
 {
-  "id": "0319fa5f5b",
-  "date": "2026-10-26",
-  "status": "approved",
-  "article_url": "/vilag/2026-10-26-masodik-fordulora-kenyszerul-a-bolgar-elnok-az-ukrajnai-fegyverszalli/",
-  "article_title": "Második fordulóra kényszerül a bolgár elnök, az ukrajnai fegyverszállítás a tét",
-  "category": "vilag",
+  "id": "419729df79",
+  "date": "2026-10-27",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-26-kirugta-kulsos-partnereit-a-kozmedia-hazon-belul-gyartjak-a-petofit/",
+  "article_title": "Kirúgta külsős partnereit a közmédia, házon belül gyártják a Petőfit",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes-e fegyvereket szállítani Ukrajnába?",
+      "question": "Ön szerint helyes döntés, hogy házon belül gyártja a közmédia a Petőfi brand műsorait?",
       "options": [
-        "Igen, támogatni kell az ukrán védelmet",
-        "Nem, ez csak növeli a feszültséget",
+        "Igen, jobb így a hatékonyság",
+        "Nem, jobb lenne külsős partnerekkel dolgozni",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a bolgár elnökválasztás kapcsán?",
+      "question": "Jó irány-e az, ha a közmédia csökkenti a külsős gyártók arányát?",
       "options": [
-        "A mielőbbi békés tárgyalásokat",
-        "Ukrajna katonai támogatásának folytatását",
+        "Igen, támogatandó a belső kapacitás",
+        "Nem, a piaci verseny fontosabb",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan ítéli meg a fegyverszállítások szerepét a konfliktusban?",
+      "question": "Hogyan értékeli a közmédiumok műsorgyártási gyakorlatának átalakítását?",
       "options": [
-        "Segít megállítani az orosz agressziót",
-        "Meghosszabbítja a háborút és a szenvedést",
+        "Pozitív fejlemény",
+        "Negatív fejlemény",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9536
+  "msg_id": 9566
 }
