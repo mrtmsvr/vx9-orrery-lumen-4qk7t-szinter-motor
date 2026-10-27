@@ -5562,9 +5562,9 @@
       "live": true
     },
     {
-      "id": "bee01ad9-a51c-5654-95fc-7ab5309255c6",
-      "slug": "2026-10-27-szokesben-a-koronavirus-jarvany-idejen-milliardokat-kaszinozo-vallalk",
-      "status": "pending",
+      "id": "6dfb3438-7eec-5cdd-810c-e71b9b4ed5b6",
+      "slug": "2026-10-27-nemzetkozi-elfogatoparancs-a-lelegeztetogep-biznisz-bukott-vezetoje-e",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -5574,7 +5574,7 @@
         "költségvetési csalás",
         "koronavírus"
       ],
-      "title": "Szökésben a koronavírus-járvány idején milliárdokat kaszinózó vállalkozás irányítója",
+      "title": "Nemzetközi elfogatóparancs a lélegeztetőgép-biznisz bukott vezetője ellen",
       "subtitle": null,
       "lead": "Összehangolt pénzügyi nyomozói akció indult a koronavírus-járvány idején kötött kínai egészségügyi beszerzések ügyében, miután a hatóságok milliárdos hasznot és fiktív céghálózatot tártak fel. Az ügyben nemzetközi elfogatóparancsot adtak ki az egyik vezető ellen, míg Ausztriában és belföldön is gyanúsítottakat hallgattak ki.",
       "key_points": [
@@ -5725,11 +5725,11 @@
       },
       "date": "2026-10-27",
       "date_label": "október 27.",
-      "url": "/kozelet/2026-10-27-szokesben-a-koronavirus-jarvany-idejen-milliardokat-kaszinozo-vallalk/",
+      "url": "/kozelet/2026-10-27-nemzetkozi-elfogatoparancs-a-lelegeztetogep-biznisz-bukott-vezetoje-e/",
       "seo": {
-        "meta_title": "Szökésben a koronavírus-járvány idején milliárdokat kaszinóz",
+        "meta_title": "Nemzetközi elfogatóparancs a lélegeztetőgép-biznisz bukott v",
         "meta_description": "Összehangolt pénzügyi nyomozói akció indult a koronavírus-járvány idején kötött kínai egészségügyi beszerzések ügyében, miután a hatóságok milliárdos hasznot és",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-27-szokesben-a-koronavirus-jarvany-idejen-milliardokat-kaszinozo-vallalk/",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-27-nemzetkozi-elfogatoparancs-a-lelegeztetogep-biznisz-bukott-vezetoje-e/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/NTCA_Renault%2C_Automotive_2017_Hungexpo.jpg/1280px-NTCA_Renault%2C_Automotive_2017_Hungexpo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
@@ -5767,9 +5767,9 @@
       "dedupe_hash": "8bd2c928efab62a65bdf27471650ab81c03d040c5cdfb24008ff951c859bb5ca",
       "pipeline_run_id": "40570866707",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-27T20:40:07+01:00",
-      "updated_at": "2026-10-27T20:40:07+01:00",
-      "published_at": "2026-10-27T20:40:07+01:00",
+      "created_at": "2026-10-27T20:44:27+01:00",
+      "updated_at": "2026-10-27T20:44:27+01:00",
+      "published_at": "2026-10-27T20:44:27+01:00",
       "expires_at": null,
       "hold": true,
       "legal": {
@@ -5790,8 +5790,11 @@
         "lead": "Összehangolt pénzügyi nyomozói akció indult a koronavírus-járvány idején kötött kínai egészségügyi beszerzések ügyében, miután a hatóságok milliárdos hasznot és fiktív céghálózatot tártak fel. Az ügyben nemzetközi elfogatóparancsot adtak ki az egyik vezető ellen, míg Ausztriában és belföldön is gyanúsítottakat hallgattak ki.",
         "ctl_photo": true,
         "control_id": 9571,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
