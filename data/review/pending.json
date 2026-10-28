@@ -4219,8 +4219,11 @@
         "lead": "Legalább hatvannyolc ember életét vesztette szerda reggel Spanyolországban, miután két nagy sebességű vonat ütközött össze Toledo közelében. A tragédia miatt teljesen megbénult a vasúti közlekedés Madrid és Andalúzia között.",
         "ctl_photo": true,
         "control_id": 9591,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 19:35 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-28T19:35:13+01:00"
     }
   ]
 }
