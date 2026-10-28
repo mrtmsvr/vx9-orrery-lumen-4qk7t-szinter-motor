@@ -2720,8 +2720,11 @@
         "lead": "Nem kell maratonokat futni vagy drága bérleteket venni ahhoz, hogy tegyünk a szívünk egészségéért, hiszen egy egyszerű mozdulat is jelentős eredményt hozhat. Egy száz felnőtt bevonásával készült friss kutatás szerint a heti egy-két alkalommal végzett falhoz támaszkodás hatékonyan csökkenti a szisztolés vérnyomást.",
         "ctl_photo": true,
         "control_id": 9577,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 16:52 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-28T16:52:52+01:00"
     },
     {
       "id": "03f8bb27-be51-5329-89b9-4c4b59938726",
