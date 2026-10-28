@@ -2501,7 +2501,9 @@
         "ctl_photo": true,
         "control_id": 9576,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 11.05): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 11.05): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -2712,7 +2714,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-28T09:03:47+00:00",
         "head": "🗓 SAJÁT (időzített) · <b>Életmód &amp; Egészség</b> · forróság 0 · 3 forrás\n\n1) A meglepő gyakorlat, amely csökkenti a vérnyomást\n2) Hogyan segít a falnak támaszkodás a vérnyomáson?\n3) A legkényelmesebb edzés a szív- és érrendszerért\n\n<b>Források:</b> ScienceDaily, Wikipédia (hu), Wikipédia (hu)\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Nem kell maratonokat futni vagy drága bérleteket venni ahhoz, hogy tegyünk a szívünk egészségéért, hiszen egy egyszerű mozdulat is jelentős eredményt hozhat. Egy száz felnőtt bevonásával készült friss kutatás szerint a heti egy-két alkalommal végzett falhoz támaszkodás hatékonyan csökkenti a szisztolés vérnyomást.",
