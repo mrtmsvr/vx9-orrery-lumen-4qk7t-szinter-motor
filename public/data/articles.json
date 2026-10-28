@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T19:02:09+01:00",
+  "updated_at": "2026-10-28T19:02:38+01:00",
   "articles": [
     {
       "id": "eee47049-ff50-554a-99e5-c4c22f453369",
@@ -36,15 +36,15 @@
       "word_count": 317,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Viktor_Orb%C3%A1n.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 1666,
+        "height": 1171,
         "kind": "photo",
         "pos": "top",
-        "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires.",
-        "credit": "Vox España / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg",
+        "alt": "Viktor Orban",
+        "credit": "Romiro / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n.png",
         "vision_score": 10.0
       },
       "inline_images": [],
@@ -96,7 +96,7 @@
         "meta_title": "Hónapok óta várakozik a volt miniszterelnök a neki járó álla",
         "meta_description": "A volt miniszterelnök hivatalos levelekben kereste meg a Tisza-kormány felelős miniszterét a törvényben előírt juttatások miatt, ám eddig nem kapott választ. A ",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-28-valaszra-sem-meltatja-orbant-a-tisza-kormany-a-titkarsaga-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Viktor_Orb%C3%A1n.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -134,7 +134,7 @@
       "pipeline_run_id": "40735883454",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-28T18:58:55+01:00",
-      "updated_at": "2026-10-28T19:02:09+01:00",
+      "updated_at": "2026-10-28T19:02:38+01:00",
       "published_at": "2026-10-28T18:58:55+01:00",
       "expires_at": null
     },
