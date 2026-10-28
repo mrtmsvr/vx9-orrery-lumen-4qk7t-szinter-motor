@@ -2510,7 +2510,7 @@
     {
       "id": "2ebb0b60-2ce0-5aae-9e8e-5660dc17b9e1",
       "slug": "2026-10-28-a-meglepo-gyakorlat-amely-csokkenti-a-vernyomast",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -2548,17 +2548,15 @@
       "word_count": 559,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plank.jpg/1280px-Plank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Blood_pressure_measurement_Manila_CNE_01.jpg/1280px-Blood_pressure_measurement_Manila_CNE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
+        "height": 984,
         "kind": "photo",
         "pos": "center",
-        "alt": "Planks activate and strengthen the inner core muscles as well as rectus abdominis and transverse abdominis. Planks help stabilize your spine and hips. Performing this exercise can help prevent back in",
-        "credit": "Jaykayfit / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Plank.jpg",
-        "exact": true,
-        "entity": "isometric exercise",
+        "alt": "Blood pressure measurement Red Cross",
+        "credit": "CNEcija12345 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Blood_pressure_measurement_Manila_CNE_01.jpg",
         "vision_score": 6.0
       },
       "inline_images": [],
@@ -2685,7 +2683,7 @@
         "meta_title": "A meglepő gyakorlat, amely csökkenti a vérnyomást",
         "meta_description": "Nem kell maratonokat futni vagy drága bérleteket venni ahhoz, hogy tegyünk a szívünk egészségéért, hiszen egy egyszerű mozdulat is jelentős eredményt hozhat. Eg",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-28-a-meglepo-gyakorlat-amely-csokkenti-a-vernyomast/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Plank.jpg/1280px-Plank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Blood_pressure_measurement_Manila_CNE_01.jpg/1280px-Blood_pressure_measurement_Manila_CNE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -2700,9 +2698,9 @@
       "dedupe_hash": "eba2a02a54af7a03d5f45b6a9a7702a53b25e09219d4960cce28a73955a855ef",
       "pipeline_run_id": "40658846667",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-28T10:03:45+01:00",
-      "updated_at": "2026-10-28T10:03:45+01:00",
-      "published_at": null,
+      "created_at": "2026-10-28T16:53:25+01:00",
+      "updated_at": "2026-10-28T16:53:25+01:00",
+      "published_at": "2026-10-28T16:53:25+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-28T12:02:15+01:00",
@@ -2722,9 +2720,9 @@
         "control_id": 9577,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 16:52 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-28T16:52:52+01:00"
+      "live": true
     },
     {
       "id": "03f8bb27-be51-5329-89b9-4c4b59938726",
