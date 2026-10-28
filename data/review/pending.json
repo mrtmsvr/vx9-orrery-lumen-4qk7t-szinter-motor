@@ -3455,8 +3455,11 @@
         "lead": "A nemzetközi politika elmúlt hónadbeli eseményei és a közelgő külföldi választások alapvetően rajzolhatják át az ukrajnai háború támogatási struktúráját. A globális biztonság törékenységét a szerbiai erőviszonyok alakulása, valamint az amerikai kampányretorika is érezhetően fokozza.",
         "ctl_photo": true,
         "control_id": 9586,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 19:15 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-28T19:15:13+01:00"
     },
     {
       "id": "747aef19-c00d-5369-b725-5177522e6f9e",
