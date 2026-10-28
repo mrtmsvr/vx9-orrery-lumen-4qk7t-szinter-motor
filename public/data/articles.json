@@ -1,7 +1,143 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T10:02:30+01:00",
+  "updated_at": "2026-10-28T16:32:52+01:00",
   "articles": [
+    {
+      "id": "03f8bb27-be51-5329-89b9-4c4b59938726",
+      "slug": "2026-10-28-ensz-fotitkar-lehessen-orban-viktorbol-a-konfrontzona-vendegei-elemez",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Orbán Viktor",
+        "Konfrontzóna",
+        "Magyar Péter",
+        "szerbiai választások",
+        "közélet"
+      ],
+      "title": "ENSZ-főtitkár lehessen Orbán Viktorból? A Konfrontzóna vendégei elemeztek",
+      "subtitle": null,
+      "lead": "A hazai közélet aktuális kérdéseit, így Orbán Viktor esetleges nemzetközi megbízatását és a szerbiai választásokat elemezte a Konfrontzóna stábja. A beszélgetés résztvevői a tisztségviselők lépéseit és a hazai politikai erőviszonyok átrendeződését is górcső alá vették.",
+      "key_points": [
+        "A Konfrontzóna legfrissebb adásában szakértők elemezték Orbán Viktor esetleges ENSZ-főtitkári esélyeit.",
+        "Szó esett a szerbiai választásokról és a magyar kormány abban betöltött szerepéről.",
+        "A résztvevők kitértek Magyar Péter október 23-i beszédére és a hazai politikai helyzetre.",
+        "A független sajtó működése és a kormánypárti média helyzete szintén terítékre került."
+      ],
+      "content": "A Szélsőközép műsorában Váli István újságíró köszöntötte a meghívott vendégeket, hogy elemezzék az október 23-át követő időszak belpolitikai folyamatait és a határon túli eseményeket. A stúdióban helyet foglaló Tompos Ádám, a Magyar Hang újságírója, Juhász Bence politológus, valamint Nagy Attila Tibor politikai elemző részletesen megvitatta a szerbiai választások hátterét, Orbán Viktor nemzetközi szerepvállalásának jellegzetességeit, valamint a Tisza Párt elnökének ünnepi felszólalását.\n\nA szomszédos országban lezajlott választási küzdelmek kapcsán Tompos Ádám a helyszínen szerzett élményeiről számolt be a nézőknek. A Magyar Hang újságírója reményét fejezte ki azzal kapcsolatban, hogy a magyar és a szerb közösségek egyaránt hozzájárulhattak a folyamatok pozitív irányú megfordulásához, hangsúlyozva Magyarország sajátos felelősségét és szerepét a régióban.\n\nNagy Attila Tibor politikai elemző a helyi viszonyokat és a kampány sajátosságait részletezve kiemelte Orbán Viktor kormányfő korábbi diplomáciai látogatásait. A szakértő rámutatott, hogy a kabinet az elmúlt években aktívan jelen volt a térségben, ami érdemben befolyásolhatta a helyi politikai dinamikát és a választások alakulását.\n\nA hazai sajtóviszonyok és a független újságírás kihívásai szintén terítékre kerültek a beszélgetésben. Juhász Bence politológus a hazai politikai helyzetet és a kormánypárti média működését elemezve megjegyezte, hogy ha ő maga nem tudott elmenni egy eseményre, két kollégája a Magyar Hangtól ott volt.\n\nA résztvevők külön blokkban elemezték Magyar Péter október 23-i ünnepi beszédét, amelyben a Tisza Párt vezetője új irányokat jelölt ki a következő időszakra.\n\nA beszélgetés záró szakaszában a szakértők egyetértettek abban, hogy a hazai politikai életben komoly átrendeződések és struktúraváltások várhatók a közeljövőben, amelyek alapvetően határozhatják meg a jövőbeni erőviszonyokat.",
+      "content_format": "markdown",
+      "body": [
+        "A Szélsőközép műsorában Váli István újságíró köszöntötte a meghívott vendégeket, hogy elemezzék az október 23-át követő időszak belpolitikai folyamatait és a határon túli eseményeket. A stúdióban helyet foglaló Tompos Ádám, a Magyar Hang újságírója, Juhász Bence politológus, valamint Nagy Attila Tibor politikai elemző részletesen megvitatta a szerbiai választások hátterét, Orbán Viktor nemzetközi szerepvállalásának jellegzetességeit, valamint a Tisza Párt elnökének ünnepi felszólalását.",
+        "A szomszédos országban lezajlott választási küzdelmek kapcsán Tompos Ádám a helyszínen szerzett élményeiről számolt be a nézőknek. A Magyar Hang újságírója reményét fejezte ki azzal kapcsolatban, hogy a magyar és a szerb közösségek egyaránt hozzájárulhattak a folyamatok pozitív irányú megfordulásához, hangsúlyozva Magyarország sajátos felelősségét és szerepét a régióban.",
+        "Nagy Attila Tibor politikai elemző a helyi viszonyokat és a kampány sajátosságait részletezve kiemelte Orbán Viktor kormányfő korábbi diplomáciai látogatásait. A szakértő rámutatott, hogy a kabinet az elmúlt években aktívan jelen volt a térségben, ami érdemben befolyásolhatta a helyi politikai dinamikát és a választások alakulását.",
+        "A hazai sajtóviszonyok és a független újságírás kihívásai szintén terítékre kerültek a beszélgetésben. Juhász Bence politológus a hazai politikai helyzetet és a kormánypárti média működését elemezve megjegyezte, hogy ha ő maga nem tudott elmenni egy eseményre, két kollégája a Magyar Hangtól ott volt.",
+        "A résztvevők külön blokkban elemezték Magyar Péter október 23-i ünnepi beszédét, amelyben a Tisza Párt vezetője új irányokat jelölt ki a következő időszakra.",
+        "A beszélgetés záró szakaszában a szakértők egyetértettek abban, hogy a hazai politikai életben komoly átrendeződések és struktúraváltások várhatók a közeljövőben, amelyek alapvetően határozhatják meg a jövőbeni erőviszonyokat."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 284,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg/1280px-Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "U.S. Secretary of State John Kerry addresses delegates before he signed the COP21 Climate Change Agreement on Earth Day, April 22, 2016, at the United Nations General Assembly Hall in New York, N.Y. [",
+        "credit": "U.S. Department of State from United States / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_(26514585581).jpg",
+        "exact": true,
+        "entity": "United Nations",
+        "vision_score": 12.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=yfpAZhZMH3Q",
+          "title": "Orbán ENSZ-főtitkár?; Szerbiai választások; Magyar Péter ünnepi beszéde | Konfrontzóna",
+          "publisher": "Szélsőközép",
+          "license": null,
+          "accessed_at": "2026-10-28T10:09:10+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Orbán Viktor az utóbbi években oda is látogatott, és segített.",
+        "who": "Nagy Attila Tibor politikai elemző",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-28T16:32:52+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=yfpAZhZMH3Q"
+        ]
+      },
+      "date": "2026-10-28",
+      "date_label": "október 28.",
+      "url": "/kozelet/2026-10-28-ensz-fotitkar-lehessen-orban-viktorbol-a-konfrontzona-vendegei-elemez/",
+      "seo": {
+        "meta_title": "ENSZ-főtitkár lehessen Orbán Viktorból? A Konfrontzóna vendé",
+        "meta_description": "A hazai közélet aktuális kérdéseit, így Orbán Viktor esetleges nemzetközi megbízatását és a szerbiai választásokat elemezte a Konfrontzóna stábja. A beszélgetés",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-28-ensz-fotitkar-lehessen-orban-viktorbol-a-konfrontzona-vendegei-elemez/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg/1280px-Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ae426463-bee8-5005-97c2-cd968876087d",
+        "cea972d1-c6a0-5863-a64a-8212515b9bfa",
+        "1ef5668b-45f1-5219-8c0a-73748d6e0364"
+      ],
+      "see_also": [
+        {
+          "title": "Szóváltás és feszültség alakult ki a Fidesz megemlékezésén a Bem téren",
+          "url": "/kozelet/2026-10-24-magyar-peter-mondott-beszedet-a-kormanyzati-oktober-23-an-orban-vikto/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára",
+          "url": "/vilag/2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara/",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ötvenhatos emlékmúzeumot alapít a kormány",
+          "url": "/kozelet/2026-10-22-nemzeti-emlekmuzeumot-avat-56-nak-magyar-peter-a-bem-teren/",
+          "date": "2026-10-22"
+        }
+      ],
+      "thread_id": "1e4b2c3f-b6c7-5478-8d8d-f0ae0498ad23",
+      "dedupe_hash": "9cf22803d4c15adef3fa20db5c1425fad41f9eee16e26df37fc3581c7958ed63",
+      "pipeline_run_id": "40658846667",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-28T16:32:52+01:00",
+      "updated_at": "2026-10-28T16:32:52+01:00",
+      "published_at": "2026-10-28T16:32:52+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "yfpAZhZMH3Q",
+        "title": "Orbán ENSZ-főtitkár?; Szerbiai választások; Magyar Péter ünnepi beszéde | Konfrontzóna",
+        "channel": "Szélsőközép",
+        "minutes": 60
+      }
+    },
     {
       "id": "14c003ad-8c4b-5a35-909d-152c9d9e14ef",
       "slug": "2026-10-28-terrorista-keseles-az-izraeli-kovetsegnel-voros-riasztas-van-ervenybe",
@@ -69239,135 +69375,6 @@
         "title": "Előbb a migránsokat akarták kívül tartani, most már az oroszokat",
         "channel": "444.hu"
       }
-    },
-    {
-      "id": "1e038c5e-01e8-5ddc-8efa-25ed53d80434",
-      "slug": "2026-10-04-mar-az-okori-gorogok-is-egi-vasbol-kovacsoltak-gyuruket",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "meteorit",
-        "régészet",
-        "bronzkor",
-        "tudománytörténet",
-        "Görögország"
-      ],
-      "title": "Már az ókori görögök is égi vasból kovácsoltak gyűrűket",
-      "subtitle": null,
-      "lead": "Egy idén augusztusban megjelent tanulmány szerint a mükénéi és minószi elit tagjai már a bronzkorban meteorvasból készült gyűrűket hordtak. A felfedezés arra utal, hogy a térség lakói jóval korábban tisztában voltak az égi eredetű fémek létezésével, mint azt eddig gondolták.",
-      "key_points": [
-        "Kilencvenegy vizsgált bronzkori gyűrűből tizenhárom bizonyult meteorvasból készültnek.",
-        "A szentnek tekintett alapanyag valószínűleg Egyiptomból érkezett a görög szigetvilágba.",
-        "A történelem során a világ szinte minden táján ismerték és tisztelték a kultuszok az égi vasból készült tárgyakat."
-      ],
-      "content": "A minószi és mükénéi elithez tartozó sírokból előkerült, bronzkori leletek első ránézésre átlagosnak tűnnek: nem túl gazdagon díszítettek, méretüket tekintve pedig sem nem óriásiak, sem nem miniatürizáltak. A vizsgált 91 gyűrű közül 13 darab esetében a magas nikkeltartalom mutatta ki egyértelműen, hogy az alapanyaguk a világűrből származó meteorvas, míg további kilenc tárgynál ugyanez valószínűsíthető. Bár a meteoritok felhasználása szinte minden kontinensen ismert volt korábban is, ez az első alkalom, hogy a mai Görögország területén bronzkori meteorvastárgyakat azonosítottak.\n\nA státuszszimbólumnak számító ékszerek alapanyaga a kutatók felmérései szerint Egyiptomból érkezhetett, a sivatagos területeken ugyanis jóval könnyebb volt meteoritot találni, mint a szigetvilágban. A kereskedelem révén terjedő fém szentnek számított ebben a korban: az egyiptomiak például tevéknek is készítettek belőle talizmánokat, hogy a karavánok biztosan célba érjenek. Nemcsak a Mediterráneumban becsülték nagyra ezt az alapanyagot, hanem Asszíria fővárosában, Assurban is, ahol az égi vas az adózandó termékek listáján szerepelt Jan Gerrit Dercksen, a Leideni Egyetem történésze szerint.\n\nA leghíresebb hasonló korú tárgy Tutanhamon tőre, amelynek alapanyaga egy Alexandriától 240 kilométerre becsapódott vasmeteoritból származik, és legalább 3300 éves. Victoria Almansa-Villatoro egyiptológus rámutatott, hogy a hettiták időszámításunk előtt 3000 és 2000 között már elkezdték használni a meteoritvasat a mai Törökország területén, sőt gyöngyöket és ékszereket is formáltak belőle. Az egyiptomiak saját hieroglifát is szenteltek az égből érkező fémnek, ami bizonyítja, hogy pontosan tisztában voltak a kövek égi eredetével.\n\nEz a fajta tudatosság nem korlátozódott a Közel-Keletre: Észak-Amerikában a hopi törzs tagjai szintén szentként tiszteltek egy felhőktől származó meteoritot. Az oregoni Clackamas törzs lakói a 14,5 tonnás, égi látogatónak is nevezett Willamette meteoritról tartották úgy, hogy a Holdról érkezett, míg Albertában a Cree és a Blackfoot törzsek ugyancsak ismerték és tisztelték egy 145 kilós vasmeteorit eredetét. Maria Golia amerikai írónő Meteorite: Nature and Culture című könyvében részletesen bemutatja, hogy ezek a közösségek a tudományos műszerek hiányában is pontosan tudták, honnan jöttek a csillagok kövei.\n\nAz ókori egyiptomiak világnézete szerint az égbolt egy hatalmas fémüst volt, a meteoritok pedig ennek a letört darabjai, ami logikus magyarázatot adott a jelenségre. Ez a gyakorlatias és egyben mitikus szemléletmód azonban később évszázadokra feledésbe merült. Az ilyen történetek és hiedelmek ma a geomitológia nevű tudományág alapját képezik, amely a földtörténeti eseményeket próbálja összekötni a fennmaradt mondákkal és emberi emlékekkel.",
-      "content_format": "markdown",
-      "body": [
-        "A minószi és mükénéi elithez tartozó sírokból előkerült, bronzkori leletek első ránézésre átlagosnak tűnnek: nem túl gazdagon díszítettek, méretüket tekintve pedig sem nem óriásiak, sem nem miniatürizáltak. A vizsgált 91 gyűrű közül 13 darab esetében a magas nikkeltartalom mutatta ki egyértelműen, hogy az alapanyaguk a világűrből származó meteorvas, míg további kilenc tárgynál ugyanez valószínűsíthető. Bár a meteoritok felhasználása szinte minden kontinensen ismert volt korábban is, ez az első alkalom, hogy a mai Görögország területén bronzkori meteorvastárgyakat azonosítottak.",
-        "A státuszszimbólumnak számító ékszerek alapanyaga a kutatók felmérései szerint Egyiptomból érkezhetett, a sivatagos területeken ugyanis jóval könnyebb volt meteoritot találni, mint a szigetvilágban. A kereskedelem révén terjedő fém szentnek számított ebben a korban: az egyiptomiak például tevéknek is készítettek belőle talizmánokat, hogy a karavánok biztosan célba érjenek. Nemcsak a Mediterráneumban becsülték nagyra ezt az alapanyagot, hanem Asszíria fővárosában, Assurban is, ahol az égi vas az adózandó termékek listáján szerepelt Jan Gerrit Dercksen, a Leideni Egyetem történésze szerint.",
-        "A leghíresebb hasonló korú tárgy Tutanhamon tőre, amelynek alapanyaga egy Alexandriától 240 kilométerre becsapódott vasmeteoritból származik, és legalább 3300 éves. Victoria Almansa-Villatoro egyiptológus rámutatott, hogy a hettiták időszámításunk előtt 3000 és 2000 között már elkezdték használni a meteoritvasat a mai Törökország területén, sőt gyöngyöket és ékszereket is formáltak belőle. Az egyiptomiak saját hieroglifát is szenteltek az égből érkező fémnek, ami bizonyítja, hogy pontosan tisztában voltak a kövek égi eredetével.",
-        "Ez a fajta tudatosság nem korlátozódott a Közel-Keletre: Észak-Amerikában a hopi törzs tagjai szintén szentként tiszteltek egy felhőktől származó meteoritot. Az oregoni Clackamas törzs lakói a 14,5 tonnás, égi látogatónak is nevezett Willamette meteoritról tartották úgy, hogy a Holdról érkezett, míg Albertában a Cree és a Blackfoot törzsek ugyancsak ismerték és tisztelték egy 145 kilós vasmeteorit eredetét. Maria Golia amerikai írónő Meteorite: Nature and Culture című könyvében részletesen bemutatja, hogy ezek a közösségek a tudományos műszerek hiányában is pontosan tudták, honnan jöttek a csillagok kövei.",
-        "Az ókori egyiptomiak világnézete szerint az égbolt egy hatalmas fémüst volt, a meteoritok pedig ennek a letört darabjai, ami logikus magyarázatot adott a jelenségre. Ez a gyakorlatias és egyben mitikus szemléletmód azonban később évszázadokra feledésbe merült. Az ilyen történetek és hiedelmek ma a geomitológia nevű tudományág alapját képezik, amely a földtörténeti eseményeket próbálja összekötni a fennmaradt mondákkal és emberi emlékekkel."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 3,
-      "word_count": 412,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/f3ea4c4d40067fb3.jpg",
-        "width": 1920,
-        "height": 817,
-        "kind": "photo",
-        "alt": "viking, stone age, bronze, gold, golden, scandinavian, historical, museum, ancient, era, primitive, jewelry, jewels, treasure, display, bracelet, ring, accessory, jewelery, expensive, adornment, preci",
-        "credit": "PublicDomainPictures / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/viking-stone-age-bronze-gold-314861/",
-        "vision_score": 7.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/f3ea4c4d40067fb3.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://qubit.hu/2026/10/04/a-dinoszauruszok-vegzete-mitoszok-forrasa-varazskardok-anyaga-a-csodalatos-meteorit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "title": "A dinoszauruszok végzete, mítoszok forrása, varázskardok anyaga: a csodálatos meteorit",
-          "publisher": "qubit.hu",
-          "license": null,
-          "accessed_at": "2026-10-04T14:19:23+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-04T14:40:43+02:00"
-      },
-      "hot_score": 5.47,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://qubit.hu/2026/10/04/a-dinoszauruszok-vegzete-mitoszok-forrasa-varazskardok-anyaga-a-csodalatos-meteorit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      },
-      "date": "2026-10-04",
-      "date_label": "október 4.",
-      "url": "/tech/2026-10-04-mar-az-okori-gorogok-is-egi-vasbol-kovacsoltak-gyuruket/",
-      "seo": {
-        "meta_title": "Már az ókori görögök is égi vasból kovácsoltak gyűrűket",
-        "meta_description": "Egy idén augusztusban megjelent tanulmány szerint a mükénéi és minószi elit tagjai már a bronzkorban meteorvasból készült gyűrűket hordtak. A felfedezés arra ut",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-04-mar-az-okori-gorogok-is-egi-vasbol-kovacsoltak-gyuruket/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/f3ea4c4d40067fb3.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "90eb99e74d8ea6ca1ceb8f608d43eb26b22b42c2553da9720b387a7c02704144",
-      "pipeline_run_id": "37201451630",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-04T14:40:43+02:00",
-      "updated_at": "2026-10-24T06:03:53+00:00",
-      "published_at": "2026-10-04T14:40:43+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Jan Gerrit Dercksen",
-        "Victoria Almansa-Villatoro",
-        "Tutankhamun",
-        "Leiden University",
-        "Assurban",
-        "Alexandria",
-        "ancient jewelry",
-        "meteorite iron",
-        "archaeological excavation",
-        "Mycenaean civilization",
-        "Minoan civilization",
-        "Ancient Egypt",
-        "Assyria",
-        "Hittites",
-        "bronze age ring",
-        "ancient jewelry",
-        "meteorite stone"
-      ],
-      "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ancient_Egyptian_jewelry_beads_and_amulet_Penn_Museum.jpg/1280px-Ancient_Egyptian_jewelry_beads_and_amulet_Penn_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://pixabay.com/get/g5ed9989c6fa7d85bd14db2332b06e484020bc7ad1b48b3182e9cf8f31618e7d3c7e68220c1a29261cc6d342e50b3658df71e49ebe03e212111ad470df0053486_1280.jpg",
-        "https://xn--kollektva-m5a.hu/public/img/gen/1e038c5e01-1791117050-1.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Iron_meteorite._Hammersley_Range%2C_Australia-8911.jpg/1280px-Iron_meteorite._Hammersley_Range%2C_Australia-8911.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Namibie_Hoba_Meteorite_05.JPG/1280px-Namibie_Hoba_Meteorite_05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://pixabay.com/get/g6c3c4fca7f214169fb0b43ce78d2edae1e8de30ab38f1fa5cef99dc1905a48002f0cb2412e72c77a38b3c04e934afa13_1280.jpg",
-        "https://xn--kollektva-m5a.hu/public/img/gen/1e038c5e01-1791117046-0.jpg"
-      ]
     }
   ]
 }
