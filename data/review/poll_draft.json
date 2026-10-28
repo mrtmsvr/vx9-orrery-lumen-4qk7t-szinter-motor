@@ -1,35 +1,35 @@
 {
-  "id": "419729df79",
-  "date": "2026-10-27",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-26-kirugta-kulsos-partnereit-a-kozmedia-hazon-belul-gyartjak-a-petofit/",
-  "article_title": "Kirúgta külsős partnereit a közmédia, házon belül gyártják a Petőfit",
+  "id": "83ccc4f382",
+  "date": "2026-10-28",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-27-itt-van-a-wekerle-plusz-hitel-es-lakastakarek/",
+  "article_title": "Megérkeztek a Wekerle-program részletei",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés, hogy házon belül gyártja a közmédia a Petőfi brand műsorait?",
+      "question": "Ön szerint hatékonyak lesznek az új lakástámogatási intézkedések?",
       "options": [
-        "Igen, jobb így a hatékonyság",
-        "Nem, jobb lenne külsős partnerekkel dolgozni",
+        "Igen, jelentősen segítik a lakásvásárlást",
+        "Nem, nem oldják meg a lakhatási válságot",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jó irány-e az, ha a közmédia csökkenti a külsős gyártók arányát?",
+      "question": "Jó iránynak tartja az államilag támogatott lakástakarék-rendszer visszatérését?",
       "options": [
-        "Igen, támogatandó a belső kapacitás",
-        "Nem, a piaci verseny fontosabb",
+        "Igen, szükség van az állami ösztönzésre",
+        "Nem, a piaci megoldások lennének jobbak",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a közmédiumok műsorgyártási gyakorlatának átalakítását?",
+      "question": "Hogyan értékeli a Wekerle-program bevezetésének időzítését?",
       "options": [
-        "Pozitív fejlemény",
-        "Negatív fejlemény",
+        "Megfelelő pillanatban érkezik a támogatás",
+        "Túl későn indul a program",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9566
+  "msg_id": 9578
 }
