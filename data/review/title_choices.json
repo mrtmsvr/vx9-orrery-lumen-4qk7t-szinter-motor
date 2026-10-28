@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Kivárásra játszik a jegybank: nem mozdult az alapkamat",
-      "instead_of": "Nem nyúlt a kamathoz a jegybank, máris gyengüléssel reagált a forint",
-      "custom": false,
-      "t": "2026-10-20T16:25:35+00:00"
-    },
-    {
       "chosen": "Ötszáz katonát küld Milánóba az olasz kabinet a zavargások után",
       "instead_of": "Ötszáz katonát vezényel Milánóba a Meloni-kormány a fosztogatások miatt",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Trump és Belgrád döntheti el az ukrán háború sorsát",
       "custom": false,
       "t": "2026-10-28T17:55:50+00:00"
+    },
+    {
+      "chosen": "Hónapok óta várakozik a volt miniszterelnök a neki járó állami juttatásokra",
+      "instead_of": "Válaszra sem méltatja Orbánt a Tisza-kormány a titkársága miatt",
+      "custom": false,
+      "t": "2026-10-28T18:02:09+00:00"
     }
   ]
 }
