@@ -1,7 +1,141 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T19:51:49+01:00",
+  "updated_at": "2026-10-29T21:12:48+01:00",
   "articles": [
+    {
+      "id": "8da81a0d-cdf9-58ae-9991-2284b47a1e17",
+      "slug": "2026-10-29-lakner-zoltan-szerint-matolcsyek-bukasa-teljesen-atirja-a-magyar-poli",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Matolcsy György",
+        "Lakner Zoltán",
+        "Partizán",
+        "Győr",
+        "Tisza Párt"
+      ],
+      "title": "Lakner Zoltán szerint Matolcsy György volt jegybankelnök ügye teljesen átírja a magyar politikát",
+      "subtitle": null,
+      "lead": "Győrben, a Partizán élő adásában elemezte Lakner Zoltán politológus Matolcsy György volt jegybankelnök ügyét és a Tisza Párt új költségvetési javaslatát. A beszélgetés során a Fidesz és a Tisza adópolitikája, valamint a közbeszédet formáló politikai narratívák is terítékre kerültek.",
+      "key_points": [
+        "Lakner Zoltán a Partizán győri rendezvényén elemezte Matolcsy György ügyét.",
+        "A Tisztítótűz-művelet keretében letartóztatták a volt jegybankelnököt.",
+        "A beszélgetésben szó esett a Tisza Párt új költségvetési javaslatáról és a két párt adópolitikájáról is.",
+        "A politológus kiemelte, hogy a sajtó és az Állami Számvevőszék jelentései már régóta mutatták a jegybanki alapítványok körül folyó ügyeket."
+      ],
+      "content": "A Partizán Rendszerváltás-figyelő turnéjának második állomásaként, a győri Kontrapont Kultúrtérből közvetített élő adásban értékelte a hazai közpolitikai folyamatokat Lakner Zoltán politológus és szociálpolitikus. A beszélgetés egyik kiemelt témája volt Matolcsy György volt jegybankelnök ügye.\n\nA politológus a Partizán műsorában rámutatott, hogy a kormánypárt egyes szereplői szavakban igyekeztek eltávolodni a nemzeti banki ügyektől, miközben az Állami Számvevőszék jelentése már 2025 márciusa óta rendelkezésre áll. Lakner Zoltán emlékeztetett arra is, hogy a magyar sajtó az elmúlt évtizedben részletesen feltárta a jegybanki alapítványok működését és azok ágazatait.\n\nAz adásban terítékre került a Tisza Párt új költségvetési javaslata is, amelyet a műsorvezető és a vendég részletesen kitárgyalt. A beszélgetés során összehasonlították a Fidesz és a Tisza adó- és bérpolitikáját, megvizsgálva a különböző társadalmi csoportokra háruló terheket, a minimálbér-emeléseket, a nyugdíjak helyzetét, valamint a szociális juttatások rendszerét.\n\nAz elemzés rávilágított arra, hogy a választási programok és a koalíciós elképzelések miként formálják a választók körében a közbeszédet.",
+      "content_format": "markdown",
+      "body": [
+        "A Partizán Rendszerváltás-figyelő turnéjának második állomásaként, a győri Kontrapont Kultúrtérből közvetített élő adásban értékelte a hazai közpolitikai folyamatokat Lakner Zoltán politológus és szociálpolitikus. A beszélgetés egyik kiemelt témája volt Matolcsy György volt jegybankelnök ügye.",
+        "A politológus a Partizán műsorában rámutatott, hogy a kormánypárt egyes szereplői szavakban igyekeztek eltávolodni a nemzeti banki ügyektől, miközben az Állami Számvevőszék jelentése már 2025 márciusa óta rendelkezésre áll. Lakner Zoltán emlékeztetett arra is, hogy a magyar sajtó az elmúlt évtizedben részletesen feltárta a jegybanki alapítványok működését és azok ágazatait.",
+        "Az adásban terítékre került a Tisza Párt új költségvetési javaslata is, amelyet a műsorvezető és a vendég részletesen kitárgyalt. A beszélgetés során összehasonlították a Fidesz és a Tisza adó- és bérpolitikáját, megvizsgálva a különböző társadalmi csoportokra háruló terheket, a minimálbér-emeléseket, a nyugdíjak helyzetét, valamint a szociális juttatások rendszerét.",
+        "Az elemzés rávilágított arra, hogy a választási programok és a koalíciós elképzelések miként formálják a választók körében a közbeszédet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 197,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Gyor_town_hall.jpg/1280px-Gyor_town_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 820,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Győr Town Hall",
+        "credit": "User:Slashme / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gyor_town_hall.jpg",
+        "exact": true,
+        "entity": "Győr",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=7-oARHYLe8E",
+          "title": "Mit üzen Matolcsyék bukása, ki jár jól a költségvetéssel? | Elemzés Lakner Zoltánnal Győrből",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-10-29T19:53:52+01:00"
+        }
+      ],
+      "quote": {
+        "text": "hát ugye úgy tollta el magától egyébként valamelyest valóban a szavakban a Fidesz vagy a Fidesznek egyes személyiségei Matolcsy Györgyöt, Matolcsy Ádámot, ezt az egész nemzeti banki ügyet, hogy persze nem történt semmi.",
+        "who": "Lakner Zoltán politológus",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-29T21:12:47+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=7-oARHYLe8E"
+        ]
+      },
+      "date": "2026-10-29",
+      "date_label": "október 29.",
+      "url": "/kozelet/2026-10-29-lakner-zoltan-szerint-matolcsyek-bukasa-teljesen-atirja-a-magyar-poli/",
+      "seo": {
+        "meta_title": "Lakner Zoltán szerint Matolcsy György volt jegybankelnök ügy",
+        "meta_description": "Győrben, a Partizán élő adásában elemezte Lakner Zoltán politológus Matolcsy György volt jegybankelnök ügyét és a Tisza Párt új költségvetési javaslatát. A besz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-29-lakner-zoltan-szerint-matolcsyek-bukasa-teljesen-atirja-a-magyar-poli/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Gyor_town_hall.jpg/1280px-Gyor_town_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "62c10d4e-a702-5d29-908a-c62dbc6e4e92",
+        "4e5efa3a-222c-5fea-be71-515d36a80884",
+        "09116177-7606-528a-b265-6affc6b17df8"
+      ],
+      "see_also": [
+        {
+          "title": "Ötévesen a puskalövések árnyékában: Romsics Ignác emlékei 1956-ról",
+          "url": "/kozelet/2026-10-17-otevesen-a-puskalovesek-arnyekaban-romsics-ignac-emlekei-1956-rol/",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Kossuth-címer az osztályteremben: Spiró György gyermekkori 56-os emlékei",
+          "url": "/kultura/2026-10-24-kossuth-cimer-az-osztalyteremben-spiro-gyorgy-gyermekkori-56-os-emlek/",
+          "date": "2026-10-24"
+        },
+        {
+          "title": "Ezt mondta Bencsik András a zászlómeneten Magyar Péterről",
+          "url": "/kozelet/2026-10-23-ezt-mondta-bencsik-andras-a-zaszlomeneten-magyar-peterrol/",
+          "date": "2026-10-23"
+        }
+      ],
+      "thread_id": "62c10d4e-a702-5d29-908a-c62dbc6e4e92",
+      "dedupe_hash": "80aeddbe4c947ab5869382ee129dddfc7231c62be04bfcf5541a29eecf17b225",
+      "pipeline_run_id": "40933329310",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-29T21:12:47+01:00",
+      "updated_at": "2026-10-29T21:12:47+01:00",
+      "published_at": "2026-10-29T21:12:47+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "7-oARHYLe8E",
+        "title": "Mit üzen Matolcsyék bukása, ki jár jól a költségvetéssel? | Elemzés Lakner Zoltánnal Győrből",
+        "channel": "Partizán",
+        "minutes": 60
+      }
+    },
     {
       "id": "dcacd2c6-a4d8-5658-9eb7-ac6711c3c3a0",
       "slug": "2026-10-29-nem-vaghatja-le-hanko-balazs-hajat-a-kedvenc-budapesti-fodrasza",
@@ -69749,115 +69883,6 @@
         "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791205014-0.jpg",
         "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1791205016-1.jpg"
       ]
-    },
-    {
-      "id": "d9392d15-7044-5d77-8402-346b5f8b7752",
-      "slug": "2026-10-05-otmilliard-felett-a-hiany-nehez-negyedev-zarult-a-koltsegvetesben",
-      "status": "removed",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "forint",
-        "dollár",
-        "infláció",
-        "költségvetés",
-        "tőzsde"
-      ],
-      "title": "Ötmilliárd felett a hiány: nehéz negyedév zárult a költségvetésben",
-      "subtitle": null,
-      "lead": "Újra a 370-es eurószintet kóstolgatja a magyar deviza, miközben a tőzsdén már a negyedéves gyorsjelentési szezont várják a befektetők. A dollár egyéves csúcson jár, ami komoly ellenszelet fúj a hazai pénztárcák felé.",
-      "key_points": [
-        "A dollár egyéves csúcson, az euró 370 közelében mozog.",
-        "Szeptemberben 92,8 milliárd forintos hiánnyal zárt az államháztartás központi alrendszere.",
-        "A pesti tőzsde pozitívan indította a hetet, a BUX index emelkedéssel rajtolt.",
-        "A hét közepén érkezik a szeptemberi inflációs adat és a Fed-jegyzőkönyv."
-      ],
-      "content": "Újra nehéz napokat él át a magyar fizetőeszköz a nemzetközi devizapiacon, miután a dollár az egyéves csúcsa közelében ragadt, az euró jegyzése pedig pénteken ismét a 370-es szintet súrolta. Hétfő reggel az euró 368,3 forintnál, a dollár pedig 329 forint körül mozog, miután a Portfolio.hu beszámolója szerint a fejlett hosszú hozamok is több éve nem látott rekordokat döntenek. A forint számára különösen rosszul jött ez az össztűz, hiszen a harmadik negyedévben hirtelen a leggyengébb teljesítményt nyújtó devizák közé sodródott az év eleji lendület után.\n\nA gyengülő árfolyamok mellett a hazai költségvetés helyzetéről is friss adatok láttak napvilágot. Ezzel párhuzamosan a finisébe érkezett a 2027-es költségvetés tervezése, ami a hétvégi kihelyezett kormányülésen is központi témát jelentett.\n\nA nemzetközi részvénypiacokon ugyanakkor sokkal jobb volt a hangulat a hét első napján. A múlt pénteken ismertetett, a vártnál gyengébb amerikai munkaerőpiaci adatok azonnal csökkentették annak valószínűségét, hogy az amerikai jegybank kamatot emelne, ez pedig megnyugtatta a befektetőket. Az ázsiai börzék is határozott pluszban zártak, a japán Nikkei például 2,4 százalékkal erősödött, miközben a pesti tőzsde is felfelé indult, a BUX index pedig 0,4 százalékos emelkedéssel 140 596 ponton rajtolt.\n\nA következő napokban a gazdasági naptár legfontosabb eseményei gyökeresen átírhatják a piaci várakozásokat. Kedden Kurali Zoltán, az MNB alelnöke tart előadást az euróbevezetésről, szerdán pedig érkezik a friss, szeptemberi inflációs adat, valamint a Fed várt jegyzőkönyve. Nemzetközi fronton eközben elindul a harmadik negyedéves vállalati gyorsjelentési szezon is az Egyesült Államokban, ami szintén új irányt szabhat a globális tőzsdéknek.",
-      "content_format": "markdown",
-      "body": [
-        "Újra nehéz napokat él át a magyar fizetőeszköz a nemzetközi devizapiacon, miután a dollár az egyéves csúcsa közelében ragadt, az euró jegyzése pedig pénteken ismét a 370-es szintet súrolta. Hétfő reggel az euró 368,3 forintnál, a dollár pedig 329 forint körül mozog, miután a Portfolio.hu beszámolója szerint a fejlett hosszú hozamok is több éve nem látott rekordokat döntenek. A forint számára különösen rosszul jött ez az össztűz, hiszen a harmadik negyedévben hirtelen a leggyengébb teljesítményt nyújtó devizák közé sodródott az év eleji lendület után.",
-        "A gyengülő árfolyamok mellett a hazai költségvetés helyzetéről is friss adatok láttak napvilágot. Ezzel párhuzamosan a finisébe érkezett a 2027-es költségvetés tervezése, ami a hétvégi kihelyezett kormányülésen is központi témát jelentett.",
-        "A nemzetközi részvénypiacokon ugyanakkor sokkal jobb volt a hangulat a hét első napján. A múlt pénteken ismertetett, a vártnál gyengébb amerikai munkaerőpiaci adatok azonnal csökkentették annak valószínűségét, hogy az amerikai jegybank kamatot emelne, ez pedig megnyugtatta a befektetőket. Az ázsiai börzék is határozott pluszban zártak, a japán Nikkei például 2,4 százalékkal erősödött, miközben a pesti tőzsde is felfelé indult, a BUX index pedig 0,4 százalékos emelkedéssel 140 596 ponton rajtolt.",
-        "A következő napokban a gazdasági naptár legfontosabb eseményei gyökeresen átírhatják a piaci várakozásokat. Kedden Kurali Zoltán, az MNB alelnöke tart előadást az euróbevezetésről, szerdán pedig érkezik a friss, szeptemberi inflációs adat, valamint a Fed várt jegyzőkönyve. Nemzetközi fronton eközben elindul a harmadik negyedéves vállalati gyorsjelentési szezon is az Egyesült Államokban, ami szintén új irányt szabhat a globális tőzsdéknek."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 282,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/1e8b9f2d39195e52.jpg",
-        "width": 5812,
-        "height": 3875,
-        "kind": "photo",
-        "alt": "stock, trading, monitor, business, finance, exchange, investment, market, trade, data, graph, economy, financial, currency, chart, information, technology, profit, forex, rate, foreign exchange, analy",
-        "credit": "3844328 / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/stock-trading-monitor-business-1863880/",
-        "vision_score": 9.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/1e8b9f2d39195e52.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/deviza/20261005/egyeves-csucsan-a-dollar-a-forint-a-hazai-adatokra-var-867310",
-          "title": "Egyéves csúcsán a dollár, a forint a hazai adatokra vár",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-05T14:54:33+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/penz-es-tokepiac/2026/10/toszdenyitas-otp-mol-bux-olaj-forint-dollar-euro?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Jól indul a nap a tőzsdén: ugrik a Mol árfolyama, csak az OTP ragadt be a rajtnál – bivalyerős dollár tartja nyomás alatt a forintot",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-05T14:54:33+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-05T15:11:06+02:00"
-      },
-      "hot_score": 7.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/deviza/20261005/egyeves-csucsan-a-dollar-a-forint-a-hazai-adatokra-var-867310"
-        ]
-      },
-      "date": "2026-10-05",
-      "date_label": "október 5.",
-      "url": "/penzvilag/2026-10-05-otmilliard-felett-a-hiany-nehez-negyedev-zarult-a-koltsegvetesben/",
-      "seo": {
-        "meta_title": "Ötmilliárd felett a hiány: nehéz negyedév zárult a költségve",
-        "meta_description": "Újra a 370-es eurószintet kóstolgatja a magyar deviza, miközben a tőzsdén már a negyedéves gyorsjelentési szezont várják a befektetők. A dollár egyéves csúcson ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-05-otmilliard-felett-a-hiany-nehez-negyedev-zarult-a-koltsegvetesben/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/1e8b9f2d39195e52.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "f07d1dbe937fdeee14a06ffe3a8caeacac71e48a6a0dfd2395fb3f1130d52eab",
-      "pipeline_run_id": "37311794645",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-05T15:11:06+02:00",
-      "updated_at": "2026-10-05T15:11:06+02:00",
-      "published_at": "2026-10-05T15:11:06+02:00",
-      "expires_at": null,
-      "removed_reason": "cím ellentmond"
     }
   ]
 }
