@@ -1,35 +1,35 @@
 {
-  "id": "83ccc4f382",
-  "date": "2026-10-28",
-  "status": "approved",
-  "article_url": "/kozelet/2026-10-27-itt-van-a-wekerle-plusz-hitel-es-lakastakarek/",
-  "article_title": "Megérkeztek a Wekerle-program részletei",
+  "id": "1e413fe3d9",
+  "date": "2026-10-29",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-28-vege-a-vadnyugatnak-bukosisakot-es-korhatart-irnak-elo-az-e-rollerekr/",
+  "article_title": "Vége a vadnyugatnak: bukósisakot és korhatárt írnak elő az e-rollerekre",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint hatékonyak lesznek az új lakástámogatási intézkedések?",
+      "question": "Ön támogatja az e-rollerek kötelező bukósisak-használatát?",
       "options": [
-        "Igen, jelentősen segítik a lakásvásárlást",
-        "Nem, nem oldják meg a lakhatási válságot",
+        "Igen, a biztonság miatt szükséges",
+        "Nem, túlzott bürokratikus korlátozás",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jó iránynak tartja az államilag támogatott lakástakarék-rendszer visszatérését?",
+      "question": "Helyesnek tartja az e-rollerek használatának korhatárhoz kötését?",
       "options": [
-        "Igen, szükség van az állami ösztönzésre",
-        "Nem, a piaci megoldások lennének jobbak",
+        "Igen, védelmet nyújt a fiataloknak",
+        "Nem, feleslegesen korlátozza a közlekedést",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a Wekerle-program bevezetésének időzítését?",
+      "question": "Megfelelő lépésnek tartja az e-rollerek KRESZ szerinti külön kategóriába sorolását?",
       "options": [
-        "Megfelelő pillanatban érkezik a támogatás",
-        "Túl későn indul a program",
+        "Igen, rendezni kell a helyzetüket",
+        "Nem, nem oldja meg a problémákat",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9578
+  "msg_id": 9607
 }
