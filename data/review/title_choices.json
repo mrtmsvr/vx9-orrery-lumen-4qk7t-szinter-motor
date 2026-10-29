@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Félreértett szerepek és fájdalom: tizenegy év után új verseskötettel jelentkezett Karafiáth Orsolya",
-      "instead_of": "Ötvenévesen a romlásról és a túlélésről mesél Karafiáth Orsolya",
-      "custom": false,
-      "t": "2026-10-20T16:27:24+00:00"
-    },
-    {
       "chosen": "Véget ért a román kormányválság, Luca Niculescu kabinetje kapott bizalmat",
       "instead_of": "Megszavazta a román parlament a Luca Niculescu vezette kabinetet",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Óriáskereket üzemeltet Balin a milliárdos lélegeztetőgép-biznisz szökevénye",
       "custom": false,
       "t": "2026-10-29T13:12:32+00:00"
+    },
+    {
+      "chosen": "Marco Rubio naptárába is bekerült: csütörtök délután tárgyal Orbán Anita Washingtonban",
+      "instead_of": "Marco Rubio miatt halasztották el Orbán Anita washingtoni csúcstalálkozóját",
+      "custom": false,
+      "t": "2026-10-29T13:12:55+00:00"
     }
   ]
 }
