@@ -1,7 +1,110 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T21:16:44+01:00",
+  "updated_at": "2026-10-29T21:26:22+01:00",
   "articles": [
+    {
+      "id": "44c88a48-5de7-508f-adcd-097163ef5118",
+      "slug": "2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja",
+      "status": "published",
+      "category": "bulvar",
+      "subcategory": null,
+      "tags": [
+        "Patrick Stewart",
+        "Star Trek",
+        "X-Men",
+        "gyász",
+        "színész"
+      ],
+      "title": "Elhunyt Sir Patrick Stewart, a Star Trek legendája",
+      "subtitle": null,
+      "lead": "Nyolcvanhat éves korában, Los Angeles-i otthonában elhunyt Sir Patrick Stewart, a Star Trek és az X-Men-filmek világhírű színésze. A gyászhírt a művész képviselője erősítette meg.",
+      "key_points": [
+        "Nyolcvanhat éves korában elhunyt Sir Patrick Stewart színművész.",
+        "A halálhírt a képviselője erősítette meg, amiről a Deadline számolt be.",
+        "A színész rövid, de megrendítő küzdelmet folytatott az Alzheimer-kórral és a Lewy-testes demenciával.",
+        "Közel hat évtizedes pályafutása során a filmvásznon és a színpadon is maradandót alkotott."
+      ],
+      "content": "Nyolcvanhat éves korában, Los Angeles-i otthonában elhunyt Sir Patrick Stewart, aki a filmtörténet és a televíziózás egyik legikonikusabb alakjaként vált ismertté. A gyászhírt a művész képviselője erősítette meg a Deadline beszámolója szerint, közölve, hogy a színész október 28-án szerettei körében hunyt el, felesége, Sunny oldalán.\n\nA közlemény részletei szerint a legendás előadó rövid, de megrendítő küzdelmet folytatott az Alzheimer-kórral és a Lewy-testes demenciával. Utolsó óráit családja és barátai körében töltötte, zenével, imával, könnyekkel és nevetéssel kísérve.\n\nA közel hat évtizedes pályafutást maga mögött tudó Sir Patrick Stewart a színpadon és a filmvásznon egyaránt maradandót alkotott. A televízióban leginkább Jean-Luc Picard kapitány szerepében égett bele a köztudatba a Star Trek: Az új nemzedék című sorozatban, amelyet hét évadon keresztül alakított, majd a Star Trek: Picard című szériában is megformált. Emellett a mozifilmekben Charles Xavier professzorként, a mutánsok vezetőjeként is bevonult a popkultúrába az X-Men-filmek révén.\n\nGazdag karrierje során számos rangos elismerést gyűjtött be: három Olivier-díjat nyert színházi munkájáért, emellett Tony-, Emmy-, Golden Globe- és SAG-díjra is jelölték. II. Erzsébet brit királynő 2010-ben lovaggá ütötte a színjátszás terén végzett szolgálatai elismeréseként, így nyerte el a Sir előnevet.",
+      "content_format": "markdown",
+      "body": [
+        "Nyolcvanhat éves korában, Los Angeles-i otthonában elhunyt Sir Patrick Stewart, aki a filmtörténet és a televíziózás egyik legikonikusabb alakjaként vált ismertté. A gyászhírt a művész képviselője erősítette meg a Deadline beszámolója szerint, közölve, hogy a színész október 28-án szerettei körében hunyt el, felesége, Sunny oldalán.",
+        "A közlemény részletei szerint a legendás előadó rövid, de megrendítő küzdelmet folytatott az Alzheimer-kórral és a Lewy-testes demenciával. Utolsó óráit családja és barátai körében töltötte, zenével, imával, könnyekkel és nevetéssel kísérve.",
+        "A közel hat évtizedes pályafutást maga mögött tudó Sir Patrick Stewart a színpadon és a filmvásznon egyaránt maradandót alkotott. A televízióban leginkább Jean-Luc Picard kapitány szerepében égett bele a köztudatba a Star Trek: Az új nemzedék című sorozatban, amelyet hét évadon keresztül alakított, majd a Star Trek: Picard című szériában is megformált. Emellett a mozifilmekben Charles Xavier professzorként, a mutánsok vezetőjeként is bevonult a popkultúrába az X-Men-filmek révén.",
+        "Gazdag karrierje során számos rangos elismerést gyűjtött be: három Olivier-díjat nyert színházi munkájáért, emellett Tony-, Emmy-, Golden Globe- és SAG-díjra is jelölték. II. Erzsébet brit királynő 2010-ben lovaggá ütötte a színjátszás terén végzett szolgálatai elismeréseként, így nyerte el a Sir előnevet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 223,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1280px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1560,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Patrick Stewart speaking at the 2019 San Diego Comic-Con International in San Diego, California.",
+        "credit": "Gage Skidmore / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Patrick_Stewart_by_Gage_Skidmore_2.jpg",
+        "exact": true,
+        "entity": "Patrick Stewart",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.blikk.hu/sztarvilag/filmklikk/meghalt-patrick-stewart-star-trek-x-men/xcdq7es",
+          "title": "Meghalt Patrick Stewart",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-10-29T21:25:29+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-10-29T21:26:22+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.blikk.hu/sztarvilag/filmklikk/meghalt-patrick-stewart-star-trek-x-men/xcdq7es"
+        ]
+      },
+      "date": "2026-10-29",
+      "date_label": "október 29.",
+      "url": "/bulvar/2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja/",
+      "seo": {
+        "meta_title": "Elhunyt Sir Patrick Stewart, a Star Trek legendája",
+        "meta_description": "Nyolcvanhat éves korában, Los Angeles-i otthonában elhunyt Sir Patrick Stewart, a Star Trek és az X-Men-filmek világhírű színésze. A gyászhírt a művész képvisel",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1280px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "c063bdac9e4d05adf09d94b01f14d303d8c0a51cb8e7686c7175673ad5e1908e",
+      "pipeline_run_id": "40946250516",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-29T21:26:22+01:00",
+      "updated_at": "2026-10-29T21:26:22+01:00",
+      "published_at": "2026-10-29T21:26:22+01:00",
+      "expires_at": null
+    },
     {
       "id": "f611d715-365f-52fa-88d8-41a86baf6b55",
       "slug": "2026-10-29-nem-o-volt-de-lemondott-peniszfoto-bukkant-fel-a-gadorosi-alpolgarmes",
@@ -69778,125 +69881,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/MOL_Group_Building%2C_L%C3%A1gym%C3%A1nyos%2C_2016_%C3%9Ajbuda.jpg/1280px-MOL_Group_Building%2C_L%C3%A1gym%C3%A1nyos%2C_2016_%C3%9Ajbuda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/BUD_MOL_Group_H.Q..JPG/1280px-BUD_MOL_Group_H.Q..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Budapesti_Stra%C3%9Fe%2C_Magyar_Telekom%2C_2024_Moh%C3%A1cs.jpg/1280px-Budapesti_Stra%C3%9Fe%2C_Magyar_Telekom%2C_2024_Moh%C3%A1cs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
-    },
-    {
-      "id": "7f5080ea-06a4-5f95-8938-5580544c0d89",
-      "slug": "2026-10-05-brutalis-diaktuntetes-razza-meg-franciaorszagot-benulas-az-oktatasban",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Franciaország",
-        "diáktüntetés",
-        "oktatás",
-        "tüntetés",
-        "középiskola"
-      ],
-      "title": "Brutális diáktüntetés rázza meg Franciaországot: bénulás az oktatásban",
-      "subtitle": null,
-      "lead": "A francia középiskolák mintegy tizenöt százalékában felfüggesztették a tanítást a tanár- és eszközhiány miatt kitört erőszakos utcai megmozdulások nyomán. A kormányzati tájékoztatás szerint a tiltakozásokba szélsőbaloldali csoportok is beszivárogtak.",
-      "key_points": [
-        "Hétfőn a francia középiskolák 15 százalékában felfüggesztették a tanítást a biztonsági feltételek hiánya miatt.",
-        "A diákok az intézményekben fennálló eszköz- és tanárhiány ellen tiltakoznak országszerte.",
-        "A hatóságok adatai szerint korábban 24 intézményt rongáltak meg vagy gyújtottak fel a zavargások során."
-      ],
-      "content": "Részlegesen vagy teljesen felfüggesztették a tanítást a francia középiskolák mintegy tizenöt százalékában, mivel a jelenlegi helyzetben nem biztosíthatók a zavartalan oktatás feltételei – közölte vasárnap Édouard Geffray oktatási miniszter. A mindennapossá vált demonstrációk hátterében az intézményekben fennálló súlyos erőforrás- és tanárhiány áll, amely ellen a tanulók az utcákon és a tereken tiltakoznak.\n\nA megmozdulások az elmúlt napokban egyre erőszakosabb fordulatot vettek. A lángoló kukák és a rendőrökkel összecsapó fiatalok képei mellett a kormányzat arról is beszámolt, hogy az országban korábban huszonnégy oktatási intézményt rongáltak meg vagy gyújtottak fel.\n\nÉdouard Geffray oktatási miniszter nyilatkozata szerint a tiltakozási hullám elvesztette békés jellegét, mivel egyes helyeken szélsőbaloldali aktivisták szivárogtak be a mozgalomba, rátelepedve a diákok elégedetlenségére, és rendkívüli erőszakot tanúsítottak.\n\nA feszültség pénteken tetőzött, amikor a francia középiskolák több mint negyedét érintették a különböző akciók. Az iskolák körüli utcákon zajló összecsapások és a kieső tanítási napok nemcsak a helyi oktatási rendszert terhelik meg, hanem országos politikai vitát is generálnak a közoktatás finanszírozási hiányosságairól.",
-      "content_format": "markdown",
-      "body": [
-        "Részlegesen vagy teljesen felfüggesztették a tanítást a francia középiskolák mintegy tizenöt százalékában, mivel a jelenlegi helyzetben nem biztosíthatók a zavartalan oktatás feltételei – közölte vasárnap Édouard Geffray oktatási miniszter. A mindennapossá vált demonstrációk hátterében az intézményekben fennálló súlyos erőforrás- és tanárhiány áll, amely ellen a tanulók az utcákon és a tereken tiltakoznak.",
-        "A megmozdulások az elmúlt napokban egyre erőszakosabb fordulatot vettek. A lángoló kukák és a rendőrökkel összecsapó fiatalok képei mellett a kormányzat arról is beszámolt, hogy az országban korábban huszonnégy oktatási intézményt rongáltak meg vagy gyújtottak fel.",
-        "Édouard Geffray oktatási miniszter nyilatkozata szerint a tiltakozási hullám elvesztette békés jellegét, mivel egyes helyeken szélsőbaloldali aktivisták szivárogtak be a mozgalomba, rátelepedve a diákok elégedetlenségére, és rendkívüli erőszakot tanúsítottak.",
-        "A feszültség pénteken tetőzött, amikor a francia középiskolák több mint negyedét érintették a különböző akciók. Az iskolák körüli utcákon zajló összecsapások és a kieső tanítási napok nemcsak a helyi oktatási rendszert terhelik meg, hanem országos politikai vitát is generálnak a közoktatás finanszírozási hiányosságairól."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 188,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/c2005118c3-1791212369-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/c2005118c3-1791212369-0.jpg",
-        "kind": "photo",
-        "alt": "Brutális diáktüntetés rázza meg Franciaországot: bénulás az oktatásban",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/vilag/20261005_diaktuntetesek-franciaorszagban-galeria",
-          "title": "Rendőrökkel összecsapó fiatalok, felgyújtott kukák – képeken a fékevesztett francia diáktüntetések",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-05T16:53:38+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-05T16:59:50+02:00"
-      },
-      "hot_score": 5.72,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/vilag/20261005_diaktuntetesek-franciaorszagban-galeria"
-        ]
-      },
-      "date": "2026-10-05",
-      "date_label": "október 5.",
-      "url": "/vilag/2026-10-05-brutalis-diaktuntetes-razza-meg-franciaorszagot-benulas-az-oktatasban/",
-      "seo": {
-        "meta_title": "Brutális diáktüntetés rázza meg Franciaországot: bénulás az ",
-        "meta_description": "A francia középiskolák mintegy tizenöt százalékában felfüggesztették a tanítást a tanár- és eszközhiány miatt kitört erőszakos utcai megmozdulások nyomán. A kor",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-05-brutalis-diaktuntetes-razza-meg-franciaorszagot-benulas-az-oktatasban/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/c2005118c3-1791212369-0.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "5a87406cba1b3f64a4eef562a61a4ab2a8f43a825c61b700549cab5d99292708",
-      "pipeline_run_id": "37325945711",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-05T16:59:50+02:00",
-      "updated_at": "2026-10-05T16:59:50+02:00",
-      "published_at": "2026-10-05T16:59:50+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Édouard Geffray",
-        "French Ministry of Education",
-        "French high school",
-        "French police",
-        "burning trash can",
-        "student protest",
-        "school hallway",
-        "flames"
-      ],
-      "images_seen": [
-        "https://pixabay.com/get/gf4c17ebdcf48fbe5ec67793178f4bf9e6525346b7dbef36da86dcc2ace24fc5bd33ba08de1611d318c0a3560fa2f78f3877c984a428bec47c37b83c8e9b4dfad_1280.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/American_School_of_Paris_-_the_lobby.jpg/1280px-American_School_of_Paris_-_the_lobby.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sword_french_commissaire_de_police_-detail-.jpg/1280px-Sword_french_commissaire_de_police_-detail-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/EU_and_French_Flag_Together.jpg/1280px-EU_and_French_Flag_Together.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg/1280px-RF_emblem_with_French_flags%2C_Palais_des_Ducs%2C_Dijon%2C_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Paris_City_School_and_Paris_Junior_High_School%2C_the_main_building%2C_Paris%2C_KY.png/1280px-Paris_City_School_and_Paris_Junior_High_School%2C_the_main_building%2C_Paris%2C_KY.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://pixabay.com/get/g27f50b5ebf2cca86a7952aba72d34c3670bcd3b49c32ab9044db857a21e812e42455e3940a9139345654c87d3a75ef3d3384b3f0cf26e765c79e35b3c457f9c0_1280.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Citroen_C8_French_Police.jpg/1280px-Citroen_C8_French_Police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
     }
   ]
