@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Ötszáz katonát küld Milánóba az olasz kabinet a zavargások után",
-      "instead_of": "Ötszáz katonát vezényel Milánóba a Meloni-kormány a fosztogatások miatt",
-      "custom": false,
-      "t": "2026-10-20T16:26:19+00:00"
-    },
-    {
       "chosen": "Háromnegyedes többséggel mondtak nemet a tartományi függetlenségre Kanadában",
       "instead_of": "Megbukott Alberta függetlensége, maradtak kanadaiak a leggazdagabb olajtartományban",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Válaszra sem méltatja Orbánt a Tisza-kormány a titkársága miatt",
       "custom": false,
       "t": "2026-10-28T18:02:09+00:00"
+    },
+    {
+      "chosen": "A kulisszák mögött dől el az ENSZ főtitkár személye",
+      "instead_of": "Így dől el a világ legsúlyosabb diplomáciai pozíciója",
+      "custom": false,
+      "t": "2026-10-29T06:05:56+00:00"
     }
   ]
 }
