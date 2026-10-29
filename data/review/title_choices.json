@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Háromnegyedes többséggel mondtak nemet a tartományi függetlenségre Kanadában",
-      "instead_of": "Megbukott Alberta függetlensége, maradtak kanadaiak a leggazdagabb olajtartományban",
-      "custom": false,
-      "t": "2026-10-20T16:26:54+00:00"
-    },
-    {
       "chosen": "Félreértett szerepek és fájdalom: tizenegy év után új verseskötettel jelentkezett Karafiáth Orsolya",
       "instead_of": "Ötvenévesen a romlásról és a túlélésről mesél Karafiáth Orsolya",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Így dől el a világ legsúlyosabb diplomáciai pozíciója",
       "custom": false,
       "t": "2026-10-29T06:05:56+00:00"
+    },
+    {
+      "chosen": "Bali szigetéről írt levelet a lélegeztetőgép-biznisz körözött kulcsfigurája",
+      "instead_of": "Óriáskereket üzemeltet Balin a milliárdos lélegeztetőgép-biznisz szökevénye",
+      "custom": false,
+      "t": "2026-10-29T13:12:32+00:00"
     }
   ]
 }
