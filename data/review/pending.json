@@ -4859,7 +4859,7 @@
     {
       "id": "16610842-46e0-5c37-981a-80472f53a350",
       "slug": "2026-10-30-nem-kert-a-pentagon-intesebol-azonnal-visszavagott-az-eszt-kormanyfo",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -4891,16 +4891,16 @@
       "word_count": 291,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Estonian_and_Ukrainian_Flags.jpg/1280px-Estonian_and_Ukrainian_Flags.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Pentagon_January_2008.jpg/1280px-The_Pentagon_January_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
-        "kind": "graphic",
+        "height": 686,
+        "kind": "photo",
         "pos": "center",
-        "alt": "Estonian and Ukrainian flags at the demonstration in support of Ukraine in Tartu Town Hall square, 26.02.2022.",
-        "credit": "Mana Kaasik / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Estonian_and_Ukrainian_Flags.jpg",
-        "vision_score": 7.0
+        "alt": "The Pentagon, headquarters of the United States Department of Defense (AKA the Department of War), taken from an airplane in January 2008",
+        "credit": "David B. Gleason from Chicago, IL / Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Pentagon_January_2008.jpg",
+        "vision_score": 6.0
       },
       "inline_images": [],
       "sources": [
@@ -5024,7 +5024,7 @@
         "meta_title": "Nem kért a Pentagon intéséből: azonnal visszavágott az észt ",
         "meta_description": "Az amerikai védelmi minisztérium arra kérte a balti államokat, hogy kijelentéseikkel ne ingereljék Oroszországot, ám az észt miniszterelnök azonnal visszautasít",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-30-nem-kert-a-pentagon-intesebol-azonnal-visszavagott-az-eszt-kormanyfo/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Estonian_and_Ukrainian_Flags.jpg/1280px-Estonian_and_Ukrainian_Flags.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Pentagon_January_2008.jpg/1280px-The_Pentagon_January_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -5041,9 +5041,9 @@
       "dedupe_hash": "0ff6ef535b370b2238ae2794991375679e7d4686ebde68a76893daafbed4c7af",
       "pipeline_run_id": "41106795764",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-30T19:35:25+01:00",
-      "updated_at": "2026-10-30T19:35:25+01:00",
-      "published_at": "2026-10-30T19:35:25+01:00",
+      "created_at": "2026-10-30T20:06:07+01:00",
+      "updated_at": "2026-10-30T20:06:07+01:00",
+      "published_at": "2026-10-30T20:06:07+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -5057,8 +5057,11 @@
         "lead": "Az amerikai védelmi minisztérium arra kérte a balti államokat, hogy kijelentéseikkel ne ingereljék Oroszországot, ám az észt miniszterelnök azonnal visszautasította a rendreutasítást. A diplomáciai kulisszák mögött zajló egyeztetések alapjaiban rázzák meg a nyugati szövetségesek Oroszország-politikáját.",
         "ctl_photo": true,
         "control_id": 9638,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "e5d2b886-dcce-5d7b-a05d-ffd1ea58fae1",
