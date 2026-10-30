@@ -4894,14 +4894,16 @@
       },
       "review": {
         "title": 1,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-30T18:32:03+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 10.4 · 5 forrás\n\n1) Öt év börtönt kapott, de nyomkövetővel várja a másodfokot Boldog István\n2) Börtönbüntetés és nyomkövető jár a korrupciós ügyért Boldog Istvánnak\n3) Öt év letöltendőt szabtak ki Boldog Istvánra első fokon\n\n<b>Források:</b> 24.hu, index.hu, infostart.hu, hvg.hu, hvg.hu\n\n⚖️ Jogi ellenőrzés: 🟡 nézd át",
         "lead": "Első fokon öt év letöltendő szabadságvesztésre ítélte a Fővárosi Törvényszék Boldog István volt fideszes országgyűlési képviselőt vesztegetés elfogadása miatt. A bíróság vagyonelkobzást és közügyektől való eltiltást is elrendelt, miközben az érintett és a vádhatóság is fellebbezett az ítélet ellen.",
         "ctl_photo": true,
         "control_id": 9635,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
