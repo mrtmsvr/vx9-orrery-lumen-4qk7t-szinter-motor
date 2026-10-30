@@ -1,35 +1,35 @@
 {
-  "id": "1e413fe3d9",
-  "date": "2026-10-29",
+  "id": "e5ef5f8d8a",
+  "date": "2026-10-30",
   "status": "pending",
-  "article_url": "/kozelet/2026-10-28-vege-a-vadnyugatnak-bukosisakot-es-korhatart-irnak-elo-az-e-rollerekr/",
-  "article_title": "Vége a vadnyugatnak: bukósisakot és korhatárt írnak elő az e-rollerekre",
+  "article_url": "/kozelet/2026-10-29-tobbmilliardos-forrasbol-es-berpotlekokbol-ujitjak-meg-a-szocialis-sz/",
+  "article_title": "Többmilliárdos forrásból és bérpótlékokból újítják meg a szociális szférát",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön támogatja az e-rollerek kötelező bukósisak-használatát?",
+      "question": "Ön szerint a szociális szféra támogatását kell előtérbe helyezni?",
       "options": [
-        "Igen, a biztonság miatt szükséges",
-        "Nem, túlzott bürokratikus korlátozás",
+        "Igen, a legfontosabb terület",
+        "Nem, más területek fontosabbak",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesnek tartja az e-rollerek használatának korhatárhoz kötését?",
+      "question": "Elegendőnek tartja a szociális ágazatra szánt többletforrásokat?",
       "options": [
-        "Igen, védelmet nyújt a fiataloknak",
-        "Nem, feleslegesen korlátozza a közlekedést",
+        "Igen, elegendő a támogatás",
+        "Nem, jelentősen több forrás kell",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Megfelelő lépésnek tartja az e-rollerek KRESZ szerinti külön kategóriába sorolását?",
+      "question": "Hogyan ítéli meg a szociális szféra tervezett átalakítását?",
       "options": [
-        "Igen, rendezni kell a helyzetüket",
-        "Nem, nem oldja meg a problémákat",
+        "Pozitív lépésnek tartom",
+        "Kevésnek tartom a változtatást",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9607
+  "msg_id": 9630
 }
