@@ -5066,7 +5066,7 @@
     {
       "id": "e5d2b886-dcce-5d7b-a05d-ffd1ea58fae1",
       "slug": "2026-10-30-karacsonyi-udvozlet-a-tartotiszthez-igy-lett-ugynok-egy-nogradi-banya",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -5097,17 +5097,15 @@
       "word_count": 303,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cserh%C3%A1t_Mountains%2C_north_of_Holl%C3%B3k%C5%91.JPG/1280px-Cserh%C3%A1t_Mountains%2C_north_of_Holl%C3%B3k%C5%91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HUN_N%C3%B3gr%C3%A1d_megye_COA.png/1280px-HUN_N%C3%B3gr%C3%A1d_megye_COA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 800,
+        "height": 1418,
         "kind": "photo",
-        "pos": "center",
-        "alt": "Cserhát Mountains, north of Hollókő, Hungary",
-        "credit": "Takkk / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Cserh%C3%A1t_Mountains,_north_of_Holl%C3%B3k%C5%91.JPG",
-        "exact": true,
-        "entity": "Nógrád megye",
+        "pos": "top",
+        "alt": "Coats of arm of countie of Hungary",
+        "credit": "Imoti95 / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HUN_N%C3%B3gr%C3%A1d_megye_COA.png",
         "unverified": true
       },
       "inline_images": [],
@@ -5228,7 +5226,7 @@
         "meta_title": "Karácsonyi üdvözlet a tartótiszthez: így lett ügynök egy nóg",
         "meta_description": "Egy Nógrád megyei bányász, Gy. történetén keresztül mutatja be a Kádár-rendszer titkosszolgálati működését a Partizán videója. Az aktákból kiderül, hogyan válto",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-30-karacsonyi-udvozlet-a-tartotiszthez-igy-lett-ugynok-egy-nogradi-banya/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Cserh%C3%A1t_Mountains%2C_north_of_Holl%C3%B3k%C5%91.JPG/1280px-Cserh%C3%A1t_Mountains%2C_north_of_Holl%C3%B3k%C5%91.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HUN_N%C3%B3gr%C3%A1d_megye_COA.png/1280px-HUN_N%C3%B3gr%C3%A1d_megye_COA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -5253,9 +5251,9 @@
       "dedupe_hash": "ecc7e13606e07e84b3af72ec53f92f872b9a9558baa2a636b31a9466707e6d4d",
       "pipeline_run_id": "41106795764",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-30T19:36:55+01:00",
-      "updated_at": "2026-10-30T19:36:55+01:00",
-      "published_at": "2026-10-30T19:36:55+01:00",
+      "created_at": "2026-10-30T20:26:25+01:00",
+      "updated_at": "2026-10-30T20:26:25+01:00",
+      "published_at": "2026-10-30T20:26:25+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -5278,9 +5276,9 @@
         "control_id": 9640,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 20:26 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-30T20:26:07+01:00"
+      "live": true
     }
   ]
 }
