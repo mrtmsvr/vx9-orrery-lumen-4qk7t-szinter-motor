@@ -5270,14 +5270,17 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-30T18:39:52+00:00",
         "head": "🎬 VIDEÓBÓL (Partizán, 43 perces videó) · <b>Közélet</b> · forróság 5 · 1 forrás\n\n1) Karácsonyi üdvözlet a tartótiszthez: így lett ügynök egy nógrádi bányászból\n2) Háromgyerekes bányászból lett ügynök a Kádár-rendszerben\n3) Így szervezte be a titkosrendőrség az 1956-os nógrádi bányászt\n🔥 4) Karácsonyi jókívánsággal zárta le jelentéseit a Kádár-korszak beépített embere\n🔥 5) A férfi, akit egy elcsúszás és terhelő múlt után szervezett be a titkosrendőrség\n🔥 6) Fegyveres követelésektől a titkos jelentésekig: egy nógrádi bányász kettős élete\n\n<b>Források:</b> Partizán\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Egy Nógrád megyei bányász, Gy. történetén keresztül mutatja be a Kádár-rendszer titkosszolgálati működését a Partizán videója. Az aktákból kiderül, hogyan váltották fel a forradalmi múlt terhelő adatait a belső elhárítás jelentéseivel.",
         "ctl_photo": true,
         "control_id": 9640,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 20:26 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-30T20:26:07+01:00"
     }
   ]
 }
