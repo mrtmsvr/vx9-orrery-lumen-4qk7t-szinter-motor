@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Séta a tiszta agyért: mire elég háromezer lépés?",
-      "instead_of": "Napi háromezer lépés is elég az Alzheimer ellen?",
-      "custom": false,
-      "t": "2026-10-21T05:52:58+00:00"
-    },
-    {
       "chosen": "Ezért csapott le az ügyészség Matolcsy Györgyre",
       "instead_of": "Őrizetbe vette a nyomozóügyészség Matolcsy György volt jegybankelnököt",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Patthelyzet Izraelben: Netanjahu elmaradt a 61 mandátumos többségtől",
       "custom": false,
       "t": "2026-10-30T18:27:45+00:00"
+    },
+    {
+      "chosen": "Börtönbüntetés és nyomkövető jár a korrupciós ügyért Boldog Istvánnak",
+      "instead_of": "Öt év börtönt kapott, de nyomkövetővel várja a másodfokot Boldog István",
+      "custom": false,
+      "t": "2026-10-30T18:33:56+00:00"
     }
   ]
 }
