@@ -7075,13 +7075,11 @@
       "hot_score": 7.15,
       "title_options": [
         "Megvágták a Fidesz büdzséjét, milliárdos löketet kapott a Tisza",
-        "Átalakul a pártfinanszírozás: kevesebb jut a kormánypártnak, tarol a Tisza a költségvetési tervezetben",
-        "Jelentősen csökken a Fidesz állami támogatása, miközben a Tisza Párt milliárdos keretből gazdálkodhat",
-        "Ilyen mértékű pénzmozgásra senki sem számított a 2027-es költségvetési tervezetben",
-        "Félmilliárdos mínusz és milliárdos plusz: ezek a számok döntik meg a hazai pártfinanszírozás eddigi rendjét",
-        "Mutatjuk, melyik párt kapja a legtöbb állami milliót a következő évben"
+        "Megvágták a kormánypárt pénzcsapját, milliárdokkal tömik a Tiszát",
+        "Kevesebb jut a Fidesznek, tarol a Tisza a költségvetési tortán",
+        "Pénzügyi pofont kapott a Fidesz, miközben milliárdokat nyert a Tisza"
       ],
-      "clickbait_from": 3,
+      "clickbait_from": 4,
       "image_options": [
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Parliament_of_Hungary_November_2017.jpg/1280px-Parliament_of_Hungary_November_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -7202,7 +7200,9 @@
         "lead": "A 2027-es költségvetési törvényjavaslat adatai szerint kevesebb állami forrás jut jövőre a Fidesznek, míg a Tisza Párt támogatása jelentős összeggel emelkedik. Az MTI által ismertetett összefoglaló a pártok működését szabályozó törvény alapján mutatja be a formációk jövő évi juttatásait.",
         "ctl_photo": true,
         "control_id": 9679,
-        "msg_ids": [],
+        "msg_ids": [
+          9684
+        ],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
       "live": true
