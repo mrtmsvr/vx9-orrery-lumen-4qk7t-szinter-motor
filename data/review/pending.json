@@ -6153,13 +6153,11 @@
       "hot_score": 5,
       "title_options": [
         "Magyar Péter beengedte a kamerákat a Tisza Párt kulisszái mögé",
-        "A Parlament folyosóitól a nemzetközi tárgyalásokig mutatja be munkáját a Tisza Párt",
-        "Közvetlen közelről mutatja meg a politika kulisszáit Magyar Péter",
-        "Ezt a videót eddig senki sem látta Magyar Péterről",
-        "Ilyen közelről még sosem láthattad a magyar politikát",
-        "Kiderült, mi zajlik a kulisszák mögött a Tisza Pártnál"
+        "Kamerák előtt teregette ki a Tisza Párt szennyesét Magyar Péter",
+        "Bevállalta a teljes átláthatóságot: kulisszák mögé engedte a kamerákat Magyar Péter",
+        "Így dolgozik a Tisza gépezete: nyers felvételeket hozott nyilvánosságra Magyar Péter"
       ],
-      "clickbait_from": 3,
+      "clickbait_from": 4,
       "image_options": [
         {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Manfred_weber_csu.jpg/1280px-Manfred_weber_csu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -6281,7 +6279,9 @@
         "lead": "A Parlament folyosóitól kezdve a nemzetközi tárgyalásokig enged betekintést mindennapi munkájába Magyar Péter, a Tisza Párt alelnöke. A felvételek a politikai élet kulisszatitkait és a kampányidőszak sajátosságait mutatják be.",
         "ctl_photo": true,
         "control_id": 9663,
-        "msg_ids": []
+        "msg_ids": [
+          9664
+        ]
       }
     }
   ]
