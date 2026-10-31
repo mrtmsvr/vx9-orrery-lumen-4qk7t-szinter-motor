@@ -6449,7 +6449,9 @@
         "ctl_photo": true,
         "control_id": 9674,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 12): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 12): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -6744,7 +6746,7 @@
         "issues": []
       },
       "review": {
-        "title": 0,
+        "title": 1,
         "image": 0,
         "sent_at": "2026-10-31T12:00:57+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 8.59 · 5 forrás\n\n1) Ötvenmilliárdos hiánnyal és eurócélokkal küldte be első költségvetését a Tisza-kormány\n2) Itt a Tisza-kormány első teljes évre szóló költségvetése: adócsökkentés és 5100 milliárdos hiány\n3) A Tisza-kormány benyújtotta a 2027-es büdzsé tervezetét: ötezer milliárdos hiány és eurócélok\n🔥 4) Végre kiderült, mekkora hiánnyal és milyen árcédulával indul a Tisza-kormány első teljes éve\n🔥 5) Itt vannak a részletek: ilyen büdzsét rakott le az asztalra a kabinet 2027-re\n🔥 6) Ekkora nyugdíjminimummal és béremeléssel számol a friss költségvetési tervezet\n\n<b>Források:</b> portfolio.hu, vg.hu, index.hu, vg.hu, vg.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
