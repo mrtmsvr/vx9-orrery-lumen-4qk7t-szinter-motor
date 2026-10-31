@@ -5844,9 +5844,9 @@
       "live": true
     },
     {
-      "id": "820c1b1d-6632-51d0-bef9-613b2c1a0883",
-      "slug": "2026-10-31-komoly-kihivasokkal-szembesulnek-a-vilag-populistai",
-      "status": "pending",
+      "id": "a0a85b58-edee-51b0-b99f-56c8ba56bca5",
+      "slug": "2026-10-31-nehez-idok-jarnak-az-illiberalis-szovetsegesekre",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -5855,7 +5855,7 @@
         "választások",
         "tüntetések"
       ],
-      "title": "Komoly kihívásokkal szembesülnek a világ populistái",
+      "title": "Nehéz idők járnak az illiberális szövetségesekre",
       "subtitle": null,
       "lead": "A nemzetközi politikai élet válságos időszakáról és a jobboldali kormányok nehézségeiről beszélt legújabb adásában a Partizán Szignál című műsor. A szerb, brazil és izraeli fejlemények mellett az európai tüntetéshullámokat is górcső alá vették a szerkesztők.",
       "key_points": [
@@ -5876,18 +5876,15 @@
       "word_count": 265,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/31_01_2022_Jair_Bolsonaro_%2851853892252%29.jpg/1280px-31_01_2022_Jair_Bolsonaro_%2851853892252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1601,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-4eb307fb7c.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-4eb307fb7c.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "(São João da Barra - RJ, 31/01/2022) Palavras do Presidente da República, Jair Bolsonaro.\n\nFoto: Alan Santos/PR",
-        "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:31_01_2022_Jair_Bolsonaro_(51853892252).jpg",
-        "exact": true,
-        "entity": "Jair Bolsonaro",
-        "vision_score": 12.0
+        "alt": "10 millió – új mozgósított szavazó a brazil elnökválasztáson",
+        "credit": "Kollektíva grafika",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -6013,12 +6010,12 @@
       },
       "date": "2026-10-31",
       "date_label": "október 31.",
-      "url": "/kozelet/2026-10-31-komoly-kihivasokkal-szembesulnek-a-vilag-populistai/",
+      "url": "/kozelet/2026-10-31-nehez-idok-jarnak-az-illiberalis-szovetsegesekre/",
       "seo": {
-        "meta_title": "Komoly kihívásokkal szembesülnek a világ populistái",
+        "meta_title": "Nehéz idők járnak az illiberális szövetségesekre",
         "meta_description": "A nemzetközi politikai élet válságos időszakáról és a jobboldali kormányok nehézségeiről beszélt legújabb adásában a Partizán Szignál című műsor. A szerb, brazi",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-31-komoly-kihivasokkal-szembesulnek-a-vilag-populistai/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/31_01_2022_Jair_Bolsonaro_%2851853892252%29.jpg/1280px-31_01_2022_Jair_Bolsonaro_%2851853892252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-31-nehez-idok-jarnak-az-illiberalis-szovetsegesekre/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/num-4eb307fb7c.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -6055,9 +6052,9 @@
       "dedupe_hash": "9bafa1a6a3abd5bff8e7a42cd315b8f0623dbd4f0fbd79d8f369eb3e91493063",
       "pipeline_run_id": "41186607703",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-31T10:04:45+01:00",
-      "updated_at": "2026-10-31T10:04:45+01:00",
-      "published_at": "2026-10-31T10:04:45+01:00",
+      "created_at": "2026-10-31T10:26:29+01:00",
+      "updated_at": "2026-10-31T10:26:29+01:00",
+      "published_at": "2026-10-31T10:26:29+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -6080,9 +6077,9 @@
         "control_id": 9660,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 10:26 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-31T10:26:15+01:00"
+      "live": true
     },
     {
       "id": "ef601678-3eaf-578c-b25c-a429895cf305",
