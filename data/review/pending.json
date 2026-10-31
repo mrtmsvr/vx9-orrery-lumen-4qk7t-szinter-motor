@@ -4877,7 +4877,7 @@
     {
       "id": "8d25c78a-00d9-5d92-99a1-3056d05f12a0",
       "slug": "2026-10-31-palinkazassal-es-tabortuzzel-unnepelt-orban-viktor-a-boszniai-szovets",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -5119,9 +5119,9 @@
       "dedupe_hash": "4d97fa2ffdc2dacde000a78310f24c66b1df3f67628e5ae15ae560110bc664a1",
       "pipeline_run_id": "41177930045",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-31T07:47:30+01:00",
-      "updated_at": "2026-10-31T07:47:30+01:00",
-      "published_at": "2026-10-31T07:47:30+01:00",
+      "created_at": "2026-10-31T07:50:40+01:00",
+      "updated_at": "2026-10-31T07:50:40+01:00",
+      "published_at": "2026-10-31T07:50:40+01:00",
       "expires_at": null,
       "hold": true,
       "legal": {
@@ -5141,8 +5141,11 @@
         "lead": "Orbán Viktor családjával együtt látogatást tett Milorad Dodiknál a boszniai Szerb Köztársaságban, ahol a felek röviditalokat kóstolva ünnepeltek. A találkozó újfent rávilágít a két politikus szoros szövetségére, miközben a vendéglátó ellen nemzetközi szankciók és – a sajtóhírek szerint – börtönbüntetés van érvényben.",
         "ctl_photo": false,
         "control_id": 9642,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "b22d4d9d-61ec-5e95-90a1-70ae8ea8caac",
