@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-10-24T08:14:27+02:00",
+  "updated_at": "2026-10-31T08:21:33+01:00",
   "quizzes": [
+    {
+      "id": "fb53954ffc",
+      "week": "2026-W44",
+      "date": "2026-10-31",
+      "title": "Teszteld a hét legfontosabb híreit velünk!",
+      "created_at": "2026-10-31T08:21:33+01:00",
+      "questions": [
+        {
+          "question": "Melyik országból jelentkezett be a lélegeztetőgép-biznisz egyik nemzetközileg körözött irányítója?",
+          "options": [
+            "Brazíliából",
+            "Egyesült Államokból",
+            "Indonéziából",
+            "Bosznia-Hercegovinából"
+          ],
+          "correct": 2,
+          "explain": "A cikk szerint Májer Bálint Indonéziából jelentkezett be egy közösségi oldalon közzétett levélben.",
+          "article_url": "/kozelet/2026-10-29-oriaskereket-uzemeltet-balin-a-milliardos-lelegeztetogep-biznisz-szok/",
+          "article_title": "Bali szigetéről írt levelet a lélegeztetőgép-biznisz körözött kulcsfigurája",
+          "category": "kozelet"
+        },
+        {
+          "question": "Miért halasztották el eredeti időpontjáról Orbán Anita washingtoni találkozóját Marco Rubióval?",
+          "options": [
+            "Az amerikai külügyminiszter váratlan texasi útja miatt",
+            "Rossz időjárás miatt",
+            "Betegség miatt",
+            "Technikai okok miatt"
+          ],
+          "correct": 0,
+          "explain": "A megbeszélést az amerikai külügyminiszter váratlan texasi útja miatt tették át másik időpontra.",
+          "article_url": "/vilag/2026-10-29-marco-rubio-miatt-halasztottak-el-orban-anita-washingtoni-csucstalalk/",
+          "article_title": "Marco Rubio naptárába is bekerült: csütörtök délután tárgyal Orbán Anita Washingtonban",
+          "category": "vilag"
+        },
+        {
+          "question": "Hány méteres magasságban fekszik a tűzvész érintette alpesi rezidencia, a Sasfészek?",
+          "options": [
+            "1834 méteren",
+            "2450 méteren",
+            "980 méteren",
+            "1230 méteren"
+          ],
+          "correct": 0,
+          "explain": "A hír alapján az épület 1834 méteres magasságban fekszik a dél-bajorországi Berchtesgaden fölött.",
+          "article_url": "/vilag/2026-10-24-tuz-pusztitott-hitler-alpesi-rezidenciajan-a-sasfeszekben/",
+          "article_title": "Tűz pusztított Hitler alpesi rezidenciáján, a Sasfészekben",
+          "category": "vilag"
+        },
+        {
+          "question": "Hány mandátumot szerzett Benjamin Netanjahu jobboldali tömbje az izraeli választáson?",
+          "options": [
+            "53 helyet",
+            "65 helyet",
+            "48 helyet",
+            "61 helyet"
+          ],
+          "correct": 0,
+          "explain": "Netanjahu tömbje 53 mandátumot szerzett, így elmaradt a kormányalakításhoz szükséges 61 fős többségtől.",
+          "article_url": "/vilag/2026-10-30-patthelyzet-izraelben-netanjahu-elmaradt-a-61-mandatumos-tobbsegtol/",
+          "article_title": "Az arab pártok lettek a királycsinálók Netanjahuék választásán",
+          "category": "vilag"
+        },
+        {
+          "question": "Hányadik alkalommal nyerte meg a brazil elnökválasztást Luiz Inácio Lula da Silva?",
+          "options": [
+            "Negedszer",
+            "Harmadszor",
+            "Másodszor",
+            "Ötödször"
+          ],
+          "correct": 0,
+          "explain": "Lula da Silva a vasárnapi győzelmével negyedik alkalommal irányíthatja az országot.",
+          "article_url": "/kozelet/2026-10-26-negedszer-nyert-lula-de-bolsonaro-nem-ismerte-el-a-vereseget/",
+          "article_title": "Lula behúzta a negyediket, Bolsonaro pedig nem tud veszíteni",
+          "category": "kozelet"
+        },
+        {
+          "question": "Hány éves korában hunyt el Sir Patrick Stewart, a Star Trek legendája?",
+          "options": [
+            "74 évesen",
+            "91 évesen",
+            "80 évesen",
+            "86 évesen"
+          ],
+          "correct": 3,
+          "explain": "A művész 86 éves korában hunyt el Los Angeles-i otthonában.",
+          "article_url": "/bulvar/2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja/",
+          "article_title": "Elhunyt Sir Patrick Stewart, a Star Trek legendája",
+          "category": "bulvar"
+        },
+        {
+          "question": "Pontosan mennyi volt az ötös lottó 43. heti főnyereménye?",
+          "options": [
+            "3,15 milliárd forint",
+            "4,50 milliárd forint",
+            "5,19 milliárd forint",
+            "6,80 milliárd forint"
+          ],
+          "correct": 2,
+          "explain": "A főnyeremény pontos összege 5 197 132 880 forint volt, amit a cikk egyszerűbben 5,19 milliárdnak említ.",
+          "article_url": "/penzvilag/2026-10-24-szombat-este-valaki-zsebre-vagott-5-19-milliard-forintot-magyarorszag/",
+          "article_title": "Szombat este valaki zsebre vágott 5,19 milliárd forintot Magyarországon",
+          "category": "penzvilag"
+        },
+        {
+          "question": "A kutatás szerint napi hány percnél kevesebb természetes fény növelheti a demencia kockázatát?",
+          "options": [
+            "30 perc",
+            "42 perc",
+            "60 perc",
+            "15 perc"
+          ],
+          "correct": 1,
+          "explain": "A napi 42 percnél kevesebb világos napfény erősebb előrejelzője lehet a demenciának a kutatás szerint.",
+          "article_url": "/eletmod/2026-10-30-a-napi-negyvenket-perc-ami-vedi-az-agyat/",
+          "article_title": "A napi negyvenkét perc, ami védi az agyat",
+          "category": "eletmod"
+        }
+      ]
+    },
     {
       "id": "76ec7a59a4",
       "week": "2026-W43",
