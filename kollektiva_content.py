@@ -2111,7 +2111,7 @@ NEW_TOAST_HTML = r"""<div id="knew" role="status" aria-live="polite" style="posi
 <script>/* Új cikk értesítő: ha az oldalon tartózkodás közben új cikk kerül ki, alul egy piros sáv jelzi. */
 (function(){var N={kozelet:'Közélet',vilag:'Világ',penzvilag:'Pénzvilág',tech:'Tech',eletmod:'Életmód',kultura:'Kultúra',univerzum:'Univerzum',bulvar:'Bulvár'};
 var known=null,box=document.getElementById('knew'),a=document.getElementById('knewA'),t;
-function get(){return fetch('/data/articles.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return fetch('/public/data/articles.json',{cache:'no-cache'}).then(function(r){return r.json()})})}
+function get(){return fetch('/public/data/latest.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw 0;return r.json()}).catch(function(){return fetch('/data/latest.json',{cache:'no-cache'}).then(function(r){return r.json()})})}
 function check(){if(document.hidden)return;get().then(function(d){var arts=(d.articles||[]).filter(function(x){return x.status==='published'&&x.url});
 if(!known){known={};arts.forEach(function(x){known[x.id]=1});return}
 var fresh=arts.filter(function(x){return !known[x.id]&&x.url!==location.pathname});arts.forEach(function(x){known[x.id]=1});
@@ -3194,6 +3194,15 @@ def build_static_site(output_dir: Path, tz: ZoneInfo) -> None:
     urls += [(f"{SITE_URL}/kviz/", now.date().isoformat()), (f"{SITE_URL}/szavazasok/", now.date().isoformat())]
     urls += [(a["seo"]["canonical_url"], (a.get("updated_at") or a["date"])[:10]) for a in articles]
     urls += [(u, now.date().isoformat()) for u in people_urls]
+    # kicsi címlap-adat (a legfrissebb 150 cikk, szöveg nélkül): a főoldal és az „új cikk” jelző ezt tölti be az
+    # 5+ MB-os articles.json helyett – ettől volt lassú a címlap (a kereső továbbra is a teljes fájlt használja)
+    keep = ("id", "slug", "url", "title", "lead", "category", "status", "date", "date_label", "created_at", "published_at",
+            "reading_time_min", "hot_score", "offtopic", "tags")
+    latest = [{**{k: a.get(k) for k in keep if a.get(k) is not None},
+               "hero_image": {k: v for k, v in (a.get("hero_image") or {}).items()
+                              if k in ("url", "kind", "pos", "card", "cover", "width", "height", "alt")} or None}
+              for a in articles if a.get("category") != "retro" and a.get("url", "").split("/")[1:2] != ["retro"]][:150]
+    write_json_atomic(public / "data" / "latest.json", {"articles": latest, "updated_at": now.isoformat(timespec="seconds")})
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     sitemap += [f"  <url><loc>{E(u)}</loc><lastmod>{m}</lastmod></url>" for u, m in urls]
@@ -3447,7 +3456,7 @@ ACTIVE_SECTIONS = {k: v for k, v in SECTIONS.items() if not v.get("legacy")}
 NAV_LINKS = " ".join(f'<a href="/{sid}/">{html.escape(sec["name"])}</a>'
                      for sid, sec in [*ACTIVE_SECTIONS.items(), ("retro", RETRO_SECTION)])
 MENU_HTML = ('<b class="mh">Rovatok</b><div class="mg">' + NAV_LINKS + '</div><hr>'
-             '<a href="/?kereses">Keresés</a><a href="/#hirlevel">Heti hírlevél</a><a href="/#horoszkop">Horoszkóp</a>'
+             '<a href="/?kereses">Keresés</a><a href="/#hirlevel">Heti hírlevél</a>'
              '<a href="/kviz/">Heti kvíz</a><a href="/szavazasok/">Szavazások</a><a href="/?belepes=1">Fiókom, mentett cikkek</a>'
              '<a href="/info/#rolunk">Rólunk</a><a href="/info/">Információ, impresszum</a>')
 SPONSORED = re.compile(r"PR-cikk|Támogatott|Szponzor|Hirdetés|Közlemény|partner", re.I)
@@ -4756,7 +4765,8 @@ def main(argv: Optional[list] = None) -> int:
               and (str(existing_h.get("source", "")).startswith("ai:") or not sections_due))
     if skip_h:
         log.info("A mai horoszkóp már kint van – nem generálom újra.")
-    if args.only in (None, "horoscope") and not skip_h:
+    # a horoszkóp kikerült az oldalról (szerkesztői döntés, 10.31.) – HOROSCOPE_ENABLED=true visszakapcsolja
+    if os.getenv("HOROSCOPE_ENABLED", "false").lower() in ("1", "true", "yes") and args.only in (None, "horoscope") and not skip_h:
         try:
             horoscope = build_horoscope(ai, target, tz)
             if args.dry_run:
