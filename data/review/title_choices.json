@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Egymilliárd eurót veszített Magyarország, de idén év végére egyezményt írnának alá",
-      "instead_of": "Maffiafilmekhez hasonlította a politikát Magyar Péter",
-      "custom": false,
-      "t": "2026-10-21T09:06:56+00:00"
-    },
-    {
       "chosen": "Szerda hajnalban mozdult meg a föld Székesfehérvárnál",
       "instead_of": "2-es erősségű földrengés ébresztette a lakókat Székesfehérvárnál",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Horváth Oszkár kiszáll: elege lett a politikai darálóból",
       "custom": false,
       "t": "2026-10-31T06:47:30+00:00"
+    },
+    {
+      "chosen": "Nehéz idők járnak az illiberális szövetségesekre",
+      "instead_of": "Komoly kihívásokkal szembesülnek a világ populistái",
+      "custom": false,
+      "t": "2026-10-31T09:10:55+00:00"
     }
   ]
 }

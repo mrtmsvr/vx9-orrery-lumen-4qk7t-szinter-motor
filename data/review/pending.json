@@ -6071,15 +6071,18 @@
         "issues": []
       },
       "review": {
-        "title": 0,
-        "image": 0,
+        "title": 1,
+        "image": 5,
         "sent_at": "2026-10-31T09:06:37+00:00",
         "head": "🎬 VIDEÓBÓL (Partizán, 47 perces videó) · <b>Közélet</b> · forróság 5 · 1 forrás\n\n1) Komoly kihívásokkal szembesülnek a világ populistái\n2) Nehéz idők járnak az illiberális szövetségesekre\n3) Az illiberális tábor válságáról beszéltek a Partizánban\n🔥 4) Váratlan fordulatok rázzák meg a nemzetközi illiberális tábort\n🔥 5) Miért gyengülnek hirtelen a világ populisztikus vezetői\n🔥 6) Komoly bajba került az Orbán Viktor által is mentorált illiberális szövetséges\n\n<b>Források:</b> Partizán\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A nemzetközi politikai élet válságos időszakáról és a jobboldali kormányok nehézségeiről beszélt legújabb adásában a Partizán Szignál című műsor. A szerb, brazil és izraeli fejlemények mellett az európai tüntetéshullámokat is górcső alá vették a szerkesztők.",
         "ctl_photo": true,
         "control_id": 9660,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:26 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-31T10:26:15+01:00"
     },
     {
       "id": "ef601678-3eaf-578c-b25c-a429895cf305",
