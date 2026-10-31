@@ -125,13 +125,8 @@
       "none": true
     },
     "Tarr Zoltán": {
-      "qid": "Q125542353",
-      "name": "Tarr Zoltán",
-      "birth": "1972-02-12",
-      "death": "",
-      "desc": "(1972) magyar református lelkész és politikus",
-      "bio": "Tarr Zoltán József magyar politikus, korábban református lelkész, 2024 júliusától a Tisztelet és Szabadság Párt (TISZA) alelnöke. 2024 és 2026 között európai parlamenti (EP) képviselő. 2026-tól a TISZA országgyűlési képviselője és Magyarország társadalmi kapcsolatokért és kultúráért felelős minisztere.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Tarr_Zolt%C3%A1n"
+      "none": true,
+      "why": "névrokon"
     },
     "Hegedűs Zsolt": {
       "qid": "Q138376658",
@@ -151,27 +146,12 @@
         "credit": "European Commission Audiovisual Service / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Zsolt_Heged%C5%B1s_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Kármán András": {
-      "qid": "Q1123346",
-      "name": "Kármán András",
-      "birth": "1973-05-25",
-      "death": "",
-      "desc": "(1973–) magyar közgazdász, politikus",
-      "bio": "Kármán András Miklós magyar közgazdász, 2026-tól a TISZA országgyűlési képviselője. 2026-tól Magyarország pénzügyminisztere.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_Andr%C3%A1s_%28k%C3%B6zgazd%C3%A1sz%29",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "András Kármán, Hungarian Minister of Finance",
-        "credit": "Ferenc Isza / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg"
-      }
+      "none": true,
+      "why": "névrokon"
     },
     "Európai Parlament": {
       "none": true
@@ -194,7 +174,8 @@
         "credit": "Gage Skidmore / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg"
-      }
+      },
+      "checked": true
     },
     "Szijjártó Péter": {
       "qid": "Q685293",
@@ -214,7 +195,8 @@
         "credit": "Polish presidency of the Council of the EU 2025 / Wikimedia Commons",
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:P%C3%A9ter_Szijj%C3%A1rt%C3%B3_in_(2025)_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Magyar Honvédség": {
       "none": true
@@ -237,7 +219,8 @@
         "credit": "Nebojša Tejić / Wikimedia Commons",
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Bús Balázs": {
       "qid": "Q16014293",
