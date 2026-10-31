@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "0437054c-3b4b-5172-ba34-314b8660ce89",
+      "slug": "2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor",
+      "url": "/vilag/2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor/",
+      "title": "Rakijázással és élőzenével lazított Milorad Dodiknál Orbán Viktor",
+      "lead": "Orbán Viktor családi látogatást tett a boszniai Szerb Köztársaság korábbi vezetőjénél, Milorad Dodiknál. A találkozóról közzétett felvételek szerint a felek tábortűz mellett, élőzene kíséretében fogyasztottak röviditalokat.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-10-31",
+      "date_label": "október 31.",
+      "created_at": "2026-10-31T17:57:37+01:00",
+      "published_at": "2026-10-31T17:57:37+01:00",
+      "reading_time_min": 2,
+      "hot_score": 0,
+      "tags": [
+        "Orbán Viktor",
+        "Milorad Dodik",
+        "Boszniai Szerb Köztársaság",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1601,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
+      }
+    },
+    {
       "id": "c5d16c90-9c1b-5ca6-abbd-61fbbd989ada",
       "slug": "2026-10-31-nyugati-milliardokbol-kap-otszaz-uj-patriot-raketat-ukrajna",
       "url": "/vilag/2026-10-31-nyugati-milliardokbol-kap-otszaz-uj-patriot-raketat-ukrajna/",
@@ -4389,36 +4418,7 @@
         "alt": "Matthesz Flóra vezeti október végétől a Fókuszt is",
         "cover": true
       }
-    },
-    {
-      "id": "090cb33e-80b6-59a1-8781-174e0cc9eb71",
-      "slug": "2026-10-22-a-muegyetemtol-a-bem-terig-vonulnak-az-1956-os-forradalom-evforduloja",
-      "url": "/kozelet/2026-10-22-a-muegyetemtol-a-bem-terig-vonulnak-az-1956-os-forradalom-evforduloja/",
-      "title": "A Műegyetemtől a Bem térig vonulnak az 1956-os forradalom évfordulóján",
-      "lead": "Csütörtök délután fáklyás menettel és a Műegyetemnél kezdődő programokkal veszik kezdetüket az 1956-os forradalom és szabadságharc hetvenedik évfordulójának hivatalos megemlékezései. A rendezvénysorozat pénteken a Kossuth téri ünnepélyes zászlófelvonással folytatódik.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T11:27:19+02:00",
-      "published_at": "2026-10-22T11:27:19+02:00",
-      "reading_time_min": 2,
-      "hot_score": 10.04,
-      "tags": [
-        "október 23",
-        "1956",
-        "megemlékezés",
-        "Budapest",
-        "Magyar Péter"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/f7b749f8a86a719a.jpg",
-        "width": 6240,
-        "height": 4160,
-        "kind": "photo",
-        "alt": "torch, torchlight, editorial, people, torchlight procession, procession, protest, italy, mask, face, ffp2, purple, light, night, woman, women, torchlight, torchlight, torchlight, people, procession, p"
-      }
     }
   ],
-  "updated_at": "2026-10-31T16:56:08+01:00"
+  "updated_at": "2026-10-31T17:57:39+01:00"
 }
