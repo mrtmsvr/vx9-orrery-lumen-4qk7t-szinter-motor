@@ -6458,7 +6458,7 @@
     {
       "id": "c5d16c90-9c1b-5ca6-abbd-61fbbd989ada",
       "slug": "2026-10-31-nyugati-milliardokbol-kap-otszaz-uj-patriot-raketat-ukrajna",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -6647,9 +6647,9 @@
       "dedupe_hash": "56e07c78e240bdcc7824d81da0326cc671df84328b1e06f2efd4d3b500ed747e",
       "pipeline_run_id": "41197464686",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-31T13:01:07+01:00",
-      "updated_at": "2026-10-31T13:01:07+01:00",
-      "published_at": "2026-10-31T13:01:07+01:00",
+      "created_at": "2026-10-31T13:27:04+01:00",
+      "updated_at": "2026-10-31T13:27:04+01:00",
+      "published_at": "2026-10-31T13:27:04+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -6665,9 +6665,9 @@
         "control_id": 9677,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 13:26 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-10-31T13:26:55+01:00"
+      "live": true
     }
   ]
 }
