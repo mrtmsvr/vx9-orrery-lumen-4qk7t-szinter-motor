@@ -1,35 +1,38 @@
 {
-  "id": "e5ef5f8d8a",
-  "date": "2026-10-30",
-  "status": "skipped",
-  "article_url": "/kozelet/2026-10-29-tobbmilliardos-forrasbol-es-berpotlekokbol-ujitjak-meg-a-szocialis-sz/",
-  "article_title": "Többmilliárdos forrásból és bérpótlékokból újítják meg a szociális szférát",
+  "id": "9bc886a4da",
+  "date": "2026-10-31",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-31-feladja-a-napi-kozeletet-horvath-oszkar-az-onkenyes-mervadoban/",
+  "article_title": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint a szociális szféra támogatását kell előtérbe helyezni?",
+      "question": "Ön szerint túl nagy a közéleti témák túlsúlya a hazai sajtóban?",
       "options": [
-        "Igen, a legfontosabb terület",
-        "Nem, más területek fontosabbak",
+        "Igen, túlságosan fojtogató a közélet",
+        "Nem, ez a normális tájékoztatás",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Elegendőnek tartja a szociális ágazatra szánt többletforrásokat?",
+      "question": "Jó döntés-e, ha egy közszereplő a kiégés miatt feladja a napi nyilvános szereplést?",
       "options": [
-        "Igen, elegendő a támogatás",
-        "Nem, jelentősen több forrás kell",
+        "Igen, a mentális egészség az első",
+        "Nem, a közszereplőknek bírniuk kell",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan ítéli meg a szociális szféra tervezett átalakítását?",
+      "question": "Mit tart fontosabbnak egy kulturális-közéleti műsorban?",
       "options": [
-        "Pozitív lépésnek tartom",
-        "Kevésnek tartom a változtatást",
+        "A napi aktuális ügyek elemzését",
+        "Az elvontabb, könnyedebb témákat",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9630
+  "tried": [
+    "/kozelet/2026-10-30-januartol-bukjak-a-matricat-az-autosok-ausztriaban-dragul-az-utdij/"
+  ],
+  "msg_id": 9659
 }
