@@ -191,7 +191,7 @@ nem ismert):
 - "title_options": 2 további változat (a keresett kifejezés mindegyikben benne legyen)
 - "lead": 2 mondat, az ELSŐ mondat maga a válasz (szám, dátum, igen/nem), hogy a Google kiemelhesse
 - "key_points": 4–5 egymondatos pont: a legfontosabb tények (ki, mennyi, mikortól, hogyan)
-- "body": 600–900 szó, 4–6 blokk „## ” alcímmel, az alcímek is kérdések legyenek, ahogy keresik (pl. „## Kinek jár?”,
+- "body": 450–800 szó (ha a háttéranyagból kevesebb jön ki, legyen rövidebb, de ne találj ki semmit), 4–6 blokk „## ” alcímmel, az alcímek is kérdések legyenek, ahogy keresik (pl. „## Kinek jár?”,
   „## Mikor fizetik ki?”, „## Mennyivel több, mint tavaly?”); konkrét számok, példák; az utolsó blokk „## Gyakori
   kérdések” 3–4 rövid kérdés-válasz párral (felsorolás). Semleges, tájékoztató hang, véleményt ne írj.
 - "tags": 3–5 címke (a keresett kifejezések)
@@ -267,7 +267,7 @@ def build_article(ai: "kc.AIClient", topic: dict, d: date, tz: ZoneInfo, avoid_i
         log.error("Off-topic cikkírás sikertelen (%s): %s", topic.get("id"), e)
         return None
     words = len(re.findall(r"\w+", " ".join(art["body"])))
-    if words < 450:
+    if words < (280 if topic.get("search") else 450):  # válaszcikk: a lényeg a gyors válasz, a forrás is rövid hír
         log.warning("Off-topic: túl rövid lett (%d szó) – kimarad.", words)
         return None
     generic = raw.get("image_generic")
@@ -499,6 +499,19 @@ def next_topic(done: list, ai: Optional["kc.AIClient"] = None) -> Optional[dict]
     return fresh[0]
 
 
+def _too_similar(topic: str, previous: list, limit: float = 0.5) -> bool:
+    """Ugyanaz a téma más szavakkal (pl. két ENSZ-főtitkáros, két óraátállításos, két e-rolleres cikk 10.25–31.)."""
+    def toks(s: str) -> set:
+        s = s.lower().translate(str.maketrans("áéíóöőúüű", "aeiooouuu"))
+        return {w[:6] for w in re.findall(r"\w{4,}", s)}
+    a = toks(topic)
+    for p in previous[-80:]:
+        b = toks(p)
+        if a and b and len(a & b) / min(len(a), len(b)) >= limit:
+            return True
+    return False
+
+
 HOOK_SYSTEM = ("Egy magyar online magazin főszerkesztője vagy. A heti hírekből olyan időtálló háttércikk-témát választasz, "
                "ami megmagyarázza a hírek mögötti fogalmat, intézményt, történetet vagy tudományt. Csak JSON-t adsz vissza.")
 
@@ -530,7 +543,9 @@ def search_topic(ai: Optional["kc.AIClient"], articles: list, done: list, d: dat
               "Válassz EGY kérdést, amit sokan beírnak a Google-be, és a válasza legalább hetekig érvényes: pénz (bér, nyugdíj, "
               "adó, támogatás, árak – kinek jár, mennyi, mikortól), szabályváltozás (mi változik, kit érint), ünnep/szünet/"
               "menetrend, ismert ember vagy fogalom („ki az a…”, „mi az a…”). Pártpolitikai vélemény NEM. A kérdés úgy legyen "
-              "megfogalmazva, ahogy az emberek a keresőbe írják. Add meg, mely friss cikkeink tartalmazzák a válasz tényeit. "
+              "megfogalmazva, ahogy az emberek a keresőbe írják. Add meg, mely friss cikkeink tartalmazzák a válasz tényeit – "
+              "a válasznak BENNE kell lennie ezekben a cikkekben. NEM jó: hetente/naponta változó eredmény (lottószámok, "
+              "sporteredmény, időjárás, árfolyam), szűk helyi ügy (egy-két település útfelújítása), amire ma még nincs válasz. "
               'JSON: {"id": "rovid-kotojeles-azonosito", "section": "kozelet|penzvilag|vilag|eletmod|tech", '
               '"topic": "a kérdés, ahogy keresik", "angle": "mit akar pontosan tudni a kereső", "articles": [sorszámok], '
               '"wiki_hu": ["magyar Wikipédia-szócikk, ha van"], "images": ["angol képkereső kifejezés"]}')
@@ -542,7 +557,8 @@ def search_topic(ai: Optional["kc.AIClient"], articles: list, done: list, d: dat
     if not isinstance(t, dict) or not t.get("topic") or t.get("section") not in kc.SECTIONS:
         return None
     t["id"] = "q-" + kc.slugify(str(t.get("id") or t["topic"]))[:40]
-    if t["id"] in set(done):
+    if t["id"] in set(done) or _too_similar(t["topic"], [x.get("topic", "") for x in topics if x.get("id") in set(done)]):
+        log.info("Keresési téma kimarad (már volt hasonló): %s", t["topic"])
         return None
     news = []
     for i in t.pop("articles", None) or []:
@@ -587,7 +603,9 @@ def hook_topic(ai: "kc.AIClient", articles: list, done: list, d: date) -> Option
     if not isinstance(t, dict) or not t.get("topic") or t.get("section") not in kc.SECTIONS:
         return None
     t["id"] = "hir-" + kc.slugify(str(t.get("id") or t["topic"]))[:40]
-    if t["id"] in set(done):
+    if t["id"] in set(done) or _too_similar(t["topic"] + " " + str(t.get("angle", "")),
+                                             [x.get("topic", "") + " " + str(x.get("angle", "")) for x in topics if x.get("id") in set(done)]):
+        log.info("Háttértéma kimarad (már volt hasonló): %s", t["topic"])
         return None
     if not isinstance(t.get("science"), dict):
         t.pop("science", None)
