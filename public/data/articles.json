@@ -1,7 +1,117 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-30T20:26:25+01:00",
+  "updated_at": "2026-10-31T07:47:31+01:00",
   "articles": [
+    {
+      "id": "71e2c55a-7a43-5ec5-92a1-db07b821a049",
+      "slug": "2026-10-31-feladja-a-napi-kozeletet-horvath-oszkar-az-onkenyes-mervadoban",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Horváth Oszkár",
+        "Önkényes Mérvadó",
+        "Szélsőközép",
+        "média",
+        "podcast"
+      ],
+      "title": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban",
+      "subtitle": null,
+      "lead": "Váratlanul bejelentette távozását Horváth Oszkár az Önkényes Mérvadóból a napi közéleti témák fojtogató túlsúlya és a túlterheltség miatt. A műsorvezető döntése mögött saját vállalkozása és a szellemi kiégés áll.",
+      "key_points": [
+        "Horváth Oszkár januártól nem szerepel az Önkényes Mérvadó új formátumában.",
+        "A döntést a napi közéleti témák darálójával és az autóipari cége melletti napi 16–20 órás munkával indokolta.",
+        "A Szélsőközép műsorában buddhista tanításokkal és Az Árulók forgatási kulisszatitkaival is illusztrálta a váltást."
+      ],
+      "content": "A Szélsőközép műsorában jelentette be Horváth Oszkár, hogy a jövőben nem kíván részt venni az Önkényes Mérvadó készítésében. Az adás elején Egri Viktor átadta neki a közelmúltbeli Inga-rendezvényen elnyert legjobb műsorvezetőnek járó közönségdíjat, ezt követően azonban kiderült, hogy januártól már egy új formátum következik nélküle. Mint elmondta, a jövő héten még rögzítenek egy Garázsmenetet Puzsér Róberttel, a továbbiakban azonban nem él az eddigi lehetőséggel.\n\nA távozás okaként saját autóipari és telemetriai vállalkozását jelölte meg, amely naponta 16–20 óráját köti le, emellett pedig a műsor készítésével járó pénzügyi és gyártási stressz, valamint a napi közéleti témák darálása szellemileg már nem vitte előre.\n\nA beszélgetés során szó esett Az Árulók – Gyilkosság a kastélyban című RTL-es realityben szerzett tapasztalatairól is, ahonnan mindössze három forgatási nap után esett ki. Horváth Oszkár egy gigantikus, mintegy 150 fős stáb által felügyelt produkcióként írta le a műsort, ahol kamerán kívül szigorúan tilos volt a játékról beszélni.",
+      "content_format": "markdown",
+      "body": [
+        "A Szélsőközép műsorában jelentette be Horváth Oszkár, hogy a jövőben nem kíván részt venni az Önkényes Mérvadó készítésében. Az adás elején Egri Viktor átadta neki a közelmúltbeli Inga-rendezvényen elnyert legjobb műsorvezetőnek járó közönségdíjat, ezt követően azonban kiderült, hogy januártól már egy új formátum következik nélküle. Mint elmondta, a jövő héten még rögzítenek egy Garázsmenetet Puzsér Róberttel, a továbbiakban azonban nem él az eddigi lehetőséggel.",
+        "A távozás okaként saját autóipari és telemetriai vállalkozását jelölte meg, amely naponta 16–20 óráját köti le, emellett pedig a műsor készítésével járó pénzügyi és gyártási stressz, valamint a napi közéleti témák darálása szellemileg már nem vitte előre.",
+        "A beszélgetés során szó esett Az Árulók – Gyilkosság a kastélyban című RTL-es realityben szerzett tapasztalatairól is, ahonnan mindössze három forgatási nap után esett ki. Horváth Oszkár egy gigantikus, mintegy 150 fős stáb által felügyelt produkcióként írta le a műsort, ahol kamerán kívül szigorúan tilos volt a játékról beszélni."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 205,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Horv%C3%A1th_Oszk%C3%A1r.jpg/1280px-Horv%C3%A1th_Oszk%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1251,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Oszkár Horváth",
+        "credit": "Elekes Andor / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Horv%C3%A1th_Oszk%C3%A1r.jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=8rynROtmzqE",
+          "title": "Oszi Árulók és távozás; Bóka János; Politikai, morális, jogi vétség? | Önkényes Mérvadó #1263",
+          "publisher": "Szélsőközép",
+          "license": null,
+          "accessed_at": "2026-10-31T03:48:41+01:00"
+        }
+      ],
+      "quote": {
+        "text": "én köszönöm szépen az eddigi lehetőséget, és a továbbiakban nem élnék vele",
+        "who": "Horváth Oszkár, műsorvezető",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-10-31T07:47:31+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=8rynROtmzqE"
+        ]
+      },
+      "date": "2026-10-31",
+      "date_label": "október 31.",
+      "url": "/kozelet/2026-10-31-feladja-a-napi-kozeletet-horvath-oszkar-az-onkenyes-mervadoban/",
+      "seo": {
+        "meta_title": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadób",
+        "meta_description": "Váratlanul bejelentette távozását Horváth Oszkár az Önkényes Mérvadóból a napi közéleti témák fojtogató túlsúlya és a túlterheltség miatt. A műsorvezető döntése",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-31-feladja-a-napi-kozeletet-horvath-oszkar-az-onkenyes-mervadoban/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Horv%C3%A1th_Oszk%C3%A1r.jpg/1280px-Horv%C3%A1th_Oszk%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d8786b53b8ff9f7353e8403d31910313e4d60e4839dcd4079d45fcb53ebccab8",
+      "pipeline_run_id": "41161342069",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-10-31T07:47:31+01:00",
+      "updated_at": "2026-10-31T07:47:31+01:00",
+      "published_at": "2026-10-31T07:47:31+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "8rynROtmzqE",
+        "title": "Oszi Árulók és távozás; Bóka János; Politikai, morális, jogi vétség? | Önkényes Mérvadó #1263",
+        "channel": "Szélsőközép",
+        "minutes": 60
+      }
+    },
     {
       "id": "e5d2b886-dcce-5d7b-a05d-ffd1ea58fae1",
       "slug": "2026-10-30-karacsonyi-udvozlet-a-tartotiszthez-igy-lett-ugynok-egy-nogradi-banya",
@@ -69807,117 +69917,6 @@
       "updated_at": "2026-10-05T18:51:38+02:00",
       "published_at": "2026-10-05T18:51:38+02:00",
       "expires_at": null
-    },
-    {
-      "id": "0b62563c-e786-5f7b-a1ee-aa0d6377d07c",
-      "slug": "2026-10-05-magyar-peter-romai-robogozasa-es-mas-kozeleti-furcsasagok",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Borízű hang",
-        "Magyar Péter",
-        "közélet",
-        "podcast",
-        "parlament"
-      ],
-      "title": "Magyar Péter római robogózása és más közéleti furcsaságok",
-      "subtitle": null,
-      "lead": "A 444 Borízű hang című műsorának legfrissebb adásában a fideszes vezetéknevektől a parlamenti lakhatási kérdésekig számos hazai közügy terítékre került. A beszélgetésben szó esett többek között Magyar Péter római robogós útjáról is.",
-      "key_points": [
-        "Uj Péter, Sajó Dávid és Barkóczi szerkesztők elemezték a legújabb közéleti eseményeket.",
-        "A műsorban szóba került a parlamentben való életvitelszerű tartózkodás kérdése.",
-        "A szerkesztők boncolgatták, hogy legálisan vespázott-e Magyar Péter Rómában.",
-        "Megvizsgálták az elmúlt tizenhat év jellegzetes fideszes vezetékneveit is."
-      ],
-      "content": "A 444 szerkesztőségének podcastműsorában, a Borízű hang 288. adásában Uj Péter, Sajó Dávid és Barkóczi műsorvezetők vitatták meg az aktuális heti közéleti és nyelvtani témákat. A beszélgetés a nyelvkutatással indult, megemlítve Barczafalvi Szabó Dávid munkásságát az 1760–80-as évekből.\n\nA hazai politikum nyelvi sajátosságai mellett a közéleti szereplők lakhatási és autós ügyei is előkerültek. Emellett a fideszes politikusokhoz kapcsolódó járművek is témát szolgáltattak, külön kitérve a Totalcarnak köszönhetően ismertté vált Skoda Superbekre.\n\nAz adás második felében a külpolitikai kitekintések mellett a figyelem Magyar Péter római utazására terelődött. A „Magyar Péter Vespán” című blokkban a szerkesztők azt boncolgatták, hogy vajon teljesen legálisan pattant-e robogóra Rómában a politikus.",
-      "content_format": "markdown",
-      "body": [
-        "A 444 szerkesztőségének podcastműsorában, a Borízű hang 288. adásában Uj Péter, Sajó Dávid és Barkóczi műsorvezetők vitatták meg az aktuális heti közéleti és nyelvtani témákat. A beszélgetés a nyelvkutatással indult, megemlítve Barczafalvi Szabó Dávid munkásságát az 1760–80-as évekből.",
-        "A hazai politikum nyelvi sajátosságai mellett a közéleti szereplők lakhatási és autós ügyei is előkerültek. Emellett a fideszes politikusokhoz kapcsolódó járművek is témát szolgáltattak, külön kitérve a Totalcarnak köszönhetően ismertté vált Skoda Superbekre.",
-        "Az adás második felében a külpolitikai kitekintések mellett a figyelem Magyar Péter római utazására terelődött. A „Magyar Péter Vespán” című blokkban a szerkesztők azt boncolgatták, hogy vajon teljesen legálisan pattant-e robogóra Rómában a politikus."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 140,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Piaggio_Vespa_Special_50cc_in_Arezzo.jpg/1280px-Piaggio_Vespa_Special_50cc_in_Arezzo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1234,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Piaggio Vespa Special 50cc in Arezzo",
-        "credit": "Livioandronico2013 / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Piaggio_Vespa_Special_50cc_in_Arezzo.jpg",
-        "vision_score": 7.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.youtube.com/watch?v=Qo_PkkZbF2k",
-          "title": "Tényfeltárás: legálisan vespázott Magyar Péter Rómában? | Borízű hang #288",
-          "publisher": "444.hu",
-          "license": null,
-          "accessed_at": "2026-10-05T18:47:24+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Hogy lehet lakni a parlamentben?, és ez teljes komoly tárgyalás alá esett, hogy akkor a parlamentben életvitelszerű tartózkodás hogy történik.",
-        "who": "Uj Péter, a Borízű hang szerkesztője",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-05T18:50:21+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.youtube.com/watch?v=Qo_PkkZbF2k"
-        ]
-      },
-      "date": "2026-10-05",
-      "date_label": "október 5.",
-      "url": "/kozelet/2026-10-05-magyar-peter-romai-robogozasa-es-mas-kozeleti-furcsasagok/",
-      "seo": {
-        "meta_title": "Magyar Péter római robogózása és más közéleti furcsaságok",
-        "meta_description": "A 444 Borízű hang című műsorának legfrissebb adásában a fideszes vezetéknevektől a parlamenti lakhatási kérdésekig számos hazai közügy terítékre került. A beszé",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-05-magyar-peter-romai-robogozasa-es-mas-kozeleti-furcsasagok/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Piaggio_Vespa_Special_50cc_in_Arezzo.jpg/1280px-Piaggio_Vespa_Special_50cc_in_Arezzo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "1a93b502918d7e75b38fca8a6a8ea073dc11db9970e9b762e62e172fc276ecaa",
-      "pipeline_run_id": "37341851281",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-05T18:50:21+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-05T18:50:21+02:00",
-      "expires_at": null,
-      "hold": true,
-      "video": {
-        "id": "Qo_PkkZbF2k",
-        "title": "Tényfeltárás: legálisan vespázott Magyar Péter Rómában? | Borízű hang #288",
-        "channel": "444.hu",
-        "minutes": 48
-      }
     }
   ]
 }
