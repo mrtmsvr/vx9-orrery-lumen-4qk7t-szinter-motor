@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "8e47d742-4d04-5f99-94ef-4e7bb21210a9",
+      "slug": "2026-10-31-biro-bence-peter-a-digitalis-magany-eppen-annyira-artalmas-mint-a-cig",
+      "url": "/tech/2026-10-31-biro-bence-peter-a-digitalis-magany-eppen-annyira-artalmas-mint-a-cig/",
+      "title": "Bíró Bence Péter: A digitális magány éppen annyira ártalmas, mint a cigaretta",
+      "lead": "A magyar fiatalok jelentős része magányosan éli mindennapjait a fokozott digitalizáció miatt, miközben a szorongás enyhítésére használt mesterséges intelligencia csak tovább ronthatja a szociális készségeket. A Telex Holnap című műsorában szakértők elemezték a Z generáció mentális kihívásait.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-10-31",
+      "date_label": "október 31.",
+      "created_at": "2026-10-31T18:17:42+01:00",
+      "published_at": "2026-10-31T18:17:42+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Z generáció",
+        "magány",
+        "mesterséges intelligencia",
+        "pszichológia",
+        "ChatGPT"
+      ],
+      "hero_image": {
+        "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2JzNjk0LWltYWdlLmpwZw.jpg",
+        "width": 4460,
+        "height": 2973,
+        "kind": "photo",
+        "alt": "Man sitting alone bench looking"
+      }
+    },
+    {
       "id": "0437054c-3b4b-5172-ba34-314b8660ce89",
       "slug": "2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor",
       "url": "/vilag/2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor/",
@@ -4390,35 +4419,7 @@
         "pos": "center",
         "alt": "Código en PHP."
       }
-    },
-    {
-      "id": "1579bef9-6069-589c-a1d1-5aac30631832",
-      "slug": "2026-10-22-matthesz-flora-vezeti-oktober-vegetol-a-fokuszt-is",
-      "url": "/bulvar/2026-10-22-matthesz-flora-vezeti-oktober-vegetol-a-fokuszt-is/",
-      "title": "Matthesz Flóra vezeti október végétől a Fókuszt is",
-      "lead": "Új szerepkörben láthatják a nézők Matthesz Flórát, aki október 24-től a Fókusz műsorvezetői csapatát erősíti. A sportrajongók számára már jól ismert televíziós a jövőben párhuzamosan látja el sportműsorvezetői és Fókusz-műsorvezetői feladatait.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T11:29:04+02:00",
-      "published_at": "2026-10-22T11:29:04+02:00",
-      "reading_time_min": 1,
-      "hot_score": 6.03,
-      "tags": [
-        "Matthesz Flóra",
-        "Fókusz",
-        "RTL",
-        "műsorvezető",
-        "média"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-a73766fa40.jpg",
-        "kind": "photo",
-        "alt": "Matthesz Flóra vezeti október végétől a Fókuszt is",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-10-31T17:57:39+01:00"
+  "updated_at": "2026-10-31T18:17:43+01:00"
 }
