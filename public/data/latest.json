@@ -176,35 +176,6 @@
       }
     },
     {
-      "id": "8d25c78a-00d9-5d92-99a1-3056d05f12a0",
-      "slug": "2026-10-31-palinkazassal-es-tabortuzzel-unnepelt-orban-viktor-a-boszniai-szovets",
-      "url": "/vilag/2026-10-31-palinkazassal-es-tabortuzzel-unnepelt-orban-viktor-a-boszniai-szovets/",
-      "title": "Pálinkázással és tábortűzzel ünnepelt Orbán Viktor a boszniai szövetségesénél",
-      "lead": "Orbán Viktor családjával együtt látogatást tett Milorad Dodiknál a boszniai Szerb Köztársaságban, ahol a felek röviditalokat kóstolva ünnepeltek. A találkozó újfent rávilágít a két politikus szoros szövetségére, miközben a vendéglátó ellen nemzetközi szankciók és – a sajtóhírek szerint – börtönbüntetés van érvényben.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T07:50:40+01:00",
-      "published_at": "2026-10-31T07:50:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.42,
-      "tags": [
-        "Orbán Viktor",
-        "Milorad Dodik",
-        "Boszniai Szerb Köztársaság",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Milorad_Dodik_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Milorad Dodik, president of the Alliance of Independent Social Democrats, at the Kremlin in 2026."
-      }
-    },
-    {
       "id": "b22d4d9d-61ec-5e95-90a1-70ae8ea8caac",
       "slug": "2026-10-31-valsaghelyzet-miatt-fordult-vissza-szenegali-utjarol-a-lengyel-elnok",
       "url": "/vilag/2026-10-31-valsaghelyzet-miatt-fordult-vissza-szenegali-utjarol-a-lengyel-elnok/",
@@ -4418,7 +4389,36 @@
         "alt": "Matthesz Flóra vezeti október végétől a Fókuszt is",
         "cover": true
       }
+    },
+    {
+      "id": "090cb33e-80b6-59a1-8781-174e0cc9eb71",
+      "slug": "2026-10-22-a-muegyetemtol-a-bem-terig-vonulnak-az-1956-os-forradalom-evforduloja",
+      "url": "/kozelet/2026-10-22-a-muegyetemtol-a-bem-terig-vonulnak-az-1956-os-forradalom-evforduloja/",
+      "title": "A Műegyetemtől a Bem térig vonulnak az 1956-os forradalom évfordulóján",
+      "lead": "Csütörtök délután fáklyás menettel és a Műegyetemnél kezdődő programokkal veszik kezdetüket az 1956-os forradalom és szabadságharc hetvenedik évfordulójának hivatalos megemlékezései. A rendezvénysorozat pénteken a Kossuth téri ünnepélyes zászlófelvonással folytatódik.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "created_at": "2026-10-22T11:27:19+02:00",
+      "published_at": "2026-10-22T11:27:19+02:00",
+      "reading_time_min": 2,
+      "hot_score": 10.04,
+      "tags": [
+        "október 23",
+        "1956",
+        "megemlékezés",
+        "Budapest",
+        "Magyar Péter"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/f7b749f8a86a719a.jpg",
+        "width": 6240,
+        "height": 4160,
+        "kind": "photo",
+        "alt": "torch, torchlight, editorial, people, torchlight procession, procession, protest, italy, mask, face, ffp2, purple, light, night, woman, women, torchlight, torchlight, torchlight, people, procession, p"
+      }
     }
   ],
-  "updated_at": "2026-10-31T14:19:16+01:00"
+  "updated_at": "2026-10-31T15:34:20+01:00"
 }
