@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1716d110-572e-508b-bc25-7528e4b8ab31",
+      "slug": "2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan",
+      "url": "/kozelet/2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan/",
+      "title": "Végre elkelt a híres balatoni ingatlan",
+      "lead": "Gazdát cserélt a Balatonhenyén álló, zöld spalettás ingatlan, amelyet még Varga Judit és Magyar Péter építtetett közösen. A korábban a CSOK-hitel miatt is a hírekbe kerülő, okosfűtéssel és Herendi cserépkályhákkal felszerelt épület 299 millió forintért kelt el.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-10-31",
+      "date_label": "október 31.",
+      "created_at": "2026-10-31T18:47:48+01:00",
+      "published_at": "2026-10-31T18:47:48+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.56,
+      "tags": [
+        "Varga Judit",
+        "Magyar Péter",
+        "Balatonhenye",
+        "ingatlanpiac",
+        "csok"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Balatonhenye%2C_a_reform%C3%A1tus_templom_l%C3%A9gi_felv%C3%A9telen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Balatonhenye, a református templom légi felvételen"
+      }
+    },
+    {
       "id": "77fd0005-86d6-5423-a3ad-f4ec084e54d1",
       "slug": "2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e",
       "url": "/kozelet/2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e/",
@@ -4386,37 +4416,7 @@
         "alt": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1956-ot",
         "cover": true
       }
-    },
-    {
-      "id": "965e8a1e-05de-5634-acc9-f0c0104be40b",
-      "slug": "2026-10-22-sokkal-melyebb-a-godor-mint-hittuk-ezt-titkoljak-az-egeszsegugyrol",
-      "url": "/kozelet/2026-10-22-sokkal-melyebb-a-godor-mint-hittuk-ezt-titkoljak-az-egeszsegugyrol/",
-      "title": "Sokkal mélyebb a gödör, mint hittük: ezt titkolják az egészségügyről",
-      "lead": "A magyar lakosság átlagosan öt évvel kevesebbet él az uniós átlagnál, és az ellátórendszer struktúrája komoly hiányosságokkal küzd. A Telex.hu műsorában részletesen elemezték a hazai egészségügy mélyreható problémáit.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T13:00:45+02:00",
-      "published_at": "2026-10-22T13:00:45+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "egészségügy",
-        "Telex",
-        "Egyensúly Intézet",
-        "alapellátás",
-        "statisztika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg/1280px-Woman_with_a_stethoscope_reading_a_book_at_a_table_in_a_home_office_setting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "A woman wearing a stethoscope sits at a table in a home office. She reads a book with several closed books nearby. The setting appears cozy and informal."
-      }
     }
   ],
-  "updated_at": "2026-10-31T18:44:26+01:00"
+  "updated_at": "2026-10-31T18:47:50+01:00"
 }
