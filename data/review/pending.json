@@ -6980,8 +6980,11 @@
         "lead": "Az amerikai kormányzat jóváhagyta ötszáz darab Patriot elfogó rakéta értékesítését Ukrajnának 2,1 milliárd dollár értékben. A légvédelmi eszközök beszerzését Kanada, Németország és Norvégia finanszírozza.",
         "ctl_photo": true,
         "control_id": 9677,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:26 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-31T13:26:55+01:00"
     },
     {
       "id": "d773a50e-3d7a-54b0-9195-2003c39d36c0",
@@ -7193,7 +7196,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-10-31T12:06:54+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 7.15 · 3 forrás\n\n1) Megvágták a Fidesz büdzséjét, milliárdos löketet kapott a Tisza\n2) Átalakul a pártfinanszírozás: kevesebb jut a kormánypártnak, tarol a Tisza a költségvetési tervezetben\n3) Jelentősen csökken a Fidesz állami támogatása, miközben a Tisza Párt milliárdos keretből gazdálkodhat\n🔥 4) Ilyen mértékű pénzmozgásra senki sem számított a 2027-es költségvetési tervezetben\n🔥 5) Félmilliárdos mínusz és milliárdos plusz: ezek a számok döntik meg a hazai pártfinanszírozás eddigi rendjét\n🔥 6) Mutatjuk, melyik párt kapja a legtöbb állami milliót a következő évben\n\n<b>Források:</b> 24.hu, infostart.hu, infostart.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A 2027-es költségvetési törvényjavaslat adatai szerint kevesebb állami forrás jut jövőre a Fidesznek, míg a Tisza Párt támogatása jelentős összeggel emelkedik. Az MTI által ismertetett összefoglaló a pártok működését szabályozó törvény alapján mutatja be a formációk jövő évi juttatásait.",
