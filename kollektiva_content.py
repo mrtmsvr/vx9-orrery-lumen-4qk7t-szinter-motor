@@ -2502,6 +2502,25 @@ def _resolve_person(tag: str, timeout: int) -> Optional[dict]:
     return p
 
 
+def _person_fits(p: dict, titles: list, first_date: str) -> bool:
+    """Ugyanarról az emberről szólnak-e a cikkeink: (1) aki a cikkek előtt jóval meghalt, az névrokon;
+    (2) AI-ellenőrzés a Wikidata-leírás és a cikkcímek alapján (hiba esetén elfogadjuk – az 1. szabály akkor is véd)."""
+    if p.get("death") and first_date and p["death"] < (date.fromisoformat(first_date[:10]) - timedelta(days=60)).isoformat():
+        return False  # pl. Rózsa András (1935–2016) költő ≠ a 2026-os zuglói ügy szereplője
+    try:
+        ai = AIClient(Config.from_env())
+        if not ai.enabled:
+            return True
+        r = ai.complete_json("Tényellenőrző vagy. Csak JSON-t adsz vissza.", (
+            f"Wikidata-személy: {p.get('name')} – {p.get('desc') or '?'} (született: {p.get('birth') or '?'}"
+            + (f", meghalt: {p['death']}" if p.get("death") else "") + ")\nCikkcímeink erről a névről:\n"
+            + "\n".join("- " + t for t in titles[:8])
+            + '\n\nUgyanarról az emberről szólnak a cikkek, vagy egy névrokonról? JSON: {"same": true/false}'), 100, light=True)
+        return r.get("same") is not False
+    except Exception:  # noqa: BLE001
+        return True
+
+
 def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
     """Új, legalább PEOPLE_MIN_ARTICLES cikkben szereplő név-címkék feloldása (hívásonként n). Visszaad: új szereplők száma."""
     st = read_json(PEOPLE_FILE, {"tags": {}})
@@ -2512,17 +2531,37 @@ def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
             for t in {str(x).strip() for x in a.get("tags") or []}:
                 if _PERSON_TAG.match(t):
                     cnt[t] = cnt.get(t, 0) + 1
+    arts = [a for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", []) if a.get("status") == "published"]
+    ctx = lambda t: ([a["title"] for a in arts if t in (a.get("tags") or [])],  # noqa: E731
+                     min((a.get("date") or "9999") for a in arts if t in (a.get("tags") or [])))
     todo = [t for t, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= PEOPLE_MIN_ARTICLES and t not in known][:n]
+    # a már feloldott, de még nem ellenőrzött szereplők utólagos ellenőrzése (10.24–31. között névrokonok is bekerültek)
+    recheck = [t for t, p in known.items() if p and not p.get("none") and not p.get("checked")][:max(0, n - len(todo)) + 2]
     added = 0
+    for t in recheck:
+        titles, first = ctx(t)
+        if titles and not _person_fits(known[t], titles, first):
+            log.info("Szereplőoldal törölve (névrokon): %s – %s", t, known[t].get("desc"))
+            known[t] = {"none": True, "why": "névrokon"}
+            added += 1  # újraépítés kell (az oldal eltűnik)
+        else:
+            known[t]["checked"] = True
     for t in todo:
         try:
             p = _resolve_person(t, timeout)
         except Exception as e:  # noqa: BLE001
             log.warning("Szereplő-feloldás kimaradt (%s): %s", t, str(e)[:160])
             continue
+        if p:
+            titles, first = ctx(t)
+            if not _person_fits(p, titles, first):
+                log.info("Szereplő kimarad (névrokon): %s – %s", t, p.get("desc"))
+                p = None
+            else:
+                p["checked"] = True
         known[t] = p or {"none": True}
         added += bool(p)
-    if todo:
+    if todo or recheck:
         write_json_atomic(PEOPLE_FILE, st)
     return added
 
