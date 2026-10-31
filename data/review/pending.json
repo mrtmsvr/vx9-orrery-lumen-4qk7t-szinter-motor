@@ -5596,16 +5596,29 @@
       ],
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Horv%C3%A1th_Oszk%C3%A1r.jpg/1280px-Horv%C3%A1th_Oszk%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Puzs%C3%A9r_R%C3%B3bert.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 1251,
+          "height": 1395,
           "kind": "photo",
           "pos": "top",
-          "alt": "Oszkár Horváth",
-          "credit": "Elekes Andor / Wikimedia Commons",
-          "license": "CC BY 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Horv%C3%A1th_Oszk%C3%A1r.jpg",
-          "vision_score": 10.0
+          "alt": "Puzsér Róbert (Budapest, 1974. október 24. –) végzettsége szerint magyar–történelem szakos tanár; műsorvezető, szerkesztő, kritikus.",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Puzs%C3%A9r_R%C3%B3bert.jpeg",
+          "exact": true,
+          "entity": "Puzsér Róbert",
+          "vision_score": 13.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-b6ffda8ab9.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-b6ffda8ab9.jpg",
+          "kind": "photo",
+          "alt": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
         }
       ],
       "legal": {
@@ -5623,10 +5636,23 @@
         "sent_at": "2026-10-31T06:55:41+00:00",
         "head": "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új) · <b>Közélet</b> · forróság 5 · 1 forrás\n\n1) Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban\n2) Besokallt a politikai mocsártól, végleg lelép Horváth Oszkár\n3) Nem bírja tovább a napi agyfaszt: feladja Horváth Oszkár\n\n<b>Források:</b> Szélsőközép\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
         "lead": "Váratlanul bejelentette távozását Horváth Oszkár az Önkényes Mérvadóból a napi közéleti témák fojtogató túlsúlya és a túlterheltség miatt. A műsorvezető döntése mögött saját vállalkozása és a szellemi kiégés áll.",
-        "ctl_photo": false,
-        "control_id": 9653,
+        "ctl_photo": true,
+        "control_id": 9654,
         "msg_ids": []
-      }
+      },
+      "image_queries": [
+        "Horváth Oszkár",
+        "Puzsér Róbert",
+        "Egri Viktor",
+        "Önkényes Mérvadó",
+        "Az Árulók",
+        "microphone in radio studio",
+        "burning out candle exhaustion",
+        "empty office chair resignation"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Horv%C3%A1th_Oszk%C3%A1r.jpg/1280px-Horv%C3%A1th_Oszk%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
