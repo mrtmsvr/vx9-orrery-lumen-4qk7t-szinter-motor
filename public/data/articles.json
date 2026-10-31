@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:21:36+01:00",
+  "updated_at": "2026-10-31T13:22:09+01:00",
   "articles": [
     {
       "id": "d773a50e-3d7a-54b0-9195-2003c39d36c0",
@@ -342,16 +342,18 @@
       "word_count": 391,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-f336780671.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-f336780671.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dniepras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1401,
         "kind": "photo",
-        "alt": "Térkép: Oleski",
-        "credit": "Térkép: © OpenStreetMap közreműködők",
-        "license": "ODbL",
-        "source_url": "https://www.openstreetmap.org/copyright",
-        "generated": true,
-        "card": "map",
-        "zoom": 12
+        "pos": "top",
+        "alt": "Dniepro baseinas",
+        "credit": "Original uploader was Knutux at lt.wikipedia / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dniepras.png",
+        "exact": true,
+        "entity": "Dnipro River",
+        "vision_score": 9.0
       },
       "inline_images": [],
       "sources": [
@@ -386,7 +388,7 @@
         "meta_title": "Repülővel menekítették ki az éhező lakosokat az ostromlott O",
         "meta_description": "Október végén ideiglenes fegyverszünetet hirdettek a Dnyeper-parti Oleskiben, hogy a hónapok óta élelmiszer és gyógyszer nélkül maradt lakosok elhagyhassák a vá",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-31-repulovel-menekitettek-ki-az-ehezo-lakosokat-az-ostromlott-oleskibol/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/map-f336780671.jpg",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dniepras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -404,7 +406,7 @@
       "pipeline_run_id": "41190296390",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-31T11:40:18+01:00",
-      "updated_at": "2026-10-31T13:21:36+01:00",
+      "updated_at": "2026-10-31T13:22:09+01:00",
       "published_at": "2026-10-31T11:40:18+01:00",
       "expires_at": null
     },
