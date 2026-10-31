@@ -5659,7 +5659,7 @@
     {
       "id": "f5108e08-dbe6-5162-ab9e-eaa2777354bd",
       "slug": "2026-10-31-osztrak-autopalya-matrica-arak-ennyibe-kerulnek-januartol",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -5696,7 +5696,7 @@
       "word_count": 379,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g63bd557cd4aa684202523cb5dde5c9f90fe1e8ca3aa34593442bf15ccb97c1030cdb219ce0356c7df0fde46f13efe7724fb53355634157fe00c081db143e4574_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/c3d786bc34305ffc.jpg",
         "width": 3444,
         "height": 2296,
         "kind": "photo",
@@ -5704,7 +5704,9 @@
         "credit": "geralt / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/cost-calculator-euro-dollar-money-4164569/",
-        "vision_score": 7.0
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/c3d786bc34305ffc.jpg",
+        "orig_url": "https://pixabay.com/get/g63bd557cd4aa684202523cb5dde5c9f90fe1e8ca3aa34593442bf15ccb97c1030cdb219ce0356c7df0fde46f13efe7724fb53355634157fe00c081db143e4574_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -5800,7 +5802,7 @@
         "meta_title": "Osztrák autópálya-matrica árak: ennyibe kerülnek januártól",
         "meta_description": "Január első napjától két százalékkal drágulnak az osztrák autópálya-matricák, így az egész évre szóló bérlet ára 108,90 euróra nő. A fizikai, szélvédőre ragaszt",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-31-osztrak-autopalya-matrica-arak-ennyibe-kerulnek-januartol/",
-        "og_image": "https://pixabay.com/get/g63bd557cd4aa684202523cb5dde5c9f90fe1e8ca3aa34593442bf15ccb97c1030cdb219ce0356c7df0fde46f13efe7724fb53355634157fe00c081db143e4574_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/c3d786bc34305ffc.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -5815,9 +5817,9 @@
       "dedupe_hash": "aa5b52138e6d35903f142c611a031e9f5654bc6e876cbbab79e2c9305da09b66",
       "pipeline_run_id": "41186607703",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-31T10:02:58+01:00",
-      "updated_at": "2026-10-31T10:02:58+01:00",
-      "published_at": null,
+      "created_at": "2026-10-31T10:06:15+01:00",
+      "updated_at": "2026-10-31T10:06:15+01:00",
+      "published_at": "2026-10-31T10:06:15+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-10-31T11:58:04+01:00",
@@ -5835,8 +5837,11 @@
         "lead": "Január első napjától két százalékkal drágulnak az osztrák autópálya-matricák, így az egész évre szóló bérlet ára 108,90 euróra nő. A fizikai, szélvédőre ragasztható matricák végleg kikerülnek a forgalomból, és a hatóságok kizárólag a digitális formátumot fogadják el.",
         "ctl_photo": false,
         "control_id": 9657,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
