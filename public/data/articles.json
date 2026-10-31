@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-31T13:22:23+01:00",
+  "updated_at": "2026-10-31T13:23:07+01:00",
   "articles": [
     {
       "id": "d773a50e-3d7a-54b0-9195-2003c39d36c0",
@@ -182,18 +182,15 @@
       "word_count": 479,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/9243db5662-1793449374-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9243db5662-1793449374-0.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": "András Kármán, Hungarian Minister of Finance",
-        "credit": "Ferenc Isza / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg",
-        "exact": true,
-        "entity": "Kármán András",
-        "vision_score": 13.0
+        "alt": "Itt a Tisza-kormány első teljes évre szóló költségvetése: adócsökkentés és 5100 milliárdos hiány",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -262,7 +259,7 @@
         "meta_title": "Itt a Tisza-kormány első teljes évre szóló költségvetése: ad",
         "meta_description": "Benyújtotta a parlamentnek a Tisza-kormány a 2027-es központi költségvetés tervezetét, amely több mint ötezer milliárd forintos hiánnyal, széles körű béremelése",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-31-otvenmilliardos-hiannyal-es-eurocelokkal-kuldte-be-elso-koltsegvetese/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/9243db5662-1793449374-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -300,7 +297,7 @@
       "pipeline_run_id": "41197464686",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-10-31T13:01:11+01:00",
-      "updated_at": "2026-10-31T13:22:23+01:00",
+      "updated_at": "2026-10-31T13:23:07+01:00",
       "published_at": "2026-10-31T13:01:11+01:00",
       "expires_at": null
     },

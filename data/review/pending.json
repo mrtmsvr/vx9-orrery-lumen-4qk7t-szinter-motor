@@ -6567,6 +6567,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/9243db5662-1793449374-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9243db5662-1793449374-0.jpg",
+          "kind": "photo",
+          "alt": "Itt a Tisza-kormány első teljes évre szóló költségvetése: adócsökkentés és 5100 milliárdos hiány",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/9243db5662-1793449385-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9243db5662-1793449385-1.jpg",
+          "kind": "photo",
+          "alt": "Itt a Tisza-kormány első teljes évre szóló költségvetése: adócsökkentés és 5100 milliárdos hiány",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 1600,
@@ -6631,17 +6653,6 @@
           "exact": true,
           "entity": "Ruff Bálint",
           "vision_score": 5.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-dac0f67a19.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-dac0f67a19.jpg",
-          "kind": "photo",
-          "alt": "5102,7 milliárd forint – A 2027-es költségvetés tervezett pénzforgalmi hiánya",
-          "credit": "Kollektíva grafika",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "card": "num"
         }
       ],
       "story": [
@@ -6752,8 +6763,11 @@
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 8.59 · 5 forrás\n\n1) Ötvenmilliárdos hiánnyal és eurócélokkal küldte be első költségvetését a Tisza-kormány\n2) Itt a Tisza-kormány első teljes évre szóló költségvetése: adócsökkentés és 5100 milliárdos hiány\n3) A Tisza-kormány benyújtotta a 2027-es büdzsé tervezetét: ötezer milliárdos hiány és eurócélok\n🔥 4) Végre kiderült, mekkora hiánnyal és milyen árcédulával indul a Tisza-kormány első teljes éve\n🔥 5) Itt vannak a részletek: ilyen büdzsét rakott le az asztalra a kabinet 2027-re\n🔥 6) Ekkora nyugdíjminimummal és béremeléssel számol a friss költségvetési tervezet\n\n<b>Források:</b> portfolio.hu, vg.hu, index.hu, vg.hu, vg.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Benyújtotta a parlamentnek a Tisza-kormány a 2027-es központi költségvetés tervezetét, amely több mint ötezer milliárd forintos hiánnyal, széles körű béremelésekkel és a 2030-as euróbevezetési céllal számol. A dokumentum adócsökkentéseket, szociális juttatásokat, valamint a központi kiadások szigorúbb átszabását ígéri.",
         "ctl_photo": true,
-        "control_id": 9676,
-        "msg_ids": [],
+        "control_id": 9683,
+        "msg_ids": [
+          9681,
+          9682
+        ],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
       "live": true
