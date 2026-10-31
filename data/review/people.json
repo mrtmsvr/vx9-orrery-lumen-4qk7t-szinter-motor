@@ -467,36 +467,15 @@
       "none": true
     },
     "Rubint Réka": {
-      "qid": "Q1251503",
-      "name": "Rubint Réka",
-      "birth": "1978-06-28",
-      "death": "",
-      "desc": "magyar fitneszedző",
-      "bio": "Rubint Réka magyar fitneszedző, üzletasszony, különböző fitneszkiadványok, edzésprogramok szerzője. 2017-ben a Forbes őt választotta a 10. legbefolyásosabb magyar nőnek a médiában.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Rubint_R%C3%A9ka",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1483,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "A screenshot of a YouTube video news report featuring Réka Rubint, uploaded and created by the Tolnatàj Television channel.",
-        "credit": "Tolnatáj Television / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9kaRubint2019.png"
-      }
+      "none": true,
+      "why": "névrokon"
     },
     "Paksi Atomerőmű": {
       "none": true
     },
     "Molnár Áron": {
-      "qid": "Q19594128",
-      "name": "Molnár Áron",
-      "birth": "1987-12-18",
-      "death": "",
-      "desc": "(1987–) magyar színész, politikai aktivista",
-      "bio": "Molnár Áron vajdasági születésű magyar színész, szinkronszínész, környezetvédelmi és társadalmi ügyekkel foglalkozó aktivista. A noÁr mozgalom alapítója.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Moln%C3%A1r_%C3%81ron_%28sz%C3%ADnm%C5%B1v%C3%A9sz%29"
+      "none": true,
+      "why": "névrokon"
     },
     "Transparency International": {
       "none": true
@@ -519,7 +498,8 @@
         "credit": "Bundesministerium für europäische und internationale Angelegenheiten / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Anita_Orb%C3%A1n.jpg"
-      }
+      },
+      "checked": true
     },
     "Jeszenszky Géza": {
       "qid": "Q837814",
@@ -539,7 +519,8 @@
         "credit": "Elekes Andor / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Jeszenszky_G%C3%A9za_--.jpg"
-      }
+      },
+      "checked": true
     },
     "Ruszin-Szendi Romulusz": {
       "qid": "Q107171051",
@@ -559,7 +540,8 @@
         "credit": "Kölcsey Televízió / Wikimedia Commons",
         "license": "CC BY 3.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Romolusz_Ruszin-Szendi.jpg"
-      }
+      },
+      "checked": true
     },
     "Gyurkó Szilvia": {
       "qid": "Q65216027",
@@ -568,7 +550,8 @@
       "death": "",
       "desc": "(1977) magyar jogász, gyermekvédő",
       "bio": "Gyurkó Szilvia gyermekjogi aktivista, a gyermekjogok egyik legelismertebb hazai szakértője, a Hintalovon Gyermekjogi Alapítvány alapítója és vezetője. A Magyar-kormány gyermekjogi és gyermekvédelmi államtitkára.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Gyurk%C3%B3_Szilvia"
+      "wiki_url": "https://hu.wikipedia.org/wiki/Gyurk%C3%B3_Szilvia",
+      "checked": true
     },
     "Magyar Olimpiai Bizottság": {
       "none": true
