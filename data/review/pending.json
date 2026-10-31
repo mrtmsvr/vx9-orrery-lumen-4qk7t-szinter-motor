@@ -5582,8 +5582,11 @@
         "lead": "A magyar fiatalok jelentős része magányosan éli mindennapjait a fokozott digitalizáció miatt, miközben a szorongás enyhítésére használt mesterséges intelligencia csak tovább ronthatja a szociális készségeket. A Telex Holnap című műsorában szakértők elemezték a Z generáció mentális kihívásait.",
         "ctl_photo": false,
         "control_id": 9697,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 18:17 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-10-31T18:17:37+01:00"
     }
   ]
 }
