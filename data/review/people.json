@@ -1,24 +1,8 @@
 {
   "tags": {
     "Magyar Péter": {
-      "qid": "Q124488292",
-      "name": "Magyar Péter",
-      "birth": "1981-03-16",
-      "death": "",
-      "desc": "(1981–) magyar jogász, diplomata, politikus, Magyarország miniszterelnöke 2026-tól",
-      "bio": "Magyar Péter magyar politikus, jogász, diplomata, országgyűlési képviselő, 2026 óta Magyarország miniszterelnöke. A Talpra Magyarok Közösségének vezetője, a Tisztelet és Szabadság (TISZA) Párt elnöke. 2024-től 2026-ig európai parlamenti képviselő.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Magyar_P%C3%A9ter_%28politikus%29",
-      "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1599,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra",
-        "credit": "Norbert Banhalmi / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Peter-Magyar-portrait-2026.jpg"
-      }
+      "none": true,
+      "why": "névrokon"
     },
     "Európai Unió": {
       "none": true
@@ -44,7 +28,8 @@
         "credit": "Press Service of the President of Ukraine / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Donald Trump": {
       "qid": "Q22686",
@@ -64,7 +49,8 @@
         "credit": "Daniel Torok / Wikimedia Commons",
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4).jpg"
-      }
+      },
+      "checked": true
     },
     "Vitézy Dávid": {
       "qid": "Q1460530",
@@ -84,7 +70,8 @@
         "credit": "NyitraiD / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Vit%C3%A9zyD%C3%A1vid2021.jpg"
-      }
+      },
+      "checked": true
     },
     "Tisza Párt": {
       "none": true
@@ -107,7 +94,8 @@
         "credit": "Xavier Lejeune / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:V%C3%A1rhelyi_Kar%C3%A1csony_2024_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Magyar Nemzeti Bank": {
       "none": true
@@ -130,7 +118,8 @@
         "credit": "The White House / Wikimedia Commons",
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_(cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Európai Bizottság": {
       "none": true
