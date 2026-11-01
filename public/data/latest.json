@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b2447d3d-e60c-5423-b366-e0b6fb932a7b",
+      "slug": "2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek",
+      "url": "/vilag/2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek/",
+      "title": "Amerika figyelmeztette Moszkvát: terrortámadásra készülnek",
+      "lead": "Tömeges áldozatokkal járó, előkészületben lévő terrortámadás veszélyére figyelmeztette Oroszországot az Egyesült Államok moszkvai nagykövetsége. A hivatalos szervek már megkezdték a szükséges óvintézkedések végrehajtását az orosz fővárosban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T06:28:32+01:00",
+      "published_at": "2026-11-01T06:28:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.8,
+      "tags": [
+        "Moszkva",
+        "egyesült államok",
+        "terrortámadás",
+        "FSZB",
+        "biztonsági figyelmeztetés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/1280px-Moscow_05-2012_Kremlin_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 758,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Moscow, Russia. General view of the Moscow Kremlin."
+      }
+    },
+    {
       "id": "1716d110-572e-508b-bc25-7528e4b8ab31",
       "slug": "2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan",
       "url": "/kozelet/2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan/",
@@ -4388,35 +4418,7 @@
         "pos": "center",
         "alt": "Budapešť"
       }
-    },
-    {
-      "id": "db3353bf-58e1-59f2-a1e4-55630fd9ddee",
-      "slug": "2026-10-22-europai-csucsvezetokkel-es-miniszterekkel-unnepli-budapest-1956-ot",
-      "url": "/kozelet/2026-10-22-europai-csucsvezetokkel-es-miniszterekkel-unnepli-budapest-1956-ot/",
-      "title": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1956-ot",
-      "lead": "Az 1956-os forradalom hetvenedik évfordulójára több mint száz külföldi politikust hívott meg a miniszterelnök, ám a legmagasabb szintű államfői jelenlét helyett inkább házelnökök és miniszterek érkeznek. A pénteki budapesti eseményeken azonban az Európai Bizottság és az Európai Tanács elnöke is személyesen mond beszédet.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T16:03:08+02:00",
-      "published_at": "2026-10-22T16:03:08+02:00",
-      "reading_time_min": 2,
-      "hot_score": 7.8,
-      "tags": [
-        "október 23",
-        "Magyar Péter",
-        "Ursula von der Leyen",
-        "1956-os forradalom",
-        "Budapest"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5450feaefa.jpg",
-        "kind": "photo",
-        "alt": "Európai csúcsvezetőkkel és miniszterekkel ünnepli Budapest 1956-ot",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-01T00:20:51+01:00"
+  "updated_at": "2026-11-01T06:28:34+01:00"
 }
