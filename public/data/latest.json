@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "cff9fbf0-1d0d-5d1f-ab2b-14e04a82e6ab",
+      "slug": "2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel",
+      "url": "/kozelet/2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel/",
+      "title": "Négyszáz utassal a fedélzeten gázszivárgás történt, egy személyt érintett Budaörsnél",
+      "lead": "Vasárnap este gázszivárgás történt, egy személyt érintett Budaörsnél, a Raktár utca melletti vasúti szakaszon. A Győrből a Déli pályaudvarra tartó Rába InterRégió szerelvényén mintegy négyszáz utas tartózkodott az esemény pillanatában.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T21:22:14+01:00",
+      "published_at": "2026-11-01T21:22:14+01:00",
+      "reading_time_min": 1,
+      "hot_score": 11.7,
+      "tags": [
+        "vonatbaleset",
+        "Budaörs",
+        "MÁV",
+        "katasztrófavédelem"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg/1280px-Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Budaörs railway station, platform side.  - Raktár Street, Budaörs, Pest County."
+      }
+    },
+    {
       "id": "cf1c1eaa-62ec-5ca8-a83c-42e88fc7c81c",
       "slug": "2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter",
       "url": "/kozelet/2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter/",
@@ -4394,36 +4423,7 @@
         "alt": "Térkép: Zugló",
         "card": "map"
       }
-    },
-    {
-      "id": "1fbcd9cd-3d8f-5525-8869-0130ccefc58f",
-      "slug": "2026-10-22-masfel-evtized-utan-a-network4-hez-igazol-ronai-egon",
-      "url": "/kozelet/2026-10-22-masfel-evtized-utan-a-network4-hez-igazol-ronai-egon/",
-      "title": "Másfél évtized után elhagyja az ATV-t Rónai Egon",
-      "lead": "Rónai Egon több mint tizenöt év után elhagyja az ATV Csoportot, amelynek meghatározó televíziós újságírója volt. A műsorvezető a Network4 Media Group felületein folytathatja pályafutását.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T22:21:33+02:00",
-      "published_at": "2026-10-22T22:21:33+02:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Rónai Egon",
-        "ATV",
-        "Network4",
-        "média"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/M%C3%A1t%C3%A9_Gesztesi_Signieren%2C_Pozsonyi_Piknik%2C_2024_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg/1280px-M%C3%A1t%C3%A9_Gesztesi_Signieren%2C_Pozsonyi_Piknik%2C_2024_%C3%9Ajlip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1290,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "'Pozsonyi Piknik' (~Pozsonyi Street Picnic) Est. 2009. Boof signing at ATV television statuion tent. Máté Gesztesi and Egon Rónai signing book 'The Egon' (Egon Rónai presenter biographical book)- Újp"
-      }
     }
   ],
-  "updated_at": "2026-11-01T20:49:09+01:00"
+  "updated_at": "2026-11-01T21:22:17+01:00"
 }

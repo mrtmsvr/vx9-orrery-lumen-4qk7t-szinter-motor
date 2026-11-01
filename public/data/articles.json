@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:46:48+01:00",
+  "updated_at": "2026-11-01T21:22:14+01:00",
   "articles": [
+    {
+      "id": "cff9fbf0-1d0d-5d1f-ab2b-14e04a82e6ab",
+      "slug": "2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "vonatbaleset",
+        "Budaörs",
+        "MÁV",
+        "katasztrófavédelem"
+      ],
+      "title": "Négyszáz utassal a fedélzeten gázszivárgás történt, egy személyt érintett Budaörsnél",
+      "subtitle": null,
+      "lead": "Vasárnap este gázszivárgás történt, egy személyt érintett Budaörsnél, a Raktár utca melletti vasúti szakaszon. A Győrből a Déli pályaudvarra tartó Rába InterRégió szerelvényén mintegy négyszáz utas tartózkodott az esemény pillanatában.",
+      "key_points": [
+        "Gázszivárgás történt, egy személyt érintett Budaörsön vasárnap este.",
+        "A baleset idején mintegy négyszázan utaztak a szerelvényen.",
+        "A katasztrófavédelem és a törökbálinti hivatásos tűzoltók segítik az utasok mentesítő járatokra történő átszállását.",
+        "A MÁV tájékoztatása szerint az S10-es és az S12-es személyvonatok a megszokottól eltérő vágányokra érkezhetnek."
+      ],
+      "content": "Gázszivárgás történt, egy személyt érintett vasárnap este Budaörsön, a Raktár utca melletti vasúti szakaszon. A Győrből 16:25-kor a Déli pályaudvarra elindult Rába InterRégió szerelvényén mintegy négyszáz utas tartózkodott az esemény pillanatában – közölte a katasztrófavédelem.\n\nEgy részüket már sikerült továbbszállítani egy mentesítő járattal, míg a vasúti kocsikban maradt utasok átjuttatását a következő mentesítő vonatra a törökbálinti hivatásos tűzoltók segítik.\n\nA vasúti közlekedést érintő változások miatt a MÁV azt írta, hogy az esemény következtében a megszokottól eltérő vágányra érkezhetnek az S10-es és az S12-es személyvonatok. A forgalmat csak az állomás területén belül korlátozták, ezért a győri fővonal járatainál nem kell jelentős késésekre számítani.",
+      "content_format": "markdown",
+      "body": [
+        "Gázszivárgás történt, egy személyt érintett vasárnap este Budaörsön, a Raktár utca melletti vasúti szakaszon. A Győrből 16:25-kor a Déli pályaudvarra elindult Rába InterRégió szerelvényén mintegy négyszáz utas tartózkodott az esemény pillanatában – közölte a katasztrófavédelem.",
+        "Egy részüket már sikerült továbbszállítani egy mentesítő járattal, míg a vasúti kocsikban maradt utasok átjuttatását a következő mentesítő vonatra a törökbálinti hivatásos tűzoltók segítik.",
+        "A vasúti közlekedést érintő változások miatt a MÁV azt írta, hogy az esemény következtében a megszokottól eltérő vágányra érkezhetnek az S10-es és az S12-es személyvonatok. A forgalmat csak az állomás területén belül korlátozták, ezért a győri fővonal járatainál nem kell jelentős késésekre számítani."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 132,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg/1280px-Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Budaörs railway station, platform side.  - Raktár Street, Budaörs, Pest County.",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s,_2017.jpg",
+        "exact": true,
+        "entity": "Budaörs railway station",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/11/01/budaors-vonat-gazolas-baleset/",
+          "title": "Elgázolt egy embert a vonat Budaörsnél",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T21:20:51+01:00"
+        },
+        {
+          "url": "https://telex.hu/belfold/2026/11/01/gazolt-a-vonat-budaorson",
+          "title": "Gázolt a vonat Budaörsön",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T21:20:51+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261101_gazolt-a-vonat-budaorson",
+          "title": "Gázolt a vonat Budaörsön",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T21:20:51+01:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/11/01/vonatbaleset-budapest-hataraban-tuzoltok-segitik-az-utasokat",
+          "title": "Vonatbaleset Budapest határában, tűzoltók segítik az utasokat",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T21:20:51+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-01T21:22:14+01:00"
+      },
+      "hot_score": 11.7,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/11/01/budaors-vonat-gazolas-baleset/",
+          "https://telex.hu/belfold/2026/11/01/gazolt-a-vonat-budaorson",
+          "https://hvg.hu/itthon/20261101_gazolt-a-vonat-budaorson",
+          "https://infostart.hu/belfold/2026/11/01/vonatbaleset-budapest-hataraban-tuzoltok-segitik-az-utasokat"
+        ]
+      },
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "url": "/kozelet/2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel/",
+      "seo": {
+        "meta_title": "Négyszáz utassal a fedélzeten gázszivárgás történt, egy szem",
+        "meta_description": "Vasárnap este gázolás történt Budaörsnél, a Raktár utca melletti vasúti szakaszon. A Győrből a Déli pályaudvarra tartó Rába InterRégió szerelvényén mintegy négy",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg/1280px-Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "29c798f63512658fc68d6b049eaca9b30aa18a06c985c7bcea34aed1ba8ebeff",
+      "pipeline_run_id": "41344156713",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-01T21:22:14+01:00",
+      "updated_at": "2026-11-01T21:22:14+01:00",
+      "published_at": "2026-11-01T21:22:14+01:00",
+      "expires_at": null
+    },
     {
       "id": "cf1c1eaa-62ec-5ca8-a83c-42e88fc7c81c",
       "slug": "2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter",
@@ -70391,105 +70516,6 @@
       "created_at": "2026-10-06T20:40:30+02:00",
       "updated_at": "2026-10-06T20:40:30+02:00",
       "published_at": "2026-10-06T20:40:30+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "c897c244-0cfb-551b-9151-8eb6da176422",
-      "slug": "2026-10-06-mutatjuk-mikor-int-bucsut-a-nemzetkozi-urallomasnak-a-cygnus-xl",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "űr",
-        "NASA",
-        "Nemzetközi Űrállomás",
-        "Cygnus XL",
-        "Northrop Grumman"
-      ],
-      "title": "Mutatjuk, mikor int búcsút a Nemzetközi Űrállomásnak a Cygnus XL",
-      "subtitle": null,
-      "lead": "Több mint ötezer kilogrammnyi ellátmányt és tudományos kísérletet szállított a Nemzetközi Űrállomásra a Northrop Grumman Cygnus XL űreszköze, amely október 9-én indul vissza. A NASA élőben közvetíti a különleges szerkezet leválását és távozását.",
-      "key_points": [
-        "A Cygnus XL űreszköz több mint 11 000 font rakományt szállított a Nemzetközi Űrállomásra.",
-        "A visszatérési műveletet és a lekapcsolódást a NASA élőben közvetíti október 9-én.",
-        "A küldetés a vállalat Commercial Resupply Services-24 programjának részeként valósult meg."
-      ],
-      "content": "## Megkezdődik a visszatérés a Nemzetközi Űrállomásról\n\nA Northrop Grumman vállalat CRS-24 jelzésű küldetése lassan a végéhez ér, miután a Cygnus XL nevű teherhajó sikeresen kiszolgálta az alacsony Föld körüli pályán keringő Nemzetközi Űrállomást. Az űreszköz összesen több mint 11 000 fontnyi rakományt, köztük fontos felszereléseket, ellátmányokat és tudományos kísérletsorozatokat juttatott el a fedélzetre.\n\nA tervek szerint az űreszköz október 9-én válik le az orbitális komplexumról. A NASA bejelentése alapján az eseményt élőben követhetik az érdeklődők, a közvetítés pedig a leválási folyamat kezdetével, helyi idő szerint 12:30-kor veszi kezdetét.",
-      "content_format": "markdown",
-      "body": [
-        "## Megkezdődik a visszatérés a Nemzetközi Űrállomásról",
-        "A Northrop Grumman vállalat CRS-24 jelzésű küldetése lassan a végéhez ér, miután a Cygnus XL nevű teherhajó sikeresen kiszolgálta az alacsony Föld körüli pályán keringő Nemzetközi Űrállomást. Az űreszköz összesen több mint 11 000 fontnyi rakományt, köztük fontos felszereléseket, ellátmányokat és tudományos kísérletsorozatokat juttatott el a fedélzetre.",
-        "A tervek szerint az űreszköz október 9-én válik le az orbitális komplexumról. A NASA bejelentése alapján az eseményt élőben követhetik az érdeklődők, a közvetítés pedig a leválási folyamat kezdetével, helyi idő szerint 12:30-kor veszi kezdetét."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 126,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Cygnus_XL_cargo_spacecraft_is_in_the_grasp_of_the_Canadarm2_robotic_arm_%28iss074e0378294%29.jpg/1280px-The_Cygnus_XL_cargo_spacecraft_is_in_the_grasp_of_the_Canadarm2_robotic_arm_%28iss074e0378294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "iss074e0378294 (March 12, 2026) --- Northrop Grumman's Cygnus XL cargo spacecraft, with its two prominent cymbal-shaped UltraFlex solar arrays, is in the grasp of the Canadarm2 robotic arm before bein",
-        "credit": "NASA Johnson Space Center / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:The_Cygnus_XL_cargo_spacecraft_is_in_the_grasp_of_the_Canadarm2_robotic_arm_(iss074e0378294).jpg",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/",
-          "title": "NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure",
-          "publisher": "nasa.gov",
-          "license": null,
-          "accessed_at": "2026-10-06T20:34:42+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-06T20:40:29+02:00"
-      },
-      "hot_score": 5.96,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/"
-        ]
-      },
-      "date": "2026-10-06",
-      "date_label": "október 6.",
-      "url": "/tech/2026-10-06-mutatjuk-mikor-int-bucsut-a-nemzetkozi-urallomasnak-a-cygnus-xl/",
-      "seo": {
-        "meta_title": "Mutatjuk, mikor int búcsút a Nemzetközi Űrállomásnak a Cygnu",
-        "meta_description": "Több mint ötezer kilogrammnyi ellátmányt és tudományos kísérletet szállított a Nemzetközi Űrállomásra a Northrop Grumman Cygnus XL űreszköze, amely október 9-én",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-06-mutatjuk-mikor-int-bucsut-a-nemzetkozi-urallomasnak-a-cygnus-xl/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Cygnus_XL_cargo_spacecraft_is_in_the_grasp_of_the_Canadarm2_robotic_arm_%28iss074e0378294%29.jpg/1280px-The_Cygnus_XL_cargo_spacecraft_is_in_the_grasp_of_the_Canadarm2_robotic_arm_%28iss074e0378294%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "e2c8288f4167ceb7be4893838f31c26e7a36ec5b46531cd30f72504bda4ad9ac",
-      "pipeline_run_id": "37510839219",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-06T20:40:29+02:00",
-      "updated_at": "2026-10-06T20:40:29+02:00",
-      "published_at": "2026-10-06T20:40:29+02:00",
       "expires_at": null
     }
   ]
