@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Meddig maradnak az orosz szankciók?",
-      "instead_of": "Nem enged a szankciókból az Európai Bizottság elnöke",
-      "custom": false,
-      "t": "2026-10-21T13:51:25+00:00"
-    },
-    {
       "chosen": "Pusztít a fitoplazma: időzített bombán ül a hazai szőlőágazat",
       "instead_of": "Kivágják az utolsó tőkéket is: tarol az aranyszínű sárgaság a magyar borvidékeken",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Félidős választások: Bírósági végzéssel üzentek vissza a Trump-adminisztrációnak",
       "custom": false,
       "t": "2026-11-01T08:50:09+00:00"
+    },
+    {
+      "chosen": "Bárhová elér az iráni haderő: nincs megálljt parancsoló földrajzi korlát Teherán szerint",
+      "instead_of": "Irán nem ismer határokat: Hamenei válaszcsapással fenyegeti az amerikai és izraeli célpontokat",
+      "custom": false,
+      "t": "2026-11-01T08:51:59+00:00"
     }
   ]
 }
