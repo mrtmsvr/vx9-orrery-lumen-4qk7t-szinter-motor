@@ -5950,7 +5950,7 @@
     {
       "id": "e5431d2c-aec8-5871-a7a1-3f722aeaa208",
       "slug": "2026-11-01-paravan-mogott-meltatlanul-igy-halunk-meg-a-magyar-korhazakban",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -6105,9 +6105,9 @@
       "dedupe_hash": "e40e584e7cd18a5284e4f4ddc50d51c46d15e5cd6e8fe3691e26e5e1ed17f2a4",
       "pipeline_run_id": "41286765465",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-01T09:08:53+01:00",
-      "updated_at": "2026-11-01T09:08:53+01:00",
-      "published_at": "2026-11-01T09:08:53+01:00",
+      "created_at": "2026-11-01T09:49:08+01:00",
+      "updated_at": "2026-11-01T09:49:08+01:00",
+      "published_at": "2026-11-01T09:49:08+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -6128,8 +6128,11 @@
         "lead": "A magyarországi halálesetek nagyjából kétharmada kórházban történik, ahol a haldokló köré húzott paraván sokszor a méltó búcsút teszi lehetetlenné. A Partizán interjújából kiderül, hogyan változott a tabusított halálhoz való viszonyunk.",
         "ctl_photo": false,
         "control_id": 9716,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }

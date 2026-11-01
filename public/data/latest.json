@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e5431d2c-aec8-5871-a7a1-3f722aeaa208",
+      "slug": "2026-11-01-paravan-mogott-meltatlanul-igy-halunk-meg-a-magyar-korhazakban",
+      "url": "/kozelet/2026-11-01-paravan-mogott-meltatlanul-igy-halunk-meg-a-magyar-korhazakban/",
+      "title": "Paraván mögött, méltatlanul: így halunk meg a magyar kórházakban",
+      "lead": "A magyarországi halálesetek nagyjából kétharmada kórházban történik, ahol a haldokló köré húzott paraván sokszor a méltó búcsút teszi lehetetlenné. A Partizán interjújából kiderül, hogyan változott a tabusított halálhoz való viszonyunk.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T09:49:08+01:00",
+      "published_at": "2026-11-01T09:49:08+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5,
+      "tags": [
+        "hospice",
+        "gyász",
+        "egészségügy",
+        "Partizán",
+        "társadalom"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Semmelweis_University%2C_main_building.jpg/1280px-Semmelweis_University%2C_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Semmelweis University - Main building"
+      }
+    },
+    {
       "id": "9765866d-7670-5f3e-92dc-fdf07feebd11",
       "slug": "2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv",
       "url": "/kozelet/2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv/",
@@ -4388,37 +4418,7 @@
         "pos": "center",
         "alt": "Handcuffs GDR - State Securit - Image 2"
       }
-    },
-    {
-      "id": "f8023a16-a298-5516-894b-88bf692e992e",
-      "slug": "2026-10-22-menekitik-az-amerikai-diplomatakat-szaud-arabiabol-a-huti-raketak-mia",
-      "url": "/vilag/2026-10-22-menekitik-az-amerikai-diplomatakat-szaud-arabiabol-a-huti-raketak-mia/",
-      "title": "Menekítik az amerikai diplomatákat Szaúd-Arábiából a húti rakéták miatt",
-      "lead": "Az amerikai külügyminisztérium Szaúd-Arábia elhagyására kötelezte a nem létfontosságú feladatokat ellátó kormányzati tisztviselőket és családjaikat az Irán-barát jemeni húti lázadók fokozódó támadásai miatt. A kibontakozó regionális konfliktus nemcsak a helyi infrastruktúrát, hanem a globális energiakereskedelmet is súlyosan veszélyezteti.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T17:06:14+02:00",
-      "published_at": "2026-10-22T17:06:14+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.83,
-      "tags": [
-        "Szaúd-Arábia",
-        "Egyesült Államok",
-        "Közel-Kelet",
-        "energiapiac",
-        "biztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/PersianGulf_vue_satellite_du_golfe_persique.jpg/1280px-PersianGulf_vue_satellite_du_golfe_persique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1560,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "الخليج الفارسىي."
-      }
     }
   ],
-  "updated_at": "2026-11-01T09:41:58+01:00"
+  "updated_at": "2026-11-01T09:49:10+01:00"
 }
