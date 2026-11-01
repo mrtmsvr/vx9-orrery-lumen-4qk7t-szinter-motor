@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "922609a0-9737-5b96-8fbb-b91f75cd36ee",
+      "slug": "2026-11-01-negy-nappal-a-szavazas-elott-tette-helyre-a-trump-kormanyzatot-egy-am",
+      "url": "/vilag/2026-11-01-negy-nappal-a-szavazas-elott-tette-helyre-a-trump-kormanyzatot-egy-am/",
+      "title": "Négy nappal a szavazás előtt tette helyre a Trump-kormányzatot egy amerikai bíróság",
+      "lead": "Szövetségi bírósági végzés tiltotta meg az amerikai igazságügyi minisztériumnak, hogy büntetőeljárással fenyegesse a választási tisztviselőket. A döntés alig néhány nappal a félidős választások előtt született.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T10:29:11+01:00",
+      "published_at": "2026-11-01T10:29:11+01:00",
+      "reading_time_min": 3,
+      "hot_score": 9.17,
+      "tags": [
+        "Egyesült Államok",
+        "Donald Trump",
+        "választások",
+        "bíróság",
+        "igazságügyi minisztérium"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Robert_F._Kennedy_Department_of_Justice_Building.jpg/1280px-Robert_F._Kennedy_Department_of_Justice_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 552,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Robert F. Kennedy Department of Justice Building in Washington, D.C."
+      }
+    },
+    {
       "id": "c1e7579b-5dc4-52d1-95a9-148d7fe8130e",
       "slug": "2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban",
       "url": "/vilag/2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban/",
@@ -4391,37 +4421,7 @@
         "pos": "center",
         "alt": "BMW_iX3_NA5_IAA_2025 at IAA 2025"
       }
-    },
-    {
-      "id": "78a898f6-2f12-5973-aec4-ab54012641e9",
-      "slug": "2026-10-22-a-racs-mogott-karacsonyozik-bus-balazs",
-      "url": "/kozelet/2026-10-22-a-racs-mogott-karacsonyozik-bus-balazs/",
-      "title": "A rács mögött karácsonyozik Bús Balázs",
-      "lead": "Két hónappal, december 25-ig meghosszabbította a Nemzeti Kulturális Alap ügyében gyanúsított Bús Balázs letartóztatását a Kecskeméti Járásbíróság. A döntés értelmében a volt polgármester a szegedi Csillag börtönben tölti az ünnepeket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T17:17:57+02:00",
-      "published_at": "2026-10-22T17:17:57+02:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Bús Balázs",
-        "NKA-ügy",
-        "Kecskeméti Törvényszék",
-        "letartóztatás",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Handcuffs_GDR_-_State_Securit_-_Image_2.jpg/1280px-Handcuffs_GDR_-_State_Securit_-_Image_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 684,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Handcuffs GDR - State Securit - Image 2"
-      }
     }
   ],
-  "updated_at": "2026-11-01T10:23:23+01:00"
+  "updated_at": "2026-11-01T10:29:12+01:00"
 }
