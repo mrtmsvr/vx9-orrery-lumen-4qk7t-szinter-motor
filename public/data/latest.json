@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "cf1c1eaa-62ec-5ca8-a83c-42e88fc7c81c",
+      "slug": "2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter",
+      "url": "/kozelet/2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter/",
+      "title": "Teljesen bezár novemberre a nápolyi repülőtér",
+      "lead": "Teljes egészében bezárja kapuit novemberben a nápolyi Capodichino repülőtér a nagyszabású felújítási munkálatok miatt. A járatokat a környező légikikötőkbe terelik át, az utazóknak pedig külön közlekedési kedvezményeket biztosítanak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T18:46:48+01:00",
+      "published_at": "2026-11-01T18:46:48+01:00",
+      "reading_time_min": 1,
+      "hot_score": 11.18,
+      "tags": [
+        "Nápoly",
+        "repülőtér",
+        "Olaszország",
+        "légiközlekedés",
+        "felújítás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Naples_Airport%2C_Italy_%2818069997289%29.jpg/1280px-Naples_Airport%2C_Italy_%2818069997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 797,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Naples Airport, Italy"
+      }
+    },
+    {
       "id": "eb232850-9e06-5096-844c-bd2caddd61b1",
       "slug": "2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron",
       "url": "/kozelet/2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron/",
@@ -4393,37 +4423,7 @@
         "pos": "top",
         "alt": "'Pozsonyi Piknik' (~Pozsonyi Street Picnic) Est. 2009. Boof signing at ATV television statuion tent. Máté Gesztesi and Egon Rónai signing book 'The Egon' (Egon Rónai presenter biographical book)- Újp"
       }
-    },
-    {
-      "id": "afd89707-48f2-5e8e-a96a-ea5a03900a46",
-      "slug": "2026-10-22-buddha-a-panelban-ezt-keresi-a-hatvanas-evekben-kassai-lajos",
-      "url": "/kultura/2026-10-22-buddha-a-panelban-ezt-keresi-a-hatvanas-evekben-kassai-lajos/",
-      "title": "Buddha a panelban: ezt keresi a hatvanas években Kassai Lajos",
-      "lead": "A modern kor spirituális kihívásairól és a gyökerek kereséséről beszélgetett a Szélsőközép műsorában Kassai Lajos lovasíjász és Farkas Attila Márton. Szó esett a hagyományőrzésről, valamint a keleti vallások és a nyugati szemlélet viszonyáról is.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T22:19:43+02:00",
-      "published_at": "2026-10-22T22:19:43+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Kassai Lajos",
-        "Farkas Attila Márton",
-        "hagyományőrzés",
-        "spiritualitás",
-        "lovasíjászat"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kassai_Lajos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1220,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Kassai Lajos, the creator of the modern version of equestrian archery."
-      }
     }
   ],
-  "updated_at": "2026-11-01T18:45:19+01:00"
+  "updated_at": "2026-11-01T18:46:51+01:00"
 }

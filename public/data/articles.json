@@ -1,7 +1,122 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T18:45:17+01:00",
+  "updated_at": "2026-11-01T18:46:48+01:00",
   "articles": [
+    {
+      "id": "cf1c1eaa-62ec-5ca8-a83c-42e88fc7c81c",
+      "slug": "2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Nápoly",
+        "repülőtér",
+        "Olaszország",
+        "légiközlekedés",
+        "felújítás"
+      ],
+      "title": "Teljesen bezár novemberre a nápolyi repülőtér",
+      "subtitle": null,
+      "lead": "Teljes egészében bezárja kapuit novemberben a nápolyi Capodichino repülőtér a nagyszabású felújítási munkálatok miatt. A járatokat a környező légikikötőkbe terelik át, az utazóknak pedig külön közlekedési kedvezményeket biztosítanak.",
+      "key_points": [
+        "Egész novemberben zárva tart a nápolyi repülőtér a felújítások miatt.",
+        "A belföldi és nemzetközi járatokat a közeli Salerno-Pontecagnano légikikötő és más olasz városok repülőterei veszik át.",
+        "Kedvezményes taxidíjakat és buszjáratokat biztosítanak a Salernóba érkező utasoknak."
+      ],
+      "content": "Átfogó felújítási munkálatok miatt egész novemberben zárva tart a nápolyi repülőtér, a Capodichino – közölte vasárnap a légikikötő üzemeltetője. Az átalakítás egy 250 ezer négyzetméteres területet érint, a beruházás teljes értéke pedig harmincmillió euróra rúg.\n\nAz üzemeltető Gesac vállalat tájékoztatása szerint a belföldi és nemzetközi járatokat a közeli Salerno-Pontecagnano légikikötő – hivatalos nevén a „Costa d’Amalfi e del Cilento” repülőtér –, valamint más kereskedelmi terminálok veszik át.\n\nAz érintett utasok kényelme érdekében a Nápolyba tartók számára kedvezményes taxidíjakat és külön buszjáratokat biztosítanak, amelyek a salernói repülőtér és a nápolyi központi pályaudvar között teremtenek összeköttetést.",
+      "content_format": "markdown",
+      "body": [
+        "Átfogó felújítási munkálatok miatt egész novemberben zárva tart a nápolyi repülőtér, a Capodichino – közölte vasárnap a légikikötő üzemeltetője. Az átalakítás egy 250 ezer négyzetméteres területet érint, a beruházás teljes értéke pedig harmincmillió euróra rúg.",
+        "Az üzemeltető Gesac vállalat tájékoztatása szerint a belföldi és nemzetközi járatokat a közeli Salerno-Pontecagnano légikikötő – hivatalos nevén a „Costa d’Amalfi e del Cilento” repülőtér –, valamint más kereskedelmi terminálok veszik át.",
+        "Az érintett utasok kényelme érdekében a Nápolyba tartók számára kedvezményes taxidíjakat és külön buszjáratokat biztosítanak, amelyek a salernói repülőtér és a nápolyi központi pályaudvar között teremtenek összeköttetést."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 121,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Naples_Airport%2C_Italy_%2818069997289%29.jpg/1280px-Naples_Airport%2C_Italy_%2818069997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 797,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Naples Airport, Italy",
+        "credit": "Alpha 350 from Hungary / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Naples_Airport,_Italy_(18069997289).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/kulfold/2026/11/01/olaszorszag-napoly-repuloter-lezaras-felujitas-legikozlekedes/",
+          "title": "Egy teljes hónapra bezárt Nápoly repülőtere",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T18:45:11+01:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/11/01/a-varos-ahova-senki-sem-fog-repulni-novemberben-napoly",
+          "title": "A város, ahová senki sem fog repülni novemberben: Nápoly",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T18:45:11+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/01/a-magyar-turistakat-is-atiranyitjak-lezarjak-ezt-a-repteret-egesz-novemberre-olaszorszagban",
+          "title": "A magyar turistákat is átirányítják, lezárják ezt a repteret egész novemberre Olaszországban",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T18:45:11+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-01T18:46:48+01:00"
+      },
+      "hot_score": 11.18,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/kulfold/2026/11/01/olaszorszag-napoly-repuloter-lezaras-felujitas-legikozlekedes/",
+          "https://telex.hu/kulfold/2026/11/01/a-varos-ahova-senki-sem-fog-repulni-novemberben-napoly",
+          "https://infostart.hu/kulfold/2026/11/01/a-magyar-turistakat-is-atiranyitjak-lezarjak-ezt-a-repteret-egesz-novemberre-olaszorszagban"
+        ]
+      },
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "url": "/kozelet/2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter/",
+      "seo": {
+        "meta_title": "Teljesen bezár novemberre a nápolyi repülőtér",
+        "meta_description": "Teljes egészében bezárja kapuit novemberben a nápolyi Capodichino repülőtér a nagyszabású felújítási munkálatok miatt. A járatokat a környező légikikötőkbe tere",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Naples_Airport%2C_Italy_%2818069997289%29.jpg/1280px-Naples_Airport%2C_Italy_%2818069997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "a2474404882ee53be1322f84f42645df83b718237a108e4bbbc83378b8209393",
+      "pipeline_run_id": "41330521440",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-01T18:46:48+01:00",
+      "updated_at": "2026-11-01T18:46:48+01:00",
+      "published_at": "2026-11-01T18:46:48+01:00",
+      "expires_at": null
+    },
     {
       "id": "eb232850-9e06-5096-844c-bd2caddd61b1",
       "slug": "2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron",
@@ -70376,127 +70491,6 @@
       "updated_at": "2026-10-06T20:40:29+02:00",
       "published_at": "2026-10-06T20:40:29+02:00",
       "expires_at": null
-    },
-    {
-      "id": "2e6df63c-e9a0-54a6-a926-b73712ffae5f",
-      "slug": "2026-10-06-megfiatalodhat-az-oregedo-terdporc-egy-uj-kutatas-szerint",
-      "status": "published",
-      "category": "tech",
-      "subcategory": null,
-      "tags": [
-        "egészségügy",
-        "orvostudomány",
-        "biológia",
-        "kutatás"
-      ],
-      "title": "Megfiatalodhat az öregedő térdporc egy új kutatás szerint",
-      "subtitle": null,
-      "lead": "A Stanford Egyetem kutatói azonosítottak egy olyan fehérjét, amelynek blokkolásával sikerült újjáépíteni a károsodott térdporcot idősebb egerekben. Az eljárás emberi szöveteken végzett laboratóriumi vizsgálatok során is ígéretes eredményeket mutatott.",
-      "key_points": [
-        "A Stanford kutatói egy öregedést okozó fehérjét, a 15-PGDH-t vették célba.",
-        "A gátló molekula hatására az egerek porcszövete regenerálódott, és védelmet kapott a sérülések utáni gyulladástól.",
-        "A térdprotézis-műtétekből származó emberi minták is új porcot termeltek a kezelés hatására.",
-        "A felfedezés a jövőben tabletta vagy injekció formájában válthatja fel a műtéti beavatkozásokat."
-      ],
-      "content": "A porckopás, vagyis az osteoarthritis egy olyan degeneratív ízületi betegség, amely során a csontvégeket védő sima szövet fokozatosan lebomlik, fájdalmat és mozgáskorlátozottságot okozva. Az Egyesült Államokban a felnőtt lakosság nagyjából egyötödét érintő probléma évente mintegy 65 milliárd dolláros közvetlen egészségügyi kiadást generál, a jelenlegi terápiák pedig csupán a tünetek enyhítésére fókuszálnak.\n\nA Science folyóiratban közölt tanulmány szerzői egy 15-PGDH nevű enzimet vizsgáltak, amelyet gerozimként – vagyis az öregedéssel összefüggő, a szöveti funkciók romlásáért felelős fehérjeként – azonosítottak. Helen Blau, a mikrobiológia és immunológia professzora szerint a korábbi kísérletekben a fehérje blokkolása már növelte az idős egerek izomtömegét, míg a sejtszintű vizsgálatok most arra mutattak rá, hogy a meglévő porcsejtek, a chondrocyták maguk térnek vissza egy fiatalosabb működési állapotba.\n\nA kutatócsoport tagjai, köztük Nidhi Bhutani ortopédiai sebész, kiemelték, hogy a kezelés hatására humán porcminták is elkezdték az új, funkcionális szövet termelését. A testben három fő porctípus létezik: a rugalmas elasztikus porc a fülkagylót formálja, a rostos porc a csigolyák között nyeli el az erőket, míg az ízületekben – például a csípőben és a térdben – található hyalinporc biztosítja a súrlódásmentes mozgást.\n\nAmennyiben a laboratóriumi kísérletek után klinikai tesztekben is beválik a módszer, az áttörést hozhat a krónikus ízületi fájdalmaktól szenvedő milliók kezelésében. A kutatók végső célja egy olyan gyógyszer vagy injekció kifejlesztése, amely helyreállítja a megkopott ízületeket, így elkerülhetővé válhatnak a komolyabb sebészeti beavatkozások.",
-      "content_format": "markdown",
-      "body": [
-        "A porckopás, vagyis az osteoarthritis egy olyan degeneratív ízületi betegség, amely során a csontvégeket védő sima szövet fokozatosan lebomlik, fájdalmat és mozgáskorlátozottságot okozva. Az Egyesült Államokban a felnőtt lakosság nagyjából egyötödét érintő probléma évente mintegy 65 milliárd dolláros közvetlen egészségügyi kiadást generál, a jelenlegi terápiák pedig csupán a tünetek enyhítésére fókuszálnak.",
-        "A Science folyóiratban közölt tanulmány szerzői egy 15-PGDH nevű enzimet vizsgáltak, amelyet gerozimként – vagyis az öregedéssel összefüggő, a szöveti funkciók romlásáért felelős fehérjeként – azonosítottak. Helen Blau, a mikrobiológia és immunológia professzora szerint a korábbi kísérletekben a fehérje blokkolása már növelte az idős egerek izomtömegét, míg a sejtszintű vizsgálatok most arra mutattak rá, hogy a meglévő porcsejtek, a chondrocyták maguk térnek vissza egy fiatalosabb működési állapotba.",
-        "A kutatócsoport tagjai, köztük Nidhi Bhutani ortopédiai sebész, kiemelték, hogy a kezelés hatására humán porcminták is elkezdték az új, funkcionális szövet termelését. A testben három fő porctípus létezik: a rugalmas elasztikus porc a fülkagylót formálja, a rostos porc a csigolyák között nyeli el az erőket, míg az ízületekben – például a csípőben és a térdben – található hyalinporc biztosítja a súrlódásmentes mozgást.",
-        "Amennyiben a laboratóriumi kísérletek után klinikai tesztekben is beválik a módszer, az áttörést hozhat a krónikus ízületi fájdalmaktól szenvedő milliók kezelésében. A kutatók végső célja egy olyan gyógyszer vagy injekció kifejlesztése, amely helyreállítja a megkopott ízületeket, így elkerülhetővé válhatnak a komolyabb sebészeti beavatkozások."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 249,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/15165b82ddcd5ba7.jpg",
-        "width": 4096,
-        "height": 2730,
-        "kind": "photo",
-        "alt": "disease, chronic, pain, treatment, body pain, illness, swollen, knee, pain, pain, pain, pain, pain, body pain, knee, knee",
-        "credit": "u_if8o5n0ioo / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/disease-chronic-pain-treatment-8198852/",
-        "vision_score": 9.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/15165b82ddcd5ba7.jpg",
-        "orig_url": "https://pixabay.com/get/ga396436a787ce05cd03f2b2538c128aa0465f422b50d684370773eed0a4aad25e1890e8363d346247959f476f0187c7cb4f99f8ce3afb583284bd54d5229db1c_1280.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
-          "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-10-06T18:22:02+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Ez egy új módja a felnőtt szövetek regenerálásának, és jelentős klinikai ígéretet hordoz az öregedés vagy sérülés miatti ízületi gyulladás kezelésében.",
-        "who": "Helen Blau, a Stanford Egyetem professzora",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-06T18:33:33+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
-        ]
-      },
-      "date": "2026-10-06",
-      "date_label": "október 6.",
-      "url": "/tech/2026-10-06-megfiatalodhat-az-oregedo-terdporc-egy-uj-kutatas-szerint/",
-      "seo": {
-        "meta_title": "Megfiatalodhat az öregedő térdporc egy új kutatás szerint",
-        "meta_description": "A Stanford Egyetem kutatói azonosítottak egy olyan fehérjét, amelynek blokkolásával sikerült újjáépíteni a károsodott térdporcot idősebb egerekben. Az eljárás e",
-        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-10-06-megfiatalodhat-az-oregedo-terdporc-egy-uj-kutatas-szerint/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/15165b82ddcd5ba7.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "84e3758b1d7c2d99907c8c73527a021f9c6d9fbfd34e92f4cf296314751508bc",
-      "pipeline_run_id": "37494070349",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-06T18:33:33+02:00",
-      "updated_at": "2026-10-06T18:33:33+02:00",
-      "published_at": "2026-10-06T18:33:33+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Stanford University",
-        "Helen Blau",
-        "Nidhi Bhutani",
-        "Science journal",
-        "15-PGDH enzyme",
-        "knee joint",
-        "laboratory equipment",
-        "scientist at work"
-      ],
-      "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Chondrichthyes_cartilage_structure.jpg/1280px-Chondrichthyes_cartilage_structure.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Cartilage_from_mouse_joint.jpg/1280px-Cartilage_from_mouse_joint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://pixabay.com/get/gaceb7e4f7f26cf2d0a4e009e4f214a6aec85ff144370bfd24af92ee19791b7faf942e4777f8adfa64be7ed0ac5a3a7b0646b3bf14b65bdd45c3c16d79bb4e092_1280.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Stanford_University_Main_Quad_May_2011_005.jpg/1280px-Stanford_University_Main_Quad_May_2011_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
     }
   ]
 }
