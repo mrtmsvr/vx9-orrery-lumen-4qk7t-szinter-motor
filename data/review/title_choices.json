@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Ilyen még nem volt: tiszás politikust választottak meg Brüsszelben",
-      "instead_of": "Az Európai Néppárt frakciójának alelnöke lett Lakos Eszter",
-      "custom": false,
-      "t": "2026-10-21T09:28:34+00:00"
-    },
-    {
       "chosen": "Meddig maradnak az orosz szankciók?",
       "instead_of": "Nem enged a szankciókból az Európai Bizottság elnöke",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Lengyelországban már múzeumot kaptak, nálunk meg még csak most vitatkoznak a rendszerváltásról",
       "custom": false,
       "t": "2026-11-01T08:41:55+00:00"
+    },
+    {
+      "chosen": "Négy nappal a szavazás előtt tette helyre a Trump-kormányzatot egy amerikai bíróság",
+      "instead_of": "Félidős választások: Bírósági végzéssel üzentek vissza a Trump-adminisztrációnak",
+      "custom": false,
+      "t": "2026-11-01T08:50:09+00:00"
     }
   ]
 }
