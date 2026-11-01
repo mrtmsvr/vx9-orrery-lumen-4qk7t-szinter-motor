@@ -1,38 +1,35 @@
 {
-  "id": "9bc886a4da",
-  "date": "2026-10-31",
-  "status": "skipped",
-  "article_url": "/kozelet/2026-10-31-feladja-a-napi-kozeletet-horvath-oszkar-az-onkenyes-mervadoban/",
-  "article_title": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban",
+  "id": "6500a0292f",
+  "date": "2026-11-01",
+  "status": "pending",
+  "article_url": "/kozelet/2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e/",
+  "article_title": "Nulla forint propagandára és 51 milliárdos vita: benyújtották a 2027-es büdzsét",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint túl nagy a közéleti témák túlsúlya a hazai sajtóban?",
+      "question": "Ön szerint helyes döntés a támogatások teljes megvonása a propagandától?",
       "options": [
-        "Igen, túlságosan fojtogató a közélet",
-        "Nem, ez a normális tájékoztatás",
+        "Igen, teljes egészében el kell törölni",
+        "Nem, szükség van állami kommunikációra",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jó döntés-e, ha egy közszereplő a kiégés miatt feladja a napi nyilvános szereplést?",
+      "question": "Mennyire tartja elfogadhatónak a 2027-es költségvetés tervezetét a közszféra átrendezéséről?",
       "options": [
-        "Igen, a mentális egészség az első",
-        "Nem, a közszereplőknek bírniuk kell",
+        "Teljes mértékben elfogadhatónak tartom",
+        "Egyáltalán nem tartom elfogadhatónak",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak egy kulturális-közéleti műsorban?",
+      "question": "Hogyan értékeli a kormány gazdaságpolitikai irányvonalát a most benyújtott büdzsé alapján?",
       "options": [
-        "A napi aktuális ügyek elemzését",
-        "Az elvontabb, könnyedebb témákat",
+        "Jó irányba viszi az országot",
+        "Hibás irányba viszi az országot",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "tried": [
-    "/kozelet/2026-10-30-januartol-bukjak-a-matricat-az-autosok-ausztriaban-dragul-az-utdij/"
-  ],
-  "msg_id": 9659
+  "msg_id": 9718
 }
