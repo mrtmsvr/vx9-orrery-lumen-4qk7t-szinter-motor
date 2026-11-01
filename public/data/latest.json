@@ -91,36 +91,6 @@
       }
     },
     {
-      "id": "1716d110-572e-508b-bc25-7528e4b8ab31",
-      "slug": "2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan",
-      "url": "/kozelet/2026-10-31-vegre-elkelt-a-hires-balatoni-ingatlan/",
-      "title": "Végre elkelt a híres balatoni ingatlan",
-      "lead": "Gazdát cserélt a Balatonhenyén álló, zöld spalettás ingatlan, amelyet még Varga Judit és Magyar Péter építtetett közösen. A korábban a CSOK-hitel miatt is a hírekbe kerülő, okosfűtéssel és Herendi cserépkályhákkal felszerelt épület 299 millió forintért kelt el.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T18:47:48+01:00",
-      "published_at": "2026-10-31T18:47:48+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.56,
-      "tags": [
-        "Varga Judit",
-        "Magyar Péter",
-        "Balatonhenye",
-        "ingatlanpiac",
-        "csok"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Balatonhenye%2C_a_reform%C3%A1tus_templom_l%C3%A9gi_felv%C3%A9telen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Balatonhenye, a református templom légi felvételen"
-      }
-    },
-    {
       "id": "77fd0005-86d6-5423-a3ad-f4ec084e54d1",
       "slug": "2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e",
       "url": "/kozelet/2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e/",
@@ -4418,7 +4388,37 @@
         "pos": "center",
         "alt": "Handcuffs GDR - State Securit - Image 2"
       }
+    },
+    {
+      "id": "f8023a16-a298-5516-894b-88bf692e992e",
+      "slug": "2026-10-22-menekitik-az-amerikai-diplomatakat-szaud-arabiabol-a-huti-raketak-mia",
+      "url": "/vilag/2026-10-22-menekitik-az-amerikai-diplomatakat-szaud-arabiabol-a-huti-raketak-mia/",
+      "title": "Menekítik az amerikai diplomatákat Szaúd-Arábiából a húti rakéták miatt",
+      "lead": "Az amerikai külügyminisztérium Szaúd-Arábia elhagyására kötelezte a nem létfontosságú feladatokat ellátó kormányzati tisztviselőket és családjaikat az Irán-barát jemeni húti lázadók fokozódó támadásai miatt. A kibontakozó regionális konfliktus nemcsak a helyi infrastruktúrát, hanem a globális energiakereskedelmet is súlyosan veszélyezteti.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-10-22",
+      "date_label": "október 22.",
+      "created_at": "2026-10-22T17:06:14+02:00",
+      "published_at": "2026-10-22T17:06:14+02:00",
+      "reading_time_min": 2,
+      "hot_score": 6.83,
+      "tags": [
+        "Szaúd-Arábia",
+        "Egyesült Államok",
+        "Közel-Kelet",
+        "energiapiac",
+        "biztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/PersianGulf_vue_satellite_du_golfe_persique.jpg/1280px-PersianGulf_vue_satellite_du_golfe_persique.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1560,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "الخليج الفارسىي."
+      }
     }
   ],
-  "updated_at": "2026-11-01T09:49:10+01:00"
+  "updated_at": "2026-11-01T09:52:33+01:00"
 }
