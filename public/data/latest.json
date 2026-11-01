@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "32d8cda0-8d46-5366-8719-74ee307efc31",
+      "slug": "2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl",
+      "url": "/vilag/2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl/",
+      "title": "Bárhová elér az iráni haderő: nincs megálljt parancsoló földrajzi korlát Teherán szerint",
+      "lead": "Modzstaba Hamenei, Irán legfőbb vezetője elrendelte, hogy a fegyveres erők vegyenek fel minden elérhető amerikai és izraeli érdekeltséget a lehetséges célpontok közé. A döntés arra utal, hogy a feszültség tovább éleződik a régióban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-10-31",
+      "date_label": "október 31.",
+      "created_at": "2026-11-01T10:49:17+01:00",
+      "published_at": "2026-11-01T10:49:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.8,
+      "tags": [
+        "Irán",
+        "Egyesült Államok",
+        "Izrael",
+        "közel-keleti konfliktus",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Portrait_of_Mojtaba_Khamenei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1697,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Portrait of Ayatollah Sayyid Mojtaba Khamenei"
+      }
+    },
+    {
       "id": "30d6bba7-95ef-5485-ac51-6623f3a33a47",
       "slug": "2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak",
       "url": "/vilag/2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak/",
@@ -4391,37 +4421,7 @@
         "alt": "Térkép: Veszprém",
         "card": "map"
       }
-    },
-    {
-      "id": "2f553292-b25e-5413-8269-5840abeb2554",
-      "slug": "2026-10-22-halalos-merget-arultak-fajdalomcsillapitokent-a-holland-webshopok",
-      "url": "/vilag/2026-10-22-halalos-merget-arultak-fajdalomcsillapitokent-a-holland-webshopok/",
-      "title": "Halálos mérget árultak fájdalomcsillapítóként a holland webshopok",
-      "lead": "Három ember halála után harminc illegális gyógyszer- és kábítószer-kereskedő weboldalt számoltak fel a holland hatóságok. Az áldozatok olyan hamisítványokat szedtek, amelyek az oxikodonnál sokkal veszélyesebb szintetikus opioidokat tartalmaztak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T17:46:22+02:00",
-      "published_at": "2026-10-22T17:46:22+02:00",
-      "reading_time_min": 2,
-      "hot_score": 8.25,
-      "tags": [
-        "Hollandia",
-        "drogkereskedelem",
-        "hamis gyógyszer",
-        "rendőrségi razzia",
-        "opioid"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Prozac_pills_cropped.jpg/1280px-Prozac_pills_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 972,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Fluoxetine HCl 20mg Capsules (Prozac)"
-      }
     }
   ],
-  "updated_at": "2026-11-01T10:34:09+01:00"
+  "updated_at": "2026-11-01T10:49:19+01:00"
 }
