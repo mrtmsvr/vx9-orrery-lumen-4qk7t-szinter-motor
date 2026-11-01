@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "9e2f5986-d5f3-5f96-ba04-f0a079f9da73",
+      "slug": "2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon",
+      "url": "/kozelet/2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon/",
+      "title": "Mindenszentekkor rongálták meg Magyar Péter dédapjának sírját Dobozon",
+      "lead": "Mindenszentek napján látogatott el dédapja dobozi sírjához Magyar Péter, ahol szembesült azzal, hogy a sírhelyet a napokban feldúlták. A politikus közösségi oldalán emlékezett felmenőire, és üzenetet is küldött a tetteseknek.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T11:22:14+01:00",
+      "published_at": "2026-11-01T11:22:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Magyar Péter",
+        "mindenszentek",
+        "Doboz",
+        "temető",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/f2c81e5affa80348.jpg",
+        "width": 4500,
+        "height": 3000,
+        "kind": "photo",
+        "alt": "cemetery, old cemetery, grave, a candle, tombstone, necropolis, all souls' day, all the saints, autumn, nature, leaves, november, catholic cemetery, religion"
+      }
+    },
+    {
       "id": "32d8cda0-8d46-5366-8719-74ee307efc31",
       "slug": "2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl",
       "url": "/vilag/2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl/",
@@ -4394,34 +4423,7 @@
         "pos": "top",
         "alt": "Official portrait of Imre Nagy as Chairman of the Council of Ministers of the Hungarian People's Republic"
       }
-    },
-    {
-      "id": "049c75a5-76c5-56c5-9fa9-ab64e91ed240",
-      "slug": "2026-10-22-aramkimaradasok-benitjak-a-veszpremi-korhazat",
-      "url": "/kozelet/2026-10-22-aramkimaradasok-benitjak-a-veszpremi-korhazat/",
-      "title": "Áramkimaradások bénítják a veszprémi kórházat",
-      "lead": "Több áramkimaradást észleltek csütörtökön a Veszprém Megyei Csolnoky Ferenc Kórházban, ami érinti az orvostechnikai berendezések, a liftek és az informatikai rendszerek működését is. A szolgáltató tájékoztatása szerint a jövőben további átmeneti kimaradások is előfordulhatnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T17:46:23+02:00",
-      "published_at": "2026-10-22T17:46:23+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.78,
-      "tags": [
-        "egészségügy",
-        "Veszprém",
-        "áramkimaradás",
-        "kórház"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-55477a73cf.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Veszprém",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-01T10:49:19+01:00"
+  "updated_at": "2026-11-01T11:22:16+01:00"
 }
