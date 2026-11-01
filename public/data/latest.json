@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "eb232850-9e06-5096-844c-bd2caddd61b1",
+      "slug": "2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron",
+      "url": "/kozelet/2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron/",
+      "title": "Szöges édességet osztogattak a halloweeni gyerekeknek Gyömrőn",
+      "lead": "Ismeretlen tettes ellen indított eljárást a rendőrség, miután a halloweeni gyűjtésből hazatérő gyermek édességébe rejtett fémtárgyat találtak Gyömrőn. A városvezetés tájékoztatása szerint legalább három hasonló esetről érkezett jelzés a településen.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T18:45:17+01:00",
+      "published_at": "2026-11-01T18:45:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.34,
+      "tags": [
+        "Gyömrő",
+        "halloween",
+        "rendőrség",
+        "bűnügy",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-b96545bb06.jpg",
+        "kind": "photo",
+        "alt": "Térkép: Gyömrő",
+        "card": "map"
+      }
+    },
+    {
       "id": "854083c7-78b3-5fed-a6d8-b4649d92d877",
       "slug": "2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol",
       "url": "/vilag/2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol/",
@@ -4395,37 +4423,7 @@
         "pos": "top",
         "alt": "Kassai Lajos, the creator of the modern version of equestrian archery."
       }
-    },
-    {
-      "id": "13a1e8ad-2d92-5f93-8fe2-5955e269b636",
-      "slug": "2026-10-22-szaharov-dijat-kapott-a-haborus-bunok-felkutatasaert-felelos-nemzetko",
-      "url": "/vilag/2026-10-22-szaharov-dijat-kapott-a-haborus-bunok-felkutatasaert-felelos-nemzetko/",
-      "title": "Szaharov-díjat kapott a háborús bűnök felkutatásáért felelős Nemzetközi Büntetőbíróság",
-      "lead": "A Nemzetközi Büntetőbíróság és tisztségviselői vehetik át az Európai Parlament 2026-os Szaharov-díját a gondolatszabadságért és az emberi jogok védelméért. Az elismerést amiatt kapják, hogy a testület jelenleg példátlan nemzetközi nyomással és amerikai szankciókkal néz szembe.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T20:18:19+02:00",
-      "published_at": "2026-10-22T20:18:19+02:00",
-      "reading_time_min": 3,
-      "hot_score": 6.5,
-      "tags": [
-        "Nemzetközi Büntetőbíróság",
-        "Szaharov-díj",
-        "Európai Parlament",
-        "Emberi jogok",
-        "Külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Internationaler_Strafgerichtshof_Den_Haag.jpg/1280px-Internationaler_Strafgerichtshof_Den_Haag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 806,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "International Criminal Court in The Hague, Netherlands"
-      }
     }
   ],
-  "updated_at": "2026-11-01T18:13:04+01:00"
+  "updated_at": "2026-11-01T18:45:19+01:00"
 }
