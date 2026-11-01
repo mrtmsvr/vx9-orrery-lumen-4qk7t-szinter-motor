@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "77908db7-72f7-57a2-aac6-ed27076a3cf6",
+      "slug": "2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal",
+      "url": "/kozelet/2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal/",
+      "title": "Vitézy Dávid tíz balatoni állomást húz ki a gödörből, de Akarattya hallani sem akar erről",
+      "lead": "Közel tizenkét milliárd forintnyi uniós forrásból tíz észak-balatoni vasútállomás és megállóhely újul meg a következő években. A beruházás során liftet, magasperonokat és parkolókat is kialakítanak, azonban egy településen a lakosok tiltakozása miatt egyelőre elálltak a munkáktól.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T13:04:07+01:00",
+      "published_at": "2026-11-01T13:04:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.83,
+      "tags": [
+        "Vitézy Dávid",
+        "Balaton",
+        "vasút",
+        "MÁV",
+        "közlekedésfejlesztés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Vas%C3%BAt%C3%A1llom%C3%A1s%2C_2019_Balatonf%C3%BCred.jpg/1280px-Vas%C3%BAt%C3%A1llom%C3%A1s%2C_2019_Balatonf%C3%BCred.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Balatonfüred train station, viewed from train at track #5. - Vasút Street, Castricum Square, Balatonfüred, Veszprém County, Hungary."
+      }
+    },
+    {
       "id": "9e2f5986-d5f3-5f96-ba04-f0a079f9da73",
       "slug": "2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon",
       "url": "/kozelet/2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon/",
@@ -4394,36 +4424,7 @@
         "pos": "center",
         "alt": "Budapest, Bem József tér - légi felvétel"
       }
-    },
-    {
-      "id": "0fda3498-4480-5945-a8cd-09149490eac1",
-      "slug": "2026-10-22-sztalinista-besugobol-lett-nemzeti-hos-igy-lett-nagy-imrebol-56-marti",
-      "url": "/kozelet/2026-10-22-sztalinista-besugobol-lett-nemzeti-hos-igy-lett-nagy-imrebol-56-marti/",
-      "title": "Sztálinista besúgóból lett nemzeti hős: így lett Nagy Imréből '56 mártírja",
-      "lead": "Rainer M. János történész és Endrey Mátyás műsorvezető elemezte Nagy Imre politikai életútját a Partizán videójában. A portréfilm a fiatal bolsevik funkcionáriustól kíséri végig a politikust az 1956-os forradalom mártírságáig.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T19:26:49+02:00",
-      "published_at": "2026-10-22T19:26:49+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Nagy Imre",
-        "1956",
-        "Partizán",
-        "történelem"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Imre_Nagy_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1614,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Imre Nagy as Chairman of the Council of Ministers of the Hungarian People's Republic"
-      }
     }
   ],
-  "updated_at": "2026-11-01T12:11:59+01:00"
+  "updated_at": "2026-11-01T13:04:10+01:00"
 }
