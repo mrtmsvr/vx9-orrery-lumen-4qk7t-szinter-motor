@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "12c9d6f9-9720-5dc1-b327-ba20497e11bd",
+      "slug": "2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo",
+      "url": "/kultura/2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo/",
+      "title": "Időgépbe ül a Zanzibar, és harminc év dalait rántja elő",
+      "lead": "November 28-án az A38 Hajón tartja idei utolsó, évzáró budapesti koncertjét a Zanzibar. A zenekar a megszokott slágerlista helyett közel három évtized munkásságát idézi meg egy képzeletbeli időutazás keretében.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T15:14:45+01:00",
+      "published_at": "2026-11-01T15:14:45+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Zanzibar",
+        "A38 hajó",
+        "koncert",
+        "zene",
+        "korszak"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zanzibar_zenekar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zanzibar (Hungarian band): Gábor Nagy, András Donát Kovács, Rita Terecskei, Miklós Steklács"
+      }
+    },
+    {
       "id": "1c27c4ed-88fa-56a6-9991-c6dcc9fb14ce",
       "slug": "2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk",
       "url": "/vilag/2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk/",
@@ -4395,36 +4425,7 @@
         "pos": "center",
         "alt": "Image of mosquito"
       }
-    },
-    {
-      "id": "c733d314-6b9b-5fe6-b4f8-caef359cb036",
-      "slug": "2026-10-22-meguszta-a-kemot-a-daganatos-xiv-leo-papa-johet-a-visszateres",
-      "url": "/kozelet/2026-10-22-meguszta-a-kemot-a-daganatos-xiv-leo-papa-johet-a-visszateres/",
-      "title": "Megúszta a kemót a daganatos XIV. Leó pápa: jöhet a visszatérés",
-      "lead": "A végleges szövettani vizsgálatok igazolták, hogy XIV. Leó pápa szervezetéből eltávolított daganat helyi kiterjedésű volt, így az egyházfőnek nem kell további onkológiai terápiákon átesnie. A gyógyulási folyamat részeként a pápa lassan a nyilvános teendőit is újra elkezdi végezni.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T19:57:56+02:00",
-      "published_at": "2026-10-22T19:57:56+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.17,
-      "tags": [
-        "Vatikán",
-        "XIV. Leó pápa",
-        "egészségügy",
-        "onkológia"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1601,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Pope Leo XIV, photographed in October 2025 during an audience with President of Brazil Luiz Inácio Lula da Silva in the Vatican"
-      }
     }
   ],
-  "updated_at": "2026-11-01T15:12:17+01:00"
+  "updated_at": "2026-11-01T15:14:47+01:00"
 }

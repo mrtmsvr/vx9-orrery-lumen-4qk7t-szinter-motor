@@ -1,7 +1,111 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T15:12:16+01:00",
+  "updated_at": "2026-11-01T15:14:45+01:00",
   "articles": [
+    {
+      "id": "12c9d6f9-9720-5dc1-b327-ba20497e11bd",
+      "slug": "2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Zanzibar",
+        "A38 hajó",
+        "koncert",
+        "zene",
+        "korszak"
+      ],
+      "title": "Időgépbe ül a Zanzibar, és harminc év dalait rántja elő",
+      "subtitle": null,
+      "lead": "November 28-án az A38 Hajón tartja idei utolsó, évzáró budapesti koncertjét a Zanzibar. A zenekar a megszokott slágerlista helyett közel három évtized munkásságát idézi meg egy képzeletbeli időutazás keretében.",
+      "key_points": [
+        "November 28-án lép fel a Zanzibar az A38 Hajón.",
+        "A zenekar közel három évtized zenei anyagából válogat ritkaságokkal.",
+        "A koncert előtt a Paguriho zenekar melegíti be a színpadot.",
+        "A dalok egy részét teljesen új, akusztikus hangszerelésben hallhatja a közönség."
+      ],
+      "content": "November végén rendhagyó évzáró koncerttel jelentkezik a Zanzibar, amely az idei utolsó budapesti fellépését adja az A38 Hajón. A zenekar ezúttal szakít a megszokott best of műsorral, és egy képzeletbeli időutazásra invitálja a hazai rockzene kedvelőit, hogy átéljék és megénekeljék a lassan három évtizedes pályafutás dalait – írta a Blikk.\n\nA blikk.hu beszámolója szerint az estét a baráti örömzenélésből alakult Paguriho nevű folk-pop formáció nyitja meg, őket követi a Zanzibar közel kétórás műsora. Az estét az teszi különlegessé, hogy a jól ismert slágerek mellett olyan ritkaságok is felkerültek a dallistára, amelyeket már a zenekar tagjai is ritkán hallottak élőben.\n\nNemcsak a ritkán játszott szerzemények jelentenek újdonságot, hanem az is, hogy a csapat több kedvenc dalát is átalakítja: akusztikus köntösbe ültetik át a szerzeményeket, sőt, néhányat olyan felállásban hangszerelnek át, amilyenre eddig még nem volt példa a zenekar történetében.",
+      "content_format": "markdown",
+      "body": [
+        "November végén rendhagyó évzáró koncerttel jelentkezik a Zanzibar, amely az idei utolsó budapesti fellépését adja az A38 Hajón. A zenekar ezúttal szakít a megszokott best of műsorral, és egy képzeletbeli időutazásra invitálja a hazai rockzene kedvelőit, hogy átéljék és megénekeljék a lassan három évtizedes pályafutás dalait – írta a Blikk.",
+        "A blikk.hu beszámolója szerint az estét a baráti örömzenélésből alakult Paguriho nevű folk-pop formáció nyitja meg, őket követi a Zanzibar közel kétórás műsora. Az estét az teszi különlegessé, hogy a jól ismert slágerek mellett olyan ritkaságok is felkerültek a dallistára, amelyeket már a zenekar tagjai is ritkán hallottak élőben.",
+        "Nemcsak a ritkán játszott szerzemények jelentenek újdonságot, hanem az is, hogy a csapat több kedvenc dalát is átalakítja: akusztikus köntösbe ültetik át a szerzeményeket, sőt, néhányat olyan felállásban hangszerelnek át, amilyenre eddig még nem volt példa a zenekar történetében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 169,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zanzibar_zenekar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zanzibar (Hungarian band): Gábor Nagy, András Donát Kovács, Rita Terecskei, Miklós Steklács",
+        "credit": "Zanzibar zenekar/Fotó: Udvardi Attila / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Zanzibar_zenekar.png",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/zanzibar-koncert-zene-a38/hrfbewz",
+          "title": "Különleges koncerttel búcsúztatja az évet a Zanzibar: régi kedvenceket porolnak le",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T15:11:48+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Szóval fogalmazhatunk úgy is, hogy ilyen koncert még soha nem történt, mert itt tulajdonképpen tényleg beülünk az időgépbe, és olyan dalokat rántunk elő, amiket már mi is elég régen hallottunk élőben...",
+        "who": "Terecskei Rita, a Zanzibar énekese",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-01T15:14:45+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/zanzibar-koncert-zene-a38/hrfbewz"
+        ]
+      },
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "url": "/kultura/2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo/",
+      "seo": {
+        "meta_title": "Időgépbe ül a Zanzibar, és harminc év dalait rántja elő",
+        "meta_description": "November 28-án az A38 Hajón tartja idei utolsó, évzáró budapesti koncertjét a Zanzibar. A zenekar a megszokott slágerlista helyett közel három évtized munkásság",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zanzibar_zenekar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "8d5e7e9b626b31740a611c619efa8a58190aa831ad78c3280e8915a9b4d932b4",
+      "pipeline_run_id": "41312774719",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-01T15:14:45+01:00",
+      "updated_at": "2026-11-01T15:14:45+01:00",
+      "published_at": "2026-11-01T15:14:45+01:00",
+      "expires_at": null
+    },
     {
       "id": "1c27c4ed-88fa-56a6-9991-c6dcc9fb14ce",
       "slug": "2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk",
@@ -70317,113 +70421,6 @@
       "created_at": "2026-10-06T18:31:02+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-06T18:31:02+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "50490333-3935-56fa-8a27-9126daf325af",
-      "slug": "2026-10-06-novemberben-valaszthatnak-uj-elnokot-a-pedagoguskar-elere",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Nemzeti Pedagógus Kar",
-        "oktatás",
-        "Horváth Péter",
-        "belföld",
-        "október 6"
-      ],
-      "title": "Novemberben választhatnak új elnököt a pedagóguskar élére",
-      "subtitle": null,
-      "lead": "Október 4-én lemondott posztjáról Horváth Péter, a Nemzeti Pedagógus Kar elnöke. A szervezet élén novemberben választhatnak új vezetőt.",
-      "key_points": [
-        "Horváth Péter tíz év után távozott a Nemzeti Pedagógus Kar éléről.",
-        "A távozó elnök döntését intézményvezetői feladataival és családi okokkal indokolta.",
-        "Az új elnök megválasztásáig Rázsi Botond Miklós alelnök látja el az elnöki feladatokat."
-      ],
-      "content": "Október 4-én távozott posztjáról Horváth Péter, a Nemzeti Pedagógus Kar elnöke. A győri Révai Miklós Gimnázium igazgatója intézményvezetői és egyéb teendőivel, valamint családi okokkal indokolta a döntését, amelyet a szervezet a honlapján közölt.\n\nHorváth Péter az MTI-nek nyilatkozva elmondta, hogy a júniusi újraválasztásakor is jelezte: csak ideiglenesen tudja elvállalni a pozíciót, mivel közeledik a nyugdíjkorhatár, és szeretne több időt tölteni az unokáival. Hozzátette, az oktatási rendszer átalakítása miatt komoly feladatok várnak a szervezetre, de ő már nem érzi magában azt az erőt és energiát, amelyet egy ilyen intenzív időszak megkövetel.\n\nAz új elnök megválasztásáig Rázsi Botond Miklós alelnök látja el az elnöki feladatokat, a végleges vezetőről pedig előreláthatólag novemberben dönt az országos küldöttgyűlés. A Nemzeti Pedagógus Kart 2014-ben hozta létre a kormány, működését azonban a pedagógusok egy része a kezdetektől fogva vitatta.",
-      "content_format": "markdown",
-      "body": [
-        "Október 4-én távozott posztjáról Horváth Péter, a Nemzeti Pedagógus Kar elnöke. A győri Révai Miklós Gimnázium igazgatója intézményvezetői és egyéb teendőivel, valamint családi okokkal indokolta a döntését, amelyet a szervezet a honlapján közölt.",
-        "Horváth Péter az MTI-nek nyilatkozva elmondta, hogy a júniusi újraválasztásakor is jelezte: csak ideiglenesen tudja elvállalni a pozíciót, mivel közeledik a nyugdíjkorhatár, és szeretne több időt tölteni az unokáival. Hozzátette, az oktatási rendszer átalakítása miatt komoly feladatok várnak a szervezetre, de ő már nem érzi magában azt az erőt és energiát, amelyet egy ilyen intenzív időszak megkövetel.",
-        "Az új elnök megválasztásáig Rázsi Botond Miklós alelnök látja el az elnöki feladatokat, a végleges vezetőről pedig előreláthatólag novemberben dönt az országos küldöttgyűlés. A Nemzeti Pedagógus Kart 2014-ben hozta létre a kormány, működését azonban a pedagógusok egy része a kezdetektől fogva vitatta."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 154,
-      "locale": "hu-HU",
-      "hero_image": null,
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://telex.hu/belfold/2026/10/06/nemzeti-pedagogus-kar-elnok-lemondas",
-          "title": "Lemondott a Nemzeti Pedagógus Kar elnöke",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-06T16:25:11+02:00"
-        },
-        {
-          "url": "https://hvg.hu/itthon/20261006_tavozik-posztjarol-a-nemzeti-pedagogus-kar-elnoke",
-          "title": "Lemondott a Fidesz-kormány által létrehozott Nemzeti Pedagógus Kar elnöke",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-06T16:25:11+02:00"
-        },
-        {
-          "url": "https://hvg.hu/itthon/20261006_oktober-6-aradi-vertanuk-megemlekezes-kossuth-ter-zaszlofelvonas-batthyany-mauzoleum-ruszin-szendi-romulusz-beszed",
-          "title": "Felvonták, majd félárbócra eresztették a nemzeti lobogót a Kossuth téren",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-06T16:25:11+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Nem tudnék a feladatoknak olyan tiszta lelkiismerettel megfelelni, ahogy a munkámat korábban végeztem.",
-        "who": "Horváth Péter, a Nemzeti Pedagógus Kar leköszönő elnöke",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-06T16:57:11+02:00"
-      },
-      "hot_score": 10.14,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/belfold/2026/10/06/nemzeti-pedagogus-kar-elnok-lemondas",
-          "https://hvg.hu/itthon/20261006_tavozik-posztjarol-a-nemzeti-pedagogus-kar-elnoke"
-        ]
-      },
-      "date": "2026-10-06",
-      "date_label": "október 6.",
-      "url": "/kozelet/2026-10-06-novemberben-valaszthatnak-uj-elnokot-a-pedagoguskar-elere/",
-      "seo": {
-        "meta_title": "Novemberben választhatnak új elnököt a pedagóguskar élére",
-        "meta_description": "Október 4-én lemondott posztjáról Horváth Péter, a Nemzeti Pedagógus Kar elnöke. A szervezet élén novemberben választhatnak új vezetőt.",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-06-novemberben-valaszthatnak-uj-elnokot-a-pedagoguskar-elere/",
-        "og_image": null,
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "947e7e478db9cbc869ad2c897a22cebdcb90129bc142208216dc3f6430698868",
-      "pipeline_run_id": "37475588399",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-06T16:57:11+02:00",
-      "updated_at": "2026-10-06T16:57:11+02:00",
-      "published_at": "2026-10-06T16:57:11+02:00",
       "expires_at": null
     }
   ]
