@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "185239fe-841d-5be8-b8d1-b7b69f1f095f",
+      "slug": "2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov",
+      "url": "/vilag/2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov/",
+      "title": "Trump és Putyin találkozójáról egyeztetett Rubio és Lavrov",
+      "lead": "Marco Rubio amerikai külügyminiszter orosz kollégájával, Szergej Lavrovval egyeztetett Donald Trump és Vlagyimir Putyin esetleges kínai találkozójáról. A megbeszélések célja a decemberi, miami G20-csúcstalálkozó előkészítése volt.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T14:50:44+01:00",
+      "published_at": "2026-11-01T14:50:44+01:00",
+      "reading_time_min": 3,
+      "hot_score": 7.62,
+      "tags": [
+        "Donald Trump",
+        "Vlagyimir Putyin",
+        "Marco Rubio",
+        "Szergej Lavrov",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2829-05-2025%29_%28cropped%29.jpg/1280px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2829-05-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1677,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Министр иностранных дел Сергей Лавров."
+      }
+    },
+    {
       "id": "77908db7-72f7-57a2-aac6-ed27076a3cf6",
       "slug": "2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal",
       "url": "/kozelet/2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal/",
@@ -4394,37 +4424,7 @@
         "pos": "center",
         "alt": "View of Buda Castle from the Danube riverbank"
       }
-    },
-    {
-      "id": "1ef5668b-45f1-5219-8c0a-73748d6e0364",
-      "slug": "2026-10-22-nemzeti-emlekmuzeumot-avat-56-nak-magyar-peter-a-bem-teren",
-      "url": "/kozelet/2026-10-22-nemzeti-emlekmuzeumot-avat-56-nak-magyar-peter-a-bem-teren/",
-      "title": "Ötvenhatos emlékmúzeumot alapít a kormány",
-      "lead": "Az 1956-os forradalom 70. évfordulójának előestéjén Magyar Péter miniszterelnök bejelentette egy új emlékhely létrehozását. A kormányfő a Bem téren tartott ünnepi beszédében hangsúlyozta, hogy a szabadságvágyat semmilyen elnyomás nem tudta megtörni.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T19:52:32+02:00",
-      "published_at": "2026-10-22T19:52:32+02:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "1956",
-        "Magyar Péter",
-        "megemlékezés",
-        "múzeum",
-        "Bem tér"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Budapest%2C_Bem_szobor_a_Bem_J%C3%B3zsef_t%C3%A9ren_-_l%C3%A9gi_felv%C3%A9tel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapest, Bem József tér - légi felvétel"
-      }
     }
   ],
-  "updated_at": "2026-11-01T14:17:53+01:00"
+  "updated_at": "2026-11-01T14:50:46+01:00"
 }

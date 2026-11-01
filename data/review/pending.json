@@ -5746,7 +5746,7 @@
     {
       "id": "185239fe-841d-5be8-b8d1-b7b69f1f095f",
       "slug": "2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -5984,9 +5984,9 @@
       "dedupe_hash": "4276830bea288e2ddaa5da480780f78e2c738689bedba92f75cdec51215c6874",
       "pipeline_run_id": "41302534393",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-01T12:58:59+01:00",
-      "updated_at": "2026-11-01T12:58:59+01:00",
-      "published_at": "2026-11-01T12:58:59+01:00",
+      "created_at": "2026-11-01T14:50:44+01:00",
+      "updated_at": "2026-11-01T14:50:44+01:00",
+      "published_at": "2026-11-01T14:50:44+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -6005,8 +6005,11 @@
         "lead": "Marco Rubio amerikai külügyminiszter orosz kollégájával, Szergej Lavrovval egyeztetett Donald Trump és Vlagyimir Putyin esetleges kínai találkozójáról. A megbeszélések célja a decemberi, miami G20-csúcstalálkozó előkészítése volt.",
         "ctl_photo": false,
         "control_id": 9725,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "1c27c4ed-88fa-56a6-9991-c6dcc9fb14ce",
