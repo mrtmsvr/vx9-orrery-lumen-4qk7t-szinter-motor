@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "30d6bba7-95ef-5485-ac51-6623f3a33a47",
+      "slug": "2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak",
+      "url": "/vilag/2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak/",
+      "title": "Vucsics legfőbb rendőre bilincsben: hivatali visszaéléssel gyanúsítják a szerb bűnügyi főnököt",
+      "lead": "Hivatali visszaélés gyanújával őrizetbe vették vasárnap reggel Marko Kricsakot, a szerb bűnügyi rendőrség vezetőjét. Az intézkedés súlyos belpolitikai feszültségek közepette éri a balkáni országot.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T10:34:07+01:00",
+      "published_at": "2026-11-01T10:34:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Szerbia",
+        "Belgrád",
+        "Alekszandar Vucsics",
+        "rendőrség",
+        "korrupció"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Serbian_Government_building.jpg/1280px-Serbian_Government_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Serbian Government building in Belgrade."
+      }
+    },
+    {
       "id": "922609a0-9737-5b96-8fbb-b91f75cd36ee",
       "slug": "2026-11-01-negy-nappal-a-szavazas-elott-tette-helyre-a-trump-kormanyzatot-egy-am",
       "url": "/vilag/2026-11-01-negy-nappal-a-szavazas-elott-tette-helyre-a-trump-kormanyzatot-egy-am/",
@@ -4391,37 +4421,7 @@
         "pos": "center",
         "alt": "Fluoxetine HCl 20mg Capsules (Prozac)"
       }
-    },
-    {
-      "id": "4519dda2-781e-53d8-96a2-206b8f19721d",
-      "slug": "2026-10-22-valtohiba-miatt-egettek-porig-a-magyar-bmw-ket-becsben",
-      "url": "/vilag/2026-10-22-valtohiba-miatt-egettek-porig-a-magyar-bmw-ket-becsben/",
-      "title": "Váltóhiba miatt égették porig a magyar BMW-ket Bécsben",
-      "lead": "Két tehervonat összeütközése következtében lángra kaptak és megsemmisültek a magyar BMW-gyár új, teljesen elektromos autói a bécsi rendező pályaudvaron. A Debrecenből indult szerelvény rakománya a váltóhiba miatt bekövetkezett balesetben vált a tűz martalékává.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T17:26:31+02:00",
-      "published_at": "2026-10-22T17:26:31+02:00",
-      "reading_time_min": 3,
-      "hot_score": 6.83,
-      "tags": [
-        "BMW",
-        "Debrecen",
-        "Bécs",
-        "vonatbaleset",
-        "elektromos autó"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/BMW_iX3_NA5_IAA_2025_DSC_1684.jpg/1280px-BMW_iX3_NA5_IAA_2025_DSC_1684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 656,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "BMW_iX3_NA5_IAA_2025 at IAA 2025"
-      }
     }
   ],
-  "updated_at": "2026-11-01T10:29:12+01:00"
+  "updated_at": "2026-11-01T10:34:09+01:00"
 }

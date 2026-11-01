@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T10:29:11+01:00",
+  "updated_at": "2026-11-01T10:34:07+01:00",
   "articles": [
+    {
+      "id": "30d6bba7-95ef-5485-ac51-6623f3a33a47",
+      "slug": "2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Szerbia",
+        "Belgrád",
+        "Alekszandar Vucsics",
+        "rendőrség",
+        "korrupció"
+      ],
+      "title": "Vucsics legfőbb rendőre bilincsben: hivatali visszaéléssel gyanúsítják a szerb bűnügyi főnököt",
+      "subtitle": null,
+      "lead": "Hivatali visszaélés gyanújával őrizetbe vették vasárnap reggel Marko Kricsakot, a szerb bűnügyi rendőrség vezetőjét. Az intézkedés súlyos belpolitikai feszültségek közepette éri a balkáni országot.",
+      "key_points": [
+        "Őrizetbe vették Marko Kricsakot, a szerb bűnügyi rendőrség (UKP) vezetőjét.",
+        "A korrupcióellenes szolgálat akciójában elfogták Bosko Szekulovicsot, a bűnüldözési szolgálat (SSK) vezetőjét is.",
+        "Az intézkedést a belgrádi felső ügyészség rendelte el egy helyi gyilkosság nyomozása során feltételezett visszaélések miatt."
+      ],
+      "content": "Vasárnap reggel a korrupcióellenes rendőri szolgálat akciója során, a belgrádi felső ügyészség utasítására őrizetbe vették Marko Kricsakot, a szerb bűnügyi rendőrség (UKP) vezetőjét. Az akcióban intézkedtek Bosko Szekulovics, a bűnüldözési szolgálat (SSK) vezetője ellen is, akit szintén rács mögé juttattak a hatóságok.\n\nA szerb sajtóban megjelent és az MTI által is közölt hírek szerint mindkét magas rangú rendőri vezetőt egy belgrádi gyilkosság nyomozása során elkövetett feltételezett hivatali visszaélések miatt gyanúsítják. Az ügy pikantériája, hogy Marko Kricsakot korábban Alekszandar Vucsics volt köztársasági elnök bizalmasaként tartották számon, neve pedig korábban a kormányellenes tüntetőkkel szembeni rendőri erőszak kapcsán is felmerült, miközben az elnök elismerte a vereséget, közölve, hogy nem fogják megkérdőjelezni az eredményt, de külföldi erők beavatkozása miatt veszítettek.\n\nAz eljárás során ráadásul több gyanúsított is rendőri bántalmazásokról számolt be, ami tovább növeli az ügy súlyát a szerb fővárosban, miközben az események szorosan illeszkednek abba a feszült időszakba, amely a közelmúltbeli szerbiai parlamenti választások után alakult ki. A Szerb Haladó Párt (SNS) két éven belül, de akár korábban is visszatérhet a hatalomba – jelentette ki nemrég Alekszandar Vucsics, aki a hétvégén Orbán Viktorral is találkozott, és a két vezető közösen azt üzente, hogy vissza fognak térni.",
+      "content_format": "markdown",
+      "body": [
+        "Vasárnap reggel a korrupcióellenes rendőri szolgálat akciója során, a belgrádi felső ügyészség utasítására őrizetbe vették Marko Kricsakot, a szerb bűnügyi rendőrség (UKP) vezetőjét. Az akcióban intézkedtek Bosko Szekulovics, a bűnüldözési szolgálat (SSK) vezetője ellen is, akit szintén rács mögé juttattak a hatóságok.",
+        "A szerb sajtóban megjelent és az MTI által is közölt hírek szerint mindkét magas rangú rendőri vezetőt egy belgrádi gyilkosság nyomozása során elkövetett feltételezett hivatali visszaélések miatt gyanúsítják. Az ügy pikantériája, hogy Marko Kricsakot korábban Alekszandar Vucsics volt köztársasági elnök bizalmasaként tartották számon, neve pedig korábban a kormányellenes tüntetőkkel szembeni rendőri erőszak kapcsán is felmerült, miközben az elnök elismerte a vereséget, közölve, hogy nem fogják megkérdőjelezni az eredményt, de külföldi erők beavatkozása miatt veszítettek.",
+        "Az eljárás során ráadásul több gyanúsított is rendőri bántalmazásokról számolt be, ami tovább növeli az ügy súlyát a szerb fővárosban, miközben az események szorosan illeszkednek abba a feszült időszakba, amely a közelmúltbeli szerbiai parlamenti választások után alakult ki. A Szerb Haladó Párt (SNS) két éven belül, de akár korábban is visszatérhet a hatalomba – jelentette ki nemrég Alekszandar Vucsics, aki a hétvégén Orbán Viktorral is találkozott, és a két vezető közösen azt üzente, hogy vissza fognak térni."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 216,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Serbian_Government_building.jpg/1280px-Serbian_Government_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Serbian Government building in Belgrade.",
+        "credit": "Matija / Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Serbian_Government_building.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/kulfold/2026/11/01/orizetbe-vettek-a-szerb-bunugyi-rendorseg-vezetojet-aleksandar-vucic-bizalmasat/",
+          "title": "Őrizetbe vették a szerb bűnügyi rendőrség vezetőjét, Aleksandar Vucic bizalmasát",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T10:32:21+01:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/11/01/szerbia-rendorseg-orizetbe-vetel-belgrad-alekszandar-vucsics/",
+          "title": "Őrizetbe vette a rendőrség Alekszandar Vucsics bizalmasát, a szerb bűnügyi rendőrség vezetőjét",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T10:32:21+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/01/indul-az-elszamoltatas-szerbiaban-orizetbe-vettek-vucic-volt-elnok-legfobb-bizalmasat",
+          "title": "Indul az elszámoltatás Szerbiában: őrizetbe vették Vucic volt elnök legfőbb bizalmasát",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-01T10:32:21+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-01T10:34:07+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/kulfold/2026/11/01/orizetbe-vettek-a-szerb-bunugyi-rendorseg-vezetojet-aleksandar-vucic-bizalmasat/",
+          "https://index.hu/kulfold/2026/11/01/szerbia-rendorseg-orizetbe-vetel-belgrad-alekszandar-vucsics/",
+          "https://infostart.hu/kulfold/2026/11/01/indul-az-elszamoltatas-szerbiaban-orizetbe-vettek-vucic-volt-elnok-legfobb-bizalmasat"
+        ]
+      },
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "url": "/vilag/2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak/",
+      "seo": {
+        "meta_title": "Vucsics legfőbb rendőre bilincsben: hivatali visszaéléssel g",
+        "meta_description": "Hivatali visszaélés gyanújával őrizetbe vették vasárnap reggel Marko Kricsakot, a szerb bűnügyi rendőrség vezetőjét. Az intézkedés súlyos belpolitikai feszültsé",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Serbian_Government_building.jpg/1280px-Serbian_Government_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "44442b06-5503-59c9-906e-180a74dd256c",
+        "13f91d86-f3d8-5d89-9838-0eb04798ee45",
+        "96a3228f-7ede-5027-87de-e7c1e74f5965"
+      ],
+      "see_also": [
+        {
+          "title": "Vucsics eddigi legnehezebb választása jön vasárnap Szerbiában",
+          "url": "/vilag/2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban/",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Magyar aktivisták mentek át Szerbiába megállítani a szavazatvásárlást",
+          "url": "/vilag/2026-10-28-magyar-aktivistak-mentek-at-szerbiaba-megallitani-a-szavazatvasarlast/",
+          "date": "2026-10-28"
+        },
+        {
+          "title": "Tíz év után elsöpörték a szerb egyetemisták Aleksandar Vučićot",
+          "url": "/vilag/2026-10-25-tiz-ev-utan-elsoportek-a-szerb-egyetemistak-aleksandar-vu-i-ot/",
+          "date": "2026-10-25"
+        }
+      ],
+      "thread_id": "588e068d-77fb-5ed9-897e-29dc08b31a44",
+      "dedupe_hash": "c6b0db8547d01ba8d1569e3d339ba038a3df4f165264ed66604380f6d9b661cc",
+      "pipeline_run_id": "41291211750",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-01T10:34:07+01:00",
+      "updated_at": "2026-11-01T10:34:07+01:00",
+      "published_at": "2026-11-01T10:34:07+01:00",
+      "expires_at": null
+    },
     {
       "id": "922609a0-9737-5b96-8fbb-b91f75cd36ee",
       "slug": "2026-11-01-negy-nappal-a-szavazas-elott-tette-helyre-a-trump-kormanyzatot-egy-am",
@@ -70145,116 +70280,6 @@
       "created_at": "2026-10-06T14:20:55+02:00",
       "updated_at": "2026-10-06T14:20:55+02:00",
       "published_at": "2026-10-06T14:20:55+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "510b474f-a79e-5a8e-9c36-7498899a4458",
-      "slug": "2026-10-06-105-milliardos-sporolas-az-m6-oson-kulfoldi-cegek-kaptak-a-megbizast",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "M6-os autópálya",
-        "Vitézy Dávid",
-        "koncesszió",
-        "Építési és Közlekedési Minisztérium",
-        "gazdaság"
-      ],
-      "title": "105 milliárdos spórolás az M6-oson: külföldi cégek kapták a megbízást",
-      "subtitle": null,
-      "lead": "Több mint százmilliárd forintot takarít meg az állam az M6-os autópálya egy szakaszának üzemeltetésén azzal, hogy a korábbi tervektől eltérően olcsóbb szerződést kötöttek. A döntés hátterében komoly minisztériumi átrendeződések és korábbi szabálytalanságok gyanúja áll.",
-      "key_points": [
-        "Az állam 105 milliárd forintot takarít meg az M6-os autópálya Érdtető és Dunaújváros közötti szakaszának üzemeltetésén.",
-        "A megbízást a korábban tervezett, Mészáros Lőrinc és Szíjj László érdekeltségébe tartozó MKIF helyett a meglévő koncesszor kapta meg.",
-        "A minisztérium korábbi döntése miatt a gyanú szerint büntetőfeljelentést is tettek túlárazás miatt."
-      ],
-      "content": "A részletekről Vitézy Dávid közlekedési és beruházási miniszter számolt be Facebook-bejegyzésében, jelezve, hogy a hivatalos lezárás után az autópályát két évtizede működtető társaság viszi tovább a feladatokat.\n\nA döntés jelentős pénzügyi eltérést mutat a korábbi elképzelésekhez képest, mivel az eredeti tervek szerint a feladatot Mészáros Lőrinc és Szíjj László érdekeltsége, a Magyar Koncessziós Infrastruktúra Fejlesztő Zrt. (MKIF) kapta volna meg. Az MKIF-fel tervezett konstrukcióban – az eredetileg 2057-ig szóló szerződés díjait 11 évre arányosítva – a kifizetendő összeg 149 milliárd forintra rúgott volna, míg a most aláírt megállapodás 44 milliárd forintba kerül 2037-ig.\n\nAz Építési és Közlekedési Minisztérium átvilágítása során kiderült, hogy a tárca korábban szabálytalanul és jelentősen túlárazva bízta volna meg a társaságot az azonos műszaki színvonalú üzemeltetési feladatokkal. Emiatt a minisztérium a gyanú szerint büntetőfeljelentést is tett, a mostani megállapodás aláírását pedig a koncessziós rendszer átalakításának első lépéseként értékelik.\n\nA bejegyzés szerint a következő lépés a teljes MKIF-koncessziós szerződés felülvizsgálata lesz, amellyel további ezermilliárdos nagyságrendű megtakarítást érhetnek el.",
-      "content_format": "markdown",
-      "body": [
-        "A részletekről Vitézy Dávid közlekedési és beruházási miniszter számolt be Facebook-bejegyzésében, jelezve, hogy a hivatalos lezárás után az autópályát két évtizede működtető társaság viszi tovább a feladatokat.",
-        "A döntés jelentős pénzügyi eltérést mutat a korábbi elképzelésekhez képest, mivel az eredeti tervek szerint a feladatot Mészáros Lőrinc és Szíjj László érdekeltsége, a Magyar Koncessziós Infrastruktúra Fejlesztő Zrt. (MKIF) kapta volna meg. Az MKIF-fel tervezett konstrukcióban – az eredetileg 2057-ig szóló szerződés díjait 11 évre arányosítva – a kifizetendő összeg 149 milliárd forintra rúgott volna, míg a most aláírt megállapodás 44 milliárd forintba kerül 2037-ig.",
-        "Az Építési és Közlekedési Minisztérium átvilágítása során kiderült, hogy a tárca korábban szabálytalanul és jelentősen túlárazva bízta volna meg a társaságot az azonos műszaki színvonalú üzemeltetési feladatokkal. Emiatt a minisztérium a gyanú szerint büntetőfeljelentést is tett, a mostani megállapodás aláírását pedig a koncessziós rendszer átalakításának első lépéseként értékelik.",
-        "A bejegyzés szerint a következő lépés a teljes MKIF-koncessziós szerződés felülvizsgálata lesz, amellyel további ezermilliárdos nagyságrendű megtakarítást érhetnek el."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 196,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/M6_motorway%2C_HUN_-_92_km.jpg/1280px-M6_motorway%2C_HUN_-_92_km.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Motorway M6, Hungary",
-        "credit": "Pudelek (Marcin Szala) / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:M6_motorway,_HUN_-_92_km.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20261006/105-milliardot-sporolhat-az-allam-az-m6-os-szerzodesen-867708",
-          "title": "105 milliárdot spórolhat az állam az M6-os szerződésén",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-06T14:07:58+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/vitezy-david-m6-autopalya-alairas-szerzodes-kozlekedes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Itt a vége, Vitézy Dávid aláírta az autópálya-szerződést: mégse Mészáros Lőrincék kapták a megbízást, hanem külföldi óriáscégek – 44 milliárdos üzletet kötöttek",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-06T14:07:58+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Aláírtuk: 105 milliárd forintot spórolunk az adófizetőknek az M6-os autópálya üzemeltetésén!",
-        "who": "Vitézy Dávid közlekedési és beruházási miniszter",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-06T14:11:18+02:00"
-      },
-      "hot_score": 6.95,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20261006/105-milliardot-sporolhat-az-allam-az-m6-os-szerzodesen-867708"
-        ]
-      },
-      "date": "2026-10-06",
-      "date_label": "október 6.",
-      "url": "/kozelet/2026-10-06-105-milliardos-sporolas-az-m6-oson-kulfoldi-cegek-kaptak-a-megbizast/",
-      "seo": {
-        "meta_title": "105 milliárdos spórolás az M6-oson: külföldi cégek kapták a ",
-        "meta_description": "Több mint százmilliárd forintot takarít meg az állam az M6-os autópálya egy szakaszának üzemeltetésén azzal, hogy a korábbi tervektől eltérően olcsóbb szerződés",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-06-105-milliardos-sporolas-az-m6-oson-kulfoldi-cegek-kaptak-a-megbizast/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/M6_motorway%2C_HUN_-_92_km.jpg/1280px-M6_motorway%2C_HUN_-_92_km.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "9f74883251ca1aa0743588c5d53fd76904a93c9b8fbf548dbdb19bc4efbc904e",
-      "pipeline_run_id": "37460095027",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-06T14:11:18+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-06T14:11:18+02:00",
       "expires_at": null
     }
   ]
