@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9765866d-7670-5f3e-92dc-fdf07feebd11",
+      "slug": "2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv",
+      "url": "/kozelet/2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv/",
+      "title": "Félresikerült lélegeztetőgépek és üres kórtermek: Hegedűs Zsolt a járvány felelőseit keresi",
+      "lead": "Mindenszentek napján emlékezett meg a koronavírus-járvány csaknem ötvenezer magyar áldozatáról az egészségügyi miniszter, miközben szemügyre vette a kiskunhalasi mobil kórház maradványait és a százmilliárdos eszközbeszerzések visszásságait. Hegedűs Zsolt a felelősök elszámoltatását sürgette, miután a vizsgálatok során büntetőeljárások is indultak a vitatott beszerzések miatt, amelyekben az ártatlanság vélelme mindenkit megillet.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T07:48:41+01:00",
+      "published_at": "2026-11-01T07:48:41+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5.97,
+      "tags": [
+        "Hegedűs Zsolt",
+        "egészségügy",
+        "koronavírus",
+        "kiskunhalasi mobil kórház",
+        "lélegeztetőgép"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/VIP_Bird2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1290,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The Bird VIP brand infant ventilator."
+      }
+    },
+    {
       "id": "b2447d3d-e60c-5423-b366-e0b6fb932a7b",
       "slug": "2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek",
       "url": "/vilag/2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek/",
@@ -4388,37 +4418,7 @@
         "pos": "top",
         "alt": "الخليج الفارسىي."
       }
-    },
-    {
-      "id": "438567a0-3bb0-5062-8573-34f8eff899be",
-      "slug": "2026-10-22-jokedvu-ipar-borus-lakossag-ezt-hozta-az-oktoberi-gki-mutato",
-      "url": "/penzvilag/2026-10-22-jokedvu-ipar-borus-lakossag-ezt-hozta-az-oktoberi-gki-mutato/",
-      "title": "Jókedvű ipar, borús lakosság: ezt hozta az októberi GKI-mutató",
-      "lead": "Enyhén emelkedett októberben a GKI Gazdaságkutató konjunktúraindexe a szeptemberi adatokhoz képest. A vállalkozások többsége továbbra sem tervez sem nagyobb létszámbővítést, sem drasztikus áremelést a következő három hónapban.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T16:46:10+02:00",
-      "published_at": "2026-10-22T16:46:10+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.44,
-      "tags": [
-        "GKI",
-        "konjunktúraindex",
-        "gazdaság",
-        "infláció",
-        "foglalkoztatás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapešť"
-      }
     }
   ],
-  "updated_at": "2026-11-01T06:28:34+01:00"
+  "updated_at": "2026-11-01T07:48:42+01:00"
 }
