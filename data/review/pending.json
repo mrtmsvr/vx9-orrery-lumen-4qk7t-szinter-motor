@@ -4635,8 +4635,11 @@
         "lead": "Modzstaba Hamenei, Irán legfőbb vezetője elrendelte, hogy a fegyveres erők vegyenek fel minden elérhető amerikai és izraeli érdekeltséget a lehetséges célpontok közé. A döntés arra utal, hogy a feszültség tovább éleződik a régióban.",
         "ctl_photo": true,
         "control_id": 9704,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:49 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-01T10:49:08+01:00"
     },
     {
       "id": "b2447d3d-e60c-5423-b366-e0b6fb932a7b",
