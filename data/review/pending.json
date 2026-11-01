@@ -6003,7 +6003,9 @@
         "ctl_photo": false,
         "control_id": 9734,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 12.35): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 12.35): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -6215,7 +6217,9 @@
         "ctl_photo": true,
         "control_id": 9737,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam. Az AI-képet (1. kép) nem raktam ki magától, helyette a 2. kép ment – ha jó az AI-kép, nyomj a Kép 1 gombra."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam. Az AI-képet (1. kép) nem raktam ki magától, helyette a 2. kép ment – ha jó az AI-kép, nyomj a Kép 1 gombra.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -6445,14 +6449,16 @@
         "ctl_photo": true,
         "control_id": 9739,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
     {
       "id": "d375da92-cfbb-52a9-ba15-2a2b02d97886",
       "slug": "2026-11-01-negyezer-milliardos-gazdasagi-csomagot-iger-kapitany-istvan",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": null,
       "tags": [
@@ -6641,9 +6647,9 @@
       "dedupe_hash": "2b5395c5aee6b722521dbbdc931e59c07a6720a807becb23cbc6d0c5aff944a6",
       "pipeline_run_id": "41330521440",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-01T18:47:02+01:00",
-      "updated_at": "2026-11-01T18:47:02+01:00",
-      "published_at": "2026-11-01T18:47:02+01:00",
+      "created_at": "2026-11-01T22:55:18+01:00",
+      "updated_at": "2026-11-01T22:55:18+01:00",
+      "published_at": "2026-11-01T22:55:18+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -6657,8 +6663,11 @@
         "lead": "Több mint négyezer milliárd forintot mozgósít a jövő évben a magyar gazdaság fellendítésére Kapitány István. A többéves stagnálás után érkező forrásokból a beruházások, a digitalizáció és a turizmus kaphat határozott lökést.",
         "ctl_photo": true,
         "control_id": 9740,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "ba2c3172-9402-5190-9826-274fd049bdf3",

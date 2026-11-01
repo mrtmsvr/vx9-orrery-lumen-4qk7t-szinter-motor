@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "d375da92-cfbb-52a9-ba15-2a2b02d97886",
+      "slug": "2026-11-01-negyezer-milliardos-gazdasagi-csomagot-iger-kapitany-istvan",
+      "url": "/penzvilag/2026-11-01-negyezer-milliardos-gazdasagi-csomagot-iger-kapitany-istvan/",
+      "title": "Négyezer milliárdos gazdasági csomagot ígér Kapitány István",
+      "lead": "Több mint négyezer milliárd forintot mozgósít a jövő évben a magyar gazdaság fellendítésére Kapitány István. A többéves stagnálás után érkező forrásokból a beruházások, a digitalizáció és a turizmus kaphat határozott lökést.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T22:55:18+01:00",
+      "published_at": "2026-11-01T22:55:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.8,
+      "tags": [
+        "gazdaság",
+        "Kapitány István",
+        "támogatás",
+        "beruházás"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-63b41fd16f.jpg",
+        "kind": "photo",
+        "alt": "4000 milliárd forint – a magyar gazdaság fellendítésére mozgósított forrás",
+        "card": "num"
+      }
+    },
+    {
       "id": "cff9fbf0-1d0d-5d1f-ab2b-14e04a82e6ab",
       "slug": "2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel",
       "url": "/kozelet/2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel/",
@@ -4395,35 +4422,7 @@
         "kind": "photo",
         "alt": "Karácsonyig rács mögött marad Bús Balázs"
       }
-    },
-    {
-      "id": "c11df0dc-28c8-5910-a4d4-13a3ba281391",
-      "slug": "2026-10-23-kartelleztek-a-zugloi-kerteszek-rozsa-andras-bekemenyitett",
-      "url": "/kozelet/2026-10-23-kartelleztek-a-zugloi-kerteszek-rozsa-andras-bekemenyitett/",
-      "title": "Kartelleztek a zuglói kertészek? Rózsa András bekeményített",
-      "lead": "Kartellezés gyanújával tett bejelentést a Gazdasági Versenyhivatalnál Rózsa András, Zugló polgármestere a zöldterület-fenntartó cégek közbeszerzései miatt. A városvezető szerint az eljárások során feltűnő minták rajzolódnak ki, amelyek felvetik az összejátszás gyanúját.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T06:56:21+02:00",
-      "published_at": "2026-10-23T06:56:21+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.32,
-      "tags": [
-        "Zugló",
-        "Gazdasági Versenyhivatal",
-        "kartellgyanú",
-        "közbeszerzés",
-        "Rózsa András"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-ecb802b2cb.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Zugló",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-01T22:38:52+01:00"
+  "updated_at": "2026-11-01T22:55:19+01:00"
 }
