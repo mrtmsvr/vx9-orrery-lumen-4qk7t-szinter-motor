@@ -5406,8 +5406,11 @@
         "lead": "Szövetségi bírósági végzés tiltotta meg az amerikai igazságügyi minisztériumnak, hogy büntetőeljárással fenyegesse a választási tisztviselőket. A döntés alig néhány nappal a félidős választások előtt született.",
         "ctl_photo": true,
         "control_id": 9710,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:29 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-01T10:29:08+01:00"
     },
     {
       "id": "2f5a0b4f-c17a-51d7-a121-f85b51aea570",
