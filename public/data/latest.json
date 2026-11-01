@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1c27c4ed-88fa-56a6-9991-c6dcc9fb14ce",
+      "slug": "2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk",
+      "url": "/vilag/2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk/",
+      "title": "Trump még egy-két iráni helyszínt lerombolna, köztük egy rejtélyes nukleáris bázist",
+      "lead": "Donald Trump amerikai elnök szombati kijelentése szerint az Egyesült Államoknak még egy-két helyszínt le kell rombolnia Iránban. A célpontok között szerepel a Teherántól délre fekvő Kolang-hegy, ahol a feltételezések szerint nukleáris létesítmény működik.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T15:12:16+01:00",
+      "published_at": "2026-11-01T15:12:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.86,
+      "tags": [
+        "Donald Trump",
+        "Irán",
+        "Kolang-hegy",
+        "nukleáris program",
+        "Egyesült Államok"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Naghshe_jahan_01.jpg/1280px-Naghshe_jahan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 850,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "This is a photo of a monument in Iran identified by the ID"
+      }
+    },
+    {
       "id": "185239fe-841d-5be8-b8d1-b7b69f1f095f",
       "slug": "2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov",
       "url": "/vilag/2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov/",
@@ -4394,37 +4424,7 @@
         "pos": "top",
         "alt": "Pope Leo XIV, photographed in October 2025 during an audience with President of Brazil Luiz Inácio Lula da Silva in the Vatican"
       }
-    },
-    {
-      "id": "12c3b353-fe79-5026-acc2-b44cef66a6c0",
-      "slug": "2026-10-22-teljes-var-tilalom-johet-megkurtitanak-az-airbnb-t-az-i-keruletben",
-      "url": "/kozelet/2026-10-22-teljes-var-tilalom-johet-megkurtitanak-az-airbnb-t-az-i-keruletben/",
-      "title": "Teljes Vár-tilalom jöhet: megkurtítanák az Airbnb-t az I. kerületben",
-      "lead": "Szigorú korlátozásokat vezethet be a rövid távú lakáskiadás terén Budavár önkormányzata, amely 2028-tól teljes tiltást is elrendelhet a budai Várban. A döntés a lakossági véleményekre és egy korábbi szavazás eredményeire támaszkodik.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T19:54:17+02:00",
-      "published_at": "2026-10-22T19:54:17+02:00",
-      "reading_time_min": 2,
-      "hot_score": 9.1,
-      "tags": [
-        "Airbnb",
-        "I. kerület",
-        "Budai Vár",
-        "lakáskiadás",
-        "önkormányzati rendelet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/20190502_Zamek_w_Budapeszcie_0647_1862_DxO.jpg/1280px-20190502_Zamek_w_Budapeszcie_0647_1862_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 798,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "View of Buda Castle from the Danube riverbank"
-      }
     }
   ],
-  "updated_at": "2026-11-01T14:50:46+01:00"
+  "updated_at": "2026-11-01T15:12:17+01:00"
 }
