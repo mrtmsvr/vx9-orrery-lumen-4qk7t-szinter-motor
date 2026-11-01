@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "854083c7-78b3-5fed-a6d8-b4649d92d877",
+      "slug": "2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol",
+      "url": "/vilag/2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol/",
+      "title": "Moszkva kipöckölte Európát az ukrajnai béketárgyalásokról",
+      "lead": "November első felében Abu-Dzabiban tartják az ukrajnai rendezési tárgyalások újabb fordulóját, ám a Kreml álláspontja szerint az európai hatalmaknak jelenleg nincs keresnivalójuk a tárgyalóasztalnál. A moszkvai vezetés azzal indokolja a döntést, hogy Brüsszel továbbra is Oroszország stratégiai vereségét célozza.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-01",
+      "date_label": "november 1.",
+      "created_at": "2026-11-01T15:38:30+01:00",
+      "published_at": "2026-11-01T15:38:30+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Oroszország",
+        "Ukrajna",
+        "béketárgyalások",
+        "Dmitrij Peszkov",
+        "Európai Unió"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1280px-Abu_dhabi_skylines_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 659,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Abu Dhabi's skyline in December 2014"
+      }
+    },
+    {
       "id": "12c9d6f9-9720-5dc1-b327-ba20497e11bd",
       "slug": "2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo",
       "url": "/kultura/2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo/",
@@ -4395,37 +4425,7 @@
         "pos": "center",
         "alt": "International Criminal Court in The Hague, Netherlands"
       }
-    },
-    {
-      "id": "dcb6449a-5371-5619-873e-d4be04c089a1",
-      "slug": "2026-10-22-eloszor-kapott-el-embert-a-marhakat-pusztito-shamonda-virus",
-      "url": "/eletmod/2026-10-22-eloszor-kapott-el-embert-a-marhakat-pusztito-shamonda-virus/",
-      "title": "Mit keres egy szarvasmarháknál pusztító vírus egy emberi szervezetben?",
-      "lead": "A francia egészségügyi hatóságok beszámolója szerint először mutatták ki emberi szervezetben a főként szarvasmarhákat és haszonállatokat fertőző Shamonda-vírust. A ritka és váratlan eset körülményeit jelenleg is vizsgálják a szakemberek.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-10-22",
-      "date_label": "október 22.",
-      "created_at": "2026-10-22T20:00:12+02:00",
-      "published_at": "2026-10-22T20:00:12+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.02,
-      "tags": [
-        "egészség",
-        "vírus",
-        "járvány",
-        "Franciaország",
-        "kutatás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Mosquito_on_human_skin.jpg/1280px-Mosquito_on_human_skin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 784,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Image of mosquito"
-      }
     }
   ],
-  "updated_at": "2026-11-01T15:14:47+01:00"
+  "updated_at": "2026-11-01T15:38:32+01:00"
 }
