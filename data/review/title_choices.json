@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "A hőszivattyú rejtélyei: tények és tévhitek",
-      "instead_of": "Több hőt ad, mint amennyi áramot fogyaszt?",
-      "custom": false,
-      "t": "2026-10-22T05:30:43+00:00"
-    },
-    {
       "chosen": "Óriási üzlet: a Futureal felvásárolta a Premier Outletet",
       "instead_of": "Nem épít, most vásárol: a Futureal lecsapott a biatorbágyi outletre",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Megbukott a Fidesz médiamester-jelöltje a bizottságban",
       "custom": false,
       "t": "2026-11-02T13:00:55+00:00"
+    },
+    {
+      "chosen": "Másfél tonnás páncélszekrények várják a nyomozókat Seszták Miklós házában",
+      "instead_of": "Nem otthoni használatra szánt széfek rejtőztek Seszták Miklós hangszigetelt szobájában",
+      "custom": false,
+      "t": "2026-11-02T13:04:04+00:00"
     }
   ]
 }

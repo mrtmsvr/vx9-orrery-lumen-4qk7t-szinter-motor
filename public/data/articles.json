@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T14:00:56+01:00",
+  "updated_at": "2026-11-02T14:04:05+01:00",
   "articles": [
     {
       "id": "3ba8e3ac-86ec-59e6-a454-33d6758a8060",
@@ -539,7 +539,7 @@
         "páncélszekrény",
         "Kisvárda"
       ],
-      "title": "Nem otthoni használatra szánt széfek rejtőztek Seszták Miklós hangszigetelt szobájában",
+      "title": "Másfél tonnás páncélszekrények várják a nyomozókat Seszták Miklós házában",
       "subtitle": null,
       "lead": "A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozói két, egyenként 1,6 tonnás páncélszekrényt találtak Seszták Miklós kisvárdai otthonában. A rendkívüli méretű széfek tipikusan pénzügyi szolgáltatók és zálogházak berendezései közé tartoznak.",
       "key_points": [
@@ -635,7 +635,7 @@
       "date_label": "november 2.",
       "url": "/kozelet/2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi/",
       "seo": {
-        "meta_title": "Nem otthoni használatra szánt széfek rejtőztek Seszták Mikló",
+        "meta_title": "Másfél tonnás páncélszekrények várják a nyomozókat Seszták M",
         "meta_description": "A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozói két, egyenként 1,6 tonnás páncélszekrényt találtak Seszták Miklós kisvárdai otthonában. A rendk",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kaso_Data_Safe_4000.jpg/1280px-Kaso_Data_Safe_4000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -676,7 +676,7 @@
       "pipeline_run_id": "41434625915",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T12:41:39+01:00",
-      "updated_at": "2026-11-02T12:41:39+01:00",
+      "updated_at": "2026-11-02T14:04:05+01:00",
       "published_at": "2026-11-02T12:41:39+01:00",
       "expires_at": null
     },
@@ -714,18 +714,7 @@
       "reading_time_min": 3,
       "word_count": 450,
       "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg/1280px-Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Press conference on the eve of Busworld Europe 2025",
-        "credit": "Matti Blume / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Press_conference,_Busworld_Europe_2025,_Brussels_(20251002-P1051390).jpg",
-        "vision_score": 8.0
-      },
+      "hero_image": null,
       "inline_images": [],
       "sources": [
         {
@@ -779,7 +768,7 @@
         "meta_title": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltsé",
         "meta_description": "A Fidesz által a Független Közmédia Testületbe jelölt Császár Attila nem kapta meg a parlament Művelődési Bizottságának támogatását a hétfői ülésen. A jelölt a ",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-megbukott-a-fidesz-mediamester-jeloltje-a-bizottsagban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg/1280px-Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": null,
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -817,7 +806,7 @@
       "pipeline_run_id": "41434625915",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T12:40:05+01:00",
-      "updated_at": "2026-11-02T14:00:56+01:00",
+      "updated_at": "2026-11-02T14:01:16+01:00",
       "published_at": "2026-11-02T12:40:05+01:00",
       "expires_at": null
     },
