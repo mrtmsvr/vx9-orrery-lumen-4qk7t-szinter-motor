@@ -36,17 +36,17 @@
       "word_count": 326,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/3ba0520fb51727f0.jpg",
-        "width": 6600,
-        "height": 4826,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Maidan_Nezalezhnosti_view.jpg/1280px-Maidan_Nezalezhnosti_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
         "kind": "photo",
-        "alt": "blackout, lightbulb, power supply, nuclear power plant, nuclear power, energy, failure, deficiency, crisis, energy crisis, energy saving, energy transition, electricity, light, blackout, blackout, bla",
-        "credit": "Alexandra_Koch / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/blackout-lightbulb-power-supply-7644125/",
-        "vision_score": 8.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/3ba0520fb51727f0.jpg",
-        "orig_url": "https://pixabay.com/get/g89ba00e8d25fdfee2f9de5d57d3358b03e205559acc7d08ec05c8dc72401a0d4fafb336c8463bd6bca86bca6e7b15c075a1e41fc0d53885d1e7f013fec2fa9bc_1280.jpg"
+        "pos": "center",
+        "alt": "a view of Maidan Nezalezhnosti in Kiev, Ukraine",
+        "credit": "Juan Antonio Segal / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Maidan_Nezalezhnosti_view.jpg",
+        "exact": true,
+        "entity": "Ukrajna"
       },
       "inline_images": [],
       "sources": [
@@ -135,7 +135,7 @@
       "pipeline_run_id": "41389749226",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T06:04:56+01:00",
-      "updated_at": "2026-11-02T06:04:56+01:00",
+      "updated_at": "2026-11-02T05:13:38+00:00",
       "published_at": "2026-11-02T06:04:56+01:00",
       "expires_at": null
     },
