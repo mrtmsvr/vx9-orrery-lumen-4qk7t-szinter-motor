@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5696ba56-1a7e-5065-ad9a-5a0cefc9a25a",
+      "slug": "2026-11-02-osszeolvadt-bombak-nehezitettek-a-tuzszereszek-dolgat-az-ulloi-uton",
+      "url": "/kozelet/2026-11-02-osszeolvadt-bombak-nehezitettek-a-tuzszereszek-dolgat-az-ulloi-uton/",
+      "title": "Összeolvadt bombák nehezítették a tűzszerészek dolgát az Üllői úton",
+      "lead": "Több mint kétszáz, a második világháborúból visszamaradt robbanótestet és lőszert mentesítettek a tűzszerészek egy XVIII. kerületi építkezésen. A háborús eszközök egykor egy gödörbe gyűjtve összeolvadtak, ami rendkívül nehézzé tette a katonák munkáját.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T21:27:05+01:00",
+      "published_at": "2026-11-02T21:27:05+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "tűzszerészek",
+        "második világháború",
+        "robbanótest",
+        "Budapest",
+        "Magyar Honvédség"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Collecting_of_Russian_bombs_in_Kharkiv_4_March_2022_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kharkiv after Russian shelling and bombardments. The emergency service clear the rubble which can hide people; sappers collect and defuse bombs.Inscription on the bomb: ФАБ-500 Н."
+      }
+    },
+    {
       "id": "f983d7db-9679-5855-8a91-37be1c73af89",
       "slug": "2026-11-02-ket-igazgatosagot-torolt-el-es-csucsvezetoket-cserelt-az-nmhh",
       "url": "/kozelet/2026-11-02-ket-igazgatosagot-torolt-el-es-csucsvezetoket-cserelt-az-nmhh/",
@@ -4385,37 +4415,7 @@
         "pos": "top",
         "alt": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu"
       }
-    },
-    {
-      "id": "7262f294-2fbb-563b-aa35-7b0ea905d2a4",
-      "slug": "2026-10-23-halalos-drontamadas-ert-egy-tankhajot-konstancatol-tizenharom-merfold",
-      "url": "/vilag/2026-10-23-halalos-drontamadas-ert-egy-tankhajot-konstancatol-tizenharom-merfold/",
-      "title": "Halálos dróntámadás ért egy tankhajót Konstancától tizenhárom mérföldre",
-      "lead": "Péntek délelőtt dróntalálat ért egy Törökországból Romániába tartó teherhajót a Fekete-tengeren; a támadás következtében egy ember életét vesztette, hárman pedig eltűntek. Az eset súlyos biztonsági kockázatokat vet fel a regionális kereskedelmi hajózás számára.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T16:00:52+02:00",
-      "published_at": "2026-10-23T16:00:52+02:00",
-      "reading_time_min": 2,
-      "hot_score": 10.65,
-      "tags": [
-        "Fekete-tenger",
-        "Románia",
-        "dróntámadás",
-        "hajózás",
-        "NATO"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg/1280px-USS_Fort_McHenry_pulls_into_Constan%C8%9Ba_for_a_scheduled_port_visit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 857,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "190107-N-AT530-0085 CONSTANTA, ROMANIA (Jan. 7, 2019) – The Whidbey Island-class amphibious dock landing ship USS Fort McHenry (LSD 43) pulls into Constanta, Romania, for a scheduled port visit, Jan."
-      }
     }
   ],
-  "updated_at": "2026-11-02T20:07:21+01:00"
+  "updated_at": "2026-11-02T21:27:07+01:00"
 }
