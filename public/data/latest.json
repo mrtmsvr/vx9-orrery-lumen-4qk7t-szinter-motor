@@ -170,11 +170,7 @@
         "média",
         "Országgyűlés"
       ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/d01dfa32fa-1793624707-0.jpg",
-        "kind": "photo",
-        "alt": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét"
-      }
+      "hero_image": null
     },
     {
       "id": "3188b85d-47aa-54fb-97fb-9b6058fb71ab",
@@ -4422,5 +4418,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-02T14:05:18+01:00"
+  "updated_at": "2026-11-02T14:05:39+01:00"
 }
