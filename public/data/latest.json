@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d01dfa32-fa39-56a1-9f89-867dc099222e",
+      "slug": "2026-11-02-megbukott-a-fidesz-mediamester-jeloltje-a-bizottsagban",
+      "url": "/kozelet/2026-11-02-megbukott-a-fidesz-mediamester-jeloltje-a-bizottsagban/",
+      "title": "Megbukott a Fidesz médiamester-jelöltje a bizottságban",
+      "lead": "A Fidesz által a Független Közmédia Testületbe jelölt Császár Attila nem kapta meg a parlament Művelődési Bizottságának támogatását a hétfői ülésen. A jelölt a meghallgatásán kijelentette, hogy saját magát sem tartja függetlennek vagy pártatlannak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T12:40:05+01:00",
+      "published_at": "2026-11-02T12:40:05+01:00",
+      "reading_time_min": 3,
+      "hot_score": 14.68,
+      "tags": [
+        "Császár Attila",
+        "Független Közmédia Testület",
+        "Művelődési Bizottság",
+        "média",
+        "Országgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg/1280px-Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Press conference on the eve of Busworld Europe 2025"
+      }
+    },
+    {
       "id": "3188b85d-47aa-54fb-97fb-9b6058fb71ab",
       "slug": "2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe",
       "url": "/kozelet/2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe/",
@@ -4394,35 +4424,7 @@
         "pos": "center",
         "alt": "Magyar Péter 2024. április-án"
       }
-    },
-    {
-      "id": "fce1e42e-a0f1-5184-8764-58712d19f150",
-      "slug": "2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap",
-      "url": "/kozelet/2026-10-23-allami-unnepseggel-es-vadaszgepes-athuzassal-emlekeznek-1956-ra-budap/",
-      "title": "Zászlófelvonással és katonai tiszteletadással indult az október 23-i ünnep a Kossuth téren",
-      "lead": "Péntek délelőtt, az 1956-os forradalom hetvenedik évfordulóján felvonták a nemzeti zászlót a Parlament épülete előtt, a Kossuth Lajos téren. Az eseményen a Himnusz hangjaira a honvédség díszegysége működött közre.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T09:46:24+02:00",
-      "published_at": "2026-10-23T09:46:24+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "október 23",
-        "ünnepség",
-        "Kossuth Lajos tér",
-        "Parlament",
-        "Magyar Honvédség"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-545d258632.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Kossuth Lajos tér",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-02T11:48:20+01:00"
+  "updated_at": "2026-11-02T12:40:06+01:00"
 }
