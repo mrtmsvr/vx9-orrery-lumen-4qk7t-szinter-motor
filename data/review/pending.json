@@ -7109,11 +7109,10 @@
         "lead": "A Fidesz által a Független Közmédia Testületbe jelölt Császár Attila nem kapta meg a parlament Művelődési Bizottságának támogatását a hétfői ülésen. A jelölt a meghallgatásán kijelentette, hogy saját magát sem tartja függetlennek vagy pártatlannak.",
         "ctl_photo": true,
         "control_id": 9781,
-        "msg_ids": [
-          9779,
-          9780
-        ],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "msg_ids": [],
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
