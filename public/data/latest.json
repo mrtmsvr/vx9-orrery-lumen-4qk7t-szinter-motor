@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7e2367d1-05e6-552c-9850-fc29e0b614ca",
+      "slug": "2026-11-02-atallt-a-demokrata-kepviselo-ellenfelet-tamogatja-a-michigani-szenatu",
+      "url": "/vilag/2026-11-02-atallt-a-demokrata-kepviselo-ellenfelet-tamogatja-a-michigani-szenatu/",
+      "title": "Átállt a demokrata képviselő: ellenfelét támogatja a michigani szenátusi székért",
+      "lead": "Haley Stevens demokrata kongresszusi képviselő vasárnap bejelentette, hogy a republikánus Mike Rogerst támogatja a michigani szenátusi helyért. A lépés váratlan fordulat a félidős választások előtt, miközben a demokraták a szenátusi többség visszaszerzésére törekednek.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T22:07:30+01:00",
+      "published_at": "2026-11-02T22:07:30+01:00",
+      "reading_time_min": 3,
+      "hot_score": 6.23,
+      "tags": [
+        "egyesült államok",
+        "választások",
+        "michigan",
+        "demokraták",
+        "republikánusok"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg/1280px-Haley_Stevens%2C_official_portrait%2C_116th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The official headshot of Rep. Haley Stevens (D-MI)"
+      }
+    },
+    {
       "id": "312c9e0d-0771-5adb-8997-1deccaf29a81",
       "slug": "2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es",
       "url": "/kozelet/2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es/",
@@ -4384,37 +4414,7 @@
         "pos": "top",
         "alt": "Bencsik András magyar újságíró, lapszerkesztő."
       }
-    },
-    {
-      "id": "3927ddd5-a498-5895-a9f1-c2162948ec1e",
-      "slug": "2026-10-23-megerkezett-a-brusszeli-jutalom-von-der-leyen-beszelt-az-alkurol",
-      "url": "/vilag/2026-10-23-megerkezett-a-brusszeli-jutalom-von-der-leyen-beszelt-az-alkurol/",
-      "title": "Megérkezett a brüsszeli jutalom: Von der Leyen beszélt az alkuról",
-      "lead": "Az 1956-os forradalom hetvenedik évfordulóján Budapestre látogatott az Európai Bizottság elnöke, aki részt vett a megemlékezéseken.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T16:31:49+02:00",
-      "published_at": "2026-10-23T16:31:49+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.73,
-      "tags": [
-        "Ursula von der Leyen",
-        "Európai Bizottság",
-        "1956",
-        "uniós források",
-        "Magyar Péter"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ursel_gut_frisiert.jpg/1280px-Ursel_gut_frisiert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1226,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "In the annual State of the European Union debate, MEPs quizzed President von der Leyen on the Commission’s work since the beginning of its new mandate and its upcoming plans.\nOpening the debate, EP Pr"
-      }
     }
   ],
-  "updated_at": "2026-11-02T21:47:20+01:00"
+  "updated_at": "2026-11-02T22:07:31+01:00"
 }

@@ -8637,7 +8637,7 @@
     {
       "id": "7e2367d1-05e6-552c-9850-fc29e0b614ca",
       "slug": "2026-11-02-atallt-a-demokrata-kepviselo-ellenfelet-tamogatja-a-michigani-szenatu",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -8845,9 +8845,9 @@
       "dedupe_hash": "83421e73d0dc3c67c0c1090dd0731cd12b72c8d9d690ac4595c445f2b1d60171",
       "pipeline_run_id": "41490196919",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-02T18:51:09+01:00",
-      "updated_at": "2026-11-02T18:51:09+01:00",
-      "published_at": "2026-11-02T18:51:09+01:00",
+      "created_at": "2026-11-02T22:07:30+01:00",
+      "updated_at": "2026-11-02T22:07:30+01:00",
+      "published_at": "2026-11-02T22:07:30+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -8863,9 +8863,9 @@
         "control_id": 9790,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:07 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-02T22:07:05+01:00"
+      "live": true
     },
     {
       "id": "5696ba56-1a7e-5065-ad9a-5a0cefc9a25a",
