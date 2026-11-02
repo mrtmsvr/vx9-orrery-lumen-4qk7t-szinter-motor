@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "892e8a17-14f7-523e-834e-c8c865be7d75",
+      "slug": "2026-11-02-sonnevend-pal-veszi-at-az-alkotmanybirosag-iranyitasat",
+      "url": "/kozelet/2026-11-02-sonnevend-pal-veszi-at-az-alkotmanybirosag-iranyitasat/",
+      "title": "Sonnevend Pál veszi át az Alkotmánybíróság irányítását",
+      "lead": "Titkos szavazással Sonnevend Pált választotta az Alkotmánybíróság elnökévé a testület teljes ülése hétfőn. Az új vezető megbízatása három évre szól, és megválasztásával azonnal hivatalba is lépett.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T15:19:34+01:00",
+      "published_at": "2026-11-02T15:19:34+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.12,
+      "tags": [
+        "Alkotmánybíróság",
+        "Sonnevend Pál",
+        "belpolitika",
+        "Országgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/34bee49e4ede59d8.jpg",
+        "width": 3264,
+        "height": 2448,
+        "kind": "photo",
+        "alt": "hammer, books, law, dish, lawyer, paragraphs, regulation, court of justice, a book, §, code, law books, judge, order, rule, disposal, auction, law, law, law, law, law, lawyer, lawyer"
+      }
+    },
+    {
       "id": "3ba8e3ac-86ec-59e6-a454-33d6758a8060",
       "slug": "2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f",
       "url": "/kozelet/2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f/",
@@ -4386,37 +4414,7 @@
         "pos": "top",
         "alt": "Gabor Maté"
       }
-    },
-    {
-      "id": "7c1aad47-9228-523d-81e6-99754f95e183",
-      "slug": "2026-10-23-sorozatgyilkos-tempo-halalos-lovoldozes-razta-meg-a-parizsi-elovarost",
-      "url": "/vilag/2026-10-23-sorozatgyilkos-tempo-halalos-lovoldozes-razta-meg-a-parizsi-elovarost/",
-      "title": "Sorozatgyilkos tempó: halálos lövöldözés rázta meg a párizsi elővárost",
-      "lead": "Párizs délnyugati elővárosában, Trappes és La Verrière utcáin egy autóból automata fegyverrel leadott lövések következtében egy ember életét vesztette, többen pedig megsérültek péntek reggel. Az eset nyomán a Nemzeti Terrorelhárítási Ügyészség indított vizsgálatot.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T13:25:27+02:00",
-      "published_at": "2026-10-23T13:25:27+02:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Franciaország",
-        "Párizs",
-        "lövöldözés",
-        "bűnügy",
-        "terrorelhárítás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Trappes_Mairie.JPG/1280px-Trappes_Mairie.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Mairie de Trappes (Yvelines, France)"
-      }
     }
   ],
-  "updated_at": "2026-11-02T15:06:37+01:00"
+  "updated_at": "2026-11-02T15:19:36+01:00"
 }
