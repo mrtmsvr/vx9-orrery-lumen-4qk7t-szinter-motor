@@ -8256,7 +8256,9 @@
         "ctl_photo": true,
         "control_id": 9786,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -8435,8 +8437,11 @@
         "lead": "A 444.hu legfrissebb podcastjában a közélet aktuális kérdéseit, gazdasági ügyeket és történelmi párhuzamokat vettek sorra a műsorvezetők. A beszélgetésben terítékre került többek között a Nanushka csődje, Matolcsy György ügyei és a hazai üzemanyagpiac helyzete is.",
         "ctl_photo": true,
         "control_id": 9787,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 21:47 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-02T21:47:05+01:00"
     },
     {
       "id": "f983d7db-9679-5855-8a91-37be1c73af89",
@@ -8621,7 +8626,9 @@
         "ctl_photo": true,
         "control_id": 9789,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -8852,8 +8859,11 @@
         "lead": "Haley Stevens demokrata kongresszusi képviselő vasárnap bejelentette, hogy a republikánus Mike Rogerst támogatja a michigani szenátusi helyért. A lépés váratlan fordulat a félidős választások előtt, miközben a demokraták a szenátusi többség visszaszerzésére törekednek.",
         "ctl_photo": true,
         "control_id": 9790,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:07 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-02T22:07:05+01:00"
     },
     {
       "id": "6d14d5c0-091c-5763-b534-69565c0ff816",
