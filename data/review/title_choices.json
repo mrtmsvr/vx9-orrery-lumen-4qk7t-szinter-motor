@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Óriási üzlet: a Futureal felvásárolta a Premier Outletet",
-      "instead_of": "Nem épít, most vásárol: a Futureal lecsapott a biatorbágyi outletre",
-      "custom": false,
-      "t": "2026-10-22T10:19:52+00:00"
-    },
-    {
-      "chosen": "Sokkal mélyebb a gödör, mint hittük: ezt titkolják az egészségügyről",
-      "instead_of": "Nem a vécépapír hiánya a valódi baj az egészségügyben",
-      "custom": false,
-      "t": "2026-10-22T11:00:38+00:00"
-    },
-    {
-      "chosen": "Jókedvű ipar, borús lakosság: ezt hozta az októberi GKI-mutató",
-      "instead_of": "Nem hisz a jövőjének a magyar háztartás, miközben a cégek bíznak a holnapban",
-      "custom": false,
-      "t": "2026-10-22T14:45:26+00:00"
-    },
-    {
-      "chosen": "Ötvenhatos emlékmúzeumot alapít a kormány",
-      "instead_of": "Nemzeti emlékmúzeumot avat '56-nak Magyar Péter a Bem téren",
-      "custom": false,
-      "t": "2026-10-22T17:52:56+00:00"
-    },
-    {
       "chosen": "Mit keres egy szarvasmarháknál pusztító vírus egy emberi szervezetben?",
       "instead_of": "Először kapott el embert a marhákat pusztító Shamonda-vírus",
       "custom": false,
@@ -359,6 +335,30 @@
       "instead_of": "Nem otthoni használatra szánt széfek rejtőztek Seszták Miklós hangszigetelt szobájában",
       "custom": false,
       "t": "2026-11-02T13:04:04+00:00"
+    },
+    {
+      "chosen": "Költségvetési patthelyzet: Tízmilliárd eurós hiány miatt bukott a belga kormány",
+      "instead_of": "Nem bírták a matekot: Tízmilliárdos hiány miatt adta vissza a mandátumát a belga kormányfő",
+      "custom": false,
+      "t": "2026-11-02T13:04:26+00:00"
+    },
+    {
+      "chosen": "Nem tudtak megegyezni a milliárdokról, így inkább felállt a belga kormányfő",
+      "instead_of": "Nem bírták a matekot: Tízmilliárdos hiány miatt adta vissza a mandátumát a belga kormányfő",
+      "custom": false,
+      "t": "2026-11-02T13:04:26+00:00"
+    },
+    {
+      "chosen": "Így lett a polgári hagyományok ápolásából választási kampány Budapesten",
+      "instead_of": "Ötmillió forintnyi plakát miatt csapott le a NAV egy budapesti alapítványra",
+      "custom": false,
+      "t": "2026-11-02T13:04:27+00:00"
+    },
+    {
+      "chosen": "Bombafenyegetés miatt kísértek magyar Gripenek Ferihegyre egy Wizz Air-gépet",
+      "instead_of": "Bombával fenyegettek egy Wizz Air-gépet: magyar Gripenek kísérték le Ferihegyen",
+      "custom": false,
+      "t": "2026-11-02T13:04:29+00:00"
     }
   ]
 }
