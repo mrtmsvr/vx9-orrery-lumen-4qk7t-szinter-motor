@@ -6968,6 +6968,28 @@
       "clickbait_from": 3,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d01dfa32fa-1793624707-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d01dfa32fa-1793624707-0.jpg",
+          "kind": "photo",
+          "alt": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/d01dfa32fa-1793624715-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/d01dfa32fa-1793624715-1.jpg",
+          "kind": "photo",
+          "alt": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg/1280px-Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 900,
@@ -6992,17 +7014,6 @@
           "exact": true,
           "entity": "Fidesz",
           "vision_score": 6.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-ab68c0ee48.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-ab68c0ee48.jpg",
-          "kind": "photo",
-          "alt": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét",
-          "credit": "Kollektíva",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "cover": true
         }
       ],
       "story": [
@@ -7097,8 +7108,11 @@
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 14.68 · 3 forrás\n\n1) Megbukott a Fidesz médiamester-jelöltje a bizottságban\n2) Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét\n3) Megbukott Császár Attila bizottsági meghallgatásán a Független Közmédia Testületért\n🔥 4) A fideszes jelölt nyíltan kimondta: szerinte nem is létezik független újságírás\n🔥 5) Nem kértek a fideszes jelöltből: elbukott a parlamenti szavazáson a közmédia volt riportere\n🔥 6) Szembefordult a névvel a jelölt: szerinte nemzeti testületnek kellene hívni az FKT-t\n\n<b>Források:</b> hvg.hu, index.hu, 444.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A Fidesz által a Független Közmédia Testületbe jelölt Császár Attila nem kapta meg a parlament Művelődési Bizottságának támogatását a hétfői ülésen. A jelölt a meghallgatásán kijelentette, hogy saját magát sem tartja függetlennek vagy pártatlannak.",
         "ctl_photo": true,
-        "control_id": 9778,
-        "msg_ids": [],
+        "control_id": 9781,
+        "msg_ids": [
+          9779,
+          9780
+        ],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
       "live": true,
