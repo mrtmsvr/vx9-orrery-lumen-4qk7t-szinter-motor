@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1ea0a374-7c90-5c3e-98fa-cfbb5bab95c2",
+      "slug": "2026-11-02-megbukott-aleksandar-vu-i-taroltak-a-szerb-egyetemistak",
+      "url": "/vilag/2026-11-02-megbukott-aleksandar-vu-i-taroltak-a-szerb-egyetemistak/",
+      "title": "Megbukott Aleksandar Vučić, taroltak a szerb egyetemisták",
+      "lead": "Az Egyetemista Lista a voksok 53,01 százalékát szerezte meg a teljes feldolgozottságú adatok szerint a szerbiai parlamenti választáson. A történelmi győzelemmel lezárult az Aleksandar Vučić nevéhez fémjelzett tizennégyéves kormányzati korszak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T07:52:25+01:00",
+      "published_at": "2026-11-02T07:52:25+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.35,
+      "tags": [
+        "Szerbia",
+        "választás",
+        "Aleksandar Vučić",
+        "Egyetemista Lista",
+        "VMSZ"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Belgrad2006parlament.jpg/1280px-Belgrad2006parlament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 737,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ""
+      }
+    },
+    {
       "id": "ca835e8b-8c0f-5dd1-85d8-9beda4396d61",
       "slug": "2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese",
       "url": "/kozelet/2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese/",
@@ -4392,37 +4422,7 @@
         "pos": "center",
         "alt": "Panoramic view of the course of the Trebišnjica river near Gornji Orahovac, in southeast Bosnia and Herzegovina."
       }
-    },
-    {
-      "id": "912f5792-e4c9-55fe-a911-28fc2e04336d",
-      "slug": "2026-10-23-macron-szerint-az-ultrabaloldal-a-koztarsasag-megdontesere-keszul",
-      "url": "/vilag/2026-10-23-macron-szerint-az-ultrabaloldal-a-koztarsasag-megdontesere-keszul/",
-      "title": "Macron szerint az ultrabaloldal a köztársaság megdöntésére készül",
-      "lead": "Emmanuel Macron francia államfő csütörtöki bejelentése szerint a megélhetési tüntetéseket kísérő erőszakos cselekményeket a gyanú szerint szervezett ultrabaloldali csoportok irányították a köztársaság megbuktatása érdekében. A hétvégi demonstrációk előtt a hatóságok szigorú korlátozásokat és fokozott rendőri jelenlétet rendeltek el.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T08:04:34+02:00",
-      "published_at": "2026-10-23T08:04:34+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.76,
-      "tags": [
-        "Franciaország",
-        "Emmanuel Macron",
-        "tüntetés",
-        "zavargások",
-        "biztonságpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Paris_75004_Rue_de_Lut%C3%A8ce_20170204_Pr%C3%A9fecture_de_Police.jpg/1280px-Paris_75004_Rue_de_Lut%C3%A8ce_20170204_Pr%C3%A9fecture_de_Police.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Entrée nord de la Préfecture de Police, 1 rue de Lutèce, IVe arrondissement, Paris, France."
-      }
     }
   ],
-  "updated_at": "2026-11-02T07:51:27+01:00"
+  "updated_at": "2026-11-02T07:52:28+01:00"
 }
