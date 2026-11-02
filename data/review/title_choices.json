@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Paksi bővítés: új kivitelezők érkezhetnek az oroszok helyett",
-      "instead_of": "Utódokat keres a kormány a paksi bővítéshez",
-      "custom": false,
-      "t": "2026-10-22T05:29:49+00:00"
-    },
-    {
       "chosen": "A hőszivattyú rejtélyei: tények és tévhitek",
       "instead_of": "Több hőt ad, mint amennyi áramot fogyaszt?",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Megállapodás: Fejes Péter lesz a Tisza embere a legfőbb ügyészi székben",
       "custom": false,
       "t": "2026-11-02T13:00:14+00:00"
+    },
+    {
+      "chosen": "Nem támogatta a Művelődési Bizottság Császár Attila jelöltségét",
+      "instead_of": "Megbukott a Fidesz médiamester-jelöltje a bizottságban",
+      "custom": false,
+      "t": "2026-11-02T13:00:55+00:00"
     }
   ]
 }
