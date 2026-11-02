@@ -8265,7 +8265,7 @@
     {
       "id": "312c9e0d-0771-5adb-8997-1deccaf29a81",
       "slug": "2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -8298,7 +8298,7 @@
       "word_count": 213,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g2294dd68ac8edf255dc272ee7f9096671ed46186fd2925b6cb0c48deca5d4ba662f61784014a9ee66a92a5bf589cce5a33261581d9ad9494d51815bc8fa7608c_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/1f6e1867ef06431a.jpg",
         "width": 4928,
         "height": 3264,
         "kind": "photo",
@@ -8306,7 +8306,9 @@
         "credit": "Pexels / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/audio-microphone-1844798/",
-        "vision_score": 7.0
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/1f6e1867ef06431a.jpg",
+        "orig_url": "https://pixabay.com/get/g2294dd68ac8edf255dc272ee7f9096671ed46186fd2925b6cb0c48deca5d4ba662f61784014a9ee66a92a5bf589cce5a33261581d9ad9494d51815bc8fa7608c_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -8394,7 +8396,7 @@
         "meta_title": "Mennyit ülnének Orbánért? A Borízű hang adása terítékre tett",
         "meta_description": "A 444.hu legfrissebb podcastjában a közélet aktuális kérdéseit, gazdasági ügyeket és történelmi párhuzamokat vettek sorra a műsorvezetők. A beszélgetésben terít",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es/",
-        "og_image": "https://pixabay.com/get/g2294dd68ac8edf255dc272ee7f9096671ed46186fd2925b6cb0c48deca5d4ba662f61784014a9ee66a92a5bf589cce5a33261581d9ad9494d51815bc8fa7608c_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/1f6e1867ef06431a.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -8411,9 +8413,9 @@
       "dedupe_hash": "c34c2b63a20fcf89ee53e25c2ac7802a20fe7c4b784cb96845c1573908867858",
       "pipeline_run_id": "41483084564",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-02T17:57:34+01:00",
-      "updated_at": "2026-11-02T17:57:34+01:00",
-      "published_at": "2026-11-02T17:57:34+01:00",
+      "created_at": "2026-11-02T21:47:10+01:00",
+      "updated_at": "2026-11-02T21:47:10+01:00",
+      "published_at": "2026-11-02T21:47:10+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -8439,9 +8441,9 @@
         "control_id": 9787,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 21:47 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-02T21:47:05+01:00"
+      "live": true
     },
     {
       "id": "f983d7db-9679-5855-8a91-37be1c73af89",
@@ -8864,210 +8866,6 @@
         "compact": "🕒 Kint lesz 22:07 (✏️ → ✅ = azonnal)"
       },
       "scheduled_at": "2026-11-02T22:07:05+01:00"
-    },
-    {
-      "id": "6d14d5c0-091c-5763-b534-69565c0ff816",
-      "slug": "2026-11-02-maffiapartok-es-36-eves-adossag-igy-csaptak-ossze-a-kepviselok",
-      "status": "pending",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Országgyűlés",
-        "Toroczkai László",
-        "Rétvári Bence",
-        "ügynökakták",
-        "parlamenti vita"
-      ],
-      "title": "Maffiapártok és 36 éves adósság: így csaptak össze a képviselők",
-      "subtitle": null,
-      "lead": "Parázs hangulatú napirend előtti felszólalások zajlottak az Országgyűlésben, ahol a képviselők az ügynökakták nyilvánosságra hozataláról, az 1989–1990-es rendszerváltás örökségéről és a politikai elit szerepéről vitáztak. A felek kemény jelzőkkel illették egymást, és a maffiaszerű kormányzástól kezdve a múltbeli elszámoltatás elmaradásáig számos téma terítékre került.",
-      "key_points": [
-        "Napirend előtti viták zajlottak az Országgyűlésben a rendszerváltáskori ügynökakták ügyéről.",
-        "Toroczkai László élesen bírálta a politikai elit elmúlt évtizedeit és a múltbeli manipulációkat.",
-        "Rétvári Bence frakcióvezető visszautasította a kritikákat, és maffiapártnak nevezte az ellenzéket.",
-        "A képviselők a költségvetési javaslatokról és a magyar politika múltbeli megítéléséről is vitáztak."
-      ],
-      "content": "Feszült hangulatú napirend előtti felszólalások zajlottak az Országgyűlésben, ahol a képviselők a rendszerváltás időszakára, valamint az ügynökakták ügyére fókuszáltak. A 444.hu videójában részletesen bemutatott ülésen Toroczkai László, a Mi Hazánk képviselője szólalt fel, aki tavalyi beszédére hivatkozva élesen bírálta a politikai elit elmúlt évtizedeit. A politikus puhatestűeknek nevezte a politikusokat, akik szerinte hazudnak, és parlamenti felszólalásában az 1956-os forradalomra is emlékeztetett.\n\nA vitában elhangzottak szerint a kritikusok megítélése alapján az 1989–1990-es rendszerváltást követő politikai elit minden oldala politikai manipulációra, lejáratásra és hatalmi harcra használta fel az ügynökaktákból megismert információkat. Toroczkai László hangsúlyozta, hogy a miniszterelnöknek és a mindenkori képviselőknek nincs arra joga, hogy eldöntse, kit ér személyes támadás, vagy hogy melyik képviselő „yurizzon” vagy „gyuri bácsizzon”.\n\nRétvári Bence, a KDNP frakcióvezetője a felszólalásra reagálva élesen bírálta a maffiapártnak nevezett ellenzéki szereplőket és az egykori politikai elit árulását a parlamenti vitában. A kormánypárti politikus kiemelte, hogy a kritikusok lemaffiózzák az egész Fidesz–KDNP-t, kijelentik, hogy az egy maffiaszervezetnek tekinthető, majd krokodilkönnyeket hullatnak amiatt, hogy miért nem ünnepelnek együtt a felek. A 444.hu videójában látható események során számos konkrét idézet és érv hangzott el, amelyek a magyar politika múltbeli és jelenlegi megítélését vitatták a törvényhozás falai között.",
-      "content_format": "markdown",
-      "body": [
-        "Feszült hangulatú napirend előtti felszólalások zajlottak az Országgyűlésben, ahol a képviselők a rendszerváltás időszakára, valamint az ügynökakták ügyére fókuszáltak. A 444.hu videójában részletesen bemutatott ülésen Toroczkai László, a Mi Hazánk képviselője szólalt fel, aki tavalyi beszédére hivatkozva élesen bírálta a politikai elit elmúlt évtizedeit. A politikus puhatestűeknek nevezte a politikusokat, akik szerinte hazudnak, és parlamenti felszólalásában az 1956-os forradalomra is emlékeztetett.",
-        "A vitában elhangzottak szerint a kritikusok megítélése alapján az 1989–1990-es rendszerváltást követő politikai elit minden oldala politikai manipulációra, lejáratásra és hatalmi harcra használta fel az ügynökaktákból megismert információkat. Toroczkai László hangsúlyozta, hogy a miniszterelnöknek és a mindenkori képviselőknek nincs arra joga, hogy eldöntse, kit ér személyes támadás, vagy hogy melyik képviselő „yurizzon” vagy „gyuri bácsizzon”.",
-        "Rétvári Bence, a KDNP frakcióvezetője a felszólalásra reagálva élesen bírálta a maffiapártnak nevezett ellenzéki szereplőket és az egykori politikai elit árulását a parlamenti vitában. A kormánypárti politikus kiemelte, hogy a kritikusok lemaffiózzák az egész Fidesz–KDNP-t, kijelentik, hogy az egy maffiaszervezetnek tekinthető, majd krokodilkönnyeket hullatnak amiatt, hogy miért nem ünnepelnek együtt a felek. A 444.hu videójában látható események során számos konkrét idézet és érv hangzott el, amelyek a magyar politika múltbeli és jelenlegi megítélését vitatták a törvényhozás falai között."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 242,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://pixabay.com/get/g4585c0c6a45a9d2d0bedb9e7a21d1d158bf8dd6b8bb0a7da8642f6ce06ea92c08fa5f3541f15ba9139ca6f7e0417e7de5937b1efa627f9ac2555c6efa38a669e_1280.jpg",
-        "width": 3836,
-        "height": 2999,
-        "kind": "photo",
-        "alt": "files, paper, office, paperwork, stack, work, data, folders, pile, organize, storage, archive, documentation, catalog, monochrome, black and white, files, files, files, paper, paper, paper, paper, pap",
-        "credit": "myrfa / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/files-paper-office-paperwork-stack-1614223/",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.youtube.com/watch?v=YjAWUIk7Bxw",
-          "title": "Puhatestűzés, Don Hatvanpuszta és ügynökakták a parlamentben",
-          "publisher": "444.hu",
-          "license": null,
-          "accessed_at": "2026-11-02T20:33:44+01:00"
-        }
-      ],
-      "quote": {
-        "text": "A rendszerváltás egyik legfontosabb vállalását és egyben 36 éves adósságot törlesztünk most",
-        "who": "Toroczkai László, a Mi Hazánk képviselője",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": null
-      },
-      "hot_score": 5,
-      "title_options": [
-        "Maffiapártok és 36 éves adósság: így csaptak össze a képviselők",
-        "Ügynökakták és puhatestűek: parázs vita zajlott a parlamentben",
-        "Toroczkai László szerint a politikai elit minden oldala manipulál",
-        "Kemény szavak a parlamentben: puhatestűzésnek és maffiának nevezték egymást a képviselők",
-        "36 éves adósságot emlegettek a politikusok a legújabb parlamenti vitában",
-        "Nem kímélték egymást a felek: ügynökakták és múltbeli sérelmek a napirend előtti vitában"
-      ],
-      "clickbait_from": 3,
-      "image_options": [
-        {
-          "url": "https://pixabay.com/get/g4585c0c6a45a9d2d0bedb9e7a21d1d158bf8dd6b8bb0a7da8642f6ce06ea92c08fa5f3541f15ba9139ca6f7e0417e7de5937b1efa627f9ac2555c6efa38a669e_1280.jpg",
-          "width": 3836,
-          "height": 2999,
-          "kind": "photo",
-          "alt": "files, paper, office, paperwork, stack, work, data, folders, pile, organize, storage, archive, documentation, catalog, monochrome, black and white, files, files, files, paper, paper, paper, paper, pap",
-          "credit": "myrfa / Pixabay",
-          "license": "Pixabay License",
-          "source_url": "https://pixabay.com/photos/files-paper-office-paperwork-stack-1614223/",
-          "vision_score": 10.0
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg/1280px-Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1306,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Leader of the Our Homeland Movement faction",
-          "credit": "Ipipedia / Wikimedia Commons",
-          "license": "CC0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg",
-          "exact": true,
-          "entity": "Toroczkai László",
-          "vision_score": 5.0
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793648191-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1793648191-0.jpg",
-          "kind": "photo",
-          "alt": "Ügynökakták és puhatestűek: parázs vita zajlott a parlamentben",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        }
-      ],
-      "story": [
-        {
-          "title": "Puhatestűzés, Don Hatvanpuszta és ügynökakták a parlamentben",
-          "link": "https://www.youtube.com/watch?v=YjAWUIk7Bxw",
-          "summary": "A parlamentben tartott napirend előtti viták során Magyar Péter és a kormánypárti képviselők ügynökaktákról, maffiaszerű kormányzásról és költségvetési javaslatokról vitáztak.",
-          "source": "444.hu",
-          "related": null,
-          "hot_score": null
-        }
-      ],
-      "category_meta": {
-        "source_links": [
-          "https://www.youtube.com/watch?v=YjAWUIk7Bxw"
-        ]
-      },
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "url": "/kozelet/2026-11-02-maffiapartok-es-36-eves-adossag-igy-csaptak-ossze-a-kepviselok/",
-      "seo": {
-        "meta_title": "Maffiapártok és 36 éves adósság: így csaptak össze a képvise",
-        "meta_description": "Parázs hangulatú napirend előtti felszólalások zajlottak az Országgyűlésben, ahol a képviselők az ügynökakták nyilvánosságra hozataláról, az 1989–1990-es rendsz",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-maffiapartok-es-36-eves-adossag-igy-csaptak-ossze-a-kepviselok/",
-        "og_image": "https://pixabay.com/get/g4585c0c6a45a9d2d0bedb9e7a21d1d158bf8dd6b8bb0a7da8642f6ce06ea92c08fa5f3541f15ba9139ca6f7e0417e7de5937b1efa627f9ac2555c6efa38a669e_1280.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "157ec010-d65f-5cec-ad24-0a6886c4e9a2",
-        "ca835e8b-8c0f-5dd1-85d8-9beda4396d61",
-        "27f06b57-1667-569b-a567-2b647a02497b"
-      ],
-      "see_also": [
-        {
-          "title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
-          "url": "/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "Magyar Péter felszólalásával indul az Országgyűlés hétfői ülése",
-          "url": "/kozelet/2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese/",
-          "date": "2026-11-02"
-        },
-        {
-          "title": "Magyar Péter-bingó és SMS-háború színesítette a hétfői parlamenti napot",
-          "url": "/kozelet/2026-10-12-magyar-peter-bingo-es-sms-haboru-szinesitette-a-hetfoi-parlamenti-nap/",
-          "date": "2026-10-12"
-        }
-      ],
-      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
-      "dedupe_hash": "022ccf663bc18c471ae6b922ac901bf464b192b3723c25cbc040673ce7d3fc04",
-      "pipeline_run_id": "41507424706",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-02T20:33:44+01:00",
-      "updated_at": "2026-11-02T20:33:44+01:00",
-      "published_at": "2026-11-02T20:33:44+01:00",
-      "expires_at": null,
-      "hold": true,
-      "video": {
-        "id": "YjAWUIk7Bxw",
-        "title": "Puhatestűzés, Don Hatvanpuszta és ügynökakták a parlamentben",
-        "channel": "444.hu",
-        "minutes": 18
-      },
-      "legal": {
-        "level": 0,
-        "issues": [],
-        "auto_fixed": [
-          "A maffiaszervezetre vonatkozó kijelentést véleményszerű megfogalmazássá alakítottam.",
-          "A politikai elit ügynökaktákkal kapcsolatos felhasználását véleményként, állításként kontextualizáltam."
-        ]
-      },
-      "review": {
-        "title": 0,
-        "image": 0,
-        "sent_at": "2026-11-02T19:36:50+00:00",
-        "head": "🎬 VIDEÓBÓL (444.hu, 18 perces videó) · <b>Közélet</b> · forróság 5 · 1 forrás\n\n1) Maffiapártok és 36 éves adósság: így csaptak össze a képviselők\n2) Ügynökakták és puhatestűek: parázs vita zajlott a parlamentben\n3) Toroczkai László szerint a politikai elit minden oldala manipulál\n🔥 4) Kemény szavak a parlamentben: puhatestűzésnek és maffiának nevezték egymást a képviselők\n🔥 5) 36 éves adósságot emlegettek a politikusok a legújabb parlamenti vitában\n🔥 6) Nem kímélték egymást a felek: ügynökakták és múltbeli sérelmek a napirend előtti vitában\n\n<b>Források:</b> 444.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
-        "lead": "Parázs hangulatú napirend előtti felszólalások zajlottak az Országgyűlésben, ahol a képviselők az ügynökakták nyilvánosságra hozataláról, az 1989–1990-es rendszerváltás örökségéről és a politikai elit szerepéről vitáztak. A felek kemény jelzőkkel illették egymást, és a maffiaszerű kormányzástól kezdve a múltbeli elszámoltatás elmaradásáig számos téma terítékre került.",
-        "ctl_photo": false,
-        "control_id": 9793,
-        "msg_ids": []
-      }
     },
     {
       "id": "5696ba56-1a7e-5065-ad9a-5a0cefc9a25a",
