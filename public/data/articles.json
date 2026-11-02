@@ -35,17 +35,17 @@
       "word_count": 400,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/34bee49e4ede59d8.jpg",
-        "width": 3264,
-        "height": 2448,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Constitutional_Court_of_Hungary.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
         "kind": "photo",
-        "alt": "hammer, books, law, dish, lawyer, paragraphs, regulation, court of justice, a book, §, code, law books, judge, order, rule, disposal, auction, law, law, law, law, law, lawyer, lawyer",
-        "credit": "succo / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/hammer-books-law-dish-lawyer-719066/",
-        "vision_score": 7.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/34bee49e4ede59d8.jpg",
-        "orig_url": "https://pixabay.com/get/g09e5e69e34f18862748656006fa64769eae5a3c3a32178be5d125aff782c677a3e2c6aad24d70417006437961e249e8c5c680994114f1a6f7bce762a67155354_1280.jpg"
+        "pos": "top",
+        "alt": "The office of the Constitutional Court of Hungary. - Budapest, I. Donáti utca. 35-45.",
+        "credit": "VinceB / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Hungary.JPG",
+        "exact": true,
+        "entity": "Constitutional Court of Hungary"
       },
       "inline_images": [],
       "sources": [
@@ -141,7 +141,7 @@
       "pipeline_run_id": "41456426918",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T15:19:34+01:00",
-      "updated_at": "2026-11-02T15:19:34+01:00",
+      "updated_at": "2026-11-02T14:27:27+00:00",
       "published_at": "2026-11-02T15:19:34+01:00",
       "expires_at": null
     },
