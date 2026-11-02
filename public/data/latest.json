@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ca835e8b-8c0f-5dd1-85d8-9beda4396d61",
+      "slug": "2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese",
+      "url": "/kozelet/2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese/",
+      "title": "Magyar Péter felszólalásával indul az Országgyűlés hétfői ülése",
+      "lead": "Hétfő délután 1 órakor kezdetét veszi az Országgyűlés négynapos üléssorozata, amelyet Magyar Péter napirend előtti felszólalása nyit meg. A képviselők asztalán olyan fajsúlyos témák szerepelnek, mint a tőkealapok átláthatósága és december 24. munkaszüneti nappá nyilvánítása.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T07:51:25+01:00",
+      "published_at": "2026-11-02T07:51:25+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.69,
+      "tags": [
+        "Országgyűlés",
+        "Magyar Péter",
+        "tőkealapok",
+        "munkaszüneti nap",
+        "parlamenti ülés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 888,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015."
+      }
+    },
+    {
       "id": "517b314a-3b40-504e-99ae-63af5badf413",
       "slug": "2026-11-02-szazezrek-maradtak-villany-nelkul-a-hetvegi-ukrajnai-bombazasok-utan",
       "url": "/vilag/2026-11-02-szazezrek-maradtak-villany-nelkul-a-hetvegi-ukrajnai-bombazasok-utan/",
@@ -4392,37 +4422,7 @@
         "pos": "center",
         "alt": "Entrée nord de la Préfecture de Police, 1 rue de Lutèce, IVe arrondissement, Paris, France."
       }
-    },
-    {
-      "id": "1f82c92f-4323-50dd-a5dc-50e1e50fbb98",
-      "slug": "2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest",
-      "url": "/kozelet/2026-10-23-nem-lesz-olcsobb-a-zoldseg-a-kormany-lefujta-az-afacsokkentest/",
-      "title": "Nem lesz olcsóbb a zöldség: a kormány lefújta az áfacsökkentést",
-      "lead": "A kormány 2027-ben mégsem csökkenti a zöldségek és gyümölcsök jelenleg 27 százalékos áfáját, mivel a költségvetési hiány nem teszi lehetővé az intézkedést. A döntés éles bírálatot váltott ki az ágazati szereplőkből, akik szerint az adókulcs mérséklése segíthetné a fogyasztói árak csökkentését.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T06:59:58+02:00",
-      "published_at": "2026-10-23T06:59:58+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.05,
-      "tags": [
-        "gazdaság",
-        "áfacsökkentés",
-        "költségvetés",
-        "élelmiszerárak",
-        "Kármán András"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg/1280px-The_produce_area_inside_an_Ingles_supermarket_in_Murphy%2C_N.C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The produce area inside an Ingles supermarket in Murphy, N.C."
-      }
     }
   ],
-  "updated_at": "2026-11-02T07:21:36+01:00"
+  "updated_at": "2026-11-02T07:51:27+01:00"
 }
