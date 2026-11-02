@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:47:10+01:00",
+  "updated_at": "2026-11-02T21:47:19+01:00",
   "articles": [
     {
       "id": "312c9e0d-0771-5adb-8997-1deccaf29a81",
@@ -150,18 +150,16 @@
       "word_count": 353,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Collecting_of_Russian_bombs_in_Kharkiv_4_March_2022_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg/1280px-Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
         "height": 900,
         "kind": "photo",
         "pos": "center",
-        "alt": "Kharkiv after Russian shelling and bombardments. The emergency service clear the rubble which can hide people; sappers collect and defuse bombs.Inscription on the bomb: ФАБ-500 Н.",
-        "credit": "State Emergency Service of Ukraine / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Collecting_of_Russian_bombs_in_Kharkiv_4_March_2022_(01).jpg",
-        "exact": true,
-        "entity": "bomb disposal",
-        "vision_score": 9.0
+        "alt": "Unexploded WWII 500-pound incendiary bomb is being loaded on to a truck after it was defused by the unexploded bomb disposal unit of Japan Ground Self Defense Force (JGSDF), in Ariake, Kōtō-ku, Tokyo,",
+        "credit": "Kestrel / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Unexploded_Ordnance_Disposal_in_Ariake,_Tokyo,_on_June_5,_2019_P6059186.jpg",
+        "vision_score": 5.0
       },
       "inline_images": [],
       "sources": [
@@ -227,7 +225,7 @@
         "meta_title": "Összeolvadt bombák nehezítették a tűzszerészek dolgát az Üll",
         "meta_description": "Több mint kétszáz, a második világháborúból visszamaradt robbanótestet és lőszert mentesítettek a tűzszerészek egy XVIII. kerületi építkezésen. A háborús eszköz",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-osszeolvadt-bombak-nehezitettek-a-tuzszereszek-dolgat-az-ulloi-uton/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Collecting_of_Russian_bombs_in_Kharkiv_4_March_2022_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg/1280px-Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -259,7 +257,7 @@
       "pipeline_run_id": "41515214103",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T21:27:05+01:00",
-      "updated_at": "2026-11-02T21:27:05+01:00",
+      "updated_at": "2026-11-02T21:47:19+01:00",
       "published_at": "2026-11-02T21:27:05+01:00",
       "expires_at": null
     },
