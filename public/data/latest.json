@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3ba8e3ac-86ec-59e6-a454-33d6758a8060",
+      "slug": "2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f",
+      "url": "/kozelet/2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f/",
+      "title": "Bombával fenyegettek egy Wizz Air-gépet: magyar Gripenek kísérték le Ferihegyen",
+      "lead": "Bombafenyegetés érte hétfőn a Wizz Air Londonból Szófiába tartó utasszállító repülőgépét, amely a vészhelyzet miatt megszakította útját, és a budapesti Liszt Ferenc Nemzetközi Repülőtéren szállt le. Az eset során a Magyar Honvédség Gripen vadászgépei is a magasba emelkedtek, hogy kíséretükkel biztosítsák a gép épségét.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T13:38:13+01:00",
+      "published_at": "2026-11-02T13:38:13+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Wizz Air",
+        "bombafenyegetés",
+        "Magyar Honvédség",
+        "Gripen",
+        "Liszt Ferenc Nemzetközi Repülőtér"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/HA-LVD%40PEK_%2820200403093844%29.jpg/1280px-HA-LVD%40PEK_%2820200403093844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "WZZ932C from Nur-Sultan. The second Wizz today..."
+      }
+    },
+    {
       "id": "1501eda2-81ca-58f6-858b-122f032a3b59",
       "slug": "2026-11-02-otmillio-forintnyi-plakat-miatt-csapott-le-a-nav-egy-budapesti-alapit",
       "url": "/kozelet/2026-11-02-otmillio-forintnyi-plakat-miatt-csapott-le-a-nav-egy-budapesti-alapit/",
@@ -4400,33 +4430,7 @@
         "pos": "center",
         "alt": "Mairie de Trappes (Yvelines, France)"
       }
-    },
-    {
-      "id": "bb0fbcfd-46a8-53f8-b603-1d01d98e237f",
-      "slug": "2026-10-23-hetes-erossegu-foldrenges-tarolta-le-a-fagyos-tibeti-fennsikot",
-      "url": "/vilag/2026-10-23-hetes-erossegu-foldrenges-tarolta-le-a-fagyos-tibeti-fennsikot/",
-      "title": "Hetes erősségű földrengés tarolta le a fagyos tibeti fennsíkot",
-      "lead": "Legalább tizenhat ember életét vesztette és több száz lakóépület dőlt össze a délnyugat-kínai Tibetben történt, hetes magnitúdójú földrengésben. A fagyos időjárás és a csaknem ötezer méteres tengerszint feletti magasság komoly kihívás elé állítja a mentőket.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T12:00:26+02:00",
-      "published_at": "2026-10-23T12:00:26+02:00",
-      "reading_time_min": 2,
-      "hot_score": 8.74,
-      "tags": [
-        "földrengés",
-        "Tibet",
-        "Kína",
-        "természeti katasztrófa"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1792749759-0.jpg",
-        "kind": "photo",
-        "alt": "Hetes erősségű földrengés tarolta le a fagyos tibeti fennsíkot"
-      }
     }
   ],
-  "updated_at": "2026-11-02T13:15:39+01:00"
+  "updated_at": "2026-11-02T13:38:16+01:00"
 }

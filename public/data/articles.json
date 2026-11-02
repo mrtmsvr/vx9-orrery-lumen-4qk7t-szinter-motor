@@ -1,7 +1,157 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:15:35+01:00",
+  "updated_at": "2026-11-02T13:38:13+01:00",
   "articles": [
+    {
+      "id": "3ba8e3ac-86ec-59e6-a454-33d6758a8060",
+      "slug": "2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Wizz Air",
+        "bombafenyegetés",
+        "Magyar Honvédség",
+        "Gripen",
+        "Liszt Ferenc Nemzetközi Repülőtér"
+      ],
+      "title": "Bombával fenyegettek egy Wizz Air-gépet: magyar Gripenek kísérték le Ferihegyen",
+      "subtitle": null,
+      "lead": "Bombafenyegetés érte hétfőn a Wizz Air Londonból Szófiába tartó utasszállító repülőgépét, amely a vészhelyzet miatt megszakította útját, és a budapesti Liszt Ferenc Nemzetközi Repülőtéren szállt le. Az eset során a Magyar Honvédség Gripen vadászgépei is a magasba emelkedtek, hogy kíséretükkel biztosítsák a gép épségét.",
+      "key_points": [
+        "Bombafenyegetés miatt szakította meg útját a Wizz Air Londonból Szófiába tartó járata hétfőn.",
+        "A NATO légvédelmi készenléti szolgálata ALPHA-riasztást rendelt el az eset miatt.",
+        "A Magyar Honvédség Gripenjei perceken belül a levegőbe emelkedtek, és Ferihegyre kísérték az utasszállítót.",
+        "A földet érést követően a rendőrség vette át az intézkedést a budapesti repülőtéren."
+      ],
+      "content": "Hétfőn vészhelyzet alakult ki egy nemzetközi járat körül, miután bombafenyegetés érte a Wizz Air Londonból Szófiába tartó repülőgépét. A fenyegetés miatt a gép kénytelen volt megszakítani útját, és a budapesti Liszt Ferenc Nemzetközi Repülőtéren kért leszállási lehetőséget.\n\nA történtekre reagálva a NATO légvédelmi készenléti szolgálata ALPHA-riasztást rendelt el, aminek következtében a Magyar Honvédség Gripen vadászgépei perceken belül a levegőbe emelkedtek. Feladatuk az utasszállító budapesti kísérése és a leszállás biztosítása volt.\n\nRuszin-Szendi Romulusz honvédelmi miniszter a közösségi oldalán számolt be az akcióról, kiemelve a katonák gyors reagálását. A tárcavezető hangsúlyozta, hogy az ilyen jellegű készenlét komoly felelősség, amely bizonyítja a fegyveres erők azonnali bevethetőségét.\n\nMiután a Gripenek biztosították a sikeres leszállást, visszatértek a kecskeméti bázisra. A földet ért utasszállító ügyében a további szükséges intézkedéseket és vizsgálatokat a rendőrség vette át a repülőtéren.",
+      "content_format": "markdown",
+      "body": [
+        "Hétfőn vészhelyzet alakult ki egy nemzetközi járat körül, miután bombafenyegetés érte a Wizz Air Londonból Szófiába tartó repülőgépét. A fenyegetés miatt a gép kénytelen volt megszakítani útját, és a budapesti Liszt Ferenc Nemzetközi Repülőtéren kért leszállási lehetőséget.",
+        "A történtekre reagálva a NATO légvédelmi készenléti szolgálata ALPHA-riasztást rendelt el, aminek következtében a Magyar Honvédség Gripen vadászgépei perceken belül a levegőbe emelkedtek. Feladatuk az utasszállító budapesti kísérése és a leszállás biztosítása volt.",
+        "Ruszin-Szendi Romulusz honvédelmi miniszter a közösségi oldalán számolt be az akcióról, kiemelve a katonák gyors reagálását. A tárcavezető hangsúlyozta, hogy az ilyen jellegű készenlét komoly felelősség, amely bizonyítja a fegyveres erők azonnali bevethetőségét.",
+        "Miután a Gripenek biztosították a sikeres leszállást, visszatértek a kecskeméti bázisra. A földet ért utasszállító ügyében a további szükséges intézkedéseket és vizsgálatokat a rendőrség vette át a repülőtéren."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 177,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/HA-LVD%40PEK_%2820200403093844%29.jpg/1280px-HA-LVD%40PEK_%2820200403093844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "WZZ932C from Nur-Sultan. The second Wizz today...",
+        "credit": "N509FZ / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HA-LVD@PEK_(20200403093844).jpg",
+        "exact": true,
+        "entity": "Wizz Air",
+        "unverified": true
+      },
+      "inline_images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Hungarian_Air_Force_JAS_39_Gripen_at_RIAT_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Saab JAS 39 Gripen of the Hungarian Air Force at RIAT 2009",
+          "credit": "Nathan150 / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Air_Force_JAS_39_Gripen_at_RIAT_2009.jpg",
+          "vision_score": 10.0,
+          "after": 1,
+          "caption": "A Magyar Honvédség Gripen vadászgépe"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://telex.hu/belfold/2026/11/02/honvedseg-legiero-bomba-fenyegetes-ruszin-szendi-romulusz",
+          "title": "Bombafenyegetést kapott egy Szófiába tartó utasszállító, magyar Gripenek kísérték Ferihegyre",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-02T13:35:54+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261102_bombafenyegetes-utasszallito-repulo-wizz-air-magyar-gripen-ruszin-szendi-romulusz",
+          "title": "Bombafenyegetést kapott a Londonból Szófiába tartó Wizz Air-járat, magyar Gripen biztosította a leszállását Budapesten",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-02T13:35:54+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A készenlét nem rutin, hanem felelősség. Katonáink ismét bizonyították, hogy szükség esetén azonnal bevethetők, és képesek garantálni Magyarország légterének biztonságát",
+        "who": "Ruszin-Szendi Romulusz honvédelmi miniszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-02T13:38:13+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://telex.hu/belfold/2026/11/02/honvedseg-legiero-bomba-fenyegetes-ruszin-szendi-romulusz",
+          "https://hvg.hu/itthon/20261102_bombafenyegetes-utasszallito-repulo-wizz-air-magyar-gripen-ruszin-szendi-romulusz"
+        ]
+      },
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "url": "/kozelet/2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f/",
+      "seo": {
+        "meta_title": "Bombával fenyegettek egy Wizz Air-gépet: magyar Gripenek kís",
+        "meta_description": "Bombafenyegetés érte hétfőn a Wizz Air Londonból Szófiába tartó utasszállító repülőgépét, amely a vészhelyzet miatt megszakította útját, és a budapesti Liszt Fe",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-bombaval-fenyegettek-egy-wizz-air-gepet-magyar-gripenek-kisertek-le-f/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/HA-LVD%40PEK_%2820200403093844%29.jpg/1280px-HA-LVD%40PEK_%2820200403093844%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "883d6e8b-b6e0-5187-aab2-f1aab64763c5",
+        "27173e44-bcf6-5553-a6d2-1c19e1b9591b",
+        "bbdcf82e-f0cd-51e8-a6ca-645f14a992e2"
+      ],
+      "see_also": [
+        {
+          "title": "Bombafenyegetés miatt szakította meg útját Szófiában az Austrian Airlines gépe",
+          "url": "/vilag/2026-10-19-bombafenyegetes-miatt-szakitotta-meg-utjat-szofiaban-az-austrian-airl/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "A papírok szerint bele sem szólt, mégis hatalmas összegeket égettek el a volt vezérkari főnök villáján",
+          "url": "/kozelet/2026-10-26-felkesznek-hittek-megis-640-milliobol-fejeztek-be-ruszin-szendi-szolg/",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ruszin-Szendi elszámoltatná Orbánt az aranykonvoj miatt",
+          "url": "/kozelet/2026-10-09-ruszin-szendi-elszamoltatna-orbant-az-aranykonvoj-miatt/",
+          "date": "2026-10-09"
+        }
+      ],
+      "thread_id": "883d6e8b-b6e0-5187-aab2-f1aab64763c5",
+      "dedupe_hash": "819dd290eac6527d341f8127b08139adc745a223ff22582515d11c7b6ce1cbd6",
+      "pipeline_run_id": "41441824480",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-02T13:38:13+01:00",
+      "updated_at": "2026-11-02T13:38:13+01:00",
+      "published_at": "2026-11-02T13:38:13+01:00",
+      "expires_at": null
+    },
     {
       "id": "1501eda2-81ca-58f6-858b-122f032a3b59",
       "slug": "2026-11-02-otmillio-forintnyi-plakat-miatt-csapott-le-a-nav-egy-budapesti-alapit",
@@ -70736,120 +70886,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Tennessee_state_capitol_2009.jpg/1280px-Tennessee_state_capitol_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Tennessee_State_Capitol_2009.jpg/1280px-Tennessee_State_Capitol_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "6a195a98-430d-5242-8ba2-657482337428",
-      "slug": "2026-10-07-az-uzemanyag-dragult-de-a-bevasarlas-vegre-olcsobb-lett",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "infláció",
-        "élelmiszerár",
-        "KSH",
-        "gazdaság",
-        "üzemanyag"
-      ],
-      "title": "Az üzemanyag drágult, de a bevásárlás végre olcsóbb lett",
-      "subtitle": null,
-      "lead": "Szeptemberben az általános infláció minimális mértékben emelkedett, az élelmiszerek ára azonban tovább csökkent Magyarországon. A drágulás mögött elsősorban a járműüzemanyagok drasztikus drágulása áll.",
-      "key_points": [
-        "Az éves infláció mértéke 1,6 százalék volt idén szeptemberben a Központi Statisztikai Hivatal adatai szerint.",
-        "Az élelmiszerek ára egy év alatt 1,3 százalékkal csökkent, ami szembemegy az általános drágulási trenddel.",
-        "A havi áremelkedést szinte egyedül a járműüzemanyagok havi 5,9 százalékos drágulása hajtotta fel."
-      ],
-      "content": "Szeptemberben a fogyasztói árak átlagosan 1,6 százalékkal haladták meg az egy évvel korábbi szintet a Központi Statisztikai Hivatal friss gyorsjelentése szerint. Az augusztusi 1,3 százalékos mutató után ez kismértékű gyorsulást jelent, ám az adat továbbra is elmarad a Magyar Nemzeti Bank által elvárt inflációs céltól.\n\nAz általános drágulási hullámmal ellentétes irányt mutattak az élelmiszerek, amelyek ára tovább esett az országban. Virovácz Péter, az ING Bank elemzője rámutatott, hogy az inflációs mutató havi 0,2 százalékos emelkedéséért szinte kizárólag a járműüzemanyagok tehetők felelőssé, amelyek egy hónap leforgása alatt 5,9 százalékkal drágultak. Ez a tétel önmagában 0,4 százalékkal növelte a havi indexet, ami azt jelenti, hogy az üzemanyagon kívül minden más termékcsoport összességében olcsóbbá vált.\n\nA háztartási energia terén is akadtak kedvező hírek: a vezetékes gázért 11,0 százalékkal kellett kevesebbet fizetni. Ezzel szemben a szolgáltatások ára éves szinten 4,9 százalékkal emelkedett, ezen belül a színházi jegyek 17,6 százalékkal, a teherszállítás pedig 14,9 százalékkal drágult.\n\nA kedvező élelmiszerár-alakulás nyomán a közelmúltban már politikai és szakmai szinten is felmerült az árrésstop esetleges kivezetésének kérdése. Az Országos Kereskedelmi Szövetség álláspontja szerint egy ilyen intézkedés nem okozna komoly árugrást, ráadásul lehetőséget adna a kereskedelmi láncoknak arra, hogy ismét élesebb árengedményes akciókkal versenyezzenek egymással.",
-      "content_format": "markdown",
-      "body": [
-        "Szeptemberben a fogyasztói árak átlagosan 1,6 százalékkal haladták meg az egy évvel korábbi szintet a Központi Statisztikai Hivatal friss gyorsjelentése szerint. Az augusztusi 1,3 százalékos mutató után ez kismértékű gyorsulást jelent, ám az adat továbbra is elmarad a Magyar Nemzeti Bank által elvárt inflációs céltól.",
-        "Az általános drágulási hullámmal ellentétes irányt mutattak az élelmiszerek, amelyek ára tovább esett az országban. Virovácz Péter, az ING Bank elemzője rámutatott, hogy az inflációs mutató havi 0,2 százalékos emelkedéséért szinte kizárólag a járműüzemanyagok tehetők felelőssé, amelyek egy hónap leforgása alatt 5,9 százalékkal drágultak. Ez a tétel önmagában 0,4 százalékkal növelte a havi indexet, ami azt jelenti, hogy az üzemanyagon kívül minden más termékcsoport összességében olcsóbbá vált.",
-        "A háztartási energia terén is akadtak kedvező hírek: a vezetékes gázért 11,0 százalékkal kellett kevesebbet fizetni. Ezzel szemben a szolgáltatások ára éves szinten 4,9 százalékkal emelkedett, ezen belül a színházi jegyek 17,6 százalékkal, a teherszállítás pedig 14,9 százalékkal drágult.",
-        "A kedvező élelmiszerár-alakulás nyomán a közelmúltban már politikai és szakmai szinten is felmerült az árrésstop esetleges kivezetésének kérdése. Az Országos Kereskedelmi Szövetség álláspontja szerint egy ilyen intézkedés nem okozna komoly árugrást, ráadásul lehetőséget adna a kereskedelmi láncoknak arra, hogy ismét élesebb árengedményes akciókkal versenyezzenek egymással."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 229,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shell_petrol_station_-_Budapest%2C_K%C3%A1lv%C3%A1ria_t%C3%A9r.jpg/1280px-Shell_petrol_station_-_Budapest%2C_K%C3%A1lv%C3%A1ria_t%C3%A9r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 740,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Shell benzinkút a budapesti Kálvária téren",
-        "credit": "Sir Morosus / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Shell_petrol_station_-_Budapest,_K%C3%A1lv%C3%A1ria_t%C3%A9r.jpg",
-        "vision_score": 9.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://telex.hu/gazdasag/2026/10/07/inflacio-szeptember-csokkent-az-elelmiszerek-ra",
-          "title": "Tovább csökkent az élelmiszerek ára Magyarországon",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-07T12:50:41+02:00"
-        },
-        {
-          "url": "https://www.portfolio.hu/bank/20261007/teljesen-kiszall-a-holland-allam-az-egykor-magyarorszagot-is-megjart-bankbol-867984",
-          "title": "Teljesen kiszáll a holland állam az egykor Magyarországot is megjárt bankból?",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-07T12:50:41+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/inflacio-fogyasztoi-ar-kedvezo-adat-ksh-2026-augusztus?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Ezt az elemzők sem várták, mindenkit megleptek az inflációs adatok: ekkora volt a drágulás Magyarországon",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-07T12:50:41+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-07T12:53:02+02:00"
-      },
-      "hot_score": 7.15,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/gazdasag/2026/10/07/inflacio-szeptember-csokkent-az-elelmiszerek-ra"
-        ]
-      },
-      "date": "2026-10-07",
-      "date_label": "október 7.",
-      "url": "/penzvilag/2026-10-07-az-uzemanyag-dragult-de-a-bevasarlas-vegre-olcsobb-lett/",
-      "seo": {
-        "meta_title": "Az üzemanyag drágult, de a bevásárlás végre olcsóbb lett",
-        "meta_description": "Szeptemberben az általános infláció minimális mértékben emelkedett, az élelmiszerek ára azonban tovább csökkent Magyarországon. A drágulás mögött elsősorban a j",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-07-az-uzemanyag-dragult-de-a-bevasarlas-vegre-olcsobb-lett/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shell_petrol_station_-_Budapest%2C_K%C3%A1lv%C3%A1ria_t%C3%A9r.jpg/1280px-Shell_petrol_station_-_Budapest%2C_K%C3%A1lv%C3%A1ria_t%C3%A9r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "eaa0e75af529f78fc3084ce9f2864926f4eaad618596b76cc2f3770a93d83c6b",
-      "pipeline_run_id": "37606401534",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-07T12:53:02+02:00",
-      "updated_at": "2026-10-07T12:53:02+02:00",
-      "published_at": "2026-10-07T12:53:02+02:00",
-      "expires_at": null
     }
   ]
 }
