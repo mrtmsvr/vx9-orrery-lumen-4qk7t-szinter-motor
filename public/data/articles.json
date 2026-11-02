@@ -37,16 +37,15 @@
       "word_count": 213,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/National_Media_and_Infocommunications_Authority%2C_B%C5%B1v%C3%B6sv%C3%B6lgy_training_center%2C_2017_Budapest.jpg/1280px-National_Media_and_Infocommunications_Authority%2C_B%C5%B1v%C3%B6sv%C3%B6lgy_training_center%2C_2017_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Building_of_%22nmhh%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "width": 1200,
-        "height": 900,
+        "height": 800,
         "kind": "photo",
         "pos": "center",
-        "alt": ": National Media and Infocommunications Authority Training center. - 95 Hűvösvölgyi út, Pasarét neighbourhood, Budapest District II.",
-        "credit": "Globetrotter19 / Wikimedia Commons",
+        "alt": "Building of \"nmhh\"",
+        "credit": "NMHH / Wikimedia Commons",
         "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:National_Media_and_Infocommunications_Authority,_B%C5%B1v%C3%B6sv%C3%B6lgy_training_center,_2017_Budapest.jpg",
-        "vision_score": 7.0
+        "source_url": "https://commons.wikimedia.org/wiki/File:Building_of_%22nmhh%22.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -107,7 +106,7 @@
       "pipeline_run_id": "41490196919",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T18:51:02+01:00",
-      "updated_at": "2026-11-02T18:51:02+01:00",
+      "updated_at": "2026-11-02T17:59:13+00:00",
       "published_at": "2026-11-02T18:51:02+01:00",
       "expires_at": null
     },
