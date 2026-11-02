@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a4475d02-ca13-5227-899b-0e34438b6b6a",
+      "slug": "2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler",
+      "url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
+      "title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Operaház éléről",
+      "lead": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter november 2-i hatállyal megszüntette Ókovács Szilveszter főigazgatói munkaviszonyát a Magyar Állami Operaházban. A menesztés hátterében egy átvilágítás során feltárt súlyos pénzügyi és működési szabálytalanságok állnak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T17:57:08+01:00",
+      "published_at": "2026-11-02T17:57:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.87,
+      "tags": [
+        "Ókovács Szilveszter",
+        "Magyar Állami Operaház",
+        "Tarr Zoltán",
+        "Nagy Ervin",
+        "kultúra"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Okovacs_03.JPG/1280px-Okovacs_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1806,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Szilveszter Ókovács, director of the Hungarian state Opera."
+      }
+    },
+    {
       "id": "892e8a17-14f7-523e-834e-c8c865be7d75",
       "slug": "2026-11-02-sonnevend-pal-veszi-at-az-alkotmanybirosag-iranyitasat",
       "url": "/kozelet/2026-11-02-sonnevend-pal-veszi-at-az-alkotmanybirosag-iranyitasat/",
@@ -4385,37 +4415,7 @@
         "pos": "center",
         "alt": "London : Tower Hamlets - HSBC &amp; Fitch Ratings"
       }
-    },
-    {
-      "id": "e2b4d000-6b43-5afa-8202-656c58a86ef7",
-      "slug": "2026-10-23-dr-mate-gabor-rendszervaltozas-meg-nem-tortent-magyarorszagon",
-      "url": "/kultura/2026-10-23-dr-mate-gabor-rendszervaltozas-meg-nem-tortent-magyarorszagon/",
-      "title": "Dr. Máté Gábor: Rendszerváltozás még nem történt Magyarországon",
-      "lead": "Az 1956-os forradalom gyerekkori emlékeiről és a kollektív magyar traumákról beszélt Dr. Máté Gábor orvos-addiktológus a Partizán videójában. A beszélgetésben szó esett a szabadságvágyról és a jelenlegi társadalmi légkörről is.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T15:37:15+02:00",
-      "published_at": "2026-10-23T15:37:15+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Dr. Máté Gábor",
-        "1956",
-        "Partizán",
-        "interjú",
-        "történelem"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Gabor_Mat%C3%A9_-_01_%28cropped%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1344,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Gabor Maté"
-      }
     }
   ],
-  "updated_at": "2026-11-02T17:23:17+01:00"
+  "updated_at": "2026-11-02T17:57:11+01:00"
 }
