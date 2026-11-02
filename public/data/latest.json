@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "b987b3e3-4f39-5962-8f14-fcbf8cf55f6e",
+      "slug": "2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt",
+      "url": "/vilag/2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt/",
+      "title": "Női államfőt választott Bulgária: Iliana Jotova nyerte az elnökválasztást",
+      "lead": "Az elnökválasztás második fordulóját az eddigi ideiglenes államfő, Iliana Jotova nyerte Bulgáriában, így ő lett az ország első megválasztott női államfője. A szavazatok 99,95 százalékos feldolgozottságánál a voksok 57,58 százalékát szerezte meg.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T12:43:13+01:00",
+      "published_at": "2026-11-02T12:43:13+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.05,
+      "tags": [
+        "Bulgária",
+        "elnökválasztás",
+        "Iliana Jotova",
+        "külföld"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/President_Iliana_Iotova_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1601,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Presidential portrait of President Iliyana Yotova"
+      }
+    },
+    {
       "id": "73127a86-73f1-5c1e-a668-99ab8cf87d8c",
       "slug": "2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi",
       "url": "/kozelet/2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi/",
@@ -4394,37 +4423,7 @@
         "kind": "photo",
         "alt": "Párizsból üzent 1956-nak Velkey György László"
       }
-    },
-    {
-      "id": "f6a4e343-5aa3-5329-937d-c14343b6f729",
-      "slug": "2026-10-23-kilencszazalekos-dragulas-jon-betaraztak-a-magyar-dohanyboltok",
-      "url": "/kozelet/2026-10-23-kilencszazalekos-dragulas-jon-betaraztak-a-magyar-dohanyboltok/",
-      "title": "Kilencszázalékos drágulás jön: betáraztak a magyar dohányboltok",
-      "lead": "November elején jelentősen emelkedik a dohánytermékek jövedéki adója, ami miatt a trafikok már most felhalmozták készleteiket. A várt áremelkedés termékkategóriánként eltérő mértékű lesz.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T11:20:19+02:00",
-      "published_at": "2026-10-23T11:20:19+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.26,
-      "tags": [
-        "dohánytermékek",
-        "jövedéki adó",
-        "áremelkedés",
-        "trafik",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Cigaret-5.jpg/1280px-Cigaret-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "L&amp;M cigarette."
-      }
     }
   ],
-  "updated_at": "2026-11-02T12:41:42+01:00"
+  "updated_at": "2026-11-02T12:43:15+01:00"
 }
