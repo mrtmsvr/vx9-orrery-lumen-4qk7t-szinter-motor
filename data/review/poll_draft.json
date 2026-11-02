@@ -1,35 +1,35 @@
 {
-  "id": "6500a0292f",
-  "date": "2026-11-01",
-  "status": "skipped",
-  "article_url": "/kozelet/2026-10-31-nulla-forint-propagandara-es-51-milliardos-vita-benyujtottak-a-2027-e/",
-  "article_title": "Nulla forint propagandára és 51 milliárdos vita: benyújtották a 2027-es büdzsét",
-  "category": "kozelet",
+  "id": "a81004069e",
+  "date": "2026-11-02",
+  "status": "pending",
+  "article_url": "/vilag/2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban/",
+  "article_title": "Donald Tusk lapot húzott: kizárta a kompromisszumot Varsóban",
+  "category": "vilag",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés a támogatások teljes megvonása a propagandától?",
+      "question": "Ön szerint helyes döntés volt Donald Tusk részéről a kompromisszum kizárása?",
       "options": [
-        "Igen, teljes egészében el kell törölni",
-        "Nem, szükség van állami kommunikációra",
+        "Igen, a jogállamiság terén nincs helye alkuak.",
+        "Nem, a politikai konszenzus fontosabb lenne.",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mennyire tartja elfogadhatónak a 2027-es költségvetés tervezetét a közszféra átrendezéséről?",
+      "question": "Hogyan értékeli a lengyel miniszterelnök határozott fellépését az alkotmánybírósági válságban?",
       "options": [
-        "Teljes mértékben elfogadhatónak tartom",
-        "Egyáltalán nem tartom elfogadhatónak",
+        "Szükséges lépés az intézmények védelmében.",
+        "Káros lépés, amely tovább mélyíti a válságot.",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a kormány gazdaságpolitikai irányvonalát a most benyújtott büdzsé alapján?",
+      "question": "Vezethet-e eredményre a keményvonalas politikai stratégia Lengyelországban?",
       "options": [
-        "Jó irányba viszi az országot",
-        "Hibás irányba viszi az országot",
+        "Igen, érdemes következetesen kitpni az elvek mellett.",
+        "Nem, ez csak fokozza a belső feszültségeket.",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9718
+  "msg_id": 9756
 }
