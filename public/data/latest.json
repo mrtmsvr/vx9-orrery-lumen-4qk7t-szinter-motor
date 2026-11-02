@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f983d7db-9679-5855-8a91-37be1c73af89",
+      "slug": "2026-11-02-ket-igazgatosagot-torolt-el-es-csucsvezetoket-cserelt-az-nmhh",
+      "url": "/kozelet/2026-11-02-ket-igazgatosagot-torolt-el-es-csucsvezetoket-cserelt-az-nmhh/",
+      "title": "Két igazgatóságot törölt el és csúcsvezetőket cserélt az NMHH",
+      "lead": "Megszűnt a Nemzeti Média- és Hírközlési Hatóság két igazgatósága, a személyi változásokkal és a létszámcsökkentéssel pedig jelentős összeget takarít meg a szervezet. A döntések hátterében a feladatok átfedéseinek megszüntetése és a hatékonyabb működés elve áll.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T18:51:02+01:00",
+      "published_at": "2026-11-02T18:51:02+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.34,
+      "tags": [
+        "NMHH",
+        "média",
+        "hatóság",
+        "szervezeti átalakítás",
+        "közpénz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/National_Media_and_Infocommunications_Authority%2C_B%C5%B1v%C3%B6sv%C3%B6lgy_training_center%2C_2017_Budapest.jpg/1280px-National_Media_and_Infocommunications_Authority%2C_B%C5%B1v%C3%B6sv%C3%B6lgy_training_center%2C_2017_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": National Media and Infocommunications Authority Training center. - 95 Hűvösvölgyi út, Pasarét neighbourhood, Budapest District II."
+      }
+    },
+    {
       "id": "a4475d02-ca13-5227-899b-0e34438b6b6a",
       "slug": "2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler",
       "url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
@@ -4385,37 +4415,7 @@
         "pos": "center",
         "alt": "190107-N-AT530-0085 CONSTANTA, ROMANIA (Jan. 7, 2019) – The Whidbey Island-class amphibious dock landing ship USS Fort McHenry (LSD 43) pulls into Constanta, Romania, for a scheduled port visit, Jan."
       }
-    },
-    {
-      "id": "c9c997b0-6790-546f-b547-692bb7f74380",
-      "slug": "2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet",
-      "url": "/kozelet/2026-10-23-a-fitch-szerint-a-kormany-terveivel-ellentetben-magasabb-hiany-johet/",
-      "title": "A Fitch szerint a kormány terveivel ellentétben magasabb hiány jöhet",
-      "lead": "A Fitch Ratings friss előrejelzése szerint Magyarország 2027-es költségvetési tervei összhangban vannak az euró 2030-as bevezetésének céljával, ám a hitelminősítő a kormánynál magasabb hiánnyal számol.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T15:46:21+02:00",
-      "published_at": "2026-10-23T15:46:21+02:00",
-      "reading_time_min": 2,
-      "hot_score": 12.67,
-      "tags": [
-        "Fitch Ratings",
-        "költségvetés",
-        "gazdaság",
-        "államadósság",
-        "euró"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg/1280px-London_%2C_Tower_Hamlets_-_HSBC_%5E_Fitch_Ratings_-_geograph.org.uk_-_7539089.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "London : Tower Hamlets - HSBC &amp; Fitch Ratings"
-      }
     }
   ],
-  "updated_at": "2026-11-02T17:59:01+01:00"
+  "updated_at": "2026-11-02T18:51:04+01:00"
 }
