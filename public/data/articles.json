@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:27:05+01:00",
+  "updated_at": "2026-11-02T21:45:29+01:00",
   "articles": [
     {
       "id": "5696ba56-1a7e-5065-ad9a-5a0cefc9a25a",
@@ -299,18 +299,18 @@
       "word_count": 394,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Okovacs_03.JPG/1280px-Okovacs_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hungarian_State_Opera_House_in_Budapest.jpg/1280px-Hungarian_State_Opera_House_in_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1806,
+        "height": 900,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Szilveszter Ókovács, director of the Hungarian state Opera.",
-        "credit": "ChrisPsi / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Okovacs_03.JPG",
+        "pos": "center",
+        "alt": "Hungarian State Opera House in Budapest",
+        "credit": "Jeremy Oakley / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_State_Opera_House_in_Budapest.jpg",
         "exact": true,
-        "entity": "Ókovács Szilveszter",
-        "vision_score": 13.0
+        "entity": "Hungarian State Opera House",
+        "vision_score": 9.0
       },
       "inline_images": [],
       "sources": [
@@ -373,7 +373,7 @@
         "meta_title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Oper",
         "meta_description": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter november 2-i hatállyal megszüntette Ókovács Szilveszter főigazgatói munkaviszonyát a Magya",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Okovacs_03.JPG/1280px-Okovacs_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hungarian_State_Opera_House_in_Budapest.jpg/1280px-Hungarian_State_Opera_House_in_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -411,7 +411,7 @@
       "pipeline_run_id": "41483084564",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-02T17:57:08+01:00",
-      "updated_at": "2026-11-02T17:57:08+01:00",
+      "updated_at": "2026-11-02T21:45:29+01:00",
       "published_at": "2026-11-02T17:57:08+01:00",
       "expires_at": null
     },
