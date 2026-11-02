@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3188b85d-47aa-54fb-97fb-9b6058fb71ab",
+      "slug": "2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe",
+      "url": "/kozelet/2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe/",
+      "title": "Megállapodás: Fejes Péter lesz a Tisza embere a legfőbb ügyészi székben",
+      "lead": "A TISZA-frakció támogatja dr. Fejes Péter legfőbb ügyésszé választását, miután a parlament korábban elutasította a köztársasági elnök első jelöltjét. A döntéssel elhárul annak a veszélye, hogy vezető nélkül maradjon a vádhatóság.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T11:48:18+01:00",
+      "published_at": "2026-11-02T11:48:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 16.25,
+      "tags": [
+        "legfőbb ügyész",
+        "TISZA-frakció",
+        "Magyar Péter",
+        "Baka András",
+        "Fejes Péter"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/1280px-Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 732,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Parliament building, Budapest"
+      }
+    },
+    {
       "id": "3de22931-56a8-5968-81e8-506682be9c8d",
       "slug": "2026-11-02-kilenc-eve-porosodik-a-fiokban-az-isztambuli-egyezmeny",
       "url": "/kozelet/2026-11-02-kilenc-eve-porosodik-a-fiokban-az-isztambuli-egyezmeny/",
@@ -4392,36 +4422,7 @@
         "alt": "Térkép: Kossuth Lajos tér",
         "card": "map"
       }
-    },
-    {
-      "id": "79deff2d-a47f-53e8-9ebc-3c883b9ec758",
-      "slug": "2026-10-23-uj-embert-ultetett-a-miniszteriumba-a-kormany-menesztettek-kives-zolt",
-      "url": "/kozelet/2026-10-23-uj-embert-ultetett-a-miniszteriumba-a-kormany-menesztettek-kives-zolt/",
-      "title": "Új embert ültetett a minisztériumba a kormány: menesztették Kivés Zoltánt",
-      "lead": "A Vidék- és Településfejlesztési Minisztérium javaslatára – Magyar Péter miniszterelnök jóváhagyásával – november 1-jei hatállyal felmentette tisztségéből Kivés Zoltán helyettes államtitkárt. A pozíciót november 2-től a korábban a Pénzügyminisztériumban dolgozó Peresztegi Gergely veszi át.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T08:51:06+02:00",
-      "published_at": "2026-10-23T08:51:06+02:00",
-      "reading_time_min": 2,
-      "hot_score": 13.98,
-      "tags": [
-        "Magyar Péter",
-        "kormányzat",
-        "személycsere",
-        "Vidék- és Településfejlesztési Minisztérium"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/INGHouse1.jpg/1280px-INGHouse1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ""
-      }
     }
   ],
-  "updated_at": "2026-11-02T10:25:58+01:00"
+  "updated_at": "2026-11-02T11:48:20+01:00"
 }
