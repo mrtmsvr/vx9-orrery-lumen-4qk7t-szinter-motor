@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1501eda2-81ca-58f6-858b-122f032a3b59",
+      "slug": "2026-11-02-otmillio-forintnyi-plakat-miatt-csapott-le-a-nav-egy-budapesti-alapit",
+      "url": "/kozelet/2026-11-02-otmillio-forintnyi-plakat-miatt-csapott-le-a-nav-egy-budapesti-alapit/",
+      "title": "Ötmillió forintnyi plakát miatt csapott le a NAV egy budapesti alapítványra",
+      "lead": "Költségvetési csalás gyanúja miatt tartott házkutatásokat a Nemzeti Adó- és Vámhivatal egy budapesti alapítványnál, amely a gyanú szerint a kapott támogatást a megadott céltól eltérően kampányanyagi kiadásokra fordította. Az adóhatóság pénzügyi nyomozói öt helyszínen hajtottak végre bizonyítékszerzési cselekményeket az ügyben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T13:15:35+01:00",
+      "published_at": "2026-11-02T13:15:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "NAV",
+        "Budapest",
+        "költségvetési csalás",
+        "önkormányzati választás",
+        "pénzügyi nyomozás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Wenckheim_Palace%2C_IMG_0168_-_Hungary%2C_Pest.jpg/1280px-Wenckheim_Palace%2C_IMG_0168_-_Hungary%2C_Pest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 877,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Szabó Ervin tér és a Wenckheim-palota Budapest, Magyarország"
+      }
+    },
+    {
       "id": "354ac0c1-1592-51e0-a9a2-d2cec66fc385",
       "slug": "2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum",
       "url": "/vilag/2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum/",
@@ -4396,37 +4426,7 @@
         "kind": "photo",
         "alt": "Hetes erősségű földrengés tarolta le a fagyos tibeti fennsíkot"
       }
-    },
-    {
-      "id": "0fc30b0f-f935-566a-b6bf-3b71c1f42a86",
-      "slug": "2026-10-23-ujabb-roman-legitarsasag-dolt-be-hirtelen",
-      "url": "/vilag/2026-10-23-ujabb-roman-legitarsasag-dolt-be-hirtelen/",
-      "title": "Újabb román légitársaság dőlt be hirtelen",
-      "lead": "A fizetésképtelenné nyilvánítását kezdeményezte az Ilfov megyei törvényszéken a Dan Air nevű román légitársaság. A cégvezetés állítása szerint a lépés megelőző jellegű, amellyel a járatok zavartalan fenntartását próbálják biztosítani.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T11:42:56+02:00",
-      "published_at": "2026-10-23T11:42:56+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Dan Air",
-        "légitársaság",
-        "Románia",
-        "fizetésképtelenség",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Henri-coanda-airport-otopeni-bucharest-romania-terminal-march-2013.jpg/1280px-Henri-coanda-airport-otopeni-bucharest-romania-terminal-march-2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Henri Coanda International Airport, March 2013"
-      }
     }
   ],
-  "updated_at": "2026-11-02T12:49:45+01:00"
+  "updated_at": "2026-11-02T13:15:39+01:00"
 }
