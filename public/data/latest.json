@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "517b314a-3b40-504e-99ae-63af5badf413",
+      "slug": "2026-11-02-szazezrek-maradtak-villany-nelkul-a-hetvegi-ukrajnai-bombazasok-utan",
+      "url": "/vilag/2026-11-02-szazezrek-maradtak-villany-nelkul-a-hetvegi-ukrajnai-bombazasok-utan/",
+      "title": "Százezrek maradtak villany nélkül a hétvégi ukrajnai bombázások után",
+      "lead": "Oroszország négy ukrán régióban támadta az áramellátó infrastruktúrát, aminek következtében több százezer ember maradt áram nélkül vasárnap. Volodimir Zelenszkij ukrán elnök közlése szerint Moszkva a ballisztikus rakéták elleni védelmi rendszerek hiányát próbálja maximálisan kihasználni.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T06:04:56+01:00",
+      "published_at": "2026-11-02T06:04:56+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.08,
+      "tags": [
+        "Ukrajna",
+        "Oroszország",
+        "légitámadás",
+        "Volodimir Zelenszkij",
+        "energetika"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/3ba0520fb51727f0.jpg",
+        "width": 6600,
+        "height": 4826,
+        "kind": "photo",
+        "alt": "blackout, lightbulb, power supply, nuclear power plant, nuclear power, energy, failure, deficiency, crisis, energy crisis, energy saving, energy transition, electricity, light, blackout, blackout, bla"
+      }
+    },
+    {
       "id": "ba2c3172-9402-5190-9826-274fd049bdf3",
       "slug": "2026-11-01-lakobuszbol-valyoghaz-igy-cserelte-fel-a-fovarost-nogradra-egy-tervez",
       "url": "/eletmod/2026-11-01-lakobuszbol-valyoghaz-igy-cserelte-fel-a-fovarost-nogradra-egy-tervez/",
@@ -4392,37 +4421,7 @@
         "pos": "center",
         "alt": "The produce area inside an Ingles supermarket in Murphy, N.C."
       }
-    },
-    {
-      "id": "c52d9edb-9642-5c09-a51e-2e8f4fea0c67",
-      "slug": "2026-10-23-ketszazharminc-uj-munkahelyet-hoz-az-ismeretlen-pecsi-beruhazo",
-      "url": "/kozelet/2026-10-23-ketszazharminc-uj-munkahelyet-hoz-az-ismeretlen-pecsi-beruhazo/",
-      "title": "Titokzatos nemzetközi óriáscég költözik egy pécsi irodaházba",
-      "lead": "Nemzetközi üzleti szolgáltató központ nyílik Pécsen, amely első körben 230 magasan képzett szakembernek kínál munkát. A beruházás azért is kiemelten fontos, mert az országos gazdasági adatok szerint az utóbbi időben érezhetően visszaesett a fejlesztési kedv.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T06:58:48+02:00",
-      "published_at": "2026-10-23T06:58:48+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.65,
-      "tags": [
-        "Pécs",
-        "beruházás",
-        "munkahelyteremtés",
-        "gazdaság",
-        "önkormányzat"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/P%C3%A9cs_%28145%29.jpg/1280px-P%C3%A9cs_%28145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Pécs, Central Europe."
-      }
     }
   ],
-  "updated_at": "2026-11-02T00:59:39+01:00"
+  "updated_at": "2026-11-02T06:04:58+01:00"
 }
