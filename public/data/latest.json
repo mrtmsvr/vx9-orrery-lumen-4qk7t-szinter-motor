@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "354ac0c1-1592-51e0-a9a2-d2cec66fc385",
+      "slug": "2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum",
+      "url": "/vilag/2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum/",
+      "title": "Nem bírták a matekot: Tízmilliárdos hiány miatt adta vissza a mandátumát a belga kormányfő",
+      "lead": "Benyújtotta lemondását Bart De Wever belga miniszterelnök Fülöp királynak, miután a kormánykabinet nem tudott megállapodni a 2027-es szövetségi költségvetésről. A mélyülő pénzügyi válság hátterében a 735 milliárd eurót meghaladó belga államadósság és a tízmilliárd eurós hiány csökkentése körüli viták állnak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-02",
+      "date_label": "november 2.",
+      "created_at": "2026-11-02T12:49:42+01:00",
+      "published_at": "2026-11-02T12:49:42+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Belgium",
+        "költségvetés",
+        "államadósság",
+        "Európai Unió",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Visit_of_King_Philippe_I_of_Belgium_to_Ghent_European_Youth_Capital_on_25_April_2024_-_EU2024BE_240425_Visit_of_His_Majesty_the_King_to_Ghent_European_Youth_Capital_Ghent_JNZT_0078_%2853677952391%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1605,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
+      }
+    },
+    {
       "id": "b987b3e3-4f39-5962-8f14-fcbf8cf55f6e",
       "slug": "2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt",
       "url": "/vilag/2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt/",
@@ -4396,34 +4426,7 @@
         "pos": "center",
         "alt": "Henri Coanda International Airport, March 2013"
       }
-    },
-    {
-      "id": "8d8e9134-54ba-54f8-8753-7ffdf83d2f41",
-      "slug": "2026-10-23-parizsi-megemlekezessel-tisztelegtunk-az-1956-os-hosok-elott",
-      "url": "/kozelet/2026-10-23-parizsi-megemlekezessel-tisztelegtunk-az-1956-os-hosok-elott/",
-      "title": "A szabadság hőseire emlékezett Párizsban a külügyminisztérium államtitkára",
-      "lead": "Párizsban emlékezett meg az 1956-os forradalom hőseiről Velkey György László, a külügyminisztérium parlamenti államtitkára a napokban. Egy Franciaországban élő egykori felkelő történetén keresztül idézték fel a pesti eseményeket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T11:22:46+02:00",
-      "published_at": "2026-10-23T11:22:46+02:00",
-      "reading_time_min": 1,
-      "hot_score": 5.85,
-      "tags": [
-        "1956",
-        "Párizs",
-        "Velkey György László",
-        "megemlékezés",
-        "történelem"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792747318-0.jpg",
-        "kind": "photo",
-        "alt": "Párizsból üzent 1956-nak Velkey György László"
-      }
     }
   ],
-  "updated_at": "2026-11-02T12:43:15+01:00"
+  "updated_at": "2026-11-02T12:49:45+01:00"
 }
