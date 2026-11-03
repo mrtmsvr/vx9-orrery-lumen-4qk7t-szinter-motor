@@ -9258,7 +9258,9 @@
         "ctl_photo": false,
         "control_id": 9801,
         "msg_ids": [],
-        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
