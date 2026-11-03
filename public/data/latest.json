@@ -22,12 +22,10 @@
         "ügyészség"
       ],
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andr%C3%A1s_Baka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 690,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Former President of the Hungarian Supreme Court András Baka"
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-94cba7d354.jpg",
+        "kind": "photo",
+        "alt": "139 igen – a legfőbb ügyészre leadott szavazatok száma",
+        "card": "num"
       }
     },
     {
@@ -4419,5 +4417,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-03T14:06:21+01:00"
+  "updated_at": "2026-11-03T14:14:04+01:00"
 }
