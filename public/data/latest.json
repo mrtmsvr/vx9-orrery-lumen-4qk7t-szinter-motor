@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0368689b-1e2e-5ad7-ae92-ee719e03a044",
+      "slug": "2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat",
+      "url": "/kozelet/2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat/",
+      "title": "Egy hétre eltiltották a parlamenttől a HírTV stábját",
+      "lead": "Több alkalommal elkövetett, szándékos szabályszegés miatt egy hétre kitiltották az Országházból a HírTV két munkatársát. A házelnök a sajtószabályok szigorítását és nagyobb fegyelmet követel a jövőben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T11:53:03+01:00",
+      "published_at": "2026-11-03T11:53:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Országház",
+        "HírTV",
+        "Forsthoffer Ágnes",
+        "sajtószabadság",
+        "Parlament"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Hir_TV.svg/1280px-Hir_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 405,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Logo von Hír TV"
+      }
+    },
+    {
       "id": "d7762ae9-39da-5c0c-a12f-71a679c73853",
       "slug": "2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i",
       "url": "/kozelet/2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i/",
@@ -4389,34 +4419,7 @@
         "pos": "top",
         "alt": "The clock-face of Big Ben (Elizabeth Tower) as it looked in 2009 before being renovated and restored.[1] The clock-face framework has since been restored to its original color of Prussian blue, and th"
       }
-    },
-    {
-      "id": "5c23d6ae-ff7e-546e-a7ab-287338250274",
-      "slug": "2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale",
-      "url": "/kozelet/2026-10-23-magyar-peter-a-nemzet-nem-lehet-csak-az-egyik-oldale/",
-      "title": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé",
-      "lead": "A Tisza Párt tartotta meg október 23-i nagygyűlését a Kossuth téren, ahol Magyar Péter elnök a nemzeti szimbólumok közösségéről beszélt. A rendezvényen a tömeges ünneplés mellett feszültebb pillanatok is kialakultak egy transzparens miatt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-24T08:04:45+02:00",
-      "published_at": "2026-10-24T08:04:45+02:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "október 23",
-        "Tisza Párt",
-        "Magyar Péter",
-        "Kossuth tér",
-        "Budaházy György"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1792822175-0.jpg",
-        "kind": "photo",
-        "alt": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé"
-      }
     }
   ],
-  "updated_at": "2026-11-03T10:33:39+01:00"
+  "updated_at": "2026-11-03T11:53:05+01:00"
 }
