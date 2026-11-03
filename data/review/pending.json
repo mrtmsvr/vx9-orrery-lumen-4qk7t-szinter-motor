@@ -9268,7 +9268,7 @@
     {
       "id": "ce869690-df2c-5eb5-aeb0-0396cb01399a",
       "slug": "2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -9468,9 +9468,9 @@
       "dedupe_hash": "8799e8546c9925c0c332462af4a09865068a9ca0d5412b4efeb0360ffe2e5236",
       "pipeline_run_id": "41584763880",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-03T07:02:33+01:00",
-      "updated_at": "2026-11-03T07:02:33+01:00",
-      "published_at": null,
+      "created_at": "2026-11-03T09:02:16+01:00",
+      "updated_at": "2026-11-03T09:02:16+01:00",
+      "published_at": "2026-11-03T09:02:16+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-03T09:01:58+01:00",
@@ -9488,8 +9488,10 @@
         "lead": "A magyar államiság legfőbb jelképe nemcsak a középkori trónviszályok idején vándorolt sokat, hanem a huszadik század viharaiban is különös kalandokat élt át. Lássuk, hogyan jutott el a korona a hazai kincstárból egészen az amerikai aranytartalékig, és miért kaptuk vissza 1978-ban.",
         "ctl_photo": false,
         "control_id": 9801,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "4d1248a6-de0e-51ac-bdae-492155501131",

@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "ce869690-df2c-5eb5-aeb0-0396cb01399a",
+      "slug": "2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig",
+      "url": "/kultura/2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig/",
+      "title": "A Szent Korona kalandos útja Fort Knoxig",
+      "lead": "A magyar államiság legfőbb jelképe nemcsak a középkori trónviszályok idején vándorolt sokat, hanem a huszadik század viharaiban is különös kalandokat élt át. Lássuk, hogyan jutott el a korona a hazai kincstárból egészen az amerikai aranytartalékig, és miért kaptuk vissza 1978-ban.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T09:02:16+01:00",
+      "published_at": "2026-11-03T09:02:16+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "Szent Korona",
+        "történelem",
+        "Fort Knox",
+        "Bizánc",
+        "művészettörténet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg/1280px-A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1400,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The Holy Crown of Hungary, front view"
+      }
+    },
+    {
       "id": "01f39d01-19e2-5618-82d0-d835cd04ee16",
       "slug": "2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza",
       "url": "/kozelet/2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza/",
@@ -4385,37 +4416,7 @@
         "pos": "center",
         "alt": "Headquarters of Volvo Car Corporation in Torslanda, Göteborg (Gothenburg) built in the late 1960s"
       }
-    },
-    {
-      "id": "b797814f-e581-5269-8847-1fbef6058d2e",
-      "slug": "2026-10-23-tizenot-ev-alatt-kitiltjak-a-kozossegi-mediabol-a-gorog-fiatalokat",
-      "url": "/kozelet/2026-10-23-tizenot-ev-alatt-kitiltjak-a-kozossegi-mediabol-a-gorog-fiatalokat/",
-      "title": "Tizenöt év alatt kitiltják a közösségi médiából a görög fiatalokat",
-      "lead": "A görög parlament pénteken elfogadta azt a jogszabályt, amely 2027. január 1-től tiltja a közösségi média használatát a 15 éven aluliak számára. Ezzel Görögország az első olyan uniós tagállam, amely ilyen szigorú korlátozást vezet be a kiskorúak mentális egészségének védelmében.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T20:08:18+02:00",
-      "published_at": "2026-10-23T20:08:18+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Görögország",
-        "közösségi média",
-        "gyermekvédelem",
-        "Európai Unió",
-        "internet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg/1280px-Greek_Parliament_swearing-in_ceremony_2009Oct14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The swearing-in ceremony of the new members of the Hellenic Parliament that emerged from the October 4 general elections."
-      }
     }
   ],
-  "updated_at": "2026-11-03T07:59:02+01:00"
+  "updated_at": "2026-11-03T09:02:17+01:00"
 }
