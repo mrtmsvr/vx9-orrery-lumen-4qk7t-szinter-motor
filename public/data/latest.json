@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2c07c3c6-2217-5ba2-8b64-a2a7a7519a91",
+      "slug": "2026-11-03-ket-helikopter-utkozott-az-everestnel-egy-indiai-turazo-vesztette-ele",
+      "url": "/vilag/2026-11-03-ket-helikopter-utkozott-az-everestnel-egy-indiai-turazo-vesztette-ele/",
+      "title": "Két helikopter ütközött az Everestnél: egy indiai túrázó vesztette életét",
+      "lead": "Két helikopter ütközött össze kedden leszállás közben a Mount Everest alaptábora közelében; a balesetben egy indiai turista életét vesztette, ketten pedig megsérültek. Az eset a túraszezon csúcsán történt a 4200 méter magasan fekvő Phericse falunál.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T15:09:17+01:00",
+      "published_at": "2026-11-03T15:09:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.45,
+      "tags": [
+        "Mount Everest",
+        "Nepál",
+        "helikopterbaleset",
+        "turizmus",
+        "Himalája"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Lukla_Airport%2C_Runway%2C_Helicopter%2C_Nepal.jpg/1280px-Lukla_Airport%2C_Runway%2C_Helicopter%2C_Nepal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Lukla Airport. Helicopter. Tenzing-Hillary Airport. Lukla, Solukhumbu, Nepal."
+      }
+    },
+    {
       "id": "614e7fc3-2b84-59e1-8dc9-d2b32b411492",
       "slug": "2026-11-03-megtorhet-a-ferfiak-egyeduralma-a-nemet-elnoki-szekben",
       "url": "/vilag/2026-11-03-megtorhet-a-ferfiak-egyeduralma-a-nemet-elnoki-szekben/",
@@ -4381,36 +4411,7 @@
         "pos": "center",
         "alt": "Spiró György (Budapest, 1946. április 4. –) Kossuth-díjas magyar író, költő, irodalomtörténész és műfordító; a Digitális Irodalmi Akadémia alapító tagja, az irodalomtudományok kandidátusa, habilitált"
       }
-    },
-    {
-      "id": "edee464e-0003-5b69-b9f6-26dcff668d25",
-      "slug": "2026-10-24-kemkedesert-zavart-haza-orosz-diplomatakat-ausztria",
-      "url": "/vilag/2026-10-24-kemkedesert-zavart-haza-orosz-diplomatakat-ausztria/",
-      "title": "Kémkedésért zavart haza orosz diplomatákat Ausztria",
-      "lead": "Az osztrák hatóságok vizsgálata nyomán a bécsi külügyminisztérium négy orosz diplomatát nyilvánított nemkívánatos személlyé. Az intézkedés a kémelhárítással áll összefüggésben: a gyanú szerint az érintettek az osztrák hadsereg tagjaival próbáltak kapcsolatot építeni.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T09:24:51+02:00",
-      "published_at": "2026-10-24T09:24:51+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5.85,
-      "tags": [
-        "Ausztria",
-        "Oroszország",
-        "kémkedés",
-        "diplomácia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Wien_katedra_sw_Szczepana_widok_z_wiezy_6.jpg/1280px-Wien_katedra_sw_Szczepana_widok_z_wiezy_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Vienna - view from the north tower of the St. Stephen's cathedral"
-      }
     }
   ],
-  "updated_at": "2026-11-03T14:50:14+01:00"
+  "updated_at": "2026-11-03T15:09:18+01:00"
 }

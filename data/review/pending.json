@@ -9509,7 +9509,7 @@
     {
       "id": "2c07c3c6-2217-5ba2-8b64-a2a7a7519a91",
       "slug": "2026-11-03-ket-helikopter-utkozott-az-everestnel-egy-indiai-turazo-vesztette-ele",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -9664,9 +9664,9 @@
       "dedupe_hash": "452909d8390410ef746b944ccfd49b02b05bb0f405192bcb819d5e49ebda2db1",
       "pipeline_run_id": "41626614544",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-03T12:46:27+01:00",
-      "updated_at": "2026-11-03T12:46:27+01:00",
-      "published_at": "2026-11-03T12:46:27+01:00",
+      "created_at": "2026-11-03T15:09:17+01:00",
+      "updated_at": "2026-11-03T15:09:17+01:00",
+      "published_at": "2026-11-03T15:09:17+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -9682,9 +9682,9 @@
         "control_id": 9824,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 15:09 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-03T15:09:07+01:00"
+      "live": true
     },
     {
       "id": "10835a69-6500-55e7-85ec-4dd8932c342d",
