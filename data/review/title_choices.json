@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Így próbálták meg az utolsó pillanatban elrejteni a milliárdokat Matolcsyék",
-      "instead_of": "Megbukott Matolcsyék utolsó pillanatban összerakott vagyonmentő hálózata",
-      "custom": false,
-      "t": "2026-10-22T18:08:10+00:00"
-    },
-    {
       "chosen": "Másfél évtized után elhagyja az ATV-t Rónai Egon",
       "instead_of": "Másfél évtized után a Network4-hez igazol Rónai Egon",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Választási bombaként robbant: iráni szigetet bombázott az Egyesült Államok",
       "custom": false,
       "t": "2026-11-03T08:37:38+00:00"
+    },
+    {
+      "chosen": "Száznyolcvanegy emberrel a fedélzeten kényszerült földet érni egy bombariadó miatt Varsóban a Londonból indult gép",
+      "instead_of": "Nem a Chopin, hanem Modlin lett a vége a Londonból Varsóba tartó Boeing útjának",
+      "custom": false,
+      "t": "2026-11-03T13:47:06+00:00"
     }
   ]
 }
