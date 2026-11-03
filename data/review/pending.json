@@ -9208,7 +9208,9 @@
         "ctl_photo": true,
         "control_id": 9836,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 11.7): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 11.7): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -9449,7 +9451,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": -1,
         "sent_at": "2026-11-03T17:44:39+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 11.13 · 4 forrás\n\n1) Szavazógép-csalás miatt vizsgálják a fideszes Pócs Jánost\n2) Csalásgyanú a parlamentben: vizsgálják Pócs János szavazatát\n3) Parlamenti botrány: szavazógép-vita Pócs János körül\n🔥 4) Csalt vagy csak elrontotta? Pócs János magyarázkodik a parlamentben\n🔥 5) Így bukott le (vagy nem?) a fideszes politikus a szavazásnál\n🔥 6) Magyar Péter szerint a képviselő félrevezette a Ház vezetését\n\n<b>Források:</b> index.hu, 444.hu, infostart.hu, hvg.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Az Országgyűlés alelnöke, Hallerné Nagy Anikó bejelentette, hogy a jegyzőkönyvek és a videófelvételek elemzésével vizsgálják Pócs János fideszes képviselő keddi voksolásának körülményeit. Az ügyet Magyar Péter miniszterelnök robbantotta ki, aki szerint a politikus szavazatát szabálytalanul adták le, miközben nem tartózkodott a teremben.",
@@ -9752,7 +9754,9 @@
         "ctl_photo": false,
         "control_id": 9840,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 10.09): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 10.09): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -10007,7 +10011,9 @@
         "ctl_photo": true,
         "control_id": 9843,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -10224,13 +10230,16 @@
         "lead": "Bartis Attila író új, önéletrajzi ihletésű regényéről, A rég-ről beszélgetett Nyáry Krisztiánnal a Telex.hu műsorában. A kötet a Ceaușescu-kori Erdély világát, a szülőkkel való összetett viszonyt és a diktatúra működési mechanizmusait dolgozza fel.",
         "ctl_photo": true,
         "control_id": 9844,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:02 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-03T22:02:09+01:00"
     },
     {
       "id": "cdc5ae96-1ecd-5161-a0ae-6814b17a27ef",
       "slug": "2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10396,9 +10405,9 @@
       "dedupe_hash": "c81ad248f55aa8f92cf1e53061670d13c6c51b40270f58a2eba8ee6cda8c7a14",
       "pipeline_run_id": "41695219270",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-03T20:17:37+01:00",
-      "updated_at": "2026-11-03T20:17:37+01:00",
-      "published_at": "2026-11-03T20:17:37+01:00",
+      "created_at": "2026-11-03T21:42:09+01:00",
+      "updated_at": "2026-11-03T21:42:09+01:00",
+      "published_at": "2026-11-03T21:42:09+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -10419,8 +10428,11 @@
         "lead": "Tízmilliárdos nagyságrendű kártérítést és elszámolást követel a miskolci kórház korábbi partnere, miután a létesítményt működtető vállalkozást ellehetetlenítették. Az ügy hátteréről a Partizán műsorában beszélt a cég vezetője.",
         "ctl_photo": false,
         "control_id": 9845,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }
