@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9beeb546-fe2e-5a9c-be96-583d2dc686e3",
+      "slug": "2026-11-03-lapatra-tette-egerszegi-adamot-az-mbh-bank-teljesen-atalakul-a-felsov",
+      "url": "/penzvilag/2026-11-03-lapatra-tette-egerszegi-adamot-az-mbh-bank-teljesen-atalakul-a-felsov/",
+      "title": "Lapátra tette Egerszegi Ádámot az MBH Bank: teljesen átalakul a felsővezetés",
+      "lead": "Rendkívüli bejelentést tett az MBH Bank a Budapesti Értéktőzsdén: 2026. november 2. napjával megszűnik Egerszegi Ádám vezérigazgató-helyettesi kinevezése, és teljesen átalakul a pénzintézet felsővezetői struktúrája. A lépés célja a nagyobb költséghatékonyság, valamint az egyszerűbb, gyorsabb ügyintézés elérése a jövőbeli növekedés érdekében.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T09:56:01+01:00",
+      "published_at": "2026-11-03T09:56:01+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.09,
+      "tags": [
+        "MBH Bank",
+        "bankvezetés",
+        "gazdaság",
+        "pénzügy",
+        "BÉT"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Budapest_stock_exchange.jpg/1280px-Budapest_stock_exchange.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Budapest Stock Exchange"
+      }
+    },
+    {
       "id": "01f39d01-19e2-5618-82d0-d835cd04ee16",
       "slug": "2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza",
       "url": "/kozelet/2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza/",
@@ -4385,37 +4415,7 @@
         "pos": "top",
         "alt": "Montage of the Hungarian Revolution of 1956"
       }
-    },
-    {
-      "id": "2adb7165-4f72-5635-bee0-73317ec95570",
-      "slug": "2026-10-23-panikhangulat-az-amerikai-tozsdeken-a-kozeledo-konfliktus-miatt",
-      "url": "/penzvilag/2026-10-23-panikhangulat-az-amerikai-tozsdeken-a-kozeledo-konfliktus-miatt/",
-      "title": "Pánikhangulat az amerikai tőzsdéken a közeledő konfliktus miatt",
-      "lead": "Tavaly december óta nem látott magasságba, hordónként 117 dollár fölé emelkedett az olaj ára pénteken a fokozódó közel-keleti feszültségek miatt. Ezzel párhuzamosan az amerikai tőzsdék is jelentős mínuszba fordultak a befektetői aggodalmak hatására.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T20:48:36+02:00",
-      "published_at": "2026-10-23T20:48:36+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5.3,
-      "tags": [
-        "olajár",
-        "tőzsde",
-        "gazdaság",
-        "Közel-Kelet",
-        "infláció"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Gulf_raffinaderij%2C_Rozenburg%2C_Bestanddeelnr_924-8259.jpg/1280px-Gulf_raffinaderij%2C_Rozenburg%2C_Bestanddeelnr_924-8259.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 798,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Collectie / Archief : Fotocollectie Anefo\nReportage / Serie : [ onbekend ]\nBeschrijving : Gulf raffinaderij, Rozenburg\nDatum : 17 augustus 1971\nLocatie : Rozenburg\nTrefwoorden : raffinaderijen\nPersoon"
-      }
     }
   ],
-  "updated_at": "2026-11-03T09:41:05+01:00"
+  "updated_at": "2026-11-03T09:56:03+01:00"
 }
