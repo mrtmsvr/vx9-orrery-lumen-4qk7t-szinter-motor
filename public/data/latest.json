@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c1d02f86-79f4-5eda-9823-7129b3a46391",
+      "slug": "2026-11-03-nem-a-chopin-hanem-modlin-lett-a-vege-a-londonbol-varsoba-tarto-boein",
+      "url": "/kozelet/2026-11-03-nem-a-chopin-hanem-modlin-lett-a-vege-a-londonbol-varsoba-tarto-boein/",
+      "title": "Nem a Chopin, hanem Modlin lett a vége a Londonból Varsóba tartó Boeing útjának",
+      "lead": "Kedd délelőtt bombariadó miatt hajtott végre kényszerleszállást a Varsó melletti Modlin repülőtéren a londoni Heathrow repülőtérről felszálló járat. A Boeing 737 MAX típusú utasszállító utasait biztonságban kimenekítették, míg a környék légiközlekedési csomópontjait ideiglenes intézkedések sújtották.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T12:29:23+01:00",
+      "published_at": "2026-11-03T12:29:23+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "bombariadó",
+        "kényszerleszállás",
+        "Varsó",
+        "Modlin repülőtér",
+        "légiközlekedés"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/C-FSJJ_%2843123199145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "C-FSJJ Boeing 737-8 Max Air Canada"
+      }
+    },
+    {
       "id": "0368689b-1e2e-5ad7-ae92-ee719e03a044",
       "slug": "2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat",
       "url": "/kozelet/2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat/",
@@ -4387,39 +4417,7 @@
         "pos": "center",
         "alt": "Inside the Volkswagen plant. The bodies are dropped from an overhead line to be attached to the chassis."
       }
-    },
-    {
-      "id": "5c6c3f12-3033-5ea9-b714-8294c12ca0de",
-      "slug": "2026-10-24-tulelesi-tippek-az-oraatallitashoz",
-      "url": "/eletmod/2026-10-24-tulelesi-tippek-az-oraatallitashoz/",
-      "title": "Túlélési tippek az óraátállításhoz",
-      "lead": "Az évi kétszeri óraátállítás alaposan felboríthatja a belső ritmusunkat, mivel a szervezetünk nehezen alkalmazkodik a hirtelen időbeli ugrásokhoz. Ebből a cikkből megtudhatja, hogyan készítheti fel tudományos alapon a biológiai óráját a váltásra.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T08:25:24+02:00",
-      "published_at": "2026-10-24T08:25:24+02:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Óraátállítás (téli időszámítás)",
-        "óraátállítás",
-        "alvásritmus",
-        "cirkadián ritmus",
-        "zeitgeber",
-        "egészség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg/1280px-London_Big_Ben_Inner_Clock_Face_1070925-PSD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1161,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The clock-face of Big Ben (Elizabeth Tower) as it looked in 2009 before being renovated and restored.[1] The clock-face framework has since been restored to its original color of Prussian blue, and th"
-      }
     }
   ],
-  "updated_at": "2026-11-03T11:53:05+01:00"
+  "updated_at": "2026-11-03T12:29:25+01:00"
 }
