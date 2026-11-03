@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1b8e603f-940a-51ba-80e1-141cef230676",
+      "slug": "2026-11-03-magyar-peter-hallgatott-toroczkai-kuplerajt-emlegetett-a-parlamentben",
+      "url": "/kozelet/2026-11-03-magyar-peter-hallgatott-toroczkai-kuplerajt-emlegetett-a-parlamentben/",
+      "title": "Magyar Péter hallgatott, Toroczkai kuplerájt emlegetett a parlamentben",
+      "lead": "Váratlanul elmaradt Magyar Péter napirend előtti felszólalása a parlament keddi ülésén, ami azonnal heves összecsapásokhoz és éles vitákhoz vezetett a képviselők között. Az Országgyűlésben eközben az új legfőbb ügyész személyéről is szavaznak a felek.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T09:35:36+01:00",
+      "published_at": "2026-11-03T09:35:36+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Országgyűlés",
+        "Magyar Péter",
+        "Toroczkai László",
+        "Feledy Botond",
+        "legfőbb ügyész"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg/1280px-Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1306,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Leader of the Our Homeland Movement faction"
+      }
+    },
+    {
       "id": "ce869690-df2c-5eb5-aeb0-0396cb01399a",
       "slug": "2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig",
       "url": "/kultura/2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig/",
@@ -4386,37 +4416,7 @@
         "pos": "center",
         "alt": "Collectie / Archief : Fotocollectie Anefo\nReportage / Serie : [ onbekend ]\nBeschrijving : Gulf raffinaderij, Rozenburg\nDatum : 17 augustus 1971\nLocatie : Rozenburg\nTrefwoorden : raffinaderijen\nPersoon"
       }
-    },
-    {
-      "id": "0be917af-f8f1-549d-9427-d4126d947f0d",
-      "slug": "2026-10-23-tortenelmi-melyponton-a-volvo-ketezerotszaz-allas-szunik-meg",
-      "url": "/penzvilag/2026-10-23-tortenelmi-melyponton-a-volvo-ketezerotszaz-allas-szunik-meg/",
-      "title": "Történelmi mélyponton a Volvo, kétezerötszáz állás szűnik meg",
-      "lead": "Több mint huszonöt százalékkal estek vissza a Volvo Cars részvényei a harmadik negyedéves eredmények közzététele után, miután a svéd autógyártó súlyos veszteséget könyvelt el a kínai piac összeomlása miatt. A vállalat világszerte 2500 munkahely megszüntetését és 500 millió dolláros költségcsökkentést jelentett be.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T20:28:31+02:00",
-      "published_at": "2026-10-23T20:28:31+02:00",
-      "reading_time_min": 3,
-      "hot_score": 5.92,
-      "tags": [
-        "Volvo",
-        "autóipar",
-        "leépítés",
-        "gazdaság",
-        "Kína"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Volvo_PV_HK_Torslanda_G%C3%B6teborg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 804,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Headquarters of Volvo Car Corporation in Torslanda, Göteborg (Gothenburg) built in the late 1960s"
-      }
     }
   ],
-  "updated_at": "2026-11-03T09:02:17+01:00"
+  "updated_at": "2026-11-03T09:35:38+01:00"
 }
