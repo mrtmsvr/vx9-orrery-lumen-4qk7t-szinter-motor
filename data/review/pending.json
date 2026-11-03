@@ -9555,8 +9555,11 @@
         "lead": "November 10-én és 11-én amerikai közvetítéssel tartanak tárgyalásokat Oroszország és Ukrajna között Abu-Dzabiban. Az egyeztetések célja a háború utáni biztonsági intézkedések és a feszültségcsökkentés megvitatása.",
         "ctl_photo": true,
         "control_id": 9802,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:15 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-03T10:15:36+01:00"
     },
     {
       "id": "1934a74b-359c-5c08-bd16-e47e29932a77",
