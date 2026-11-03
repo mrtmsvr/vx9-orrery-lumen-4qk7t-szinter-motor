@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Másfél évtized után elhagyja az ATV-t Rónai Egon",
-      "instead_of": "Másfél évtized után a Network4-hez igazol Rónai Egon",
-      "custom": false,
-      "t": "2026-10-22T20:21:56+00:00"
-    },
-    {
       "chosen": "Titokzatos nemzetközi óriáscég költözik egy pécsi irodaházba",
       "instead_of": "Kétszázharminc új munkahelyet hoz az ismeretlen pécsi beruházó",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Nem a Chopin, hanem Modlin lett a vége a Londonból Varsóba tartó Boeing útjának",
       "custom": false,
       "t": "2026-11-03T13:47:06+00:00"
+    },
+    {
+      "chosen": "Megint előkerültek a zalaegerszegi dokumentumok Orbán Viktor beszervezéséről",
+      "instead_of": "Megüzente a beszervezését: húszoldalnyi sorkatonai iratot hozott nyilvánosságra Orbán",
+      "custom": false,
+      "t": "2026-11-03T15:45:31+00:00"
     }
   ]
 }
