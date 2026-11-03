@@ -10639,8 +10639,11 @@
         "lead": "A rendszerváltás után 36 évvel, november 4-én a Tisza-kormány kampányígéretét teljesítve nyilvánosságra hozza az állambiztonsági nyilvántartásokat. A digitális adatbázisban korlátozásmentesen válnak elérhetővé a hatos kartonok, a hálózati adattárak és a B-naplók.",
         "ctl_photo": true,
         "control_id": 9846,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 22:22 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-03T22:22:09+01:00"
     }
   ]
 }
