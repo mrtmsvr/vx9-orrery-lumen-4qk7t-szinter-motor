@@ -1,35 +1,35 @@
 {
-  "id": "a81004069e",
-  "date": "2026-11-02",
-  "status": "skipped",
-  "article_url": "/vilag/2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban/",
-  "article_title": "Donald Tusk lapot húzott: kizárta a kompromisszumot Varsóban",
-  "category": "vilag",
+  "id": "b75213c1af",
+  "date": "2026-11-03",
+  "status": "pending",
+  "article_url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
+  "article_title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Operaház éléről",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés volt Donald Tusk részéről a kompromisszum kizárása?",
+      "question": "Ön szerint indokolt volt Ókovács Szilveszter menesztése az Operaház éléről?",
       "options": [
-        "Igen, a jogállamiság terén nincs helye alkuak.",
-        "Nem, a politikai konszenzus fontosabb lenne.",
+        "Igen, helyes döntés született",
+        "Nem, igazságtalan volt a leváltása",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a lengyel miniszterelnök határozott fellépését az alkotmánybírósági válságban?",
+      "question": "Helyesnek tartja, hogy kormányzati döntéssel váltják le az intézményvezetők?",
       "options": [
-        "Szükséges lépés az intézmények védelmében.",
-        "Káros lépés, amely tovább mélyíti a válságot.",
+        "Igen, a fenntartónak joga van ehhez",
+        "Nem, ez veszélyezteti a kulturális függetlenséget",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Vezethet-e eredményre a keményvonalas politikai stratégia Lengyelországban?",
+      "question": "Mit tartana fontosabbnak az Operaház vezetésében?",
       "options": [
-        "Igen, érdemes következetesen kitpni az elvek mellett.",
-        "Nem, ez csak fokozza a belső feszültségeket.",
+        "A pénzügyi fegyelem és átláthatóság betartását",
+        "A művészeti szabadság és autonómia védelmét",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9756
+  "msg_id": 9813
 }
