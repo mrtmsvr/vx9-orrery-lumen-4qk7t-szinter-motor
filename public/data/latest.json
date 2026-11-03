@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "648cfa08-3111-5c3e-bbf1-ffb6b15be2e9",
+      "slug": "2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste",
+      "url": "/kozelet/2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste/",
+      "title": "December 24.: egyhangú igennel lett szabadnap szenteste",
+      "lead": "Az Országgyűlés keddi döntése értelmében már az idei évtől munkaszüneti nappá nyilvánították december 24-ét. Az egyhangúlag elfogadott jogszabály kiszámíthatóságot teremt a családok számára.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T15:28:21+01:00",
+      "published_at": "2026-11-03T15:28:21+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.41,
+      "tags": [
+        "Országgyűlés",
+        "munkaszüneti nap",
+        "karácsony",
+        "belpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg/1280px-Tea_advent_calendar_with_baubles_and_tea_candle_in_Tuntorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A German tea advent calendar, 24 different bags of herbal tea, with a tea light holder and some Christmas baubles on a desk next to a computer, its screen and keyboard. Photographed in Tuntorp, Brasta"
+      }
+    },
+    {
       "id": "2c07c3c6-2217-5ba2-8b64-a2a7a7519a91",
       "slug": "2026-11-03-ket-helikopter-utkozott-az-everestnel-egy-indiai-turazo-vesztette-ele",
       "url": "/vilag/2026-11-03-ket-helikopter-utkozott-az-everestnel-egy-indiai-turazo-vesztette-ele/",
@@ -4381,37 +4410,7 @@
         "pos": "top",
         "alt": "Official portrait of Dan Jørgensen, European Commissioner"
       }
-    },
-    {
-      "id": "4e5efa3a-222c-5fea-be71-515d36a80884",
-      "slug": "2026-10-24-kossuth-cimer-az-osztalyteremben-spiro-gyorgy-gyermekkori-56-os-emlek",
-      "url": "/kultura/2026-10-24-kossuth-cimer-az-osztalyteremben-spiro-gyorgy-gyermekkori-56-os-emlek/",
-      "title": "Kossuth-címer az osztályteremben: Spiró György gyermekkori 56-os emlékei",
-      "lead": "Spiró György Kossuth- és József Attila-díjas író a Partizán műsorában idézte fel gyermekkori 1956-os emlékeit, valamint az irodalom és a történelmi traumák máig ható szerepét. A beszélgetésben a korabeli budapesti utcák képe mellett a kollektív emlékezés kérdései is terítékre kerültek.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T09:44:47+02:00",
-      "published_at": "2026-10-24T09:44:47+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Spiró György",
-        "Partizán",
-        "1956",
-        "irodalom",
-        "emlékezet"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Spir%C3%B3_Gy%C3%B6rgy_%28Stekovics_G%C3%A1sp%C3%A1r%29_%28cropped%29.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1444,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Spiró György (Budapest, 1946. április 4. –) Kossuth-díjas magyar író, költő, irodalomtörténész és műfordító; a Digitális Irodalmi Akadémia alapító tagja, az irodalomtudományok kandidátusa, habilitált"
-      }
     }
   ],
-  "updated_at": "2026-11-03T15:09:18+01:00"
+  "updated_at": "2026-11-03T15:28:23+01:00"
 }
