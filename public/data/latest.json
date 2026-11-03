@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d7762ae9-39da-5c0c-a12f-71a679c73853",
+      "slug": "2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i",
+      "url": "/kozelet/2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i/",
+      "title": "Kilencmilliárdos ingatlanbotrány rázza meg a Magyar Kereskedelmi és Iparkamarát",
+      "lead": "Hűtlen kezelés gyanúja miatt indított nyomozást a Budapesti Rendőr-főkapitányság a Magyar Kereskedelmi és Iparkamara milliárdos ingatlanvásárlásai miatt. Az ügyben az elnökségen belül is komoly viták feszülnek a tranzakciók tisztasága és árazása körült.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T10:33:37+01:00",
+      "published_at": "2026-11-03T10:33:37+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.16,
+      "tags": [
+        "iparkamara",
+        "rendőrségi nyomozás",
+        "ingatlanvásárlás",
+        "Nagy Elek",
+        "hűtlen kezelés"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/ORFK-BRFK_-_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1216,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Budapest, XIII. ker., Teve utca 4-6. ORFK-BRFK központ"
+      }
+    },
+    {
       "id": "4d1248a6-de0e-51ac-bdae-492155501131",
       "slug": "2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket",
       "url": "/vilag/2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket/",
@@ -4386,36 +4416,7 @@
         "kind": "photo",
         "alt": "Magyar Péter: A nemzet nem lehet csak az egyik oldalé"
       }
-    },
-    {
-      "id": "25354403-f0a1-59b7-a902-ff64df803cbe",
-      "slug": "2026-10-24-deutsch-anita-es-csomor-csilla-elsokent-esett-ki-az-azsia-expresszbol",
-      "url": "/bulvar/2026-10-24-deutsch-anita-es-csomor-csilla-elsokent-esett-ki-az-azsia-expresszbol/",
-      "title": "Fordulat az Ázsia Expresszben: nekik kellett csomagolniuk",
-      "lead": "Véget ért az Ázsia Expressz kalandja Deutsch Anita és Csomor Csilla számára: a színésznő és partnere a péntek esti hajszát követően kényszerült elsőként távozni a versenyből.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T06:50:11+02:00",
-      "published_at": "2026-10-24T06:50:11+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.44,
-      "tags": [
-        "Ázsia Expressz",
-        "TV2",
-        "Deutsch Anita",
-        "showbiznisz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Clothes-travel-voyage-backpack_%2824324553095%29.jpg/1280px-Clothes-travel-voyage-backpack_%2824324553095%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "clothes-travel-voyage-backpack"
-      }
     }
   ],
-  "updated_at": "2026-11-03T10:15:48+01:00"
+  "updated_at": "2026-11-03T10:33:39+01:00"
 }
