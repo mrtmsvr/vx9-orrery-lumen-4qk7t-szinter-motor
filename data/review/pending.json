@@ -8788,7 +8788,7 @@
     {
       "id": "4d1248a6-de0e-51ac-bdae-492155501131",
       "slug": "2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -8820,17 +8820,15 @@
       "word_count": 522,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1280px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1602,
-        "kind": "graphic",
+        "height": 800,
+        "kind": "photo",
         "pos": "center",
-        "alt": "White House staff pose for photos in the Rose Garden, Tuesday, May 6, 2025. (Official White House Photo by Daniel Torok)",
-        "credit": "The White House / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff,_May_6,_2025_(cropped).jpg",
-        "exact": true,
-        "entity": "Steve Witkoff",
+        "alt": "The Abu Dhabi skyline from sea on a boat tour.",
+        "credit": "AdnanDekedek / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_from_a_boat_tour.jpg",
         "unverified": true
       },
       "inline_images": [],
@@ -9025,7 +9023,7 @@
         "meta_title": "Abu-Dzabiban próbálják meg újra összerakni a békét",
         "meta_description": "November 10-én és 11-én amerikai közvetítéssel tartanak tárgyalásokat Oroszország és Ukrajna között Abu-Dzabiban. Az egyeztetések célja a háború utáni biztonság",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1280px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -9062,9 +9060,9 @@
       "dedupe_hash": "4fd36534968441e1ea96b9b00cd12b020cab32fd6e89ce20efe5717a8ddb5ff7",
       "pipeline_run_id": "41590313280",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-03T07:54:50+01:00",
-      "updated_at": "2026-11-03T07:54:50+01:00",
-      "published_at": "2026-11-03T07:54:50+01:00",
+      "created_at": "2026-11-03T10:15:47+01:00",
+      "updated_at": "2026-11-03T10:15:47+01:00",
+      "published_at": "2026-11-03T10:15:47+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -9080,9 +9078,9 @@
         "control_id": 9802,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 10:15 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-03T10:15:36+01:00"
+      "live": true
     },
     {
       "id": "1934a74b-359c-5c08-bd16-e47e29932a77",
