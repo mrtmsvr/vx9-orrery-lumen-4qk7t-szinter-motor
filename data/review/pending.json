@@ -10437,7 +10437,7 @@
     {
       "id": "1b5bb6bf-b2ed-5d4d-9344-827d2b42daec",
       "slug": "2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10466,16 +10466,17 @@
       "word_count": 349,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra_%286%29.jpg/1280px-%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/64ca13e93fec8b9c.jpg",
+        "width": 3320,
+        "height": 2032,
         "kind": "photo",
-        "pos": "top",
-        "alt": "Irattár. Állambiztonsági Szolgálatok Történeti Levéltára, Budapest VI. Eötvös utca 7 szám on the 13th of March, 2019.",
-        "credit": "Elekes Andor / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra_(6).jpg",
-        "vision_score": 9.0
+        "alt": "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words",
+        "credit": "Nile / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/paper-writing-old-antique-write-623167/",
+        "vision_score": 7.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/64ca13e93fec8b9c.jpg",
+        "orig_url": "https://pixabay.com/get/g0f09b137079a5cfa67c95a8a7ce2f8f7b3dcbb2167b9e6c39367751c55b1feb469328b344c81d6686a5104b346f8f06e9990652c1dc552604aaa50139cb6fd4a_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -10579,7 +10580,7 @@
         "meta_title": "Megnyílik a digitális adatbázis a hatos kartonokkal és a B-n",
         "meta_description": "A rendszerváltás után 36 évvel, november 4-én a Tisza-kormány kampányígéretét teljesítve nyilvánosságra hozza az állambiztonsági nyilvántartásokat. A digitális ",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra_%286%29.jpg/1280px-%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/64ca13e93fec8b9c.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -10616,9 +10617,9 @@
       "dedupe_hash": "31b6ebc80dbf7daf81ae36a593d50f2fa2fd7b32f5207a4b19f04fd1bc3ecc39",
       "pipeline_run_id": "41710062271",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-03T21:45:49+01:00",
-      "updated_at": "2026-11-03T21:45:49+01:00",
-      "published_at": "2026-11-03T21:45:49+01:00",
+      "created_at": "2026-11-03T22:22:16+01:00",
+      "updated_at": "2026-11-03T22:22:16+01:00",
+      "published_at": "2026-11-03T22:22:16+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -10641,9 +10642,9 @@
         "control_id": 9846,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 22:22 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-03T22:22:09+01:00"
+      "live": true
     }
   ]
 }

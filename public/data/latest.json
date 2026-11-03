@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "1b5bb6bf-b2ed-5d4d-9344-827d2b42daec",
+      "slug": "2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal",
+      "url": "/kozelet/2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal/",
+      "title": "Megnyílik a digitális adatbázis a hatos kartonokkal és a B-naplókkal",
+      "lead": "A rendszerváltás után 36 évvel, november 4-én a Tisza-kormány kampányígéretét teljesítve nyilvánosságra hozza az állambiztonsági nyilvántartásokat. A digitális adatbázisban korlátozásmentesen válnak elérhetővé a hatos kartonok, a hálózati adattárak és a B-naplók.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T22:22:16+01:00",
+      "published_at": "2026-11-03T22:22:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "ügynökakták",
+        "levéltár",
+        "állambiztonság",
+        "Tisza-kormány"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/64ca13e93fec8b9c.jpg",
+        "width": 3320,
+        "height": 2032,
+        "kind": "photo",
+        "alt": "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
+      }
+    },
+    {
       "id": "9c189353-5f05-5795-8fb6-26b6b3d34c5e",
       "slug": "2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem",
       "url": "/kultura/2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem/",
@@ -4374,37 +4402,7 @@
         "kind": "photo",
         "alt": "Gyakorlórepülés közben ütközött össze a Fülöp-szigeteki légierő két gépe"
       }
-    },
-    {
-      "id": "03d49ae0-6a41-558f-8017-b3d87b193d3f",
-      "slug": "2026-10-24-bekes-csaba-az-usa-felelotlen-igeretei-miatt-bukott-el-56",
-      "url": "/vilag/2026-10-24-bekes-csaba-az-usa-felelotlen-igeretei-miatt-bukott-el-56/",
-      "title": "Békés Csaba: Az USA felelőtlen ígéretei miatt bukott el ’56",
-      "lead": "Az 1956-os magyar forradalom idején az Egyesült Államok politikája felelőtlen volt, mivel olyan reményeket keltett, amelyek mögött nem állt katonai támogatás. A világpolitikai összefüggésekről a Partizán „Szignál” című műsorában beszélt Békés Csaba történész.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T15:33:43+02:00",
-      "published_at": "2026-10-24T15:33:43+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "1956",
-        "történelem",
-        "Egyesült Államok",
-        "Szovjetunió",
-        "hidegháború"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/B%C3%A9k%C3%A9s_Csaba.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Békés Csaba történész"
-      }
     }
   ],
-  "updated_at": "2026-11-03T22:02:37+01:00"
+  "updated_at": "2026-11-03T22:22:17+01:00"
 }
