@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "01f39d01-19e2-5618-82d0-d835cd04ee16",
+      "slug": "2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza",
+      "url": "/kozelet/2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza/",
+      "title": "Célkeresztben Matolcsy Ádámék: rájuk állították a rendőrség fejvadászait",
+      "lead": "A Készenléti Rendőrség Nemzeti Nyomozó Irodájának célkörözési osztálya, vagyis a legismertebb fejvadászok veszik át Matolcsy Ádám és üzlettársa, Stofa György ügyét. A rendőrség ezzel kiemelt fokozatba kapcsolja a szökésben lévő gyanúsítettek felkutatását.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T06:13:35+01:00",
+      "published_at": "2026-11-03T06:13:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.58,
+      "tags": [
+        "Matolcsy Ádám",
+        "Stofa György",
+        "Nemzeti Nyomozó Iroda",
+        "célkörözés",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Stofa_Mugshot.webp/1280px-Stofa_Mugshot.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 674,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Stofa György Mugshot"
+      }
+    },
+    {
       "id": "f8503ccc-fefa-54aa-9187-afd4a19d8a2e",
       "slug": "2026-11-02-bizalomvesztes-miatt-azonnal-kirugtak-a-magyar-kulugyi-intezet-vezeto",
       "url": "/kozelet/2026-11-02-bizalomvesztes-miatt-azonnal-kirugtak-a-magyar-kulugyi-intezet-vezeto/",
@@ -4385,35 +4415,7 @@
         "pos": "center",
         "alt": "The swearing-in ceremony of the new members of the Hellenic Parliament that emerged from the October 4 general elections."
       }
-    },
-    {
-      "id": "54ffa6c2-499f-588e-a37f-ede865683243",
-      "slug": "2026-10-23-harminc-napra-letartoztattak-matolcsy-gyorgyot-gazdasagi-csalas-gyanu",
-      "url": "/kozelet/2026-10-23-harminc-napra-letartoztattak-matolcsy-gyorgyot-gazdasagi-csalas-gyanu/",
-      "title": "Harminc napra letartóztatták Matolcsy Györgyöt gazdasági csalás gyanúja miatt",
-      "lead": "Pénteken letartóztatta Matolcsy György volt jegybankelnököt és társait a Budai Központi Kerületi Bíróság nyomozási bírája. A döntés értelmében a gyanúsítottak harminc napig maradnak rács mögött gazdasági csalás és más bűncselekmények gyanúja miatt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T20:04:06+02:00",
-      "published_at": "2026-10-23T20:04:06+02:00",
-      "reading_time_min": 3,
-      "hot_score": 11.82,
-      "tags": [
-        "Matolcsy György",
-        "Magyar Nemzeti Bank",
-        "bíróság",
-        "letartóztatás",
-        "ügyészség"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-10a82cf17d.jpg",
-        "kind": "photo",
-        "alt": "266 milliárd forint – Az alapítványoknak juttatott vagyon összege",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-03T00:03:38+01:00"
+  "updated_at": "2026-11-03T06:13:36+01:00"
 }
