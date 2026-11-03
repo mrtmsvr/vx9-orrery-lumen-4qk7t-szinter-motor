@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "17dd3f6f-497c-5f88-81e7-5fe06ba7b5b9",
+      "slug": "2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv",
+      "url": "/kozelet/2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv/",
+      "title": "Megüzente a beszervezését: húszoldalnyi sorkatonai iratot hozott nyilvánosságra Orbán",
+      "lead": "Több mint húszoldalnyi, sorkatonai időszakából származó iratot tett közzé a miniszterelnök, miután a rendszerváltás előtti utolsó kormányfő ügynöki jelentésekről beszélt. A dokumentumok ügye ismét éles politikai vitát váltott ki a felek között.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T16:44:44+01:00",
+      "published_at": "2026-11-03T16:44:44+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.46,
+      "tags": [
+        "Orbán Viktor",
+        "Németh Miklós",
+        "ügynökakták",
+        "titkosszolgálat",
+        "Fidesz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1666,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires."
+      }
+    },
+    {
       "id": "648cfa08-3111-5c3e-bbf1-ffb6b15be2e9",
       "slug": "2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste",
       "url": "/kozelet/2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste/",
@@ -4380,37 +4410,7 @@
         "pos": "center",
         "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
       }
-    },
-    {
-      "id": "4a649cce-cafe-5145-b58f-11a597ce7025",
-      "slug": "2026-10-24-dan-j-rgensen-nem-lesz-feltetlenul-jobb-az-elete-a-mai-fiataloknak",
-      "url": "/vilag/2026-10-24-dan-j-rgensen-nem-lesz-feltetlenul-jobb-az-elete-a-mai-fiataloknak/",
-      "title": "Dan Jørgensen: Nem lesz feltétlenül jobb az élete a mai fiataloknak",
-      "lead": "Fennáll a veszélye annak, hogy az európai fiatalok élete nem lesz jobb a szüleikénél a lakhatási válság és a magas energiaárak miatt – mondta az Európai Bizottság energiaügyi és lakhatási biztosa a 444.hu-nak adott interjújában.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T10:04:54+02:00",
-      "published_at": "2026-10-24T10:04:54+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Dan Jørgensen",
-        "Európai Bizottság",
-        "lakhatási válság",
-        "energiaárak",
-        "orosz gáz"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/J%C3%B8rgensen_EC_Portrait_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1798,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Dan Jørgensen, European Commissioner"
-      }
     }
   ],
-  "updated_at": "2026-11-03T15:33:32+01:00"
+  "updated_at": "2026-11-03T16:44:46+01:00"
 }
