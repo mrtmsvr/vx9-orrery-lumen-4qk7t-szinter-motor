@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "92b50278-0077-5992-880e-ae98feaac078",
+      "slug": "2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza",
+      "url": "/vilag/2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza/",
+      "title": "Trump megállapodott Netanjahuval: év végén leállítják az Izraelnek szánt milliárdos segélyt",
+      "lead": "Az Egyesült Államok az év végével leállítja az Izraelnek nyújtott évi négymilliárd dolláros katonai támogatást. A döntést Donald Trump amerikai elnök jelentette be a választás napján, miután megegyezett Benjamin Netanjahu izraeli miniszterelnökkel.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T18:19:25+01:00",
+      "published_at": "2026-11-03T18:19:25+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Donald Trump",
+        "Benjamin Netanjahu",
+        "Egyesült Államok",
+        "Izrael",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1280px-WhiteHouseSouthFacade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 889,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "White House, the executive mansion of the President of the United States, located at 1600 Pennsylvania Avenue in Washington, D.C."
+      }
+    },
+    {
       "id": "17dd3f6f-497c-5f88-81e7-5fe06ba7b5b9",
       "slug": "2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv",
       "url": "/kozelet/2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv/",
@@ -4380,37 +4410,7 @@
         "pos": "center",
         "alt": "Courtyard of the Museum of Louvre, and its pyramid. This picture is a panorama made from stitching three pictures with Hugin."
       }
-    },
-    {
-      "id": "cac4b5a6-47e7-5faa-892c-2f7fde111014",
-      "slug": "2026-10-24-nem-volt-bekemenet-zaszloval-vonult-az-ellenzekbe-szorult-fidesz",
-      "url": "/kozelet/2026-10-24-nem-volt-bekemenet-zaszloval-vonult-az-ellenzekbe-szorult-fidesz/",
-      "title": "Nem volt Békemenet: zászlóval vonult az ellenzékbe szorult Fidesz",
-      "lead": "Az 1956-os forradalom 70. évfordulóján a hagyományos Békemenet helyett Zászlómenetet tartott a Fidesz, amely már ellenzékben, Magyar Péter kormányának regnálása idején emlékezett meg az ünnepről. A Bem téren tartott rendezvényen Bóka János és Schmidt Mária is beszédet mondott.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T11:01:49+02:00",
-      "published_at": "2026-10-24T11:01:49+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Fidesz",
-        "október 23",
-        "Zászlómenet",
-        "Bem tér",
-        "Bóka János"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1601,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
-      }
     }
   ],
-  "updated_at": "2026-11-03T16:45:32+01:00"
+  "updated_at": "2026-11-03T18:19:27+01:00"
 }
