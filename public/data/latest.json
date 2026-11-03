@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "01f39d01-19e2-5618-82d0-d835cd04ee16",
+      "slug": "2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza",
+      "url": "/kozelet/2026-11-03-celkeresztben-matolcsy-adamek-rajuk-allitottak-a-rendorseg-fejvadasza/",
+      "title": "Célkeresztben Matolcsy Ádámék: rájuk állították a rendőrség fejvadászait",
+      "lead": "A Készenléti Rendőrség Nemzeti Nyomozó Irodájának célkörözési osztálya, vagyis a legismertebb fejvadászok veszik át Matolcsy Ádám és üzlettársa, Stofa György ügyét. A rendőrség ezzel kiemelt fokozatba kapcsolja a szökésben lévő gyanúsítettek felkutatását.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T09:41:04+01:00",
+      "published_at": "2026-11-03T09:41:04+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.58,
+      "tags": [
+        "Matolcsy Ádám",
+        "Stofa György",
+        "Nemzeti Nyomozó Iroda",
+        "célkörözés",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/9f48883d1c7521f7.jpg",
+        "width": 4512,
+        "height": 3000,
+        "kind": "photo",
+        "alt": "cop, policewoman, colleagues, fun, figure, police, funny, law enforcement officers, handcuffs, baton, uniform, cap, police car, police, police, police, police, police"
+      }
+    },
+    {
       "id": "1b8e603f-940a-51ba-80e1-141cef230676",
       "slug": "2026-11-03-magyar-peter-hallgatott-toroczkai-kuplerajt-emlegetett-a-parlamentben",
       "url": "/kozelet/2026-11-03-magyar-peter-hallgatott-toroczkai-kuplerajt-emlegetett-a-parlamentben/",
@@ -4386,37 +4415,7 @@
         "pos": "center",
         "alt": "Collectie / Archief : Fotocollectie Anefo\nReportage / Serie : [ onbekend ]\nBeschrijving : Gulf raffinaderij, Rozenburg\nDatum : 17 augustus 1971\nLocatie : Rozenburg\nTrefwoorden : raffinaderijen\nPersoon"
       }
-    },
-    {
-      "id": "0be917af-f8f1-549d-9427-d4126d947f0d",
-      "slug": "2026-10-23-tortenelmi-melyponton-a-volvo-ketezerotszaz-allas-szunik-meg",
-      "url": "/penzvilag/2026-10-23-tortenelmi-melyponton-a-volvo-ketezerotszaz-allas-szunik-meg/",
-      "title": "Történelmi mélyponton a Volvo, kétezerötszáz állás szűnik meg",
-      "lead": "Több mint huszonöt százalékkal estek vissza a Volvo Cars részvényei a harmadik negyedéves eredmények közzététele után, miután a svéd autógyártó súlyos veszteséget könyvelt el a kínai piac összeomlása miatt. A vállalat világszerte 2500 munkahely megszüntetését és 500 millió dolláros költségcsökkentést jelentett be.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-23",
-      "date_label": "október 23.",
-      "created_at": "2026-10-23T20:28:31+02:00",
-      "published_at": "2026-10-23T20:28:31+02:00",
-      "reading_time_min": 3,
-      "hot_score": 5.92,
-      "tags": [
-        "Volvo",
-        "autóipar",
-        "leépítés",
-        "gazdaság",
-        "Kína"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Volvo_PV_HK_Torslanda_G%C3%B6teborg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 804,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Headquarters of Volvo Car Corporation in Torslanda, Göteborg (Gothenburg) built in the late 1960s"
-      }
     }
   ],
-  "updated_at": "2026-11-03T09:37:03+01:00"
+  "updated_at": "2026-11-03T09:41:05+01:00"
 }
