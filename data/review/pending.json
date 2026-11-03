@@ -9946,8 +9946,11 @@
         "lead": "Két helikopter ütközött össze kedden leszállás közben a Mount Everest alaptábora közelében; a balesetben egy indiai turista életét vesztette, ketten pedig megsérültek. Az eset a túraszezon csúcsán történt a 4200 méter magasan fekvő Phericse falunál.",
         "ctl_photo": true,
         "control_id": 9824,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 15:09 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-03T15:09:07+01:00"
     },
     {
       "id": "10835a69-6500-55e7-85ec-4dd8932c342d",
@@ -10181,7 +10184,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 2,
         "sent_at": "2026-11-03T13:06:17+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 12.68 · 4 forrás\n\n1) Bocsánatot kért a társadalomtól az új legfőbb ügyész\n2) Fejes Péter: Megkövetem a társadalmat az elmúlt időszak döntéseiért\n🔥 3) Bocsánatkéréssel kezdte pályafutását a frissen megválasztott legfőbb ügyész\n\n<b>Források:</b> 24.hu, 444.hu, infostart.hu, index.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
         "lead": "Az Országgyűlésben tartott sajtótájékoztatóján az ügyészi szervezet nevében bocsánatot kért a társadalomtól a frissen megválasztott legfőbb ügyész, Fejes Péter. A lépés nyomán az intézmény függetlenségének és a közbizalomnak a helyreállítása áll a fókuszban.",
