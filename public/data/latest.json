@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "03fed2f4-8b9e-54c7-8231-b3c665eb0f1b",
+      "slug": "2026-11-03-szavazogep-csalas-miatt-vizsgaljak-a-fideszes-pocs-janost",
+      "url": "/kozelet/2026-11-03-szavazogep-csalas-miatt-vizsgaljak-a-fideszes-pocs-janost/",
+      "title": "Szavazógép-csalás miatt vizsgálják a fideszes Pócs Jánost",
+      "lead": "Az Országgyűlés alelnöke, Hallerné Nagy Anikó bejelentette, hogy a jegyzőkönyvek és a videófelvételek elemzésével vizsgálják Pócs János fideszes képviselő keddi voksolásának körülményeit. Az ügyet Magyar Péter miniszterelnök robbantotta ki, aki szerint a politikus szavazatát szabálytalanul adták le, miközben nem tartózkodott a teremben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T18:44:40+01:00",
+      "published_at": "2026-11-03T18:44:40+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.13,
+      "tags": [
+        "parlament",
+        "Pócs János",
+        "Magyar Péter",
+        "szavazás",
+        "politika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Pócs János Országgyűlési képviselő Jászság"
+      }
+    },
+    {
       "id": "92b50278-0077-5992-880e-ae98feaac078",
       "slug": "2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza",
       "url": "/vilag/2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza/",
@@ -4380,37 +4410,7 @@
         "pos": "top",
         "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra"
       }
-    },
-    {
-      "id": "96ef6bed-d2b8-552f-8c2f-682639c7329c",
-      "slug": "2026-10-24-terrorelharitokat-es-vizagyukat-is-bevetnek-a-hetvegen-a-francia-hato",
-      "url": "/vilag/2026-10-24-terrorelharitokat-es-vizagyukat-is-bevetnek-a-hetvegen-a-francia-hato/",
-      "title": "Terrorelhárítókat és vízágyúkat is bevetnek a hétvégén a francia hatóságok",
-      "lead": "Több mint hetvenezer rendőrt, csendőrt és terrorelhárító elit alakulatot vezényelnek az utcákra Franciaországban a hétvégén, miután a megélhetési válság és a közoktatás helyzete miatt kirobbant tömegtüntetések súlyos erőszakba és fosztogatásokba torkollottak. A rendkívüli biztonsági intézkedések mellett múzeumok zárnak be, üzletek deszkázzák be a kirakataikat, és több nagyvárosban szigorú korlátozásokat vezettek be.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T11:22:28+02:00",
-      "published_at": "2026-10-24T11:22:28+02:00",
-      "reading_time_min": 3,
-      "hot_score": 9.1,
-      "tags": [
-        "Franciaország",
-        "tüntetés",
-        "zavargások",
-        "Párizs",
-        "biztonsági intézkedések"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Cour_Napol%C3%A9on_at_night_-_Louvre.jpg/1280px-Cour_Napol%C3%A9on_at_night_-_Louvre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 476,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Courtyard of the Museum of Louvre, and its pyramid. This picture is a panorama made from stitching three pictures with Hugin."
-      }
     }
   ],
-  "updated_at": "2026-11-03T18:19:27+01:00"
+  "updated_at": "2026-11-03T18:44:41+01:00"
 }
