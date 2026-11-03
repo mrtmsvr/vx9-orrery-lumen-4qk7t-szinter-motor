@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fbb16c09-71dd-5e78-ad25-db95de1e42a6",
+      "slug": "2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu",
+      "url": "/kozelet/2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu/",
+      "title": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
+      "lead": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus a gyanú szerint nem is volt jelen az ülésteremben az MNB-beszámoló szavazásakor. Az eset alaposan felkavarta a keddi parlamenti napot, ahol több fontos személyi döntés is született.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T12:45:28+01:00",
+      "published_at": "2026-11-03T12:45:28+01:00",
+      "reading_time_min": 3,
+      "hot_score": 14.21,
+      "tags": [
+        "Magyar Péter",
+        "Pócs János",
+        "Országgyűlés",
+        "Fidesz",
+        "Házbizottság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": ": János Pócs, Office of Member of Parliament- 6-10 István király Road, Jászapáti, Jász-Nagykun-Szolnok County, Hungary."
+      }
+    },
+    {
       "id": "c1d02f86-79f4-5eda-9823-7129b3a46391",
       "slug": "2026-11-03-nem-a-chopin-hanem-modlin-lett-a-vege-a-londonbol-varsoba-tarto-boein",
       "url": "/kozelet/2026-11-03-nem-a-chopin-hanem-modlin-lett-a-vege-a-londonbol-varsoba-tarto-boein/",
@@ -4387,37 +4417,7 @@
         "pos": "center",
         "alt": "Kehlsteinhaus_Orlí hnízdo_2026"
       }
-    },
-    {
-      "id": "e75b8193-ec70-5ed7-b71e-b3768a04db2b",
-      "slug": "2026-10-24-berbefagyasztas-es-leepitesek-elesedik-a-konfliktus-a-volkswagennel",
-      "url": "/penzvilag/2026-10-24-berbefagyasztas-es-leepitesek-elesedik-a-konfliktus-a-volkswagennel/",
-      "title": "Bérbefagyasztás és leépítések: élesedik a konfliktus a Volkswagennél",
-      "lead": "Január elejétől munkabeszüntetés kezdődhet a Volkswagennél, miután a vállalat vezetése felmondta az eddigi bérmegállapodásokat. A cégcsoport a kínai piaci nehézségek és az átállási költségek miatt jelentős megtakarításokat tervez, ami akár 100 ezer munkahelyet is érinthet.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T08:44:45+02:00",
-      "published_at": "2026-10-24T08:44:45+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5.09,
-      "tags": [
-        "Volkswagen",
-        "sztrájk",
-        "autóipar",
-        "munkaerőpiac",
-        "Németország"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wolfsburg_-_Volkswagen_Assembly_Line.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 829,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Inside the Volkswagen plant. The bodies are dropped from an overhead line to be attached to the chassis."
-      }
     }
   ],
-  "updated_at": "2026-11-03T12:33:39+01:00"
+  "updated_at": "2026-11-03T12:45:29+01:00"
 }
