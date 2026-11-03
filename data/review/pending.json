@@ -9368,29 +9368,27 @@
           "vision_score": 6.0
         },
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
-          "height": 1600,
+          "height": 1666,
           "kind": "photo",
           "pos": "top",
-          "alt": "Pócs János Országgyűlési képviselő Jászság",
-          "credit": "H.andras / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg",
-          "exact": true,
-          "entity": "Pócs János",
-          "vision_score": 5.0
+          "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires.",
+          "credit": "Vox España / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2023.jpg",
+          "vision_score": 8.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793706308-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/kozelet-1793706308-0.jpg",
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3f09d10b8b.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-3f09d10b8b.jpg",
           "kind": "photo",
-          "alt": "Magyar Péter szigorú büntetést követel Pócsnak",
-          "likeness": true,
-          "credit": "AI-generált illusztráció – Kollektíva",
-          "license": "saját (AI-generált illusztráció)",
+          "alt": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "generated": true,
+          "cover": true
         }
       ],
       "story": [
@@ -9504,12 +9502,29 @@
         "sent_at": "2026-11-03T11:45:27+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 14.21 · 5 forrás\n\n1) Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben\n2) Magyar Péter szigorú büntetést követel Pócsnak\n🔥 3) Ezt nem hiszed el: üvöltözés tört ki a parlamentben egy szavazási botrány miatt\n🔥 4) Pócs János nem is volt a teremben, mégis jelezte, hogy nem működik a gépe\n🔥 5) Összeül a Házbizottság: példátlan csalási vád rázta meg a parlamenti ülést\n\n<b>Források:</b> hvg.hu, telex.hu, 24.hu, infostart.hu, 24.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
         "lead": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus a gyanú szerint nem is volt jelen az ülésteremben az MNB-beszámoló szavazásakor. Az eset alaposan felkavarta a keddi parlamenti napot, ahol több fontos személyi döntés is született.",
-        "ctl_photo": false,
-        "control_id": 9822,
+        "ctl_photo": true,
+        "control_id": 9829,
         "msg_ids": [],
         "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
       },
-      "live": true
+      "live": true,
+      "image_queries": [
+        "János Pócs",
+        "Péter Magyar",
+        "Viktor Orbán",
+        "Hungarian Parliament",
+        "House Committee",
+        "Hungarian National Bank",
+        "empty parliamentary seat",
+        "hand raised during vote",
+        "voting machine error screen",
+        "politicians in heated debate"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg/1280px-P%C3%B3cs_J%C3%A1nos_J%C3%A1szs%C3%A1g.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793706308-0.jpg"
+      ]
     },
     {
       "id": "614e7fc3-2b84-59e1-8dc9-d2b32b411492",
