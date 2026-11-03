@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T21:42:11+01:00",
+  "updated_at": "2026-11-03T22:02:36+01:00",
   "articles": [
+    {
+      "id": "9c189353-5f05-5795-8fb6-26b6b3d34c5e",
+      "slug": "2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Bartis Attila",
+        "irodalom",
+        "regény",
+        "Ceaușescu-kor",
+        "Telex"
+      ],
+      "title": "Bartis Attila: Tévedni lehet, hazudni nem",
+      "subtitle": null,
+      "lead": "Bartis Attila író új, önéletrajzi ihletésű regényéről, A rég-ről beszélgetett Nyáry Krisztiánnal a Telex.hu műsorában. A kötet a Ceaușescu-kori Erdély világát, a szülőkkel való összetett viszonyt és a diktatúra működési mechanizmusait dolgozza fel.",
+      "key_points": [
+        "Bartis Attila A rég című könyve a családi múltat és a felnövéstörténetet mutatja be.",
+        "A Telex.hu videójában a szerző a diktatúráról, a félelemről és az emlékezetről beszélgetett.",
+        "Az író szerint az irodalmi munka nem a válaszok készre adásáról szól, hanem a múlt újraéléséről.",
+        "A beszélgetés kitért az ügynökmúlt nehézségeire, valamint a fiktív és a valós események összefonódására."
+      ],
+      "content": "Bartis Attila József Attila-díjas magyar író és fotográfus új, A rég című regénye a szerző család- és felnövéstörténetét helyezi a középpontba a Ceaușescu-kori Erdélyben. A kötet részletesen feltárja a szülőkkel való bonyolult kapcsolatot – a szeretett és egyben rettegett apát, valamint az édesanyát –, miközben megmutatja a diktatúra, az első szerelmek, a félelem és a művészet mindennapokra gyakorolt hatását.\n\nA Telex.hu interjújában a szerző Nyáry Krisztián kérdéseire válaszolva részletezte az alkotói folyamatot. Bartis hangsúlyozta, hogy az írás számára nem pusztán megírás, hanem leírás is, amely során fontos a formával való megengedő bánásmód. Az emlékezet, a hazugság és a tévedés témakörét érintve úgy fogalmazott, hogy tévedni lehet, hazudni viszont nem.\n\nA beszélgetésben előkerült az ügynökmúlt kérdésköre is, amellyel kapcsolatban a szerző megosztotta személyes érintettségét és a feldolgozás nehézségeit. Bartis kifejtette, hogy az írói munka során a fiktív és a valós események összefonódnak, és a könyv egyik fő célja a hiányos emlékezet tükrének vizsgálata volt. A diktatúra működési mechanizmusait és a félelem légkörét elemezve rámutatott arra is, hogyan lehetett egy ilyen közegben megőrizni az egyéni integritást, megjegyezve, hogy a cél nem a válaszok készen kapása, hanem a múltbéli események és az akkori érzések újraélése volt.",
+      "content_format": "markdown",
+      "body": [
+        "Bartis Attila József Attila-díjas magyar író és fotográfus új, A rég című regénye a szerző család- és felnövéstörténetét helyezi a középpontba a Ceaușescu-kori Erdélyben. A kötet részletesen feltárja a szülőkkel való bonyolult kapcsolatot – a szeretett és egyben rettegett apát, valamint az édesanyát –, miközben megmutatja a diktatúra, az első szerelmek, a félelem és a művészet mindennapokra gyakorolt hatását.",
+        "A Telex.hu interjújában a szerző Nyáry Krisztián kérdéseire válaszolva részletezte az alkotói folyamatot. Bartis hangsúlyozta, hogy az írás számára nem pusztán megírás, hanem leírás is, amely során fontos a formával való megengedő bánásmód. Az emlékezet, a hazugság és a tévedés témakörét érintve úgy fogalmazott, hogy tévedni lehet, hazudni viszont nem.",
+        "A beszélgetésben előkerült az ügynökmúlt kérdésköre is, amellyel kapcsolatban a szerző megosztotta személyes érintettségét és a feldolgozás nehézségeit. Bartis kifejtette, hogy az írói munka során a fiktív és a valós események összefonódnak, és a könyv egyik fő célja a hiányos emlékezet tükrének vizsgálata volt. A diktatúra működési mechanizmusait és a félelem légkörét elemezve rámutatott arra is, hogyan lehetett egy ilyen közegben megőrizni az egyéni integritást, megjegyezve, hogy a cél nem a válaszok készen kapása, hanem a múltbéli események és az akkori érzések újraélése volt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 230,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bartis_Attila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1764,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Bartis Attila román-magyar író, újságíró, fotóművész.",
+        "credit": "Lenke Szilágyi / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bartis_Attila.jpg",
+        "exact": true,
+        "entity": "Bartis Attila",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=3QMiPgf9OQU",
+          "title": "Bartis Attila: A diktatúra hazugság nélkül elképzelhetetlen",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-11-03T18:59:30+01:00"
+        }
+      ],
+      "quote": {
+        "text": "tévedni lehet, hazudni nem",
+        "who": "Bartis Attila, író",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-11-03T22:02:36+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=3QMiPgf9OQU"
+        ]
+      },
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "url": "/kultura/2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem/",
+      "seo": {
+        "meta_title": "Bartis Attila: Tévedni lehet, hazudni nem",
+        "meta_description": "Bartis Attila író új, önéletrajzi ihletésű regényéről, A rég-ről beszélgetett Nyáry Krisztiánnal a Telex.hu műsorában. A kötet a Ceaușescu-kori Erdély világát, ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bartis_Attila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "4e5efa3a-222c-5fea-be71-515d36a80884"
+      ],
+      "see_also": [
+        {
+          "title": "Kossuth-címer az osztályteremben: Spiró György gyermekkori 56-os emlékei",
+          "url": "/kultura/2026-10-24-kossuth-cimer-az-osztalyteremben-spiro-gyorgy-gyermekkori-56-os-emlek/",
+          "date": "2026-10-24"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "333e3d1b9a6ed600f21dd4284686d87a3b12d69d8448f5cb5e62fbce561b4838",
+      "pipeline_run_id": "41680722677",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-03T22:02:36+01:00",
+      "updated_at": "2026-11-03T22:02:36+01:00",
+      "published_at": "2026-11-03T22:02:36+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "3QMiPgf9OQU",
+        "title": "Bartis Attila: A diktatúra hazugság nélkül elképzelhetetlen",
+        "channel": "Telex․hu",
+        "minutes": 48
+      }
+    },
     {
       "id": "cdc5ae96-1ecd-5161-a0ae-6814b17a27ef",
       "slug": "2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc",
@@ -71421,136 +71542,6 @@
       "updated_at": "2026-10-23T04:20:15+00:00",
       "published_at": "2026-10-08T18:59:58+02:00",
       "expires_at": null
-    },
-    {
-      "id": "14771ee1-c38a-5653-ae37-6dcbe5de2bc7",
-      "slug": "2026-10-08-hazudott-a-miniszterium-senki-sem-kapott-megbizast-a-terror-haza-atal",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Terror Háza Múzeum",
-        "Tarr Zoltán",
-        "Ungváry Krisztián",
-        "kulturális politika",
-        "történelem"
-      ],
-      "title": "Kérdések a Terror Háza átalakulása körül: Senki sem kapott még megbízást?",
-      "subtitle": null,
-      "lead": "Komoly ellentmondás alakult ki a kultúráért felelős minisztérium tervei és a valóság között a Terror Háza Múzeum esetében. Tarr Zoltán (független országgyűlési képviselő) korábbi bejelentésével ellentétben ugyanis a hvg.hu beszámolója szerint egyetlen történész sem kapott megbízást a kiállítás átalakítására.",
-      "key_points": [
-        "Tarr Zoltán miniszter korábban arról beszélt a Kossuth Rádióban, hogy egy történészcsapat vizsgálja át a múzeum kiállítását.",
-        "A hvg.hu által megkérdezett történészek nyilatkozatai alapján senkit sem kértek fel eddig a feladatra.",
-        "Schmidt Mária korábbi igazgató emberei továbbra is a helyükön vannak, mivel a lap információi szerint jelenleg nincs pénz az elbocsátásukra."
-      ],
-      "content": "A budapesti Andrássy út 60. szám alatt található Terror Háza Múzeum kiállításának átalakításáról beszélt a közelmúltban a Kossuth Rádióban Tarr Zoltán (független országgyűlési képviselő). A rádióinterjúban elhangzottak szerint egy történészcsapat feladata lett volna a huszadik századi fasiszta és kommunista rezsimek áldozatainak emléket állító intézmény tárlatának átdolgozása.\n\nA minisztérium azonban nem válaszolt a sajtó megkereséseire, így a hvg.hu munkatársai maguk kérdezték meg a szóba jöhető szakembereket. A hvg.hu körképe szerint szó sincs semmilyen felkért csapatról, és a megkérdezett történészek közül egyedül Ungváry Krisztián, az MTA doktora nyilatkozott úgy, hogy elvállalná a munkát, de hivatalos megbízást ő sem kapott.\n\nA múzeum mindennapi működésében egyelőre nem történt érdemi változás, a korábbi vezetéshez köthető munkatársak a helyükön maradtak. A beszámolók szerint ennek oka az, hogy a fenntartónak jelenleg nincsen elegendő pénzügyi kerete az érintett munkavállalók elbocsátására, így az intézmény irányítása változatlan maradt.",
-      "content_format": "markdown",
-      "body": [
-        "A budapesti Andrássy út 60. szám alatt található Terror Háza Múzeum kiállításának átalakításáról beszélt a közelmúltban a Kossuth Rádióban Tarr Zoltán (független országgyűlési képviselő). A rádióinterjúban elhangzottak szerint egy történészcsapat feladata lett volna a huszadik századi fasiszta és kommunista rezsimek áldozatainak emléket állító intézmény tárlatának átdolgozása.",
-        "A minisztérium azonban nem válaszolt a sajtó megkereséseire, így a hvg.hu munkatársai maguk kérdezték meg a szóba jöhető szakembereket. A hvg.hu körképe szerint szó sincs semmilyen felkért csapatról, és a megkérdezett történészek közül egyedül Ungváry Krisztián, az MTA doktora nyilatkozott úgy, hogy elvállalná a munkát, de hivatalos megbízást ő sem kapott.",
-        "A múzeum mindennapi működésében egyelőre nem történt érdemi változás, a korábbi vezetéshez köthető munkatársak a helyükön maradtak. A beszámolók szerint ennek oka az, hogy a fenntartónak jelenleg nincsen elegendő pénzügyi kerete az érintett munkavállalók elbocsátására, így az intézmény irányítása változatlan maradt."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 176,
-      "locale": "hu-HU",
-      "hero_image": null,
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/360/20261008_terror-haza-tortenesz-ungvary-krisztian",
-          "title": "A minisztérium által megkérdezett történészek közül csak Ungváry Krisztián vállalná a Terror Háza átalakítását, de ő sem kapott megbízást",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-08T10:17:33+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Történészcsapat dolga lesz átnézni a Terror Háza Múzeum kiállítását",
-        "who": "Tarr Zoltán kultúráért is felelős miniszter",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-08T17:33:36+02:00"
-      },
-      "hot_score": 5.56,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/360/20261008_terror-haza-tortenesz-ungvary-krisztian"
-        ]
-      },
-      "date": "2026-10-08",
-      "date_label": "október 8.",
-      "url": "/kozelet/2026-10-08-hazudott-a-miniszterium-senki-sem-kapott-megbizast-a-terror-haza-atal/",
-      "seo": {
-        "meta_title": "Kérdések a Terror Háza átalakulása körül: Senki sem kapott m",
-        "meta_description": "Komoly ellentmondás alakult ki a kultúráért felelős minisztérium tervei és a valóság között a Terror Háza Múzeum esetében. Tarr Zoltán (független országgyűlési képviselő) korábbi bejelen",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-08-hazudott-a-miniszterium-senki-sem-kapott-megbizast-a-terror-haza-atal/",
-        "og_image": null,
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "9acc81039b7dac8a2acf3a66ded917a9afb2d6e58566a7e160d2424d903accfd",
-      "pipeline_run_id": "37747060702",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-08T17:33:36+02:00",
-      "updated_at": "2026-10-23T04:20:15+00:00",
-      "published_at": "2026-10-08T17:33:36+02:00",
-      "expires_at": null,
-      "hold": true,
-      "image_queries": [
-        "Tarr Zoltán",
-        "House of Terror Museum",
-        "Kossuth Radio",
-        "Ungváry Krisztián",
-        "Schmidt Mária",
-        "museum exhibition hall",
-        "press interview setting",
-        "historic archive room",
-        "Andrassy ut 60",
-        "Ministry of Culture Hungary",
-        "HVG office",
-        "Hungarian Academy of Sciences",
-        "empty office desks",
-        "newsroom desk",
-        "microphone in radio studio",
-        "Terror Haza Museum facade",
-        "Andrassy Avenue Budapest",
-        "Hungarian Parliament building",
-        "Ministry of Culture Budapest",
-        "empty museum gallery",
-        "historic documents on desk",
-        "Andrássy Avenue Metro Station",
-        "Hungarian State Archives",
-        "Budapest City Hall",
-        "National Museum of Hungary",
-        "Hungarian Cultural Heritage Agency",
-        "Buda Castle Hill",
-        "historic exhibition space",
-        "press conference room",
-        "archival research desk"
-      ],
-      "images_seen": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/29/Ungv%C3%A1ry_Kriszti%C3%A1n_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Civic_Center_office_building%2C_Kossuth_Street%2C_2020_Zalaegerszeg.jpg/1280px-Civic_Center_office_building%2C_Kossuth_Street%2C_2020_Zalaegerszeg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Peace_March_for_Hungary_-_2013.10.23_%2870%29.JPG/1280px-Peace_March_for_Hungary_-_2013.10.23_%2870%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
     }
   ]
 }

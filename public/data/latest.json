@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9c189353-5f05-5795-8fb6-26b6b3d34c5e",
+      "slug": "2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem",
+      "url": "/kultura/2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem/",
+      "title": "Bartis Attila: Tévedni lehet, hazudni nem",
+      "lead": "Bartis Attila író új, önéletrajzi ihletésű regényéről, A rég-ről beszélgetett Nyáry Krisztiánnal a Telex.hu műsorában. A kötet a Ceaușescu-kori Erdély világát, a szülőkkel való összetett viszonyt és a diktatúra működési mechanizmusait dolgozza fel.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T22:02:36+01:00",
+      "published_at": "2026-11-03T22:02:36+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Bartis Attila",
+        "irodalom",
+        "regény",
+        "Ceaușescu-kor",
+        "Telex"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bartis_Attila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1764,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Bartis Attila román-magyar író, újságíró, fotóművész."
+      }
+    },
+    {
       "id": "cdc5ae96-1ecd-5161-a0ae-6814b17a27ef",
       "slug": "2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc",
       "url": "/kozelet/2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc/",
@@ -4374,37 +4404,7 @@
         "pos": "center",
         "alt": "Békés Csaba történész"
       }
-    },
-    {
-      "id": "933196df-9cd4-5e0f-b6a4-d7e7d12ad670",
-      "slug": "2026-10-24-itt-a-reszletes-lista-ekkor-nyilik-a-nyitottaktak-hu",
-      "url": "/kozelet/2026-10-24-itt-a-reszletes-lista-ekkor-nyilik-a-nyitottaktak-hu/",
-      "title": "Itt a részletes lista: ekkor nyílik a nyitottaktak.hu",
-      "lead": "November 4-én indul az Állambiztonsági Szolgálatok Történeti Levéltárának első ügynökaktás adatbázisa és keresőrendszere a nyitottaktak.hu oldalon. Az online felületen keresztül a hálózati nyilvántartások adatai is elérhetővé válnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T12:19:20+02:00",
-      "published_at": "2026-10-24T12:19:20+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "ÁBTL",
-        "ügynökakták",
-        "történelem",
-        "levéltár",
-        "adatbázis"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Budapest és a Duna madártávlatból"
-      }
     }
   ],
-  "updated_at": "2026-11-03T21:42:12+01:00"
+  "updated_at": "2026-11-03T22:02:37+01:00"
 }
