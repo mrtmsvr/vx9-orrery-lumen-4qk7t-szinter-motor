@@ -9498,14 +9498,16 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 2,
         "sent_at": "2026-11-03T11:45:27+00:00",
         "head": "🆕 ÚJ · <b>Közélet</b> · forróság 14.21 · 5 forrás\n\n1) Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben\n2) Magyar Péter szigorú büntetést követel Pócsnak\n🔥 3) Ezt nem hiszed el: üvöltözés tört ki a parlamentben egy szavazási botrány miatt\n🔥 4) Pócs János nem is volt a teremben, mégis jelezte, hogy nem működik a gépe\n🔥 5) Összeül a Házbizottság: példátlan csalási vád rázta meg a parlamenti ülést\n\n<b>Források:</b> hvg.hu, telex.hu, 24.hu, infostart.hu, 24.hu\n\n⚖️ Jogi ellenőrzés: magától javítottam küldés előtt:",
         "lead": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus a gyanú szerint nem is volt jelen az ülésteremben az MNB-beszámoló szavazásakor. Az eset alaposan felkavarta a keddi parlamenti napot, ahol több fontos személyi döntés is született.",
         "ctl_photo": true,
         "control_id": 9829,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true,
       "image_queries": [
@@ -10191,7 +10193,9 @@
         "ctl_photo": true,
         "control_id": 9828,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }

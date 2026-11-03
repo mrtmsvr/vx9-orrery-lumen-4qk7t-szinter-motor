@@ -77,12 +77,10 @@
         "Házbizottság"
       ],
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3f09d10b8b.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": ": János Pócs, Office of Member of Parliament- 6-10 István király Road, Jászapáti, Jász-Nagykun-Szolnok County, Hungary."
+        "alt": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
+        "cover": true
       }
     },
     {
@@ -4414,5 +4412,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-03T14:49:46+01:00"
+  "updated_at": "2026-11-03T14:50:14+01:00"
 }

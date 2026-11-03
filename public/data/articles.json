@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T14:49:44+01:00",
+  "updated_at": "2026-11-03T14:50:13+01:00",
   "articles": [
     {
       "id": "614e7fc3-2b84-59e1-8dc9-d2b32b411492",
@@ -303,16 +303,15 @@
       "word_count": 420,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3f09d10b8b.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-3f09d10b8b.jpg",
         "kind": "photo",
-        "pos": "top",
-        "alt": ": János Pócs, Office of Member of Parliament- 6-10 István király Road, Jászapáti, Jász-Nagykun-Szolnok County, Hungary.",
-        "credit": "Globetrotter19 / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:K%C3%A9pvisel%C5%91i_Iroda,_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt,_2020_J%C3%A1szap%C3%A1ti.jpg",
-        "vision_score": 6.0
+        "alt": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -380,9 +379,9 @@
       "url": "/kozelet/2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu/",
       "seo": {
         "meta_title": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az",
-        "meta_description": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus szerinte nem is v",
+        "meta_description": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus a gyanú szerint n",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg/1280px-K%C3%A9pvisel%C5%91i_Iroda%2C_Istv%C3%A1n_kir%C3%A1ly_%C3%BAt%2C_2020_J%C3%A1szap%C3%A1ti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3f09d10b8b.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -420,7 +419,7 @@
       "pipeline_run_id": "41626614544",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-03T12:45:28+01:00",
-      "updated_at": "2026-11-03T12:45:28+01:00",
+      "updated_at": "2026-11-03T14:50:13+01:00",
       "published_at": "2026-11-03T12:45:28+01:00",
       "expires_at": null
     },
