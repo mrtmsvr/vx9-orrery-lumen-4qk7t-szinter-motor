@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ea8f6bdb-fd9e-5e3a-bf8e-d925c9a629c6",
+      "slug": "2026-11-03-navracsicsnak-is-dolgozott-a-kirugott-kulugyi-agytroszt-vezeto",
+      "url": "/kozelet/2026-11-03-navracsicsnak-is-dolgozott-a-kirugott-kulugyi-agytroszt-vezeto/",
+      "title": "Navracsicsnak is dolgozott a kirúgott külügyi agytröszt-vezető",
+      "lead": "Azonnali hatállyal menesztették a Magyar Külügyi Intézet éléről Feledy Botondot, miután kiderült, hogy korábban a Miniszterelnökségnek és Lázár János minisztériumának is készített külsős elemzéseket. A dokumentumok szerint a szakember Navracsics Tibor tárcájának is nyújtott külpolitikai szaktanácsadást.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-03",
+      "date_label": "november 3.",
+      "created_at": "2026-11-03T18:59:12+01:00",
+      "published_at": "2026-11-03T18:59:12+01:00",
+      "reading_time_min": 3,
+      "hot_score": 9.32,
+      "tags": [
+        "Feledy Botond",
+        "Magyar Külügyi Intézet",
+        "Navracsics Tibor",
+        "Miniszterelnökség",
+        "belpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Minisztereln%C3%B6ks%C3%A9g_-_2015.01.26.JPG/1280px-Minisztereln%C3%B6ks%C3%A9g_-_2015.01.26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Office Building of P.M. of Hungary. - 4., Kossuth Lajos Square, District 5th, Budapest"
+      }
+    },
+    {
       "id": "6a7d47f2-65f7-5025-96d9-8fcac935ceb6",
       "slug": "2026-11-03-verben-forgo-szemekkel-uzent-teheran-bortoncellas-oriasplakattal-kosz",
       "url": "/vilag/2026-11-03-verben-forgo-szemekkel-uzent-teheran-bortoncellas-oriasplakattal-kosz/",
@@ -4381,36 +4411,7 @@
         "pos": "center",
         "alt": ""
       }
-    },
-    {
-      "id": "5faab66e-0209-5e89-8770-e2f10dcb8a69",
-      "slug": "2026-10-24-igy-alakitja-at-a-koltsegvetest-a-jovo-evre-a-kabinet",
-      "url": "/kozelet/2026-10-24-igy-alakitja-at-a-koltsegvetest-a-jovo-evre-a-kabinet/",
-      "title": "Nadrágszíj és családi pótlék: ez vár ránk 2027-ben",
-      "lead": "Komoly átrendezésre készül a kormány a 2027-es költségvetés mintegy 45 ezer milliárd forintos kiadási oldalán, miközben a legfontosabb kérdés az 1465 milliárd forintos kiadáscsökkentés végrehajtása lesz. A tervezett intézkedések rávilágítanak a jövő évi büdzsé főbb súlypontjaira és kockázataira.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T11:26:31+02:00",
-      "published_at": "2026-10-24T11:26:31+02:00",
-      "reading_time_min": 2,
-      "hot_score": 6.14,
-      "tags": [
-        "költségvetés",
-        "pénzügyminisztérium",
-        "gazdaság",
-        "szociális kiadások",
-        "Kármán András"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/8c3b63bd0c642a01.jpg",
-        "width": 2409,
-        "height": 1606,
-        "kind": "photo",
-        "alt": "shopping, receipt, business, retail trade, shopping venture, transport, supermarket, food, purchasing, load, receipt, receipt, receipt, receipt, receipt, supermarket"
-      }
     }
   ],
-  "updated_at": "2026-11-03T18:51:46+01:00"
+  "updated_at": "2026-11-03T18:59:14+01:00"
 }
