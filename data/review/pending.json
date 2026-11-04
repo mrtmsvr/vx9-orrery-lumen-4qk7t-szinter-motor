@@ -10997,13 +10997,10 @@
         "lead": "Súlyos vereséget szenvedett a Republikánus Párt a félidős választásokon, a demokraták ráadásul a képviselőház mellett a szenátusban is megszerezhették a többséget. Donald Trump amerikai elnök szerint a kudarc oka az volt, hogy nem az ő neve szerepelt a szavazólapokon, ám az eredmények elfogadása mellett az ellenzékkel való együttműködésre is ígéretet tett.",
         "ctl_photo": true,
         "control_id": 9867,
-        "msg_ids": [
-          9862,
-          9863,
-          9865,
-          9866
-        ],
-        "note": "🔥 Forró hír (forróság 15.32): azonnal kiraktam."
+        "msg_ids": [],
+        "note": "🔥 Forró hír (forróság 15.32): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
