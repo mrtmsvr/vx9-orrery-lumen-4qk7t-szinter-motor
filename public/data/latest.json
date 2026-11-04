@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "e3367b72-81c6-5b8e-bdd6-de6579144452",
+      "slug": "2026-11-04-luxuselet-160-karosult-penzebol-celebpartikon-is-feltunt-a-csalo",
+      "url": "/kozelet/2026-11-04-luxuselet-160-karosult-penzebol-celebpartikon-is-feltunt-a-csalo/",
+      "title": "Luxusélet 160 károsult pénzéből: celebpartikon is feltűnt a gyanúsított",
+      "lead": "Letartóztatta a rendőrség azt a 35 éves szegedi nőt, aki a gyanú szerint 160 embert károsított meg kiterjedt online csalássorozatával. A gyanúsított a megszerzett pénzből luxuséletet élt egy budapesti prémiumingatlanban, miközben kapcsolatait a hazai sztárvilágra is kiterjesztette.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T08:03:31+01:00",
+      "published_at": "2026-11-04T08:03:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.14,
+      "tags": [
+        "csalás",
+        "bűnügy",
+        "rendőrség",
+        "TikTok"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Budapest%2C_Marina_Part_Lak%C3%B3park.jpg/1280px-Budapest%2C_Marina_Part_Lak%C3%B3park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Marina Part Lakópark"
+      }
+    },
+    {
       "id": "a1ae981f-22de-5b89-b04a-e3bbe17058fc",
       "slug": "2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz",
       "url": "/kozelet/2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz/",
@@ -4379,37 +4408,7 @@
         "pos": "center",
         "alt": "Live on the 21st   of  September, 2015.  House of Commons,  Budapest, Hungary.  On this day  Autumn  Session of  the Parliament, first day.  Viktor Orbán adressing the House:  Dealing with  mass migra"
       }
-    },
-    {
-      "id": "46a4ef7f-6b68-513b-898a-b7152c88e9a3",
-      "slug": "2026-10-24-halalos-tomegbaleset-a-42-esen-egy-ember-meghalt-mezopeterdnel",
-      "url": "/kozelet/2026-10-24-halalos-tomegbaleset-a-42-esen-egy-ember-meghalt-mezopeterdnel/",
-      "title": "Halálos tömegbaleset a 42-esen: egy ember meghalt Mezőpeterdnél",
-      "lead": "Szombat délelőtt tömegbaleset történt a 42-es főúton Mezőpeterd közelében, ahol két személyautó és egy kisbusz ütközött össze. A tragédia következtében egy ötvenéves férfi életét vesztette, és több sérültet kórházba kellett szállítani.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T18:29:10+02:00",
-      "published_at": "2026-10-24T18:29:10+02:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "baleset",
-        "Mezőpeterd",
-        "42-es főút",
-        "katasztrófavédelem",
-        "mentők"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/KatSchutzUebungKarlsruhe2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Civil protection exercise in Karlsruhe, Germany."
-      }
     }
   ],
-  "updated_at": "2026-11-04T08:02:15+01:00"
+  "updated_at": "2026-11-04T08:03:33+01:00"
 }
