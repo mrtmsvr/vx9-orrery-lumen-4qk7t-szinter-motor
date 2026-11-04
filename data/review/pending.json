@@ -10804,6 +10804,28 @@
       "clickbait_from": 1,
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2867710cd-1793781123-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2867710cd-1793781123-0.jpg",
+          "kind": "photo",
+          "alt": "Nem az én hibám: Donald Trump szerint a gyenge jelöltek bukták el a republikánus többséget",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/e2867710cd-1793781128-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/e2867710cd-1793781128-1.jpg",
+          "kind": "photo",
+          "alt": "Nem az én hibám: Donald Trump szerint a gyenge jelöltek bukták el a republikánus többséget",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kim_Jong-un_and_Donald_Trump_impersonators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
           "height": 911,
@@ -10862,17 +10884,6 @@
           "license": "CC BY-SA 4.0",
           "source_url": "https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House,_Enfield,_London.jpg",
           "unverified": true
-        },
-        {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-8e3cb98be8.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-8e3cb98be8.jpg",
-          "kind": "photo",
-          "alt": "28 rendezvény – kampány eseményei",
-          "credit": "Kollektíva grafika",
-          "license": "saját grafika",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true,
-          "card": "num"
         }
       ],
       "story": [
@@ -10985,8 +10996,11 @@
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 15.32 · 5 forrás\n\n1) Nem az én hibám: Donald Trump szerint a gyenge jelöltek bukták el a republikánus többséget\n🔥 2) Ezt mondta Donald Trump a republikánusok váratlan és súlyos vereségéről a félidős választáson\n🔥 3) Megszólalt Donald Trump a demokraták tarolásáról és a kongresszusi többség elvesztéséről\n🔥 4) Ilyen magyarázatot adott Donald Trump a Republikánus Párt félidős kudarcára\n\n<b>Források:</b> infostart.hu, telex.hu, hvg.hu, index.hu, index.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Súlyos vereséget szenvedett a Republikánus Párt a félidős választásokon, a demokraták ráadásul a képviselőház mellett a szenátusban is megszerezhették a többséget. Donald Trump amerikai elnök szerint a kudarc oka az volt, hogy nem az ő neve szerepelt a szavazólapokon, ám az eredmények elfogadása mellett az ellenzékkel való együttműködésre is ígéretet tett.",
         "ctl_photo": true,
-        "control_id": 9861,
-        "msg_ids": [],
+        "control_id": 9864,
+        "msg_ids": [
+          9862,
+          9863
+        ],
         "note": "🔥 Forró hír (forróság 15.32): azonnal kiraktam."
       },
       "live": true
