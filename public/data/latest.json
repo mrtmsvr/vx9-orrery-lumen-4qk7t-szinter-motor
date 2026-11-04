@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a1ae981f-22de-5b89-b04a-e3bbe17058fc",
+      "slug": "2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz",
+      "url": "/kozelet/2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz/",
+      "title": "Idegenkezűség gyanúja miatt indult nyomozás egy IV. kerületi társasházban",
+      "lead": "Holtan találtak egy idős nőt egy újpesti társasházban kedden, a rendőrség pedig rövid időn belül elfogta a bűncselekménnyel megalapozottan gyanúsítható 47 éves nőt. Az eset körülményeit a Budapesti Rendőr-főkapitányság életvédelmi osztálya vizsgálja.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T08:02:12+01:00",
+      "published_at": "2026-11-04T08:02:12+01:00",
+      "reading_time_min": 1,
+      "hot_score": 10.38,
+      "tags": [
+        "bűnügy",
+        "Újpest",
+        "rendőrség",
+        "Budapest",
+        "emberölés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hungary_police_car_02.JPG/1280px-Hungary_police_car_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 901,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hongaarse politie auto"
+      }
+    },
+    {
       "id": "d9ff85e5-5de9-5405-95d5-eb9991418e2e",
       "slug": "2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt",
       "url": "/vilag/2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt/",
@@ -4379,37 +4409,7 @@
         "pos": "center",
         "alt": "Civil protection exercise in Karlsruhe, Germany."
       }
-    },
-    {
-      "id": "8211868d-3bf1-52e1-b84e-f531db5ec95b",
-      "slug": "2026-10-24-kosa-lajos-latvanypekseg-a-letartoztatasi-hullam-jon-a-folytatas",
-      "url": "/kozelet/2026-10-24-kosa-lajos-latvanypekseg-a-letartoztatasi-hullam-jon-a-folytatas/",
-      "title": "Még rengeteg embert el fognak vinni Kósa Lajos szerint",
-      "lead": "Kósa Lajos debreceni Fidesz-elnök figyelemelterelő látványpékségnek nevezte az Orbán-kormányok egykori tisztségviselőinek letartóztatását, és további letartóztatási hullámra számít. A helyi portálnak adott nyilatkozatában emellett kritizálta a Tisza-kormány költségvetését.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T18:13:46+02:00",
-      "published_at": "2026-10-24T18:13:46+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.16,
-      "tags": [
-        "Kósa Lajos",
-        "letartóztatás",
-        "Fidesz",
-        "Tisza Párt",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/K%C3%B3sa_Lajos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1741,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Kósa Lajos. Taken on the 2nd of October, 2016. Hungarian referendum on migrant kvotas. Bálna, Budapest, Hungary. Orbán Viktor was speaking about the upshot of the 7th hungarian referendum on this day."
-      }
     }
   ],
-  "updated_at": "2026-11-04T07:59:29+01:00"
+  "updated_at": "2026-11-04T08:02:15+01:00"
 }

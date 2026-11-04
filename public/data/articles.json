@@ -1,7 +1,137 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-04T07:59:27+01:00",
+  "updated_at": "2026-11-04T08:02:12+01:00",
   "articles": [
+    {
+      "id": "a1ae981f-22de-5b89-b04a-e3bbe17058fc",
+      "slug": "2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "bűnügy",
+        "Újpest",
+        "rendőrség",
+        "Budapest",
+        "emberölés"
+      ],
+      "title": "Idegenkezűség gyanúja miatt indult nyomozás egy IV. kerületi társasházban",
+      "subtitle": null,
+      "lead": "Holtan találtak egy idős nőt egy újpesti társasházban kedden, a rendőrség pedig rövid időn belül elfogta a bűncselekménnyel megalapozottan gyanúsítható 47 éves nőt. Az eset körülményeit a Budapesti Rendőr-főkapitányság életvédelmi osztálya vizsgálja.",
+      "key_points": [
+        "Kedd délután érkezett bejelentés a rendőrséghez a IV. kerületi lakásban történt esetről.",
+        "A helyszíni szemle során a hatóságok megállapították az idegenkezűség gyanúját.",
+        "A BRFK életvédelmi osztálya emberölés bűntettének gyanújával indított nyomozást."
+      ],
+      "content": "A rendőrségre kedden délután fél négykor érkezett bejelentés arról, hogy egy budapesti IV. kerületi társasház egyik lakásában egy idős nőt találtak holtan. A kiérkező egyenruhások azonnal helyszíni szemlét tartottak, amelynek során felmerült az idegenkezűség gyanúja, így a nyomozók a beszerzett adatok alapján rövid időn belül azonosították, majd a helyszínen elfogták a cselekménnyel megalapozottan gyanúsítható 47 éves nőt – írta a Police.hu tájékoztatása alapján a Telex. A gyanúsított elszámoltatása jelenleg is folyamatban van az ügyben, amelyet a Budapesti Rendőr-főkapitányság életvédelmi osztálya indított hivatalos eljárásként emberölés bűntettének gyanúja miatt.\n\nA fővárosban történt eseményekkel párhuzamosan a hazai közéletben és a nemzetközi hírekben is számos jelentős fejlemény történt a napokban, amelyek meghatározzák a közbeszédet.\n\nA hazai gazdasági és politikai élet szereplői is aktív napot tudhatnak maguk mögött.\n\nAz újpesti bűnügy vizsgálata eközben szakértők bevonásával zajlik tovább, hogy a hatóságok teljesen feltárják a IV. kerületi tragédia hátterét.",
+      "content_format": "markdown",
+      "body": [
+        "A rendőrségre kedden délután fél négykor érkezett bejelentés arról, hogy egy budapesti IV. kerületi társasház egyik lakásában egy idős nőt találtak holtan. A kiérkező egyenruhások azonnal helyszíni szemlét tartottak, amelynek során felmerült az idegenkezűség gyanúja, így a nyomozók a beszerzett adatok alapján rövid időn belül azonosították, majd a helyszínen elfogták a cselekménnyel megalapozottan gyanúsítható 47 éves nőt – írta a Police.hu tájékoztatása alapján a Telex. A gyanúsított elszámoltatása jelenleg is folyamatban van az ügyben, amelyet a Budapesti Rendőr-főkapitányság életvédelmi osztálya indított hivatalos eljárásként emberölés bűntettének gyanúja miatt.",
+        "A fővárosban történt eseményekkel párhuzamosan a hazai közéletben és a nemzetközi hírekben is számos jelentős fejlemény történt a napokban, amelyek meghatározzák a közbeszédet.",
+        "A hazai gazdasági és politikai élet szereplői is aktív napot tudhatnak maguk mögött.",
+        "Az újpesti bűnügy vizsgálata eközben szakértők bevonásával zajlik tovább, hogy a hatóságok teljesen feltárják a IV. kerületi tragédia hátterét."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 176,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hungary_police_car_02.JPG/1280px-Hungary_police_car_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 901,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hongaarse politie auto",
+        "credit": "Dickelbers / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hungary_police_car_02.JPG",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/11/03/elfogta-a-rendorseg-egy-ujpesti-emberoles-feltetelezett-elkovetojet",
+          "title": "Elfogta a rendőrség egy újpesti emberölés feltételezett elkövetőjét",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-04T08:00:29+01:00"
+        },
+        {
+          "url": "https://telex.hu/belfold/2026/11/04/holtan-talaltak-egy-not-egy-ujpesti-lakasban-elfogtak-a-feltetelezett-elkovetot",
+          "title": "Holtan találtak egy nőt egy újpesti lakásban, elfogták a feltételezett elkövetőt",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-04T08:00:29+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261104_ujpest-gyilkossag-idos-no-feltetelezett-elkoveto",
+          "title": "Idős nő feltételezett gyilkosát fogták el Újpesten",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-04T08:00:29+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-04T08:02:12+01:00"
+      },
+      "hot_score": 10.38,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/11/03/elfogta-a-rendorseg-egy-ujpesti-emberoles-feltetelezett-elkovetojet",
+          "https://telex.hu/belfold/2026/11/04/holtan-talaltak-egy-not-egy-ujpesti-lakasban-elfogtak-a-feltetelezett-elkovetot",
+          "https://hvg.hu/itthon/20261104_ujpest-gyilkossag-idos-no-feltetelezett-elkoveto"
+        ]
+      },
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "url": "/kozelet/2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz/",
+      "seo": {
+        "meta_title": "Idegenkezűség gyanúja miatt indult nyomozás egy IV. kerületi",
+        "meta_description": "Holtan találtak egy idős nőt egy újpesti társasházban kedden, a rendőrség pedig rövid időn belül elfogta a bűncselekménnyel megalapozottan gyanúsítható 47 éves ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hungary_police_car_02.JPG/1280px-Hungary_police_car_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "d7762ae9-39da-5c0c-a12f-71a679c73853",
+        "96e2669c-f84d-5308-afb4-3f2d0064a0a3"
+      ],
+      "see_also": [
+        {
+          "title": "Kilencmilliárdos ingatlanbotrány rázza meg a Magyar Kereskedelmi és Iparkamarát",
+          "url": "/kozelet/2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i/",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Milliárdos rácalmási földügylet miatt indult nyomozás Rákay Philip cége ellen",
+          "url": "/kozelet/2026-10-10-milliardos-racalmasi-foldugylet-miatt-indult-nyomozas-rakay-philip-ce/",
+          "date": "2026-10-10"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "6fe8975276d34cf89394328968b1d925b466b9c22881f28ea0c20da8b7df3328",
+      "pipeline_run_id": "41786501271",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-04T08:02:12+01:00",
+      "updated_at": "2026-11-04T08:02:12+01:00",
+      "published_at": "2026-11-04T08:02:12+01:00",
+      "expires_at": null
+    },
     {
       "id": "d9ff85e5-5de9-5405-95d5-eb9991418e2e",
       "slug": "2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt",
@@ -71505,126 +71635,6 @@
       "created_at": "2026-10-09T06:54:27+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-09T06:54:27+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "bbdcf82e-f0cd-51e8-a6ca-645f14a992e2",
-      "slug": "2026-10-09-ruszin-szendi-elszamoltatna-orbant-az-aranykonvoj-miatt",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Ruszin-Szendi Romulusz",
-        "Orbán Viktor",
-        "aranykonvoj",
-        "Központi Nyomozó Főügyészség",
-        "TEK"
-      ],
-      "title": "Ruszin-Szendi elszámoltatná Orbánt az aranykonvoj miatt",
-      "subtitle": null,
-      "lead": "Ruszin-Szendi Romulusz felszólította Orbán Viktor miniszterelnököt, hogy tisztázza szerepét az M3-as autópályán feltartóztatott ukrán pénzszállítmány ügyében. A tárcavezető szerint elkerülhetetlen, hogy a döntéshozók nyíltan vállalják a felelősséget a vitatott akcióért.",
-      "key_points": [
-        "Ruszin-Szendi Romulusz Facebook-bejegyzésben kérte számon az aranykonvoj leállításának parancsát.",
-        "A Központi Nyomozó Főügyészség tájékoztatása szerint az ügyben eddig öt gyanúsított szerepel.",
-        "A Terrorelhárítási Központ és a titkosszolgálat még márciusban foglalta le a szállítmányt az M3-ason."
-      ],
-      "content": "A volt vezérkari főnök csütörtök este közzétett bejegyzésében arról írt, hogy a volt kormányfőnek nyilvánosan kellene beszélnie arról, vajon tőle érkezett-e a parancs az úgynevezett aranykonvoj megállítására. Ruszin-Szendi Romulusz hangsúlyozta, hogy miközben egy volt főügyész nyilvános állításai szerint a legmagasabb politikai szintről jött az utasítás, a hatóságok eddig három rendőrjárőrt gyanúsítottak meg az eset kapcsán.\n\nAz ügy hátterében a Terrorelhárítási Központ (TEK) és a titkosszolgálat 2026. március 5-i akciója áll, amely során az M3-as autópályán állítottak meg egy ukrán pénzszállítmányt. A gépjárművekből a hatóságok tonnaszámra foglaltak le aranyat és készpénzt, a járműveket kísérő személyeket pedig napokig fogva tartották.\n\nA nyomozás fejleményeként a Központi Nyomozó Főügyészség október 2-án vonta saját hatáskörébe az eljárást, amelyben jelenleg öt gyanúsítottat tartanak számon. A gyanúsítottak között van Hajdu János, a TEK volt főigazgatója, valamint Szathmáry István, az Alkotmányvédelmi Hivatal munkatársa.\n\nA honvédelmi miniszter arra hívta fel a figyelmet, hogy nem igazságos a végrehajtó rendőrökre hárítani a következményeket egy olyan intézkedésért, amelynek eredetét továbbra is tisztázatlan kérdések övezik.",
-      "content_format": "markdown",
-      "body": [
-        "A volt vezérkari főnök csütörtök este közzétett bejegyzésében arról írt, hogy a volt kormányfőnek nyilvánosan kellene beszélnie arról, vajon tőle érkezett-e a parancs az úgynevezett aranykonvoj megállítására. Ruszin-Szendi Romulusz hangsúlyozta, hogy miközben egy volt főügyész nyilvános állításai szerint a legmagasabb politikai szintről jött az utasítás, a hatóságok eddig három rendőrjárőrt gyanúsítottak meg az eset kapcsán.",
-        "Az ügy hátterében a Terrorelhárítási Központ (TEK) és a titkosszolgálat 2026. március 5-i akciója áll, amely során az M3-as autópályán állítottak meg egy ukrán pénzszállítmányt. A gépjárművekből a hatóságok tonnaszámra foglaltak le aranyat és készpénzt, a járműveket kísérő személyeket pedig napokig fogva tartották.",
-        "A nyomozás fejleményeként a Központi Nyomozó Főügyészség október 2-án vonta saját hatáskörébe az eljárást, amelyben jelenleg öt gyanúsítottat tartanak számon. A gyanúsítottak között van Hajdu János, a TEK volt főigazgatója, valamint Szathmáry István, az Alkotmányvédelmi Hivatal munkatársa.",
-        "A honvédelmi miniszter arra hívta fel a figyelmet, hogy nem igazságos a végrehajtó rendőrökre hárítani a következményeket egy olyan intézkedésért, amelynek eredetét továbbra is tisztázatlan kérdések övezik."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 199,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Romolusz_Ruszin-Szendi.jpg/1280px-Romolusz_Ruszin-Szendi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Ruszin-Szendi Romolusz vezérkari főnök 2020 novemberében",
-        "credit": "Kölcsey Televízió / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Romolusz_Ruszin-Szendi.jpg",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261009_aranykonvojugy-ruszin-szendi-romolusz-orban-viktor",
-          "title": "„Álljon ki a magyar emberek elé!” – Ruszin-Szendi Romulusz felszólította Orbán Viktort az aranykonvojügyben",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-09T06:20:43+02:00"
-        },
-        {
-          "url": "https://telex.hu/belfold/2026/10/08/kerdore-vonta-orban-viktort-az-aranykonvoj-ugyben-ruszin-szendi-romulusz",
-          "title": "Kérdőre vonta Orbán Viktort az aranykonvoj-ügyben Ruszin-Szendi Romulusz",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-09T06:20:43+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Ön adta ki a parancsot az aranykonvoj megállítására, vagy nem? Ha igen, vállalja érte a felelősséget! Ha nem, mondja el, ki döntött, és milyen felhatalmazás alapján!",
-        "who": "Ruszin-Szendi Romulusz honvédelmi miniszter",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-09T06:52:58+02:00"
-      },
-      "hot_score": 9.34,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261009_aranykonvojugy-ruszin-szendi-romolusz-orban-viktor",
-          "https://telex.hu/belfold/2026/10/08/kerdore-vonta-orban-viktort-az-aranykonvoj-ugyben-ruszin-szendi-romulusz"
-        ]
-      },
-      "date": "2026-10-09",
-      "date_label": "október 9.",
-      "url": "/kozelet/2026-10-09-ruszin-szendi-elszamoltatna-orbant-az-aranykonvoj-miatt/",
-      "seo": {
-        "meta_title": "Ruszin-Szendi elszámoltatná Orbánt az aranykonvoj miatt",
-        "meta_description": "Ruszin-Szendi Romulusz felszólította Orbán Viktor miniszterelnököt, hogy tisztázza szerepét az M3-as autópályán feltartóztatott ukrán pénzszállítmány ügyéb",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-09-ruszin-szendi-elszamoltatna-orbant-az-aranykonvoj-miatt/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Romolusz_Ruszin-Szendi.jpg/1280px-Romolusz_Ruszin-Szendi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "1b8d58ce-a33f-52ae-b64f-816a7d47401d"
-      ],
-      "see_also": [
-        {
-          "title": "Négymilliárd forint ment el a csádi misszióra",
-          "url": "/kozelet/2026-09-30-negymilliard-forint-ment-el-a-csadi-missziora/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": "1b8d58ce-a33f-52ae-b64f-816a7d47401d",
-      "dedupe_hash": "864e3c4b3cfb1dd02270220ee4be4aa10da2991609e8d806644716d7530aa0eb",
-      "pipeline_run_id": "37881940759",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-09T06:52:58+02:00",
-      "updated_at": "2026-10-23T03:47:49+00:00",
-      "published_at": "2026-10-09T06:52:58+02:00",
       "expires_at": null
     }
   ]
