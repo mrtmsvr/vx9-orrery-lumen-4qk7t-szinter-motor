@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Titokzatos nemzetközi óriáscég költözik egy pécsi irodaházba",
-      "instead_of": "Kétszázharminc új munkahelyet hoz az ismeretlen pécsi beruházó",
-      "custom": false,
-      "t": "2026-10-23T06:05:51+00:00"
-    },
-    {
       "chosen": "Marad a 27 százalékos áfa a zöldségeken és gyümölcsökön",
       "instead_of": "Nem lesz olcsóbb a zöldség: a kormány lefújta az áfacsökkentést",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Megüzente a beszervezését: húszoldalnyi sorkatonai iratot hozott nyilvánosságra Orbán",
       "custom": false,
       "t": "2026-11-03T15:45:31+00:00"
+    },
+    {
+      "chosen": "Hogyan építi le a felesleges súly az agyunkat?",
+      "instead_of": "Gyorsabb agyöregedés: a fölösleges súly ára?",
+      "custom": false,
+      "t": "2026-11-04T07:43:13+00:00"
     }
   ]
 }
