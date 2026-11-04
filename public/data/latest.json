@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d9ff85e5-5de9-5405-95d5-eb9991418e2e",
+      "slug": "2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt",
+      "url": "/vilag/2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt/",
+      "title": "Kék hullám söpörte el Texast és Kansast is a félidős amerikai választásokon",
+      "lead": "Történelmi győzelmet aratva szerezték meg a demokraták a szövetségi törvényhozás mindkét házának többségét az amerikai félidős választásokon. Az eredmények azt jelzik, hogy a választók komoly ellensúlyt akarnak képezni Donald Trumppal szemben.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T07:59:27+01:00",
+      "published_at": "2026-11-04T07:59:27+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.94,
+      "tags": [
+        "Egyesült Államok",
+        "félidős választás",
+        "Demokrata Párt",
+        "Republikánus Párt",
+        "Donald Trump"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1280px-United_States_Capitol_west_front_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 621,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The western front of the United States Capitol. The Neoclassical style building is located in Washington, D.C., on top of Capitol Hill at the east end of the National Mall. The Capitol was designated"
+      }
+    },
+    {
       "id": "4c64370d-5dc3-543d-8f0c-8ef4f403fe38",
       "slug": "2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal",
       "url": "/vilag/2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal/",
@@ -4379,37 +4409,7 @@
         "pos": "top",
         "alt": "Kósa Lajos. Taken on the 2nd of October, 2016. Hungarian referendum on migrant kvotas. Bálna, Budapest, Hungary. Orbán Viktor was speaking about the upshot of the 7th hungarian referendum on this day."
       }
-    },
-    {
-      "id": "b8f793a8-ed09-5645-9a58-78ce729ae5aa",
-      "slug": "2026-10-24-rekordokon-a-tozsdek-de-kifulladoban-a-gazdasag-vedohaloja",
-      "url": "/penzvilag/2026-10-24-rekordokon-a-tozsdek-de-kifulladoban-a-gazdasag-vedohaloja/",
-      "title": "Rekordokon a tőzsdék, de kifulladóban a gazdaság védőhálója",
-      "lead": "Bár a magas kamatok ellenére a tőzsdék rekordokat döntögetnek, a gazdaság eddigi védőhálója vészesen kopik. A drága pénz hatása ugyanis lassan, de biztosan halmozódik a háttérben.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T16:45:12+02:00",
-      "published_at": "2026-10-24T16:45:12+02:00",
-      "reading_time_min": 1,
-      "hot_score": 6.4,
-      "tags": [
-        "tőzsde",
-        "kamatszint",
-        "befektetés",
-        "infláció",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg/1280px-New_York_City_%28New_York%2C_USA%29%2C_Manhattan%2C_Stra%C3%9Fenschilder_--_2012_--_6607.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Street signs at corner of Broadway and Wall Street in New York City, New York, USA"
-      }
     }
   ],
-  "updated_at": "2026-11-04T07:54:39+01:00"
+  "updated_at": "2026-11-04T07:59:29+01:00"
 }
