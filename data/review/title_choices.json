@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Újabb román légitársaság dőlt be hirtelen",
-      "instead_of": "Csődeljárásba menekül a román Dan Air",
-      "custom": false,
-      "t": "2026-10-23T09:21:07+00:00"
-    },
-    {
       "chosen": "Automatikus hívásokkal toboroznak az állami ünnepségre Magyar Péter hangján",
       "instead_of": "Magyar Péter hangjával hívják az embereket a Kossuth téri ünnepségre",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Idegenkezűség gyanúja miatt indult nyomozás egy IV. kerületi társasházban",
       "custom": false,
       "t": "2026-11-04T07:44:22+00:00"
+    },
+    {
+      "chosen": "Megnyílnak az évtizedes titkok: ezrek neve kerülhet nyilvánosságra",
+      "instead_of": "Magyar Péter az ügynökakták nyilvánosságra hozatalát követeli",
+      "custom": false,
+      "t": "2026-11-04T09:33:32+00:00"
     }
   ]
 }
