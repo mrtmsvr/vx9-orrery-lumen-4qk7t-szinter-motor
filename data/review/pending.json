@@ -10789,7 +10789,7 @@
     {
       "id": "efdc17c5-bbaa-52cb-a946-ce56a624f946",
       "slug": "2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -10981,9 +10981,9 @@
       "dedupe_hash": "cf27d4fccc9869118a0739b0491e44e6bc82a527170d9bb948c4d412e36dcbbf",
       "pipeline_run_id": "41803811021",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-04T10:10:23+01:00",
-      "updated_at": "2026-11-04T10:10:23+01:00",
-      "published_at": "2026-11-04T10:10:23+01:00",
+      "created_at": "2026-11-04T10:23:08+01:00",
+      "updated_at": "2026-11-04T10:23:08+01:00",
+      "published_at": "2026-11-04T10:23:08+01:00",
       "expires_at": null,
       "hold": true,
       "legal": {
@@ -11006,8 +11006,11 @@
         "lead": "Újabb két hónappal meghosszabbították Bús Balázs letartóztatását, így a volt polgármester az év végi ünnepeket a rácsok mögött tölti. A Nemzeti Kulturális Alap egykori alelnökét különösen jelentős vagyoni hátrányt okozó hűtlen kezeléssel gyanúsítják.",
         "ctl_photo": true,
         "control_id": 9869,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     }
   ]
 }

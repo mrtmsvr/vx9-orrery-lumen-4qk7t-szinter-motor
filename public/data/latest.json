@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "efdc17c5-bbaa-52cb-a946-ce56a624f946",
+      "slug": "2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs",
+      "url": "/kozelet/2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs/",
+      "title": "Nem engedik ki: a szegedi börtönben karácsonyozik Bús Balázs",
+      "lead": "Újabb két hónappal meghosszabbították Bús Balázs letartóztatását, így a volt polgármester az év végi ünnepeket a rácsok mögött tölti. A Nemzeti Kulturális Alap egykori alelnökét különösen jelentős vagyoni hátrányt okozó hűtlen kezeléssel gyanúsítják.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T10:23:08+01:00",
+      "published_at": "2026-11-04T10:23:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Bús Balázs",
+        "letartóztatás",
+        "Nemzeti Kulturális Alap",
+        "Kecskeméti Törvényszék",
+        "hűtlen kezelés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/B%C3%BAs_Bal%C3%A1zs.jpg/1280px-B%C3%BAs_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1555,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bús Balázs (Fidesz-KDNP) polgármester"
+      }
+    },
+    {
       "id": "e2867710-cd6a-5783-ad19-f8e95ce2e827",
       "slug": "2026-11-04-nem-az-en-hibam-donald-trump-szerint-a-gyenge-jeloltek-buktak-el-a-re",
       "url": "/vilag/2026-11-04-nem-az-en-hibam-donald-trump-szerint-a-gyenge-jeloltek-buktak-el-a-re/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Aaron Cook Fighting in A Bronze Medal Match Against Zhu Guo at the 2008 Olympic Games, in the -80KG Event."
       }
-    },
-    {
-      "id": "42a5466c-deb1-580a-bb4d-6cda549958e1",
-      "slug": "2026-10-24-igy-cselezte-ki-a-media-rohamat-nicole-kidman-egy-alpesi-faluban",
-      "url": "/bulvar/2026-10-24-igy-cselezte-ki-a-media-rohamat-nicole-kidman-egy-alpesi-faluban/",
-      "title": "Így cselezte ki a média rohamát Nicole Kidman egy alpesi faluban",
-      "lead": "Nicole Kidman két évvel ezelőtt Ausztriában forgatott, és szigorú feltételekhez kötötte a tartózkodását, hogy elkerülje a média érdeklődését. A színésznő a családjával együtt érkezett az országba, a sajtó elől pedig egy ügyes PR-manőverrel rejtették el.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T20:03:18+02:00",
-      "published_at": "2026-10-24T20:03:18+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5.78,
-      "tags": [
-        "Nicole Kidman",
-        "Ausztria",
-        "sztárhírek",
-        "fóbiák",
-        "Obertauern"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg/1280px-MKr384262_Nicole_Kidman_%28Women_In_Motion%2C_Cannes_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Nicole Kidman at Women In Motion, 2025 Cannes Film Festival"
-      }
     }
   ],
-  "updated_at": "2026-11-04T10:22:55+01:00"
+  "updated_at": "2026-11-04T10:23:10+01:00"
 }
