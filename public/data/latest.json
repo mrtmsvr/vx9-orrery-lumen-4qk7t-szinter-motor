@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "9c756a5d-df58-5ecb-b063-0bc1ed73c730",
+      "slug": "2026-11-04-megerkezett-orban-millios-vegkielegitese-azonnal-tovabbadomanyozta",
+      "url": "/kozelet/2026-11-04-megerkezett-orban-millios-vegkielegitese-azonnal-tovabbadomanyozta/",
+      "title": "Megérkezett Orbán milliós végkielégítése: azonnal továbbadományozta",
+      "lead": "Megérkezett Orbán Viktor volt miniszterelnök törvény szerinti végkielégítése, amelyet a korábbi ígéretéhez híven azonnal tovább is adományozott egy kárpátaljai gyermekotthonnak. A juttatások kifizetése az Orbán-kormány leköszönő tagjai számára eddig összesen csaknem 238 millió forintot tett ki.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T18:14:44+01:00",
+      "published_at": "2026-11-04T18:14:44+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.79,
+      "tags": [
+        "Orbán Viktor",
+        "végkielégítés",
+        "adomány",
+        "kormányzati juttatások"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Guly%C3%A1s_Gergely.JPG/1280px-Guly%C3%A1s_Gergely.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1660,
+        "kind": "photo",
+        "pos": "top",
+        "alt": ""
+      }
+    },
+    {
       "id": "971f6b50-3d7e-541b-9f7b-e1cd250e8877",
       "slug": "2026-11-04-hogyan-epiti-le-a-felesleges-suly-az-agyunkat",
       "url": "/eletmod/2026-11-04-hogyan-epiti-le-a-felesleges-suly-az-agyunkat/",
@@ -4383,37 +4412,7 @@
         "pos": "center",
         "alt": "Raffle roll cage holding tickets for two guns being raffled off at the Fortuna, California Pistol Club annual dinner at the Ferndale, California Fairgrounds' Turf Room."
       }
-    },
-    {
-      "id": "a49ab333-424d-50e8-91c3-6820493578c2",
-      "slug": "2026-10-24-igy-kenyszeritette-terdre-a-partallamot-nagy-imre-ujratemetese",
-      "url": "/kozelet/2026-10-24-igy-kenyszeritette-terdre-a-partallamot-nagy-imre-ujratemetese/",
-      "title": "Így kényszerítette térdre a pártállamot Nagy Imre újratemetése",
-      "lead": "Archív felvételek és dokumentumfilmes tanúságtételek idézik fel a rendszerváltás előtti éveket, amikor az 1956-os forradalom emléke és Nagy Imre újratemetése újraindította a közbeszédet. A múltidézés rávilágít azokra a feszültségekre, amelyek végül alapjaiban rengették meg a pártállami rendszert.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T21:10:17+02:00",
-      "published_at": "2026-10-24T21:10:17+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "történelem",
-        "1956",
-        "Nagy Imre",
-        "archívum",
-        "rendszerváltás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Nagy_Imre_igazolv%C3%A1nyk%C3%A9p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1456,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Nagy Imre miniszterelnök igazolványkép"
-      }
     }
   ],
-  "updated_at": "2026-11-04T18:11:22+01:00"
+  "updated_at": "2026-11-04T18:14:47+01:00"
 }
