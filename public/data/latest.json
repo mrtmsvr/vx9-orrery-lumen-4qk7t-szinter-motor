@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5071b055-d78c-59d2-8976-28b912bfe215",
+      "slug": "2026-11-04-borbas-marcsi-hazakoltozott-az-orsegben-forgatta-uj-musorat",
+      "url": "/bulvar/2026-11-04-borbas-marcsi-hazakoltozott-az-orsegben-forgatta-uj-musorat/",
+      "title": "Borbás Marcsi hazaköltözött: az Őrségben forgatta új műsorát",
+      "lead": "November 8-án debütál a TV4-en Borbás Marcsi új produkciója, A kertem konyhája. A műsorvezető az őrségi otthonába kalauzolja a nézőket, ahol a kertészkedés és a hagyományos konyhatechnológia találkozik egymással.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T10:24:27+01:00",
+      "published_at": "2026-11-04T10:24:27+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Borbás Marcsi",
+        "TV4",
+        "televízió",
+        "kertészkedés",
+        "gasztronómia"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pityerzser35.JPG/1280px-Pityerzser35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zsoldos-féle kerített lakóház"
+      }
+    },
+    {
       "id": "efdc17c5-bbaa-52cb-a946-ce56a624f946",
       "slug": "2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs",
       "url": "/kozelet/2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs/",
@@ -4379,36 +4409,7 @@
         "pos": "center",
         "alt": "Paris, France"
       }
-    },
-    {
-      "id": "086923b6-edbc-520b-807a-bff3998a578b",
-      "slug": "2026-10-24-otthonaban-lottek-agyon-a-volt-ep-kepviselot-szofiaban",
-      "url": "/vilag/2026-10-24-otthonaban-lottek-agyon-a-volt-ep-kepviselot-szofiaban/",
-      "title": "Otthonában lőtték agyon a volt EP-képviselőt Szófiában",
-      "lead": "Pénteken késő este szófiai otthonában agyonlőtték Szlavi Binevet, a Bolgár Tekvondó Szövetség elnökét, az európai szövetség alelnökét és korábbi európai parlamenti képviselőt. A hatóságok gyors intézkedéssel három gyanúsítottat vettek őrizetbe a bolgár főváros közelében.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T20:09:51+02:00",
-      "published_at": "2026-10-24T20:09:51+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.05,
-      "tags": [
-        "Bulgária",
-        "gyilkosság",
-        "Szlavi Binev",
-        "Szófia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/COOK_%28GBR%29_VS_ZHU_%28CHN%29_BM_-80KGM12.JPG/1280px-COOK_%28GBR%29_VS_ZHU_%28CHN%29_BM_-80KGM12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 821,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Aaron Cook Fighting in A Bronze Medal Match Against Zhu Guo at the 2008 Olympic Games, in the -80KG Event."
-      }
     }
   ],
-  "updated_at": "2026-11-04T10:23:10+01:00"
+  "updated_at": "2026-11-04T10:24:30+01:00"
 }
