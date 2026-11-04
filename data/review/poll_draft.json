@@ -1,35 +1,35 @@
 {
-  "id": "b75213c1af",
-  "date": "2026-11-03",
-  "status": "skipped",
-  "article_url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
-  "article_title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Operaház éléről",
+  "id": "35b2059d24",
+  "date": "2026-11-04",
+  "status": "pending",
+  "article_url": "/kozelet/2026-11-03-bocsanatot-kert-a-tarsadalomtol-az-uj-legfobb-ugyesz/",
+  "article_title": "Bocsánatot kért a társadalomtól az új legfőbb ügyész",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint indokolt volt Ókovács Szilveszter menesztése az Operaház éléről?",
+      "question": "Ön szerint helyes volt a legfőbb ügyész bocsánatkérése?",
       "options": [
-        "Igen, helyes döntés született",
-        "Nem, igazságtalan volt a leváltása",
+        "Igen, fontos lépés volt",
+        "Nem, nem volt indokolt",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesnek tartja, hogy kormányzati döntéssel váltják le az intézményvezetők?",
+      "question": "Javítja-e az ügyészség megítélését egy ilyen bocsánatkérés?",
       "options": [
-        "Igen, a fenntartónak joga van ehhez",
-        "Nem, ez veszélyezteti a kulturális függetlenséget",
+        "Igen, növeli a bizalmat",
+        "Nem, ez kevés a változáshoz",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tartana fontosabbnak az Operaház vezetésében?",
+      "question": "Szükségesnek tartja-e az ügyészi szervezet teljes átalakítását?",
       "options": [
-        "A pénzügyi fegyelem és átláthatóság betartását",
-        "A művészeti szabadság és autonómia védelmét",
+        "Igen, alapvető reform kell",
+        "Nem, a jelenlegi rendszer is megfelelő",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9813
+  "msg_id": 9868
 }
