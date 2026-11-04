@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3dff6fe8-f41e-569f-826e-2f47df8f70a2",
+      "slug": "2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito",
+      "url": "/vilag/2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito/",
+      "title": "Félúton fordították vissza Moszkvából a szerb minisztereket szállító gépét",
+      "lead": "Biztonsági ellenőrzés miatt kedd este visszafordították a Belgrádból Moszkvába tartó szerb utasszállító repülőgépet, amelyen több magas rangú vezető is utazott. Az eset nemzetközi és gazdasági szálakat is érint, hiszen a delegáció hivatalos moszkvai útra indult a gázmegállapodás meghosszabbításáról tárgyalni.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T07:34:14+01:00",
+      "published_at": "2026-11-04T07:34:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.94,
+      "tags": [
+        "Szerbia",
+        "Oroszország",
+        "légiközlekedés",
+        "Moszkva",
+        "gázellátás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/YU-API_LLBG_08-08-2014a.jpg/1280px-YU-API_LLBG_08-08-2014a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 720,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Landing at Ben Gurion International airport"
+      }
+    },
+    {
       "id": "1b5bb6bf-b2ed-5d4d-9344-827d2b42daec",
       "slug": "2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal",
       "url": "/kozelet/2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal/",
@@ -4376,33 +4406,7 @@
         "alt": "október 30. – a szankciós határidő lejárta",
         "card": "num"
       }
-    },
-    {
-      "id": "f05c1225-a36f-52aa-b203-27d5e4b32f18",
-      "slug": "2026-10-24-levegoben-utkozott-a-fulop-szigeteki-legiero-ket-gepe-negy-pilota-meg",
-      "url": "/vilag/2026-10-24-levegoben-utkozott-a-fulop-szigeteki-legiero-ket-gepe-negy-pilota-meg/",
-      "title": "Levegőben ütközött a Fülöp-szigeteki légierő két gépe, négy pilóta meghalt",
-      "lead": "A Fülöp-szigetek hadseregének két repülőgépe ütközött össze a levegőben egy gyakorlórepülés során, a balesetben négy pilóta vesztette életét. A tragédia miatt a hatóságok átmenetileg felfüggesztették az érintett géptípus kiképzési repüléseit.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T16:04:52+02:00",
-      "published_at": "2026-10-24T16:04:52+02:00",
-      "reading_time_min": 3,
-      "hot_score": 9.1,
-      "tags": [
-        "Fülöp-szigetek",
-        "légierő",
-        "baleset",
-        "kiképzőrepülés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1792850561-0.jpg",
-        "kind": "photo",
-        "alt": "Gyakorlórepülés közben ütközött össze a Fülöp-szigeteki légierő két gépe"
-      }
     }
   ],
-  "updated_at": "2026-11-04T06:13:25+01:00"
+  "updated_at": "2026-11-04T07:34:16+01:00"
 }
