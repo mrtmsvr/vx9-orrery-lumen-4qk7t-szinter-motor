@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4c64370d-5dc3-543d-8f0c-8ef4f403fe38",
+      "slug": "2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal",
+      "url": "/vilag/2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal/",
+      "title": "Visszalépett a választástól is a spanyol miniszter a halálos vonatbalesetek után",
+      "lead": "Kedd este bejelentette lemondását Óscar Puente spanyol közlekedési miniszter a múlt heti, 69 halálos áldozatot követelő vasúti katasztrófa miatt. A politikus nemcsak a tisztségét adta vissza, hanem a november 29-i előrehozott parlamenti választáson sem indul el jelöltként.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T07:54:38+01:00",
+      "published_at": "2026-11-04T07:54:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Spanyolország",
+        "vonatbaleset",
+        "Óscar Puente",
+        "közlekedésbiztonság",
+        "lemondás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%C3%93scar_Puente_Santiago_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1546,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Óscar Puente Santiago, Spanish politician. Official photograph as mayor of Valladolid."
+      }
+    },
+    {
       "id": "3dff6fe8-f41e-569f-826e-2f47df8f70a2",
       "slug": "2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito",
       "url": "/vilag/2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito/",
@@ -4379,34 +4409,7 @@
         "pos": "top",
         "alt": "Street signs at corner of Broadway and Wall Street in New York City, New York, USA"
       }
-    },
-    {
-      "id": "8f913d23-44ae-5598-be3d-b74f68a2d0c3",
-      "slug": "2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg",
-      "url": "/vilag/2026-10-24-ujabb-amerikai-engedelyert-konyorog-a-szerb-olajceg/",
-      "title": "Újabb amerikai engedélyért könyörög a szerb olajcég",
-      "lead": "Működési engedélyének meghosszabbításáért folyamodik Washingtonban a Szerbiai Kőolajipari Vállalat, miután a feje felett lebegő amerikai szankciók miatt október 30-án lejár a jelenlegi határideje. A pancsovai finomító folyamatos üzemeltetése és a teljes szerbiai üzemanyag-ellátás közvetlen veszélybe került.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T16:24:52+02:00",
-      "published_at": "2026-10-24T16:24:52+02:00",
-      "reading_time_min": 1,
-      "hot_score": 6.17,
-      "tags": [
-        "Szerbia",
-        "energiabiztonság",
-        "szankciók",
-        "olajipar"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-5dd422a911.jpg",
-        "kind": "photo",
-        "alt": "október 30. – a szankciós határidő lejárta",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-04T07:34:16+01:00"
+  "updated_at": "2026-11-04T07:54:39+01:00"
 }
