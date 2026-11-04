@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ffa7a6cc-f7c2-52a1-a533-0c0080be896e",
+      "slug": "2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora",
+      "url": "/kozelet/2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora/",
+      "title": "Történelmet írt Michigan: Abdul El-Sayed az USA első muszlim szenátora",
+      "lead": "Abdul El-Sayed megnyerte a michigani szenátusi választást, ezzel az Egyesült Államok történetének első muszlim szenátora lett. A kiemelt csatatérállamban zajló kampány az amerikai félidős választások egyik leginkább figyelt eseménye volt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T10:39:19+01:00",
+      "published_at": "2026-11-04T10:39:19+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.62,
+      "tags": [
+        "Egyesült Államok",
+        "félidős választás",
+        "Michigan",
+        "Abdul El-Sayed",
+        "szenátus"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1543,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "US Senate candidate for michigan Abdul El-Sayed meets voters at Michigan Technological University. October 22, 2025"
+      }
+    },
+    {
       "id": "b7c73bd6-04d4-5213-b430-b8dbf2c68549",
       "slug": "2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli",
       "url": "/kozelet/2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli/",
@@ -4379,37 +4409,7 @@
         "alt": "5,197,132,880 Ft – főnyeremény összege",
         "card": "num"
       }
-    },
-    {
-      "id": "f0696caa-03c6-5ac6-9ee7-932aede2dc65",
-      "slug": "2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai",
-      "url": "/tech/2026-10-24-egy-nap-alatt-722-ai-tanulmanyt-szabaditott-ra-a-vilagra-az-openai/",
-      "title": "Egy nap alatt 722 AI-tanulmányt szabadított rá a világra az OpenAI",
-      "lead": "Az OpenAI belső használatú mesterséges intelligencia modellje több mint hétszáz matematikai tanulmányt tett közzé egyetlen nap alatt. Ez a példátlan lépés egyszerre hozott áttörést és robbantott ki éles vitákat a tudományos életben.",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T20:50:13+02:00",
-      "published_at": "2026-10-24T20:50:13+02:00",
-      "reading_time_min": 2,
-      "hot_score": 5.15,
-      "tags": [
-        "mesterséges intelligencia",
-        "OpenAI",
-        "tudomány",
-        "matematika",
-        "Google"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1200,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "A symbolic representation of AI, generated using DALL-E 3, with the prompt: \"draw an icon, white background, of a human brain made out of printed circuit board\"."
-      }
     }
   ],
-  "updated_at": "2026-11-04T10:33:33+01:00"
+  "updated_at": "2026-11-04T10:39:20+01:00"
 }
