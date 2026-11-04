@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "971f6b50-3d7e-541b-9f7b-e1cd250e8877",
+      "slug": "2026-11-04-hogyan-epiti-le-a-felesleges-suly-az-agyunkat",
+      "url": "/eletmod/2026-11-04-hogyan-epiti-le-a-felesleges-suly-az-agyunkat/",
+      "title": "Hogyan építi le a felesleges súly az agyunkat?",
+      "lead": "Egy átfogó, huszonnégy éven át tartó kutatás szerint a felesleges testtömeg a gyanú szerint felgyorsíthatja az agy öregedését. A folyamat a megállapítások szerint különösen a hatvanöt év felettiek körében jelent komoly kockázatot a memóriára és a döntéshozatali készségekre.",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-04",
+      "date_label": "november 4.",
+      "created_at": "2026-11-04T18:11:21+01:00",
+      "published_at": "2026-11-04T18:11:21+01:00",
+      "reading_time_min": 4,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "egészség",
+        "agyöregedés",
+        "elhízás",
+        "memória",
+        "táplálkozás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Brain_Anatomy_Striatum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 683,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Animation in the reference.[1] This image was donated by Blausen Medical."
+      }
+    },
+    {
       "id": "ffa7a6cc-f7c2-52a1-a533-0c0080be896e",
       "slug": "2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora",
       "url": "/kozelet/2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora/",
@@ -4382,34 +4413,7 @@
         "pos": "center",
         "alt": "Nagy Imre miniszterelnök igazolványkép"
       }
-    },
-    {
-      "id": "b91a7862-951e-5f5a-be08-8a1dba64f41d",
-      "slug": "2026-10-24-megvan-az-ev-masodik-lottomilliardosa-otmillioert-vette-meg-a-szerenc",
-      "url": "/penzvilag/2026-10-24-megvan-az-ev-masodik-lottomilliardosa-otmillioert-vette-meg-a-szerenc/",
-      "title": "Megvan az év második lottómilliárdosa: ötmillióért vette meg a szerencsét",
-      "lead": "Több mint ötmillió forint híján 5,2 milliárd forintos főnyereményt hozott a szombati számsorsolás az Ötöslottón. A hatalmas összegért a sorsolást követő három hónapon belül kell jelentkeznie a lottótársaságnál a szerencsés nyertesnek.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T21:04:26+02:00",
-      "published_at": "2026-10-24T21:04:26+02:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Ötöslottó",
-        "Szerencsejáték Zrt.",
-        "főnyeremény",
-        "lottónyeremény"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-b095a0ad57.jpg",
-        "kind": "photo",
-        "alt": "5,197,132,880 Ft – főnyeremény összege",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-04T18:10:34+01:00"
+  "updated_at": "2026-11-04T18:11:22+01:00"
 }
