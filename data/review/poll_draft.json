@@ -1,35 +1,35 @@
 {
-  "id": "35b2059d24",
-  "date": "2026-11-04",
-  "status": "approved",
-  "article_url": "/kozelet/2026-11-03-bocsanatot-kert-a-tarsadalomtol-az-uj-legfobb-ugyesz/",
-  "article_title": "Bocsánatot kért a társadalomtól az új legfőbb ügyész",
+  "id": "0b2471f4a8",
+  "date": "2026-11-05",
+  "status": "pending",
+  "article_url": "/kozelet/2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab/",
+  "article_title": "Új rendészeti csomag: visszatér a tűzoltóság név és szigorodnak a szabályok",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes volt a legfőbb ügyész bocsánatkérése?",
+      "question": "Ön támogatja a tűzoltóság régi nevének visszaállítását?",
       "options": [
-        "Igen, fontos lépés volt",
-        "Nem, nem volt indokolt",
-        "Nem tudom / nincs véleményem"
+        "Igen, fontos a hagyományok ápolása.",
+        "Nem, a jelenlegi elnevezés is megfelelő.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Javítja-e az ügyészség megítélését egy ilyen bocsánatkérés?",
+      "question": "Jó irányba változtatja meg a rendészet működését az új csomag?",
       "options": [
-        "Igen, növeli a bizalmat",
-        "Nem, ez kevés a változáshoz",
-        "Nem tudom / nincs véleményem"
+        "Igen, hatékonyabbá teszi a munkát.",
+        "Nem, túlzott szigorítást hoz.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Szükségesnek tartja-e az ügyészi szervezet teljes átalakítását?",
+      "question": "Szükséges volt a rendészeti törvénycsomag társadalmi egyeztetése?",
       "options": [
-        "Igen, alapvető reform kell",
-        "Nem, a jelenlegi rendszer is megfelelő",
-        "Nem tudom / nincs véleményem"
+        "Igen, elengedhetetlen a szakmai egyeztetés.",
+        "Nem, feleslegesen lassítja a folyamatot.",
+        "Nem tudom / nincs véleményem."
       ]
     }
   ],
-  "msg_id": 9868
+  "msg_id": 9899
 }
