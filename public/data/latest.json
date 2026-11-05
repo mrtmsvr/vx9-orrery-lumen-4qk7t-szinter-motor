@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "d5fd1acf-0aa8-50be-b594-e9ea163b5ad4",
+      "slug": "2026-11-05-tavozik-a-semmelweis-egyetem-elerol-merkely-bela",
+      "url": "/kozelet/2026-11-05-tavozik-a-semmelweis-egyetem-elerol-merkely-bela/",
+      "title": "Távozik a Semmelweis Egyetem éléről Merkely Béla",
+      "lead": "Lemondott rektori tisztségéről Merkely Béla, a Semmelweis Egyetem vezetője. A döntés hátterében az intézményt fenntartó alapítványi kuratóriummal kialakult bizalmi válság áll.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T12:01:18+01:00",
+      "published_at": "2026-11-05T12:01:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Semmelweis Egyetem",
+        "Merkely Béla",
+        "felsőoktatás",
+        "rektor"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Merkely_B%C3%A9la.jpg/1280px-Merkely_B%C3%A9la.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Dr. Béla Merkely, Rector of Semmelweis University"
+      }
+    },
+    {
       "id": "f1dbe126-462a-5d23-82fb-adcb2e628643",
       "slug": "2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol",
       "url": "/kozelet/2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol/",
@@ -4383,36 +4412,7 @@
         "pos": "top",
         "alt": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017.  (Official White House Photo by Shealah Craighead)"
       }
-    },
-    {
-      "id": "6d1f43aa-11b7-54ce-a708-484b5f206965",
-      "slug": "2026-10-25-masodszor-is-tuzszereszek-benitjak-meg-az-ulloi-utat",
-      "url": "/kozelet/2026-10-25-masodszor-is-tuzszereszek-benitjak-meg-az-ulloi-utat/",
-      "title": "Másodszor is tűzszerészek bénítják meg az Üllői utat",
-      "lead": "Vasárnap reggel óta tűzszerészeti munkálatok zajlanak a főváros XVIII. kerületében, miután egy építkezésen egy százkilogrammos rombolóbomba és további huszonnégy robbanótest került elő. Az érintett útszakaszt lezárták, a környék lakóinak pedig ideiglenesen el kellett hagyniuk otthonaikat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T12:04:03+01:00",
-      "published_at": "2026-10-25T12:04:03+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "bomba",
-        "tűzszerészek",
-        "Üllői út",
-        "XVIII. kerület",
-        "Közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/66993c7cf69e264f.jpg",
-        "width": 3008,
-        "height": 2000,
-        "kind": "photo",
-        "alt": "police line, yellow, crime, cemetery, tape, warning, police line, police line, police line, police line, police line"
-      }
     }
   ],
-  "updated_at": "2026-11-05T11:39:32+01:00"
+  "updated_at": "2026-11-05T12:01:20+01:00"
 }
