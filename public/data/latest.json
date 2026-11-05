@@ -60,36 +60,6 @@
       }
     },
     {
-      "id": "c559df92-cf5a-5206-beeb-b48ecd16079a",
-      "slug": "2026-11-05-tizenot-ev-utan-ujra-a-mokkat-vezeti-liptai-claudia",
-      "url": "/bulvar/2026-11-05-tizenot-ev-utan-ujra-a-mokkat-vezeti-liptai-claudia/",
-      "title": "Tizenöt év után újra a Mokkát vezeti Liptai Claudia",
-      "lead": "Tizenöt év kihagyás után Liptai Claudia ismét a TV2 Mokka műsorvezetőjeként tér vissza a képernyőre, ahol Henry Kettner oldalán köszönti majd a nézőket. A népszerű tévés a Blikknek mesélt arról, hogyan birkózik meg a hajnali kelésekkel, és mi motiválta a váratlan visszatérésben.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T18:54:10+01:00",
-      "published_at": "2026-11-05T18:54:10+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5.79,
-      "tags": [
-        "Liptai Claudia",
-        "Mokka",
-        "TV2",
-        "Henry Kettner",
-        "bulvár"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Henry_Kettner_Mokka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1392,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Henry Kettner"
-      }
-    },
-    {
       "id": "a2b1cd90-7003-50fe-9b86-79ec778a3ede",
       "slug": "2026-11-05-franco-coppola-erkezik-a-vatikani-nagykovetseg-elere-budapestre",
       "url": "/kozelet/2026-11-05-franco-coppola-erkezik-a-vatikani-nagykovetseg-elere-budapestre/",
@@ -4410,7 +4380,37 @@
         "pos": "top",
         "alt": "Retrato oficial do Presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert"
       }
+    },
+    {
+      "id": "cea972d1-c6a0-5863-a64a-8212515b9bfa",
+      "slug": "2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara",
+      "url": "/vilag/2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara/",
+      "title": "Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára",
+      "lead": "A The Wall Street Journal értesülései szerint Donald Trump amerikai elnök kormánya azt szeretné, ha Orbán Viktor volt magyar kormányfő indulna az ENSZ főtitkári posztjáért. A washingtoni diplomáciai egyeztetések alapján Moszkva és Peking is támogatná a jelöltségét.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-10-26",
+      "date_label": "október 26.",
+      "created_at": "2026-10-26T07:35:40+01:00",
+      "published_at": "2026-10-26T07:35:40+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Orbán Viktor",
+        "ENSZ",
+        "Donald Trump",
+        "Wall Street Journal",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2024-11-18-Headquarters_of_the_United_Nations-0605.jpg/1280px-2024-11-18-Headquarters_of_the_United_Nations-0605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Headquarters of the United Nations"
+      }
     }
   ],
-  "updated_at": "2026-11-05T19:23:45+01:00"
+  "updated_at": "2026-11-05T19:24:26+01:00"
 }
