@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "1d97bf02-7a60-50fd-9156-8f216e210716",
+      "slug": "2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab",
+      "url": "/kozelet/2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab/",
+      "title": "Új rendészeti csomag: visszatér a tűzoltóság név és szigorodnak a szabályok",
+      "lead": "Társadalmi egyeztetésre bocsátotta a kormány a rendészeti törvénycsomagot, amely átalakítja a rendőrség és a katasztrófavédelem működését. A javaslatcsomag többek között a tűzoltóság nevének visszaállításáról, a határvadászok új feladatairól és szigorúbb gyorsított eljárásokról rendelkezik.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T08:41:54+01:00",
+      "published_at": "2026-11-05T08:41:54+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "rendészet",
+        "törvénycsomag",
+        "tűzoltóság",
+        "rendőrség",
+        "kormány"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/e849e820a5285f26.jpg",
+        "width": 11811,
+        "height": 7874,
+        "kind": "photo",
+        "alt": "firefighters, firefighting, fire, dark, night, fire, fire, fire, fire, fire"
+      }
+    },
+    {
       "id": "cfee9830-1e3d-5c13-8011-7a8610b4ea35",
       "slug": "2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s",
       "url": "/kozelet/2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s/",
@@ -4379,38 +4408,7 @@
         "pos": "top",
         "alt": ""
       }
-    },
-    {
-      "id": "e740fe31-cfc9-5039-a990-c9341bc054c4",
-      "slug": "2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat",
-      "url": "/tech/2026-10-25-teli-vagy-nyari-miert-allitjuk-at-az-orat/",
-      "title": "Téli vagy nyári: miért állítjuk át az órát?",
-      "lead": "Évente kétszer az egész ország ritmust vált, amikor közösen átállítjuk az óráinkat, látszólag kiszakítva magunkat a természetes fényviszonyokból. De vajon miért ragaszkodunk ehhez az évszázados, sokszor vitatott gyakorlathoz, és hogyan függ össze ez a Föld forgásával?",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T07:40:04+01:00",
-      "published_at": "2026-10-25T07:40:04+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Óraátállítás (téli időszámítás)",
-        "tudomány",
-        "időmérés",
-        "technológia",
-        "történelem"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg/1280px-London%2C_Greenwich%2C_Royal_Greenwich_Observatory_--_2016_--_4745-6-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1694,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Shepherd gate clock at the Royal Greenwich Observatory, London, England, United Kingdom"
-      }
     }
   ],
-  "updated_at": "2026-11-05T08:40:54+01:00"
+  "updated_at": "2026-11-05T08:41:56+01:00"
 }
