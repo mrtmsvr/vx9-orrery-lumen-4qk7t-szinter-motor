@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "a59069b3-aa1c-5648-9bbc-d1e37fba56b7",
+      "slug": "2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java",
+      "url": "/vilag/2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java/",
+      "title": "Trump az alaszkai voksok átírását követeli a republikánus jelölt javára",
+      "lead": "Donald Trump amerikai elnök az alaszkai választási hatóságokhoz fordult, azt követelve, hogy a független jelöltre leadott voksokat a republikánus szenátorjelölt javára írják jóvá. Az elnöki követelés jelentős politikai feszültséget szít, miközben az államban továbbra is szoros a küzdelem a mandátumért.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T20:10:21+01:00",
+      "published_at": "2026-11-05T20:10:21+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.37,
+      "tags": [
+        "Donald Trump",
+        "Alaszka",
+        "szenátusi választás",
+        "Egyesült Államok"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/1280px-Flag_of_Alaska.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 847,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Flag of Alaska"
+      }
+    },
+    {
       "id": "c122f9da-e032-58c2-b051-5b3f773b5090",
       "slug": "2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban",
       "url": "/kozelet/2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban/",
@@ -4379,37 +4408,7 @@
         "pos": "center",
         "alt": "Harbour of Oslo, Norway. Colors enhanced."
       }
-    },
-    {
-      "id": "cc1d6f28-a3e0-5cf7-81e0-4f483c918069",
-      "slug": "2026-10-26-negedszer-nyert-lula-de-bolsonaro-nem-ismerte-el-a-vereseget",
-      "url": "/kozelet/2026-10-26-negedszer-nyert-lula-de-bolsonaro-nem-ismerte-el-a-vereseget/",
-      "title": "Lula behúzta a negyediket, Bolsonaro pedig nem tud veszíteni",
-      "lead": "Luiz Inácio Lula da Silva nyerte a vasárnapi brazil elnökválasztás második fordulóját, így negyedik alkalommal is ő irányíthatja a dél-amerikai országot. A legyőzött ellenfél azonban nem ismerte el a vereséget, és a szavazás megsemmisítését kezdeményezi.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T08:29:57+01:00",
-      "published_at": "2026-10-26T08:29:57+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Brazília",
-        "elnökválasztás",
-        "Luiz Inácio Lula da Silva",
-        "Flávio Bolsonaro",
-        "dél-amerika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg/1280px-Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_%28estreita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1679,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Retrato oficial do Presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert"
-      }
     }
   ],
-  "updated_at": "2026-11-05T19:43:55+01:00"
+  "updated_at": "2026-11-05T20:10:23+01:00"
 }
