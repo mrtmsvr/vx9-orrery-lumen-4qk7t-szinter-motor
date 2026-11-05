@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "17829bb0-9c86-50eb-976b-3a22866dc28a",
+      "slug": "2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott",
+      "url": "/kozelet/2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott/",
+      "title": "Felcsút érdemelte ki a magyar tőkejövedelmi trónt: milliárdok áramlottak néhány nagy befektető falujába",
+      "lead": "Tavaly összesen több mint 3000 milliárd forint tőkejövedelem keletkezett az országban, amelyből az egy lakosra jutó nettó érték Felcsúton volt a legmagasabb. Az adat a megtakarításokból és befektetésekből származó bevételek koncentrációjára mutat rá.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T12:50:03+01:00",
+      "published_at": "2026-11-05T12:50:03+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5.37,
+      "tags": [
+        "gazdaság",
+        "statisztika",
+        "tőkejövedelem",
+        "Felcsút"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Felcs%C3%BAt_l%C3%A9gi_fot%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Légi fotó Felcsútról"
+      }
+    },
+    {
       "id": "63979d49-28fe-5742-8c28-8950cb407ee5",
       "slug": "2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep",
       "url": "/kozelet/2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep/",
@@ -4383,36 +4412,7 @@
         "pos": "center",
         "alt": "Mikheil Kavelashvili meeting Vucic in Serbia"
       }
-    },
-    {
-      "id": "a3be4bcf-d68e-55c4-9396-b4deedc10b27",
-      "slug": "2026-10-25-videki-suli-tarolt-a-hvg-gimnaziumi-rangsoraban-eloszor-a-dobogon",
-      "url": "/kozelet/2026-10-25-videki-suli-tarolt-a-hvg-gimnaziumi-rangsoraban-eloszor-a-dobogon/",
-      "title": "Vidéki suli tarolt a HVG gimnáziumi rangsorában: először a dobogón",
-      "lead": "Az Eötvös József Gimnázium vezeti a HVG 2027-es középiskolai rangsorát, miközben a veszprémi Lovassy László Gimnázium révén először került vidéki intézmény a dobogóra. A százas listán összesen ötvenhat vidéki és negyvennégy budapesti oktatási intézmény kapott helyet.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T12:58:31+01:00",
-      "published_at": "2026-10-25T12:58:31+01:00",
-      "reading_time_min": 3,
-      "hot_score": 9.86,
-      "tags": [
-        "gimnáziumi rangsor",
-        "oktatás",
-        "HVG",
-        "iskolák"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/E%C3%B6tv%C3%B6s_J%C3%B3zsef_Gimn%C3%A1zium_%C3%A9p%C3%BClete6.jpg/1280px-E%C3%B6tv%C3%B6s_J%C3%B3zsef_Gimn%C3%A1zium_%C3%A9p%C3%BClete6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 676,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Eötvös József Gimnázium épülete"
-      }
     }
   ],
-  "updated_at": "2026-11-05T12:17:03+01:00"
+  "updated_at": "2026-11-05T12:50:05+01:00"
 }
