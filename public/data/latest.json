@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "cfee9830-1e3d-5c13-8011-7a8610b4ea35",
+      "slug": "2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s",
+      "url": "/kozelet/2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s/",
+      "title": "Technikai hiba miatt ügynöknek látszott, pedig csak figyelték Lezsák Sándort",
+      "lead": "Technikai hiba miatt jelent meg Lezsák Sándor neve hálózati személyként a nyitottaktak.hu adatbázisában. Az Állambiztonsági Szolgálatok Történeti Levéltára elnézést kért, és tisztázta: a volt politikus valójában megfigyelt volt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T08:40:52+01:00",
+      "published_at": "2026-11-05T08:40:52+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.35,
+      "tags": [
+        "ügynökakták",
+        "Lezsák Sándor",
+        "Állambiztonsági Szolgálatok Történeti Levéltára",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 766,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Lezsák Sándor magyar költő, tanár, politikus, a Magyar Demokrata Fórum egyik alapítója. 2006-tól az Országgyűlés egyik fideszes alelnöke."
+      }
+    },
+    {
       "id": "26e3c41a-6c5f-5af4-b38e-d90b95da55d0",
       "slug": "2026-11-04-gta-6-es-koncertelmenyek-amikor-a-virtualis-vilag-a-valosaggal-utkozi",
       "url": "/kultura/2026-11-04-gta-6-es-koncertelmenyek-amikor-a-virtualis-vilag-a-valosaggal-utkozi/",
@@ -4381,36 +4410,7 @@
         "pos": "top",
         "alt": "Shepherd gate clock at the Royal Greenwich Observatory, London, England, United Kingdom"
       }
-    },
-    {
-      "id": "0de24077-5036-5c0a-97f0-33c622d96373",
-      "slug": "2026-10-24-szombat-este-valaki-zsebre-vagott-5-19-milliard-forintot-magyarorszag",
-      "url": "/penzvilag/2026-10-24-szombat-este-valaki-zsebre-vagott-5-19-milliard-forintot-magyarorszag/",
-      "title": "Szombat este valaki zsebre vágott 5,19 milliárd forintot Magyarországon",
-      "lead": "Rekordösszegű, milliárdos főnyeremény talált gazdára a legutóbbi számsorsoláson. A Szerencsejáték Zrt. tájékoztatása alapján a telitalálatos szelvény birtokosa pontosan 5,19 milliárd forintot vihet haza.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-24",
-      "date_label": "október 24.",
-      "created_at": "2026-10-24T22:12:09+02:00",
-      "published_at": "2026-10-24T22:12:09+02:00",
-      "reading_time_min": 2,
-      "hot_score": 11.41,
-      "tags": [
-        "lottó",
-        "nyeremény",
-        "Szerencsejáték Zrt",
-        "pénz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Raffle_Rolling_Cage.jpg/1280px-Raffle_Rolling_Cage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 994,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Raffle roll cage holding tickets for two guns being raffled off at the Fortuna, California Pistol Club annual dinner at the Ferndale, California Fairgrounds' Turf Room."
-      }
     }
   ],
-  "updated_at": "2026-11-05T08:40:02+01:00"
+  "updated_at": "2026-11-05T08:40:54+01:00"
 }
