@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f1dbe126-462a-5d23-82fb-adcb2e628643",
+      "slug": "2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol",
+      "url": "/kozelet/2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol/",
+      "title": "Másodfokon is elutasították Matolcsy Györgyöt: rács mögött marad a volt MNB-elnök",
+      "lead": "A Fővárosi Törvényszék másodfokon is helybenhagyta Matolcsy György, a Magyar Nemzeti Bank korábbi elnöke letartóztatásáról szóló döntést. A bíróság az eljárás jelenlegi szakaszában az iratok megsemmisítésének gyanúját és a bizonyítás befolyásolásának veszélyét ítélte meghatározónak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T11:39:30+01:00",
+      "published_at": "2026-11-05T11:39:30+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Matolcsy György",
+        "bíróság",
+        "letartóztatás",
+        "MNB",
+        "gazdasági bűncselekmény"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/F%C5%91v%C3%A1rosi_B%C3%ADr%C3%B3s%C3%A1g_%C3%A9p%C3%BClete_%2811361._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_3.jpg/1280px-F%C5%91v%C3%A1rosi_B%C3%ADr%C3%B3s%C3%A1g_%C3%A9p%C3%BClete_%2811361._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Fővárosi Bíróság épülete (Budapest 5, Markó Károly utca 27.)"
+      }
+    },
+    {
       "id": "fb161e28-3afb-5e6d-97ac-d63e1f41ece8",
       "slug": "2026-11-05-zelenszkij-vasbeton-garanciakat-kovetel-trump-embereitol-az-abu-dzabi",
       "url": "/vilag/2026-11-05-zelenszkij-vasbeton-garanciakat-kovetel-trump-embereitol-az-abu-dzabi/",
@@ -4382,34 +4412,7 @@
         "kind": "photo",
         "alt": "police line, yellow, crime, cemetery, tape, warning, police line, police line, police line, police line, police line"
       }
-    },
-    {
-      "id": "8d76caf4-f9e4-501e-b413-093cb167e558",
-      "slug": "2026-10-25-rekordtamogatottsaggal-maradt-pozicioban-le-pen-bizalmasa",
-      "url": "/vilag/2026-10-25-rekordtamogatottsaggal-maradt-pozicioban-le-pen-bizalmasa/",
-      "title": "Rekordtámogatottsággal maradt pozícióban Le Pen bizalmasa",
-      "lead": "Elsöprő többséggel választották újra a 31 éves Jordan Bardellát a francia Nemzeti Tömörülés elnökévé a párt orléans-i kongresszusán. A politikus pozíciója kulcsfontosságú lehet, amennyiben Marine Le Pen jogi problémái miatt akadályoztatva lenne a jövő évi elnökválasztáson.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T08:20:12+01:00",
-      "published_at": "2026-10-25T08:20:12+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.1,
-      "tags": [
-        "Franciaország",
-        "Jordan Bardella",
-        "Marine Le Pen",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-531895c90c.jpg",
-        "kind": "photo",
-        "alt": "98,98% – A párttagok elsöprő támogatása az elnöknek",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-05T11:11:55+01:00"
+  "updated_at": "2026-11-05T11:39:32+01:00"
 }
