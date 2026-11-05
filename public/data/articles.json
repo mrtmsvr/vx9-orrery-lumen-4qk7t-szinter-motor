@@ -1,7 +1,140 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T12:50:03+01:00",
+  "updated_at": "2026-11-05T14:34:39+01:00",
   "articles": [
+    {
+      "id": "624f979f-4842-5753-86cd-0a92f64e5abf",
+      "slug": "2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Donald Trump",
+        "USA",
+        "választások",
+        "demokraták",
+        "külpolitika"
+      ],
+      "title": "Totális vereség: elvesztette a törvényhozás irányítását Donald Trump",
+      "subtitle": null,
+      "lead": "A Partizán Szignál című műsorában elhangzottak szerint a demokraták mindkét házban többséget szereztek a törvényhozásban. Az eredmények drámai változást jeleznek az Egyesült Államok politikai erőviszonyaiban, ami komoly korlátokat állít Donald Trump elnöksége elé.",
+      "key_points": [
+        "A Demokrata Párt többséget szerzett mind a szenátusban, mind a képviselőházban.",
+        "Donald Trump az eredményeket a személye iránti negatív visszacsatolás helyett gyenge jelöltekkel magyarázta.",
+        "Az elemzők szerint a gazdasági nehézségek és a kifulladt kultúrharc vezetett a republikánusok kudarcos szerepléséhez.",
+        "A választók egyértelmű ellensúlyt kívánnak képezni a jelenlegi elnöki adminisztrációval szemben."
+      ],
+      "content": "Súlyos választási kudarcot szenvedett a Republikánus Párt az Egyesült Államokban: a demokraták sikerével mind a képviselőház, mind a szenátus felett elveszítette az irányítást az elnöki adminisztráció. Ahogy korábban megírtuk, a választók egyértelműen ellensúlyt akarnak képezni Donald Trump elnök hatalmával szemben, ami a politikai elemzők szerint a félidős voksolások történetében is ritka, drámai váltást jelent.\n\nA Partizán Szignál című műsorában elhangzottak szerint a törvényhozási többség elvesztése hosszú évtizedek óta nem tapasztalt mértékű politikai vereségnek számít. A stúdióban Sebők Miklós egyetemi kutató kiemelte, hogy a republikánusok kampányát két fő tényező hátráltatta: a gazdasági mutatók romlása, valamint az a tény, hogy a párt központi elemeként használt kultúrharc kifulladt a választók körében. A vita során a műsorvezetők rámutattak, hogy az amerikai társadalom szélesebb rétegei egyértelműen elfordultak az elnök által képviselt irányvonaltól.\n\nAz elnök a választási eredményekre reagálva saját közösségi oldalán, a Truth felületén utasította vissza a személyes felelősségét. Donald Trump érvelése szerint a párt kudarca nem az ő politikájának, hanem az induló jelöltek gyengeségének köszönhető, ugyanakkor jelezte, hogy a jövőben hajlandó az együttműködésre az ellenzéki törvényhozókkal.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos választási kudarcot szenvedett a Republikánus Párt az Egyesült Államokban: a demokraták sikerével mind a képviselőház, mind a szenátus felett elveszítette az irányítást az elnöki adminisztráció. Ahogy korábban megírtuk, a választók egyértelműen ellensúlyt akarnak képezni Donald Trump elnök hatalmával szemben, ami a politikai elemzők szerint a félidős voksolások történetében is ritka, drámai váltást jelent.",
+        "A Partizán Szignál című műsorában elhangzottak szerint a törvényhozási többség elvesztése hosszú évtizedek óta nem tapasztalt mértékű politikai vereségnek számít. A stúdióban Sebők Miklós egyetemi kutató kiemelte, hogy a republikánusok kampányát két fő tényező hátráltatta: a gazdasági mutatók romlása, valamint az a tény, hogy a párt központi elemeként használt kultúrharc kifulladt a választók körében. A vita során a műsorvezetők rámutattak, hogy az amerikai társadalom szélesebb rétegei egyértelműen elfordultak az elnök által képviselt irányvonaltól.",
+        "Az elnök a választási eredményekre reagálva saját közösségi oldalán, a Truth felületén utasította vissza a személyes felelősségét. Donald Trump érvelése szerint a párt kudarca nem az ő politikájának, hanem az induló jelöltek gyengeségének köszönhető, ugyanakkor jelezte, hogy a jövőben hajlandó az együttműködésre az ellenzéki törvényhozókkal."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 205,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/1280px-Seal_of_the_United_States_Senate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The Seal of the United States Senate, the upper house of the United States Congress. See also the Seal of the United States House of Representatives.",
+        "credit": "Louis Dreka designed the actual seal, first used in 1885 per here.  Vectorized f / Wikimedia Commons",
+        "license": "CC BY-SA 2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Senate.svg",
+        "exact": true,
+        "entity": "US Senate",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=vdc-u7_Tr-Q",
+          "title": "Totális vereséget szenvedtek Trumpék | Amerikai választás - Szignál",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-11-05T11:06:52+01:00"
+        }
+      ],
+      "quote": {
+        "text": "I wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter.",
+        "who": "Donald Trump, az Egyesült Államok elnöke",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-11-05T14:34:39+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=vdc-u7_Tr-Q"
+        ]
+      },
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "url": "/vilag/2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump/",
+      "seo": {
+        "meta_title": "Totális vereség: elvesztette a törvényhozás irányítását Dona",
+        "meta_description": "A Partizán Szignál című műsorában elhangzottak szerint a demokraták mindkét házban többséget szereztek a törvényhozásban. Az eredmények drámai változást jelezne",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/1280px-Seal_of_the_United_States_Senate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "e2867710-cd6a-5783-ad19-f8e95ce2e827",
+        "d9ff85e5-5de9-5405-95d5-eb9991418e2e",
+        "cea972d1-c6a0-5863-a64a-8212515b9bfa"
+      ],
+      "see_also": [
+        {
+          "title": "Nem az én hibám: Donald Trump szerint a gyenge jelöltek bukták el a republikánus többséget",
+          "url": "/vilag/2026-11-04-nem-az-en-hibam-donald-trump-szerint-a-gyenge-jeloltek-buktak-el-a-re/",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Nem mentette meg a republikánusokat Donald Trump Texasban sem",
+          "url": "/vilag/2026-11-04-kek-hullam-soporte-el-texast-es-kansast-is-a-felidos-amerikai-valaszt/",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára",
+          "url": "/vilag/2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara/",
+          "date": "2026-10-26"
+        }
+      ],
+      "thread_id": "7a44a206-e931-5605-8043-f5f490beaf0e",
+      "dedupe_hash": "af2ff41df8db4807d346de982a4005d59906f3ff47b02c1df9de9a106f0a4bcc",
+      "pipeline_run_id": "42006094026",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-05T14:34:39+01:00",
+      "updated_at": "2026-11-05T14:34:39+01:00",
+      "published_at": "2026-11-05T14:34:39+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "vdc-u7_Tr-Q",
+        "title": "Totális vereséget szenvedtek Trumpék | Amerikai választás - Szignál",
+        "channel": "Partizán",
+        "minutes": 59
+      }
+    },
     {
       "id": "17829bb0-9c86-50eb-976b-3a22866dc28a",
       "slug": "2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott",
@@ -71911,106 +72044,6 @@
       "created_at": "2026-10-09T20:50:37+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-09T20:50:37+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ee17bd33-ecb2-5315-82d3-b9d422244491",
-      "slug": "2026-10-09-ezt-a-nehany-szabalyt-muszaj-tudnod-mielott-tozsdezni-kezdesz",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "tőzsde",
-        "befektetés",
-        "pénzügyek",
-        "portfolio",
-        "gazdaság"
-      ],
-      "title": "Ezt a néhány szabályt muszáj tudnod, mielőtt tőzsdézni kezdesz",
-      "subtitle": null,
-      "lead": "Egy tőzsdei ügylet elindítása ma már csupán néhány kattintást igényel, ám az igazi kihívást a megfelelő befektetési termékek kiválasztása és a kockázatok felmérése jelenti. A Portfolio által szervezett online előadás a kezdő befektetőknek segít eligazodni a számok, hozamok és grafikonok bonyolult világában.",
-      "key_points": [
-        "A tőzsdei ügyletek indítása digitálisan ma már rendkívül egyszerűvé vált.",
-        "A sikeres befektetéshez ismerni kell az időtávot, a kockázatokat és a költségstruktúrát.",
-        "A kezdők számára külön online előadás mutatja be a megbízástípusokat és a vállalati adatok elemzését."
-      ],
-      "content": "A mai tőzsdei környezetben egy ügylet elindítása már csak néhány technikai lépést igényel, ám a tudatos döntéshozatal sokkal mélyebb felkészülést kíván meg. A Portfolio 2026. október 9-én megjelent összegzése rámutat, hogy a különféle befektetési termékek, árfolyamok és vállalati adatok között könnyű elveszni anélkül, hogy értenénk a mögöttes összefüggéseket.\n\nEgy pénzügyi eszköz kiválasztása során alapvető szempont az időtáv, a vállalt kockázat mértéke, a várható hozam, valamint a konstrukció költségstruktúrája. A részvények, kötvények, ETF-ek vagy befektetési alapok tengerében történő eligazodáshoz elengedhetetlen a megbízható információk gyűjtése és az adatok helyes értelmezése.\n\nAz online előadás tematikája körbejárja a gyakorlati kérdéseket, így a résztvevők megtanulhatják használni a díjmentes grafikonrajzolókat, valamint megismerhetik a különböző megbízástípusokat is. Külön figyelmet kapnak a vállalati adatok, például az árbevétel, a profit és az adósság mutatói, amelyek révén kiszűrhetők a lényeges információk.\n\nA tőzsdei vagyonépítés iránt érdeklődők számára a kurzus abban is segít, hogy a pénz elhelyezése előtt tisztázzák a legfontosabb kérdéseket a hozam és a kockázat kapcsolatáról. A pénzügyi platformok útmutatásai ugyanakkor nem minősülnek hivatalos befektetési tanácsadásnak, így a felelősség minden esetben a döntéshozót terheli.",
-      "content_format": "markdown",
-      "body": [
-        "A mai tőzsdei környezetben egy ügylet elindítása már csak néhány technikai lépést igényel, ám a tudatos döntéshozatal sokkal mélyebb felkészülést kíván meg. A Portfolio 2026. október 9-én megjelent összegzése rámutat, hogy a különféle befektetési termékek, árfolyamok és vállalati adatok között könnyű elveszni anélkül, hogy értenénk a mögöttes összefüggéseket.",
-        "Egy pénzügyi eszköz kiválasztása során alapvető szempont az időtáv, a vállalt kockázat mértéke, a várható hozam, valamint a konstrukció költségstruktúrája. A részvények, kötvények, ETF-ek vagy befektetési alapok tengerében történő eligazodáshoz elengedhetetlen a megbízható információk gyűjtése és az adatok helyes értelmezése.",
-        "Az online előadás tematikája körbejárja a gyakorlati kérdéseket, így a résztvevők megtanulhatják használni a díjmentes grafikonrajzolókat, valamint megismerhetik a különböző megbízástípusokat is. Külön figyelmet kapnak a vállalati adatok, például az árbevétel, a profit és az adósság mutatói, amelyek révén kiszűrhetők a lényeges információk.",
-        "A tőzsdei vagyonépítés iránt érdeklődők számára a kurzus abban is segít, hogy a pénz elhelyezése előtt tisztázzák a legfontosabb kérdéseket a hozam és a kockázat kapcsolatáról. A pénzügyi platformok útmutatásai ugyanakkor nem minősülnek hivatalos befektetési tanácsadásnak, így a felelősség minden esetben a döntéshozót terheli."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 219,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Blur-chart-data-69760.jpg/1280px-Blur-chart-data-69760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A representation of financial risk in trading assets in the marketplace",
-        "credit": "Negative Space / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Blur-chart-data-69760.jpg",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/befektetes/20261009/kezdo-befekteto-kalauz-grafikonok-megbizasok-interaktiv-online-eloadas-792962",
-          "title": "Kezdő befektető kalauz - grafikonok, megbízások - interaktív, online előadás",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-09T18:57:38+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-09T19:26:24+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/befektetes/20261009/kezdo-befekteto-kalauz-grafikonok-megbizasok-interaktiv-online-eloadas-792962"
-        ]
-      },
-      "date": "2026-10-09",
-      "date_label": "október 9.",
-      "url": "/penzvilag/2026-10-09-ezt-a-nehany-szabalyt-muszaj-tudnod-mielott-tozsdezni-kezdesz/",
-      "seo": {
-        "meta_title": "Ezt a néhány szabályt muszáj tudnod, mielőtt tőzsdézni kezde",
-        "meta_description": "Egy tőzsdei ügylet elindítása ma már csupán néhány kattintást igényel, ám az igazi kihívást a megfelelő befektetési termékek kiválasztása és a kockázatok felmér",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-09-ezt-a-nehany-szabalyt-muszaj-tudnod-mielott-tozsdezni-kezdesz/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Blur-chart-data-69760.jpg/1280px-Blur-chart-data-69760.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "b3c6e3f451caaf431fd6fd022d092d459f1200a0dcbcacdd69a6c57152f29240",
-      "pipeline_run_id": "37961165040",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-09T19:26:24+02:00",
-      "updated_at": "2026-10-09T19:26:24+02:00",
-      "published_at": "2026-10-09T19:26:24+02:00",
       "expires_at": null
     }
   ]

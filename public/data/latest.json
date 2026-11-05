@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "624f979f-4842-5753-86cd-0a92f64e5abf",
+      "slug": "2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump",
+      "url": "/vilag/2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump/",
+      "title": "Totális vereség: elvesztette a törvényhozás irányítását Donald Trump",
+      "lead": "A Partizán Szignál című műsorában elhangzottak szerint a demokraták mindkét házban többséget szereztek a törvényhozásban. Az eredmények drámai változást jeleznek az Egyesült Államok politikai erőviszonyaiban, ami komoly korlátokat állít Donald Trump elnöksége elé.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T14:34:39+01:00",
+      "published_at": "2026-11-05T14:34:39+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Donald Trump",
+        "USA",
+        "választások",
+        "demokraták",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/1280px-Seal_of_the_United_States_Senate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The Seal of the United States Senate, the upper house of the United States Congress. See also the Seal of the United States House of Representatives."
+      }
+    },
+    {
       "id": "17829bb0-9c86-50eb-976b-3a22866dc28a",
       "slug": "2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott",
       "url": "/kozelet/2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott/",
@@ -4382,37 +4412,7 @@
         "pos": "center",
         "alt": "an Ohio lottery vending machine inside Walmart"
       }
-    },
-    {
-      "id": "44442b06-5503-59c9-906e-180a74dd256c",
-      "slug": "2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban",
-      "url": "/vilag/2026-10-25-vucsics-eddigi-legnehezebb-valasztasa-jon-vasarnap-szerbiaban/",
-      "title": "Vucsics eddigi legnehezebb választása jön vasárnap Szerbiában",
-      "lead": "Vasárnap parlamenti választást tartanak Szerbiában, ahol a 2012 óta hatalmon lévő Alekszandar Vucsics eddigi legkomolyabb politikai kihívásával néz szembe. A tét a kormánypárt hatalmának megőrzése mellett az újvidéki tragédia után fellángoló társadalmi feszültségek rendezése.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T13:18:42+01:00",
-      "published_at": "2026-10-25T13:18:42+01:00",
-      "reading_time_min": 3,
-      "hot_score": 9.9,
-      "tags": [
-        "Szerbia",
-        "választás",
-        "Alekszandar Vucsics",
-        "Magyar Külügyi Intézet",
-        "Balkán"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg/1280px-Mikheil_Kavelashvili_meeting_Aleksandar_Vu%C4%8Di%C4%87_in_Serbia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 771,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Mikheil Kavelashvili meeting Vucic in Serbia"
-      }
     }
   ],
-  "updated_at": "2026-11-05T13:59:51+01:00"
+  "updated_at": "2026-11-05T14:34:40+01:00"
 }
