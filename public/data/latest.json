@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "285017ea-263d-562a-87e2-131d5a94f8fd",
+      "slug": "2026-11-05-a-forint-kalandos-evszazadai-firenze-utcaitol-a-habsburg-birodalomig",
+      "url": "/penzvilag/2026-11-05-a-forint-kalandos-evszazadai-firenze-utcaitol-a-habsburg-birodalomig/",
+      "title": "A forint kalandos évszázadai Firenze utcáitól a Habsburg Birodalomig",
+      "lead": "A forint neve és története messzebbre nyúlik vissza, mint azt elsőre gondolnánk, hiszen a középkori itáliai kereskedővárosoktól a Habsburg Birodalom gazdasági reformjaiig ível. Ismerjük meg a fizetőeszközünk gyökereit, amelyek az európai pénztörténet fontos mérföldkövei voltak.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T11:00:34+01:00",
+      "published_at": "2026-11-05T11:00:34+01:00",
+      "reading_time_min": 4,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "forint",
+        "történelem",
+        "gazdaság",
+        "pénz",
+        "Habsburg Birodalom"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/%C3%96sterreich_-_Goldm%C3%BCnze%2C_8_Florin_%28Gulden%29%2C_1892.JPG/1280px-%C3%96sterreich_-_Goldm%C3%BCnze%2C_8_Florin_%28Gulden%29%2C_1892.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Wertseite (Revers) der österreichischen 8 Gulden Münze (Nachprägung). Die Wertangabe erfolgt in Florin (lateinisch/französisch/englisch für Gulden) und in Franken/Francs (Lateinische Münzunion). Die M"
+      }
+    },
+    {
       "id": "9cf4c77f-04b8-5bf8-8621-92135aa161f9",
       "slug": "2026-11-05-berlinben-egy-hotelszobaban-halt-meg-a-bajor-miniszterelnok-helyettes",
       "url": "/vilag/2026-11-05-berlinben-egy-hotelszobaban-halt-meg-a-bajor-miniszterelnok-helyettes/",
@@ -4378,38 +4409,7 @@
         "pos": "top",
         "alt": "Pintér Bence 2023-ban"
       }
-    },
-    {
-      "id": "01832475-d498-5768-beb9-82dedc234e51",
-      "slug": "2026-10-25-atverhet-e-a-mesterseges-intelligencia",
-      "url": "/tech/2026-10-25-atverhet-e-a-mesterseges-intelligencia/",
-      "title": "Átverhet-e a mesterséges intelligencia?",
-      "lead": "A mesterséges intelligencia által generált hamis videók és hangfelvételek korában emberi érzékelésünk már nem nyújt kellő biztonságot. Egyre kifinomultabb technológiákkal állunk szemben, miközben agyunk a legkönnyebb célponttá válik.",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T08:00:18+01:00",
-      "published_at": "2026-10-25T08:00:18+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "deepfake",
-        "mesterséges intelligencia",
-        "tudomány",
-        "dezinformáció",
-        "technológia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Data_Security_Breach_%2829723649810%29.jpg/1280px-Data_Security_Breach_%2829723649810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Every image posted in the Blogtrepreneur Flickr Photostream is available for use under the Creative Commons Attribution License.\nPlease provide attribution via a link to blogtrepreneur.com/tech\nYou ge"
-      }
     }
   ],
-  "updated_at": "2026-11-05T08:43:54+01:00"
+  "updated_at": "2026-11-05T11:00:35+01:00"
 }
