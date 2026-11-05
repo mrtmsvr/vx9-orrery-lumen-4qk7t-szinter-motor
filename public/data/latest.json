@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c1446d53-6caa-5c93-9746-fe5d31e68ace",
+      "slug": "2026-11-05-varatlan-v4-csucson-egyeztet-trencsenben-az-unios-elnok",
+      "url": "/vilag/2026-11-05-varatlan-v4-csucson-egyeztet-trencsenben-az-unios-elnok/",
+      "title": "Váratlan V4-csúcson egyeztet Trencsénben az uniós elnök",
+      "lead": "Ursula von der Leyen, az Európai Bizottság elnöke személyesen vesz részt a visegrádi csoport államfőinek trencséni egyeztetésén. A rendhagyó látogatás a közép-európai régió előtt álló közös gazdasági és politikai kihívások áttekintését szolgálja.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T14:54:39+01:00",
+      "published_at": "2026-11-05T14:54:39+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.32,
+      "tags": [
+        "Európai Unió",
+        "V4",
+        "Ursula von der Leyen",
+        "külpolitika",
+        "energiaár"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Ursula_von_der_Leyen_2024.jpg/1280px-Ursula_von_der_Leyen_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1599,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The following images are available for download and use free of rights"
+      }
+    },
+    {
       "id": "73ed1035-73f9-5ee5-a866-03b0d58305fc",
       "slug": "2026-11-05-a-network4-nel-folytatja-az-atv-tol-tavozott-krug-emilia",
       "url": "/bulvar/2026-11-05-a-network4-nel-folytatja-az-atv-tol-tavozott-krug-emilia/",
@@ -4382,37 +4412,7 @@
         "pos": "top",
         "alt": "Elon Musk is a technology entrepreneur, investor, and engineer."
       }
-    },
-    {
-      "id": "79aa591d-80ee-50ad-8237-1b6955ef7fcb",
-      "slug": "2026-10-25-karacsony-parkolasi-tervei-miatt-lazadtak-fel-a-budapesti-polgarmeste",
-      "url": "/kozelet/2026-10-25-karacsony-parkolasi-tervei-miatt-lazadtak-fel-a-budapesti-polgarmeste/",
-      "title": "Karácsony parkolási tervei miatt lázadtak fel a budapesti polgármesterek",
-      "lead": "A budapesti parkolási rendszer átalakítását célzó döntés visszavonását és új egyeztetések indítását követeli nyolc fővárosi kerület polgármestere. A városvezetők a Budapesti Önkormányzatok Szövetségének rendkívüli ülésén kezdeményezik a szervezet újraindítását a kialakult helyzet miatt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T18:39:48+01:00",
-      "published_at": "2026-10-25T18:39:48+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.1,
-      "tags": [
-        "Budapest",
-        "parkolás",
-        "Karácsony Gergely",
-        "önkormányzat",
-        "BÖSZ"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Parking_meter_Budapest_%281%29.jpg/1280px-Parking_meter_Budapest_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Photographie d'un parcmètre sur Andrássy út (avenue Andrassy) à Budapest, de nuit. Photographie moins bien cadrée mais les couleurs sont plus fidèles à l'original."
-      }
     }
   ],
-  "updated_at": "2026-11-05T14:44:59+01:00"
+  "updated_at": "2026-11-05T14:54:40+01:00"
 }

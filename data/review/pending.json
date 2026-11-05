@@ -7578,7 +7578,7 @@
     {
       "id": "c1446d53-6caa-5c93-9746-fe5d31e68ace",
       "slug": "2026-11-05-varatlan-v4-csucson-egyeztet-trencsenben-az-unios-elnok",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -7774,9 +7774,9 @@
       "dedupe_hash": "004f687c88c0fc12276b05b9a5c1b698a5e31734b9fb1888d1610ff6bdca3c5a",
       "pipeline_run_id": "42017472071",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-05T12:41:11+01:00",
-      "updated_at": "2026-11-05T12:41:11+01:00",
-      "published_at": "2026-11-05T12:41:11+01:00",
+      "created_at": "2026-11-05T14:54:39+01:00",
+      "updated_at": "2026-11-05T14:54:39+01:00",
+      "published_at": "2026-11-05T14:54:39+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -7792,9 +7792,9 @@
         "control_id": 9908,
         "msg_ids": [],
         "title_prompt_id": null,
-        "compact": "🕒 Kint lesz 14:54 (✏️ → ✅ = azonnal)"
+        "compact": "✅ Kint"
       },
-      "scheduled_at": "2026-11-05T14:54:39+01:00"
+      "live": true
     },
     {
       "id": "93c1ba40-3d6a-592d-abe1-86115016bb86",
