@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "bbd5c6fd-3766-5a7b-8a80-172fa4e940cd",
+      "slug": "2026-11-05-kinyirtak-a-falkavezerek-az-azsia-expressz-uj-sztarjait",
+      "url": "/bulvar/2026-11-05-kinyirtak-a-falkavezerek-az-azsia-expressz-uj-sztarjait/",
+      "title": "Kinyírták a falkavezérek az Ázsia Expressz új sztárjait",
+      "lead": "Nem fogadta osztatlan lelkesedés Schumacher Vandát és Henry Kettnert a TV2 kalandrealityjében, a mezőny ugyanis kifejezetten ellenségesen viszonyult az újonnan érkező duóhoz. Az influenszerek szerint a feszültség elsősorban a kimerítő verseny velejárója.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T18:57:28+01:00",
+      "published_at": "2026-11-05T18:57:28+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5.7,
+      "tags": [
+        "Ázsia Expressz",
+        "TV2",
+        "Schumacher Vanda",
+        "Henry Kettner",
+        "reality"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/4d5227128d954403.jpg",
+        "width": 3323,
+        "height": 2209,
+        "kind": "photo",
+        "alt": "road, man, hitchhiker, walker, on the way, usa, lonely, highway, hitchhike, nature, by hitch hiking, landscape, lift, backpack, person, expanse, lonliness, alone, grim, clouds, cloud formations, human"
+      }
+    },
+    {
       "id": "c559df92-cf5a-5206-beeb-b48ecd16079a",
       "slug": "2026-11-05-tizenot-ev-utan-ujra-a-mokkat-vezeti-liptai-claudia",
       "url": "/bulvar/2026-11-05-tizenot-ev-utan-ujra-a-mokkat-vezeti-liptai-claudia/",
@@ -4381,36 +4410,7 @@
         "pos": "center",
         "alt": "Headquarters of the United Nations"
       }
-    },
-    {
-      "id": "0e64f612-abed-5b81-8a87-548d9567fd29",
-      "slug": "2026-10-26-masodik-fordulora-kenyszerul-a-bolgar-elnok-az-ukrajnai-fegyverszalli",
-      "url": "/vilag/2026-10-26-masodik-fordulora-kenyszerul-a-bolgar-elnok-az-ukrajnai-fegyverszalli/",
-      "title": "Második fordulóra kényszerül a bolgár elnök, az ukrajnai fegyverszállítás a tét",
-      "lead": "Történelmi mélypontra süllyedt a részvételi arány a vasárnapi bolgár elnökválasztáson, ahol Ilijana Jotova szűk előnnyel végzett az élen, de a győzelemhez második fordulóra lesz szükség. A november 1-jei megméretésen dől el, hogy az ukrajnai fegyverszállításokat ellenző államfő vagy Andrej Gjurov veszi át az irányítást.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T06:16:40+01:00",
-      "published_at": "2026-10-26T06:16:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.43,
-      "tags": [
-        "Bulgária",
-        "elnökválasztás",
-        "Ilijana Jotova",
-        "Andrej Gjurov"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg/1280px-Sofia_Massif_and_Sofia_Glacier%2C_Karachay-Cherkessia%2C_Caucasus_Mountains.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 674,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Sofia Massif (3,637 metres (11,932 ft)) and Sofia Glacier in clouds and fog under fresh autumn snow. Karachay-Cherkessia, Caucasus Mountains."
-      }
     }
   ],
-  "updated_at": "2026-11-05T18:54:13+01:00"
+  "updated_at": "2026-11-05T18:57:31+01:00"
 }
