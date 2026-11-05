@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "c122f9da-e032-58c2-b051-5b3f773b5090",
+      "slug": "2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban",
+      "url": "/kozelet/2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban/",
+      "title": "Technikai hiba keverhette ügynökké Lezsák Sándort az iratokban",
+      "lead": "Technikai hiba miatt szerepelt tévesen az állambiztonsági adatbázisban Lezsák Sándor országgyűlési képviselő, akit a gyanú szerint megfigyelt helyett hálózati személyként tüntettek fel. Az eset rávilágít azokra a szövevényes és gyakran átláthatatlan folyamatokra, amelyek a szocialista állambiztonsági iratok kezelését jellemezték.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T19:43:54+01:00",
+      "published_at": "2026-11-05T19:43:54+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Lezsák Sándor",
+        "ügynökakták",
+        "állambiztonság",
+        "történelem"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1558,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Sándor Lezsák, Hungarian poet, teacher, politician, and founder of the Hungarian Democratic Forum. Since 2006, he has been deputy Speaker of the Parliament."
+      }
+    },
+    {
       "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
       "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
       "url": "/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
@@ -4380,37 +4409,7 @@
         "pos": "top",
         "alt": "Retrato oficial do Presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert"
       }
-    },
-    {
-      "id": "cea972d1-c6a0-5863-a64a-8212515b9bfa",
-      "slug": "2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara",
-      "url": "/vilag/2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara/",
-      "title": "Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára",
-      "lead": "A The Wall Street Journal értesülései szerint Donald Trump amerikai elnök kormánya azt szeretné, ha Orbán Viktor volt magyar kormányfő indulna az ENSZ főtitkári posztjáért. A washingtoni diplomáciai egyeztetések alapján Moszkva és Peking is támogatná a jelöltségét.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T07:35:40+01:00",
-      "published_at": "2026-10-26T07:35:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Orbán Viktor",
-        "ENSZ",
-        "Donald Trump",
-        "Wall Street Journal",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2024-11-18-Headquarters_of_the_United_Nations-0605.jpg/1280px-2024-11-18-Headquarters_of_the_United_Nations-0605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Headquarters of the United Nations"
-      }
     }
   ],
-  "updated_at": "2026-11-05T19:24:26+01:00"
+  "updated_at": "2026-11-05T19:43:55+01:00"
 }
