@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4dbc771a-58ef-505b-bc46-bff51a109832",
+      "slug": "2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a",
+      "url": "/kozelet/2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a/",
+      "title": "Matolcsy Györgyöt már nem látják szívesen Kozármislenyben: elvették a díszpolgárságát",
+      "lead": "Kozármisleny képviselő-testülete október végén egyhangúlag visszavonta Matolcsy György volt jegybankelnök díszpolgári címét. A döntés az érintettet érintő hatósági eljárások közepette született meg.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T20:12:20+01:00",
+      "published_at": "2026-11-05T20:12:20+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Matolcsy György",
+        "Kozármisleny",
+        "díszpolgár",
+        "önkormányzat",
+        "bűnügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Koz%C3%A1rmisleny%2C_vil%C3%A1gh%C3%A1bor%C3%BAs_eml%C3%A9km%C5%B1.jpg/1280px-Koz%C3%A1rmisleny%2C_vil%C3%A1gh%C3%A1bor%C3%BAs_eml%C3%A9km%C5%B1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kozármisleny, világháborús emlékmű"
+      }
+    },
+    {
       "id": "a59069b3-aa1c-5648-9bbc-d1e37fba56b7",
       "slug": "2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java",
       "url": "/vilag/2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java/",
@@ -4378,37 +4408,7 @@
         "kind": "photo",
         "alt": "asphalt, construction, road, work, blue work, blue road, blue construction, asphalt, asphalt, asphalt, asphalt, asphalt"
       }
-    },
-    {
-      "id": "56134abb-5dde-5d51-bc3f-8911e756f428",
-      "slug": "2026-10-26-trump-lesoporte-norvegiat-a-nobel-dij-miatt",
-      "url": "/vilag/2026-10-26-trump-lesoporte-norvegiat-a-nobel-dij-miatt/",
-      "title": "Trump lesöpörte Norvégiát a Nobel-díj miatt",
-      "lead": "Donald Trump vasárnap rendkívül kemény szavakkal illette Norvégiát a Michigan állambeli Port Huronban tartott kampánygyűlésén. Az amerikai elnök azért dühödött fel, mert az oslói Nobel-bizottság idén sem neki ítélte oda a Nobel-békedíjat.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T08:31:18+01:00",
-      "published_at": "2026-10-26T08:31:18+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.4,
-      "tags": [
-        "Donald Trump",
-        "Norvégia",
-        "Nobel-békedíj",
-        "Egyesült Államok",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Oslo_harbour_colors_modified.jpg/1280px-Oslo_harbour_colors_modified.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Harbour of Oslo, Norway. Colors enhanced."
-      }
     }
   ],
-  "updated_at": "2026-11-05T20:10:23+01:00"
+  "updated_at": "2026-11-05T20:12:22+01:00"
 }
