@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9cf4c77f-04b8-5bf8-8621-92135aa161f9",
+      "slug": "2026-11-05-berlinben-egy-hotelszobaban-halt-meg-a-bajor-miniszterelnok-helyettes",
+      "url": "/vilag/2026-11-05-berlinben-egy-hotelszobaban-halt-meg-a-bajor-miniszterelnok-helyettes/",
+      "title": "Berlinben, egy hotelszobában halt meg a bajor miniszterelnök-helyettes",
+      "lead": "Szerdán holtan találták berlini hotelszobájában Hubert Aiwangert, Bajorország miniszterelnök-helyettesét. A hatóságok vizsgálják a haláleset körülményeit, a nyomozás jelenleg az idegenkezűség kizárására irányul.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T08:43:23+01:00",
+      "published_at": "2026-11-05T08:43:23+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.86,
+      "tags": [
+        "Németország",
+        "Bajorország",
+        "Hubert Aiwanger",
+        "Berlin",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/2023-05-23-Hubert_Aiwanger-Maischberger-6164.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Hubert Aiwanger in WDR-Show Maischberger at  2023-05-23"
+      }
+    },
+    {
       "id": "1d97bf02-7a60-50fd-9156-8f216e210716",
       "slug": "2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab",
       "url": "/kozelet/2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab/",
@@ -4379,36 +4409,7 @@
         "pos": "center",
         "alt": "Every image posted in the Blogtrepreneur Flickr Photostream is available for use under the Creative Commons Attribution License.\nPlease provide attribution via a link to blogtrepreneur.com/tech\nYou ge"
       }
-    },
-    {
-      "id": "ce9d2ec2-23d5-5beb-9b6e-78a000aa1ed3",
-      "slug": "2026-10-25-oraatallitas-miert-nem-sikerult-meg-eltorolni-a-nyugot",
-      "url": "/kozelet/2026-10-25-oraatallitas-miert-nem-sikerult-meg-eltorolni-a-nyugot/",
-      "title": "Óraátállítás: miért nem sikerült még eltörölni a nyűgöt?",
-      "lead": "Vasárnap hajnalban három óráról kettőre állították vissza az órákat Magyarországon, ezzel kezdetét vette a téli időszámítás. Bár az Európai Unió évek óta tervezi az évi kétszeri óraátállítás megszüntetését, a végleges megállapodás továbbra is várat magára.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T07:58:06+01:00",
-      "published_at": "2026-10-25T07:58:06+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.37,
-      "tags": [
-        "óraátállítás",
-        "időszámítás",
-        "közlekedés",
-        "egészség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Pittsfield_Town_Clock_Face_-_Google_Art_Project.jpg/1280px-Pittsfield_Town_Clock_Face_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1219,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ""
-      }
     }
   ],
-  "updated_at": "2026-11-05T08:41:56+01:00"
+  "updated_at": "2026-11-05T08:43:25+01:00"
 }
