@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3695249e-943c-5335-bb61-094a3e31b869",
+      "slug": "2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis",
+      "url": "/kozelet/2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis/",
+      "title": "Adathiba vagy politikai fegyver? Lezsák Sándort tették be az ügynöklistába",
+      "lead": "Az ügynökaktákat nyilvánosságra hozó adatbázis tévesen sorolta Lezsák Sándort a hálózati személyek közé, ami éles politikai vitát váltott ki. A Fidesz a honlap leállítását és Tarr Zoltán távozását követeli.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T15:22:15+01:00",
+      "published_at": "2026-11-05T15:22:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 16.17,
+      "tags": [
+        "ügynökakták",
+        "Lezsák Sándor",
+        "Fidesz",
+        "Magyar Péter",
+        "ÁBTL"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1558,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Sándor Lezsák, Hungarian poet, teacher, politician, and founder of the Hungarian Democratic Forum. Since 2006, he has been deputy Speaker of the Parliament."
+      }
+    },
+    {
       "id": "93c1ba40-3d6a-592d-abe1-86115016bb86",
       "slug": "2026-11-05-bombariadok-benitjak-meg-az-europai-reptereket-tobb-gepet-kenyszerles",
       "url": "/vilag/2026-11-05-bombariadok-benitjak-meg-az-europai-reptereket-tobb-gepet-kenyszerles/",
@@ -4381,37 +4411,7 @@
         "pos": "center",
         "alt": "This is a photograph of a Natura 2000 protected area with ID"
       }
-    },
-    {
-      "id": "a71189d9-5a16-543b-af98-4cfa74d8ba97",
-      "slug": "2026-10-25-negyedszazad-utan-ujra-eljatszottak-az-istvan-a-kiralyt-amerikaban",
-      "url": "/kultura/2026-10-25-negyedszazad-utan-ujra-eljatszottak-az-istvan-a-kiralyt-amerikaban/",
-      "title": "Negyedszázad után újra eljátszották az István, a királyt Amerikában",
-      "lead": "Az 1956 után az Amerikai Egyesült Államokba menekült magyarok leszármazottai évtizedek óta őrzik a hazai kultúrát a cserkészet és a közösségi hagyományok révén. A 444.hu műsorában bemutatott dokumentumfilm annak a zárt, mégis erős világnak a mindennapjait tárja fel, amelyben két kultúra között nőttek fel a fiatalok.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T21:59:12+01:00",
-      "published_at": "2026-10-25T21:59:12+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "cserkészet",
-        "dokumentumfilm",
-        "diaszpóra",
-        "magyar kultúra",
-        "egyesült államok"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Los_Angeles_with_Mount_Baldy.jpg/1280px-Los_Angeles_with_Mount_Baldy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 562,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "February shot of downtown Los Angeles sunset with Mount Baldy in the background after a large snow storm."
-      }
     }
   ],
-  "updated_at": "2026-11-05T15:14:55+01:00"
+  "updated_at": "2026-11-05T15:22:17+01:00"
 }
