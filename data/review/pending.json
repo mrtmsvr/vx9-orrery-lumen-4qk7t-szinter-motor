@@ -7729,8 +7729,11 @@
         "lead": "Technikai hiba miatt szerepelt tévesen az állambiztonsági adatbázisban Lezsák Sándor országgyűlési képviselő, akit a gyanú szerint megfigyelt helyett hálózati személyként tüntettek fel. Az eset rávilágít azokra a szövevényes és gyakran átláthatatlan folyamatokra, amelyek a szocialista állambiztonsági iratok kezelését jellemezték.",
         "ctl_photo": true,
         "control_id": 9928,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 19:43 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-05T19:43:44+01:00"
     }
   ]
 }
