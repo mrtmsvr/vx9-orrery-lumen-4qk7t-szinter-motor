@@ -6942,7 +6942,7 @@
     {
       "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
       "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": null,
       "tags": [
@@ -7094,9 +7094,9 @@
       "dedupe_hash": "2b459f9a2fa272c5f73f7116b79ed1a1eed1441714eb4a6b8fe9ac61da218e0b",
       "pipeline_run_id": "42048880143",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-05T16:10:37+01:00",
-      "updated_at": "2026-11-05T16:10:37+01:00",
-      "published_at": "2026-11-05T16:10:37+01:00",
+      "created_at": "2026-11-05T19:23:44+01:00",
+      "updated_at": "2026-11-05T19:23:44+01:00",
+      "published_at": "2026-11-05T19:23:44+01:00",
       "expires_at": null,
       "hold": true,
       "video": {
@@ -7117,8 +7117,11 @@
         "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
         "ctl_photo": true,
         "control_id": 9919,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "a2b1cd90-7003-50fe-9b86-79ec778a3ede",

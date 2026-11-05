@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
+      "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
+      "url": "/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
+      "title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+      "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T19:23:44+01:00",
+      "published_at": "2026-11-05T19:23:44+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Macskafogó",
+        "animáció",
+        "dokumentumfilm",
+        "Partizán",
+        "kultúra"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Macskafogó (Cat City). Wandbild an einem Wohnblock in Budapest, Szigony utca 8"
+      }
+    },
+    {
       "id": "bbd5c6fd-3766-5a7b-8a80-172fa4e940cd",
       "slug": "2026-11-05-kinyirtak-a-falkavezerek-az-azsia-expressz-uj-sztarjait",
       "url": "/bulvar/2026-11-05-kinyirtak-a-falkavezerek-az-azsia-expressz-uj-sztarjait/",
@@ -4380,37 +4410,7 @@
         "pos": "top",
         "alt": "Retrato oficial do Presidente da República, Luiz Inácio Lula da Silva. Foto: Ricardo Stuckert"
       }
-    },
-    {
-      "id": "cea972d1-c6a0-5863-a64a-8212515b9bfa",
-      "slug": "2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara",
-      "url": "/vilag/2026-10-26-trumpek-azt-akarjak-hogy-orban-legyen-az-ensz-fotitkara/",
-      "title": "Trumpék azt akarják, hogy Orbán legyen az ENSZ főtitkára",
-      "lead": "A The Wall Street Journal értesülései szerint Donald Trump amerikai elnök kormánya azt szeretné, ha Orbán Viktor volt magyar kormányfő indulna az ENSZ főtitkári posztjáért. A washingtoni diplomáciai egyeztetések alapján Moszkva és Peking is támogatná a jelöltségét.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T07:35:40+01:00",
-      "published_at": "2026-10-26T07:35:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Orbán Viktor",
-        "ENSZ",
-        "Donald Trump",
-        "Wall Street Journal",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/2024-11-18-Headquarters_of_the_United_Nations-0605.jpg/1280px-2024-11-18-Headquarters_of_the_United_Nations-0605.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Headquarters of the United Nations"
-      }
     }
   ],
-  "updated_at": "2026-11-05T19:01:18+01:00"
+  "updated_at": "2026-11-05T19:23:45+01:00"
 }

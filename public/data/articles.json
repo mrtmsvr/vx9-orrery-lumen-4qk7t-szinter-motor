@@ -1,7 +1,119 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T18:57:28+01:00",
+  "updated_at": "2026-11-05T19:23:44+01:00",
   "articles": [
+    {
+      "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
+      "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Macskafogó",
+        "animáció",
+        "dokumentumfilm",
+        "Partizán",
+        "kultúra"
+      ],
+      "title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+      "subtitle": null,
+      "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
+      "key_points": [
+        "A Macskafogó 40 című dokumentumfilm a film születését és a korabeli kultúrpolitikai környezetet dolgozza fel.",
+        "Az alkotás bemutatja a több százezer képkocka elkészítésével járó, fáradságos animációs munkát.",
+        "A nézők betekintést nyerhetnek azokba a küzdelmekbe, amelyek révén a produkció elkerülte, hogy a fiókban végezze.",
+        "A dokumentumfilm a tervek szerint 2026 decemberében jelenik meg."
+      ],
+      "content": "A magyar animációs filmművészet egyik alappillére ünnepli negyedik évtizedét; ennek apropóján a Partizán egész estés dokumentumfilmet készít a Macskafogó születéséről. A Macskafogó 40 – Egy kultfilm története című alkotás nem csupán a korabeli animációs technológia határait és a technikai kihívásokat mutatja be, hanem azt a közeget is, amelyben a film megszületett.\n\nA dokumentumfilm a források szerint részletesen kitér a korabeli kultúrpolitikai elvárásokra, a cenzurális korlátokra, valamint azokra a finanszírozási nehézségekre, amelyek szinte mindennapos akadályt gördítettek az alkotók elé. A nézők képet kaphatnak arról, miért volt valódi művészi és szervezési bravúr a produkció megvalósítása.\n\nAz előzetesből felsejlik az alkotói folyamat monumentális jellege, hiszen a film elkészítése több százezer rajzolt képkocka aprólékos összehangolását igényelte. A készítők célja, hogy feltárják azokat a háttérben zajló folyamatokat, amelyek végül a hazai filmgyártás egyik legikonikusabb művét eredményezték.\n\nA megjelenést 2026 decemberére tűzték ki. Ez kiváló alkalom lehet arra, hogy a kultuszfilm rajongói és az új generációk is megértsék: a mű nemcsak humora és karakterei, hanem megmenekülésének története miatt is különleges helyet foglal el a magyar kultúrában.",
+      "content_format": "markdown",
+      "body": [
+        "A magyar animációs filmművészet egyik alappillére ünnepli negyedik évtizedét; ennek apropóján a Partizán egész estés dokumentumfilmet készít a Macskafogó születéséről. A Macskafogó 40 – Egy kultfilm története című alkotás nem csupán a korabeli animációs technológia határait és a technikai kihívásokat mutatja be, hanem azt a közeget is, amelyben a film megszületett.",
+        "A dokumentumfilm a források szerint részletesen kitér a korabeli kultúrpolitikai elvárásokra, a cenzurális korlátokra, valamint azokra a finanszírozási nehézségekre, amelyek szinte mindennapos akadályt gördítettek az alkotók elé. A nézők képet kaphatnak arról, miért volt valódi művészi és szervezési bravúr a produkció megvalósítása.",
+        "Az előzetesből felsejlik az alkotói folyamat monumentális jellege, hiszen a film elkészítése több százezer rajzolt képkocka aprólékos összehangolását igényelte. A készítők célja, hogy feltárják azokat a háttérben zajló folyamatokat, amelyek végül a hazai filmgyártás egyik legikonikusabb művét eredményezték.",
+        "A megjelenést 2026 decemberére tűzték ki. Ez kiváló alkalom lehet arra, hogy a kultuszfilm rajongói és az új generációk is megértsék: a mű nemcsak humora és karakterei, hanem megmenekülésének története miatt is különleges helyet foglal el a magyar kultúrában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 195,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Macskafogó (Cat City). Wandbild an einem Wohnblock in Budapest, Szigony utca 8",
+        "credit": "Sir Morosus / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Szigony_utca,_Macskafog%C3%B3_falfestm%C3%A9ny_(a).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=qz3TgDnYPA4",
+          "title": "MACSKAFOGÓ 40 – Egy kultfilm története a Partizánon | TEASER",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-11-05T16:10:37+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Itt hoztál nekünk Pedro, amigo mio",
+        "who": "Ismeretlen közreműködő a Partizán előzetesében",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-11-05T19:23:44+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=qz3TgDnYPA4"
+        ]
+      },
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "url": "/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
+      "seo": {
+        "meta_title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+        "meta_description": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét é",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2b459f9a2fa272c5f73f7116b79ed1a1eed1441714eb4a6b8fe9ac61da218e0b",
+      "pipeline_run_id": "42048880143",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-05T19:23:44+01:00",
+      "updated_at": "2026-11-05T19:23:44+01:00",
+      "published_at": "2026-11-05T19:23:44+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "qz3TgDnYPA4",
+        "title": "MACSKAFOGÓ 40 – Egy kultfilm története a Partizánon | TEASER",
+        "channel": "Partizán",
+        "minutes": 1
+      }
+    },
     {
       "id": "bbd5c6fd-3766-5a7b-8a80-172fa4e940cd",
       "slug": "2026-11-05-kinyirtak-a-falkavezerek-az-azsia-expressz-uj-sztarjait",
@@ -71961,110 +72073,6 @@
       "created_at": "2026-10-10T10:39:38+02:00",
       "updated_at": "2026-10-23T00:09:10+00:00",
       "published_at": "2026-10-10T10:39:38+02:00",
-      "expires_at": null,
-      "requested": true
-    },
-    {
-      "id": "d2517662-27b9-504e-b009-7d20d2027657",
-      "slug": "2026-10-10-meglettek-a-honap-elejen-elrabolt-renoir-festmenyek",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Renoir",
-        "Franciaország",
-        "műkincsrablás",
-        "rendőrség",
-        "múzeum"
-      ],
-      "title": "Meglettek a múlt hónapban elrabolt Renoir-festmények",
-      "subtitle": null,
-      "lead": "A rendőrök elfogták a gyanúsítottakat, és előkerítették az Auguste Renoir hagyatékához tartozó műalkotásokat, amelyeket szeptember elején loptak el egy dél-franciaországi múzeumból. A műkincsek sorsa eddig bizonytalan volt, miközben a francia intézmények biztonsága továbbra is éles viták tárgya.",
-      "key_points": [
-        "Hat embert vettek őrizetbe a szeptember 8-i múzeumi betörés ügyében.",
-        "A négy elvitt alkotásból kettőt már a rablás során elhagytak az elkövetők.",
-        "A polgármester szerint hatalmas megkönnyebbülés a képek megkerülése."
-      ],
-      "content": "A dél-franciaországi Cagnes-sur-Mer településen található Renoir Múzeumból szeptember 8-án éjszaka lopták el a műalkotásokat, miután a tettesek a kerítésen vágott lyukon át törtek be az épületbe. A helyi térfigyelő kamerák rögzítették, amint a rablók menekülnek a hatóságok elől; eredetileg négy festményt vittek magukkal, ám kettőt az üldözés során elejtettek.\n\nCsütörtökön a rendőrség hat embert fogott el és vett őrizetbe az ügyben – közölte Bryan Masson, a település polgármestere. A városvezető hangsúlyozta, hogy ezek a művek szorosan összefonódnak a helyi kulturális örökséggel és Auguste Renoir munkásságával, ugyanakkor egyelőre nem árult el részleteket arról, hogy pontosan hol bukkantak rá a festményekre, illetve milyen állapotban vannak.\n\nA múzeumi biztonság kérdése tavaly október óta fokozott figyelmet kap, miután a párizsi Louvre-ban egy drámai, kevesebb mint nyolc perc alatt végrehajtott ékszerrablás során több mint 100 millió dollár értékben vittek el történelmi jelentőségű darabokat. Bár a tetteseket ott is elfogták, az ékszerek azóta sem kerültek elő, így a mostani dél-franciaországi eredmény ritka sikernek számít a műkincsvédelem terén.",
-      "content_format": "markdown",
-      "body": [
-        "A dél-franciaországi Cagnes-sur-Mer településen található Renoir Múzeumból szeptember 8-án éjszaka lopták el a műalkotásokat, miután a tettesek a kerítésen vágott lyukon át törtek be az épületbe. A helyi térfigyelő kamerák rögzítették, amint a rablók menekülnek a hatóságok elől; eredetileg négy festményt vittek magukkal, ám kettőt az üldözés során elejtettek.",
-        "Csütörtökön a rendőrség hat embert fogott el és vett őrizetbe az ügyben – közölte Bryan Masson, a település polgármestere. A városvezető hangsúlyozta, hogy ezek a művek szorosan összefonódnak a helyi kulturális örökséggel és Auguste Renoir munkásságával, ugyanakkor egyelőre nem árult el részleteket arról, hogy pontosan hol bukkantak rá a festményekre, illetve milyen állapotban vannak.",
-        "A múzeumi biztonság kérdése tavaly október óta fokozott figyelmet kap, miután a párizsi Louvre-ban egy drámai, kevesebb mint nyolc perc alatt végrehajtott ékszerrablás során több mint 100 millió dollár értékben vittek el történelmi jelentőségű darabokat. Bár a tetteseket ott is elfogták, az ékszerek azóta sem kerültek elő, így a mostani dél-franciaországi eredmény ritka sikernek számít a műkincsvédelem terén."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 204,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Romaine_Lacaux%2C_by_Pierre-Auguste_Renoir%2C_Cleveland_Museum_of_Art%2C_1942.1065.jpg/1280px-Romaine_Lacaux%2C_by_Pierre-Auguste_Renoir%2C_Cleveland_Museum_of_Art%2C_1942.1065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1508,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "This painting may be Renoir's earliest signed canvas. Its sensitive display of color and light communicates an ideal of delicate, youthful beauty. The luminous tones of the background drapery and of t",
-        "credit": "Pierre-Auguste Renoir / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Romaine_Lacaux,_by_Pierre-Auguste_Renoir,_Cleveland_Museum_of_Art,_1942.1065.jpg",
-        "vision_score": 8.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/kultura/20261009_renoir-festmeny-francia-muzeum-lopas",
-          "title": "Megtalálták a Renoir-festményeket, amelyeket egy francia múzeumból loptak el",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T10:16:57+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Ezek a festmények nem csupán egyszerű műalkotások. A városunk történetéhez, kulturális örökségünkhöz és Auguste Renoir hagyatékához tartoznak Cagnes-sur-Merben. Óriási megkönnyebbülés, hogy megtalálták őket",
-        "who": "Bryan Masson, a település polgármestere",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T10:38:41+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/kultura/20261009_renoir-festmeny-francia-muzeum-lopas"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/vilag/2026-10-10-meglettek-a-honap-elejen-elrabolt-renoir-festmenyek/",
-      "seo": {
-        "meta_title": "Meglettek a múlt hónapban elrabolt Renoir-festmények",
-        "meta_description": "A rendőrök elfogták a gyanúsítottakat, és előkerítették az Auguste Renoir hagyatékához tartozó műalkotásokat, amelyeket szeptember elején loptak el egy dél-fran",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-meglettek-a-honap-elejen-elrabolt-renoir-festmenyek/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Romaine_Lacaux%2C_by_Pierre-Auguste_Renoir%2C_Cleveland_Museum_of_Art%2C_1942.1065.jpg/1280px-Romaine_Lacaux%2C_by_Pierre-Auguste_Renoir%2C_Cleveland_Museum_of_Art%2C_1942.1065.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "8c8730fa283594f6b59d8afb92b53ba7bf19ec6f2350914f9407b021a558bf8a",
-      "pipeline_run_id": "38035254687",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-10T10:38:41+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-10T10:38:41+02:00",
       "expires_at": null,
       "requested": true
     }
