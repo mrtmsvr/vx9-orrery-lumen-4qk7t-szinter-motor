@@ -7309,7 +7309,9 @@
         "ctl_photo": true,
         "control_id": 9903,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -7562,7 +7564,9 @@
         "ctl_photo": false,
         "control_id": 9905,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -7811,7 +7815,9 @@
         "ctl_photo": true,
         "control_id": 9907,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -8030,8 +8036,11 @@
         "lead": "Ursula von der Leyen, az Európai Bizottság elnöke személyesen vesz részt a visegrádi csoport államfőinek trencséni egyeztetésén. A rendhagyó látogatás a közép-európai régió előtt álló közös gazdasági és politikai kihívások áttekintését szolgálja.",
         "ctl_photo": false,
         "control_id": 9908,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 14:54 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-05T14:54:39+01:00"
     },
     {
       "id": "93c1ba40-3d6a-592d-abe1-86115016bb86",
@@ -8257,8 +8266,11 @@
         "lead": "Csütörtök délelőtt számos európai repülőjárat vált bombafenyegetés célpontjává, ami miatt több gép kényszerleszállásra vagy útvonalmódosításra kényszerült. Az incidenssorozat a kontinens egészén komoly biztonsági intézkedéseket vont maga után.",
         "ctl_photo": false,
         "control_id": 9909,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 15:14 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-05T15:14:39+01:00"
     },
     {
       "id": "17829bb0-9c86-50eb-976b-3a22866dc28a",
@@ -8432,7 +8444,9 @@
         "ctl_photo": true,
         "control_id": 9912,
         "msg_ids": [],
-        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     }
