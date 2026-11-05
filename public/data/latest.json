@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "63979d49-28fe-5742-8c28-8950cb407ee5",
+      "slug": "2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep",
+      "url": "/kozelet/2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep/",
+      "title": "Véget ér a gyömrői konténeriskola kálváriája: 11 milliárd forintból épül az új intézmény",
+      "lead": "Tizenegy milliárd forintból építik újjá a gyömrői Fekete István Általános Iskolát, lezárva ezzel a több éve elhúzódó, méltatlan körülményeket eredményező beruházási vitát. A kormányfő bejelentése szerint a 2022-ben leállított projekt a korábbi terveknél jóval nagyobb léptékben valósul meg.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-05T12:17:01+01:00",
+      "published_at": "2026-11-05T12:17:01+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.02,
+      "tags": [
+        "Gyömrő",
+        "oktatás",
+        "beruházás",
+        "Magyar Péter",
+        "iskolaépítés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Europa_Building_%28EU_Brussels%29_18.jpg/1280px-Europa_Building_%28EU_Brussels%29_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Extension of the Council of the European Union Headquarters, Brussels.Project designed and executed by : Architect Philippe Samyn jointly with \"Studio Valle Progettazioni\" and \"Buro Happold Limited en"
+      }
+    },
+    {
       "id": "d5fd1acf-0aa8-50be-b594-e9ea163b5ad4",
       "slug": "2026-11-05-tavozik-a-semmelweis-egyetem-elerol-merkely-bela",
       "url": "/kozelet/2026-11-05-tavozik-a-semmelweis-egyetem-elerol-merkely-bela/",
@@ -4382,37 +4412,7 @@
         "pos": "center",
         "alt": "Eötvös József Gimnázium épülete"
       }
-    },
-    {
-      "id": "5bb84a3b-1678-511e-9361-ca883b0a158f",
-      "slug": "2026-10-25-trump-szavazott-floridaban-aztan-letamadta-a-demokratakat-es-irant",
-      "url": "/vilag/2026-10-25-trump-szavazott-floridaban-aztan-letamadta-a-demokratakat-es-irant/",
-      "title": "Trump szavazott Floridában, aztán letámadta a demokratákat és Iránt",
-      "lead": "Donald Trump amerikai elnök és felesége szombaton személyesen adta le szavazatát egy floridai szavazókörben, alig tíz nappal a szövetségi félidős választások előtt. A szavazást követő rögtönzött sajtótájékoztatón az elnök korrupciós vádakkal illette a demokratákat, miközben az Iránnal kapcsolatos kérdésekre is válaszolt.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-25",
-      "date_label": "október 25.",
-      "created_at": "2026-10-25T12:57:00+01:00",
-      "published_at": "2026-10-25T12:57:00+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.93,
-      "tags": [
-        "Donald Trump",
-        "egyesült államok",
-        "félidős választások",
-        "florida",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1520,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017.  (Official White House Photo by Shealah Craighead)"
-      }
     }
   ],
-  "updated_at": "2026-11-05T12:01:20+01:00"
+  "updated_at": "2026-11-05T12:17:03+01:00"
 }
