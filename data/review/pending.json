@@ -8278,6 +8278,187 @@
         "compact": "✅ Kint"
       },
       "live": true
+    },
+    {
+      "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
+      "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
+      "status": "pending",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Macskafogó",
+        "animáció",
+        "dokumentumfilm",
+        "Partizán",
+        "kultúra"
+      ],
+      "title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+      "subtitle": null,
+      "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
+      "key_points": [
+        "A Macskafogó 40 című dokumentumfilm a film születését és a korabeli kultúrpolitikai környezetet dolgozza fel.",
+        "Az alkotás bemutatja a több százezer képkocka elkészítésével járó, fáradságos animációs munkát.",
+        "A nézők betekintést nyerhetnek azokba a küzdelmekbe, amelyek révén a produkció elkerülte, hogy a fiókban végezze.",
+        "A dokumentumfilm a tervek szerint 2026 decemberében jelenik meg."
+      ],
+      "content": "A magyar animációs filmművészet egyik alappillére ünnepli negyedik évtizedét; ennek apropóján a Partizán egész estés dokumentumfilmet készít a Macskafogó születéséről. A Macskafogó 40 – Egy kultfilm története című alkotás nem csupán a korabeli animációs technológia határait és a technikai kihívásokat mutatja be, hanem azt a közeget is, amelyben a film megszületett.\n\nA dokumentumfilm a források szerint részletesen kitér a korabeli kultúrpolitikai elvárásokra, a cenzurális korlátokra, valamint azokra a finanszírozási nehézségekre, amelyek szinte mindennapos akadályt gördítettek az alkotók elé. A nézők képet kaphatnak arról, miért volt valódi művészi és szervezési bravúr a produkció megvalósítása.\n\nAz előzetesből felsejlik az alkotói folyamat monumentális jellege, hiszen a film elkészítése több százezer rajzolt képkocka aprólékos összehangolását igényelte. A készítők célja, hogy feltárják azokat a háttérben zajló folyamatokat, amelyek végül a hazai filmgyártás egyik legikonikusabb művét eredményezték.\n\nA megjelenést 2026 decemberére tűzték ki. Ez kiváló alkalom lehet arra, hogy a kultuszfilm rajongói és az új generációk is megértsék: a mű nemcsak humora és karakterei, hanem megmenekülésének története miatt is különleges helyet foglal el a magyar kultúrában.",
+      "content_format": "markdown",
+      "body": [
+        "A magyar animációs filmművészet egyik alappillére ünnepli negyedik évtizedét; ennek apropóján a Partizán egész estés dokumentumfilmet készít a Macskafogó születéséről. A Macskafogó 40 – Egy kultfilm története című alkotás nem csupán a korabeli animációs technológia határait és a technikai kihívásokat mutatja be, hanem azt a közeget is, amelyben a film megszületett.",
+        "A dokumentumfilm a források szerint részletesen kitér a korabeli kultúrpolitikai elvárásokra, a cenzurális korlátokra, valamint azokra a finanszírozási nehézségekre, amelyek szinte mindennapos akadályt gördítettek az alkotók elé. A nézők képet kaphatnak arról, miért volt valódi művészi és szervezési bravúr a produkció megvalósítása.",
+        "Az előzetesből felsejlik az alkotói folyamat monumentális jellege, hiszen a film elkészítése több százezer rajzolt képkocka aprólékos összehangolását igényelte. A készítők célja, hogy feltárják azokat a háttérben zajló folyamatokat, amelyek végül a hazai filmgyártás egyik legikonikusabb művét eredményezték.",
+        "A megjelenést 2026 decemberére tűzték ki. Ez kiváló alkalom lehet arra, hogy a kultuszfilm rajongói és az új generációk is megértsék: a mű nemcsak humora és karakterei, hanem megmenekülésének története miatt is különleges helyet foglal el a magyar kultúrában."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 195,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Macskafogó (Cat City). Wandbild an einem Wohnblock in Budapest, Szigony utca 8",
+        "credit": "Sir Morosus / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Szigony_utca,_Macskafog%C3%B3_falfestm%C3%A9ny_(a).jpg",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=qz3TgDnYPA4",
+          "title": "MACSKAFOGÓ 40 – Egy kultfilm története a Partizánon | TEASER",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-11-05T16:10:37+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Itt hoztál nekünk Pedro, amigo mio",
+        "who": "Ismeretlen közreműködő a Partizán előzetesében",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 5,
+      "title_options": [
+        "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+        "Negyven év után tárják fel a Macskafogó titkait",
+        "Dokumentumfilm készül a magyar animáció ikonjáról",
+        "Ezt a mondatot mindenki ismeri, de tudod, hogyan született?",
+        "Nem a fióknak készült: így menekült meg a magyar kultfilm",
+        "Így nézett ki a Macskafogó kulisszái mögött a munka"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Macskafogó (Cat City). Wandbild an einem Wohnblock in Budapest, Szigony utca 8",
+          "credit": "Sir Morosus / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Szigony_utca,_Macskafog%C3%B3_falfestm%C3%A9ny_(a).jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Budapest%2C_Szigony_utca%2C_Macskafog%C3%B3_t%C5%B1zfalfresk%C3%B3.jpg/1280px-Budapest%2C_Szigony_utca%2C_Macskafog%C3%B3_t%C5%B1zfalfresk%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "A Szigony utca 8. számúpanelház a Macskafogó rajzfilmből vett falfestménnyel. Tervező: Ternovszky Béla és alkotótársai engedélyével, Forgács Simon, @0036mark és Illés Hajnalka. Támogatók: Józsefváros",
+          "credit": "Christo / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest,_Szigony_utca,_Macskafog%C3%B3_t%C5%B1zfalfresk%C3%B3.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-9f7381e622.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-9f7381e622.jpg",
+          "kind": "photo",
+          "alt": "40 év – a Macskafogó megjelenése óta eltelt idő",
+          "credit": "Kollektíva grafika",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "card": "num"
+        }
+      ],
+      "story": [
+        {
+          "title": "MACSKAFOGÓ 40 – Egy kultfilm története a Partizánon | TEASER",
+          "link": "https://www.youtube.com/watch?v=qz3TgDnYPA4",
+          "summary": "A Partizán bejelentette a Macskafogó 40 című, a kultikus magyar animációs film készítését bemutató dokumentumfilmjét.",
+          "source": "Partizán",
+          "related": null,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=qz3TgDnYPA4"
+        ]
+      },
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "url": "/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
+      "seo": {
+        "meta_title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
+        "meta_description": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét é",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2b459f9a2fa272c5f73f7116b79ed1a1eed1441714eb4a6b8fe9ac61da218e0b",
+      "pipeline_run_id": "42048880143",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-05T16:10:37+01:00",
+      "updated_at": "2026-11-05T16:10:37+01:00",
+      "published_at": "2026-11-05T16:10:37+01:00",
+      "expires_at": null,
+      "hold": true,
+      "video": {
+        "id": "qz3TgDnYPA4",
+        "title": "MACSKAFOGÓ 40 – Egy kultfilm története a Partizánon | TEASER",
+        "channel": "Partizán",
+        "minutes": 1
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-05T15:12:40+00:00",
+        "head": "🎬 VIDEÓBÓL (Partizán, 1 perces videó) · <b>Kultúra &amp; Ajánló</b> · forróság 5 · 1 forrás\n\n1) Macskafogó 40: kulisszatitkok az elfeledett filmtervekről\n2) Negyven év után tárják fel a Macskafogó titkait\n3) Dokumentumfilm készül a magyar animáció ikonjáról\n🔥 4) Ezt a mondatot mindenki ismeri, de tudod, hogyan született?\n🔥 5) Nem a fióknak készült: így menekült meg a magyar kultfilm\n🔥 6) Így nézett ki a Macskafogó kulisszái mögött a munka\n\n<b>Források:</b> Partizán\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
+        "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
+        "ctl_photo": true,
+        "control_id": 9919,
+        "msg_ids": []
+      }
     }
   ]
 }
