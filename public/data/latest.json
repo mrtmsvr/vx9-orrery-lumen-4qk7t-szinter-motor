@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "a81715c3-caa1-5d23-9551-05c3eddc8bbe",
+      "slug": "2026-11-06-tomeges-kegyelem-vege-a-halalsornak-kaliforniaban",
+      "url": "/kozelet/2026-11-06-tomeges-kegyelem-vege-a-halalsornak-kaliforniaban/",
+      "title": "Tömeges kegyelem: vége a halálsornak Kaliforniában",
+      "lead": "Gavin Newsom kaliforniai kormányzó csütörtökön bejelentette, hogy az állam mind az 548 halálra ítélt fogvatartottjának büntetését életfogytiglani börtönre módosítja. A politikus döntését az emberi méltóságra hivatkozva hozta meg hivatali idejének utolsó hónapjaiban.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T07:40:03+01:00",
+      "published_at": "2026-11-06T07:40:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.1,
+      "tags": [
+        "Kalifornia",
+        "Gavin Newsom",
+        "halálbüntetés",
+        "jogrendszer"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg/1280px-Governor_of_California_Gavin_Newsom_%28cropped_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1601,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official portrait, 2026"
+      }
+    },
+    {
       "id": "34638c51-51ce-5b5b-a036-0a23fd7b3f22",
       "slug": "2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore",
       "url": "/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
@@ -4378,36 +4407,7 @@
         "pos": "top",
         "alt": "Speaker of the National Assembly of Hungary László Kövér in the Polish Senate"
       }
-    },
-    {
-      "id": "a7f6e53d-2a48-5e06-b95e-c6e26926df79",
-      "slug": "2026-10-26-meghalt-egy-idos-no-a-ii-keruleti-robbanasban",
-      "url": "/kozelet/2026-10-26-meghalt-egy-idos-no-a-ii-keruleti-robbanasban/",
-      "title": "Halálos lakástűz és robbanás történt a Szeréna úton",
-      "lead": "Életét vesztette egy idős nő abban a II. kerületi társasházban, ahol hétfő reggel a Szeréna úton robbanás történt, majd tűz keletkezett. Az eset miatt tizenegy lakónak kellett elhagynia az otthonát.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T08:58:51+01:00",
-      "published_at": "2026-10-26T08:58:51+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Budapest",
-        "lakástűz",
-        "katasztrófavédelem",
-        "II. kerület"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Firefighter._-_M%C3%A9sz%C3%A1ros_St.%2C_Budapest_District_I.JPG/1280px-Firefighter._-_M%C3%A9sz%C3%A1ros_St.%2C_Budapest_District_I.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Firefighter truck (in mission) before a listed tree. - Mészáros St., Budapest District I"
-      }
     }
   ],
-  "updated_at": "2026-11-06T07:38:57+01:00"
+  "updated_at": "2026-11-06T07:40:06+01:00"
 }
