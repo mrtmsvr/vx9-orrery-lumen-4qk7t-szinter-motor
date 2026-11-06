@@ -1,7 +1,158 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T20:12:20+01:00",
+  "updated_at": "2026-11-06T07:38:55+01:00",
   "articles": [
+    {
+      "id": "34638c51-51ce-5b5b-a036-0a23fd7b3f22",
+      "slug": "2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Orbán Viktor",
+        "Karmelita kolostor",
+        "Honvédelmi Minisztérium",
+        "drónvédelem",
+        "nemzetbiztonság"
+      ],
+      "title": "Drónelhárító pajzsot vontak a Karmelita kolostor köré",
+      "subtitle": null,
+      "lead": "Titkosított szerződés keretében látták el drónelhárító rendszerrel Orbán Viktor korábbi hivatali helyszínét, a Karmelita kolostort. A szakértők szerint a védelmi intézkedés a modern objektumbiztonság elengedhetetlen része, különösen egy érzékeny, nagyvárosi kormányzati környezetben.",
+      "key_points": [
+        "A Honvédelmi Minisztérium megerősítette a drónvédelmi rendszer telepítését a Karmelitában.",
+        "A rendszerre vonatkozó szerződés minősített, így annak részleteit nem hozták nyilvánosságra.",
+        "A berendezés drónok észlelésére, bemérésére és esetleges hatástalanítására is alkalmas.",
+        "Szakértők szerint városi környezetben elsődleges cél a kémkedésre használt eszközök kiszűrése."
+      ],
+      "content": "A Honvédelmi Minisztérium hivatalosan is megerősítette, hogy drónvédelmi rendszert alakítottak ki Orbán Viktor volt miniszterelnök egykori munkahelyén, a budai Várban található Karmelita kolostornál. Bár a környéken már korábban is beszéltek rejtélyes antennák megjelenéséről, a tárca a sajtómegkeresésekre adott válaszában közölte: a technikai megoldásokra vonatkozó szerződés minősített, amelyet a Katonai Nemzetbiztonsági Szolgálat főigazgató-helyettese titkosított. Az áprilisi kormányváltást követően Magyar Péter kormányfő az Alkotmány utcába tette át a székhelyét, a Karmelita funkcióváltása utáni technikai protokollokról azonban a minisztérium nem adott felvilágosítást.\n\nTálas Péter biztonságpolitikai szakértő szerint egyáltalán nem szokatlan, hogy egy ilyen jelentőségű objektumot drónelhárító rendszerrel biztosítanak. A korszerű védelem alapvető elvárás, hiszen ezek az eszközök képesek az alacsonyan repülő drónok felderítésére, bemérésére, illetve azok típusának és fenyegetettségi szintjének megállapítására. A szakértő rámutatott, hogy a városi környezet speciális kihívásokat rejt: a rendszernek kezelnie kell a téves riasztásokat, a sűrűn lakott területeken a civil eszközök zavarásának elkerülését, miközben minimalizálni kell a lehulló alkatrészek okozta kockázatokat is.\n\nA rendszer működési elve a hasonló technológiáknál általában radarok, rádiófrekvenciás érzékelők, optikai eszközök, hőkamerák és akusztikus érzékelők kombinációján alapul. Utóbbiak a drónok hangjának detektálásával dolgoznak, ami nagyvárosi környezetben jelentősen nehezebb feladat. Amennyiben egy eszköz fenyegetést jelent, az elhárítás többféle módszertant követhet: a kommunikációs csatornák zavarásától kezdve az irányítás átvételéig, amely bizonyos fejlett technológiákkal lehetővé teheti az eszköz irányított leszállásra kényszerítését. Végső esetben fizikai beavatkozásra is sor kerülhet, például hálóval vagy elfogó drónnal történő hatástalanítással.\n\nA védelem nem kizárólag a fizikai támadások, például robbantások kivédésére irányul; Budapest belvárosában a kémkedési feladatokat ellátó drónok azonosítása és megakadályozása prioritást élvez. Bár az ukrán fronton a drónok harci alkalmazása folyamatos fejlesztést igényel, a Karmelita környéki elhárítás pontos műszaki paraméterei nem ismertek. Mivel a környező kormányzati épületek miatt a terület fokozottan védett, a rendszer működése az új kormányzati székhelyek kialakítása után is szakmailag indokolható maradhat.\n\nMagyarország légterének védelme kiemelt kérdés, amelyet a 2022 márciusában történt eset is tematizált: akkor egy, az országon áthaladó drón repült be. A honvédség döntéseit titkosították, ami jól mutatja az objektumvédelmi és drónelhárítási intézkedések körüli adatkezelés szigorát.",
+      "content_format": "markdown",
+      "body": [
+        "A Honvédelmi Minisztérium hivatalosan is megerősítette, hogy drónvédelmi rendszert alakítottak ki Orbán Viktor volt miniszterelnök egykori munkahelyén, a budai Várban található Karmelita kolostornál. Bár a környéken már korábban is beszéltek rejtélyes antennák megjelenéséről, a tárca a sajtómegkeresésekre adott válaszában közölte: a technikai megoldásokra vonatkozó szerződés minősített, amelyet a Katonai Nemzetbiztonsági Szolgálat főigazgató-helyettese titkosított. Az áprilisi kormányváltást követően Magyar Péter kormányfő az Alkotmány utcába tette át a székhelyét, a Karmelita funkcióváltása utáni technikai protokollokról azonban a minisztérium nem adott felvilágosítást.",
+        "Tálas Péter biztonságpolitikai szakértő szerint egyáltalán nem szokatlan, hogy egy ilyen jelentőségű objektumot drónelhárító rendszerrel biztosítanak. A korszerű védelem alapvető elvárás, hiszen ezek az eszközök képesek az alacsonyan repülő drónok felderítésére, bemérésére, illetve azok típusának és fenyegetettségi szintjének megállapítására. A szakértő rámutatott, hogy a városi környezet speciális kihívásokat rejt: a rendszernek kezelnie kell a téves riasztásokat, a sűrűn lakott területeken a civil eszközök zavarásának elkerülését, miközben minimalizálni kell a lehulló alkatrészek okozta kockázatokat is.",
+        "A rendszer működési elve a hasonló technológiáknál általában radarok, rádiófrekvenciás érzékelők, optikai eszközök, hőkamerák és akusztikus érzékelők kombinációján alapul. Utóbbiak a drónok hangjának detektálásával dolgoznak, ami nagyvárosi környezetben jelentősen nehezebb feladat. Amennyiben egy eszköz fenyegetést jelent, az elhárítás többféle módszertant követhet: a kommunikációs csatornák zavarásától kezdve az irányítás átvételéig, amely bizonyos fejlett technológiákkal lehetővé teheti az eszköz irányított leszállásra kényszerítését. Végső esetben fizikai beavatkozásra is sor kerülhet, például hálóval vagy elfogó drónnal történő hatástalanítással.",
+        "A védelem nem kizárólag a fizikai támadások, például robbantások kivédésére irányul; Budapest belvárosában a kémkedési feladatokat ellátó drónok azonosítása és megakadályozása prioritást élvez. Bár az ukrán fronton a drónok harci alkalmazása folyamatos fejlesztést igényel, a Karmelita környéki elhárítás pontos műszaki paraméterei nem ismertek. Mivel a környező kormányzati épületek miatt a terület fokozottan védett, a rendszer működése az új kormányzati székhelyek kialakítása után is szakmailag indokolható maradhat.",
+        "Magyarország légterének védelme kiemelt kérdés, amelyet a 2022 márciusában történt eset is tematizált: akkor egy, az országon áthaladó drón repült be. A honvédség döntéseit titkosították, ami jól mutatja az objektumvédelmi és drónelhárítási intézkedések körüli adatkezelés szigorát."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 362,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SzinhazUtcaFotoThalerTamas4.jpg/1280px-SzinhazUtcaFotoThalerTamas4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1185,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "1014 Budapest, Színház utca 5.",
+        "credit": "Thaler Tamas / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:SzinhazUtcaFotoThalerTamas4.jpg",
+        "exact": true,
+        "entity": "Karmelita kolostor",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/belfold/2026/11/06/orban-viktor-karmelita-kolostor-dron-elharito-rendszer-objektum-vedelem/",
+          "title": "Drónelhárító rendszerrel védték Orbán Viktort a karmelitában",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T07:36:34+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261106_honvedelmi-miniszterium-dronelharito-rendszer-orban-viktor-karmelita-kolostor-ebx",
+          "title": "Drónelhárító rendszerrel is védték Orbán Viktort a Karmelitában",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T07:36:34+01:00"
+        },
+        {
+          "url": "https://444.hu/2026/11/06/dronelharito-rendszer-is-vedte-orban-viktort-a-karmelitaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Drónelhárító rendszer is védte Orbán Viktort a Karmelitában",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T07:36:34+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261105_orban-viktor-merkely-bela-tavozas-egyetem-modellvaltas",
+          "title": "Orbán Viktor: Merkely Béla távozása a Tisza-kormány felsőoktatási rombolását jelképezi",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T07:36:34+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A korszerű objektumvédelemhez hozzátartozik a drónvédelmi rendszer, a telepítés egyáltalán nem tekinthető rendkívüli intézkedésnek",
+        "who": "Tálas Péter biztonságpolitikai szakértő",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-06T07:38:55+01:00"
+      },
+      "hot_score": 9.23,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/belfold/2026/11/06/orban-viktor-karmelita-kolostor-dron-elharito-rendszer-objektum-vedelem/",
+          "https://hvg.hu/itthon/20261106_honvedelmi-miniszterium-dronelharito-rendszer-orban-viktor-karmelita-kolostor-ebx",
+          "https://444.hu/2026/11/06/dronelharito-rendszer-is-vedte-orban-viktort-a-karmelitaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "url": "/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
+      "seo": {
+        "meta_title": "Drónelhárító pajzsot vontak a Karmelita kolostor köré",
+        "meta_description": "Titkosított szerződés keretében látták el drónelhárító rendszerrel Orbán Viktor korábbi hivatali helyszínét, a Karmelita kolostort. A szakértők szerint a védelm",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SzinhazUtcaFotoThalerTamas4.jpg/1280px-SzinhazUtcaFotoThalerTamas4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "2726bce8-4953-5493-adcd-c2e99e706ec8",
+        "687447d7-668e-5251-a155-15875c4fe493",
+        "27173e44-bcf6-5553-a6d2-1c19e1b9591b"
+      ],
+      "see_also": [
+        {
+          "title": "Orbán rokonai kimaradhatnak az új NAV-os vagyonvizsgálatból",
+          "url": "/kozelet/2026-10-12-orban-rokonai-kimaradhatnak-az-uj-nav-os-vagyonvizsgalatbol/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Orbán Viktor az ENSZ élére vágyik? Magyar Péter durván beszólt a volt miniszterelnöknek",
+          "url": "/kozelet/2026-10-29-maffiafonokoket-emlegetett-magyar-peter-orban-esetleges-ensz-fotitkar/",
+          "date": "2026-10-29"
+        },
+        {
+          "title": "A papírok szerint bele sem szólt, mégis hatalmas összegeket égettek el a volt vezérkari főnök villáján",
+          "url": "/kozelet/2026-10-26-felkesznek-hittek-megis-640-milliobol-fejeztek-be-ruszin-szendi-szolg/",
+          "date": "2026-10-26"
+        }
+      ],
+      "thread_id": "2726bce8-4953-5493-adcd-c2e99e706ec8",
+      "dedupe_hash": "b0380ddddec575bf26927b61a7fda9cce70f27bf840ec0e79d159cede83e8b7c",
+      "pipeline_run_id": "42172739974",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-06T07:38:55+01:00",
+      "updated_at": "2026-11-06T07:38:55+01:00",
+      "published_at": "2026-11-06T07:38:55+01:00",
+      "expires_at": null
+    },
     {
       "id": "4dbc771a-58ef-505b-bc46-bff51a109832",
       "slug": "2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a",
@@ -72047,118 +72198,6 @@
       "published_at": "2026-10-10T10:43:29+02:00",
       "expires_at": null,
       "requested": true
-    },
-    {
-      "id": "98797f98-dce0-5b32-b3ed-0f510c570b04",
-      "slug": "2026-10-10-erzestelenites-nelkul-ivartalanitott-disznot-egy-no-szentlorincen",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "állatkínzás",
-        "Szentlőrinc",
-        "Nébih",
-        "rendőrség",
-        "Baranya vármegye"
-      ],
-      "title": "Érzéstelenítés nélkül ivartalanított disznót egy nő Szentlőrincen",
-      "subtitle": null,
-      "lead": "Nyomozást indított a rendőrség és a Nébih egy baranyai eset miatt, miután egy nő a háza udvarán, érzéstelenítés nélkül ivartalanított egy sertést. Az esetről készült felvételt egy állatvédő alapítvány vezetője hozta nyilvánosságra.",
-      "key_points": [
-        "Szentlőrincen, a háza udvarán végzett állatorvosi beavatkozást egy nő.",
-        "A procedúra közben ketten fogták le a menekülni próbáló állatot.",
-        "A videót egy állatvédő alapítvány vezetője hozta nyilvánosságra.",
-        "A rendőrség és a Nébih is hivatalos vizsgálatot indított az ügyben."
-      ],
-      "content": "Nyilvánosságra került egy felvétel, amelyen az látható, hogy egy Baranya megyei településen, Szentlőrincen egy nő érzéstelenítés nélkül végez el egy állatorvosi beavatkozást egy disznón. A helyszínen készült képek szerint a barbár művelet során ketten is lefogták a menekülni próbáló állatot. A felvételt az RTL Híradó mutatta be pénteken, miután a Nyújts Kezet A Mancsokért Alapítvány vezetője közzétette azt.\n\nAz állatvédők azonnal feljelentést tettek a hatóságoknál. A helyiek elmondása alapján a videó szereplői nem először hajthattak végre hasonló kegyetlen cselekményt. A megkérdezett szakemberek hangsúlyozzák, hogy az ilyen jellegű beavatkozások elvégzése kizárólag szakképzett állatorvos feladata lenne.\n\nAz ügyben a Szigetvári Rendőrkapitányság feljelentés-kiegészítést rendelt el a tényállás tisztázása, valamint annak eldöntése érdekében, hogy történt-e bűncselekmény. Ezzel párhuzamosan a Nemzeti Élelmiszerlánc-biztonsági Hivatal is jelezte, hogy felveszi a kapcsolatot a területileg illetékes állategészségügyi hatósággal a jogsértések feltárása végett.\n\nA hatósági vizsgálatok célja annak kiderítése, hogy megvalósult-e a jogosulatlan állategészségügyi tevékenység, illetve milyen állatvédelmi előírásokat hágtak át a szereplők a brutális beavatkozás során.",
-      "content_format": "markdown",
-      "body": [
-        "Nyilvánosságra került egy felvétel, amelyen az látható, hogy egy Baranya megyei településen, Szentlőrincen egy nő érzéstelenítés nélkül végez el egy állatorvosi beavatkozást egy disznón. A helyszínen készült képek szerint a barbár művelet során ketten is lefogták a menekülni próbáló állatot. A felvételt az RTL Híradó mutatta be pénteken, miután a Nyújts Kezet A Mancsokért Alapítvány vezetője közzétette azt.",
-        "Az állatvédők azonnal feljelentést tettek a hatóságoknál. A helyiek elmondása alapján a videó szereplői nem először hajthattak végre hasonló kegyetlen cselekményt. A megkérdezett szakemberek hangsúlyozzák, hogy az ilyen jellegű beavatkozások elvégzése kizárólag szakképzett állatorvos feladata lenne.",
-        "Az ügyben a Szigetvári Rendőrkapitányság feljelentés-kiegészítést rendelt el a tényállás tisztázása, valamint annak eldöntése érdekében, hogy történt-e bűncselekmény. Ezzel párhuzamosan a Nemzeti Élelmiszerlánc-biztonsági Hivatal is jelezte, hogy felveszi a kapcsolatot a területileg illetékes állategészségügyi hatósággal a jogsértések feltárása végett.",
-        "A hatósági vizsgálatok célja annak kiderítése, hogy megvalósult-e a jogosulatlan állategészségügyi tevékenység, illetve milyen állatvédelmi előírásokat hágtak át a szereplők a brutális beavatkozás során."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 193,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/98797f98dc-1791621749-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/98797f98dc-1791621749-0.jpg",
-        "kind": "photo",
-        "alt": "Érzéstelenítés nélkül ivartalanított disznót egy nő Szentlőrincen",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261009_illegalis-hereles-baranya-nebih",
-          "title": "Érzéstelenítés nélkül ivartalanított egy disznót egy nő Baranyában",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T10:16:43+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T10:43:04+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261009_illegalis-hereles-baranya-nebih"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/kozelet/2026-10-10-erzestelenites-nelkul-ivartalanitott-disznot-egy-no-szentlorincen/",
-      "seo": {
-        "meta_title": "Érzéstelenítés nélkül ivartalanított disznót egy nő Szentlőr",
-        "meta_description": "Nyomozást indított a rendőrség és a Nébih egy baranyai eset miatt, miután egy nő a háza udvarán, érzéstelenítés nélkül ivartalanított egy sertést. Az esetről ké",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-erzestelenites-nelkul-ivartalanitott-disznot-egy-no-szentlorincen/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/98797f98dc-1791621749-0.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "471c15753be7046008ff032eaabf6432f7fe4a9015009f78dfef5f90494068ad",
-      "pipeline_run_id": "38035254687",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-10T10:43:04+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-10T10:43:04+02:00",
-      "expires_at": null,
-      "requested": true,
-      "image_queries": [
-        "Szentlőrinc, Hungary",
-        "Baranya County",
-        "Szigetvár Police Department",
-        "National Food Chain Safety Office (Nébih)",
-        "Nyújts Kezet A Mancsokért Foundation",
-        "RTL Híradó",
-        "pig in a backyard",
-        "veterinary procedure",
-        "animal handling"
-      ]
     }
   ]
 }

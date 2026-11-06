@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "34638c51-51ce-5b5b-a036-0a23fd7b3f22",
+      "slug": "2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore",
+      "url": "/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
+      "title": "Drónelhárító pajzsot vontak a Karmelita kolostor köré",
+      "lead": "Titkosított szerződés keretében látták el drónelhárító rendszerrel Orbán Viktor korábbi hivatali helyszínét, a Karmelita kolostort. A szakértők szerint a védelmi intézkedés a modern objektumbiztonság elengedhetetlen része, különösen egy érzékeny, nagyvárosi kormányzati környezetben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T07:38:55+01:00",
+      "published_at": "2026-11-06T07:38:55+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.23,
+      "tags": [
+        "Orbán Viktor",
+        "Karmelita kolostor",
+        "Honvédelmi Minisztérium",
+        "drónvédelem",
+        "nemzetbiztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SzinhazUtcaFotoThalerTamas4.jpg/1280px-SzinhazUtcaFotoThalerTamas4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1185,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "1014 Budapest, Színház utca 5."
+      }
+    },
+    {
       "id": "4dbc771a-58ef-505b-bc46-bff51a109832",
       "slug": "2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a",
       "url": "/kozelet/2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a/",
@@ -4377,36 +4407,7 @@
         "pos": "center",
         "alt": "Firefighter truck (in mission) before a listed tree. - Mészáros St., Budapest District I"
       }
-    },
-    {
-      "id": "d094bd2e-b174-5a1f-a79d-d1d2b6c18281",
-      "slug": "2026-10-26-hetfotol-novemberig-tarto-oriasi-utfelujitas-benithatja-meg-budaors-e",
-      "url": "/kozelet/2026-10-26-hetfotol-novemberig-tarto-oriasi-utfelujitas-benithatja-meg-budaors-e/",
-      "title": "Hétfőtől novemberig tartó óriási útfelújítás béníthatja meg Budaörs és Diósd környékét",
-      "lead": "Október 26-tól kezdődően több ütemben, közel 35 ezer négyzetméteren végeznek nagyfelületű burkolatjavításokat az M1–M7 közös szakaszán, az M7-es autópályán és az M0-s autóúton. A november harmadik hetéig tartó munkálatok idején időszakos forgalomkorlátozásokra, sávlezárásokra és jelentős torlódásokra kell számítani.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T08:32:49+01:00",
-      "published_at": "2026-10-26T08:32:49+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.91,
-      "tags": [
-        "M1-es autópálya",
-        "M7-es autópálya",
-        "útfelújítás",
-        "Magyar Közút",
-        "közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/696d8fc24088f94a.jpg",
-        "width": 5412,
-        "height": 3315,
-        "kind": "photo",
-        "alt": "asphalt, construction, road, work, blue work, blue road, blue construction, asphalt, asphalt, asphalt, asphalt, asphalt"
-      }
     }
   ],
-  "updated_at": "2026-11-06T06:17:05+01:00"
+  "updated_at": "2026-11-06T07:38:57+01:00"
 }
