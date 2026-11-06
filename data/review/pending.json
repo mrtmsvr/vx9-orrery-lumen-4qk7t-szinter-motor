@@ -7791,8 +7791,11 @@
         "lead": "Dmitrij Ljubinszkij orosz külügyminiszter-helyettes szerint az európai országok – köztük Magyarország – súlyos gazdasági károkat szenvednek el, ha teljesen leállítják az orosz energiahordozók importját. A diplomata jelezte, hogy Moszkva kész az érdemi párbeszédre, ugyanakkor élesen bírálta a nyugati kormányok kommunikációját.",
         "ctl_photo": true,
         "control_id": 9939,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 09:09 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-06T09:09:45+01:00"
     }
   ]
 }
