@@ -7495,8 +7495,11 @@
         "lead": "Donald Trump amerikai elnök bejelentette, hogy hamarosan megállapodás születhet az ukrajnai háború rendezéséről, amely szerinte egész Európát érintheti. A fejlemény hátterében egy zárt körű fehér házi találkozó és brüsszeli egyeztetések állnak.",
         "ctl_photo": false,
         "control_id": 9951,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 13:37 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-06T13:37:05+01:00"
     },
     {
       "id": "79e8bd70-70d7-58fe-8f10-28e15a8595b6",
