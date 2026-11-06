@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "51870e3d-2e3d-5e0d-9489-903a4131e787",
+      "slug": "2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag",
+      "url": "/kozelet/2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag/",
+      "title": "Alpha Scramble: három bombafenyegetés miatt emelkedtek a magasba a magyar vadászgépek",
+      "lead": "Péntek délelőtt három polgári utasszállító repülőgépet is bombafenyegetés ért, ami miatt a NATO legmagasabb szintű riasztását elrendelve a Magyar Honvédség Gripen vadászgépeinek kellett intézkedniük a magyar légtérben. Az esetek illeszkednek az elmúlt napok európai szintű fenyegetéshullámába.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T13:47:37+01:00",
+      "published_at": "2026-11-06T13:47:37+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "bombafenyegetés",
+        "Gripen",
+        "Magyar Honvédség",
+        "légtérbiztonság",
+        "Ruszin-Szendi Romulusz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg/1280px-Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 819,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB Čáslav."
+      }
+    },
+    {
       "id": "e2eb46a9-634c-5369-b2ae-a2ad611849be",
       "slug": "2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete",
       "url": "/vilag/2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete/",
@@ -4374,37 +4404,7 @@
         "pos": "top",
         "alt": "Balázs HANKÓ"
       }
-    },
-    {
-      "id": "ee4fa767-ae56-5a1d-9ea1-f4cc981f8d3c",
-      "slug": "2026-10-26-szerb-diakok-inditottak-rohamot-aleksandar-vu-i-rendszere-ellen",
-      "url": "/vilag/2026-10-26-szerb-diakok-inditottak-rohamot-aleksandar-vu-i-rendszere-ellen/",
-      "title": "Szerb diákok indítottak rohamot Aleksandar Vučić rendszere ellen",
-      "lead": "Újvidéken és más vajdasági településeken alulról szerveződő, vezér nélküli diákmozgalom próbálja megdönteni Aleksandar Vučić elnök uralmát. A tüntetéssorozat rámutat a másfél évtizedes autoriter kormányzás válságára és a helyi magyar közösség kihívásaira.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T19:31:45+01:00",
-      "published_at": "2026-10-26T19:31:45+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Szerbia",
-        "Aleksandar Vučić",
-        "Vajdaság",
-        "Partizán",
-        "tüntetés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Gradska_kuca_u_Novom_Sadu_5.jpg/1280px-Gradska_kuca_u_Novom_Sadu_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 844,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "This is a photo of Cultural Heritage site of Serbia number СК 1521"
-      }
     }
   ],
-  "updated_at": "2026-11-06T13:37:32+01:00"
+  "updated_at": "2026-11-06T13:47:39+01:00"
 }
