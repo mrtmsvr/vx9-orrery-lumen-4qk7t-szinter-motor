@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9b341606-82c5-55d8-9aeb-05315f1a2a7c",
+      "slug": "2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos",
+      "url": "/kozelet/2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos/",
+      "title": "Háromnapos kitiltást kapott a parlamentből a fideszes Pócs János",
+      "lead": "Három ülésnapra tiltotta ki az Országgyűlésből Forsthoffer Ágnes házelnök Pócs János fideszes képviselőt, miután a politikus az elmúlt napokban sorozatosan megzavarta a Ház munkáját. A döntés értelmében a honatya csak a titkos szavazásokon vehet részt egy külön kijelölt helyiségben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-05",
+      "date_label": "november 5.",
+      "created_at": "2026-11-06T08:29:45+01:00",
+      "published_at": "2026-11-06T08:29:45+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Pócs János",
+        "Forsthoffer Ágnes",
+        "Országgyűlés",
+        "Parlament",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Fot. Piotr Molęcki / Kancelaria Sejmu"
+      }
+    },
+    {
       "id": "a81715c3-caa1-5d23-9551-05c3eddc8bbe",
       "slug": "2026-11-06-tomeges-kegyelem-vege-a-halalsornak-kaliforniaban",
       "url": "/kozelet/2026-11-06-tomeges-kegyelem-vege-a-halalsornak-kaliforniaban/",
@@ -4377,37 +4407,7 @@
         "pos": "top",
         "alt": "Official portrait of Secretary Marco Rubio, January 2025. (Official State Department photo)"
       }
-    },
-    {
-      "id": "3162d148-7170-5d85-8533-f4f4f1838b85",
-      "slug": "2026-10-26-bengali-tigrisekkel-felelt-kover-laszlo-a-tiszasok-unnepere",
-      "url": "/kozelet/2026-10-26-bengali-tigrisekkel-felelt-kover-laszlo-a-tiszasok-unnepere/",
-      "title": "Bengáli tigrisekkel felelt Kövér László a tiszások ünnepére",
-      "lead": "Október 23-i nyilatkozata miatt gyűlöletkeltéssel vádolta Kövér László volt házelnököt Forsthoffer Ágnes, az ellenzék képviselője. Kövér a HírTV műsorában arról beszélt, hogy semmi közös nincs a fideszesekben és a tiszásokban, és az ünnep kapcsán éhes bengáli tigriseket emlegetett.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T11:00:42+01:00",
-      "published_at": "2026-10-26T11:00:42+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.17,
-      "tags": [
-        "Kövér László",
-        "Forsthoffer Ágnes",
-        "október 23",
-        "Tisza Párt",
-        "Fidesz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/L%C3%A1szl%C3%B3_K%C3%B6v%C3%A9r_Senate_of_Poland_01.JPG/1280px-L%C3%A1szl%C3%B3_K%C3%B6v%C3%A9r_Senate_of_Poland_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1632,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Speaker of the National Assembly of Hungary László Kövér in the Polish Senate"
-      }
     }
   ],
-  "updated_at": "2026-11-06T07:41:36+01:00"
+  "updated_at": "2026-11-06T08:29:47+01:00"
 }

@@ -6377,7 +6377,7 @@
     {
       "id": "9b341606-82c5-55d8-9aeb-05315f1a2a7c",
       "slug": "2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -6630,9 +6630,9 @@
       "dedupe_hash": "1747a181428338cc2af11520b91dadf2a0b8e2bcdb7dcdf7b65105ee280472c8",
       "pipeline_run_id": "42112462516",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-05T22:48:26+01:00",
-      "updated_at": "2026-11-05T22:48:26+01:00",
-      "published_at": "2026-11-05T22:48:26+01:00",
+      "created_at": "2026-11-06T08:29:45+01:00",
+      "updated_at": "2026-11-06T08:29:45+01:00",
+      "published_at": "2026-11-06T08:29:45+01:00",
       "expires_at": null,
       "hold": true,
       "legal": {
@@ -6653,8 +6653,11 @@
         "lead": "Három ülésnapra tiltotta ki az Országgyűlésből Forsthoffer Ágnes házelnök Pócs János fideszes képviselőt, miután a politikus az elmúlt napokban sorozatosan megzavarta a Ház munkáját. A döntés értelmében a honatya csak a titkos szavazásokon vehet részt egy külön kijelölt helyiségben.",
         "ctl_photo": true,
         "control_id": 9933,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
+      },
+      "live": true
     },
     {
       "id": "fff1c737-8282-544c-8fb4-cd7a6eb6412f",
