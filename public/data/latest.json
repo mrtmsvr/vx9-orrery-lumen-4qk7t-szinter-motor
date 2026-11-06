@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fff1c737-8282-544c-8fb4-cd7a6eb6412f",
+      "slug": "2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor",
+      "url": "/eletmod/2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor/",
+      "title": "Valóban egészséges a napi egy pohár bor?",
+      "lead": "Sokan hiszik, hogy a napi egy pohár alkohol nem csupán ártalmatlan, de egyenesen jótékony hatással van a szervezetre. A friss kutatások azonban rámutatnak, hogy a valóság ennél jóval árnyaltabb – és sajnos kevésbé megnyugtató.",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T08:49:55+01:00",
+      "published_at": "2026-11-06T08:49:55+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "egészség",
+        "alkohol",
+        "rákkutatás",
+        "életmód"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/White_Wine_Glas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 2394,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "This image shows a white wine glass (WMF Easy) with white wine."
+      }
+    },
+    {
       "id": "9b341606-82c5-55d8-9aeb-05315f1a2a7c",
       "slug": "2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos",
       "url": "/kozelet/2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos/",
@@ -4378,36 +4408,7 @@
         "pos": "top",
         "alt": ": Shooter Barracks plaque. - 12 Rákóczi Ferenc street, Mezőtúr, Jász-Nagykun-Szolnok County, Hungary."
       }
-    },
-    {
-      "id": "6d14115f-9dea-53a7-8b33-1765d5ffd3fc",
-      "slug": "2026-10-26-kedden-targyal-washingtonban-orban-anita-es-marco-rubio",
-      "url": "/vilag/2026-10-26-kedden-targyal-washingtonban-orban-anita-es-marco-rubio/",
-      "title": "Kedden tárgyal Washingtonban Orbán Anita és Marco Rubio",
-      "lead": "Kedden Washingtonban tárgyal egymással Orbán Anita külügyminiszter és Marco Rubio amerikai tárcavezető. A hivatalos egyeztetés miatt a külügyminiszter lemondta korábbi hazai programjait.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T12:53:25+01:00",
-      "published_at": "2026-10-26T12:53:25+01:00",
-      "reading_time_min": 3,
-      "hot_score": 7.21,
-      "tags": [
-        "Orbán Anita",
-        "Marco Rubio",
-        "Washington",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1650,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Secretary Marco Rubio, January 2025. (Official State Department photo)"
-      }
     }
   ],
-  "updated_at": "2026-11-06T08:29:47+01:00"
+  "updated_at": "2026-11-06T08:49:56+01:00"
 }
