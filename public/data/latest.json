@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "5966e2ed-6c91-5323-826d-be299faece5b",
+      "slug": "2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel",
+      "url": "/vilag/2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel/",
+      "title": "Vérfürdő a svájci határnál: halálos buszbaleset történt péntek reggel Franciaországban",
+      "lead": "Több halálos áldozattal járó buszbaleset történt péntek reggel Franciaország keleti részén, a svájci határ közelében. A balesetet szenvedett járműn a hírek szerint több tucat utas tartózkodott.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T11:10:49+01:00",
+      "published_at": "2026-11-06T11:10:49+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Franciaország",
+        "baleset",
+        "buszbaleset",
+        "közlekedés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg/1280px-Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Official ambulance of stage 2 (Aigle-Geneva) of the 2026 Tour de France Femmes, photographed near Vionnaz (Valais, Switzerland)."
+      }
+    },
+    {
       "id": "4f11af0c-9bf6-5565-ab54-cb0ca3054361",
       "slug": "2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen",
       "url": "/kozelet/2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen/",
@@ -4376,37 +4405,7 @@
         "pos": "center",
         "alt": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN-ZB-Häßler Mü-Schä 15.2.1974 Bez. D"
       }
-    },
-    {
-      "id": "c6bdf5ac-d887-55f6-bd74-e3444de4f1e7",
-      "slug": "2026-10-26-vu-i-bukasat-unnepelte-a-tomeg-belgradban",
-      "url": "/vilag/2026-10-26-vu-i-bukasat-unnepelte-a-tomeg-belgradban/",
-      "title": "Vučić bukását ünnepelte a tömeg Belgrádban",
-      "lead": "Szerbiában az előrehozott parlamenti választások után a Telex.hu videója szerint hatalmas tömeg ünnepelt Belgrád utcáin.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T13:13:27+01:00",
-      "published_at": "2026-10-26T13:13:27+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Szerbia",
-        "Aleksandar Vučić",
-        "választások",
-        "Belgrád",
-        "tüntetés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tomislav_Nikolic%2C_Rudy_Giuliani%2C_Aleksandar_Vucic-mc.rs.jpg/1280px-Tomislav_Nikolic%2C_Rudy_Giuliani%2C_Aleksandar_Vucic-mc.rs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 797,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Tomislav Nikolić, Rudy Giuliani, Aleksandar Vučić"
-      }
     }
   ],
-  "updated_at": "2026-11-06T10:17:16+01:00"
+  "updated_at": "2026-11-06T11:10:51+01:00"
 }

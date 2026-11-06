@@ -1,7 +1,133 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T10:17:06+01:00",
+  "updated_at": "2026-11-06T11:10:49+01:00",
   "articles": [
+    {
+      "id": "5966e2ed-6c91-5323-826d-be299faece5b",
+      "slug": "2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Franciaország",
+        "baleset",
+        "buszbaleset",
+        "közlekedés"
+      ],
+      "title": "Vérfürdő a svájci határnál: halálos buszbaleset történt péntek reggel Franciaországban",
+      "subtitle": null,
+      "lead": "Több halálos áldozattal járó buszbaleset történt péntek reggel Franciaország keleti részén, a svájci határ közelében. A balesetet szenvedett járműn a hírek szerint több tucat utas tartózkodott.",
+      "key_points": [
+        "Péntek reggel fél 8 körül történt a súlyos közlekedési baleset Franciaország keleti részén, a svájci határ közelében.",
+        "A busz letért az útról és az árokba zuhant, egyes jelentések szerint egy fának is ütközött a D22-es főúton.",
+        "A francia hírtelevíziók és a helyi prefektúra tájékoztatása szerint ketten meghaltak, többen pedig megsérültek.",
+        "A hatóságok azonnal reagáltak: két mentőhelikoptert küldtek a helyszínre, valamint aktiválták az önkormányzati vészhelyzeti tervet."
+      ],
+      "content": "Péntek reggel súlyos buszbaleset történt Franciaország keleti részén, a svájci határ közelében. Yves Cristin, a közeli Lent polgármesterének tájékoztatása szerint a szerencsétlenség reggel 7 óra körül történt.\n\nA Reuters hírügynökség és a BFM hírtelevízió kezdeti beszámolói arról szóltak, hogy a buszon hozzávetőlegesen hetvenen utaztak, míg más adatok 63 személy jelenlétét jelezték. A Le Monde napilap az Ain prefektúra hivatalos tájékoztatására hivatkozva közölte, hogy a baleset következtében ketten életüket vesztették, további három személy pedig megsérült. Yves Cristin nyilatkozata szerint két ember szívrohamot kapott.\n\nA mentési munkálatok és a kárelhárítás azonnal megindult a helyszínen. A hatóságok két helikoptert is bevetettek a sérültek ellátására, aktiválták az önkormányzati vészhelyzeti tervet, a szomszédos önkormányzat pedig intézkedett a hozzátartozók és a családok fogadásáról.\n\nA balesetben érintett jármű jellegével kapcsolatban ellentmondó nyilatkozatok láttak napvilágot a kabinet tagjaitól. Edouard Geffray oktatási miniszter közlése szerint a szerencsétlenség egy olyan busszal történt, amely feltehetően iskolás gyerekeket szállított, a helyi prefektus ugyanakkor távolsági buszként azonosította a járművet. Az eset miatt Philippe Tabarot közlekedési miniszter bejelentette, hogy soron kívül a helyszínre utazik.",
+      "content_format": "markdown",
+      "body": [
+        "Péntek reggel súlyos buszbaleset történt Franciaország keleti részén, a svájci határ közelében. Yves Cristin, a közeli Lent polgármesterének tájékoztatása szerint a szerencsétlenség reggel 7 óra körül történt.",
+        "A Reuters hírügynökség és a BFM hírtelevízió kezdeti beszámolói arról szóltak, hogy a buszon hozzávetőlegesen hetvenen utaztak, míg más adatok 63 személy jelenlétét jelezték. A Le Monde napilap az Ain prefektúra hivatalos tájékoztatására hivatkozva közölte, hogy a baleset következtében ketten életüket vesztették, további három személy pedig megsérült. Yves Cristin nyilatkozata szerint két ember szívrohamot kapott.",
+        "A mentési munkálatok és a kárelhárítás azonnal megindult a helyszínen. A hatóságok két helikoptert is bevetettek a sérültek ellátására, aktiválták az önkormányzati vészhelyzeti tervet, a szomszédos önkormányzat pedig intézkedett a hozzátartozók és a családok fogadásáról.",
+        "A balesetben érintett jármű jellegével kapcsolatban ellentmondó nyilatkozatok láttak napvilágot a kabinet tagjaitól. Edouard Geffray oktatási miniszter közlése szerint a szerencsétlenség egy olyan busszal történt, amely feltehetően iskolás gyerekeket szállított, a helyi prefektus ugyanakkor távolsági buszként azonosította a járművet. Az eset miatt Philippe Tabarot közlekedési miniszter bejelentette, hogy soron kívül a helyszínre utazik."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 196,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg/1280px-Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Official ambulance of stage 2 (Aigle-Geneva) of the 2026 Tour de France Femmes, photographed near Vionnaz (Valais, Switzerland).",
+        "credit": "Christian David / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Official_ambulance_of_the_2026_Tour_de_France_Femmes,_Vionnaz,_Valais.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261106_franciaorszag-buszbaleset",
+          "title": "Súlyos buszbaleset történt Franciaországban, többen meghaltak",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T11:09:29+01:00"
+        },
+        {
+          "url": "https://24.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-baleset-halal/",
+          "title": "Halálos iskolabusz-baleset történt Franciaországban",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T11:09:29+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A busz letért az útról és egy árokban lévő fának ütközött",
+        "who": "Yves Cristin, Lent polgármestere",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-06T11:10:49+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261106_franciaorszag-buszbaleset",
+          "https://24.hu/kulfold/2026/11/06/franciaorszag-iskolabusz-baleset-halal/"
+        ]
+      },
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "url": "/vilag/2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel/",
+      "seo": {
+        "meta_title": "Vérfürdő a svájci határnál: halálos buszbaleset történt pént",
+        "meta_description": "Több halálos áldozattal járó buszbaleset történt péntek reggel Franciaország keleti részén, a svájci határ közelében. A balesetet szenvedett járműn a hírek szer",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg/1280px-Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "2f5a0b4f-c17a-51d7-a121-f85b51aea570",
+        "96ef6bed-d2b8-552f-8c2f-682639c7329c"
+      ],
+      "see_also": [
+        {
+          "title": "Hetvenezer rendőr és bedeszkázott boltok: így indult a francia szombat",
+          "url": "/vilag/2026-11-01-hetvenezer-rendor-es-bedeszkazott-boltok-igy-indult-a-francia-szombat/",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Terrorelhárítókat és vízágyúkat is bevetnek a hétvégén a francia hatóságok",
+          "url": "/vilag/2026-10-24-terrorelharitokat-es-vizagyukat-is-bevetnek-a-hetvegen-a-francia-hato/",
+          "date": "2026-10-24"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "74a84c160c5d42e63440d357fba2ecb7dd09ae7bf9ad13183174d95b76a4a52f",
+      "pipeline_run_id": "42197409997",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-06T11:10:49+01:00",
+      "updated_at": "2026-11-06T11:10:49+01:00",
+      "published_at": "2026-11-06T11:10:49+01:00",
+      "expires_at": null
+    },
     {
       "id": "4f11af0c-9bf6-5565-ab54-cb0ca3054361",
       "slug": "2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen",
@@ -72196,105 +72322,6 @@
       "created_at": "2026-10-10T11:26:52+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-10T11:26:52+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1b61d220-3332-5ed5-917f-3883d08798ae",
-      "slug": "2026-10-10-valodi-ugynokok-nevevel-es-hamis-videoval-csalnak-az-fbi-neveben",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "FBI",
-        "telefoncsalás",
-        "biztonság",
-        "bűnügy",
-        "Egyesült Államok"
-      ],
-      "title": "Valódi ügynökök nevével és hamis videóval csalnak az FBI nevében",
-      "subtitle": null,
-      "lead": "Új, rendkívül kifinomult telefonos csalási hullámra figyelmeztet az amerikai szövetségi nyomozóhatóság, amelyben valódi ügynökök adatait és hamisított hívószámokat használnak az elkövetők. A módszer azért különösen veszélyes, mert még a hívást óvatosan ellenőrző személyek is könnyen áldozattá válhatnak.",
-      "key_points": [
-        "Az elkövetők meghamisítják a hívóazonosítót, így a kijelzőn valódi hatósági számok jelennek meg.",
-        "A csalók létező ügynökök nevét használják, sőt egyes esetekben videóhívásban imitálnak hivatali helyiséget.",
-        "A hatóság hangsúlyozza: senki ne küldjön pénzt olyan személynek, aki szövetségi rendvédelmi szervek nevében követel összegeket."
-      ],
-      "content": "Megtévesztő telefonos csalási módszerre adott ki riasztást az FBI, miután a bűnözők valósághű elemekkel próbálnak pénzt kicsalni az emberektől. Az elkövetők az amerikai Kábítószer-ellenes Hivatal, a Secret Service vagy magának az FBI-nak a munkatársainak adják ki magukat, és olyan technikai eszközöket alkalmaznak, amilyenekkel a hívóazonosítót a hatóságok valódi telefonszámára hamisítják.\n\nA módszer alapos kidolgozottságát mutatja, hogy a csalók valós ügynökök neveivel operálnak. Ha az óvatosabb áldozat felhívja a helyi hivatali irodát az ellenőrzés reményében, ott akár meg is erősíthetik, hogy az adott nevű személy valóban az alkalmazásukban áll. Ez a bürokratikus visszaigazolás téves biztonságérzetet teremt, és eloszlatja a gyanút.\n\nEgy New Jersey-i, newarki iroda által kiadott eseti beszámoló szerint egy alkalommal a csalók videóhívást is bevetettek a hitelesség növelésére. Az online kapcsolaton keresztül olyan helyiséget rendeztek be, amely megszólalásig hasonlított egy hivatalos irodára íróasztallal, szövetségi emblémával és egy öltönyös férfival.\n\nA szövetségi szervek közlése szerint a csalássorozat során a gyanútlan embereket jellemzően valamilyen bűncselekmény elkövetésével vádolják meg, majd büntetőeljárással vagy letartóztatással fenyegetőzve pénzt követelnek tőlük a következmények elkerülése érdekében. Az FBI hangsúlyozza, hogy a hivatal munkatársai soha nem kérnek pénzt telefonon, és azt javasolják, hogy minden esetben közvetlenül jelezzék a hivatal felé, ha valaki gyanús hívást kap.",
-      "content_format": "markdown",
-      "body": [
-        "Megtévesztő telefonos csalási módszerre adott ki riasztást az FBI, miután a bűnözők valósághű elemekkel próbálnak pénzt kicsalni az emberektől. Az elkövetők az amerikai Kábítószer-ellenes Hivatal, a Secret Service vagy magának az FBI-nak a munkatársainak adják ki magukat, és olyan technikai eszközöket alkalmaznak, amilyenekkel a hívóazonosítót a hatóságok valódi telefonszámára hamisítják.",
-        "A módszer alapos kidolgozottságát mutatja, hogy a csalók valós ügynökök neveivel operálnak. Ha az óvatosabb áldozat felhívja a helyi hivatali irodát az ellenőrzés reményében, ott akár meg is erősíthetik, hogy az adott nevű személy valóban az alkalmazásukban áll. Ez a bürokratikus visszaigazolás téves biztonságérzetet teremt, és eloszlatja a gyanút.",
-        "Egy New Jersey-i, newarki iroda által kiadott eseti beszámoló szerint egy alkalommal a csalók videóhívást is bevetettek a hitelesség növelésére. Az online kapcsolaton keresztül olyan helyiséget rendeztek be, amely megszólalásig hasonlított egy hivatalos irodára íróasztallal, szövetségi emblémával és egy öltönyös férfival.",
-        "A szövetségi szervek közlése szerint a csalássorozat során a gyanútlan embereket jellemzően valamilyen bűncselekmény elkövetésével vádolják meg, majd büntetőeljárással vagy letartóztatással fenyegetőzve pénzt követelnek tőlük a következmények elkerülése érdekében. Az FBI hangsúlyozza, hogy a hivatal munkatársai soha nem kérnek pénzt telefonon, és azt javasolják, hogy minden esetben közvetlenül jelezzék a hivatal felé, ha valaki gyanús hívást kap."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 237,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1683,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The badge of the Federal Bureau of Investigation (FBI).",
-        "credit": "Federal Bureau of Investigation (FBI) / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://borsonline.origo.hu/toptipp/2026/10/fbi-riasztas-uj-telefonos-csalas",
-          "title": "Riasztást adott ki az FBI: új telefonos csalás terjed, még az ellenőrzés sem véd meg az átveréstől",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T11:15:45+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T11:26:47+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://borsonline.origo.hu/toptipp/2026/10/fbi-riasztas-uj-telefonos-csalas"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/kozelet/2026-10-10-valodi-ugynokok-nevevel-es-hamis-videoval-csalnak-az-fbi-neveben/",
-      "seo": {
-        "meta_title": "Valódi ügynökök nevével és hamis videóval csalnak az FBI nev",
-        "meta_description": "Új, rendkívül kifinomult telefonos csalási hullámra figyelmeztet az amerikai szövetségi nyomozóhatóság, amelyben valódi ügynökök adatait és hamisított hívószámo",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-valodi-ugynokok-nevevel-es-hamis-videoval-csalnak-az-fbi-neveben/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "128ac51a0bc10d1df11636d3ca755f0687187bf261878778bdd93d15acd3d349",
-      "pipeline_run_id": "38039834555",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-10T11:26:47+02:00",
-      "updated_at": "2026-10-10T11:26:47+02:00",
-      "published_at": "2026-10-10T11:26:47+02:00",
       "expires_at": null
     }
   ]
