@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "eefdd425-70e7-5504-9ddc-fff417e8c0c9",
+      "slug": "2026-11-06-moszkva-beolvasott-gazdasagi-osszeomlassal-fenyegeti-europat-az-orosz",
+      "url": "/vilag/2026-11-06-moszkva-beolvasott-gazdasagi-osszeomlassal-fenyegeti-europat-az-orosz/",
+      "title": "Moszkva beolvasott: gazdasági összeomlással fenyegeti Európát az orosz diplomata",
+      "lead": "Dmitrij Ljubinszkij orosz külügyminiszter-helyettes szerint az európai országok – köztük Magyarország – súlyos gazdasági károkat szenvednek el, ha teljesen leállítják az orosz energiahordozók importját. A diplomata jelezte, hogy Moszkva kész az érdemi párbeszédre, ugyanakkor élesen bírálta a nyugati kormányok kommunikációját.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T09:09:48+01:00",
+      "published_at": "2026-11-06T09:09:48+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.06,
+      "tags": [
+        "energetika",
+        "külpolitika",
+        "Oroszország",
+        "energiaimport"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/EU_on_a_globe.svg/1280px-EU_on_a_globe.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "European Union without Ceuta or Melilla (EU) on a globe"
+      }
+    },
+    {
       "id": "fff1c737-8282-544c-8fb4-cd7a6eb6412f",
       "slug": "2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor",
       "url": "/eletmod/2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor/",
@@ -4378,37 +4407,7 @@
         "pos": "center",
         "alt": "András Stohl at the play \"King Lear\" of the Hungarian National Theatre."
       }
-    },
-    {
-      "id": "27173e44-bcf6-5553-a6d2-1c19e1b9591b",
-      "slug": "2026-10-26-felkesznek-hittek-megis-640-milliobol-fejeztek-be-ruszin-szendi-szolg",
-      "url": "/kozelet/2026-10-26-felkesznek-hittek-megis-640-milliobol-fejeztek-be-ruszin-szendi-szolg/",
-      "title": "A papírok szerint bele sem szólt, mégis hatalmas összegeket égettek el a volt vezérkari főnök villáján",
-      "lead": "Több mint egy évnyi pereskedés és a Kúria döntése után napvilágra kerültek Ruszin-Szendi Romulusz korábbi vezérkari főnök dunakeszi szolgálati villájának felújítási szerződései. Az iratokból kiderül, hogy a már majdnem kész ingatlanra még 640 millió forintot költött a Honvédelmi Minisztérium cége.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T12:54:14+01:00",
-      "published_at": "2026-10-26T12:54:14+01:00",
-      "reading_time_min": 3,
-      "hot_score": 7.15,
-      "tags": [
-        "Ruszin-Szendi Romulusz",
-        "Honvédelmi Minisztérium",
-        "Dunakeszi",
-        "közpénz",
-        "túlárazás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Magyar_Honv%C3%A9ds%C3%A9g_Mez%C5%91t%C3%BAri_ezred%C3%A9nek_eml%C3%A9kt%C3%A1bl%C3%A1ja%2C_R%C3%A1k%C3%B3czi_Ferenc_%C3%BAt%2C_2019_Mez%C5%91t%C3%BAr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1577,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ": Shooter Barracks plaque. - 12 Rákóczi Ferenc street, Mezőtúr, Jász-Nagykun-Szolnok County, Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-06T08:49:56+01:00"
+  "updated_at": "2026-11-06T09:09:50+01:00"
 }
