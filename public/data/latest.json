@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c890fe52-15a4-5f1e-8740-305b29cd54f7",
+      "slug": "2026-11-06-ugynokbotrany-rendkivuli-ulest-hivott-ossze-apati",
+      "url": "/kozelet/2026-11-06-ugynokbotrany-rendkivuli-ulest-hivott-ossze-apati/",
+      "title": "Ügynökbotrány: rendkívüli ülést hívott össze Apáti",
+      "lead": "Rendkívüli, nyílt ülést hívott össze a parlament nemzetbiztonsági bizottságának elnöke az Állambiztonsági Szolgálatok Történeti Levéltárában történt adathibák tisztázása érdekében. Az ügy előzménye, hogy a nyitottaktak.hu adatbázisában tévesen hálózati személyként tüntettek fel több mint százhatvan megfigyeltet.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T14:14:39+01:00",
+      "published_at": "2026-11-06T14:14:39+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.25,
+      "tags": [
+        "ügynökakták",
+        "nemzetbiztonsági bizottság",
+        "Apáti István",
+        "ÁBTL",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Istv%C3%A1n_Ap%C3%A1ti_Senate_of_Poland_%28cropped%29.JPG/1280px-Istv%C3%A1n_Ap%C3%A1ti_Senate_of_Poland_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1447,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Hungerian MP István Apáti (right) in the 5th meeting of the committees on public administration and regional policy of the parliaments of the Visegrad Group countries in the Polish Sejm"
+      }
+    },
+    {
       "id": "51870e3d-2e3d-5e0d-9489-903a4131e787",
       "slug": "2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag",
       "url": "/kozelet/2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag/",
@@ -4374,37 +4404,7 @@
         "pos": "center",
         "alt": "APL Post-Panamax container ships Image ID: line0534, America's Coastlines. Collection Location: San Francisco."
       }
-    },
-    {
-      "id": "66937743-195c-5532-ad61-91d67876d469",
-      "slug": "2026-10-26-hanko-balazs-racs-mogott-karacsonyozhat-az-nka-ugy-miatt",
-      "url": "/kozelet/2026-10-26-hanko-balazs-racs-mogott-karacsonyozhat-az-nka-ugy-miatt/",
-      "title": "Hankó Balázs rács mögött karácsonyozhat az NKA-ügy miatt",
-      "lead": "Három hónappal, február elsejéig indítványozta Hankó Balázs volt miniszter és társai letartóztatásának meghosszabbítását a Bács-Kiskun Vármegyei Főügyészség. A döntés értelmében a gyanúsítottak a rácsok mögött tölthetik az év végi ünnepeket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T19:33:31+01:00",
-      "published_at": "2026-10-26T19:33:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.5,
-      "tags": [
-        "Hankó Balázs",
-        "Nemzeti Kulturális Alap",
-        "letartóztatás",
-        "Bács-Kiskun Vármegyei Főügyészség",
-        "hűtlen kezelés"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hank%C3%B3_Bal%C3%A1zs_in_2025_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1749,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Balázs HANKÓ"
-      }
     }
   ],
-  "updated_at": "2026-11-06T13:47:39+01:00"
+  "updated_at": "2026-11-06T14:14:42+01:00"
 }
