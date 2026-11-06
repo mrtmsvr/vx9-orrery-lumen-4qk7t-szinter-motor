@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "4f11af0c-9bf6-5565-ab54-cb0ca3054361",
+      "slug": "2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen",
+      "url": "/kozelet/2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen/",
+      "title": "Megint elszámolták a cégügyeket az Országgyűlés élén",
+      "lead": "Vagyonnyilatkozati eljárást kezdeményezett Németh Balázs fideszes képviselő Forsthoffer Ágnes házelnökkel szemben, miután a politikus frissített irataiból egy milliárdos forgalmú cég ügyvezetői tisztsége maradt ki. Az ügy rávilágít a vagyonnyilatkozatok pontosságát övező folyamatos politikai vitákra.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T10:17:06+01:00",
+      "published_at": "2026-11-06T10:17:06+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "vagyonnyilatkozat",
+        "Németh Balázs",
+        "Forsthoffer Ágnes",
+        "mentelmi bizottság",
+        "Országgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-d5c487a5ee.jpg",
+        "kind": "photo",
+        "alt": "Megint elszámolták a cégügyeket az Országgyűlés élén",
+        "cover": true
+      }
+    },
+    {
       "id": "eefdd425-70e7-5504-9ddc-fff417e8c0c9",
       "slug": "2026-11-06-moszkva-beolvasott-gazdasagi-osszeomlassal-fenyegeti-europat-az-orosz",
       "url": "/vilag/2026-11-06-moszkva-beolvasott-gazdasagi-osszeomlassal-fenyegeti-europat-az-orosz/",
@@ -4378,36 +4406,7 @@
         "pos": "center",
         "alt": "Tomislav Nikolić, Rudy Giuliani, Aleksandar Vučić"
       }
-    },
-    {
-      "id": "05b39445-aec1-57e5-98b7-718b2cec064d",
-      "slug": "2026-10-26-letaroltak-stohl-andras-autojat-szentendrenel",
-      "url": "/bulvar/2026-10-26-letaroltak-stohl-andras-autojat-szentendrenel/",
-      "title": "Megint megtörtént: autóbalesetet szenvedett Stohl András",
-      "lead": "Vasárnap délután autóbalesetet szenvedett Stohl András a 11-es úton Szentendre felé menet, amikor egy másik jármű hátulról nekiment a kocsijának. A szerencsétlenségben senki sem sérült meg, a rendőrség pedig helyszíni bírságot szabott ki a sofőrre.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T12:55:49+01:00",
-      "published_at": "2026-10-26T12:55:49+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.49,
-      "tags": [
-        "Stohl András",
-        "baleset",
-        "Szentendre",
-        "bulvár"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stohl_Andr%C3%A1s_2007-02-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "András Stohl at the play \"King Lear\" of the Hungarian National Theatre."
-      }
     }
   ],
-  "updated_at": "2026-11-06T09:53:56+01:00"
+  "updated_at": "2026-11-06T10:17:09+01:00"
 }
