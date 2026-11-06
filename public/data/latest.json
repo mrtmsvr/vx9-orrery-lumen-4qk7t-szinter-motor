@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "96f59b12-257a-52ff-90db-8d9986b2d688",
+      "slug": "2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal",
+      "url": "/kozelet/2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal/",
+      "title": "Már 2012-ben feketén-fehéren ott volt a bicskei bántalmazás az asztalon",
+      "lead": "Már 2012-ben hivatalos ombudsmani jelentés mutatott rá a bicskei gyermekotthonban feltárt visszásságokra és az azzal összefüggő vizsgálatokra.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T18:41:33+01:00",
+      "published_at": "2026-11-06T18:41:33+01:00",
+      "reading_time_min": 2,
+      "hot_score": 15.1,
+      "tags": [
+        "bicskei gyermekotthon",
+        "vizsgálóbizottság",
+        "Szabó Máté",
+        "Balog Zoltán",
+        "kegyelmi ügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Balog_Zolt%C3%A1n_2019.jpg/1280px-Balog_Zolt%C3%A1n_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1294,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Zoltán Balog. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió jövője? Petőfi Irodalmi Múzeum, Budapest."
+      }
+    },
+    {
       "id": "8312148b-fa26-5c58-b1d5-f66e703292e3",
       "slug": "2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf",
       "url": "/bulvar/2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf/",
@@ -4377,37 +4407,7 @@
         "alt": "2030 – A Wekerle-program futamidejének végső éve",
         "card": "num"
       }
-    },
-    {
-      "id": "f2e62724-531c-5b90-ae26-444251d4ef0e",
-      "slug": "2026-10-27-miert-nem-toroltek-meg-el-az-oraatallitast",
-      "url": "/eletmod/2026-10-27-miert-nem-toroltek-meg-el-az-oraatallitast/",
-      "title": "Miért nem törölték még el az óraátállítást?",
-      "lead": "Évente kétszer átállítjuk az óráinkat, pedig a lakosság túlnyomó része rég megszabadulna ettől a rutintól. Az uniós eltörlés terve azonban válságok hálójában ragadt.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-10-27",
-      "date_label": "október 27.",
-      "created_at": "2026-10-27T10:58:26+01:00",
-      "published_at": "2026-10-27T10:58:26+01:00",
-      "reading_time_min": 4,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "óraátállítás",
-        "időzóna",
-        "Európai Unió",
-        "történelem",
-        "egészség"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/08a64f73d140ce61.jpg",
-        "width": 5500,
-        "height": 3385,
-        "kind": "photo",
-        "alt": "alarm clock, the summer time changeover, time change, wintertime, summer time, pointer, time, clock, clock change, minute hand, hour hand, clock face, nostalgia, antique, alarm clock, clock, clock, cl"
-      }
     }
   ],
-  "updated_at": "2026-11-06T18:09:53+01:00"
+  "updated_at": "2026-11-06T18:41:35+01:00"
 }
