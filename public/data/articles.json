@@ -1,7 +1,112 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T14:14:39+01:00",
+  "updated_at": "2026-11-06T16:09:19+01:00",
   "articles": [
+    {
+      "id": "e94e2d2f-aeb4-5b9f-a080-1e8f86edb41b",
+      "slug": "2026-11-06-otvenkilenc-evesen-elhunyt-martinkovics-katalin-a-szegedi-szinhazi-el",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "Martinkovics Katalin",
+        "Szeged",
+        "MASZK Egyesület",
+        "THEALTER fesztivál",
+        "színház"
+      ],
+      "title": "Ötvenkilenc évesen elhunyt Martinkovics Katalin, a szegedi színházi élet alapítója",
+      "subtitle": null,
+      "lead": "Ötvenkilenc éves korában elhunyt Martinkovics Katalin, a szegedi MASZK Egyesület alelnöke és a THEALTER nemzetközi színházi fesztivál alapító szervezője. Halálával felbecsülhetetlen értékű háttérszereplő és három évtizedes színházi elhivatottság távozott a magyar független kultúrából.",
+      "key_points": [
+        "Ötvenkilenc éves korában hunyt el Martinkovics Katalin.",
+        "Alapvető szerepet játszott a szegedi MASZK Egyesület és a THEALTER fesztivál létrejöttében.",
+        "A színházon túl ő hozta létre Szeged első közösségi kertjét is a Tarján városrészben.",
+        "Élete legfontosabb alkotásainak a színészi diplomát szerző fiát és a MASZK Egyesületet tartotta."
+      ],
+      "content": "Ötvenkilenc éves korában elhunyt Martinkovics Katalin, a szegedi MASZK Egyesület alelnöke, a THEALTER nemzetközi színházi fesztivál egyik alapító szervezője – írja a Szeged.hu. A független színházi élet meghatározó alakjaként több mint három évtizeden át dolgozott a kortárs előadó-művészetért és a dél-magyarországi kulturális élet gazdagításáért, halálának okát azonban nem hozták nyilvánosságra.\n\nA szentesi Horváth Mihály Gimnázium drámatagozatán megismert színházi világ után szegedi egyetemi évei alatt számos amatőr művészeti közösség munkájában vett részt. Alapító tagja volt az Anselmus Repülőszínháznak, amely a MASZK Egyesület közvetlen elődjének számított.\n\nSzervezőmunkája nem merült ki a színpadok világában, hiszen nevéhez fűződik Szeged első közösségi kertjének megalapítása is a Tarjánban található, mai Megálló Közösségi Ház területén. A szegedi kultúrában hagyott űrjét nehéz lesz betölteni, hiszen kitartó munkájával évtizedeken át formálta a helyi közösségi és művészeti életet.\n\n„Büszkeség számomra, hogy nőként, többnyire a háttérben dolgozva, ráadásul „gyüttmöntként” – hiszen nem vagyok szegedi –, kiérdemelhettem ezt a díjat” – fogalmazott korábban a Szeged folyóiratnak adott interjújában, hozzátéve, hogy életének két legfőbb művének a színészi diplomát szerző fiát és a MASZK Egyesületet tekinti.",
+      "content_format": "markdown",
+      "body": [
+        "Ötvenkilenc éves korában elhunyt Martinkovics Katalin, a szegedi MASZK Egyesület alelnöke, a THEALTER nemzetközi színházi fesztivál egyik alapító szervezője – írja a Szeged.hu. A független színházi élet meghatározó alakjaként több mint három évtizeden át dolgozott a kortárs előadó-művészetért és a dél-magyarországi kulturális élet gazdagításáért, halálának okát azonban nem hozták nyilvánosságra.",
+        "A szentesi Horváth Mihály Gimnázium drámatagozatán megismert színházi világ után szegedi egyetemi évei alatt számos amatőr művészeti közösség munkájában vett részt. Alapító tagja volt az Anselmus Repülőszínháznak, amely a MASZK Egyesület közvetlen elődjének számított.",
+        "Szervezőmunkája nem merült ki a színpadok világában, hiszen nevéhez fűződik Szeged első közösségi kertjének megalapítása is a Tarjánban található, mai Megálló Közösségi Ház területén. A szegedi kultúrában hagyott űrjét nehéz lesz betölteni, hiszen kitartó munkájával évtizedeken át formálta a helyi közösségi és művészeti életet.",
+        "„Büszkeség számomra, hogy nőként, többnyire a háttérben dolgozva, ráadásul „gyüttmöntként” – hiszen nem vagyok szegedi –, kiérdemelhettem ezt a díjat” – fogalmazott korábban a Szeged folyóiratnak adott interjújában, hozzátéve, hogy életének két legfőbb művének a színészi diplomát szerző fiát és a MASZK Egyesületet tekinti."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 204,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/National_Theatre_of_Szeged.jpg/1280px-National_Theatre_of_Szeged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 831,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The National Theatre of Szeged, Hungary.",
+        "credit": "Plamen Agov (user:MrPanyGoff) / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:National_Theatre_of_Szeged.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/meghalt-martinkovics-katalin-gyasz/jxbbzme",
+          "title": "Meghalt Martinkovics Katalin",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T16:07:56+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Büszkeség számomra, hogy nőként, többnyire a háttérben dolgozva, ráadásul „gyüttmöntként” – hiszen nem vagyok szegedi –, kiérdemelhettem ezt a díjat. Jó a magaménak, szakmai elismerésnek érezni, ugyanakkor tudom, hogy kellett hozzá mindazoknak a közreműködése, akik végigkísértek ezen az úton az elmúlt 30 évben",
+        "who": "Martinkovics Katalin, a MASZK Egyesület alelnöke",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-06T16:09:19+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/meghalt-martinkovics-katalin-gyasz/jxbbzme"
+        ]
+      },
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "url": "/kultura/2026-11-06-otvenkilenc-evesen-elhunyt-martinkovics-katalin-a-szegedi-szinhazi-el/",
+      "seo": {
+        "meta_title": "Ötvenkilenc évesen elhunyt Martinkovics Katalin, a szegedi s",
+        "meta_description": "Ötvenkilenc éves korában elhunyt Martinkovics Katalin, a szegedi MASZK Egyesület alelnöke és a THEALTER nemzetközi színházi fesztivál alapító szervezője. Halálá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-06-otvenkilenc-evesen-elhunyt-martinkovics-katalin-a-szegedi-szinhazi-el/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/National_Theatre_of_Szeged.jpg/1280px-National_Theatre_of_Szeged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "16c128cbef598609fb8846d404e8917b71cb5b94e1e84c70e9d8f36579ca7447",
+      "pipeline_run_id": "42234534291",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-06T16:09:19+01:00",
+      "updated_at": "2026-11-06T16:09:19+01:00",
+      "published_at": "2026-11-06T16:09:19+01:00",
+      "expires_at": null
+    },
     {
       "id": "c890fe52-15a4-5f1e-8740-305b29cd54f7",
       "slug": "2026-11-06-ugynokbotrany-rendkivuli-ulest-hivott-ossze-apati",
@@ -72398,109 +72503,6 @@
       "created_at": "2026-10-10T16:01:19+02:00",
       "updated_at": "2026-10-10T16:01:19+02:00",
       "published_at": "2026-10-10T16:01:19+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ba5e3821-7284-5466-8fcc-dc21964fd4d1",
-      "slug": "2026-10-10-hat-nap-utan-halt-meg-az-ujszulott-miutan-a-korhazban-felrediagnoszti",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "egészségügy",
-        "kórház",
-        "terhesség",
-        "Nagy-Britannia"
-      ],
-      "title": "Hat nap után halt meg az újszülött, miután a kórházban félrediagnosztizálták az édesanyát",
-      "subtitle": null,
-      "lead": "Elviselhetetlen hasi fájdalmakkal kereste fel a sussexi kórházat a harmincnégy hetes terhes Kimberley Newark, akinek panaszait az orvosok kezdetben csupán bélgázoknak tulajdonították. A kismama végül verőér-repedés miatt tizenegy liter vért veszített, újszülött kislánya pedig hatnapos korában elhunyt.",
-      "key_points": [
-        "A harmincegy éves édesanya 2024. szeptember 14-én került a Haywards Heathben található Princess Royal kórházba.",
-        "Az orvosok először görcsoldókat adtak neki, és azt mondták, hogy a panaszait bélgáz okozza.",
-        "A kismama egyik nagy verőere, a lépartéria megrepedt, ami miatt sürgősségi császármetszést hajtottak végre."
-      ],
-      "content": "Kimberley Newark 2024. szeptember 14-én a terhesség 34. hetében, elviselhetetlen hasi és hátfájdalmakkal, valamint hányingerrel és kimerültséggel küzdve fordult segítségért a sussexi Haywards Heathben található Princess Royal kórházhoz, miután otthon elájult. A sürgősségi osztályon alacsony vérnyomást mértek, és egy szakorvosi vizsgálatot követően a Bolney osztályra helyezték át, miközben párját, Yannt hazaküldték.\n\nA szülészeti osztály munkatársai a panaszokat bélgázoknak tulajdonították, így a kismamának görcsoldó gyógyszert és paracetamolt adtak. Kevesebb mint egy óra elteltével az állapota drasztikusan romlott, a fájdalmai pedig olyan erőssé váltak, hogy sikoltozni kezdett a kórteremben, mire a személyzet arra utasította, hogy maradjon csendben, mert mások is alszanak. Nem sokkal később az ágyra rogyva elvesztette az eszméletét.\n\nA vizsgálatok során kiderült, hogy a baba szívverése lelassult, ezért azonnali, sürgősségi császármetszést végeztek. Az eljárás közben azzal szembesültek az orvosok, hogy a panaszok hátterében nem emésztési probléma áll: a nő egyik fő verőere, a lépartéria megrepedt, aminek következtében mintegy 11 liter vért veszített. A világra jött kislány, Olivia nem lélegzett, és sápadt volt; az újraélesztés után átszállították a brightoni Royal Sussex County kórház speciális osztályára.\n\nAz elvégzett vizsgálatok kimutatták, hogy a csecsemő agya a születés körüli oxigénhiány miatt súlyos hipoxiás-iszkémiás enkefalopátiát szenvedett, és már nem mutatott aktivitást. Az édesanya és társa, Yann ekkor hozták meg a döntést, hogy lekapcsolják a lélegeztetőgépről, így Olivia 2024. szeptember 19-én, hatnapos korában elhunyt. Kimberley-t vérátömlesztéssel és intenzív kezeléssel egy hónapon át ápolták, végül 2024 októberében térhetett haza.",
-      "content_format": "markdown",
-      "body": [
-        "Kimberley Newark 2024. szeptember 14-én a terhesség 34. hetében, elviselhetetlen hasi és hátfájdalmakkal, valamint hányingerrel és kimerültséggel küzdve fordult segítségért a sussexi Haywards Heathben található Princess Royal kórházhoz, miután otthon elájult. A sürgősségi osztályon alacsony vérnyomást mértek, és egy szakorvosi vizsgálatot követően a Bolney osztályra helyezték át, miközben párját, Yannt hazaküldték.",
-        "A szülészeti osztály munkatársai a panaszokat bélgázoknak tulajdonították, így a kismamának görcsoldó gyógyszert és paracetamolt adtak. Kevesebb mint egy óra elteltével az állapota drasztikusan romlott, a fájdalmai pedig olyan erőssé váltak, hogy sikoltozni kezdett a kórteremben, mire a személyzet arra utasította, hogy maradjon csendben, mert mások is alszanak. Nem sokkal később az ágyra rogyva elvesztette az eszméletét.",
-        "A vizsgálatok során kiderült, hogy a baba szívverése lelassult, ezért azonnali, sürgősségi császármetszést végeztek. Az eljárás közben azzal szembesültek az orvosok, hogy a panaszok hátterében nem emésztési probléma áll: a nő egyik fő verőere, a lépartéria megrepedt, aminek következtében mintegy 11 liter vért veszített. A világra jött kislány, Olivia nem lélegzett, és sápadt volt; az újraélesztés után átszállították a brightoni Royal Sussex County kórház speciális osztályára.",
-        "Az elvégzett vizsgálatok kimutatták, hogy a csecsemő agya a születés körüli oxigénhiány miatt súlyos hipoxiás-iszkémiás enkefalopátiát szenvedett, és már nem mutatott aktivitást. Az édesanya és társa, Yann ekkor hozták meg a döntést, hogy lekapcsolják a lélegeztetőgépről, így Olivia 2024. szeptember 19-én, hatnapos korában elhunyt. Kimberley-t vérátömlesztéssel és intenzív kezeléssel egy hónapon át ápolták, végül 2024 októberében térhetett haza."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 274,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._%2820503993770%29.jpg/1280px-Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._%2820503993770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Inauguración del Hospital Regional de Apatzingán.\nApatzingán, Michoacán.\n\n18 de agosto de 2015.",
-        "credit": "Presidencia de la República Mexicana / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._(20503993770).jpg",
-        "vision_score": 5.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://borsonline.origo.hu/igaz-tortenetek/2026/10/belgaznak-hittek-a-belso-verzeset-meghalt-a-kisbabaja",
-          "title": "„Maradjon csendben, mások alszanak” – kínok között sikoltozott a kórházi ágyon a kismama, hat nappal később meghalt az újszülöttje",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T15:58:26+02:00"
-        }
-      ],
-      "quote": {
-        "text": "A fájdalom elviselhetetlenné vált. Már nem bírtam tovább, és kínomban sikoltoztam. Megnyomtam a nővérhívót. Azt mondták, maradjak csendben, mert mások is vannak az osztályon, akik alszanak.",
-        "who": "Kimberley Newark, édesanya",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T16:01:04+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://borsonline.origo.hu/igaz-tortenetek/2026/10/belgaznak-hittek-a-belso-verzeset-meghalt-a-kisbabaja"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/kozelet/2026-10-10-hat-nap-utan-halt-meg-az-ujszulott-miutan-a-korhazban-felrediagnoszti/",
-      "seo": {
-        "meta_title": "Hat nap után halt meg az újszülött, miután a kórházban félre",
-        "meta_description": "Elviselhetetlen hasi fájdalmakkal kereste fel a sussexi kórházat a harmincnégy hetes terhes Kimberley Newark, akinek panaszait az orvosok kezdetben csupán bélgá",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-hat-nap-utan-halt-meg-az-ujszulott-miutan-a-korhazban-felrediagnoszti/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._%2820503993770%29.jpg/1280px-Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._%2820503993770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "6b2c19feac88296929a627ad8a67a425aebcc74a5bd2dce1ea7ebc2a656d5b57",
-      "pipeline_run_id": "38056382704",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-10T16:01:04+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-10T16:01:04+02:00",
       "expires_at": null
     }
   ]
