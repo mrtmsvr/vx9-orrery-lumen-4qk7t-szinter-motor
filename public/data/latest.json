@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "8312148b-fa26-5c58-b1d5-f66e703292e3",
+      "slug": "2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf",
+      "url": "/bulvar/2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf/",
+      "title": "Letartóztatta az FBI Meghan Markle 82 éves édesapját gyermekpornográfia miatt",
+      "lead": "A gyanú szerint letartóztatták Meghan Markle 82 éves édesapját, Thomas Markle-t egy floridai idősotthonban, miután egykori otthonában több ezer kiskorúról készült felvételt találtak. Az ügyben az FBI és a Fülöp-szigeteki hatóságok is vizsgálatot indítottak.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T18:02:06+01:00",
+      "published_at": "2026-11-06T18:02:06+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Thomas Markle",
+        "Meghan Markle",
+        "FBI",
+        "Floridai hír"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Eden_Springs_Nursing_%26_Rehab_Center%2C_Medart%2C_Florida.jpg/1280px-Eden_Springs_Nursing_%26_Rehab_Center%2C_Medart%2C_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Eden Springs Nursing &amp; Rehab Center on U.S. Route 319 in Medart, Florida."
+      }
+    },
+    {
       "id": "e94e2d2f-aeb4-5b9f-a080-1e8f86edb41b",
       "slug": "2026-11-06-otvenkilenc-evesen-elhunyt-martinkovics-katalin-a-szegedi-szinhazi-el",
       "url": "/kultura/2026-11-06-otvenkilenc-evesen-elhunyt-martinkovics-katalin-a-szegedi-szinhazi-el/",
@@ -4378,34 +4407,7 @@
         "kind": "photo",
         "alt": "alarm clock, the summer time changeover, time change, wintertime, summer time, pointer, time, clock, clock change, minute hand, hour hand, clock face, nostalgia, antique, alarm clock, clock, clock, cl"
       }
-    },
-    {
-      "id": "6b5fce7e-3b3d-5870-9017-7dc3ea00f7c8",
-      "slug": "2026-10-26-stofa-gyorgy-a-bilincs-a-magyar-rendorseg-legfobb-mutatoja",
-      "url": "/kozelet/2026-10-26-stofa-gyorgy-a-bilincs-a-magyar-rendorseg-legfobb-mutatoja/",
-      "title": "Stofa György: A bilincs a magyar rendőrség legfőbb mutatója",
-      "lead": "A nemzetközi jegybankelnök-letartóztatási trendeket és a magyar közélet dinamikáját is elemezték a 444.hu műsorában. A beszélgetésben szó esett a hazai hatóságok működéséről és a külpolitikai kommunikációról is.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T20:13:44+01:00",
-      "published_at": "2026-10-26T20:13:44+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Közélet",
-        "Stofa György",
-        "Matolcsy György",
-        "Orbán Viktor",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793039925-0.jpg",
-        "kind": "photo",
-        "alt": "Stofa György: Magyarországon komoly motivációt jelent a letartóztatás-értékelési rendszer"
-      }
     }
   ],
-  "updated_at": "2026-11-06T16:50:36+01:00"
+  "updated_at": "2026-11-06T18:02:08+01:00"
 }
