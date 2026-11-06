@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "85f8f70b-ebb0-5d19-9a6c-3f4983fd704d",
+      "slug": "2026-11-06-december-17-en-kell-felelnie-rogan-antalnak-a-parlamenti-bizottsag-el",
+      "url": "/kozelet/2026-11-06-december-17-en-kell-felelnie-rogan-antalnak-a-parlamenti-bizottsag-el/",
+      "title": "December 17-én kell felelnie Rogán Antalnak a parlamenti bizottság előtt",
+      "lead": "A végrehajtási visszaéléseket feltáró parlamenti vizsgálóbizottság csütörtöki ülésén úgy döntött, hogy december 17-re személyes meghallgatásra idézi be Rogán Antal volt kabinetminisztert. A testület egyhangúlag fogadta el a személyes és írásbeli nyilatkozattételre kötelezettek névsorát.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T11:37:12+01:00",
+      "published_at": "2026-11-06T11:37:12+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.51,
+      "tags": [
+        "Rogán Antal",
+        "Völner Pál",
+        "Schadl György",
+        "parlamenti bizottság",
+        "végrehajtási ügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Rog%C3%A1n_Antal_2009_Solym%C3%A1r.jpg/1280px-Rog%C3%A1n_Antal_2009_Solym%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Rogán Antal egy 2009-es politikai fórumon Solymáron"
+      }
+    },
+    {
       "id": "5966e2ed-6c91-5323-826d-be299faece5b",
       "slug": "2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel",
       "url": "/vilag/2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel/",
@@ -4375,37 +4405,7 @@
         "pos": "top",
         "alt": "Beretka Ádám, Petőfi Rádió MtV Székház, Nem kell szó dalpremier."
       }
-    },
-    {
-      "id": "7a8dcc23-f7a6-5e35-a9f9-4165bdf2a69e",
-      "slug": "2026-10-26-meghalt-vamos-magda-aki-a-szocialista-hianygazdasagban-is-divatot-csi",
-      "url": "/kultura/2026-10-26-meghalt-vamos-magda-aki-a-szocialista-hianygazdasagban-is-divatot-csi/",
-      "title": "Meghalt Vámos Magda, aki a szocialista hiánygazdaságban is divatot csinált",
-      "lead": "Kilencvennégy éves korában elhunyt Vámos Magda divattervező, a Magyar Divat Szövetség örökös elnöke, aki évtizedeken át formálta a hazai öltözködési kultúrát. Pályája arról a mindennapi küzdelemről szólt, amellyel a szocialista hiánygazdaság korlátai között próbált európai színvonalú ruhatárat teremteni.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-10-26",
-      "date_label": "október 26.",
-      "created_at": "2026-10-26T15:21:01+01:00",
-      "published_at": "2026-10-26T15:21:01+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Vámos Magda",
-        "divat",
-        "magyar divat",
-        "könnyűipar",
-        "gyász"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bundesarchiv_Bild_183-N0409-0320%2C_VEB_Bekleidungswerk_%22Steppke%22_G%C3%B6rlitz%2C_Gestaltung_Kinderkonfektion_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 994,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "For documentary purposes the German Federal Archive often retained the original image captions, which may be erroneous, biased, obsolete or politically extreme. ADN-ZB-Häßler Mü-Schä 15.2.1974 Bez. D"
-      }
     }
   ],
-  "updated_at": "2026-11-06T11:10:51+01:00"
+  "updated_at": "2026-11-06T11:37:14+01:00"
 }
