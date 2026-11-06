@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "3c945807-1e17-5221-be4e-7669e1e33de9",
+      "slug": "2026-11-06-visszakaphatjak-a-szulok-a-dontest-atszabjak-az-iskolakezdes-szabalya",
+      "url": "/kozelet/2026-11-06-visszakaphatjak-a-szulok-a-dontest-atszabjak-az-iskolakezdes-szabalya/",
+      "title": "Visszakaphatják a szülők a döntést: átszabják az iskolakezdés szabályait",
+      "lead": "Társadalmi egyeztetésre bocsátották azt a jogszabály-módosítást, amely átszabná az óvoda és az iskola közti váltás szabályait Magyarországon. A tervek szerint a jövőben nem korhoz kötnék, és nem az Oktatási Hivatal határozná meg az iskolaérettséget.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T18:43:08+01:00",
+      "published_at": "2026-11-06T18:43:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.8,
+      "tags": [
+        "iskolakezdés",
+        "oktatás",
+        "Lannert Judit",
+        "gyermekek"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kindergarten_children_at_S%C5%82awkowska_Street_in_Krak%C3%B3w%2C_2022.jpg/1280px-Kindergarten_children_at_S%C5%82awkowska_Street_in_Krak%C3%B3w%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 827,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kindergarten children at Sławkowska Street in Kraków, 2022"
+      }
+    },
+    {
       "id": "96f59b12-257a-52ff-90db-8d9986b2d688",
       "slug": "2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal",
       "url": "/kozelet/2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal/",
@@ -4379,35 +4408,7 @@
         "pos": "center",
         "alt": "National Tax and Customs Administration of Hungary (NTCA) Renault at Hungexpo, Automotive exhibition, 2017 Hungary Hall A. - Albertirsai út, Ligettelek neighborhood, Budapest District X."
       }
-    },
-    {
-      "id": "d2a46c6e-1ee4-53a0-bd9b-c8c554681921",
-      "slug": "2026-10-27-itt-van-a-wekerle-plusz-hitel-es-lakastakarek",
-      "url": "/kozelet/2026-10-27-itt-van-a-wekerle-plusz-hitel-es-lakastakarek/",
-      "title": "Megérkeztek a Wekerle-program részletei",
-      "lead": "Október 28-án indul az Otthon Startot felváltó Wekerle Plusz Vásárlási és Építési hitel, miközben az államilag támogatott lakástakarék-rendszer is visszatér. A kormány új lakáspiaci intézkedéseiről és a 2027-es költségvetési tervekről sajtótájékoztatót tartott Magyar Péter miniszterelnök, Kármán András pénzügyminiszter és Kapitány István gazdasági és energetikai miniszter.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-27",
-      "date_label": "október 27.",
-      "created_at": "2026-10-27T15:45:38+01:00",
-      "published_at": "2026-10-27T15:45:38+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.38,
-      "tags": [
-        "Wekerle Plusz",
-        "lakásépítés",
-        "hitel",
-        "lakástakarék",
-        "költségvetés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-366adcb590.jpg",
-        "kind": "photo",
-        "alt": "2030 – A Wekerle-program futamidejének végső éve",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-06T18:41:35+01:00"
+  "updated_at": "2026-11-06T18:43:10+01:00"
 }
