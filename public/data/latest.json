@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "b6fb1173-b868-5bb5-aa88-a02da64b6252",
+      "slug": "2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot",
+      "url": "/kozelet/2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot/",
+      "title": "Személyi cserehullám érte el a Szociális és Családügyi Minisztériumot",
+      "lead": "Péntek este jelentek meg a legfrissebb személyi döntések a Magyar Közlönyben, amelyek két különböző minisztériumot is alaposan átrendeztek. A változások érintik a távozókat és az újonnan kinevezett vezetőket is.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T07:48:52+01:00",
+      "published_at": "2026-11-07T07:48:52+01:00",
+      "reading_time_min": 1,
+      "hot_score": 6.5,
+      "tags": [
+        "Magyar Közlöny",
+        "kormány",
+        "személyi változások",
+        "szociális és családügyi minisztérium"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Government_office_building_by_L%C3%A1szl%C3%B3_H%C3%B3ka_%281960s%29._-_Arany_Street%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg/1280px-Government_office_building_by_L%C3%A1szl%C3%B3_H%C3%B3ka_%281960s%29._-_Arany_Street%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": ": Ministry of Human Capacities? office building planned by László Hóka (1960s).  - Arany János Street, Lipótváros neighbourhood, Budapest District V."
+      }
+    },
+    {
       "id": "b8971744-f6dc-5b02-a8a9-c682bc6bba10",
       "slug": "2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo",
       "url": "/kozelet/2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo/",
@@ -4374,37 +4403,7 @@
         "pos": "center",
         "alt": "Blood pressure measurement Red Cross"
       }
-    },
-    {
-      "id": "806b74d1-03fa-570a-bd21-2707a6df2e17",
-      "slug": "2026-10-28-nem-segitett-a-millios-ovadek-letartoztatasban-marad-sesztak-miklos",
-      "url": "/kozelet/2026-10-28-nem-segitett-a-millios-ovadek-letartoztatasban-marad-sesztak-miklos/",
-      "title": "Nem segített a milliós óvadék: letartóztatásban marad Seszták Miklós",
-      "lead": "A bíróság elutasította Seszták Miklós volt nemzeti fejlesztési miniszter óvadékra vonatkozó indítványát, így a politikus 2027. január 30-áig letartóztatásban marad. Az eljáró hatóságok szerint a gyanúsított vagyonelkobzás alá eső dolgokat rejthetett el.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T16:37:35+01:00",
-      "published_at": "2026-10-28T16:37:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Seszták Miklós",
-        "letartóztatás",
-        "korrupció",
-        "ügyészség",
-        "bíróság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg/1280px-Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1803,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Seszták Miklós nemzeti fejlesztési miniszter"
-      }
     }
   ],
-  "updated_at": "2026-11-07T07:47:24+01:00"
+  "updated_at": "2026-11-07T07:48:54+01:00"
 }
