@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a6b1df56-b913-577d-b901-8cc31283fd75",
+      "slug": "2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump",
+      "url": "/vilag/2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump/",
+      "title": "Ketrecből a sajtótermbe: Dana White-ot szemelte ki Trump",
+      "lead": "Donald Trump amerikai elnök a Truth Social platformon jelentette be, hogy az UFC elnökét, Dana White-ot kérte fel a Fehér Ház szóvivői tisztségére. A poszt október közepe óta üresen áll elődjének gyors távozása után.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T22:44:41+01:00",
+      "published_at": "2026-11-07T22:44:41+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.59,
+      "tags": [
+        "Donald Trump",
+        "Dana White",
+        "UFC",
+        "Fehér Ház",
+        "Egyesült Államok"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dana_White_in_June_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1560,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Ilham Aliyev received Dana White, President of the Ultimate Fighting Championship (UFC)"
+      }
+    },
+    {
       "id": "bd16a170-2e8d-526f-93f8-753bef2cdc6f",
       "slug": "2026-11-07-hat-aldozat-lehet-a-fekete-tengeren-megcsonkitott-es-varnaba-vontatot",
       "url": "/vilag/2026-11-07-hat-aldozat-lehet-a-fekete-tengeren-megcsonkitott-es-varnaba-vontatot/",
@@ -4369,37 +4399,7 @@
         "alt": "3 fő – halálos áldozat",
         "card": "num"
       }
-    },
-    {
-      "id": "ff3b37c6-c713-515f-b90d-ef53e2f44198",
-      "slug": "2026-10-29-vegzetes-rutinfeladat-harman-haltak-meg-br-ko-kozeleben",
-      "url": "/vilag/2026-10-29-vegzetes-rutinfeladat-harman-haltak-meg-br-ko-kozeleben/",
-      "title": "Végzetes rutinfeladat: hárman haltak meg Brčko közelében",
-      "lead": "Csütörtök délután lezuhant az Európai Unió bosznia-hercegovinai békefenntartó erejének egyik helikoptere Brčko közelében, a balesetben hárman életüket vesztették. A szerencsétlenség rávilágít a Nyugat-Balkánon szolgáló katonai missziók mindennapi kockázataira.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T19:47:07+01:00",
-      "published_at": "2026-10-29T19:47:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Bosznia-Hercegovina",
-        "EUFOR",
-        "helikopter-baleset",
-        "Olaszország",
-        "békefenntartók"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/CH-47_Chinook_-_RIAT_2015_%2820820630144%29.jpg/1280px-CH-47_Chinook_-_RIAT_2015_%2820820630144%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "CH-47 Chinook - RIAT 2015"
-      }
     }
   ],
-  "updated_at": "2026-11-07T21:22:44+01:00"
+  "updated_at": "2026-11-07T22:44:42+01:00"
 }
