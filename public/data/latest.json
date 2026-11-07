@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "48366d04-c384-56a0-b0dd-172295197175",
+      "slug": "2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan",
+      "url": "/kozelet/2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan/",
+      "title": "Öt halott maradt a krakkói főtér aszfaltján a lövöldözés után",
+      "lead": "Legalább öten életüket vesztették, amikor egy mozgó autóból tüzet nyitottak a lengyelországi Krakkó zsúfolt főterén szombat délután. A tragikus eseményeket követően a magyar külügy azonnal felvette a kapcsolatot a helyi hatóságokkal.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T17:54:59+01:00",
+      "published_at": "2026-11-07T17:54:59+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Krakkó",
+        "lövöldözés",
+        "Külügyminisztérium",
+        "Lengyelország",
+        "bűnügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Krakow_-_Kosciol_Mariacki.jpg/1280px-Krakow_-_Kosciol_Mariacki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1778,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Saint Mary Basilica in Kraków, Poland"
+      }
+    },
+    {
       "id": "3b85eac1-b681-5a91-8318-eb1afe1fae0c",
       "slug": "2026-11-07-egymilliard-forint-ment-el-az-erzsebet-taborok-nepszerusitesere-egy-h",
       "url": "/kozelet/2026-11-07-egymilliard-forint-ment-el-az-erzsebet-taborok-nepszerusitesere-egy-h/",
@@ -4371,37 +4401,7 @@
         "pos": "top",
         "alt": "Secretary Antony J. Blinken meets with UN Secretary-General Antonio Guterres at the Department of State in Washington, D.C., June 4, 2024. (Official State Department photo by Chuck Kennedy)"
       }
-    },
-    {
-      "id": "3c007f5a-1bc9-5d80-a4c8-926f976817d2",
-      "slug": "2026-10-29-meg-le-sem-szamlaltak-a-szavazatokat-de-orban-mar-gratulalt-netanjahu",
-      "url": "/vilag/2026-10-29-meg-le-sem-szamlaltak-a-szavazatokat-de-orban-mar-gratulalt-netanjahu/",
-      "title": "Még le sem számlálták a szavazatokat, de Orbán már gratulált Netanjahunak",
-      "lead": "Izraelben még hátravolt a voksok tizenöt százalékának összeszámlálása, amikor Orbán Viktor már győzelmet ünnepelt a közösségi oldalán. A szoros parlamenti választás végeredménye egyelőre teljesen bizonytalan.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T07:04:36+01:00",
-      "published_at": "2026-10-29T07:04:36+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "Izrael",
-        "választás",
-        "Benjamin Netanjahu",
-        "Orbán Viktor",
-        "Közel-Kelet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/New_National_Library_of_Israel_Complex_4_%28cropped2%29.jpg/1280px-New_National_Library_of_Israel_Complex_4_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 598,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "New National Library of Israel Complex. in the background the Knesset building and Wohl rose park, December 2023"
-      }
     }
   ],
-  "updated_at": "2026-11-07T17:53:50+01:00"
+  "updated_at": "2026-11-07T17:55:02+01:00"
 }
