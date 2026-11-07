@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "86c770ee-771b-5bb3-b3e1-7cb85a83229e",
+      "slug": "2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre",
+      "url": "/kozelet/2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre/",
+      "title": "Török Gábor: Ne nevezzük diktatúrának az Orbán-korszakot, mert az félrevisz",
+      "lead": "Török Gábor politikai elemző egy szombati Facebook-bejegyzésében kifejtette, hogy az Orbán-korszak nem volt diktatúra, és 2026-ban sem forradalom, sem rendszerváltás nem történt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T18:47:33+01:00",
+      "published_at": "2026-11-07T18:47:33+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.68,
+      "tags": [
+        "Török Gábor",
+        "Orbán-korszak",
+        "politika",
+        "2026"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg/1280px-20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 572,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "View of Budapest from Gellért Hill"
+      }
+    },
+    {
       "id": "6f491e04-9fce-566d-96aa-247a0974a481",
       "slug": "2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b",
       "url": "/vilag/2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b/",
@@ -4370,37 +4399,7 @@
         "pos": "top",
         "alt": "Official portrait of US Secretary of State Marco Rubio"
       }
-    },
-    {
-      "id": "149d0497-9ece-52b4-8ad2-a6dd120b374d",
-      "slug": "2026-10-29-oriaskereket-uzemeltet-balin-a-milliardos-lelegeztetogep-biznisz-szok",
-      "url": "/kozelet/2026-10-29-oriaskereket-uzemeltet-balin-a-milliardos-lelegeztetogep-biznisz-szok/",
-      "title": "Bali szigetéről írt levelet a lélegeztetőgép-biznisz körözött kulcsfigurája",
-      "lead": "Elrendelte a Győri Járásbíróság a 2020-as lélegeztetőgép-beszerzésekhez köthető adóhatósági eljárás két gyanúsítottjának letartóztatását, miközben az ügy egyik nemzetközileg körözött irányítója Indonéziából jelentkezett be. A hatóságok eddig 1,5 milliárd forintot foglaltak le a több mint hárommilliárdosra becsült tisztára mosott haszon ügyében.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T14:09:05+01:00",
-      "published_at": "2026-10-29T14:09:05+01:00",
-      "reading_time_min": 3,
-      "hot_score": 15.57,
-      "tags": [
-        "lélegeztetőgép-biznisz",
-        "NAV",
-        "Győri Járásbíróság",
-        "pénzmosás",
-        "bűnszervezet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg/1280px-Sunset%2C_Kuta%2C_Bali%2C_Indonesia%2C_20220825_1755_0879.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 801,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Sunset on the beach in Kuta, Bali, Indonesia"
-      }
     }
   ],
-  "updated_at": "2026-11-07T18:45:40+01:00"
+  "updated_at": "2026-11-07T18:47:36+01:00"
 }
