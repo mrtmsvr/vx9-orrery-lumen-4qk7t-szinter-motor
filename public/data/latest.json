@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "b8846f1f-a046-50b5-bb30-dee4d9cf56ca",
+      "slug": "2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu",
+      "url": "/vilag/2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu/",
+      "title": "Mínusz tizenkét fokban hagyta magára a barátnőjét egy német fiú",
+      "lead": "Nyomozást indított az osztrák rendőrség egy 21 éves német férfi ellen, miután mínusz tizenkét fokban magára hagyta 17 éves barátnőjét a Zugspitzén. Az eset miatt a hatóságok közbiztonság veszélyeztetésének gyanújával indítottak eljárást.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-07T10:39:59+01:00",
+      "published_at": "2026-11-07T10:39:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.12,
+      "tags": [
+        "Zugspitze",
+        "Ausztria",
+        "hegyimentők",
+        "rendőrségi nyomozás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1280px-Zugspitzmassiv-von-Almkopf-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 593,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zugspitze photographed from mountain Almkopf / Alpkopf at valley Bichlbach in Tyrol, Austria."
+      }
+    },
+    {
       "id": "b6fb1173-b868-5bb5-aa88-a02da64b6252",
       "slug": "2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot",
       "url": "/kozelet/2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot/",
@@ -4372,38 +4401,7 @@
         "alt": "Térkép: Szerbia",
         "card": "map"
       }
-    },
-    {
-      "id": "2ebb0b60-2ce0-5aae-9e8e-5660dc17b9e1",
-      "slug": "2026-10-28-a-meglepo-gyakorlat-amely-csokkenti-a-vernyomast",
-      "url": "/eletmod/2026-10-28-a-meglepo-gyakorlat-amely-csokkenti-a-vernyomast/",
-      "title": "A meglepő gyakorlat, amely csökkenti a vérnyomást",
-      "lead": "Nem kell maratonokat futni vagy drága bérleteket venni ahhoz, hogy tegyünk a szívünk egészségéért, hiszen egy egyszerű mozdulat is jelentős eredményt hozhat. Egy száz felnőtt bevonásával készült friss kutatás szerint a heti egy-két alkalommal végzett falhoz támaszkodás hatékonyan csökkenti a szisztolés vérnyomást.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T16:53:25+01:00",
-      "published_at": "2026-10-28T16:53:25+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "magas vérnyomás",
-        "egészség",
-        "mozgás",
-        "kutatás",
-        "életmód"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Blood_pressure_measurement_Manila_CNE_01.jpg/1280px-Blood_pressure_measurement_Manila_CNE_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 984,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Blood pressure measurement Red Cross"
-      }
     }
   ],
-  "updated_at": "2026-11-07T10:28:20+01:00"
+  "updated_at": "2026-11-07T10:40:01+01:00"
 }

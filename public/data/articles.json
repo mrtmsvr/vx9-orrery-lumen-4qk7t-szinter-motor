@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T07:48:52+01:00",
+  "updated_at": "2026-11-07T10:39:59+01:00",
   "articles": [
+    {
+      "id": "b8846f1f-a046-50b5-bb30-dee4d9cf56ca",
+      "slug": "2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Zugspitze",
+        "Ausztria",
+        "hegyimentők",
+        "rendőrségi nyomozás"
+      ],
+      "title": "Mínusz tizenkét fokban hagyta magára a barátnőjét egy német fiú",
+      "subtitle": null,
+      "lead": "Nyomozást indított az osztrák rendőrség egy 21 éves német férfi ellen, miután mínusz tizenkét fokban magára hagyta 17 éves barátnőjét a Zugspitzén. Az eset miatt a hatóságok közbiztonság veszélyeztetésének gyanújával indítottak eljárást.",
+      "key_points": [
+        "Az osztrák rendőrség közbiztonság veszélyeztetésének gyanújával nyomoz egy 21 éves német férfi ellen.",
+        "A fiatalok az ausztriai Ehrwaldból indultak el a napfelkelte megtekintésére Németország legmagasabb pontjára.",
+        "A mínusz tizenkét fokos hideg és a térdig érő hó miatt szétváltak, mire a lány helikopteres mentést kért.",
+        "Ausztriában tavaly januárban egy hasonló tragédia történt a Grossglockneren, ami bírósági ítélettel zárult."
+      ],
+      "content": "A túrázók vasárnap hajnalban indultak el az ausztriai Ehrwaldból azzal a céllal, hogy a napfelkeltét Németország legmagasabb hegyén, a 2962 méteres Zugspitzén nézzék meg. A zord időjárás – a mínusz tizenkét fokos hőmérséklet és a térdig érő hó – azonban gyorsan felülírta az eredeti terveket. Egy ponton a fiatalok szétváltak: a 21 éves német férfi elindult egyedül lefelé, míg a lány a hegyen maradt.\n\nA szétválás pontos oka egyelőre tisztázatlan. A 17 éves lány nem sokkal később telefonon hívta a mentőket. A segélyhívásra két hegyimentő reagált, végül helikopterrel, 2500 méteres magasságból emelték ki a kihűlés jeleit mutató fiatal lányt. Őt a garmisch-partenkircheni kórházba szállították, ahonnan később haza is engedték. Az osztrák rendőrség az eset után hivatalosan is nyomozást indított a férfi ellen.\n\nA hasonló helyzetek jogi megítélése szigorú Ausztriában, különösen a korábbi tragikus precedensek fényében. Tavaly januárban ugyanis az ország legmagasabb hegyén, a Grossglockneren történt egy hasonló eset, amikor egy férfi magára hagyta a barátnőjét, aki végül halálra fagyott. Az akkori ügyben az illetékes bíróság idén februárban súlyos gondatlanságból elkövetett emberölés miatt öthónapos, felfüggesztett szabadságvesztésre, valamint 9600 euró pénzbírságra ítélte a férfi elkövetőt.",
+      "content_format": "markdown",
+      "body": [
+        "A túrázók vasárnap hajnalban indultak el az ausztriai Ehrwaldból azzal a céllal, hogy a napfelkeltét Németország legmagasabb hegyén, a 2962 méteres Zugspitzén nézzék meg. A zord időjárás – a mínusz tizenkét fokos hőmérséklet és a térdig érő hó – azonban gyorsan felülírta az eredeti terveket. Egy ponton a fiatalok szétváltak: a 21 éves német férfi elindult egyedül lefelé, míg a lány a hegyen maradt.",
+        "A szétválás pontos oka egyelőre tisztázatlan. A 17 éves lány nem sokkal később telefonon hívta a mentőket. A segélyhívásra két hegyimentő reagált, végül helikopterrel, 2500 méteres magasságból emelték ki a kihűlés jeleit mutató fiatal lányt. Őt a garmisch-partenkircheni kórházba szállították, ahonnan később haza is engedték. Az osztrák rendőrség az eset után hivatalosan is nyomozást indított a férfi ellen.",
+        "A hasonló helyzetek jogi megítélése szigorú Ausztriában, különösen a korábbi tragikus precedensek fényében. Tavaly januárban ugyanis az ország legmagasabb hegyén, a Grossglockneren történt egy hasonló eset, amikor egy férfi magára hagyta a barátnőjét, aki végül halálra fagyott. Az akkori ügyben az illetékes bíróság idén februárban súlyos gondatlanságból elkövetett emberölés miatt öthónapos, felfüggesztett szabadságvesztésre, valamint 9600 euró pénzbírságra ítélte a férfi elkövetőt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 214,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1280px-Zugspitzmassiv-von-Almkopf-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 593,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zugspitze photographed from mountain Almkopf / Alpkopf at valley Bichlbach in Tyrol, Austria.",
+        "credit": "Tuxyso / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Zugspitzmassiv-von-Almkopf-2024.jpg",
+        "exact": true,
+        "entity": "Zugspitze",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/11/06/egy-21-eves-fiu-egyedul-hagyta-a-17-eves-baratnojet-a-12-fokos-zugspitzen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Egy 21 éves fiú egyedül hagyta a 17 éves barátnőjét a –12 fokos Zugspitzén",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-06T18:43:10+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": "szerkesztő (Telegram)",
+        "reviewed_at": "2026-11-07T10:39:59+01:00"
+      },
+      "hot_score": 7.12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/11/06/egy-21-eves-fiu-egyedul-hagyta-a-17-eves-baratnojet-a-12-fokos-zugspitzen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "url": "/vilag/2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu/",
+      "seo": {
+        "meta_title": "Mínusz tizenkét fokban hagyta magára a barátnőjét egy német ",
+        "meta_description": "Nyomozást indított az osztrák rendőrség egy 21 éves német férfi ellen, miután mínusz tizenkét fokban magára hagyta 17 éves barátnőjét a Zugspitzén. Az eset miat",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1280px-Zugspitzmassiv-von-Almkopf-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "fa4aca970f50deff730b2679b7c35d8a0a45c7b0c81b7710389cc0ad9c89ac6e",
+      "pipeline_run_id": "42259141576",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-07T10:39:59+01:00",
+      "updated_at": "2026-11-07T10:39:59+01:00",
+      "published_at": "2026-11-07T10:39:59+01:00",
+      "expires_at": null
+    },
     {
       "id": "b6fb1173-b868-5bb5-aa88-a02da64b6252",
       "slug": "2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot",
@@ -72550,113 +72651,6 @@
       "created_at": "2026-10-10T20:41:09+02:00",
       "updated_at": "2026-10-10T20:41:09+02:00",
       "published_at": "2026-10-10T20:41:09+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "fa6d7f56-260d-5199-89a3-311fa7180c4a",
-      "slug": "2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "építőipar",
-        "lakáspiac",
-        "csődeljárás",
-        "Bayer Construct",
-        "Harmat Liget"
-      ],
-      "title": "Bayer Construct: óvatos optimizmussal a Harmat Liget jövője felől",
-      "subtitle": null,
-      "lead": "Csökkentett üzemmódban folytatódik a Harmat Liget lakópark kivitelezése, miközben a generálkivitelező Bayer Construct csődeljárás alatt áll. Az érintettek bizakodóak, október közepére látványosabb előrehaladást ígérnek a helyszínen.",
-      "key_points": [
-        "A Bayer Construct augusztus végén kezdeményezett csődeljárása lassította a munkálatokat.",
-        "A közművesítés a jövő héten a villanyórák felszerelésével válik teljessé.",
-        "Az önkormányzati jelzálogjog törlése a tulajdoni lapokról folyamatban van.",
-        "A lakók számára a tetőteraszok és kertek módosítására rövid határidőt szabtak meg."
-      ],
-      "content": "A Harmat Liget projekt körüli bizonytalanság oldódni látszik, miután az alapkezelő, a kivitelező és a vagyonfelügyelő háromoldalú egyeztetést tartott. Bár a kivitelezés a Bayer Construct [csődeljárása](/penzvilag/2026-09-30-csodeljárás-indult-a-hazai-oriasceg-ellen/) miatt érezhetően lassult, a legfrissebb tájékoztatás szerint a beruházás folytatása biztosított.\n\nA külső szemlélők számára október közepétől gyorsulhat fel a tempó; a legközelebbi konkrét lépés a villanyórák felszerelése, amellyel a projekt közművesítése lezárul.\n\nA vásárlók számára a legfontosabb kérdés az átadás időpontja, amellyel kapcsolatban a fejlesztői tájékoztató egyelőre nem tartalmaz pontos dátumot. A beruházás finanszírozásának részletei továbbra is a folyamatban lévő egyeztetések fókuszában állnak.",
-      "content_format": "markdown",
-      "body": [
-        "A Harmat Liget projekt körüli bizonytalanság oldódni látszik, miután az alapkezelő, a kivitelező és a vagyonfelügyelő háromoldalú egyeztetést tartott. Bár a kivitelezés a Bayer Construct [csődeljárása](/penzvilag/2026-09-30-csodeljárás-indult-a-hazai-oriasceg-ellen/) miatt érezhetően lassult, a legfrissebb tájékoztatás szerint a beruházás folytatása biztosított.",
-        "A külső szemlélők számára október közepétől gyorsulhat fel a tempó; a legközelebbi konkrét lépés a villanyórák felszerelése, amellyel a projekt közművesítése lezárul.",
-        "A vásárlók számára a legfontosabb kérdés az átadás időpontja, amellyel kapcsolatban a fejlesztői tájékoztató egyelőre nem tartalmaz pontos dátumot. A beruházás finanszírozásának részletei továbbra is a folyamatban lévő egyeztetések fókuszában állnak."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 126,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://live.staticflickr.com/2372/2363688612_6d71737477_b.jpg",
-        "width": 1024,
-        "height": 679,
-        "kind": "photo",
-        "alt": "Tianjin Construction Site.",
-        "credit": "@yakobusan Jakob Montrasio / flickr",
-        "license": "CC BY 2.0",
-        "source_url": "https://www.flickr.com/photos/37803129@N00/2363688612",
-        "vision_score": 6.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/ingatlan/20261010/fontos-bejelentest-tettek-a-bayer-constructhoz-tartozo-egyik-projekt-jovojerol-868882",
-          "title": "Fontos bejelentést tettek a Bayer Constructhoz tartozó egyik projekt jövőjéről",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T19:41:31+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T20:20:55+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/ingatlan/20261010/fontos-bejelentest-tettek-a-bayer-constructhoz-tartozo-egyik-projekt-jovojerol-868882"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/penzvilag/2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol/",
-      "seo": {
-        "meta_title": "Bayer Construct: óvatos optimizmussal a Harmat Liget jövője ",
-        "meta_description": "Csökkentett üzemmódban folytatódik a Harmat Liget lakópark kivitelezése, miközben a generálkivitelező Bayer Construct csődeljárás alatt áll. Az érintettek bizak",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-10-bayer-construct-ovatos-optimizmussal-a-harmat-liget-jovoje-felol/",
-        "og_image": "https://live.staticflickr.com/2372/2363688612_6d71737477_b.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "72cd3766-286d-57da-86a7-0e11b12f04a6"
-      ],
-      "see_also": [
-        {
-          "title": "Csődeljárás indult a hazai óriáscég ellen",
-          "url": "/penzvilag/2026-09-30-csodeljaras-indult-a-hazai-oriasceg-ellen/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "0aed0bd0fdfa352ccbca523fe1bcaee994bcf185ec434580b09747fb82229205",
-      "pipeline_run_id": "38072250939",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T20:20:55+02:00",
-      "updated_at": "2026-10-10T20:20:55+02:00",
-      "published_at": "2026-10-10T20:20:55+02:00",
       "expires_at": null
     }
   ]
