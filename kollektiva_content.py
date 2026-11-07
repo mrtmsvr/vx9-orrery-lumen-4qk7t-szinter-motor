@@ -2507,6 +2507,10 @@ def _person_fits(p: dict, titles: list, first_date: str) -> bool:
     (2) AI-ellenőrzés a Wikidata-leírás és a cikkcímek alapján (hiba esetén elfogadjuk – az 1. szabály akkor is véd)."""
     if p.get("death") and first_date and p["death"] < (date.fromisoformat(first_date[:10]) - timedelta(days=60)).isoformat():
         return False  # pl. Rózsa András (1935–2016) költő ≠ a 2026-os zuglói ügy szereplője
+    # az AI-kérdés csak gyanús esetben (nagyon régen született ember): a kis modell 11.01–07. között a valódi
+    # szereplőket is névrokonnak mondta (Magyar Péter, Matolcsy György, Varga Mihály…), ezért általános szűrőnek rossz
+    if (p.get("birth") or "9999") >= "1945":
+        return True
     try:
         ai = AIClient(Config.from_env())
         if not ai.enabled:
@@ -2525,6 +2529,10 @@ def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
     """Új, legalább PEOPLE_MIN_ARTICLES cikkben szereplő név-címkék feloldása (hívásonként n). Visszaad: új szereplők száma."""
     st = read_json(PEOPLE_FILE, {"tags": {}})
     known = st.setdefault("tags", {})
+    if not st.get("fix_1107"):  # a tévesen „névrokon”-nak jelölt szereplők újrafeloldása (egyszer)
+        for t in [t for t, v in known.items() if v.get("why") == "névrokon"]:
+            del known[t]
+        st["fix_1107"] = True
     cnt: dict = {}
     for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", []):
         if a.get("status") == "published":
@@ -2561,8 +2569,7 @@ def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
                 p["checked"] = True
         known[t] = p or {"none": True}
         added += bool(p)
-    if todo or recheck:
-        write_json_atomic(PEOPLE_FILE, st)
+    write_json_atomic(PEOPLE_FILE, st)
     return added
 
 
