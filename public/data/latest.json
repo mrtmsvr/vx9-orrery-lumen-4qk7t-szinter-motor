@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "39f3ffe5-9ef9-5265-a9d2-1f10678622f4",
+      "slug": "2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely",
+      "url": "/kozelet/2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely/",
+      "title": "A pokol borsodi kapuja: beereszkedtek az Esztramos-hegy 120 méter mély ledobóaknájába",
+      "lead": "Egyedi terepgyakorlat keretében a barlangi mentők és az Aggteleki Nemzeti Park szakemberei ereszkedtek le az Esztramos-hegy gyomrába, hogy megvizsgálják a föld alatti környezetet és a különleges élővilágot.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T11:20:01+01:00",
+      "published_at": "2026-11-07T11:20:01+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Aggteleki Nemzeti Park",
+        "barlangi mentők",
+        "Esztramos-hegy",
+        "bányászat",
+        "barlangászat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Caveman-ic.jpg/1280px-Caveman-ic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Caving in the United Kingdom"
+      }
+    },
+    {
       "id": "02125bb0-d9bd-5df9-a6c8-6f6dac8b35f3",
       "slug": "2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran",
       "url": "/vilag/2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran/",
@@ -4371,35 +4401,7 @@
         "pos": "center",
         "alt": "Senador Flávio Bolsonaro (Republicanos-RJ) e seu advogado, Frederick Wassef, concedem entrevista  coletiva à imprensa. Na ocasião, o advogado do senador informa sobre a decisão da Segunda Turma do Sup"
       }
-    },
-    {
-      "id": "fcafd497-506f-5fba-946f-4bbb5f238795",
-      "slug": "2026-10-28-vege-a-vadnyugatnak-bukosisakot-es-korhatart-irnak-elo-az-e-rollerekr",
-      "url": "/kozelet/2026-10-28-vege-a-vadnyugatnak-bukosisakot-es-korhatart-irnak-elo-az-e-rollerekr/",
-      "title": "Vége a vadnyugatnak: bukósisakot és korhatárt írnak elő az e-rollerekre",
-      "lead": "Külön járműkategóriává alakítja a KRESZ-ben a motoros rollereket a kormány, miután ugrásszerűen megnőtt a személyi sérüléses balesetek száma. A javasolt szigorítás korhatárhoz, sebességhatárhoz és bukósisakhoz köti az eszközök használatát.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T18:27:07+01:00",
-      "published_at": "2026-10-28T18:27:07+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.4,
-      "tags": [
-        "KRESZ",
-        "elektromos roller",
-        "Magyar Péter",
-        "közlekedésbiztonság",
-        "Vitézy Dávid"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-fdfaf5a8b6.jpg",
-        "kind": "photo",
-        "alt": "635 baleset – ennyi személyi sérüléses rolleres baleset történt",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-07T11:03:52+01:00"
+  "updated_at": "2026-11-07T11:20:03+01:00"
 }
