@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e37f6540-abb7-5900-b641-c2e19fb64256",
+      "slug": "2026-11-07-bezart-a-hirhedt-erzsebetvarosi-naci-kocsma-ahol-ubermensch-polokat-a",
+      "url": "/kozelet/2026-11-07-bezart-a-hirhedt-erzsebetvarosi-naci-kocsma-ahol-ubermensch-polokat-a/",
+      "title": "Bezárt a hírhedt erzsébetvárosi náci kocsma, ahol Übermensch-pólókat árultak",
+      "lead": "Bezárt a VII. kerületi Damjanich utcában működő, szélsőjobboldali találkozóhelyként ismert kocsma, miután a bérlők felmondták a szerződést. Niedermüller Péter polgármester szerint a helyi lakossági tiltakozások és a hatósági nyomásgyakorlás vezettek ehhez az eredményhez.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T18:48:38+01:00",
+      "published_at": "2026-11-07T18:48:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.56,
+      "tags": [
+        "Erzsébetváros",
+        "Niedermüller Péter",
+        "neonácizmus",
+        "Damjanich utca",
+        "Budapest"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Graffiti_in_District_VII_of_Budapest_%282025-07-03%29_2.jpg/1280px-Graffiti_in_District_VII_of_Budapest_%282025-07-03%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1594,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Photographed in Erzsébetváros (District VIII), Budapest"
+      }
+    },
+    {
       "id": "86c770ee-771b-5bb3-b3e1-7cb85a83229e",
       "slug": "2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre",
       "url": "/kozelet/2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre/",
@@ -4369,37 +4399,7 @@
         "pos": "top",
         "alt": "Commissioner for Equality, Preparedness and Crisis Management Hadja Lahbib mission to Hungary on June 26, 2026 in Budapest. Meeting with Anita Orban, Minister of Foreign Affairs, Gabor Posfai, Ministe"
       }
-    },
-    {
-      "id": "cf0f34b9-1d2e-54d9-bb56-f1ece50fef05",
-      "slug": "2026-10-29-marco-rubio-miatt-halasztottak-el-orban-anita-washingtoni-csucstalalk",
-      "url": "/vilag/2026-10-29-marco-rubio-miatt-halasztottak-el-orban-anita-washingtoni-csucstalalk/",
-      "title": "Marco Rubio naptárába is bekerült: csütörtök délután tárgyal Orbán Anita Washingtonban",
-      "lead": "Csütörtök délután, magyar idő szerint hivatalosan is leül tárgyalni Marco Rubio amerikai külügyminiszterrel Orbán Anita magyar külügyminiszter Washingtonban. A megbeszélést eredetileg keddre tervezték, ám az amerikai fél kérésére elhalasztották.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T14:12:03+01:00",
-      "published_at": "2026-10-29T14:12:03+01:00",
-      "reading_time_min": 2,
-      "hot_score": 15.09,
-      "tags": [
-        "Orbán Anita",
-        "Marco Rubio",
-        "Washington",
-        "Egyesült Államok",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Official_portrait_of_Secretary_Marco_Rubio.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1650,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of US Secretary of State Marco Rubio"
-      }
     }
   ],
-  "updated_at": "2026-11-07T18:47:36+01:00"
+  "updated_at": "2026-11-07T18:48:40+01:00"
 }
