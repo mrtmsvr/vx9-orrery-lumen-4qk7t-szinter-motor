@@ -1,6 +1,127 @@
 {
-  "updated_at": "2026-10-31T08:21:33+01:00",
+  "updated_at": "2026-11-07T08:10:50+01:00",
   "quizzes": [
+    {
+      "id": "cec8711478",
+      "week": "2026-W45",
+      "date": "2026-11-07",
+      "title": "Teszteld a hét legfontosabb híreit velünk!",
+      "created_at": "2026-11-07T08:10:50+01:00",
+      "questions": [
+        {
+          "question": "Kit támogat a TISZA-frakció a legfőbb ügyészi székben?",
+          "options": [
+            "Dr. Fejes Pétert",
+            "Lázár Jánost",
+            "Feledy Botondot",
+            "Egerszegi Ádámot"
+          ],
+          "correct": 0,
+          "explain": "A TISZA-frakció dr. Fejes Péter legfőbb ügyésszé választását támogatja a köztársasági elnök második jelöltjeként.",
+          "article_url": "/kozelet/2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe/",
+          "article_title": "Magyar Péter bejelentette: támogatják Fejes Pétert legfőbb ügyésznek",
+          "category": "kozelet"
+        },
+        {
+          "question": "Melyik politikus került tévesen az ügynöklistára adathiba miatt?",
+          "options": [
+            "Magyar Péter",
+            "Lezsák Sándor",
+            "Gyurcsány Ferenc",
+            "Orbán Viktor"
+          ],
+          "correct": 1,
+          "explain": "Az Állambiztonsági Szolgálatok Történeti Levéltára informatikai hibára hivatkozva kért elnézést Lezsák Sándortól.",
+          "article_url": "/kozelet/2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis/",
+          "article_title": "Adathiba vagy politikai fegyver? Lezsák Sándort tették be az ügynöklistába",
+          "category": "kozelet"
+        },
+        {
+          "question": "Kit mentettek fel azonnali hatállyal a Magyar Külügyi Intézet éléről?",
+          "options": [
+            "Feledy Botondot",
+            "Barna Zsoltot",
+            "Kapitány Istvánt",
+            "Szijjártó Pétert"
+          ],
+          "correct": 0,
+          "explain": "A Külügyminisztérium bizalomvesztésre hivatkozva azonnal megszüntette Feledy Botond vezetői megbízatását.",
+          "article_url": "/kozelet/2026-11-02-bizalomvesztes-miatt-azonnal-kirugtak-a-magyar-kulugyi-intezet-vezeto/",
+          "article_title": "Bizalomvesztés miatt azonnal kirúgták a Magyar Külügyi Intézet vezetőjét",
+          "category": "kozelet"
+        },
+        {
+          "question": "Kit hozott ki győztesnek a szerbiai parlamenti választás?",
+          "options": [
+            "Az Egyetemista Listát",
+            "A demokraták szövetségét",
+            "Aleksandar Vučić pártját",
+            "A Srbijagas alakulatát"
+          ],
+          "correct": 0,
+          "explain": "Az Egyetemista Lista a voksok 53,01 százalékát megszerezve nyerte meg a választást.",
+          "article_url": "/vilag/2026-11-02-megbukott-aleksandar-vu-i-taroltak-a-szerb-egyetemistak/",
+          "article_title": "Megbukott Aleksandar Vučić, taroltak a szerb egyetemisták",
+          "category": "vilag"
+        },
+        {
+          "question": "Hogyan alakul a személygépkocsik éves országos autópálya-matricájának ára 2027-ben?",
+          "options": [
+            "72 800 forint",
+            "85 000 forint",
+            "55 000 forint",
+            "62 560 forint"
+          ],
+          "correct": 3,
+          "explain": "A nyilvánosságra hozott hivatalos árak szerint az éves országos matrica ára 62 560 forint lesz.",
+          "article_url": "/penzvilag/2026-11-06-jelentosen-dragulnak-itt-vannak-a-2027-es-autopalyamatrica-arak/",
+          "article_title": "Jelentősen drágulnak: itt vannak a 2027-es autópályamatrica-árak",
+          "category": "penzvilag"
+        },
+        {
+          "question": "Melyik televíziócsatornához igazolt át az ATV-től távozott Krug Emília?",
+          "options": [
+            "RTL",
+            "Network4 Media Group",
+            "TV2",
+            "ATV News"
+          ],
+          "correct": 1,
+          "explain": "Krug Emília a Network4 Media Group csatornáin folytatja pályafutását.",
+          "article_url": "/bulvar/2026-11-05-a-network4-nel-folytatja-az-atv-tol-tavozott-krug-emilia/",
+          "article_title": "A Network4-nél folytatja az ATV-től távozott Krug Emília",
+          "category": "bulvar"
+        },
+        {
+          "question": "Hogyan indul Borbás Marcsi új műsora a TV4-en?",
+          "options": [
+            "Hagyományos konyha",
+            "A kertem konyhája",
+            "Szezonális falatok",
+            "Ízek az Őrségből"
+          ],
+          "correct": 1,
+          "explain": "A műsorvezető új produkciója A kertem konyhája címmel debütál.",
+          "article_url": "/bulvar/2026-11-04-borbas-marcsi-hazakoltozott-az-orsegben-forgatta-uj-musorat/",
+          "article_title": "Borbás Marcsi hazaköltözött: az Őrségben forgatta új műsorát",
+          "category": "bulvar"
+        },
+        {
+          "question": "Melyik évben vezette be Károly Róbert az aranyforint verését Magyarországon?",
+          "options": [
+            "1252-ben",
+            "1325-ben",
+            "1750-ben",
+            "1848-ban"
+          ],
+          "correct": 1,
+          "explain": "Magyarországon Károly Róbert vezette be az aranyforint verését 1325-ben firenzei mintára.",
+          "article_url": "/penzvilag/2026-11-05-a-forint-kalandos-evszazadai-firenze-utcaitol-a-habsburg-birodalomig/",
+          "article_title": "A forint kalandos évszázadai Firenze utcáitól a Habsburg Birodalomig",
+          "category": "penzvilag"
+        }
+      ]
+    },
     {
       "id": "fb53954ffc",
       "week": "2026-W44",
