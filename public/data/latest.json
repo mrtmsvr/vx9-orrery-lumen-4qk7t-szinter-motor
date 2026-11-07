@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d6f73d06-5e5a-5786-b74d-88bff7776013",
+      "slug": "2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak",
+      "url": "/vilag/2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak/",
+      "title": "Válogatás nélkül lőtt az álarcos autós Krakkó főterén: öten meghaltak",
+      "lead": "Öt ember vesztette életét és legalább tizenketten megsérültek szombat délután Krakkó főterén, amikor egy álarcos férfi az autójából válogatás nélkül lőni kezdett a gyalogosokra. A rendőrség a helyszínen ártalmatlanította és meglőtte a támadót, akit kórházba szállítottak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T16:44:24+01:00",
+      "published_at": "2026-11-07T16:44:24+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Krakkó",
+        "Lengyelország",
+        "lövöldözés",
+        "rendőrség",
+        "Donald Tusk"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Donald_Tusk_EPP_Summit_2023.png/1280px-Donald_Tusk_EPP_Summit_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1649,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "EPP Summit, 29 June, Brussels"
+      }
+    },
+    {
       "id": "01970699-9238-50d9-b666-15418771ce04",
       "slug": "2026-11-07-retvari-bencetol-vett-el-ket-fontos-unios-poziciot-magyar-peter",
       "url": "/kozelet/2026-11-07-retvari-bencetol-vett-el-ket-fontos-unios-poziciot-magyar-peter/",
@@ -4371,37 +4401,7 @@
         "pos": "center",
         "alt": "Prague Castle, Prague, Czech Republic"
       }
-    },
-    {
-      "id": "be5d28f5-4b93-5dcf-87db-225d77cb225a",
-      "slug": "2026-10-28-68-halott-osszeutkozott-ket-gyorsvonat-toledo-kozeleben",
-      "url": "/vilag/2026-10-28-68-halott-osszeutkozott-ket-gyorsvonat-toledo-kozeleben/",
-      "title": "68 halott: Összeütközött két gyorsvonat Toledo közelében",
-      "lead": "Legalább hatvannyolc ember életét vesztette szerda reggel Spanyolországban, miután két nagy sebességű vonat ütközött össze Toledo közelében. A tragédia miatt teljesen megbénult a vasúti közlekedés Madrid és Andalúzia között.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T19:35:29+01:00",
-      "published_at": "2026-10-28T19:35:29+01:00",
-      "reading_time_min": 3,
-      "hot_score": 6.64,
-      "tags": [
-        "Spanyolország",
-        "vonatbaleset",
-        "vasút",
-        "Toledo",
-        "közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Trenes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 901,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Imagen del Tren Guerrero"
-      }
     }
   ],
-  "updated_at": "2026-11-07T15:13:57+01:00"
+  "updated_at": "2026-11-07T16:44:26+01:00"
 }
