@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "3c2dbc31-8c70-52f2-b820-8c12d6936c28",
+      "slug": "2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat",
+      "url": "/vilag/2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat/",
+      "title": "Halálos légibaleset bénította meg az A2-es autópályát",
+      "lead": "Péntek délután Magdeburg térségében lezuhant egy kisrepülőgép, amely az A2-es autópályára csapódott. A balesetben a fedélzeten tartózkodó két ember életét vesztette.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T07:46:03+01:00",
+      "published_at": "2026-11-07T07:46:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.08,
+      "tags": [
+        "Németország",
+        "légibaleset",
+        "autópálya",
+        "Magdeburg"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-e7dda775ff.jpg",
+        "kind": "photo",
+        "alt": "Térkép: Magdeburg",
+        "card": "map"
+      }
+    },
+    {
       "id": "14c3c8d2-9ab6-5b10-8bf9-bf0b300f08c7",
       "slug": "2026-11-07-valasztasi-pofon-utan-stephen-miller-veszi-at-trump-kabinetjenek-iran",
       "url": "/vilag/2026-11-07-valasztasi-pofon-utan-stephen-miller-veszi-at-trump-kabinetjenek-iran/",
@@ -4377,37 +4404,7 @@
         "pos": "center",
         "alt": "U.S. Secretary of State John Kerry addresses delegates before he signed the COP21 Climate Change Agreement on Earth Day, April 22, 2016, at the United Nations General Assembly Hall in New York, N.Y. ["
       }
-    },
-    {
-      "id": "14c003ad-8c4b-5a35-909d-152c9d9e14ef",
-      "slug": "2026-10-28-terrorista-keseles-az-izraeli-kovetsegnel-voros-riasztas-van-ervenybe",
-      "url": "/vilag/2026-10-28-terrorista-keseles-az-izraeli-kovetsegnel-voros-riasztas-van-ervenybe/",
-      "title": "Terrorista késelés az izraeli követségnél: vörös riasztás van érvényben Belgrádban",
-      "lead": "Késsel támadt az izraeli nagykövetség rendőri őrségére egy feltehetően kiskorú elkövető Belgrádban szerdára virradó éjjel. A szerb belügyminisztérium terrorcselekménynek minősítette a támadást, és a legmagasabb fokozatú terrorfenyegetettségi készültséget rendelte el az országban.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T10:02:30+01:00",
-      "published_at": "2026-10-28T10:02:30+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.05,
-      "tags": [
-        "Szerbia",
-        "Izrael",
-        "terrortámadás",
-        "Belgrád",
-        "Ivica Dacic"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Communal_Police_automobile_at_Dra%C5%BEe_Pavlovi%C4%87a_street_%28Belgrade%29.jpg/1280px-Communal_Police_automobile_at_Dra%C5%BEe_Pavlovi%C4%87a_street_%28Belgrade%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 904,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Communal Police automobile at Draže Pavlovića street (Belgrade)"
-      }
     }
   ],
-  "updated_at": "2026-11-07T06:28:04+01:00"
+  "updated_at": "2026-11-07T07:46:05+01:00"
 }

@@ -1,7 +1,122 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:28:02+01:00",
+  "updated_at": "2026-11-07T07:46:03+01:00",
   "articles": [
+    {
+      "id": "3c2dbc31-8c70-52f2-b820-8c12d6936c28",
+      "slug": "2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Németország",
+        "légibaleset",
+        "autópálya",
+        "Magdeburg"
+      ],
+      "title": "Halálos légibaleset bénította meg az A2-es autópályát",
+      "subtitle": null,
+      "lead": "Péntek délután Magdeburg térségében lezuhant egy kisrepülőgép, amely az A2-es autópályára csapódott. A balesetben a fedélzeten tartózkodó két ember életét vesztette.",
+      "key_points": [
+        "Péntek délután zuhant le egy kisrepülőgép Németországban, az A2-es autópálya közelében.",
+        "A gép két utasa a helyszínen meghalt, mire a mentőegységek megérkeztek.",
+        "A sztráda Hannover felé vezető szakaszát több órára le kellett zárni a helyszínelés és a mentés miatt."
+      ],
+      "content": "Péntek délután egy kisrepülőgép zuhant le Magdeburg térségében, az A2-es autópályán. A légi járművön utazó két személy a becsapódás következtében életét vesztette, és mire a mentőegységek a helyszínre érkeztek, már nem lehetett rajtuk segíteni. A szemtanúk beszámolói eltértek egymástól: egyesek szerint a gép már a levegőben, zuhanás közben lángra lobbant, míg mások úgy látták, hogy a földet érést követően gyulladt ki. A tűz következtében a kisrepülőgép nagy része elégett és elszenesedett.\n\nAz érintett útszakasz Németország egyik legfontosabb közlekedési artériája. Az A2-es autópálya kelet-nyugat irányú tengelyként köti össze Berlin térségét az ország nyugati ipari központjával, Észak-Rajna-Vesztfáliával. A Bild értesülései szerint különösen szerencsés véletlennek számít, hogy a zuhanás során más közúti jármű nem keveredett a balesetbe, így autósok nem sérültek meg a tragédiában.\n\nA mentési munkálatok és a hatósági vizsgálat miatt a forgalom hosszú órákra megbénult, a sztráda Hannover felé vezető oldalát teljes egészében lezárták, ami komoly torlódásokat okozott a térségben. A lezuhant gép egy Schleswig-Holstein tartományban működő repülősport-klub kötelékébe tartozott, és ott is volt regisztrálva. A hatóságok jelenleg is vizsgálják a tragédia pontos okait és körülményeit.\n\nA magyar közlekedés- és autópálya-hálózat szempontjából az eset a gyorsforgalmi utak biztonságára és a nemzetközi tranzitútvonalak sérülékenységére hívja fel a figyelmet.",
+      "content_format": "markdown",
+      "body": [
+        "Péntek délután egy kisrepülőgép zuhant le Magdeburg térségében, az A2-es autópályán. A légi járművön utazó két személy a becsapódás következtében életét vesztette, és mire a mentőegységek a helyszínre érkeztek, már nem lehetett rajtuk segíteni. A szemtanúk beszámolói eltértek egymástól: egyesek szerint a gép már a levegőben, zuhanás közben lángra lobbant, míg mások úgy látták, hogy a földet érést követően gyulladt ki. A tűz következtében a kisrepülőgép nagy része elégett és elszenesedett.",
+        "Az érintett útszakasz Németország egyik legfontosabb közlekedési artériája. Az A2-es autópálya kelet-nyugat irányú tengelyként köti össze Berlin térségét az ország nyugati ipari központjával, Észak-Rajna-Vesztfáliával. A Bild értesülései szerint különösen szerencsés véletlennek számít, hogy a zuhanás során más közúti jármű nem keveredett a balesetbe, így autósok nem sérültek meg a tragédiában.",
+        "A mentési munkálatok és a hatósági vizsgálat miatt a forgalom hosszú órákra megbénult, a sztráda Hannover felé vezető oldalát teljes egészében lezárták, ami komoly torlódásokat okozott a térségben. A lezuhant gép egy Schleswig-Holstein tartományban működő repülősport-klub kötelékébe tartozott, és ott is volt regisztrálva. A hatóságok jelenleg is vizsgálják a tragédia pontos okait és körülményeit.",
+        "A magyar közlekedés- és autópálya-hálózat szempontjából az eset a gyorsforgalmi utak biztonságára és a nemzetközi tranzitútvonalak sérülékenységére hívja fel a figyelmet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 226,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-e7dda775ff.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-e7dda775ff.jpg",
+        "kind": "photo",
+        "alt": "Térkép: Magdeburg",
+        "credit": "Térkép: © OpenStreetMap közreműködők",
+        "license": "ODbL",
+        "source_url": "https://www.openstreetmap.org/copyright",
+        "generated": true,
+        "card": "map",
+        "zoom": 11
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/11/06/autopalyara-zuhant-egy-kisrepulo-nemetorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Autópályára zuhant egy kisrepülő Németországban",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T07:44:15+01:00"
+        },
+        {
+          "url": "https://hvg.hu/vilag/20261106_ksirepulogep-baleset-nemet-autopalya-autobahn-halalhir",
+          "title": "Kisrepülőgép zuhant egy német autópályára, ketten meghaltak",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T07:44:15+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/06/repulogep-zuhant-az-autopalyara-halalos-aldozatok-is-vannak",
+          "title": "Repülőgép zuhant az autópályára, halálos áldozatok is vannak",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T07:44:15+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-07T07:46:03+01:00"
+      },
+      "hot_score": 11.08,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/11/06/autopalyara-zuhant-egy-kisrepulo-nemetorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://hvg.hu/vilag/20261106_ksirepulogep-baleset-nemet-autopalya-autobahn-halalhir",
+          "https://infostart.hu/kulfold/2026/11/06/repulogep-zuhant-az-autopalyara-halalos-aldozatok-is-vannak"
+        ]
+      },
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "url": "/vilag/2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat/",
+      "seo": {
+        "meta_title": "Halálos légibaleset bénította meg az A2-es autópályát",
+        "meta_description": "Péntek délután Magdeburg térségében lezuhant egy kisrepülőgép, amely az A2-es autópályára csapódott. A balesetben a fedélzeten tartózkodó két ember életét veszt",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/map-e7dda775ff.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "924b94806ed2582a81cf02ab1f42745c6dbf4cca3718e7e9a42657e2f93b997a",
+      "pipeline_run_id": "42346548490",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-07T07:46:03+01:00",
+      "updated_at": "2026-11-07T07:46:03+01:00",
+      "published_at": "2026-11-07T07:46:03+01:00",
+      "expires_at": null
+    },
     {
       "id": "14c3c8d2-9ab6-5b10-8bf9-bf0b300f08c7",
       "slug": "2026-11-07-valasztasi-pofon-utan-stephen-miller-veszi-at-trump-kabinetjenek-iran",
@@ -72534,113 +72649,6 @@
       "updated_at": "2026-10-10T19:40:51+02:00",
       "published_at": "2026-10-10T19:40:51+02:00",
       "expires_at": null
-    },
-    {
-      "id": "ccd6a1de-4431-5dd7-acae-a22da66f07bb",
-      "slug": "2026-10-10-azonnal-felmerik-es-pontozzak-oket-ettol-rettegnek-a-hajlektalan-nok",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "hajléktalanság",
-        "szociális ügyek",
-        "Budapest",
-        "BMSZKI",
-        "kiállítás"
-      ],
-      "title": "Azonnal felmérik és pontozzák őket: ettől rettegnek a hajléktalan nők",
-      "subtitle": null,
-      "lead": "Bár a közterületeken elsősorban férfiakat látni, a hazai otthontalanok jelentős része nő, akik a hajléktalanszállók veszélyei és a bántalmazás elől inkább a nyílt utcát választják. A Beszélő képek című kiállítás bemutatta, milyen félelmekkel és kihívásokkal szembesülnek a nők a mindennapokban.",
-      "key_points": [
-        "A becslések szerint Magyarországon 20-30 ezer ember él tartós hajléktalanságban, közülük a Budapesti Módszertani Szociális Központ és Intézményei adatai alapján 25-30 százalék nő.",
-        "A hajléktalanszállókon sok nő zaklatással, nyílt megjegyzésekkel és méricskéléssel szembesül, ami miatt sokan inkább az utcai létet vagy a folyamatos éjszakai buszozást választják."
-      ],
-      "content": "A magyarországi közterületeken járva a legtöbbször otthontalan férfiakkal találkozni, a statisztikák és a segítő szervezetek tapasztalatai azonban azt mutatják, hogy a nők aránya is magas az otthontalanok között. A Budapesti Módszertani Szociális Központ és Intézményei fenntartásában működő egységekben a nők aránya eléri a 40 százalékot, a családok átmeneti otthonaiba pedig kifejezetten gyakran költöznek be édesanyák a gyerekeikkel. Az óvatos becslések szerint Magyarországon összesen 20-30 ezer ember él tartósan hajléktalanságban, és ennek a tábornak körülbelül a negyede-harmada nő.\n\nA hajléktalan nők helyzetét bemutató, Beszélő képek című kiállításon maguk az érintettek mutatták be fényképeken és üzeneteken keresztül a mindennapi küzdelmeiket. Fehér Boróka, a BMSZKI női projektjeinek felelőse a tárlat kapcsán rámutatott, hogy a fedél nélkül élők folyamatos készenlétben léteznek, és állandóan a következő veszélyre figyelnek. A nők számára a közterületi lét fokozottan kockázatos, ezért azok a hajléktalan nők, akik mégis az utcát választják a szállók helyett, többnyire nem egyedül élnek, hanem egy társ mellett keresnek védelmet. Egy férfi jelenléte elriaszthatja a többi hajléktalan férfit, akik egyébként kiszolgáltatott prédának tekintenék a nőt, ez azonban azt is jelenti, hogy sokan kényszerűségből maradnak együtt valakivel.\n\nA szállók elkerülésének hátterében az is áll, hogy a meglévő intézményrendszer kapacitásai korlátozottak. A legtöbb szállást hagyományosan a férfiak ellátására alakították ki, és bár léteznek koedukált intézmények – ahol a nőket és a férfiakat különböző emeleteken vagy folyosókon helyezik el –, a BMSZKI mindössze három olyan intézményt tart fenn, amely kifejezetten a nők fogadására szakosodott, így két éjjeli menedékhely mellett egy átmeneti szállást biztosítanak számukra. Budapesten ugyan javult a helyzet, továbbra sincs elég páros férőhely a szállókon, vidéken pedig kifejezetten súlyos hiányosságok tapasztalhatók ezen a területen.\n\nAz egyedülálló nők gyakran a szállók belső tereit sem érzik biztonságosnak a férfi lakótársak jelenléte miatt. Többen arról számolnak be, hogy a szállóra érkezve azonnal végigméregetik, pontozzák őket, vagy nyíltan arról beszélnek a többiek, mit tennének velük. Emiatt egyesek a szigorú szabályokat vagy a kötöttségeket elutasítva, mások a megaláztatásokat elkerülve inkább az utcát választják, míg nemzetközi példák mutatják, hogy nők egész éjszaka buszoznak, vagy éppen vendéglátóhelyeken húzzák meg magukat a biztonság reményében.",
-      "content_format": "markdown",
-      "body": [
-        "A magyarországi közterületeken járva a legtöbbször otthontalan férfiakkal találkozni, a statisztikák és a segítő szervezetek tapasztalatai azonban azt mutatják, hogy a nők aránya is magas az otthontalanok között. A Budapesti Módszertani Szociális Központ és Intézményei fenntartásában működő egységekben a nők aránya eléri a 40 százalékot, a családok átmeneti otthonaiba pedig kifejezetten gyakran költöznek be édesanyák a gyerekeikkel. Az óvatos becslések szerint Magyarországon összesen 20-30 ezer ember él tartósan hajléktalanságban, és ennek a tábornak körülbelül a negyede-harmada nő.",
-        "A hajléktalan nők helyzetét bemutató, Beszélő képek című kiállításon maguk az érintettek mutatták be fényképeken és üzeneteken keresztül a mindennapi küzdelmeiket. Fehér Boróka, a BMSZKI női projektjeinek felelőse a tárlat kapcsán rámutatott, hogy a fedél nélkül élők folyamatos készenlétben léteznek, és állandóan a következő veszélyre figyelnek. A nők számára a közterületi lét fokozottan kockázatos, ezért azok a hajléktalan nők, akik mégis az utcát választják a szállók helyett, többnyire nem egyedül élnek, hanem egy társ mellett keresnek védelmet. Egy férfi jelenléte elriaszthatja a többi hajléktalan férfit, akik egyébként kiszolgáltatott prédának tekintenék a nőt, ez azonban azt is jelenti, hogy sokan kényszerűségből maradnak együtt valakivel.",
-        "A szállók elkerülésének hátterében az is áll, hogy a meglévő intézményrendszer kapacitásai korlátozottak. A legtöbb szállást hagyományosan a férfiak ellátására alakították ki, és bár léteznek koedukált intézmények – ahol a nőket és a férfiakat különböző emeleteken vagy folyosókon helyezik el –, a BMSZKI mindössze három olyan intézményt tart fenn, amely kifejezetten a nők fogadására szakosodott, így két éjjeli menedékhely mellett egy átmeneti szállást biztosítanak számukra. Budapesten ugyan javult a helyzet, továbbra sincs elég páros férőhely a szállókon, vidéken pedig kifejezetten súlyos hiányosságok tapasztalhatók ezen a területen.",
-        "Az egyedülálló nők gyakran a szállók belső tereit sem érzik biztonságosnak a férfi lakótársak jelenléte miatt. Többen arról számolnak be, hogy a szállóra érkezve azonnal végigméregetik, pontozzák őket, vagy nyíltan arról beszélnek a többiek, mit tennének velük. Emiatt egyesek a szigorú szabályokat vagy a kötöttségeket elutasítva, mások a megaláztatásokat elkerülve inkább az utcát választják, míg nemzetközi példák mutatják, hogy nők egész éjszaka buszoznak, vagy éppen vendéglátóhelyeken húzzák meg magukat a biztonság reményében."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 378,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/9689bdaa8b-1791641243-1.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/9689bdaa8b-1791641243-1.jpg",
-        "kind": "photo",
-        "alt": "Azonnal felmérik és pontozzák őket: ettől rettegnek a hajléktalan nők",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/elet/20261010_bmszki-hajlektalan-nok-kiallitas-nok-elleni-eroszak-lakhatas",
-          "title": "Egy szoba, ahol végre sírhatok",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T15:58:14+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T16:09:15+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/elet/20261010_bmszki-hajlektalan-nok-kiallitas-nok-elleni-eroszak-lakhatas"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/kozelet/2026-10-10-azonnal-felmerik-es-pontozzak-oket-ettol-rettegnek-a-hajlektalan-nok/",
-      "seo": {
-        "meta_title": "Azonnal felmérik és pontozzák őket: ettől rettegnek a hajlék",
-        "meta_description": "Bár a közterületeken elsősorban férfiakat látni, a hazai otthontalanok jelentős része nő, akik a hajléktalanszállók veszélyei és a bántalmazás elől inkább a nyí",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-10-azonnal-felmerik-es-pontozzak-oket-ettol-rettegnek-a-hajlektalan-nok/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/9689bdaa8b-1791641243-1.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "3dcf20476b964a713ef6d426c19cdba1f3463904ed95e32aafa287b0ad24f109",
-      "pipeline_run_id": "38056382704",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-2.5-flash",
-      "created_at": "2026-10-10T16:09:15+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-10T16:09:15+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "BMSZKI",
-        "Budapest street",
-        "night bus Budapest",
-        "homeless shelter",
-        "homeless woman",
-        "lonely bench at night",
-        "urban poverty"
-      ]
     }
   ]
 }
