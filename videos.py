@@ -212,6 +212,50 @@ def watch(ai: "kc.AIClient", v: dict) -> Optional[dict]:
     return None
 
 
+def video_cover(v: dict) -> Optional[dict]:
+    """A cikk főképe: a videó saját előnézeti képe (a YouTube-on is ezt látni), rajta egy lejátszás-gomb – mintha a
+    YouTube-on rá akarnál kattintani. Nem AI-kép, és mindig a videóhoz illik."""
+    try:
+        import io
+        import hashlib
+        from PIL import Image, ImageDraw
+        data = None
+        for q in ("maxresdefault", "sddefault", "hqdefault"):
+            try:
+                req = urllib.request.Request(f"https://i.ytimg.com/vi/{v['id']}/{q}.jpg", headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    data = r.read()
+                if len(data) > 8000:
+                    break
+            except Exception:  # noqa: BLE001
+                data = None
+        if not data:
+            return None
+        im = Image.open(io.BytesIO(data)).convert("RGB")
+        if im.width < 1200:
+            im = im.resize((1280, int(1280 * im.height / im.width)))
+        W, H = im.size
+        shade = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        d = ImageDraw.Draw(shade)
+        r = int(min(W, H) * 0.11)
+        cx, cy = W // 2, H // 2
+        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(14, 16, 36, 190), outline=(236, 230, 216, 235), width=max(3, r // 14))
+        d.polygon([(cx - r * 0.32, cy - r * 0.5), (cx - r * 0.32, cy + r * 0.5), (cx + r * 0.55, cy)], fill=(236, 230, 216, 255))
+        im = Image.alpha_composite(im.convert("RGBA"), shade).convert("RGB")
+        out = kc.BASE_DIR / "public" / "img" / "gen"
+        out.mkdir(parents=True, exist_ok=True)
+        name = f"vid-{hashlib.sha1(v['id'].encode()).hexdigest()[:10]}.jpg"
+        im.save(out / name, "JPEG", quality=86, optimize=True)
+        who = v.get("author") or "YouTube"
+        return {"url": f"{kc.SITE_URL}/public/img/gen/{name}", "local": str(out / name), "kind": "photo",
+                "alt": v.get("title", "")[:200], "credit": f"A videó előnézeti képe – {who} (YouTube)",
+                "license": "a csatorna tulajdona, a beágyazott videó előnézete", "source_url": v.get("url", ""),
+                "card": "video", "width": im.width, "height": im.height}
+    except Exception as e:  # noqa: BLE001
+        log.warning("Videó-előnézeti kép kimaradt: %s", e)
+        return None
+
+
 def article_from_video(ai: "kc.AIClient", v: dict, tz: ZoneInfo, articles: list, force: bool = False) -> Optional[dict]:
     """force=True: kérésre (Telegramon küldött link) – nem szűr hírértékre, rövidebb videóból is ír."""
     info = watch(ai, v)
@@ -250,9 +294,13 @@ def article_from_video(ai: "kc.AIClient", v: dict, tz: ZoneInfo, articles: list,
             mins = video_minutes(v["id"])
         except Exception:  # noqa: BLE001
             mins = None
-    art.update({"status": "pending", "hold": True,
+    art.update({"status": "pending",
                 "video": {"id": v["id"], "title": v["title"], "channel": v.get("author", ""), "minutes": mins},
                 "hot_score": max(art.get("hot_score") or 0, 5)})
+    cover = video_cover(v)
+    if cover:  # a videó előnézete az első (kiválasztott) kép; a többi jelölt marad választhatónak
+        art["image_options"] = [cover] + [im for im in art.get("image_options") or [] if im.get("url") != cover["url"]][:4]
+        art["hero_image"] = cover
     return art
 
 
@@ -261,7 +309,7 @@ def run(ai: "kc.AIClient", d: date, tz: ZoneInfo, output_dir: Path, dry_run: boo
         return 0
     now = datetime.now(tz)
     st = kc.read_json(STATE_FILE, {"seen": [], "last_check": "", "done": {}})
-    if st.get("last_check") and now - datetime.fromisoformat(st["last_check"]) < timedelta(minutes=int(os.getenv("VIDEO_CHECK_MIN", "60"))):
+    if st.get("last_check") and now - datetime.fromisoformat(st["last_check"]) < timedelta(minutes=int(os.getenv("VIDEO_CHECK_MIN", "15"))):
         return 0
     st["last_check"] = now.isoformat(timespec="seconds")
     today = d.isoformat()
