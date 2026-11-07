@@ -86,6 +86,8 @@ def make_draft(ai: "kc.AIClient", d: date, output_dir: Path, exclude: set = froz
     cands = [a for a in articles if a.get("status") == "published" and a.get("category") in POLL_SECTIONS
              and (a.get("date") or "") >= since and a.get("url") not in used and not a.get("offtopic")]
     cands = sorted(cands, key=lambda a: a.get("hot_score") or 0, reverse=True)[:10]
+    # csak ha van igazán forró téma (szerkesztői kérés, 11.07.): a gyenge napokon nincs szavazás
+    cands = [a for a in cands if float(a.get("hot_score") or 0) >= float(os.getenv("POLL_MIN_HOT", "10"))]
     if not cands:
         return None
     listing = "\n".join(f"{i + 1}. {a['title']} – {a.get('lead', '')[:200]}" for i, a in enumerate(cands))
@@ -167,7 +169,9 @@ def run(ai: "kc.AIClient", d: date, tz: ZoneInfo, output_dir: Path, dry_run: boo
         log.info("Szavazás: tegező szöveg javítva magázóra.")
         kc.write_json_atomic(path, {**data, "polls": polls})
     dr = kc.read_json(DRAFT_FILE, {})
-    if any(p.get("date") == d.isoformat() for p in polls) or dr.get("date") == d.isoformat() or not 10 <= now.hour <= 20:
+    gap = int(os.getenv("POLL_EVERY_DAYS", "2"))  # legfeljebb ennyi naponta egy szavazás
+    recent = (d - timedelta(days=gap - 1)).isoformat()
+    if any((p.get("date") or "") >= recent for p in polls) or (dr.get("date") or "") >= recent or not 10 <= now.hour <= 20:
         return 0
     draft = make_draft(ai, d, output_dir)
     if not draft:
