@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b8971744-f6dc-5b02-a8a9-c682bc6bba10",
+      "slug": "2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo",
+      "url": "/kozelet/2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo/",
+      "title": "Kilőtt kerekekkel, szemben a forgalommal: az M0-son menekült a kötelezős sofőr",
+      "lead": "Elkerültek a felvételek, amelyet forgalommal szemben üldöztek a rendőrök az M0-ás autóúton, miután Dányban nem akart megállni a kötelező biztosítás hiánya miatt. Az eset során a gyanú szerint a jármű kerekeit is kilőtték, de a sofőr végül csak a szalagkorlátnak ütközve tudott megállni.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T07:47:22+01:00",
+      "published_at": "2026-11-07T07:47:22+01:00",
+      "reading_time_min": 1,
+      "hot_score": 6.53,
+      "tags": [
+        "M0-ás",
+        "autósüldözés",
+        "rendőrség",
+        "Dány",
+        "baleset"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Motorway_bridges_over_Aut%C3%B3p%C3%A1lya_M0_at_exit_12._-_Nagyt%C3%A9t%C3%A9ny-Di%C3%B3sd%2C_Budapest.JPG/1280px-Motorway_bridges_over_Aut%C3%B3p%C3%A1lya_M0_at_exit_12._-_Nagyt%C3%A9t%C3%A9ny-Di%C3%B3sd%2C_Budapest.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Bridge between M0 Motorway and M6 Motorway. Nagytétény-Diósd, Hungary. Look toward Nagytétény-Diósd railway station.-  Angeli Street (Route 8102), Nagytétény neighborhood, Budafok-Tétény, Budapest, Hu"
+      }
+    },
+    {
       "id": "3c2dbc31-8c70-52f2-b820-8c12d6936c28",
       "slug": "2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat",
       "url": "/vilag/2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat/",
@@ -4374,37 +4404,7 @@
         "pos": "top",
         "alt": "Seszták Miklós nemzeti fejlesztési miniszter"
       }
-    },
-    {
-      "id": "03f8bb27-be51-5329-89b9-4c4b59938726",
-      "slug": "2026-10-28-ensz-fotitkar-lehessen-orban-viktorbol-a-konfrontzona-vendegei-elemez",
-      "url": "/kozelet/2026-10-28-ensz-fotitkar-lehessen-orban-viktorbol-a-konfrontzona-vendegei-elemez/",
-      "title": "ENSZ-főtitkár lehessen Orbán Viktorból? A Konfrontzóna vendégei elemeztek",
-      "lead": "A hazai közélet aktuális kérdéseit, így Orbán Viktor esetleges nemzetközi megbízatását és a szerbiai választásokat elemezte a Konfrontzóna stábja. A beszélgetés résztvevői a tisztségviselők lépéseit és a hazai politikai erőviszonyok átrendeződését is górcső alá vették.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T16:32:52+01:00",
-      "published_at": "2026-10-28T16:32:52+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Orbán Viktor",
-        "Konfrontzóna",
-        "Magyar Péter",
-        "szerbiai választások",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg/1280px-Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_%2826514585581%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "U.S. Secretary of State John Kerry addresses delegates before he signed the COP21 Climate Change Agreement on Earth Day, April 22, 2016, at the United Nations General Assembly Hall in New York, N.Y. ["
-      }
     }
   ],
-  "updated_at": "2026-11-07T07:46:05+01:00"
+  "updated_at": "2026-11-07T07:47:24+01:00"
 }
