@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9663ede0-a3d3-51d2-b020-c56eae91136b",
+      "slug": "2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas",
+      "url": "/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
+      "title": "Fekete lyuk a BudapestGO-ban: órákra eltűnik a jegyvásárlás",
+      "lead": "Szombat késő estétől vasárnap reggelig karbantartás miatt nem lehet majd jegyet és bérletet vásárolni a BudapestGO alkalmazásban. A Budapesti Közlekedési Központ arra kéri az utasokat, hogy időben gondoskodjanak a jegyek beszerzéséről.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T12:39:12+01:00",
+      "published_at": "2026-11-07T12:39:12+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.77,
+      "tags": [
+        "BudapestGO",
+        "BKK",
+        "tömegközlekedés",
+        "Budapest",
+        "karbantartás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg/1280px-BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "BKK ticket machine, Budapest,"
+      }
+    },
+    {
       "id": "4b09e672-7586-5dcb-abb5-79852a4951f2",
       "slug": "2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd",
       "url": "/vilag/2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd/",
@@ -4371,37 +4401,7 @@
         "pos": "center",
         "alt": "Starlink satellite"
       }
-    },
-    {
-      "id": "eee47049-ff50-554a-99e5-c4c22f453369",
-      "slug": "2026-10-28-valaszra-sem-meltatja-orbant-a-tisza-kormany-a-titkarsaga-miatt",
-      "url": "/kozelet/2026-10-28-valaszra-sem-meltatja-orbant-a-tisza-kormany-a-titkarsaga-miatt/",
-      "title": "Hónapok óta várakozik a volt miniszterelnök a neki járó állami juttatásokra",
-      "lead": "A volt miniszterelnök hivatalos levelekben kereste meg a Tisza-kormány felelős miniszterét a törvényben előírt juttatások miatt, ám eddig nem kapott választ. A titkárság így továbbra is a Fidesz Lendvay utcai központjában működik.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T18:58:55+01:00",
-      "published_at": "2026-10-28T18:58:55+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.65,
-      "tags": [
-        "Orbán Viktor",
-        "Tisza-kormány",
-        "titkárság",
-        "juttatások",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Viktor_Orb%C3%A1n.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1171,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Viktor Orban"
-      }
     }
   ],
-  "updated_at": "2026-11-07T12:38:10+01:00"
+  "updated_at": "2026-11-07T12:39:14+01:00"
 }

@@ -1,7 +1,124 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:38:08+01:00",
+  "updated_at": "2026-11-07T12:39:12+01:00",
   "articles": [
+    {
+      "id": "9663ede0-a3d3-51d2-b020-c56eae91136b",
+      "slug": "2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "BudapestGO",
+        "BKK",
+        "tömegközlekedés",
+        "Budapest",
+        "karbantartás"
+      ],
+      "title": "Fekete lyuk a BudapestGO-ban: órákra eltűnik a jegyvásárlás",
+      "subtitle": null,
+      "lead": "Szombat késő estétől vasárnap reggelig karbantartás miatt nem lehet majd jegyet és bérletet vásárolni a BudapestGO alkalmazásban. A Budapesti Közlekedési Központ arra kéri az utasokat, hogy időben gondoskodjanak a jegyek beszerzéséről.",
+      "key_points": [
+        "November 7-én 23 órától november 8-án reggel 8 óráig szünetel a jegy- és bérletvásárlás.",
+        "A korábban megvett digitális bérletek továbbra is érvényesek és bemutathatók maradnak.",
+        "A leállást egy külső szolgáltató partnernél végzett karbantartás okozza."
+      ],
+      "content": "A Budapesti Közlekedési Központ szombati tájékoztatása alapján november 7-én, szombaton 23 órától november 8-án, vasárnap reggel 8 óráig teljes körűen leáll a jegy- és bérletvásárlás a BudapestGO alkalmazásban. A közel kilencórás kiesés közvetlen oka az applikációt kiszolgáló külső szolgáltató partnernél elvégzendő technikai karbantartás, amelynek ideje alatt a rendszer érintett funkciói teljesen elérhetetlenné válnak a felhasználók számára.\n\nA korlátozás nemcsak az új utazási jogosultságok megvételét gátolja meg, hanem a korábban már beszerezett elektronikus jegyek érvényesítését is felfüggeszti a megjelölt idősávban. Azok az utasok, akik a digitális felületen keresztül szeretnének menetjegyet vagy bérletet váltani, ezen időszak alatt bizonyosan akadályokba ütköznek, így a Budapesti Közlekedési Központ kérése szerint érdemes előre gondoskodni a papíralapú vagy előre megvásárolt termékekről.\n\nA technikai leállás ellenére a rendszer egyes funkciói továbbra is zavartalanul üzemelnek majd a reggeli órákig. A már korábban megvásárolt és érvényes digitális bérlettel rendelkezők zökkenőmentesen be tudják mutatni bérletüket az ellenőröknek, ráadásul az érvényességi adatok is folyamatosan láthatóak maradnak a kijelzőn. Emellett a fővárosi utazások tervezését segítő útvonaltervező sem áll le, így az útvonalak összeállítása a leállás alatt is zavartalanul működik majd.\n\nA fővárosi közlekedési fennakadásokkal párhuzamosan az időjárás terén is rendkívüli események zajlanak az országban, amelyek közvetlenül érintik a mindennapos utazást és a reggeli indulásokat. A HungaroMet tájékoztatása szerint szombat hajnalban ismét megdőlt az idei ősz eddigi hidegrekordja a Nógrád vármegyei Zabaron, ahol fagyos, mínusz 9,3 Celsius-fokot mértek a szakemberek. Pénteken ugyanezen a településen mínusz 8,3 fokig süllyedt a hőmérséklet.\n\nAz ország nagy részén fagypont alá süllyedt a hőmérséklet a hajnali órákban, csupán néhány kisebb térségben maradt a mutató nulla fok felett, miközben a magasabban fekvő vidékeken és a nagyvárosok belső zónáiban valamivel enyhébb reggelre ébredhettek a lakosok. A meteorológiai előrejelzések alapján a vasárnap hajnal még ennél is nagyobb hideget hozhat, hiszen egyes térségekben a mínusz 10 Celsius-fokot is átlépheti lefelé a hőmérséklet.\n\nA fagyos reggelek után szombaton napközben napos, száraz időjárás várható az országban, mindössze kevés fátyolfelhő jelenhet meg az égen, a délutáni órákban pedig 9 és 13 fok között alakul a levegő hőmérséklete. A köd és a párásság feloszlását követően azonban a szálló por, vagyis a PM10 mennyiségének megemelkedése miatt a levegőminőség romlására is számítani lehet, aminek napi átlagkoncentrációja több helyen megközelítheti az egészségügyi határértéket.",
+      "content_format": "markdown",
+      "body": [
+        "A Budapesti Közlekedési Központ szombati tájékoztatása alapján november 7-én, szombaton 23 órától november 8-án, vasárnap reggel 8 óráig teljes körűen leáll a jegy- és bérletvásárlás a BudapestGO alkalmazásban. A közel kilencórás kiesés közvetlen oka az applikációt kiszolgáló külső szolgáltató partnernél elvégzendő technikai karbantartás, amelynek ideje alatt a rendszer érintett funkciói teljesen elérhetetlenné válnak a felhasználók számára.",
+        "A korlátozás nemcsak az új utazási jogosultságok megvételét gátolja meg, hanem a korábban már beszerezett elektronikus jegyek érvényesítését is felfüggeszti a megjelölt idősávban. Azok az utasok, akik a digitális felületen keresztül szeretnének menetjegyet vagy bérletet váltani, ezen időszak alatt bizonyosan akadályokba ütköznek, így a Budapesti Közlekedési Központ kérése szerint érdemes előre gondoskodni a papíralapú vagy előre megvásárolt termékekről.",
+        "A technikai leállás ellenére a rendszer egyes funkciói továbbra is zavartalanul üzemelnek majd a reggeli órákig. A már korábban megvásárolt és érvényes digitális bérlettel rendelkezők zökkenőmentesen be tudják mutatni bérletüket az ellenőröknek, ráadásul az érvényességi adatok is folyamatosan láthatóak maradnak a kijelzőn. Emellett a fővárosi utazások tervezését segítő útvonaltervező sem áll le, így az útvonalak összeállítása a leállás alatt is zavartalanul működik majd.",
+        "A fővárosi közlekedési fennakadásokkal párhuzamosan az időjárás terén is rendkívüli események zajlanak az országban, amelyek közvetlenül érintik a mindennapos utazást és a reggeli indulásokat. A HungaroMet tájékoztatása szerint szombat hajnalban ismét megdőlt az idei ősz eddigi hidegrekordja a Nógrád vármegyei Zabaron, ahol fagyos, mínusz 9,3 Celsius-fokot mértek a szakemberek. Pénteken ugyanezen a településen mínusz 8,3 fokig süllyedt a hőmérséklet.",
+        "Az ország nagy részén fagypont alá süllyedt a hőmérséklet a hajnali órákban, csupán néhány kisebb térségben maradt a mutató nulla fok felett, miközben a magasabban fekvő vidékeken és a nagyvárosok belső zónáiban valamivel enyhébb reggelre ébredhettek a lakosok. A meteorológiai előrejelzések alapján a vasárnap hajnal még ennél is nagyobb hideget hozhat, hiszen egyes térségekben a mínusz 10 Celsius-fokot is átlépheti lefelé a hőmérséklet.",
+        "A fagyos reggelek után szombaton napközben napos, száraz időjárás várható az országban, mindössze kevés fátyolfelhő jelenhet meg az égen, a délutáni órákban pedig 9 és 13 fok között alakul a levegő hőmérséklete. A köd és a párásság feloszlását követően azonban a szálló por, vagyis a PM10 mennyiségének megemelkedése miatt a levegőminőség romlására is számítani lehet, aminek napi átlagkoncentrációja több helyen megközelítheti az egészségügyi határértéket."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 400,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg/1280px-BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "BKK ticket machine, Budapest,",
+        "credit": "Ronolator / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:BKK_Jegyautomata,_Budapest,_V%C3%A1rnegyed.jpg",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/11/07/vigyazzon-fontos-funkciok-tunnek-el-a-budapestgo-bol-hosszu-orakra",
+          "title": "Vigyázzon, fontos funkciók tűnnek el a BudapestGO-ból hosszú órákra",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T12:38:19+01:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/11/07/budapestgo-leallas-jegy-berlet-vasarlas-alkalmazas-bkk/",
+          "title": "Karbantartás jön a BudapestGO-ban, több funkció elérhetetlen lesz",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T12:38:19+01:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/11/07/idojaras-meteorologia-elorejelzes-hungaromet-hidegrekord-fagy-zabar/",
+          "title": "Szombaton is megdőlt a hidegrekord, de a vasárnap még erre is rátehet egy lapáttal",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-07T12:38:19+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-07T12:39:12+01:00"
+      },
+      "hot_score": 8.77,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/11/07/vigyazzon-fontos-funkciok-tunnek-el-a-budapestgo-bol-hosszu-orakra",
+          "https://index.hu/belfold/2026/11/07/budapestgo-leallas-jegy-berlet-vasarlas-alkalmazas-bkk/"
+        ]
+      },
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "url": "/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
+      "seo": {
+        "meta_title": "Fekete lyuk a BudapestGO-ban: órákra eltűnik a jegyvásárlás",
+        "meta_description": "Szombat késő estétől vasárnap reggelig karbantartás miatt nem lehet majd jegyet és bérletet vásárolni a BudapestGO alkalmazásban. A Budapesti Közlekedési Közpon",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg/1280px-BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "d83f598ed5e56af90f7c7cf50df61155aab639567cfce796cb8f84ebd32e8313",
+      "pipeline_run_id": "42367035879",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-07T12:39:12+01:00",
+      "updated_at": "2026-11-07T12:39:12+01:00",
+      "published_at": "2026-11-07T12:39:12+01:00",
+      "expires_at": null
+    },
     {
       "id": "4b09e672-7586-5dcb-abb5-79852a4951f2",
       "slug": "2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd",
@@ -72535,113 +72652,6 @@
       "created_at": "2026-10-11T08:07:30+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-11T08:07:30+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "af2634b0-0d1d-5391-866d-941339e72b81",
-      "slug": "2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Lengyelország",
-        "iskolai erőszak",
-        "biztonság",
-        "Varsó"
-      ],
-      "title": "Három nap alatt három támadás: iskolai erőszak rázta meg Lengyelországot",
-      "subtitle": null,
-      "lead": "Szombaton egy varsói felsőoktatási intézményben egy 21 éves nő sebesített meg három embert; ez már a harmadik iskolai támadás volt Lengyelországban egy héten belül. Az események hatására a hatóságok országszerte tízezerszámra ellenőrzik az oktatási intézményeket.",
-      "key_points": [
-        "Szombaton egy varsói felsőoktatási intézményben egy 21 éves nő sebesített meg három embert egy veszélyes tárggyal.",
-        "A héten korábban egy ostrolekai szakközépiskolában és egy wyszkówi általános iskolában is súlyos incidensek történtek.",
-        "A hatóságok szerte az országban közel ötvenezer oktatási intézményt ellenőrzik, és 76 embert vettek őrizetbe."
-      ],
-      "content": "Újabb erőszakos cselekmény rázta meg a lengyel oktatási rendszert, amikor szombaton egy varsói felsőoktatási intézmény hivatali helyiségében egy 21 éves nő három embert sebesített meg. A hírforrások szerint a támadó nem ismerte az áldozatait, akik iratokat adtak le az irodában, amikor a veszélyes tárgyat használó nő rájuk támadt. Az eset során egy fiatal sérültet vágott sebekkel a karján kórházba szállítottak, míg két másik áldozatot a helyszínen láttak el, mielőtt az intézmény egyik munkatársa közbelépett volna.\n\nEz az eset alig néhány napon belül a harmadik súlyos iskolai erőszakos cselekmény volt az országban, ami váratlanul érte a közvéleményt, mivel az ehhez hasonló erőszak eddig ritka jelenségnek számított Lengyelországban. Szerdán a Mazóviai vajdaságban fekvő Ostroleka szakközépiskolájában történt késelés, amelyben tíz ember sérült meg, köztük az elkövető, egy 19 éves diák. Ezt követte csütörtökön egy másik mazóviai város, Wyszków általános iskolájának tragédiája, ahol egy 15 éves tanuló három embert késelt meg, és a támadás következtében az iskola 37 éves gondnoka meghalt.\n\nA hatóságok rendkívüli intézkedésekbe kezdtek az elmúlt napok történései nyomán: szombatig szerte az országban már csaknem ötvenezer oktatási intézményben tartottak ellenőrzést, és összesen 76 embert vettek őrizetbe. Pénteki közlések szerint számos kiskorút internetes fenyegetések gyanúsítottjaként kerítettek kézre, mivel a közösségi médiában gyilkossággal fenyegetőző felvételeket tettek közzé. A fokozódó feszültség miatt több általános és középiskola vezetése tanítási szünetet rendelt el, és számos szülő is úgy határozott, hogy átmenetileg otthon tartja a gyermekét.\n\nA magyar olvasók számára mindez rávilágít arra, hogy a digitális térből fakadó feszültségek és a fiatalkori agresszió milyen gyorsan csaphat át fizikai veszélybe a szomszédos európai országok közösségeiben is. Bár a hatóságok hangsúlyozták, hogy nincs bizonyíték a támadások közötti összehangoltságra, a kialakult helyzet azonnali biztonsági és megelőzési reformokat kényszerít ki az oktatási intézményekben.",
-      "content_format": "markdown",
-      "body": [
-        "Újabb erőszakos cselekmény rázta meg a lengyel oktatási rendszert, amikor szombaton egy varsói felsőoktatási intézmény hivatali helyiségében egy 21 éves nő három embert sebesített meg. A hírforrások szerint a támadó nem ismerte az áldozatait, akik iratokat adtak le az irodában, amikor a veszélyes tárgyat használó nő rájuk támadt. Az eset során egy fiatal sérültet vágott sebekkel a karján kórházba szállítottak, míg két másik áldozatot a helyszínen láttak el, mielőtt az intézmény egyik munkatársa közbelépett volna.",
-        "Ez az eset alig néhány napon belül a harmadik súlyos iskolai erőszakos cselekmény volt az országban, ami váratlanul érte a közvéleményt, mivel az ehhez hasonló erőszak eddig ritka jelenségnek számított Lengyelországban. Szerdán a Mazóviai vajdaságban fekvő Ostroleka szakközépiskolájában történt késelés, amelyben tíz ember sérült meg, köztük az elkövető, egy 19 éves diák. Ezt követte csütörtökön egy másik mazóviai város, Wyszków általános iskolájának tragédiája, ahol egy 15 éves tanuló három embert késelt meg, és a támadás következtében az iskola 37 éves gondnoka meghalt.",
-        "A hatóságok rendkívüli intézkedésekbe kezdtek az elmúlt napok történései nyomán: szombatig szerte az országban már csaknem ötvenezer oktatási intézményben tartottak ellenőrzést, és összesen 76 embert vettek őrizetbe. Pénteki közlések szerint számos kiskorút internetes fenyegetések gyanúsítottjaként kerítettek kézre, mivel a közösségi médiában gyilkossággal fenyegetőző felvételeket tettek közzé. A fokozódó feszültség miatt több általános és középiskola vezetése tanítási szünetet rendelt el, és számos szülő is úgy határozott, hogy átmenetileg otthon tartja a gyermekét.",
-        "A magyar olvasók számára mindez rávilágít arra, hogy a digitális térből fakadó feszültségek és a fiatalkori agresszió milyen gyorsan csaphat át fizikai veszélybe a szomszédos európai országok közösségeiben is. Bár a hatóságok hangsúlyozták, hogy nincs bizonyíték a támadások közötti összehangoltságra, a kialakult helyzet azonnali biztonsági és megelőzési reformokat kényszerít ki az oktatási intézményekben."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 320,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Warsaw_University_%2822233%29.jpg/1280px-Warsaw_University_%2822233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 814,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "University of Warsaw",
-        "credit": "Rhododendrites / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Warsaw_University_(22233).jpg",
-        "vision_score": 6.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/vilag/20261010_lengyelorszag-varso-iskolai-tamadas",
-          "title": "Újabb iskolai támadás történt Lengyelországban, egy héten belül már a harmadik",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T19:41:05+02:00"
-        },
-        {
-          "url": "https://telex.hu/kulfold/2026/10/10/ujabb-tamadas-tortent-egy-lengyelorszagi-iskolaban",
-          "title": "Újabb támadás történt egy lengyelországi iskolában",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-10T19:41:05+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-10T21:41:00+02:00"
-      },
-      "hot_score": 9.2,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/vilag/20261010_lengyelorszag-varso-iskolai-tamadas",
-          "https://telex.hu/kulfold/2026/10/10/ujabb-tamadas-tortent-egy-lengyelorszagi-iskolaban"
-        ]
-      },
-      "date": "2026-10-10",
-      "date_label": "október 10.",
-      "url": "/vilag/2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag/",
-      "seo": {
-        "meta_title": "Három nap alatt három támadás: iskolai erőszak rázta meg Len",
-        "meta_description": "Szombaton egy varsói felsőoktatási intézményben egy 21 éves nő sebesített meg három embert; ez már a harmadik iskolai támadás volt Lengyelországban egy héten be",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-10-harom-nap-alatt-harom-tamadas-iskolai-eroszak-razta-meg-lengyelorszag/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Warsaw_University_%2822233%29.jpg/1280px-Warsaw_University_%2822233%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "919627639df3671634e8f7ac1e5d8e43701eba02d5cd0d1c91c6fa3088d44221",
-      "pipeline_run_id": "38072250939",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-10T21:41:00+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-10T21:41:00+02:00",
       "expires_at": null
     }
   ]
