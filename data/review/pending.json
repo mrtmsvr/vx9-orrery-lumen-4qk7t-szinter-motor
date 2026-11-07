@@ -8547,8 +8547,11 @@
         "lead": "Szeptember közepe óta több százezer tüntető lepte el a francia utcákat, miután a középiskolák állapota miatt indult tiltakozás egész országot bénító megélhetési sztrájkhullámmá csapott át. A diákok nemcsak jobb oktatási feltételeket követelnek, hanem a mélyülő társadalmi elégedetlenség közepette a kormány leváltását is sürgetik.",
         "ctl_photo": true,
         "control_id": 9971,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 10:59 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-07T10:59:59+01:00"
     },
     {
       "id": "bb48b841-9453-5a8b-9108-8e4a35eda061",
