@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6f491e04-9fce-566d-96aa-247a0974a481",
+      "slug": "2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b",
+      "url": "/vilag/2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b/",
+      "title": "Fegyverekkel a csomagtartóban akarta végezni Trumppal egy illegális bevándorló",
+      "lead": "Őrizetbe vettek egy venezuelai állampolgárt a Fehér Ház környékén, aki a hatóságok szerint fegyverekkel felszerelkezve indult el, hogy végezzen Donald Trump amerikai elnökkel. Az eset ismét rávilágít az amerikai elnököt fenyegető biztonsági kockázatokra.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T18:45:38+01:00",
+      "published_at": "2026-11-07T18:45:38+01:00",
+      "reading_time_min": 3,
+      "hot_score": 9.75,
+      "tags": [
+        "Donald Trump",
+        "Fehér Ház",
+        "Egyesült Államok",
+        "biztonság",
+        "merényletkísérlet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/USSS_New_Star.svg/1280px-USSS_New_Star.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1451,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Emblem of the United States Secret Service."
+      }
+    },
+    {
       "id": "48366d04-c384-56a0-b0dd-172295197175",
       "slug": "2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan",
       "url": "/kozelet/2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan/",
@@ -4370,38 +4400,7 @@
         "pos": "center",
         "alt": "Sunset on the beach in Kuta, Bali, Indonesia"
       }
-    },
-    {
-      "id": "da25dce5-4a9d-533d-b3a5-ae5232158b7d",
-      "slug": "2026-10-29-a-kulisszak-mogott-dol-el-az-ensz-fotitkar-szemelye",
-      "url": "/kozelet/2026-10-29-a-kulisszak-mogott-dol-el-az-ensz-fotitkar-szemelye/",
-      "title": "A kulisszák mögött dől el az ENSZ-főtitkár személye",
-      "lead": "Az Egyesült Nemzetek Szervezetének élére kerülni nem csupán a szakmai felkészültségről szól, hanem a nagyhatalmi érdekek és a titkos diplomáciai alkuk bonyolult hálójáról. A világszervezet legfőbb adminisztratív tisztségének betöltését szigorú szabályok és a Biztonsági Tanács állandó tagjainak vétójoga határozza meg.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T14:03:51+01:00",
-      "published_at": "2026-10-29T14:03:51+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "ENSZ",
-        "diplomácia",
-        "Biztonsági Tanács",
-        "közélet",
-        "geopolitika"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1596,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Secretary Antony J. Blinken meets with UN Secretary-General Antonio Guterres at the Department of State in Washington, D.C., June 4, 2024. (Official State Department photo by Chuck Kennedy)"
-      }
     }
   ],
-  "updated_at": "2026-11-07T17:55:02+01:00"
+  "updated_at": "2026-11-07T18:45:40+01:00"
 }
