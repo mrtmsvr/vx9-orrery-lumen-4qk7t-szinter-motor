@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3b85eac1-b681-5a91-8318-eb1afe1fae0c",
+      "slug": "2026-11-07-egymilliard-forint-ment-el-az-erzsebet-taborok-nepszerusitesere-egy-h",
+      "url": "/kozelet/2026-11-07-egymilliard-forint-ment-el-az-erzsebet-taborok-nepszerusitesere-egy-h/",
+      "title": "Egymilliárd forint ment el az Erzsébet-táborok népszerűsítésére egy hónap alatt",
+      "lead": "Hűtlen kezelés gyanúja miatt tett feljelentést Kátai-Németh Vilmos szociális- és családügyi miniszter, miután a gyanú szerint a kormány alig több mint egy hónap alatt több mint egymilliárd forintot költött az Erzsébet-táborok reklámozására közvetlenül az áprilisi választások előtt. A tárcavezető szerint a hatalmas összegű hirdetési kampányt semmilyen szakmai indok vagy hatástanulmány nem támasztotta alá.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T17:53:48+01:00",
+      "published_at": "2026-11-07T17:53:48+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Erzsébet-tábor",
+        "Kátai-Németh Vilmos",
+        "hűtlen kezelés",
+        "feljelentés",
+        "közpénz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Zsofia_Koncz_demography_19-11-2024.jpg/1280px-Zsofia_Koncz_demography_19-11-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Informal meeting of ministers Responsible for Demography, Press Conference"
+      }
+    },
+    {
       "id": "d6f73d06-5e5a-5786-b74d-88bff7776013",
       "slug": "2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak",
       "url": "/vilag/2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak/",
@@ -4371,37 +4401,7 @@
         "pos": "center",
         "alt": "New National Library of Israel Complex. in the background the Knesset building and Wohl rose park, December 2023"
       }
-    },
-    {
-      "id": "8eac7761-3950-5166-8a16-e349075dde5c",
-      "slug": "2026-10-28-nyolc-miniszterrel-robbant-be-pragaba-magyar-peter-jon-az-egyiptomi-e",
-      "url": "/kozelet/2026-10-28-nyolc-miniszterrel-robbant-be-pragaba-magyar-peter-jon-az-egyiptomi-e/",
-      "title": "Nyolc miniszterrel robbant be Prágába Magyar Péter, jön az egyiptomi elnök",
-      "lead": "Csütörtökön nyolc miniszter kíséretében Prágába utazik Magyar Péter az első hivatalos cseh–magyar kormányülésre. A megbeszélések után a miniszterelnök hazatér, pénteken pedig Budapesten fogadja Egyiptom elnökét.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T21:37:46+01:00",
-      "published_at": "2026-10-28T21:37:46+01:00",
-      "reading_time_min": 1,
-      "hot_score": 10.4,
-      "tags": [
-        "Magyar Péter",
-        "Prága",
-        "Csehország",
-        "kormányülés",
-        "diplomácia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Castillo_de_Praga%2C_Praga%2C_Rep%C3%BAblica_Checa%2C_2022-07-02%2C_DD_209.jpg/1280px-Castillo_de_Praga%2C_Praga%2C_Rep%C3%BAblica_Checa%2C_2022-07-02%2C_DD_209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Prague Castle, Prague, Czech Republic"
-      }
     }
   ],
-  "updated_at": "2026-11-07T16:44:26+01:00"
+  "updated_at": "2026-11-07T17:53:50+01:00"
 }
