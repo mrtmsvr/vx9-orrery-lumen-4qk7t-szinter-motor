@@ -2402,7 +2402,9 @@ def render_article_page(a: dict, related: Optional[list] = None) -> str:
     img = a.get("hero_image") or None
     # a címes borító (rovat + cím a navy háttéren) a cikk tetején csak a címet ismételné – ott nem mutatjuk, megosztáskor
     # (og:image) és a listákban marad
-    figure = _figure(img, a["title"], eager=True) if img and img.get("url") and not img.get("cover") else ""
+    # a címes borító és a videó-előnézet (lejátszógombos kép) a cikk tetején nem kell: ott a cím, ill. maga a videó
+    figure = (_figure(img, a["title"], eager=True) if img and img.get("url") and not img.get("cover")
+              and img.get("card") != "video" else "")
     published = (a.get("published_at") or a.get("created_at") or a["date"])[:10]
     v = a.get("video") if isinstance(a.get("video"), dict) else None
     video = (f'<div class="vid"><iframe src="https://www.youtube-nocookie.com/embed/{E(v["id"])}" title="{E(v.get("title") or "Videó")}" '
@@ -3479,6 +3481,11 @@ SECTION_SYSTEM = (
     "számot, idézetet, nevet vagy dátumot. TISZTSÉGEK: egy személy tisztségét (pl. kancellár, miniszter, elnök) mindig "
     "a forrás szerint írd, ne a saját (esetleg elavult) tudásod szerint – ha a forrás „kancellárt” ír, nem lehet "
     "„kancellárjelölt”. Pártpolitikai állást nem foglalsz. "
+    "HANG: okos, magabiztos, kicsit szemtelen magyar online lap – a tényekhez kötött, száraz irónia belefér (egy-egy "
+    "csípős megjegyzés egy ellentmondásra, abszurditásra, ígéret és valóság különbségére), de soha nem gúnyolódás "
+    "emberek baján, és nem pártos véleményezés; tragédiánál, bűnügynél, halálesetnél komoly hang. "
+    "PONTOSSÁG: minden állítás mögött legyen forrásmondat; ha valami a forrásból nem derül ki, ne írd le – inkább "
+    "legyen rövidebb a cikk. Ne általánosíts („sokan”, „egyre többen”) szám nélkül. "
     "STÍLUS: természetes, gördülékeny, újságírói magyar nyelv; változatos mondathossz; nincs töltelékszöveg, "
     "nincs ismétlődő szó vagy fordulat egymás közelében, nincsenek tükörfordítások és erőltetett szókapcsolatok "
     "(pl. „ez rávilágít arra”, „nem csupán… hanem”, „fontos megjegyezni”, „összességében”). Az első mondat "
