@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4b09e672-7586-5dcb-abb5-79852a4951f2",
+      "slug": "2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd",
+      "url": "/vilag/2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd/",
+      "title": "Paprikaspray-vel és letartóztatásokkal ért véget a Microsoft amszterdami adatközpontjának ostroma",
+      "lead": "Több száz tüntető hatolt be pénteken Amszterdamban arra az építési területre, ahol a Microsoft új adatközpontját tervezik megépíteni. A demonstráció során a rendőrség paprikaspray-t vetett be, és a gyanú szerint több aktivistát őrizetbe vett.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T12:38:08+01:00",
+      "published_at": "2026-11-07T12:38:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.18,
+      "tags": [
+        "Microsoft",
+        "Amszterdam",
+        "tüntetés",
+        "adatközpont",
+        "mesterséges intelligencia"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/1280px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The west campus of Microsoft, Redmond, Washington, taken from about 1,500'.  The photo is looking south-east.  The west campus is bounded on the west by 148th Ave, on the east by SR 520, and on the no"
+      }
+    },
+    {
       "id": "39f3ffe5-9ef9-5265-a9d2-1f10678622f4",
       "slug": "2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely",
       "url": "/kozelet/2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely/",
@@ -4371,37 +4401,7 @@
         "pos": "top",
         "alt": "Viktor Orban"
       }
-    },
-    {
-      "id": "747aef19-c00d-5369-b725-5177522e6f9e",
-      "slug": "2026-10-28-olasz-utlevellel-es-magangeppel-menekult-floridaba-flavio-bolsonaro",
-      "url": "/vilag/2026-10-28-olasz-utlevellel-es-magangeppel-menekult-floridaba-flavio-bolsonaro/",
-      "title": "Olasz útlevéllel és magángéppel menekült Floridába Flávio Bolsonaro",
-      "lead": "Szerdán landolt a floridai Miamiban a brazil elnökválasztáson alulmaradt Flávio Bolsonaro, miután a gyanú szerint Donald Trump jóváhagyásával vízumot kapott az Egyesült Államokba. A korrupcióval megvádolt politikus érvénytelenített iratai ellenére olasz állampolgárságával hagyhatta el hazáját.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T18:55:13+01:00",
-      "published_at": "2026-10-28T18:55:13+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Flávio Bolsonaro",
-        "Brazília",
-        "Egyesült Államok",
-        "Donald Trump",
-        "Miami"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Entrevistas_-_Senador_Fl%C3%A1vio_Bolsonaro_%28Republicanos-RJ%29_e_advogado_Frederick_Wassef.jpg/1280px-Entrevistas_-_Senador_Fl%C3%A1vio_Bolsonaro_%28Republicanos-RJ%29_e_advogado_Frederick_Wassef.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Senador Flávio Bolsonaro (Republicanos-RJ) e seu advogado, Frederick Wassef, concedem entrevista  coletiva à imprensa. Na ocasião, o advogado do senador informa sobre a decisão da Segunda Turma do Sup"
-      }
     }
   ],
-  "updated_at": "2026-11-07T12:09:27+01:00"
+  "updated_at": "2026-11-07T12:38:10+01:00"
 }
