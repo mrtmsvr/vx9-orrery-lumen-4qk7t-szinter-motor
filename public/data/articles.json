@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T10:40:45+01:00",
+  "updated_at": "2026-11-07T10:41:02+01:00",
   "articles": [
     {
       "id": "b8846f1f-a046-50b5-bb30-dee4d9cf56ca",
@@ -367,16 +367,15 @@
       "word_count": 226,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-e7dda775ff.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/map-e7dda775ff.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1794033942-0.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1794033942-0.jpg",
         "kind": "photo",
-        "alt": "Térkép: Magdeburg",
-        "credit": "Térkép: © OpenStreetMap közreműködők",
-        "license": "ODbL",
-        "source_url": "https://www.openstreetmap.org/copyright",
-        "generated": true,
-        "card": "map",
-        "zoom": 11
+        "alt": "Két ember életét követelte a Magdeburg melletti tragédia",
+        "likeness": false,
+        "credit": "Kollektíva illusztráció",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true
       },
       "inline_images": [],
       "sources": [
@@ -427,7 +426,7 @@
         "meta_title": "Halálos légibaleset bénította meg az A2-es autópályát",
         "meta_description": "Péntek délután Magdeburg térségében lezuhant egy kisrepülőgép, amely az A2-es autópályára csapódott. A balesetben a fedélzeten tartózkodó két ember életét veszt",
         "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-07-halalos-legibaleset-benitotta-meg-az-a2-es-autopalyat/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/map-e7dda775ff.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1794033942-0.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -445,7 +444,7 @@
       "pipeline_run_id": "42346548490",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-07T07:46:03+01:00",
-      "updated_at": "2026-11-07T07:46:03+01:00",
+      "updated_at": "2026-11-07T10:41:02+01:00",
       "published_at": "2026-11-07T07:46:03+01:00",
       "expires_at": null
     },

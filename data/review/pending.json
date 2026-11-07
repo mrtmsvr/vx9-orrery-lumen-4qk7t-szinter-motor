@@ -9082,7 +9082,9 @@
         "ctl_photo": false,
         "control_id": 9975,
         "msg_ids": [],
-        "note": "🔥 Forró hír (forróság 11.76): azonnal kiraktam."
+        "note": "🔥 Forró hír (forróság 11.76): azonnal kiraktam.",
+        "title_prompt_id": null,
+        "compact": "✅ Kint"
       },
       "live": true
     },
@@ -9266,7 +9268,7 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 1,
         "sent_at": "2026-11-07T06:45:59+00:00",
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 11.08 · 3 forrás\n\n1) Halálos légibaleset bénította meg az A2-es autópályát\n2) Két ember életét követelte a Magdeburg melletti tragédia\n🔥 3) Lángoló kisrepülő csapódott be az egyik legforgalmasabb német autópályára\n🔥 4) Teljesen kiégett a Magdeburgnál lezuhant kisrepülőgép\n🔥 5) Több órára lezárták a Berlin felé vezető legfontosabb sztrádát egy zuhanás után\n\n<b>Források:</b> 444.hu, hvg.hu, infostart.hu\n\n⚖️ Jogi ellenőrzés: 🟡 nézd át",
         "lead": "Péntek délután Magdeburg térségében lezuhant egy kisrepülőgép, amely az A2-es autópályára csapódott. A balesetben a fedélzeten tartózkodó két ember életét vesztette.",
