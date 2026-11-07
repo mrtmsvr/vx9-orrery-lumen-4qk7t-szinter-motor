@@ -9856,8 +9856,11 @@
         "lead": "Egyedi terepgyakorlat keretében a barlangi mentők és az Aggteleki Nemzeti Park szakemberei ereszkedtek le az Esztramos-hegy gyomrába, hogy megvizsgálják a föld alatti környezetet és a különleges élővilágot.",
         "ctl_photo": true,
         "control_id": 9985,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "title_prompt_id": null,
+        "compact": "🕒 Kint lesz 11:19 (✏️ → ✅ = azonnal)"
+      },
+      "scheduled_at": "2026-11-07T11:19:59+01:00"
     }
   ]
 }
