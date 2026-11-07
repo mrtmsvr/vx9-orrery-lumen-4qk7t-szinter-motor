@@ -47,7 +47,8 @@ jobs:
       ARTICLES_PER_SLOT: "3"
       MAX_PER_SECTION_RUN: "2"
       # jóváhagyás nélkül kikerülő rovatok (jogi 🔴 esetén ezek is várnak); bulvár naponta max. 1, NASA/űr hetente max. 2
-      AUTO_SECTIONS: "kozelet,eletmod,bulvar"
+      AUTO_SECTIONS: "kozelet,vilag,penzvilag,tech,eletmod,kultura,bulvar"
+      QUIZ_ENABLED: "false"
       DAILY_MAX_BULVAR: "5"
       WEEKLY_MAX_SPACE: "2"
       PITCHES_PER_SLOT: "0"
