@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Automatikus hívásokkal toboroznak az állami ünnepségre Magyar Péter hangján",
-      "instead_of": "Magyar Péter hangjával hívják az embereket a Kossuth téri ünnepségre",
-      "custom": false,
-      "t": "2026-10-23T09:22:56+00:00"
-    },
-    {
       "chosen": "A szabadság hőseire emlékezett Párizsban a külügyminisztérium államtitkára",
       "instead_of": "Párizsi megemlékezéssel tisztelegtünk az 1956-os hősök előtt",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Magyar Péter az ügynökakták nyilvánosságra hozatalát követeli",
       "custom": false,
       "t": "2026-11-04T09:33:32+00:00"
+    },
+    {
+      "chosen": "A választási kudarc után Stephen Miller lesz Donald Trump kabinetfőnöke",
+      "instead_of": "Választási pofon után: Stephen Miller veszi át Trump kabinetjének irányítását",
+      "custom": false,
+      "t": "2026-11-07T09:40:44+00:00"
     }
   ]
 }
