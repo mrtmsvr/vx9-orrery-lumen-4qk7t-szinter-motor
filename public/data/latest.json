@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "01970699-9238-50d9-b666-15418771ce04",
+      "slug": "2026-11-07-retvari-bencetol-vett-el-ket-fontos-unios-poziciot-magyar-peter",
+      "url": "/kozelet/2026-11-07-retvari-bencetol-vett-el-ket-fontos-unios-poziciot-magyar-peter/",
+      "title": "Rétvári Bencétől vett el két fontos uniós pozíciót Magyar Péter",
+      "lead": "Magyar Péter miniszterelnök november 6-i hatállyal felmentette Rétvári Bencét az Emberi Erőforrás Fejlesztési Operatív Program monitoring bizottságainak elnöki tisztségéből. A KDNP-s politikus helyét november 7-i hatállyal Kókayné Lányi Marietta veszi át.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-07",
+      "date_label": "november 7.",
+      "created_at": "2026-11-07T12:40:45+01:00",
+      "published_at": "2026-11-07T12:40:45+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.17,
+      "tags": [
+        "Rétvári Bence",
+        "Magyar Péter",
+        "EFOP",
+        "monitoring bizottság",
+        "Magyar Közlöny"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/R%C3%A9tv%C3%A1ri_Bence.jpg/1280px-R%C3%A9tv%C3%A1ri_Bence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 2516,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Áron MÁTHÉ"
+      }
+    },
+    {
       "id": "9663ede0-a3d3-51d2-b020-c56eae91136b",
       "slug": "2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas",
       "url": "/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
@@ -4371,37 +4401,7 @@
         "pos": "center",
         "alt": "Imagen del Tren Guerrero"
       }
-    },
-    {
-      "id": "66fee633-2ba8-55ed-b55b-7d3ebee528bc",
-      "slug": "2026-10-28-moszkva-washington-es-belgrad-jatszmai-hatarozzak-meg-a-globalis-bizt",
-      "url": "/vilag/2026-10-28-moszkva-washington-es-belgrad-jatszmai-hatarozzak-meg-a-globalis-bizt/",
-      "title": "Moszkva, Washington és Belgrád játszmái határozzák meg a globális biztonságot",
-      "lead": "A nemzetközi politika elmúlt hónadbeli eseményei és a közelgő külföldi választások alapvetően rajzolhatják át az ukrajnai háború támogatási struktúráját. A globális biztonság törékenységét a szerbiai erőviszonyok alakulása, valamint az amerikai kampányretorika is érezhetően fokozza.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T19:17:09+01:00",
-      "published_at": "2026-10-28T19:17:09+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "külpolitika",
-        "Ukrajna",
-        "Szerbia",
-        "Egyesült Államok",
-        "Oroszország"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Starlink_01.webp/1280px-Starlink_01.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 600,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Starlink satellite"
-      }
     }
   ],
-  "updated_at": "2026-11-07T12:39:14+01:00"
+  "updated_at": "2026-11-07T12:40:47+01:00"
 }
