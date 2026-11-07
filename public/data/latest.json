@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "02125bb0-d9bd-5df9-a6c8-6f6dac8b35f3",
+      "slug": "2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran",
+      "url": "/vilag/2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran/",
+      "title": "Országos bénultság: diákprotestálásból lett rendszerszintű krízis Franciaországban",
+      "lead": "Szeptember közepe óta több százezer tüntető lepte el a francia utcákat, miután a középiskolák állapota miatt indult tiltakozás egész országot bénító megélhetési sztrájkhullámmá csapott át. A diákok nemcsak jobb oktatási feltételeket követelnek, hanem a mélyülő társadalmi elégedetlenség közepette a kormány leváltását is sürgetik.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-07T11:00:04+01:00",
+      "published_at": "2026-11-07T11:00:04+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Franciaország",
+        "tüntetés",
+        "megélhetési válság",
+        "oktatás",
+        "Párizs"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/M%C3%A9lanie_Luce_%C3%A0_une_manifestation_au_Crous_de_Paris_le_20_septembre_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1282,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Mélanie Luce, president of the National Union of Students of France (UNEF), at a demonstration in front of the Regional Center for Social Works in Universities (CROUS) of Paris, January 20th, 2021.\nDe"
+      }
+    },
+    {
       "id": "b8846f1f-a046-50b5-bb30-dee4d9cf56ca",
       "slug": "2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu",
       "url": "/vilag/2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu/",
@@ -4369,35 +4399,7 @@
         "alt": "635 baleset – ennyi személyi sérüléses rolleres baleset történt",
         "card": "num"
       }
-    },
-    {
-      "id": "13f91d86-f3d8-5d89-9838-0eb04798ee45",
-      "slug": "2026-10-28-magyar-aktivistak-mentek-at-szerbiaba-megallitani-a-szavazatvasarlast",
-      "url": "/vilag/2026-10-28-magyar-aktivistak-mentek-at-szerbiaba-megallitani-a-szavazatvasarlast/",
-      "title": "Magyar aktivisták mentek át Szerbiába megállítani a szavazatvásárlást",
-      "lead": "A szerb előrehozott választások napján kilencvenfős magyarországi és vajdasági csapat avatkozott közbe a tapasztalt visszaélések miatt. A DE! Akcióközösség első alkalommal vett részt nemzetközi terepmunkában a régióban.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-28",
-      "date_label": "október 28.",
-      "created_at": "2026-10-28T18:22:55+01:00",
-      "published_at": "2026-10-28T18:22:55+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Szerbia",
-        "választás",
-        "DE! Akcióközösség",
-        "civil szervezetek",
-        "Telex"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-5875181ee9.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Szerbia",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-07T10:41:29+01:00"
+  "updated_at": "2026-11-07T11:00:05+01:00"
 }
