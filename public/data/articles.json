@@ -37,16 +37,17 @@
       "word_count": 423,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Budapest_ministry_of_education.JPG/1280px-Budapest_ministry_of_education.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg/1280px-1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 900,
+        "height": 880,
         "kind": "photo",
         "pos": "center",
-        "alt": "",
-        "credit": "ismeretlen szerző / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_ministry_of_education.JPG",
-        "vision_score": 5.0
+        "alt": "The Black Stain; Alsace–Lorraine illustrated as a black patch (metaphorically, a \"black stain\") in 1887, during the period of its occupation by the German Empire since 1871.",
+        "credit": "Albert Bettannier / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg",
+        "exact": true,
+        "entity": "oktatás"
       },
       "inline_images": [],
       "sources": [
@@ -126,7 +127,7 @@
       "pipeline_run_id": "42511969268",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-08T20:17:48+01:00",
-      "updated_at": "2026-11-08T20:17:48+01:00",
+      "updated_at": "2026-11-08T19:27:01+00:00",
       "published_at": "2026-11-08T20:17:48+01:00",
       "expires_at": null
     },
