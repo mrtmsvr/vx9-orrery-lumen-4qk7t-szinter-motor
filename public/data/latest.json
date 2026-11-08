@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "480b33b9-3c14-5dea-b008-ba7622c8c052",
+      "slug": "2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon",
+      "url": "/vilag/2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon/",
+      "title": "Európa nem hagyja magát: ott lesznek az abu-dzabi tárgyalásokon",
+      "lead": "Franciaország és más európai országok képviselői is ott lesznek a november 10–11-én Abu-Dzabiban tartandó orosz–ukrán béketárgyalásokon – erősítette meg Jean-Noël Barrot francia külügyminiszter. A korábbi tervek szerint az amerikai közvetítéssel zajló egyeztetésekről az európaiakat teljesen kizárták volna.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T19:00:20+01:00",
+      "published_at": "2026-11-08T19:00:20+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.35,
+      "tags": [
+        "béketárgyalás",
+        "Abu-Dzabi",
+        "orosz-ukrán háború",
+        "Franciaország",
+        "Egyesült Államok"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jean-No%C3%ABl_Barrot_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1591,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
+      }
+    },
+    {
       "id": "249bab82-f751-5295-924b-a0d33d91647f",
       "slug": "2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi",
       "url": "/tech/2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi/",
@@ -4374,37 +4404,7 @@
         "pos": "top",
         "alt": "United Nations General Assembly Building, New York City"
       }
-    },
-    {
-      "id": "b22d4d9d-61ec-5e95-90a1-70ae8ea8caac",
-      "slug": "2026-10-31-valsaghelyzet-miatt-fordult-vissza-szenegali-utjarol-a-lengyel-elnok",
-      "url": "/vilag/2026-10-31-valsaghelyzet-miatt-fordult-vissza-szenegali-utjarol-a-lengyel-elnok/",
-      "title": "Válsághelyzet miatt fordult vissza szenegáli útjáról a lengyel elnök",
-      "lead": "Karol Nawrocki lengyel elnök azonnal megszakította szenegáli látogatását és visszafordult Varsóba, miután válsághelyzet alakult ki az Alkotmánybíróság épületénél. A testület körül kialakult súlyos jogi és politikai konfliktus miatt rendőri intézkedésre és tömegtüntetésre került sor.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T07:49:59+01:00",
-      "published_at": "2026-10-31T07:49:59+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.69,
-      "tags": [
-        "Lengyelország",
-        "Alkotmánybíróság",
-        "Karol Nawrocki",
-        "Donald Tusk",
-        "Varsó"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Karol_Nawrocki_%282025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1577,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "President Donald Trump hosts a bilateral meeting with Polish President Karol Nawrocki, Wednesday, September 3, 2025, in the Oval Office. (Official White House Photo by Joyce N. Boghosian)"
-      }
     }
   ],
-  "updated_at": "2026-11-08T18:51:39+01:00"
+  "updated_at": "2026-11-08T19:00:21+01:00"
 }
