@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "302e2608-a828-5d57-a8e7-808d49024f22",
+      "slug": "2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p",
+      "url": "/kozelet/2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p/",
+      "title": "Egy napot bírt az új északi tankerületi vezető, mielőtt kimenekült a posztról",
+      "lead": "Nyilvános Facebook-posztban jelentette be lemondását Balogh Tamás László, az Észak-Budapesti Tankerületi Központ frissen kinevezett vezetője, aki mindössze egy napot töltött hivatalban. A szakember az intézmények közötti kölcsönös bizalom hiányával és lejáratási kísérletekkel indokolta a hirtelen távozást.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T20:17:48+01:00",
+      "published_at": "2026-11-08T20:17:48+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.37,
+      "tags": [
+        "oktatás",
+        "tankerület",
+        "Balogh Tamás László",
+        "Klebelsberg Központ",
+        "Oktatási és Gyermekügyi Minisztérium"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Budapest_ministry_of_education.JPG/1280px-Budapest_ministry_of_education.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ""
+      }
+    },
+    {
       "id": "f9885bb7-a04c-5154-b74d-431bcc23dba9",
       "slug": "2026-11-08-nogradi-laszlo-sziklay-fedonev-alatt-jelentettek-rolam-nem-en-jelente",
       "url": "/kozelet/2026-11-08-nogradi-laszlo-sziklay-fedonev-alatt-jelentettek-rolam-nem-en-jelente/",
@@ -4374,36 +4404,7 @@
         "alt": "10 millió – új mozgósított szavazó a brazil elnökválasztáson",
         "card": "num"
       }
-    },
-    {
-      "id": "f5108e08-dbe6-5162-ab9e-eaa2777354bd",
-      "slug": "2026-10-31-osztrak-autopalya-matrica-arak-ennyibe-kerulnek-januartol",
-      "url": "/penzvilag/2026-10-31-osztrak-autopalya-matrica-arak-ennyibe-kerulnek-januartol/",
-      "title": "Osztrák autópálya-matrica árak: ennyibe kerülnek januártól",
-      "lead": "Január első napjától két százalékkal drágulnak az osztrák autópálya-matricák, így az egész évre szóló bérlet ára 108,90 euróra nő. A fizikai, szélvédőre ragasztható matricák végleg kikerülnek a forgalomból, és a hatóságok kizárólag a digitális formátumot fogadják el.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T10:06:15+01:00",
-      "published_at": "2026-10-31T10:06:15+01:00",
-      "reading_time_min": 2,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "osztrák autópálya matrica árak",
-        "ausztria matrica 2026",
-        "digitális autópálya matrica",
-        "ASFINAG útdíj"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/c3d786bc34305ffc.jpg",
-        "width": 3444,
-        "height": 2296,
-        "kind": "photo",
-        "alt": "cost, calculator, euro, dollar, money, road construction, highway, road, vehicles, traffic, infrastructure"
-      }
     }
   ],
-  "updated_at": "2026-11-08T19:03:21+01:00"
+  "updated_at": "2026-11-08T20:17:50+01:00"
 }
