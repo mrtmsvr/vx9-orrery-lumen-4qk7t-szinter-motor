@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "ee1b020e-3e80-52f0-916c-8d15d764dce5",
+      "slug": "2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar",
+      "url": "/penzvilag/2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar/",
+      "title": "Mesterséges intelligencia és bezáródó kapuk: lefelé csúsznak a magyar pályakezdők",
+      "lead": "Súlyos munkaerőpiaci nehézségekkel szembesülnek a magyar pályakezdők, akiknek jelentős része valószínűleg nem éri majd el a szülei életszínvonalát. A folyamat hátterében a beszűkülő belépő munkahelyek és a mesterséges intelligencia térnyerése áll.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T12:52:03+01:00",
+      "published_at": "2026-11-08T12:52:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.14,
+      "tags": [
+        "munkaerőpiac",
+        "pályakezdők",
+        "gazdaság",
+        "mesterséges intelligencia"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-350a4263f2.jpg",
+        "kind": "photo",
+        "alt": "Mesterséges intelligencia és bezáródó kapuk: lefelé csúsznak a magyar pályakezdők",
+        "cover": true
+      }
+    },
+    {
       "id": "19ee3e69-25b9-5a39-9b0d-79f31dc584c2",
       "slug": "2026-11-08-megbocsatott-a-szekszardi-boros-tamadonak-magyar-peter",
       "url": "/kozelet/2026-11-08-megbocsatott-a-szekszardi-boros-tamadonak-magyar-peter/",
@@ -4373,38 +4400,7 @@
         "kind": "photo",
         "alt": "Öt év börtönt kapott, de nyomkövetővel várja a másodfokot Boldog István"
       }
-    },
-    {
-      "id": "7f8b5c8c-88d2-53a0-9588-25f0f93dc917",
-      "slug": "2026-10-30-a-napi-negyvenket-perc-ami-vedi-az-agyat",
-      "url": "/eletmod/2026-10-30-a-napi-negyvenket-perc-ami-vedi-az-agyat/",
-      "title": "A napi negyvenkét perc, ami védi az agyat",
-      "lead": "Egy nagyszabású kutatás szerint a túl kevés természetes fény komolyabb kockázatot jelenthet az agy egészségére, mint azt korábban gondoltuk. Megnéztük, mit jelent ez a mindennapokban, és hogyan fordíthatjuk meg a trendet.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T10:34:41+01:00",
-      "published_at": "2026-10-30T10:34:41+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "demencia",
-        "napfény",
-        "agyi egészség",
-        "megelőzés",
-        "fényterápia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Natural_Light_Show_%286969703593%29.jpg/1280px-Natural_Light_Show_%286969703593%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Natural Light Show"
-      }
     }
   ],
-  "updated_at": "2026-11-08T12:50:37+01:00"
+  "updated_at": "2026-11-08T12:52:04+01:00"
 }
