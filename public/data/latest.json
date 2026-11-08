@@ -1,6 +1,65 @@
 {
   "articles": [
     {
+      "id": "19ee3e69-25b9-5a39-9b0d-79f31dc584c2",
+      "slug": "2026-11-08-megbocsatott-a-szekszardi-boros-tamadonak-magyar-peter",
+      "url": "/kozelet/2026-11-08-megbocsatott-a-szekszardi-boros-tamadonak-magyar-peter/",
+      "title": "Megbocsátott a szekszárdi boros támadónak Magyar Péter",
+      "lead": "Levelet kapott Magyar Péter attól a férfitól, aki még szeptemberben borral öntötte le őt Szekszárdon. A politikus elfogadta a bocsánatkérést, és nem indít eljárást az ügyben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T12:50:36+01:00",
+      "published_at": "2026-11-08T12:50:36+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.8,
+      "tags": [
+        "Magyar Péter",
+        "Szekszárdi Szüreti Napok",
+        "bocsánatkérés",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/J%C3%A1nos_Garay_Statue%2C_Garay_Square%2C_Szeksz%C3%A1rd.jpg/1280px-J%C3%A1nos_Garay_Statue%2C_Garay_Square%2C_Szeksz%C3%A1rd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Lakóépület, Eredetileg mozinak épült 1913-ban szecessziós stílusban. Tervezte Uglár János. Műemlék ID 845 - Tolna megye, Szekszárd, Garay tér 4-6. + Lakóépület (piros) Műemlék ID 846\n- Tolna megye, Sz"
+      }
+    },
+    {
+      "id": "5b1e0d7b-8793-5577-9f96-353b03f0c5b5",
+      "slug": "2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon",
+      "url": "/kozelet/2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon/",
+      "title": "Nagy Ervin a Közlekedési Múzeumnak ajándékozta a Tisza-kampány furgonját",
+      "lead": "A Közlekedési Múzeumnak ajánlotta fel a Tisza Párt országjárásai során ismertté vált Ford Transitot Nagy Ervin, miután a jármű végigkísérte a kampányidőszakot. A furgon nemcsak Magyarországot járta be, de adományokat is szállított a lebombázott kijevi gyerekkórhöz.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T12:50:35+01:00",
+      "published_at": "2026-11-08T12:50:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Magyar Péter",
+        "Nagy Ervin",
+        "Közlekedési Múzeum",
+        "Tisza Párt",
+        "kampány"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2019_Ford_Transit_350_Leader_Ecoblue_2.0.jpg/1280px-2019_Ford_Transit_350_Leader_Ecoblue_2.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 610,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "2019 Ford Transit 350 Leader Ecoblue 2.0 Taken in Leamington Spa"
+      }
+    },
+    {
       "id": "d203c9f7-0f9e-56c6-92ab-081d99d3f607",
       "slug": "2026-11-08-felmillio-liter-olaj-arasztotta-el-a-horvat-foldeket-egy-munkagep-mia",
       "url": "/vilag/2026-11-08-felmillio-liter-olaj-arasztotta-el-a-horvat-foldeket-egy-munkagep-mia/",
@@ -4345,67 +4404,7 @@
         "pos": "center",
         "alt": "Natural Light Show"
       }
-    },
-    {
-      "id": "81febb50-73b9-5686-aba4-b03e262b9773",
-      "slug": "2026-10-30-patthelyzet-izraelben-netanjahu-elmaradt-a-61-mandatumos-tobbsegtol",
-      "url": "/vilag/2026-10-30-patthelyzet-izraelben-netanjahu-elmaradt-a-61-mandatumos-tobbsegtol/",
-      "title": "Az arab pártok lettek a királycsinálók Netanjahuék választásán",
-      "lead": "Sem Benjamin Netanjahu miniszterelnök jobboldali blokkja, sem a volt vezérkari főnök vezette ellenzéki szövetség nem tudott többséget szerezni a péntek hajnalra lezárult szavazatszámlálás alapján. A 120 fős izraeli parlamentben a történelmi rekordot elérő arab pártok kerültek királycsináló pozícióba, miközben az ország egy újabb, elhúzódó kormányzati válság szélére sodródott.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T10:14:39+01:00",
-      "published_at": "2026-10-30T10:14:39+01:00",
-      "reading_time_min": 3,
-      "hot_score": 14.3,
-      "tags": [
-        "Izrael",
-        "Benjamin Netanjahu",
-        "Kneszet",
-        "Gadi Eisenkot",
-        "választások"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Benjamin_Netanyahu_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1631,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Depicted person:  Benjamin Netanyahu – Prime Minister of Israel (born 1949), (1996–1999; 2009–2021; 2022–present)"
-      }
-    },
-    {
-      "id": "44c88a48-5de7-508f-adcd-097163ef5118",
-      "slug": "2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja",
-      "url": "/bulvar/2026-10-29-elhunyt-sir-patrick-stewart-a-star-trek-legendaja/",
-      "title": "Elhunyt Sir Patrick Stewart, a Star Trek legendája",
-      "lead": "Nyolcvanhat éves korában, Los Angeles-i otthonában elhunyt Sir Patrick Stewart, a Star Trek és az X-Men-filmek világhírű színésze. A gyászhírt a művész képviselője erősítette meg.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T21:26:22+01:00",
-      "published_at": "2026-10-29T21:26:22+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Patrick Stewart",
-        "Star Trek",
-        "X-Men",
-        "gyász",
-        "színész"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/1280px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1560,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Patrick Stewart speaking at the 2019 San Diego Comic-Con International in San Diego, California."
-      }
     }
   ],
-  "updated_at": "2026-11-08T12:09:33+01:00"
+  "updated_at": "2026-11-08T12:50:37+01:00"
 }
