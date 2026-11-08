@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9f96fa9f-fb2e-5583-bfe0-12652a7e819d",
+      "slug": "2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben",
+      "url": "/vilag/2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben/",
+      "title": "Netanjahu leváltása: a volt vezérkari főnök kapott esélyt Izraelben",
+      "lead": "Jichák Hercog izraeli államfő Gadi Ejzenkotot bízta meg az új kormány megalakításával az október végi, patthelyzetet hozó parlamenti választás után. A volt vezérkari főnöknek legfeljebb 42 napja lesz a koalíció tető alá hozására.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T15:27:11+01:00",
+      "published_at": "2026-11-08T15:27:11+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.64,
+      "tags": [
+        "Izrael",
+        "Gadi Ejzenkot",
+        "Benjamin Netanjahu",
+        "Jichák Hercog",
+        "kormányalakítás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1341,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "גדי איזנקוט"
+      }
+    },
+    {
       "id": "ee1b020e-3e80-52f0-916c-8d15d764dce5",
       "slug": "2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar",
       "url": "/penzvilag/2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar/",
@@ -4373,34 +4403,7 @@
         "pos": "center",
         "alt": "You must pay for using the motorways in Austria. There are no pay-stations like in most other countries, but a sticker that you place on the front window of your car. There are signs like this one tel"
       }
-    },
-    {
-      "id": "0f79e29f-0c41-5186-977d-699d0a0d033e",
-      "slug": "2026-10-30-ot-ev-bortont-kapott-de-nyomkovetovel-varja-a-masodfokot-boldog-istva",
-      "url": "/kozelet/2026-10-30-ot-ev-bortont-kapott-de-nyomkovetovel-varja-a-masodfokot-boldog-istva/",
-      "title": "Börtönbüntetés és nyomkövető jár a korrupciós ügyért Boldog Istvánnak",
-      "lead": "Első fokon öt év letöltendő szabadságvesztésre ítélte a Fővárosi Törvényszék Boldog István volt fideszes országgyűlési képviselőt vesztegetés elfogadása miatt. A bíróság vagyonelkobzást és közügyektől való eltiltást is elrendelt, miközben az érintett és a vádhatóság is fellebbezett az ítélet ellen.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T19:32:07+01:00",
-      "published_at": "2026-10-30T19:32:07+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.4,
-      "tags": [
-        "Boldog István",
-        "bíróság",
-        "korrupció",
-        "Fidesz",
-        "ítélet"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793385107-0.jpg",
-        "kind": "photo",
-        "alt": "Öt év börtönt kapott, de nyomkövetővel várja a másodfokot Boldog István"
-      }
     }
   ],
-  "updated_at": "2026-11-08T15:16:10+01:00"
+  "updated_at": "2026-11-08T15:27:13+01:00"
 }
