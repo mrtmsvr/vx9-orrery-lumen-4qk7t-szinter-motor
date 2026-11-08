@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "id": "11af0904-0e68-514e-b8fd-af9ade963dee",
+      "slug": "2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya",
+      "url": "/kultura/2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya/",
+      "title": "Honnan ered az adventi várakozás valódi hagyománya?",
+      "lead": "A sötét téli esték beköszöntével érezzük csak igazán, mekkora ereje van a lassan növekvő fénynek és a heteken át tartó csendes készülődésnek. Pedig a karácsony előtti időszak nem a kapkodásról és a plázák villogó díszeiről szól, hanem egy évszázadok óta csiszolódó, mély belső utazásról.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T09:28:07+01:00",
+      "published_at": "2026-11-08T09:28:07+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "Advent",
+        "advent",
+        "hagyomány",
+        "történelem",
+        "ünnep",
+        "kultúra"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2023_Adventskranz_5.jpg/1280px-2023_Adventskranz_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1083,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Advent wreath made from natural materials before the first Sunday in Advent 2023. Material:Green from Thuja occidentalis and Abies alba, with dried fruits, apples and orranges, and spices, cinnamon, s"
+      }
+    },
+    {
       "id": "d100d7af-e4be-5118-8bdb-5952a811e207",
       "slug": "2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit",
       "url": "/kozelet/2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit/",
@@ -4369,37 +4401,7 @@
         "kind": "photo",
         "alt": "Nem ő volt, de lemondott: péniszfotó bukkant fel a gádorosi alpolgármester oldalán"
       }
-    },
-    {
-      "id": "687447d7-668e-5251-a155-15875c4fe493",
-      "slug": "2026-10-29-maffiafonokoket-emlegetett-magyar-peter-orban-esetleges-ensz-fotitkar",
-      "url": "/kozelet/2026-10-29-maffiafonokoket-emlegetett-magyar-peter-orban-esetleges-ensz-fotitkar/",
-      "title": "Orbán Viktor az ENSZ élére vágyik? Magyar Péter durván beszólt a volt miniszterelnöknek",
-      "lead": "Nemzetközi sajtóhírek szerint Donald Trump kormánya az ENSZ következő főtitkárának szánná Orbán Viktort. A felvetésre Magyar Péter csütörtökön Prágában olyannyira keményen reagált, hogy szerinte egyenesen bűnszervezetté válna a világszervezet a volt magyar kormányfő vezetésével.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T21:13:46+01:00",
-      "published_at": "2026-10-29T21:13:46+01:00",
-      "reading_time_min": 2,
-      "hot_score": 14.16,
-      "tags": [
-        "Magyar Péter",
-        "Orbán Viktor",
-        "ENSZ",
-        "Prága",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Headquarters_of_the_United_Nations%2C_New_York_City%2C_20231001_1103_1006.jpg/1280px-Headquarters_of_the_United_Nations%2C_New_York_City%2C_20231001_1103_1006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1276,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "United Nations General Assembly Building, New York City"
-      }
     }
   ],
-  "updated_at": "2026-11-08T07:57:45+01:00"
+  "updated_at": "2026-11-08T09:28:08+01:00"
 }
