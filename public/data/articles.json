@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T11:56:50+01:00",
+  "updated_at": "2026-11-08T12:07:49+01:00",
   "articles": [
     {
       "id": "d203c9f7-0f9e-56c6-92ab-081d99d3f607",
@@ -2018,7 +2018,7 @@
         "Budapest",
         "karbantartás"
       ],
-      "title": "Fekete lyuk a BudapestGO-ban: órákra eltűnik a jegyvásárlás",
+      "title": "Jegyvásárlás nélkül marad, aki éjjel indulna a BudapestGO-val",
       "subtitle": null,
       "lead": "Szombat késő estétől vasárnap reggelig karbantartás miatt nem lehet majd jegyet és bérletet vásárolni a BudapestGO alkalmazásban. A Budapesti Közlekedési Központ arra kéri az utasokat, hogy időben gondoskodjanak a jegyek beszerzéséről.",
       "key_points": [
@@ -2097,7 +2097,7 @@
       "date_label": "november 7.",
       "url": "/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
       "seo": {
-        "meta_title": "Fekete lyuk a BudapestGO-ban: órákra eltűnik a jegyvásárlás",
+        "meta_title": "Jegyvásárlás nélkül marad, aki éjjel indulna a BudapestGO-va",
         "meta_description": "Szombat késő estétől vasárnap reggelig karbantartás miatt nem lehet majd jegyet és bérletet vásárolni a BudapestGO alkalmazásban. A Budapesti Közlekedési Közpon",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-07-fekete-lyuk-a-budapestgo-ban-orakra-eltunik-a-jegyvasarlas/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg/1280px-BKK_Jegyautomata%2C_Budapest%2C_V%C3%A1rnegyed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2118,7 +2118,7 @@
       "pipeline_run_id": "42367035879",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-07T12:39:12+01:00",
-      "updated_at": "2026-11-07T12:39:12+01:00",
+      "updated_at": "2026-11-08T12:07:49+01:00",
       "published_at": "2026-11-07T12:39:12+01:00",
       "expires_at": null
     },
