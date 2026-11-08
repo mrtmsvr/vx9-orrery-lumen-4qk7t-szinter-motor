@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "de317973-cd08-5818-9fda-2d6eb3faf359",
+      "slug": "2026-11-08-michel-barnier-meguzenti-a-briteknek-nincs-csemegezes-az-eu-ban",
+      "url": "/vilag/2026-11-08-michel-barnier-meguzenti-a-briteknek-nincs-csemegezes-az-eu-ban/",
+      "title": "Michel Barnier megüzenti a briteknek: nincs csemegézés az EU-ban",
+      "lead": "Az Európai Unió ajtaja nyitva áll Nagy-Britannia előtt egy esetleges újbóli csatlakozás esetén, de a brit kormány nem válogathat kedvére a feltételek közül. Ezt Michel Barnier, az Európai Bizottság egykori Brexit-ügyi főtárgyalója közölte egy vasárnapi interjúban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T18:06:31+01:00",
+      "published_at": "2026-11-08T18:06:31+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.2,
+      "tags": [
+        "Nagy-Britannia",
+        "Brexit",
+        "Európai Unió",
+        "Michel Barnier",
+        "Andy Burnham"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Barnier_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1878,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Portrait Officiel du Premier ministre, Michel Barnier, le 21 octobre 2024, dans le jardin de l'Hôtel de Matignon, à Paris."
+      }
+    },
+    {
       "id": "105a2f95-7429-5678-bf9d-33c560361b12",
       "slug": "2026-11-08-nyolcvan-vasutas-es-hatezer-tonna-zuzottko-elindult-a-koki-vaganycser",
       "url": "/kozelet/2026-11-08-nyolcvan-vasutas-es-hatezer-tonna-zuzottko-elindult-a-koki-vaganycser/",
@@ -4374,37 +4404,7 @@
         "pos": "top",
         "alt": "Coats of arm of countie of Hungary"
       }
-    },
-    {
-      "id": "16610842-46e0-5c37-981a-80472f53a350",
-      "slug": "2026-10-30-nem-kert-a-pentagon-intesebol-azonnal-visszavagott-az-eszt-kormanyfo",
-      "url": "/vilag/2026-10-30-nem-kert-a-pentagon-intesebol-azonnal-visszavagott-az-eszt-kormanyfo/",
-      "title": "Nem kért a Pentagon intéséből: azonnal visszavágott az észt kormányfő",
-      "lead": "Az amerikai védelmi minisztérium arra kérte a balti államokat, hogy kijelentéseikkel ne ingereljék Oroszországot, ám az észt miniszterelnök azonnal visszautasította a rendreutasítást. A diplomáciai kulisszák mögött zajló egyeztetések alapjaiban rázzák meg a nyugati szövetségesek Oroszország-politikáját.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T20:06:07+01:00",
-      "published_at": "2026-10-30T20:06:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Észtország",
-        "Pentagon",
-        "Oroszország",
-        "NATO",
-        "diplomácia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Pentagon_January_2008.jpg/1280px-The_Pentagon_January_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 686,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Pentagon, headquarters of the United States Department of Defense (AKA the Department of War), taken from an airplane in January 2008"
-      }
     }
   ],
-  "updated_at": "2026-11-08T16:48:12+01:00"
+  "updated_at": "2026-11-08T18:06:33+01:00"
 }
