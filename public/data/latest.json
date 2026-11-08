@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "249bab82-f751-5295-924b-a0d33d91647f",
+      "slug": "2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi",
+      "url": "/tech/2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi/",
+      "title": "Virtuális tyúktartás indul Budapesten: okostelefonról irányítható kapirgálós biotojás",
+      "lead": "Tyúkbérlő szolgáltatást és mobilalkalmazást indított Bóna Samu és csapata a Remény Farmmal együttműködve, hogy a városi lakók is kapcsolatba kerülhessenek a vidéki élettel. Az előfizetők okostelefonon keresztül követhetik a szárnyasok mindennapjait, a megtermelt biotojásokat pedig átvehetik vagy rászorulóknak adományozhatják.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T18:37:24+01:00",
+      "published_at": "2026-11-08T18:37:24+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5,
+      "tags": [
+        "tyúkbérlés",
+        "mesterséges intelligencia",
+        "mezőgazdaság",
+        "applikáció",
+        "fenntarthatóság"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-1ee0dd72e2.jpg",
+        "kind": "photo",
+        "alt": "Tyúkot bérel? Dehogy, bolond vagyok én?",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "de317973-cd08-5818-9fda-2d6eb3faf359",
       "slug": "2026-11-08-michel-barnier-meguzenti-a-briteknek-nincs-csemegezes-az-eu-ban",
       "url": "/vilag/2026-11-08-michel-barnier-meguzenti-a-briteknek-nincs-csemegezes-az-eu-ban/",
@@ -4374,37 +4404,7 @@
         "pos": "center",
         "alt": "President Donald Trump hosts a bilateral meeting with Polish President Karol Nawrocki, Wednesday, September 3, 2025, in the Oval Office. (Official White House Photo by Joyce N. Boghosian)"
       }
-    },
-    {
-      "id": "e5d2b886-dcce-5d7b-a05d-ffd1ea58fae1",
-      "slug": "2026-10-30-karacsonyi-udvozlet-a-tartotiszthez-igy-lett-ugynok-egy-nogradi-banya",
-      "url": "/kozelet/2026-10-30-karacsonyi-udvozlet-a-tartotiszthez-igy-lett-ugynok-egy-nogradi-banya/",
-      "title": "Karácsonyi üdvözlet a tartótiszthez: így lett ügynök egy nógrádi bányászból",
-      "lead": "Egy Nógrád megyei bányász, Gy. történetén keresztül mutatja be a Kádár-rendszer titkosszolgálati működését a Partizán videója. Az aktákból kiderül, hogyan váltották fel a forradalmi múlt terhelő adatait a belső elhárítás jelentéseivel.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T20:26:25+01:00",
-      "published_at": "2026-10-30T20:26:25+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "ügynökakták",
-        "Kádár-korszak",
-        "Partizán",
-        "1956",
-        "állambiztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/HUN_N%C3%B3gr%C3%A1d_megye_COA.png/1280px-HUN_N%C3%B3gr%C3%A1d_megye_COA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1418,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Coats of arm of countie of Hungary"
-      }
     }
   ],
-  "updated_at": "2026-11-08T18:06:33+01:00"
+  "updated_at": "2026-11-08T18:37:26+01:00"
 }
