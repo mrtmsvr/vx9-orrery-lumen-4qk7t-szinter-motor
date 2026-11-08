@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "3d375dea-154a-55c8-bc9b-9499312d79d6",
+      "slug": "2026-11-08-csaladi-tragedia-bontakozik-ki-a-krakkoi-lovoldozes-hattereben",
+      "url": "/vilag/2026-11-08-csaladi-tragedia-bontakozik-ki-a-krakkoi-lovoldozes-hattereben/",
+      "title": "Családi tragédia bontakozik ki a krakkói lövöldözés hátterében",
+      "lead": "Három holttestet találtak a szombaton lövöldözést elkövető férfi krakkói otthonában, miközben a hatóságok a vérengzés további részleteit vizsgálják. A tragédia miatt Krakkóban szerdáig hivatalos gyászt tartanak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T06:11:15+01:00",
+      "published_at": "2026-11-08T06:11:15+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.35,
+      "tags": [
+        "Krakkó",
+        "lövöldözés",
+        "Lengyelország",
+        "Donald Tusk",
+        "bűnügy"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/79c212a6c79687ae.jpg",
+        "width": 4788,
+        "height": 3234,
+        "kind": "photo",
+        "alt": "automobile, blur, car wallpapers, car, police car, police tape, vehicle, black car, black police"
+      }
+    },
+    {
       "id": "a6b1df56-b913-577d-b901-8cc31283fd75",
       "slug": "2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump",
       "url": "/vilag/2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump/",
@@ -4371,35 +4400,7 @@
         "pos": "center",
         "alt": "Vitézy Dávid (Budapest, 1985. december 1. –) magyar közgazdász, közlekedési és város-mobilitási szakértő a SMART 2017 Konferencián"
       }
-    },
-    {
-      "id": "b3cc8f1c-8ac6-582c-9cdc-28ca84e4b751",
-      "slug": "2026-10-29-lezuhant-az-eu-bekefenntartoinak-helikoptere-boszniaban-harman-meghal",
-      "url": "/vilag/2026-10-29-lezuhant-az-eu-bekefenntartoinak-helikoptere-boszniaban-harman-meghal/",
-      "title": "Lezuhant az EU békefenntartóinak helikoptere Boszniában, hárman meghaltak",
-      "lead": "Csütörtök délután lezuhant az Európai Unió bosznia-hercegovinai békefenntartó erejének egyik helikoptere az ország északkeleti részén, Brcko közelében. A tragédiában hárman életüket vesztették, tizenketten pedig megsérültek.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T19:47:09+01:00",
-      "published_at": "2026-10-29T19:47:09+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "EUFOR",
-        "Boszniad-Hercegovina",
-        "helikopterbaleset",
-        "olasz hadsereg",
-        "Brcko"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-53b9775b90.jpg",
-        "kind": "photo",
-        "alt": "3 fő – halálos áldozat",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-08T00:26:09+01:00"
+  "updated_at": "2026-11-08T06:11:17+01:00"
 }
