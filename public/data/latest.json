@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a3c73b89-fceb-5d6c-9ea7-f600b37caa83",
+      "slug": "2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok",
+      "url": "/kozelet/2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok/",
+      "title": "Kitört az azbesztbotrány Gyömrőn: petíciót indítottak a szülők",
+      "lead": "Azbeszttel szennyezett kőzúzalékra bukkantak a gyömrői Fekete István Általános Iskola közelében, a veszélyes anyag miatt pedig már ötven család írt alá petíciót. Az önkormányzat a Magyar Közúttal vitatkozik az elszállításról, miközben a területet lezárták és geotextíliával fedték le.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T21:37:03+01:00",
+      "published_at": "2026-11-08T21:37:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Gyömrő",
+        "azbeszt",
+        "oktatás",
+        "önkormányzat",
+        "Magyar Közút"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gy%C3%B6mr%C5%91_telekikast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 823,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Gyömrő Teleki castle aerial photography \n\n\n\n\n\nThis is a photo of a monument in Hungary. Identifier: 7072\n\n\n\n\nThis picture is © copyright Civertan Grafikai Stúdió (Civertan Bt.), 1997-2006.; http://www"
+      }
+    },
+    {
       "id": "302e2608-a828-5d57-a8e7-808d49024f22",
       "slug": "2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p",
       "url": "/kozelet/2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p/",
@@ -4377,34 +4407,7 @@
         "pos": "top",
         "alt": "Dniepro baseinas"
       }
-    },
-    {
-      "id": "a0a85b58-edee-51b0-b99f-56c8ba56bca5",
-      "slug": "2026-10-31-nehez-idok-jarnak-az-illiberalis-szovetsegesekre",
-      "url": "/kozelet/2026-10-31-nehez-idok-jarnak-az-illiberalis-szovetsegesekre/",
-      "title": "Nehéz idők járnak az illiberális szövetségesekre",
-      "lead": "A nemzetközi politikai élet válságos időszakáról és a jobboldali kormányok nehézségeiről beszélt legújabb adásában a Partizán Szignál című műsor. A szerb, brazil és izraeli fejlemények mellett az európai tüntetéshullámokat is górcső alá vették a szerkesztők.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T10:26:29+01:00",
-      "published_at": "2026-10-31T10:26:29+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Partizán",
-        "világpolitika",
-        "választások",
-        "tüntetések"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-4eb307fb7c.jpg",
-        "kind": "photo",
-        "alt": "10 millió – új mozgósított szavazó a brazil elnökválasztáson",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-08T21:09:39+01:00"
+  "updated_at": "2026-11-08T21:37:05+01:00"
 }
