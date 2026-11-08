@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b8c14538-22e6-5441-b9c9-be77ea11f7a5",
+      "slug": "2026-11-08-rollerrel-es-legpisztollyal-vitte-el-a-19-millios-aranyat-a-nyiregyha",
+      "url": "/kozelet/2026-11-08-rollerrel-es-legpisztollyal-vitte-el-a-19-millios-aranyat-a-nyiregyha/",
+      "title": "Rollerrel és légpisztollyal vitte el a 19 milliós aranyat a nyíregyházi rabló",
+      "lead": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, aki a gyanú szerint mintegy 19 millió forintnyi befektetési aranyat zsákmányolt egy nyíregyházi valutaváltóból. A támadó légpisztollyal fenyegetőzött, majd a helyszínről rollerrel távozott.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T19:01:47+01:00",
+      "published_at": "2026-11-08T19:01:47+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.74,
+      "tags": [
+        "Nyíregyháza",
+        "rablás",
+        "pénzszállító",
+        "rendőrség",
+        "valutaváltó"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gold_bullion_bars.jpg/1280px-Gold_bullion_bars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A pile of stacked gold bars"
+      }
+    },
+    {
       "id": "480b33b9-3c14-5dea-b008-ba7622c8c052",
       "slug": "2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon",
       "url": "/vilag/2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon/",
@@ -4373,38 +4403,7 @@
         "alt": "Feladja a napi közéletet Horváth Oszkár az Önkényes Mérvadóban",
         "cover": true
       }
-    },
-    {
-      "id": "b236f522-e70d-52ec-ac42-cab577d38889",
-      "slug": "2026-10-31-igy-valasztjak-meg-a-vilag-legfontosabb-diplomatajat",
-      "url": "/kozelet/2026-10-31-igy-valasztjak-meg-a-vilag-legfontosabb-diplomatajat/",
-      "title": "Így választják meg a világ legfontosabb diplomatáját",
-      "lead": "A nemzetközi diplomácia legmagasabb pozíciója mögött bonyolult szabályok és nagypolitikai alkuk rejtőznek. A világszervezetet 1945 óta mindössze néhány ember vezette, miközben kiválasztásuk folyamatát szigorú geopolitikai egyensúlyok határozzák meg.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T08:10:57+01:00",
-      "published_at": "2026-10-31T08:10:57+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "ENSZ",
-        "diplomácia",
-        "Biztonsági Tanács",
-        "nemzetközi kapcsolatok",
-        "főtitkár"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Headquarters_of_the_United_Nations%2C_New_York_City%2C_20231001_1103_1007.jpg/1280px-Headquarters_of_the_United_Nations%2C_New_York_City%2C_20231001_1103_1007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1327,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "United Nations General Assembly Building, New York City"
-      }
     }
   ],
-  "updated_at": "2026-11-08T19:00:21+01:00"
+  "updated_at": "2026-11-08T19:01:49+01:00"
 }
