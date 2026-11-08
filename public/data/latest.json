@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "105a2f95-7429-5678-bf9d-33c560361b12",
+      "slug": "2026-11-08-nyolcvan-vasutas-es-hatezer-tonna-zuzottko-elindult-a-koki-vaganycser",
+      "url": "/kozelet/2026-11-08-nyolcvan-vasutas-es-hatezer-tonna-zuzottko-elindult-a-koki-vaganycser/",
+      "title": "Nyolcvan vasutas és hatezer tonna zúzottkő: elindult a köki vágánycsere",
+      "lead": "November elején a Kőbánya-Kispest állomáson folytatódik a MÁV nagy karbantartási programja, amelynek keretében átépítik a negyedik és ötödik vágányt. A beruházás nyomán megszűnnek a bosszantó sebességkorlátozások, és rövidebb menetidőre számíthatnak az utasok.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T16:48:10+01:00",
+      "published_at": "2026-11-08T16:48:10+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.44,
+      "tags": [
+        "Vitézy Dávid",
+        "MÁV",
+        "vasút",
+        "Kőbánya-Kispest",
+        "Keszthely"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Budapest%2C_K%C5%91b%C3%A1nya-Kispest_vas%C3%BAt%C3%A1llom%C3%A1s%2C_3.jpg/1280px-Budapest%2C_K%C5%91b%C3%A1nya-Kispest_vas%C3%BAt%C3%A1llom%C3%A1s%2C_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 797,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Kőbánya-Kispest vasútállomás"
+      }
+    },
+    {
       "id": "9f96fa9f-fb2e-5583-bfe0-12652a7e819d",
       "slug": "2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben",
       "url": "/vilag/2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben/",
@@ -4374,36 +4404,7 @@
         "pos": "center",
         "alt": "The Pentagon, headquarters of the United States Department of Defense (AKA the Department of War), taken from an airplane in January 2008"
       }
-    },
-    {
-      "id": "eb604280-4ce1-591e-acf5-2e1a15e5a926",
-      "slug": "2026-10-30-januartol-bukjak-a-matricat-az-autosok-ausztriaban-dragul-az-utdij",
-      "url": "/kozelet/2026-10-30-januartol-bukjak-a-matricat-az-autosok-ausztriaban-dragul-az-utdij/",
-      "title": "Januártól bukják a matricát az autósok Ausztriában, drágul az útdíj",
-      "lead": "Kihalófélbe kerülnek a klasszikus, szélvédőre ragasztható autópálya-matricák Ausztriában, mivel januártól már kizárólag a digitális formátumot fogadják el a hatóságok. A változás mellett az útdíjak ára is emelkedik a szomszédos országban.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-30",
-      "date_label": "október 30.",
-      "created_at": "2026-10-30T19:35:15+01:00",
-      "published_at": "2026-10-30T19:35:15+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.8,
-      "tags": [
-        "Ausztria",
-        "autópálya-matrica",
-        "közlekedés",
-        "digitalizáció"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vignette_Austria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "You must pay for using the motorways in Austria. There are no pay-stations like in most other countries, but a sticker that you place on the front window of your car. There are signs like this one tel"
-      }
     }
   ],
-  "updated_at": "2026-11-08T15:27:20+01:00"
+  "updated_at": "2026-11-08T16:48:12+01:00"
 }
