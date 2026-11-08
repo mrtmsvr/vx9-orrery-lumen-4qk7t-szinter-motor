@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d100d7af-e4be-5118-8bdb-5952a811e207",
+      "slug": "2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit",
+      "url": "/kozelet/2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit/",
+      "title": "Húszmilliárd helyett százmilliárd jut jövőre az utakra, miközben Kapitányék huszonötmilliárdos exportprogramot indítanak",
+      "lead": "Huszonöt milliárd forintos piacépítő exportprogramot indít a kormány 2027-ben, miközben az útfelújításokra szánt állami keret is a többszörösére, évi százmilliárd forintra emelkedik. A gazdaság élénkítését célzó intézkedések mögött komoly forrásbővítés áll.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T07:57:38+01:00",
+      "published_at": "2026-11-08T07:57:38+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5.44,
+      "tags": [
+        "gazdaság",
+        "export",
+        "útfelújítás",
+        "Széchenyi Kártya",
+        "Vitézy Dávid"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me)."
+      }
+    },
+    {
       "id": "42ce2898-2392-567c-beb8-3723ca7c038e",
       "slug": "2026-11-08-otmilliardos-gepparkbovites-hoekevel-es-agapritoval-erosit-a-magyar-k",
       "url": "/kozelet/2026-11-08-otmilliardos-gepparkbovites-hoekevel-es-agapritoval-erosit-a-magyar-k/",
@@ -4369,37 +4399,7 @@
         "pos": "top",
         "alt": "United Nations General Assembly Building, New York City"
       }
-    },
-    {
-      "id": "8da81a0d-cdf9-58ae-9991-2284b47a1e17",
-      "slug": "2026-10-29-lakner-zoltan-szerint-matolcsyek-bukasa-teljesen-atirja-a-magyar-poli",
-      "url": "/kozelet/2026-10-29-lakner-zoltan-szerint-matolcsyek-bukasa-teljesen-atirja-a-magyar-poli/",
-      "title": "Lakner Zoltán szerint Matolcsy György volt jegybankelnök ügye teljesen átírja a magyar politikát",
-      "lead": "Győrben, a Partizán élő adásában elemezte Lakner Zoltán politológus Matolcsy György volt jegybankelnök ügyét és a Tisza Párt új költségvetési javaslatát. A beszélgetés során a Fidesz és a Tisza adópolitikája, valamint a közbeszédet formáló politikai narratívák is terítékre kerültek.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T21:12:47+01:00",
-      "published_at": "2026-10-29T21:12:47+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Matolcsy György",
-        "Lakner Zoltán",
-        "Partizán",
-        "Győr",
-        "Tisza Párt"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Gyor_town_hall.jpg/1280px-Gyor_town_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 820,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Győr Town Hall"
-      }
     }
   ],
-  "updated_at": "2026-11-08T07:55:50+01:00"
+  "updated_at": "2026-11-08T07:57:41+01:00"
 }
