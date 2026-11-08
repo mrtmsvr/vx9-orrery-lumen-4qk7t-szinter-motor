@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d203c9f7-0f9e-56c6-92ab-081d99d3f607",
+      "slug": "2026-11-08-felmillio-liter-olaj-arasztotta-el-a-horvat-foldeket-egy-munkagep-mia",
+      "url": "/vilag/2026-11-08-felmillio-liter-olaj-arasztotta-el-a-horvat-foldeket-egy-munkagep-mia/",
+      "title": "Félmillió liter olaj árasztotta el a horvát földeket egy munkagép miatt",
+      "lead": "Ötszázezer liter kőolaj ömlött ki a horvát Janaf kőolajvezetékének sérült szakaszából, miután egy munkagép megrongálta a csővezetéket Sziszek és Szlavonbród között. A baleset környékén terjedő erős szag miatt több mint tizenöten szorultak sürgősségi ellátásra.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-08",
+      "date_label": "november 8.",
+      "created_at": "2026-11-08T11:56:50+01:00",
+      "published_at": "2026-11-08T11:56:50+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.45,
+      "tags": [
+        "kőolajvezeték",
+        "Janaf",
+        "Horvátország",
+        "olajszennyezés",
+        "Mol"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Slavonski_Brod_%28%D0%A1%D0%BB%D0%B0%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8_%D0%91%D1%80%D0%BE%D0%B4%2C_%D0%A5%D1%80%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%B0%29.jpg/1280px-Slavonski_Brod_%28%D0%A1%D0%BB%D0%B0%D0%B2%D0%BE%D0%BD%D1%81%D0%BA%D0%B8_%D0%91%D1%80%D0%BE%D0%B4%2C_%D0%A5%D1%80%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%B0%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 864,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Slavonski Brod, Croatia"
+      }
+    },
+    {
       "id": "11af0904-0e68-514e-b8fd-af9ade963dee",
       "slug": "2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya",
       "url": "/kultura/2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya/",
@@ -4375,33 +4405,7 @@
         "pos": "top",
         "alt": "Patrick Stewart speaking at the 2019 San Diego Comic-Con International in San Diego, California."
       }
-    },
-    {
-      "id": "f611d715-365f-52fa-88d8-41a86baf6b55",
-      "slug": "2026-10-29-nem-o-volt-de-lemondott-peniszfoto-bukkant-fel-a-gadorosi-alpolgarmes",
-      "url": "/kozelet/2026-10-29-nem-o-volt-de-lemondott-peniszfoto-bukkant-fel-a-gadorosi-alpolgarmes/",
-      "title": "Péniszfotó miatt mondott le Gádoros alpolgármestere",
-      "lead": "Családi és személyes okokra hivatkozva mondott le Gádoros alpolgármestere, miután egy férfi nemi szervéről készült fotó jelent meg a Facebook-oldalán. A politikus szerint feltörték a profilját, és le akarták járatni, a kép pedig nem őt ábrázolja.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-10-29",
-      "date_label": "október 29.",
-      "created_at": "2026-10-29T21:16:16+01:00",
-      "published_at": "2026-10-29T21:16:16+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Gádoros",
-        "helyi politika",
-        "közélet",
-        "Facebook"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1793304937-0.jpg",
-        "kind": "photo",
-        "alt": "Nem ő volt, de lemondott: péniszfotó bukkant fel a gádorosi alpolgármester oldalán"
-      }
     }
   ],
-  "updated_at": "2026-11-08T10:35:50+01:00"
+  "updated_at": "2026-11-08T11:56:52+01:00"
 }
