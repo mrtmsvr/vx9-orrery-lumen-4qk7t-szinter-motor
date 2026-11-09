@@ -22,10 +22,10 @@
         "ICE"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-f61c82d101.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-9db9a9c55e.jpg",
         "kind": "photo",
-        "alt": "Trump beismerte: a túl kemény bevándorlórazziák okozták a republikánusok vesztét",
-        "cover": true
+        "alt": "Térkép: Texas",
+        "card": "map"
       }
     },
     {
@@ -4408,5 +4408,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T13:00:15+01:00"
+  "updated_at": "2026-11-09T13:09:15+01:00"
 }
