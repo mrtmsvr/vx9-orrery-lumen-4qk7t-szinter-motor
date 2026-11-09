@@ -36,16 +36,15 @@
       "word_count": 163,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-c083d5d30c.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-c083d5d30c.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Magyar_P%C3%A9ter.jpg/1280px-Magyar_P%C3%A9ter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 725,
         "kind": "photo",
-        "alt": "Ügynökaktákkal és egy AirPodsszal teniszezett a Parlamentben Magyar Péter",
-        "credit": "A videó előnézeti képe – 444.hu (YouTube)",
-        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
-        "source_url": "https://www.youtube.com/watch?v=NMJKLCWbibo",
-        "card": "video",
-        "width": 1280,
-        "height": 720
+        "pos": "center",
+        "alt": "Hungarian politician Péter Magyar is interviewed by Gábor Révész after giving a speech at a campaign event in Csongrád on 20 May 2024 ahead of the European Parliament elections in Hungary.",
+        "credit": "Révész Gábor / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_P%C3%A9ter.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -106,7 +105,7 @@
       "pipeline_run_id": "42663616126",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-09T18:49:45+01:00",
-      "updated_at": "2026-11-09T18:49:45+01:00",
+      "updated_at": "2026-11-09T17:53:47+00:00",
       "published_at": "2026-11-09T18:49:45+01:00",
       "expires_at": null,
       "video": {
