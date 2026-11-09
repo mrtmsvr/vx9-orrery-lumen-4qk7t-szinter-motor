@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T00:15:27+01:00",
+  "updated_at": "2026-11-10T00:08:22+01:00",
   "articles": [
+    {
+      "id": "54aff031-2a69-5438-8d6b-57ff22f7f3a7",
+      "slug": "2026-11-10-a-felso-to-legendaja-az-ss-edmund-fitzgerald-utolso-utja",
+      "status": "published",
+      "category": "retro",
+      "subcategory": null,
+      "tags": [
+        "SS Edmund Fitzgerald",
+        "Felső-tó",
+        "hajótragédia",
+        "1975",
+        "Nagy-tavak"
+      ],
+      "title": "A Felső-tó legendája: Az SS Edmund Fitzgerald utolsó útja",
+      "subtitle": null,
+      "lead": "Negyvenkilenc évvel ezelőtt, egy könyörtelen novemberi éjszakán az észak-amerikai Nagy-tavak valaha volt legnagyobb szállítóhajója a vihar áldozatává vált. Az SS Edmund Fitzgerald pusztulása huszonkilenc fős legénységének életét követelte a Felső-tó mélyén.",
+      "content": "> A fenséges és kérlelhetetlen Felső-tó mélye őrzi az észak-amerikai hajózás egyik legtragikusabb fejezetét.\n\nAz észak-amerikai Nagy-tavak hatalmas víztömege évszázadok óta hordozza a hajózás történetének drámáit, de kevés emlék élteti olyan mélyen a gyászt és a tiszteletet, mint az SS Edmund Fitzgerald sorsa. Ez az amerikai teherhajó, amely a Nagy-tavak büszkeségeként szelte a vizet, végzetes útjára 1975-ben indult.\n\nAmikor a hajót vízre bocsátották 1958. június 7-én, ő volt a legnagyobb vízi jármű Észak-Amerika Nagy-tavain. Impozáns méretei és ereje a korszak technológiai fejlettségét szimbolizálták, és hosszú éveken át biztonságosan szolgálta az északi iparútvonalakat, gabonát és ércet szállítva a viharos vizeken.\n\n1975. november 10-én azonban a természet olyan erőkkel csapott le, amelyekkel szemben a legnagyobb acélkolosszus is tehetetlennek bizonyult. Egy pusztító vihar sodorta veszélybe a hajót a Felső-tavon, amely a Nagy-tavak legészakibb, legnyugatibb és legmagasabban fekvő tagja, egyben a világ legnagyobb felületű édesvízű tava.\n\nA harcias hullámok között az SS Edmund Fitzgerald végül elmerült a mélyben. A katasztrófa következtében a fedélzeten tartózkodó mind a 29 ember életét vesztette, ami az észak-amerikai tavak történetének egyik legsúlyosabb hajótragédiájává tette az esetet.\n\nA hajó eltűnése után hamarosan megindult a kutatás. Röviddel a tragédia után, november 14-én egy amerikai haditengerészeti repülőgép – mágneses anomáliákat észlelve – lokalizálta a roncsot a Felső-tó mélyén. A vizsgálatok hamarosan megerősítették a legrosszabbat: a hajótest két nagy darabra szakadva nyugszik a fenéken.\n\nAz SS Edmund Fitzgerald azóta is a Nagy-tavak legnagyobb méretű, mederben nyugvó roncsa maradt. Története mély nyomot hagyott a térség kulturális emlékezetében, és örök emléket állít mindazoknak, akik a fenséges, de kérlelhetetlen vizeken vesztették életüket.",
+      "content_format": "markdown",
+      "body": [
+        "Az észak-amerikai Nagy-tavak hatalmas víztömege évszázadok óta hordozza a hajózás történetének drámáit, de kevés emlék élteti olyan mélyen a gyászt és a tiszteletet, mint az SS Edmund Fitzgerald sorsa. Ez az amerikai teherhajó, amely a Nagy-tavak büszkeségeként szelte a vizet, végzetes útjára 1975-ben indult.",
+        "Amikor a hajót vízre bocsátották 1958. június 7-én, ő volt a legnagyobb vízi jármű Észak-Amerika Nagy-tavain. Impozáns méretei és ereje a korszak technológiai fejlettségét szimbolizálták, és hosszú éveken át biztonságosan szolgálta az északi iparútvonalakat, gabonát és ércet szállítva a viharos vizeken.",
+        "1975. november 10-én azonban a természet olyan erőkkel csapott le, amelyekkel szemben a legnagyobb acélkolosszus is tehetetlennek bizonyult. Egy pusztító vihar sodorta veszélybe a hajót a Felső-tavon, amely a Nagy-tavak legészakibb, legnyugatibb és legmagasabban fekvő tagja, egyben a világ legnagyobb felületű édesvízű tava.",
+        "A harcias hullámok között az SS Edmund Fitzgerald végül elmerült a mélyben. A katasztrófa következtében a fedélzeten tartózkodó mind a 29 ember életét vesztette, ami az észak-amerikai tavak történetének egyik legsúlyosabb hajótragédiájává tette az esetet.",
+        "A hajó eltűnése után hamarosan megindult a kutatás. Röviddel a tragédia után, november 14-én egy amerikai haditengerészeti repülőgép – mágneses anomáliákat észlelve – lokalizálta a roncsot a Felső-tó mélyén. A vizsgálatok hamarosan megerősítették a legrosszabbat: a hajótest két nagy darabra szakadva nyugszik a fenéken.",
+        "Az SS Edmund Fitzgerald azóta is a Nagy-tavak legnagyobb méretű, mederben nyugvó roncsa maradt. Története mély nyomot hagyott a térség kulturális emlékezetében, és örök emléket állít mindazoknak, akik a fenséges, de kérlelhetetlen vizeken vesztették életüket."
+      ],
+      "pull_quote": "A fenséges és kérlelhetetlen Felső-tó mélye őrzi az észak-amerikai hajózás egyik legtragikusabb fejezetét.",
+      "reading_time_min": 2,
+      "word_count": 288,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Edmund_Fitzgerald%2C_1971%2C_3_of_4_%28restored%3B_cropped%29.jpg/1280px-Edmund_Fitzgerald%2C_1971%2C_3_of_4_%28restored%3B_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 701,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Edmund Fitzgerald, 1971",
+        "credit": "Greenmars / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Edmund_Fitzgerald,_1971,_3_of_4_(restored;_cropped).jpg"
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+          "title": "SS Edmund Fitzgerald",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Lake_Superior",
+          "title": "Lake Superior",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/SS_Edmund_Fitzgerald",
+          "title": "SS Edmund Fitzgerald",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        },
+        {
+          "url": "https://www.npr.org/2015/02/14/386227473/50-years-of-music-with-gordon-lightfoot",
+          "title": "NPR",
+          "publisher": "NPR",
+          "license": null,
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Fels%C5%91-t%C3%B3",
+          "title": "Felső-tó",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        },
+        {
+          "url": "https://catalog.archives.gov/id/10046718",
+          "title": "National Archives",
+          "publisher": "National Archives",
+          "license": null,
+          "accessed_at": "2026-11-10T00:08:22+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "retro-v1",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "category_meta": {
+        "event_year": 1975,
+        "event_date": "11-10",
+        "event_title": "SS Edmund Fitzgerald sank in Lake Superior, claiming all 29 of her crew's lives"
+      },
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "url": "/retro/2026-11-10-a-felso-to-legendaja-az-ss-edmund-fitzgerald-utolso-utja/",
+      "seo": {
+        "meta_title": "A Felső-tó legendája: Az SS Edmund Fitzgerald utolsó útja",
+        "meta_description": "Negyvenkilenc évvel ezelőtt, egy könyörtelen novemberi éjszakán az észak-amerikai Nagy-tavak valaha volt legnagyobb szállítóhajója a vihar áldozatává vált. Az S",
+        "canonical_url": "https://xn--kollektva-m5a.hu/retro/2026-11-10-a-felso-to-legendaja-az-ss-edmund-fitzgerald-utolso-utja/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "fb48c527f52e832b82ddad6d3f5d52aabe973c781a78b9d109ed155b2e63242d",
+      "pipeline_run_id": "42714668645",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-10T00:08:22+01:00",
+      "updated_at": "2026-11-10T00:08:22+01:00",
+      "published_at": "2026-11-10T00:08:22+01:00",
+      "expires_at": null
+    },
     {
       "id": "a52a45c7-826e-5de5-b591-9b5b74b67ee3",
       "slug": "2026-11-09-a-tronfosztas-napja-amikor-a-22-eves-kaszparov-lett-a-sakk-kiralya",
