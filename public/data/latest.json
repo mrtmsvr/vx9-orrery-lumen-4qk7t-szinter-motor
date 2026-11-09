@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "62d0f4d2-d455-56b2-8d21-446b391fc019",
+      "slug": "2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol",
+      "url": "/kozelet/2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol/",
+      "title": "Leszámolás vagy elszámoltatás? Orbán Viktor az öccsét érintő akcióról",
+      "lead": "Hétfő reggel a Terrorelhárítási Központ és a Nemzeti Nyomozó Iroda is akcióba lépett egy ingatlannál, miközben Orbán Viktor élesen kritizálta a kormányt. A volt miniszterelnök szerint az öccsét érintő eljárás nem más, mint politikai leszámolás és figyelemelterelés.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T11:09:22+01:00",
+      "published_at": "2026-11-09T11:09:22+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Orbán Viktor",
+        "Orbán Áron",
+        "rendőrség",
+        "belföld",
+        "ügynökbotrány"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Orban_Viktor_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1769,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Maribor.\nPredsednik vlade Robert Golob je na delovnem kosilu v Mariboru gosti predsednika vlade Madžarske Viktorja Orbana.\n\nFoto: Bor Slana/ST"
+      }
+    },
+    {
       "id": "50d30b59-0197-5895-8d0e-a93b36c4d29a",
       "slug": "2026-11-09-kilenc-ora-a-csendes-oceanban-tulelte-a-hajorol-kiesett-zongorista",
       "url": "/vilag/2026-11-09-kilenc-ora-a-csendes-oceanban-tulelte-a-hajorol-kiesett-zongorista/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Prezes Rady Ministrów Donald Tusk"
       }
-    },
-    {
-      "id": "2f5a0b4f-c17a-51d7-a121-f85b51aea570",
-      "slug": "2026-11-01-hetvenezer-rendor-es-bedeszkazott-boltok-igy-indult-a-francia-szombat",
-      "url": "/vilag/2026-11-01-hetvenezer-rendor-es-bedeszkazott-boltok-igy-indult-a-francia-szombat/",
-      "title": "Hetvenezer rendőr és bedeszkázott boltok: így indult a francia szombat",
-      "lead": "Rendkívüli biztonsági intézkedések mellett, hetvenezer rendfenntartó jelenlétében kezdődtek meg a szakszervezetek által szervezett szociális megmozdulások Franciaországban. A hatóságok attól tartanak, hogy a sötétedéssel érkező ultrabaloldali csoportok és a halloween álarcai mögé bújó vandálok súlyos zavargásokat provokálnak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T10:09:09+01:00",
-      "published_at": "2026-11-01T10:09:09+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.96,
-      "tags": [
-        "Franciaország",
-        "tüntetés",
-        "zavargások",
-        "Párizs",
-        "biztonsági intézkedések"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Paris_riots%2C_17_October_2026_-_Protester_in_rainbow_wig_-_JJxFile_0001.jpg/1280px-Paris_riots%2C_17_October_2026_-_Protester_in_rainbow_wig_-_JJxFile_0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Protests and riots in Paris on 17 October 2026. Demonstrators gathered around Place de la République amid tear gas; cars and shared bikes were set on fire on Boulevard Voltaire and extinguished by the"
-      }
     }
   ],
-  "updated_at": "2026-11-09T10:21:38+01:00"
+  "updated_at": "2026-11-09T11:09:24+01:00"
 }
