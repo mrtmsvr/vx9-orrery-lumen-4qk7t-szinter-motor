@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9b00ca87-2163-56d4-8c84-ef42abc93701",
+      "slug": "2026-11-09-kinai-hirszerzesi-muvelet-celpontja-lehetett-az-nvidia-vezerigazgatoj",
+      "url": "/vilag/2026-11-09-kinai-hirszerzesi-muvelet-celpontja-lehetett-az-nvidia-vezerigazgatoj/",
+      "title": "Kínai hírszerzési művelet célpontja lehetett az Nvidia vezérigazgatója",
+      "lead": "Független vizsgálatot indított az Nvidia, miután kiderült, hogy Jensen Huang vezérigazgató viszonyt folytatott egy kínai hírszerzési művelettel összefüggésbe hozott üzletasszonnyal. Az ügy nemcsak a cég vezetését rázta meg, de a washingtoni nemzetbiztonsági köröket is lázba hozta.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T11:41:37+01:00",
+      "published_at": "2026-11-09T11:41:37+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.11,
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "Kína",
+        "hírszerzés",
+        "mesterséges intelligencia"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jen-Hsun_Huang_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1561,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Huang arrives for a dinner for Crown Prince and Prime Minister Mohammed bin Salman Al Saud of Saudi Arabia, Tuesday, November 18, 2025, at the White House. (Official White House Photo by Daniel Torok)"
+      }
+    },
+    {
       "id": "62d0f4d2-d455-56b2-8d21-446b391fc019",
       "slug": "2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol",
       "url": "/kozelet/2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Robert F. Kennedy Department of Justice Building in Washington, D.C."
       }
-    },
-    {
-      "id": "c1e7579b-5dc4-52d1-95a9-148d7fe8130e",
-      "slug": "2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban",
-      "url": "/vilag/2026-11-01-donald-tusk-lapot-huzott-kizarta-a-kompromisszumot-varsoban/",
-      "title": "Donald Tusk lapot húzott: kizárta a kompromisszumot Varsóban",
-      "lead": "Donald Tusk lengyel miniszterelnök szombat esti rendkívüli beszédében kizárta az alkotmánybírósági válság kompromisszumos rendezését, miután a testület körül nyílt hatalmi harc bontakozott ki. A kibontakozó konfliktus nemcsak a lengyel jogállamiság alapjait rengeti meg, hanem az európai uniós intézmények figyelmét is felkeltette.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T10:23:22+01:00",
-      "published_at": "2026-11-01T10:23:22+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Donald Tusk",
-        "Karol Nawrocki",
-        "Lengyelország",
-        "alkotmánybíróság",
-        "jogállamiság"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Premier_Donald_Tusk_KPRM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1574,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Prezes Rady Ministrów Donald Tusk"
-      }
     }
   ],
-  "updated_at": "2026-11-09T11:09:24+01:00"
+  "updated_at": "2026-11-09T11:41:38+01:00"
 }
