@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d03cef94-0402-527a-a981-112549d1ed28",
+      "slug": "2026-11-09-peldatlan-kibertamadas-az-irani-iszlam-forradalmi-garda-embereit-vado",
+      "url": "/vilag/2026-11-09-peldatlan-kibertamadas-az-irani-iszlam-forradalmi-garda-embereit-vado/",
+      "title": "Példátlan kibertámadás: az iráni Iszlám Forradalmi Gárda embereit vádolja Párizs",
+      "lead": "Franciaország az iráni Iszlám Forradalmi Gárdát vádolja a múlt havi, több száz szupermarketet és egy vérellátót is érintő hackertámadásért, amelyben milliós károk keletkeztek. A példátlan akció ügyében a párizsi ügyészség már nyomozást is indított egy offenzív kiberegység ellen.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T18:45:52+01:00",
+      "published_at": "2026-11-09T18:45:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.1,
+      "tags": [
+        "kibertámadás",
+        "Franciaország",
+        "Irán",
+        "Iszlám Forradalmi Gárda",
+        "szupermarket"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Seal_of_the_Army_of_the_Guardians_of_the_Islamic_Revolution.svg/1280px-Seal_of_the_Army_of_the_Guardians_of_the_Islamic_Revolution.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1276,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The Official Emblem of Islamic Revolutionary Guard Corps (IRGC).The top text says:واعدوا لهم ما استطعتم من قوه\"Prepare against them what you ˹believers˺ can of ˹military˺ power\"The bottom right text,"
+      }
+    },
+    {
       "id": "bdcebaf5-fcfc-5113-888b-2a62f63936c1",
       "slug": "2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok",
       "url": "/kozelet/2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Zanzibar (Hungarian band): Gábor Nagy, András Donát Kovács, Rita Terecskei, Miklós Steklács"
       }
-    },
-    {
-      "id": "1c27c4ed-88fa-56a6-9991-c6dcc9fb14ce",
-      "slug": "2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk",
-      "url": "/vilag/2026-11-01-trump-meg-egy-ket-irani-helyszint-lerombolna-koztuk-egy-rejtelyes-nuk/",
-      "title": "Trump még egy-két iráni helyszínt lerombolna, köztük egy rejtélyes nukleáris bázist",
-      "lead": "Donald Trump amerikai elnök szombati kijelentése szerint az Egyesült Államoknak még egy-két helyszínt le kell rombolnia Iránban. A célpontok között szerepel a Teherántól délre fekvő Kolang-hegy, ahol a feltételezések szerint nukleáris létesítmény működik.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T15:12:16+01:00",
-      "published_at": "2026-11-01T15:12:16+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.86,
-      "tags": [
-        "Donald Trump",
-        "Irán",
-        "Kolang-hegy",
-        "nukleáris program",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Naghshe_jahan_01.jpg/1280px-Naghshe_jahan_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 850,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "This is a photo of a monument in Iran identified by the ID"
-      }
     }
   ],
-  "updated_at": "2026-11-09T18:44:21+01:00"
+  "updated_at": "2026-11-09T18:45:54+01:00"
 }
