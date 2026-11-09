@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4d3be105-e0cf-5387-8f42-0c9c643680c9",
+      "slug": "2026-11-09-megrekedtek-a-targyalasok-elfogadhatatlannak-tartja-teheran-koveteles",
+      "url": "/vilag/2026-11-09-megrekedtek-a-targyalasok-elfogadhatatlannak-tartja-teheran-koveteles/",
+      "title": "Megrekedtek a tárgyalások: elfogadhatatlannak tartja Teherán követeléseit az amerikai diplomácia",
+      "lead": "Egyelőre nem történt érdemi előrelépés az iráni konfliktus lezárását célzó diplomáciai tárgyalásokon, mivel Marco Rubio amerikai külügyminiszter szerint a felvetések elfogadhatatlanok. A helyzet rendezése érdekében Donald Trump amerikai elnök a katari miniszterelnökkel egyeztet Washingtonban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T07:44:12+01:00",
+      "published_at": "2026-11-09T07:44:12+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.13,
+      "tags": [
+        "Marco Rubio",
+        "Irán",
+        "Egyesült Államok",
+        "Donald Trump",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kim_Jong-un_and_Donald_Trump_impersonators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 911,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Howard X and Dennis Alan, impersonators of Kim Jong-un and Donald Trump during the 2018 North Korea–United States summit in Singapore"
+      }
+    },
+    {
       "id": "00b43763-2568-5d34-b20d-a346e6927049",
       "slug": "2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga",
       "url": "/kozelet/2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga/",
@@ -4378,36 +4408,7 @@
         "kind": "photo",
         "alt": "Man sitting alone bench looking"
       }
-    },
-    {
-      "id": "0437054c-3b4b-5172-ba34-314b8660ce89",
-      "slug": "2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor",
-      "url": "/vilag/2026-10-31-rakijazassal-es-elozenevel-lazitott-milorad-dodiknal-orban-viktor/",
-      "title": "Rakijázással és élőzenével lazított Milorad Dodiknál Orbán Viktor",
-      "lead": "Orbán Viktor családi látogatást tett a boszniai Szerb Köztársaság korábbi vezetőjénél, Milorad Dodiknál. A találkozóról közzétett felvételek szerint a felek tábortűz mellett, élőzene kíséretében fogyasztottak röviditalokat.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T17:57:37+01:00",
-      "published_at": "2026-10-31T17:57:37+01:00",
-      "reading_time_min": 2,
-      "hot_score": 0,
-      "tags": [
-        "Orbán Viktor",
-        "Milorad Dodik",
-        "Boszniai Szerb Köztársaság",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1601,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
-      }
     }
   ],
-  "updated_at": "2026-11-09T07:42:52+01:00"
+  "updated_at": "2026-11-09T07:44:14+01:00"
 }
