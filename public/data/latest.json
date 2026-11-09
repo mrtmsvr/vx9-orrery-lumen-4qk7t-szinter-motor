@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "00b43763-2568-5d34-b20d-a346e6927049",
+      "slug": "2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga",
+      "url": "/kozelet/2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga/",
+      "title": "Harminc éve nem látott mélységbe zuhant a Fidesz támogatottsága",
+      "lead": "Jelentősen visszaesett a Fidesz támogatottsága, miközben a Tisza Párt tovább erősítette pozícióját a Medián november elején készült közvélemény-kutatása szerint. A felmérés adatai alapjaiban rajzolják át a hazai politikai erőviszonyokat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T07:42:50+01:00",
+      "published_at": "2026-11-09T07:42:50+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.02,
+      "tags": [
+        "Medián",
+        "közvélemény-kutatás",
+        "Fidesz",
+        "Tisza Párt",
+        "pártpreferencia"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Orb%C3%A1n_Viktor_-_CPAC_Hungary_2024_%282%29.jpg/1280px-Orb%C3%A1n_Viktor_-_CPAC_Hungary_2024_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Orbán Viktor - CPAC Hungary 2024."
+      }
+    },
+    {
       "id": "8cdd3ebd-1822-5e0e-9c63-184cfc6ebba5",
       "slug": "2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban",
       "url": "/vilag/2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban/",
@@ -4377,37 +4407,7 @@
         "pos": "center",
         "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
       }
-    },
-    {
-      "id": "c5d16c90-9c1b-5ca6-abbd-61fbbd989ada",
-      "slug": "2026-10-31-nyugati-milliardokbol-kap-otszaz-uj-patriot-raketat-ukrajna",
-      "url": "/vilag/2026-10-31-nyugati-milliardokbol-kap-otszaz-uj-patriot-raketat-ukrajna/",
-      "title": "Nyugati milliárdokból kap ötszáz új Patriot rakétát Ukrajna",
-      "lead": "Az amerikai kormányzat jóváhagyta ötszáz darab Patriot elfogó rakéta értékesítését Ukrajnának 2,1 milliárd dollár értékben. A légvédelmi eszközök beszerzését Kanada, Németország és Norvégia finanszírozza.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T13:27:04+01:00",
-      "published_at": "2026-10-31T13:27:04+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.58,
-      "tags": [
-        "Ukrajna",
-        "Egyesült Államok",
-        "Patriot rakéta",
-        "légvédelem",
-        "fegyverüzlet"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/436th_Unmanned_Air_Defense_Systems_Battalion.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1392,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Patch of 436th Unmanned Air Defense Systems Battalion"
-      }
     }
   ],
-  "updated_at": "2026-11-09T07:37:20+01:00"
+  "updated_at": "2026-11-09T07:42:52+01:00"
 }
