@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d4258dbf-d298-53d2-bca2-f7b4b3bd7508",
+      "slug": "2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt",
+      "url": "/kozelet/2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt/",
+      "title": "Győrben tüntettek az autóipar válsága miatt",
+      "lead": "Nemzetközi szakszervezeti tüntetést tartottak hétfőn Győrben az Audi Aréna előtt, ahol a résztvevők az európai autóipar válságára és a fenyegető létszámleépítésekre hívták fel a figyelmet. A demonstráció hátterében a prémiumautók díszléceit gyártó WKW Hungária év végi bezárása és a közel ötszáz dolgozót érintő elbocsátások állnak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T20:13:44+01:00",
+      "published_at": "2026-11-09T20:13:44+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.38,
+      "tags": [
+        "Győr",
+        "autóipar",
+        "szakszervezet",
+        "WKW Hungária",
+        "tüntetés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Audi_Ar%C3%A9na_Gy%C5%91r_03.JPG/1280px-Audi_Ar%C3%A9na_Gy%C5%91r_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 674,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Audi Aréna Győr"
+      }
+    },
+    {
       "id": "df504a46-6e14-51dd-833b-a16c964728a5",
       "slug": "2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb",
       "url": "/kozelet/2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb/",
@@ -4380,37 +4410,7 @@
         "pos": "center",
         "alt": ": Budaörs railway station, platform side.  - Raktár Street, Budaörs, Pest County."
       }
-    },
-    {
-      "id": "cf1c1eaa-62ec-5ca8-a83c-42e88fc7c81c",
-      "slug": "2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter",
-      "url": "/kozelet/2026-11-01-teljesen-bezar-novemberre-a-napolyi-repuloter/",
-      "title": "Teljesen bezár novemberre a nápolyi repülőtér",
-      "lead": "Teljes egészében bezárja kapuit novemberben a nápolyi Capodichino repülőtér a nagyszabású felújítási munkálatok miatt. A járatokat a környező légikikötőkbe terelik át, az utazóknak pedig külön közlekedési kedvezményeket biztosítanak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T18:46:48+01:00",
-      "published_at": "2026-11-01T18:46:48+01:00",
-      "reading_time_min": 1,
-      "hot_score": 11.18,
-      "tags": [
-        "Nápoly",
-        "repülőtér",
-        "Olaszország",
-        "légiközlekedés",
-        "felújítás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Naples_Airport%2C_Italy_%2818069997289%29.jpg/1280px-Naples_Airport%2C_Italy_%2818069997289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 797,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Naples Airport, Italy"
-      }
     }
   ],
-  "updated_at": "2026-11-09T19:28:32+01:00"
+  "updated_at": "2026-11-09T20:13:46+01:00"
 }
