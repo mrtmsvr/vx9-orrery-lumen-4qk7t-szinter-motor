@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bdcebaf5-fcfc-5113-888b-2a62f63936c1",
+      "slug": "2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok",
+      "url": "/kozelet/2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok/",
+      "title": "Fékezésre kényszerítette a parlamentet a köztársasági elnök",
+      "lead": "Baka András köztársasági elnök nem írta alá az Országgyűlés által november 3-án elfogadott, az állami vagyon védelméről szóló törvénymódosítást, és előzetes normakontrollért az Alkotmánybírósághoz fordult. Az államfő kifogásolta a villámgyors, egyeztetés nélküli jogalkotást és a kisbefektetők jogait sértő rendelkezéseket.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T18:44:19+01:00",
+      "published_at": "2026-11-09T18:44:19+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.1,
+      "tags": [
+        "Baka András",
+        "Alkotmánybíróság",
+        "Országgyűlés",
+        "állami vagyon",
+        "befektetők"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g_logo_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Coat of arms of the Constitutional Court of Hungary"
+      }
+    },
+    {
       "id": "424e1df4-a9e0-5161-8847-143e94d53f38",
       "slug": "2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta",
       "url": "/kozelet/2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "This is a photo of a monument in Iran identified by the ID"
       }
-    },
-    {
-      "id": "185239fe-841d-5be8-b8d1-b7b69f1f095f",
-      "slug": "2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov",
-      "url": "/vilag/2026-11-01-trump-es-putyin-talalkozojarol-egyeztetett-rubio-es-lavrov/",
-      "title": "Trump és Putyin találkozójáról egyeztetett Rubio és Lavrov",
-      "lead": "Marco Rubio amerikai külügyminiszter orosz kollégájával, Szergej Lavrovval egyeztetett Donald Trump és Vlagyimir Putyin esetleges kínai találkozójáról. A megbeszélések célja a decemberi, miami G20-csúcstalálkozó előkészítése volt.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T14:50:44+01:00",
-      "published_at": "2026-11-01T14:50:44+01:00",
-      "reading_time_min": 3,
-      "hot_score": 7.62,
-      "tags": [
-        "Donald Trump",
-        "Vlagyimir Putyin",
-        "Marco Rubio",
-        "Szergej Lavrov",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2829-05-2025%29_%28cropped%29.jpg/1280px-%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2_%2829-05-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1677,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Министр иностранных дел Сергей Лавров."
-      }
     }
   ],
-  "updated_at": "2026-11-09T18:19:56+01:00"
+  "updated_at": "2026-11-09T18:44:21+01:00"
 }

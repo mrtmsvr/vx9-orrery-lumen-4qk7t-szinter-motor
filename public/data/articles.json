@@ -1,7 +1,146 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:19:16+01:00",
+  "updated_at": "2026-11-09T18:44:19+01:00",
   "articles": [
+    {
+      "id": "bdcebaf5-fcfc-5113-888b-2a62f63936c1",
+      "slug": "2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Baka András",
+        "Alkotmánybíróság",
+        "Országgyűlés",
+        "állami vagyon",
+        "befektetők"
+      ],
+      "title": "Fékezésre kényszerítette a parlamentet a köztársasági elnök",
+      "subtitle": null,
+      "lead": "Baka András köztársasági elnök nem írta alá az Országgyűlés által november 3-án elfogadott, az állami vagyon védelméről szóló törvénymódosítást, és előzetes normakontrollért az Alkotmánybírósághoz fordult. Az államfő kifogásolta a villámgyors, egyeztetés nélküli jogalkotást és a kisbefektetők jogait sértő rendelkezéseket.",
+      "key_points": [
+        "Baka András köztársasági elnök az Alkotmánybírósághoz küldte az állami vagyon védelméről szóló törvénymódosítást.",
+        "A jogszabályt mindössze 26 óra alatt, társadalmi és szakmai egyeztetés nélkül fogadta el az Országgyűlés.",
+        "Az államfő szerint a szabályozás sértheti a jogbiztonságot, a kisebbségi befektetők jogait és a már működő alapok szerződéseit."
+      ],
+      "content": "A Sándor-palota közleménye szerint Baka András köztársasági elnök az Alkotmánybírósághoz fordult az Országgyűlés által november 3-án elfogadott, az állami vagyon és az állami hátterű finanszírozás védelméről szóló törvénymódosítás miatt. A kisbefektetők korábban amiatt háborodtak fel, mert a salátatörvényként elfogadott jogszabály megkönnyítheti a tőzsdén jegyzett, Jászai Gellért-féle 4iG vagy a Mészáros Lőrinc-féle MBH átvételét. A Ruff Bálint miniszterelnök-helyettes által benyújtott tervezet elsősorban ezeket a cégeket és azok tulajdonosait érintheti, miközben a tőkepiacról szóló törvény több passzusát is átírja.\n\nA vitatott szabályozás értelmében a befektetési jegyek 60 százalékával rendelkező tulajdonos kezdeményezheti az alapkezelő cseréjét, ami egy cég tulajdonosváltásával is járhat. A törvényjavaslat indokolása szerint ilyenkor úgynevezett nem szándékolt részesedésszerzés történik, emiatt a nyilvános vételi ajánlattétel kötelezettsége nem indokolható. Az államfő beadványa arra hívja fel a figyelmet, hogy ez a rendelkezés nemcsak az újonnan létrejövő, hanem a már működő alapokra is vonatkozik, ráadásul olyanokra is, amelyekben egyáltalán nincs állami vagyon, vagy csak részben kezelnek ilyet.\n\nA köztársasági elnök álláspontja szerint ez a megoldás sértheti a jogbiztonság részét képező bizalomvédelem elvét, a fennálló szerződésekbe történő beavatkozás tilalmát, valamint a kisebbségi befektetők és az alapkezelők tulajdonhoz és vagyoni értékű jogokhoz fűződő jogait. Emellett a szabályozás egyes részei hiányosak vagy nem elég egyértelműek, ami a normavilágosság követelményét és a hatékony jogorvoslathoz való jog érvényesülését is veszélyezteti.\n\nAz államfő rámutatott, hogy a mentesítés a törvény szerinti alapkezelőváltáson túlmenően sokkal szélesebb körben teszi lehetővé a kötelezettség alóli mentesülést, ami sérti a kisebbségvédelmi követelményeket. Különösen aggályosnak tartja, hogy a jogszabály figyelmen kívül hagyja a már részvényekkel rendelkező befektetők jogos elvárásait, akik a tulajdonrészük megszerzésekor a korábbi szabályok alapján hozták meg döntésüket.\n\nA jogszabályt kivételes eljárásban hozták meg: a benyújtás és a megszavazás között mindössze 26 óra telt el, és társadalmi, valamint szakmai egyeztetésre sem került sor. A köztársasági elnök hangsúlyozta, hogy sem a törvény szövegéből, sem az előkészítéséből nem derül ki a rendkívüli sietség indoka. Az állami forrásokat még részben sem kezelő alapok vonatkozásában ez értelemszerűen nem is derülhet ki, a közhatalmi eszközökkel megvalósított piaci beavatkozás pedig megingathatja a magyar pénzügyi rendszerbe vetett bizalmat, ami elbizonytalaníthatja a nemzetközi befektetőket.",
+      "content_format": "markdown",
+      "body": [
+        "A Sándor-palota közleménye szerint Baka András köztársasági elnök az Alkotmánybírósághoz fordult az Országgyűlés által november 3-án elfogadott, az állami vagyon és az állami hátterű finanszírozás védelméről szóló törvénymódosítás miatt. A kisbefektetők korábban amiatt háborodtak fel, mert a salátatörvényként elfogadott jogszabály megkönnyítheti a tőzsdén jegyzett, Jászai Gellért-féle 4iG vagy a Mészáros Lőrinc-féle MBH átvételét. A Ruff Bálint miniszterelnök-helyettes által benyújtott tervezet elsősorban ezeket a cégeket és azok tulajdonosait érintheti, miközben a tőkepiacról szóló törvény több passzusát is átírja.",
+        "A vitatott szabályozás értelmében a befektetési jegyek 60 százalékával rendelkező tulajdonos kezdeményezheti az alapkezelő cseréjét, ami egy cég tulajdonosváltásával is járhat. A törvényjavaslat indokolása szerint ilyenkor úgynevezett nem szándékolt részesedésszerzés történik, emiatt a nyilvános vételi ajánlattétel kötelezettsége nem indokolható. Az államfő beadványa arra hívja fel a figyelmet, hogy ez a rendelkezés nemcsak az újonnan létrejövő, hanem a már működő alapokra is vonatkozik, ráadásul olyanokra is, amelyekben egyáltalán nincs állami vagyon, vagy csak részben kezelnek ilyet.",
+        "A köztársasági elnök álláspontja szerint ez a megoldás sértheti a jogbiztonság részét képező bizalomvédelem elvét, a fennálló szerződésekbe történő beavatkozás tilalmát, valamint a kisebbségi befektetők és az alapkezelők tulajdonhoz és vagyoni értékű jogokhoz fűződő jogait. Emellett a szabályozás egyes részei hiányosak vagy nem elég egyértelműek, ami a normavilágosság követelményét és a hatékony jogorvoslathoz való jog érvényesülését is veszélyezteti.",
+        "Az államfő rámutatott, hogy a mentesítés a törvény szerinti alapkezelőváltáson túlmenően sokkal szélesebb körben teszi lehetővé a kötelezettség alóli mentesülést, ami sérti a kisebbségvédelmi követelményeket. Különösen aggályosnak tartja, hogy a jogszabály figyelmen kívül hagyja a már részvényekkel rendelkező befektetők jogos elvárásait, akik a tulajdonrészük megszerzésekor a korábbi szabályok alapján hozták meg döntésüket.",
+        "A jogszabályt kivételes eljárásban hozták meg: a benyújtás és a megszavazás között mindössze 26 óra telt el, és társadalmi, valamint szakmai egyeztetésre sem került sor. A köztársasági elnök hangsúlyozta, hogy sem a törvény szövegéből, sem az előkészítéséből nem derül ki a rendkívüli sietség indoka. Az állami forrásokat még részben sem kezelő alapok vonatkozásában ez értelemszerűen nem is derülhet ki, a közhatalmi eszközökkel megvalósított piaci beavatkozás pedig megingathatja a magyar pénzügyi rendszerbe vetett bizalmat, ami elbizonytalaníthatja a nemzetközi befektetőket."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 385,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g_logo_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Coat of arms of the Constitutional Court of Hungary",
+        "credit": "Unknown authorUnknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g_logo_large.jpg",
+        "exact": true,
+        "entity": "Constitutional Court of Hungary",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/11/09/baka-andras-nem-irta-ala-a-ner-cegek-miatt-szuletett-allami-vagyonrol-szolo-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Baka András nem írta alá a NER-cégek miatt született állami vagyonról szóló törvényt",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-09T18:43:25+01:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/11/09/baka-andras-koztarsasagi-elnok-torveny-alkotmanybirosag-alairas-megtagadas/",
+          "title": "Nem írta alá Baka András az állami vagyon védelméről szóló törvényt, az Alkotmánybírósághoz fordult",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-09T18:43:25+01:00"
+        },
+        {
+          "url": "https://infostart.hu/belfold/2026/11/09/baka-andras-nem-irta-ala-az-allami-vagyon-vedelmerol-szolo-torvenyt",
+          "title": "Baka András nem írta alá az állami vagyon védelméről szóló törvényt",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-09T18:43:25+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-09T18:44:19+01:00"
+      },
+      "hot_score": 9.1,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/11/09/baka-andras-nem-irta-ala-a-ner-cegek-miatt-szuletett-allami-vagyonrol-szolo-torvenyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://index.hu/belfold/2026/11/09/baka-andras-koztarsasagi-elnok-torveny-alkotmanybirosag-alairas-megtagadas/",
+          "https://infostart.hu/belfold/2026/11/09/baka-andras-nem-irta-ala-az-allami-vagyon-vedelmerol-szolo-torvenyt"
+        ]
+      },
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "url": "/kozelet/2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok/",
+      "seo": {
+        "meta_title": "Fékezésre kényszerítette a parlamentet a köztársasági elnök",
+        "meta_description": "Baka András köztársasági elnök nem írta alá az Országgyűlés által november 3-án elfogadott, az állami vagyon védelméről szóló törvénymódosítást, és előzetes nor",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g_logo_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "8a1bdfe8-cce7-5376-aadf-9038721fd1c4",
+        "5e88a2bc-a990-589e-9b91-8d6dc0719954",
+        "4805d640-cc7f-57dc-9818-6b799a89f392"
+      ],
+      "see_also": [
+        {
+          "title": "Baka András: Vértelen forradalom zajlik",
+          "url": "/kozelet/2026-10-19-baka-andras-vertelen-forradalom-zajlik/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Újabb próbálkozás a főügyészi poszt betöltésére: Fejes Péter a jelölt",
+          "url": "/kozelet/2026-10-12-ujabb-probalkozas-a-fougyeszi-poszt-betoltesere-fejes-peter-a-jelolt/",
+          "date": "2026-10-12"
+        },
+        {
+          "title": "Ismert gazdasági nyomozók kerülhetnek a vagyonvisszaszerzési hivatalba",
+          "url": "/kozelet/2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb/",
+          "date": "2026-10-13"
+        }
+      ],
+      "thread_id": "d120b396-5efb-5543-8f09-166ce4129faf",
+      "dedupe_hash": "91e6c880efbf9fe29a82967f1c9ff6ce9871a0c99c7315ae0e7552574f97789d",
+      "pipeline_run_id": "42663616126",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-09T18:44:19+01:00",
+      "updated_at": "2026-11-09T18:44:19+01:00",
+      "published_at": "2026-11-09T18:44:19+01:00",
+      "expires_at": null
+    },
     {
       "id": "424e1df4-a9e0-5161-8847-143e94d53f38",
       "slug": "2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta",
@@ -73327,106 +73466,6 @@
       "created_at": "2026-10-12T16:46:38+02:00",
       "updated_at": "2026-10-12T16:46:38+02:00",
       "published_at": "2026-10-12T16:46:38+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "26ad3f22-906b-50e2-9717-802ca15db7d3",
-      "slug": "2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészség",
-        "kutatás",
-        "öregedés",
-        "agy",
-        "tudomány"
-      ],
-      "title": "Harminc nap alatt fordították vissza az öregedés jeleit egereken",
-      "subtitle": null,
-      "lead": "Egyetlen agyi fehérje pótlása sikerült harminc nap alatt visszafordítani az öregedés több jelét egereknél. A kutatók emellett egy olyan aminosavat is azonosítottak, amely javította a rágcsálók memóriáját.",
-      "key_points": [
-        "A Menin nevű fehérje szintje az életkor előrehaladtával csökken az agyban.",
-        "A fehérje mesterséges pótlása javította az egerek bőr- és csontállapotát, valamint memóriáját.",
-        "Egy D-szerin nevű aminosav három hét alatt fokozta a kísérleti állatok tanulási képességeit."
-      ],
-      "content": "Egy, a kínai Hsziamen Egyetem kutatója, Lige Leng és csapata által vezetett, 2023 márciusában a PLOS Biology folyóiratban publikált kutatás szerint az öregedési folyamatok hátterében részben egyetlen agyi fehérje, a Menin szintjének csökkenése állhat. A vizsgálatok során a szakemberek feltárták, hogy a Menin – amellyel korábban kevésbé foglalkoztak – szoros kapcsolatban áll a gyulladásos folyamatokkal, az agykémiával és a szervezet általános öregedésével.\n\nA folyamat központjában a hipotalamusz áll, amely többek között a testhőmérsékletet, az éhségérzetet, az anyagcserét, az alvást és a hormontermelést szabályozza. A kutatók megfigyelték, hogy a Menin szintje az egerek öregedésével fokozatosan csökken a hipotalamusz bizonyos neuronjaiban. Amikor genetikailag módosított egereknél csökkentették a Menin aktivitását, a rágcsálóknál fokozódott a gyulladási hajlam, elvékonyodott a bőrük, csökkent a csonttömegük, romlott a kognitív teljesítményük, és megrövidült az élettartamuk.\n\nEzt követően a kutatók géncélzási technikával növelték a Menin termelését a húsz hónapos egerek ventromediális hipotalamusz nevű agyterületén. Harminc nap elteltével a rágcsálók bőre megvastagodott, a csonttömegük gyarapodott, javult a tanulási, memóriatesztbeli és egyensúlyi teljesítményük, emellett a gyulladásos folyamatok is mérséklődtek.\n\nEgy másik kísérletben a szakemberek feltárták, hogy egy természetesen előforduló aminosav három hét alatt javította a rágcsálók tanulási képességét és memóriáját. A kutatók hangsúlyozzák: az eredmények egyelőre egereken végzett vizsgálatokból származnak, ugyanakkor új megközelítést nyithatnak az életkorral összefüggő kognitív hanyatlás kezelésében.",
-      "content_format": "markdown",
-      "body": [
-        "Egy, a kínai Hsziamen Egyetem kutatója, Lige Leng és csapata által vezetett, 2023 márciusában a PLOS Biology folyóiratban publikált kutatás szerint az öregedési folyamatok hátterében részben egyetlen agyi fehérje, a Menin szintjének csökkenése állhat. A vizsgálatok során a szakemberek feltárták, hogy a Menin – amellyel korábban kevésbé foglalkoztak – szoros kapcsolatban áll a gyulladásos folyamatokkal, az agykémiával és a szervezet általános öregedésével.",
-        "A folyamat központjában a hipotalamusz áll, amely többek között a testhőmérsékletet, az éhségérzetet, az anyagcserét, az alvást és a hormontermelést szabályozza. A kutatók megfigyelték, hogy a Menin szintje az egerek öregedésével fokozatosan csökken a hipotalamusz bizonyos neuronjaiban. Amikor genetikailag módosított egereknél csökkentették a Menin aktivitását, a rágcsálóknál fokozódott a gyulladási hajlam, elvékonyodott a bőrük, csökkent a csonttömegük, romlott a kognitív teljesítményük, és megrövidült az élettartamuk.",
-        "Ezt követően a kutatók géncélzási technikával növelték a Menin termelését a húsz hónapos egerek ventromediális hipotalamusz nevű agyterületén. Harminc nap elteltével a rágcsálók bőre megvastagodott, a csonttömegük gyarapodott, javult a tanulási, memóriatesztbeli és egyensúlyi teljesítményük, emellett a gyulladásos folyamatok is mérséklődtek.",
-        "Egy másik kísérletben a szakemberek feltárták, hogy egy természetesen előforduló aminosav három hét alatt javította a rágcsálók tanulási képességét és memóriáját. A kutatók hangsúlyozzák: az eredmények egyelőre egereken végzett vizsgálatokból származnak, ugyanakkor új megközelítést nyithatnak az életkorral összefüggő kognitív hanyatlás kezelésében."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 234,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/72000f6d656ae8a8.jpg",
-        "width": 2048,
-        "height": 1335,
-        "kind": "photo",
-        "alt": "animal, mouse, experiment, laboratory, hand, cute, medical, researcher, researching, medicine, chemical, test, research, scientific, chemistry, biotechnology, discovery, biology, scientist, technology",
-        "credit": "tiburi / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/animal-mouse-experiment-laboratory-1554745/",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/72000f6d656ae8a8.jpg",
-        "orig_url": "https://pixabay.com/get/gd688f1d3f43344612cb7619f3aceda6c3ffde6798980d851424a64b1a549b3d030dfc073b3d7d102e57835c0587d3ec7e585981a67735a005995dd01f2445e9a_1280.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-          "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-10-12T16:20:30+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-12T16:26:21+02:00"
-      },
-      "hot_score": 5.88,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/10/261009025708.htm"
-        ]
-      },
-      "date": "2026-10-12",
-      "date_label": "október 12.",
-      "url": "/eletmod/2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken/",
-      "seo": {
-        "meta_title": "Harminc nap alatt fordították vissza az öregedés jeleit eger",
-        "meta_description": "Egyetlen agyi fehérje pótlása sikerült harminc nap alatt visszafordítani az öregedés több jelét egereknél. A kutatók emellett egy olyan aminosavat is azonosí",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-12-harminc-nap-alatt-forditottak-vissza-az-oregedes-jeleit-egereken/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/72000f6d656ae8a8.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "6b675b678693d2501271af058b0963a628ccaf047fe5f5c26664499459d39ae1",
-      "pipeline_run_id": "38261151688",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T16:26:21+02:00",
-      "updated_at": "2026-10-22T01:41:20+00:00",
-      "published_at": "2026-10-12T16:26:21+02:00",
       "expires_at": null
     }
   ]
