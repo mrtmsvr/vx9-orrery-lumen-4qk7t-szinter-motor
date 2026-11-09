@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8d523af0-da8a-58a3-b1b4-388ef0a8c0e6",
+      "slug": "2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga",
+      "url": "/kozelet/2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga/",
+      "title": "Medián-sokk: 16 százalékra zuhant a Fidesz támogatottsága",
+      "lead": "Jelentős átrendeződést hozott a Medián november elején készült közvélemény-kutatása, amely szerint a Fidesz támogatottsága 16 százalékra esett vissza a teljes népességben. A friss adatok alapján a politológus úgy látja, hogy a kormánypárt és a Mi Hazánk először került egy súlycsoportba.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T14:19:13+01:00",
+      "published_at": "2026-11-09T14:19:13+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.96,
+      "tags": [
+        "Medián",
+        "Fidesz",
+        "Mi Hazánk",
+        "Tisza Párt",
+        "közvélemény-kutatás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/G%C3%A1bor_T%C3%B6r%C3%B6k_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1784,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Gábor Török a political scientist"
+      }
+    },
+    {
       "id": "f1fe8c76-c174-5a41-8a2c-b822ceddb13f",
       "slug": "2026-11-09-trump-beismerte-a-tul-kemeny-bevandorlorazziak-okoztak-a-republikanus",
       "url": "/vilag/2026-11-09-trump-beismerte-a-tul-kemeny-bevandorlorazziak-okoztak-a-republikanus/",
@@ -4376,37 +4406,7 @@
         "pos": "top",
         "alt": "Portrait of Ayatollah Sayyid Mojtaba Khamenei"
       }
-    },
-    {
-      "id": "30d6bba7-95ef-5485-ac51-6623f3a33a47",
-      "slug": "2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak",
-      "url": "/vilag/2026-11-01-vucsics-legfobb-rendore-bilincsben-hivatali-visszaelessel-gyanusitjak/",
-      "title": "Vucsics legfőbb rendőre bilincsben: hivatali visszaéléssel gyanúsítják a szerb bűnügyi főnököt",
-      "lead": "Hivatali visszaélés gyanújával őrizetbe vették vasárnap reggel Marko Kricsakot, a szerb bűnügyi rendőrség vezetőjét. Az intézkedés súlyos belpolitikai feszültségek közepette éri a balkáni országot.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T10:34:07+01:00",
-      "published_at": "2026-11-01T10:34:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Szerbia",
-        "Belgrád",
-        "Alekszandar Vucsics",
-        "rendőrség",
-        "korrupció"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Serbian_Government_building.jpg/1280px-Serbian_Government_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Serbian Government building in Belgrade."
-      }
     }
   ],
-  "updated_at": "2026-11-09T13:19:09+01:00"
+  "updated_at": "2026-11-09T14:19:15+01:00"
 }
