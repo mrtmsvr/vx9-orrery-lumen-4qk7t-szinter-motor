@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "424e1df4-a9e0-5161-8847-143e94d53f38",
+      "slug": "2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta",
+      "url": "/kozelet/2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta/",
+      "title": "Azonnal leállították a kazincbarcikai gázüzemet a halálos baleset után",
+      "lead": "Halálos kimenetelű szerencsétlenség történt hétfő reggel a Linde Gáz Magyarország kazincbarcikai telephelyén. A cég azonnal felfüggesztette az üzem működését, és lezárta a környéket.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T18:19:16+01:00",
+      "published_at": "2026-11-09T18:19:16+01:00",
+      "reading_time_min": 1,
+      "hot_score": 11.67,
+      "tags": [
+        "Kazincbarcika",
+        "munkahelyi baleset",
+        "Linde Gáz",
+        "tragédia"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/dfeb249da1d59671.jpg",
+        "width": 4433,
+        "height": 3325,
+        "kind": "photo",
+        "alt": "factory, building, industry, industrial plant, manufacturing plant, structure, metal, steel, neuss, germany, factory, factory, factory, factory, factory, industry, industry"
+      }
+    },
+    {
       "id": "2668d5bc-1dc5-5f9a-ae3c-d70781db191c",
       "slug": "2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete",
       "url": "/kultura/2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete/",
@@ -4380,37 +4408,7 @@
         "pos": "top",
         "alt": "Министр иностранных дел Сергей Лавров."
       }
-    },
-    {
-      "id": "77908db7-72f7-57a2-aac6-ed27076a3cf6",
-      "slug": "2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal",
-      "url": "/kozelet/2026-11-01-vitezy-david-tiz-balatoni-allomast-huz-ki-a-godorbol-de-akarattya-hal/",
-      "title": "Vitézy Dávid tíz balatoni állomást húz ki a gödörből, de Akarattya hallani sem akar erről",
-      "lead": "Közel tizenkét milliárd forintnyi uniós forrásból tíz észak-balatoni vasútállomás és megállóhely újul meg a következő években. A beruházás során liftet, magasperonokat és parkolókat is kialakítanak, azonban egy településen a lakosok tiltakozása miatt egyelőre elálltak a munkáktól.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T13:04:07+01:00",
-      "published_at": "2026-11-01T13:04:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.83,
-      "tags": [
-        "Vitézy Dávid",
-        "Balaton",
-        "vasút",
-        "MÁV",
-        "közlekedésfejlesztés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Vas%C3%BAt%C3%A1llom%C3%A1s%2C_2019_Balatonf%C3%BCred.jpg/1280px-Vas%C3%BAt%C3%A1llom%C3%A1s%2C_2019_Balatonf%C3%BCred.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ": Balatonfüred train station, viewed from train at track #5. - Vasút Street, Castricum Square, Balatonfüred, Veszprém County, Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-09T17:50:43+01:00"
+  "updated_at": "2026-11-09T18:19:18+01:00"
 }
