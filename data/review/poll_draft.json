@@ -1,35 +1,35 @@
 {
-  "id": "9158827e55",
-  "date": "2026-11-07",
-  "status": "approved",
-  "article_url": "/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
-  "article_title": "Drónelhárító pajzsot vontak a Karmelita kolostor köré",
+  "id": "2cf219fc6c",
+  "date": "2026-11-09",
+  "status": "pending",
+  "article_url": "/kozelet/2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon/",
+  "article_title": "Nagy Ervin a Közlekedési Múzeumnak ajándékozta a Tisza-kampány furgonját",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint indokolt a Karmelita kolostor drónelhárító védelme?",
+      "question": "Ön szerint helyes döntés volt a kampányfurgont múzeumnak ajándékozni?",
       "options": [
-        "Igen, a központi intézmények védelme kulcsfontosságú",
-        "Nem, ez túlzott és felesleges kiadás",
+        "Igen, jó ötlet a megőrzése",
+        "Nem, ennek nincs helye múzeumban",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyeseli, hogy titkosított szerződéssel szerezték be a védelmi rendszert?",
+      "question": "Mennyire tartja fontosnak a közelmúltbeli politikai kampányok tárgyi emlékeinek gyűjtését?",
       "options": [
-        "Igen, nemzetbiztonsági okokból szükséges a titoktartás",
-        "Nem, a közpénzek felhasználása legyen teljesen nyilvános",
+        "Nagyon fontosnak tartom",
+        "Teljesen feleslegesnek tartom",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tartana fontosabbnak a kormányzati épületek védelmében?",
+      "question": "Hogyan értékeli a politikai kampányeszközök múzeumi kiállítását?",
       "options": [
-        "A legmodernebb technológiai védelmi rendszerek kiépítését",
-        "A szigorú átláthatóságot és a takarékos gazdálkodást",
+        "Hasznos történelmi dokumentum",
+        "Inkább csak kampányfogás",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 9986
+  "msg_id": 10076
 }
