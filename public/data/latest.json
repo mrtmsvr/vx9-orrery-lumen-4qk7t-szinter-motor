@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8cdd3ebd-1822-5e0e-9c63-184cfc6ebba5",
+      "slug": "2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban",
+      "url": "/vilag/2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban/",
+      "title": "Tizennégyen égtek benn egy kínai toronyházban",
+      "lead": "Tizennégy ember vesztette életét egy észak-kínai toronyházban vasárnap délután keletkezett tűzben. A hatóságok harmincnyolc embert szállítottak kórházba a tajjüani lángok eloltása után.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T07:37:19+01:00",
+      "published_at": "2026-11-09T07:37:19+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Kína",
+        "tűzvész",
+        "toronyház",
+        "Sanhszi",
+        "Tajjüan"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/J84682_TempleYongzuo_20140717-155800.22_TempleYongzuoPEst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 2400,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Taiyuan (Shanxi, China) Yongzuo temple east pagoda, taken from west pagoda."
+      }
+    },
+    {
       "id": "a3c73b89-fceb-5d6c-9ea7-f600b37caa83",
       "slug": "2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok",
       "url": "/kozelet/2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok/",
@@ -4377,37 +4407,7 @@
         "pos": "top",
         "alt": "Patch of 436th Unmanned Air Defense Systems Battalion"
       }
-    },
-    {
-      "id": "39db4c8b-e51b-55f3-93b5-ae255986bd9c",
-      "slug": "2026-10-31-repulovel-menekitettek-ki-az-ehezo-lakosokat-az-ostromlott-oleskibol",
-      "url": "/vilag/2026-10-31-repulovel-menekitettek-ki-az-ehezo-lakosokat-az-ostromlott-oleskibol/",
-      "title": "Repülővel menekítették ki az éhező lakosokat az ostromlott Oleskiből",
-      "lead": "Október végén ideiglenes fegyverszünetet hirdettek a Dnyeper-parti Oleskiben, hogy a hónapok óta élelmiszer és gyógyszer nélkül maradt lakosok elhagyhassák a várost. A humanitárius művelet keretében az ukrán ellenőrzés alatt álló Herszonnal szemben fekvő település megmaradt lakossága buszokkal és repülőkkel juthat el.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T11:40:18+01:00",
-      "published_at": "2026-10-31T11:40:18+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Oleski",
-        "Ukrajna",
-        "humanitárius válság",
-        "menekültek",
-        "Dnyeper"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dniepras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1401,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Dniepro baseinas"
-      }
     }
   ],
-  "updated_at": "2026-11-09T06:23:25+01:00"
+  "updated_at": "2026-11-09T07:37:20+01:00"
 }
