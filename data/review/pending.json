@@ -6275,7 +6275,7 @@
     {
       "id": "38d45a1a-de17-5e8b-84ab-e736e46b08cc",
       "slug": "2026-11-09-ket-csesze-kave-a-tiszta-agyert",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -6527,9 +6527,9 @@
       "dedupe_hash": "7b4484f258ca9f36ecb8a2745ff6adeda3ce74673e805db03a378550ffd654ea",
       "pipeline_run_id": "42569556920",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-09T07:16:03+01:00",
-      "updated_at": "2026-11-09T07:16:03+01:00",
-      "published_at": null,
+      "created_at": "2026-11-09T15:49:20+01:00",
+      "updated_at": "2026-11-09T15:49:20+01:00",
+      "published_at": "2026-11-09T15:49:20+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-09T09:15:34+01:00",
@@ -6547,8 +6547,10 @@
         "lead": "Egy évtizedeken át húzódó kutatás szerint a napi néhány csésze kávé drasztikusan csökkentheti a demencia kialakulásának esélyét. De vajon mindegy, mit és mennyi ideig iszunk a reggeli rutinként?",
         "ctl_photo": false,
         "control_id": 10056,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "8cdd3ebd-1822-5e0e-9c63-184cfc6ebba5",
@@ -7499,7 +7501,7 @@
     {
       "id": "2668d5bc-1dc5-5f9a-ae3c-d70781db191c",
       "slug": "2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -7666,9 +7668,9 @@
       "dedupe_hash": "6b02f89587a8b971ccf4568df60077193c96bd6c8331c5a5ada3e4f7b1681923",
       "pipeline_run_id": "42571913368",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-09T07:45:09+01:00",
-      "updated_at": "2026-11-09T07:45:09+01:00",
-      "published_at": null,
+      "created_at": "2026-11-09T15:49:21+01:00",
+      "updated_at": "2026-11-09T15:49:21+01:00",
+      "published_at": "2026-11-09T15:49:21+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-09T09:44:48+01:00",
@@ -7689,8 +7691,10 @@
         "lead": "Az otthonunkat az ünnepre hangoló adventi koszorú nemcsak szép dekoráció, hanem évszázados hagyományokat őrző szimbólum is. Megmutatjuk, hogyan fogjunk hozzá a saját kezű elkészítéséhez.",
         "ctl_photo": true,
         "control_id": 10066,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "5b23a882-09d8-5bb2-9ea5-2c62256e7b03",

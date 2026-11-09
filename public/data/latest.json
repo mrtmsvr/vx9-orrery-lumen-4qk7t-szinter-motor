@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "2668d5bc-1dc5-5f9a-ae3c-d70781db191c",
+      "slug": "2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete",
+      "url": "/kultura/2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete/",
+      "title": "Így született meg az adventi koszorú története",
+      "lead": "Az otthonunkat az ünnepre hangoló adventi koszorú nemcsak szép dekoráció, hanem évszázados hagyományokat őrző szimbólum is. Megmutatjuk, hogyan fogjunk hozzá a saját kezű elkészítéséhez.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T15:49:21+01:00",
+      "published_at": "2026-11-09T15:49:21+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "Advent",
+        "advent",
+        "karácsony",
+        "koszorú",
+        "hagyomány",
+        "DIY"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Christmas_candle_Greece.jpg/1280px-Christmas_candle_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 680,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Χριστουγεννιάτικο καντηλάκι από το σπίτι μου στο Άργος."
+      }
+    },
+    {
+      "id": "38d45a1a-de17-5e8b-84ab-e736e46b08cc",
+      "slug": "2026-11-09-ket-csesze-kave-a-tiszta-agyert",
+      "url": "/eletmod/2026-11-09-ket-csesze-kave-a-tiszta-agyert/",
+      "title": "Két csésze kávé a tiszta agyért?",
+      "lead": "Egy évtizedeken át húzódó kutatás szerint a napi néhány csésze kávé drasztikusan csökkentheti a demencia kialakulásának esélyét. De vajon mindegy, mit és mennyi ideig iszunk a reggeli rutinként?",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T15:49:20+01:00",
+      "published_at": "2026-11-09T15:49:20+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "kávé",
+        "demencia",
+        "egészség",
+        "agy",
+        "kutatás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/1280px-Roasted_coffee_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Roasted coffee beans"
+      }
+    },
+    {
       "id": "8d523af0-da8a-58a3-b1b4-388ef0a8c0e6",
       "slug": "2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga",
       "url": "/kozelet/2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga/",
@@ -4347,66 +4410,7 @@
         "pos": "center",
         "alt": ": Balatonfüred train station, viewed from train at track #5. - Vasút Street, Castricum Square, Balatonfüred, Veszprém County, Hungary."
       }
-    },
-    {
-      "id": "9e2f5986-d5f3-5f96-ba04-f0a079f9da73",
-      "slug": "2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon",
-      "url": "/kozelet/2026-11-01-mindenszentekkor-rongaltak-meg-magyar-peter-dedapjanak-sirjat-dobozon/",
-      "title": "Mindenszentekkor rongálták meg Magyar Péter dédapjának sírját Dobozon",
-      "lead": "Mindenszentek napján látogatott el dédapja dobozi sírjához Magyar Péter, ahol szembesült azzal, hogy a sírhelyet a napokban feldúlták. A politikus közösségi oldalán emlékezett felmenőire, és üzenetet is küldött a tetteseknek.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T11:22:14+01:00",
-      "published_at": "2026-11-01T11:22:14+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Magyar Péter",
-        "mindenszentek",
-        "Doboz",
-        "temető",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/f2c81e5affa80348.jpg",
-        "width": 4500,
-        "height": 3000,
-        "kind": "photo",
-        "alt": "cemetery, old cemetery, grave, a candle, tombstone, necropolis, all souls' day, all the saints, autumn, nature, leaves, november, catholic cemetery, religion"
-      }
-    },
-    {
-      "id": "32d8cda0-8d46-5366-8719-74ee307efc31",
-      "slug": "2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl",
-      "url": "/vilag/2026-10-31-barhova-eler-az-irani-hadero-nincs-megalljt-parancsolo-foldrajzi-korl/",
-      "title": "Bárhová elér az iráni haderő: nincs megálljt parancsoló földrajzi korlát Teherán szerint",
-      "lead": "Modzstaba Hamenei, Irán legfőbb vezetője elrendelte, hogy a fegyveres erők vegyenek fel minden elérhető amerikai és izraeli érdekeltséget a lehetséges célpontok közé. A döntés arra utal, hogy a feszültség tovább éleződik a régióban.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-11-01T10:49:17+01:00",
-      "published_at": "2026-11-01T10:49:17+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.8,
-      "tags": [
-        "Irán",
-        "Egyesült Államok",
-        "Izrael",
-        "közel-keleti konfliktus",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Portrait_of_Mojtaba_Khamenei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1697,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Portrait of Ayatollah Sayyid Mojtaba Khamenei"
-      }
     }
   ],
-  "updated_at": "2026-11-09T15:05:13+01:00"
+  "updated_at": "2026-11-09T15:49:22+01:00"
 }
