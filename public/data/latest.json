@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "b0ff53b4-c71f-506f-8135-53315fd81aa2",
+      "slug": "2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal",
+      "url": "/bulvar/2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal/",
+      "title": "Hatszor kórházban az újszülött: drámai hetek a Harry Potter-sztár családjában",
+      "lead": "Alig másfél hónapja adta világra második gyermekét a Harry Potter-filmekből ismert Bonnie Wright, ám a várt idill helyett nehéz heteken van túl a család. Újszülött kisfia élete első öt hetében már hat alkalommal szorult kórházi ellátásra egy olyan állapot miatt, amelyről már a születése előtt tudtak.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T09:17:08+01:00",
+      "published_at": "2026-11-09T09:17:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Bonnie Wright",
+        "Harry Potter",
+        "sztárvilág",
+        "gyermekszületés"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Stuttgart_2021_-Comic_Con_Germany-_by-RaBoe_120_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1385,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Stuttgart 2021 -Comic Con Germany-"
+      }
+    },
+    {
       "id": "5b23a882-09d8-5bb2-9ea5-2c62256e7b03",
       "slug": "2026-11-09-meglepetes-a-piacon-363-alatt-a-forint-arfolyama",
       "url": "/penzvilag/2026-11-09-meglepetes-a-piacon-363-alatt-a-forint-arfolyama/",
@@ -4379,37 +4408,7 @@
         "pos": "top",
         "alt": "The Bird VIP brand infant ventilator."
       }
-    },
-    {
-      "id": "b2447d3d-e60c-5423-b366-e0b6fb932a7b",
-      "slug": "2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek",
-      "url": "/vilag/2026-11-01-amerika-figyelmeztette-moszkvat-terrortamadasra-keszulnek/",
-      "title": "Amerika figyelmeztette Moszkvát: terrortámadásra készülnek",
-      "lead": "Tömeges áldozatokkal járó, előkészületben lévő terrortámadás veszélyére figyelmeztette Oroszországot az Egyesült Államok moszkvai nagykövetsége. A hivatalos szervek már megkezdték a szükséges óvintézkedések végrehajtását az orosz fővárosban.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T06:28:32+01:00",
-      "published_at": "2026-11-01T06:28:32+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.8,
-      "tags": [
-        "Moszkva",
-        "egyesült államok",
-        "terrortámadás",
-        "FSZB",
-        "biztonsági figyelmeztetés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Vista_general_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_18-19_HDR.jpg/1280px-Vista_general_del_Kremlin%2C_Mosc%C3%BA%2C_Rusia%2C_2016-10-03%2C_DD_18-19_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 588,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Night view of the Moscow Kremlin, meaning \"fortress inside a city\", a fortified complex in the center of Moscow, Russia. It is the best known of the kremlins (Russian citadels) and includes five palac"
-      }
     }
   ],
-  "updated_at": "2026-11-09T08:47:21+01:00"
+  "updated_at": "2026-11-09T09:17:10+01:00"
 }
