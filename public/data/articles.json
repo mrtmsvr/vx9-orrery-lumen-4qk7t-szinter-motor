@@ -1,7 +1,121 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T18:47:29+01:00",
+  "updated_at": "2026-11-09T18:49:45+01:00",
   "articles": [
+    {
+      "id": "9a7eb4c4-1982-53d8-9def-267a8da20b4b",
+      "slug": "2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "Országgyűlés",
+        "ügynökakták",
+        "Toroczkai László",
+        "Rétvári Bence"
+      ],
+      "title": "Ügynökakták és fülhallgatók: parázs vita zajlott a parlamentben",
+      "subtitle": null,
+      "lead": "A hétfői parlamenti ülésnapon a frakcióvezetők és Magyar Péter csaptak össze az ügynökakták, Lezsák Sándor múltja, valamint a közbiztonság helyzete miatt. A felek a múltbeli iratok kezeléséről és az ország aktuális irányáról vitáztak az Országházban.",
+      "key_points": [
+        "Magyar Péter bírálta a kormányt az ügynökakták és a közbiztonság miatt.",
+        "Toroczkai László gazdasági és egészségügyi eredményeket említett válaszában.",
+        "Rétvári Bence visszautasította a kritikákat, felidézve a Gyurcsány-kormány időszakát is."
+      ],
+      "content": "Fokozott feszültséggel zajlott a hétfői parlamenti ülésnap az Országházban, ahol Magyar Péter a Tisza Párt képviselőjeként élesen bírálta a kabinetet. A 444.hu videójában szereplő események során a politikus felhozta az ügynökakták ügyét, a közbiztonsági adatokat, valamint Lezsák Sándor nevéhez köthető korábbi iratokat is.\n\nA felvetésekre a kormánypárti és az ellenzéki frakciók vezetői is reagáltak a plenáris ülésen. Toroczkai László, a Mi Hazánk frakcióvezetője az elmúlt évek gazdasági, egészségügyi és közlekedési eredményeit hangsúlyozta, kijelentve, hogy az ország jó irányba halad.\n\nRétvári Bence szintén szót kért, visszautasítva Magyar Péter kritikáit. Rétvári a jelenlegi kormányzat kedvezőbb eredményeire hivatkozott a korábbi kabinetekkel, így a Gyurcsány-kormány időszakával szemben.\n\nA nyílt vitában külön hangsúlyt kapott a sajtóban korábban megjelent információk kezelése, az ügynökakták sorsa, valamint a politikai szereplők felelősségének kérdése a közügyekben.",
+      "content_format": "markdown",
+      "body": [
+        "Fokozott feszültséggel zajlott a hétfői parlamenti ülésnap az Országházban, ahol Magyar Péter a Tisza Párt képviselőjeként élesen bírálta a kabinetet. A 444.hu videójában szereplő események során a politikus felhozta az ügynökakták ügyét, a közbiztonsági adatokat, valamint Lezsák Sándor nevéhez köthető korábbi iratokat is.",
+        "A felvetésekre a kormánypárti és az ellenzéki frakciók vezetői is reagáltak a plenáris ülésen. Toroczkai László, a Mi Hazánk frakcióvezetője az elmúlt évek gazdasági, egészségügyi és közlekedési eredményeit hangsúlyozta, kijelentve, hogy az ország jó irányba halad.",
+        "Rétvári Bence szintén szót kért, visszautasítva Magyar Péter kritikáit. Rétvári a jelenlegi kormányzat kedvezőbb eredményeire hivatkozott a korábbi kabinetekkel, így a Gyurcsány-kormány időszakával szemben.",
+        "A nyílt vitában külön hangsúlyt kapott a sajtóban korábban megjelent információk kezelése, az ügynökakták sorsa, valamint a politikai szereplők felelősségének kérdése a közügyekben."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 163,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-c083d5d30c.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-c083d5d30c.jpg",
+        "kind": "photo",
+        "alt": "Ügynökaktákkal és egy AirPodsszal teniszezett a Parlamentben Magyar Péter",
+        "credit": "A videó előnézeti képe – 444.hu (YouTube)",
+        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
+        "source_url": "https://www.youtube.com/watch?v=NMJKLCWbibo",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=NMJKLCWbibo",
+          "title": "Ügynökaktákkal és egy AirPodsszal teniszezett a Parlamentben Magyar Péter",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-09T18:48:15+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-09T18:49:45+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=NMJKLCWbibo"
+        ]
+      },
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "url": "/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
+      "seo": {
+        "meta_title": "Ügynökakták és fülhallgatók: parázs vita zajlott a parlament",
+        "meta_description": "A hétfői parlamenti ülésnapon a frakcióvezetők és Magyar Péter csaptak össze az ügynökakták, Lezsák Sándor múltja, valamint a közbiztonság helyzete miatt. A fel",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-c083d5d30c.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "6abc267f-6ca4-5c5d-9887-8e36cb088cba"
+      ],
+      "see_also": [
+        {
+          "title": "Kétórás parlamenti rekordot döntött, és adócsökkentést ígért Magyar Péter",
+          "url": "/kozelet/2026-10-20-ketoras-parlamenti-rekordot-dontott-es-adocsokkentest-igert-magyar-pe/",
+          "date": "2026-10-20"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "4d6de56913ee7c5af42fd48f3ba1d6c7240a79bbe4aa67b3e349affdc2d9bf04",
+      "pipeline_run_id": "42663616126",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-09T18:49:45+01:00",
+      "updated_at": "2026-11-09T18:49:45+01:00",
+      "published_at": "2026-11-09T18:49:45+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "NMJKLCWbibo",
+        "title": "Ügynökaktákkal és egy AirPodsszal teniszezett a Parlamentben Magyar Péter",
+        "channel": "444.hu",
+        "minutes": 18
+      }
+    },
     {
       "id": "6f660717-d5ba-571d-a33b-d1f05f76cac4",
       "slug": "2026-11-09-ugynokaktak-es-bia-a-szerb-diakok-nyitnak-a-dossziekat",
@@ -73402,106 +73516,6 @@
       "created_at": "2026-10-12T19:30:45+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-12T19:30:45+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "308460fd-1125-580a-9740-619ab312ce6e",
-      "slug": "2026-10-12-borton-es-kolteszet-bertok-laszlo-fianak-vallomasa",
-      "status": "published",
-      "category": "kultura",
-      "subcategory": null,
-      "tags": [
-        "Bertók László",
-        "dokumentumfilm",
-        "irodalom",
-        "Karakter fesztivál"
-      ],
-      "title": "Börtön és költészet: Bertók László fiának vallomása",
-      "subtitle": null,
-      "lead": "A 2020-ban elhunyt Kossuth-díjas költő, Bertók László életét és hagyatékát dolgozza fel a Ha költő akarsz lenni című új dokumentumfilm. Az alkotást a novemberi Karakter Kortárs Minifesztiválon mutatják be először, középpontban a költő fiával, Bertók Attilával.",
-      "key_points": [
-        "A dokumentumfilm archív felvételek és beszélgetések révén mutatja be Bertók László pályafutását.",
-        "A költő fiatalon, 19 éves korában nyolc hónapot töltött börtönben egy Rákosi-ellenes verse miatt.",
-        "A film premierjét november 7-én tartják a Karakter Kortárs Minifesztiválon.",
-        "A vetítést követően közönségtalálkozó várja az érdeklődőket Bartha Máté rendezővel."
-      ],
-      "content": "Bertók László költői pályája korántsem volt zökkenőmentes, hiszen már tizenévesen súlyos politikai retorziókkal kellett szembenéznie. Az 1935-ben, Vésén született szerző 19 évesen került az ÁVH látókörébe egy Rákosi-ellenes költeménye miatt, amiért nyolc hónapos börtönbüntetést szabtak ki rá. Ez az időszak meghatározó volt írói munkássága későbbi alakulására, bár első kötete, a Fák felvonulása csak jóval később, 37 éves korában jelenhetett meg.\n\nA Ha költő akarsz lenni című új dokumentumfilm nem csupán a szakmai sikerekre koncentrál, hanem a magánemberre és az apára is. A film főszereplője, Bertók Attila nyíltan vall arról, milyen kihívásokkal járt egy ennyire elismert, híres költő gyermekeként felnőni, valamint milyen felelősséget jelent a rá hagyott irodalmi életmű gondozása.\n\nA november 7-i minifesztivál programja több művészeti ágat is érint: a filmpremier mellett irodalmi beszélgetések, olvasóklub, tárlatvezetések és táncos programok várják az érdeklődőket. A vetítés 16:30-kor kezdődik, melyet Bartha Máté rendezővel való közönségtalálkozó követ, ahol a fotóművészként is ismert alkotó osztja meg a forgatás tapasztalatait.\n\nBertók László életműve a 2023-as évfordulóra megjelent Összegyűjtött versek című kötettel vált teljessé, a mostani film pedig újabb rétegeket tár fel a szerző ma is aktuális megítéléséről. A fesztiváli vetítésre a jegyek már megvásárolhatóak, a részletes információk pedig a Karakter Kortárs Minifesztivál felületein követhetőek nyomon.",
-      "content_format": "markdown",
-      "body": [
-        "Bertók László költői pályája korántsem volt zökkenőmentes, hiszen már tizenévesen súlyos politikai retorziókkal kellett szembenéznie. Az 1935-ben, Vésén született szerző 19 évesen került az ÁVH látókörébe egy Rákosi-ellenes költeménye miatt, amiért nyolc hónapos börtönbüntetést szabtak ki rá. Ez az időszak meghatározó volt írói munkássága későbbi alakulására, bár első kötete, a Fák felvonulása csak jóval később, 37 éves korában jelenhetett meg.",
-        "A Ha költő akarsz lenni című új dokumentumfilm nem csupán a szakmai sikerekre koncentrál, hanem a magánemberre és az apára is. A film főszereplője, Bertók Attila nyíltan vall arról, milyen kihívásokkal járt egy ennyire elismert, híres költő gyermekeként felnőni, valamint milyen felelősséget jelent a rá hagyott irodalmi életmű gondozása.",
-        "A november 7-i minifesztivál programja több művészeti ágat is érint: a filmpremier mellett irodalmi beszélgetések, olvasóklub, tárlatvezetések és táncos programok várják az érdeklődőket. A vetítés 16:30-kor kezdődik, melyet Bartha Máté rendezővel való közönségtalálkozó követ, ahol a fotóművészként is ismert alkotó osztja meg a forgatás tapasztalatait.",
-        "Bertók László életműve a 2023-as évfordulóra megjelent Összegyűjtött versek című kötettel vált teljessé, a mostani film pedig újabb rétegeket tár fel a szerző ma is aktuális megítéléséről. A fesztiváli vetítésre a jegyek már megvásárolhatóak, a részletes információk pedig a Karakter Kortárs Minifesztivál felületein követhetőek nyomon."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 243,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bert%C3%B3k_L%C3%A1szl%C3%B3_V%C3%A1rosi_K%C3%B6nyvt%C3%A1r.jpg/1280px-Bert%C3%B3k_L%C3%A1szl%C3%B3_V%C3%A1rosi_K%C3%B6nyvt%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "a Bertók László Városi Könyvtár épülete, Nagyatád",
-        "credit": "Kzoltang / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Bert%C3%B3k_L%C3%A1szl%C3%B3_V%C3%A1rosi_K%C3%B6nyvt%C3%A1r.jpg",
-        "vision_score": 5.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://telex.hu/karakter/kultura/2026/10/12/bertok-laszlo-dokumentumfilm-ha-kolto-akarsz-lenni-bartha-mate",
-          "title": "Egy író mellett élni nem fenékig tejfel",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-12T16:20:41+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-12T19:10:40+02:00"
-      },
-      "hot_score": 5.56,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/karakter/kultura/2026/10/12/bertok-laszlo-dokumentumfilm-ha-kolto-akarsz-lenni-bartha-mate"
-        ]
-      },
-      "date": "2026-10-12",
-      "date_label": "október 12.",
-      "url": "/kultura/2026-10-12-borton-es-kolteszet-bertok-laszlo-fianak-vallomasa/",
-      "seo": {
-        "meta_title": "Börtön és költészet: Bertók László fiának vallomása",
-        "meta_description": "A 2020-ban elhunyt Kossuth-díjas költő, Bertók László életét és hagyatékát dolgozza fel a Ha költő akarsz lenni című új dokumentumfilm. Az alkotást a novemberi ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-12-borton-es-kolteszet-bertok-laszlo-fianak-vallomasa/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bert%C3%B3k_L%C3%A1szl%C3%B3_V%C3%A1rosi_K%C3%B6nyvt%C3%A1r.jpg/1280px-Bert%C3%B3k_L%C3%A1szl%C3%B3_V%C3%A1rosi_K%C3%B6nyvt%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "621b406bdaf6e9fc6228c83bba62867ef91324818762bead50fac15b592dba4b",
-      "pipeline_run_id": "38261151688",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-12T19:10:40+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-12T19:10:40+02:00",
       "expires_at": null
     }
   ]

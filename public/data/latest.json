@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9a7eb4c4-1982-53d8-9def-267a8da20b4b",
+      "slug": "2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben",
+      "url": "/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
+      "title": "Ügynökakták és fülhallgatók: parázs vita zajlott a parlamentben",
+      "lead": "A hétfői parlamenti ülésnapon a frakcióvezetők és Magyar Péter csaptak össze az ügynökakták, Lezsák Sándor múltja, valamint a közbiztonság helyzete miatt. A felek a múltbeli iratok kezeléséről és az ország aktuális irányáról vitáztak az Országházban.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T18:49:45+01:00",
+      "published_at": "2026-11-09T18:49:45+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Magyar Péter",
+        "Országgyűlés",
+        "ügynökakták",
+        "Toroczkai László",
+        "Rétvári Bence"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-c083d5d30c.jpg",
+        "kind": "photo",
+        "alt": "Ügynökaktákkal és egy AirPodsszal teniszezett a Parlamentben Magyar Péter",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "6f660717-d5ba-571d-a33b-d1f05f76cac4",
       "slug": "2026-11-09-ugynokaktak-es-bia-a-szerb-diakok-nyitnak-a-dossziekat",
       "url": "/vilag/2026-11-09-ugynokaktak-es-bia-a-szerb-diakok-nyitnak-a-dossziekat/",
@@ -4378,37 +4408,7 @@
         "alt": "Térkép: Gyömrő",
         "card": "map"
       }
-    },
-    {
-      "id": "854083c7-78b3-5fed-a6d8-b4649d92d877",
-      "slug": "2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol",
-      "url": "/vilag/2026-11-01-moszkva-kipockolte-europat-az-ukrajnai-beketargyalasokrol/",
-      "title": "Moszkva kipöckölte Európát az ukrajnai béketárgyalásokról",
-      "lead": "November első felében Abu-Dzabiban tartják az ukrajnai rendezési tárgyalások újabb fordulóját, ám a Kreml álláspontja szerint az európai hatalmaknak jelenleg nincs keresnivalójuk a tárgyalóasztalnál. A moszkvai vezetés azzal indokolja a döntést, hogy Brüsszel továbbra is Oroszország stratégiai vereségét célozza.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T15:38:30+01:00",
-      "published_at": "2026-11-01T15:38:30+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Oroszország",
-        "Ukrajna",
-        "béketárgyalások",
-        "Dmitrij Peszkov",
-        "Európai Unió"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/1280px-Abu_dhabi_skylines_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 659,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Abu Dhabi's skyline in December 2014"
-      }
     }
   ],
-  "updated_at": "2026-11-09T18:47:31+01:00"
+  "updated_at": "2026-11-09T18:49:47+01:00"
 }
