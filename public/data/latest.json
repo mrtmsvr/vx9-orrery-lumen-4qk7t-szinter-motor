@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "dc5ed5be-3438-5246-ba34-ecaf8f811a82",
+      "slug": "2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for",
+      "url": "/kozelet/2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for/",
+      "title": "Magyar Péter német nyelven figyelmeztetett Berlinben a történelmi fordulópontra",
+      "lead": "A második világháború óta nem volt ennyire veszélyes a nemzetközi helyzet Magyar Péter szerint, aki a berlini fal leomlásának évfordulóján mondott beszédet Berlinben. A politikus a Konrad Adenauer Alapítvány rendezvényén az európai versenyképesség megújítását, a migrációs politika átalakítását és a klímaváltozás elleni határozottabb fellépést szorgalmazta.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T22:50:29+01:00",
+      "published_at": "2026-11-09T22:50:29+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Magyar Péter",
+        "Berlin",
+        "Európai Unió",
+        "migráció",
+        "gazdasági versenyképesség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Segment_of_the_Berlin_Wall_outside_the_Museum_of_Occupations_September_2015.jpg/1280px-Segment_of_the_Berlin_Wall_outside_the_Museum_of_Occupations_September_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1602,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A segment of the Berlin Wall outside the Museum of Occupations in Tallinn, Estonia"
+      }
+    },
+    {
       "id": "d4258dbf-d298-53d2-bca2-f7b4b3bd7508",
       "slug": "2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt",
       "url": "/kozelet/2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt/",
@@ -4381,36 +4411,7 @@
         "alt": "4000 milliárd forint – a magyar gazdaság fellendítésére mozgósított forrás",
         "card": "num"
       }
-    },
-    {
-      "id": "cff9fbf0-1d0d-5d1f-ab2b-14e04a82e6ab",
-      "slug": "2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel",
-      "url": "/kozelet/2026-11-01-negyszaz-utassal-a-fedelzeten-gazolt-szemelyvonat-budaorsnel/",
-      "title": "Négyszáz utassal a fedélzeten gázszivárgás történt, egy személyt érintett Budaörsnél",
-      "lead": "Vasárnap este gázszivárgás történt, egy személyt érintett Budaörsnél, a Raktár utca melletti vasúti szakaszon. A Győrből a Déli pályaudvarra tartó Rába InterRégió szerelvényén mintegy négyszáz utas tartózkodott az esemény pillanatában.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T21:22:14+01:00",
-      "published_at": "2026-11-01T21:22:14+01:00",
-      "reading_time_min": 1,
-      "hot_score": 11.7,
-      "tags": [
-        "vonatbaleset",
-        "Budaörs",
-        "MÁV",
-        "katasztrófavédelem"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg/1280px-Buda%C3%B6rs_vas%C3%BAt%C3%A1llom%C3%A1s%2C_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ": Budaörs railway station, platform side.  - Raktár Street, Budaörs, Pest County."
-      }
     }
   ],
-  "updated_at": "2026-11-09T21:30:13+01:00"
+  "updated_at": "2026-11-09T22:50:32+01:00"
 }
