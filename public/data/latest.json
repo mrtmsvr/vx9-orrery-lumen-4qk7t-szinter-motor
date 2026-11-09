@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "df504a46-6e14-51dd-833b-a16c964728a5",
+      "slug": "2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb",
+      "url": "/kozelet/2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb/",
+      "title": "Kilencszázalékos Mi Hazánk és zuhanó Fidesz: ezt mutatják a legfrissebb adatok",
+      "lead": "Drasztikusan visszaesett a Fidesz támogatottsága a legfrissebb adatok szerint, miközben a Tisza Párt és a Mi Hazánk jelentősen erősödött. A változások hátterében korrupciós ügyek, gazdasági nehézségek és a kormányzati kommunikáció visszahatásai állnak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T19:19:32+01:00",
+      "published_at": "2026-11-09T19:19:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Fidesz",
+        "Tisza Párt",
+        "közvélemény-kutatás",
+        "politika",
+        "Medián"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-4cebdf17d9.jpg",
+        "kind": "photo",
+        "alt": "Orbán tehertétel, zajlik a Fidesz elgyurcsányosodása – elemzés László Róberttel",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "9a7eb4c4-1982-53d8-9def-267a8da20b4b",
       "slug": "2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben",
       "url": "/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
@@ -4380,35 +4410,7 @@
         "pos": "center",
         "alt": "Naples Airport, Italy"
       }
-    },
-    {
-      "id": "eb232850-9e06-5096-844c-bd2caddd61b1",
-      "slug": "2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron",
-      "url": "/kozelet/2026-11-01-szoges-edesseget-osztogattak-a-halloweeni-gyerekeknek-gyomron/",
-      "title": "Szöges édességet osztogattak a halloweeni gyerekeknek Gyömrőn",
-      "lead": "Ismeretlen tettes ellen indított eljárást a rendőrség, miután a halloweeni gyűjtésből hazatérő gyermek édességébe rejtett fémtárgyat találtak Gyömrőn. A városvezetés tájékoztatása szerint legalább három hasonló esetről érkezett jelzés a településen.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T18:45:17+01:00",
-      "published_at": "2026-11-01T18:45:17+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.34,
-      "tags": [
-        "Gyömrő",
-        "halloween",
-        "rendőrség",
-        "bűnügy",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-b96545bb06.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Gyömrő",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-09T18:53:47+01:00"
+  "updated_at": "2026-11-09T19:19:34+01:00"
 }
