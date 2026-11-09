@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4a40e813-ca35-5af1-a54c-8d9683acfd1c",
+      "slug": "2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse",
+      "url": "/vilag/2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse/",
+      "title": "Háromoldalú csúcson találkozhat Trump, Putyin és Hszi Csin-ping Sencsenben",
+      "lead": "Donald Trump amerikai elnök bejelentése szerint a jövő heti sencseni APEC-csúcstalálkozón két- és háromoldalú egyeztetéseket is folytat Vlagyimir Putyin orosz államfővel és Hszi Csin-ping kínai elnökkel. A diplomáciai csúcson a nukleáris fegyverzetkorlátozás és az ukrajnai konfliktus rendezése is napirendre kerülhet.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T09:18:31+01:00",
+      "published_at": "2026-11-09T09:18:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.08,
+      "tags": [
+        "Donald Trump",
+        "Vlagyimir Putyin",
+        "Hszi Csin-ping",
+        "APEC-csúcs",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg/1280px-Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1551,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Beijing, China, August 18, 2026 – The General Secretary of the Chinese Communist Party, Xi Jinping, hosted an official welcome ceremony for the President of Ecuador, Daniel Noboa, at the Great Hall of"
+      }
+    },
+    {
       "id": "b0ff53b4-c71f-506f-8135-53315fd81aa2",
       "slug": "2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal",
       "url": "/bulvar/2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Semmelweis University - Main building"
       }
-    },
-    {
-      "id": "9765866d-7670-5f3e-92dc-fdf07feebd11",
-      "slug": "2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv",
-      "url": "/kozelet/2026-11-01-felresikerult-lelegeztetogepek-es-ures-kortermek-hegedus-zsolt-a-jarv/",
-      "title": "Félresikerült lélegeztetőgépek és üres kórtermek: Hegedűs Zsolt a járvány felelőseit keresi",
-      "lead": "Mindenszentek napján emlékezett meg a koronavírus-járvány csaknem ötvenezer magyar áldozatáról az egészségügyi miniszter, miközben szemügyre vette a kiskunhalasi mobil kórház maradványait és a százmilliárdos eszközbeszerzések visszásságait. Hegedűs Zsolt a felelősök elszámoltatását sürgette, miután a vizsgálatok során büntetőeljárások is indultak a vitatott beszerzések miatt, amelyekben az ártatlanság vélelme mindenkit megillet.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T07:48:41+01:00",
-      "published_at": "2026-11-01T07:48:41+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5.97,
-      "tags": [
-        "Hegedűs Zsolt",
-        "egészségügy",
-        "koronavírus",
-        "kiskunhalasi mobil kórház",
-        "lélegeztetőgép"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/VIP_Bird2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1290,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The Bird VIP brand infant ventilator."
-      }
     }
   ],
-  "updated_at": "2026-11-09T09:17:10+01:00"
+  "updated_at": "2026-11-09T09:18:34+01:00"
 }
