@@ -22,12 +22,12 @@
         "közvélemény-kutatás"
       ],
       "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/G%C3%A1bor_T%C3%B6r%C3%B6k_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Fidesz_2015.svg/1280px-Fidesz_2015.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "width": 1200,
-        "height": 1784,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Gábor Török a political scientist"
+        "height": 1202,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Logo of Fidesz as of 2015"
       }
     },
     {
@@ -4408,5 +4408,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-09T14:19:15+01:00"
+  "updated_at": "2026-11-09T14:28:56+01:00"
 }
