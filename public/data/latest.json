@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "50d30b59-0197-5895-8d0e-a93b36c4d29a",
+      "slug": "2026-11-09-kilenc-ora-a-csendes-oceanban-tulelte-a-hajorol-kiesett-zongorista",
+      "url": "/vilag/2026-11-09-kilenc-ora-a-csendes-oceanban-tulelte-a-hajorol-kiesett-zongorista/",
+      "title": "Kilenc óra a Csendes-óceánban: túlélte a hajóról kiesett zongorista",
+      "lead": "Kilenc órán át sodródott a nyílt Csendes-óceánban egy óceánjáró hajó zongoristája, miután eddig tisztázatlan körülmények között a vízbe esett. A férfit két halász mentette meg Kalifornia partjaitól harminc kilométerre.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T10:21:28+01:00",
+      "published_at": "2026-11-09T10:21:28+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.28,
+      "tags": [
+        "Csendes-óceán",
+        "mentés",
+        "Kalifornia",
+        "El Niño",
+        "óceánjáró"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/0_7842_Oslo_-_F%C3%A4hrhafen.jpg/1280px-0_7842_Oslo_-_F%C3%A4hrhafen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Oslo: Cruise ship Regal Princess at the harbor Inner Oslofjord."
+      }
+    },
+    {
       "id": "4a40e813-ca35-5af1-a54c-8d9683acfd1c",
       "slug": "2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse",
       "url": "/vilag/2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Protests and riots in Paris on 17 October 2026. Demonstrators gathered around Place de la République amid tear gas; cars and shared bikes were set on fire on Boulevard Voltaire and extinguished by the"
       }
-    },
-    {
-      "id": "e5431d2c-aec8-5871-a7a1-3f722aeaa208",
-      "slug": "2026-11-01-paravan-mogott-meltatlanul-igy-halunk-meg-a-magyar-korhazakban",
-      "url": "/kozelet/2026-11-01-paravan-mogott-meltatlanul-igy-halunk-meg-a-magyar-korhazakban/",
-      "title": "Paraván mögött, méltatlanul: így halunk meg a magyar kórházakban",
-      "lead": "A magyarországi halálesetek nagyjából kétharmada kórházban történik, ahol a haldokló köré húzott paraván sokszor a méltó búcsút teszi lehetetlenné. A Partizán interjújából kiderül, hogyan változott a tabusított halálhoz való viszonyunk.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T09:49:08+01:00",
-      "published_at": "2026-11-01T09:49:08+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5,
-      "tags": [
-        "hospice",
-        "gyász",
-        "egészségügy",
-        "Partizán",
-        "társadalom"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Semmelweis_University%2C_main_building.jpg/1280px-Semmelweis_University%2C_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Semmelweis University - Main building"
-      }
     }
   ],
-  "updated_at": "2026-11-09T09:54:02+01:00"
+  "updated_at": "2026-11-09T10:21:30+01:00"
 }
