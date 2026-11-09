@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c95c2fdd-d12b-5d48-941b-422ba8dd06ee",
+      "slug": "2026-11-09-husz-fokot-is-merhetunk-a-heten-de-elotte-meg-megfagyunk",
+      "url": "/kozelet/2026-11-09-husz-fokot-is-merhetunk-a-heten-de-elotte-meg-megfagyunk/",
+      "title": "Húsz fokot is mérhetünk a héten, de előtte még megfagyunk",
+      "lead": "Extrém hőmérsékleti hullámvasúttal indul és zárul a hét: a fagyos és ködös hajnalokat követően ugyanis akár a huszonegy fokot is elérheti a csúcshőmérséklet. A HungaroMet Zrt. előrejelzése szerint a változékony időben eső, zápor és viharos szél is kíséri napjainkat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T07:44:46+01:00",
+      "published_at": "2026-11-09T07:44:46+01:00",
+      "reading_time_min": 3,
+      "hot_score": 8.15,
+      "tags": [
+        "időjárás",
+        "HungaroMet",
+        "előrejelzés",
+        "eső",
+        "felmelegedés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/K%C5%91szeg%2C_H%C5%91s%C3%B6k_kapuja_k%C3%B6d%C3%B6s_reggel_2021_01.jpg/1280px-K%C5%91szeg%2C_H%C5%91s%C3%B6k_kapuja_k%C3%B6d%C3%B6s_reggel_2021_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Heroes' Gate in Kőszeg, Hungary on a foggy morning"
+      }
+    },
+    {
       "id": "4d3be105-e0cf-5387-8f42-0c9c643680c9",
       "slug": "2026-11-09-megrekedtek-a-targyalasok-elfogadhatatlannak-tartja-teheran-koveteles",
       "url": "/vilag/2026-11-09-megrekedtek-a-targyalasok-elfogadhatatlannak-tartja-teheran-koveteles/",
@@ -4379,36 +4409,7 @@
         "kind": "photo",
         "alt": "income tax, calculator, accounting, financial, paperwork, tax, finance, taxes, calculate, economy, planning, income, investment, irs, budget, business, money, office, income tax, accounting, tax, tax,"
       }
-    },
-    {
-      "id": "8e47d742-4d04-5f99-94ef-4e7bb21210a9",
-      "slug": "2026-10-31-biro-bence-peter-a-digitalis-magany-eppen-annyira-artalmas-mint-a-cig",
-      "url": "/tech/2026-10-31-biro-bence-peter-a-digitalis-magany-eppen-annyira-artalmas-mint-a-cig/",
-      "title": "Bíró Bence Péter: A digitális magány éppen annyira ártalmas, mint a cigaretta",
-      "lead": "A magyar fiatalok jelentős része magányosan éli mindennapjait a fokozott digitalizáció miatt, miközben a szorongás enyhítésére használt mesterséges intelligencia csak tovább ronthatja a szociális készségeket. A Telex Holnap című műsorában szakértők elemezték a Z generáció mentális kihívásait.",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-10-31",
-      "date_label": "október 31.",
-      "created_at": "2026-10-31T18:17:42+01:00",
-      "published_at": "2026-10-31T18:17:42+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Z generáció",
-        "magány",
-        "mesterséges intelligencia",
-        "pszichológia",
-        "ChatGPT"
-      ],
-      "hero_image": {
-        "url": "https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA0L2JzNjk0LWltYWdlLmpwZw.jpg",
-        "width": 4460,
-        "height": 2973,
-        "kind": "photo",
-        "alt": "Man sitting alone bench looking"
-      }
     }
   ],
-  "updated_at": "2026-11-09T07:44:14+01:00"
+  "updated_at": "2026-11-09T07:44:49+01:00"
 }
