@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6f660717-d5ba-571d-a33b-d1f05f76cac4",
+      "slug": "2026-11-09-ugynokaktak-es-bia-a-szerb-diakok-nyitnak-a-dossziekat",
+      "url": "/vilag/2026-11-09-ugynokaktak-es-bia-a-szerb-diakok-nyitnak-a-dossziekat/",
+      "title": "Ügynökakták és BIA: a szerb diákok nyitnák a dossziékat",
+      "lead": "A szerb parlamenti választáson győztes Egyetemista Lista politikusai mielőbb követelik a titkosszolgálati akták nyilvánosságra hozatalát. A javaslat szerint független bizottság vizsgálná át a dossziékat, hogy kiderüljön, ki jelentett a megfigyelt állampolgárokról.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-09",
+      "date_label": "november 9.",
+      "created_at": "2026-11-09T18:47:29+01:00",
+      "published_at": "2026-11-09T18:47:29+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.15,
+      "tags": [
+        "Szerbia",
+        "titkosszolgálat",
+        "ügynökakták",
+        "Egyetemista Lista",
+        "BIA"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Emblem_of_the_National_Assembly_of_Serbia.svg/1280px-Emblem_of_the_National_Assembly_of_Serbia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 611,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Emblem of the National Assembly of Serbia"
+      }
+    },
+    {
       "id": "d03cef94-0402-527a-a981-112549d1ed28",
       "slug": "2026-11-09-peldatlan-kibertamadas-az-irani-iszlam-forradalmi-garda-embereit-vado",
       "url": "/vilag/2026-11-09-peldatlan-kibertamadas-az-irani-iszlam-forradalmi-garda-embereit-vado/",
@@ -4378,37 +4408,7 @@
         "pos": "center",
         "alt": "Abu Dhabi's skyline in December 2014"
       }
-    },
-    {
-      "id": "12c9d6f9-9720-5dc1-b327-ba20497e11bd",
-      "slug": "2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo",
-      "url": "/kultura/2026-11-01-idogepbe-ul-a-zanzibar-es-harminc-ev-dalait-rantja-elo/",
-      "title": "Időgépbe ül a Zanzibar, és harminc év dalait rántja elő",
-      "lead": "November 28-án az A38 Hajón tartja idei utolsó, évzáró budapesti koncertjét a Zanzibar. A zenekar a megszokott slágerlista helyett közel három évtized munkásságát idézi meg egy képzeletbeli időutazás keretében.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T15:14:45+01:00",
-      "published_at": "2026-11-01T15:14:45+01:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Zanzibar",
-        "A38 hajó",
-        "koncert",
-        "zene",
-        "korszak"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Zanzibar_zenekar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Zanzibar (Hungarian band): Gábor Nagy, András Donát Kovács, Rita Terecskei, Miklós Steklács"
-      }
     }
   ],
-  "updated_at": "2026-11-09T18:45:54+01:00"
+  "updated_at": "2026-11-09T18:47:31+01:00"
 }
