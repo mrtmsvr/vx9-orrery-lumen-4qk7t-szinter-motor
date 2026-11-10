@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1cb47275-1cd0-5fb4-96f8-c33a1da65d9c",
+      "slug": "2026-11-10-akar-5-millios-allami-lokes-erkezik-a-hazai-tarsashazaknak",
+      "url": "/penzvilag/2026-11-10-akar-5-millios-allami-lokes-erkezik-a-hazai-tarsashazaknak/",
+      "title": "Akár 5 milliós állami lökés érkezik a hazai társasházaknak",
+      "lead": "Akár ötmillió forint támogatást is kaphatnak a lakóközösségek a Wekerle Plusz programban, amely 200 ezer forintos önrész mellett a társasházak energetikai korszerűsítését is célozza. A statisztikák szerint erre égető szükség van, mivel a magyar ingatlanállomány jelentős része rendkívül elavult.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T13:01:16+01:00",
+      "published_at": "2026-11-10T13:01:16+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5.35,
+      "tags": [
+        "Wekerle Plusz",
+        "panelprogram",
+        "lakásfelújítás",
+        "energetikai korszerűsítés",
+        "ingatlanpiac"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Kordov%C3%A1n_Square_panel_apartment_buildings%2C_2017_K%C3%A1poszt%C3%A1smegyer.jpg/1280px-Kordov%C3%A1n_Square_panel_apartment_buildings%2C_2017_K%C3%A1poszt%C3%A1smegyer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kordován Square panel apartment buildings. - Káposztásmegyer neighborhood, 4 district of Budapest,Hungary."
+      }
+    },
+    {
       "id": "59f6f66a-33c6-5c3b-88c4-fa2f8808692f",
       "slug": "2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj",
       "url": "/penzvilag/2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj/",
@@ -4399,36 +4429,7 @@
         "pos": "top",
         "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
       }
-    },
-    {
-      "id": "b987b3e3-4f39-5962-8f14-fcbf8cf55f6e",
-      "slug": "2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt",
-      "url": "/vilag/2026-11-02-noi-allamfot-valasztott-bulgaria-iliana-jotova-nyerte-az-elnokvalaszt/",
-      "title": "Női államfőt választott Bulgária: Iliana Jotova nyerte az elnökválasztást",
-      "lead": "Az elnökválasztás második fordulóját az eddigi ideiglenes államfő, Iliana Jotova nyerte Bulgáriában, így ő lett az ország első megválasztott női államfője. A szavazatok 99,95 százalékos feldolgozottságánál a voksok 57,58 százalékát szerezte meg.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T12:43:13+01:00",
-      "published_at": "2026-11-02T12:43:13+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.05,
-      "tags": [
-        "Bulgária",
-        "elnökválasztás",
-        "Iliana Jotova",
-        "külföld"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/President_Iliana_Iotova_%28close_crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1601,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Presidential portrait of President Iliyana Yotova"
-      }
     }
   ],
-  "updated_at": "2026-11-10T12:59:19+01:00"
+  "updated_at": "2026-11-10T13:01:18+01:00"
 }
