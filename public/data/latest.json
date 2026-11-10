@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f594cc25-e307-5651-8b94-6c374255794c",
+      "slug": "2026-11-10-menesztettek-fendler-juditot-buzas-norbert-az-szte-uj-kancellarja",
+      "url": "/kozelet/2026-11-10-menesztettek-fendler-juditot-buzas-norbert-az-szte-uj-kancellarja/",
+      "title": "Menesztették Fendler Juditot, Buzás Norbert az SZTE új kancellárja",
+      "lead": "Buzás Norbert professzort nevezték ki a Szegedi Tudományegyetem kancellárjává, miután a kuratórium megvált elődjétől. Megbízatása a hónap közepétől jövő év nyaráig szól.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T20:07:34+01:00",
+      "published_at": "2026-11-10T20:07:34+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Szegedi Tudományegyetem",
+        "Buzás Norbert",
+        "Fendler Judit",
+        "kancellár",
+        "felsőoktatás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Szegedi_Tudom%C3%A1nyegyetem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "szegedi tudományegyetem"
+      }
+    },
+    {
       "id": "8bdc0321-4d6b-5cd5-adb7-c448c22b4e92",
       "slug": "2026-11-10-vegre-tisztan-lathatunk-ujra-teriteken-az-ugynokaktak",
       "url": "/kozelet/2026-11-10-vegre-tisztan-lathatunk-ujra-teriteken-az-ugynokaktak/",
@@ -4396,37 +4426,7 @@
         "kind": "photo",
         "alt": "audio, microphone, condenser microphone, music, sound recording, audio equipment, mic, close up, microphone, microphone, microphone, microphone, microphone, mic"
       }
-    },
-    {
-      "id": "5696ba56-1a7e-5065-ad9a-5a0cefc9a25a",
-      "slug": "2026-11-02-osszeolvadt-bombak-nehezitettek-a-tuzszereszek-dolgat-az-ulloi-uton",
-      "url": "/kozelet/2026-11-02-osszeolvadt-bombak-nehezitettek-a-tuzszereszek-dolgat-az-ulloi-uton/",
-      "title": "Összeolvadt bombák nehezítették a tűzszerészek dolgát az Üllői úton",
-      "lead": "Több mint kétszáz, a második világháborúból visszamaradt robbanótestet és lőszert mentesítettek a tűzszerészek egy XVIII. kerületi építkezésen. A háborús eszközök egykor egy gödörbe gyűjtve összeolvadtak, ami rendkívül nehézzé tette a katonák munkáját.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T21:27:05+01:00",
-      "published_at": "2026-11-02T21:27:05+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "tűzszerészek",
-        "második világháború",
-        "robbanótest",
-        "Budapest",
-        "Magyar Honvédség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg/1280px-Unexploded_Ordnance_Disposal_in_Ariake%2C_Tokyo%2C_on_June_5%2C_2019_P6059186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Unexploded WWII 500-pound incendiary bomb is being loaded on to a truck after it was defused by the unexploded bomb disposal unit of Japan Ground Self Defense Force (JGSDF), in Ariake, Kōtō-ku, Tokyo,"
-      }
     }
   ],
-  "updated_at": "2026-11-10T19:13:06+01:00"
+  "updated_at": "2026-11-10T20:07:36+01:00"
 }
