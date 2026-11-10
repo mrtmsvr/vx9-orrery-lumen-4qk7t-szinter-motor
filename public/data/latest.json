@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "df6957ff-6848-5d84-a3e8-75054d25cfe4",
+      "slug": "2026-11-10-trump-szerint-veget-ert-az-irani-haboru-de-az-amerikai-blokad-marad",
+      "url": "/vilag/2026-11-10-trump-szerint-veget-ert-az-irani-haboru-de-az-amerikai-blokad-marad/",
+      "title": "Trump szerint véget ért az iráni háború, de az amerikai blokád marad",
+      "lead": "Donald Trump amerikai elnök bejelentette, hogy katonai értelemben gyakorlatilag véget ért az iráni háború, így újabb jelentős amerikai műveletek indítását jelenleg nem tartja valószínűnek. Washington azonban továbbra is fenntartja a tengeri blokádot az iráni kikötőknél.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T10:18:45+01:00",
+      "published_at": "2026-11-10T10:18:45+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.09,
+      "tags": [
+        "Donald Trump",
+        "Irán",
+        "Egyesült Államok",
+        "Katar",
+        "közel-keleti konfliktus"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mohammed_bin_Abdulrahman_Al-Thani_of_Qatar_on_25_January_2024_-_2_%28cropped%29.jpg/1280px-Mohammed_bin_Abdulrahman_Al-Thani_of_Qatar_on_25_January_2024_-_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1599,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "The Foreign Secretary, David Cameron meets with the Prime Minister and Foreign Minister of Qatar, Sheikh Mohammed bin Abdulrahman Al Thani for a bilateral meeting whilst visiting Doha, Qatar as part o"
+      }
+    },
+    {
       "id": "4f362c9c-1617-573e-9e85-b5caed30e2ed",
       "slug": "2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben",
       "url": "/kozelet/2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben/",
@@ -4385,37 +4415,7 @@
         "pos": "center",
         "alt": "Mercedes-Benz fire van of the Budapest KOK Disaster Management Training Center at 10th National Police and Firefighter/Firefighting? Day in Budapest. Professional Firefighters exhibition area. in Cit"
       }
-    },
-    {
-      "id": "1ea0a374-7c90-5c3e-98fa-cfbb5bab95c2",
-      "slug": "2026-11-02-megbukott-aleksandar-vu-i-taroltak-a-szerb-egyetemistak",
-      "url": "/vilag/2026-11-02-megbukott-aleksandar-vu-i-taroltak-a-szerb-egyetemistak/",
-      "title": "Megbukott Aleksandar Vučić, taroltak a szerb egyetemisták",
-      "lead": "Az Egyetemista Lista a voksok 53,01 százalékát szerezte meg a teljes feldolgozottságú adatok szerint a szerbiai parlamenti választáson. A történelmi győzelemmel lezárult az Aleksandar Vučić nevéhez fémjelzett tizennégyéves kormányzati korszak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T07:52:25+01:00",
-      "published_at": "2026-11-02T07:52:25+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "Szerbia",
-        "választás",
-        "Aleksandar Vučić",
-        "Egyetemista Lista",
-        "VMSZ"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Belgrad2006parlament.jpg/1280px-Belgrad2006parlament.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 737,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ""
-      }
     }
   ],
-  "updated_at": "2026-11-10T10:06:01+01:00"
+  "updated_at": "2026-11-10T10:18:47+01:00"
 }
