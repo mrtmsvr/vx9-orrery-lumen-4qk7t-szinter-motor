@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "45a32a9b-e1f8-5f35-8173-fa7e62d839d5",
+      "slug": "2026-11-10-ujra-fustol-rijad-ballisztikus-raketakkal-uzentek-a-jemeni-huszik",
+      "url": "/vilag/2026-11-10-ujra-fustol-rijad-ballisztikus-raketakkal-uzentek-a-jemeni-huszik/",
+      "title": "Újra füstöl Rijád: ballisztikus rakétákkal üzentek a jemeni húszik",
+      "lead": "Kedd kora hajnalban több robbanás rázta meg a szaúdi fővárost, miután a légvédelem elfogott egy Rijád felé indított ballisztikus rakétát. A nyár óta ismét kiújult fegyveres konfliktus nemcsak a Közel-Kelet stabilitását, hanem a globális energiaszolgáltatást közvetlenül is veszélyezteti.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T07:41:29+01:00",
+      "published_at": "2026-11-10T07:41:29+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.15,
+      "tags": [
+        "Szaúd-Arábia",
+        "Rijád",
+        "húszik",
+        "rakétatámadás",
+        "közel-kelet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Riyadh Skyline  is growing. Dated February 2018"
+      }
+    },
+    {
       "id": "90391b54-86f3-5f14-aae0-23f544ecda59",
       "slug": "2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f",
       "url": "/kozelet/2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f/",
@@ -4387,34 +4417,7 @@
         "pos": "center",
         "alt": "a view of Maidan Nezalezhnosti in Kiev, Ukraine"
       }
-    },
-    {
-      "id": "ba2c3172-9402-5190-9826-274fd049bdf3",
-      "slug": "2026-11-01-lakobuszbol-valyoghaz-igy-cserelte-fel-a-fovarost-nogradra-egy-tervez",
-      "url": "/eletmod/2026-11-01-lakobuszbol-valyoghaz-igy-cserelte-fel-a-fovarost-nogradra-egy-tervez/",
-      "title": "Lakóbuszból vályogház: így cserélte fel a fővárost Nógrádra egy tervezőpáros",
-      "lead": "Elhagyta a fővárost egy tervezőpáros, hogy Nógrád megyében, Béren találja meg a lassabb tempót és építsen önellátó otthont vályogból. A 444.hu videójában bemutatott történet azt mutatja be, hogyan lehet a hagyományos építkezési technikákat a modern szemlélettel ötvözni.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T23:15:22+01:00",
-      "published_at": "2026-11-01T23:15:22+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "vályogház",
-        "vidékre költözés",
-        "önellátás",
-        "Nógrád megye",
-        "gyógynövények"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/eletmod-1793558060-0.jpg",
-        "kind": "photo",
-        "alt": "Lakóbuszból vályogház: így cserélte fel a fővárost Nógrádra egy tervezőpáros"
-      }
     }
   ],
-  "updated_at": "2026-11-10T07:40:03+01:00"
+  "updated_at": "2026-11-10T07:41:31+01:00"
 }
