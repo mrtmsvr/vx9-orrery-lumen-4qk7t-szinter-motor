@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "90391b54-86f3-5f14-aae0-23f544ecda59",
+      "slug": "2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f",
+      "url": "/kozelet/2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f/",
+      "title": "Magyar Péter átalakítja a szuper titkosszolgálatot: megvan az NIK új főigazgatója",
+      "lead": "Magyar Péter miniszterelnök november 10-i hatállyal Orosz László Pétert nevezte ki a Nemzeti Információs Központ főigazgatójává. A szervezet irányítása a tavalyi kormányzati struktúraváltás óta Ruff Bálint felügyelete alá tartozik.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T07:40:01+01:00",
+      "published_at": "2026-11-10T07:40:01+01:00",
+      "reading_time_min": 2,
+      "hot_score": 16.17,
+      "tags": [
+        "Nemzeti Információs Központ",
+        "Magyar Közlöny",
+        "Magyar Péter",
+        "titkosszolgálat",
+        "Ruff Bálint"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/BKIK_k%C3%B6zpont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 727,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Nemzeti Adó- és Vámhivatal Észak-Budapest Adó- és Vámigazgatósága és A Budapesti Kereskedelmi és Iparkamara központi épülete (Budavár, Krisztinaváros, Krisztina körút 93-99.)"
+      }
+    },
+    {
       "id": "dc5ed5be-3438-5246-ba34-ecaf8f811a82",
       "slug": "2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for",
       "url": "/kozelet/2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for/",
@@ -4384,34 +4414,7 @@
         "kind": "photo",
         "alt": "Lakóbuszból vályogház: így cserélte fel a fővárost Nógrádra egy tervezőpáros"
       }
-    },
-    {
-      "id": "d375da92-cfbb-52a9-ba15-2a2b02d97886",
-      "slug": "2026-11-01-negyezer-milliardos-gazdasagi-csomagot-iger-kapitany-istvan",
-      "url": "/penzvilag/2026-11-01-negyezer-milliardos-gazdasagi-csomagot-iger-kapitany-istvan/",
-      "title": "Négyezer milliárdos gazdasági csomagot ígér Kapitány István",
-      "lead": "Több mint négyezer milliárd forintot mozgósít a jövő évben a magyar gazdaság fellendítésére Kapitány István. A többéves stagnálás után érkező forrásokból a beruházások, a digitalizáció és a turizmus kaphat határozott lökést.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-01",
-      "date_label": "november 1.",
-      "created_at": "2026-11-01T22:55:18+01:00",
-      "published_at": "2026-11-01T22:55:18+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.8,
-      "tags": [
-        "gazdaság",
-        "Kapitány István",
-        "támogatás",
-        "beruházás"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-63b41fd16f.jpg",
-        "kind": "photo",
-        "alt": "4000 milliárd forint – a magyar gazdaság fellendítésére mozgósított forrás",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-10T06:19:20+01:00"
+  "updated_at": "2026-11-10T07:40:03+01:00"
 }
