@@ -1,7 +1,143 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:58:06+01:00",
+  "updated_at": "2026-11-10T12:59:17+01:00",
   "articles": [
+    {
+      "id": "59f6f66a-33c6-5c3b-88c4-fa2f8808692f",
+      "slug": "2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": null,
+      "tags": [
+        "infláció",
+        "KSH",
+        "gazdaság",
+        "árak",
+        "pénzügyek"
+      ],
+      "title": "Két százalékon áll a pénzromlás, de a zsebünkben másképp fáj",
+      "subtitle": null,
+      "lead": "Októberben átlagosan két százalékra gyorsult a fogyasztói árak emelkedése Magyarországon, miközben az élelmiszerek ára kifejezetten rapszodikusan alakult. A statisztikai adatok szerint a tavalyi év azonos időszakához képest az üzemanyagok és a szolgáltatások húzták leginkább fel a rátát.",
+      "key_points": [
+        "Októberben a fogyasztói árak átlagosan 2 százalékkal haladták meg az egy évvel korábbi szintet.",
+        "Az üzemanyagok ára éves alapon 11,3 százalékkal drágult.",
+        "A szolgáltatások körében átlagosan 5,2 százalékos volt a drágulás.",
+        "A háztartási energia ezzel szemben 4,3 százalékkal lett olcsóbb, főként a gáz árcsökkenése miatt."
+      ],
+      "content": "Júliusban még csupán 1,2 százalékos éves drágulást mértek hazánkban, azóta azonban fokozatosan gyorsul a pénzromlás üteme – derül ki a Központi Statisztikai Hivatal friss jelentéséből. Októberben a mutató már elérte a két százalékot, ami a harmadik egymást követő hónapban jelenti a drágulás gyorsulását, és szeptemberhez képest is 0,4 százalékos volt a drágulás. Az elemzői várakozások szerint ez a folyamat nem átmeneti, és az elkövetkező hónapokban tovább folytatódhat az árak emelkedése.\n\nA termékkörök között óriási különbségek látszanak, ha tüzetesebben megnézzük a boltok kínálatát. Az élelmiszerek kategóriája összességében 1,1 százalékos csökkenést mutat, ám ez a kedvező szám csalóka, mert a bolti polcokon egészen más mozgások zajlottak. A húskonzervek ára 27,3 százalékkal, a vaj és vajkrémeké 14 százalékkal, míg a friss hazai és déligyümölcsöké 12,9 százalékkal emelkedett, a sertéshús pedig 10,9, a sajt 10,8, a tej pedig 8,9 százalékkal drágult.\n\nA másik oldalon viszont akadtak olyan alapvető termékek, amelyek alaposan megterhelték a vásárlók pénztárcáját. A vendéglátás nélkül számolt élelmiszerárak ugyanakkor 4,1 százalékos csökkenést mutatnak, ami azt jelzi, hogy a kiskereskedelmi üzletekben mérsékeltebbek voltak a mozgások.\n\nA szolgáltatások piacán továbbra is erős az árnyomás, ott átlagosan 5,2 százalékos drágulást regisztráltak. A taxizás 11,6 százalékkal, a postai díjak 9,6 százalékkal, a testápolási szolgáltatások pedig 9 százalékkal drágultak meg egy év alatt. A járműüzemanyagok ára éves alapon 11,3 százalékkal emelkedett.\n\nA lakossági terheket némileg ellensúlyozta a háztartási energia, amely 4,3 százalékkal olcsóbbá vált. Ebben a szegmensben a vezetékes gáz 11,2 százalékos árcsökkenése játszotta a főszerepet, miközben az áramért 1,2 százalékkal többet kértek.",
+      "content_format": "markdown",
+      "body": [
+        "Júliusban még csupán 1,2 százalékos éves drágulást mértek hazánkban, azóta azonban fokozatosan gyorsul a pénzromlás üteme – derül ki a Központi Statisztikai Hivatal friss jelentéséből. Októberben a mutató már elérte a két százalékot, ami a harmadik egymást követő hónapban jelenti a drágulás gyorsulását, és szeptemberhez képest is 0,4 százalékos volt a drágulás. Az elemzői várakozások szerint ez a folyamat nem átmeneti, és az elkövetkező hónapokban tovább folytatódhat az árak emelkedése.",
+        "A termékkörök között óriási különbségek látszanak, ha tüzetesebben megnézzük a boltok kínálatát. Az élelmiszerek kategóriája összességében 1,1 százalékos csökkenést mutat, ám ez a kedvező szám csalóka, mert a bolti polcokon egészen más mozgások zajlottak. A húskonzervek ára 27,3 százalékkal, a vaj és vajkrémeké 14 százalékkal, míg a friss hazai és déligyümölcsöké 12,9 százalékkal emelkedett, a sertéshús pedig 10,9, a sajt 10,8, a tej pedig 8,9 százalékkal drágult.",
+        "A másik oldalon viszont akadtak olyan alapvető termékek, amelyek alaposan megterhelték a vásárlók pénztárcáját. A vendéglátás nélkül számolt élelmiszerárak ugyanakkor 4,1 százalékos csökkenést mutatnak, ami azt jelzi, hogy a kiskereskedelmi üzletekben mérsékeltebbek voltak a mozgások.",
+        "A szolgáltatások piacán továbbra is erős az árnyomás, ott átlagosan 5,2 százalékos drágulást regisztráltak. A taxizás 11,6 százalékkal, a postai díjak 9,6 százalékkal, a testápolási szolgáltatások pedig 9 százalékkal drágultak meg egy év alatt. A járműüzemanyagok ára éves alapon 11,3 százalékkal emelkedett.",
+        "A lakossági terheket némileg ellensúlyozta a háztartási energia, amely 4,3 százalékkal olcsóbbá vált. Ebben a szegmensben a vezetékes gáz 11,2 százalékos árcsökkenése játszotta a főszerepet, miközben az áramért 1,2 százalékkal többet kértek."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 298,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flex_Fuel_and_Unleaded_88_gas_pump.jpg/1280px-Flex_Fuel_and_Unleaded_88_gas_pump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Close up of a gas pump with three nozzles: yellow for E85 (\"Flex-Fuel\"), blue for E15 (\"Unleaded 88\"), black for (10% ethanol) regular gasoline.",
+        "credit": "Jleedev / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Flex_Fuel_and_Unleaded_88_gas_pump.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/gazdasag/2026/11/10/inflacio-aremelkedes-ksh-dragulas-uzemanyagar/",
+          "title": "Megjöttek a friss adatok: durván drágul az üzemanyag, újra gyorsul az infláció Magyarországon",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T12:57:58+01:00"
+        },
+        {
+          "url": "https://www.portfolio.hu/deviza/20261110/egyre-melyebbre-csuszik-a-forint-875318",
+          "title": "Egyre mélyebbre csúszik a forint",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T12:57:58+01:00"
+        },
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/inflacio-magyarorszagon-varga-mihaly-dragulas-ksh?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Kellemetlen meglepetés, kiderült a valós infláció Magyarországon: Varga Mihálynak védekeznie kell, jobbra számítottak az elemzők – gyorsult a drágulás",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T12:57:58+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-10T12:59:17+01:00"
+      },
+      "hot_score": 5.92,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/gazdasag/2026/11/10/inflacio-aremelkedes-ksh-dragulas-uzemanyagar/"
+        ]
+      },
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "url": "/penzvilag/2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj/",
+      "seo": {
+        "meta_title": "Két százalékon áll a pénzromlás, de a zsebünkben másképp fáj",
+        "meta_description": "Októberben átlagosan két százalékra gyorsult a fogyasztói árak emelkedése Magyarországon, miközben az élelmiszerek ára kifejezetten rapszodikusan alakult. A sta",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flex_Fuel_and_Unleaded_88_gas_pump.jpg/1280px-Flex_Fuel_and_Unleaded_88_gas_pump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "a71189d9-5a16-543b-af98-4cfa74d8ba97",
+        "c5390d36-6348-543b-b833-d2cc7d510c32",
+        "4e88af56-b8ee-5250-9fc3-4fecbccc0edd"
+      ],
+      "see_also": [
+        {
+          "title": "Negyedszázad után újra eljátszották az István, a királyt Amerikában",
+          "url": "/kultura/2026-10-25-negyedszazad-utan-ujra-eljatszottak-az-istvan-a-kiralyt-amerikaban/",
+          "date": "2026-10-25"
+        },
+        {
+          "title": "Ilyen még nem volt: tiszás politikust választottak meg Brüsszelben",
+          "url": "/vilag/2026-10-21-ilyen-meg-nem-volt-tiszas-politikust-valasztottak-meg-brusszelben/",
+          "date": "2026-10-21"
+        },
+        {
+          "title": "Magyar Péter hétfőn mutatja be a 2027-es költségvetést",
+          "url": "/kozelet/2026-10-17-magyar-peter-hetfon-mutatja-be-a-2027-es-koltsegvetest/",
+          "date": "2026-10-17"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "73277917c7d243d28dbddb8cc4313a8a8fb981f7bc01fe48f903e8fed441cef0",
+      "pipeline_run_id": "42810929443",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-10T12:59:17+01:00",
+      "updated_at": "2026-11-10T12:59:17+01:00",
+      "published_at": "2026-11-10T12:59:17+01:00",
+      "expires_at": null
+    },
     {
       "id": "f761068d-cc1c-500f-99b7-9396890cba8d",
       "slug": "2026-11-10-sajat-partja-inditott-vadeljarast-pete-hegseth-ellen-az-irani-haboru",
@@ -73568,114 +73704,6 @@
       "created_at": "2026-10-13T10:56:28+02:00",
       "updated_at": "2026-10-13T10:56:28+02:00",
       "published_at": "2026-10-13T10:56:28+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "6b4e396a-f118-5943-9ac3-4515b4b7b2b1",
-      "slug": "2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "NVVH",
-        "vagyonvisszaszerzés",
-        "bűnügy",
-        "parlament",
-        "gazdasági bűnözés"
-      ],
-      "title": "Ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba",
-      "subtitle": null,
-      "lead": "Nyilvánosságra hozták a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettes-jelöltjének életrajzát. A szakemberek korábban súlyos gazdasági bűncselekmények, pénzmosás és uniós csalások felderítésében szereztek tapasztalatot; múltjukban több nagy port kavart hazai büntetőügy is felbukkan.",
-      "key_points": [
-        "Három elnökhelyettes-jelölt életrajzát hozták nyilvánosságra a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal élére.",
-        "A jelöltek az Integritás Hatóságtól, a Szegedi Fellebbviteli Főügyészségről, valamint az Ózdi Járási Ügyészségről érkeznek.",
-        "A pályázók olyan ügyeken dolgoztak korábban, mint a Simonka Györgyhöz vagy Mészáros Lőrinc érdekeltségeihez kapcsolódó eljárások."
-      ],
-      "content": "Felkerült a parlament honlapjára a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) három elnökhelyettes-jelöltjének önéletrajza, amelyekből kiderül, hogy mindhármuknak jelentős tapasztalata van a pénzmosással és a gazdasági bűncselekményekkel kapcsolatos eljárásokban – írta a Telex. Az Országgyűlés Igazságügyi Bizottsága hétfő délelőtt javasolta a posztokra a szakembereket, akiknek pályafutása szorosan kötődik a kiemelt gazdasági ügyekhez.\n\nA közpénzügyi elnökhelyettesnek jelölt Ötvös Károly az Integritás Hatóságtól érkezne a hivatalba. Korábban több mint tíz évig dolgozott a NAV Bűnügyi Főigazgatóságán szakértő vizsgálóként, ahol határon átnyúló bűnszervezetek által elkövetett költségvetési csalások és pénzmosási ügyek felderítésében vett részt; vizsgálta továbbá a Simonka Györgyhöz köthető nyomozást és a Zuschlag-ügyet is.\n\nA vádemelésért felelős elnökhelyettes pozíciójára Terhes Tibor Dávidot javasolják, aki eddig a Szegedi Fellebbviteli Főügyészség kirendelt ügyészeként kezelt kiemelt gazdasági és korrupciós ügyeket. Kiemelt esetei között szerepel a Mészáros Lőrinc-közeli Eurovéd Security őrző-védő vállalkozás is, amelynek vezetői ellen különösen nagy vagyoni hátrányt okozó költségvetési csalás gyanúja miatt indult eljárás.\n\nA harmadik jelölt, Gellért Károly Árpád a Miskolci Egyetemen szerzett jogi diplomát, majd a Nemzeti Közszolgálati Egyetemen szakosodott a szervezett bűnözés elleni küzdelemre. Jelenleg az Ózdi Járási Ügyészség vezetőhelyettes ügyésze, emellett a Borsod-Abaúj-Zemplén Megyei Kosárlabda Szövetség fegyelmi bizottságát is vezeti.\n\nHantosi István, az igazságügyi bizottság elnöke a hétfői bejelentéskor hangsúlyozta, hogy a legalkalmasabb, kiemelkedő szakmai tudással rendelkező személyeket választották ki a pályázók közül. A jelöltek meghallgatási folyamatát független civil szervezetek szakértői is segítették, hozzájárulva az eljárás alaposságához.",
-      "content_format": "markdown",
-      "body": [
-        "Felkerült a parlament honlapjára a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) három elnökhelyettes-jelöltjének önéletrajza, amelyekből kiderül, hogy mindhármuknak jelentős tapasztalata van a pénzmosással és a gazdasági bűncselekményekkel kapcsolatos eljárásokban – írta a Telex. Az Országgyűlés Igazságügyi Bizottsága hétfő délelőtt javasolta a posztokra a szakembereket, akiknek pályafutása szorosan kötődik a kiemelt gazdasági ügyekhez.",
-        "A közpénzügyi elnökhelyettesnek jelölt Ötvös Károly az Integritás Hatóságtól érkezne a hivatalba. Korábban több mint tíz évig dolgozott a NAV Bűnügyi Főigazgatóságán szakértő vizsgálóként, ahol határon átnyúló bűnszervezetek által elkövetett költségvetési csalások és pénzmosási ügyek felderítésében vett részt; vizsgálta továbbá a Simonka Györgyhöz köthető nyomozást és a Zuschlag-ügyet is.",
-        "A vádemelésért felelős elnökhelyettes pozíciójára Terhes Tibor Dávidot javasolják, aki eddig a Szegedi Fellebbviteli Főügyészség kirendelt ügyészeként kezelt kiemelt gazdasági és korrupciós ügyeket. Kiemelt esetei között szerepel a Mészáros Lőrinc-közeli Eurovéd Security őrző-védő vállalkozás is, amelynek vezetői ellen különösen nagy vagyoni hátrányt okozó költségvetési csalás gyanúja miatt indult eljárás.",
-        "A harmadik jelölt, Gellért Károly Árpád a Miskolci Egyetemen szerzett jogi diplomát, majd a Nemzeti Közszolgálati Egyetemen szakosodott a szervezett bűnözés elleni küzdelemre. Jelenleg az Ózdi Járási Ügyészség vezetőhelyettes ügyésze, emellett a Borsod-Abaúj-Zemplén Megyei Kosárlabda Szövetség fegyelmi bizottságát is vezeti.",
-        "Hantosi István, az igazságügyi bizottság elnöke a hétfői bejelentéskor hangsúlyozta, hogy a legalkalmasabb, kiemelkedő szakmai tudással rendelkező személyeket választották ki a pályázók közül. A jelöltek meghallgatási folyamatát független civil szervezetek szakértői is segítették, hozzájárulva az eljárás alaposságához."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 266,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/0fee4c3cd5-1791872212-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0fee4c3cd5-1791872212-0.jpg",
-        "kind": "photo",
-        "alt": "Ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://telex.hu/belfold/2026/10/12/nvvh-elnokhelettes-jelolt-otvos-terhes-gellert-eletrajz",
-          "title": "A szervezett bűnözés felszámolása, nyomozás Mészáros Lőrinc cége ellen, Simonka-ügy – megnéztük, kiket jelöltek az NVVH elnökhelyetteseinek",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-12T21:44:33+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-13T10:36:14+02:00"
-      },
-      "hot_score": 5.47,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/belfold/2026/10/12/nvvh-elnokhelettes-jelolt-otvos-terhes-gellert-eletrajz"
-        ]
-      },
-      "date": "2026-10-12",
-      "date_label": "október 12.",
-      "url": "/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv/",
-      "seo": {
-        "meta_title": "Ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszasze",
-        "meta_description": "Nyilvánosságra hozták a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettes-jelöltjének életrajzát. A szakemberek korábban súlyos gazdasá",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/0fee4c3cd5-1791872212-0.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "b343f9af-5be3-57e1-b7b7-527bb535c185"
-      ],
-      "see_also": [
-        {
-          "title": "Virtuális focimeccsekkel csaltak ki százezreket a dél-dunántúli csalók",
-          "url": "/kozelet/2026-10-08-virtualis-focimeccsekkel-csaltak-ki-szazezreket-a-del-dunantuli-csalo/",
-          "date": "2026-10-08"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "390b7f4749282bbe962c80f5bd925aeb9eda5b1a05e919b4bc523585d794bb5e",
-      "pipeline_run_id": "38295331248",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T10:36:14+02:00",
-      "updated_at": "2026-10-13T10:36:14+02:00",
-      "published_at": "2026-10-13T10:36:14+02:00",
       "expires_at": null
     }
   ]

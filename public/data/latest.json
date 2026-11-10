@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "59f6f66a-33c6-5c3b-88c4-fa2f8808692f",
+      "slug": "2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj",
+      "url": "/penzvilag/2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj/",
+      "title": "Két százalékon áll a pénzromlás, de a zsebünkben másképp fáj",
+      "lead": "Októberben átlagosan két százalékra gyorsult a fogyasztói árak emelkedése Magyarországon, miközben az élelmiszerek ára kifejezetten rapszodikusan alakult. A statisztikai adatok szerint a tavalyi év azonos időszakához képest az üzemanyagok és a szolgáltatások húzták leginkább fel a rátát.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T12:59:17+01:00",
+      "published_at": "2026-11-10T12:59:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5.92,
+      "tags": [
+        "infláció",
+        "KSH",
+        "gazdaság",
+        "árak",
+        "pénzügyek"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flex_Fuel_and_Unleaded_88_gas_pump.jpg/1280px-Flex_Fuel_and_Unleaded_88_gas_pump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Close up of a gas pump with three nozzles: yellow for E85 (\"Flex-Fuel\"), blue for E15 (\"Unleaded 88\"), black for (10% ethanol) regular gasoline."
+      }
+    },
+    {
       "id": "f761068d-cc1c-500f-99b7-9396890cba8d",
       "slug": "2026-11-10-sajat-partja-inditott-vadeljarast-pete-hegseth-ellen-az-irani-haboru",
       "url": "/vilag/2026-11-10-sajat-partja-inditott-vadeljarast-pete-hegseth-ellen-az-irani-haboru/",
@@ -4398,37 +4428,7 @@
         "pos": "top",
         "alt": "Presidential portrait of President Iliyana Yotova"
       }
-    },
-    {
-      "id": "73127a86-73f1-5c1e-a668-99ab8cf87d8c",
-      "slug": "2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi",
-      "url": "/kozelet/2026-11-02-nem-otthoni-hasznalatra-szant-szefek-rejtoztek-sesztak-miklos-hangszi/",
-      "title": "Másfél tonnás páncélszekrények várják a nyomozókat Seszták Miklós házában",
-      "lead": "A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal nyomozói két, egyenként 1,6 tonnás páncélszekrényt találtak Seszták Miklós kisvárdai otthonában. A rendkívüli méretű széfek tipikusan pénzügyi szolgáltatók és zálogházak berendezései közé tartoznak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T12:41:39+01:00",
-      "published_at": "2026-11-02T12:41:39+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Seszták Miklós",
-        "NVVH",
-        "házkutatás",
-        "páncélszekrény",
-        "Kisvárda"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Kaso_Data_Safe_4000.jpg/1280px-Kaso_Data_Safe_4000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "A fire-resistant safe manufactured by the Finnish company Kaso. Intended for optical media and data cartridges."
-      }
     }
   ],
-  "updated_at": "2026-11-10T12:58:08+01:00"
+  "updated_at": "2026-11-10T12:59:19+01:00"
 }
