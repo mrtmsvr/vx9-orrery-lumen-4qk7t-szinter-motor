@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8b1bd098-f9a8-59b3-9957-f1795628935e",
+      "slug": "2026-11-10-meghalt-toukie-smith-robert-de-niro-ikreinek-edesanyja",
+      "url": "/bulvar/2026-11-10-meghalt-toukie-smith-robert-de-niro-ikreinek-edesanyja/",
+      "title": "Meghalt Toukie Smith, Robert De Niro ikreinek édesanyja",
+      "lead": "Hosszan tartó, súlyos betegség után, 74 éves korában elhunyt Toukie Smith amerikai modell és színésznő, aki nyolc éven át alkotott egy párt Robert De Niróval. A szomorú hírt közös ikergyermekeik erősítették meg a nyilvánosságnak.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T12:41:07+01:00",
+      "published_at": "2026-11-10T12:41:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Toukie Smith",
+        "Robert De Niro",
+        "gyászhír",
+        "modell",
+        "színésznő"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg/1280px-Robert_de_Niro_Cannes_Film_Festival_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1602,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Actor Robert de Niro at the 2025 Cannes Film Festival"
+      }
+    },
+    {
       "id": "0358ae73-beff-5458-835c-0a4c274dc1b0",
       "slug": "2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg",
       "url": "/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
@@ -4391,30 +4421,7 @@
         "Országgyűlés"
       ],
       "hero_image": null
-    },
-    {
-      "id": "3188b85d-47aa-54fb-97fb-9b6058fb71ab",
-      "slug": "2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe",
-      "url": "/kozelet/2026-11-02-megallapodas-fejes-peter-lesz-a-tisza-embere-a-legfobb-ugyeszi-szekbe/",
-      "title": "Magyar Péter bejelentette: támogatják Fejes Pétert legfőbb ügyésznek",
-      "lead": "A TISZA-frakció támogatja dr. Fejes Péter legfőbb ügyésszé választását, miután a parlament korábban elutasította a köztársasági elnök első jelöltjét. A döntéssel elhárul annak a veszélye, hogy vezető nélkül maradjon a vádhatóság.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T11:48:18+01:00",
-      "published_at": "2026-11-02T11:48:18+01:00",
-      "reading_time_min": 2,
-      "hot_score": 16.25,
-      "tags": [
-        "legfőbb ügyész",
-        "TISZA-frakció",
-        "Magyar Péter",
-        "Baka András",
-        "Fejes Péter"
-      ],
-      "hero_image": null
     }
   ],
-  "updated_at": "2026-11-10T12:23:44+01:00"
+  "updated_at": "2026-11-10T12:41:09+01:00"
 }
