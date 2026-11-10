@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bc8745e1-59b2-5371-9647-10ad60b30753",
+      "slug": "2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug",
+      "url": "/kozelet/2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug/",
+      "title": "Nem az én kompetenciám – így reagált Tarr Zoltán a tévesen listázott ügynökökre",
+      "lead": "Személyesen semmilyen felelősséget nem érez a tévesen nyilvánosságra hozott ügynökakták miatt Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter. A politikus a Telex.hu műsorában reagált azokra a bírálatokra, amelyek a listán szereplő hibás adatok miatt érték a kormányt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T14:46:50+01:00",
+      "published_at": "2026-11-10T14:46:50+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Tarr Zoltán",
+        "ügynökakták",
+        "Telex",
+        "ABTL",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-56ac783341.jpg",
+        "kind": "photo",
+        "alt": "\"Személyesen semmilyen felelősséget nem érzek\"",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "1cb47275-1cd0-5fb4-96f8-c33a1da65d9c",
       "slug": "2026-11-10-akar-5-millios-allami-lokes-erkezik-a-hazai-tarsashazaknak",
       "url": "/penzvilag/2026-11-10-akar-5-millios-allami-lokes-erkezik-a-hazai-tarsashazaknak/",
@@ -4399,37 +4429,7 @@
         "pos": "center",
         "alt": "Szabó Ervin tér és a Wenckheim-palota Budapest, Magyarország"
       }
-    },
-    {
-      "id": "354ac0c1-1592-51e0-a9a2-d2cec66fc385",
-      "slug": "2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum",
-      "url": "/vilag/2026-11-02-nem-birtak-a-matekot-tizmilliardos-hiany-miatt-adta-vissza-a-mandatum/",
-      "title": "Nem tudtak megegyezni a milliárdokról, így inkább felállt a belga kormányfő",
-      "lead": "Benyújtotta lemondását Bart De Wever belga miniszterelnök Fülöp királynak, miután a kormánykabinet nem tudott megállapodni a 2027-es szövetségi költségvetésről. A mélyülő pénzügyi válság hátterében a 735 milliárd eurót meghaladó belga államadósság és a tízmilliárd eurós hiány csökkentése körüli viták állnak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T12:49:42+01:00",
-      "published_at": "2026-11-02T12:49:42+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Belgium",
-        "költségvetés",
-        "államadósság",
-        "Európai Unió",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Visit_of_King_Philippe_I_of_Belgium_to_Ghent_European_Youth_Capital_on_25_April_2024_-_EU2024BE_240425_Visit_of_His_Majesty_the_King_to_Ghent_European_Youth_Capital_Ghent_JNZT_0078_%2853677952391%29.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1605,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
-      }
     }
   ],
-  "updated_at": "2026-11-10T14:18:34+01:00"
+  "updated_at": "2026-11-10T14:46:52+01:00"
 }

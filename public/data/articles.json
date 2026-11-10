@@ -1,7 +1,138 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T13:01:16+01:00",
+  "updated_at": "2026-11-10T14:46:50+01:00",
   "articles": [
+    {
+      "id": "bc8745e1-59b2-5371-9647-10ad60b30753",
+      "slug": "2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Tarr Zoltán",
+        "ügynökakták",
+        "Telex",
+        "ABTL",
+        "közélet"
+      ],
+      "title": "Nem az én kompetenciám – így reagált Tarr Zoltán a tévesen listázott ügynökökre",
+      "subtitle": null,
+      "lead": "Személyesen semmilyen felelősséget nem érez a tévesen nyilvánosságra hozott ügynökakták miatt Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter. A politikus a Telex.hu műsorában reagált azokra a bírálatokra, amelyek a listán szereplő hibás adatok miatt érték a kormányt.",
+      "key_points": [
+        "Tarr Zoltán a Telex.hu interjújában nyilatkozott a 164 tévesen megnyitott ügynökaktáról.",
+        "A miniszter hangsúlyozta, hogy személyesen semmilyen felelősséget nem érez, mert az adatok összeállítása és az informatikai rendszer kezelése nem az ő kompetenciája volt.",
+        "A parlamentben elhangzott felvetésekre reagálva felmerült, hogy érdemes megvizsgálni, szándékosan, más megbízásából próbálták-e hitelteleníteni a folyamatot.",
+        "A kormánytól függetlenül működő Állambiztonsági Szolgálatok Történeti Levéltára (ABTL) munkájának segítésére tanácsadó testületet hoztak létre."
+      ],
+      "content": "A társadalmi kapcsolatokért és kultúráért felelős miniszter, Tarr Zoltán a Telex.hu videójában szólalt meg az ügynökakták nyilvánosságra hozatala körül kialakult helyzetről.\n\nA riporterek kérdésére válaszolva a miniszter határozottan kijelentette, hogy nem érzi magát felelősnek a történtekért. Elmondása szerint sem az adatbázis összeállításában, sem az informatikai rendszer kezelésében nem vett részt, így nem is tudott volna erről érdemben többet mondani.\n\nA parlamentben elhangzott korábbi felvetésekkel kapcsolatban – amelyek szerint valaki szándékosan hibázhatott – a miniszter úgy fogalmazott, hogy érdemes megvizsgálni a háttérben meghúzódó szándékokat. Kérdésként vetette fel, hogy vajon véletlen baki történt-e, vagy valaki más megbízásából igyekezett hitelteleníteni az egész kezdeményezést.\n\nTarr Zoltán hozzátette, hogy az Állambiztonsági Szolgálatok Történeti Levéltára (ABTL) a kormánytól független intézményként végzi feladatait. A folyamatok támogatására ugyanakkor egy segítő tanácsadó testületet is felállítottak.",
+      "content_format": "markdown",
+      "body": [
+        "A társadalmi kapcsolatokért és kultúráért felelős miniszter, Tarr Zoltán a Telex.hu videójában szólalt meg az ügynökakták nyilvánosságra hozatala körül kialakult helyzetről.",
+        "A riporterek kérdésére válaszolva a miniszter határozottan kijelentette, hogy nem érzi magát felelősnek a történtekért. Elmondása szerint sem az adatbázis összeállításában, sem az informatikai rendszer kezelésében nem vett részt, így nem is tudott volna erről érdemben többet mondani.",
+        "A parlamentben elhangzott korábbi felvetésekkel kapcsolatban – amelyek szerint valaki szándékosan hibázhatott – a miniszter úgy fogalmazott, hogy érdemes megvizsgálni a háttérben meghúzódó szándékokat. Kérdésként vetette fel, hogy vajon véletlen baki történt-e, vagy valaki más megbízásából igyekezett hitelteleníteni az egész kezdeményezést.",
+        "Tarr Zoltán hozzátette, hogy az Állambiztonsági Szolgálatok Történeti Levéltára (ABTL) a kormánytól független intézményként végzi feladatait. A folyamatok támogatására ugyanakkor egy segítő tanácsadó testületet is felállítottak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 165,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-56ac783341.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-56ac783341.jpg",
+        "kind": "photo",
+        "alt": "\"Személyesen semmilyen felelősséget nem érzek\"",
+        "credit": "A videó előnézeti képe – Telex․hu (YouTube)",
+        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
+        "source_url": "https://www.youtube.com/watch?v=CtDiu7-GjgA",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=CtDiu7-GjgA",
+          "title": "\"Személyesen semmilyen felelősséget nem érzek\"",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-11-10T14:44:39+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Személyesen semmilyen felelősséget nem érzek",
+        "who": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-10T14:46:50+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=CtDiu7-GjgA"
+        ]
+      },
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "url": "/kozelet/2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug/",
+      "seo": {
+        "meta_title": "Nem az én kompetenciám – így reagált Tarr Zoltán a tévesen l",
+        "meta_description": "Személyesen semmilyen felelősséget nem érez a tévesen nyilvánosságra hozott ügynökakták miatt Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős minisz",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-56ac783341.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "3695249e-943c-5335-bb61-094a3e31b869",
+        "a4475d02-ca13-5227-899b-0e34438b6b6a",
+        "d1c96008-64cf-5cee-9449-6fcb016b2b68"
+      ],
+      "see_also": [
+        {
+          "title": "Adathiba vagy politikai fegyver? Lezsák Sándort tették be az ügynöklistába",
+          "url": "/kozelet/2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis/",
+          "date": "2026-11-05"
+        },
+        {
+          "title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Operaház éléről",
+          "url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Tarr Zoltán: Nem lesz többé következmények nélküli közpénzosztogatás",
+          "url": "/kozelet/2026-10-18-tarr-zoltan-lezarna-a-hataron-tuli-kozpenzosztogatas-korszakat/",
+          "date": "2026-10-18"
+        }
+      ],
+      "thread_id": "933196df-9cd4-5e0f-b6a4-d7e7d12ad670",
+      "dedupe_hash": "59cb116f3e59463f16601bd05ea0345335d57a9ff536fa88845a38edf6666a5b",
+      "pipeline_run_id": "42822839461",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-10T14:46:50+01:00",
+      "updated_at": "2026-11-10T14:46:50+01:00",
+      "published_at": "2026-11-10T14:46:50+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "CtDiu7-GjgA",
+        "title": "\"Személyesen semmilyen felelősséget nem érzek\"",
+        "channel": "Telex․hu",
+        "minutes": 2
+      }
+    },
     {
       "id": "1cb47275-1cd0-5fb4-96f8-c33a1da65d9c",
       "slug": "2026-11-10-akar-5-millios-allami-lokes-erkezik-a-hazai-tarsashazaknak",
@@ -73619,110 +73750,6 @@
       "created_at": "2026-10-13T11:36:17+02:00",
       "updated_at": "2026-10-13T11:36:17+02:00",
       "published_at": "2026-10-13T11:36:17+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "094fc7c2-9957-562c-aabb-937484851bde",
-      "slug": "2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat",
-      "status": "published",
-      "category": "eletmod",
-      "subcategory": null,
-      "tags": [
-        "egészség",
-        "alvás",
-        "mozgás",
-        "kutatás",
-        "életmód"
-      ],
-      "title": "Ez a napi tízperces szokás teljesen megváltoztathatja az éjszakáidat",
-      "subtitle": null,
-      "lead": "A rendszeres, akár napi tízperces fizikai aktivitás is mérhetően javíthatja az alvásminőséget és a mélyalvás szakaszainak hosszát. Egy friss kutatás szerint nem a hosszú edzések, hanem a mindennapos mozgás biztosítja a legfőbb agyi és fizikai regenerációt.",
-      "key_points": [
-        "Napi tíz perc mérsékelt vagy intenzív mozgás is összefüggésben áll a jobb alvással.",
-        "A fizikai aktivitás gyakorisága fontosabb a pihentető alvás szempontjából, mint a hétvégi nagy edzések.",
-        "A rendszeres mozgás a következő napi hangulatra és energiaszintre is kedvezően hat."
-      ],
-      "content": "A pihentető éjszakák kulcsa nem feltétlenül a kimerítő edzésekben, hanem a mindennapi rutinba iktatott mozgás gyakoriságában rejlik. A Journal of Physical Activity & Health szaklapban megjelent vizsgálat eredményei szerint azok a fiatal felnőttek, akik sűrűbben iktattak be testmozgást a napjaikba, több időt töltöttek a regenerációért felelős mélyalvási fázisokban.\n\nBenjamin Baird, az austini Texasi Egyetem pszichológiai kutatója szerint a vizsgálat azt elemezte, hogy számít-e a mozgás elosztása a héten. Az adatok alapján a rendszeresség határozottan fontos szerepet játszik az alvás egészségében, szemben azzal, ha valaki az összes edzését a hétvégére tartogatja.\n\nA kutatók Fitbit fitneszkövető eszközökkel gyűjtöttek adatokat egyetemisták alvási és mozgási szokásairól több hónapon keresztül. A megfigyelések során kiderült, hogy már napi tíz percnyi mérsékelt vagy intenzív fizikai aktivitás is mérhető pozitív változást hozott a résztvevők éjszakai pihenésében.\n\nA mérsékelt vagy intenzív mozgás definíciója szerint olyan erőkifejtést jelent, amelynél a légzés szaporábbá válik, de a beszélgetés még lehetséges. A fizikai aktivitás nem kíván meg kimerítő edzéseket, a rövidebb mozgásformák is kedvező hatást mutattak.\n\nChris Corral, aki nemrégiben szerzett mesterfokozatot az intézményben, rámutatott, hogy a korai órákban bekövetkező mélyalvás elengedhetetlen a szervezet testi és mentális regenerációjához. A gyakrabban mozgó résztvevők a megfigyelések alapján több időt töltöttek a mélyalvási fázisokban.",
-      "content_format": "markdown",
-      "body": [
-        "A pihentető éjszakák kulcsa nem feltétlenül a kimerítő edzésekben, hanem a mindennapi rutinba iktatott mozgás gyakoriságában rejlik. A Journal of Physical Activity & Health szaklapban megjelent vizsgálat eredményei szerint azok a fiatal felnőttek, akik sűrűbben iktattak be testmozgást a napjaikba, több időt töltöttek a regenerációért felelős mélyalvási fázisokban.",
-        "Benjamin Baird, az austini Texasi Egyetem pszichológiai kutatója szerint a vizsgálat azt elemezte, hogy számít-e a mozgás elosztása a héten. Az adatok alapján a rendszeresség határozottan fontos szerepet játszik az alvás egészségében, szemben azzal, ha valaki az összes edzését a hétvégére tartogatja.",
-        "A kutatók Fitbit fitneszkövető eszközökkel gyűjtöttek adatokat egyetemisták alvási és mozgási szokásairól több hónapon keresztül. A megfigyelések során kiderült, hogy már napi tíz percnyi mérsékelt vagy intenzív fizikai aktivitás is mérhető pozitív változást hozott a résztvevők éjszakai pihenésében.",
-        "A mérsékelt vagy intenzív mozgás definíciója szerint olyan erőkifejtést jelent, amelynél a légzés szaporábbá válik, de a beszélgetés még lehetséges. A fizikai aktivitás nem kíván meg kimerítő edzéseket, a rövidebb mozgásformák is kedvező hatást mutattak.",
-        "Chris Corral, aki nemrégiben szerzett mesterfokozatot az intézményben, rámutatott, hogy a korai órákban bekövetkező mélyalvás elengedhetetlen a szervezet testi és mentális regenerációjához. A gyakrabban mozgó résztvevők a megfigyelések alapján több időt töltöttek a mélyalvási fázisokban."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 235,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wadi_Shawka_night_sky_03.jpg/1280px-Wadi_Shawka_night_sky_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 2133,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "A mesmerizing view of the starry night sky over Wadi Shawka, Ras Al Khaimah, showcasing the serene beauty of the desert under a canopy of celestial brilliance.",
-        "credit": "ShaniaJ / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Wadi_Shawka_night_sky_03.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
-          "title": "Just 10 minutes of daily exercise could unlock deeper sleep",
-          "publisher": "sciencedaily.com",
-          "license": null,
-          "accessed_at": "2026-10-13T09:24:08+02:00"
-        }
-      ],
-      "quote": {
-        "text": "We wanted to know whether it matters if someone spreads out their exercise over the week versus doing it all at once, like a 'weekend warrior,' And for sleep health, frequency does seem to matter.",
-        "who": "Benjamin Baird, a kutatás egyik résztvevője",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-13T11:16:26+02:00"
-      },
-      "hot_score": 5.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.sciencedaily.com/releases/2026/10/261008102721.htm"
-        ]
-      },
-      "date": "2026-10-13",
-      "date_label": "október 13.",
-      "url": "/eletmod/2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat/",
-      "seo": {
-        "meta_title": "Ez a napi tízperces szokás teljesen megváltoztathatja az éjs",
-        "meta_description": "A rendszeres, akár napi tízperces fizikai aktivitás is mérhetően javíthatja az alvásminőséget és a mélyalvás szakaszainak hosszát. Egy friss kutatás szerint nem",
-        "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-10-13-ez-a-napi-tizperces-szokas-teljesen-megvaltoztathatja-az-ejszakaidat/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Wadi_Shawka_night_sky_03.jpg/1280px-Wadi_Shawka_night_sky_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "459e0a66ca2757cf98e6fb81634ba3ff7755a8e4591aff0eb9aecb4322cfa1a1",
-      "pipeline_run_id": "38362302674",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T11:16:26+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-13T11:16:26+02:00",
       "expires_at": null
     }
   ]
