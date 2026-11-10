@@ -1,7 +1,129 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T10:45:45+01:00",
+  "updated_at": "2026-11-10T12:15:51+01:00",
   "articles": [
+    {
+      "id": "0358ae73-beff-5458-835c-0a4c274dc1b0",
+      "slug": "2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "öregségi nyugdíj",
+        "nyugdíjemelés",
+        "nyugdíjrendszer",
+        "gazdaság"
+      ],
+      "title": "Mennyi lesz az öregségi nyugdíj? Így alakul az összeg",
+      "subtitle": null,
+      "lead": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján jelenleg nincsenek hivatalos számok. Az állami nyugdíjrendszer alapvető működési elvei azonban pontosan meghatározzák, hogy mi alapján számítják ki ezt a járandóságot.",
+      "key_points": [
+        "Az öregségi nyugdíj olyan ellátás, amelyet a polgárok alanyi, nem pedig rászorultsági alapon kapnak.",
+        "A nyugdíj összege a szolgálati időtől és a korábbi jövedelemtől függ.",
+        "A legtöbb fejlett országban állami nyugdíjrendszer működik a kontraszelekció és a paternalizmus elkerülése érdekében.",
+        "A konkrét nyugdíjemelés mértékéről és az összegek alakulásáról a megadott források nem tartalmaznak pontos adatokat."
+      ],
+      "content": "## Mennyi lesz az öregségi nyugdíj összege?\n\nA rendelkezésre álló adatok szerint a pontos összeg még nem ismert. A nyugdíj egy olyan rendszeres pénzbeli ellátás, amelyet a volt munkavállalók a nyugdíjkorhatár elérése után kapnak megélhetésük biztosítására. Az állami nyugdíjrendszerek alapvető célja, hogy elkerüljék azokat a piaci hiányosságokat, amelyek az egyéni megtakarításokra hagyatkozás esetén fellépnének.\n\n## Mely tényezők határozzák meg a nyugdíj mértékét?\n\nAz öregségi nyugdíj összege elsősorban a szolgálati időtől – vagyis a munkával és jövedelemszerzéssel töltött évek számától –, valamint a korábbi jövedelemtől függ. A rendszer működése során az állam vállalja a főszerepet, mivel a tisztán magánbiztosítási formák esetén felmerülne a kontraszelekció problémája. Ez azt jelenti, hogy önkéntes alapon csak azok kötnének nyugdíjbiztosítást, akik jó egészségi állapotuk miatt hosszú várható élettartamra számítanak, ami a juttatások csökkenéséhez vezetne.\n\n## Miért avatkozik be az állam a nyugdíjrendszerbe?\n\nA kötelező állami nyugdíj mögött gazdasági és társadalmi okok állnak. A paternalizmus elve alapján az állam úgy ítéli meg, hogy az állampolgárok nem minden esetben elég előrelátók a teljes időskori megélhetésük önálló biztosításához. Emellett az erkölcsi kockázat (moral hazard) is szerepet játszik: ha az állam nem gondoskodna kötelező rendszerről, sokan a szükségesnél kevesebbet takarítanának meg abból a feltételezésből, hogy vészhelyzetben úgyis a társadalom segít.\n\n## Hogyan valósul meg az újraelosztás a rendszerben?\n\nAz állami nyugdíjrendszerek fontos funkciója az újraelosztás. Egyrészt megjelenik a különböző jövedelmi csoportok közötti szolidaritás, amely a jövedelmi különbségek csökkentésével növeli az általános jólétet. Másrészt a különböző generációk között is kapcsolatot teremt, hiszen a jelenlegi idősek ellátását a mindenkori aktív korúak járulékaiból biztosítják.\n\n## Gyakori kérdések\n\nFügg-e a nyugdíj a rászorultságtól? Nem, az öregségi nyugdíj alanyi, azaz nem rászorultsági alapon járó ellátás. Milyen tényezők számítanak a kiszámításnál? A szolgálati idő és a korábbi jövedelem nagysága. Nyilvánosak-e már a pontos jövőbeli emelési adatok? A rendelkezésre álló hivatalos gazdasági forrásokból ezek az adatok jelenleg még nem ismertek.",
+      "content_format": "markdown",
+      "body": [
+        "## Mennyi lesz az öregségi nyugdíj összege?",
+        "A rendelkezésre álló adatok szerint a pontos összeg még nem ismert. A nyugdíj egy olyan rendszeres pénzbeli ellátás, amelyet a volt munkavállalók a nyugdíjkorhatár elérése után kapnak megélhetésük biztosítására. Az állami nyugdíjrendszerek alapvető célja, hogy elkerüljék azokat a piaci hiányosságokat, amelyek az egyéni megtakarításokra hagyatkozás esetén fellépnének.",
+        "## Mely tényezők határozzák meg a nyugdíj mértékét?",
+        "Az öregségi nyugdíj összege elsősorban a szolgálati időtől – vagyis a munkával és jövedelemszerzéssel töltött évek számától –, valamint a korábbi jövedelemtől függ. A rendszer működése során az állam vállalja a főszerepet, mivel a tisztán magánbiztosítási formák esetén felmerülne a kontraszelekció problémája. Ez azt jelenti, hogy önkéntes alapon csak azok kötnének nyugdíjbiztosítást, akik jó egészségi állapotuk miatt hosszú várható élettartamra számítanak, ami a juttatások csökkenéséhez vezetne.",
+        "## Miért avatkozik be az állam a nyugdíjrendszerbe?",
+        "A kötelező állami nyugdíj mögött gazdasági és társadalmi okok állnak. A paternalizmus elve alapján az állam úgy ítéli meg, hogy az állampolgárok nem minden esetben elég előrelátók a teljes időskori megélhetésük önálló biztosításához. Emellett az erkölcsi kockázat (moral hazard) is szerepet játszik: ha az állam nem gondoskodna kötelező rendszerről, sokan a szükségesnél kevesebbet takarítanának meg abból a feltételezésből, hogy vészhelyzetben úgyis a társadalom segít.",
+        "## Hogyan valósul meg az újraelosztás a rendszerben?",
+        "Az állami nyugdíjrendszerek fontos funkciója az újraelosztás. Egyrészt megjelenik a különböző jövedelmi csoportok közötti szolidaritás, amely a jövedelmi különbségek csökkentésével növeli az általános jólétet. Másrészt a különböző generációk között is kapcsolatot teremt, hiszen a jelenlegi idősek ellátását a mindenkori aktív korúak járulékaiból biztosítják.",
+        "## Gyakori kérdések",
+        "Függ-e a nyugdíj a rászorultságtól? Nem, az öregségi nyugdíj alanyi, azaz nem rászorultsági alapon járó ellátás. Milyen tényezők számítanak a kiszámításnál? A szolgálati idő és a korábbi jövedelem nagysága. Nyilvánosak-e már a pontos jövőbeli emelési adatok? A rendelkezésre álló hivatalos gazdasági forrásokból ezek az adatok jelenleg még nem ismertek."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 339,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
+        "width": 5259,
+        "height": 3098,
+        "kind": "photo",
+        "alt": "calculator, calculation, insurance, finance, accounting, pen, fountain pen, investment, office, work, taxes, calculator, insurance, insurance, finance, finance, finance, finance, finance, accounting, ",
+        "credit": "stevepb / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/calculator-calculation-insurance-385506/",
+        "vision_score": 9.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/ab523da0c7d3ef41.jpg",
+        "orig_url": "https://pixabay.com/get/g3404f52e259efaa77a73ab8eddf9ed2928fce7e2085258cd3f3b39c6089863c605ba14e8a0b4dc0279956dc1caa387ae5f59006686d03ec4676004b8ddd2d71d_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/11/09/torok-gabor-sulyos-kijelentest-tett-a-fideszrol-az-uj-szamok-alapjan",
+          "title": "Török Gábor súlyos kijelentést tett a Fideszről az új számok alapján",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T09:01:21+01:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/11/09/median-felmeres-kozvelemeny-kutatas-tisza-part-fidesz-tamogatottsag/",
+          "title": "Mélyrepülésben a Fidesz a Medián szerint: szavazói negyedét elveszíthette Orbán Viktor pártja",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T09:01:21+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Nyugd%C3%ADj",
+          "title": "Nyugdíj",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-10T09:01:21+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-10T12:15:51+01:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": true,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/11/09/torok-gabor-sulyos-kijelentest-tett-a-fideszrol-az-uj-szamok-alapjan",
+          "https://index.hu/belfold/2026/11/09/median-felmeres-kozvelemeny-kutatas-tisza-part-fidesz-tamogatottsag/",
+          "https://hu.wikipedia.org/wiki/Nyugd%C3%ADj"
+        ],
+        "offtopic_id": "q-oregsegi-nyugdij-2025"
+      },
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "url": "/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
+      "seo": {
+        "meta_title": "Mennyi lesz az öregségi nyugdíj? Így alakul az összeg",
+        "meta_description": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján j",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "8304600cb8a458503bfc74f83d06fa4bee789190175128ebfb0cae92d2dbcce9",
+      "pipeline_run_id": "42775755632",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-10T12:15:51+01:00",
+      "updated_at": "2026-11-10T12:15:51+01:00",
+      "published_at": "2026-11-10T12:15:51+01:00",
+      "expires_at": null
+    },
     {
       "id": "0ea00df8-6f19-5e12-928d-3e68d4462740",
       "slug": "2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a",
@@ -73554,134 +73676,6 @@
       "updated_at": "2026-10-21T21:54:11+00:00",
       "published_at": "2026-10-13T09:56:24+02:00",
       "expires_at": null
-    },
-    {
-      "id": "4622f1d4-2e85-5bd7-a778-2dbd278a71e0",
-      "slug": "2026-10-12-dronok-es-mesterseges-intelligencia-ez-a-nato-titkos-gyozelmi-terve",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "NATO",
-        "biztonságpolitika",
-        "Ukrajna",
-        "Oroszország",
-        "védelmi technológia"
-      ],
-      "title": "Drónok és mesterséges intelligencia: ez a NATO titkos győzelmi terve",
-      "subtitle": null,
-      "lead": "Alexus Grynkewich, a NATO európai főparancsnoka szerint Európának saját biztonsága érdekében fokoznia kell Ukrajna támogatását az orosz agresszióval szemben. A tábornok a Varsói Biztonsági Fórumon mutatja be azt a tervet, amely mesterséges intelligencia és drónok alkalmazásával hárítaná el az esetleges orosz támadásokat.",
-      "key_points": [
-        "A NATO európai főparancsnoka szerint az ukrajnai segítségnyújtás közvetlenül a tagállamok biztonságát szolgálja.",
-        "Alexus Grynkewich tábornok egy új, drónokra és mesterséges intelligenciára épülő védelmi koncepciót mutat be.",
-        "A stratégia elsősorban a szövetség keleti határainak elrettentő erejét és a tagállamok védelmét hivatott erősíteni.",
-        "A NATO vezetője Németországot és Dániát említette példaként, amelyek a hibrid fenyegetések hatására növelték támogatásukat."
-      ],
-      "content": "Alexus Grynkewich tábornok, a NATO európai főparancsnoka a napokban egyértelművé tette, hogy a szövetség készen áll bármilyen orosz agresszió visszaverésére. A Varsói Biztonsági Fórumon bemutatott, úgynevezett győzelmi elmélet kulcseleme a modern technológia, konkrétan a drónok és a mesterséges intelligencia integrált alkalmazása a keleti határok védelmében.\n\nAz elmúlt időszakban több európai országban is felerősödtek azok a hangok, amelyek megkérdőjelezik az Ukrajnának nyújtott támogatások folytatását. Grynkewich erre reagálva figyelmeztetett: aki a segítséget kifogásolja, hamar szembesülhet azzal, hogy az ukrán védelem fenntartása közvetlen hatással van az adott tagország nemzetbiztonságára is. Példaként Németországot és Dániát hozta fel, amelyek a területüket ért különböző hibrid támadásokat követően döntöttek a támogatások kiterjesztése mellett, világos jelzést küldve ezzel Moszkvának arról, hogy provokációikkal nem érhetik el céljukat.\n\nMagyarország számára a NATO keleti szárnyának megerősítése és az elrettentő erő bemutatása közvetlen jelentőséggel bír. A védelmi szövetség operatív terveit általában bizalmasan kezeli, ám a mostani varsói tájékoztatás kifejezetten az elrettentés eszközeként szolgál. A nyugati tisztviselők körében az elmúlt hónapokban fokozódott az aggodalom az európai NATO-területeket érő orosz fenyegetettség miatt, így a tábornok fellépése elsősorban a keleti szövetségesek biztonságérzetének erősítését és a Moszkva felé irányuló határozott fellépés kommunikálását szolgálja.",
-      "content_format": "markdown",
-      "body": [
-        "Alexus Grynkewich tábornok, a NATO európai főparancsnoka a napokban egyértelművé tette, hogy a szövetség készen áll bármilyen orosz agresszió visszaverésére. A Varsói Biztonsági Fórumon bemutatott, úgynevezett győzelmi elmélet kulcseleme a modern technológia, konkrétan a drónok és a mesterséges intelligencia integrált alkalmazása a keleti határok védelmében.",
-        "Az elmúlt időszakban több európai országban is felerősödtek azok a hangok, amelyek megkérdőjelezik az Ukrajnának nyújtott támogatások folytatását. Grynkewich erre reagálva figyelmeztetett: aki a segítséget kifogásolja, hamar szembesülhet azzal, hogy az ukrán védelem fenntartása közvetlen hatással van az adott tagország nemzetbiztonságára is. Példaként Németországot és Dániát hozta fel, amelyek a területüket ért különböző hibrid támadásokat követően döntöttek a támogatások kiterjesztése mellett, világos jelzést küldve ezzel Moszkvának arról, hogy provokációikkal nem érhetik el céljukat.",
-        "Magyarország számára a NATO keleti szárnyának megerősítése és az elrettentő erő bemutatása közvetlen jelentőséggel bír. A védelmi szövetség operatív terveit általában bizalmasan kezeli, ám a mostani varsói tájékoztatás kifejezetten az elrettentés eszközeként szolgál. A nyugati tisztviselők körében az elmúlt hónapokban fokozódott az aggodalom az európai NATO-területeket érő orosz fenyegetettség miatt, így a tábornok fellépése elsősorban a keleti szövetségesek biztonságérzetének erősítését és a Moszkva felé irányuló határozott fellépés kommunikálását szolgálja."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 230,
-      "locale": "hu-HU",
-      "hero_image": null,
-      "inline_images": [
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Maj_Gen_Alexus_G._Grynkewich_%282%29.jpg/1280px-Maj_Gen_Alexus_G._Grynkewich_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1500,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Maj Gen Alexus G. Grynkewich",
-          "credit": "af.mil / Wikimedia Commons",
-          "license": "Public domain",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Maj_Gen_Alexus_G._Grynkewich_(2).jpg",
-          "after": 0,
-          "caption": "Alexus Grynkewich tábornok, a NATO európai főparancsnoka"
-        }
-      ],
-      "sources": [
-        {
-          "url": "https://telex.hu/kulfold/2026/10/12/nato-foparancsnok-europa-orosz-tamadas-terv-elrettentes",
-          "title": "A NATO európai főparancsnoka is figyelmezteti Moszkvát, hogy nem érdemes megtámadni Európát",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-12T21:44:44+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Megpróbálják megtörni a kollektív akaratunkat",
-        "who": "Alexus Grynkewich, a NATO európai főparancsnoka",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-13T09:36:12+02:00"
-      },
-      "hot_score": 5.29,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/kulfold/2026/10/12/nato-foparancsnok-europa-orosz-tamadas-terv-elrettentes"
-        ]
-      },
-      "date": "2026-10-12",
-      "date_label": "október 12.",
-      "url": "/vilag/2026-10-12-dronok-es-mesterseges-intelligencia-ez-a-nato-titkos-gyozelmi-terve/",
-      "seo": {
-        "meta_title": "Drónok és mesterséges intelligencia: ez a NATO titkos győzel",
-        "meta_description": "Alexus Grynkewich, a NATO európai főparancsnoka szerint Európának saját biztonsága érdekében fokoznia kell Ukrajna támogatását az orosz agresszióval szemben. A ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-12-dronok-es-mesterseges-intelligencia-ez-a-nato-titkos-gyozelmi-terve/",
-        "og_image": null,
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "2d1584301f6974602586bf45d01938dbc8d3396424bfa41fdcb6a02a0772040d",
-      "pipeline_run_id": "38295331248",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T09:36:12+02:00",
-      "updated_at": "2026-10-13T09:36:12+02:00",
-      "published_at": "2026-10-13T09:36:12+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "General Alexus Grynkewich",
-        "NATO Headquarters",
-        "Warsaw Security Forum",
-        "German Ministry of Defence",
-        "Danish Defence Command",
-        "Ukrainian Armed Forces",
-        "military drone",
-        "artificial intelligence concept",
-        "defense conference"
-      ],
-      "images_seen": [
-        "https://upload.wikimedia.org/wikipedia/commons/2/26/UA_military_FPV_drones_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%9D._%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%A0%CE%BF%CE%BB%CF%89%CE%BD%CE%AF%CE%B1_-_%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%83%CF%84%CE%BF_Warsaw_Security_Forum_2022_%28%CE%92%CE%B1%CF%81%CF%83%CE%BF%CE%B2%CE%AF%CE%B1%2C_5.10.2022%29_-_52405764917.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://upload.wikimedia.org/wikipedia/commons/4/4a/UA_military_FPV_drones_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/NATO_v%C3%A4lisministrite_kohtumine_Br%C3%BCsselis_28.11-29_-_Foreign_Ministry_of_Estonia_at_NATO_on_28_November_2023_-_4.jpg/1280px-NATO_v%C3%A4lisministrite_kohtumine_Br%C3%BCsselis_28.11-29_-_Foreign_Ministry_of_Estonia_at_NATO_on_28_November_2023_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://upload.wikimedia.org/wikipedia/commons/c/c1/NATO_v%C3%A4lisministrite_kohtumine_Br%C3%BCsselis_28.11-29_-_Foreign_Ministry_of_Estonia_at_NATO_on_28_November_2023_-_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Lt_Gen_Alexus_G._Grynkewich_%283%29.jpg/1280px-Lt_Gen_Alexus_G._Grynkewich_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lt_Gen_Alexus_G._Grynkewich_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7_%CE%A5%CE%A0%CE%95%CE%9E_%CE%9D._%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%A0%CE%BF%CE%BB%CF%89%CE%BD%CE%AF%CE%B1_-_%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%83%CF%84%CE%BF_Warsaw_Security_Forum_2022_%28%CE%92%CE%B1%CF%81%CF%83%CE%BF%CE%B2%CE%AF%CE%B1%2C_5.10.2022%29_-_52406558669.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ]
     }
   ]
 }

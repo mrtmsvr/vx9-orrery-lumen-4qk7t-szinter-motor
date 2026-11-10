@@ -8904,7 +8904,7 @@
     {
       "id": "0358ae73-beff-5458-835c-0a4c274dc1b0",
       "slug": "2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -8941,7 +8941,7 @@
       "word_count": 339,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g3404f52e259efaa77a73ab8eddf9ed2928fce7e2085258cd3f3b39c6089863c605ba14e8a0b4dc0279956dc1caa387ae5f59006686d03ec4676004b8ddd2d71d_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
         "width": 5259,
         "height": 3098,
         "kind": "photo",
@@ -8949,7 +8949,9 @@
         "credit": "stevepb / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/calculator-calculation-insurance-385506/",
-        "vision_score": 9.0
+        "vision_score": 9.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/ab523da0c7d3ef41.jpg",
+        "orig_url": "https://pixabay.com/get/g3404f52e259efaa77a73ab8eddf9ed2928fce7e2085258cd3f3b39c6089863c605ba14e8a0b4dc0279956dc1caa387ae5f59006686d03ec4676004b8ddd2d71d_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -9062,7 +9064,7 @@
         "meta_title": "Mennyi lesz az öregségi nyugdíj? Így alakul az összeg",
         "meta_description": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján j",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
-        "og_image": "https://pixabay.com/get/g3404f52e259efaa77a73ab8eddf9ed2928fce7e2085258cd3f3b39c6089863c605ba14e8a0b4dc0279956dc1caa387ae5f59006686d03ec4676004b8ddd2d71d_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -9077,9 +9079,9 @@
       "dedupe_hash": "8304600cb8a458503bfc74f83d06fa4bee789190175128ebfb0cae92d2dbcce9",
       "pipeline_run_id": "42775755632",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-10T09:01:21+01:00",
-      "updated_at": "2026-11-10T09:01:21+01:00",
-      "published_at": null,
+      "created_at": "2026-11-10T12:15:51+01:00",
+      "updated_at": "2026-11-10T12:15:51+01:00",
+      "published_at": "2026-11-10T12:15:51+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-10T11:00:40+01:00",
@@ -9097,8 +9099,10 @@
         "lead": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján jelenleg nincsenek hivatalos számok. Az állami nyugdíjrendszer alapvető működési elvei azonban pontosan meghatározzák, hogy mi alapján számítják ki ezt a járandóságot.",
         "ctl_photo": false,
         "control_id": 10117,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "df6957ff-6848-5d84-a3e8-75054d25cfe4",

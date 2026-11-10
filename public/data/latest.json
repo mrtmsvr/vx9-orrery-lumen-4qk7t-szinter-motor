@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "0358ae73-beff-5458-835c-0a4c274dc1b0",
+      "slug": "2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg",
+      "url": "/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
+      "title": "Mennyi lesz az öregségi nyugdíj? Így alakul az összeg",
+      "lead": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján jelenleg nincsenek hivatalos számok. Az állami nyugdíjrendszer alapvető működési elvei azonban pontosan meghatározzák, hogy mi alapján számítják ki ezt a járandóságot.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T12:15:51+01:00",
+      "published_at": "2026-11-10T12:15:51+01:00",
+      "reading_time_min": 2,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "öregségi nyugdíj",
+        "nyugdíjemelés",
+        "nyugdíjrendszer",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
+        "width": 5259,
+        "height": 3098,
+        "kind": "photo",
+        "alt": "calculator, calculation, insurance, finance, accounting, pen, fountain pen, investment, office, work, taxes, calculator, insurance, insurance, finance, finance, finance, finance, finance, accounting, "
+      }
+    },
+    {
       "id": "0ea00df8-6f19-5e12-928d-3e68d4462740",
       "slug": "2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a",
       "url": "/kultura/2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a/",
@@ -4385,37 +4414,7 @@
         "Fejes Péter"
       ],
       "hero_image": null
-    },
-    {
-      "id": "3de22931-56a8-5968-81e8-506682be9c8d",
-      "slug": "2026-11-02-kilenc-eve-porosodik-a-fiokban-az-isztambuli-egyezmeny",
-      "url": "/kozelet/2026-11-02-kilenc-eve-porosodik-a-fiokban-az-isztambuli-egyezmeny/",
-      "title": "Kilenc éve porosodik a fiókban az isztambuli egyezmény",
-      "lead": "Az Európa Tanács nők elleni erőszak felszámolásáról szóló egyezménye kilenc éve vár a parlamenti ratifikációra Magyarországon. A Partizán műsorában szakértők elemezték a hazai jogrendszer hiányosságait és a nemzetközi példákat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T10:12:24+01:00",
-      "published_at": "2026-11-02T10:12:24+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Isztambuli Egyezmény",
-        "Partizán",
-        "nők elleni erőszak",
-        "jogállamiság",
-        "belpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/European_Court_of_Human_Rights%2C_courtroom%2C_2014_%28cropped%29.JPG/1280px-European_Court_of_Human_Rights%2C_courtroom%2C_2014_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 850,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Courtroom of the European Court of Human Rights in Strasbourg"
-      }
     }
   ],
-  "updated_at": "2026-11-10T11:36:31+01:00"
+  "updated_at": "2026-11-10T12:15:52+01:00"
 }
