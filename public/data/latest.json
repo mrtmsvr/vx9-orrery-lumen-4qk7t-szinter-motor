@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0ea00df8-6f19-5e12-928d-3e68d4462740",
+      "slug": "2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a",
+      "url": "/kultura/2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a/",
+      "title": "Megvillantotta első húsz fellépőjét a Sziget: jön a Fontaines D.C. és a Katseye",
+      "lead": "A Fontaines D.C., a Katseye és David Beckham fia is fellép a Sziget Fesztiválon 2027-ben. A szervezők az első húsz nevet hozták nyilvánosságra.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T10:45:45+01:00",
+      "published_at": "2026-11-10T10:45:45+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Sziget Fesztivál",
+        "Fontaines D.C.",
+        "Kultúra",
+        "Zene",
+        "Fesztivál"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fontaines_DC_at_Loose_Ends_2019.jpg/1280px-Fontaines_DC_at_Loose_Ends_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Fontaines DC playing the Loose Ends festival in Amsterdam in June 2019"
+      }
+    },
+    {
       "id": "df6957ff-6848-5d84-a3e8-75054d25cfe4",
       "slug": "2026-11-10-trump-szerint-veget-ert-az-irani-haboru-de-az-amerikai-blokad-marad",
       "url": "/vilag/2026-11-10-trump-szerint-veget-ert-az-irani-haboru-de-az-amerikai-blokad-marad/",
@@ -4385,37 +4415,7 @@
         "pos": "center",
         "alt": "Courtroom of the European Court of Human Rights in Strasbourg"
       }
-    },
-    {
-      "id": "17b583d3-c825-536b-a87d-cd0bac889538",
-      "slug": "2026-11-02-negy-negyzetmeternyi-bizonytalansag-elektromos-roller-gyulladt-ki-egy",
-      "url": "/kozelet/2026-11-02-negy-negyzetmeternyi-bizonytalansag-elektromos-roller-gyulladt-ki-egy/",
-      "title": "Hajnali tűzeset Budapesten: negyedik emeleti lakásból menekítettek ki lakókat egy roller miatt",
-      "lead": "Kigyulladt egy elektromos roller akkumulátora egy belvárosi társasház negyedik emeleti lakásában a Veres Pálné utcában. A tűz miatt tizenhárom lakónak kellett ideiglenesen elhagynia az otthonát.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T07:55:11+01:00",
-      "published_at": "2026-11-02T07:55:11+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.75,
-      "tags": [
-        "tűzeset",
-        "elektromos roller",
-        "katasztrófavédelem",
-        "Budapest",
-        "V. kerület"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Budapest_KOK%2C_Mercedes-Benz%2C_2023_Stadtw%C3%A4ldchen.jpg/1280px-Budapest_KOK%2C_Mercedes-Benz%2C_2023_Stadtw%C3%A4ldchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 932,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Mercedes-Benz fire van of the Budapest KOK Disaster Management Training Center at 10th National Police and Firefighter/Firefighting? Day in Budapest. Professional Firefighters exhibition area. in Cit"
-      }
     }
   ],
-  "updated_at": "2026-11-10T10:18:47+01:00"
+  "updated_at": "2026-11-10T10:45:47+01:00"
 }
