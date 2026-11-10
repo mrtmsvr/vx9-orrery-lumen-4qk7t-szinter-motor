@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "4f362c9c-1617-573e-9e85-b5caed30e2ed",
+      "slug": "2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben",
+      "url": "/kozelet/2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben/",
+      "title": "Embercsempészés gyanújával őrizetbe vették Orbán Áront",
+      "lead": "Embercsempészés és befolyással üzérkedés gyanújával vette őrizetbe a rendőrség Orbán Áront és három társát. A hatóságok szerint a gyanúsítottak több mint száz vietnámi állampolgár Nyugat-Európába juttatásában működtek közre.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T09:00:32+01:00",
+      "published_at": "2026-11-10T09:00:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.94,
+      "tags": [
+        "bűnügy",
+        "embercsempészés",
+        "Orbán Áron",
+        "rendőrség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hungarian_Police_HQ.JPG/1280px-Hungarian_Police_HQ.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Országos Rendőr-főkapitányság Magyarország, Budapest, XIII. Teve u. 1"
+      }
+    },
+    {
       "id": "c681491e-bd7c-5308-8bb5-f650982262b2",
       "slug": "2026-11-10-aram-nelkul-maradt-tiz-ukran-megye-a-legfrissebb-orosz-bombazasok-nyo",
       "url": "/vilag/2026-11-10-aram-nelkul-maradt-tiz-ukran-megye-a-legfrissebb-orosz-bombazasok-nyo/",
@@ -4386,37 +4415,7 @@
         "pos": "center",
         "alt": ""
       }
-    },
-    {
-      "id": "ca835e8b-8c0f-5dd1-85d8-9beda4396d61",
-      "slug": "2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese",
-      "url": "/kozelet/2026-11-02-magyar-peter-felszolalasaval-indul-az-orszaggyules-hetfoi-ulese/",
-      "title": "Magyar Péter felszólalásával indul az Országgyűlés hétfői ülése",
-      "lead": "Hétfő délután 1 órakor kezdetét veszi az Országgyűlés négynapos üléssorozata, amelyet Magyar Péter napirend előtti felszólalása nyit meg. A képviselők asztalán olyan fajsúlyos témák szerepelnek, mint a tőkealapok átláthatósága és december 24. munkaszüneti nappá nyilvánítása.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T07:51:25+01:00",
-      "published_at": "2026-11-02T07:51:25+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.69,
-      "tags": [
-        "Országgyűlés",
-        "Magyar Péter",
-        "tőkealapok",
-        "munkaszüneti nap",
-        "parlamenti ülés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 888,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015."
-      }
     }
   ],
-  "updated_at": "2026-11-10T07:43:12+01:00"
+  "updated_at": "2026-11-10T09:00:34+01:00"
 }
