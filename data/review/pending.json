@@ -9561,6 +9561,234 @@
         "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
       },
       "live": true
+    },
+    {
+      "id": "c681491e-bd7c-5308-8bb5-f650982262b2",
+      "slug": "2026-11-10-aram-nelkul-maradt-tiz-ukran-megye-a-legfrissebb-orosz-bombazasok-nyo",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Ukrajna",
+        "energiariasztás",
+        "Orosz-ukrán háború",
+        "Volodimir Zelenszkij"
+      ],
+      "title": "Áram nélkül maradt tíz ukrán megye a legfrissebb orosz bombázások nyomán",
+      "subtitle": null,
+      "lead": "Súlyos válsághelyzet alakult ki az ukrán városokban a legutóbbi orosz támadások nyomán az áram-, a víz- és a fűtésellátás terén. Volodimir Zelenszkij ukrán elnök tájékoztatása szerint a legtöbb régióban ütemezett áramszünetekre kell számítani.",
+      "key_points": [
+        "Az ukrán energetikai infrastruktúra megrongálódása miatt tíz megyében maradt áram nélkül a lakosság egy része.",
+        "A legkritikusabb állapotok a Kijevi és a Dnyipropetrovszki megyében uralkodnak.",
+        "Az Európai Unió különleges vészhelyzeti segélyezési mechanizmust vezet be a legszükségesebb források gyors biztosítására."
+      ],
+      "content": "Súlyos károk érték az ukrajnai létfontosságú infrastruktúrát, miután az orosz bombázások következtében az áram-, a víz- és a fűtésszolgáltatás terén is kritikus helyzet állt elő. Az ukrán energiaügyi minisztérium közleménye szerint a Kijevi és a Dnyipropetrovszki megyében a legrosszabb a helyzet.\n\nAz ukrán energiaügyi minisztérium hivatalos közleménye szerint a hálózat megrongálódása országosan tíz megye lakosságát érinti közvetlenül. A tárca felsorolása alapján részben áram nélkül maradt a Vinnicai, a Dnyipropetrovszki, a Zsitomiri, a Kijevi, az Odesszai, a Poltavai, a Rovnói, a Harkivi, a Hmelnickiji és a Csernyihivi megye is.\n\nA humanitárius és ellátási nehézségek enyhítésére brüsszeli szinten is léptek: megállapodás született arról, hogy az Európai Unió egy különleges vészhelyzeti segélyezési mechanizmust indít el. Ez a konstrukció arra hivatott, hogy az érintett lakosság számára gyorsan és akadálymentesen biztosítsa a legszükségesebb forrásokat.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos károk érték az ukrajnai létfontosságú infrastruktúrát, miután az orosz bombázások következtében az áram-, a víz- és a fűtésszolgáltatás terén is kritikus helyzet állt elő. Az ukrán energiaügyi minisztérium közleménye szerint a Kijevi és a Dnyipropetrovszki megyében a legrosszabb a helyzet.",
+        "Az ukrán energiaügyi minisztérium hivatalos közleménye szerint a hálózat megrongálódása országosan tíz megye lakosságát érinti közvetlenül. A tárca felsorolása alapján részben áram nélkül maradt a Vinnicai, a Dnyipropetrovszki, a Zsitomiri, a Kijevi, az Odesszai, a Poltavai, a Rovnói, a Harkivi, a Hmelnickiji és a Csernyihivi megye is.",
+        "A humanitárius és ellátási nehézségek enyhítésére brüsszeli szinten is léptek: megállapodás született arról, hogy az Európai Unió egy különleges vészhelyzeti segélyezési mechanizmust indít el. Ez a konstrukció arra hivatott, hogy az érintett lakosság számára gyorsan és akadálymentesen biztosítsa a legszükségesebb forrásokat."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 162,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1625,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official portrait of Volodymyr Zelenskyy.",
+        "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+        "exact": true,
+        "entity": "Volodymyr Zelenskyy",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/09/ukrajna-sulyos-a-helyzet-az-aram-vizellatas-es-a-futesszolgaltatas-teren-a-legtobb-regioban-orankenti-aramszunet-lehet",
+          "title": "Ukrajna: súlyos a helyzet az áram-, vízellátás és a fűtésszolgáltatás terén – a legtöbb régióban óránkénti áramszünet lehet",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-10T07:41:30+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Megállapodtunk abban, hogy az Európai Unió különleges vészhelyzeti segélyezési mechanizmust vezet be. Ez lehetővé teszi, hogy gyorsan biztosítsanak Ukrajnának forrásokat a legszükségesebb dolgokra",
+        "who": "Volodimir Zelenszkij ukrán elnök",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 6.89,
+      "title_options": [
+        "Áram nélkül maradt tíz ukrán megye a legfrissebb orosz bombázások nyomán",
+        "Sötétbe borult Ukrajna: Zelenszkij szerint tíz megyében kritikus az energiahelyzet",
+        "Teljesen kikapcsolták a rendszert? Tíz ukrán megye sötétedett el egyszerre",
+        "Ilyen még nem volt: óránkénti áramszünetekkel küzd az ukrán lakosság",
+        "Ezért fagyoskodhatnak milliók: súlyos válsághelyzet alakult ki Ukrajnában"
+      ],
+      "clickbait_from": 2,
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1625,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Official portrait of Volodymyr Zelenskyy.",
+          "credit": "http://www.president.gov.ua/ / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+          "exact": true,
+          "entity": "Volodymyr Zelenskyy",
+          "vision_score": 13.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Calle_Larga_at_night_during_power_cut.jpg/1280px-Calle_Larga_at_night_during_power_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Calle Larga during power cut (see w:2009 Ecuador electricity crisis), Cuenca, Ecuador",
+          "credit": "Jen / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Calle_Larga_at_night_during_power_cut.jpg",
+          "exact": true,
+          "entity": "Power outage",
+          "vision_score": 11.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Volodymyr_Zelenskyy_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1662,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "President of Ukraine Volodymyr Zelenskyy",
+          "credit": "President of Ukraine from Україна / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2022.jpg",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Volodymyr_Zelenskyy_in_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1694,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Cropped version of press photo of Ukraine's President Volodymyr Zelensky wearing traditional Ukrainian attire, published in connection with the president's Easter greetings in May 2024:",
+          "credit": "Volodymyr Zelensky / Wikimedia Commons",
+          "license": "CC0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelenskyy_in_2024.png",
+          "vision_score": 10.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Kyiv_%28245751127%29.jpeg/1280px-Kyiv_%28245751127%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "500px provided description: ???? ? 14 ????? [#landscape ,#city ,#winter ,#street ,#buildings ,#roof ,#cityscape ,#building ,#day ,#house-top ,#Ukraine ,#Kyiv]",
+          "credit": "Pavel M / Wikimedia Commons",
+          "license": "CC BY 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kyiv_(245751127).jpeg",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/vilag-1794292946-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vilag-1794292946-0.jpg",
+          "kind": "photo",
+          "alt": "Sötétbe borult Ukrajna: Zelenszkij szerint tíz megyében kritikus az energiahelyzet",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Ukrajna: súlyos a helyzet az áram-, vízellátás és a fűtésszolgáltatás terén – a legtöbb régióban óránkénti áramszünet lehet",
+          "link": "https://infostart.hu/kulfold/2026/11/09/ukrajna-sulyos-a-helyzet-az-aram-vizellatas-es-a-futesszolgaltatas-teren-a-legtobb-regioban-orankenti-aramszunet-lehet",
+          "summary": "Súlyos helyzet alakult ki az ukrán városokban az orosz támadások nyomán az áram-, a víz- és a fűtésellátás terén, Kijevben, de a Dnyipropetrovszki és Szumi megyékben vannak a legrosszabb állapotok – írta hétfőn a Telegramon Volodimir Zelenszkij ukrán elnök.",
+          "source": "infostart.hu",
+          "related": null,
+          "hot_score": 6.89
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/kulfold/2026/11/09/ukrajna-sulyos-a-helyzet-az-aram-vizellatas-es-a-futesszolgaltatas-teren-a-legtobb-regioban-orankenti-aramszunet-lehet"
+        ]
+      },
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "url": "/vilag/2026-11-10-aram-nelkul-maradt-tiz-ukran-megye-a-legfrissebb-orosz-bombazasok-nyo/",
+      "seo": {
+        "meta_title": "Áram nélkül maradt tíz ukrán megye a legfrissebb orosz bombá",
+        "meta_description": "Súlyos válsághelyzet alakult ki az ukrán városokban a legutóbbi orosz támadások nyomán az áram-, a víz- és a fűtésellátás terén. Volodimir Zelenszkij ukrán elnö",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-10-aram-nelkul-maradt-tiz-ukran-megye-a-legfrissebb-orosz-bombazasok-nyo/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "517b314a-3b40-504e-99ae-63af5badf413",
+        "22c5a999-2176-5e6d-bc60-bebdabda4208"
+      ],
+      "see_also": [
+        {
+          "title": "Százezrek maradtak villany nélkül a hétvégi ukrajnai bombázások után",
+          "url": "/vilag/2026-11-02-szazezrek-maradtak-villany-nelkul-a-hetvegi-ukrajnai-bombazasok-utan/",
+          "date": "2026-11-02"
+        },
+        {
+          "title": "Hálát rebeg Washingtonnak Zelenszkij, miközben rakéták hullnak Kijevre",
+          "url": "/vilag/2026-10-21-halat-rebeg-washingtonnak-zelenszkij-mikozben-raketak-hullnak-kijevre/",
+          "date": "2026-10-21"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "534ea8c3a18a8ff6c382e10ceaf7ee83cf4248ea46ece73dfe152968a611d250",
+      "pipeline_run_id": "42767267584",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-10T07:43:04+01:00",
+      "updated_at": "2026-11-10T07:43:04+01:00",
+      "published_at": "2026-11-10T07:43:04+01:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-10T06:42:44+00:00",
+        "head": "🆕 ÚJ · <b>Világ</b> · forróság 6.89 · 1 forrás\n\n1) Áram nélkül maradt tíz ukrán megye a legfrissebb orosz bombázások nyomán\n2) Sötétbe borult Ukrajna: Zelenszkij szerint tíz megyében kritikus az energiahelyzet\n🔥 3) Teljesen kikapcsolták a rendszert? Tíz ukrán megye sötétedett el egyszerre\n🔥 4) Ilyen még nem volt: óránkénti áramszünetekkel küzd az ukrán lakosság\n🔥 5) Ezért fagyoskodhatnak milliók: súlyos válsághelyzet alakult ki Ukrajnában\n\n<b>Források:</b> infostart.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
+        "lead": "Súlyos válsághelyzet alakult ki az ukrán városokban a legutóbbi orosz támadások nyomán az áram-, a víz- és a fűtésellátás terén. Volodimir Zelenszkij ukrán elnök tájékoztatása szerint a legtöbb régióban ütemezett áramszünetekre kell számítani.",
+        "ctl_photo": true,
+        "control_id": 10113,
+        "msg_ids": [],
+        "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
+      },
+      "live": true
     }
   ]
 }
