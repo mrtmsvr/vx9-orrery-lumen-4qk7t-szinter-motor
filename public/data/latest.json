@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "55ba4e92-9f66-5042-b294-c38c5f74035a",
+      "slug": "2026-11-10-kemkedes-miatt-tartoztattak-le-egy-amerikai-katonat-angliaban",
+      "url": "/vilag/2026-11-10-kemkedes-miatt-tartoztattak-le-egy-amerikai-katonat-angliaban/",
+      "title": "Kémkedés miatt tartóztattak le egy amerikai katonát Angliában",
+      "lead": "A brit terrorelhárítás és a Metropolitan Rendőrség őrizetbe vett egy 41 éves, az amerikai hadsereg kötelékébe tartozó magas rangú katonát az angliai Gloucester közelében. A férfit a gyanú szerint az orosz hírszerzés segítésével, valamint védett információk megszerzésével és nyilvánosságra hozatalával terhelik.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T22:47:14+01:00",
+      "published_at": "2026-11-10T22:47:14+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.39,
+      "tags": [
+        "kémkedés",
+        "Egyesült Királyság",
+        "Egyesült Államok",
+        "FBI",
+        "orosz-ukrán háború"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Federal_Bureau_of_Investigation_%28FBI%29_Minneapolis_Division_Field_Office_%2848343597171%29.jpg/1280px-Federal_Bureau_of_Investigation_%28FBI%29_Minneapolis_Division_Field_Office_%2848343597171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 807,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The Federal Bureau of Investigation (FBI) field office, Minneapolis Division, at 1501 Freeway Boulevard in Brooklyn Center, Minnesota."
+      }
+    },
+    {
       "id": "f594cc25-e307-5651-8b94-6c374255794c",
       "slug": "2026-11-10-menesztettek-fendler-juditot-buzas-norbert-az-szte-uj-kancellarja",
       "url": "/kozelet/2026-11-10-menesztettek-fendler-juditot-buzas-norbert-az-szte-uj-kancellarja/",
@@ -4397,36 +4427,7 @@
         "pos": "top",
         "alt": "The official headshot of Rep. Haley Stevens (D-MI)"
       }
-    },
-    {
-      "id": "312c9e0d-0771-5adb-8997-1deccaf29a81",
-      "slug": "2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es",
-      "url": "/kozelet/2026-11-02-mennyit-ulnenek-orbanert-a-borizu-hang-adasa-teritekre-tette-a-ner-es/",
-      "title": "Mennyit ülnének Orbánért? A Borízű hang adása terítékre tette a NER-es cégek sorsát",
-      "lead": "A 444.hu legfrissebb podcastjában a közélet aktuális kérdéseit, gazdasági ügyeket és történelmi párhuzamokat vettek sorra a műsorvezetők. A beszélgetésben terítékre került többek között a Nanushka csődje, Matolcsy György ügyei és a hazai üzemanyagpiac helyzete is.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T21:47:10+01:00",
-      "published_at": "2026-11-02T21:47:10+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "podcast",
-        "gazdaság",
-        "közélet",
-        "Nanushka",
-        "Matolcsy György"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/1f6e1867ef06431a.jpg",
-        "width": 4928,
-        "height": 3264,
-        "kind": "photo",
-        "alt": "audio, microphone, condenser microphone, music, sound recording, audio equipment, mic, close up, microphone, microphone, microphone, microphone, microphone, mic"
-      }
     }
   ],
-  "updated_at": "2026-11-10T22:17:47+01:00"
+  "updated_at": "2026-11-10T22:47:18+01:00"
 }
