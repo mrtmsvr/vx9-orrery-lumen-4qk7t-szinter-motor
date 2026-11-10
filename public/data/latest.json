@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e4b6ccae-cc21-5834-8276-f651f6bfbd42",
+      "slug": "2026-11-10-11-halott-busz-es-teherautok-taroltak-le-az-a1-es-bolgar-autopalyat",
+      "url": "/vilag/2026-11-10-11-halott-busz-es-teherautok-taroltak-le-az-a1-es-bolgar-autopalyat/",
+      "title": "11 halott: busz és teherautók tarolták le az A1-es bolgár autópályát",
+      "lead": "Tizenegy ember vesztette életét, ötvenen pedig megsérültek egy súlyos tömegbalesetben kedden Kelet-Bulgáriában. A tragédia miatt az országban tartózkodó Ursula von der Leyen, az Európai Bizottság elnöke is lerövidítette hivatalos látogatását.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-10",
+      "date_label": "november 10.",
+      "created_at": "2026-11-10T18:52:34+01:00",
+      "published_at": "2026-11-10T18:52:34+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5.85,
+      "tags": [
+        "Bulgária",
+        "baleset",
+        "külpolitika",
+        "Ursula von der Leyen",
+        "közlekedésbiztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bad_one_-_auto_wreck_in_Dakar_Senegal%2C_2011.jpg/1280px-Bad_one_-_auto_wreck_in_Dakar_Senegal%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Not too sure if anyone walked away from that one."
+      }
+    },
+    {
       "id": "aebe0997-3aa1-536d-ae60-0dabbdad29ec",
       "slug": "2026-11-10-rendorrel-es-kutyajaval-vegzett-egy-robbanas-spanyolorszagban-a-tamad",
       "url": "/vilag/2026-11-10-rendorrel-es-kutyajaval-vegzett-egy-robbanas-spanyolorszagban-a-tamad/",
@@ -4398,37 +4428,7 @@
         "pos": "center",
         "alt": "Building of \"nmhh\""
       }
-    },
-    {
-      "id": "a4475d02-ca13-5227-899b-0e34438b6b6a",
-      "slug": "2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler",
-      "url": "/kozelet/2026-11-02-penzugyi-botrany-miatt-kirugtak-okovacs-szilvesztert-az-operahaz-eler/",
-      "title": "Pénzügyi botrány miatt kirúgták Ókovács Szilvesztert az Operaház éléről",
-      "lead": "Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter november 2-i hatállyal megszüntette Ókovács Szilveszter főigazgatói munkaviszonyát a Magyar Állami Operaházban. A menesztés hátterében egy átvilágítás során feltárt súlyos pénzügyi és működési szabálytalanságok állnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-02",
-      "date_label": "november 2.",
-      "created_at": "2026-11-02T17:57:08+01:00",
-      "published_at": "2026-11-02T17:57:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.87,
-      "tags": [
-        "Ókovács Szilveszter",
-        "Magyar Állami Operaház",
-        "Tarr Zoltán",
-        "Nagy Ervin",
-        "kultúra"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Hungarian_State_Opera_House_in_Budapest.jpg/1280px-Hungarian_State_Opera_House_in_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian State Opera House in Budapest"
-      }
     }
   ],
-  "updated_at": "2026-11-10T18:50:01+01:00"
+  "updated_at": "2026-11-10T18:52:37+01:00"
 }
