@@ -1,7 +1,135 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T16:59:38+01:00",
+  "updated_at": "2026-11-11T18:40:40+01:00",
   "articles": [
+    {
+      "id": "49aa8872-f362-5f51-bd12-37a3932c1122",
+      "slug": "2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Olaszország",
+        "bombariadó",
+        "Giorgia Meloni",
+        "iskola",
+        "kiberbiztonság"
+      ],
+      "title": "Giorgia Meloni halálával és az olaszok megsemmisítésével fenyegetnek Tajvanról",
+      "subtitle": null,
+      "lead": "Több ezer olasz oktatási intézmény kapott szerdán fenyegető e-mailt, amely az olaszok megsemmisítésével és a miniszterelnök meggyilkolásával fenyegetőzött. A hatóságok vizsgálják az üzeneteket, amelyek mögött egyelőre ismeretlen elkövetők állnak.",
+      "key_points": [
+        "Több ezer olasz iskolát ért bombafenyegetés szerdán e-mailben.",
+        "Az üzenetek Giorgia Meloni miniszterelnök meggyilkolását és az olaszok megsemmisítését követelték.",
+        "A fenyegető üzenet egy tajvani egyetemről érkezett Mikhail Andropov névre hivatkozva.",
+        "Az olasz hatóságok és a tűzszerészek átvizsgálják az érintett épületeket."
+      ],
+      "content": "Több mint hatezer olasz iskolát ért szerdán e-mailben érkező bombafenyegetés, ami miatt országszerte számos intézményben azonnali intézkedéseket vezettek be. Az elektronikus üzenetek egyszerre érkeztek meg Róma, Milánó, Torinó, Firenze, Bologna, Nápoly, Palermo, Bari, Cagliari és további városok oktatási intézményeibe, bár a minisztérium adatai szerint a magániskolák és a felnőttképzési intézmények nem voltak érintettek az ügyben.\n\nA fenyegetés nyíltan hangoztatta az olaszok megsemmisítését, valamint Giorgia Meloni miniszterelnök meggyilkolását, sőt a szöveg szerint az ország vezetőjének járművében is pokolgépet rejtettek el. A levél aláírójaként Mikhail Andropov neve szerepelt, ami az olasz sajtó megállapítása szerint a Szovjetunió egykori, 1982 és 1984 közötti vezetőjét idézi, a név mellett pedig a „Vilayat Misogistan” jelige is feltűnt, a megfogalmazás pedig a túlélők késsel történő lemészárlására is utalt.\n\nGiuseppe Valditara oktatási miniszter tájékoztatása szerint a tárca informatikai igazgatójának vizsgálata kimutatta, hogy az ország 7476 állami iskolájából körülbelül 6300 érintett a fenyegetésben, míg a korábbi jelentések háromszáz kiürített intézményről szóltak. Az épületek átvizsgálását a tűzszerészek és a postarendőrség kezdték meg, a diákokat a tanárok biztonságos távolságba kísérték, a kisebb tanulók esetében pedig értesítették a szülőket, miközben Giorgia Meloni miniszterelnök úgy nyilatkozott, hogy a fenyegetések nem jelentnek valós veszélyt.\n\nA hatóságok eddigi vizsgálata arra jutott, hogy az üzenetet küldő e-mail a tajvani Da-Yeh Egyetemről indult, miközben az ügyben az ügyészség is nyomoz. Giuseppe Valditara oktatási miniszter a La7 televíziónak nyilatkozva hangsúlyozta, hogy a fenyegetések mögött stratégia húzódik, de jelenleg nehéz elképzelni, kiről van szó.",
+      "content_format": "markdown",
+      "body": [
+        "Több mint hatezer olasz iskolát ért szerdán e-mailben érkező bombafenyegetés, ami miatt országszerte számos intézményben azonnali intézkedéseket vezettek be. Az elektronikus üzenetek egyszerre érkeztek meg Róma, Milánó, Torinó, Firenze, Bologna, Nápoly, Palermo, Bari, Cagliari és további városok oktatási intézményeibe, bár a minisztérium adatai szerint a magániskolák és a felnőttképzési intézmények nem voltak érintettek az ügyben.",
+        "A fenyegetés nyíltan hangoztatta az olaszok megsemmisítését, valamint Giorgia Meloni miniszterelnök meggyilkolását, sőt a szöveg szerint az ország vezetőjének járművében is pokolgépet rejtettek el. A levél aláírójaként Mikhail Andropov neve szerepelt, ami az olasz sajtó megállapítása szerint a Szovjetunió egykori, 1982 és 1984 közötti vezetőjét idézi, a név mellett pedig a „Vilayat Misogistan” jelige is feltűnt, a megfogalmazás pedig a túlélők késsel történő lemészárlására is utalt.",
+        "Giuseppe Valditara oktatási miniszter tájékoztatása szerint a tárca informatikai igazgatójának vizsgálata kimutatta, hogy az ország 7476 állami iskolájából körülbelül 6300 érintett a fenyegetésben, míg a korábbi jelentések háromszáz kiürített intézményről szóltak. Az épületek átvizsgálását a tűzszerészek és a postarendőrség kezdték meg, a diákokat a tanárok biztonságos távolságba kísérték, a kisebb tanulók esetében pedig értesítették a szülőket, miközben Giorgia Meloni miniszterelnök úgy nyilatkozott, hogy a fenyegetések nem jelentnek valós veszélyt.",
+        "A hatóságok eddigi vizsgálata arra jutott, hogy az üzenetet küldő e-mail a tajvani Da-Yeh Egyetemről indult, miközben az ügyben az ügyészség is nyomoz. Giuseppe Valditara oktatási miniszter a La7 televíziónak nyilatkozva hangsúlyozta, hogy a fenyegetések mögött stratégia húzódik, de jelenleg nehéz elképzelni, kiről van szó."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 268,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1581,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official portrait of Giorgia Meloni in 2024",
+        "credit": "Governo Italiano / Wikimedia Commons",
+        "license": "CC BY 3.0 it",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg",
+        "exact": true,
+        "entity": "Giorgia Meloni",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/11/11/300-olasz-iskolaban-volt-bombariado?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "300 olasz iskolában volt bombariadó",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-11T18:39:16+01:00"
+        },
+        {
+          "url": "https://hvg.hu/vilag/20261111_hatezer-olasz-iskola-fenyegetes-robbantas",
+          "title": "Több mint hatezer olasz iskola kapott e-mailben bombafenyegetést",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-11T18:39:16+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A fenyegetések mögött stratégia húzódik, de jelenleg nehéz elképzelni, kiről van szó. A hatóságok lázasan dolgoznak, az ügyészség is nyomoz, de világos, hogy védekeznünk kell, a biztonság megerősítése elengedhetetlen",
+        "who": "Giuseppe Valditara oktatási miniszter",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-11T18:40:40+01:00"
+      },
+      "hot_score": 6.5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/11/11/300-olasz-iskolaban-volt-bombariado?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "url": "/vilag/2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek/",
+      "seo": {
+        "meta_title": "Giorgia Meloni halálával és az olaszok megsemmisítésével fen",
+        "meta_description": "Több ezer olasz oktatási intézmény kapott szerdán fenyegető e-mailt, amely az olaszok megsemmisítésével és a miniszterelnök meggyilkolásával fenyegetőzött. A ha",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ebf35345-2016-5df0-810f-bb83e5ed61b4",
+        "710eeb9a-48ce-5478-b616-d0617417e6b8"
+      ],
+      "see_also": [
+        {
+          "title": "A fagyinál is gyorsabban olvadó olasz kormányok háttere",
+          "url": "/vilag/2026-10-15-a-fagyinal-is-gyorsabban-olvado-olasz-kormanyok-hattere/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Megduplázódott lakbérek és kiürülő kasszák: ez dühítette fel Nyugat-Európát",
+          "url": "/vilag/2026-10-21-megduplazodott-lakberek-es-kiurulo-kasszak-ez-duhitette-fel-nyugat-eu/",
+          "date": "2026-10-21"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "0df1fc9d690964957a717e13c7a3b4132f5aa701ecf113ffbbf3b9cf24bbc1fe",
+      "pipeline_run_id": "43065532245",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-11T18:40:40+01:00",
+      "updated_at": "2026-11-11T18:40:40+01:00",
+      "published_at": "2026-11-11T18:40:40+01:00",
+      "expires_at": null
+    },
     {
       "id": "5c053be1-679d-5991-ab24-32a24f435603",
       "slug": "2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket",
@@ -74032,120 +74160,6 @@
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-14T12:42:30+02:00",
       "expires_at": null
-    },
-    {
-      "id": "bbe98c25-b348-54e5-bc90-98ab21602fdd",
-      "slug": "2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva",
-      "status": "removed",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Vagyonvisszaszerzési Hivatal",
-        "Országgyűlés",
-        "gazdasági bűnügyek",
-        "kinevezés",
-        "belpolitika"
-      ],
-      "title": "Gyakorlott gazdasági nyomozók érkezhetnek a Vagyonvisszaszerzési Hivatal élére",
-      "subtitle": null,
-      "lead": "Az Országgyűlés kedden dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettesének személyéről. A posztokra korábban a gyanú szerint súlyos gazdasági bűncselekményekkel, pénzmosással és uniós csalásokkal összefüggő ügyek felderítésében tapasztalatot szerzett nyomozókat jelöltek ki.",
-      "key_points": [
-        "Az Országgyűlés kedden határoz a hivatal három új elnökhelyetteséről.",
-        "A jelöltek korábban jelentős gazdasági bűncselekmények gyanújával indult eljárásokban, pénzmosás és uniós csalások felderítésében dolgoztak.",
-        "A szavazás során a képviselők a Médiatanács új tagjáról és a köztársasági elnök által visszaküldött egészségügyi törvényről is döntenek."
-      ],
-      "content": "Az Országgyűlés keddi ülésén dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyetteséről, miután a napokban nyilvánosságra hozták a jelöltek szakmai életrajzát – írta a hvg.hu. A posztokra olyan szakemberek pályáznak, akik korábban jelentős, a gyanú szerint elkövetett gazdasági bűncselekmények, pénzmosás, valamint uniós csalások felderítésében szereztek tapasztalatot.\n\nAhogy korábban megírtuk, az [ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba](/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzési-hiv/), a mostani parlamenti ülés pedig lezárja ezt a folyamatot.\n\nA keddi napirend nem merül ki a vezetők kiválasztásában. A képviselők határoznak a Médiatanács új tagjáról, valamint újra[tárgyalják az egészségügyi törvényt is](/kozelet/2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb/), amelyet a köztársasági elnök korábban visszaküldött a parlamentnek megfontolásra.",
-      "content_format": "markdown",
-      "body": [
-        "Az Országgyűlés keddi ülésén dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyetteséről, miután a napokban nyilvánosságra hozták a jelöltek szakmai életrajzát – írta a hvg.hu. A posztokra olyan szakemberek pályáznak, akik korábban jelentős, a gyanú szerint elkövetett gazdasági bűncselekmények, pénzmosás, valamint uniós csalások felderítésében szereztek tapasztalatot.",
-        "Ahogy korábban megírtuk, az [ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba](/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzési-hiv/), a mostani parlamenti ülés pedig lezárja ezt a folyamatot.",
-        "A keddi napirend nem merül ki a vezetők kiválasztásában. A képviselők határoznak a Médiatanács új tagjáról, valamint újra[tárgyalják az egészségügyi törvényt is](/kozelet/2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb/), amelyet a köztársasági elnök korábban visszaküldött a parlamentnek megfontolásra."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 148,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/7be13b6ed1f11ef4.jpg",
-        "width": 2048,
-        "height": 1542,
-        "kind": "photo",
-        "alt": "courtroom, benches, seats, law, justice, lighting, wood, wooden, inside, indoors, architecture, jury, trial, courtroom, courtroom, courtroom, courtroom, courtroom, law, law",
-        "credit": "12019 / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/courtroom-benches-seats-law-898931/",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/7be13b6ed1f11ef4.jpg",
-        "orig_url": "https://pixabay.com/get/gcbc6f703d972a926be65eb97f4cb00414882811b99a3317422744bae57cfc88e38dbab5f5ef4871e34551fc76a70d0e2ee4bb88e385bacb6b6598342bab4af3f_1280.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261014_hanko-bortonben-marad-magyar-alkohol-es-drogtesztet-akar-a-parlamentbe-atment-a-gyermekvedelmi-torveny-modositasa-newscast",
-          "title": "Hankó börtönben marad, Magyar alkohol- és drogtesztet akar a parlamentbe, átment a gyermekvédelmi törvény módosítása – Newscast",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-14T11:27:11+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-14T12:22:07+02:00"
-      },
-      "hot_score": 5.9,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261014_hanko-bortonben-marad-magyar-alkohol-es-drogtesztet-akar-a-parlamentbe-atment-a-gyermekvedelmi-torveny-modositasa-newscast"
-        ]
-      },
-      "date": "2026-10-14",
-      "date_label": "október 14.",
-      "url": "/kozelet/2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva/",
-      "seo": {
-        "meta_title": "Gyakorlott gazdasági nyomozók érkezhetnek a Vagyonvisszaszer",
-        "meta_description": "Az Országgyűlés kedden dönt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal három elnökhelyettesének személyéről. A posztokra korábban súlyos gazdasági ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-gyakorlott-gazdasagi-nyomozok-erkezhetnek-a-vagyonvisszaszerzesi-hiva/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/7be13b6ed1f11ef4.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "4805d640-cc7f-57dc-9818-6b799a89f392",
-        "6b4e396a-f118-5943-9ac3-4515b4b7b2b1"
-      ],
-      "see_also": [
-        {
-          "title": "Ismert gazdasági nyomozók kerülhetnek a vagyonvisszaszerzési hivatalba",
-          "url": "/kozelet/2026-10-13-ismert-gazdasagi-nyomozok-kerulhetnek-a-vagyonvisszaszerzesi-hivatalb/",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Ismert gazdasági ügyek nyomozóit igazolnák a vagyonvisszaszerzési hivatalba",
-          "url": "/kozelet/2026-10-12-ismert-gazdasagi-ugyek-nyomozoit-igazolnak-a-vagyonvisszaszerzesi-hiv/",
-          "date": "2026-10-12"
-        }
-      ],
-      "thread_id": "6b4e396a-f118-5943-9ac3-4515b4b7b2b1",
-      "dedupe_hash": "d1cc2d157a190a3a03268836f239baefa27af35692365e416a944b86a1aad1a5",
-      "pipeline_run_id": "38541472194",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T12:22:07+02:00",
-      "updated_at": "2026-10-14T12:22:07+02:00",
-      "published_at": "2026-10-14T12:22:07+02:00",
-      "expires_at": null,
-      "removed_reason": "duplikátum"
     }
   ]
 }

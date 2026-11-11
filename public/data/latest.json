@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "49aa8872-f362-5f51-bd12-37a3932c1122",
+      "slug": "2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek",
+      "url": "/vilag/2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek/",
+      "title": "Giorgia Meloni halálával és az olaszok megsemmisítésével fenyegetnek Tajvanról",
+      "lead": "Több ezer olasz oktatási intézmény kapott szerdán fenyegető e-mailt, amely az olaszok megsemmisítésével és a miniszterelnök meggyilkolásával fenyegetőzött. A hatóságok vizsgálják az üzeneteket, amelyek mögött egyelőre ismeretlen elkövetők állnak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T18:40:40+01:00",
+      "published_at": "2026-11-11T18:40:40+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.5,
+      "tags": [
+        "Olaszország",
+        "bombariadó",
+        "Giorgia Meloni",
+        "iskola",
+        "kiberbiztonság"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1581,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Official portrait of Giorgia Meloni in 2024"
+      }
+    },
+    {
       "id": "5c053be1-679d-5991-ab24-32a24f435603",
       "slug": "2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket",
       "url": "/kozelet/2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket/",
@@ -4404,37 +4434,7 @@
         "pos": "center",
         "alt": "Office Building of P.M. of Hungary. - 4., Kossuth Lajos Square, District 5th, Budapest"
       }
-    },
-    {
-      "id": "6a7d47f2-65f7-5025-96d9-8fcac935ceb6",
-      "slug": "2026-11-03-verben-forgo-szemekkel-uzent-teheran-bortoncellas-oriasplakattal-kosz",
-      "url": "/vilag/2026-11-03-verben-forgo-szemekkel-uzent-teheran-bortoncellas-oriasplakattal-kosz/",
-      "title": "Vérben forgó szemekkel üzent Teherán: börtöncellás óriásplakáttal köszöntötték Trumpot",
-      "lead": "Halálosan fenyegető óriásplakátot és szabadtéri kiállítást helyeztek ki Teheránban Donald Trump amerikai elnök ellen az amerikai félidős választások napján. Az iráni fővárosban összegyűlt tömeg bosszút követelt a február végén megölt Ali Hamenei ajatollah haláláért.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T18:51:44+01:00",
-      "published_at": "2026-11-03T18:51:44+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.09,
-      "tags": [
-        "Donald Trump",
-        "Irán",
-        "Teherán",
-        "közel-keleti konfliktus",
-        "félidős választás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1280px-Flag_of_Iran.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 686,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "The flag of Iran, created from scratch using the official geometric construction from ISIRI (translation at FotW). Note the irrational aspect ratio of ±1.7477:1, which is slightly different from the m"
-      }
     }
   ],
-  "updated_at": "2026-11-11T18:10:58+01:00"
+  "updated_at": "2026-11-11T18:40:44+01:00"
 }
