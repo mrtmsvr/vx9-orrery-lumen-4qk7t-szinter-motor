@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b096decc-ab82-50b6-bbd6-6ffd434aec09",
+      "slug": "2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok",
+      "url": "/vilag/2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok/",
+      "title": "Európát is elérhetik az iráni megtorló csapások",
+      "lead": "Irán Legfelsőbb Nemzetbiztonsági Tanácsának titkára, Mohszen Rezai kijelentette, hogy az európai és távolibb amerikai katonai támaszpontokat is célba veszik, ha azokat Irán elleni támadásokhoz használják. A fenyegetés újabb feszültséget teremt a washingtoni vezetéssel, miközben a diplomáciai csatornák akadoznak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T21:17:52+01:00",
+      "published_at": "2026-11-11T21:17:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.98,
+      "tags": [
+        "Irán",
+        "Egyesült Államok",
+        "Európa",
+        "katonai bázis",
+        "Mohszen Rezai"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mohsen_Rezaee_in_2020.jpg/1280px-Mohsen_Rezaee_in_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1445,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "محسن رضایی"
+      }
+    },
+    {
       "id": "af3fdec9-0368-5b4f-8823-eea400f4c91d",
       "slug": "2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem",
       "url": "/kozelet/2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem/",
@@ -4405,37 +4435,7 @@
         "pos": "top",
         "alt": "Óscar Puente Santiago, Spanish politician. Official photograph as mayor of Valladolid."
       }
-    },
-    {
-      "id": "3dff6fe8-f41e-569f-826e-2f47df8f70a2",
-      "slug": "2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito",
-      "url": "/vilag/2026-11-04-feluton-forditottak-vissza-moszkvabol-a-szerb-minisztereket-szallito/",
-      "title": "Félúton fordították vissza Moszkvából a szerb minisztereket szállító gépet",
-      "lead": "Biztonsági ellenőrzés miatt kedd este visszafordították a Belgrádból Moszkvába tartó szerb utasszállító repülőgépet, amelyen több magas rangú vezető is utazott. Az eset nemzetközi és gazdasági szálakat is érint, hiszen a delegáció hivatalos moszkvai útra indult a gázmegállapodás meghosszabbításáról tárgyalni.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T07:34:14+01:00",
-      "published_at": "2026-11-04T07:34:14+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.94,
-      "tags": [
-        "Szerbia",
-        "Oroszország",
-        "légiközlekedés",
-        "Moszkva",
-        "gázellátás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/YU-API_LLBG_08-08-2014a.jpg/1280px-YU-API_LLBG_08-08-2014a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 720,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Landing at Ben Gurion International airport"
-      }
     }
   ],
-  "updated_at": "2026-11-11T21:00:25+01:00"
+  "updated_at": "2026-11-11T21:17:54+01:00"
 }
