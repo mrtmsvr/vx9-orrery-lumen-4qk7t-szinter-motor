@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "b3fb90ac-b273-5b8c-a560-e75563805eac",
+      "slug": "2026-11-11-bilincsben-vezettek-birosagra-orban-aront-az-embercsempesz-ugyben",
+      "url": "/kozelet/2026-11-11-bilincsben-vezettek-birosagra-orban-aront-az-embercsempesz-ugyben/",
+      "title": "Bilincsben vezették bíróságra Orbán Áront az embercsempész-ügyben",
+      "lead": "Szerda reggel vezetőszáron kísérték be a Budai Központi Kerületi Bíróságra Orbán Áront és társait, akik ellen üzletszerűen elkövetett embercsempészés miatt indult eljárás. A Fővárosi Főügyészség a bűncselekmény kiemelkedő tárgyi súlya miatt kezdeményezte letartóztatásukat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T10:42:06+01:00",
+      "published_at": "2026-11-11T10:42:06+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.16,
+      "tags": [
+        "Orbán Áron",
+        "embercsempészet",
+        "bíróság",
+        "vízumbiznisz"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-bbdf292708.jpg",
+        "kind": "photo",
+        "alt": "Bilincsben vezették bíróságra Orbán Áront az embercsempész-ügyben",
+        "cover": true
+      }
+    },
+    {
       "id": "a2125e19-b2d8-56e5-a525-f925a2c528c8",
       "slug": "2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben",
       "url": "/kozelet/2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben/",
@@ -4399,37 +4426,7 @@
         "pos": "center",
         "alt": "Logo von Hír TV"
       }
-    },
-    {
-      "id": "d7762ae9-39da-5c0c-a12f-71a679c73853",
-      "slug": "2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i",
-      "url": "/kozelet/2026-11-03-kilencmilliardos-ingatlanbotrany-razza-meg-a-magyar-kereskedelmi-es-i/",
-      "title": "Kilencmilliárdos ingatlanbotrány rázza meg a Magyar Kereskedelmi és Iparkamarát",
-      "lead": "Hűtlen kezelés gyanúja miatt indított nyomozást a Budapesti Rendőr-főkapitányság a Magyar Kereskedelmi és Iparkamara milliárdos ingatlanvásárlásai miatt. Az ügyben az elnökségen belül is komoly viták feszülnek a tranzakciók tisztasága és árazása körül.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T10:33:37+01:00",
-      "published_at": "2026-11-03T10:33:37+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.16,
-      "tags": [
-        "iparkamara",
-        "rendőrségi nyomozás",
-        "ingatlanvásárlás",
-        "Nagy Elek",
-        "hűtlen kezelés"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/ORFK-BRFK_-_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1216,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Budapest, XIII. ker., Teve utca 4-6. ORFK-BRFK központ"
-      }
     }
   ],
-  "updated_at": "2026-11-11T10:24:12+01:00"
+  "updated_at": "2026-11-11T10:42:08+01:00"
 }
