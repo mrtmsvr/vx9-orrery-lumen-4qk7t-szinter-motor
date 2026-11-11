@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "af3fdec9-0368-5b4f-8823-eea400f4c91d",
+      "slug": "2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem",
+      "url": "/kozelet/2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem/",
+      "title": "Varga Judit: Öt éve gyaláznak, de még a kishíján beléjük feledkeztem",
+      "lead": "Varga Judit volt igazságügyi miniszter a parlamentben tartott sajtótájékoztatót a Völner–Schadl-ügyről és a sajtó szerepéről. A volt tárcavezető több mint nyolcszáz, a nevével és az üggyel kapcsolatos cikket számolt össze az elmúlt évekből.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T20:52:22+01:00",
+      "published_at": "2026-11-11T20:52:22+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Varga Judit",
+        "Völner-Schadl-ügy",
+        "parlament",
+        "Magyar Péter",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-754951a680.jpg",
+        "kind": "photo",
+        "alt": "Varga Judit: Agyonhallgatták a jótetteimet",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "1e5e5514-f779-5cbf-9bf4-23b4d1903e71",
       "slug": "2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt",
       "url": "/kozelet/2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt/",
@@ -4405,35 +4435,7 @@
         "pos": "center",
         "alt": "Landing at Ben Gurion International airport"
       }
-    },
-    {
-      "id": "1b5bb6bf-b2ed-5d4d-9344-827d2b42daec",
-      "slug": "2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal",
-      "url": "/kozelet/2026-11-03-megnyilik-a-digitalis-adatbazis-a-hatos-kartonokkal-es-a-b-naplokkal/",
-      "title": "Megnyílik a digitális adatbázis a hatos kartonokkal és a B-naplókkal",
-      "lead": "A rendszerváltás után 36 évvel, november 4-én a Tisza-kormány kampányígéretét teljesítve nyilvánosságra hozza az állambiztonsági nyilvántartásokat. A digitális adatbázisban korlátozásmentesen válnak elérhetővé a hatos kartonok, a hálózati adattárak és a B-naplók.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T22:22:16+01:00",
-      "published_at": "2026-11-03T22:22:16+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "ügynökakták",
-        "levéltár",
-        "állambiztonság",
-        "Tisza-kormány"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/64ca13e93fec8b9c.jpg",
-        "width": 3320,
-        "height": 2032,
-        "kind": "photo",
-        "alt": "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
-      }
     }
   ],
-  "updated_at": "2026-11-11T20:33:44+01:00"
+  "updated_at": "2026-11-11T20:52:23+01:00"
 }
