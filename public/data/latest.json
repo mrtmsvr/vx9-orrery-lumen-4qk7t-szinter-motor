@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "2dfd018d-24df-5e81-b5a0-0bc3eb2367c1",
+      "slug": "2026-11-11-harom-nap-alatt-daralja-le-a-koltsegvetest-az-orszaggyules-ruff-balin",
+      "url": "/kozelet/2026-11-11-harom-nap-alatt-daralja-le-a-koltsegvetest-az-orszaggyules-ruff-balin/",
+      "title": "Három nap alatt darálja le a költségvetést az Országgyűlés Ruff Bálint indítványára",
+      "lead": "Háromnapos rendkívüli ülést hívott össze november közepére az Országgyűlésbe Ruff Bálint, a Miniszterelnökséget vezető miniszter. A 2027-es költségvetés mellett amerikai atomenergetikai megállapodásról és balkáni békefenntartásról is tárgyalnak majd a képviselők.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T12:01:38+01:00",
+      "published_at": "2026-11-11T12:01:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Ruff Bálint",
+        "Országgyűlés",
+        "költségvetés",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Balint_Ruff_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1792,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Commissioner of Democracy, Justice, the Rule of Law and Consumer Protection Michael McGrath is on a day mission to Hungary, Budapest on June 2, 2026. Meeting with Balint Ruff Minister of the Prime Min"
+      }
+    },
+    {
       "id": "b3fb90ac-b273-5b8c-a560-e75563805eac",
       "slug": "2026-11-11-bilincsben-vezettek-birosagra-orban-aront-az-embercsempesz-ugyben",
       "url": "/kozelet/2026-11-11-bilincsben-vezettek-birosagra-orban-aront-az-embercsempesz-ugyben/",
@@ -4396,37 +4425,7 @@
         "pos": "center",
         "alt": "C-FSJJ Boeing 737-8 Max Air Canada"
       }
-    },
-    {
-      "id": "0368689b-1e2e-5ad7-ae92-ee719e03a044",
-      "slug": "2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat",
-      "url": "/kozelet/2026-11-03-egy-hetre-eltiltottak-a-parlamenttol-a-hirtv-stabjat/",
-      "title": "Egy hétre eltiltották a parlamenttől a HírTV stábját",
-      "lead": "Több alkalommal elkövetett, szándékos szabályszegés miatt egy hétre kitiltották az Országházból a HírTV két munkatársát. A házelnök a sajtószabályok szigorítását és nagyobb fegyelmet követel a jövőben.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T11:53:03+01:00",
-      "published_at": "2026-11-03T11:53:03+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.7,
-      "tags": [
-        "Országház",
-        "HírTV",
-        "Forsthoffer Ágnes",
-        "sajtószabadság",
-        "Parlament"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Hir_TV.svg/1280px-Hir_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 405,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Logo von Hír TV"
-      }
     }
   ],
-  "updated_at": "2026-11-11T11:54:31+01:00"
+  "updated_at": "2026-11-11T12:01:40+01:00"
 }
