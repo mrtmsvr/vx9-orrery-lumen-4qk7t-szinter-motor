@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "c7d3bda7-e042-5cc4-91a3-c18b4595f7af",
+      "slug": "2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul",
+      "url": "/kozelet/2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul/",
+      "title": "Varga Judit: Ne féljetek Magyar Pétertől, az igazság úgyis kiderül",
+      "lead": "Varga Judit volt igazságügyi miniszter az Országgyűlés végrehajtási visszaélésekkel kapcsolatos vizsgálóbizottságának ülése előtt arról beszélt, hogy az igazság előbb-utóbb kiderül, és felszólította a támogatóit, hogy ne féljenek Magyar Pétertől. A Schadl–Völner-ügyhöz kapcsolódó testület szerdai ülésén Répássy Róbert korábbi államtitkárt is meghallgatják.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T15:51:08+01:00",
+      "published_at": "2026-11-11T15:51:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Varga Judit",
+        "Magyar Péter",
+        "vizsgálóbizottság",
+        "Országgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Varga_Judit.jpg/1280px-Varga_Judit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1692,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Varga Judit Minister for Justice. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió  jövője?  Petőfi Irodalmi Múzeum, Budapest."
+      }
+    },
+    {
       "id": "b39057bb-3802-574e-a7e3-7121d215666c",
       "slug": "2026-11-11-megvan-az-elso-kezzelfoghato-eredmeny-az-abu-dzabi-bekekonzultacion",
       "url": "/vilag/2026-11-11-megvan-az-elso-kezzelfoghato-eredmeny-az-abu-dzabi-bekekonzultacion/",
@@ -4401,37 +4430,7 @@
         "politika"
       ],
       "hero_image": null
-    },
-    {
-      "id": "92b50278-0077-5992-880e-ae98feaac078",
-      "slug": "2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza",
-      "url": "/vilag/2026-11-03-trump-megallapodott-netanjahuval-ev-vegen-leallitjak-az-izraelnek-sza/",
-      "title": "Trump megállapodott Netanjahuval: év végén leállítják az Izraelnek szánt milliárdos segélyt",
-      "lead": "Az Egyesült Államok az év végével leállítja az Izraelnek nyújtott évi négymilliárd dolláros katonai támogatást. A döntést Donald Trump amerikai elnök jelentette be a választás napján, miután megegyezett Benjamin Netanjahu izraeli miniszterelnökkel.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T18:19:25+01:00",
-      "published_at": "2026-11-03T18:19:25+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.7,
-      "tags": [
-        "Donald Trump",
-        "Benjamin Netanjahu",
-        "Egyesült Államok",
-        "Izrael",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/WhiteHouseSouthFacade.JPG/1280px-WhiteHouseSouthFacade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 889,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "White House, the executive mansion of the President of the United States, located at 1600 Pennsylvania Avenue in Washington, D.C."
-      }
     }
   ],
-  "updated_at": "2026-11-11T15:35:27+01:00"
+  "updated_at": "2026-11-11T15:51:10+01:00"
 }
