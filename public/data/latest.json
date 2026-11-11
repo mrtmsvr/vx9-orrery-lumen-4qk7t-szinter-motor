@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "5c053be1-679d-5991-ab24-32a24f435603",
+      "slug": "2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket",
+      "url": "/kozelet/2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket/",
+      "title": "Varga Judit: Magyar Péter a gyűlöletével mérgezi az embereket",
+      "lead": "Szerdán az Országgyűlés végrehajtási visszaéléseket vizsgáló bizottsága előtt hallgatták meg Varga Judit egykori igazságügyi minisztert. A volt tárcavezető többek között a Magyar Péterrel való közös múltjáról és a Völner–Schadl-ügyről is beszélt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T16:59:38+01:00",
+      "published_at": "2026-11-11T16:59:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.7,
+      "tags": [
+        "Magyar Péter",
+        "Varga Judit",
+        "Parlamenti vizsgálóbizottság",
+        "Völner-Schadl-ügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Peter-Magyar-Budapest-15-03-2026.jpg/1280px-Peter-Magyar-Budapest-15-03-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra"
+      }
+    },
+    {
       "id": "c7d3bda7-e042-5cc4-91a3-c18b4595f7af",
       "slug": "2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul",
       "url": "/kozelet/2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul/",
@@ -4407,30 +4436,7 @@
         "pos": "center",
         "alt": "The flag of Iran, created from scratch using the official geometric construction from ISIRI (translation at FotW). Note the irrational aspect ratio of ±1.7477:1, which is slightly different from the m"
       }
-    },
-    {
-      "id": "03fed2f4-8b9e-54c7-8231-b3c665eb0f1b",
-      "slug": "2026-11-03-szavazogep-csalas-miatt-vizsgaljak-a-fideszes-pocs-janost",
-      "url": "/kozelet/2026-11-03-szavazogep-csalas-miatt-vizsgaljak-a-fideszes-pocs-janost/",
-      "title": "Szavazógép-csalás miatt vizsgálják a fideszes Pócs Jánost",
-      "lead": "Az Országgyűlés alelnöke, Hallerné Nagy Anikó bejelentette, hogy a jegyzőkönyvek és a videófelvételek elemzésével vizsgálják Pócs János fideszes képviselő keddi voksolásának körülményeit. Az ügyet Magyar Péter ellenzéki vezető robbantotta ki, aki szerint a politikus szavazatát szabálytalanul adták le, miközben nem tartózkodott a teremben.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T18:44:40+01:00",
-      "published_at": "2026-11-03T18:44:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.13,
-      "tags": [
-        "parlament",
-        "Pócs János",
-        "Magyar Péter",
-        "szavazás",
-        "politika"
-      ],
-      "hero_image": null
     }
   ],
-  "updated_at": "2026-11-11T15:51:10+01:00"
+  "updated_at": "2026-11-11T16:59:40+01:00"
 }
