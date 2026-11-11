@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "02d3e9b5-5d44-5d95-a60d-22fa1bc2b7ac",
+      "slug": "2026-11-11-halalos-tomegkarambol-benitja-a-3-as-foutat-godollonel",
+      "url": "/kozelet/2026-11-11-halalos-tomegkarambol-benitja-a-3-as-foutat-godollonel/",
+      "title": "Halálos tömegkarambol bénítja a 3-as főutat Gödöllőnél",
+      "lead": "Öt gépjármű és egy szalagkorlátnak csapódó személyautó ütközött össze szerda kora reggel a 3-as főúton, Gödöllő térségében. A tragikus ráfutásos karambol miatt a katasztrófavédelem és a rendőrség teljes útlezárást rendelt el az érintett szakaszon.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T12:56:04+01:00",
+      "published_at": "2026-11-11T12:56:04+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.52,
+      "tags": [
+        "baleset",
+        "Gödöllő",
+        "3-as főút",
+        "útlezárás",
+        "katasztrófavédelem"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Car_on_Fire.jpg/1280px-Car_on_Fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 797,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Car on Fire"
+      }
+    },
+    {
       "id": "81bb12f2-dddb-5ff9-8d6c-84bf614235f3",
       "slug": "2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete",
       "url": "/kozelet/2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete/",
@@ -4400,34 +4430,7 @@
         "pos": "center",
         "alt": "Lukla Airport. Helicopter. Tenzing-Hillary Airport. Lukla, Solukhumbu, Nepal."
       }
-    },
-    {
-      "id": "614e7fc3-2b84-59e1-8dc9-d2b32b411492",
-      "slug": "2026-11-03-megtorhet-a-ferfiak-egyeduralma-a-nemet-elnoki-szekben",
-      "url": "/vilag/2026-11-03-megtorhet-a-ferfiak-egyeduralma-a-nemet-elnoki-szekben/",
-      "title": "Megtörhet a férfiak egyeduralma a német elnöki székben",
-      "lead": "Friedrich Merz német kancellár egy konszenzusos, a politikai középről érkező női jelöltet szeretne látni a szövetségi elnöki poszton. A Német Szövetségi Köztársaság 1949-es megalapítása óta eddig kizárólag férfiak töltötték be ezt a tisztséget.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T14:49:07+01:00",
-      "published_at": "2026-11-03T14:49:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.57,
-      "tags": [
-        "Németország",
-        "Friedrich Merz",
-        "elnökválasztás",
-        "politika"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-7f1d48b547.jpg",
-        "kind": "photo",
-        "alt": "77 év – Németország eddigi férfi elnökei",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-11T12:54:34+01:00"
+  "updated_at": "2026-11-11T12:56:07+01:00"
 }
