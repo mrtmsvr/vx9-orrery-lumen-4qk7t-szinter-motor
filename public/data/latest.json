@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b39057bb-3802-574e-a7e3-7121d215666c",
+      "slug": "2026-11-11-megvan-az-elso-kezzelfoghato-eredmeny-az-abu-dzabi-bekekonzultacion",
+      "url": "/vilag/2026-11-11-megvan-az-elso-kezzelfoghato-eredmeny-az-abu-dzabi-bekekonzultacion/",
+      "title": "Megvan az első kézzelfogható eredmény az abu-dzabi békekonzultáción",
+      "lead": "Jelentős hadifogolycseréről állapodott meg Oroszország és Ukrajna az Abu-Dzabiban tartott háromoldalú egyeztetéseken. A felek amerikai közvetítők bevonásával a biztonsági garanciákról és a lehetséges tűzszünet ellenőrzésének módozatairól is tárgyaltak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T15:35:19+01:00",
+      "published_at": "2026-11-11T15:35:19+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.4,
+      "tags": [
+        "Abu-Dzabi",
+        "Orosz-ukrán háború",
+        "fogolycsere",
+        "Jared Kushner",
+        "Vlagyimir Putyin"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Skyline_Abu_Dhabi_I_%28260477643%29.jpeg/1280px-Skyline_Abu_Dhabi_I_%28260477643%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 953,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "500px provided description: Take your time... [#reflections ,#travel ,#religion ,#vacation ,#architecture ,#cityscape ,#building ,#view ,#skyline ,#skyscraper ,#long exposure ,#desert ,#holiday ,#per"
+      }
+    },
+    {
       "id": "8bab8c90-7f93-526a-ba89-aacc655f085a",
       "slug": "2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga",
       "url": "/kozelet/2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga/",
@@ -4401,37 +4431,7 @@
         "pos": "center",
         "alt": "White House, the executive mansion of the President of the United States, located at 1600 Pennsylvania Avenue in Washington, D.C."
       }
-    },
-    {
-      "id": "17dd3f6f-497c-5f88-81e7-5fe06ba7b5b9",
-      "slug": "2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv",
-      "url": "/kozelet/2026-11-03-meguzente-a-beszervezeset-huszoldalnyi-sorkatonai-iratot-hozott-nyilv/",
-      "title": "Megint előkerültek a zalaegerszegi dokumentumok Orbán Viktor beszervezéséről",
-      "lead": "Több mint húszoldalnyi, sorkatonai időszakából származó iratot tett közzé a miniszterelnök, miután a rendszerváltás előtti utolsó kormányfő ügynöki jelentésekről beszélt. A dokumentumok ügye ismét éles politikai vitát váltott ki a felek között.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T16:44:44+01:00",
-      "published_at": "2026-11-03T16:44:44+01:00",
-      "reading_time_min": 2,
-      "hot_score": 14.46,
-      "tags": [
-        "Orbán Viktor",
-        "Németh Miklós",
-        "ügynökakták",
-        "titkosszolgálat",
-        "Fidesz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Viktor_Orb%C3%A1n_2023.jpg/1280px-Viktor_Orb%C3%A1n_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1666,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires."
-      }
     }
   ],
-  "updated_at": "2026-11-11T14:54:37+01:00"
+  "updated_at": "2026-11-11T15:35:21+01:00"
 }
