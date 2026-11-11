@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:33:39+01:00",
+  "updated_at": "2026-11-11T09:53:44+01:00",
   "articles": [
+    {
+      "id": "0635ba6a-229e-568b-b0d5-d4465b09cd13",
+      "slug": "2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Magyar Péter",
+        "ügynökakták",
+        "Partizán",
+        "történelem",
+        "közélet"
+      ],
+      "title": "Magyar Péter a levéltárosokra kenné a hibát",
+      "subtitle": null,
+      "lead": "Téves adatok miatt 164 ember neve került fel az ügynökakták listájára, ami komoly vitákat váltott ki. Magyar Péter elnézést kért a hibáért, de személyes felelősséget nem vállalt.",
+      "key_points": [
+        "Hibás adatrögzítés miatt 164 ember neve került tévesen az ügynökaktákba.",
+        "Magyar Péter elnézést kért a hibáért, de személyesen nem érez felelősséget.",
+        "A Partizán műsorában szakértők elemezték a hálózati személyek listájának pontatlanságait.",
+        "Romsics Ignác történész szerint szakmai alapokon, nem politikai szempontok szerint kellene kezelni az iratokat."
+      ],
+      "content": "Az állambiztonsági múltat feltáró dokumentumok nyilvánosságra hozatala nem ment zökkenőmentesen, miután a hálózati személyek listája hiányosnak és pontatlannak bizonyult. A Partizán műsorában Endrey Mátyás műsorvezető és szerkesztő vezetésével elemezték a levéltári adatok kezelését, külön kitérve a kizárt hálózati személyeket jelölő 07-es kódok jelentésére.\n\nA hibás adatrögzítés következtében 164 olyan ember neve is szerepel az iratok között, akik tévesen kerültek fel a listára. Az üggyel kapcsolatban [Magyar Péter az ügynökakták nyilvánosságra hozataleról szóló bejelentését](/kozelet/2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli/) követően az ellenzéki és a kormánypárti frakcióvezetők is összecsaptak az Országházban [az ügynökakták parlamenti vitájáról szóló hírek szerint](/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/). Magyar Péter a történtek után elnézést kért a hibáért, ugyanakkor kijelentette, hogy személyesen nem érez felelősséget.\n\nCseh Gergő Bendegúz levéltári főigazgató a műsorban részletesen magyarázta az adatok kezelését, miközben Romsics Ignác történész arra hívta fel a figyelmet, hogy a dokumentumok feldolgozása rendkívül bonyolult. A szakember hangsúlyozta, hogy az iratokat politikai szempontok helyett kizárólag szakmai alapokon kellene kezelni.\n\nA szakértők rámutattak arra is, hogy a múltbéli iratok közzététele önmagában nem pótolja a mélyebb társadalmi és pszichológiai szembenézést, ráadásul a levéltáraknak nagyobb szakmai függetlenségre lenne szükségük a hasonló helyzetek elkerülése érdekében.",
+      "content_format": "markdown",
+      "body": [
+        "Az állambiztonsági múltat feltáró dokumentumok nyilvánosságra hozatala nem ment zökkenőmentesen, miután a hálózati személyek listája hiányosnak és pontatlannak bizonyult. A Partizán műsorában Endrey Mátyás műsorvezető és szerkesztő vezetésével elemezték a levéltári adatok kezelését, külön kitérve a kizárt hálózati személyeket jelölő 07-es kódok jelentésére.",
+        "A hibás adatrögzítés következtében 164 olyan ember neve is szerepel az iratok között, akik tévesen kerültek fel a listára. Az üggyel kapcsolatban [Magyar Péter az ügynökakták nyilvánosságra hozataleról szóló bejelentését](/kozelet/2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli/) követően az ellenzéki és a kormánypárti frakcióvezetők is összecsaptak az Országházban [az ügynökakták parlamenti vitájáról szóló hírek szerint](/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/). Magyar Péter a történtek után elnézést kért a hibáért, ugyanakkor kijelentette, hogy személyesen nem érez felelősséget.",
+        "Cseh Gergő Bendegúz levéltári főigazgató a műsorban részletesen magyarázta az adatok kezelését, miközben Romsics Ignác történész arra hívta fel a figyelmet, hogy a dokumentumok feldolgozása rendkívül bonyolult. A szakember hangsúlyozta, hogy az iratokat politikai szempontok helyett kizárólag szakmai alapokon kellene kezelni.",
+        "A szakértők rámutattak arra is, hogy a múltbéli iratok közzététele önmagában nem pótolja a mélyebb társadalmi és pszichológiai szembenézést, ráadásul a levéltáraknak nagyobb szakmai függetlenségre lenne szükségük a hasonló helyzetek elkerülése érdekében."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 231,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-f21bfc805c.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-f21bfc805c.jpg",
+        "kind": "photo",
+        "alt": "Rákenné a levéltárosokra Magyar Péter az ügynökakták balul elsült közlését",
+        "credit": "A videó előnézeti képe – Partizán (YouTube)",
+        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
+        "source_url": "https://www.youtube.com/watch?v=NleYPJ_Mhok",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=NleYPJ_Mhok",
+          "title": "Rákenné a levéltárosokra Magyar Péter az ügynökakták balul elsült közlését",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-11-11T09:52:35+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-11T09:53:44+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=NleYPJ_Mhok"
+        ]
+      },
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "url": "/kozelet/2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat/",
+      "seo": {
+        "meta_title": "Magyar Péter a levéltárosokra kenné a hibát",
+        "meta_description": "Téves adatok miatt 164 ember neve került fel az ügynökakták listájára, ami komoly vitákat váltott ki. Magyar Péter elnézést kért a hibáért, de személyes felelős",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-f21bfc805c.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "b7c73bd6-04d4-5213-b430-b8dbf2c68549",
+        "9a7eb4c4-1982-53d8-9def-267a8da20b4b"
+      ],
+      "see_also": [
+        {
+          "title": "Megnyílnak az évtizedes titkok: ezrek neve kerülhet nyilvánosságra",
+          "url": "/kozelet/2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli/",
+          "date": "2026-11-04"
+        },
+        {
+          "title": "Ügynökakták és fülhallgatók: parázs vita zajlott a parlamentben",
+          "url": "/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
+          "date": "2026-11-09"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "3f9c2ba934ee1ef7e1bea47d86b872e1b22e7a5e616854489bacf857005fe3af",
+      "pipeline_run_id": "42986217617",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-11T09:53:44+01:00",
+      "updated_at": "2026-11-11T09:53:44+01:00",
+      "published_at": "2026-11-11T09:53:44+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "NleYPJ_Mhok",
+        "title": "Rákenné a levéltárosokra Magyar Péter az ügynökakták balul elsült közlését",
+        "channel": "Partizán",
+        "minutes": 12
+      }
+    },
     {
       "id": "e36f5cbc-003b-5caf-b80d-70e5255bae39",
       "slug": "2026-11-11-marton-napja-libasult-es-ujbor-rejtelmei",
@@ -73751,144 +73872,6 @@
       "images_seen": [
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg/1280px-Goodbye_To_Speculation_-_They_Don%27t_Care_If_He_Never_Comes_Back_-_DPLA_-_8cca40ab8e3c76700e095fa6ea8a71de.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "9467b00a-378b-5f32-9139-3c078a86f723",
-      "slug": "2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman",
-      "status": "removed",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Baka András",
-        "Fejes Péter",
-        "legfőbb ügyész",
-        "ügyészség",
-        "közélet"
-      ],
-      "title": "Fejes Péter lehet a legfőbb ügyész Baka András jelölése nyomán",
-      "subtitle": null,
-      "lead": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a nemzetközi diplomáciában is feszültségek rajzolódnak ki az ukrajnai helyzet kapcsán.",
-      "key_points": [
-        "Fejes Pétert jelölte legfőbb ügyésznek államfő",
-        "A döntésre azután került sor, hogy a parlament elutasította az előző jelöltet",
-        "Nemzetközi szinten Donald Trump és Volodimir Zelenszkij viszonya is napirendre került"
-      ],
-      "content": "## Új jelölt a legfőbb ügyészi székbe\n\nállamfő hétfőn jelentette be, hogy Fejes Pétert, a Vas Megyei Főügyészség korábbi büntetőjogi főügyészhelyettesét javasolja a legfőbb ügyészi tisztségre. A lépésre azután volt szükség, hogy a parlament nem szavazta meg a korábban indítványozott jelöltet, így a poszt betöltetlen maradt.\n\nA köztársasági elnök döntése újabb fejezetet nyit az igazságszolgáltatás élén álló vezető személye körül zajló folyamatokban. A HVG hétköznap jelentkező hírpodcastjának összegzése szerint a jelölés mellett a hazai közéletben a gyanú szerint Seszták Miklós őrizetbe vétele, valamint az NVVH elnökhelyettesi posztjaira vonatkozó jelölések is témát szolgáltatnak.\n\n## Külpolitikai feszültségek a háttérben\n\nA hazai fejleményekkel párhuzamosan a külpolitikai színtéren is jelentős események rajzolódnak ki. A hírforrások szerint Donald Trumpnek határozott szándéka van Volodimir Zelenszkij ukrán elnök leváltására, miközben az orosz fél részéről a hírek szerint továbbra sincs nyitottság a tűzszünetre.\n\nEzek a nemzetközi folyamatok közvetett módon formálják azt a tágabb keretet, amelyben a hazai intézményi átrendeződések és kinevezési eljárások is zajlanak.",
-      "content_format": "markdown",
-      "body": [
-        "## Új jelölt a legfőbb ügyészi székbe",
-        "államfő hétfőn jelentette be, hogy Fejes Pétert, a Vas Megyei Főügyészség korábbi büntetőjogi főügyészhelyettesét javasolja a legfőbb ügyészi tisztségre. A lépésre azután volt szükség, hogy a parlament nem szavazta meg a korábban indítványozott jelöltet, így a poszt betöltetlen maradt.",
-        "A köztársasági elnök döntése újabb fejezetet nyit az igazságszolgáltatás élén álló vezető személye körül zajló folyamatokban. A HVG hétköznap jelentkező hírpodcastjának összegzése szerint a jelölés mellett a hazai közéletben a gyanú szerint Seszták Miklós őrizetbe vétele, valamint az NVVH elnökhelyettesi posztjaira vonatkozó jelölések is témát szolgáltatnak.",
-        "## Külpolitikai feszültségek a háttérben",
-        "A hazai fejleményekkel párhuzamosan a külpolitikai színtéren is jelentős események rajzolódnak ki. A hírforrások szerint Donald Trumpnek határozott szándéka van Volodimir Zelenszkij ukrán elnök leváltására, miközben az orosz fél részéről a hírek szerint továbbra sincs nyitottság a tűzszünetre.",
-        "Ezek a nemzetközi folyamatok közvetett módon formálják azt a tágabb keretet, amelyben a hazai intézményi átrendeződések és kinevezési eljárások is zajlanak."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 184,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg/1280px-District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1601,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ": District Court and District Prosecutor's Office - 26 Várkerület, Malom Street corner, Sárvár, Vas County, Hungary.",
-        "credit": "Globetrotter19 / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:District_Court_and_District_Prosecutor%27s_Office,_2020_S%C3%A1rv%C3%A1r.jpg",
-        "vision_score": 5.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261013_bemutatta-uj-jeloltjet-az-allamfo-trump-le-akarja-valtatni-zelenszkijt-newscast",
-          "title": "Bemutatta új jelöltjét az államfő, Trump le akarja váltatni Zelenszkijt – Newscast",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-13T13:19:12+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-13T17:17:53+02:00"
-      },
-      "hot_score": 5.78,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261013_bemutatta-uj-jeloltjet-az-allamfo-trump-le-akarja-valtatni-zelenszkijt-newscast"
-        ]
-      },
-      "date": "2026-10-13",
-      "date_label": "október 13.",
-      "url": "/kozelet/2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman/",
-      "seo": {
-        "meta_title": "Fejes Péter lehet a legfőbb ügyész Baka András jelölése nyom",
-        "meta_description": "államfő Fejes Pétert jelölte a legfőbb ügyészi tisztségre, miután a parlament korábban nem szavazta meg a posztra javasolt személyt. A személyi kérdés mellett a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-13-fejes-peter-lehet-a-legfobb-ugyesz-baka-andras-jelolese-nyoman/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg/1280px-District_Court_and_District_Prosecutor%27s_Office%2C_2020_S%C3%A1rv%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "5e88a2bc-a990-589e-9b91-8d6dc0719954",
-        "86fab367-0e3a-5110-8751-055aa62bd9a1",
-        "01b97a4b-4358-5870-9b81-062d99d7eed1"
-      ],
-      "see_also": [
-        {
-          "title": "Újabb próbálkozás a főügyészi poszt betöltésére: Fejes Péter a jelölt",
-          "url": "/kozelet/2026-10-12-ujabb-probalkozas-a-fougyeszi-poszt-betoltesere-fejes-peter-a-jelolt/",
-          "date": "2026-10-12"
-        },
-        {
-          "title": "Titkos megfigyelésről beszél Seszták ügyvédje",
-          "url": "/kozelet/2026-10-01-megfigyelesi-botrany-sesztak-miklos-ugyeben/",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Miért akadt el az új orvosi törvény?",
-          "url": "/eletmod/2026-09-30-miert-akadt-el-az-uj-orvosi-torveny/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": "d120b396-5efb-5543-8f09-166ce4129faf",
-      "dedupe_hash": "81567c8aa62430b55c5a6d59562c027c2c56c7be87027ead21bbdd62cae1ddc3",
-      "pipeline_run_id": "38388245614",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-13T17:17:53+02:00",
-      "updated_at": "2026-10-13T17:17:53+02:00",
-      "published_at": "2026-10-13T17:17:53+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Péter Fejes",
-        "András Baka",
-        "Donald Trump",
-        "Volodymyr Zelenskyy",
-        "Vas County Prosecutor's Office",
-        "Hungarian Parliament",
-        "courtroom",
-        "press conference",
-        "diplomatic meeting"
-      ],
-      "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235881%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg/1280px-CFAS_Meets_Chief_Prosecutor_of_Nagasaki_District_Public_Prosectors_Office_%289235880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-      ],
-      "removed_reason": "duplikátum"
     }
   ]
 }
