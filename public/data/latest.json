@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1e5e5514-f779-5cbf-9bf4-23b4d1903e71",
+      "slug": "2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt",
+      "url": "/kozelet/2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt/",
+      "title": "Orbán Viktor öccsének koronavírusos ügyeiről és nyomozásokról beszélt a Telex",
+      "lead": "A Telex műsorában a covid-időszak alatti botrányokról és Orbán Viktor öccsének érintettségéről beszélgettek a szerkesztők. Szó esett a Nemzeti Nyomozó Iroda vizsgálatairól és a politikai kommunikáció részleteiről is.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T20:33:42+01:00",
+      "published_at": "2026-11-11T20:33:42+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "koronavírus",
+        "botrány",
+        "nyomozás",
+        "Telex",
+        "politika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Polizeipr%C3%A4sidium_Komitat_Pest_und_NNI_Polizei%2C_Tag_der_Polizei%2C_2024_Stadtw%C3%A4ldchen.jpg/1280px-Polizeipr%C3%A4sidium_Komitat_Pest_und_NNI_Polizei%2C_Tag_der_Polizei%2C_2024_Stadtw%C3%A4ldchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Pest County Police Department and the National Standby Police National Bureau of Investigation (NNI Police) - Photo taken on the 11th National Police and Firefighter/Firefighting? Day in Budapest. -"
+      }
+    },
+    {
       "id": "4a04fd75-32da-5453-ac05-33a5c73df136",
       "slug": "2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete",
       "url": "/vilag/2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete/",
@@ -4403,37 +4433,7 @@
         "kind": "photo",
         "alt": "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
       }
-    },
-    {
-      "id": "9c189353-5f05-5795-8fb6-26b6b3d34c5e",
-      "slug": "2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem",
-      "url": "/kultura/2026-11-03-bartis-attila-tevedni-lehet-hazudni-nem/",
-      "title": "Bartis Attila: Tévedni lehet, hazudni nem",
-      "lead": "Bartis Attila író új, önéletrajzi ihletésű regényéről, A rég-ről beszélgetett Nyáry Krisztiánnal a Telex.hu műsorában. A kötet a Ceaușescu-kori Erdély világát, a szülőkkel való összetett viszonyt és a diktatúra működési mechanizmusait dolgozza fel.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T22:02:36+01:00",
-      "published_at": "2026-11-03T22:02:36+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Bartis Attila",
-        "irodalom",
-        "regény",
-        "Ceaușescu-kor",
-        "Telex"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bartis_Attila.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1764,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Bartis Attila román-magyar író, újságíró, fotóművész."
-      }
     }
   ],
-  "updated_at": "2026-11-11T19:57:11+01:00"
+  "updated_at": "2026-11-11T20:33:44+01:00"
 }
