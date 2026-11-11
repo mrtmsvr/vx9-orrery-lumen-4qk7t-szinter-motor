@@ -21,10 +21,10 @@
         "vízumbiznisz"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-bbdf292708.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-fd5f4ca749.jpg",
         "kind": "photo",
-        "alt": "Bilincsben vezették bíróságra Orbán Áront az embercsempész-ügyben",
-        "cover": true
+        "alt": "Térkép: Budai Központi Kerületi Bíróság",
+        "card": "map"
       }
     },
     {
@@ -4428,5 +4428,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-11T10:42:08+01:00"
+  "updated_at": "2026-11-11T10:50:44+01:00"
 }
