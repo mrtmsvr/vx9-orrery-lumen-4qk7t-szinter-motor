@@ -1,35 +1,35 @@
 {
-  "id": "2cf219fc6c",
-  "date": "2026-11-09",
+  "id": "e878939ea0",
+  "date": "2026-11-11",
   "status": "pending",
-  "article_url": "/kozelet/2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon/",
-  "article_title": "Nagy Ervin a Közlekedési Múzeumnak ajándékozta a Tisza-kampány furgonját",
+  "article_url": "/kozelet/2026-11-10-november-vegeig-kezbesitik-az-50-ezres-iskolakezdesi-tamogatast/",
+  "article_title": "November végéig kézbesítik az 50 ezres iskolakezdési támogatást",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés volt a kampányfurgont múzeumnak ajándékozni?",
+      "question": "Ön szerint hatékonyabb lenne a támogatást utalvány helyett közvetlenül készpénzben folyósítani?",
       "options": [
-        "Igen, jó ötlet a megőrzése",
-        "Nem, ennek nincs helye múzeumban",
+        "Igen, jobb lenne a készpénz",
+        "Nem, jobb a jelenlegi formája",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mennyire tartja fontosnak a közelmúltbeli politikai kampányok tárgyi emlékeinek gyűjtését?",
+      "question": "Helyesnek tartja, hogy az iskolakezdési támogatást minden jogosult alanyi jogon kapja meg?",
       "options": [
-        "Nagyon fontosnak tartom",
-        "Teljesen feleslegesnek tartom",
+        "Igen, mindenkinek alanyi jogon jár",
+        "Nem, csak a rászorulóknak adják",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a politikai kampányeszközök múzeumi kiállítását?",
+      "question": "Elegendő összegnek tartja az ötvenezer forintos iskolakezdési támogatást a mai árak mellett?",
       "options": [
-        "Hasznos történelmi dokumentum",
-        "Inkább csak kampányfogás",
+        "Igen, teljesen elegendő",
+        "Nem, kevés a mai árakhoz",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 10076
+  "msg_id": 10164
 }
