@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a2125e19-b2d8-56e5-a525-f925a2c528c8",
+      "slug": "2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben",
+      "url": "/kozelet/2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben/",
+      "title": "Adathibák és politikai adok-kapok az ügynökakták miatt a Parlamentben",
+      "lead": "Súlyos politikai vita bontakozott ki az Országgyűlésben az Állambiztonsági Szolgálatok Történeti Levéltára által nyilvánosságra hozott ügynökakták körüli adathibák miatt. Az ellenzék vizsgálóbizottságot követel, míg a kormánypártok visszautasítják a felelősséget.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T10:15:50+01:00",
+      "published_at": "2026-11-11T10:15:50+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "ügynökakták",
+        "Országgyűlés",
+        "ÁBTL",
+        "Magyar Péter",
+        "politikai vita"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-5dcee1ff96.jpg",
+        "kind": "photo",
+        "alt": "36 évig ültek az ügynökaktákon, végül a Tisza-kormány elkapkodta",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "0635ba6a-229e-568b-b0d5-d4465b09cd13",
       "slug": "2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat",
       "url": "/kozelet/2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat/",
@@ -4399,37 +4429,7 @@
         "pos": "top",
         "alt": "Budapest, XIII. ker., Teve utca 4-6. ORFK-BRFK központ"
       }
-    },
-    {
-      "id": "4d1248a6-de0e-51ac-bdae-492155501131",
-      "slug": "2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket",
-      "url": "/vilag/2026-11-03-abu-dzabiban-probaljak-meg-ujra-osszerakni-a-beket/",
-      "title": "Abu-Dzabiban próbálják meg újra összerakni a békét",
-      "lead": "November 10-én és 11-én amerikai közvetítéssel tartanak tárgyalásokat Oroszország és Ukrajna között Abu-Dzabiban. Az egyeztetések célja a háború utáni biztonsági intézkedések és a feszültségcsökkentés megvitatása.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T10:15:47+01:00",
-      "published_at": "2026-11-03T10:15:47+01:00",
-      "reading_time_min": 3,
-      "hot_score": 9.94,
-      "tags": [
-        "orosz-ukrán háború",
-        "béketárgyalás",
-        "Abu-Dzabi",
-        "Steve Witkoff",
-        "diplomácia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Abu_Dhabi_Skyline_from_a_boat_tour.jpg/1280px-Abu_Dhabi_Skyline_from_a_boat_tour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Abu Dhabi skyline from sea on a boat tour."
-      }
     }
   ],
-  "updated_at": "2026-11-11T10:07:34+01:00"
+  "updated_at": "2026-11-11T10:15:52+01:00"
 }

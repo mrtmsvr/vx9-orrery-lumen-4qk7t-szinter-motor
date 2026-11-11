@@ -9346,7 +9346,7 @@
     {
       "id": "a2125e19-b2d8-56e5-a525-f925a2c528c8",
       "slug": "2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": null,
       "tags": [
@@ -9481,7 +9481,7 @@
         "meta_title": "Adathibák és politikai adok-kapok az ügynökakták miatt a Par",
         "meta_description": "Súlyos politikai vita bontakozott ki az Országgyűlésben az Állambiztonsági Szolgálatok Történeti Levéltára által nyilvánosságra hozott ügynökakták körüli adathi",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben/",
-        "og_image": "https://pixabay.com/get/gb648c7a588db5680d8a9d8a47751c07b90e197e31a9dfcfec9d6255f462e9d2469a45dd0e25b053c6b5d45d7f66ccd9b9a5b4c6c6277eddf7b17faec450d81ea_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-5dcee1ff96.jpg",
         "noindex": false,
         "schema_type": "NewsArticle"
       },
@@ -9498,9 +9498,9 @@
       "dedupe_hash": "a7368a2dff8c8b2759e6893a59121528946aa4564de1e071d026b667d1af7da5",
       "pipeline_run_id": "42990186307",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-11T10:13:25+01:00",
-      "updated_at": "2026-11-11T10:13:25+01:00",
-      "published_at": "2026-11-11T10:13:25+01:00",
+      "created_at": "2026-11-11T10:15:50+01:00",
+      "updated_at": "2026-11-11T10:15:50+01:00",
+      "published_at": "2026-11-11T10:15:50+01:00",
       "expires_at": null,
       "video": {
         "id": "JvKSq0NCFNI",
@@ -9521,9 +9521,11 @@
         "head": "🎬 VIDEÓBÓL (Telex․hu, 20 perces videó) · <b>Közélet</b> · forróság 5 · 1 forrás\n\n1) Adathibák és politikai adok-kapok az ügynökakták miatt a Parlamentben\n2) Elkapkodott aktanyilvánosság: politikai csörte az Országgyűlésben az ÁBTL hibája miatt\n3) Hibás kódok az ügynökaktákban: parlamenti vitát szültek a levéltári adatok\n🔥 4) Megszólalt az ÁBTL főigazgatója: így rejteztek a hibás kódok az ügynökakták mélyén\n🔥 5) Komoly adathiba csúszott az ügynökaktákba, azonnali vizsgálatot követel az ellenzék\n🔥 6) Magyar Péter személyesen kért bocsánatkérést, de a Fidesz szerint semmilyen felelősségük sincs\n\n<b>Források:</b> Telex․hu\n\n⚖️ Jogi ellenőrzés: 🟡 nézd át",
         "lead": "Súlyos politikai vita bontakozott ki az Országgyűlésben az Állambiztonsági Szolgálatok Történeti Levéltára által nyilvánosságra hozott ügynökakták körüli adathibák miatt. Az ellenzék vizsgálóbizottságot követel, míg a kormánypártok visszautasítják a felelősséget.",
         "ctl_photo": true,
-        "control_id": 10165,
-        "msg_ids": []
-      }
+        "control_id": 10166,
+        "msg_ids": [],
+        "note": "⚡ Közélet: jóváhagyás nélkül kiraktam."
+      },
+      "live": true
     }
   ]
 }
