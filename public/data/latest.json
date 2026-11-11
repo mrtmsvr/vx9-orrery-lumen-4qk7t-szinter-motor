@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4a04fd75-32da-5453-ac05-33a5c73df136",
+      "slug": "2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete",
+      "url": "/vilag/2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete/",
+      "title": "Váratlanul meghalt Oroszország amerikai nagykövete",
+      "lead": "Hatvanhat éves korában, szerdán váratlanul elhunyt Alekszandr Darcsijev, Oroszország egyesült államokbeli nagykövete. A diplomata halálának pontos okáról egyelőre nem hoztak nyilvánosságra részleteket.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T19:44:49+01:00",
+      "published_at": "2026-11-11T19:44:49+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Alekszandr Darcsijev",
+        "Oroszország",
+        "Egyesült Államok",
+        "diplomácia",
+        "halálhír"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Darchiev_05.2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1672,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Alexander Darchiev 05.2025"
+      }
+    },
+    {
       "id": "324a050d-3f5e-53ae-a83c-73ec0ee61851",
       "slug": "2026-11-11-aki-az-igazsagot-keresi-rossz-uton-jar-varga-judit-valaszai-a-schadl",
       "url": "/kozelet/2026-11-11-aki-az-igazsagot-keresi-rossz-uton-jar-varga-judit-valaszai-a-schadl/",
@@ -4403,37 +4433,7 @@
         "pos": "center",
         "alt": "Bartis Attila román-magyar író, újságíró, fotóművész."
       }
-    },
-    {
-      "id": "cdc5ae96-1ecd-5161-a0ae-6814b17a27ef",
-      "slug": "2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc",
-      "url": "/kozelet/2026-11-03-tizmilliardos-szamlat-nyujtott-be-az-allamnak-a-kivereztetett-miskolc/",
-      "title": "Tízmilliárdos számlát nyújtott be az államnak a kivéreztetett miskolci kórházi partner",
-      "lead": "Tízmilliárdos nagyságrendű kártérítést és elszámolást követel a miskolci kórház korábbi partnere, miután a létesítményt működtető vállalkozást ellehetetlenítették. Az ügy hátteréről a Partizán műsorában beszélt a cég vezetője.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T21:42:09+01:00",
-      "published_at": "2026-11-03T21:42:09+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "egészségügy",
-        "Miskolc",
-        "kártérítés",
-        "Partizán",
-        "per"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Megyesz%C3%A9khely_-_Borsod-Aba%C3%BAj-Zempl%C3%A9n_megye_-_Miskolc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 855,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Part of the city centre of Miskolc, viewed from South. On the left side: Heroes' Square, bordered by Ferenc Földes High School (the red brick building), the main post office and the synagogue. In the"
-      }
     }
   ],
-  "updated_at": "2026-11-11T18:44:28+01:00"
+  "updated_at": "2026-11-11T19:44:50+01:00"
 }
