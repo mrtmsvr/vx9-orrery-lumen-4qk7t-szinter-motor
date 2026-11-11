@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "81bb12f2-dddb-5ff9-8d6c-84bf614235f3",
+      "slug": "2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete",
+      "url": "/kozelet/2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete/",
+      "title": "Napi egymillió euró: még idén kiszállna az uniós bírságból Magyar Péter",
+      "lead": "Megállapodást szeretne elérni az Európai Bizottsággal a Magyarországot sújtó, napi egymillió eurós uniós bírság ügyében az év vége előtt Magyar Péter miniszterelnök. A kormányfő berlini tárgyalásai után nyilatkozott erről.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T12:54:32+01:00",
+      "published_at": "2026-11-11T12:54:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.24,
+      "tags": [
+        "Magyar Péter",
+        "Berlin",
+        "Európai Bizottság",
+        "uniós bírság",
+        "Friedrich Merz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cityscape_Berlin.jpg/1280px-Cityscape_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 614,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Berlin Cityscape seen from Victory Column"
+      }
+    },
+    {
       "id": "8bee51da-975d-5a4d-b2f1-8c8a98452dc8",
       "slug": "2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe",
       "url": "/kozelet/2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe/",
@@ -4397,35 +4427,7 @@
         "alt": "77 év – Németország eddigi férfi elnökei",
         "card": "num"
       }
-    },
-    {
-      "id": "10835a69-6500-55e7-85ec-4dd8932c342d",
-      "slug": "2026-11-03-bocsanatot-kert-a-tarsadalomtol-az-uj-legfobb-ugyesz",
-      "url": "/kozelet/2026-11-03-bocsanatot-kert-a-tarsadalomtol-az-uj-legfobb-ugyesz/",
-      "title": "Bocsánatot kért a társadalomtól az új legfőbb ügyész",
-      "lead": "Az Országgyűlésben tartott sajtótájékoztatóján az ügyészi szervezet nevében bocsánatot kért a társadalomtól a frissen megválasztott legfőbb ügyész, Fejes Péter. A lépés nyomán az intézmény függetlenségének és a közbizalomnak a helyreállítása áll a fókuszban.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T14:06:19+01:00",
-      "published_at": "2026-11-03T14:06:19+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.68,
-      "tags": [
-        "legfőbb ügyész",
-        "Fejes Péter",
-        "Baka András",
-        "Országgyűlés",
-        "ügyészség"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-685237c5bb.jpg",
-        "kind": "photo",
-        "alt": "139 igen – Fejes Péter megválasztását támogató szavazatok száma",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-11T12:38:42+01:00"
+  "updated_at": "2026-11-11T12:54:34+01:00"
 }
