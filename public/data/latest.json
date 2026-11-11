@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "8bee51da-975d-5a4d-b2f1-8c8a98452dc8",
+      "slug": "2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe",
+      "url": "/kozelet/2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe/",
+      "title": "Hankó Balázs a rácsok mögött tölti a karácsonyt az NKA-milliók ügyében",
+      "lead": "Másodfokon is elutasították Hankó Balázs volt kulturális és innovációs miniszter fellebbezését, így a politikus és korábbi államtitkára, Varga-Bajusz Veronika február 1-jéig letartóztatásban marad. A gyanú szerint a Nemzeti Kulturális Alap pénzeiből politikai kampányokat és magáncélokat finanszíroztak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T12:38:41+01:00",
+      "published_at": "2026-11-11T12:38:41+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Hankó Balázs",
+        "Varga-Bajusz Veronika",
+        "Nemzeti Kulturális Alap",
+        "letartóztatás",
+        "Kecskeméti Törvényszék"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-7ed7f42d54.jpg",
+        "kind": "photo",
+        "alt": "február 1. – eddig marad letartóztatásban a volt miniszter",
+        "card": "num"
+      }
+    },
+    {
       "id": "ccc11dae-06bb-58a1-ba86-02ccec67a1d4",
       "slug": "2026-11-11-haromnapos-rendkivuli-ulest-kap-a-koltsegvetes-ruff-balint-inditvanya",
       "url": "/kozelet/2026-11-11-haromnapos-rendkivuli-ulest-kap-a-koltsegvetes-ruff-balint-inditvanya/",
@@ -4397,35 +4425,7 @@
         "alt": "139 igen – Fejes Péter megválasztását támogató szavazatok száma",
         "card": "num"
       }
-    },
-    {
-      "id": "fbb16c09-71dd-5e78-ad25-db95de1e42a6",
-      "slug": "2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu",
-      "url": "/kozelet/2026-11-03-ocska-piti-csalonak-nevezte-pocs-janost-a-miniszterelnok-az-orszaggyu/",
-      "title": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
-      "lead": "Magyar Péter a házbizottság összehívását és Pócs János fideszes országgyűlési képviselő súlyos megbüntetését kezdeményezte, miután a politikus a gyanú szerint nem is volt jelen az ülésteremben az MNB-beszámoló szavazásakor. Az eset alaposan felkavarta a keddi parlamenti napot, ahol több fontos személyi döntés is született.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T12:45:28+01:00",
-      "published_at": "2026-11-03T12:45:28+01:00",
-      "reading_time_min": 3,
-      "hot_score": 14.21,
-      "tags": [
-        "Magyar Péter",
-        "Pócs János",
-        "Országgyűlés",
-        "Fidesz",
-        "Házbizottság"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-3f09d10b8b.jpg",
-        "kind": "photo",
-        "alt": "Ócska, piti csalónak nevezte Pócs Jánost a miniszterelnök az Országgyűlésben",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-11T12:10:21+01:00"
+  "updated_at": "2026-11-11T12:38:42+01:00"
 }
