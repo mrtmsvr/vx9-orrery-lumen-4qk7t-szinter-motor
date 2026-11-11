@@ -8004,7 +8004,7 @@
     {
       "id": "58ceea12-09af-5285-83c1-7ca410db2653",
       "slug": "2026-11-11-a-zsiros-tej-valoban-a-szivunk-ellensege",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -8058,7 +8058,7 @@
       "word_count": 1136,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g619f2b94cd9b45dec1d3a88ddd8d10f74f6353d63bbc6637fa5bc9bc75266f0fdef32b17924812504771274d418b55daa9deaccd7011f8603cc6a10e4e4a001a_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/0ef1762aa8388185.jpg",
         "width": 4299,
         "height": 2866,
         "kind": "photo",
@@ -8066,7 +8066,9 @@
         "credit": "Couleur / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/glass-milk-pour-pouring-1587258/",
-        "vision_score": 8.0
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/0ef1762aa8388185.jpg",
+        "orig_url": "https://pixabay.com/get/g619f2b94cd9b45dec1d3a88ddd8d10f74f6353d63bbc6637fa5bc9bc75266f0fdef32b17924812504771274d418b55daa9deaccd7011f8603cc6a10e4e4a001a_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -8178,7 +8180,7 @@
         "meta_title": "A zsíros tej valóban a szívünk ellensége?",
         "meta_description": "Évtizedeken át azt hallottuk, hogy a teljes zsírtartalmú tejtermékek tönkreteszik az ereinket és hizlalnak. Egy friss klinikai vizsgálat adatai szerint viszont ",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-11-11-a-zsiros-tej-valoban-a-szivunk-ellensege/",
-        "og_image": "https://pixabay.com/get/g619f2b94cd9b45dec1d3a88ddd8d10f74f6353d63bbc6637fa5bc9bc75266f0fdef32b17924812504771274d418b55daa9deaccd7011f8603cc6a10e4e4a001a_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/0ef1762aa8388185.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -8193,9 +8195,9 @@
       "dedupe_hash": "12caab47d81d0e5ee7fd3934f01b6851071ce5e7ebc45e02f77c0f9270eaa10c",
       "pipeline_run_id": "42968817676",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-11T07:08:07+01:00",
-      "updated_at": "2026-11-11T07:08:07+01:00",
-      "published_at": null,
+      "created_at": "2026-11-11T09:33:38+01:00",
+      "updated_at": "2026-11-11T09:33:38+01:00",
+      "published_at": "2026-11-11T09:33:38+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-11T09:05:56+01:00",
@@ -8213,13 +8215,15 @@
         "lead": "Évtizedeken át azt hallottuk, hogy a teljes zsírtartalmú tejtermékek tönkreteszik az ereinket és hizlalnak. Egy friss klinikai vizsgálat adatai szerint viszont a zsíros változatok nem rontanak a koleszterinszinten, sőt a vérnyomásra kifejezetten kedvezően hathatnak.",
         "ctl_photo": false,
         "control_id": 10152,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "e36f5cbc-003b-5caf-b80d-70e5255bae39",
       "slug": "2026-11-11-marton-napja-libasult-es-ujbor-rejtelmei",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -8417,9 +8421,9 @@
       "dedupe_hash": "1e3e2208978a00ccd381bda1b40d3c389245649f2f28f02d24b25dde6efc654c",
       "pipeline_run_id": "42969949235",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-11T07:33:11+01:00",
-      "updated_at": "2026-11-11T07:33:11+01:00",
-      "published_at": null,
+      "created_at": "2026-11-11T09:33:39+01:00",
+      "updated_at": "2026-11-11T09:33:39+01:00",
+      "published_at": "2026-11-11T09:33:39+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-11T09:32:40+01:00",
@@ -8442,8 +8446,10 @@
         "lead": "November 11-én a libasült és a frissen kiforrott újbor veszi át a főszerepet, miközben ősi népszokások és gazdag gasztronómiai hagyományok élednek újjá. A novemberi ünnep nemcsak a mezőgazdasági munkák végét jelenti, hanem egy évszázadok óta velünk élő lakomát is.",
         "ctl_photo": false,
         "control_id": 10153,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "6ee66f33-12e3-5e1b-8896-e0b305fbf9a7",
