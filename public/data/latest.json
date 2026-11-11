@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8bab8c90-7f93-526a-ba89-aacc655f085a",
+      "slug": "2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga",
+      "url": "/kozelet/2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga/",
+      "title": "Varga Juditot hallgatja meg a végrehajtási visszaélések bizottsága",
+      "lead": "Szerda délután ült össze a Parlamentben a Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság, amelynek egyetlen napirendi pontjaként Varga Judit volt igazságügyi minisztert hallgatják meg. A Schadl–Völner-ügyhöz kapcsolódó testület elé Répássy Róbert korábbi államtitkár is megérkezett.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T14:15:05+01:00",
+      "published_at": "2026-11-11T14:15:05+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.48,
+      "tags": [
+        "Varga Judit",
+        "Parlament",
+        "vizsgálóbizottság",
+        "Schadl–Völner-ügy",
+        "Toroczkai László"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Varga_Judit_2020_wikipedia.jpg/1280px-Varga_Judit_2020_wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1680,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Varga Judit a Ludovica Campuson"
+      }
+    },
+    {
       "id": "faa64a58-6f1d-58d9-aec8-2d1ed9501c92",
       "slug": "2026-11-11-jfk-orokosei-perelik-trumpot-nem-kernek-a-76-meteres-washingtoni-diad",
       "url": "/vilag/2026-11-11-jfk-orokosei-perelik-trumpot-nem-kernek-a-76-meteres-washingtoni-diad/",
@@ -4401,36 +4431,7 @@
         "pos": "top",
         "alt": "Santiago Abascal se reúne con Viktor Orbán y Eduardo Bolsonaro en ocasión de la asistencia de la jura como presidente de Argentina de Javier Milei en Buenos Aires."
       }
-    },
-    {
-      "id": "648cfa08-3111-5c3e-bbf1-ffb6b15be2e9",
-      "slug": "2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste",
-      "url": "/kozelet/2026-11-03-december-24-egyhangu-igennel-lett-szabadnap-szenteste/",
-      "title": "December 24.: egyhangú igennel lett szabadnap szenteste",
-      "lead": "Az Országgyűlés keddi döntése értelmében már az idei évtől munkaszüneti nappá nyilvánították december 24-ét. Az egyhangúlag elfogadott jogszabály kiszámíthatóságot teremt a családok számára.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T15:28:21+01:00",
-      "published_at": "2026-11-03T15:28:21+01:00",
-      "reading_time_min": 3,
-      "hot_score": 11.41,
-      "tags": [
-        "Országgyűlés",
-        "munkaszüneti nap",
-        "karácsony",
-        "belpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Magyar_orsz%C3%A1ggy%C5%B1l%C3%A9s%2C_1990_%28Fortepan%29.jpg/1280px-Magyar_orsz%C3%A1ggy%C5%B1l%C3%A9s%2C_1990_%28Fortepan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 765,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Szabad György házelnök és Göncz Árpád köztársasági elnök az Országgyűlésen, jobbra Trombitás Zoltán (Fidesz)"
-      }
     }
   ],
-  "updated_at": "2026-11-11T14:13:12+01:00"
+  "updated_at": "2026-11-11T14:15:07+01:00"
 }
