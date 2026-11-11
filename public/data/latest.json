@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b9da22b3-5ad6-5556-9f2f-d2692d8cb5e4",
+      "slug": "2026-11-11-megmozdultak-a-frontvonalak-mogott-mindket-fel-hajlando-valtoztatni-a",
+      "url": "/vilag/2026-11-11-megmozdultak-a-frontvonalak-mogott-mindket-fel-hajlando-valtoztatni-a/",
+      "title": "Megmozdultak a frontvonalak mögött: mindkét fél hajlandó változtatni a békefeltételein",
+      "lead": "Kedden megkezdődtek az orosz-ukrán béketárgyalások Abu-Dzabiban, ahol a legfrissebb hírek szerint mindkét fél hajlandónak mutatkozik engedni a korábbi, merev követeléseiből. Az amerikai és európai közvetítőkkel zajló egyeztetéseken a területi rendezés mellett immár konkrét biztonsági garanciák is terítékre kerültek.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-11T08:03:12+01:00",
+      "published_at": "2026-11-11T08:03:12+01:00",
+      "reading_time_min": 3,
+      "hot_score": 6.03,
+      "tags": [
+        "orosz-ukrán háború",
+        "Abu-Dzabi",
+        "béketárgyalás",
+        "Egyesült Államok",
+        "biztonsági garanciák"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8_%28Abu_Dhabi%29_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 692,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Абу-Даби (Abu Dhabi)"
+      }
+    },
+    {
       "id": "769189e5-b047-58c9-9975-ea623be17335",
       "slug": "2026-11-11-negy-szazalek-vagy-tizennegy-szamhaboru-a-minimalber-korul",
       "url": "/penzvilag/2026-11-11-negy-szazalek-vagy-tizennegy-szamhaboru-a-minimalber-korul/",
@@ -4396,38 +4426,7 @@
         "pos": "top",
         "alt": "Leader of the Our Homeland Movement faction"
       }
-    },
-    {
-      "id": "ce869690-df2c-5eb5-aeb0-0396cb01399a",
-      "slug": "2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig",
-      "url": "/kultura/2026-11-03-a-szent-korona-kalandos-utja-fort-knoxig/",
-      "title": "A Szent Korona kalandos útja Fort Knoxig",
-      "lead": "A magyar államiság legfőbb jelképe nemcsak a középkori trónviszályok idején vándorolt sokat, hanem a huszadik század viharaiban is különös kalandokat élt át. Lássuk, hogyan jutott el a korona a hazai kincstárból egészen az amerikai aranytartalékig, és miért kaptuk vissza 1978-ban.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-03",
-      "date_label": "november 3.",
-      "created_at": "2026-11-03T09:02:16+01:00",
-      "published_at": "2026-11-03T09:02:16+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Szent Korona",
-        "történelem",
-        "Fort Knox",
-        "Bizánc",
-        "művészettörténet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg/1280px-A_Szent_Korona_el%C3%B6lr%C5%91l_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1400,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The Holy Crown of Hungary, front view"
-      }
     }
   ],
-  "updated_at": "2026-11-11T08:01:38+01:00"
+  "updated_at": "2026-11-11T08:03:14+01:00"
 }
