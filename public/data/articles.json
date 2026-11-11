@@ -38,17 +38,15 @@
       "word_count": 354,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/2aa46dc43850c428.jpg",
-        "width": 4000,
-        "height": 3000,
-        "kind": "photo",
-        "alt": "parliament, parliament house, plenary room, finland, government seats, the podium of the president, parliament, parliament, parliament, parliament, parliament, parliament house",
-        "credit": "MarreKrisu / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/parliament-parliament-house-317085/",
-        "vision_score": 8.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/2aa46dc43850c428.jpg",
-        "orig_url": "https://pixabay.com/get/g810afda3e117ed0883a2d6f7c948c9ac3d7a1f33785afd63e18b854bc0a8a698f59c96973249527711d2841305d89860d54c33153dc50e88734956fc4706ffa1_1280.jpg"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ruff_B%C3%A1lint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1598,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Ruff Bálint politológus",
+        "credit": "Magyar Kétfarkú Kutya Párt YouTube-csatorna / Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ruff_B%C3%A1lint.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -135,7 +133,7 @@
       "pipeline_run_id": "43004850789",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-11T12:02:45+01:00",
-      "updated_at": "2026-11-11T12:02:45+01:00",
+      "updated_at": "2026-11-11T11:10:20+00:00",
       "published_at": "2026-11-11T12:02:45+01:00",
       "expires_at": null
     },
