@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "84b9f561-2865-5141-a0bc-55884e2fb96f",
+      "slug": "2026-11-12-isztambuli-egyezmeny-dublinbol-villantott-varatlan-nojogi-fordulatot",
+      "url": "/kozelet/2026-11-12-isztambuli-egyezmeny-dublinbol-villantott-varatlan-nojogi-fordulatot/",
+      "title": "Isztambuli Egyezmény: Dublinból villantott váratlan nőjogi fordulatot Magyar Péter",
+      "lead": "Magyar Péter az uniós csúcstalálkozó helyszínéről, Dublinból jelentett be jelentős nőjogi intézkedéseket, köztük az Isztambuli Egyezmény ratifikációjának szándékát. A váratlan lépés mögött politikai elemzők egy új, a pillanatnyi népszerűségre építő kormányzati mechanizmus kirajzolódását látják.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T18:44:20+01:00",
+      "published_at": "2026-11-12T18:44:20+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.83,
+      "tags": [
+        "Magyar Péter",
+        "Török Gábor",
+        "Isztambuli Egyezmény",
+        "belpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dublin_-_aerial_-_2025-07-07_01.jpg/1280px-Dublin_-_aerial_-_2025-07-07_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Dublin aerial photograph"
+      }
+    },
+    {
       "id": "224e55ee-8699-5520-a8e9-ea46621dd9ed",
       "slug": "2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme",
       "url": "/kozelet/2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme/",
@@ -4406,37 +4435,7 @@
         "alt": "8200 fő – Résztvevők a 24 éves kutatásban",
         "card": "num"
       }
-    },
-    {
-      "id": "ffa7a6cc-f7c2-52a1-a533-0c0080be896e",
-      "slug": "2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora",
-      "url": "/kozelet/2026-11-04-tortenelmet-irt-michigan-abdul-el-sayed-az-usa-elso-muszlim-szenatora/",
-      "title": "Történelmet írt Michigan: Abdul El-Sayed az USA első muszlim szenátora",
-      "lead": "Abdul El-Sayed megnyerte a michigani szenátusi választást, ezzel az Egyesült Államok történetének első muszlim szenátora lett. A kiemelt csatatérállamban zajló kampány az amerikai félidős választások egyik leginkább figyelt eseménye volt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T10:39:19+01:00",
-      "published_at": "2026-11-04T10:39:19+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.62,
-      "tags": [
-        "Egyesült Államok",
-        "félidős választás",
-        "Michigan",
-        "Abdul El-Sayed",
-        "szenátus"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1543,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "US Senate candidate for michigan Abdul El-Sayed meets voters at Michigan Technological University. October 22, 2025"
-      }
     }
   ],
-  "updated_at": "2026-11-12T17:26:55+01:00"
+  "updated_at": "2026-11-12T18:44:22+01:00"
 }
