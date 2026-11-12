@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "74b68094-def4-584b-8d92-e1de181ab312",
+      "slug": "2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert",
+      "url": "/kozelet/2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert/",
+      "title": "Kulja András lemondott a mentelmi jogáról a per kedvéért",
+      "lead": "Az Európai Parlament megszavazta Kulja András mentelmi jogának felfüggesztését, amit a Tisza Párt politikusa maga kezdeményezett. A döntés lehetővé teszi, hogy a Takács Péter korábbi egészségügyi államtitkár által indított magánvádas büntetőeljárás bírósági szakaszba lépjen.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T18:57:00+01:00",
+      "published_at": "2026-11-12T18:57:00+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.1,
+      "tags": [
+        "Kulja András",
+        "Európai Parlament",
+        "Tisza Párt",
+        "mentelmi jog",
+        "Takács Péter"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 678,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The Hemicycle of the European Parliament in Strasbourg during a plenary session in 2014."
+      }
+    },
+    {
       "id": "f91a9b87-b9bf-5433-94b8-453fe59c5e32",
       "slug": "2026-11-12-atirjak-a-szivhangrendeletet-nem-kell-tobbe-akarata-ellenere-hallgatn",
       "url": "/kozelet/2026-11-12-atirjak-a-szivhangrendeletet-nem-kell-tobbe-akarata-ellenere-hallgatn/",
@@ -4405,36 +4435,7 @@
         "pos": "center",
         "alt": "Lezsák Sándor magyar költő, tanár, politikus, a Magyar Demokrata Fórum egyik alapítója. 2006-tól az Országgyűlés egyik fideszes alelnöke."
       }
-    },
-    {
-      "id": "26e3c41a-6c5f-5af4-b38e-d90b95da55d0",
-      "slug": "2026-11-04-gta-6-es-koncertelmenyek-amikor-a-virtualis-vilag-a-valosaggal-utkozi",
-      "url": "/kultura/2026-11-04-gta-6-es-koncertelmenyek-amikor-a-virtualis-vilag-a-valosaggal-utkozi/",
-      "title": "GTA 6 és koncertélmények: amikor a virtuális világ a valósággal ütközik",
-      "lead": "A közelgő GTA 6 megjelenése körüli várakozásokról, a virtuális világ és a valóság ütközéséről, valamint a koncertélmények sajátosságairól beszélgettek a Szélsőközép műsorában. A kultikus játékok társadalmi hatásai mellett a zene és a mindennapok kapcsolatát is boncolgatták.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-05T08:40:00+01:00",
-      "published_at": "2026-11-05T08:40:00+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "GTA 6",
-        "Szélsőközép",
-        "videójáték",
-        "koncert"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/1280px-Grand_Theft_Auto_logo_series.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 964,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Logo of the Grand Theft Auto series."
-      }
     }
   ],
-  "updated_at": "2026-11-12T18:51:27+01:00"
+  "updated_at": "2026-11-12T18:57:02+01:00"
 }
