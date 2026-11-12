@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "f21115b2-6b16-5093-b9c1-263b67bf4d8a",
+      "slug": "2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben",
+      "url": "/kozelet/2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben/",
+      "title": "Kilencmilliárdos NAV-csapás: volt államtitkár fia a célkeresztben",
+      "lead": "Csaknem negyven helyszínen tartott kutatást a Nemzeti Adó- és Vámhivatal egy több mint kilencmilliárd forintos kárt okozó számlagyár ügyében. Az adóhatóság keddi akciójában huszonhárom embert hallgatott ki gyanúsítottként, a hálózat irányítója pedig a források szerint egy korábbi államtitkár fia.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-11",
+      "date_label": "november 11.",
+      "created_at": "2026-11-12T14:36:31+01:00",
+      "published_at": "2026-11-12T14:36:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.73,
+      "tags": [
+        "NAV",
+        "számlagyár",
+        "költségvetési csalás",
+        "gazdasági bűnözés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NAV_Gvad%C3%A1nyi_utca_2.jpg/1280px-NAV_Gvad%C3%A1nyi_utca_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian National Tax and Customs Administration, Eastern Pest HQ / central customer service centre"
+      }
+    },
+    {
       "id": "3db241ad-1a08-57cb-8093-98547e4fffb6",
       "slug": "2026-11-12-nemzetkozi-elfogatoparancs-dubajbol-iranyitja-luxuseletet-matolcsy-ad",
       "url": "/kozelet/2026-11-12-nemzetkozi-elfogatoparancs-dubajbol-iranyitja-luxuseletet-matolcsy-ad/",
@@ -4405,37 +4434,7 @@
         "pos": "center",
         "alt": "Budapest, Marina Part Lakópark"
       }
-    },
-    {
-      "id": "a1ae981f-22de-5b89-b04a-e3bbe17058fc",
-      "slug": "2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz",
-      "url": "/kozelet/2026-11-04-idegenkezuseg-gyanuja-miatt-indult-nyomozas-egy-iv-keruleti-tarsashaz/",
-      "title": "Holtan találtak egy idős nőt Újpesten, emberölés miatt nyomoznak",
-      "lead": "Holtan találtak egy idős nőt egy újpesti társasházban kedden, a rendőrség pedig rövid időn belül elfogta a bűncselekménnyel megalapozottan gyanúsítható 47 éves nőt. Az eset körülményeit a Budapesti Rendőr-főkapitányság életvédelmi osztálya vizsgálja.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T08:02:12+01:00",
-      "published_at": "2026-11-04T08:02:12+01:00",
-      "reading_time_min": 1,
-      "hot_score": 10.38,
-      "tags": [
-        "bűnügy",
-        "Újpest",
-        "rendőrség",
-        "Budapest",
-        "emberölés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Hungary_police_car_02.JPG/1280px-Hungary_police_car_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 901,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hongaarse politie auto"
-      }
     }
   ],
-  "updated_at": "2026-11-12T14:35:59+01:00"
+  "updated_at": "2026-11-12T14:36:47+01:00"
 }
