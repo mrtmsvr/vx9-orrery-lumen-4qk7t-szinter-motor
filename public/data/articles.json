@@ -1,7 +1,123 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-12T18:57:00+01:00",
+  "updated_at": "2026-11-12T19:24:28+01:00",
   "articles": [
+    {
+      "id": "770f2f9f-447e-5271-a1c9-08eecddd5578",
+      "slug": "2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Törökország",
+        "baleset",
+        "katonai helikopter",
+        "Malatya"
+      ],
+      "title": "Távvezetéknek csapódhatott és lezuhant egy török katonai helikopter, négyen meghaltak",
+      "subtitle": null,
+      "lead": "Súlyos katonai baleset történt csütörtökön Törökország délkeleti részén, ahol lezuhant egy S-70-es típusú helikopter. A szerencsétlenségben négy katona életét vesztette, a hatóságok jelenleg is vizsgálják a tragédia pontos okait.",
+      "key_points": [
+        "A török védelmi minisztérium közleménye szerint egy S-70-es helikopter zuhant le Malatya tartományban.",
+        "A baleset a Samanköy település melletti katonai bázis közelében következett be.",
+        "Sajtóinformációk szerint a gép az ütközés előtt egy elektromos távvezetéknek csapódott.",
+        "A zuhanást követő tűz a mentőalakulatok érkezésekor egy közeli lakóépületre is átterjedt."
+      ],
+      "content": "Csütörtökön súlyos tragédia történt Törökország délkeleti részén: a török védelmi minisztérium közlése szerint egy S-70-es típusú katonai helikopter zuhant le a Malatya tartománybeli Yeşilyurt körzetben. A szerencsétlenség következtében négy katona vesztette életét. A gép Samanköy térségében, egy katonai bázis közvetlen közelében ért földet; a gyors mentési kísérletek ellenére a tragédia elkerülhetetlen volt.\n\nA baleset pontos körülményeit a hatóságok vizsgálják. Samir Er tartományi kormányzó nyilatkozata szerint a katasztrófát feltehetően az okozta, hogy a helikopter repülés közben elektromos távvezetéknek ütközött. A szakértők a roncsok elemzésével igyekeznek megerősíteni, hogy valóban az ütközés okozta-e a gép kontrollálhatatlan zuhanását, vagy egyéb műszaki tényezők is közrejátszottak a tragédiában.\n\nA közösségi médiában megjelent felvételek és a helyi sajtó – köztük a Daily Sabah és a Yeni Şafak – beszámolói szerint az ütközés ereje jelentős volt. A becsapódást követően tűz ütött ki, a lángok pedig átterjedtek egy közeli lakóépületre is. A tűzoltók és a mentőegységek azonnal a helyszínre érkeztek, ám a katonák életét a gyors beavatkozás ellenére sem tudták megmenteni.\n\nA baleset hírére több közszereplő, köztük Ayten Gülsever is részvétét fejezte ki az áldozatok családjainak és a gyászoló katonai alakulatnak. A S-70-es helikopterek kulcsfontosságúak a török hadsereg számára a zord, hegyvidéki délkeleti tartományokban végzett logisztikai és biztonsági feladatok során. A hatóságok ígéretet tettek a teljes körű kivizsgálásra, hogy kiderüljön, milyen tényezők vezettek a tragédiához.",
+      "content_format": "markdown",
+      "body": [
+        "Csütörtökön súlyos tragédia történt Törökország délkeleti részén: a török védelmi minisztérium közlése szerint egy S-70-es típusú katonai helikopter zuhant le a Malatya tartománybeli Yeşilyurt körzetben. A szerencsétlenség következtében négy katona vesztette életét. A gép Samanköy térségében, egy katonai bázis közvetlen közelében ért földet; a gyors mentési kísérletek ellenére a tragédia elkerülhetetlen volt.",
+        "A baleset pontos körülményeit a hatóságok vizsgálják. Samir Er tartományi kormányzó nyilatkozata szerint a katasztrófát feltehetően az okozta, hogy a helikopter repülés közben elektromos távvezetéknek ütközött. A szakértők a roncsok elemzésével igyekeznek megerősíteni, hogy valóban az ütközés okozta-e a gép kontrollálhatatlan zuhanását, vagy egyéb műszaki tényezők is közrejátszottak a tragédiában.",
+        "A közösségi médiában megjelent felvételek és a helyi sajtó – köztük a Daily Sabah és a Yeni Şafak – beszámolói szerint az ütközés ereje jelentős volt. A becsapódást követően tűz ütött ki, a lángok pedig átterjedtek egy közeli lakóépületre is. A tűzoltók és a mentőegységek azonnal a helyszínre érkeztek, ám a katonák életét a gyors beavatkozás ellenére sem tudták megmenteni.",
+        "A baleset hírére több közszereplő, köztük Ayten Gülsever is részvétét fejezte ki az áldozatok családjainak és a gyászoló katonai alakulatnak. A S-70-es helikopterek kulcsfontosságúak a török hadsereg számára a zord, hegyvidéki délkeleti tartományokban végzett logisztikai és biztonsági feladatok során. A hatóságok ígéretet tettek a teljes körű kivizsgálásra, hogy kiderüljön, milyen tényezők vezettek a tragédiához."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 250,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg/1280px-Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Polska Policja, śmigłowiec Sikorsky S-70 Black Hawk",
+        "credit": "Zalasem1 / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Polish_Police,_Sikorsky_S-70_Black_Hawk_helicopter.jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/vilag/20261112_torokorszag-baleset-lezuhant-katonai-helikopter",
+          "title": "Lezuhant egy katonai helikopter Törökországban",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-12T19:21:03+01:00"
+        },
+        {
+          "url": "https://24.hu/kulfold/2026/11/12/nato-terulet-katonai-helikopter-lezuhant/",
+          "title": "Négyen meghaltak egy törökországi helikopterbalesetben",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-12T19:21:03+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/12/tavvezeteknek-csapodhatott-a-katonai-helikopter-negyen-meghaltak-video",
+          "title": "Távvezetéknek csapódhatott a katonai helikopter, négyen meghaltak – videó",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-12T19:21:03+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-12T19:24:28+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/vilag/20261112_torokorszag-baleset-lezuhant-katonai-helikopter",
+          "https://24.hu/kulfold/2026/11/12/nato-terulet-katonai-helikopter-lezuhant/",
+          "https://infostart.hu/kulfold/2026/11/12/tavvezeteknek-csapodhatott-a-katonai-helikopter-negyen-meghaltak-video"
+        ]
+      },
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "url": "/vilag/2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n/",
+      "seo": {
+        "meta_title": "Távvezetéknek csapódhatott és lezuhant egy török katonai hel",
+        "meta_description": "Súlyos katonai baleset történt csütörtökön Törökország délkeleti részén, ahol lezuhant egy S-70-es típusú helikopter. A szerencsétlenségben négy katona életét v",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg/1280px-Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "b6fc14143d22624491dc8b8850252aa2afe70753555c492e2c7417b98a4c718d",
+      "pipeline_run_id": "43272649205",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-12T19:24:28+01:00",
+      "updated_at": "2026-11-12T19:24:28+01:00",
+      "published_at": "2026-11-12T19:24:28+01:00",
+      "expires_at": null
+    },
     {
       "id": "74b68094-def4-584b-8d92-e1de181ab312",
       "slug": "2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert",
@@ -74481,107 +74597,6 @@
       "created_at": "2026-10-14T20:11:43+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-14T20:11:43+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "b27a1704-48a6-524c-a991-7fb48e397dc9",
-      "slug": "2026-10-14-sotetbe-borult-bonyhad-szazmillios-vitak-akasztottak-meg-a-kozvilagit",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Bonyhád",
-        "közvilágítás",
-        "önkormányzat",
-        "energiaár",
-        "rendőrség"
-      ],
-      "title": "Sötétbe borult Bonyhád: százmilliós viták akasztották meg a közvilágítást",
-      "subtitle": null,
-      "lead": "Szerdától több bonyhádi utcában szünetel a közvilágítás, miután a szolgáltatást végző vállalkozás leállította a hálózatot. A háttérben több százmillió forintos elmaradás és egy meg nem kötött megállapodás áll.",
-      "key_points": [
-        "Szerdától több utcában nincs közvilágítás Bonyhádon a szolgáltató döntése nyomán.",
-        "A PS Project Kft. több mint százmillió forint elmaradt díjat és háromszázmillió forintos megváltási díjat követel.",
-        "A városvezetés szerint ismeretlenek biztosítékokat távolítottak el, ezért a rendőrséghez fordultak."
-      ],
-      "content": "Szerdától bizonytalan ideig sötétség borul több bonyhádi lakóutcára, miután a helyi közvilágítást üzemeltető PS Project Kft. felfüggesztette a szolgáltatást. A csomádi székhelyű társaság tájékoztatása szerint a szerződést már 2026. április 2-án felmondták, mivel két és fél éve nem sikerült dűlőre jutniuk az önkormányzattal a megemelkedett költségek miatt.\n\nA cég állítása szerint a 2022-es drasztikus áramár-emelkedést és a megnövekedett rendszerhasználati díjakat a város nem volt hajlandó átvállalni. Bár a felek szeptember 15-én elvi egyezségre jutottak, azt az önkormányzat megbízottja végül nem írta alá, így a vállalkozásnak közleményük szerint nem maradt más eszköze.\n\nA társaság követelése jelentős tételeket foglal magában: több mint százmillió forint elmaradt díjat, a jogosulatlanul rákötött idegen lámpák fogyasztásának többletköltségét, valamint a szerződésben rögzített, háromszázmillió forintot meghaladó megváltási díjat várnak a várostól.\n\nFilóné Ferencz Ibolya, a Fidesz-KDNP polgármestere a városi közösségi oldalon úgy fogalmazott, hogy tudomásuk szerint ismeretlen személyek mintegy kétszáz lámpatestből szándékosan eltávolították a biztosítékokat. A történtek miatt az önkormányzat hivatalosan a rendőrséghez, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalhoz fordult vizsgálatért.\n\nA polgármester a cég állításaira eddig nem kívánt reagálni, a lakók pedig egyelőre ismeretlen ideig kénytelenek közvilágítás nélkül boldogulni ezeken a közterületeken.",
-      "content_format": "markdown",
-      "body": [
-        "Szerdától bizonytalan ideig sötétség borul több bonyhádi lakóutcára, miután a helyi közvilágítást üzemeltető PS Project Kft. felfüggesztette a szolgáltatást. A csomádi székhelyű társaság tájékoztatása szerint a szerződést már 2026. április 2-án felmondták, mivel két és fél éve nem sikerült dűlőre jutniuk az önkormányzattal a megemelkedett költségek miatt.",
-        "A cég állítása szerint a 2022-es drasztikus áramár-emelkedést és a megnövekedett rendszerhasználati díjakat a város nem volt hajlandó átvállalni. Bár a felek szeptember 15-én elvi egyezségre jutottak, azt az önkormányzat megbízottja végül nem írta alá, így a vállalkozásnak közleményük szerint nem maradt más eszköze.",
-        "A társaság követelése jelentős tételeket foglal magában: több mint százmillió forint elmaradt díjat, a jogosulatlanul rákötött idegen lámpák fogyasztásának többletköltségét, valamint a szerződésben rögzített, háromszázmillió forintot meghaladó megváltási díjat várnak a várostól.",
-        "Filóné Ferencz Ibolya, a Fidesz-KDNP polgármestere a városi közösségi oldalon úgy fogalmazott, hogy tudomásuk szerint ismeretlen személyek mintegy kétszáz lámpatestből szándékosan eltávolították a biztosítékokat. A történtek miatt az önkormányzat hivatalosan a rendőrséghez, valamint a Magyar Energetikai és Közmű-szabályozási Hivatalhoz fordult vizsgálatért.",
-        "A polgármester a cég állításaira eddig nem kívánt reagálni, a lakók pedig egyelőre ismeretlen ideig kénytelenek közvilágítás nélkül boldogulni ezeken a közterületeken."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 220,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg/1280px-R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Street light at Disneyland Paris.",
-        "credit": "Another one of my pictures:\n\n\n\nThis photograph was taken by Medium69 (William Cr / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9verb%C3%A8re_-_20150802_17h53_(10751).jpg",
-        "vision_score": 6.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20261014/nagy-a-baj-sotetbe-borult-egy-magyar-varos-869734",
-          "title": "Nagy a baj: sötétbe borult egy magyar város",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-14T20:10:40+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-14T20:11:35+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20261014/nagy-a-baj-sotetbe-borult-egy-magyar-varos-869734"
-        ]
-      },
-      "date": "2026-10-14",
-      "date_label": "október 14.",
-      "url": "/kozelet/2026-10-14-sotetbe-borult-bonyhad-szazmillios-vitak-akasztottak-meg-a-kozvilagit/",
-      "seo": {
-        "meta_title": "Sötétbe borult Bonyhád: százmilliós viták akasztották meg a ",
-        "meta_description": "Szerdától több bonyhádi utcában szünetel a közvilágítás, miután a szolgáltatást végző vállalkozás leállította a hálózatot. A háttérben több százmillió forintos ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-sotetbe-borult-bonyhad-szazmillios-vitak-akasztottak-meg-a-kozvilagit/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg/1280px-R%C3%A9verb%C3%A8re_-_20150802_17h53_%2810751%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "b22a3008e3e156e102efee1c3f01896c0dc4f101b20b7e54ffb98fb846b1a7b1",
-      "pipeline_run_id": "38610831409",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T20:11:35+02:00",
-      "updated_at": "2026-10-14T20:11:35+02:00",
-      "published_at": "2026-10-14T20:11:35+02:00",
       "expires_at": null
     }
   ]

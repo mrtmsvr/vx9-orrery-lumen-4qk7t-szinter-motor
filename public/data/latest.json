@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "770f2f9f-447e-5271-a1c9-08eecddd5578",
+      "slug": "2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n",
+      "url": "/vilag/2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n/",
+      "title": "Távvezetéknek csapódhatott és lezuhant egy török katonai helikopter, négyen meghaltak",
+      "lead": "Súlyos katonai baleset történt csütörtökön Törökország délkeleti részén, ahol lezuhant egy S-70-es típusú helikopter. A szerencsétlenségben négy katona életét vesztette, a hatóságok jelenleg is vizsgálják a tragédia pontos okait.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T19:24:28+01:00",
+      "published_at": "2026-11-12T19:24:28+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Törökország",
+        "baleset",
+        "katonai helikopter",
+        "Malatya"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg/1280px-Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Polska Policja, śmigłowiec Sikorsky S-70 Black Hawk"
+      }
+    },
+    {
       "id": "74b68094-def4-584b-8d92-e1de181ab312",
       "slug": "2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert",
       "url": "/kozelet/2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert/",
@@ -4406,36 +4435,7 @@
         "kind": "photo",
         "alt": "firefighters, firefighting, fire, dark, night, fire, fire, fire, fire, fire"
       }
-    },
-    {
-      "id": "cfee9830-1e3d-5c13-8011-7a8610b4ea35",
-      "slug": "2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s",
-      "url": "/kozelet/2026-11-05-technikai-hiba-miatt-ugynoknek-latszott-pedig-csak-figyeltek-lezsak-s/",
-      "title": "Technikai hiba miatt ügynöknek látszott, pedig csak figyelték Lezsák Sándort",
-      "lead": "Technikai hiba miatt jelent meg Lezsák Sándor neve hálózati személyként a nyitottaktak.hu adatbázisában. Az Állambiztonsági Szolgálatok Történeti Levéltára elnézést kért, és tisztázta: a volt politikus valójában megfigyelt volt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T08:40:52+01:00",
-      "published_at": "2026-11-05T08:40:52+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "ügynökakták",
-        "Lezsák Sándor",
-        "Állambiztonsági Szolgálatok Történeti Levéltára",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 766,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Lezsák Sándor magyar költő, tanár, politikus, a Magyar Demokrata Fórum egyik alapítója. 2006-tól az Országgyűlés egyik fideszes alelnöke."
-      }
     }
   ],
-  "updated_at": "2026-11-12T18:57:02+01:00"
+  "updated_at": "2026-11-12T19:24:31+01:00"
 }
