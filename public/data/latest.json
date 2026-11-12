@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f55af31c-e06f-5a8d-a8c6-56a43ef48c39",
+      "slug": "2026-11-12-bombaeles-helyzet-calais-ban-lezartak-a-csatorna-alagut-kulcsfontossa",
+      "url": "/vilag/2026-11-12-bombaeles-helyzet-calais-ban-lezartak-a-csatorna-alagut-kulcsfontossa/",
+      "title": "Bombaéles helyzet Calais-ban: lezárták a Csatorna-alagút kulcsfontosságú kapuját",
+      "lead": "Bombariadó miatt le kellett zárni az észak-franciaországi Calais-Frethun vasútállomást, ami súlyos zavarokat okozhat a nemzetközi vasúti közlekedésben. A hatóságok azonnal megkezdték a helyzet felmérését a stratégiai jelentőségű csomópontban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T10:50:31+01:00",
+      "published_at": "2026-11-12T10:50:31+01:00",
+      "reading_time_min": 3,
+      "hot_score": 5,
+      "tags": [
+        "Franciaország",
+        "bombariadó",
+        "vasút",
+        "közlekedés",
+        "Csatorna-alagút"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/1280px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 769,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "TGV TMST n°3011/2 à la sortie du Tunnel sous la Manche à Coquelles, côté Français."
+      }
+    },
+    {
       "id": "b096decc-ab82-50b6-bbd6-6ffd434aec09",
       "slug": "2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok",
       "url": "/vilag/2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok/",
@@ -4405,37 +4435,7 @@
         "pos": "center",
         "alt": "The western front of the United States Capitol. The Neoclassical style building is located in Washington, D.C., on top of Capitol Hill at the east end of the National Mall. The Capitol was designated"
       }
-    },
-    {
-      "id": "4c64370d-5dc3-543d-8f0c-8ef4f403fe38",
-      "slug": "2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal",
-      "url": "/vilag/2026-11-04-visszalepett-a-valasztastol-is-a-spanyol-miniszter-a-halalos-vonatbal/",
-      "title": "Ilyen tragédia után nem maradhatott hivatalban a spanyol miniszter",
-      "lead": "Kedd este bejelentette lemondását Óscar Puente spanyol közlekedési miniszter a múlt heti, 69 halálos áldozatot követelő vasúti katasztrófa miatt. A politikus nemcsak a tisztségét adta vissza, hanem a november 29-i előrehozott parlamenti választáson sem indul el jelöltként.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T07:54:38+01:00",
-      "published_at": "2026-11-04T07:54:38+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Spanyolország",
-        "vonatbaleset",
-        "Óscar Puente",
-        "közlekedésbiztonság",
-        "lemondás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%C3%93scar_Puente_Santiago_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1546,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Óscar Puente Santiago, Spanish politician. Official photograph as mayor of Valladolid."
-      }
     }
   ],
-  "updated_at": "2026-11-12T03:02:10+01:00"
+  "updated_at": "2026-11-12T10:50:34+01:00"
 }
