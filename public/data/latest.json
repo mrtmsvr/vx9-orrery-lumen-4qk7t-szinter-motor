@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "deec3df1-2cb0-59ef-92c1-3ac73fe3caf8",
+      "slug": "2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan",
+      "url": "/kozelet/2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan/",
+      "title": "Magyar Péter: Ratifikálják az isztambuli egyezményt, eltörlik a szívhangrendeletet",
+      "lead": "Átfogó intézkedéscsomagot jelentett be a nők biztonságáért csütörtökön Magyar Péter. A kormány egyebek mellett kezdeményezi az Isztambuli Egyezmény ratifikálását, és megszünteti az esemény utáni tabletta vénykötelességét.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T15:58:10+01:00",
+      "published_at": "2026-11-12T15:58:10+01:00",
+      "reading_time_min": 3,
+      "hot_score": 15.31,
+      "tags": [
+        "Magyar Péter",
+        "nőjogok",
+        "Isztambuli Egyezmény",
+        "egészségügy",
+        "abortusz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/FEMA_-_18213_-_Photograph_by_Robert_Kaufmann_taken_on_10-25-2005_in_Louisiana.jpg/1280px-FEMA_-_18213_-_Photograph_by_Robert_Kaufmann_taken_on_10-25-2005_in_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Belle Chasse, LA, October 25, 2005 - This is the main patient area inside of the Mobile Medical Unit being operated in Belle Chasse, Louisiana.  This configuration is an emergency department with mino"
+      }
+    },
+    {
       "id": "fef715f9-2933-5149-b56e-73949257c15d",
       "slug": "2026-11-12-titkok-a-multbol-mik-azok-az-ugynokaktak",
       "url": "/kozelet/2026-11-12-titkok-a-multbol-mik-azok-az-ugynokaktak/",
@@ -4406,37 +4436,7 @@
         "pos": "center",
         "alt": "Zsoldos-féle kerített lakóház"
       }
-    },
-    {
-      "id": "efdc17c5-bbaa-52cb-a946-ce56a624f946",
-      "slug": "2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs",
-      "url": "/kozelet/2026-11-04-nem-engedik-ki-a-szegedi-bortonben-karacsonyozik-bus-balazs/",
-      "title": "Nem engedik ki: a szegedi börtönben karácsonyozik Bús Balázs",
-      "lead": "Újabb két hónappal meghosszabbították Bús Balázs letartóztatását, így a volt polgármester az év végi ünnepeket a rácsok mögött tölti. A Nemzeti Kulturális Alap egykori alelnökét különösen jelentős vagyoni hátrányt okozó hűtlen kezeléssel gyanúsítják.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T10:23:08+01:00",
-      "published_at": "2026-11-04T10:23:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Bús Balázs",
-        "letartóztatás",
-        "Nemzeti Kulturális Alap",
-        "Kecskeméti Törvényszék",
-        "hűtlen kezelés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/B%C3%BAs_Bal%C3%A1zs.jpg/1280px-B%C3%BAs_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1555,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Bús Balázs (Fidesz-KDNP) polgármester"
-      }
     }
   ],
-  "updated_at": "2026-11-12T14:44:35+01:00"
+  "updated_at": "2026-11-12T15:58:11+01:00"
 }
