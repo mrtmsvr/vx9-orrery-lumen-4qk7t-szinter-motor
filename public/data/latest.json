@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "fef715f9-2933-5149-b56e-73949257c15d",
+      "slug": "2026-11-12-titkok-a-multbol-mik-azok-az-ugynokaktak",
+      "url": "/kozelet/2026-11-12-titkok-a-multbol-mik-azok-az-ugynokaktak/",
+      "title": "Titkok a múltból: mik azok az ügynökakták?",
+      "lead": "Évtizedekkel a rendszerváltás után is nagy közérdeklődés övezi az állambiztonsági iratokat, amelyek részletesen bemutatják, hogyan épült fel a kommunista diktatúra megfigyelési rendszere. A levéltári adatokból pontosan kirajzolódik, milyen módszerekkel gyűjtöttek adatokat a beszervezett személyekről, és miért ütközik akadályokba a teljes feltárás.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T14:38:31+01:00",
+      "published_at": "2026-11-12T14:38:31+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "ügynökakták",
+        "történelem",
+        "levéltár",
+        "Kádár-kor",
+        "titkosszolgálat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Boxes_of_records_in_archive_processing_room%2C_Norwegian-American_Historical_Association.jpg/1280px-Boxes_of_records_in_archive_processing_room%2C_Norwegian-American_Historical_Association.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Boxes of records in archive processing room\nNorwegian-American Historical Association\n\nLocated on the campus of St. Olaf College, Northfield, Minnesota"
+      }
+    },
+    {
       "id": "cc8e1096-2b67-5b46-af0e-7998ba6aa42d",
       "slug": "2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos",
       "url": "/kozelet/2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos/",
@@ -4405,37 +4436,7 @@
         "pos": "top",
         "alt": "Bús Balázs (Fidesz-KDNP) polgármester"
       }
-    },
-    {
-      "id": "e2867710-cd6a-5783-ad19-f8e95ce2e827",
-      "slug": "2026-11-04-nem-az-en-hibam-donald-trump-szerint-a-gyenge-jeloltek-buktak-el-a-re",
-      "url": "/vilag/2026-11-04-nem-az-en-hibam-donald-trump-szerint-a-gyenge-jeloltek-buktak-el-a-re/",
-      "title": "Nem az én hibám: Donald Trump szerint a gyenge jelöltek bukták el a republikánus többséget",
-      "lead": "Súlyos vereséget szenvedett a Republikánus Párt a félidős választásokon, a demokraták ráadásul a képviselőház mellett a szenátusban is megszerezhették a többséget. Donald Trump amerikai elnök szerint a kudarc oka az volt, hogy nem az ő neve szerepelt a szavazólapokon, ám az eredmények elfogadása mellett az ellenzékkel való együttműködésre is ígéretet tett.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T09:18:45+01:00",
-      "published_at": "2026-11-04T09:18:45+01:00",
-      "reading_time_min": 2,
-      "hot_score": 15.32,
-      "tags": [
-        "Donald Trump",
-        "egyesült államok",
-        "félidős választás",
-        "republikánusok",
-        "demokraták"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/United_States_Senate_Floor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 466,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "United States Senate chamber"
-      }
     }
   ],
-  "updated_at": "2026-11-12T14:37:48+01:00"
+  "updated_at": "2026-11-12T14:38:32+01:00"
 }
