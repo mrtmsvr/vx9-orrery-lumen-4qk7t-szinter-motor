@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "5cfae5ba-9317-5864-87c7-de234a11ec5f",
+      "slug": "2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost",
+      "url": "/vilag/2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost/",
+      "title": "Véres támadás Washingtonban: rendőrök zárták le a belvárost",
+      "lead": "Fegyveres támadó nyitott tüzet csütörtök reggel Washington belvárosában, a Fehér Háztól mindössze másfél kilométerre. A férfi legalább öt embert sebesített meg, mielőtt egy közeli lakóépületbe menekült volna.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T16:54:52+01:00",
+      "published_at": "2026-11-12T16:54:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Washington",
+        "bűnügy",
+        "USA",
+        "biztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aerial_view_of_Logan_Circle.jpg/1280px-Aerial_view_of_Logan_Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 878,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "An aerial view – facing southwest – of the Logan Circle neighborhood in Washington, D.C."
+      }
+    },
+    {
       "id": "deec3df1-2cb0-59ef-92c1-3ac73fe3caf8",
       "slug": "2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan",
       "url": "/kozelet/2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan/",
@@ -4406,37 +4435,7 @@
         "pos": "top",
         "alt": ": Historical Archives of State Security Services building detail, window, stucco (heads, naked women). - 7 Eötvös Street,  Budapest District VI. Hungary."
       }
-    },
-    {
-      "id": "5071b055-d78c-59d2-8976-28b912bfe215",
-      "slug": "2026-11-04-borbas-marcsi-hazakoltozott-az-orsegben-forgatta-uj-musorat",
-      "url": "/bulvar/2026-11-04-borbas-marcsi-hazakoltozott-az-orsegben-forgatta-uj-musorat/",
-      "title": "Borbás Marcsi hazaköltözött: az Őrségben forgatta új műsorát",
-      "lead": "November 8-án debütál a TV4-en Borbás Marcsi új produkciója, A kertem konyhája. A műsorvezető az őrségi otthonába kalauzolja a nézőket, ahol a kertészkedés és a hagyományos konyhatechnológia találkozik egymással.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T10:24:27+01:00",
-      "published_at": "2026-11-04T10:24:27+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Borbás Marcsi",
-        "TV4",
-        "televízió",
-        "kertészkedés",
-        "gasztronómia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pityerzser35.JPG/1280px-Pityerzser35.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Zsoldos-féle kerített lakóház"
-      }
     }
   ],
-  "updated_at": "2026-11-12T16:53:57+01:00"
+  "updated_at": "2026-11-12T16:54:54+01:00"
 }
