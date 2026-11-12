@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "224e55ee-8699-5520-a8e9-ea46621dd9ed",
+      "slug": "2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme",
+      "url": "/kozelet/2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme/",
+      "title": "NAV-razzia a Sóstói Stadionban: kérdések a Videoton megmentése körül",
+      "lead": "Iratokat és adathordozókat foglalt le a Nemzeti Adó- és Vámhivatal a székesfehérvári Sóstói Stadionban a Videoton tavalyi megmentése kapcsán felmerült körülmények miatt. A városvezetés szerint az eljárás nemcsak jogi, de anyagi szempontból is hatással lehet a klub jövőjére nézve.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T17:26:46+01:00",
+      "published_at": "2026-11-12T17:26:46+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.23,
+      "tags": [
+        "Székesfehérvár",
+        "NAV",
+        "Videoton",
+        "Cser-Palkovics András",
+        "labdarúgás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/S%C3%B3st%C3%B3i_Stadion_Feh%C3%A9rv%C3%A1r_FC-Vasas_2009-05-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The Stadion Sóstói just before the Fehérvár FC-Vasas match, Székesfehérvár, Hungary"
+      }
+    },
+    {
       "id": "5cfae5ba-9317-5864-87c7-de234a11ec5f",
       "slug": "2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost",
       "url": "/vilag/2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost/",
@@ -4406,36 +4436,7 @@
         "pos": "top",
         "alt": "US Senate candidate for michigan Abdul El-Sayed meets voters at Michigan Technological University. October 22, 2025"
       }
-    },
-    {
-      "id": "b7c73bd6-04d4-5213-b430-b8dbf2c68549",
-      "slug": "2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli",
-      "url": "/kozelet/2026-11-04-magyar-peter-az-ugynokaktak-nyilvanossagra-hozatalat-koveteli/",
-      "title": "Megnyílnak az évtizedes titkok: ezrek neve kerülhet nyilvánosságra",
-      "lead": "Magyar Péter az állambiztonsági levéltár mélyén jelentette be az ügynökakták nyilvánosságra hozatalát. A lépés több tízezer érintett sorsát befolyásolhatja, miközben a politikai színtéren éles vita bontakozott ki a döntés következményeiről.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T10:32:51+01:00",
-      "published_at": "2026-11-04T10:32:51+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Magyar Péter",
-        "ügynökakták",
-        "állambiztonság",
-        "politika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Historical_Archives_of_State_Security_Services%2C_window%2C_Eotvos_Street%2C_2016_Budapest.jpg/1280px-Historical_Archives_of_State_Security_Services%2C_window%2C_Eotvos_Street%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ": Historical Archives of State Security Services building detail, window, stucco (heads, naked women). - 7 Eötvös Street,  Budapest District VI. Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-12T16:54:54+01:00"
+  "updated_at": "2026-11-12T17:26:48+01:00"
 }
