@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "chosen": "Ezt mondta Bencsik András a zászlómeneten Magyar Péterről",
-      "instead_of": "Zászlómenettel pótolta a Békemenetet a Fidesz, miközben Magyar Péter bukását jósolják",
-      "custom": false,
-      "t": "2026-10-23T17:19:04+00:00"
-    },
-    {
       "chosen": "Öt hónapos csúcson az olaj, nagy mínuszban az amerikai piacok",
       "instead_of": "117 dollár fölött az olaj, miközben szakadnak a tőzsdék",
       "custom": false,
@@ -359,6 +353,12 @@
       "instead_of": "Fegyverekkel a csomagtartóban akarta végezni Trumppal egy illegális bevándorló",
       "custom": false,
       "t": "2026-11-08T11:08:48+00:00"
+    },
+    {
+      "chosen": "Öt éve tartó gyalázkodásról beszélt Varga Judit a parlamentben",
+      "instead_of": "Varga Judit: Öt éve gyaláznak, de még a kishíján beléjük feledkeztem",
+      "custom": false,
+      "t": "2026-11-12T13:37:45+00:00"
     }
   ]
 }

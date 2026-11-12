@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "cc8e1096-2b67-5b46-af0e-7998ba6aa42d",
+      "slug": "2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos",
+      "url": "/kozelet/2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos/",
+      "title": "Politikai leszámolást kiált a Fidesz a Lezsák Sándornál tartott hatósági szemle miatt",
+      "lead": "Több hatóság egyidejűleg tartott házkutatást és lefoglalást Lezsák Sándor alapítványánál Lakiteleken. A Fidesz és a családpolitikus köre szerint a gyanú szerint az akció közvetlen összefüggésben áll a közelmúltbeli téves ügynöklistás szerepléssel és az azután kibontakozó politikai feszültségekkel.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-12",
+      "date_label": "november 12.",
+      "created_at": "2026-11-12T14:37:47+01:00",
+      "published_at": "2026-11-12T14:37:47+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Lezsák Sándor",
+        "NAV",
+        "Lakitelek",
+        "ügynökakták",
+        "Fidesz"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lakitelek_t%C5%91serd%C5%91_l%C3%A9gifot%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 843,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Lakitelek_Tőserdő, Hungary, aerialphotography"
+      }
+    },
+    {
       "id": "f21115b2-6b16-5093-b9c1-263b67bf4d8a",
       "slug": "2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben",
       "url": "/kozelet/2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben/",
@@ -123,7 +153,7 @@
       "id": "af3fdec9-0368-5b4f-8823-eea400f4c91d",
       "slug": "2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem",
       "url": "/kozelet/2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem/",
-      "title": "Varga Judit: Öt éve gyaláznak, de még a kishíján beléjük feledkeztem",
+      "title": "Öt éve tartó gyalázkodásról beszélt Varga Judit a parlamentben",
       "lead": "Varga Judit volt igazságügyi miniszter a parlamentben tartott sajtótájékoztatót a Völner–Schadl-ügyről és a sajtó szerepéről. A volt tárcavezető több mint nyolcszáz, a nevével és az üggyel kapcsolatos cikket számolt össze az elmúlt évekből.",
       "category": "kozelet",
       "status": "published",
@@ -141,12 +171,12 @@
         "közélet"
       ],
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Varga_Judit_%282%29.jpg/1280px-Varga_Judit_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-754951a680.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "Varga Judit Minister for Justice. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió jövője? Petőfi Irodalmi Múzeum, Budapest."
+        "alt": "Varga Judit: Agyonhallgatták a jótetteimet",
+        "card": "video",
+        "width": 1280,
+        "height": 720
       }
     },
     {
@@ -4405,36 +4435,7 @@
         "pos": "center",
         "alt": "United States Senate chamber"
       }
-    },
-    {
-      "id": "e3367b72-81c6-5b8e-bdd6-de6579144452",
-      "slug": "2026-11-04-luxuselet-160-karosult-penzebol-celebpartikon-is-feltunt-a-csalo",
-      "url": "/kozelet/2026-11-04-luxuselet-160-karosult-penzebol-celebpartikon-is-feltunt-a-csalo/",
-      "title": "Luxusélet 160 károsult pénzéből: celebpartikon is feltűnt a gyanúsított",
-      "lead": "Letartóztatta a rendőrség azt a 35 éves szegedi nőt, aki a gyanú szerint 160 embert károsított meg kiterjedt online csalássorozatával. A gyanúsított a megszerzett pénzből luxuséletet élt egy budapesti prémiumingatlanban, miközben kapcsolatait a hazai sztárvilágra is kiterjesztette.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-04",
-      "date_label": "november 4.",
-      "created_at": "2026-11-04T08:03:31+01:00",
-      "published_at": "2026-11-04T08:03:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.14,
-      "tags": [
-        "csalás",
-        "bűnügy",
-        "rendőrség",
-        "TikTok"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Budapest%2C_Marina_Part_Lak%C3%B3park.jpg/1280px-Budapest%2C_Marina_Part_Lak%C3%B3park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapest, Marina Part Lakópark"
-      }
     }
   ],
-  "updated_at": "2026-11-12T14:36:47+01:00"
+  "updated_at": "2026-11-12T14:37:48+01:00"
 }
