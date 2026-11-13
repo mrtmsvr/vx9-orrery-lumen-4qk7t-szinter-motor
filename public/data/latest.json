@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4878ce85-0e7f-5793-8dfc-4a09bd6a3b37",
+      "slug": "2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag",
+      "url": "/kozelet/2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag/",
+      "title": "Kilencmillióan sem leszünk: jön a zsugorodó Magyarország",
+      "lead": "Magyarország lakossága 1980 óta folyamatosan csökken, és a szakértők szerint a jövőben milliókkal kevesebb ember él majd az országban. A demográfiai folyamatok megfordításához nem elegendőek a pénzügyi támogatások.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T19:27:47+01:00",
+      "published_at": "2026-11-13T19:27:47+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "demográfia",
+        "népességfogyás",
+        "Egyensúly Intézet",
+        "gazdaság",
+        "társadalom"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-cf5900b82f.jpg",
+        "kind": "photo",
+        "alt": "Nemzethalál nem lesz, de meg kell barátkoznunk azzal, hogy milliókkal kevesebb magyar fog élni",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "331fddc4-1760-5845-b4a3-a902d23d1c7c",
       "slug": "2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb",
       "url": "/kozelet/2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb/",
@@ -4409,36 +4439,7 @@
         "alt": "17 év – ennyi idő után vették el a díszpolgárságot",
         "card": "num"
       }
-    },
-    {
-      "id": "a59069b3-aa1c-5648-9bbc-d1e37fba56b7",
-      "slug": "2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java",
-      "url": "/vilag/2026-11-05-trump-az-alaszkai-voksok-atirasat-koveteli-a-republikanus-jelolt-java/",
-      "title": "Trump az alaszkai voksok átírását követeli a republikánus jelölt javára",
-      "lead": "Donald Trump amerikai elnök az alaszkai választási hatóságokhoz fordult, azt követelve, hogy a független jelöltre leadott voksokat a republikánus szenátorjelölt javára írják jóvá. Az elnöki követelés jelentős politikai feszültséget szít, miközben az államban továbbra is szoros a küzdelem a mandátumért.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T20:10:21+01:00",
-      "published_at": "2026-11-05T20:10:21+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.37,
-      "tags": [
-        "Donald Trump",
-        "Alaszka",
-        "szenátusi választás",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Alaska.svg/1280px-Flag_of_Alaska.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 847,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Flag of Alaska"
-      }
     }
   ],
-  "updated_at": "2026-11-13T19:07:18+01:00"
+  "updated_at": "2026-11-13T19:27:49+01:00"
 }
