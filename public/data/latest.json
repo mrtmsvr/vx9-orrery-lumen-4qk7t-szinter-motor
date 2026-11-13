@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "0ff70f3a-50f8-5fa8-b104-443389818670",
+      "slug": "2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras",
+      "url": "/kozelet/2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras/",
+      "title": "Beintett a politikusok vagyonvadászatának Baka András",
+      "lead": "Megfontolásra visszaküldte az Országgyűlésnek a politikusok és hozzátartozóik vagyongyarapodását vizsgáló törvényt Baka András köztársasági elnök. Az államfő a törvény célkitűzéseivel egyetért, ám adatvédelmi és alkotmányossági aggályai miatt módosításokat sürget.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T11:58:17+01:00",
+      "published_at": "2026-11-13T11:58:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.65,
+      "tags": [
+        "Baka András",
+        "Országgyűlés",
+        "vagyonnyilatkozat",
+        "adatvédelem"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andr%C3%A1s_Baka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 690,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Former President of the Hungarian Supreme Court András Baka"
+      }
+    },
+    {
       "id": "7e6fc2a3-fa2e-50a3-8778-d45a2490d0d7",
       "slug": "2026-11-13-kevesebb-feherje-lassithatja-az-oregedest",
       "url": "/eletmod/2026-11-13-kevesebb-feherje-lassithatja-az-oregedest/",
@@ -4406,37 +4435,7 @@
         "pos": "center",
         "alt": "Légi fotó Felcsútról"
       }
-    },
-    {
-      "id": "63979d49-28fe-5742-8c28-8950cb407ee5",
-      "slug": "2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep",
-      "url": "/kozelet/2026-11-05-veget-er-a-gyomroi-konteneriskola-kalvariaja-11-milliard-forintbol-ep/",
-      "title": "Véget ér a gyömrői konténeriskola kálváriája: 11 milliárd forintból épül az új intézmény",
-      "lead": "Tizenegy milliárd forintból építik újjá a gyömrői Fekete István Általános Iskolát, lezárva ezzel a több éve elhúzódó, méltatlan körülményeket eredményező beruházási vitát. A kormányfő bejelentése szerint a 2022-ben leállított projekt a korábbi terveknél jóval nagyobb léptékben valósul meg.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T12:17:01+01:00",
-      "published_at": "2026-11-05T12:17:01+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.02,
-      "tags": [
-        "Gyömrő",
-        "oktatás",
-        "beruházás",
-        "Magyar Péter",
-        "iskolaépítés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Europa_Building_%28EU_Brussels%29_18.jpg/1280px-Europa_Building_%28EU_Brussels%29_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Extension of the Council of the European Union Headquarters, Brussels.Project designed and executed by : Architect Philippe Samyn jointly with \"Studio Valle Progettazioni\" and \"Buro Happold Limited en"
-      }
     }
   ],
-  "updated_at": "2026-11-13T10:52:44+01:00"
+  "updated_at": "2026-11-13T11:58:19+01:00"
 }
