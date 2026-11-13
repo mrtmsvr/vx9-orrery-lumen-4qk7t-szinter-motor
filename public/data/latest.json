@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f5968adc-119a-5ce3-a2b9-5b6667018566",
+      "slug": "2026-11-13-autoba-rejtett-bomba-tepte-szet-egy-volt-ukran-tanacsado-kocsijat-mos",
+      "url": "/vilag/2026-11-13-autoba-rejtett-bomba-tepte-szet-egy-volt-ukran-tanacsado-kocsijat-mos/",
+      "title": "Autóba rejtett bomba tépte szét egy volt ukrán tanácsadó kocsiját Moszkvában",
+      "lead": "Súlyosan megsérült a 72 éves Szerhij Zavorotnij, miután pénteken felrobbant az autója Moszkva déli részén. Az egykori ukrán kormányzati tanácsadó elleni merénylet mindössze egy nappal követte a szentpétervári katonai támadást.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T16:49:33+01:00",
+      "published_at": "2026-11-13T16:49:33+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Oroszország",
+        "Ukrajna",
+        "háború",
+        "merénylet",
+        "Moszkva"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/1280px-Moscow_05-2012_Kremlin_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 758,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Moscow, Russia. General view of the Moscow Kremlin."
+      }
+    },
+    {
       "id": "798f86b6-0bdd-56af-9cc8-32ebda571b13",
       "slug": "2026-11-13-gulyas-marton-kezebe-veszi-az-iranyitast-a-stab-negyedetol-valik-meg",
       "url": "/kozelet/2026-11-13-gulyas-marton-kezebe-veszi-az-iranyitast-a-stab-negyedetol-valik-meg/",
@@ -4406,37 +4436,7 @@
         "pos": "top",
         "alt": "Portrait of Franco Coppola"
       }
-    },
-    {
-      "id": "3695249e-943c-5335-bb61-094a3e31b869",
-      "slug": "2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis",
-      "url": "/kozelet/2026-11-05-adathiba-vagy-politikai-fegyver-lezsak-sandort-tettek-be-az-ugynoklis/",
-      "title": "Adathiba vagy politikai fegyver? Lezsák Sándort tették be az ügynöklistába",
-      "lead": "Az ügynökaktákat nyilvánosságra hozó adatbázis tévesen sorolta Lezsák Sándort a hálózati személyek közé, ami éles politikai vitát váltott ki. A Fidesz a honlap leállítását és Tarr Zoltán távozását követeli.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T15:22:15+01:00",
-      "published_at": "2026-11-05T15:22:15+01:00",
-      "reading_time_min": 2,
-      "hot_score": 16.17,
-      "tags": [
-        "ügynökakták",
-        "Lezsák Sándor",
-        "Fidesz",
-        "Magyar Péter",
-        "ÁBTL"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Visit_of_J%C3%A1nos_B%C3%B3ka%2C_Hungarian_Minister_for_European_Affairs%2C_to_the_EC_%28P-065121-00-02%29.jpg/1280px-Visit_of_J%C3%A1nos_B%C3%B3ka%2C_Hungarian_Minister_for_European_Affairs%2C_to_the_EC_%28P-065121-00-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Handshake between János Bóka, on the left, and Raffaele Fitto"
-      }
     }
   ],
-  "updated_at": "2026-11-13T16:25:44+01:00"
+  "updated_at": "2026-11-13T16:49:34+01:00"
 }
