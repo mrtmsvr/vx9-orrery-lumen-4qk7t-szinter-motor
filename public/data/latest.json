@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bba608f4-736e-52f3-8604-0f2d412c85c8",
+      "slug": "2026-11-13-terdre-kenyszerult-az-ugyeszseg-belso-vizsgalat-indul-az-aranykonvoj",
+      "url": "/kozelet/2026-11-13-terdre-kenyszerult-az-ugyeszseg-belso-vizsgalat-indul-az-aranykonvoj/",
+      "title": "Térdre kényszerült az ügyészség: belső vizsgálat indul az aranykonvoj miatt",
+      "lead": "Belső vizsgálatot rendelt el az aranykonvojügyben Fejes Péter legfőbb ügyész a Kossuth Rádió pénteki reggeli műsorában. Az ukrán szállítmányt érintő botrányban már több gyanúsítottat is kihallgattak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T09:22:35+01:00",
+      "published_at": "2026-11-13T09:22:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Fejes Péter",
+        "legfőbb ügyész",
+        "aranykonvoj",
+        "Hajdu János",
+        "ügyészség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja%2C_E._Feh%C3%A9r_P%C3%A1l_%C3%BAjs%C3%A1g%C3%ADr%C3%B3_%C3%A9s_Hajd%C3%BA_J%C3%A1nos_szerkeszt%C5%91._Fortepan_89148.jpg/1280px-Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja%2C_E._Feh%C3%A9r_P%C3%A1l_%C3%BAjs%C3%A1g%C3%ADr%C3%B3_%C3%A9s_Hajd%C3%BA_J%C3%A1nos_szerkeszt%C5%91._Fortepan_89148.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 743,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Magyar Rádió stúdiója, E. Fehér Pál újságíró és Hajdú János szerkesztő."
+      }
+    },
+    {
       "id": "fecb3bc5-aa0e-5908-bfa8-f57aa664cb7b",
       "slug": "2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya",
       "url": "/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
@@ -4404,37 +4434,7 @@
         "pos": "top",
         "alt": "Dr. Béla Merkely, Rector of Semmelweis University"
       }
-    },
-    {
-      "id": "f1dbe126-462a-5d23-82fb-adcb2e628643",
-      "slug": "2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol",
-      "url": "/kozelet/2026-11-05-masodfokon-is-elutasitottak-matolcsy-gyorgyot-racs-mogott-marad-a-vol/",
-      "title": "Másodfokon is elutasították Matolcsy Györgyöt: rács mögött marad a volt MNB-elnök",
-      "lead": "A Fővárosi Törvényszék másodfokon is helybenhagyta Matolcsy György, a Magyar Nemzeti Bank korábbi elnöke letartóztatásáról szóló döntést. A bíróság az eljárás jelenlegi szakaszában az iratok megsemmisítésének gyanúját és a bizonyítás befolyásolásának veszélyét ítélte meghatározónak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T11:39:30+01:00",
-      "published_at": "2026-11-05T11:39:30+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Matolcsy György",
-        "bíróság",
-        "letartóztatás",
-        "MNB",
-        "gazdasági bűncselekmény"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/F%C5%91v%C3%A1rosi_B%C3%ADr%C3%B3s%C3%A1g_%C3%A9p%C3%BClete_%2811361._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_3.jpg/1280px-F%C5%91v%C3%A1rosi_B%C3%ADr%C3%B3s%C3%A1g_%C3%A9p%C3%BClete_%2811361._sz%C3%A1m%C3%BA_m%C5%B1eml%C3%A9k%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Fővárosi Bíróság épülete (Budapest 5, Markó Károly utca 27.)"
-      }
     }
   ],
-  "updated_at": "2026-11-13T08:04:25+01:00"
+  "updated_at": "2026-11-13T09:22:36+01:00"
 }
