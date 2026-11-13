@@ -1,7 +1,127 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T08:03:10+01:00",
+  "updated_at": "2026-11-13T08:04:21+01:00",
   "articles": [
+    {
+      "id": "fecb3bc5-aa0e-5908-bfa8-f57aa664cb7b",
+      "slug": "2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Európai Bizottság",
+        "uniós források",
+        "helyreállítási alap",
+        "Magyarország",
+        "Brüsszel"
+      ],
+      "title": "Brüsszel megnyitja a pénzcsapot, közel 10 milliárd euró érkezhet Magyarországra",
+      "subtitle": null,
+      "lead": "Jövő héten teheti közzé az Európai Bizottság a Magyarországnak járó, csaknem 10 milliárd eurós uniós helyreállítási alap értékelését. A vizsgálat során eddig nem merültek fel jelentős akadályok, így a források egésze vagy döntő része felszabadulhat.",
+      "key_points": [
+        "Az Európai Bizottság november végéig fejezheti be a helyreállítási támogatások vizsgálatát.",
+        "A teljes keret csaknem 10 milliárd eurót tesz ki, amelynek kifizetését az év vége előtt teljesíteni kell.",
+        "A brüsszeli jóváhagyás után a tagállamoknak is rá kell bólintaniuk a döntésre az utalások megkezdése előtt.",
+        "Magyarország augusztus végén jelentette be, hogy teljesítette a támogatásokhoz előírt uniós feltételeket."
+      ],
+      "content": "Az Európai Bizottság illetékesei megerősítették, hogy a vizsgálat során nem azonosítottak jelentős akadályokat a magyar kérelem elbírálásakor, ami azt jelenti, hogy a 10 milliárd eurós keret egésze vagy annak közel egésze felszabadulhat. A koronavírus-járvány utáni helyreállítást szolgáló uniós alapból származó kifizetéseket még az idei év vége előtt teljesíteni kell, az engedélyezésre pedig november végéig van lehetőség. A Bizottság pozitív értékelése ugyanakkor csak az első lépcsőfok, a források folyósításához a tagállamok jóváhagyása is elengedhetetlen.\n\nA folyamat részeként a kormánynak 27 kiemelt feltételt, úgynevezett szupermérföldkövet, valamint több mint száz további követelményt kellett teljesítenie. A parlament a nyár folyamán több mint száz jogszabályt módosított, elsősorban az igazságszolgáltatás függetlenségének és a korrupció elleni fellépésnek az erősítése érdekében. Magyarország augusztus végén jelentette be hivatalosan, hogy teljesítette ezeket a követelményeket, amit követően a brüsszeli testület megkezdte a részletes ellenőrzést.\n\nAz augusztusban elfogadott módosított helyreállítási tervben 3,6 milliárd eurót, a teljes keret több mint egyharmadát tőkejuttatásokra irányítottak át.",
+      "content_format": "markdown",
+      "body": [
+        "Az Európai Bizottság illetékesei megerősítették, hogy a vizsgálat során nem azonosítottak jelentős akadályokat a magyar kérelem elbírálásakor, ami azt jelenti, hogy a 10 milliárd eurós keret egésze vagy annak közel egésze felszabadulhat. A koronavírus-járvány utáni helyreállítást szolgáló uniós alapból származó kifizetéseket még az idei év vége előtt teljesíteni kell, az engedélyezésre pedig november végéig van lehetőség. A Bizottság pozitív értékelése ugyanakkor csak az első lépcsőfok, a források folyósításához a tagállamok jóváhagyása is elengedhetetlen.",
+        "A folyamat részeként a kormánynak 27 kiemelt feltételt, úgynevezett szupermérföldkövet, valamint több mint száz további követelményt kellett teljesítenie. A parlament a nyár folyamán több mint száz jogszabályt módosított, elsősorban az igazságszolgáltatás függetlenségének és a korrupció elleni fellépésnek az erősítése érdekében. Magyarország augusztus végén jelentette be hivatalosan, hogy teljesítette ezeket a követelményeket, amit követően a brüsszeli testület megkezdte a részletes ellenőrzést.",
+        "Az augusztusban elfogadott módosított helyreállítási tervben 3,6 milliárd eurót, a teljes keret több mint egyharmadát tőkejuttatásokra irányítottak át."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 188,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg/1280px-2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1646,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bundesverteidigungsminsterin Ursula von der Leyen auf der Wahlparty der CDU zur Bundestagswahl 2017 im Konrad-Adenauer-Haus",
+        "credit": "Sandro Halank, Wikimedia Commons / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg",
+        "vision_score": 9.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/brusszel-unios-tamogatas-helyreallitas-kohezio-jogallam?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Itt a nagy hír Brüsszelből: jövő héten jóváhagyhatják a Magyarországnak járó 10 milliárd eurós uniós pénzt",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-11-13T08:03:15+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-13T08:04:21+01:00"
+      },
+      "hot_score": 5.69,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/11/brusszel-unios-tamogatas-helyreallitas-kohezio-jogallam?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        ]
+      },
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "url": "/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
+      "seo": {
+        "meta_title": "Brüsszel megnyitja a pénzcsapot, közel 10 milliárd euró érke",
+        "meta_description": "Jövő héten teheti közzé az Európai Bizottság a Magyarországnak járó, csaknem 10 milliárd eurós uniós helyreállítási alap értékelését. A vizsgálat során eddig ne",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg/1280px-2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "eaf2c33d-101a-587c-80a4-f18e6b6fc60e",
+        "0bafe88f-d517-5d43-9af2-8aa7862ee3c9",
+        "2955f5aa-fb67-59ea-8817-e4f31c83a0cb"
+      ],
+      "see_also": [
+        {
+          "title": "Négyszeresére ugrana a legkisebb nyugdíj, de van egy bökkenő Brüsszelben",
+          "url": "/penzvilag/2026-10-15-negyszeresere-ugrana-a-legkisebb-nyugdij-de-van-egy-bokkeno-brusszelb/",
+          "date": "2026-10-15"
+        },
+        {
+          "title": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
+          "url": "/penzvilag/2026-10-19-szalai-piroska-kiszamolta-hova-tunik-a-brusszelbol-felszabaditott-pen/",
+          "date": "2026-10-19"
+        },
+        {
+          "title": "Az Alkotmánybíróság asztalára került a Fidesz utolsó pillanatos Brüsszel-ellenes kérdéssora",
+          "url": "/kozelet/2026-10-16-az-alkotmanybirosag-asztalara-kerult-a-fidesz-utolso-pillanatos-bruss/",
+          "date": "2026-10-16"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "7061fc8185f264eb162e23161a772db91b5e2cf634c494071135aa1536b41a09",
+      "pipeline_run_id": "43379178469",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-13T08:04:21+01:00",
+      "updated_at": "2026-11-13T08:04:21+01:00",
+      "published_at": "2026-11-13T08:04:21+01:00",
+      "expires_at": null
+    },
     {
       "id": "84970d64-f3d6-5a94-ac52-8a5251263f42",
       "slug": "2026-11-13-alig-szaz-meterre-az-otthonatol-tamadt-ra-a-medve-a-szloven-ferfira",
@@ -74554,119 +74674,6 @@
         "minutes": 50
       },
       "removed_reason": "elavult"
-    },
-    {
-      "id": "c602aa6f-7343-5088-bf07-79859690d5f9",
-      "slug": "2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Moszkva",
-        "Kijev",
-        "dróntámadás",
-        "Orosz-ukrán háború",
-        "Zaporizzsja"
-      ],
-      "title": "Moszkvát vették célba az éjszakai dróncsapások",
-      "subtitle": null,
-      "lead": "Rekordközeli dróntámadás érte Moszkvát, miközben Kijevben egy hőerőművet és egy lakóházat is rakétatalálat ért. A fejlemények alapjaiban rajzolják át a háborús hétköznapokat.",
-      "key_points": [
-        "Több mint ötszáz drónt lőttek le a légvédelmi erők Moszkva térségében.",
-        "Kijevben a város legnagyobb hőerőművét és egy kilencemeletes lakóházat ért találat.",
-        "Zaporizzsjában az orosz erők offenzívája Huljajpole felől mérhető eredményeket hozott."
-      ],
-      "content": "Súlyos katonai események rázták meg az orosz és az ukrán fővárost: Moszkvát rekordközeli dróntámadás érte, a légvédelmi erők több mint 500 drónt semmisítettek meg a térségben. Ezzel párhuzamosan Kijevben is pusztítottak a csapások, ahol a város legnagyobb hőerőműve mellett egy kilencemeletes lakóházat is rakétatalálat ért.\n\nA frontvonalak alakulását tekintve a donyecki szakasz hetek óta változatlan képet mutat, a déli fronton azonban történt elmozdulás. Zaporizzsjában az orosz csapatok Huljajpole felől indított offenzívája kézzelfogható katonai eredményeket hozott.\n\nA diplomáciai színtéren is jelentős események zajlanak, miután kiszivárgott egy új, európai-amerikai közvetítéssel tervezett, négypontos béketerv az ukrajnai konfliktus lezárására. A Kreml első reakciója kifejezetten hűvös volt a javaslattal kapcsolatban, ugyanakkor kedvezően fogadták az amerikaiakkal megkötött dízelalkut, amely közvetett módon az állami bevételek növelését és a hadiipar finanszírozását is segítheti.\n\nVolodimir Zelenszkij ukrán elnök szerdai nyilatkozatában úgy fogalmazott, hogy fájdalmas számára a washingtoni vezetés jelenlegi álláspontja a konfliktusban. Az ukrán elnöki iroda kommunikációs tanácsadója, Dmitro Litvin újságíróknak arról is beszélt, hogy az ország energetikai infrastruktúrája szempontjából elsősorban az erőművek elleni támadások leállítása lenne a legfontosabb.",
-      "content_format": "markdown",
-      "body": [
-        "Súlyos katonai események rázták meg az orosz és az ukrán fővárost: Moszkvát rekordközeli dróntámadás érte, a légvédelmi erők több mint 500 drónt semmisítettek meg a térségben. Ezzel párhuzamosan Kijevben is pusztítottak a csapások, ahol a város legnagyobb hőerőműve mellett egy kilencemeletes lakóházat is rakétatalálat ért.",
-        "A frontvonalak alakulását tekintve a donyecki szakasz hetek óta változatlan képet mutat, a déli fronton azonban történt elmozdulás. Zaporizzsjában az orosz csapatok Huljajpole felől indított offenzívája kézzelfogható katonai eredményeket hozott.",
-        "A diplomáciai színtéren is jelentős események zajlanak, miután kiszivárgott egy új, európai-amerikai közvetítéssel tervezett, négypontos béketerv az ukrajnai konfliktus lezárására. A Kreml első reakciója kifejezetten hűvös volt a javaslattal kapcsolatban, ugyanakkor kedvezően fogadták az amerikaiakkal megkötött dízelalkut, amely közvetett módon az állami bevételek növelését és a hadiipar finanszírozását is segítheti.",
-        "Volodimir Zelenszkij ukrán elnök szerdai nyilatkozatában úgy fogalmazott, hogy fájdalmas számára a washingtoni vezetés jelenlegi álláspontja a konfliktusban. Az ukrán elnöki iroda kommunikációs tanácsadója, Dmitro Litvin újságíróknak arról is beszélt, hogy az ország energetikai infrastruktúrája szempontjából elsősorban az erőművek elleni támadások leállítása lenne a legfontosabb."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 193,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/b4edd46eb6ab43b0.jpg",
-        "width": 1920,
-        "height": 1200,
-        "kind": "photo",
-        "alt": "plane, heron, isolated, flight, aviation, flying, aircraft, army",
-        "credit": "Janson_G / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/plane-heron-isolated-flight-2775946/",
-        "vision_score": 8.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/b4edd46eb6ab43b0.jpg",
-        "orig_url": "https://pixabay.com/get/g247c524f7c3ee47f3e50396d2b36abe7e7161a646f8506b4636c58e67746499d13932f9982fea5c4091d618fefabb6fc5cf4fb1ae984ef2292c7a60869d74e5c_1280.png"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/global/20261014/sokkolo-tamadas-erte-moszkvat-az-oroszok-hallani-sem-akarnak-a-bekerol-hireink-az-ukrajnai-haborurol-szerdan-869480",
-          "title": "Sokkoló támadás érte Moszkvát, az oroszok hallani sem akarnak a békéről - Híreink az ukrajnai háborúról szerdán",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-14T19:44:38+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Fájdalmas, hogy Donald Trump amerikai elnök a másik oldalt választotta Oroszország és Ukrajna konfliktusában",
-        "who": "Volodimir Zelenszkij ukrán államfő",
-        "after": 2
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-14T20:51:54+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/global/20261014/sokkolo-tamadas-erte-moszkvat-az-oroszok-hallani-sem-akarnak-a-bekerol-hireink-az-ukrajnai-haborurol-szerdan-869480"
-        ]
-      },
-      "date": "2026-10-14",
-      "date_label": "október 14.",
-      "url": "/vilag/2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok/",
-      "seo": {
-        "meta_title": "Moszkvát vették célba az éjszakai dróncsapások",
-        "meta_description": "Rekordközeli dróntámadás érte Moszkvát, miközben Kijevben egy hőerőművet és egy lakóházat is rakétatalálat ért. A fejlemények alapjaiban rajzolják át a háborús ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-14-moszkvat-vettek-celba-az-ejszakai-droncsapasok/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/b4edd46eb6ab43b0.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "84e4fda6-e515-5fcd-b16c-2fd7cca0bdfc"
-      ],
-      "see_also": [
-        {
-          "title": "Az első napon összeomlott a tűzszünet: nagyszabású dróntámadás érte Moszkvát",
-          "url": "/vilag/2026-10-13-az-elso-napon-osszeomlott-a-tuzszunet-nagyszabasu-drontamadas-erte-mo/",
-          "date": "2026-10-13"
-        }
-      ],
-      "thread_id": "e9cf2951-d9e7-5877-99cd-af8b9b997280",
-      "dedupe_hash": "0c2fc4db603eed19a2d65d6718597f8e5e8500d70d1c10e4246fd113de471ea0",
-      "pipeline_run_id": "38605882028",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T20:51:54+02:00",
-      "updated_at": "2026-10-14T20:51:54+02:00",
-      "published_at": "2026-10-14T20:51:54+02:00",
-      "expires_at": null
     }
   ]
 }

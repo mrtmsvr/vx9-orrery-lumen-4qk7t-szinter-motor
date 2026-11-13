@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fecb3bc5-aa0e-5908-bfa8-f57aa664cb7b",
+      "slug": "2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya",
+      "url": "/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
+      "title": "Brüsszel megnyitja a pénzcsapot, közel 10 milliárd euró érkezhet Magyarországra",
+      "lead": "Jövő héten teheti közzé az Európai Bizottság a Magyarországnak járó, csaknem 10 milliárd eurós uniós helyreállítási alap értékelését. A vizsgálat során eddig nem merültek fel jelentős akadályok, így a források egésze vagy döntő része felszabadulhat.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T08:04:21+01:00",
+      "published_at": "2026-11-13T08:04:21+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5.69,
+      "tags": [
+        "Európai Bizottság",
+        "uniós források",
+        "helyreállítási alap",
+        "Magyarország",
+        "Brüsszel"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg/1280px-2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1646,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bundesverteidigungsminsterin Ursula von der Leyen auf der Wahlparty der CDU zur Bundestagswahl 2017 im Konrad-Adenauer-Haus"
+      }
+    },
+    {
       "id": "84970d64-f3d6-5a94-ac52-8a5251263f42",
       "slug": "2026-11-13-alig-szaz-meterre-az-otthonatol-tamadt-ra-a-medve-a-szloven-ferfira",
       "url": "/vilag/2026-11-13-alig-szaz-meterre-az-otthonatol-tamadt-ra-a-medve-a-szloven-ferfira/",
@@ -4404,37 +4434,7 @@
         "pos": "center",
         "alt": "Fővárosi Bíróság épülete (Budapest 5, Markó Károly utca 27.)"
       }
-    },
-    {
-      "id": "fb161e28-3afb-5e6d-97ac-d63e1f41ece8",
-      "slug": "2026-11-05-zelenszkij-vasbeton-garanciakat-kovetel-trump-embereitol-az-abu-dzabi",
-      "url": "/vilag/2026-11-05-zelenszkij-vasbeton-garanciakat-kovetel-trump-embereitol-az-abu-dzabi/",
-      "title": "Zelenszkij „vasbeton” garanciákat követel Trump embereitől az abu-dzabi csúcs előtt",
-      "lead": "Volodimir Zelenszkij ukrán elnök telefonon egyeztetett Donald Trump különmegbízottaival az Abu-Dzabiba tervezett háromoldalú tárgyalások előkészítéséről. A megbeszélésen a háború lezárása mellett a légvédelmi rendszerekről és a biztonsági garanciákról is szó esett.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T11:05:39+01:00",
-      "published_at": "2026-11-05T11:05:39+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.24,
-      "tags": [
-        "Volodimir Zelenszkij",
-        "Steve Witkoff",
-        "Abu-Dzabi",
-        "orosz-ukrán háború",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1602,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "White House staff pose for photos in the Rose Garden, Tuesday, May 6, 2025. (Official White House Photo by Daniel Torok)"
-      }
     }
   ],
-  "updated_at": "2026-11-13T08:03:13+01:00"
+  "updated_at": "2026-11-13T08:04:25+01:00"
 }
