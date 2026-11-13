@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "331fddc4-1760-5845-b4a3-a902d23d1c7c",
+      "slug": "2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb",
+      "url": "/kozelet/2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb/",
+      "title": "Kilencszázmilliárdos tétovázás: hol a gazdasági kár az Eximbank-ügyekben?",
+      "lead": "Több mint ezerkétszázmilliárd forintnyi, vitatott körülmények között kihelyezett hitel miatt tett feljelentést a Gazdasági és Energetikai Minisztérium, ám az Eximbank új vezetése szerint a pénzintézet stabilitása nem rendült meg. A látványos jogi lépések mögött egyelőre nehezen számszerűsíthető gazdasági károk sorakoznak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T19:07:09+01:00",
+      "published_at": "2026-11-13T19:07:09+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5.98,
+      "tags": [
+        "Eximbank",
+        "Gazdasági és Energetikai Minisztérium",
+        "Kapitány István",
+        "feljelentés",
+        "hitel"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapešť"
+      }
+    },
+    {
       "id": "8cec6fdd-6a16-5a62-8c08-91ee4b090113",
       "slug": "2026-11-13-pozsonyban-tarol-a-wizz-air-a-becsi-arak-elol-menekulve",
       "url": "/penzvilag/2026-11-13-pozsonyban-tarol-a-wizz-air-a-becsi-arak-elol-menekulve/",
@@ -4408,36 +4438,7 @@
         "pos": "center",
         "alt": "Flag of Alaska"
       }
-    },
-    {
-      "id": "c122f9da-e032-58c2-b051-5b3f773b5090",
-      "slug": "2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban",
-      "url": "/kozelet/2026-11-05-technikai-hiba-keverhette-ugynokke-lezsak-sandort-az-iratokban/",
-      "title": "Technikai hiba keverhette ügynökké Lezsák Sándort az iratokban",
-      "lead": "Technikai hiba miatt szerepelt tévesen az állambiztonsági adatbázisban Lezsák Sándor országgyűlési képviselő, akit a megfigyelt helyett gyanú szerint hálózati személyként tüntettek fel. Az eset rávilágít azokra a szövevényes és gyakran átláthatatlan folyamatokra, amelyek a szocialista állambiztonsági iratok kezelését jellemezték.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T19:43:54+01:00",
-      "published_at": "2026-11-05T19:43:54+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Lezsák Sándor",
-        "ügynökakták",
-        "állambiztonság",
-        "történelem"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lezs%C3%A1k_S%C3%A1ndor_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1558,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Sándor Lezsák, Hungarian poet, teacher, politician, and founder of the Hungarian Democratic Forum. Since 2006, he has been deputy Speaker of the Parliament."
-      }
     }
   ],
-  "updated_at": "2026-11-13T19:04:55+01:00"
+  "updated_at": "2026-11-13T19:07:11+01:00"
 }
