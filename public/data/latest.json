@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "83f9bcfb-c912-5ef0-83ae-d059a1b7018a",
+      "slug": "2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben",
+      "url": "/kozelet/2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben/",
+      "title": "Fák dőltek ki, aluljárók áradtak el a csütörtök óta tartó esőben",
+      "lead": "Országszerte súlyos fennakadásokat okozott a csütörtök óta tartó intenzív esőzés és az erős szél. Az Országos Katasztrófavédelmi Főigazgatóság jelentése szerint aluljárókban rekedt autósokhoz, kidőlt fákhoz és víz alá került épületekhez riasztották a tűzoltókat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T12:49:04+01:00",
+      "published_at": "2026-11-13T12:49:04+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.93,
+      "tags": [
+        "időjárás",
+        "katasztrófavédelem",
+        "esőzés",
+        "vihar",
+        "közlekedés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Flooded_street_in_town.jpg/1280px-Flooded_street_in_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 801,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A flooded street after a sudden summer rain in a town in Greece."
+      }
+    },
+    {
       "id": "0ff70f3a-50f8-5fa8-b104-443389818670",
       "slug": "2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras",
       "url": "/kozelet/2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras/",
@@ -4406,36 +4436,7 @@
         "pos": "center",
         "alt": "The Seal of the United States Senate, the upper house of the United States Congress. See also the Seal of the United States House of Representatives."
       }
-    },
-    {
-      "id": "17829bb0-9c86-50eb-976b-3a22866dc28a",
-      "slug": "2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott",
-      "url": "/kozelet/2026-11-05-felcsut-erdemelte-ki-a-magyar-tokejovedelmi-tront-milliardok-aramlott/",
-      "title": "Felcsút érdemelte ki a magyar tőkejövedelmi trónt: milliárdok áramlottak néhány nagy befektető falujába",
-      "lead": "Tavaly összesen több mint 3000 milliárd forint tőkejövedelem keletkezett az országban, amelyből az egy lakosra jutó nettó érték Felcsúton volt a legmagasabb. Az adat a megtakarításokból és befektetésekből származó bevételek koncentrációjára mutat rá.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T12:50:03+01:00",
-      "published_at": "2026-11-05T12:50:03+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5.37,
-      "tags": [
-        "gazdaság",
-        "statisztika",
-        "tőkejövedelem",
-        "Felcsút"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Felcs%C3%BAt_l%C3%A9gi_fot%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Légi fotó Felcsútról"
-      }
     }
   ],
-  "updated_at": "2026-11-13T11:58:19+01:00"
+  "updated_at": "2026-11-13T12:49:07+01:00"
 }
