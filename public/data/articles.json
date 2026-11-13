@@ -1,7 +1,144 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:53:15+01:00",
+  "updated_at": "2026-11-13T08:01:42+01:00",
   "articles": [
+    {
+      "id": "d7675f83-c18a-554c-a150-3d4174cfad4e",
+      "slug": "2026-11-13-tavozik-az-nvidia-vezere-a-kinai-szal-derekba-torte-huang-karrierjet",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "kémbotrány",
+        "mesterséges intelligencia",
+        "tőzsde"
+      ],
+      "title": "Távozik az Nvidia vezére: a kínai szál derékba törte Huang karrierjét",
+      "subtitle": null,
+      "lead": "Lemondott tisztségéről Jensen Huang, az Nvidia elnök-vezérigazgatója, miután egy feltételezett kínai hírszerzővel folytatott kapcsolata nemzetbiztonsági aggályokat vetett fel. Az ügy nemcsak a chipgyártó óriáscég stabilitását rendítette meg, de Washingtonban is komoly politikai hullámokat kavart.",
+      "key_points": [
+        "Jensen Huang azonnali hatállyal lemondott elnök-vezérigazgatói posztjáról és igazgatótanácsi tagságáról.",
+        "A távozást egy feltételezett kínai kémmel való viszony körüli vizsgálat előzte meg.",
+        "Az Nvidia pénzügyi igazgatója, Colette Kress vette át ideiglenesen a vállalat irányítását.",
+        "Szenátusi és képviselőházi bizottságok vizsgálják az ügyet, valamint az amerikai chip-export korlátozásainak betartását."
+      ],
+      "content": "Jensen Huang távozása az 1993-ban alapított Nvidia éléről több mint egyszerű vezetőváltás; egy olyan korszak végét jelzi, amelyben a cég a mesterséges intelligenciára épülő chipgyártás globális meghatározójává vált. A döntést követően a vállalat igazgatótanácsa közölte, hogy a vezetést átmenetileg Colette Kress pénzügyi igazgató veszi át, miközben gőzerővel zajlik az utód keresése.\n\nA vádak szerint a vezérigazgató szoros kapcsolatot ápolt egy olyan üzletasszonnyal, akit a hatóságok kínai hírszerzőként azonosítottak. A helyzetet tovább bonyolította, hogy a The New York Times értesülései szerint Huang a cégen belüli alelnökével, Kimberly Powell-lel is viszonyt folytatott. A technológiai óriás ugyan igyekezett hangsúlyozni, hogy a történtek miatt nem sérültek vállalati titkok, a politikai következmények elkerülhetetlenek voltak. Huang ugyanis az elmúlt években Donald Trump elnök egyik fontos tanácsadója volt az MI-technológiák fejlesztésében, így egy esetleges kínai ügynökkel való kapcsolata közvetlen nemzetbiztonsági kockázatot jelentett az amerikai kormányzat számára.\n\nKözben Washingtonban is beindult a politikai gépezet: a szenátus bankügyi bizottsága december 3-ra idézte be a volt vezérigazgatót, de a képviselőház több testülete is meghallgatást kezdeményezett zárt ajtók mögött. A vizsgálatok nemcsak Huang magánéletére, hanem az Nvidia és a kereskedelmi minisztérium közötti kapcsolatra is kiterjednek. Kérdésessé vált, hogy a vállalat korábban milyen módon tudta kijátszani a Kínába irányuló nagy teljesítményű chipek exportkorlátozásait, különösen a Megaspeed nevű vállalaton keresztül, amelynek ügyeiben már korábban is indult hatósági vizsgálat.\n\nBár Kína a vádakat rágalomhadjáratnak minősítette, a helyzetet tovább árnyalja a nemzetközi pénzügyi környezet változása. A következő hetekben az Nvidia vezetése és az amerikai törvényhozók közötti meghallgatások döntenek arról, mennyire volt valós a nemzetbiztonsági kockázat, és sikerül-e a vállalatnak helyreállítania a befektetők bizalmát a piaci viharok közepette.",
+      "content_format": "markdown",
+      "body": [
+        "Jensen Huang távozása az 1993-ban alapított Nvidia éléről több mint egyszerű vezetőváltás; egy olyan korszak végét jelzi, amelyben a cég a mesterséges intelligenciára épülő chipgyártás globális meghatározójává vált. A döntést követően a vállalat igazgatótanácsa közölte, hogy a vezetést átmenetileg Colette Kress pénzügyi igazgató veszi át, miközben gőzerővel zajlik az utód keresése.",
+        "A vádak szerint a vezérigazgató szoros kapcsolatot ápolt egy olyan üzletasszonnyal, akit a hatóságok kínai hírszerzőként azonosítottak. A helyzetet tovább bonyolította, hogy a The New York Times értesülései szerint Huang a cégen belüli alelnökével, Kimberly Powell-lel is viszonyt folytatott. A technológiai óriás ugyan igyekezett hangsúlyozni, hogy a történtek miatt nem sérültek vállalati titkok, a politikai következmények elkerülhetetlenek voltak. Huang ugyanis az elmúlt években Donald Trump elnök egyik fontos tanácsadója volt az MI-technológiák fejlesztésében, így egy esetleges kínai ügynökkel való kapcsolata közvetlen nemzetbiztonsági kockázatot jelentett az amerikai kormányzat számára.",
+        "Közben Washingtonban is beindult a politikai gépezet: a szenátus bankügyi bizottsága december 3-ra idézte be a volt vezérigazgatót, de a képviselőház több testülete is meghallgatást kezdeményezett zárt ajtók mögött. A vizsgálatok nemcsak Huang magánéletére, hanem az Nvidia és a kereskedelmi minisztérium közötti kapcsolatra is kiterjednek. Kérdésessé vált, hogy a vállalat korábban milyen módon tudta kijátszani a Kínába irányuló nagy teljesítményű chipek exportkorlátozásait, különösen a Megaspeed nevű vállalaton keresztül, amelynek ügyeiben már korábban is indult hatósági vizsgálat.",
+        "Bár Kína a vádakat rágalomhadjáratnak minősítette, a helyzetet tovább árnyalja a nemzetközi pénzügyi környezet változása. A következő hetekben az Nvidia vezetése és az amerikai törvényhozók közötti meghallgatások döntenek arról, mennyire volt valós a nemzetbiztonsági kockázat, és sikerül-e a vállalatnak helyreállítania a befektetők bizalmát a piaci viharok közepette."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 302,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1598,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Jensen Huang, founder and CEO of Nvidia, during a fireside chat in Stanford University's CS 153 course on April 30, 2026.",
+        "credit": "Anderseidesvik / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg",
+        "exact": true,
+        "entity": "Jensen Huang",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/kulfold/2026/11/12/jensen-huang-nvidia-lemondas-vezerigazgato-botrany-kina-kemkedes/",
+          "title": "Lemondott az Nvidia vezérigazgatója a kínai kémbotrány után",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-13T07:56:08+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/12/lemondott-az-nvidia-elso-embere-a-feltetelezett-kinai-kemmel-folytatott-viszonya-miatt",
+          "title": "Lemondott az Nvidia első embere – a feltételezett kínai kémmel folytatott viszonya miatt",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-13T07:56:08+01:00"
+        },
+        {
+          "url": "https://444.hu/2026/11/13/szenatusi-es-kepviselohazi-bizottsagok-is-meghallgatnak-a-kemno-botranyba-belebukott-jensen-huangot-az-nvidia-mar-csak-volt-vezeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Szenátusi és képviselőházi bizottságok is meghallgatnák a kémnő-botrányba belebukott Jensen Huangot, az Nvidia (már csak volt) vezérét",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-13T07:56:08+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/12/varga-mihaly-egyre-fontosabba-valik-a-kinai-fizetoeszkoz",
+          "title": "Varga Mihály: egyre fontosabbá válik a kínai fizetőeszköz",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-13T07:56:08+01:00"
+        }
+      ],
+      "quote": {
+        "text": "A közelmúltban megjelent beszámolók komoly aggodalmakat vetnek fel nemzetbiztonságunkkal és az érzékeny amerikai technológiák védelmével kapcsolatban. Az amerikai emberek válaszokat érdemelnek.",
+        "who": "Tim Scott, republikánus szenátor",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-13T08:01:42+01:00"
+      },
+      "hot_score": 9.21,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/kulfold/2026/11/12/jensen-huang-nvidia-lemondas-vezerigazgato-botrany-kina-kemkedes/",
+          "https://infostart.hu/kulfold/2026/11/12/lemondott-az-nvidia-elso-embere-a-feltetelezett-kinai-kemmel-folytatott-viszonya-miatt"
+        ]
+      },
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "url": "/tech/2026-11-13-tavozik-az-nvidia-vezere-a-kinai-szal-derekba-torte-huang-karrierjet/",
+      "seo": {
+        "meta_title": "Távozik az Nvidia vezére: a kínai szál derékba törte Huang k",
+        "meta_description": "Lemondott tisztségéről Jensen Huang, az Nvidia elnök-vezérigazgatója, miután egy feltételezett kínai hírszerzővel folytatott kapcsolata nemzetbiztonsági aggályo",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-11-13-tavozik-az-nvidia-vezere-a-kinai-szal-derekba-torte-huang-karrierjet/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "9b00ca87-2163-56d4-8c84-ef42abc93701"
+      ],
+      "see_also": [
+        {
+          "title": "Kínai hírszerzési művelet célpontja lehetett az Nvidia vezérigazgatója",
+          "url": "/vilag/2026-11-09-kinai-hirszerzesi-muvelet-celpontja-lehetett-az-nvidia-vezerigazgatoj/",
+          "date": "2026-11-09"
+        }
+      ],
+      "thread_id": "9b00ca87-2163-56d4-8c84-ef42abc93701",
+      "dedupe_hash": "91cf57e8b0775f9a56c16fa35e8d511391837285110966cd2c154400d398ad31",
+      "pipeline_run_id": "43379178469",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-13T08:01:42+01:00",
+      "updated_at": "2026-11-13T08:01:42+01:00",
+      "published_at": "2026-11-13T08:01:42+01:00",
+      "expires_at": null
+    },
     {
       "id": "e0d2cd04-3ed7-53a7-ab3c-7aa9b88a7cbf",
       "slug": "2026-11-13-negyedora-dublinban-karpataljai-csucsot-keszit-elo-magyar-peter-es-vo",
@@ -74542,110 +74679,6 @@
         "https://upload.wikimedia.org/wikipedia/commons/9/97/David_Sharon_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Artificial_Intelligence_Scale.png/1280px-Artificial_Intelligence_Scale.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
       ]
-    },
-    {
-      "id": "c9a9a019-9acd-5cc7-8c7a-236c82c77674",
-      "slug": "2026-10-14-otszor-ment-ferjhez-par-honap-alatt-a-nyerogepekben-kotott-ki-a-vagyo",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "csalás",
-        "bűnügy",
-        "szerencsejáték",
-        "Las Vegas",
-        "bíróság"
-      ],
-      "title": "Férjek sorát szédítette és kaszinókban verte el a milliókat egy nő",
-      "subtitle": null,
-      "lead": "Próbaidőre és súlyos anyagi kártérítésre ítéltek egy 34 éves nőt, aki rövid idő alatt öt különböző férfihoz ment feleségül, miközben a tőlük csalással szerzett pénzt Las Vegas-i kaszinókban költötte el. A vádlott hamis személyazonossággal és megható történetekkel hálózta be áldozatait.",
-      "key_points": [
-        "Jiaying Chen néhány hónap leforgása alatt öt különböző férfinak mondott igent, miközben összesen 14 házasságkötési kérelmet nyújtott be.",
-        "A bíróság börtönbüntetésre, elektronikus nyomkövető viselésére és mintegy 100 millió forintos kártérítés megfizetésére kötelezte."
-      ],
-      "content": "Házassági csalássorozat miatt ítéltek el egy 34 éves nőt, akit az év elején nyilvánosságra kerülő ügyei óta valóságos sorozatbigámistaként tartanak számon a hatóságok. A Clark megyei hivatal adatai szerint Jiaying Chen összesen 14 házasságkötési kérelmet nyújtott be, amelyek nyomán hét hivatalos anyakönyvi kivonatot is kiállítottak, miközben néhány hónap alatt öt férfihoz ment feleségül.\n\nA közösségi oldalakon megismert áldozatokat rövid ismeretség után vezette félre. Olyan szívszorító történeteket adott elő, amelyek szerint sürgős anyagi támogatásra van szüksége egy Kínában súlyos betegséggel küzdő hozzátartozója megmentéséhez. A gyanútlan férjek jóhiszeműen adták át a pénzüket, nem sejtve, hogy a források valójában Las Vegas-i kaszinókban kötnek ki.\n\nA nyomozók adatai alapján a nő Las Vegas-i kaszinókban, többek között a Wynn-ben, több mint 300 ezer dollárt, vagyis nagyjából 110 millió forintot veszített el a nyerőgépeken és a játékasztaloknál. A csalássorozat során mindvégig hamis személyazonosító okmányokat és álneveket használt, hogy elleplezze valódi kilétét.\n\nOktóber 7-én a bíróság lezárta az ügyet, miután a vádlott júliusban többes házasság és megtévesztéssel elkövetett pénzszerzés bűntettében is bűnösnek vallotta magát. Crystal Eller kerületi bíró kiemelte, hogy a bűncselekmények hátterében súlyos szerencsejáték-függőség állt, amelynek kezelése elengedhetetlen a visszaesés megelőzéséhez.\n\nAz ítélet értelmében a vádlott próbaidős büntetésének első évét a helyi büntetés-végrehajtási intézetben tölti le, amibe beszámítják a már letöltött 125 napos előzetes letartóztatást is. Ezenfelül kötelezték elektronikus nyomkövető viselésére, önsegítő csoportok látogatására, valamint 280 ezer dolláros, azaz mintegy 100 millió forintos kártérítés megfizetésére.",
-      "content_format": "markdown",
-      "body": [
-        "Házassági csalássorozat miatt ítéltek el egy 34 éves nőt, akit az év elején nyilvánosságra kerülő ügyei óta valóságos sorozatbigámistaként tartanak számon a hatóságok. A Clark megyei hivatal adatai szerint Jiaying Chen összesen 14 házasságkötési kérelmet nyújtott be, amelyek nyomán hét hivatalos anyakönyvi kivonatot is kiállítottak, miközben néhány hónap alatt öt férfihoz ment feleségül.",
-        "A közösségi oldalakon megismert áldozatokat rövid ismeretség után vezette félre. Olyan szívszorító történeteket adott elő, amelyek szerint sürgős anyagi támogatásra van szüksége egy Kínában súlyos betegséggel küzdő hozzátartozója megmentéséhez. A gyanútlan férjek jóhiszeműen adták át a pénzüket, nem sejtve, hogy a források valójában Las Vegas-i kaszinókban kötnek ki.",
-        "A nyomozók adatai alapján a nő Las Vegas-i kaszinókban, többek között a Wynn-ben, több mint 300 ezer dollárt, vagyis nagyjából 110 millió forintot veszített el a nyerőgépeken és a játékasztaloknál. A csalássorozat során mindvégig hamis személyazonosító okmányokat és álneveket használt, hogy elleplezze valódi kilétét.",
-        "Október 7-én a bíróság lezárta az ügyet, miután a vádlott júliusban többes házasság és megtévesztéssel elkövetett pénzszerzés bűntettében is bűnösnek vallotta magát. Crystal Eller kerületi bíró kiemelte, hogy a bűncselekmények hátterében súlyos szerencsejáték-függőség állt, amelynek kezelése elengedhetetlen a visszaesés megelőzéséhez.",
-        "Az ítélet értelmében a vádlott próbaidős büntetésének első évét a helyi büntetés-végrehajtási intézetben tölti le, amibe beszámítják a már letöltött 125 napos előzetes letartóztatást is. Ezenfelül kötelezték elektronikus nyomkövető viselésére, önsegítő csoportok látogatására, valamint 280 ezer dolláros, azaz mintegy 100 millió forintos kártérítés megfizetésére."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 276,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg/1280px-Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 826,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "“The Strip” (part of the Las Vegas Boulevard) in Las Vegas, Nevada, USAThe Las Vegas Strip is the most famous section of Las Vegas Boulevard in Las Vegas. It stretches for around 6.8 kilometers south",
-        "credit": "Dietmar Rabich / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Strip_--_2012_--_6232.jpg",
-        "vision_score": 8.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://borsonline.origo.hu/igaz-tortenetek/2026/10/hazassagi-csalas-szerencsejatek-fuggoseg-kaszino",
-          "title": "„Ő a szökött menyasszony megtestesítője” – sorra ment férjhez a 34 éves nő, elképesztő, mire költötte a kicsalt milliókat",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-14T20:10:40+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Ha nem kap megfelelő kezelést, semmi esély arra, hogy ne kövesse el újra ugyanezt",
-        "who": "Crystal Eller kerületi bíró",
-        "after": 3
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-14T20:11:58+02:00"
-      },
-      "hot_score": 6.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://borsonline.origo.hu/igaz-tortenetek/2026/10/hazassagi-csalas-szerencsejatek-fuggoseg-kaszino"
-        ]
-      },
-      "date": "2026-10-14",
-      "date_label": "október 14.",
-      "url": "/kozelet/2026-10-14-otszor-ment-ferjhez-par-honap-alatt-a-nyerogepekben-kotott-ki-a-vagyo/",
-      "seo": {
-        "meta_title": "Férjek sorát szédítette és kaszinókban verte el a milliókat ",
-        "meta_description": "Próbaidőre és súlyos anyagi kártérítésre ítéltek egy 34 éves nőt, aki rövid idő alatt öt különböző férfihoz ment feleségül, miközben a tőlük csalással szerzett ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-14-otszor-ment-ferjhez-par-honap-alatt-a-nyerogepekben-kotott-ki-a-vagyo/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg/1280px-Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6232.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "6f5d2632824cd8553c0e0dc940f6eb15a7fd0b9e225c66027fec55a76359edeb",
-      "pipeline_run_id": "38610831409",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-14T20:11:58+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-14T20:11:58+02:00",
-      "expires_at": null
     }
   ]
 }
