@@ -1,35 +1,35 @@
 {
-  "id": "e878939ea0",
-  "date": "2026-11-11",
-  "status": "approved",
-  "article_url": "/kozelet/2026-11-10-november-vegeig-kezbesitik-az-50-ezres-iskolakezdesi-tamogatast/",
-  "article_title": "November végéig kézbesítik az 50 ezres iskolakezdési támogatást",
+  "id": "c84a950850",
+  "date": "2026-11-13",
+  "status": "pending",
+  "article_url": "/kozelet/2026-11-12-atirjak-a-szivhangrendeletet-nem-kell-tobbe-akarata-ellenere-hallgatn/",
+  "article_title": "Átírják a szívhangrendeletet: nem kell többé akarata ellenére hallgatni",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint hatékonyabb lenne a támogatást utalvány helyett közvetlenül készpénzben folyósítani?",
+      "question": "Ön szerint helyes döntés a szívhangrendelet módosítása?",
       "options": [
-        "Igen, jobb lenne a készpénz",
-        "Nem, jobb a jelenlegi formája",
+        "Igen, helyes a módosítás",
+        "Nem, meg kellett volna tartani",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesnek tartja, hogy az iskolakezdési támogatást minden jogosult alanyi jogon kapja meg?",
+      "question": "Kell-e kötelezővé tenni a magzati szzívhang meghallgatását?",
       "options": [
-        "Igen, mindenkinek alanyi jogon jár",
-        "Nem, csak a rászorulóknak adják",
+        "Nem szükséges kötelezővé tenni",
+        "Igen, mindenképpen kötelező legyen",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Elegendő összegnek tartja az ötvenezer forintos iskolakezdési támogatást a mai árak mellett?",
+      "question": "Hogyan ítéli meg a terhességmegszakítás előtti tájékoztatást?",
       "options": [
-        "Igen, teljesen elegendő",
-        "Nem, kevés a mai árakhoz",
+        "Elegendő a szakmai konzultáció",
+        "Szigorúbb szabályozás indokolt",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 10164
+  "msg_id": 10247
 }
