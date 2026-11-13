@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "ce716798-01ee-53b4-ba4d-2f7e11f14433",
+      "slug": "2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok",
+      "url": "/kozelet/2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok/",
+      "title": "Erdőbe ásott milliárdok: Seszták Miklós ügyében lecsaptak a nyomozók",
+      "lead": "Többmilliárdnyi készpénzt, eurót és dollárt találtak a nyomozók erdőkbe ásva, valamint raktárakban és széfekben elrejtve a dr. Seszták Miklós országgyűlési képviselő ellen folyó büntetőeljárásban. A lefoglalt összeget a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal munkatársai azonnal befizették a Magyar Államkincstárba.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T20:58:46+01:00",
+      "published_at": "2026-11-13T20:58:46+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Seszták Miklós",
+        "NVVH",
+        "korrupció",
+        "vagyonvisszaszerzés",
+        "ügyészség"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-825eafd7d8.jpg",
+        "kind": "photo",
+        "alt": "Erdőbe ásott milliárdok: Seszták Miklós ügyében lecsaptak a nyomozók",
+        "cover": true
+      }
+    },
+    {
       "id": "4878ce85-0e7f-5793-8dfc-4a09bd6a3b37",
       "slug": "2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag",
       "url": "/kozelet/2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag/",
@@ -4411,35 +4439,7 @@
         "pos": "top",
         "alt": "1014 Budapest, Színház utca 5."
       }
-    },
-    {
-      "id": "4dbc771a-58ef-505b-bc46-bff51a109832",
-      "slug": "2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a",
-      "url": "/kozelet/2026-11-05-matolcsy-gyorgyot-mar-nem-latjak-szivesen-kozarmislenyben-elvettek-a/",
-      "title": "Matolcsy Györgyöt már nem látják szívesen Kozármislenyben: elvették a díszpolgárságát",
-      "lead": "Kozármisleny képviselő-testülete október végén egyhangúlag visszavonta Matolcsy György volt jegybankelnök díszpolgári címét. A döntés az érintettet érintő hatósági eljárások közepette született meg.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T20:12:20+01:00",
-      "published_at": "2026-11-05T20:12:20+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Matolcsy György",
-        "Kozármisleny",
-        "díszpolgár",
-        "önkormányzat",
-        "bűnügy"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-27fbd61966.jpg",
-        "kind": "photo",
-        "alt": "17 év – ennyi idő után vették el a díszpolgárságot",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-13T20:23:41+01:00"
+  "updated_at": "2026-11-13T20:58:47+01:00"
 }
