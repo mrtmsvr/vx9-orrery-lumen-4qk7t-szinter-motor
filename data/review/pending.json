@@ -6877,7 +6877,7 @@
     {
       "id": "7e6fc2a3-fa2e-50a3-8778-d45a2490d0d7",
       "slug": "2026-11-13-kevesebb-feherje-lassithatja-az-oregedest",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -7122,9 +7122,9 @@
       "dedupe_hash": "d69d2000186151014ba118511cd103fab0322201ee9c679085dfb6d086fde7bb",
       "pipeline_run_id": "43372978746",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-13T07:03:55+01:00",
-      "updated_at": "2026-11-13T07:03:55+01:00",
-      "published_at": null,
+      "created_at": "2026-11-13T10:52:43+01:00",
+      "updated_at": "2026-11-13T10:52:43+01:00",
+      "published_at": "2026-11-13T10:52:43+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-13T09:02:53+01:00",
@@ -7145,8 +7145,10 @@
         "lead": "Egy több mint háromszáz kutatást átfogó elemzés szerint a manapság divatos, rendkívül magas fehérjebevitel talán mégsem annyira üdvös az egészségre, mint ahogyan azt a fitneszipar hirdeti. A mértékletesség és a tudatosabb táplálkozás viszont éppenhogy segíthet a fiatalság megőrzésében és az anyagcsere egészségének fenntartásában.",
         "ctl_photo": false,
         "control_id": 10234,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "e0d2cd04-3ed7-53a7-ab3c-7aa9b88a7cbf",
