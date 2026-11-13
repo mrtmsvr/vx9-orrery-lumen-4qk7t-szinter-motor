@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5358ebe4-2b75-55f2-8282-d2d7d765d3b0",
+      "slug": "2026-11-13-uj-jaltat-kovetel-putyin-mikozben-europa-is-asztalhoz-ulne-ukrajnarol",
+      "url": "/vilag/2026-11-13-uj-jaltat-kovetel-putyin-mikozben-europa-is-asztalhoz-ulne-ukrajnarol/",
+      "title": "Új Jaltát követel Putyin, miközben Európa is asztalhoz ülne Ukrajnáról",
+      "lead": "A háború eddigi legnagyobb fogolycseréjét készítik elő, miközben Moszkva az európai biztonsági rendszer teljes újratárgyalását követeli. Az amerikai különmegbízottak tárgyalásai után Dublinban már az európai államok bevonásáról egyeztetnek a vezetők.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T12:52:17+01:00",
+      "published_at": "2026-11-13T12:52:17+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5.2,
+      "tags": [
+        "Orosz-ukrán háború",
+        "Vlagyimir Putyin",
+        "Jared Kushner",
+        "Dublin",
+        "Európai Unió"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Putin_V_2026_08_10.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1678,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Vladimir Putin at a meeting of the State Council Presidium on the development of public transport in the Russian Federation"
+      }
+    },
+    {
       "id": "74382b39-4a5c-5c65-b131-f48723720371",
       "slug": "2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar",
       "url": "/vilag/2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar/",
@@ -4407,35 +4437,7 @@
         "pos": "top",
         "alt": "The following images are available for download and use free of rights"
       }
-    },
-    {
-      "id": "73ed1035-73f9-5ee5-a866-03b0d58305fc",
-      "slug": "2026-11-05-a-network4-nel-folytatja-az-atv-tol-tavozott-krug-emilia",
-      "url": "/bulvar/2026-11-05-a-network4-nel-folytatja-az-atv-tol-tavozott-krug-emilia/",
-      "title": "A Network4-nél folytatja az ATV-től távozott Krug Emília",
-      "lead": "Az ATV-től korábban távozott Krug Emília a Network4 Media Groupnál folytatja televíziós pályafutását. A hírt a Big Picture 2027 szakmai konferencián jelentették be.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T14:44:57+01:00",
-      "published_at": "2026-11-05T14:44:57+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Krug Emília",
-        "Network4",
-        "televízió",
-        "média",
-        "műsorvezető"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-38a5edc442.jpg",
-        "kind": "photo",
-        "alt": "12 év – Krug Emília ATV-nél eltöltött korszakának hossza",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-13T12:50:39+01:00"
+  "updated_at": "2026-11-13T12:52:19+01:00"
 }
