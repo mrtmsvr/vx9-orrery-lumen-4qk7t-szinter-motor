@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e0d2cd04-3ed7-53a7-ab3c-7aa9b88a7cbf",
+      "slug": "2026-11-13-negyedora-dublinban-karpataljai-csucsot-keszit-elo-magyar-peter-es-vo",
+      "url": "/kozelet/2026-11-13-negyedora-dublinban-karpataljai-csucsot-keszit-elo-magyar-peter-es-vo/",
+      "title": "Negyedóra Dublinban: Kárpátaljai csúcsot készít elő Magyar Péter és Volodimir Zelenszkij",
+      "lead": "Negyedórás megbeszélést folytatott Volodimir Zelenszkij ukrán elnökkel Dublinban Magyar Péter; a felek egy esetleges kárpátaljai találkozóról is egyeztettek. A részletekről jelenleg a külügyminiszterek tárgyalnak, a csúcsra akár már november végén sor kerülhet.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T07:53:15+01:00",
+      "published_at": "2026-11-13T07:53:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Magyar Péter",
+        "Volodimir Zelenszkij",
+        "Dublin",
+        "Kárpátalja",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1636,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Новорічне звернення президента України Володимира Зеленського."
+      }
+    },
+    {
       "id": "770f2f9f-447e-5271-a1c9-08eecddd5578",
       "slug": "2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n",
       "url": "/vilag/2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n/",
@@ -4406,36 +4436,7 @@
         "pos": "top",
         "alt": "Hubert Aiwanger in WDR-Show Maischberger at  2023-05-23"
       }
-    },
-    {
-      "id": "1d97bf02-7a60-50fd-9156-8f216e210716",
-      "slug": "2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab",
-      "url": "/kozelet/2026-11-05-uj-rendeszeti-csomag-visszater-a-tuzoltosag-nev-es-szigorodnak-a-szab/",
-      "title": "Új rendészeti csomag: visszatér a tűzoltóság név és szigorodnak a szabályok",
-      "lead": "Társadalmi egyeztetésre bocsátotta a kormány a rendészeti törvénycsomagot, amely átalakítja a rendőrség és a katasztrófavédelem működését. A javaslatcsomag többek között a tűzoltóság nevének visszaállításáról, a határvadászok új feladatairól és szigorúbb gyorsított eljárásokról rendelkezik.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T08:41:54+01:00",
-      "published_at": "2026-11-05T08:41:54+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.7,
-      "tags": [
-        "rendészet",
-        "törvénycsomag",
-        "tűzoltóság",
-        "rendőrség",
-        "kormány"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/e849e820a5285f26.jpg",
-        "width": 11811,
-        "height": 7874,
-        "kind": "photo",
-        "alt": "firefighters, firefighting, fire, dark, night, fire, fire, fire, fire, fire"
-      }
     }
   ],
-  "updated_at": "2026-11-13T06:09:39+01:00"
+  "updated_at": "2026-11-13T07:53:16+01:00"
 }
