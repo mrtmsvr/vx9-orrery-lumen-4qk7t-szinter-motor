@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8cec6fdd-6a16-5a62-8c08-91ee4b090113",
+      "slug": "2026-11-13-pozsonyban-tarol-a-wizz-air-a-becsi-arak-elol-menekulve",
+      "url": "/penzvilag/2026-11-13-pozsonyban-tarol-a-wizz-air-a-becsi-arak-elol-menekulve/",
+      "title": "Pozsonyban tarol a Wizz Air a bécsi árak elől menekülve",
+      "lead": "A légitársaság a magas ausztriai költségek miatt hagyta el az országot, ami éles vitát váltott ki a helyi repülési adókról.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T19:04:52+01:00",
+      "published_at": "2026-11-13T19:04:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.0,
+      "tags": [
+        "Wizz Air",
+        "Pozsony",
+        "légiforgalom",
+        "Ausztria",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/2011-06-14_10-23-53_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg/1280px-2011-06-14_10-23-53_Austria_Nieder%C3%B6sterreich_Fischamend_Markt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Austria, climbing out of Wien-Schwechat"
+      }
+    },
+    {
       "id": "9ddb7790-7ec9-5910-9d37-8db494f9fc95",
       "slug": "2026-11-13-huszonheten-palyaznak-a-kozmedia-vezetesere-itt-a-nevsor",
       "url": "/kozelet/2026-11-13-huszonheten-palyaznak-a-kozmedia-vezetesere-itt-a-nevsor/",
@@ -4407,37 +4437,7 @@
         "pos": "top",
         "alt": "Sándor Lezsák, Hungarian poet, teacher, politician, and founder of the Hungarian Democratic Forum. Since 2006, he has been deputy Speaker of the Parliament."
       }
-    },
-    {
-      "id": "4c828ee3-a0c2-5652-85ab-c9031f18aaf0",
-      "slug": "2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol",
-      "url": "/kultura/2026-11-05-macskafogo-40-kulisszatitkok-az-elfeledett-filmtervekrol/",
-      "title": "Macskafogó 40: kulisszatitkok az elfeledett filmtervekről",
-      "lead": "A magyar animáció egyik legmeghatározóbb alkotása, a Macskafogó saját dokumentumfilmet kap. A Partizán produkciója a kultikus film drámai keletkezéstörténetét és a korabeli cenzúra nehézségeit mutatja be.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T19:23:44+01:00",
-      "published_at": "2026-11-05T19:23:44+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Macskafogó",
-        "animáció",
-        "dokumentumfilm",
-        "Partizán",
-        "kultúra"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg/1280px-Szigony_utca%2C_Macskafog%C3%B3_falfestm%C3%A9ny_%28a%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Macskafogó (Cat City). Wandbild an einem Wohnblock in Budapest, Szigony utca 8"
-      }
     }
   ],
-  "updated_at": "2026-11-13T19:03:56+01:00"
+  "updated_at": "2026-11-13T19:04:55+01:00"
 }
