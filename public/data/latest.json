@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "74382b39-4a5c-5c65-b131-f48723720371",
+      "slug": "2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar",
+      "url": "/vilag/2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar/",
+      "title": "Tizennégy halálos áldozatot követelt a Fudzseirába vezető út tömegkarambolja",
+      "lead": "Tizennégy ember életét vesztette és harmincan megsérültek egy huszonhárom járművet érintő tömegbalesetben az Egyesült Arab Emírségekben. A tragédia a Fudzseirába vezető úton történt szerda éjjel, amikor egy irányíthatatlan teherautó a torlódásban álló kocsisorba csapódott.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-13",
+      "date_label": "november 13.",
+      "created_at": "2026-11-13T12:50:35+01:00",
+      "published_at": "2026-11-13T12:50:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.22,
+      "tags": [
+        "Egyesült Arab Emírségek",
+        "baleset",
+        "tömegkarambol",
+        "Fudzsejra"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Abu_Dhabi_-_Shahama_Road_to_Dubai_-_United_Arab_Emirates_-_panoramio_%284%29.jpg/1280px-Abu_Dhabi_-_Shahama_Road_to_Dubai_-_United_Arab_Emirates_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 637,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Abu Dhabi - Shahama Road to Dubai - United Arab Emirates"
+      }
+    },
+    {
       "id": "83f9bcfb-c912-5ef0-83ae-d059a1b7018a",
       "slug": "2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben",
       "url": "/kozelet/2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben/",
@@ -4406,37 +4435,7 @@
         "alt": "12 év – Krug Emília ATV-nél eltöltött korszakának hossza",
         "card": "num"
       }
-    },
-    {
-      "id": "624f979f-4842-5753-86cd-0a92f64e5abf",
-      "slug": "2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump",
-      "url": "/vilag/2026-11-05-totalis-vereseg-elvesztette-a-torvenyhozas-iranyitasat-donald-trump/",
-      "title": "Totális vereség: elvesztette a törvényhozás irányítását Donald Trump",
-      "lead": "A Partizán Szignál című műsorában elhangzottak szerint a demokraták mindkét házban többséget szereztek a törvényhozásban. Az eredmények drámai változást jeleznek az Egyesült Államok politikai erőviszonyaiban, ami komoly korlátokat állít Donald Trump elnöksége elé.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-05T14:34:39+01:00",
-      "published_at": "2026-11-05T14:34:39+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Donald Trump",
-        "USA",
-        "választások",
-        "demokraták",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/1280px-Seal_of_the_United_States_Senate.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "The Seal of the United States Senate, the upper house of the United States Congress. See also the Seal of the United States House of Representatives."
-      }
     }
   ],
-  "updated_at": "2026-11-13T12:49:07+01:00"
+  "updated_at": "2026-11-13T12:50:39+01:00"
 }
