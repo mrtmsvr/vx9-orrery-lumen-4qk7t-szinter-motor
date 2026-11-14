@@ -36,16 +36,15 @@
       "word_count": 216,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg/1280px-Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-f8cdeb3c3b.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-f8cdeb3c3b.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungary?\n\nTags: washing, women, work, poverty",
-        "credit": "FOTO:Fortepan — ID 28260: Adományozó/Donor: Konok Tamás id. / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Washing,_women,_work,_poverty_Fortepan_28260.jpg",
-        "vision_score": 8.0
+        "alt": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -102,7 +101,7 @@
       "pipeline_run_id": "43628350484",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-14T20:19:02+01:00",
-      "updated_at": "2026-11-14T20:19:02+01:00",
+      "updated_at": "2026-11-14T19:22:32+00:00",
       "published_at": "2026-11-14T20:19:02+01:00",
       "expires_at": null,
       "video": {

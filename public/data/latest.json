@@ -22,12 +22,10 @@
         "társadalom"
       ],
       "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg/1280px-Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-f8cdeb3c3b.jpg",
         "kind": "photo",
-        "pos": "center",
-        "alt": "Hungary?\n\nTags: washing, women, work, poverty"
+        "alt": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
+        "cover": true
       }
     },
     {
@@ -4447,5 +4445,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T20:19:03+01:00"
+  "updated_at": "2026-11-14T20:22:33+01:00"
 }
