@@ -7267,7 +7267,7 @@
     {
       "id": "30ea0c12-2b73-5e18-ab44-d6742ae6320c",
       "slug": "2026-11-14-mi-is-az-az-isztambuli-egyezmeny",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -7416,9 +7416,9 @@
       "dedupe_hash": "2e3caa5ba609a8380758e2e4a8a2a6ed962836d9564b85062b7087258941281b",
       "pipeline_run_id": "43563803106",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-14T07:24:58+01:00",
-      "updated_at": "2026-11-14T07:24:58+01:00",
-      "published_at": null,
+      "created_at": "2026-11-14T12:37:42+01:00",
+      "updated_at": "2026-11-14T12:37:42+01:00",
+      "published_at": "2026-11-14T12:37:42+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-14T09:22:50+01:00",
@@ -7441,8 +7441,10 @@
         "lead": "Az Európa Tanács 2011-ben elfogadott dokumentuma a nők elleni és a családon belüli erőszak felszámolására törekszik, mégis az egyik leginkább vitatott nemzetközi szerződéssé vált Európában. A megállapodás részletesen szabályozza az állami feladatokat, míg a politikai porondon éles vitákat generál a ratifikáció elmaradása miatt.",
         "ctl_photo": false,
         "control_id": 10280,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "0f78aabf-0ef0-51e2-9527-b6e35eb7ffd1",
@@ -8087,7 +8089,7 @@
     {
       "id": "5cb8ab57-0f9e-56e4-8393-75f42cb98000",
       "slug": "2026-11-14-szivhangrendelet-modositas-mi-valtozik-es-kotelezo-e-hallgatni",
-      "status": "pending",
+      "status": "published",
       "category": "kozelet",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -8124,7 +8126,7 @@
       "word_count": 325,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g452969c265f15e29d892849041ce22f676b36a707e7b56afa626d0597a9a9d5cbb82a122f7e9c4bad6e94be201254c05f5be5c32e1194a393f2560a5815161eb_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/7e6ceddcc909c5f9.jpg",
         "width": 2800,
         "height": 1575,
         "kind": "photo",
@@ -8132,7 +8134,9 @@
         "credit": "Free-Photos / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/computer-business-typing-keyboard-1149148/",
-        "vision_score": 5.0
+        "vision_score": 5.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/7e6ceddcc909c5f9.jpg",
+        "orig_url": "https://pixabay.com/get/g452969c265f15e29d892849041ce22f676b36a707e7b56afa626d0597a9a9d5cbb82a122f7e9c4bad6e94be201254c05f5be5c32e1194a393f2560a5815161eb_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -8232,7 +8236,7 @@
         "meta_title": "Szívhangrendelet-módosítás: mi változik, és kötelező-e hallg",
         "meta_description": "A szívhangrendelet módosítása eltörli a terhességmegszakítás előtti kötelező magzatiéletfunkció-bemutatást, így azt a továbbiakban nem kötelező meghallgatni. A ",
         "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-14-szivhangrendelet-modositas-mi-valtozik-es-kotelezo-e-hallgatni/",
-        "og_image": "https://pixabay.com/get/g452969c265f15e29d892849041ce22f676b36a707e7b56afa626d0597a9a9d5cbb82a122f7e9c4bad6e94be201254c05f5be5c32e1194a393f2560a5815161eb_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/7e6ceddcc909c5f9.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -8247,9 +8251,9 @@
       "dedupe_hash": "c19de9a43fbba2b0d7dbaeea8d2344307e1652e099eb80cf3e9209a3c6121848",
       "pipeline_run_id": "43572559280",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-14T09:11:41+01:00",
-      "updated_at": "2026-11-14T09:11:41+01:00",
-      "published_at": null,
+      "created_at": "2026-11-14T12:37:44+01:00",
+      "updated_at": "2026-11-14T12:37:44+01:00",
+      "published_at": "2026-11-14T12:37:44+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-14T11:09:00+01:00",
@@ -8267,8 +8271,10 @@
         "lead": "A szívhangrendelet módosítása eltörli a terhességmegszakítás előtti kötelező magzatiéletfunkció-bemutatást, így azt a továbbiakban nem kötelező meghallgatni. A várandós nőnek nem kell indokolnia, ha nem él a lehetőséggel, és lemondó nyilatkozatot sem kell aláírnia.",
         "ctl_photo": false,
         "control_id": 10289,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "67ae8cfb-1d50-556e-b1e8-2f94d04a5f2c",
