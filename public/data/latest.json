@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "201916f3-f9c6-5f75-a617-a2e553924752",
+      "slug": "2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele",
+      "url": "/bulvar/2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele/",
+      "title": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
+      "lead": "Közös megegyezéssel, tizenkilenc év együttlét után külön utakon folytatja életét Sebestyén Balázs és felesége, Viki. A televíziós és rádiós műsorvezető a közösségi oldalán osztotta meg a hírt a nyilvánossággal.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T11:07:39+01:00",
+      "published_at": "2026-11-14T11:07:39+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Sebestyén Balázs",
+        "válás",
+        "bulvár",
+        "magyar sztárok"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-86ecfcd0b5.jpg",
+        "kind": "photo",
+        "alt": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
+        "cover": true
+      }
+    },
+    {
       "id": "f4a1bc46-5189-5c15-be30-43ef0d413caf",
       "slug": "2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke",
       "url": "/kozelet/2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke/",
@@ -4411,36 +4438,7 @@
         "pos": "center",
         "alt": "Rogán Antal egy 2009-es politikai fórumon Solymáron"
       }
-    },
-    {
-      "id": "5966e2ed-6c91-5323-826d-be299faece5b",
-      "slug": "2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel",
-      "url": "/vilag/2026-11-06-verfurdo-a-svajci-hatarnal-halalos-buszbaleset-tortent-pentek-reggel/",
-      "title": "Vérfürdő a svájci határnál: halálos buszbaleset történt péntek reggel Franciaországban",
-      "lead": "Több halálos áldozattal járó buszbaleset történt péntek reggel Franciaország keleti részén, a svájci határ közelében. A balesetet szenvedett járműn a hírek szerint több tucat utas tartózkodott.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T11:10:49+01:00",
-      "published_at": "2026-11-06T11:10:49+01:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Franciaország",
-        "baleset",
-        "buszbaleset",
-        "közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg/1280px-Official_ambulance_of_the_2026_Tour_de_France_Femmes%2C_Vionnaz%2C_Valais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Official ambulance of stage 2 (Aigle-Geneva) of the 2026 Tour de France Femmes, photographed near Vionnaz (Valais, Switzerland)."
-      }
     }
   ],
-  "updated_at": "2026-11-14T10:29:36+01:00"
+  "updated_at": "2026-11-14T11:07:41+01:00"
 }

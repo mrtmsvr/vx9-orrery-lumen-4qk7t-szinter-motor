@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T10:29:32+01:00",
+  "updated_at": "2026-11-14T11:07:39+01:00",
   "articles": [
+    {
+      "id": "201916f3-f9c6-5f75-a617-a2e553924752",
+      "slug": "2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele",
+      "status": "published",
+      "category": "bulvar",
+      "subcategory": null,
+      "tags": [
+        "Sebestyén Balázs",
+        "válás",
+        "bulvár",
+        "magyar sztárok"
+      ],
+      "title": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
+      "subtitle": null,
+      "lead": "Közös megegyezéssel, tizenkilenc év együttlét után külön utakon folytatja életét Sebestyén Balázs és felesége, Viki. A televíziós és rádiós műsorvezető a közösségi oldalán osztotta meg a hírt a nyilvánossággal.",
+      "key_points": [
+        "Sebestyén Balázs az Instagram-oldalán jelentette be a válást.",
+        "A házaspár tizenkilenc év után döntött a különválás mellett.",
+        "A magánéleti változás nem érinti a közös szakmai munkájukat."
+      ],
+      "content": "Véget ért Sebestyén Balázs és felesége, Horváth Viktória házassága – jelentette be a műsorvezető szombaton a közösségi oldalán. A pár 2006 óta élt együtt, és 2009 nyarán házasodott össze, kapcsolatukból két fiú született.\n\nBár a házasságunk véget ért, szülőként továbbra is szeretetben neveljük a gyermekeinket” – írta az Instagram-posztban a műsorvezető. A házaspár a magánéletét korábban mindvégig igyekezett távol tartani a nyilvánosságtól.\n\nA közlemény kitért arra is, hogy a magánéleti változás nem befolyásolja a felek szakmai együttműködését. A reggeli rádióműsorban a jövőben is együtt dolgoznak majd. A műsorvezető arra kérte a sajtó képviselőit, hogy tartsák tiszteletben a döntésüket, és kiskorú gyermekeik érdekében ne keressék őket az üggyel kapcsolatban.",
+      "content_format": "markdown",
+      "body": [
+        "Véget ért Sebestyén Balázs és felesége, Horváth Viktória házassága – jelentette be a műsorvezető szombaton a közösségi oldalán. A pár 2006 óta élt együtt, és 2009 nyarán házasodott össze, kapcsolatukból két fiú született.",
+        "Bár a házasságunk véget ért, szülőként továbbra is szeretetben neveljük a gyermekeinket” – írta az Instagram-posztban a műsorvezető. A házaspár a magánéletét korábban mindvégig igyekezett távol tartani a nyilvánosságtól.",
+        "A közlemény kitért arra is, hogy a magánéleti változás nem befolyásolja a felek szakmai együttműködését. A reggeli rádióműsorban a jövőben is együtt dolgoznak majd. A műsorvezető arra kérte a sajtó képviselőit, hogy tartsák tiszteletben a döntésüket, és kiskorú gyermekeik érdekében ne keressék őket az üggyel kapcsolatban."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 145,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-86ecfcd0b5.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-86ecfcd0b5.jpg",
+        "kind": "photo",
+        "alt": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/sebestyen-balazs-felseg-viki-valas/nkc2z77",
+          "title": "Válik Sebestyén Balázs és felesége! - itt a bejelentésük",
+          "publisher": "blikk.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T11:05:53+01:00"
+        },
+        {
+          "url": "https://24.hu/elet-stilus/2026/11/14/valik-sebestyen-balazs-es-a-felesege/",
+          "title": "Válik Sebestyén Balázs és a felesége",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T11:05:53+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Vikivel közös megegyezéssel úgy döntöttünk, hogy külön utakon folytatjuk az életünket. Bár a házasságunk véget ért, szülőként továbbra is szeretetben neveljük a gyermekeinket",
+        "who": "Sebestyén Balázs műsorvezető",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-14T11:07:39+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://www.blikk.hu/sztarvilag/hazai-sztarok/sebestyen-balazs-felseg-viki-valas/nkc2z77",
+          "https://24.hu/elet-stilus/2026/11/14/valik-sebestyen-balazs-es-a-felesege/"
+        ]
+      },
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "url": "/bulvar/2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele/",
+      "seo": {
+        "meta_title": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs ",
+        "meta_description": "Közös megegyezéssel, tizenkilenc év együttlét után külön utakon folytatja életét Sebestyén Balázs és felesége, Viki. A televíziós és rádiós műsorvezető a közöss",
+        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-86ecfcd0b5.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "2302dc19c55bceef2b0975bd180c969f06876d8837baa4262ad7afb0ac05af8a",
+      "pipeline_run_id": "43580865750",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-14T11:07:39+01:00",
+      "updated_at": "2026-11-14T11:07:39+01:00",
+      "published_at": "2026-11-14T11:07:39+01:00",
+      "expires_at": null
+    },
     {
       "id": "f4a1bc46-5189-5c15-be30-43ef0d413caf",
       "slug": "2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke",
@@ -74935,110 +75044,6 @@
       "created_at": "2026-10-15T16:34:29+02:00",
       "updated_at": "2026-10-15T20:48:17+02:00",
       "published_at": "2026-10-15T16:34:29+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "c8c38355-d991-5956-b385-32a1fb53e3b7",
-      "slug": "2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Alkotmánybíróság",
-        "Kúria",
-        "közérdekű adat",
-        "bíróság",
-        "jogállamiság"
-      ],
-      "title": "Az Alkotmánybíróság megsemmisítette a Kúria vitatott döntését",
-      "subtitle": null,
-      "lead": "Az új összetételű Alkotmánybíróság megsemmisítette a Kúria egyik ítéletét egy közérdekű adatigénylési perben. A testület álláspontja szerint a bíróságok nem korlátozhatják önkényesen saját működésük nyilvánosságát.",
-      "key_points": [
-        "Egy állampolgár 2020-ban kezdeményezett bírósági adatigénylésekkel kapcsolatban fordult jogorvoslatért.",
-        "A Kúria korábbi döntése szerint a kért információk nem minősültek közérdekű adatnak.",
-        "Az Alkotmánybíróság megállapította, hogy a Kúria jogértelmezése alaptörvény-ellenesen korlátozta az alapjogokat."
-      ],
-      "content": "Egy állampolgár 2020-ban adatigényléssel fordult a Fővárosi Ítélőtáblához, hogy megtudja, hány adatigénylést továbbítottak a benyújtástól számított tizenöt napon belül az Országos Bírósági Hivatalnak (OBH), és ezek közül hány esetben kaptak javaslatot az OBH-tól a megválaszolásra. Az ítélőtábla azzal az indokkal tagadta meg az adatok kiadását, hogy azok veszélyeztetnék az ítélkezés és a bírósági igazgatás rendjét.\n\nA felperes bírósághoz fordult: az elsőfokú elutasítás után a másodfokú bíróság helyt adott a keresetnek, ám a Kúria hatályon kívül helyezte ezt a döntést. A Kúria érvelése szerint a kért adatok nem írják le az igazságszolgáltatás munkáját, nem tekinthetők a bíróság közfeladatával összefüggésben keletkezett információnak, és nem segítik elő a bíróságok működésével kapcsolatos tájékozott véleményformálást.\n\nAz Alkotmánybírósághoz benyújtott panasz szerint a kúriai ítélet sértette a véleménynyilvánítási és tájékozódási jogot, továbbá az emberi méltóságot is egy megalapozatlan, önkényes indokolással. Az Ab a panaszosnak adott igazat, rögzítve, hogy nincs olyan alkotmányos érték, amely igazolná a Kúria által alkalmazott korlátozást.\n\nA testület határozata értelmében a bíróság adatkezelőként nem dönthet önkényesen arról, hogy a kért adatok elősegítik-e a tájékozott véleményformálást. Az ügy visszakerül a Kúriához, amelynek az Alkotmánybíróság döntése alapján új eljárást kell lefolytatnia.",
-      "content_format": "markdown",
-      "body": [
-        "Egy állampolgár 2020-ban adatigényléssel fordult a Fővárosi Ítélőtáblához, hogy megtudja, hány adatigénylést továbbítottak a benyújtástól számított tizenöt napon belül az Országos Bírósági Hivatalnak (OBH), és ezek közül hány esetben kaptak javaslatot az OBH-tól a megválaszolásra. Az ítélőtábla azzal az indokkal tagadta meg az adatok kiadását, hogy azok veszélyeztetnék az ítélkezés és a bírósági igazgatás rendjét.",
-        "A felperes bírósághoz fordult: az elsőfokú elutasítás után a másodfokú bíróság helyt adott a keresetnek, ám a Kúria hatályon kívül helyezte ezt a döntést. A Kúria érvelése szerint a kért adatok nem írják le az igazságszolgáltatás munkáját, nem tekinthetők a bíróság közfeladatával összefüggésben keletkezett információnak, és nem segítik elő a bíróságok működésével kapcsolatos tájékozott véleményformálást.",
-        "Az Alkotmánybírósághoz benyújtott panasz szerint a kúriai ítélet sértette a véleménynyilvánítási és tájékozódási jogot, továbbá az emberi méltóságot is egy megalapozatlan, önkényes indokolással. Az Ab a panaszosnak adott igazat, rögzítve, hogy nincs olyan alkotmányos érték, amely igazolná a Kúria által alkalmazott korlátozást.",
-        "A testület határozata értelmében a bíróság adatkezelőként nem dönthet önkényesen arról, hogy a kért adatok elősegítik-e a tájékozott véleményformálást. Az ügy visszakerül a Kúriához, amelynek az Alkotmánybíróság döntése alapján új eljárást kell lefolytatnia."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 214,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg/1280px-Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Building of the Constitutional Court of Hungary. Here is a Zsolt Náray plaque-relief by Hargita Mecseki (2009 marble plaque, bronze relief). Formerly here was (built to) the Computer Coordination Ins",
-        "credit": "Globetrotter19 / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Don%C3%A1tistrasse_35-45,_2024_Budapest.jpg",
-        "vision_score": 9.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261015_a-birosagok-sajat-mukodesuk-nyilvanossagat-sem-korlatozhatjak-szubjektiv-szempontok-szerint",
-          "title": "Ab: A bíróságok saját működésük nyilvánosságát sem korlátozhatják szubjektív szempontok szerint",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-15T16:32:02+02:00"
-        }
-      ],
-      "quote": {
-        "text": "miután semmilyen következtetést nem tudsz levonni a kiadni kért adatokból, ezért megkímélünk attól, hogy az adatokat megkapd",
-        "who": "panaszos az Alkotmánybírósághoz benyújtott beadványában",
-        "after": 2
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-15T16:33:55+02:00"
-      },
-      "hot_score": 5.37,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261015_a-birosagok-sajat-mukodesuk-nyilvanossagat-sem-korlatozhatjak-szubjektiv-szempontok-szerint"
-        ]
-      },
-      "date": "2026-10-15",
-      "date_label": "október 15.",
-      "url": "/kozelet/2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset/",
-      "seo": {
-        "meta_title": "Az Alkotmánybíróság megsemmisítette a Kúria vitatott döntésé",
-        "meta_description": "Az új összetételű Alkotmánybíróság megsemmisítette a Kúria egyik ítéletét egy közérdekű adatigénylési perben. A testület álláspontja szerint a bíróságok nem kor",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-15-az-alkotmanybirosag-megsemmisitette-a-kuria-vitatott-donteset/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg/1280px-Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "31114cf31294b8a4b6bbb24aa40473d821e36573c9cd5b901631f072927bdfa7",
-      "pipeline_run_id": "38750299848",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T16:33:55+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-15T16:33:55+02:00",
       "expires_at": null
     }
   ]
