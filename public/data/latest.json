@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c44aaad3-3013-5aad-93ee-b170a90a93d9",
+      "slug": "2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon",
+      "url": "/kozelet/2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon/",
+      "title": "Azonnali válsághelyzet: ezer tehén vette át az irányítást egy macedón városban",
+      "lead": "Válsághelyzet kihirdetését kezdeményezte egy észak-macedóniai polgármester, miután több mint ezer kóbor szarvasmarha lepte el a várost. Az állatok kerítéseket rongálnak, és tonnaszám pusztítják a mezőgazdasági termést.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T18:55:55+01:00",
+      "published_at": "2026-11-14T18:55:55+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.24,
+      "tags": [
+        "Észak-Macedónia",
+        "kóbor állatok",
+        "mezőgazdaság",
+        "válsághelyzet",
+        "szarvasmarha"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/St_David%27s_Well%2C_Snevice%2C_Macedonia_Art.IWMART3884.jpg/1280px-St_David%27s_Well%2C_Snevice%2C_Macedonia_Art.IWMART3884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1281,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "St David's Well, Snevice, Macedonia\nimage: a group of British soldiers sit and rest, with two mules or cattle standing between them. To the right a mule\n\ndrinks water from a trough."
+      }
+    },
+    {
       "id": "0763be45-ea86-5dd4-a569-fcaa0f777198",
       "slug": "2026-11-14-szazmillios-lelepesi-penzzel-zavarna-haza-a-gyari-munkasokat-a-volksw",
       "url": "/penzvilag/2026-11-14-szazmillios-lelepesi-penzzel-zavarna-haza-a-gyari-munkasokat-a-volksw/",
@@ -4414,36 +4444,7 @@
         "pos": "top",
         "alt": "Zoltán Balog. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió jövője? Petőfi Irodalmi Múzeum, Budapest."
       }
-    },
-    {
-      "id": "8312148b-fa26-5c58-b1d5-f66e703292e3",
-      "slug": "2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf",
-      "url": "/bulvar/2026-11-06-letartoztatta-az-fbi-meghan-markle-82-eves-edesapjat-gyermekpornograf/",
-      "title": "Letartóztatta az FBI Meghan Markle 82 éves édesapját gyermekpornográfia miatt",
-      "lead": "A gyanú szerint letartóztatták Meghan Markle 82 éves édesapját, Thomas Markle-t egy floridai idősotthonban, miután egykori otthonában több ezer kiskorúról készült felvételt találtak. Az ügyben az FBI és a Fülöp-szigeteki hatóságok is vizsgálatot indítottak.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T18:02:06+01:00",
-      "published_at": "2026-11-06T18:02:06+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Thomas Markle",
-        "Meghan Markle",
-        "FBI",
-        "Floridai hír"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Thomas_Wayne_Markle_1962.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1745,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Thomas Wayne Markle"
-      }
     }
   ],
-  "updated_at": "2026-11-14T18:54:55+01:00"
+  "updated_at": "2026-11-14T18:55:56+01:00"
 }
