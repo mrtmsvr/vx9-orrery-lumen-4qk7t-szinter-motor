@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "22c5c36f-06de-5eb5-87fc-8bcaa82ba535",
+      "slug": "2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat",
+      "url": "/kozelet/2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat/",
+      "title": "Fentről jött a parancs: Varga Judit megszólalt a Völner-Schadl-ügy háttéralkuiról",
+      "lead": "Varga Judit korábbi igazságügyi miniszter váratlanul visszatért a közéletbe, és a parlamenti vizsgálóbiottság zárt ülésén arról beszélt, hogy felsőbb utasításra le kellett volna állítani a Völner–Schadl-nyomozást. A volt tárcavezető megszólalása újabb részleteket hozott felszínre a befolyásolási kísérletekről.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T17:36:07+01:00",
+      "published_at": "2026-11-14T17:36:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Varga Judit",
+        "Völner-Schadl-ügy",
+        "parlamenti vizsgálóbizottság",
+        "Fürcht Pál",
+        "Toroczkai László"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/1280px-Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 732,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Parliament building, Budapest"
+      }
+    },
+    {
       "id": "7da5d72d-8af9-57cf-9297-c9a358db1949",
       "slug": "2026-11-14-retvari-kitepte-sesztak-kezebol-a-mandatumot-a-milliardos-hatosagi-ra",
       "url": "/kozelet/2026-11-14-retvari-kitepte-sesztak-kezebol-a-mandatumot-a-milliardos-hatosagi-ra/",
@@ -4413,37 +4443,7 @@
         "pos": "top",
         "alt": "Hungerian MP István Apáti (right) in the 5th meeting of the committees on public administration and regional policy of the parliaments of the Visegrad Group countries in the Polish Sejm"
       }
-    },
-    {
-      "id": "51870e3d-2e3d-5e0d-9489-903a4131e787",
-      "slug": "2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag",
-      "url": "/kozelet/2026-11-06-alpha-scramble-harom-bombafenyegetes-miatt-emelkedtek-a-magasba-a-mag/",
-      "title": "Alpha Scramble: három bombafenyegetés miatt emelkedtek a magasba a magyar vadászgépek",
-      "lead": "Péntek délelőtt három polgári utasszállító repülőgépet is bombafenyegetés ért, ami miatt a NATO legmagasabb szintű riasztását elrendelve a Magyar Honvédség Gripen vadászgépeinek kellett intézkedniük a magyar légtérben. Az esetek illeszkednek az elmúlt napok európai szintű fenyegetéshullámába.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T13:47:37+01:00",
-      "published_at": "2026-11-06T13:47:37+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "bombafenyegetés",
-        "Gripen",
-        "Magyar Honvédség",
-        "légtérbiztonság",
-        "Ruszin-Szendi Romulusz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg/1280px-Saab_JAS-39_Gripen_of_the_Czech_Air_Force_taking_off_from_AFB_%C4%8C%C3%A1slav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 819,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB Čáslav."
-      }
     }
   ],
-  "updated_at": "2026-11-14T16:40:44+01:00"
+  "updated_at": "2026-11-14T17:36:09+01:00"
 }
