@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e21acd17-db58-5a20-8652-907143cebb6b",
+      "slug": "2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton",
+      "url": "/kozelet/2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton/",
+      "title": "Villamos alá szorult egy fiatal a Nagykörúton",
+      "lead": "Súlyos, de nem életveszélyes sérülésekkel szállítottak kórházba egy 17 éves fiút, akit péntek este gázolt el a villamos Budapesten. A szerelvény alá szorult fiatal kiszabadítása közel fél órát vett igénybe.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T19:47:35+01:00",
+      "published_at": "2026-11-14T19:47:35+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "baleset",
+        "villamos",
+        "Budapest",
+        "katasztrófavédelem",
+        "Nagykörút"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Budapest_tram_2026_06.jpg/1280px-Budapest_tram_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Trams in Budapest"
+      }
+    },
+    {
       "id": "c44aaad3-3013-5aad-93ee-b170a90a93d9",
       "slug": "2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon",
       "url": "/kozelet/2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon/",
@@ -4414,37 +4444,7 @@
         "pos": "center",
         "alt": "Kindergarten children at Sławkowska Street in Kraków, 2022"
       }
-    },
-    {
-      "id": "96f59b12-257a-52ff-90db-8d9986b2d688",
-      "slug": "2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal",
-      "url": "/kozelet/2026-11-06-mar-2012-ben-feketen-feheren-ott-volt-a-bicskei-bantalmazas-az-asztal/",
-      "title": "Már 2012-ben feketén-fehéren ott volt a bicskei bántalmazás az asztalon",
-      "lead": "Már 2012-ben hivatalos ombudsmani jelentés mutatott rá a bicskei gyermekotthonban feltárt visszásságokra és az azzal összefüggő vizsgálatokra.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T18:41:33+01:00",
-      "published_at": "2026-11-06T18:41:33+01:00",
-      "reading_time_min": 2,
-      "hot_score": 15.1,
-      "tags": [
-        "bicskei gyermekotthon",
-        "vizsgálóbizottság",
-        "Szabó Máté",
-        "Balog Zoltán",
-        "kegyelmi ügy"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Balog_Zolt%C3%A1n_2019.jpg/1280px-Balog_Zolt%C3%A1n_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1294,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Zoltán Balog. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió jövője? Petőfi Irodalmi Múzeum, Budapest."
-      }
     }
   ],
-  "updated_at": "2026-11-14T18:56:14+01:00"
+  "updated_at": "2026-11-14T19:47:37+01:00"
 }

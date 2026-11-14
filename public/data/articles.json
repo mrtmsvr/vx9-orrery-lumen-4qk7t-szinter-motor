@@ -1,7 +1,130 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T18:55:55+01:00",
+  "updated_at": "2026-11-14T19:47:35+01:00",
   "articles": [
+    {
+      "id": "e21acd17-db58-5a20-8652-907143cebb6b",
+      "slug": "2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "baleset",
+        "villamos",
+        "Budapest",
+        "katasztrófavédelem",
+        "Nagykörút"
+      ],
+      "title": "Villamos alá szorult egy fiatal a Nagykörúton",
+      "subtitle": null,
+      "lead": "Súlyos, de nem életveszélyes sérülésekkel szállítottak kórházba egy 17 éves fiút, akit péntek este gázolt el a villamos Budapesten. A szerelvény alá szorult fiatal kiszabadítása közel fél órát vett igénybe.",
+      "key_points": [
+        "Péntek este gázolt el a villamos egy 17 éves fiút az Erzsébet körúton, a Király utcai megállónál.",
+        "A rendelkezésre álló adatok szerint a fiú piros lámpánál szaladt a szerelvény elé.",
+        "A fővárosi tűzoltók speciális emelővel, két oldalról egyszerre emelték meg a többtonnás járművet.",
+        "A mentés közel fél óráig tartott, a sérült feje és végtagjai sérültek meg."
+      ],
+      "content": "Péntek este egy 17 éves fiút ütött el a villamos Budapest VII. kerületében, az Erzsébet körúton, a Király utcai 4–6-os megállónál. A helyszínre a mentők mellett a katasztrófavédelem munkatársai és a tűzoltók is kiérkeztek, miután a szerelvény elgázolta a fiatalt.\n\nAz RTL Híradó információi és a hatósági tájékoztatások szerint a tinédzser piros jelzésnél szaladt át, ezért ütötte el a többtonnás jármű. A baleset következtében a fiú a sínpályán közlekedő szerelvény alá szorult, ahonnan önerejéből nem tudott kijutni.\n\nA katasztrófavédelem egységei speciális emelőt használtak a mentéshez, a műveletről pedig videófelvételt is közzétettek. Kisdi Márk Máté, a Fővárosi Katasztrófavédelmi Igazgatóság szóvivője részletesen ismertette a technikai nehézségeket: „Ha a sérült a villamos alá szorul, akkor a fővárosi tűzoltók minden esetben megemelik a villamost. Ez egy bonyolult, összehangolt művelet, amelyben két oldalon egyszerre, milliméterről milliméterre kell a villamost elemelni. Ezután lehet kiemelni a sérültet.”\n\nA bonyolult és összehangolt művelet, valamint a helyszíni szakszerű beavatkozás közel fél óráig tartott a Nagykörúton, mire a tűzoltók teljesen kiszabadították a jármű alól a pórul járt fiatalt.\n\nA mentők tájékoztatása alapján a fiatal feje és végtagjai is megsérültek az ütközés során. A sérültet ezt követően kórházba szállították, ahol jelenleg is ápolják; az egészségügyi tájékoztatás szerint sérülései súlyosak, de szerencsére nem életveszélyesek.\n\nA hatósági intézkedések ezzel nem értek véget, ugyanis a rendőrség közlése szerint szabálysértési eljárást indítottak, és vizsgálják az ügy körülményeit.",
+      "content_format": "markdown",
+      "body": [
+        "Péntek este egy 17 éves fiút ütött el a villamos Budapest VII. kerületében, az Erzsébet körúton, a Király utcai 4–6-os megállónál. A helyszínre a mentők mellett a katasztrófavédelem munkatársai és a tűzoltók is kiérkeztek, miután a szerelvény elgázolta a fiatalt.",
+        "Az RTL Híradó információi és a hatósági tájékoztatások szerint a tinédzser piros jelzésnél szaladt át, ezért ütötte el a többtonnás jármű. A baleset következtében a fiú a sínpályán közlekedő szerelvény alá szorult, ahonnan önerejéből nem tudott kijutni.",
+        "A katasztrófavédelem egységei speciális emelőt használtak a mentéshez, a műveletről pedig videófelvételt is közzétettek. Kisdi Márk Máté, a Fővárosi Katasztrófavédelmi Igazgatóság szóvivője részletesen ismertette a technikai nehézségeket: „Ha a sérült a villamos alá szorul, akkor a fővárosi tűzoltók minden esetben megemelik a villamost. Ez egy bonyolult, összehangolt művelet, amelyben két oldalon egyszerre, milliméterről milliméterre kell a villamost elemelni. Ezután lehet kiemelni a sérültet.”",
+        "A bonyolult és összehangolt művelet, valamint a helyszíni szakszerű beavatkozás közel fél óráig tartott a Nagykörúton, mire a tűzoltók teljesen kiszabadították a jármű alól a pórul járt fiatalt.",
+        "A mentők tájékoztatása alapján a fiatal feje és végtagjai is megsérültek az ütközés során. A sérültet ezt követően kórházba szállították, ahol jelenleg is ápolják; az egészségügyi tájékoztatás szerint sérülései súlyosak, de szerencsére nem életveszélyesek.",
+        "A hatósági intézkedések ezzel nem értek véget, ugyanis a rendőrség közlése szerint szabálysértési eljárást indítottak, és vizsgálják az ügy körülményeit."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 254,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Budapest_tram_2026_06.jpg/1280px-Budapest_tram_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Trams in Budapest",
+        "credit": "Smiley.toerist / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_tram_2026_06.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/belfold/2026/11/14/villamos-gazolas-budapest-17-eves-fiatal/",
+          "title": "Elgázolt egy 17 éves fiatalt a villamos péntek este a Körúton",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T19:46:14+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261114_video-katasztrofavedelem-villamosgazolas-budapest-nagykorut-mentes",
+          "title": "Videón, ahogy a katasztrófavédelem kiszabadítja a villamos alól a Nagykörúton elgázolt 17 éves fiatalt",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T19:46:14+01:00"
+        },
+        {
+          "url": "https://index.hu/belfold/2026/11/14/villamos-baleset-gazolas-erzsebet-korut-17-eves-fiu-piros-lampa/",
+          "title": "Piros lámpánál lépett a villamos elé – egy 17 éves fiút gázolt el a villamos az Erzsébet körúton",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T19:46:14+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Ha a sérült a villamos alá szorul, akkor a fővárosi tűzoltók minden esetben megemelik a villamost. Ez egy bonyolult, összehangolt művelet, amelyben két oldalon egyszerre, milliméterről milliméterre kell a villamost elemelni. Ezután lehet kiemelni a sérültet",
+        "who": "Kisdi Márk Máté, a Fővárosi Katasztrófavédelmi Igazgatóság szóvivője",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-14T19:47:35+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/belfold/2026/11/14/villamos-gazolas-budapest-17-eves-fiatal/",
+          "https://hvg.hu/itthon/20261114_video-katasztrofavedelem-villamosgazolas-budapest-nagykorut-mentes",
+          "https://index.hu/belfold/2026/11/14/villamos-baleset-gazolas-erzsebet-korut-17-eves-fiu-piros-lampa/"
+        ]
+      },
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "url": "/kozelet/2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton/",
+      "seo": {
+        "meta_title": "Villamos alá szorult egy fiatal a Nagykörúton",
+        "meta_description": "Súlyos, de nem életveszélyes sérülésekkel szállítottak kórházba egy 17 éves fiút, akit péntek este gázolt el a villamos Budapesten. A szerelvény alá szorult fia",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Budapest_tram_2026_06.jpg/1280px-Budapest_tram_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "39ae00b870c1e0f5c017d42a00e5d4871ee9e9050358accae4e36f9b81aebfe0",
+      "pipeline_run_id": "43626027372",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-14T19:47:35+01:00",
+      "updated_at": "2026-11-14T19:47:35+01:00",
+      "published_at": "2026-11-14T19:47:35+01:00",
+      "expires_at": null
+    },
     {
       "id": "c44aaad3-3013-5aad-93ee-b170a90a93d9",
       "slug": "2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon",
@@ -75109,112 +75232,6 @@
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-15T21:06:22+02:00",
       "expires_at": null
-    },
-    {
-      "id": "ebf35345-2016-5df0-810f-bb83e5ed61b4",
-      "slug": "2026-10-15-a-fagyinal-is-gyorsabban-olvado-olasz-kormanyok-hattere",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Giorgia Meloni",
-        "Olaszország",
-        "Fratelli d’Italia",
-        "külpolitika"
-      ],
-      "title": "A fagyinál is gyorsabban olvadó olasz kormányok háttere",
-      "subtitle": null,
-      "lead": "Giorgia Meloni olasz miniszterelnök megdöntötte a megszakítás nélküli kormányfői hivatali idő második világháború utáni olasz rekordját. A jelenség mögött a jobboldali párt megerősödése és a korábbi euroszkeptikus retorika megváltozása áll.",
-      "key_points": [
-        "Giorgia Meloni szeptember elején érte el az 1413 napot a hivatalban.",
-        "A politikus korábbi euroszkeptikus narratívája a hatalomra kerülés után átalakult.",
-        "A 444.hu videójában bári megmozdulásokról és a politikus kettős arculatáról is szó esett."
-      ],
-      "content": "Olaszországban a kormányok hagyományosan rövid életűek, de Giorgia Meloni miniszterelnök kivételnek bizonyul ez alól a dinamika alól, hiszen szeptember elején már 1413 napja vezette az országot, amivel túlszárnyalta Silvio Berlusconi korábbi rekordját is.\n\nA 444.hu videójában emlékeztettek arra, hogy Meloni a kormányra kerülése előtt még markánsan euroszkeptikus hangnemet ütött meg, és úgy vélekedett, hogy az euróban maradás nem éri meg az országnak, ám a hatalom átvétele után ez a narratíva jelentősen szelídült, és a rendszer részévé vált.\n\nPártja, a Fratelli d’Italia emellett az egyetlen olyan parlamenti erő volt, amely kimaradt a Covid-évek alatt alakult technokrata nagykoalícióból, amelyben a baloldaltól a jobboldalig minden más párt részt vett.\n\nBár gazdaság- és külpolitikájában kevésbé tér el elődeitől, a 444.hu videójában említettek szerint politikája erősen a kettős arculatra épül.",
-      "content_format": "markdown",
-      "body": [
-        "Olaszországban a kormányok hagyományosan rövid életűek, de Giorgia Meloni miniszterelnök kivételnek bizonyul ez alól a dinamika alól, hiszen szeptember elején már 1413 napja vezette az országot, amivel túlszárnyalta Silvio Berlusconi korábbi rekordját is.",
-        "A 444.hu videójában emlékeztettek arra, hogy Meloni a kormányra kerülése előtt még markánsan euroszkeptikus hangnemet ütött meg, és úgy vélekedett, hogy az euróban maradás nem éri meg az országnak, ám a hatalom átvétele után ez a narratíva jelentősen szelídült, és a rendszer részévé vált.",
-        "Pártja, a Fratelli d’Italia emellett az egyetlen olyan parlamenti erő volt, amely kimaradt a Covid-évek alatt alakult technokrata nagykoalícióból, amelyben a baloldaltól a jobboldalig minden más párt részt vett.",
-        "Bár gazdaság- és külpolitikájában kevésbé tér el elődeitől, a 444.hu videójában említettek szerint politikája erősen a kettős arculatra épül."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 162,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1711,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Giorgia Meloni 2023",
-        "credit": "Governo italiano / Wikimedia Commons",
-        "license": "CC BY 3.0 it",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2023_crop.jpg",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.youtube.com/watch?v=OaRVKA8G9_k",
-          "title": "Olasz miniszterelnök a második világháború óta nem bírta ilyen sokáig",
-          "publisher": "444.hu",
-          "license": null,
-          "accessed_at": "2026-10-15T18:38:28+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-15T20:48:01+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.youtube.com/watch?v=OaRVKA8G9_k"
-        ]
-      },
-      "date": "2026-10-15",
-      "date_label": "október 15.",
-      "url": "/vilag/2026-10-15-a-fagyinal-is-gyorsabban-olvado-olasz-kormanyok-hattere/",
-      "seo": {
-        "meta_title": "A fagyinál is gyorsabban olvadó olasz kormányok háttere",
-        "meta_description": "Giorgia Meloni olasz miniszterelnök megdöntötte a megszakítás nélküli kormányfői hivatali idő második világháború utáni olasz rekordját. A jele",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-15-a-fagyinal-is-gyorsabban-olvado-olasz-kormanyok-hattere/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Giorgia_Meloni_Official_2023_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "b5f2ea58e027ab034a187507a0eb41b2f825228a28e7270689dec73b91ecb504",
-      "pipeline_run_id": "38770409839",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T20:48:01+02:00",
-      "updated_at": "2026-10-21T01:58:36+00:00",
-      "published_at": "2026-10-15T20:48:01+02:00",
-      "expires_at": null,
-      "hold": true,
-      "video": {
-        "id": "OaRVKA8G9_k",
-        "title": "Olasz miniszterelnök a második világháború óta nem bírta ilyen sokáig",
-        "channel": "444.hu",
-        "minutes": 14
-      }
     }
   ]
 }
