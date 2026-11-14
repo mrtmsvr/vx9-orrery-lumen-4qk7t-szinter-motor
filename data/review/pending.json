@@ -8727,16 +8727,27 @@
       ],
       "image_options": [
         {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Viktor_Orb%C3%A1n_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "width": 1200,
-          "height": 798,
+          "height": 1690,
           "kind": "photo",
-          "pos": "center",
-          "alt": "Magyar Péter 2024. április-án",
-          "credit": "B. Molnár Béla / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg",
+          "pos": "top",
+          "alt": "Viktor Orbán in 2018.",
+          "credit": "European People's Party / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Viktor_Orb%C3%A1n_2018.jpg",
           "vision_score": 10.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-2d19ae9ea9.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-2d19ae9ea9.jpg",
+          "kind": "photo",
+          "alt": "Orbán vicceskedéssel reagált, miközben a Fidesz behívná Magyar Pétert a parlamentbe",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
         }
       ],
       "legal": {
@@ -8749,10 +8760,23 @@
         "sent_at": "2026-11-14T14:11:55+00:00",
         "head": "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új) · <b>Közélet</b> · forróság 12.02 · 5 forrás\n\n1) Orbán vicceskedéssel reagált, miközben a Fidesz behívná Magyar Pétert a parlamentbe\n2) Orbán poénkodik, miközben a Fidesz Magyar Pétert hívja\n3) Seszták-ügy: Orbán tréfál, Magyar Péter a székben\n\n<b>Források:</b> telex.hu, hvg.hu, index.hu, index.hu, infostart.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A Fidesz-frakció Magyar Péter parlamenti meghallgatását kezdeményezte a Végrehajtási Ügyeket Feltáró Vizsgálóbizottságban, mire a miniszterelnök egy viccesnek szánt üzenettel reagált. A fejlemények hátterében a Seszták-ügyben előkerült milliárdos készpénzek és a bizottsági viták állnak.",
-        "ctl_photo": false,
-        "control_id": 10307,
+        "ctl_photo": true,
+        "control_id": 10309,
         "msg_ids": []
-      }
+      },
+      "image_queries": [
+        "Hungarian Parliament Building",
+        "Péter Magyar",
+        "Viktor Orbán",
+        "Judit Varga",
+        "stack of banknotes in a safe",
+        "politician speaking at a podium",
+        "empty parliament seats",
+        "smartphone screen with social media comm"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      ]
     }
   ]
 }
