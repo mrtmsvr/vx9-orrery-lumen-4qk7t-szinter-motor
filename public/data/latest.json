@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f4a1bc46-5189-5c15-be30-43ef0d413caf",
+      "slug": "2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke",
+      "url": "/kozelet/2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke/",
+      "title": "Nem akartak változást: kétharmaddal győzött a BÜK régi elnöke",
+      "lead": "További négy évre választották a Budapesti Ügyvédi Kamara elnökévé Tóth M. Gábort a pénteki tisztújításon. A kihívók szerint a tagság a stabil és kiszámítható működés fenntartása mellett tette le a voksát.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T10:29:32+01:00",
+      "published_at": "2026-11-14T10:29:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.1,
+      "tags": [
+        "Budapesti Ügyvédi Kamara",
+        "Tóth M. Gábor",
+        "Horváth Lóránt",
+        "belföld",
+        "ügyvédség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Hungary"
+      }
+    },
+    {
       "id": "f262e504-4561-5fa9-894c-665aa4cbf4ae",
       "slug": "2026-11-14-bilincsben-viszik-az-ocsot-mikozben-orban-viktor-szerint-csak-o-a-cel",
       "url": "/kozelet/2026-11-14-bilincsben-viszik-az-ocsot-mikozben-orban-viktor-szerint-csak-o-a-cel/",
@@ -4410,35 +4440,7 @@
         "pos": "center",
         "alt": "Official ambulance of stage 2 (Aigle-Geneva) of the 2026 Tour de France Femmes, photographed near Vionnaz (Valais, Switzerland)."
       }
-    },
-    {
-      "id": "4f11af0c-9bf6-5565-ab54-cb0ca3054361",
-      "slug": "2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen",
-      "url": "/kozelet/2026-11-06-megint-elszamoltak-a-cegugyeket-az-orszaggyules-elen/",
-      "title": "Megint elszámolták a cégügyeket az Országgyűlés élén",
-      "lead": "Vagyonnyilatkozati eljárást kezdeményezett Németh Balázs fideszes képviselő Forsthoffer Ágnes házelnökkel szemben, miután a politikus frissített irataiból egymilliárdos forgalmú cég ügyvezetői tisztsége maradt ki. Az ügy rávilágít a vagyonnyilatkozatok pontosságát övező folyamatos politikai vitákra.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T10:17:06+01:00",
-      "published_at": "2026-11-06T10:17:06+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "vagyonnyilatkozat",
-        "Németh Balázs",
-        "Forsthoffer Ágnes",
-        "mentelmi bizottság",
-        "Országgyűlés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-d5c487a5ee.jpg",
-        "kind": "photo",
-        "alt": "Megint elszámolták a cégügyeket az Országgyűlés élén",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-14T09:55:57+01:00"
+  "updated_at": "2026-11-14T10:29:36+01:00"
 }
