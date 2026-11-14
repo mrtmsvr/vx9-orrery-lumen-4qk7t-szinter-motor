@@ -31,36 +31,6 @@
       }
     },
     {
-      "id": "243c1b90-a584-55ee-b64e-2c786c6dca1d",
-      "slug": "2026-11-14-orban-vicceskedessel-reagalt-mikozben-a-fidesz-behivna-magyar-petert",
-      "url": "/kozelet/2026-11-14-orban-vicceskedessel-reagalt-mikozben-a-fidesz-behivna-magyar-petert/",
-      "title": "Orbán vicceskedéssel reagált, miközben a Fidesz behívná Magyar Pétert a parlamentbe",
-      "lead": "A Fidesz-frakció Magyar Péter parlamenti meghallgatását kezdeményezte a Végrehajtási Ügyeket Feltáró Vizsgálóbizottságban, mire a miniszterelnök egy viccesnek szánt üzenettel reagált. A fejlemények hátterében a Seszták-ügyben előkerült milliárdos készpénzek és a bizottsági viták állnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T12:43:45+01:00",
-      "published_at": "2026-11-14T12:43:45+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.02,
-      "tags": [
-        "Magyar Péter",
-        "Fidesz",
-        "Végrehajtási Ügyeket Feltáró Vizsgálóbizottság",
-        "Seszták-ügy",
-        "NVVH"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 798,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Magyar Péter 2024. április-án"
-      }
-    },
-    {
       "id": "5cb8ab57-0f9e-56e4-8393-75f42cb98000",
       "slug": "2026-11-14-szivhangrendelet-modositas-mi-valtozik-es-kotelezo-e-hallgatni",
       "url": "/kozelet/2026-11-14-szivhangrendelet-modositas-mi-valtozik-es-kotelezo-e-hallgatni/",
@@ -4443,7 +4413,37 @@
         "pos": "center",
         "alt": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB Čáslav."
       }
+    },
+    {
+      "id": "e2eb46a9-634c-5369-b2ae-a2ad611849be",
+      "slug": "2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete",
+      "url": "/vilag/2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete/",
+      "title": "Egész Európát átszabó ukrajnai békéért lobbizik Trump és Putyin követe",
+      "lead": "Donald Trump amerikai elnök bejelentette, hogy hamarosan megállapodás születhet az ukrajnai háború rendezéséről, amely szerinte egész Európát érintheti. A fejlemény hátterében egy zárt körű fehér házi találkozó és brüsszeli egyeztetések állnak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-06",
+      "date_label": "november 6.",
+      "created_at": "2026-11-06T13:37:31+01:00",
+      "published_at": "2026-11-06T13:37:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.14,
+      "tags": [
+        "Donald Trump",
+        "Vlagyimir Putyin",
+        "ukrajnai háború",
+        "külpolitika",
+        "Egyesült Államok"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Vladimir_Putin_2_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1598,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Завершая рабочий визит в Киргизию, Владимир Путин ответил на вопросы представителей российских СМИ. Фото: Кристина Соловьёва, РИА «Новости»"
+      }
     }
   ],
-  "updated_at": "2026-11-14T14:01:54+01:00"
+  "updated_at": "2026-11-14T15:11:56+01:00"
 }
