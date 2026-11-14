@@ -21,10 +21,10 @@
         "magyar sztárok"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-86ecfcd0b5.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-1517ec4309.jpg",
         "kind": "photo",
-        "alt": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
-        "cover": true
+        "alt": "Térkép: Budapest",
+        "card": "map"
       }
     },
     {
@@ -4440,5 +4440,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-14T11:07:41+01:00"
+  "updated_at": "2026-11-14T11:16:29+01:00"
 }
