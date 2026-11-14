@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6f4781a7-4fd7-5da3-ae13-71e0bfc8749b",
+      "slug": "2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet",
+      "url": "/kozelet/2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet/",
+      "title": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
+      "lead": "A választások után sokan csodavárással, míg a kistelepüléseken élők mély szorongással tekintenek a jövőre. L. Ritók Nóra esélyegyenlőségi szakértő a Partizán műsorában arról beszélt, hogy a generációs szegénységben élők mindennapjait teljesen más kérdések határozzák meg, mint a nagypolitikai vitákat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T20:19:02+01:00",
+      "published_at": "2026-11-14T20:19:02+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "L. Ritók Nóra",
+        "Partizán",
+        "szegénység",
+        "esélyegyenlőség",
+        "társadalom"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg/1280px-Washing%2C_women%2C_work%2C_poverty_Fortepan_28260.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungary?\n\nTags: washing, women, work, poverty"
+      }
+    },
+    {
       "id": "e21acd17-db58-5a20-8652-907143cebb6b",
       "slug": "2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton",
       "url": "/kozelet/2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton/",
@@ -4415,36 +4445,7 @@
         "pos": "top",
         "alt": "Election night in Bavaria, Maximilianeum Munich, Election to the 19th Bavarian State Parliament: Ilse Aigner (CSU)"
       }
-    },
-    {
-      "id": "3c945807-1e17-5221-be4e-7669e1e33de9",
-      "slug": "2026-11-06-visszakaphatjak-a-szulok-a-dontest-atszabjak-az-iskolakezdes-szabalya",
-      "url": "/kozelet/2026-11-06-visszakaphatjak-a-szulok-a-dontest-atszabjak-az-iskolakezdes-szabalya/",
-      "title": "Visszakaphatják a szülők a döntést: átszabják az iskolakezdés szabályait",
-      "lead": "Társadalmi egyeztetésre bocsátották azt a jogszabály-módosítást, amely átszabná az óvoda és az iskola közti váltás szabályait Magyarországon. A tervek szerint a jövőben nem korhoz kötnék, és nem az Oktatási Hivatal határozná meg az iskolaérettséget.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T18:43:08+01:00",
-      "published_at": "2026-11-06T18:43:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.8,
-      "tags": [
-        "iskolakezdés",
-        "oktatás",
-        "Lannert Judit",
-        "gyermekek"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Kindergarten_children_at_S%C5%82awkowska_Street_in_Krak%C3%B3w%2C_2022.jpg/1280px-Kindergarten_children_at_S%C5%82awkowska_Street_in_Krak%C3%B3w%2C_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 827,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Kindergarten children at Sławkowska Street in Kraków, 2022"
-      }
     }
   ],
-  "updated_at": "2026-11-14T19:56:27+01:00"
+  "updated_at": "2026-11-14T20:19:03+01:00"
 }
