@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0b5138b4-4107-572e-83e6-e0e310e3302d",
+      "slug": "2026-11-14-donbaszt-a-nato-ert-nepszavazast-iger-zelenszkij-az-amerikai-alkura",
+      "url": "/vilag/2026-11-14-donbaszt-a-nato-ert-nepszavazast-iger-zelenszkij-az-amerikai-alkura/",
+      "title": "Donbászt a NATO-ért? Népszavazást ígér Zelenszkij az amerikai alkura",
+      "lead": "Az amerikai tárgyalók felvetették, hogy Ukrajna vonja vissza fennmaradó csapatait a keleti Donbász régióból a NATO-tagságért cserébe. Volodimir Zelenszkij ukrán elnök kijelentette, hogy egy ilyen horderejű döntést csak népszavazással hagyna jóvá.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T18:01:34+01:00",
+      "published_at": "2026-11-14T18:01:34+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.55,
+      "tags": [
+        "Volodimir Zelenszkij",
+        "NATO",
+        "Donbasz",
+        "egyesült államok",
+        "orosz-ukrán háború"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1280px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 642,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "NATO Headquarters in Brussels."
+      }
+    },
+    {
       "id": "22c5c36f-06de-5eb5-87fc-8bcaa82ba535",
       "slug": "2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat",
       "url": "/kozelet/2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat/",
@@ -4413,37 +4443,7 @@
         "pos": "center",
         "alt": "The National Theatre of Szeged, Hungary."
       }
-    },
-    {
-      "id": "c890fe52-15a4-5f1e-8740-305b29cd54f7",
-      "slug": "2026-11-06-ugynokbotrany-rendkivuli-ulest-hivott-ossze-apati",
-      "url": "/kozelet/2026-11-06-ugynokbotrany-rendkivuli-ulest-hivott-ossze-apati/",
-      "title": "Ügynökbotrány: rendkívüli ülést hívott össze Apáti",
-      "lead": "Rendkívüli, nyílt ülést hívott össze a parlament nemzetbiztonsági bizottságának elnöke az Állambiztonsági Szolgálatok Történeti Levéltárában történt adathibák tisztázása érdekében. Az ügy előzménye, hogy a nyitottaktak.hu adatbázisában tévesen hálózati személyként tüntettek fel több mint százhatvan megfigyeltet.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T14:14:39+01:00",
-      "published_at": "2026-11-06T14:14:39+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.25,
-      "tags": [
-        "ügynökakták",
-        "nemzetbiztonsági bizottság",
-        "Apáti István",
-        "ÁBTL",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Istv%C3%A1n_Ap%C3%A1ti_Senate_of_Poland_%28cropped%29.JPG/1280px-Istv%C3%A1n_Ap%C3%A1ti_Senate_of_Poland_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1447,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Hungerian MP István Apáti (right) in the 5th meeting of the committees on public administration and regional policy of the parliaments of the Visegrad Group countries in the Polish Sejm"
-      }
     }
   ],
-  "updated_at": "2026-11-14T17:36:09+01:00"
+  "updated_at": "2026-11-14T18:01:37+01:00"
 }
