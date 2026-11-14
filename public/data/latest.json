@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ba63d134-cfe0-578e-8a9f-e6d6c6823aa9",
+      "slug": "2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat",
+      "url": "/vilag/2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat/",
+      "title": "Drónok zavarták meg az amerikaiak legnagyobb angliai bázisát",
+      "lead": "Ismeretlen eredetű drónokat észleltek pénteken az Egyesült Államok legnagyobb angliai légitámaszpontjánál, mire a személyzet óvóhelyre vonult. Az eset után a brit hatóságok fokozott éberségre intették a lakosságot.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T07:56:03+01:00",
+      "published_at": "2026-11-14T07:56:03+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.83,
+      "tags": [
+        "Egyesült Királyság",
+        "drón",
+        "légitámaszpont",
+        "Egyesült Államok",
+        "biztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg/1280px-Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 960,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Lt. Col. James Hecker (front) and Lt. Col. Evan Dertein line up their F/A-22 Raptor aircraft behind a KC-10 Extender to refuel while en route to Hill Air Force Base, Utah. Colonel Hecker commands the"
+      }
+    },
+    {
       "id": "6f4ad92f-d071-5dd6-96fc-af63ef9da0d2",
       "slug": "2026-11-14-nyolc-oran-at-szamoltak-a-foldbol-kiasott-milliardokat-sesztak-kertje",
       "url": "/kozelet/2026-11-14-nyolc-oran-at-szamoltak-a-foldbol-kiasott-milliardokat-sesztak-kertje/",
@@ -4408,37 +4438,7 @@
         "pos": "center",
         "alt": "This image shows a white wine glass (WMF Easy) with white wine."
       }
-    },
-    {
-      "id": "9b341606-82c5-55d8-9aeb-05315f1a2a7c",
-      "slug": "2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos",
-      "url": "/kozelet/2026-11-05-haromnapos-kitiltast-kapott-a-parlamentbol-a-fideszes-pocs-janos/",
-      "title": "Háromnapos kitiltást kapott a parlamentből a fideszes Pócs János",
-      "lead": "Három ülésnapra tiltotta ki az Országgyűlésből Forsthoffer Ágnes házelnök Pócs János fideszes képviselőt, miután a politikus az elmúlt napokban sorozatosan megzavarta a Ház munkáját. A döntés értelmében a honatya csak a titkos szavazásokon vehet részt egy külön kijelölt helyiségben.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-05",
-      "date_label": "november 5.",
-      "created_at": "2026-11-06T08:29:45+01:00",
-      "published_at": "2026-11-06T08:29:45+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Pócs János",
-        "Forsthoffer Ágnes",
-        "Országgyűlés",
-        "Parlament",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Fot. Piotr Molęcki / Kancelaria Sejmu"
-      }
     }
   ],
-  "updated_at": "2026-11-14T07:54:48+01:00"
+  "updated_at": "2026-11-14T07:56:06+01:00"
 }
