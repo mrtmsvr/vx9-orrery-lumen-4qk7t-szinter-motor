@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "de86aee9-fdca-5c16-863f-e436284bc605",
+      "slug": "2026-11-14-atomfegyverekrol-es-iranrol-targyal-a-nagyhatalmi-harmas",
+      "url": "/vilag/2026-11-14-atomfegyverekrol-es-iranrol-targyal-a-nagyhatalmi-harmas/",
+      "title": "Atomfegyverekről és Iránról tárgyal a nagyhatalmi hármas",
+      "lead": "A jövő héten a dél-kínai Sencsenben rendezett APEC-csúcstalálkozó keretében ül össze Donald Trump amerikai, Vlagyimir Putyin orosz és Hszi Csin-ping kínai elnök. A történelminek ígérkező megbeszélésen a nukleáris fegyverzetkorlátozás és az iráni konfliktus kerül terítékre.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T12:44:49+01:00",
+      "published_at": "2026-11-14T12:44:49+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.4,
+      "tags": [
+        "Donald Trump",
+        "Vlagyimir Putyin",
+        "Hszi Csin-ping",
+        "APEC",
+        "atomfegyver"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/The_west_panorama_of_Shenzhen2021.jpg/1280px-The_west_panorama_of_Shenzhen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 403,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The west panorama of Shenzhen, Shennan road in the middle, Shenzhen river in the left, and Kowloon–Canton railway in the right."
+      }
+    },
+    {
       "id": "243c1b90-a584-55ee-b64e-2c786c6dca1d",
       "slug": "2026-11-14-orban-vicceskedessel-reagalt-mikozben-a-fidesz-behivna-magyar-petert",
       "url": "/kozelet/2026-11-14-orban-vicceskedessel-reagalt-mikozben-a-fidesz-behivna-magyar-petert/",
@@ -4413,37 +4443,7 @@
         "pos": "center",
         "alt": "Saab JAS-39 Gripen of the Czech Air Force taking off from AFB Čáslav."
       }
-    },
-    {
-      "id": "e2eb46a9-634c-5369-b2ae-a2ad611849be",
-      "slug": "2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete",
-      "url": "/vilag/2026-11-06-egesz-europat-atszabo-ukrajnai-beket-lobbizik-trump-es-putyin-kovete/",
-      "title": "Egész Európát átszabó ukrajnai békéért lobbizik Trump és Putyin követe",
-      "lead": "Donald Trump amerikai elnök bejelentette, hogy hamarosan megállapodás születhet az ukrajnai háború rendezéséről, amely szerinte egész Európát érintheti. A fejlemény hátterében egy zárt körű fehér házi találkozó és brüsszeli egyeztetések állnak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T13:37:31+01:00",
-      "published_at": "2026-11-06T13:37:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.14,
-      "tags": [
-        "Donald Trump",
-        "Vlagyimir Putyin",
-        "ukrajnai háború",
-        "külpolitika",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Vladimir_Putin_2_September_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1598,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Завершая рабочий визит в Киргизию, Владимир Путин ответил на вопросы представителей российских СМИ. Фото: Кристина Соловьёва, РИА «Новости»"
-      }
     }
   ],
-  "updated_at": "2026-11-14T12:43:47+01:00"
+  "updated_at": "2026-11-14T12:44:51+01:00"
 }
