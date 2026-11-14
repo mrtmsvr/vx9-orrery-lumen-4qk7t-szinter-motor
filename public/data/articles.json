@@ -1,7 +1,138 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T20:58:46+01:00",
+  "updated_at": "2026-11-14T07:53:15+01:00",
   "articles": [
+    {
+      "id": "0f78aabf-0ef0-51e2-9527-b6e35eb7ffd1",
+      "slug": "2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Egyesült Államok",
+        "légiközlekedés",
+        "FAA",
+        "közlekedés",
+        "USA"
+      ],
+      "title": "Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt",
+      "subtitle": null,
+      "lead": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítás rendszerét. Az intézkedés utasok százezreinek utazását zavarta meg, és a teljes helyreállítás napokig tarthat.",
+      "key_points": [
+        "Az FAA pénteken rendkívüli intézkedésként felfüggesztette a repülőgépek felszállását az Egyesült Államokban.",
+        "A kommunikációs és radarrendszerek instabillá válása több ezer járatot és utasok százezreit érintette.",
+        "Sean Duffy közlekedési miniszter szerint a problémát az elöregedett, részben analóg infrastruktúra okozta.",
+        "A hatóságok vizsgálata szerint eddig nincs bizonyíték kibertámadásra vagy más szándékos beavatkozásra."
+      ],
+      "content": "Az Egyesült Államok Szövetségi Légügyi Hivatala pénteken rendkívüli intézkedésként országszerte felfüggesztette a repülőgépek felszállását, miután súlyos kommunikációs zavarok léptek fel a légiforgalmi irányítás rendszerében. A több mint négyórás leállás több ezer járatot érintett, és utasok százezreinek utazását nehezítette meg. Az országos korlátozást magyar idő szerint szombat hajnalban oldották fel, a légiközlekedés teljes helyreállítása azonban napokat vehet igénybe.\n\nA rendkívüli intézkedést azután vezették be, hogy amerikai keleti parti idő szerint pénteken 15 óra 36 perckor instabillá váltak a légiforgalmi irányítás radar- és kommunikációs rendszerei. A Szövetségi Légügyi Hivatal biztonsági okokra és rendkívüli körülményekre hivatkozva valamennyi amerikai repülőtér számára megtiltotta az induló járatok felszállását. A már levegőben lévő repülőgépek leszállását továbbra is biztosították, a nemzetközi járatokat pedig eseti alapon, egyedi elbírálás alapján kezelték.\n\nA Cirium légiközlekedési elemzőcég adatai alapján legalább 827 járatot kellett eltéríteni az eredeti útvonaláról. Ebből 670 gép visszatért az indulási repülőterére, míg további 157 repülőgép egy másik repülőtéren szállt le. A fennakadások miatt több repülőtér teljesen megtelt, így például Washington Ronald Reagan repülőtere egy idő után már nem tudott további átirányított gépeket fogadni.\n\nSean Duffy amerikai közlekedési miniszter tájékoztatása szerint a zavart az amerikai légiforgalmi irányítás elöregedett infrastruktúrája idézte elő. A rendszer egyes elemei továbbra is analóg távközlési technológiára épülnek, és az adatforgalmat kezelő hálózati berendezések túlterhelődtek, ami miatt az irányítók ellentmondásos és megbízhatatlan információkat kaptak. A miniszter hangsúlyozta, hogy nem történt teljes rendszerösszeomlás, a radarok és a kommunikációs eszközök szolgáltattak adatokat, de ezek megbízhatósága elmaradt a biztonságos forgalom fenntartásához szükséges szinttől,\n\nA Szövetségi Légügyi Hivatal magyar idő szerint szombat hajnalban oldotta fel a tilalmat. A légitársaságok figyelmeztetése értelmében a leállás következményeit még szombaton is érezhetik az utasok, mivel a repülőgépek és a személyzet nem az eredeti menetrend szerinti helyeken tartózkodnak, ami miatt újabb járattörlésekre és késésekre kell számítani.",
+      "content_format": "markdown",
+      "body": [
+        "Az Egyesült Államok Szövetségi Légügyi Hivatala pénteken rendkívüli intézkedésként országszerte felfüggesztette a repülőgépek felszállását, miután súlyos kommunikációs zavarok léptek fel a légiforgalmi irányítás rendszerében. A több mint négyórás leállás több ezer járatot érintett, és utasok százezreinek utazását nehezítette meg. Az országos korlátozást magyar idő szerint szombat hajnalban oldották fel, a légiközlekedés teljes helyreállítása azonban napokat vehet igénybe.",
+        "A rendkívüli intézkedést azután vezették be, hogy amerikai keleti parti idő szerint pénteken 15 óra 36 perckor instabillá váltak a légiforgalmi irányítás radar- és kommunikációs rendszerei. A Szövetségi Légügyi Hivatal biztonsági okokra és rendkívüli körülményekre hivatkozva valamennyi amerikai repülőtér számára megtiltotta az induló járatok felszállását. A már levegőben lévő repülőgépek leszállását továbbra is biztosították, a nemzetközi járatokat pedig eseti alapon, egyedi elbírálás alapján kezelték.",
+        "A Cirium légiközlekedési elemzőcég adatai alapján legalább 827 járatot kellett eltéríteni az eredeti útvonaláról. Ebből 670 gép visszatért az indulási repülőterére, míg további 157 repülőgép egy másik repülőtéren szállt le. A fennakadások miatt több repülőtér teljesen megtelt, így például Washington Ronald Reagan repülőtere egy idő után már nem tudott további átirányított gépeket fogadni.",
+        "Sean Duffy amerikai közlekedési miniszter tájékoztatása szerint a zavart az amerikai légiforgalmi irányítás elöregedett infrastruktúrája idézte elő. A rendszer egyes elemei továbbra is analóg távközlési technológiára épülnek, és az adatforgalmat kezelő hálózati berendezések túlterhelődtek, ami miatt az irányítók ellentmondásos és megbízhatatlan információkat kaptak. A miniszter hangsúlyozta, hogy nem történt teljes rendszerösszeomlás, a radarok és a kommunikációs eszközök szolgáltattak adatokat, de ezek megbízhatósága elmaradt a biztonságos forgalom fenntartásához szükséges szinttől,",
+        "A Szövetségi Légügyi Hivatal magyar idő szerint szombat hajnalban oldotta fel a tilalmat. A légitársaságok figyelmeztetése értelmében a leállás következményeit még szombaton is érezhetik az utasok, mivel a repülőgépek és a személyzet nem az eredeti menetrend szerinti helyeken tartózkodnak, ami miatt újabb járattörlésekre és késésekre kell számítani."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 324,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport",
+        "credit": "Sam Li / Wikimedia Commons",
+        "license": "CC BY-SA 2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HKIA_Control_Tower.JPG",
+        "exact": true,
+        "entity": "air traffic control tower",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/",
+          "title": "Még napokig tarthat az összeomlott amerikai légiközlekedés helyreállítása",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T07:49:22+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/13/legi-stop-az-usa-ban-ezert-tortent-az-intezkedes",
+          "title": "Légi stop az USA-ban – ezért történt az intézkedés",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T07:49:22+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-14T07:53:15+01:00"
+      },
+      "hot_score": 7.48,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/"
+        ]
+      },
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "url": "/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
+      "seo": {
+        "meta_title": "Órákra megbénult az amerikai légiforgalom az elöregedett irá",
+        "meta_description": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "156147ee-9f3d-59b2-8e13-a5738b075ec6",
+        "5c408646-9e66-520c-ab5f-3c1017df10ac",
+        "22c5a999-2176-5e6d-bc60-bebdabda4208"
+      ],
+      "see_also": [
+        {
+          "title": "Miért marad le folyamatosan az EU az Egyesült Államok mögött?",
+          "url": "/penzvilag/2026-10-18-miert-marad-le-folyamatosan-az-eu-az-egyesult-allamok-mogott/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Kína és Oroszország közös nyomása gyengítheti meg Európát",
+          "url": "/vilag/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat/",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Hálát rebeg Washingtonnak Zelenszkij, miközben rakéták hullnak Kijevre",
+          "url": "/vilag/2026-10-21-halat-rebeg-washingtonnak-zelenszkij-mikozben-raketak-hullnak-kijevre/",
+          "date": "2026-10-21"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "f57eec97ffd38d7042bab4fea2ddfb09909e57b8f435e7b9ff2d931ce3c96ff7",
+      "pipeline_run_id": "43566237495",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-14T07:53:15+01:00",
+      "updated_at": "2026-11-14T07:53:15+01:00",
+      "published_at": "2026-11-14T07:53:15+01:00",
+      "expires_at": null
+    },
     {
       "id": "ce716798-01ee-53b4-ba4d-2f7e11f14433",
       "slug": "2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok",
@@ -74811,116 +74942,6 @@
       "created_at": "2026-10-15T14:05:02+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-15T14:05:02+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1af60b30-0ec8-5f69-bd41-eb5a18594c7f",
-      "slug": "2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Rubint Réka",
-        "egészség",
-        "gyógyulás",
-        "fitnesz"
-      ],
-      "title": "Rubint Réka: Eltűnt az a daganat, amelyet műthetetlennek tartottak",
-      "subtitle": null,
-      "lead": "Jelentős javulásról számolt be Rubint Réka a 2022-ben diagnosztizált daganatos betegségével kapcsolatban. A fitneszedző a legfrissebb frankfurti kezeléseit követően osztotta meg biztató állapotáról szóló fejleményeket.",
-      "key_points": [
-        "A korábban műthetetlennek nyilvánított alapdaganata teljesen felszívódott.",
-        "A tüdejében lévő apróbb gócok szintén eltűntek a vizsgálatok szerint.",
-        "A májában található elváltozások száma a korábbi kilencről négyre csökkent.",
-        "A javulást a daganat vérellátását blokkoló, speciális TACE-kezeléssel érték el."
-      ],
-      "content": "A 2022-ben diagnosztizált betegségével sokáig csendben küzdő Rubint Réka a TV2-nek adott interjúban beszélt arról, hogy a Frankfurtban kapott terápiák hatására látványos változások történtek a szervezetében. A fitneszedző elmondta, hogy az orvosok által korábban megközelíthetetlennek és műtéti úton eltávolíthatatlannak minősített alapdaganata nyomtalanul eltűnt, hasonlóan a hasnyálmirigyénél korábban azonosított gócokhoz.\n\nA javulás a tüdőt is érinti, ahol számos apró, korábban jelen lévő góc szívódott fel. A májban található elváltozások esetében a TACE (transzarteriális kemoembolizáció) eljárás hozott eredményt. Ez a módszer úgy működik, hogy egy katéteren keresztül közvetlenül a daganatba juttatják a hatóanyagot, ezzel elzárva a daganat vérellátását. Ennek köszönhetően a korábban regisztrált kilenc gócról négyre csökkent az elváltozások száma.\n\nBár a fitneszedző a nyilvánosság előtt is nyíltan beszélt a gyógyulásért vívott küzdelméről – ahogy arról korábban beszámoltunk –, a kezelések alatt sem hagyott fel a munkával, és a rendszeres edzésekkel tartotta magát. A tréner hangsúlyozta, hogy a teljes felépülésig vezető harc még nem ért véget, de az orvosi kontrollvizsgálatok mostanra egyértelműen pozitív irányú változásokat mutattak ki a szervezetében.",
-      "content_format": "markdown",
-      "body": [
-        "A 2022-ben diagnosztizált betegségével sokáig csendben küzdő Rubint Réka a TV2-nek adott interjúban beszélt arról, hogy a Frankfurtban kapott terápiák hatására látványos változások történtek a szervezetében. A fitneszedző elmondta, hogy az orvosok által korábban megközelíthetetlennek és műtéti úton eltávolíthatatlannak minősített alapdaganata nyomtalanul eltűnt, hasonlóan a hasnyálmirigyénél korábban azonosított gócokhoz.",
-        "A javulás a tüdőt is érinti, ahol számos apró, korábban jelen lévő góc szívódott fel. A májban található elváltozások esetében a TACE (transzarteriális kemoembolizáció) eljárás hozott eredményt. Ez a módszer úgy működik, hogy egy katéteren keresztül közvetlenül a daganatba juttatják a hatóanyagot, ezzel elzárva a daganat vérellátását. Ennek köszönhetően a korábban regisztrált kilenc gócról négyre csökkent az elváltozások száma.",
-        "Bár a fitneszedző a nyilvánosság előtt is nyíltan beszélt a gyógyulásért vívott küzdelméről – ahogy arról korábban beszámoltunk –, a kezelések alatt sem hagyott fel a munkával, és a rendszeres edzésekkel tartotta magát. A tréner hangsúlyozta, hogy a teljes felépülésig vezető harc még nem ért véget, de az orvosi kontrollvizsgálatok mostanra egyértelműen pozitív irányú változásokat mutattak ki a szervezetében."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 193,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1483,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "A screenshot of a YouTube video news report featuring Réka Rubint, uploaded and created by the Tolnatàj Television channel.",
-        "credit": "Tolnatáj Television / Wikimedia Commons",
-        "license": "CC BY 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:R%C3%A9kaRubint2019.png"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/elet/20261015_rubint-reka-a-rakbetegsegerol-nyilatkozott",
-          "title": "„Az alapdaganatom eltűnt” – Rubint Réka a rákbetegségéről nyilatkozott",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-15T14:03:26+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Az alapdaganatom, amihez senki nem tudott hozzáférni, mert azt mondták, hogy megközelíthetetlen, tehát még műtéti úton sem eltávolítható, eltűnt.",
-        "who": "Rubint Réka, fitneszedző",
-        "after": 0
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-15T14:05:01+02:00"
-      },
-      "hot_score": 5.18,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/elet/20261015_rubint-reka-a-rakbetegsegerol-nyilatkozott"
-        ]
-      },
-      "date": "2026-10-15",
-      "date_label": "október 15.",
-      "url": "/bulvar/2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak/",
-      "seo": {
-        "meta_title": "Rubint Réka: Eltűnt az a daganat, amelyet műthetetlennek tar",
-        "meta_description": "Jelentős javulásról számolt be Rubint Réka a 2022-ben diagnosztizált daganatos betegségével kapcsolatban. A fitneszedző a legfrissebb frankfurti kezeléseit köve",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-15-rubint-reka-eltunt-az-a-daganat-amelyet-muthetetlennek-tartottak/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/1/14/R%C3%A9kaRubint2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "aad5c312-6f73-52a8-8d5f-1d463f09f75d"
-      ],
-      "see_also": [
-        {
-          "title": "Újabb nehéz vizsgálat előtt áll a fitneszkirálynő",
-          "url": "/bulvar/2026-10-02-ujabb-nehez-vizsgalat-elott-all-a-fitneszkiralyno/",
-          "date": "2026-10-02"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "579e14255aabd8d2c3d2f01df3d8c0b5eb312a9d0d074754cad805413d905ab8",
-      "pipeline_run_id": "38729448588",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-15T14:05:01+02:00",
-      "updated_at": "2026-10-15T14:05:01+02:00",
-      "published_at": "2026-10-15T14:05:01+02:00",
       "expires_at": null
     }
   ]

@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0f78aabf-0ef0-51e2-9527-b6e35eb7ffd1",
+      "slug": "2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend",
+      "url": "/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
+      "title": "Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt",
+      "lead": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítás rendszerét. Az intézkedés utasok százezreinek utazását zavarta meg, és a teljes helyreállítás napokig tarthat.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T07:53:15+01:00",
+      "published_at": "2026-11-14T07:53:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.48,
+      "tags": [
+        "Egyesült Államok",
+        "légiközlekedés",
+        "FAA",
+        "közlekedés",
+        "USA"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport"
+      }
+    },
+    {
       "id": "ce716798-01ee-53b4-ba4d-2f7e11f14433",
       "slug": "2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok",
       "url": "/kozelet/2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok/",
@@ -4409,37 +4439,7 @@
         "pos": "top",
         "alt": "Official portrait, 2026"
       }
-    },
-    {
-      "id": "34638c51-51ce-5b5b-a036-0a23fd7b3f22",
-      "slug": "2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore",
-      "url": "/kozelet/2026-11-06-dronelharito-pajzsot-vontak-a-karmelita-kolostor-kore/",
-      "title": "Drónelhárító pajzsot vontak a Karmelita kolostor köré",
-      "lead": "Titkosított szerződés keretében látták el drónelhárító rendszerrel Orbán Viktor korábbi hivatali helyszínét, a Karmelita kolostort. A szakértők szerint a védelmi intézkedés a modern objektumbiztonság elengedhetetlen része, különösen egy érzékeny, nagyvárosi kormányzati környezetben.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T07:38:55+01:00",
-      "published_at": "2026-11-06T07:38:55+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.23,
-      "tags": [
-        "Orbán Viktor",
-        "Karmelita kolostor",
-        "Honvédelmi Minisztérium",
-        "drónvédelem",
-        "nemzetbiztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SzinhazUtcaFotoThalerTamas4.jpg/1280px-SzinhazUtcaFotoThalerTamas4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1185,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "1014 Budapest, Színház utca 5."
-      }
     }
   ],
-  "updated_at": "2026-11-14T07:25:07+01:00"
+  "updated_at": "2026-11-14T07:53:18+01:00"
 }

@@ -7880,6 +7880,255 @@
         "control_id": 10280,
         "msg_ids": []
       }
+    },
+    {
+      "id": "0f78aabf-0ef0-51e2-9527-b6e35eb7ffd1",
+      "slug": "2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Egyesült Államok",
+        "légiközlekedés",
+        "FAA",
+        "közlekedés",
+        "USA"
+      ],
+      "title": "Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt",
+      "subtitle": null,
+      "lead": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítás rendszerét. Az intézkedés utasok százezreinek utazását zavarta meg, és a teljes helyreállítás napokig tarthat.",
+      "key_points": [
+        "Az FAA pénteken rendkívüli intézkedésként felfüggesztette a repülőgépek felszállását az Egyesült Államokban.",
+        "A kommunikációs és radarrendszerek instabillá válása több ezer járatot és utasok százezreit érintette.",
+        "Sean Duffy közlekedési miniszter szerint a problémát az elöregedett, részben analóg infrastruktúra okozta.",
+        "A hatóságok vizsgálata szerint eddig nincs bizonyíték kibertámadásra vagy más szándékos beavatkozásra."
+      ],
+      "content": "Az Egyesült Államok Szövetségi Légügyi Hivatala pénteken rendkívüli intézkedésként országszerte felfüggesztette a repülőgépek felszállását, miután súlyos kommunikációs zavarok léptek fel a légiforgalmi irányítás rendszerében. A több mint négyórás leállás több ezer járatot érintett, és utasok százezreinek utazását nehezítette meg. Az országos korlátozást magyar idő szerint szombat hajnalban oldották fel, a légiközlekedés teljes helyreállítása azonban napokat vehet igénybe.\n\nA rendkívüli intézkedést azután vezették be, hogy amerikai keleti parti idő szerint pénteken 15 óra 36 perckor instabillá váltak a légiforgalmi irányítás radar- és kommunikációs rendszerei. A Szövetségi Légügyi Hivatal biztonsági okokra és rendkívüli körülményekre hivatkozva valamennyi amerikai repülőtér számára megtiltotta az induló járatok felszállását. A már levegőben lévő repülőgépek leszállását továbbra is biztosították, a nemzetközi járatokat pedig eseti alapon, egyedi elbírálás alapján kezelték.\n\nA Cirium légiközlekedési elemzőcég adatai alapján legalább 827 járatot kellett eltéríteni az eredeti útvonaláról. Ebből 670 gép visszatért az indulási repülőterére, míg további 157 repülőgép egy másik repülőtéren szállt le. A fennakadások miatt több repülőtér teljesen megtelt, így például Washington Ronald Reagan repülőtere egy idő után már nem tudott további átirányított gépeket fogadni.\n\nSean Duffy amerikai közlekedési miniszter tájékoztatása szerint a zavart az amerikai légiforgalmi irányítás elöregedett infrastruktúrája idézte elő. A rendszer egyes elemei továbbra is analóg távközlési technológiára épülnek, és az adatforgalmat kezelő hálózati berendezések túlterhelődtek, ami miatt az irányítók ellentmondásos és megbízhatatlan információkat kaptak. A miniszter hangsúlyozta, hogy nem történt teljes rendszerösszeomlás, a radarok és a kommunikációs eszközök szolgáltattak adatokat, de ezek megbízhatósága elmaradt a biztonságos forgalom fenntartásához szükséges szinttől,\n\nA Szövetségi Légügyi Hivatal magyar idő szerint szombat hajnalban oldotta fel a tilalmat. A légitársaságok figyelmeztetése értelmében a leállás következményeit még szombaton is érezhetik az utasok, mivel a repülőgépek és a személyzet nem az eredeti menetrend szerinti helyeken tartózkodnak, ami miatt újabb járattörlésekre és késésekre kell számítani.",
+      "content_format": "markdown",
+      "body": [
+        "Az Egyesült Államok Szövetségi Légügyi Hivatala pénteken rendkívüli intézkedésként országszerte felfüggesztette a repülőgépek felszállását, miután súlyos kommunikációs zavarok léptek fel a légiforgalmi irányítás rendszerében. A több mint négyórás leállás több ezer járatot érintett, és utasok százezreinek utazását nehezítette meg. Az országos korlátozást magyar idő szerint szombat hajnalban oldották fel, a légiközlekedés teljes helyreállítása azonban napokat vehet igénybe.",
+        "A rendkívüli intézkedést azután vezették be, hogy amerikai keleti parti idő szerint pénteken 15 óra 36 perckor instabillá váltak a légiforgalmi irányítás radar- és kommunikációs rendszerei. A Szövetségi Légügyi Hivatal biztonsági okokra és rendkívüli körülményekre hivatkozva valamennyi amerikai repülőtér számára megtiltotta az induló járatok felszállását. A már levegőben lévő repülőgépek leszállását továbbra is biztosították, a nemzetközi járatokat pedig eseti alapon, egyedi elbírálás alapján kezelték.",
+        "A Cirium légiközlekedési elemzőcég adatai alapján legalább 827 járatot kellett eltéríteni az eredeti útvonaláról. Ebből 670 gép visszatért az indulási repülőterére, míg további 157 repülőgép egy másik repülőtéren szállt le. A fennakadások miatt több repülőtér teljesen megtelt, így például Washington Ronald Reagan repülőtere egy idő után már nem tudott további átirányított gépeket fogadni.",
+        "Sean Duffy amerikai közlekedési miniszter tájékoztatása szerint a zavart az amerikai légiforgalmi irányítás elöregedett infrastruktúrája idézte elő. A rendszer egyes elemei továbbra is analóg távközlési technológiára épülnek, és az adatforgalmat kezelő hálózati berendezések túlterhelődtek, ami miatt az irányítók ellentmondásos és megbízhatatlan információkat kaptak. A miniszter hangsúlyozta, hogy nem történt teljes rendszerösszeomlás, a radarok és a kommunikációs eszközök szolgáltattak adatokat, de ezek megbízhatósága elmaradt a biztonságos forgalom fenntartásához szükséges szinttől,",
+        "A Szövetségi Légügyi Hivatal magyar idő szerint szombat hajnalban oldotta fel a tilalmat. A légitársaságok figyelmeztetése értelmében a leállás következményeit még szombaton is érezhetik az utasok, mivel a repülőgépek és a személyzet nem az eredeti menetrend szerinti helyeken tartózkodnak, ami miatt újabb járattörlésekre és késésekre kell számítani."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 324,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport",
+        "credit": "Sam Li / Wikimedia Commons",
+        "license": "CC BY-SA 2.5",
+        "source_url": "https://commons.wikimedia.org/wiki/File:HKIA_Control_Tower.JPG",
+        "exact": true,
+        "entity": "air traffic control tower",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/",
+          "title": "Még napokig tarthat az összeomlott amerikai légiközlekedés helyreállítása",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T07:49:22+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/13/legi-stop-az-usa-ban-ezert-tortent-az-intezkedes",
+          "title": "Légi stop az USA-ban – ezért történt az intézkedés",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-14T07:49:22+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 7.48,
+      "title_options": [
+        "Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt",
+        "Elöregedett technika okozta a káoszt az amerikai reptereken",
+        "Analóg drótvezérlés: megbénult az amerikai légiközlekedés",
+        "Teljes volt a bizonytalanság: órákra leállt az amerikai légiforgalom",
+        "Hatalmas fennakadások az amerikai reptereken: több ezer járat maradt a földön",
+        "Mi okozta a váratlan légi stopot az Egyesült Államokban?"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport",
+          "credit": "Sam Li / Wikimedia Commons",
+          "license": "CC BY-SA 2.5",
+          "source_url": "https://commons.wikimedia.org/wiki/File:HKIA_Control_Tower.JPG",
+          "exact": true,
+          "entity": "air traffic control tower",
+          "vision_score": 11.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Angel_Peak_FAA_Radar_Site_-_Dec_2018.jpg/1280px-Angel_Peak_FAA_Radar_Site_-_Dec_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Angel Peak FAA (Federal Aviation Administration) Station photographed in December of 2018.",
+          "credit": "Noah Wulf / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Angel_Peak_FAA_Radar_Site_-_Dec_2018.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg/1280px-The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "The FAA air traffic control tower at Philadelphia International Airport",
+          "credit": "Harrison Keely / Wikimedia Commons",
+          "license": "CC BY 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:The_FAA_air_traffic_control_tower_at_Philadelphia_International_Airport.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/KLIA2_air_traffic_control_tower.jpg/1280px-KLIA2_air_traffic_control_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1600,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Air traffic control tower of KLIA2 (Kuala Lumpur International Airport 2), in Kuala Lumpur, Malaysia. Viewed from Tune Airport Hotel.",
+          "credit": "Axadem / Wikimedia Commons",
+          "license": "CC BY-SA 4.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KLIA2_air_traffic_control_tower.jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/g4cffac4bdfcb47222c8588c47069f16146be2e4404a17a9eca3c7796a605f49957eed7dc3c3d6155997c96c81abc3f1ef13aed5401e79cbe77ef55f71f57a772_1280.jpg",
+          "width": 6000,
+          "height": 4000,
+          "kind": "photo",
+          "alt": "sky, radar, tower, nature, antenna, radio, military, signals, jeju, island, airplane, bluesky, cloud, blue clouds, blue plane, blue radio, blue airplane, blue island",
+          "credit": "16301694 / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/sky-radar-tower-antenna-radio-5120030/",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-0d3d912cf9.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-0d3d912cf9.jpg",
+          "kind": "photo",
+          "alt": "827 járat – ennyi gépet kellett eltéríteni az eredeti útvonaláról",
+          "credit": "Kollektíva grafika",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "card": "num"
+        }
+      ],
+      "story": [
+        {
+          "title": "Még napokig tarthat az összeomlott amerikai légiközlekedés helyreállítása",
+          "link": "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/",
+          "summary": "Az Egyesült Államok Szövetségi Légügyi Hivatala (FAA) pénteken rendkívüli intézkedésként országszerte felfüggesztette a repülőgépek felszállását, miután súlyos kommunikációs zavarok léptek fel a légiforgalmi irányítás rendszerében. A több mint négyórás leállás több ezer járatot érintett, és utasok százezreinek utazását zavarta meg. Az országos korlátozást magyar idő szerint szombat hajnalban feloldották, a légiközlekedés teljes helyreállítása azonban napokat vehet igénybe, számoltunk be erről péntek este. A rendkívüli intézkedést azután vezették be, hogy pénteken, amerikai keleti parti idő sze",
+          "source": "24.hu",
+          "related": null,
+          "hot_score": 7.48
+        },
+        {
+          "title": "Légi stop az USA-ban – ezért történt az intézkedés",
+          "link": "https://infostart.hu/kulfold/2026/11/13/legi-stop-az-usa-ban-ezert-tortent-az-intezkedes",
+          "summary": "Sean Duffy közlekedési miniszter szerint az FAA, az Amerikai Szövetségi Légügyi Hivatal „országos felszállási tilalmat rendelt el az összes amerikai repülőtéren egy kommunikációs probléma miatt, amely az összes légiforgalmi irányító központot érintette”.",
+          "source": "infostart.hu",
+          "related": true,
+          "hot_score": null
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://24.hu/kulfold/2026/11/14/usa-repulogepek-foldre-parancsolasa-ujraindulas-kaosz-halaadas/"
+        ]
+      },
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "url": "/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
+      "seo": {
+        "meta_title": "Órákra megbénult az amerikai légiforgalom az elöregedett irá",
+        "meta_description": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítá",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "156147ee-9f3d-59b2-8e13-a5738b075ec6",
+        "5c408646-9e66-520c-ab5f-3c1017df10ac",
+        "22c5a999-2176-5e6d-bc60-bebdabda4208"
+      ],
+      "see_also": [
+        {
+          "title": "Miért marad le folyamatosan az EU az Egyesült Államok mögött?",
+          "url": "/penzvilag/2026-10-18-miert-marad-le-folyamatosan-az-eu-az-egyesult-allamok-mogott/",
+          "date": "2026-10-18"
+        },
+        {
+          "title": "Kína és Oroszország közös nyomása gyengítheti meg Európát",
+          "url": "/vilag/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat/",
+          "date": "2026-10-17"
+        },
+        {
+          "title": "Hálát rebeg Washingtonnak Zelenszkij, miközben rakéták hullnak Kijevre",
+          "url": "/vilag/2026-10-21-halat-rebeg-washingtonnak-zelenszkij-mikozben-raketak-hullnak-kijevre/",
+          "date": "2026-10-21"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "f57eec97ffd38d7042bab4fea2ddfb09909e57b8f435e7b9ff2d931ce3c96ff7",
+      "pipeline_run_id": "43566237495",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-14T07:53:15+01:00",
+      "updated_at": "2026-11-14T07:53:15+01:00",
+      "published_at": "2026-11-14T07:53:15+01:00",
+      "expires_at": null,
+      "legal": {
+        "level": 1,
+        "issues": [
+          "🟡 „Sean Duffy amerikai közlekedési miniszter” – Helytelen hivatalos pozíció megnevezése → A címet pontosan ellenőrizni, pl. 'az amerikai közlekedési hatóság képviselője'"
+        ]
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-14T06:53:13+00:00",
+        "head": "🆕 ÚJ · <b>Világ</b> · forróság 7.48 · 2 forrás\n\n1) Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt\n2) Elöregedett technika okozta a káoszt az amerikai reptereken\n3) Analóg drótvezérlés: megbénult az amerikai légiközlekedés\n🔥 4) Teljes volt a bizonytalanság: órákra leállt az amerikai légiforgalom\n🔥 5) Hatalmas fennakadások az amerikai reptereken: több ezer járat maradt a földön\n🔥 6) Mi okozta a váratlan légi stopot az Egyesült Államokban?\n\n<b>Források:</b> 24.hu, infostart.hu\n\n⚖️ Jogi ellenőrzés: 🟡 nézd át",
+        "lead": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítás rendszerét. Az intézkedés utasok százezreinek utazását zavarta meg, és a teljes helyreállítás napokig tarthat.",
+        "ctl_photo": true,
+        "control_id": 10282,
+        "msg_ids": [],
+        "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
+      },
+      "live": true
     }
   ]
 }
