@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "67ae8cfb-1d50-556e-b1e8-2f94d04a5f2c",
+      "slug": "2026-11-14-ufo-k-helyett-az-allam-arnyeka-miert-gyartottak-evtizedes-konteokat",
+      "url": "/tech/2026-11-14-ufo-k-helyett-az-allam-arnyeka-miert-gyartottak-evtizedes-konteokat/",
+      "title": "UFO-k helyett az állam árnyéka: miért gyártottak évtizedes konteókat?",
+      "lead": "Az amerikai kormányzat által nyilvánosságra hozott UFO-dokumentumok mögött nem földönkívülieket, hanem egy évtizedek óta zajló titkosszolgálati dezinformációs kampányt sejtenek a szakértők. A jelenség mögött meghúzódó hatalmi játszmák és a társadalmi bizonytalanság összefüggéseiről a Partizán Szignál című műsorában beszélgettek.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-11-14",
+      "date_label": "november 14.",
+      "created_at": "2026-11-14T09:13:04+01:00",
+      "published_at": "2026-11-14T09:13:04+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "UFO",
+        "dezinformáció",
+        "titkosszolgálat",
+        "Partizán"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Antisemiticroths.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1387,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "1898 cartoon showing Rothschild with the world in his hands. \n\n\"Le roi Rothschild,\" by Charles Lucien Léandre, cover illustration for Le Rire."
+      }
+    },
+    {
       "id": "ba63d134-cfe0-578e-8a9f-e6d6c6823aa9",
       "slug": "2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat",
       "url": "/vilag/2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat/",
@@ -4408,37 +4437,7 @@
         "pos": "center",
         "alt": "European Union without Ceuta or Melilla (EU) on a globe"
       }
-    },
-    {
-      "id": "fff1c737-8282-544c-8fb4-cd7a6eb6412f",
-      "slug": "2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor",
-      "url": "/eletmod/2026-11-06-valoban-egeszseges-a-napi-egy-pohar-bor/",
-      "title": "Valóban egészséges a napi egy pohár bor?",
-      "lead": "Sokan hiszik, hogy a napi egy pohár alkohol nem csupán ártalmatlan, de egyenesen jótékony hatással van a szervezetre. A friss kutatások azonban rámutatnak, hogy a valóság ennél jóval árnyaltabb – és sajnos kevésbé megnyugtató.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T08:49:55+01:00",
-      "published_at": "2026-11-06T08:49:55+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "egészség",
-        "alkohol",
-        "rákkutatás",
-        "életmód"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/White_Wine_Glas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 2394,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "This image shows a white wine glass (WMF Easy) with white wine."
-      }
     }
   ],
-  "updated_at": "2026-11-14T07:56:13+01:00"
+  "updated_at": "2026-11-14T09:13:05+01:00"
 }
