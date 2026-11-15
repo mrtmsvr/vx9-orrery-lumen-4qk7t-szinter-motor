@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "f11f1e1e-ccfd-5b5c-bd15-94418653d821",
+      "slug": "2026-11-15-miert-eppen-hatvan-perc-egy-ora",
+      "url": "/tech/2026-11-15-miert-eppen-hatvan-perc-egy-ora/",
+      "title": "Miért éppen hatvan perc egy óra?",
+      "lead": "Amikor lepillantunk a karóránkra, ritkán gondolunk arra, hogy a hatvanperces óraosztás egy több ezer éves matematikai rendszer lenyomata. Ez a beosztás az ókori civilizációk mindennapjaiból maradt ránk, és máig meghatározza a napjainkat.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T09:15:49+01:00",
+      "published_at": "2026-11-15T09:15:49+01:00",
+      "reading_time_min": 4,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "időmérés",
+        "történelem",
+        "csillagászat",
+        "babilon",
+        "tudomány"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Czech-2013-Prague-Astronomical_clock_face.jpg/1280px-Czech-2013-Prague-Astronomical_clock_face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 903,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "This is a photo of a cultural monument of the Czech Republic,number:"
+      }
+    },
+    {
       "id": "ceb819fb-126d-5c54-b906-306883e715fc",
       "slug": "2026-11-15-megvan-a-joker-nyertese-de-az-otoslotto-fodija-tovabb-hizott",
       "url": "/penzvilag/2026-11-15-megvan-a-joker-nyertese-de-az-otoslotto-fodija-tovabb-hizott/",
@@ -4418,34 +4449,7 @@
         "pos": "top",
         "alt": ": Ministry of Human Capacities? office building planned by László Hóka (1960s).  - Arany János Street, Lipótváros neighbourhood, Budapest District V."
       }
-    },
-    {
-      "id": "b8971744-f6dc-5b02-a8a9-c682bc6bba10",
-      "slug": "2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo",
-      "url": "/kozelet/2026-11-07-kilott-kerekekkel-szemben-a-forgalommal-az-m0-son-menekult-a-kotelezo/",
-      "title": "Kilőtt kerekekkel, szemben a forgalommal: az M0-son menekült a kötelezős sofőr",
-      "lead": "Elkerültek, amelyet forgalommal szemben üldöztek a rendőrök az M0-ás autóúton, miután Dányban nem akart megállni a kötelező biztosítás hiánya miatt. Az eset során a gyanú szerint a jármű kerekeit is kilőtték, de a sofőr végül csak a szalagkorlátnak ütközve tudott megállni.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T07:47:22+01:00",
-      "published_at": "2026-11-07T07:47:22+01:00",
-      "reading_time_min": 1,
-      "hot_score": 6.53,
-      "tags": [
-        "M0-ás",
-        "autósüldözés",
-        "rendőrség",
-        "Dány",
-        "baleset"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/kozelet-1794034006-0.jpg",
-        "kind": "photo",
-        "alt": "Ötven kilométeren át menekült a biztosítás nélkül autózó sofőr az M0-áson"
-      }
     }
   ],
-  "updated_at": "2026-11-15T08:02:44+01:00"
+  "updated_at": "2026-11-15T09:15:50+01:00"
 }
