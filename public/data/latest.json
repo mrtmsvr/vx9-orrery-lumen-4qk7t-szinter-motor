@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ef939325-980b-51d2-99d4-e78413a99c67",
+      "slug": "2026-11-15-fidesz-lepes-az-otthon-start-kivezetese-miatt",
+      "url": "/kozelet/2026-11-15-fidesz-lepes-az-otthon-start-kivezetese-miatt/",
+      "title": "Fidesz-lépés az Otthon Start kivezetése miatt",
+      "lead": "Az Alkotmánybírósághoz fordult a Fidesz az Otthon Start Program kivezetése miatt, mert a párt álláspontja szerint az intézkedés több száz családot sodort nehéz helyzetbe. A frakcióvezető-helyettes az építőipart és a lakásvásárlókat ért milliárdos károkról beszél.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T18:46:43+01:00",
+      "published_at": "2026-11-15T18:46:43+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.05,
+      "tags": [
+        "Otthon Start Program",
+        "Fidesz",
+        "Alkotmánybíróság",
+        "Panyi Miklós",
+        "lakáspiac"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg/1280px-Don%C3%A1tistrasse_35-45%2C_2024_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Building of the Constitutional Court of Hungary. Here is a Zsolt Náray plaque-relief by Hargita Mecseki (2009 marble plaque, bronze relief). Formerly here was (built to) the Computer Coordination Ins"
+      }
+    },
+    {
       "id": "9efa868e-826c-5e20-9106-f67099b736e8",
       "slug": "2026-11-15-nuklearis-reaktort-a-szomszedba-igy-utaljak-az-amerikaiak-az-ai-t",
       "url": "/tech/2026-11-15-nuklearis-reaktort-a-szomszedba-igy-utaljak-az-amerikaiak-az-ai-t/",
@@ -4418,37 +4448,7 @@
         "pos": "center",
         "alt": "Emblem of the United States Secret Service."
       }
-    },
-    {
-      "id": "48366d04-c384-56a0-b0dd-172295197175",
-      "slug": "2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan",
-      "url": "/kozelet/2026-11-07-ot-halott-maradt-a-krakkoi-foter-aszfaltjan-a-lovoldozes-utan/",
-      "title": "Öt halott maradt a krakkói főtér aszfaltján a lövöldözés után",
-      "lead": "Legalább öten életüket vesztették, amikor egy mozgó autóból tüzet nyitottak a lengyelországi Krakkó zsúfolt főterén szombat délután. A tragikus eseményeket követően a magyar külügy azonnal felvette a kapcsolatot a helyi hatóságokkal.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T17:54:59+01:00",
-      "published_at": "2026-11-07T17:54:59+01:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Krakkó",
-        "lövöldözés",
-        "Külügyminisztérium",
-        "Lengyelország",
-        "bűnügy"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Krakow_-_Kosciol_Mariacki.jpg/1280px-Krakow_-_Kosciol_Mariacki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1778,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Saint Mary Basilica in Kraków, Poland"
-      }
     }
   ],
-  "updated_at": "2026-11-15T18:30:36+01:00"
+  "updated_at": "2026-11-15T18:46:44+01:00"
 }
