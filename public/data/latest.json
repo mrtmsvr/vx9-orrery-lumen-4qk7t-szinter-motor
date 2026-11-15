@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8b51d4c7-cf86-59cb-af97-c72cac2e6d19",
+      "slug": "2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot",
+      "url": "/kozelet/2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot/",
+      "title": "Arany Rolexszel a Tescóban: házi őrizetből idézték be Schadl Györgyöt",
+      "lead": "Arany Rolex órával a kezén fotózték le a siófoki Tescóban Schadl Györgyöt, a Magyar Bírósági Végrehajtói Kar volt elnökét. A parlamenti vizsgálóbizottság elnöke azonnal postázta az idézést a kötelező megjelenésről.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T11:41:29+01:00",
+      "published_at": "2026-11-15T11:41:29+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.73,
+      "tags": [
+        "Schadl György",
+        "Toroczkai László",
+        "Végrehajtói kar",
+        "Siófok",
+        "Parlamenti vizsgálóbizottság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toroczkai_L%C3%A1szl%C3%B3_2024.jpg/1280px-Toroczkai_L%C3%A1szl%C3%B3_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1308,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "President of Our Homeland party"
+      }
+    },
+    {
       "id": "f11f1e1e-ccfd-5b5c-bd15-94418653d821",
       "slug": "2026-11-15-miert-eppen-hatvan-perc-egy-ora",
       "url": "/tech/2026-11-15-miert-eppen-hatvan-perc-egy-ora/",
@@ -4420,36 +4450,7 @@
         "pos": "center",
         "alt": "Zugspitze photographed from mountain Almkopf / Alpkopf at valley Bichlbach in Tyrol, Austria."
       }
-    },
-    {
-      "id": "b6fb1173-b868-5bb5-aa88-a02da64b6252",
-      "slug": "2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot",
-      "url": "/kozelet/2026-11-07-szemelyi-cserehullam-erte-el-a-szocialis-es-csaladugyi-miniszteriumot/",
-      "title": "Személyi cserehullám érte el a Szociális és Családügyi Minisztériumot",
-      "lead": "Péntek este jelentek meg a legfrissebb személyi döntések a Magyar Közlönyben, amelyek két különböző minisztériumot is alaposan átrendeztek. A változások érintik a távozókat és az újonnan kinevezett vezetőket is.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T07:48:52+01:00",
-      "published_at": "2026-11-07T07:48:52+01:00",
-      "reading_time_min": 1,
-      "hot_score": 6.5,
-      "tags": [
-        "Magyar Közlöny",
-        "kormány",
-        "személyi változások",
-        "szociális és családügyi minisztérium"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Government_office_building_by_L%C3%A1szl%C3%B3_H%C3%B3ka_%281960s%29._-_Arany_Street%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg/1280px-Government_office_building_by_L%C3%A1szl%C3%B3_H%C3%B3ka_%281960s%29._-_Arany_Street%2C_Lip%C3%B3tv%C3%A1ros%2C_2016_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ": Ministry of Human Capacities? office building planned by László Hóka (1960s).  - Arany János Street, Lipótváros neighbourhood, Budapest District V."
-      }
     }
   ],
-  "updated_at": "2026-11-15T11:19:12+01:00"
+  "updated_at": "2026-11-15T11:41:30+01:00"
 }
