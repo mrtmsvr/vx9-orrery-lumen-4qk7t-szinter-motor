@@ -1,7 +1,127 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T18:23:10+01:00",
+  "updated_at": "2026-11-15T18:26:24+01:00",
   "articles": [
+    {
+      "id": "9efa868e-826c-5e20-9106-f67099b736e8",
+      "slug": "2026-11-15-nuklearis-reaktort-a-szomszedba-igy-utaljak-az-amerikaiak-az-ai-t",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "mesterséges intelligencia",
+        "adatközpont",
+        "Egyesült Államok",
+        "gazdaság",
+        "energia"
+      ],
+      "title": "Nukleáris reaktort a szomszédba: így utálják az amerikaiak az AI-t",
+      "subtitle": null,
+      "lead": "Az Egyesült Államokban a lakosság közel 80 százaléka elutasítja az adatközpontokat a környezetében, miközben a helyi ellenállás komoly akadályt jelent az AI-szektor számára. A piaci turbulenciák és a választási eredmények nem kedveznek a mesterséges intelligencia beruházásainak.",
+      "key_points": [
+        "A lakosság közel 80%-a nem akar adatközpontot a lakóhelye közelében az Egyesült Államokban.",
+        "A demokraták kongresszusi előretörése és a helyi moratóriumok nehezítik az AI-cégek terjeszkedését.",
+        "A mesterséges intelligenciával kapcsolatos részvények jelentős esést szenvedtek el a tőzsdén.",
+        "A föld-, energia- és vízhiány miatt a helyi szinten jelentkező terhek komoly ellenállásba ütköznek."
+      ],
+      "content": "Több mint tíz nap telt el az amerikai félidős választások óta, amelyek gazdasági utóhatásait és a piacokra gyakorolt reakcióit a Telex.hu Elektor című műsorában elemezték a szakértők. Csurgó Dénes műsorvezető beszélgetőtársaival, Tunkli Dániellel, az Accorde Alapkezelő Zrt. befektetési igazgatójával és Brückner Gergely Telex-újságíróval veszi górcső alá a piaci turbulenciákat, kitérve az adatközpontok és a mesterséges intelligencia cégeinek változó működési környezetére.\n\nA felmérések szerint a lakosság közel 80 százaléka elutasítja az adatközpontokat a közvetlen környezetében, míg a republikánusok körében ez az arány 50 százalék fölötti. Ez a tendencia szenátori szinten is megjelent Texasban, Ohióban és Georgiában, ami miatt az adatközpontok moratóriumai jöhetnek az érintett államokban.\n\nA beruházási adatok alapján 2020 és 2026 között Texas volt a leginkább érintett terület 26 százalékkal, míg Georgia 7, Ohio pedig 5 százalékkal részesült ezekből a projektekből. Mivel a föld, az energia és a víz is szűkösen áll rendelkezésre, a helyi lakossági támogatás hiánya komolyan akaszthatja vagy lassíthatja a beruházások megvalósulását, miközben a szabályozási környezet is szigorodhat.\n\nA tőkepiacok azonnal reagáltak a változásokra: Brückner Gergely elemzése szerint a mesterséges intelligencia piaca volt a leggyorsabban és legrosszabbul reagáló szegmens a Nasdaq indexben, ahol az adatközpontokat összesítő cégek körülbelül 5 százalékot estek. A globális gazdaságélénkítő hatás mellett a helyi szinten jelentkező tetemes energia-, föld- és vízköltségek miatt az AI-szektor komoly lokális ellenállásba ütközik.\n\nA jövőben olyan szabályok léphetnek életbe, amelyek a lakott területektől távolabbra kényszerítik az adatközpontokat, ezáltal tovább növelve a működési költségeket. A nemzetközi gazdasági kilátások ráadásul további bizonytalanságot hordoznak, mivel az olajárak esése, az Nvidia vezető igazgatójának lemondása, valamint egy esetleges újabb amerikai vámpolitika alapjaiban rázhatja meg a globális kereskedelmet.",
+      "content_format": "markdown",
+      "body": [
+        "Több mint tíz nap telt el az amerikai félidős választások óta, amelyek gazdasági utóhatásait és a piacokra gyakorolt reakcióit a Telex.hu Elektor című műsorában elemezték a szakértők. Csurgó Dénes műsorvezető beszélgetőtársaival, Tunkli Dániellel, az Accorde Alapkezelő Zrt. befektetési igazgatójával és Brückner Gergely Telex-újságíróval veszi górcső alá a piaci turbulenciákat, kitérve az adatközpontok és a mesterséges intelligencia cégeinek változó működési környezetére.",
+        "A felmérések szerint a lakosság közel 80 százaléka elutasítja az adatközpontokat a közvetlen környezetében, míg a republikánusok körében ez az arány 50 százalék fölötti. Ez a tendencia szenátori szinten is megjelent Texasban, Ohióban és Georgiában, ami miatt az adatközpontok moratóriumai jöhetnek az érintett államokban.",
+        "A beruházási adatok alapján 2020 és 2026 között Texas volt a leginkább érintett terület 26 százalékkal, míg Georgia 7, Ohio pedig 5 százalékkal részesült ezekből a projektekből. Mivel a föld, az energia és a víz is szűkösen áll rendelkezésre, a helyi lakossági támogatás hiánya komolyan akaszthatja vagy lassíthatja a beruházások megvalósulását, miközben a szabályozási környezet is szigorodhat.",
+        "A tőkepiacok azonnal reagáltak a változásokra: Brückner Gergely elemzése szerint a mesterséges intelligencia piaca volt a leggyorsabban és legrosszabbul reagáló szegmens a Nasdaq indexben, ahol az adatközpontokat összesítő cégek körülbelül 5 százalékot estek. A globális gazdaságélénkítő hatás mellett a helyi szinten jelentkező tetemes energia-, föld- és vízköltségek miatt az AI-szektor komoly lokális ellenállásba ütközik.",
+        "A jövőben olyan szabályok léphetnek életbe, amelyek a lakott területektől távolabbra kényszerítik az adatközpontokat, ezáltal tovább növelve a működési költségeket. A nemzetközi gazdasági kilátások ráadásul további bizonytalanságot hordoznak, mivel az olajárak esése, az Nvidia vezető igazgatójának lemondása, valamint egy esetleges újabb amerikai vámpolitika alapjaiban rázhatja meg a globális kereskedelmet."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 304,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-e0e1d7dfe4.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-e0e1d7dfe4.jpg",
+        "kind": "photo",
+        "alt": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
+        "credit": "A videó előnézeti képe – Telex․hu (YouTube)",
+        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
+        "source_url": "https://www.youtube.com/watch?v=6PBWtGA5Sz0",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=6PBWtGA5Sz0",
+          "title": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-11-15T18:24:51+01:00"
+        }
+      ],
+      "quote": {
+        "text": "egy kicsit olyan érzése volt az embernek, hogy ami Magyarországon az akkumulátor, az az Egyesült Államokban az adatközpont",
+        "who": "Tunkli Dániel, az Accorde Alapkezelő Zrt. befektetési igazgatója",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-15T18:26:24+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=6PBWtGA5Sz0"
+        ]
+      },
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "url": "/tech/2026-11-15-nuklearis-reaktort-a-szomszedba-igy-utaljak-az-amerikaiak-az-ai-t/",
+      "seo": {
+        "meta_title": "Nukleáris reaktort a szomszédba: így utálják az amerikaiak a",
+        "meta_description": "Az Egyesült Államokban a lakosság közel 80 százaléka elutasítja az adatközpontokat a környezetében, miközben a helyi ellenállás komoly akadályt jelent az AI-sze",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-11-15-nuklearis-reaktort-a-szomszedba-igy-utaljak-az-amerikaiak-az-ai-t/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-e0e1d7dfe4.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "364984da-75d7-57e4-a091-05df52dd100b"
+      ],
+      "see_also": [
+        {
+          "title": "Félreértett szerepek és fájdalom: tizenegy év után új verseskötettel jelentkezett Karafiáth Orsolya",
+          "url": "/kultura/2026-10-20-felreertett-szerepek-es-fajdalom-tizenegy-ev-utan-uj-verseskotettel-j/",
+          "date": "2026-10-20"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "f5ca1527cd0612ca3963836fde468b8c52017bdd4ad823da508c9d8b5fec648c",
+      "pipeline_run_id": "43738150524",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-15T18:26:24+01:00",
+      "updated_at": "2026-11-15T18:26:24+01:00",
+      "published_at": "2026-11-15T18:26:24+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "6PBWtGA5Sz0",
+        "title": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
+        "channel": "Telex․hu",
+        "minutes": 47
+      }
+    },
     {
       "id": "83ef988d-1007-5e45-9143-879a71dd6fc3",
       "slug": "2026-11-15-nem-kernek-az-allami-porazbol-szazezrek-tuntettek-pragaban",
@@ -75266,132 +75386,6 @@
       "created_at": "2026-10-16T06:57:07+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-16T06:57:07+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "5259a0dd-c31e-578b-857e-f9edb51d8a42",
-      "slug": "2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Házasság első látásra",
-        "TV2",
-        "bulvár",
-        "reality"
-      ],
-      "title": "Drámai véghajrá a Házasság első látásra-ban",
-      "subtitle": null,
-      "lead": "Elérkezett a TV2 Házasság első látásra negyedik évadának utolsó előtti adása, ahol a párok meghozták végső döntésüket kapcsolatuk jövőjéről. Az egyik legígéretesebbnek indult kettős, Petra és Joci végül nemet mondott a hivatalos házasságra, ám a kísérleten kívül is folytatni kívánják a kapcsolatukat.",
-      "key_points": [
-        "Petra és Joci a Házasság első látásra döntési napján nemet mondott a házasságra.",
-        "A felek elmondása szerint előre nem egyeztették a döntésüket, mégis ugyanarra a következtetésre jutottak.",
-        "A TV2 őszi műsorrendje megváltozott, a heti kínálatban szerepel A Kísértés című reality is."
-      ],
-      "content": "A Házasság első látásra negyedik évadának végső fordulójához érkezett a TV2 társkereső műsora, amelyben a szereplőknek színt kellett vallaniuk a közös jövőjükről. Az induláskor kifejezetten harmonikusnak tűnő Petra és Joci kapcsolata az együtt töltött hetek alatt hullámvölgyeket is megélt, így a döntési napra mindketten vegyes érzelmekkel érkeztek.\n\nPetra hosszan felolvasta előre megírt sorait, majd kijelentette, hogy a házasságra nemet mond, de a kapcsolatot papír nélkül is folytatni szeretné a mindennapokban. Utóiratként azt is hozzátette, hogy a telefonjában a férje marad, és egy égbolthoz hasonlította a jövőbeli szerepét Joci életében.\n\nJoci meghatottan reagált a hallottakra, és maga is megerősítette, hogy jelen pillanatban nem szeretné elkapkodni ezt az életre szóló döntést, ezért ő is a szabadságot és a további ismerkedési időt választja. A Blikk és a Bors beszámolói szerint a két szereplő teljes egyetértésben hozta meg a határozatát anélkül, hogy azt előzetesen egyeztették volna egymással.\n\nA televíziós csatorna őszi műsorrendje egyébként más újdonságokat is hozott a nézőknek, hiszen a heti programban az Aktív mellett elindult a Thaiföldön forgatott A Kísértés című reality is Kasza Tibi vezetésével. A műsorban többek között Sári és Zsombor, valamint Petra és Máté párkapcsolatát teszik próbára a tizenhat kísértő segítségével.\n\nA felvételek óta eltelt időszak részletei egyelőre rejtve maradtak, azonban Petra a döntést követően egy újabb bejegyzést is megosztott a közösségi oldalán, amely utalhat a kísérlet utóéletére.",
-      "content_format": "markdown",
-      "body": [
-        "A Házasság első látásra negyedik évadának végső fordulójához érkezett a TV2 társkereső műsora, amelyben a szereplőknek színt kellett vallaniuk a közös jövőjükről. Az induláskor kifejezetten harmonikusnak tűnő Petra és Joci kapcsolata az együtt töltött hetek alatt hullámvölgyeket is megélt, így a döntési napra mindketten vegyes érzelmekkel érkeztek.",
-        "Petra hosszan felolvasta előre megírt sorait, majd kijelentette, hogy a házasságra nemet mond, de a kapcsolatot papír nélkül is folytatni szeretné a mindennapokban. Utóiratként azt is hozzátette, hogy a telefonjában a férje marad, és egy égbolthoz hasonlította a jövőbeli szerepét Joci életében.",
-        "Joci meghatottan reagált a hallottakra, és maga is megerősítette, hogy jelen pillanatban nem szeretné elkapkodni ezt az életre szóló döntést, ezért ő is a szabadságot és a további ismerkedési időt választja. A Blikk és a Bors beszámolói szerint a két szereplő teljes egyetértésben hozta meg a határozatát anélkül, hogy azt előzetesen egyeztették volna egymással.",
-        "A televíziós csatorna őszi műsorrendje egyébként más újdonságokat is hozott a nézőknek, hiszen a heti programban az Aktív mellett elindult a Thaiföldön forgatott A Kísértés című reality is Kasza Tibi vezetésével. A műsorban többek között Sári és Zsombor, valamint Petra és Máté párkapcsolatát teszik próbára a tizenhat kísértő segítségével.",
-        "A felvételek óta eltelt időszak részletei egyelőre rejtve maradtak, azonban Petra a döntést követően egy újabb bejegyzést is megosztott a közösségi oldalán, amely utalhat a kísérlet utóéletére."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 261,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126566-1.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/bulvar-1792126566-1.jpg",
-        "kind": "photo",
-        "alt": "Drámai véghajrá a Házasság első látásrában",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
-        "license": "saját grafika",
-        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/petra-joci-dontes-hazassag-elso-latasra/9s0270r",
-          "title": "A Házasság első látásra Petrája kitálalt a végső döntés után Jociról, sírva írta meg a hosszú bejegyzést",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T06:54:26+02:00"
-        },
-        {
-          "url": "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/hazassag-elso-latasra-petra-joci-dontes",
-          "title": "Dráma! Nemet mondott a Házasság első látásra álompárja!",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T06:54:26+02:00"
-        },
-        {
-          "url": "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/hazassag-elso-latasra-tucsi-renato-livi",
-          "title": "Házasság első látásra: Renátó és Lívi miatt állt a bál a vacsorán!",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T06:54:26+02:00"
-        }
-      ],
-      "quote": {
-        "text": "A házasságra nemet mondok, és azt érzem, hogy most tudok szabadon dönteni és választani. Téged és a kapcsolatunkat választom papír nélkül.",
-        "who": "Petra, szereplő",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-16T06:56:35+02:00"
-      },
-      "hot_score": 10.99,
-      "clickbait_from": 1,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/hazai-sztarok/petra-joci-dontes-hazassag-elso-latasra/9s0270r",
-          "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/hazassag-elso-latasra-petra-joci-dontes"
-        ]
-      },
-      "date": "2026-10-16",
-      "date_label": "október 16.",
-      "url": "/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/",
-      "seo": {
-        "meta_title": "Drámai véghajrá a Házasság első látásra-ban",
-        "meta_description": "Elérkezett a TV2 Házasság első látásra negyedik évadának utolsó előtti adása, ahol a párok meghozták végső döntésüket kapcsolatuk jövőjéről. Az egyik legígérete",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/bulvar-1792126566-1.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "238afc54-e95e-55e1-a9ec-d98e5dcb3e77"
-      ],
-      "see_also": [
-        {
-          "title": "Nem várt húzás a TV2 műsorában",
-          "url": "/bulvar/2026-09-30-nem-vart-huzas-a-tv2-musoraban/",
-          "date": "2026-09-30"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "f2fbb3f019b2e3fbb4381c15f3db86351179d755a22af27242e0cd6298d38099",
-      "pipeline_run_id": "38852970676",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T06:56:35+02:00",
-      "updated_at": "2026-10-16T07:47:44+02:00",
-      "published_at": "2026-10-16T06:56:35+02:00",
       "expires_at": null
     }
   ]
