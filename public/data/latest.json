@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1543ca3a-ad75-5041-afb3-bd7067bb48d5",
+      "slug": "2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett",
+      "url": "/vilag/2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett/",
+      "title": "Letaroltak egy bajor ékszerboltot autóval, hajtóvadászat indult a tettesekért",
+      "lead": "Vasárnap hajnalban három elkövető hajtott autóval egy bayreuthi ékszerüzletbe, majd a zsákmánnyal elmenekültek. A hatóságok azonnal hatalmas hajtóvadászatot indítottak, és már két gyanúsítottat el is fogtak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T13:06:59+01:00",
+      "published_at": "2026-11-15T13:06:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.5,
+      "tags": [
+        "Németország",
+        "rablás",
+        "rendőrség",
+        "Bayreuth",
+        "bűnügy"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Marktplatz_Bayreuth.JPG/1280px-Marktplatz_Bayreuth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Blick über den Marktplatz der Stadt Bayreuth (fotografiert von der Karstadt-Dachterrasse), Maximilianstraße"
+      }
+    },
+    {
       "id": "8c42a96c-06f4-5af8-939f-1824c72ccb02",
       "slug": "2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m",
       "url": "/kozelet/2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m/",
@@ -4419,37 +4449,7 @@
         "pos": "center",
         "alt": "The west campus of Microsoft, Redmond, Washington, taken from about 1,500'.  The photo is looking south-east.  The west campus is bounded on the west by 148th Ave, on the east by SR 520, and on the no"
       }
-    },
-    {
-      "id": "39f3ffe5-9ef9-5265-a9d2-1f10678622f4",
-      "slug": "2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely",
-      "url": "/kozelet/2026-11-07-a-pokol-borsodi-kapuja-beereszkedtek-az-esztramos-hegy-120-meter-mely/",
-      "title": "A pokol borsodi kapuja: beereszkedtek az Esztramos-hegy 120 méter mély ledobóaknájába",
-      "lead": "Egyedi terepgyakorlat keretében a barlangi mentők és az Aggteleki Nemzeti Park szakemberei ereszkedtek le az Esztramos-hegy gyomrába, hogy megvizsgálják a föld alatti környezetet és a különleges élővilágot.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T11:20:01+01:00",
-      "published_at": "2026-11-07T11:20:01+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Aggteleki Nemzeti Park",
-        "barlangi mentők",
-        "Esztramos-hegy",
-        "bányászat",
-        "barlangászat"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Caveman-ic.jpg/1280px-Caveman-ic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Caving in the United Kingdom"
-      }
     }
   ],
-  "updated_at": "2026-11-15T13:06:22+01:00"
+  "updated_at": "2026-11-15T13:07:01+01:00"
 }
