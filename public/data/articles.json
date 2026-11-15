@@ -139,17 +139,15 @@
       "word_count": 276,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/20052e1ec2c4f7a5.jpg",
-        "width": 5646,
-        "height": 3764,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-ea90b3f839.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-ea90b3f839.jpg",
         "kind": "photo",
-        "alt": "ballot box, democracy, politics, poll, voting, ballot, federal election, state election, european elections, the day of the election, say, urnengang, popular vote, government, ballot box, ballot box, ",
-        "credit": "planet_fox / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/ballot-box-democracy-politics-poll-4933481/",
-        "vision_score": 9.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/20052e1ec2c4f7a5.jpg",
-        "orig_url": "https://pixabay.com/get/ga4b9087225dc40914e46a09e5a53e00fce7b9f83b7b2f2c037ed2854e6bfc7d0436d347ece4908ffb7f2596a3e459a3bf561e53a71dd513c5f6826bc42b9894b_1280.jpg"
+        "alt": "4 település – négy magyar településen tartanak időközi választást",
+        "credit": "Kollektíva grafika",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -210,7 +208,7 @@
       "pipeline_run_id": "43684590201",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-15T07:44:28+01:00",
-      "updated_at": "2026-11-15T07:44:28+01:00",
+      "updated_at": "2026-11-15T07:02:43+00:00",
       "published_at": "2026-11-15T07:44:28+01:00",
       "expires_at": null
     },
