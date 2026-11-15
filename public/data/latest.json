@@ -22,12 +22,12 @@
         "energia"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-e0e1d7dfe4.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/CERN_Server_03.jpg/1280px-CERN_Server_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
         "kind": "photo",
-        "alt": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
-        "card": "video",
-        "width": 1280,
-        "height": 720
+        "pos": "center",
+        "alt": "Server room in CERN (Switzerland)"
       }
     },
     {
@@ -4450,5 +4450,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-15T18:26:26+01:00"
+  "updated_at": "2026-11-15T18:30:36+01:00"
 }
