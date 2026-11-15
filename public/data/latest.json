@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d15e1bb8-2d45-5a40-a1d7-e102c837c2d1",
+      "slug": "2026-11-15-vitezy-david-haromeves-tilalommal-es-zoldsav-vedelemmel-fekezne-a-bal",
+      "url": "/kozelet/2026-11-15-vitezy-david-haromeves-tilalommal-es-zoldsav-vedelemmel-fekezne-a-bal/",
+      "title": "Vitézy Dávid hároméves tilalommal és zöldsáv-védelemmel fékezné a balatoni betonözönt",
+      "lead": "Társadalmi egyeztetésre bocsátotta az építésügyi törvények módosítását Vitézy Dávid közlekedési és beruházási miniszter, hogy megvédje a Balaton vízparti sávját a további túlépítéstől. A tervek között szerepel a beépítettség korlátozása, új tervtanács felállítása, valamint akár hároméves építési tilalom is.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T13:04:28+01:00",
+      "published_at": "2026-11-15T13:04:28+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.1,
+      "tags": [
+        "Balaton",
+        "Vitézy Dávid",
+        "építkezés",
+        "szabályozás",
+        "törvényjavaslat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Vit%C3%A9zyD%C3%A1vid2021.jpg/1280px-Vit%C3%A9zyD%C3%A1vid2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me)."
+      }
+    },
+    {
       "id": "8b51d4c7-cf86-59cb-af97-c72cac2e6d19",
       "slug": "2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot",
       "url": "/kozelet/2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot/",
@@ -4421,36 +4451,7 @@
         "pos": "top",
         "alt": "Mélanie Luce, president of the National Union of Students of France (UNEF), at a demonstration in front of the Regional Center for Social Works in Universities (CROUS) of Paris, January 20th, 2021.\nDe"
       }
-    },
-    {
-      "id": "b8846f1f-a046-50b5-bb30-dee4d9cf56ca",
-      "slug": "2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu",
-      "url": "/vilag/2026-11-06-minusz-tizenket-fokban-hagyta-magara-a-baratnojet-egy-nemet-fiu/",
-      "title": "Mínusz tizenkét fokban hagyta magára a barátnőjét egy német fiú",
-      "lead": "Nyomozást indított az osztrák rendőrség egy 21 éves német férfi ellen, miután mínusz tizenkét fokban magára hagyta 17 éves barátnőjét a Zugspitzén. Az eset miatt a hatóságok közbiztonság veszélyeztetése miatt gyanújával indítottak eljárást.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-07T10:39:59+01:00",
-      "published_at": "2026-11-07T10:39:59+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.12,
-      "tags": [
-        "Zugspitze",
-        "Ausztria",
-        "hegyimentők",
-        "rendőrségi nyomozás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Zugspitzmassiv-von-Almkopf-2024.jpg/1280px-Zugspitzmassiv-von-Almkopf-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 593,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Zugspitze photographed from mountain Almkopf / Alpkopf at valley Bichlbach in Tyrol, Austria."
-      }
     }
   ],
-  "updated_at": "2026-11-15T11:41:37+01:00"
+  "updated_at": "2026-11-15T13:04:30+01:00"
 }
