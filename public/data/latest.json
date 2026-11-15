@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "83ef988d-1007-5e45-9143-879a71dd6fc3",
+      "slug": "2026-11-15-nem-kernek-az-allami-porazbol-szazezrek-tuntettek-pragaban",
+      "url": "/vilag/2026-11-15-nem-kernek-az-allami-porazbol-szazezrek-tuntettek-pragaban/",
+      "title": "Nem kérnek az állami pórázból: százezrek tüntettek Prágában",
+      "lead": "Mintegy 350–400 ezer ember tüntetett vasárnap délután Prágában a cseh közmédia finanszírozásának átalakítása és a kormány politikája ellen. A megmozdulás Andrej Babiš kabinetjének eddigi legnagyobb utcai megnyilvánulása lett, a tiltakozók ugyanis az intézményi függetlenség felszámolásától tartanak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T18:23:10+01:00",
+      "published_at": "2026-11-15T18:23:10+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.85,
+      "tags": [
+        "Csehország",
+        "Prága",
+        "Andrej Babiš",
+        "közmédia",
+        "tüntetés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Letna_2019_63996.jpg/1280px-Letna_2019_63996.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Protest in Prague on Letná plain against Czech prime minister Andrej Babiš - 23th June 2019"
+      }
+    },
+    {
       "id": "bc491208-2b3e-52b2-9160-e6a45e4cce3f",
       "slug": "2026-11-15-miert-varja-a-bolygo-tizenharom-eve-a-gta-vi-ot",
       "url": "/tech/2026-11-15-miert-varja-a-bolygo-tizenharom-eve-a-gta-vi-ot/",
@@ -4418,37 +4448,7 @@
         "pos": "center",
         "alt": "Informal meeting of ministers Responsible for Demography, Press Conference"
       }
-    },
-    {
-      "id": "d6f73d06-5e5a-5786-b74d-88bff7776013",
-      "slug": "2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak",
-      "url": "/vilag/2026-11-07-valogatas-nelkul-lott-az-alarcos-autos-krakko-foteren-oten-meghaltak/",
-      "title": "Válogatás nélkül lőtt az álarcos autós Krakkó főterén: öten meghaltak",
-      "lead": "Öt ember vesztette életét és legalább tizenketten megsérültek szombat délután Krakkó főterén, amikor egy álarcos férfi az autójából válogatás nélkül lőni kezdett a gyalogosokra. A rendőrség a helyszínen ártalmatlanította és meglőtte a támadót, akit kórházba szállítottak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T16:44:24+01:00",
-      "published_at": "2026-11-07T16:44:24+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Krakkó",
-        "Lengyelország",
-        "lövöldözés",
-        "rendőrség",
-        "Donald Tusk"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Donald_Tusk_EPP_Summit_2023.png/1280px-Donald_Tusk_EPP_Summit_2023.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1649,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "EPP Summit, 29 June, Brussels"
-      }
     }
   ],
-  "updated_at": "2026-11-15T17:37:03+01:00"
+  "updated_at": "2026-11-15T18:23:11+01:00"
 }
