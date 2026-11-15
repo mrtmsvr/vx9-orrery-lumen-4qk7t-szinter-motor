@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bc23eb9f-9448-5897-b0f8-f4baa42ff58a",
+      "slug": "2026-11-15-szabotazsakcio-miatt-vagja-el-orosz-hatarait-a-tallinni-kormany",
+      "url": "/vilag/2026-11-15-szabotazsakcio-miatt-vagja-el-orosz-hatarait-a-tallinni-kormany/",
+      "title": "Szabotázsakció miatt vágja el orosz határait a tallinni kormány",
+      "lead": "December 1-jétől az összes orosz határátkelőhelyét bezárja Észtország, miután a hatóságok meghiúsították egy ukrajnai katonai drónokat gyártó vállalat elleni gyújtogatási kísérletet. A tallinni vezetés a hibrid műveletek megfékezésével indokolja a drasztikus lépést.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T18:47:44+01:00",
+      "published_at": "2026-11-15T18:47:44+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "Észtország",
+        "Oroszország",
+        "szabotázs",
+        "biztonságpolitika",
+        "határzár"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/UA_military_FPV_drones_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Ukrainian loitering munitions made from FPV drones"
+      }
+    },
+    {
       "id": "ef939325-980b-51d2-99d4-e78413a99c67",
       "slug": "2026-11-15-fidesz-lepes-az-otthon-start-kivezetese-miatt",
       "url": "/kozelet/2026-11-15-fidesz-lepes-az-otthon-start-kivezetese-miatt/",
@@ -4418,37 +4448,7 @@
         "pos": "center",
         "alt": "View of Budapest from Gellért Hill"
       }
-    },
-    {
-      "id": "6f491e04-9fce-566d-96aa-247a0974a481",
-      "slug": "2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b",
-      "url": "/vilag/2026-11-07-fegyverekkel-a-csomagtartoban-akarta-vegezni-trumppal-egy-illegalis-b/",
-      "title": "Lopott autóval, lőszerekkel felszerelkezve ment Washingtonba a merényletre készülő férfi",
-      "lead": "Őrizetbe vettek egy venezuelai állampolgárt a Fehér Ház környékén, aki a hatóságok szerint fegyverekkel felszerelkezve indult el, hogy végezzen Donald Trump amerikai elnökkel. Az eset ismét rávilágít az amerikai elnököt fenyegető biztonsági kockázatokra.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T18:45:38+01:00",
-      "published_at": "2026-11-07T18:45:38+01:00",
-      "reading_time_min": 3,
-      "hot_score": 9.75,
-      "tags": [
-        "Donald Trump",
-        "Fehér Ház",
-        "Egyesült Államok",
-        "biztonság",
-        "merényletkísérlet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/USSS_New_Star.svg/1280px-USSS_New_Star.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1451,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Emblem of the United States Secret Service."
-      }
     }
   ],
-  "updated_at": "2026-11-15T18:46:44+01:00"
+  "updated_at": "2026-11-15T18:47:45+01:00"
 }
