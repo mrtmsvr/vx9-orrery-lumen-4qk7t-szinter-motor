@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4e363ecb-2629-59e1-af1b-20c7216ff759",
+      "slug": "2026-11-15-lamperth-monika-veszi-at-az-iranyitast-a-hegyvideken",
+      "url": "/kozelet/2026-11-15-lamperth-monika-veszi-at-az-iranyitast-a-hegyvideken/",
+      "title": "Lamperth Mónika veszi át az irányítást a Hegyvidéken",
+      "lead": "Lamperth Mónika volt belügyminiszter hétfőtől a XII. kerületi önkormányzatnál kezd munkát, hogy irányítási és vezetési feladatokkal segítse Kovács Gergely polgármestert. A döntésre amiatt került sor, mert az utóbbi hónapokban több belső konfliktus és lemondás is nehezítette a kerület vezetését.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T18:49:13+01:00",
+      "published_at": "2026-11-15T18:49:13+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.1,
+      "tags": [
+        "Lamperth Mónika",
+        "Kovács Gergely",
+        "XII. kerület",
+        "Hegyvidék",
+        "önkormányzat"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kov%C3%A1cs_Gergely.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Kovács Gergely zongoraművész (Régi Zeneakadémia, Budapest)"
+      }
+    },
+    {
       "id": "bc23eb9f-9448-5897-b0f8-f4baa42ff58a",
       "slug": "2026-11-15-szabotazsakcio-miatt-vagja-el-orosz-hatarait-a-tallinni-kormany",
       "url": "/vilag/2026-11-15-szabotazsakcio-miatt-vagja-el-orosz-hatarait-a-tallinni-kormany/",
@@ -4419,36 +4449,7 @@
         "pos": "top",
         "alt": "Niedermüller Péter szociológus, DK-s képviselő"
       }
-    },
-    {
-      "id": "86c770ee-771b-5bb3-b3e1-7cb85a83229e",
-      "slug": "2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre",
-      "url": "/kozelet/2026-11-07-torok-gabor-ne-nevezzuk-diktaturanak-az-orban-korszakot-mert-az-felre/",
-      "title": "Török Gábor: Ne nevezzük diktatúrának az Orbán-korszakot, mert az félrevisz",
-      "lead": "Török Gábor politikai elemző egy szombati Facebook-bejegyzésében kifejtette, hogy az Orbán-korszak nem volt diktatúra, és 2026-ban sem forradalom, sem rendszerváltás nem történt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T18:47:33+01:00",
-      "published_at": "2026-11-07T18:47:33+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.68,
-      "tags": [
-        "Török Gábor",
-        "Orbán-korszak",
-        "politika",
-        "2026"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg/1280px-20190502_Widok_na_Budapeszt_z_G%C3%B3ry_Gellerta_1651_2150_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 572,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "View of Budapest from Gellért Hill"
-      }
     }
   ],
-  "updated_at": "2026-11-15T18:47:45+01:00"
+  "updated_at": "2026-11-15T18:49:14+01:00"
 }
