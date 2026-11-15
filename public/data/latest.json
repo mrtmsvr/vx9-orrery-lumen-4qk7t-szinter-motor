@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "87ee6339-6d81-5dea-b700-a98658286608",
+      "slug": "2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben",
+      "url": "/vilag/2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben/",
+      "title": "Putyin, Hszi és Trump nélkülük dönt az ukrajnai békéről Sencsenben",
+      "lead": "November 19-én háromoldalú találkozót tart Vlagyimir Putyin, Hszi Csin-ping és Donald Trump a dél-kínai Sencsenben, az APEC-csúcstalálkozó szünetében. A megbeszélésen a nukleáris leszerelés és az iráni konfliktus is terítékre kerül, az ukrajnai háború azonban nem lesz napirenden.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T07:43:31+01:00",
+      "published_at": "2026-11-15T07:43:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "Donald Trump",
+        "Vlagyimir Putyin",
+        "Hszi Csin-ping",
+        "APEC",
+        "Sencsen"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Trump-Musk-Xi-Putin.jpg/1280px-Trump-Musk-Xi-Putin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 441,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "A composite triptych portrait of Donald Trump, Elon Musk, Xi Jinping, and Vladimir Putin."
+      }
+    },
+    {
       "id": "6f4781a7-4fd7-5da3-ae13-71e0bfc8749b",
       "slug": "2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet",
       "url": "/kozelet/2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet/",
@@ -4414,36 +4444,7 @@
         "pos": "top",
         "alt": "President Donald Trump delivers remarks at a dinner for GOP Senators, Friday, July 18, 2025, in the State Dining Room of the White House. (Official White House Photo by Daniel Torok)"
       }
-    },
-    {
-      "id": "bb48b841-9453-5a8b-9108-8e4a35eda061",
-      "slug": "2026-11-06-tortenelmi-fordulat-nemetorszagban-ilse-aigner-lehet-az-elso-noi-kozt",
-      "url": "/vilag/2026-11-06-tortenelmi-fordulat-nemetorszagban-ilse-aigner-lehet-az-elso-noi-kozt/",
-      "title": "Történelmi fordulat Németországban: Ilse Aigner lehet az első női köztársasági elnök",
-      "lead": "A bajorországi tartományi parlament elnöke, Ilse Aigner lehet Németország következő szövetségi elnöke. Ezzel a lépéssel a 77 éves köztársaság történetében először töltheti be nő ezt a ceremoniális tisztséget.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-06T22:33:37+01:00",
-      "published_at": "2026-11-06T22:33:37+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.34,
-      "tags": [
-        "Németország",
-        "Ilse Aigner",
-        "külpolitika",
-        "választás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/2023-10-08_Wahlabend_Bayern_by_Sandro_Halank%E2%80%93007.jpg/1280px-2023-10-08_Wahlabend_Bayern_by_Sandro_Halank%E2%80%93007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1586,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Election night in Bavaria, Maximilianeum Munich, Election to the 19th Bavarian State Parliament: Ilse Aigner (CSU)"
-      }
     }
   ],
-  "updated_at": "2026-11-15T06:21:14+01:00"
+  "updated_at": "2026-11-15T07:43:32+01:00"
 }
