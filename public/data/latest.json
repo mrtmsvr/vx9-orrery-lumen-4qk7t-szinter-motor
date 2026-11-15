@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "8c42a96c-06f4-5af8-939f-1824c72ccb02",
+      "slug": "2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m",
+      "url": "/kozelet/2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m/",
+      "title": "Leketyegő óra és pelenkagondolatok: egy hozzászóló rontott neki Mérő Verának",
+      "lead": "Kőszegi Gábor, a lélegeztetőgép-bizniszben érintett üzletember durva hangvételű kommentben támadta meg Mérő Vera jogvédőt a közösségi médiában a beszámolók alapján. Az eset jól mutatja a közéleti viták eldurvulását, miközben a felek között a hivatkozások szerint korábban is feszült volt a viszony.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T13:06:18+01:00",
+      "published_at": "2026-11-15T13:06:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.12,
+      "tags": [
+        "Kőszegi Gábor",
+        "Mérő Vera",
+        "Takács Péter",
+        "közélet",
+        "szexizmus"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-49013ad765.jpg",
+        "kind": "photo",
+        "alt": "Leketyegő óra és pelenkagondolatok: egy hozzászóló rontott neki Mérő Verának",
+        "cover": true
+      }
+    },
+    {
       "id": "d15e1bb8-2d45-5a40-a1d7-e102c837c2d1",
       "slug": "2026-11-15-vitezy-david-haromeves-tilalommal-es-zoldsav-vedelemmel-fekezne-a-bal",
       "url": "/kozelet/2026-11-15-vitezy-david-haromeves-tilalommal-es-zoldsav-vedelemmel-fekezne-a-bal/",
@@ -4421,37 +4449,7 @@
         "pos": "top",
         "alt": "Caving in the United Kingdom"
       }
-    },
-    {
-      "id": "02125bb0-d9bd-5df9-a6c8-6f6dac8b35f3",
-      "slug": "2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran",
-      "url": "/vilag/2026-11-06-orszagos-benultsag-diakprotestalasbol-lett-rendszerszintu-krizis-fran/",
-      "title": "Országos bénultság: diáktüntetésből lett rendszerszintű krízis Franciaországban",
-      "lead": "Szeptember közepe óta több százezer tüntető lepte el a francia utcákat, miután a középiskolák állapota miatt indult tiltakozás egész országot bénító megélhetési sztrájkhullámmá csapott át. A diákok nemcsak jobb oktatási feltételeket követelnek, hanem a mélyülő társadalmi elégedetlenség közepette a kormány leváltását is sürgetik.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-06",
-      "date_label": "november 6.",
-      "created_at": "2026-11-07T11:00:04+01:00",
-      "published_at": "2026-11-07T11:00:04+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Franciaország",
-        "tüntetés",
-        "megélhetési válság",
-        "oktatás",
-        "Párizs"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/M%C3%A9lanie_Luce_%C3%A0_une_manifestation_au_Crous_de_Paris_le_20_septembre_2020.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1282,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Mélanie Luce, president of the National Union of Students of France (UNEF), at a demonstration in front of the Regional Center for Social Works in Universities (CROUS) of Paris, January 20th, 2021.\nDe"
-      }
     }
   ],
-  "updated_at": "2026-11-15T13:04:30+01:00"
+  "updated_at": "2026-11-15T13:06:22+01:00"
 }
