@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "f06ca6d4-1c12-5053-a2e1-59790f8cbbff",
+      "slug": "2026-11-15-rendorsorfalat-tortek-at-a-z-generacio-tuntetoi-berlinben",
+      "url": "/vilag/2026-11-15-rendorsorfalat-tortek-at-a-z-generacio-tuntetoi-berlinben/",
+      "title": "Rendőrsorfalat törtek át a Z generáció tüntetői Berlinben",
+      "lead": "Több mint ezren tüntettek Berlinben a Z generáció felhívására, miután a résztvevők egy része a gyanú szerint megpróbálta áttörni a rendőrsorfalat. Az eseményen Friedrich Merz német kancellárt és Izraelt bíráló jelszavak hangzottak el.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T15:35:16+01:00",
+      "published_at": "2026-11-15T15:35:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Berlin",
+        "tüntetés",
+        "Z generáció",
+        "Németország"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg/1280px-2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1943,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Federal election 2025 – CDU election night at the Konrad-Adenauer-Haus in Berlin: Friedrich Merz (CDU)"
+      }
+    },
+    {
       "id": "1543ca3a-ad75-5041-afb3-bd7067bb48d5",
       "slug": "2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett",
       "url": "/vilag/2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett/",
@@ -4419,37 +4448,7 @@
         "pos": "top",
         "alt": "BKK ticket machine, Budapest,"
       }
-    },
-    {
-      "id": "4b09e672-7586-5dcb-abb5-79852a4951f2",
-      "slug": "2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd",
-      "url": "/vilag/2026-11-07-paprikaspray-vel-es-letartoztatasokkal-ert-veget-a-microsoft-amszterd/",
-      "title": "Paprikaspray-vel és letartóztatásokkal ért véget a Microsoft amszterdami adatközpontjának ostroma",
-      "lead": "Több száz tüntető hatolt be pénteken Amszterdamban arra az építési területre, ahol a Microsoft új adatközpontját tervezik megépíteni. A demonstráció során a rendőrség paprikaspray-t vetett be, és a gyanú szerint több aktivistát őrizetbe vett.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T12:38:08+01:00",
-      "published_at": "2026-11-07T12:38:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.18,
-      "tags": [
-        "Microsoft",
-        "Amszterdam",
-        "tüntetés",
-        "adatközpont",
-        "mesterséges intelligencia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/1280px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The west campus of Microsoft, Redmond, Washington, taken from about 1,500'.  The photo is looking south-east.  The west campus is bounded on the west by 148th Ave, on the east by SR 520, and on the no"
-      }
     }
   ],
-  "updated_at": "2026-11-15T15:28:27+01:00"
+  "updated_at": "2026-11-15T15:35:18+01:00"
 }
