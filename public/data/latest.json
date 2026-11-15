@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "c653c49c-389c-5fd1-8ca6-2d24d33fdb66",
+      "slug": "2026-11-15-borsodbotatol-bagamerig-ma-dol-el-negy-magyar-telepules-sorsa-az-urna",
+      "url": "/kozelet/2026-11-15-borsodbotatol-bagamerig-ma-dol-el-negy-magyar-telepules-sorsa-az-urna/",
+      "title": "Borsodbótától Bagamérig: ma dől el négy magyar település sorsa az urnáknál",
+      "lead": "Vasárnap reggel hattól este hét óráig négy magyarországi településen tartanak időközi önkormányzati választást. A polgármesteri tisztségek mellett több helyen a képviselő-testületet is újjáválasztják haláleset, lemondás és testületi feloszlás miatt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-15",
+      "date_label": "november 15.",
+      "created_at": "2026-11-15T07:44:28+01:00",
+      "published_at": "2026-11-15T07:44:28+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.5,
+      "tags": [
+        "időközi választás",
+        "önkormányzat",
+        "Borsodbóta",
+        "Álmosd",
+        "Bagamér"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/20052e1ec2c4f7a5.jpg",
+        "width": 5646,
+        "height": 3764,
+        "kind": "photo",
+        "alt": "ballot box, democracy, politics, poll, voting, ballot, federal election, state election, european elections, the day of the election, say, urnengang, popular vote, government, ballot box, ballot box, "
+      }
+    },
+    {
       "id": "87ee6339-6d81-5dea-b700-a98658286608",
       "slug": "2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben",
       "url": "/vilag/2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben/",
@@ -4414,37 +4443,7 @@
         "kind": "photo",
         "alt": "Két ember életét követelte a Magdeburg melletti tragédia"
       }
-    },
-    {
-      "id": "14c3c8d2-9ab6-5b10-8bf9-bf0b300f08c7",
-      "slug": "2026-11-07-valasztasi-pofon-utan-stephen-miller-veszi-at-trump-kabinetjenek-iran",
-      "url": "/vilag/2026-11-07-valasztasi-pofon-utan-stephen-miller-veszi-at-trump-kabinetjenek-iran/",
-      "title": "A választási kudarc után Stephen Miller lesz Donald Trump kabinetfőnöke",
-      "lead": "Donald Trump amerikai elnök bejelentette, hogy hétfőtől Stephen Miller lesz az új kabinetfőnök Susie Wiles távozását követően. A személyi változásra a Republikánus Párt félidős választási veresége után került sor.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T06:28:02+01:00",
-      "published_at": "2026-11-07T06:28:02+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.76,
-      "tags": [
-        "Donald Trump",
-        "Stephen Miller",
-        "Fehér Ház",
-        "Egyesült Államok",
-        "félidős választás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Stephen_Miller_July_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1481,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "President Donald Trump delivers remarks at a dinner for GOP Senators, Friday, July 18, 2025, in the State Dining Room of the White House. (Official White House Photo by Daniel Torok)"
-      }
     }
   ],
-  "updated_at": "2026-11-15T07:43:32+01:00"
+  "updated_at": "2026-11-15T07:44:29+01:00"
 }
