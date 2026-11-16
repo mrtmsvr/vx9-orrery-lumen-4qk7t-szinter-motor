@@ -1,7 +1,144 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T13:01:18+01:00",
+  "updated_at": "2026-11-16T13:02:46+01:00",
   "articles": [
+    {
+      "id": "fabd762c-b976-5351-991a-a35d28488462",
+      "slug": "2026-11-16-brusszel-megkurtitana-az-agrartamogatasokat-tuntetesre-keszulnek-a-ga",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "mezőgazdaság",
+        "Európai Unió",
+        "tüntetés",
+        "költségvetés",
+        "KAP"
+      ],
+      "title": "Brüsszel megkurtítaná az agrártámogatásokat, tüntetésre készülnek a gazdák",
+      "subtitle": null,
+      "lead": "Európai gazdák ezrei készülnek november 26-ára Brüsszelbe, hogy demonstrációval tiltakozzanak a közös agrárpolitika tervezett költségvetési csökkentése ellen. A termelők szerint a források megkurtítása közvetlenül veszélyezteti az unió élelmiszer-biztonságát.",
+      "key_points": [
+        "Az európai gazdaszervezetek november 26-ára hirdettek tüntetést Brüsszelbe.",
+        "A tiltakozók a közös agrárpolitika (KAP) 24 százalékos lehetséges csökkentését ellenzik.",
+        "A demonstráció időzítése egybeesik az uniós tagállami vezetők rendkívüli csúcstalálkozójával.",
+        "A gazdák szerint a támogatások csökkentése az európai élelmezésbiztonságot veszélyezteti."
+      ],
+      "content": "November 26-án Brüsszel az európai gazdák fővárosává válik, miután a Copa-Cogeca érdekképviselet által szervezett nagyszabású demonstrációt éppen arra a napra időzítették, amikor az Európai Tanács rendkívüli csúcstalálkozót tart. A gazdák nem rejtik véka alá a céljukat: a demonstráció központi üzenete a „NO CAP CUTS”, amellyel a közös agrárpolitika (KAP) finanszírozásának megőrzéséért küzdenek.\n\nA feszültség hátterében az Európai Bizottság következő, 2028 és 2034 közötti költségvetési terve áll. Bár a pontos számok még egyeztetés alatt állnak, az ír gazdaszervezet (IFA) adatai szerint a tervezett változtatások akár 24 százalékos forráskivonást is jelenthetnek a mezőgazdasági szektor számára. A termelők ráadásul nemcsak az összegek mértékét, hanem a finanszírozási rendszer átalakítását is aggályosnak tartják, mivel a támogatások nemzeti és regionális keretek közé terelése szerintük gyengítené a közös agrárpolitika egységét és önállóságát.\n\nKözben az európai baromfiágazat vezetői, köztük Gert-Jan Oplaat, az Európai Baromfifeldolgozók és Baromfikereskedők Szövetségének (AVEC) elnöke a szabályozási környezet és a piaci verseny kihívásaira figyelmeztetnek. Oplaat szerint az importtermékek okozta versenyhátrány és az egyre szigorúbb brüsszeli elvárások közötti egyensúlyozás már most is megnehezíti a termelők mindennapi munkáját, a tervezett forráselvonások pedig tovább mélyíthetik a bizalmatlanságot az ágazat szereplői és a döntéshozók között.\n\nA szociális feltételesség kapcsán ugyanakkor ellentétes érdekek feszülnek egymásnak a tagállamok között.",
+      "content_format": "markdown",
+      "body": [
+        "November 26-án Brüsszel az európai gazdák fővárosává válik, miután a Copa-Cogeca érdekképviselet által szervezett nagyszabású demonstrációt éppen arra a napra időzítették, amikor az Európai Tanács rendkívüli csúcstalálkozót tart. A gazdák nem rejtik véka alá a céljukat: a demonstráció központi üzenete a „NO CAP CUTS”, amellyel a közös agrárpolitika (KAP) finanszírozásának megőrzéséért küzdenek.",
+        "A feszültség hátterében az Európai Bizottság következő, 2028 és 2034 közötti költségvetési terve áll. Bár a pontos számok még egyeztetés alatt állnak, az ír gazdaszervezet (IFA) adatai szerint a tervezett változtatások akár 24 százalékos forráskivonást is jelenthetnek a mezőgazdasági szektor számára. A termelők ráadásul nemcsak az összegek mértékét, hanem a finanszírozási rendszer átalakítását is aggályosnak tartják, mivel a támogatások nemzeti és regionális keretek közé terelése szerintük gyengítené a közös agrárpolitika egységét és önállóságát.",
+        "Közben az európai baromfiágazat vezetői, köztük Gert-Jan Oplaat, az Európai Baromfifeldolgozók és Baromfikereskedők Szövetségének (AVEC) elnöke a szabályozási környezet és a piaci verseny kihívásaira figyelmeztetnek. Oplaat szerint az importtermékek okozta versenyhátrány és az egyre szigorúbb brüsszeli elvárások közötti egyensúlyozás már most is megnehezíti a termelők mindennapi munkáját, a tervezett forráselvonások pedig tovább mélyíthetik a bizalmatlanságot az ágazat szereplői és a döntéshozók között.",
+        "A szociális feltételesség kapcsán ugyanakkor ellentétes érdekek feszülnek egymásnak a tagállamok között."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 232,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Zetor_Crystal.jpg/1280px-Zetor_Crystal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Zetor Crystal on the field",
+        "credit": "Fruitman cz / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Zetor_Crystal.jpg",
+        "exact": true,
+        "entity": "Tractor",
+        "vision_score": 10.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.vg.hu/agrar/2026/11/gazdatuntetes-brusszel-kap-agrartamogatasok-kap?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
+          "title": "Brüsszelbe vonulnak az európai gazdák: újabb tüntetés jön az uniós agrártámogatások megvágása miatt",
+          "publisher": "vg.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T13:01:15+01:00"
+        },
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261116/sulyos-figyelmeztetest-adtak-ki-veszelybe-kerulhet-az-europai-elelmiszerellatas-876706",
+          "title": "Súlyos figyelmeztetést adtak ki: veszélybe kerülhet az európai élelmiszerellátás",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T13:01:15+01:00"
+        },
+        {
+          "url": "https://infostart.hu/gazdasag/2026/11/15/eppen-akkor-kerulhet-veszelybe-egy-fontos-munkavedelmi-garancia-amikor-nagy-szukseg-lenne-ra",
+          "title": "Éppen akkor kerülhet veszélybe egy fontos munkavédelmi garancia, amikor nagy szükség lenne rá",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T13:01:15+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-16T13:02:46+01:00"
+      },
+      "hot_score": 6.55,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.vg.hu/agrar/2026/11/gazdatuntetes-brusszel-kap-agrartamogatasok-kap?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
+        ]
+      },
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "url": "/kozelet/2026-11-16-brusszel-megkurtitana-az-agrartamogatasokat-tuntetesre-keszulnek-a-ga/",
+      "seo": {
+        "meta_title": "Brüsszel megkurtítaná az agrártámogatásokat, tüntetésre kész",
+        "meta_description": "Európai gazdák ezrei készülnek november 26-ára Brüsszelbe, hogy demonstrációval tiltakozzanak a közös agrárpolitika tervezett költségvetési csökkentése ellen. A",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-16-brusszel-megkurtitana-az-agrartamogatasokat-tuntetesre-keszulnek-a-ga/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Zetor_Crystal.jpg/1280px-Zetor_Crystal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "157ec010-d65f-5cec-ad24-0a6886c4e9a2",
+        "fecb3bc5-aa0e-5908-bfa8-f57aa664cb7b",
+        "0bafe88f-d517-5d43-9af2-8aa7862ee3c9"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar Péter elutasította a hétéves uniós költségvetést Brüsszelben",
+          "url": "/vilag/2026-10-16-magyar-peter-elutasitotta-a-heteves-unios-koltsegvetest-brusszelben/",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "Brüsszel megnyitja a pénzcsapot, közel 10 milliárd euró érkezhet Magyarországra",
+          "url": "/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
+          "date": "2026-11-13"
+        },
+        {
+          "title": "Szalai Piroska kiszámolta: hová tűnik a Brüsszelből felszabadított pénz",
+          "url": "/penzvilag/2026-10-19-szalai-piroska-kiszamolta-hova-tunik-a-brusszelbol-felszabaditott-pen/",
+          "date": "2026-10-19"
+        }
+      ],
+      "thread_id": "1d92ba89-3227-565f-a65f-636520291f1d",
+      "dedupe_hash": "daf5a0581d465ab1336440b7073b76740283fd1679232fd8db14cd153d48f3cb",
+      "pipeline_run_id": "43858368007",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-16T13:02:46+01:00",
+      "updated_at": "2026-11-16T13:02:46+01:00",
+      "published_at": "2026-11-16T13:02:46+01:00",
+      "expires_at": null
+    },
     {
       "id": "f34ff0b1-f6b6-5dad-8f35-ed16b983c3ec",
       "slug": "2026-11-16-korhazi-adossagok-es-szuloi-jogok-feszult-adok-kapok-zajlott-a-parlam",
@@ -75567,107 +75704,6 @@
       "created_at": "2026-10-16T11:40:51+02:00",
       "updated_at": "2026-10-16T11:40:51+02:00",
       "published_at": "2026-10-16T11:40:51+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
-      "slug": "2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Kerkez Milos",
-        "Mirotvorec",
-        "Magyar Labdarúgó Szövetség",
-        "külügyminisztérium",
-        "Liverpool FC"
-      ],
-      "title": "Lekerült Ukrajna listájáról Kerkez Milos",
-      "subtitle": null,
-      "lead": "Kerkez Milos labdarúgó lekerült az Ukrajna ellenségeit listázó Mirotvorec honlapról a Magyar Labdarúgó Szövetség és a külügyminisztérium közbenjárására. Az ügy előzménye egy budapesti válogatott mérkőzés és az azt követő közösségi médiás megosztás volt.",
-      "key_points": [
-        "Kerkez Milos lekerült a kijevi Mirotvorec oldal listájáról.",
-        "A lépés mögött az MLSZ és a külügyminisztérium közbenjárása áll a HVG értesülései szerint.",
-        "A focista korábban egy zenei aláfestésű videómegosztás miatt került az adatbázisba.",
-        "A labdarúgó édesapja továbbra is szerepel az oldalon."
-      ],
-      "content": "Lekerült az Ukrajna vélt vagy valós ellenségeit listázó, Mirotvorec nevű honlapról Kerkez Milos, a magyar labdarúgó-válogatott és a Bournemouth hátvédje. A HVG értesülései szerint a sikeres közbenjárás mögött a Magyar Labdarúgó Szövetség és a külügyminisztérium áll.\n\nA 2014 óta Kijevben működő Mirotvorec az adatbázisában azokat a személyeket teszi közzé, akiket Ukrajna ellenségeinek vagy oroszbarátnak tekintenek. Kerkez Milos azután került fel a felsorolásra, hogy a magyar és az ukrán válogatott budapesti mérkőzésének utolsó perceiben több ukrán játékossal is összeszólalkozott, majd édesapja egy olyan videót osztott meg az Instagramon, amely alá az orosz AK-47 rapcsapat Russian Paradise című számát vágta be.\n\nAz eset után a honlap azzal a váddal vette fel a listára a labdarúgót és az édesapját, hogy támogatják az orosz agressziót. Szijjártó Péter volt külügyminiszter korábban elítélte Kerkez Milos, valamint a felsorolásban szintén szereplő Hidvéghi Balázs fideszes országgyűlési képviselő megbélyegzését és fenyegetését, a külügyminisztérium azonban a lap megkeresésére nem erősítette meg, de nem is cáfolta a saját közreműködéséről szóló híreket.\n\nBár a focistát végül eltávolították az oldalról, az édesapja továbbra is szerepel az adatbázisban oroszpárti provokátorként megjelölve.",
-      "content_format": "markdown",
-      "body": [
-        "Lekerült az Ukrajna vélt vagy valós ellenségeit listázó, Mirotvorec nevű honlapról Kerkez Milos, a magyar labdarúgó-válogatott és a Bournemouth hátvédje. A HVG értesülései szerint a sikeres közbenjárás mögött a Magyar Labdarúgó Szövetség és a külügyminisztérium áll.",
-        "A 2014 óta Kijevben működő Mirotvorec az adatbázisában azokat a személyeket teszi közzé, akiket Ukrajna ellenségeinek vagy oroszbarátnak tekintenek. Kerkez Milos azután került fel a felsorolásra, hogy a magyar és az ukrán válogatott budapesti mérkőzésének utolsó perceiben több ukrán játékossal is összeszólalkozott, majd édesapja egy olyan videót osztott meg az Instagramon, amely alá az orosz AK-47 rapcsapat Russian Paradise című számát vágta be.",
-        "Az eset után a honlap azzal a váddal vette fel a listára a labdarúgót és az édesapját, hogy támogatják az orosz agressziót. Szijjártó Péter volt külügyminiszter korábban elítélte Kerkez Milos, valamint a felsorolásban szintén szereplő Hidvéghi Balázs fideszes országgyűlési képviselő megbélyegzését és fenyegetését, a külügyminisztérium azonban a lap megkeresésére nem erősítette meg, de nem is cáfolta a saját közreműködéséről szóló híreket.",
-        "Bár a focistát végül eltávolították az oldalról, az édesapja továbbra is szerepel az adatbázisban oroszpárti provokátorként megjelölve."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 210,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Milos_Kerkez_04012026_%281%29.jpg/1280px-Milos_Kerkez_04012026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1245,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Milos Kerkez arriving at Craven Cottage prior to the match between Fulham and Liverpool",
-        "credit": "Timmy96 / Wikimedia Commons",
-        "license": "CC0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Milos_Kerkez_04012026_(1).jpg",
-        "vision_score": 10.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261016_lekerult-kerkez-milos-a-mirotvorec-listajarol",
-          "title": "Kerkez Milos lekerült az Ukrajna ellenségeit listázó oldalról",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T11:22:26+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-16T11:24:10+02:00"
-      },
-      "hot_score": 5.67,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261016_lekerult-kerkez-milos-a-mirotvorec-listajarol"
-        ]
-      },
-      "date": "2026-10-16",
-      "date_label": "október 16.",
-      "url": "/kozelet/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos/",
-      "seo": {
-        "meta_title": "Lekerült Ukrajna listájáról Kerkez Milos",
-        "meta_description": "Kerkez Milos labdarúgó lekerült az Ukrajna ellenségeit listázó Mirotvorec honlapról a Magyar Labdarúgó Szövetség és a külügyminisztérium közbenjárására. Az ügy ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Milos_Kerkez_04012026_%281%29.jpg/1280px-Milos_Kerkez_04012026_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "4fe8e6110238464761e6967da6bded90de61d0e1ce4221f8b269b7df81172be7",
-      "pipeline_run_id": "38876809739",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T11:24:10+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-16T11:24:10+02:00",
       "expires_at": null
     }
   ]
