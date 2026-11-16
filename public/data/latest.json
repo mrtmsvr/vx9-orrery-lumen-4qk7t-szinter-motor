@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "eede4e46-1cae-58e7-9c7a-7746963f4f69",
+      "slug": "2026-11-16-magyar-peter-temeti-a-fideszt-38-ev-utan-vege-a-kormanypartoknak",
+      "url": "/kozelet/2026-11-16-magyar-peter-temeti-a-fideszt-38-ev-utan-vege-a-kormanypartoknak/",
+      "title": "Magyar Péter temeti a Fideszt: 38 év után vége a kormánypártoknak",
+      "lead": "A parlamenti napirend előtti felszólalások során Magyar Péter kemény szavakkal búcsúztatta a Fidesz-KDNP szövetség eddigi évtizedeit a Seszták Miklós érintettségével zajló eljárás során talált milliárdok árnyékában. A kormányfő szerint a kormánypártok menthetetlenek, míg az ellenzéki padsorokban heves viták bontakoztak ki a lefoglalt készpénzről és a felelősségre vonásról.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T11:42:15+01:00",
+      "published_at": "2026-11-16T11:42:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Magyar Péter",
+        "Országgyűlés",
+        "Seszták Miklós",
+        "Fidesz",
+        "Közélet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Weiler_peter_minden_magyar_szobra_2016.jpg/1280px-Weiler_peter_minden_magyar_szobra_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Minden magyar szobra, Budapest, Parlament"
+      }
+    },
+    {
       "id": "547aa5d1-50db-5046-bb5f-912267a3d445",
       "slug": "2026-11-16-energiaitalok-tizenegyszeres-kockazat-a-szivre",
       "url": "/eletmod/2026-11-16-energiaitalok-tizenegyszeres-kockazat-a-szivre/",
@@ -4420,39 +4450,7 @@
         "pos": "center",
         "alt": "Slavonski Brod, Croatia"
       }
-    },
-    {
-      "id": "11af0904-0e68-514e-b8fd-af9ade963dee",
-      "slug": "2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya",
-      "url": "/kultura/2026-11-08-honnan-ered-az-adventi-varakozas-valodi-hagyomanya/",
-      "title": "Honnan ered az adventi várakozás valódi hagyománya?",
-      "lead": "A sötét téli esték beköszöntével érezzük csak igazán, mekkora ereje van a lassan növekvő fénynek és a heteken át tartó csendes készülődésnek. Pedig a karácsony előtti időszak nem a kapkodásról és a plázák villogó díszeiről szól, hanem egy évszázadok óta csiszolódó, mély belső utazásról.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T09:28:07+01:00",
-      "published_at": "2026-11-08T09:28:07+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Advent",
-        "advent",
-        "hagyomány",
-        "történelem",
-        "ünnep",
-        "kultúra"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2023_Adventskranz_5.jpg/1280px-2023_Adventskranz_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1083,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Advent wreath made from natural materials before the first Sunday in Advent 2023. Material:Green from Thuja occidentalis and Abies alba, with dried fruits, apples and orranges, and spices, cinnamon, s"
-      }
     }
   ],
-  "updated_at": "2026-11-16T10:28:29+01:00"
+  "updated_at": "2026-11-16T11:42:16+01:00"
 }
