@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "579b7833-a769-5a87-aa0d-80e717d27419",
+      "slug": "2026-11-16-erdobe-asott-milliardok-es-kisvakond-rendkivuli-ulessel-indul-a-het",
+      "url": "/kozelet/2026-11-16-erdobe-asott-milliardok-es-kisvakond-rendkivuli-ulessel-indul-a-het/",
+      "title": "Erdőbe ásott milliárdok és Kisvakond: rendkívüli üléssel indul a hét",
+      "lead": "Reggel kilenc órakor, a szokásostól eltérő időpontban kezdődött meg hétfőn az Országgyűlés háromnapos rendkívüli ülése, amelyen a jövő évi költségvetés vitája mellett a napokban előkerült milliárdos pénzügyi ügyek is napirendre kerültek. Magyar Péter a közösségi oldalán célozta meg a KDNP frakcióját, míg a képviselők az EUFOR ALTHEA misszió bővítéséről és az amerikai atomenergetikai megállapodásról is tárgyalnak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T08:56:37+01:00",
+      "published_at": "2026-11-16T08:56:37+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12,
+      "tags": [
+        "Magyar Péter",
+        "KDNP",
+        "Parlament",
+        "költségvetés",
+        "Seszták Miklós"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg/1280px-Magyar_P%C3%A9ter_2024._%C3%A1prilis-%C3%A1n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Magyar Péter 2024. április-án"
+      }
+    },
+    {
       "id": "7039d40e-e9c9-5bfb-8e5f-3df9b6e4f28a",
       "slug": "2026-11-16-atomenergia-az-orosz-foldgaz-azsiai-piacat-is-elnyelheti",
       "url": "/vilag/2026-11-16-atomenergia-az-orosz-foldgaz-azsiai-piacat-is-elnyelheti/",
@@ -4421,36 +4451,7 @@
         "pos": "center",
         "alt": "Photograph of an Astec brand Roadtec RP-190 asphalt paver suitable for highway and residential work. According to Astec (November 10, 2022), the machine features a dual-fan fume extraction system, swi"
       }
-    },
-    {
-      "id": "42ce2898-2392-567c-beb8-3723ca7c038e",
-      "slug": "2026-11-08-otmilliardos-gepparkbovites-hoekevel-es-agapritoval-erosit-a-magyar-k",
-      "url": "/kozelet/2026-11-08-otmilliardos-gepparkbovites-hoekevel-es-agapritoval-erosit-a-magyar-k/",
-      "title": "Ötmilliárdos gépparkbővítés: hóekével és ágaprítóval erősít a Magyar Közút",
-      "lead": "Mintegy ötmilliárd forintos többletforrást biztosít a kormány a Magyar Közút Nonprofit Zrt. eszközparkjának megújítására, ami jelentős technológiai fejlesztést hoz az útkezelésben. A Vitézy Dávid közlekedési és beruházási miniszter által bejelentett csomagból új teherautókat, mérőautókat és több száz kisgépet szereznek be.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T07:55:48+01:00",
-      "published_at": "2026-11-08T07:55:48+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.17,
-      "tags": [
-        "Magyar Közút",
-        "Vitézy Dávid",
-        "Közlekedési és Beruházási Minisztérium",
-        "útfelújítás",
-        "közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/e9352f674f50bd3d.jpg",
-        "width": 3730,
-        "height": 2188,
-        "kind": "photo",
-        "alt": "snow, mountain, winter, nature, clearance service, wintry, cold, winter landscape, white, winter service, snowy, gritter, road, winter clearance service, oncoming traffic, new zealand, snowed in, slip"
-      }
     }
   ],
-  "updated_at": "2026-11-16T07:41:37+01:00"
+  "updated_at": "2026-11-16T08:56:38+01:00"
 }
