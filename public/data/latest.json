@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5838cf83-a07e-51dd-af24-273d4a021168",
+      "slug": "2026-11-16-120-wc-tablettaval-gazositott-egy-diak-a-kolcseyben-diakok-lettek-ros",
+      "url": "/kozelet/2026-11-16-120-wc-tablettaval-gazositott-egy-diak-a-kolcseyben-diakok-lettek-ros/",
+      "title": "120 WC-tablettával gázosított egy diák a Kölcseyben: diákok lettek rosszul",
+      "lead": "Kiürítették a zalaegerszegi Kölcsey Ferenc Gimnáziumot, miután egy tanuló összesen 120 darab WC-tisztító tablettát szórt szét az épület mosdóiban. A vegyi reakció miatt 13 diák és egy pedagógus lett rosszul.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T18:03:06+01:00",
+      "published_at": "2026-11-16T18:03:06+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Zalaegerszeg",
+        "Kölcsey Ferenc Gimnázium",
+        "gázmérgezés",
+        "rendőrség",
+        "iskolai biztonság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Kolcseygimnazium.jpg/1280px-Kolcseygimnazium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "A budapesti Kölcsey Ferenc Gimnázium udvara és épülete. - Budapest, VI. Munkácsy Mihály u. 26 (helyi védelem: -7928)\n\n\n\n\n\nThis is a photo of a monument in Hungary. Identifier: -7928"
+      }
+    },
+    {
       "id": "628fe9a7-a862-5bbc-a9f2-03231242aa11",
       "slug": "2026-11-16-felszamoltak-a-kdnp-mateszalkai-szervezetet-a-polgarmester-tavozott",
       "url": "/kozelet/2026-11-16-felszamoltak-a-kdnp-mateszalkai-szervezetet-a-polgarmester-tavozott/",
@@ -4422,37 +4452,7 @@
         "pos": "center",
         "alt": "A pile of stacked gold bars"
       }
-    },
-    {
-      "id": "480b33b9-3c14-5dea-b008-ba7622c8c052",
-      "slug": "2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon",
-      "url": "/vilag/2026-11-08-europa-nem-hagyja-magat-ott-lesznek-az-abu-dzabi-targyalasokon/",
-      "title": "Európa nem hagyja magát: ott lesznek az abu-dzabi tárgyalásokon",
-      "lead": "Franciaország és más európai országok képviselői is ott lesznek a november 10–11-én Abu-Dzabiban tartandó orosz–ukrán béketárgyalásokon – erősítette meg Jean-Noël Barrot francia külügyminiszter. A korábbi tervek szerint az amerikai közvetítéssel zajló egyeztetésekről az európaiakat teljesen kizárták volna.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T19:00:20+01:00",
-      "published_at": "2026-11-08T19:00:20+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "béketárgyalás",
-        "Abu-Dzabi",
-        "orosz-ukrán háború",
-        "Franciaország",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Jean-No%C3%ABl_Barrot_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1591,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
-      }
     }
   ],
-  "updated_at": "2026-11-16T16:47:26+01:00"
+  "updated_at": "2026-11-16T18:03:09+01:00"
 }
