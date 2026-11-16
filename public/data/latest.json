@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "55b38401-ad5f-583d-a61b-b2c8e081a9d5",
+      "slug": "2026-11-16-richter-csucs-es-otp-hajra-igy-kapaszkodott-vissza-a-magyar-tozsde",
+      "url": "/penzvilag/2026-11-16-richter-csucs-es-otp-hajra-igy-kapaszkodott-vissza-a-magyar-tozsde/",
+      "title": "Richter-csúcs és OTP-hajrá: így kapaszkodott vissza a magyar tőzsde",
+      "lead": "Miközben az európai piacok bizonytalankodtak, a budapesti tőzsde 0,5 százalékos emelkedéssel zárta a hétfőt. A befektetői optimizmust elsősorban a Richter és a Magyar Telekom történelmi csúcsai, valamint az OTP zárás előtti erős hajrája táplálta.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T19:00:36+01:00",
+      "published_at": "2026-11-16T19:00:36+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.32,
+      "tags": [
+        "Budapesti Értéktőzsde",
+        "BUX",
+        "Richter",
+        "OTP",
+        "tőzsde"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/33fb16d1e4d0a26f.jpg",
+        "width": 5184,
+        "height": 3456,
+        "kind": "photo",
+        "alt": "business, stock, finance, market, financial, stock market, investment, success, information, data, exchange, growth, trading, broker, economy, money, stock, stock market, stock market, stock market, s"
+      }
+    },
+    {
       "id": "2644a767-5970-536d-a7d8-0475d24df6fc",
       "slug": "2026-11-16-288-millios-feketleves-csodeljarast-kert-heves",
       "url": "/kozelet/2026-11-16-288-millios-feketleves-csodeljarast-kert-heves/",
@@ -4423,37 +4452,7 @@
         "pos": "center",
         "alt": "Gyömrő Teleki castle aerial photography \n\n\n\n\n\nThis is a photo of a monument in Hungary. Identifier: 7072\n\n\n\n\nThis picture is © copyright Civertan Grafikai Stúdió (Civertan Bt.), 1997-2006.; http://www"
       }
-    },
-    {
-      "id": "302e2608-a828-5d57-a8e7-808d49024f22",
-      "slug": "2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p",
-      "url": "/kozelet/2026-11-08-egy-napot-birt-az-uj-eszaki-tankeruleti-vezeto-mielott-kimenekult-a-p/",
-      "title": "Egy napot bírt az új északi tankerületi vezető, mielőtt kimenekült a posztról",
-      "lead": "Nyilvános Facebook-posztban jelentette be lemondását Balogh Tamás László, az Észak-Budapesti Tankerületi Központ frissen kinevezett vezetője, aki mindössze egy napot töltött hivatalban. A szakember az intézmények közötti kölcsönös bizalom hiányával és lejáratási kísérletekkel indokolta a hirtelen távozást.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T20:17:48+01:00",
-      "published_at": "2026-11-08T20:17:48+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.37,
-      "tags": [
-        "oktatás",
-        "tankerület",
-        "Balogh Tamás László",
-        "Klebelsberg Központ",
-        "Oktatási és Gyermekügyi Minisztérium"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg/1280px-1887_Bettannier_Der_Schwarze_Fleck_anagoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 880,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Black Stain; Alsace–Lorraine illustrated as a black patch (metaphorically, a \"black stain\") in 1887, during the period of its occupation by the German Empire since 1871."
-      }
     }
   ],
-  "updated_at": "2026-11-16T18:58:28+01:00"
+  "updated_at": "2026-11-16T19:00:37+01:00"
 }
