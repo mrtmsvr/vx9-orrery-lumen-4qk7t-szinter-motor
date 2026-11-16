@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ed31416a-0014-5ae6-8640-bc63faea03c7",
+      "slug": "2026-11-16-bombatamadassal-fenyegetozott-egy-elveszett-penztarca-miatt-intezkede",
+      "url": "/kozelet/2026-11-16-bombatamadassal-fenyegetozott-egy-elveszett-penztarca-miatt-intezkede/",
+      "title": "Bombatámadással fenyegetőzött egy elveszett pénztárca miatt intézkedést követelő férfi",
+      "lead": "Egy helyi italozóban hagyott pénztárcája miatt riasztotta a rendőrséget egy férfi, majd mivel nem vonultak ki azonnal, bombatámadással és életveszélyes fenyegetésekkel reagált. A Budakörnyéki Járásbíróság nyomozási bírája elrendelte a letartóztatását.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T18:55:32+01:00",
+      "published_at": "2026-11-16T18:55:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.28,
+      "tags": [
+        "Magyar Péter",
+        "Budakörnyéki Járásbíróság",
+        "Pest Megyei Rendőr-főkapitányság",
+        "terrorcselekmény",
+        "letartóztatás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Skoda_Octavia_III..jpg/1280px-Skoda_Octavia_III..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 600,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Skoda Octavia III. járőrautó"
+      }
+    },
+    {
       "id": "5838cf83-a07e-51dd-af24-273d4a021168",
       "slug": "2026-11-16-120-wc-tablettaval-gazositott-egy-diak-a-kolcseyben-diakok-lettek-ros",
       "url": "/kozelet/2026-11-16-120-wc-tablettaval-gazositott-egy-diak-a-kolcseyben-diakok-lettek-ros/",
@@ -4422,37 +4452,7 @@
         "alt": "104 oldal – A Nógrádi Lászlóról szóló iratcsomag terjedelme",
         "card": "num"
       }
-    },
-    {
-      "id": "b8c14538-22e6-5441-b9c9-be77ea11f7a5",
-      "slug": "2026-11-08-rollerrel-es-legpisztollyal-vitte-el-a-19-millios-aranyat-a-nyiregyha",
-      "url": "/kozelet/2026-11-08-rollerrel-es-legpisztollyal-vitte-el-a-19-millios-aranyat-a-nyiregyha/",
-      "title": "Rollerrel és légpisztollyal vitte el a 19 milliós aranyat a nyíregyházi rabló",
-      "lead": "Kevesebb mint egy nap alatt elfogták azt az 54 éves férfit, aki a gyanú szerint mintegy 19 millió forintnyi befektetési aranyat zsákmányolt egy nyíregyházi valutaváltóból. A támadó légpisztollyal fenyegetőzött, majd a helyszínről rollerrel távozott.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T19:01:47+01:00",
-      "published_at": "2026-11-08T19:01:47+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.74,
-      "tags": [
-        "Nyíregyháza",
-        "rablás",
-        "pénzszállító",
-        "rendőrség",
-        "valutaváltó"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gold_bullion_bars.jpg/1280px-Gold_bullion_bars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A pile of stacked gold bars"
-      }
     }
   ],
-  "updated_at": "2026-11-16T18:03:09+01:00"
+  "updated_at": "2026-11-16T18:55:33+01:00"
 }
