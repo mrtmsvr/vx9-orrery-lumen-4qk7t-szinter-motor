@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b12a903a-1a6e-5ea9-8fa4-543e0c6ab493",
+      "slug": "2026-11-16-pokolgeppel-akartak-megolni-moszkvaban-az-ukran-exkormanyfo-volt-tana",
+      "url": "/vilag/2026-11-16-pokolgeppel-akartak-megolni-moszkvaban-az-ukran-exkormanyfo-volt-tana/",
+      "title": "Pokolgéppel akarták megölni Moszkvában az ukrán exkormányfő volt tanácsadóját",
+      "lead": "Pokolgépes merénylet célpontja lett Szergej Zavorotnij, Mikola Azarov korábbi ukrán miniszterelnök volt tanácsadója Moszkvában. Az orosz hatóságok őrizetbe vettek egy huszonegy éves nőt az ügyben.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T20:18:56+01:00",
+      "published_at": "2026-11-16T20:18:56+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Moszkva",
+        "merénylet",
+        "FSZB",
+        "Ukrajna",
+        "Mikola Azarov"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mykola_Azarov_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1664,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "2012.gada 10.februāris. Saeimas priekšsēdētāja Solvita Āboltiņa tiekas ar Ukrainas Ministru prezidentu  Mikolu Azarovu (Mykola Azarov).\n\nFoto: Ernests Dinka, Saeimas Kanceleja"
+      }
+    },
+    {
       "id": "e67896d8-df5d-5787-a20f-4fd6097d6f7d",
       "slug": "2026-11-16-varatlanul-menesztettek-a-sandor-palota-hivatalvezetojet",
       "url": "/kozelet/2026-11-16-varatlanul-menesztettek-a-sandor-palota-hivatalvezetojet/",
@@ -4421,37 +4451,7 @@
         "pos": "top",
         "alt": "Orbán Viktor - CPAC Hungary 2024."
       }
-    },
-    {
-      "id": "8cdd3ebd-1822-5e0e-9c63-184cfc6ebba5",
-      "slug": "2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban",
-      "url": "/vilag/2026-11-09-tizennegyen-egtek-benn-egy-kinai-toronyhazban/",
-      "title": "Tizennégyen égtek ben egy kínai toronyházban",
-      "lead": "Tizennégy ember vesztette életét egy észak-kínai toronyházban vasárnap délután keletkezett tűzben. A hatóságok harmincnyolc embert szállítottak kórházba a tajjüani lángok eloltása után.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T07:37:19+01:00",
-      "published_at": "2026-11-09T07:37:19+01:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Kína",
-        "tűzvész",
-        "toronyház",
-        "Sanhszi",
-        "Tajjüan"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/J84682_TempleYongzuo_20140717-155800.22_TempleYongzuoPEst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 2400,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Taiyuan (Shanxi, China) Yongzuo temple east pagoda, taken from west pagoda."
-      }
     }
   ],
-  "updated_at": "2026-11-16T19:21:38+01:00"
+  "updated_at": "2026-11-16T20:18:57+01:00"
 }
