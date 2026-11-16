@@ -1,7 +1,116 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T18:55:32+01:00",
+  "updated_at": "2026-11-16T18:58:27+01:00",
   "articles": [
+    {
+      "id": "2644a767-5970-536d-a7d8-0475d24df6fc",
+      "slug": "2026-11-16-288-millios-feketleves-csodeljarast-kert-heves",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Heves",
+        "önkormányzat",
+        "adósságrendezés",
+        "Magyar Államkincstár"
+      ],
+      "title": "288 milliós feketleves: csődeljárást kért Heves",
+      "subtitle": null,
+      "lead": "Súlyos pénzügyi nehézségek miatt adósságrendezési eljárást kezdeményezett Heves önkormányzata. A lépésre azután szánták el magukat, hogy a Magyar Államkincstár inkasszót hajtott végre a város számláján.",
+      "key_points": [
+        "Adósságrendezési eljárást kezdeményezett Heves önkormányzata a súlyos pénzügyi helyzet miatt.",
+        "A Magyar Államkincstár 288 millió forintos inkasszót bocsátott ki a város számlájára.",
+        "A polgármester ígérete szerint a kötelező feladatokat, a béreket és a szociális ellátásokat továbbra is fizetni fogják.",
+        "A kérelmet benyújtják az Egri Törvényszékhez, a végzést pedig a Cégközlönyben teszik közzé."
+      ],
+      "content": "Súlyos pénzügyi helyzetbe került Heves, miután a Magyar Államkincstár 288 millió forintos inkasszót bocsátott ki a település költségvetési számlájára – írta Sveiczer Sándor, a város polgármestere. A kialakult helyzet miatt a helyi önkormányzat adósságrendezési eljárást kezdeményezett maga ellen.\n\nAz önkormányzat a vonatkozó kérelmet benyújtja az Egri Törvényszékhez, a bírósági végzést pedig a Cégközlönyben teszik közzé. A polgármester közlése szerint a folyamatban lévő pályázatokat nem érinti az eljárás.\n\nA nehéz gazdasági körülmények ellenére a városvezetés célkitűzése a zavartalan működés biztosítása. Az önkormányzat mindent megtesz annak érdekében, hogy teljesíteni tudja a kötelező közszolgáltatásokat, a szociális és pénzbeli ellátásokat, valamint az intézményekben foglalkoztatottak bérének kifizetését, emellett a szerződéses partnerek felé fennálló pénzügyi kötelezettségeit is rendezni kívánja.",
+      "content_format": "markdown",
+      "body": [
+        "Súlyos pénzügyi helyzetbe került Heves, miután a Magyar Államkincstár 288 millió forintos inkasszót bocsátott ki a település költségvetési számlájára – írta Sveiczer Sándor, a város polgármestere. A kialakult helyzet miatt a helyi önkormányzat adósságrendezési eljárást kezdeményezett maga ellen.",
+        "Az önkormányzat a vonatkozó kérelmet benyújtja az Egri Törvényszékhez, a bírósági végzést pedig a Cégközlönyben teszik közzé. A polgármester közlése szerint a folyamatban lévő pályázatokat nem érinti az eljárás.",
+        "A nehéz gazdasági körülmények ellenére a városvezetés célkitűzése a zavartalan működés biztosítása. Az önkormányzat mindent megtesz annak érdekében, hogy teljesíteni tudja a kötelező közszolgáltatásokat, a szociális és pénzbeli ellátásokat, valamint az intézményekben foglalkoztatottak bérének kifizetését, emellett a szerződéses partnerek felé fennálló pénzügyi kötelezettségeit is rendezni kívánja."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 137,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Heves1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 855,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Heves, Hungary, aerialphotography",
+        "credit": "Civertan / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Heves1.jpg",
+        "exact": true,
+        "entity": "Heves",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://index.hu/belfold/2026/11/16/sveiczer-sandor-heves-onkormanyzat-adossagrendezesi-eljaras/",
+          "title": "Súlyos pénzügyi helyzetbe került Heves, adósságrendezést kezdeményezett a város",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T18:55:33+01:00"
+        },
+        {
+          "url": "https://hvg.hu/itthon/20261116_heves-onkormanyzat-csodeljaras-sveiczer-sandor",
+          "title": "Csődeljárást indított saját maga ellen Heves önkormányzata",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T18:55:33+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-16T18:58:27+01:00"
+      },
+      "hot_score": 8.95,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://index.hu/belfold/2026/11/16/sveiczer-sandor-heves-onkormanyzat-adossagrendezesi-eljaras/",
+          "https://hvg.hu/itthon/20261116_heves-onkormanyzat-csodeljaras-sveiczer-sandor"
+        ]
+      },
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "url": "/kozelet/2026-11-16-288-millios-feketleves-csodeljarast-kert-heves/",
+      "seo": {
+        "meta_title": "288 milliós feketleves: csődeljárást kért Heves",
+        "meta_description": "Súlyos pénzügyi nehézségek miatt adósságrendezési eljárást kezdeményezett Heves önkormányzata. A lépésre azután szánták el magukat, hogy a Magyar Államkincstár ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-16-288-millios-feketleves-csodeljarast-kert-heves/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Heves1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "66e3de733818ae3ffd7a3f3f81c55240b187c2bd1fcd1598a814f4f654f286d1",
+      "pipeline_run_id": "43919095847",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-16T18:58:27+01:00",
+      "updated_at": "2026-11-16T18:58:27+01:00",
+      "published_at": "2026-11-16T18:58:27+01:00",
+      "expires_at": null
+    },
     {
       "id": "ed31416a-0014-5ae6-8640-bc63faea03c7",
       "slug": "2026-11-16-bombatamadassal-fenyegetozott-egy-elveszett-penztarca-miatt-intezkede",
@@ -75745,127 +75854,6 @@
       "created_at": "2026-10-16T16:10:50+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-16T16:10:50+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "ff432386-3e60-5722-bfe3-d4cc78ae113b",
-      "slug": "2026-10-16-az-osztrak-porr-viheti-meszaros-lorinc-vasutepito-birodalmat",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "V-Híd",
-        "Mészáros Lőrinc",
-        "PORR",
-        "vasútépítés",
-        "Vitézy Dávid"
-      ],
-      "title": "Eladhatja legjövedelmezőbb vállalatát Mészáros Lőrinc",
-      "subtitle": null,
-      "lead": "Piaci források szerint megegyezett Mészáros Lőrinc és az osztrák PORR építővállalat a V-Híd Építő Zrt. adásvételéről. A tulajdonosváltás mögött az állhat, hogy a kormány a közelmúltban egy uniós vizsgálat és forrásmegvonás veszélye miatt kizárta a vállalatot az állami beruházásokból.",
-      "key_points": [
-        "Osztrák kézbe kerülhet a V-Híd Építő Zrt.",
-        "A tranzakciót várhatóan napokon belül bejelentik.",
-        "A hazai vasútépítési piacot uraló cég az utóbbi időben uniós vizsgálatok célpontjává vált."
-      ],
-      "content": "Megállapodás születhetett Mészáros Lőrinc és az osztrák PORR építőipari vállalat között a V-Híd Építő Zrt. értékesítéséről, a tranzakciót pedig akár napokon belül hivatalosan is bejelenthetik. A tulajdonosváltás híre már hetek óta terjed a vasútépítő szakmában, ám a pontos részletek egyelőre nem tisztázottak. Így még kérdéses, hogy az osztrák cég közvetlenül a V-Híd Zrt.-t vásárolja-e meg, vagy a vállalkozás teljes eszközparkját és munkavállalói állományát veszi át egy új struktúrában.\n\nAz üzletkötés valószínűségét erősíti, hogy a cégjegyzék adatai szerint az osztrák anyavállalat, a PORR Bau GmbH szeptember 21-én egy új magyarországi leányvállalatot alapított PORR Kft. néven. A vasútépítésre szakosodott új cég ügyvezetői feladatait Florian Kalsberger, az anyacég pénzügyi igazgatója, valamint Magyar István látja el, aki korábban már irányította a PORR hazai érdekeltségeit. A V-Híd eladása jelentős fordulatot hozna, hiszen a vállalat a 2018-as tulajdonszerzés óta Mészáros Lőrinc cégcsoportjának legjövedelmezőbb elemévé vált, mintegy 600 milliárd forintos árbevételt elérve.\n\nA korábbi időszakban a V-Híd nemcsak gazdasági, hanem politikai szempontból is kulcsszereplő volt, miután milliárdos nagyságrendben támogatott kormánypárti kampányokat és a Megafon hálózatát. Az alkupozíciót azonban drasztikusan rontották a legutóbbi hetek eseményei. A döntés hátterében a Déli Körvasút beruházás második ütemének közbeszerzése során felmerült jogsértő összejátszás gyanúja áll, ami miatt Magyarország jelentős uniós támogatásokat is elveszíthet.\n\nA PORR visszatérése a magyar piacra figyelemre méltó múltbeli előzmények után történik meg. A 2010 előtti időszakban a cég a Vegyépszer partnereként olyan projektekben vett részt, mint az M0-s és M6-os autópályák, valamint a 4-es metró építése. Utóbbi beruházásnál az OLAF vizsgálata szabálytalanságokat tárt fel a cég szerződéseinél, az osztrák versenyhivatal pedig korábban egy nagyszabású építőipari kartell miatt 62 millió eurós bírsággal sújtotta az anyavállalatot árrögzítés és piacfelosztás miatt. A Mészáros Csoport a megjelent információkra egyelőre nem reagált.",
-      "content_format": "markdown",
-      "body": [
-        "Megállapodás születhetett Mészáros Lőrinc és az osztrák PORR építőipari vállalat között a V-Híd Építő Zrt. értékesítéséről, a tranzakciót pedig akár napokon belül hivatalosan is bejelenthetik. A tulajdonosváltás híre már hetek óta terjed a vasútépítő szakmában, ám a pontos részletek egyelőre nem tisztázottak. Így még kérdéses, hogy az osztrák cég közvetlenül a V-Híd Zrt.-t vásárolja-e meg, vagy a vállalkozás teljes eszközparkját és munkavállalói állományát veszi át egy új struktúrában.",
-        "Az üzletkötés valószínűségét erősíti, hogy a cégjegyzék adatai szerint az osztrák anyavállalat, a PORR Bau GmbH szeptember 21-én egy új magyarországi leányvállalatot alapított PORR Kft. néven. A vasútépítésre szakosodott új cég ügyvezetői feladatait Florian Kalsberger, az anyacég pénzügyi igazgatója, valamint Magyar István látja el, aki korábban már irányította a PORR hazai érdekeltségeit. A V-Híd eladása jelentős fordulatot hozna, hiszen a vállalat a 2018-as tulajdonszerzés óta Mészáros Lőrinc cégcsoportjának legjövedelmezőbb elemévé vált, mintegy 600 milliárd forintos árbevételt elérve.",
-        "A korábbi időszakban a V-Híd nemcsak gazdasági, hanem politikai szempontból is kulcsszereplő volt, miután milliárdos nagyságrendben támogatott kormánypárti kampányokat és a Megafon hálózatát. Az alkupozíciót azonban drasztikusan rontották a legutóbbi hetek eseményei. A döntés hátterében a Déli Körvasút beruházás második ütemének közbeszerzése során felmerült jogsértő összejátszás gyanúja áll, ami miatt Magyarország jelentős uniós támogatásokat is elveszíthet.",
-        "A PORR visszatérése a magyar piacra figyelemre méltó múltbeli előzmények után történik meg. A 2010 előtti időszakban a cég a Vegyépszer partnereként olyan projektekben vett részt, mint az M0-s és M6-os autópályák, valamint a 4-es metró építése. Utóbbi beruházásnál az OLAF vizsgálata szabálytalanságokat tárt fel a cég szerződéseinél, az osztrák versenyhivatal pedig korábban egy nagyszabású építőipari kartell miatt 62 millió eurós bírsággal sújtotta az anyavállalatot árrögzítés és piacfelosztás miatt. A Mészáros Csoport a megjelent információkra egyelőre nem reagált."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 330,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/PORR_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 766,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "PORR Logo",
-        "credit": "PORR Unternehmenskommunikation / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:PORR_Logo.png"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20261016/varatlan-fordulat-kulfoldi-kezbe-kerulhet-meszaros-lorinc-legjovedelmezobb-cege-870218",
-          "title": "Váratlan fordulat: külföldi kézbe kerülhet Mészáros Lőrinc legjövedelmezőbb cége",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T16:06:13+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/meszaros-lorinc-v-hid-osztrak-multi-bejelentes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Váratlan fordulat: Mészáros Lőrinc eladhatja egyik legértékesebb cégét — osztrák multi veheti át, napokon belül jöhet a bejelentés",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T16:06:13+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-16T16:07:25+02:00"
-      },
-      "hot_score": 10.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20261016/varatlan-fordulat-kulfoldi-kezbe-kerulhet-meszaros-lorinc-legjovedelmezobb-cege-870218",
-          "https://www.vg.hu/vilaggazdasag-magyar-gazdasag/2026/10/meszaros-lorinc-v-hid-osztrak-multi-bejelentes?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator"
-        ]
-      },
-      "date": "2026-10-16",
-      "date_label": "október 16.",
-      "url": "/kozelet/2026-10-16-az-osztrak-porr-viheti-meszaros-lorinc-vasutepito-birodalmat/",
-      "seo": {
-        "meta_title": "Eladhatja legjövedelmezőbb vállalatát Mészáros Lőrinc",
-        "meta_description": "Piaci források szerint megegyezett Mészáros Lőrinc és az osztrák PORR építővállalat a V-Híd Építő Zrt. adásvételéről. A tulajdonosváltás mögött az állhat, hogy ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-16-az-osztrak-porr-viheti-meszaros-lorinc-vasutepito-birodalmat/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/82/PORR_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "4d54d600-5720-5c51-8568-a4af8de538ef",
-        "7a8cbde1-a256-58f4-b391-9dbd3869a796"
-      ],
-      "see_also": [
-        {
-          "title": "Déli körvasút: kizárták a V-Híd Zrt.-t",
-          "url": "/kozelet/2026-10-10-deli-korvasut-kizartak-a-v-hid-zrt-t/",
-          "date": "2026-10-10"
-        },
-        {
-          "title": "Magánrepülő, kastély és milliárdos megbízások: kiszivárogtak Mészárosék belső iratai",
-          "url": "/kozelet/2026-10-07-maganrepulo-kastely-es-milliardos-megbizasok-kiszivarogtak-meszarosek/",
-          "date": "2026-10-07"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "13382db04dd224e29ace73003b0f1f0b975d822841cdb97cb6f46718987b86bc",
-      "pipeline_run_id": "38912945537",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T16:07:25+02:00",
-      "updated_at": "2026-10-16T16:54:12+02:00",
-      "published_at": "2026-10-16T16:07:25+02:00",
       "expires_at": null
     }
   ]

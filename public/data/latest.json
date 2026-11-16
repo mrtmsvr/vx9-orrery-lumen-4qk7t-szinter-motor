@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "2644a767-5970-536d-a7d8-0475d24df6fc",
+      "slug": "2026-11-16-288-millios-feketleves-csodeljarast-kert-heves",
+      "url": "/kozelet/2026-11-16-288-millios-feketleves-csodeljarast-kert-heves/",
+      "title": "288 milliós feketleves: csődeljárást kért Heves",
+      "lead": "Súlyos pénzügyi nehézségek miatt adósságrendezési eljárást kezdeményezett Heves önkormányzata. A lépésre azután szánták el magukat, hogy a Magyar Államkincstár inkasszót hajtott végre a város számláján.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T18:58:27+01:00",
+      "published_at": "2026-11-16T18:58:27+01:00",
+      "reading_time_min": 1,
+      "hot_score": 8.95,
+      "tags": [
+        "Heves",
+        "önkormányzat",
+        "adósságrendezés",
+        "Magyar Államkincstár"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Heves1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 855,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Heves, Hungary, aerialphotography"
+      }
+    },
+    {
       "id": "ed31416a-0014-5ae6-8640-bc63faea03c7",
       "slug": "2026-11-16-bombatamadassal-fenyegetozott-egy-elveszett-penztarca-miatt-intezkede",
       "url": "/kozelet/2026-11-16-bombatamadassal-fenyegetozott-egy-elveszett-penztarca-miatt-intezkede/",
@@ -4424,35 +4453,7 @@
         "pos": "center",
         "alt": "The Black Stain; Alsace–Lorraine illustrated as a black patch (metaphorically, a \"black stain\") in 1887, during the period of its occupation by the German Empire since 1871."
       }
-    },
-    {
-      "id": "f9885bb7-a04c-5154-b74d-431bcc23dba9",
-      "slug": "2026-11-08-nogradi-laszlo-sziklay-fedonev-alatt-jelentettek-rolam-nem-en-jelente",
-      "url": "/kozelet/2026-11-08-nogradi-laszlo-sziklay-fedonev-alatt-jelentettek-rolam-nem-en-jelente/",
-      "title": "Nógrádi László: Sziklay fedőnév alatt jelentettek rólam, nem én jelentettem",
-      "lead": "A nyilvánosságra hozott egykori állambiztonsági adatbázisban Nógrádi László neve is felbukkant, amire a volt miniszter közleményben reagált. Állítása szerint a Kádár-korszakban nemhogy nem jelentett senkiről, de maga is megfigyelés áldozata volt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T19:03:19+01:00",
-      "published_at": "2026-11-08T19:03:19+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.15,
-      "tags": [
-        "ügynökakták",
-        "Nógrádi László",
-        "KDNP",
-        "állambiztonság",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-77f73b05ee.jpg",
-        "kind": "photo",
-        "alt": "104 oldal – A Nógrádi Lászlóról szóló iratcsomag terjedelme",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-16T18:55:33+01:00"
+  "updated_at": "2026-11-16T18:58:28+01:00"
 }
