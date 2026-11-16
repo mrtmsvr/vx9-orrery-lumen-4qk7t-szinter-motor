@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8ca79f08-8824-5c4e-9306-db79b9c9f961",
+      "slug": "2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye",
+      "url": "/kozelet/2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye/",
+      "title": "Rekordmélyponton a Fidesz, hízik a Tisza előnye",
+      "lead": "A kormánypárt támogatottsága novemberben ismét csökkent, miközben a Tisza Párt előnye tovább nőtt a pártot választani tudók körében. A 21 Kutatóközpont friss adatai szerint a Mi Hazánk tábora is zsugorodott az elmúlt másfél hónapban.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T07:38:40+01:00",
+      "published_at": "2026-11-16T07:38:40+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.17,
+      "tags": [
+        "Közvélemény-kutatás",
+        "Tisza Párt",
+        "Fidesz",
+        "Mi Hazánk",
+        "21 Kutatóközpont"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Magyar_P%C3%A9ter_Szigetszentmikl%C3%B3s.jpg/1280px-Magyar_P%C3%A9ter_Szigetszentmikl%C3%B3s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Péter Magyar, founder of Talpra Magyarok Közössége, vice president of the Respect and Freedom Party (Tisza) in Szigetszenmiklós, the 2nd of June in 2024"
+      }
+    },
+    {
       "id": "1637c090-6d5a-5591-9a3c-a0a6634905e5",
       "slug": "2026-11-15-magyar-peter-eltorolne-a-venykotelesseget-takacs-peter-szerint-meg-cu",
       "url": "/kozelet/2026-11-15-magyar-peter-eltorolne-a-venykotelesseget-takacs-peter-szerint-meg-cu/",
@@ -4419,37 +4449,7 @@
         "kind": "photo",
         "alt": "automobile, blur, car wallpapers, car, police car, police tape, vehicle, black car, black police"
       }
-    },
-    {
-      "id": "a6b1df56-b913-577d-b901-8cc31283fd75",
-      "slug": "2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump",
-      "url": "/vilag/2026-11-07-ketrecbol-a-sajtotermbe-dana-white-ot-szemelte-ki-trump/",
-      "title": "Ketrecből a sajtótermbe: Dana White-ot szemelte ki Trump",
-      "lead": "Donald Trump amerikai elnök a Truth Social platformon jelentette be, hogy az UFC elnökét, Dana White-ot kérte fel a Fehér Ház szóvivői tisztségére. A poszt október közepe óta üresen áll elődjének gyors távozása után.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-07",
-      "date_label": "november 7.",
-      "created_at": "2026-11-07T22:44:41+01:00",
-      "published_at": "2026-11-07T22:44:41+01:00",
-      "reading_time_min": 2,
-      "hot_score": 14.59,
-      "tags": [
-        "Donald Trump",
-        "Dana White",
-        "UFC",
-        "Fehér Ház",
-        "Egyesült Államok"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Dana_White_in_June_2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1560,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Ilham Aliyev received Dana White, President of the Ultimate Fighting Championship (UFC)"
-      }
     }
   ],
-  "updated_at": "2026-11-16T06:15:27+01:00"
+  "updated_at": "2026-11-16T07:38:41+01:00"
 }
