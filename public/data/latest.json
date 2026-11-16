@@ -23,11 +23,12 @@
         "tudomány"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/ae1378ee4f6fcd81.jpg",
-        "width": 6000,
-        "height": 4000,
-        "kind": "photo",
-        "alt": "coffee cup, coffee, heartbeat, cup, coffee beans, ecg, caffeine, coffee foam, drink, stimulant, aroma, hot, coffee drink, coffee, coffee, coffee, coffee, coffee"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Heart_attack_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 855,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Heart attack diagram"
       }
     },
     {
@@ -4453,5 +4454,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-16T10:26:41+01:00"
+  "updated_at": "2026-11-16T10:28:29+01:00"
 }

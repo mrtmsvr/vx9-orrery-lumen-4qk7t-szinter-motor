@@ -46,17 +46,17 @@
       "word_count": 536,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/ae1378ee4f6fcd81.jpg",
-        "width": 6000,
-        "height": 4000,
-        "kind": "photo",
-        "alt": "coffee cup, coffee, heartbeat, cup, coffee beans, ecg, caffeine, coffee foam, drink, stimulant, aroma, hot, coffee drink, coffee, coffee, coffee, coffee, coffee",
-        "credit": "Myriams-Fotos / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/coffee-cup-coffee-heartbeat-cup-2317201/",
-        "vision_score": 9.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/ae1378ee4f6fcd81.jpg",
-        "orig_url": "https://pixabay.com/get/g00904d0e1e17d902de0539f4d736e299116281339205516bacc6acf0b5aa8f200f54facfe4f95b7d91e388d7d09698fd8ae5eba07e6fa0709838142484b7c01e_1280.jpg"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Heart_attack_diagram.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 855,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Heart attack diagram",
+        "credit": "Unknown authorUnknown author / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Heart_attack_diagram.png",
+        "exact": true,
+        "entity": "szívinfarktus"
       },
       "inline_images": [],
       "sources": [
@@ -116,7 +116,7 @@
       "pipeline_run_id": "43812273361",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-16T10:26:40+01:00",
-      "updated_at": "2026-11-16T10:26:40+01:00",
+      "updated_at": "2026-11-16T09:28:28+00:00",
       "published_at": "2026-11-16T10:26:40+01:00",
       "expires_at": null
     },
