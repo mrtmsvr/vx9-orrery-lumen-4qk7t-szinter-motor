@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "628fe9a7-a862-5bbc-a9f2-03231242aa11",
+      "slug": "2026-11-16-felszamoltak-a-kdnp-mateszalkai-szervezetet-a-polgarmester-tavozott",
+      "url": "/kozelet/2026-11-16-felszamoltak-a-kdnp-mateszalkai-szervezetet-a-polgarmester-tavozott/",
+      "title": "Felszámolták a KDNP mátészalkai szervezetét, a polgármester távozott",
+      "lead": "Hanusi Péter, Mátészalka polgármestere bejelentette kilépését a KDNP-ből, miután október végén feloszlatták a párt helyi alapszervezetét. A döntés időzítése egybeesett azzal, hogy a parlamentben a kormányfő – a Seszták-ügy kapcsán – élesen bírálta a kormánypárti politikusokat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T16:43:36+01:00",
+      "published_at": "2026-11-16T16:43:36+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.25,
+      "tags": [
+        "KDNP",
+        "Mátészalka",
+        "Magyar Péter",
+        "Seszták Miklós",
+        "politika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Heroes_Square%2C_M%C3%A1t%C3%A9szalka%2C_town_hall.jpg/1280px-Heroes_Square%2C_M%C3%A1t%C3%A9szalka%2C_town_hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hősök tere, Mátészalka"
+      }
+    },
+    {
       "id": "b140c709-aab8-5d62-9a7e-2718969dc550",
       "slug": "2026-11-16-milliardos-keszpenzbotranyba-keveredett-a-fidesz-erdokben-es-madarete",
       "url": "/kozelet/2026-11-16-milliardos-keszpenzbotranyba-keveredett-a-fidesz-erdokben-es-madarete/",
@@ -4422,37 +4452,7 @@
         "pos": "top",
         "alt": "© Belgian Presidency of the Council of the European Union / Julien Nizet"
       }
-    },
-    {
-      "id": "249bab82-f751-5295-924b-a0d33d91647f",
-      "slug": "2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi",
-      "url": "/tech/2026-11-08-virtualis-tyuktartas-indul-budapesten-okostelefonrol-iranyithato-kapi/",
-      "title": "Virtuális tyúktartás indul Budapesten: okostelefonról irányítható kapirgálós biotojás",
-      "lead": "Tyúkbérlő szolgáltatást és mobilalkalmazást indított Bóna Samu és csapata a Remény Farmmal együttműködve, hogy a városi lakók is kapcsolatba kerülhessenek a vidéki élettel. Az előfizetők okostelefonon keresztül követhetik a szárnyasok mindennapjait, a megtermelt biotojásokat pedig átvehetik vagy rászorulóknak adományozhatják.",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T18:37:24+01:00",
-      "published_at": "2026-11-08T18:37:24+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5,
-      "tags": [
-        "tyúkbérlés",
-        "mesterséges intelligencia",
-        "mezőgazdaság",
-        "applikáció",
-        "fenntarthatóság"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-1ee0dd72e2.jpg",
-        "kind": "photo",
-        "alt": "Tyúkot bérel? Dehogy, bolond vagyok én?",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-16T15:41:14+01:00"
+  "updated_at": "2026-11-16T16:43:38+01:00"
 }
