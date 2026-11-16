@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f34ff0b1-f6b6-5dad-8f35-ed16b983c3ec",
+      "slug": "2026-11-16-korhazi-adossagok-es-szuloi-jogok-feszult-adok-kapok-zajlott-a-parlam",
+      "url": "/kozelet/2026-11-16-korhazi-adossagok-es-szuloi-jogok-feszult-adok-kapok-zajlott-a-parlam/",
+      "title": "Kórházi adósságok és szülői jogok: feszült adok-kapok zajlott a parlamentben",
+      "lead": "Feszült hangulatú interpellációk zajlottak az Országgyűlésben, ahol a szülői jogok védelmétől az egészségügyi béremelésekig és a kórházi adósságokig számos vitás ügy került terítékre. A képviselők a nemzetközi egyezmények hatásairól és a költségvetési források elosztásáról is vitáztak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T13:01:18+01:00",
+      "published_at": "2026-11-16T13:01:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.83,
+      "tags": [
+        "Országgyűlés",
+        "interpelláció",
+        "egészségügy",
+        "gyermekvédelem",
+        "KDNP"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg/1280px-HUN-2015-Budapest-Hungarian_Parliament_%28Budapest%29_2015-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015."
+      }
+    },
+    {
       "id": "d808db2a-dd6a-5365-816c-4fcad15b8e1d",
       "slug": "2026-11-16-harom-amerikai-repulogep-hordozo-tornyosul-a-kozel-keleten",
       "url": "/vilag/2026-11-16-harom-amerikai-repulogep-hordozo-tornyosul-a-kozel-keleten/",
@@ -4420,37 +4450,7 @@
         "pos": "center",
         "alt": "Lakóépület, Eredetileg mozinak épült 1913-ban szecessziós stílusban. Tervezte Uglár János. Műemlék ID 845 - Tolna megye, Szekszárd, Garay tér 4-6. + Lakóépület (piros) Műemlék ID 846\n- Tolna megye, Sz"
       }
-    },
-    {
-      "id": "5b1e0d7b-8793-5577-9f96-353b03f0c5b5",
-      "slug": "2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon",
-      "url": "/kozelet/2026-11-08-nagy-ervin-a-kozlekedesi-muzeumnak-ajandekozta-a-tisza-kampany-furgon/",
-      "title": "Nagy Ervin a Közlekedési Múzeumnak ajándékozta a Tisza-kampány furgonját",
-      "lead": "A Közlekedési Múzeumnak ajánlotta fel a Tisza Párt országjárásai során ismertté vált Ford Transitot Nagy Ervin, miután a jármű végigkísérte a kampányidőszakot. A furgon nemcsak Magyarországot járta be, de adományokat is szállított a lebombázott kijevi gyerekkórházhoz.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T12:50:35+01:00",
-      "published_at": "2026-11-08T12:50:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Magyar Péter",
-        "Nagy Ervin",
-        "Közlekedési Múzeum",
-        "Tisza Párt",
-        "kampány"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/2019_Ford_Transit_350_Leader_Ecoblue_2.0.jpg/1280px-2019_Ford_Transit_350_Leader_Ecoblue_2.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 610,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "2019 Ford Transit 350 Leader Ecoblue 2.0 Taken in Leamington Spa"
-      }
     }
   ],
-  "updated_at": "2026-11-16T12:59:24+01:00"
+  "updated_at": "2026-11-16T13:01:19+01:00"
 }
