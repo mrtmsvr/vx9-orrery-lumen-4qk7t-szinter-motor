@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0fc1bbea-a620-5736-95ae-93b9839a8878",
+      "slug": "2026-11-16-feleannyi-palyazo-maradt-tizennegyen-mehetnek-a-kozmedia-vezeteseert",
+      "url": "/kozelet/2026-11-16-feleannyi-palyazo-maradt-tizennegyen-mehetnek-a-kozmedia-vezeteseert/",
+      "title": "Feleannyi pályázó maradt: tizennégyen mehetnek a közmédia vezetéséért",
+      "lead": "A Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára benyújtott huszonhét pályázatból tizennégy felelt meg a Független Közmédia Testület kiírási feltételeinek. Az új vezető kiléte a személyes meghallgatások és az azokat követő szavazási körök után még ebben a hónapban eldőlhet.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T21:38:45+01:00",
+      "published_at": "2026-11-16T21:38:45+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.32,
+      "tags": [
+        "közmédia",
+        "pályázat",
+        "Magyar Rádió és Televízió",
+        "Független Közmédia Testület",
+        "vezérigazgató"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Budapest_%C3%A9s_a_Duna_mad%C3%A1rt%C3%A1vlatb%C3%B3l.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Budapest és a Duna madártávlatból"
+      }
+    },
+    {
       "id": "b12a903a-1a6e-5ea9-8fa4-543e0c6ab493",
       "slug": "2026-11-16-pokolgeppel-akartak-megolni-moszkvaban-az-ukran-exkormanyfo-volt-tana",
       "url": "/vilag/2026-11-16-pokolgeppel-akartak-megolni-moszkvaban-az-ukran-exkormanyfo-volt-tana/",
@@ -4421,37 +4451,7 @@
         "pos": "center",
         "alt": "Howard X and Dennis Alan, impersonators of Kim Jong-un and Donald Trump during the 2018 North Korea–United States summit in Singapore"
       }
-    },
-    {
-      "id": "00b43763-2568-5d34-b20d-a346e6927049",
-      "slug": "2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga",
-      "url": "/kozelet/2026-11-09-harminc-eve-nem-latott-melysegbe-zuhant-a-fidesz-tamogatottsaga/",
-      "title": "Harminc éve nem látott mélységbe zuhant a Fidesz támogatottsága",
-      "lead": "Jelentősen visszaesett a Fidesz támogatottsága, miközben a Tisza Párt tovább erősítette pozícióját a Medián november elején készült közvélemény-kutatása szerint. A felmérés adatai alapjaiban rajzolják át a hazai politikai erőviszonyokat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T07:42:50+01:00",
-      "published_at": "2026-11-09T07:42:50+01:00",
-      "reading_time_min": 2,
-      "hot_score": 14.02,
-      "tags": [
-        "Medián",
-        "közvélemény-kutatás",
-        "Fidesz",
-        "Tisza Párt",
-        "pártpreferencia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Orb%C3%A1n_Viktor_-_CPAC_Hungary_2024_%282%29.jpg/1280px-Orb%C3%A1n_Viktor_-_CPAC_Hungary_2024_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Orbán Viktor - CPAC Hungary 2024."
-      }
     }
   ],
-  "updated_at": "2026-11-16T20:59:23+01:00"
+  "updated_at": "2026-11-16T21:38:47+01:00"
 }
