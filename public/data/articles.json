@@ -1,7 +1,114 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T07:38:40+01:00",
+  "updated_at": "2026-11-16T07:40:34+01:00",
   "articles": [
+    {
+      "id": "1a4de3f8-4ecf-53ae-bc19-10d50c6b1490",
+      "slug": "2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "jégkorong",
+        "világbajnokság",
+        "Kanada",
+        "Oroszország",
+        "IIHF"
+      ],
+      "title": "Sportdöntés kontra kanadai vízum: oroszok nélkül indul a jégkorong-vb",
+      "subtitle": null,
+      "lead": "A Nemzetközi Sportdöntőbíróság (CAS) október végi határozata ellenére a kanadai kormány korlátozásai miatt az orosz válogatott nem vehet részt a december 26-án kezdődő elit junior jégkorong-világbajnokságon. A házigazda Kanada elzárkózása miatt az eseményt oroszok nélkül tartják meg Edmontonban és Red Deerben.",
+      "key_points": [
+        "A Nemzetközi Sportdöntőbíróság október 30-án az orosz válogatottak azonnali visszaengedéséről döntött.",
+        "A kanadai kormány vízumkorlátozásai miatt az orosz juniorválogatott nem léphet pályára a vb-n.",
+        "A nemzetközi szövetség az alternatívák mérlegelése után megerősítette, hogy Kanada marad a házigazda.",
+        "A magyarországi divízió 1/A korosztályos világbajnokságot december 6. és 12. között a Vasas Jégcentrumban rendezik."
+      ],
+      "content": "A Nemzetközi Sportdöntőbíróság október 30-án hozott határozata azonnali hatállyal elrendelte az orosz válogatottak visszaengedését az IIHF által szervezett világbajnokságokra, ami komoly feszültséget szült a nemzetközi hokiéletben. A döntést követően több európai szövetség – a svéd, a finn, a cseh, a svájci, a lett és a norvég – azonnal bejelentette, hogy kategorikusan elutasítja a pályára lépést az orosz csapatok ellen. Ezzel párhuzamosan a közelgő tornák házigazdáinak kormányai is cselekedtek: kinyilvánították, hogy nem adnak vízumot az orosz játékosoknak, ami gyakorlatilag ellehetetlenítette a nemzetközi szövetség eredeti terveit.\n\nKanada kormánya elzárta a kiskapukat, és megtagadta a vízumok kiadását az orosz hokisok számára, rákényszerítve az IIHF-et a meghátrálásra. A magyar szövetség vasárnap este a hivatalos honlapján tette közzé az IIHF tájékoztatását, amely szerint a testület hosszas mérlegelés és az alternatív lehetőségek áttekintése után arra a konklúzióra jutott, hogy továbbra is Kanada marad a december 26-án rajtoló elit junior világbajnokság rendezője. A mérkőzéseket az eredeti tervek szerint Edmontonban és Red Deerben bonyolítják le december 26. és január 5. között, természetesen orosz részvétel nélkül.\n\nA kanadai rendezés körüli bizonytalanság közvetlen hatással volt a magyarországi divízió 1/A világbajnokság sorsára is, amelynek lebonyolítási struktúrája a tengerentúli fejlemények függvényében alakult. Az MJSZ közlése értelmében a hazai megméretés fixen hatcsapatos mezőnnyel zajlik: a magyar nemzeti együttes mellett a kazah, a szlovén, az ukrán, a dán és az osztrák válogatott küzd meg egymással. A budapesti tornát december 6. és 12. között rendezik meg a Vasas Jégcentrumban.\n\nA kanadai kormány oroszokat kizáró vízumkorlátozásai azonban érvénytelenítették ezt a variációt, így Norvégia maradt az elitben, a magyarországi helyszín pedig stabilan hat csapattal indul december elején.",
+      "content_format": "markdown",
+      "body": [
+        "A Nemzetközi Sportdöntőbíróság október 30-án hozott határozata azonnali hatállyal elrendelte az orosz válogatottak visszaengedését az IIHF által szervezett világbajnokságokra, ami komoly feszültséget szült a nemzetközi hokiéletben. A döntést követően több európai szövetség – a svéd, a finn, a cseh, a svájci, a lett és a norvég – azonnal bejelentette, hogy kategorikusan elutasítja a pályára lépést az orosz csapatok ellen. Ezzel párhuzamosan a közelgő tornák házigazdáinak kormányai is cselekedtek: kinyilvánították, hogy nem adnak vízumot az orosz játékosoknak, ami gyakorlatilag ellehetetlenítette a nemzetközi szövetség eredeti terveit.",
+        "Kanada kormánya elzárta a kiskapukat, és megtagadta a vízumok kiadását az orosz hokisok számára, rákényszerítve az IIHF-et a meghátrálásra. A magyar szövetség vasárnap este a hivatalos honlapján tette közzé az IIHF tájékoztatását, amely szerint a testület hosszas mérlegelés és az alternatív lehetőségek áttekintése után arra a konklúzióra jutott, hogy továbbra is Kanada marad a december 26-án rajtoló elit junior világbajnokság rendezője. A mérkőzéseket az eredeti tervek szerint Edmontonban és Red Deerben bonyolítják le december 26. és január 5. között, természetesen orosz részvétel nélkül.",
+        "A kanadai rendezés körüli bizonytalanság közvetlen hatással volt a magyarországi divízió 1/A világbajnokság sorsára is, amelynek lebonyolítási struktúrája a tengerentúli fejlemények függvényében alakult. Az MJSZ közlése értelmében a hazai megméretés fixen hatcsapatos mezőnnyel zajlik: a magyar nemzeti együttes mellett a kazah, a szlovén, az ukrán, a dán és az osztrák válogatott küzd meg egymással. A budapesti tornát december 6. és 12. között rendezik meg a Vasas Jégcentrumban.",
+        "A kanadai kormány oroszokat kizáró vízumkorlátozásai azonban érvénytelenítették ezt a variációt, így Norvégia maradt az elitben, a magyarországi helyszín pedig stabilan hat csapattal indul december elején."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 305,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG/1280px-NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 799,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Pascal Caminada (L 33).",
+        "credit": "Fabien Perissinotto / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:NLA,_Lausanne_HC_vs._Rapperswil-Jona_Lakers,_11th_November_2014_03.JPG",
+        "exact": true,
+        "entity": "Ice hockey",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/sport/20261116_orosz-valogatott-kanadai-u20-as-jegkorong-vb",
+          "title": "Nem vehetnek részt az oroszok a kanadai U20-as jégkorong vb-n",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-16T07:39:19+01:00"
+        }
+      ],
+      "quote": {
+        "text": "az alternatív lehetőségek megvalósíthatóságának mérlegelését követően az IIHF Tanácsa úgy döntött, hogy továbbra is Kanada marad az A-csoportos vb házigazdája, és a tornát az eredeti terveknek megfelelően, 2026. december 26. és 2027. január 5. között rendezik meg Edmontonban és Red Deerben",
+        "who": "Magyar Jégkorong Szövetség",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-16T07:40:34+01:00"
+      },
+      "hot_score": 6.14,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/sport/20261116_orosz-valogatott-kanadai-u20-as-jegkorong-vb"
+        ]
+      },
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "url": "/vilag/2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb/",
+      "seo": {
+        "meta_title": "Sportdöntés kontra kanadai vízum: oroszok nélkül indul a jég",
+        "meta_description": "A Nemzetközi Sportdöntőbíróság (CAS) október végi határozata ellenére a kanadai kormány korlátozásai miatt az orosz válogatott nem vehet részt a december 26-án ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG/1280px-NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "fa0e25999feef646941d9de1a94a09af80d2b6088604193458253d8ea58354a4",
+      "pipeline_run_id": "43815148441",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-16T07:40:34+01:00",
+      "updated_at": "2026-11-16T07:40:34+01:00",
+      "published_at": "2026-11-16T07:40:34+01:00",
+      "expires_at": null
+    },
     {
       "id": "8ca79f08-8824-5c4e-9306-db79b9c9f961",
       "slug": "2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye",
@@ -75428,100 +75535,6 @@
       "created_at": "2026-10-16T08:38:53+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-16T08:38:53+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "77c46845-e5b0-5281-87c7-f1de6013b20f",
-      "slug": "2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Jemen",
-        "Áden",
-        "húszik",
-        "rakétatámadás",
-        "Szaúd-Arábia"
-      ],
-      "title": "Öt rakétával támadták meg a jemeni elnöki palotát",
-      "subtitle": null,
-      "lead": "Öt rakétával támadták meg a dél-jemeni Ádenben lévő elnöki palotaegyüttest a húszi lázadók, miközben a térségben felerősödtek a regionális fegyveres összecsapások. A kormány tagjai sértetlenek maradtak, de a csapások következtében többen életüket vesztették.",
-      "key_points": [
-        "Öt rakéta csapódott be az al-Masik palotaegyüttesbe a dél-jemeni Ádenben.",
-        "A nemzetközileg elismert kormány miniszterelnöke és kabinetje sértetlen maradt.",
-        "A támadásban a helyszínen szolgálatot teljesítő biztonsági őrök vesztették életüket.",
-        "Az Irán-barát milícia az egész szaúdi érdekkör ellen hirdetett stratégiát."
-      ],
-      "content": "Húszi lázadók lőtték öt rakétával csütörtökön a dél-jemeni Ádenben fekvő elnöki palotaegyüttest, amiről Moammar el-Erjáni jemeni tájékoztatási miniszter számolt be a Reuters hírügynökségnek. A szemtanúk legalább hat robbanást hallottak a palota környékén, ami pánikot váltott ki a lakosságban. A Saja Mosin al-Zindani miniszterelnök vezette, nemzetközileg elismert kabinet tagjai nem sérültek meg, az al-Masik palotában szolgálatot teljesítő biztonsági őrök közül azonban többen meghaltak.\n\nA milícia katonai szóvivője, Jahíja Szárí a SABA jemeni hírügynökség jelentése szerint nyíltan kijelentette, hogy a rakétacsapás egy szélesebb körű stratégia része, amelynek célja Szaúd-Arábia minden lehetséges érdekeltségének támadása. A húszik közlése alapján a szaúdi hadsereg ottani műveleti központját és egy fegyverraktárát célozták meg. Ezzel párhuzamosan a szaúdiak által támogatott jemeni kormányerők arról számoltak be, hogy a lázadók az ország középső, kőolajban gazdag részén fekvő Márib várost is ballisztikus rakétákkal vették célba.\n\nA fegyveres konfliktus júliusban éleződött ki újra, miután az Egyesült Államok és Izrael február végi iráni támadását követően a Közel-Keleten lévő amerikai támaszpontok környéki országok is célponttá váltak. Az Irán által szövetségesként támogatott húsziknak a szomszédos Szaúd-Arábia jelentette a legkönnyebben elérhető célpontot, így az olajlétesítményektől a repülőterekig szinte naponta érik támadások a szaúdi infrastruktúrát.\n\nA harcok felerősödése súlyos humanitárius válságot is okoz az országban, ahol a szaúdi légierő támogatása ellenére a kormányerők nehezen tudják visszavenni az ellenőrzést. A lázadók által harapófogóba zárt Taizz városában az ENSZ Élelmezési Világprogramja (WFP) adatai szerint mintegy 800 ezer emberhez nem jut el a segély, míg a Vöröskereszt Nemzetközi Bizottsága a túlzsúfolt kórházakról és a sebesültek számának gyors növekedéséről számolt be.",
-      "content_format": "markdown",
-      "body": [
-        "Húszi lázadók lőtték öt rakétával csütörtökön a dél-jemeni Ádenben fekvő elnöki palotaegyüttest, amiről Moammar el-Erjáni jemeni tájékoztatási miniszter számolt be a Reuters hírügynökségnek. A szemtanúk legalább hat robbanást hallottak a palota környékén, ami pánikot váltott ki a lakosságban. A Saja Mosin al-Zindani miniszterelnök vezette, nemzetközileg elismert kabinet tagjai nem sérültek meg, az al-Masik palotában szolgálatot teljesítő biztonsági őrök közül azonban többen meghaltak.",
-        "A milícia katonai szóvivője, Jahíja Szárí a SABA jemeni hírügynökség jelentése szerint nyíltan kijelentette, hogy a rakétacsapás egy szélesebb körű stratégia része, amelynek célja Szaúd-Arábia minden lehetséges érdekeltségének támadása. A húszik közlése alapján a szaúdi hadsereg ottani műveleti központját és egy fegyverraktárát célozták meg. Ezzel párhuzamosan a szaúdiak által támogatott jemeni kormányerők arról számoltak be, hogy a lázadók az ország középső, kőolajban gazdag részén fekvő Márib várost is ballisztikus rakétákkal vették célba.",
-        "A fegyveres konfliktus júliusban éleződött ki újra, miután az Egyesült Államok és Izrael február végi iráni támadását követően a Közel-Keleten lévő amerikai támaszpontok környéki országok is célponttá váltak. Az Irán által szövetségesként támogatott húsziknak a szomszédos Szaúd-Arábia jelentette a legkönnyebben elérhető célpontot, így az olajlétesítményektől a repülőterekig szinte naponta érik támadások a szaúdi infrastruktúrát.",
-        "A harcok felerősödése súlyos humanitárius válságot is okoz az országban, ahol a szaúdi légierő támogatása ellenére a kormányerők nehezen tudják visszavenni az ellenőrzést. A lázadók által harapófogóba zárt Taizz városában az ENSZ Élelmezési Világprogramja (WFP) adatai szerint mintegy 800 ezer emberhez nem jut el a segély, míg a Vöröskereszt Nemzetközi Bizottsága a túlzsúfolt kórházakról és a sebesültek számának gyors növekedéséről számolt be."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 291,
-      "locale": "hu-HU",
-      "hero_image": null,
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/vilag/20261015_raketa-tamadas-huszik-adeni-elnoki-palota",
-          "title": "Öt rakétával támadták a húszik az ádeni elnöki palotát",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T07:48:54+02:00"
-        }
-      ],
-      "quote": {
-        "text": "fegyverekkel és egyéb módokon támogatja",
-        "who": "Rajed Krimli, a szaúdi külminiszter egyik helyettese",
-        "after": 2
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-16T08:35:06+02:00"
-      },
-      "hot_score": 5.21,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/vilag/20261015_raketa-tamadas-huszik-adeni-elnoki-palota"
-        ]
-      },
-      "date": "2026-10-16",
-      "date_label": "október 16.",
-      "url": "/vilag/2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat/",
-      "seo": {
-        "meta_title": "Öt rakétával támadták meg a jemeni elnöki palotát",
-        "meta_description": "Öt rakétával támadták meg a dél-jemeni Ádenben lévő elnöki palotaegyüttest a húszi lázadók, miközben a térségben felerősödtek a regionális fegyveres összecsapás",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-16-ot-raketaval-tamadtak-meg-a-jemeni-elnoki-palotat/",
-        "og_image": null,
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "eb85e5e3698cd000f1e5d5ae536861cfee7bb6564063e9475474919a83647c5f",
-      "pipeline_run_id": "38857528911",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T08:35:06+02:00",
-      "updated_at": "2026-10-16T08:35:06+02:00",
-      "published_at": "2026-10-16T08:35:06+02:00",
       "expires_at": null
     }
   ]

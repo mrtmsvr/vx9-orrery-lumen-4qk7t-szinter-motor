@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1a4de3f8-4ecf-53ae-bc19-10d50c6b1490",
+      "slug": "2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb",
+      "url": "/vilag/2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb/",
+      "title": "Sportdöntés kontra kanadai vízum: oroszok nélkül indul a jégkorong-vb",
+      "lead": "A Nemzetközi Sportdöntőbíróság (CAS) október végi határozata ellenére a kanadai kormány korlátozásai miatt az orosz válogatott nem vehet részt a december 26-án kezdődő elit junior jégkorong-világbajnokságon. A házigazda Kanada elzárkózása miatt az eseményt oroszok nélkül tartják meg Edmontonban és Red Deerben.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T07:40:34+01:00",
+      "published_at": "2026-11-16T07:40:34+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.14,
+      "tags": [
+        "jégkorong",
+        "világbajnokság",
+        "Kanada",
+        "Oroszország",
+        "IIHF"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG/1280px-NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 799,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Pascal Caminada (L 33)."
+      }
+    },
+    {
       "id": "8ca79f08-8824-5c4e-9306-db79b9c9f961",
       "slug": "2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye",
       "url": "/kozelet/2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye/",
@@ -4420,36 +4450,7 @@
         "pos": "center",
         "alt": "A Történeti Levéltár iratraktára"
       }
-    },
-    {
-      "id": "3d375dea-154a-55c8-bc9b-9499312d79d6",
-      "slug": "2026-11-08-csaladi-tragedia-bontakozik-ki-a-krakkoi-lovoldozes-hattereben",
-      "url": "/vilag/2026-11-08-csaladi-tragedia-bontakozik-ki-a-krakkoi-lovoldozes-hattereben/",
-      "title": "Családi tragédia bontakozik ki a krakkói lövöldözés hátterében",
-      "lead": "Három holttestet találtak a szombaton lövöldözést elkövető férfi krakkói otthonában, miközben a hatóságok a vérengzés további részleteit vizsgálják. A tragédia miatt Krakkóban szerdáig hivatalos gyászt tartanak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T06:11:15+01:00",
-      "published_at": "2026-11-08T06:11:15+01:00",
-      "reading_time_min": 3,
-      "hot_score": 12.35,
-      "tags": [
-        "Krakkó",
-        "lövöldözés",
-        "Lengyelország",
-        "Donald Tusk",
-        "bűnügy"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/79c212a6c79687ae.jpg",
-        "width": 4788,
-        "height": 3234,
-        "kind": "photo",
-        "alt": "automobile, blur, car wallpapers, car, police car, police tape, vehicle, black car, black police"
-      }
     }
   ],
-  "updated_at": "2026-11-16T07:38:41+01:00"
+  "updated_at": "2026-11-16T07:40:36+01:00"
 }
