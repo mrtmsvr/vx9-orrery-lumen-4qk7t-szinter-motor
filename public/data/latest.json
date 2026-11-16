@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "547aa5d1-50db-5046-bb5f-912267a3d445",
+      "slug": "2026-11-16-energiaitalok-tizenegyszeres-kockazat-a-szivre",
+      "url": "/eletmod/2026-11-16-energiaitalok-tizenegyszeres-kockazat-a-szivre/",
+      "title": "Energiaitalok: tizenégyszeres kockázat a szívre?",
+      "lead": "Egy friss kutatás szerint az energiaitalok és a serkentő készítmények sokkolóan gyakran bukkannak fel a súlyos szívproblémákról szóló jelentésekben, különösen a fiatalabb korosztály körében. A statisztikák mögött meghúzódó anatómiai és biokémiai folyamatok rávilágítanak arra, mi történik a szervezetünkben, amikor mesterségesen pörgetjük fel a szívverésünket.",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T10:26:40+01:00",
+      "published_at": "2026-11-16T10:26:40+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "energiaital",
+        "szívinfarktus",
+        "szívleállás",
+        "egészség",
+        "tudomány"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/ae1378ee4f6fcd81.jpg",
+        "width": 6000,
+        "height": 4000,
+        "kind": "photo",
+        "alt": "coffee cup, coffee, heartbeat, cup, coffee beans, ecg, caffeine, coffee foam, drink, stimulant, aroma, hot, coffee drink, coffee, coffee, coffee, coffee, coffee"
+      }
+    },
+    {
       "id": "579b7833-a769-5a87-aa0d-80e717d27419",
       "slug": "2026-11-16-erdobe-asott-milliardok-es-kisvakond-rendkivuli-ulessel-indul-a-het",
       "url": "/kozelet/2026-11-16-erdobe-asott-milliardok-es-kisvakond-rendkivuli-ulessel-indul-a-het/",
@@ -4421,37 +4451,7 @@
         "pos": "top",
         "alt": "Advent wreath made from natural materials before the first Sunday in Advent 2023. Material:Green from Thuja occidentalis and Abies alba, with dried fruits, apples and orranges, and spices, cinnamon, s"
       }
-    },
-    {
-      "id": "d100d7af-e4be-5118-8bdb-5952a811e207",
-      "slug": "2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit",
-      "url": "/kozelet/2026-11-08-huszmilliard-helyett-szazmilliard-jut-jovore-az-utakra-mikozben-kapit/",
-      "title": "Húszmilliárd helyett százmilliárd jut jövőre az utakra, miközben Kapitányék huszonötmilliárdos exportprogramot indítanak",
-      "lead": "Huszonöt milliárd forintos piacépítő exportprogramot indít a kormány 2027-ben, miközben az útfelújításokra szánt állami keret is a többszörösére, évi százmilliárd forintra emelkedik. A gazdaság élénkítését célzó intézkedések mögött komoly forrásbővítés áll.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T07:57:38+01:00",
-      "published_at": "2026-11-08T07:57:38+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5.44,
-      "tags": [
-        "gazdaság",
-        "export",
-        "útfelújítás",
-        "Széchenyi Kártya",
-        "Vitézy Dávid"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Roadtec_RP-190_Highway_Class_Asphalt_Pavel.jpg/1280px-Roadtec_RP-190_Highway_Class_Asphalt_Pavel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Photograph of an Astec brand Roadtec RP-190 asphalt paver suitable for highway and residential work. According to Astec (November 10, 2022), the machine features a dual-fan fume extraction system, swi"
-      }
     }
   ],
-  "updated_at": "2026-11-16T09:53:07+01:00"
+  "updated_at": "2026-11-16T10:26:41+01:00"
 }
