@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "828a98fd-2b47-56c0-adba-2a313a77ec96",
+      "slug": "2026-11-16-elhallgatott-az-uj-zenei-studio-alapitoja-elhunyt-sary-laszlo-zenesze",
+      "url": "/kultura/2026-11-16-elhallgatott-az-uj-zenei-studio-alapitoja-elhunyt-sary-laszlo-zenesze/",
+      "title": "Elhallgatott az Új Zenei Stúdió alapítója: elhunyt Sáry László zeneszerző",
+      "lead": "Életének 87. évében, november 13-án elhunyt Sáry László Erkel Ferenc- és Bartók–Pásztory-díjas zeneszerző, a magyar kortárs zene meghatározó alakja. A szomorú hírt a Széchenyi Irodalmi és Művészeti Akadémia közölte az MTI-vel.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T13:28:07+01:00",
+      "published_at": "2026-11-16T13:28:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Sáry László",
+        "zeneszerző",
+        "kortárs zene",
+        "Katona József Színház",
+        "gyász"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Budapest%2C_Magyar_Tudom%C3%A1nyos_Akad%C3%A9mia_24.jpeg/1280px-Budapest%2C_Magyar_Tudom%C3%A1nyos_Akad%C3%A9mia_24.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 755,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Sitz der Ungarischen Akademie der Wissenschaften"
+      }
+    },
+    {
       "id": "5e148876-02b5-5679-87ba-d4924860c75b",
       "slug": "2026-11-16-milliardos-razzia-es-parlamenti-uvoltozes-igy-feszult-egymasnak-magya",
       "url": "/kozelet/2026-11-16-milliardos-razzia-es-parlamenti-uvoltozes-igy-feszult-egymasnak-magya/",
@@ -4424,37 +4454,7 @@
         "pos": "center",
         "alt": "Budapest, Kőbánya-Kispest vasútállomás"
       }
-    },
-    {
-      "id": "9f96fa9f-fb2e-5583-bfe0-12652a7e819d",
-      "slug": "2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben",
-      "url": "/vilag/2026-11-08-netanjahu-levaltasa-a-volt-vezerkari-fonok-kapott-eselyt-izraelben/",
-      "title": "Netanjahu leváltása: a volt vezérkari főnök kapott esélyt Izraelben",
-      "lead": "Jichák Hercog izraeli államfő Gadi Ejzenkotot bízta meg az új kormány megalakításával az október végi, patthelyzetet hozó parlamenti választás után. A volt vezérkari főnöknek legfeljebb 42 napja lesz a koalíció tető alá hozására.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T15:27:11+01:00",
-      "published_at": "2026-11-08T15:27:11+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.64,
-      "tags": [
-        "Izrael",
-        "Gadi Ejzenkot",
-        "Benjamin Netanjahu",
-        "Jichák Hercog",
-        "kormányalakítás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg/1280px-Gadi_Eisenkot_2_%28cropped_-_WD%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1341,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "גדי איזנקוט"
-      }
     }
   ],
-  "updated_at": "2026-11-16T13:27:34+01:00"
+  "updated_at": "2026-11-16T13:28:09+01:00"
 }
