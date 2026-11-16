@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "e67896d8-df5d-5787-a20f-4fd6097d6f7d",
+      "slug": "2026-11-16-varatlanul-menesztettek-a-sandor-palota-hivatalvezetojet",
+      "url": "/kozelet/2026-11-16-varatlanul-menesztettek-a-sandor-palota-hivatalvezetojet/",
+      "title": "Váratlanul menesztették a Sándor-palota hivatalvezetőjét",
+      "lead": "Baka András köztársasági elnök hétfői hatállyal visszavonta Timár István Szilveszter megbízatását a Sándor-palota hivatalvezetői tisztségéből. A Magyar Közlönyben megjelent határozat szerint a döntés közös megegyezéssel született.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T19:21:37+01:00",
+      "published_at": "2026-11-16T19:21:37+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Sándor-palota",
+        "Baka András",
+        "Timár István Szilveszter",
+        "Magyar Közlöny"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/S%C3%A1ndor-palota_naps%C3%BCt%C3%A9sben.jpg/1280px-S%C3%A1ndor-palota_naps%C3%BCt%C3%A9sben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 795,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Sándor-palota"
+      }
+    },
+    {
       "id": "55b38401-ad5f-583d-a61b-b2c8e081a9d5",
       "slug": "2026-11-16-richter-csucs-es-otp-hajra-igy-kapaszkodott-vissza-a-magyar-tozsde",
       "url": "/penzvilag/2026-11-16-richter-csucs-es-otp-hajra-igy-kapaszkodott-vissza-a-magyar-tozsde/",
@@ -4422,37 +4451,7 @@
         "pos": "top",
         "alt": "Taiyuan (Shanxi, China) Yongzuo temple east pagoda, taken from west pagoda."
       }
-    },
-    {
-      "id": "a3c73b89-fceb-5d6c-9ea7-f600b37caa83",
-      "slug": "2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok",
-      "url": "/kozelet/2026-11-08-kitort-az-azbesztbotrany-gyomron-peticiot-inditottak-a-szulok/",
-      "title": "Kitört az azbesztbotrány Gyömrőn: petíciót indítottak a szülők",
-      "lead": "Azbeszttel szennyezett kőzúzalékra bukkantak a gyömrői Fekete István Általános Iskola közelében, a veszélyes anyag miatt pedig már ötven család írt alá petíciót. Az önkormányzat a Magyar Közúttal vitatkozik az elszállításról, miközben a területet lezárták és geotextíliával fedték le.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T21:37:03+01:00",
-      "published_at": "2026-11-08T21:37:03+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.7,
-      "tags": [
-        "Gyömrő",
-        "azbeszt",
-        "oktatás",
-        "önkormányzat",
-        "Magyar Közút"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Gy%C3%B6mr%C5%91_telekikast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 823,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Gyömrő Teleki castle aerial photography \n\n\n\n\n\nThis is a photo of a monument in Hungary. Identifier: 7072\n\n\n\n\nThis picture is © copyright Civertan Grafikai Stúdió (Civertan Bt.), 1997-2006.; http://www"
-      }
     }
   ],
-  "updated_at": "2026-11-16T19:00:45+01:00"
+  "updated_at": "2026-11-16T19:21:38+01:00"
 }
