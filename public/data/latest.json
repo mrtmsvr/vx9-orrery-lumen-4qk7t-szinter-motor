@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5e148876-02b5-5679-87ba-d4924860c75b",
+      "slug": "2026-11-16-milliardos-razzia-es-parlamenti-uvoltozes-igy-feszult-egymasnak-magya",
+      "url": "/kozelet/2026-11-16-milliardos-razzia-es-parlamenti-uvoltozes-igy-feszult-egymasnak-magya/",
+      "title": "Milliárdos razzia és parlamenti üvöltözés: így feszült egymásnak Magyar Péter és Rétvári Bence",
+      "lead": "Indulatos vitát hozott a Seszták-ügy a parlamentben, ahol a Tisza Párt alelnöke és a KDNP államtitkára esett egymásnak a korrupciós botrányok és a közpénzek ügye miatt. A képviselők a parlamenti patkóban kiabáltak egymással.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-16",
+      "date_label": "november 16.",
+      "created_at": "2026-11-16T13:27:32+01:00",
+      "published_at": "2026-11-16T13:27:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Magyar Péter",
+        "Rétvári Bence",
+        "Országgyűlés",
+        "korrupció",
+        "Seszták Miklós"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-6147147ed3.jpg",
+        "kind": "photo",
+        "alt": "Elszabadultak az indulatok a parlamentben a Seszták-botrány után",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "fabd762c-b976-5351-991a-a35d28488462",
       "slug": "2026-11-16-brusszel-megkurtitana-az-agrartamogatasokat-tuntetesre-keszulnek-a-ga",
       "url": "/kozelet/2026-11-16-brusszel-megkurtitana-az-agrartamogatasokat-tuntetesre-keszulnek-a-ga/",
@@ -4424,34 +4454,7 @@
         "pos": "top",
         "alt": "גדי איזנקוט"
       }
-    },
-    {
-      "id": "ee1b020e-3e80-52f0-916c-8d15d764dce5",
-      "slug": "2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar",
-      "url": "/penzvilag/2026-11-08-mesterseges-intelligencia-es-bezarodo-kapuk-lefele-csusznak-a-magyar/",
-      "title": "Mesterséges intelligencia és bezáródó kapuk: lefelé csúsznak a magyar pályakezdők",
-      "lead": "Súlyos munkaerőpiaci nehézségekkel szembesülnek a magyar pályakezdők, akiknek jelentős része valószínűleg nem éri majd el a szülei életszínvonalát. A folyamat hátterében a beszűkülő belépő munkahelyek és a mesterséges intelligencia térnyerése áll.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-08",
-      "date_label": "november 8.",
-      "created_at": "2026-11-08T12:52:03+01:00",
-      "published_at": "2026-11-08T12:52:03+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.14,
-      "tags": [
-        "munkaerőpiac",
-        "pályakezdők",
-        "gazdaság",
-        "mesterséges intelligencia"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-350a4263f2.jpg",
-        "kind": "photo",
-        "alt": "Mesterséges intelligencia és bezáródó kapuk: lefelé csúsznak a magyar pályakezdők",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-16T13:02:47+01:00"
+  "updated_at": "2026-11-16T13:27:34+01:00"
 }
