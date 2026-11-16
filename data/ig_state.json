@@ -1,25 +1,6 @@
 {
   "posts": [
     {
-      "id": "17736fbd28",
-      "art_id": "d619c4f1-c3cb-5828-a11b-281ac4c5c929",
-      "title": "Tízszázalékos elit: miért nincsenek nők a magyar tudományos csúcson",
-      "url": "/kozelet/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-csucson/",
-      "card": "public/img/ig/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-15-tizszazalekos-elit-miert-nincsenek-nok-a-magyar-tudomanyos-.jpg",
-      "caption": "Tízszázalékos elit: miért nincsenek nők a magyar tudományos csúcson\n\nA Magyar Tudományos Akadémia rendes és levelező tagjainak mindössze tíz százaléka nő, ami a szisztémás akadályok és a hiányzó példaképek következménye. Az Eurostat friss adatai szerint Magyarországon a kutatók és mérnökök körében is kirívóan alacsony a nők aránya.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#tudomány #magyartudományosakadémia #nemekaránya #hírek #kollektíva",
-      "created": "2026-10-15T14:09:55+02:00",
-      "due": "2026-10-15T14:54:55+02:00",
-      "status": "failed",
-      "tg": [
-        6291,
-        6292
-      ],
-      "container": "18129706894718522",
-      "tries": 1,
-      "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
-    },
-    {
       "id": "9c09fd406b",
       "art_id": "f2789299-1e4a-502d-be08-bc9c174471bb",
       "title": "Karácsony Gergely: Nagy zöld fejlesztések indulnak Budapesten",
@@ -3576,6 +3557,21 @@
       "container": "18139133176718522",
       "media_id": "18135463241493958",
       "posted": "2026-11-16T11:29:48+01:00"
+    },
+    {
+      "id": "597fef3ebb",
+      "art_id": "eede4e46-1cae-58e7-9c7a-7746963f4f69",
+      "title": "Magyar Péter temeti a Fideszt: 38 év után vége a kormánypártoknak",
+      "url": "/kozelet/2026-11-16-magyar-peter-temeti-a-fideszt-38-ev-utan-vege-a-kormanypartoknak/",
+      "card": "public/img/ig/2026-11-16-magyar-peter-temeti-a-fideszt-38-ev-utan-vege-a-kormanypart.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-16-magyar-peter-temeti-a-fideszt-38-ev-utan-vege-a-kormanypart.jpg",
+      "caption": "Magyar Péter temeti a Fideszt: 38 év után vége a kormánypártoknak\n\nA parlamenti napirend előtti felszólalások során Magyar Péter kemény szavakkal búcsúztatta a Fidesz-KDNP szövetség eddigi évtizedeit a Seszták Miklós érintettségével zajló eljárás során talált milliárdok árnyékában. A kormányfő szerint a kormánypártok menthetetlenek, míg az ellenzéki padsorokban heves viták bontakoztak ki a lefoglalt készpénzről és a felelősségre vonásról.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#magyarpéter #országgyűlés #belföld #hírek #magyarország",
+      "created": "2026-11-16T13:24:57+01:00",
+      "due": "2026-11-16T14:09:57+01:00",
+      "status": "queued",
+      "tg": [
+        10391
+      ]
     }
   ],
   "token": {
