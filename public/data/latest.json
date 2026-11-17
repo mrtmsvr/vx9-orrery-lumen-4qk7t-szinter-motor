@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f2a95122-2c82-5913-b03c-d71e8c81bbe9",
+      "slug": "2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint",
+      "url": "/kozelet/2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint/",
+      "title": "Ideje tudni: ezt hozná a Tisza-kormány a szakértők szerint",
+      "lead": "A Partizán műsorában elemezte Szikra Dorottya szociálpolitikus és Büttl Ferenc közgazdász a Tisza-kormány eddigi szociál- és költségvetési politikáját.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T19:59:42+01:00",
+      "published_at": "2026-11-17T19:59:42+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Tisza-kormány",
+        "szociálpolitika",
+        "költségvetés",
+        "Partizán",
+        "gazdaságpolitika"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-944fba1353.jpg",
+        "kind": "photo",
+        "alt": "Kinek lesz jobb a Tisza alatt, és mennyivel? | Szikra Dorottya és Büttl Ferenc másolata",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "5b177a5a-33b4-5e6d-b3d1-2ca9f4951ca5",
       "slug": "2026-11-17-azonnal-kitette-a-szuret-a-miniszter-a-paksi-atomeromu-vezerenek",
       "url": "/kozelet/2026-11-17-azonnal-kitette-a-szuret-a-miniszter-a-paksi-atomeromu-vezerenek/",
@@ -4415,37 +4445,7 @@
         "pos": "top",
         "alt": "A segment of the Berlin Wall outside the Museum of Occupations in Tallinn, Estonia"
       }
-    },
-    {
-      "id": "d4258dbf-d298-53d2-bca2-f7b4b3bd7508",
-      "slug": "2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt",
-      "url": "/kozelet/2026-11-09-gyorben-tuntettek-az-autoipar-valsaga-miatt/",
-      "title": "Győrben tüntettek az autóipar válsága miatt",
-      "lead": "Nemzetközi szakszervezeti tüntetést tartottak hétfőn Győrben az Audi Aréna előtt, ahol a résztvevők az európai autóipar válságára és a fenyegető létszámleépítésekre hívták fel a figyelmet. A demonstráció hátterében a prémiumautók díszléceit gyártó WKW Hungária év végi bezárása és a közel ötszáz dolgozót érintő elbocsátások állnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T20:13:44+01:00",
-      "published_at": "2026-11-09T20:13:44+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.38,
-      "tags": [
-        "Győr",
-        "autóipar",
-        "szakszervezet",
-        "WKW Hungária",
-        "tüntetés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Audi_Ar%C3%A9na_Gy%C5%91r_03.JPG/1280px-Audi_Ar%C3%A9na_Gy%C5%91r_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 674,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Audi Aréna Győr"
-      }
     }
   ],
-  "updated_at": "2026-11-17T19:13:11+01:00"
+  "updated_at": "2026-11-17T19:59:44+01:00"
 }

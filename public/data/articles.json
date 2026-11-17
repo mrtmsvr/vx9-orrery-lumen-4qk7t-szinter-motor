@@ -1,7 +1,123 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T19:12:59+01:00",
+  "updated_at": "2026-11-17T19:59:42+01:00",
   "articles": [
+    {
+      "id": "f2a95122-2c82-5913-b03c-d71e8c81bbe9",
+      "slug": "2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Tisza-kormány",
+        "szociálpolitika",
+        "költségvetés",
+        "Partizán",
+        "gazdaságpolitika"
+      ],
+      "title": "Ideje tudni: ezt hozná a Tisza-kormány a szakértők szerint",
+      "subtitle": null,
+      "lead": "A Partizán műsorában elemezte Szikra Dorottya szociálpolitikus és Büttl Ferenc közgazdász a Tisza-kormány eddigi szociál- és költségvetési politikáját.",
+      "key_points": [
+        "Szikra Dorottya szerint a szociálpolitika jelenleg is jelentős forrásokat mozgat meg, de a célok és prioritások határozzák meg a valódi irányt.",
+        "Büttl Ferenc közgazdász hangsúlyozta, hogy a költségvetés lényegében egy újraelosztási mechanizmus.",
+        "A szakértők egyetértettek abban, hogy a kormányzati irányváltás megtörtént, a paradigmaváltás azonban még várat magára.",
+        "A GDP-arányos hiányt a korábbi 7,5 százalékról 4,9 százalékra kívánja csökkenteni a kabinet."
+      ],
+      "content": "A Partizán műsorában Szuromi Zsolt műsorvezető vendégeként Szikra Dorottya szociálpolitikus és Büttl Ferenc közgazdász vette górcső alá a Tisza-kormány esetleges jövőbeli szociálpolitikai lépéseit. Szikra kiemelte, hogy a korábbi kabinetekhez hasonlóan jelenleg is jelentős forrásokat fordítanak a szociálpolitikára, a valódi kérdés azonban az, hogy milyen célokat szolgálnak, és kiknek a javát mozdítják elő ezek a keretek. Véleménye szerint a gyakran hangoztatott „nincs pénz” érv helyett a prioritásokat kellene vizsgálni.\n\nBüttl Ferenc ehhez kapcsolódva hangsúlyozta, hogy a költségvetés alapvetően újraelosztási mechanizmusként működik, a politikai vita pedig arról szól, hogy mire irányul ez az erőforrás-elosztás. A szakértők konszenzusra jutottak abban, hogy bár a kormányzati irányváltás megtörtént, a valódi paradigmaváltásról egyelőre korai lenne beszélni.\n\nA beszélgetésben előkerült a munkaalapú társadalom modellje is, amelynek keretében a kabinet célja minden lehetséges embert a munkaerőpiacra terelni, míg a rászorulóknak munkához kötött támogatásokat nyújtanak. Szikra Dorottya megjegyezte, hogy miközben a családok és a gyermeknevelés kiemelt hangsúlyt kapott, a szociális védelem rendszere továbbra is komoly problémákkal küzd.\n\nA költségvetési célok kapcsán Büttl Ferenc rámutatott, hogy a kabinet az uniós feltételek teljesítése érdekében a GDP-arányos hiányt a korábbi 7,5 százalékról 4,9 százalékra kívánja mérsékelni.\n\nA beszélgetés összegzése szerint a gazdasági növekedés és a társadalmi igazságosság közötti egyensúly fenntartása marad a jövő legnagyobb kihívása.",
+      "content_format": "markdown",
+      "body": [
+        "A Partizán műsorában Szuromi Zsolt műsorvezető vendégeként Szikra Dorottya szociálpolitikus és Büttl Ferenc közgazdász vette górcső alá a Tisza-kormány esetleges jövőbeli szociálpolitikai lépéseit. Szikra kiemelte, hogy a korábbi kabinetekhez hasonlóan jelenleg is jelentős forrásokat fordítanak a szociálpolitikára, a valódi kérdés azonban az, hogy milyen célokat szolgálnak, és kiknek a javát mozdítják elő ezek a keretek. Véleménye szerint a gyakran hangoztatott „nincs pénz” érv helyett a prioritásokat kellene vizsgálni.",
+        "Büttl Ferenc ehhez kapcsolódva hangsúlyozta, hogy a költségvetés alapvetően újraelosztási mechanizmusként működik, a politikai vita pedig arról szól, hogy mire irányul ez az erőforrás-elosztás. A szakértők konszenzusra jutottak abban, hogy bár a kormányzati irányváltás megtörtént, a valódi paradigmaváltásról egyelőre korai lenne beszélni.",
+        "A beszélgetésben előkerült a munkaalapú társadalom modellje is, amelynek keretében a kabinet célja minden lehetséges embert a munkaerőpiacra terelni, míg a rászorulóknak munkához kötött támogatásokat nyújtanak. Szikra Dorottya megjegyezte, hogy miközben a családok és a gyermeknevelés kiemelt hangsúlyt kapott, a szociális védelem rendszere továbbra is komoly problémákkal küzd.",
+        "A költségvetési célok kapcsán Büttl Ferenc rámutatott, hogy a kabinet az uniós feltételek teljesítése érdekében a GDP-arányos hiányt a korábbi 7,5 százalékról 4,9 százalékra kívánja mérsékelni.",
+        "A beszélgetés összegzése szerint a gazdasági növekedés és a társadalmi igazságosság közötti egyensúly fenntartása marad a jövő legnagyobb kihívása."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 227,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-944fba1353.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/vid-944fba1353.jpg",
+        "kind": "photo",
+        "alt": "Kinek lesz jobb a Tisza alatt, és mennyivel? | Szikra Dorottya és Büttl Ferenc másolata",
+        "credit": "A videó előnézeti képe – Partizán (YouTube)",
+        "license": "a csatorna tulajdona, a beágyazott videó előnézete",
+        "source_url": "https://www.youtube.com/watch?v=-xRxH0onLcc",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=-xRxH0onLcc",
+          "title": "Kinek lesz jobb a Tisza alatt, és mennyivel? | Szikra Dorottya és Büttl Ferenc másolata",
+          "publisher": "Partizán",
+          "license": null,
+          "accessed_at": "2026-11-17T19:56:36+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-17T19:59:42+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=-xRxH0onLcc"
+        ]
+      },
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "url": "/kozelet/2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint/",
+      "seo": {
+        "meta_title": "Ideje tudni: ezt hozná a Tisza-kormány a szakértők szerint",
+        "meta_description": "A Partizán műsorában elemezte Szikra Dorottya szociálpolitikus és Büttl Ferenc közgazdász a Tisza-kormány eddigi szociál- és költségvetési politikáját.",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/vid-944fba1353.jpg",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "6be65892-0948-5435-985f-bb93a4d7574d"
+      ],
+      "see_also": [
+        {
+          "title": "Ilyen költségvetést tettek le az asztalra Magyar Péterék 2027-re",
+          "url": "/kozelet/2026-10-19-ilyen-koltsegvetest-tettek-le-az-asztalra-magyar-peterek-2027-re/",
+          "date": "2026-10-19"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "7a9fd5bd4723ff29b514a97e47cb03f66167795ec2928b8c04acb6642e1aae1f",
+      "pipeline_run_id": "44148598152",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-17T19:59:42+01:00",
+      "updated_at": "2026-11-17T19:59:42+01:00",
+      "published_at": "2026-11-17T19:59:42+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "-xRxH0onLcc",
+        "title": "Kinek lesz jobb a Tisza alatt, és mennyivel? | Szikra Dorottya és Büttl Ferenc másolata",
+        "channel": "Partizán",
+        "minutes": 60
+      }
+    },
     {
       "id": "5b177a5a-33b4-5e6d-b3d1-2ca9f4951ca5",
       "slug": "2026-11-17-azonnal-kitette-a-szuret-a-miniszter-a-paksi-atomeromu-vezerenek",
@@ -76161,131 +76277,6 @@
       "created_at": "2026-10-17T08:24:47+02:00",
       "updated_at": "2026-10-17T08:24:47+02:00",
       "published_at": "2026-10-17T08:24:47+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "0289ae54-e593-52c0-b039-a96fbfc39172",
-      "slug": "2026-10-17-teljes-kudarc-a-hazassag-elso-latasra-finalejaban",
-      "status": "published",
-      "category": "bulvar",
-      "subcategory": null,
-      "tags": [
-        "Házasság első látásra",
-        "TV2",
-        "bulvár",
-        "reality"
-      ],
-      "title": "Teljes kudarc a Házasság első látásra fináléjában",
-      "subtitle": null,
-      "lead": "Véget ért a TV2 Házasság első látásra című műsorának negyedik évada, amelynek fináléjában a vártnál is meglepőbb döntések születtek. A kísérlet végére ugyanis egyetlen páros sem döntött úgy, hogy hivatalosan is fenntartja a házasságát.",
-      "key_points": [
-        "A negyedik évad végén hét párból négy jutott el a végső döntésig.",
-        "Egyetlen házaspár sem maradt együtt a kísérlet lezárulta után.",
-        "Több szereplő a hivatalos válás ellenére a párkapcsolat folytatása mellett döntött."
-      ],
-      "content": "A Házasság első látásra negyedik szezonja már az első pillanattól kezdve rendhagyó pillanatokat hozott, hiszen az évad elején hét pár állt oltár elé, ám közülük mindössze négyen jutottak el a végső döntésig. Merci és Renátó, valamint Livi és Roli kapcsolata már a forgatások alatt zátonyra futott, míg az [előzményeket bemutató cikkünk szerint](/bulvar/2026-09-30-nem-vart-huzas-a-tv2-musoraban/) a stáb utóbbi szereplőt ki is zárta a műsorból.\n\nA fináléban aztán a maradék négy páros – Tücsi és Laci, Máté és Anastasia, Maya és Laci, valamint Joci és Petra – mondta ki a végső szót a közös jövőjéről. Ahogy [egy korábbi írásunkban már jeleztük](/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/), Joci és Petra például a hivatalos papírok helyett a kísérleten kívüli folytatás mellett tette le a voksát.\n\nA Blikk beszámolója szerint az idei évadban olyanra is akadt példa, hogy valaki már az oltár előtt nemet mondott a partnerének: Juci nem akart Jan felesége lenni, végül mégis a kísérlet szerelmespárjává váltak, és lánykérésre is sor került a műsorban. A fináléban azonban a többi páros is hasonló logikát követett, hiszen a papírok aláírása helyett a való életbeli újrakezdést választották.\n\nMáté és Anastasia kettőse is váratlanul alakult, miután mindketten elutasították a házasság intézményét, de a kamerákon túl együtt tervezik a jövőt.",
-      "content_format": "markdown",
-      "body": [
-        "A Házasság első látásra negyedik szezonja már az első pillanattól kezdve rendhagyó pillanatokat hozott, hiszen az évad elején hét pár állt oltár elé, ám közülük mindössze négyen jutottak el a végső döntésig. Merci és Renátó, valamint Livi és Roli kapcsolata már a forgatások alatt zátonyra futott, míg az [előzményeket bemutató cikkünk szerint](/bulvar/2026-09-30-nem-vart-huzas-a-tv2-musoraban/) a stáb utóbbi szereplőt ki is zárta a műsorból.",
-        "A fináléban aztán a maradék négy páros – Tücsi és Laci, Máté és Anastasia, Maya és Laci, valamint Joci és Petra – mondta ki a végső szót a közös jövőjéről. Ahogy [egy korábbi írásunkban már jeleztük](/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/), Joci és Petra például a hivatalos papírok helyett a kísérleten kívüli folytatás mellett tette le a voksát.",
-        "A Blikk beszámolója szerint az idei évadban olyanra is akadt példa, hogy valaki már az oltár előtt nemet mondott a partnerének: Juci nem akart Jan felesége lenni, végül mégis a kísérlet szerelmespárjává váltak, és lánykérésre is sor került a műsorban. A fináléban azonban a többi páros is hasonló logikát követett, hiszen a papírok aláírása helyett a való életbeli újrakezdést választották.",
-        "Máté és Anastasia kettőse is váratlanul alakult, miután mindketten elutasították a házasság intézményét, de a kamerákon túl együtt tervezik a jövőt."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 254,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/1280px-Placing_a_wedding_ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1010,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Placing a wedding ring.",
-        "credit": "Petar Milošević / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Placing_a_wedding_ring.jpg",
-        "vision_score": 8.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.blikk.hu/sztarvilag/hazai-sztarok/hazassag-elso-latasra-vegso-dontes/09lvb8g",
-          "title": "Házasság első látásra: egyetlen pár sem maradt együtt házaspárként a negyedik évad végére",
-          "publisher": "blikk.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T07:01:05+02:00"
-        },
-        {
-          "url": "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/hazassag-elso-latasra-anastasia-mate-nem",
-          "title": "Házasság első látásra: \"Ezért a döntésem: NEM\" – Váratlan döntést hozott Anastasia",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T07:01:05+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Teljes szívemből mondom, hogy veled szeretnék továbbmenni valódi párként az életben, de nem a kísérlet által létrehozott házasságban, ezért a döntésem: nem.",
-        "who": "Anastasia, a Házasság első látásra szereplője",
-        "after": 2
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-17T07:01:57+02:00"
-      },
-      "hot_score": 10.0,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://www.blikk.hu/sztarvilag/hazai-sztarok/hazassag-elso-latasra-vegso-dontes/09lvb8g",
-          "https://borsonline.origo.hu/magyar-sztarhirek/2026/10/hazassag-elso-latasra-anastasia-mate-nem"
-        ]
-      },
-      "date": "2026-10-17",
-      "date_label": "október 17.",
-      "url": "/bulvar/2026-10-17-teljes-kudarc-a-hazassag-elso-latasra-finalejaban/",
-      "seo": {
-        "meta_title": "Teljes kudarc a Házasság első látásra fináléjában",
-        "meta_description": "Véget ért a TV2 Házasság első látásra című műsorának negyedik évada, amelynek fináléjában a vártnál is meglepőbb döntések születtek. A kísérlet végére ugyanis e",
-        "canonical_url": "https://xn--kollektva-m5a.hu/bulvar/2026-10-17-teljes-kudarc-a-hazassag-elso-latasra-finalejaban/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Placing_a_wedding_ring.jpg/1280px-Placing_a_wedding_ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "238afc54-e95e-55e1-a9ec-d98e5dcb3e77",
-        "5259a0dd-c31e-578b-857e-f9edb51d8a42"
-      ],
-      "see_also": [
-        {
-          "title": "Nem várt húzás a TV2 műsorában",
-          "url": "/bulvar/2026-09-30-nem-vart-huzas-a-tv2-musoraban/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Drámai véghajrá a Házasság első látásra-ban",
-          "url": "/bulvar/2026-10-16-dramai-veghajra-a-hazassag-elso-latasra-ban/",
-          "date": "2026-10-16"
-        }
-      ],
-      "thread_id": "238afc54-e95e-55e1-a9ec-d98e5dcb3e77",
-      "dedupe_hash": "e38522c187f5cdb26d5c12dbf8ad75dc438cac408f8a176fbc7a10464bd7aea7",
-      "pipeline_run_id": "39004606862",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T07:01:57+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-17T07:01:57+02:00",
       "expires_at": null
     }
   ]
