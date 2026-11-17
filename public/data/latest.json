@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c0ef0103-5f01-508a-9d7b-2341154af11d",
+      "slug": "2026-11-17-dronok-munkacson-magyar-peter-szerint-vege-a-hallgatasnak",
+      "url": "/vilag/2026-11-17-dronok-munkacson-magyar-peter-szerint-vege-a-hallgatasnak/",
+      "title": "Drónok Munkácson: Magyar Péter szerint vége a hallgatásnak",
+      "lead": "Orosz dróntámadás érte Munkácsot kedden, ami az eddigi legsúlyosabb biztonsági fenyegetést jelenti a kárpátaljai térségben. A történtekre Magyar Péter (Tisza Párt elnöke) is reagált, felszólítva az ellenzéket az eddigi álláspontjuk újragondolására.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T11:13:51+01:00",
+      "published_at": "2026-11-17T11:13:51+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12,
+      "tags": [
+        "Kárpátalja",
+        "Munkács",
+        "háború",
+        "Magyar Péter",
+        "Ukrajna"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Mukachevo_City_Council.jpg/1280px-Mukachevo_City_Council.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Mukachevo City Council, Mukachevo city, Transcarpathian region, Ukraine"
+      }
+    },
+    {
       "id": "2d8b29ee-15e6-5073-9e22-831d143ba522",
       "slug": "2026-11-17-ugyvedje-szerint-jellinek-daniel-nem-kotott-vadalkut",
       "url": "/kozelet/2026-11-17-ugyvedje-szerint-jellinek-daniel-nem-kotott-vadalkut/",
@@ -4417,37 +4447,7 @@
         "pos": "top",
         "alt": "Huang arrives for a dinner for Crown Prince and Prime Minister Mohammed bin Salman Al Saud of Saudi Arabia, Tuesday, November 18, 2025, at the White House. (Official White House Photo by Daniel Torok)"
       }
-    },
-    {
-      "id": "62d0f4d2-d455-56b2-8d21-446b391fc019",
-      "slug": "2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol",
-      "url": "/kozelet/2026-11-09-leszamolas-vagy-elszamoltatas-orban-viktor-az-occset-erinto-akciorol/",
-      "title": "Leszámolás vagy elszámoltatás? Orbán Viktor az öccsét érintő akcióról",
-      "lead": "Hétfő reggel a Terrorelhárítási Központ és a Nemzeti Nyomozó Iroda is akcióba lépett egy ingatlannál, miközben Orbán Viktor élesen kritizálta a kormányt. A volt miniszterelnök szerint az öccsét érintő eljárás nem más, mint politikai leszámolás és figyelemelterelés.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T11:09:22+01:00",
-      "published_at": "2026-11-09T11:09:22+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Orbán Viktor",
-        "Orbán Áron",
-        "rendőrség",
-        "belföld",
-        "ügynökbotrány"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Orban_Viktor_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1769,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Maribor.\nPredsednik vlade Robert Golob je na delovnem kosilu v Mariboru gosti predsednika vlade Madžarske Viktorja Orbana.\n\nFoto: Bor Slana/ST"
-      }
     }
   ],
-  "updated_at": "2026-11-17T10:33:22+01:00"
+  "updated_at": "2026-11-17T11:13:55+01:00"
 }
