@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2629b711-1176-5c40-846c-5c45c156f8e4",
+      "slug": "2026-11-17-felfuggesztett-bortont-kapott-a-tiktokon-orban-viktor-megolesevel-fen",
+      "url": "/kozelet/2026-11-17-felfuggesztett-bortont-kapott-a-tiktokon-orban-viktor-megolesevel-fen/",
+      "title": "Felfüggesztett börtönt kapott a TikTokon Orbán Viktor megölésével fenyegetőző férfi",
+      "lead": "Jogerősen egy év két hónap, próbaidőre felfüggesztett börtönbüntetésre ítélték azt a férfit, aki 2025-ben TikTok-videókban fenyegette meg Orbán Viktor miniszterelnököt. Az ítélet értelmében a vádlottnak távol kell tartania magát a sértettől, és nem tehet közzé nyilvános tartalmakat az interneten.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T19:08:38+01:00",
+      "published_at": "2026-11-17T19:08:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.78,
+      "tags": [
+        "bűnügy",
+        "bíróság",
+        "Orbán Viktor",
+        "fenyegetőzés",
+        "TikTok"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/TikTok_app_%28Wikinews%29.jpg/1280px-TikTok_app_%28Wikinews%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1201,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "TikTok app icon on a mobile phone"
+      }
+    },
+    {
       "id": "4273c402-5e6a-5622-8ed3-155d36ed5062",
       "slug": "2026-11-17-tovabbi-negy-honap-haladek-az-usa-aldasat-adta-a-szlovak-oroszolaj-bi",
       "url": "/vilag/2026-11-17-tovabbi-negy-honap-haladek-az-usa-aldasat-adta-a-szlovak-oroszolaj-bi/",
@@ -4416,37 +4446,7 @@
         "pos": "top",
         "alt": "The Fidesz's (Alliance of Young Democrats) logo used between 1988 and 1998"
       }
-    },
-    {
-      "id": "9a7eb4c4-1982-53d8-9def-267a8da20b4b",
-      "slug": "2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben",
-      "url": "/kozelet/2026-11-09-ugynokaktak-es-fulhallgatok-parazs-vita-zajlott-a-parlamentben/",
-      "title": "Ügynökakták és fülhallgatók: parázs vita zajlott a parlamentben",
-      "lead": "A hétfői parlamenti ülésnapon a frakcióvezetők és Magyar Péter csaptak össze az ügynökakták, Lezsák Sándor múltja, valamint a közbiztonság helyzete miatt. A felek a múltbeli iratok kezeléséről és az ország aktuális irányáról vitáztak az Országházban.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T18:49:45+01:00",
-      "published_at": "2026-11-09T18:49:45+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Magyar Péter",
-        "Országgyűlés",
-        "ügynökakták",
-        "Toroczkai László",
-        "Rétvári Bence"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Magyar_P%C3%A9ter.jpg/1280px-Magyar_P%C3%A9ter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 725,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian politician Péter Magyar is interviewed by Gábor Révész after giving a speech at a campaign event in Csongrád on 20 May 2024 ahead of the European Parliament elections in Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-17T19:05:20+01:00"
+  "updated_at": "2026-11-17T19:08:41+01:00"
 }
