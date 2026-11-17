@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "aebc9b68-1337-5ec3-aede-f456f424d1a4",
+      "slug": "2026-11-17-verfurdo-a-hidon-ket-vonat-utkozott-pragaban-tucatnyi-serult",
+      "url": "/vilag/2026-11-17-verfurdo-a-hidon-ket-vonat-utkozott-pragaban-tucatnyi-serult/",
+      "title": "Vérfürdő a hídon: két vonat ütközött Prágában, tucatnyi sérült",
+      "lead": "Két személyvonat ütközött össze kedd reggel Prágában, a főpályaudvar közelében található hídon, aminek következtében negyvenhatan megsérültek. A baleset súlyos fennakadásokat okozott a cseh vasúti közlekedésben, az érintett szakaszt lezárták.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T12:51:04+01:00",
+      "published_at": "2026-11-17T12:51:04+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.81,
+      "tags": [
+        "Csehország",
+        "Prága",
+        "vonatbaleset",
+        "vasút",
+        "baleset"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_%28celkov%C3%BD_pohled%29.jpg/1280px-Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD_%28celkov%C3%BD_pohled%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Prague main railway station from the South."
+      }
+    },
+    {
       "id": "e5673eff-e756-59b4-8f2a-3dfcf6d7f7fd",
       "slug": "2026-11-17-tobb-mint-143-milliardos-nyereseget-hozott-ossze-az-mbh-bank-iden",
       "url": "/penzvilag/2026-11-17-tobb-mint-143-milliardos-nyereseget-hozott-ossze-az-mbh-bank-iden/",
@@ -4418,37 +4448,7 @@
         "pos": "center",
         "alt": "Roasted coffee beans"
       }
-    },
-    {
-      "id": "8d523af0-da8a-58a3-b1b4-388ef0a8c0e6",
-      "slug": "2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga",
-      "url": "/kozelet/2026-11-09-median-sokk-16-szazalekra-zuhant-a-fidesz-tamogatottsaga/",
-      "title": "Medián-sokk: 16 százalékra zuhant a Fidesz támogatottsága",
-      "lead": "Jelentős átrendeződést hozott a Medián november elején készült közvélemény-kutatása, amely szerint a Fidesz támogatottsága 16 százalékra esett vissza a teljes népességben. A friss adatok alapján a politológus úgy látja, hogy a kormánypárt és a Mi Hazánk először került egy súlycsoportba.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T14:19:13+01:00",
-      "published_at": "2026-11-09T14:19:13+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.96,
-      "tags": [
-        "Medián",
-        "Fidesz",
-        "Mi Hazánk",
-        "Tisza Párt",
-        "közvélemény-kutatás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Fidesz_2015.svg/1280px-Fidesz_2015.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1202,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Logo of Fidesz as of 2015"
-      }
     }
   ],
-  "updated_at": "2026-11-17T12:47:09+01:00"
+  "updated_at": "2026-11-17T12:51:06+01:00"
 }
