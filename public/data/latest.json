@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "5b177a5a-33b4-5e6d-b3d1-2ca9f4951ca5",
+      "slug": "2026-11-17-azonnal-kitette-a-szuret-a-miniszter-a-paksi-atomeromu-vezerenek",
+      "url": "/kozelet/2026-11-17-azonnal-kitette-a-szuret-a-miniszter-a-paksi-atomeromu-vezerenek/",
+      "title": "Azonnal kitette a szűrét a miniszter a paksi atomerőmű vezérének",
+      "lead": "Azonnali hatállyal leváltotta Horváth Péter Jánost az MVM Paksi Atomerőmű Zrt. éléről Kapitány István gazdasági és energetikai miniszter. A megüresedett posztra az erőműben több mint két évtizede dolgozó Vigh Károlyt nevezték ki.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T19:12:59+01:00",
+      "published_at": "2026-11-17T19:12:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.48,
+      "tags": [
+        "Paksi Atomerőmű",
+        "energetika",
+        "személyi változás",
+        "Kapitány István"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Paksi_atomer%C5%91m%C5%B1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 826,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Paks Nuclear Power Plant, Hungary"
+      }
+    },
+    {
       "id": "2629b711-1176-5c40-846c-5c45c156f8e4",
       "slug": "2026-11-17-felfuggesztett-bortont-kapott-a-tiktokon-orban-viktor-megolesevel-fen",
       "url": "/kozelet/2026-11-17-felfuggesztett-bortont-kapott-a-tiktokon-orban-viktor-megolesevel-fen/",
@@ -4416,37 +4445,7 @@
         "pos": "center",
         "alt": "Audi Aréna Győr"
       }
-    },
-    {
-      "id": "df504a46-6e14-51dd-833b-a16c964728a5",
-      "slug": "2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb",
-      "url": "/kozelet/2026-11-09-kilencszazalekos-mi-hazank-es-zuhano-fidesz-ezt-mutatjak-a-legfrisseb/",
-      "title": "Kilencszázalékos Mi Hazánk és zuhanó Fidesz: ezt mutatják a legfrissebb adatok",
-      "lead": "Drasztikusan visszaesett a Fidesz támogatottsága a legfrissebb adatok szerint, miközben a Tisza Párt és a Mi Hazánk jelentősen erősödött. A változások hátterében korrupciós ügyek, gazdasági nehézségek és a kormányzati kommunikáció visszahatásai állnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T19:19:32+01:00",
-      "published_at": "2026-11-09T19:19:32+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Fidesz",
-        "Tisza Párt",
-        "közvélemény-kutatás",
-        "politika",
-        "Medián"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Fiatal.Demokrat%C3%A1k.Sz%C3%B6vets%C3%A9ge_1990-1998.png/1280px-Fiatal.Demokrat%C3%A1k.Sz%C3%B6vets%C3%A9ge_1990-1998.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "The Fidesz's (Alliance of Young Democrats) logo used between 1988 and 1998"
-      }
     }
   ],
-  "updated_at": "2026-11-17T19:08:41+01:00"
+  "updated_at": "2026-11-17T19:13:02+01:00"
 }
