@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "d8057170-4232-54e0-aa69-ee540fa66a87",
+      "slug": "2026-11-17-horvath-mihaly-fedonev-pecsetelte-meg-a-honvedelmi-miniszterium-allam",
+      "url": "/kozelet/2026-11-17-horvath-mihaly-fedonev-pecsetelte-meg-a-honvedelmi-miniszterium-allam/",
+      "title": "Horváth Mihály fedőnév pecsételte meg a Honvédelmi Minisztérium államtitkárának sorsát",
+      "lead": "Saját kérésére távozott posztjáról Szőnyegi János, a Honvédelmi Minisztérium védelempolitikáért és haderőfejlesztésért felelős helyettes államtitkára. A lemondás hátterében a nyilvánosságra hozott ügynökakták adatai állhatnak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T20:24:16+01:00",
+      "published_at": "2026-11-17T20:24:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Honvédelmi Minisztérium",
+        "Szőnyegi János",
+        "ügynökakták",
+        "Ruszin-Szendi Romulusz",
+        "belföld"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Romolusz_Ruszin-Szendi.jpg/1280px-Romolusz_Ruszin-Szendi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Ruszin-Szendi Romolusz vezérkari főnök 2020 novemberében"
+      }
+    },
+    {
       "id": "f2a95122-2c82-5913-b03c-d71e8c81bbe9",
       "slug": "2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint",
       "url": "/kozelet/2026-11-17-ideje-tudni-ezt-hozna-a-tisza-kormany-a-szakertok-szerint/",
@@ -4415,37 +4445,7 @@
         "pos": "center",
         "alt": "Nemzeti Adó- és Vámhivatal Észak-Budapest Adó- és Vámigazgatósága és A Budapesti Kereskedelmi és Iparkamara központi épülete (Budavár, Krisztinaváros, Krisztina körút 93-99.)"
       }
-    },
-    {
-      "id": "dc5ed5be-3438-5246-ba34-ecaf8f811a82",
-      "slug": "2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for",
-      "url": "/kozelet/2026-11-09-magyar-peter-nemet-nyelven-figyelmeztetett-berlinben-a-tortenelmi-for/",
-      "title": "Magyar Péter német nyelven figyelmeztetett Berlinben a történelmi fordulópontra",
-      "lead": "A második világháború óta nem volt ennyire veszélyes a nemzetközi helyzet Magyar Péter szerint, aki a berlini fal leomlásának évfordulóján mondott beszédet Berlinben. A politikus a Konrad Adenauer Alapítvány rendezvényén az európai versenyképesség megújítását, a migrációs politika átalakítását és a klímaváltozás elleni határozottabb fellépést szorgalmazta.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T22:50:29+01:00",
-      "published_at": "2026-11-09T22:50:29+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Magyar Péter",
-        "Berlin",
-        "Európai Unió",
-        "migráció",
-        "gazdasági versenyképesség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Segment_of_the_Berlin_Wall_outside_the_Museum_of_Occupations_September_2015.jpg/1280px-Segment_of_the_Berlin_Wall_outside_the_Museum_of_Occupations_September_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1602,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "A segment of the Berlin Wall outside the Museum of Occupations in Tallinn, Estonia"
-      }
     }
   ],
-  "updated_at": "2026-11-17T20:15:56+01:00"
+  "updated_at": "2026-11-17T20:24:18+01:00"
 }
