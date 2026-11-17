@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2d35c169-b060-5eb2-8900-318d35a1d622",
+      "slug": "2026-11-17-vege-a-kisertesnek-ekkor-indul-a-tv2-nagy-oszi-musorvaltozasa",
+      "url": "/bulvar/2026-11-17-vege-a-kisertesnek-ekkor-indul-a-tv2-nagy-oszi-musorvaltozasa/",
+      "title": "Vége a Kísértésnek: ekkor indul a TV2 nagy őszi műsorváltozása",
+      "lead": "Alaposan átalakul a TV2 műsorrendje a következő hetekben, miután véget ér A Kísértés és az Ázsia Expressz. A helyükre érkező produkciók között ott lesz az Újratervezés és a Kincsvadászok is.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T12:55:18+01:00",
+      "published_at": "2026-11-17T12:55:18+01:00",
+      "reading_time_min": 2,
+      "hot_score": 6.66,
+      "tags": [
+        "TV2",
+        "Újratervezés",
+        "Kincsvadászok",
+        "Gelencsér Tímea",
+        "Stohl András"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stohl_Andr%C3%A1s_2007-02-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "András Stohl at the play \"King Lear\" of the Hungarian National Theatre."
+      }
+    },
+    {
       "id": "aebc9b68-1337-5ec3-aede-f456f424d1a4",
       "slug": "2026-11-17-verfurdo-a-hidon-ket-vonat-utkozott-pragaban-tucatnyi-serult",
       "url": "/vilag/2026-11-17-verfurdo-a-hidon-ket-vonat-utkozott-pragaban-tucatnyi-serult/",
@@ -4417,38 +4447,7 @@
         "pos": "center",
         "alt": "Χριστουγεννιάτικο καντηλάκι από το σπίτι μου στο Άργος."
       }
-    },
-    {
-      "id": "38d45a1a-de17-5e8b-84ab-e736e46b08cc",
-      "slug": "2026-11-09-ket-csesze-kave-a-tiszta-agyert",
-      "url": "/eletmod/2026-11-09-ket-csesze-kave-a-tiszta-agyert/",
-      "title": "Két csésze kávé a tiszta agyért?",
-      "lead": "Egy évtizedeken át húzódó kutatás szerint a napi néhány csésze kávé drasztikusan csökkentheti a demencia kialakulásának esélyét. De vajon mindegy, mit és mennyi ideig iszunk a reggeli rutinként?",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T15:49:20+01:00",
-      "published_at": "2026-11-09T15:49:20+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "kávé",
-        "demencia",
-        "egészség",
-        "agy",
-        "kutatás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/1280px-Roasted_coffee_beans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Roasted coffee beans"
-      }
     }
   ],
-  "updated_at": "2026-11-17T12:51:06+01:00"
+  "updated_at": "2026-11-17T12:55:21+01:00"
 }
