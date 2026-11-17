@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "e2292584-2887-5e2e-a7dd-0c61a335ad74",
+      "slug": "2026-11-17-langolo-gep-csapodott-a-foldbe-sziberiaban-tizenkilencen-meghaltak",
+      "url": "/vilag/2026-11-17-langolo-gep-csapodott-a-foldbe-sziberiaban-tizenkilencen-meghaltak/",
+      "title": "Lángoló gép csapódott a földbe Szibériában: tizenkilencen meghaltak",
+      "lead": "Kedden lezuhant egy orosz An-12-es típusú katonai szállítórepülőgép a nyugat-szibériai Kemerovói területen, a fedélzeten tartózkodó tizenkilenc ember életét vesztette. A moszkvai védelmi minisztérium tájékoztatása szerint a szerencsétlenséget műszaki meghibásodás okozhatta.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T21:42:12+01:00",
+      "published_at": "2026-11-17T21:42:12+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Oroszország",
+        "repülőgép-baleset",
+        "Szibéria",
+        "katonai repülés",
+        "Kemerovo"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ruby_Star_Antonov_An-12_EW-275TI_at_PRG_airport_02.JPG/1280px-Ruby_Star_Antonov_An-12_EW-275TI_at_PRG_airport_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 801,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Antonov An-12 reg. EW-275TI of Ruby Star at Prague Václav Havel airport (PRG)."
+      }
+    },
+    {
       "id": "d8057170-4232-54e0-aa69-ee540fa66a87",
       "slug": "2026-11-17-horvath-mihaly-fedonev-pecsetelte-meg-a-honvedelmi-miniszterium-allam",
       "url": "/kozelet/2026-11-17-horvath-mihaly-fedonev-pecsetelte-meg-a-honvedelmi-miniszterium-allam/",
@@ -4415,37 +4445,7 @@
         "pos": "center",
         "alt": "Riyadh Skyline  is growing. Dated February 2018"
       }
-    },
-    {
-      "id": "90391b54-86f3-5f14-aae0-23f544ecda59",
-      "slug": "2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f",
-      "url": "/kozelet/2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f/",
-      "title": "Magyar Péter átalakítja a szuper-titkosszolgálatot: megvan az NIK új főigazgatója",
-      "lead": "Magyar Péter miniszterelnök november 10-i hatállyal Orosz László Pétert nevezte ki a Nemzeti Információs Központ főigazgatójává. A szervezet irányítása a tavalyi kormányzati struktúraváltás óta Ruff Bálint felügyelete alá tartozik.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T07:40:01+01:00",
-      "published_at": "2026-11-10T07:40:01+01:00",
-      "reading_time_min": 2,
-      "hot_score": 16.17,
-      "tags": [
-        "Nemzeti Információs Központ",
-        "Magyar Közlöny",
-        "Magyar Péter",
-        "titkosszolgálat",
-        "Ruff Bálint"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/BKIK_k%C3%B6zpont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 727,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Nemzeti Adó- és Vámhivatal Észak-Budapest Adó- és Vámigazgatósága és A Budapesti Kereskedelmi és Iparkamara központi épülete (Budavár, Krisztinaváros, Krisztina körút 93-99.)"
-      }
     }
   ],
-  "updated_at": "2026-11-17T20:41:35+01:00"
+  "updated_at": "2026-11-17T21:42:15+01:00"
 }
