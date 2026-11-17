@@ -1,35 +1,35 @@
 {
-  "id": "53c48928ed",
-  "date": "2026-11-15",
+  "id": "2c143d2f88",
+  "date": "2026-11-17",
   "status": "pending",
-  "article_url": "/vilag/2026-11-14-donbaszt-a-nato-ert-nepszavazast-iger-zelenszkij-az-amerikai-alkura/",
-  "article_title": "Donbászt a NATO-ért? Népszavazást ígér Zelenszkij az amerikai alkura",
+  "article_url": "/vilag/2026-11-16-nyolcmilliard-eurot-utalt-at-brusszel-ukrajnanak-az-elvegzett-reformo/",
+  "article_title": "Nyolcmilliárd eurót utalt át Brüsszel Ukrajnának az elvégzett reformokért",
   "category": "vilag",
   "choices": [
     {
-      "question": "Ön támogatná, hogy területi atcserélésért cserébe kapjon NATO-tagságot Ukrajna?",
+      "question": "Ön szerint helyes döntés volt Brüsszel részéről az uniós támogatások folyósítása Ukrajna számára?",
       "options": [
-        "Igen, megéri a biztonságért.",
-        "Nem, a területi integritás fontosabb.",
+        "Igen, a reformok teljesítése miatt helyes",
+        "Nem, jelenleg nem időszerű a támogatás",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Helyesnek tartja-e, hogy népszavazáson döntsenek a területi kérdésekről?",
+      "question": "Hogyan értékeli az Ukrajnának nyújtott uniós pénzügyi támogatások eddigi hatását?",
       "options": [
-        "Igen, ez a demokrácia alapja.",
-        "Nem, ez nem a lakosság feladata.",
+        "Inább pozitív hatású a gazdaságra",
+        "Inkább negatív következményei vannak",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Mit tart fontosabbnak a békéért: a határok védelmét vagy a szövetségi tagságot?",
+      "question": "Szükségesnek tartja-e, hogy az Európai Unió további reformokhoz kösse a pénzeszközök kifizetését?",
       "options": [
-        "A nemzeti határok megőrzését.",
-        "A NATO-tagság elérését.",
+        "Igen, szigorúbb feltételekre van szükség",
+        "Nem, elegendőek a jelenlegi elvárások",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 10336
+  "msg_id": 10435
 }
