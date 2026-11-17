@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "c1eba06f-84d3-5f9a-a07d-ba7791ec4f5c",
+      "slug": "2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas",
+      "url": "/tech/2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas/",
+      "title": "A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás",
+      "lead": "Kiterjedt kibertámadás során a világ leglátogatottabb weboldalainak felhasználóihoz juttattak el kártékony kódokat. A támadók célja bankkártyaadatok és kriptovaluták megszerzése, valamint iPhone-készülékek megfertőzése volt.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T07:36:58+01:00",
+      "published_at": "2026-11-17T07:36:58+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "kiberbiztonság",
+        "adatlopás",
+        "Zoom",
+        "hírek"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Computer_locked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1704,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Apple Power Mac G4 Security lock"
+      }
+    },
+    {
       "id": "32d7540a-ed10-5a72-ab03-e2b70df35e2a",
       "slug": "2026-11-17-hetvenket-halott-temetove-valt-az-oroszok-altal-lebombazott-segelykoz",
       "url": "/vilag/2026-11-17-hetvenket-halott-temetove-valt-az-oroszok-altal-lebombazott-segelykoz/",
@@ -4420,37 +4449,7 @@
         "pos": "center",
         "alt": "The forint was released on 2023 May 22 as a comemmoration of the Hungarian Army."
       }
-    },
-    {
-      "id": "c95c2fdd-d12b-5d48-941b-422ba8dd06ee",
-      "slug": "2026-11-09-husz-fokot-is-merhetunk-a-heten-de-elotte-meg-megfagyunk",
-      "url": "/kozelet/2026-11-09-husz-fokot-is-merhetunk-a-heten-de-elotte-meg-megfagyunk/",
-      "title": "Húsz fokot is mérhetünk a héten, de előtte még megfagyunk",
-      "lead": "Extrém hőmérsékleti hullámvasúttal indul és zárul a hét: a fagyos és ködös hajnalokat követően ugyanis akár a huszonegy fokot is elérheti a csúcshőmérséklet. A HungaroMet Zrt. előrejelzése szerint a változékony időben eső, zápor és viharos szél is kíséri napjainkat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T07:44:46+01:00",
-      "published_at": "2026-11-09T07:44:46+01:00",
-      "reading_time_min": 3,
-      "hot_score": 8.15,
-      "tags": [
-        "időjárás",
-        "HungaroMet",
-        "előrejelzés",
-        "eső",
-        "felmelegedés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/K%C5%91szeg%2C_H%C5%91s%C3%B6k_kapuja_k%C3%B6d%C3%B6s_reggel_2021_01.jpg/1280px-K%C5%91szeg%2C_H%C5%91s%C3%B6k_kapuja_k%C3%B6d%C3%B6s_reggel_2021_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1800,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Heroes' Gate in Kőszeg, Hungary on a foggy morning"
-      }
     }
   ],
-  "updated_at": "2026-11-17T06:59:23+01:00"
+  "updated_at": "2026-11-17T07:37:01+01:00"
 }

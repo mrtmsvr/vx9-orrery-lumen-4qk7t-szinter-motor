@@ -9472,6 +9472,240 @@
         "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
       },
       "live": true
+    },
+    {
+      "id": "c1eba06f-84d3-5f9a-a07d-ba7791ec4f5c",
+      "slug": "2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas",
+      "status": "published",
+      "category": "tech",
+      "subcategory": null,
+      "tags": [
+        "kiberbiztonság",
+        "adatlopás",
+        "Zoom",
+        "hírek"
+      ],
+      "title": "A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás",
+      "subtitle": null,
+      "lead": "Kiterjedt kibertámadás során a világ leglátogatottabb weboldalainak felhasználóihoz juttattak el kártékony kódokat. A támadók célja bankkártyaadatok és kriptovaluták megszerzése, valamint iPhone-készülékek megfertőzése volt.",
+      "key_points": [
+        "A támadás olyan nagynevű oldalakat érintett, mint a Zoom, az IKEA, az HSBC és a CNN.",
+        "A kiberbűnözők az Optimizely optimalizációs platformon keresztül terjesztették a kártékony JavaScript-kódokat.",
+        "Több érintett vállalat, köztük a Salesforce is belső vizsgálatot indított az ügyben.",
+        "A támadás sikeressége és a kár pontos mértéke egyelőre tisztázatlan."
+      ],
+      "content": "A 2026. november 17-én napvilágra került kiberbiztonsági incidens rávilágít azokra a kockázatokra, amelyeket a harmadik féltől származó szoftverek integrációja jelent a modern webes infrastruktúrában. Scott Helme kutató jelentése szerint a támadók az Optimizely weboldal-optimalizáló platformot használták bázisként. A kártékony JavaScript-kódok ezen keresztül jutottak el az olyan nagy forgalmú oldalak látogatóihoz, mint a CNN, az IKEA, az HSBC, de érintett volt az Apple iPhone-felhasználókat célzó felülete is. A támadók célkeresztjébe került továbbá a Salesforce és az Equifax rendszere is.\n\nA HudsonRock kiberbiztonsági vállalat az események elemzésekor megerősítette a támadás tényét, alátámasztva a kártékony kódok terjesztését az érintett felületeken keresztül. A technikailag kifinomult támadássorozat több fronton igyekezett adatot szerezni: a szkriptek a felhasználók pénzügyi profiljait, bankkártyaadatait és kriptovalutáit vették célba, de kiemelt prioritás volt az iPhone-ok megfertőzése is. A szakértők szerint a módszer azért különösen veszélyes, mert a felhasználók nem a feltört oldalak saját, biztonságosnak hitt kódjával találkoztak, hanem egy megbízhatónak ítélt külső szolgáltató sérülékenységén keresztül jutottak a kártevők a böngészőikbe.\n\nA vállalati reakciók a novemberi incidens kapcsán eltérőek voltak. A Salesforce belső vizsgálatot indított a kódok jogosulatlan módosítása miatt, és azonnali hatállyal letiltotta az Optimizely szkriptjeit saját felületein. Az Optimizely, valamint az érintett nagyvállalatok a megkeresésekre egyelőre nem reagáltak, így a támadás pontos technikai részletei és a károk kiterjedtsége még nem tisztázott.\n\nBár a Reuters jelentése szerint jelenleg nincs pontos becslés arra vonatkozóan, hogy a támadások minden esetben sikeresek voltak-e, vagy hány végfelhasználó adatai kerülhettek veszélybe, az eset súlyossága megkérdőjelezhetetlen. A felhasználók számára ez az incidens komoly figyelmeztetés: még a legmegbízhatóbb, nagynevű weboldalak böngészése közben is érheti az embert támadás, ha a háttérben futó külső eszközöket kompromittálják. A szakértők szerint a közeljövőben várható a hasonló, úgynevezett ellátási láncot érintő (supply chain) támadások gyakoribb vizsgálata, hiszen az üzleti világ az AI és a digitális automatizáció felé fordulása újabb biztonsági réseket nyithat meg.",
+      "content_format": "markdown",
+      "body": [
+        "A 2026. november 17-én napvilágra került kiberbiztonsági incidens rávilágít azokra a kockázatokra, amelyeket a harmadik féltől származó szoftverek integrációja jelent a modern webes infrastruktúrában. Scott Helme kutató jelentése szerint a támadók az Optimizely weboldal-optimalizáló platformot használták bázisként. A kártékony JavaScript-kódok ezen keresztül jutottak el az olyan nagy forgalmú oldalak látogatóihoz, mint a CNN, az IKEA, az HSBC, de érintett volt az Apple iPhone-felhasználókat célzó felülete is. A támadók célkeresztjébe került továbbá a Salesforce és az Equifax rendszere is.",
+        "A HudsonRock kiberbiztonsági vállalat az események elemzésekor megerősítette a támadás tényét, alátámasztva a kártékony kódok terjesztését az érintett felületeken keresztül. A technikailag kifinomult támadássorozat több fronton igyekezett adatot szerezni: a szkriptek a felhasználók pénzügyi profiljait, bankkártyaadatait és kriptovalutáit vették célba, de kiemelt prioritás volt az iPhone-ok megfertőzése is. A szakértők szerint a módszer azért különösen veszélyes, mert a felhasználók nem a feltört oldalak saját, biztonságosnak hitt kódjával találkoztak, hanem egy megbízhatónak ítélt külső szolgáltató sérülékenységén keresztül jutottak a kártevők a böngészőikbe.",
+        "A vállalati reakciók a novemberi incidens kapcsán eltérőek voltak. A Salesforce belső vizsgálatot indított a kódok jogosulatlan módosítása miatt, és azonnali hatállyal letiltotta az Optimizely szkriptjeit saját felületein. Az Optimizely, valamint az érintett nagyvállalatok a megkeresésekre egyelőre nem reagáltak, így a támadás pontos technikai részletei és a károk kiterjedtsége még nem tisztázott.",
+        "Bár a Reuters jelentése szerint jelenleg nincs pontos becslés arra vonatkozóan, hogy a támadások minden esetben sikeresek voltak-e, vagy hány végfelhasználó adatai kerülhettek veszélybe, az eset súlyossága megkérdőjelezhetetlen. A felhasználók számára ez az incidens komoly figyelmeztetés: még a legmegbízhatóbb, nagynevű weboldalak böngészése közben is érheti az embert támadás, ha a háttérben futó külső eszközöket kompromittálják. A szakértők szerint a közeljövőben várható a hasonló, úgynevezett ellátási láncot érintő (supply chain) támadások gyakoribb vizsgálata, hiszen az üzleti világ az AI és a digitális automatizáció felé fordulása újabb biztonsági réseket nyithat meg."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 330,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Computer_locked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1704,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Apple Power Mac G4 Security lock",
+        "credit": "Juan Pablo Olmo / Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Computer_locked.jpg",
+        "exact": true,
+        "entity": "Cyber security",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/uzlet/20261117/nagy-a-baj-megtamadta-egy-virus-a-vilag-legnepszerubb-weboldalait-durva-tamadast-inteztek-a-felhasznalok-ellen-876884",
+          "title": "Nagy a baj: megtámadta egy vírus a világ legnépszerűbb weboldalait, durva támadást intéztek a felhasználók ellen",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-11-17T07:35:34+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 12,
+      "title_options": [
+        "A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás",
+        "Kiberbűnözők vették célba a világháló legnépszerűbb oldalait",
+        "Adathalászok támadták meg többek között a CNN és a Salesforce rendszereit",
+        "Óriási biztonsági rés: a te adataid is veszélyben lehetnek",
+        "Így lopták el a felhasználók bankkártyaadatait az óriáscégektől",
+        "Több millió felhasználót érintő támadássorozat indult a weboldalak ellen"
+      ],
+      "clickbait_from": 3,
+      "image_options": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Computer_locked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1704,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Apple Power Mac G4 Security lock",
+          "credit": "Juan Pablo Olmo / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Computer_locked.jpg",
+          "exact": true,
+          "entity": "Cyber security",
+          "unverified": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kosovo_Security_Force_-_Cyber_security.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 800,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Kosovo Security Force - Cyber security",
+          "credit": "Sgt. Samantha Hircock / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kosovo_Security_Force_-_Cyber_security.webp",
+          "unverified": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cyber_Security_Awareness_Month_%284838455%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1200,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "During October’s National Cyber Security Awareness Month, users can educate themselves on how to securely navigate the cyber world, while keeping their personal information secure.",
+          "credit": "U.S. Army USAG-RP by Mary Davis / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Cyber_Security_Awareness_Month_(4838455).jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Zoom_Video_screenshot.png/1280px-Zoom_Video_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1160,
+          "kind": "photo",
+          "pos": "top",
+          "alt": "Zoom Video screenshot, is an American remote conferencing services company",
+          "credit": "Zoom Video / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Zoom_Video_screenshot.png",
+          "unverified": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zoom_Video_Communications_Company_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 274,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "This is the company logo for Zoom Video Communications.",
+          "credit": "Zoom Video Communications, Inc. / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Zoom_Video_Communications_Company_Logo.png",
+          "unverified": true
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/IKEA_logo_with_a_passer-by.jpg/1280px-IKEA_logo_with_a_passer-by.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 1200,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "Olympus digital camera",
+          "credit": "Mette1977 / Wikimedia Commons",
+          "license": "CC BY 2.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:IKEA_logo_with_a_passer-by.jpg",
+          "unverified": true
+        },
+        {
+          "url": "https://pixabay.com/get/ge17d1e79a13f1b7f81ffa7418e118d8ca3cd987205284b431072c49325233ff24bb0f61f70ac88f4a6cd6038d3045d04f4da59655e92cfdde90e6c9ba0b18199_1280.jpg",
+          "width": 5472,
+          "height": 3648,
+          "kind": "photo",
+          "alt": "coding, programming, working, macbook, laptop, technology, office, desk, business, coding, coding, coding, coding, coding, programming, programming, programming",
+          "credit": "StockSnap / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/coding-programming-working-macbook-924920/",
+          "unverified": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/tech-1794897375-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/tech-1794897375-0.jpg",
+          "kind": "photo",
+          "alt": "A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        }
+      ],
+      "story": [
+        {
+          "title": "Nagy a baj: megtámadta egy vírus a világ legnépszerűbb weboldalait, durva támadást intéztek a felhasználók ellen",
+          "link": "https://www.portfolio.hu/uzlet/20261117/nagy-a-baj-megtamadta-egy-virus-a-vilag-legnepszerubb-weboldalait-durva-tamadast-inteztek-a-felhasznalok-ellen-876884",
+          "summary": "A világ leglátogatottabb weboldalai közül többet is – köztük a Zoom, az HSBC, a CNN és az IKEA felületeit – feltörtek egy kiterjedt kibertámadás során. A kiberbűnözők kártékony kódok segítségével próbáltak kriptovalutát és bankkártyaadatokat lopni a látogatóktól, valamint megfertőzni az iPhone-okat. Hasonló témákról lesz szó a november 26-ai AI & Digital Transformation konferenciánkon. Regisztráció és részletek itt!",
+          "source": "portfolio.hu",
+          "related": false,
+          "hot_score": 12
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/uzlet/20261117/nagy-a-baj-megtamadta-egy-virus-a-vilag-legnepszerubb-weboldalait-durva-tamadast-inteztek-a-felhasznalok-ellen-876884"
+        ]
+      },
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "url": "/tech/2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas/",
+      "seo": {
+        "meta_title": "A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás",
+        "meta_description": "Kiterjedt kibertámadás során a világ leglátogatottabb weboldalainak felhasználóihoz juttattak el kártékony kódokat. A támadók célja bankkártyaadatok és kriptova",
+        "canonical_url": "https://xn--kollektva-m5a.hu/tech/2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Computer_locked.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "21ddbcd9c8bad780c0855524f46eb4dd75d2f741b435d79345a099ddcb25155b",
+      "pipeline_run_id": "44029504351",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-17T07:36:58+01:00",
+      "updated_at": "2026-11-17T07:36:58+01:00",
+      "published_at": "2026-11-17T07:36:58+01:00",
+      "expires_at": null,
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-17T06:36:33+00:00",
+        "head": "🆕 ÚJ · <b>Tech &amp; Tudomány</b> · forróság 12 · 1 forrás\n\n1) A Zoomot és az IKEA-t is elérte a nagyszabású hackertámadás\n2) Kiberbűnözők vették célba a világháló legnépszerűbb oldalait\n3) Adathalászok támadták meg többek között a CNN és a Salesforce rendszereit\n🔥 4) Óriási biztonsági rés: a te adataid is veszélyben lehetnek\n🔥 5) Így lopták el a felhasználók bankkártyaadatait az óriáscégektől\n🔥 6) Több millió felhasználót érintő támadássorozat indult a weboldalak ellen\n\n<b>Források:</b> portfolio.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
+        "lead": "Kiterjedt kibertámadás során a világ leglátogatottabb weboldalainak felhasználóihoz juttattak el kártékony kódokat. A támadók célja bankkártyaadatok és kriptovaluták megszerzése, valamint iPhone-készülékek megfertőzése volt.",
+        "ctl_photo": true,
+        "control_id": 10424,
+        "msg_ids": [],
+        "note": "⚡ Tech & Tudomány: jóváhagyás nélkül kiraktam."
+      },
+      "live": true
     }
   ]
 }
