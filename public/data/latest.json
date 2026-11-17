@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "fe6979d2-9261-5d56-a4b8-d1419e305189",
+      "slug": "2026-11-17-cibalo-torkok-a-parlamentben-drontamadassal-es-milliardokkal-vagott-v",
+      "url": "/kozelet/2026-11-17-cibalo-torkok-a-parlamentben-drontamadassal-es-milliardokkal-vagott-v/",
+      "title": "„Cibáló torkok a Parlamentben: dróntámadással és milliárdokkal vágott vissza Magyar Péter”",
+      "lead": "Magyar Péter napirend előtti felszólalásában bírálta az ellenzéket a munkácsi orosz dróntámadás nyomán, miközben a 2027-es költségvetés és a vagyonvisszaszerzési ügyek is szóba kerültek. A kormányfő a kárpátaljai magyarok melletti kiállásra szólította fel a képviselőket.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T14:07:30+01:00",
+      "published_at": "2026-11-17T14:07:30+01:00",
+      "reading_time_min": 2,
+      "hot_score": 13.44,
+      "tags": [
+        "Magyar Péter",
+        "Országgyűlés",
+        "Munkács",
+        "költségvetés",
+        "Bóka János"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/40d7db82065610a3.jpg",
+        "width": 5918,
+        "height": 3945,
+        "kind": "photo",
+        "alt": "parliament, building, illuminated, nature, architecture, budapest, city, night sky, hungary, river, night, urban, danube, cityscape, landmark, evening, europe, sky, capital"
+      }
+    },
+    {
       "id": "2d35c169-b060-5eb2-8900-318d35a1d622",
       "slug": "2026-11-17-vege-a-kisertesnek-ekkor-indul-a-tv2-nagy-oszi-musorvaltozasa",
       "url": "/bulvar/2026-11-17-vege-a-kisertesnek-ekkor-indul-a-tv2-nagy-oszi-musorvaltozasa/",
@@ -4415,39 +4444,7 @@
         "kind": "photo",
         "alt": "factory, building, industry, industrial plant, manufacturing plant, structure, metal, steel, neuss, germany, factory, factory, factory, factory, factory, industry, industry"
       }
-    },
-    {
-      "id": "2668d5bc-1dc5-5f9a-ae3c-d70781db191c",
-      "slug": "2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete",
-      "url": "/kultura/2026-11-09-igy-szuletett-meg-az-adventi-koszoru-tortenete/",
-      "title": "Így született meg az adventi koszorú története",
-      "lead": "Az otthonunkat az ünnepre hangoló adventi koszorú nemcsak szép dekoráció, hanem évszázados hagyományokat őrző szimbólum is. Megmutatjuk, hogyan fogjunk hozzá a saját kezű elkészítéséhez.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T15:49:21+01:00",
-      "published_at": "2026-11-09T15:49:21+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Advent",
-        "advent",
-        "karácsony",
-        "koszorú",
-        "hagyomány",
-        "DIY"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Christmas_candle_Greece.jpg/1280px-Christmas_candle_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 680,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Χριστουγεννιάτικο καντηλάκι από το σπίτι μου στο Άργος."
-      }
     }
   ],
-  "updated_at": "2026-11-17T13:27:56+01:00"
+  "updated_at": "2026-11-17T14:07:31+01:00"
 }
