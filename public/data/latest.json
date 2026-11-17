@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "e5673eff-e756-59b4-8f2a-3dfcf6d7f7fd",
+      "slug": "2026-11-17-tobb-mint-143-milliardos-nyereseget-hozott-ossze-az-mbh-bank-iden",
+      "url": "/penzvilag/2026-11-17-tobb-mint-143-milliardos-nyereseget-hozott-ossze-az-mbh-bank-iden/",
+      "title": "Több mint 143 milliárdos nyereséget hozott össze az MBH Bank idén",
+      "lead": "Több mint 143 milliárd forintos korrigált adózás előtti eredménnyel zárta 2026 első három negyedévét az MBH Bank. A pénzintézet stabil tőke- és likviditási pozíció mellett növelte lakossági hitelállományát.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T12:47:06+01:00",
+      "published_at": "2026-11-17T12:47:06+01:00",
+      "reading_time_min": 3,
+      "hot_score": 8.36,
+      "tags": [
+        "MBH Bank",
+        "banki eredmények",
+        "hitelezés",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Budapest_MBH_HQ.jpg/1280px-Budapest_MBH_HQ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1145,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Head office building of MBH Bank in Budapest"
+      }
+    },
+    {
       "id": "2f0b7008-606d-55a3-80e6-f88a12741de5",
       "slug": "2026-11-17-lezuhant-egy-mig-29-es-a-vajdasagban-szornyethalt-a-pilota",
       "url": "/vilag/2026-11-17-lezuhant-egy-mig-29-es-a-vajdasagban-szornyethalt-a-pilota/",
@@ -4419,35 +4448,7 @@
         "pos": "center",
         "alt": "Logo of Fidesz as of 2015"
       }
-    },
-    {
-      "id": "f1fe8c76-c174-5a41-8a2c-b822ceddb13f",
-      "slug": "2026-11-09-trump-beismerte-a-tul-kemeny-bevandorlorazziak-okoztak-a-republikanus",
-      "url": "/vilag/2026-11-09-trump-beismerte-a-tul-kemeny-bevandorlorazziak-okoztak-a-republikanus/",
-      "title": "Trump beismerte: a túl kemény bevándorlórazziák okozták a republikánusok vesztét",
-      "lead": "Donald Trump amerikai elnök a félidős választási kudarc után elismerte, hogy kormánya túlzott szigorral lépett fel az illegális bevándorlókkal szemben. A tömeges kitoloncolások olyan embereket is érintettek, akik dolgoztak, és nem követtek el súlyos bűncselekményt.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T13:00:13+01:00",
-      "published_at": "2026-11-09T13:00:13+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.33,
-      "tags": [
-        "Donald Trump",
-        "Egyesült Államok",
-        "félidős választások",
-        "bevándorláspolitika",
-        "ICE"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-9db9a9c55e.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Texas",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-17T11:52:13+01:00"
+  "updated_at": "2026-11-17T12:47:09+01:00"
 }
