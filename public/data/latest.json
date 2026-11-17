@@ -1,6 +1,94 @@
 {
   "articles": [
     {
+      "id": "46eb3a62-e9f4-5fcc-986a-536bbf29c90f",
+      "slug": "2026-11-17-tokio-duhos-orosz-gepek-leptek-at-a-japan-hatart",
+      "url": "/vilag/2026-11-17-tokio-duhos-orosz-gepek-leptek-at-a-japan-hatart/",
+      "title": "Tokió dühös: orosz gépek lépték át a japán határt",
+      "lead": "Ismét feszültté vált a helyzet a Csendes-óceán térségében, miután két orosz repülőgép behatolt a japán légtérbe. A tokiói kormány azonnal tiltakozott az incidens ellen, amelyet nemzetbiztonsági fenyegetésként értékelt.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T07:54:59+01:00",
+      "published_at": "2026-11-17T07:54:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "Japán",
+        "Oroszország",
+        "légtérsértés",
+        "külpolitika"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/JASDF_Mitsubishi_F-2_%2812%29.jpg/1280px-JASDF_Mitsubishi_F-2_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "F-2は、米国のF-16を、日本の運用の考え方や地理的な特性に合わせ、日米の優れた技術を結集し日米共同で改造開発した戦闘機です。昭和63年にFS-Xとして開発に着手し、平成7年に初飛行、12年度に開発は完了しました。F-16からの主な改造点は、旋回性能の向上のため主翼面積を増やし、軽量化のため先進材料や先進構造を取り入れたこと。また離陸性を高めるためエンジンを推力向上型に変え、さらに最新レーダーな"
+      }
+    },
+    {
+      "id": "2638cc6d-b1fb-5d8b-9d53-f182bcab88e0",
+      "slug": "2026-11-17-hajnalig-tarto-verre-meno-vita-a-2027-es-budzserol",
+      "url": "/kozelet/2026-11-17-hajnalig-tarto-verre-meno-vita-a-2027-es-budzserol/",
+      "title": "Hajnalig tartó, vérre menő vita a 2027-es büdzséről",
+      "lead": "Tizenhét órás, éjszakába nyúló ülésnapon vitatták meg a képviselők a 2027-es költségvetési törvényjavaslatot. A rendkívüli parlamenti ülésen a büdzsé vitája mellett személyes ellentétek is feszültséget szültek a teremben.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T07:54:58+01:00",
+      "published_at": "2026-11-17T07:54:58+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.4,
+      "tags": [
+        "Országgyűlés",
+        "költségvetés",
+        "Forsthoffer Ágnes",
+        "belpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "András Kármán, Hungarian Minister of Finance"
+      }
+    },
+    {
+      "id": "4d844ca6-5d78-5e96-8644-10045d0ad5b0",
+      "slug": "2026-11-17-tomegek-kovetelik-a-miniszter-lemondasat-az-uj-kutatohalozati-torveny",
+      "url": "/kozelet/2026-11-17-tomegek-kovetelik-a-miniszter-lemondasat-az-uj-kutatohalozati-torveny/",
+      "title": "Tömegek követelik a miniszter lemondását az új kutatóhálózati törvény miatt",
+      "lead": "Az Akadémiai Dolgozók Fóruma (ADF) a kutatóhálózatot érintő új törvényjavaslat visszavonását, valamint a tudományos és technológiai miniszter, Tanács Zoltán távozását sürgeti. A szervezet szerint a tervezet nem rendezi érdemben a kutatóhálózat problémáit, csupán a korábbi kormányzati korszak hibás gyakorlatát viszi tovább.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T07:54:57+01:00",
+      "published_at": "2026-11-17T07:54:57+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.13,
+      "tags": [
+        "HUN-REN",
+        "MTA",
+        "Tanács Zoltán",
+        "ADF",
+        "kutatóhálózat"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/MTA-logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1586,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Эмблема Венгерской академии наук, основанная на картине 1831 года Иоганна Непомука Эндера (1973-1854), известной как \"Аллегория Венгерской академии наук\" либо \"From Darkness, the Light\""
+      }
+    },
+    {
       "id": "c1eba06f-84d3-5f9a-a07d-ba7791ec4f5c",
       "slug": "2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas",
       "url": "/tech/2026-11-17-a-zoomot-es-az-ikea-t-is-elerte-a-nagyszabasu-hackertamadas/",
@@ -4361,95 +4449,7 @@
         "pos": "center",
         "alt": "Oslo: Cruise ship Regal Princess at the harbor Inner Oslofjord."
       }
-    },
-    {
-      "id": "4a40e813-ca35-5af1-a54c-8d9683acfd1c",
-      "slug": "2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse",
-      "url": "/vilag/2026-11-09-haromoldalu-csucson-talalkozhat-trump-putyin-es-hszi-csin-ping-sencse/",
-      "title": "Háromoldalú csúcson találkozhat Trump, Putyin és Hszi Csin-ping Sencsenben",
-      "lead": "Donald Trump amerikai elnök bejelentése szerint a jövő heti sencseni APEC-csúcstalálkozón két- és háromoldalú egyeztetéseket is folytat Vlagyimir Putyin orosz államfővel és Hszi Csin-ping kínai elnökkel. A diplomáciai csúcson a nukleáris fegyverzetkorlátozás és az ukrajnai konfliktus rendezése is napirendre kerülhet.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T09:18:31+01:00",
-      "published_at": "2026-11-09T09:18:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.08,
-      "tags": [
-        "Donald Trump",
-        "Vlagyimir Putyin",
-        "Hszi Csin-ping",
-        "APEC-csúcs",
-        "külpolitika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg/1280px-Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1551,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Beijing, China, August 18, 2026 – The General Secretary of the Chinese Communist Party, Xi Jinping, hosted an official welcome ceremony for the President of Ecuador, Daniel Noboa, at the Great Hall of"
-      }
-    },
-    {
-      "id": "b0ff53b4-c71f-506f-8135-53315fd81aa2",
-      "slug": "2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal",
-      "url": "/bulvar/2026-11-09-hatszor-korhazban-az-ujszulott-dramai-hetek-a-harry-potter-sztar-csal/",
-      "title": "Hatszor kórházban az újszülött: drámai hetek a Harry Potter-sztár családjában",
-      "lead": "Alig másfél hónapja adta világra második gyermekét a Harry Potter-filmekből ismert Bonnie Wright, ám a várt idill helyett nehéz heteken van túl a család. Újszülött kisfia élete első öt hetében már hat alkalommal szorult kórházi ellátásra egy olyan állapot miatt, amelyről már a születése előtt tudtak.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T09:17:08+01:00",
-      "published_at": "2026-11-09T09:17:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Bonnie Wright",
-        "Harry Potter",
-        "sztárvilág",
-        "gyermekszületés"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Stuttgart_2021_-Comic_Con_Germany-_by-RaBoe_120_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1385,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Stuttgart 2021 -Comic Con Germany-"
-      }
-    },
-    {
-      "id": "5b23a882-09d8-5bb2-9ea5-2c62256e7b03",
-      "slug": "2026-11-09-meglepetes-a-piacon-363-alatt-a-forint-arfolyama",
-      "url": "/penzvilag/2026-11-09-meglepetes-a-piacon-363-alatt-a-forint-arfolyama/",
-      "title": "Meglepetés a piacon: 363 alatt a forint árfolyama",
-      "lead": "A hétfői kereskedésben kismértékű erősödést mutatott a forint, amivel 363-as szint alá szorította az euró jegyzését. A magyar fizetőeszköz sorsa a következő napokban a nemzetközi piaci hangulaton és a dollár mozgásán múlhat.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T08:47:19+01:00",
-      "published_at": "2026-11-09T08:47:19+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "forint",
-        "árfolyam",
-        "gazdaság",
-        "valutapiac"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/100_Forint_Comemmorative_Army_Front.jpg/1280px-100_Forint_Comemmorative_Army_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The forint was released on 2023 May 22 as a comemmoration of the Hungarian Army."
-      }
     }
   ],
-  "updated_at": "2026-11-17T07:37:01+01:00"
+  "updated_at": "2026-11-17T07:55:01+01:00"
 }
