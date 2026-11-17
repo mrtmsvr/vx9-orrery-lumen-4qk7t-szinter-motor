@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "cb6d9aa7-205c-5c9c-98aa-dd6958a3077a",
+      "slug": "2026-11-17-dorner-gyorgyot-inditja-a-mi-hazank",
+      "url": "/kozelet/2026-11-17-dorner-gyorgyot-inditja-a-mi-hazank/",
+      "title": "Dörner Györgyöt indítja a Mi Hazánk",
+      "lead": "A Mi Hazánk Mozgalom Dörner György színművészt jelölte a Független Közmédia Testületbe (FKT). A párt a döntéstől a közmédia kiegyensúlyozottabbá tételét reméli, miután két korábbi jelöltjük is elbukott a parlamenti szavazáson.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T18:13:02+01:00",
+      "published_at": "2026-11-17T18:13:02+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.26,
+      "tags": [
+        "Mi Hazánk",
+        "Dörner György",
+        "közmédia",
+        "Független Közmédia Testület",
+        "belpolitika"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/BudapestArtDecoBuilding.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1315,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "New Theater (Új színház), earlier: Parisiana, Paulay Ede utca 35, 1061 Budapest (Béla Lajta, 1909)"
+      }
+    },
+    {
       "id": "fe6979d2-9261-5d56-a4b8-d1419e305189",
       "slug": "2026-11-17-cibalo-torkok-a-parlamentben-drontamadassal-es-milliardokkal-vagott-v",
       "url": "/kozelet/2026-11-17-cibalo-torkok-a-parlamentben-drontamadassal-es-milliardokkal-vagott-v/",
@@ -4416,35 +4446,7 @@
         "pos": "center",
         "alt": "Coat of arms of the Constitutional Court of Hungary"
       }
-    },
-    {
-      "id": "424e1df4-a9e0-5161-8847-143e94d53f38",
-      "slug": "2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta",
-      "url": "/kozelet/2026-11-09-azonnal-leallitottak-a-kazincbarcikai-gazuzemet-a-halalos-baleset-uta/",
-      "title": "Azonnal leállították a kazincbarcikai gázüzemet a halálos baleset után",
-      "lead": "Halálos kimenetelű szerencsétlenség történt hétfő reggel a Linde Gáz Magyarország kazincbarcikai telephelyén. A cég azonnal felfüggesztette az üzem működését, és lezárta a környéket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T18:19:16+01:00",
-      "published_at": "2026-11-09T18:19:16+01:00",
-      "reading_time_min": 1,
-      "hot_score": 11.67,
-      "tags": [
-        "Kazincbarcika",
-        "munkahelyi baleset",
-        "Linde Gáz",
-        "tragédia"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/dfeb249da1d59671.jpg",
-        "width": 4433,
-        "height": 3325,
-        "kind": "photo",
-        "alt": "factory, building, industry, industrial plant, manufacturing plant, structure, metal, steel, neuss, germany, factory, factory, factory, factory, factory, industry, industry"
-      }
     }
   ],
-  "updated_at": "2026-11-17T16:50:41+01:00"
+  "updated_at": "2026-11-17T18:13:03+01:00"
 }
