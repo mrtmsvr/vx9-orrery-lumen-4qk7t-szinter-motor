@@ -1,7 +1,125 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-17T11:13:51+01:00",
+  "updated_at": "2026-11-17T11:28:01+01:00",
   "articles": [
+    {
+      "id": "2f0b7008-606d-55a3-80e6-f88a12741de5",
+      "slug": "2026-11-17-lezuhant-egy-mig-29-es-a-vajdasagban-szornyethalt-a-pilota",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Szerbia",
+        "repülőbaleset",
+        "hadtudomány",
+        "MiG-29",
+        "Balkán"
+      ],
+      "title": "Lezuhant egy MiG-29-es a Vajdaságban, szörnyethalt a pilóta",
+      "subtitle": null,
+      "lead": "Tragikus repülőbaleset történt kedd reggel a vajdasági Ópazova közelében, ahol a szerb hadsereg egyik MiG–29-es vadászgépe a földbe csapódott. A balesetben a gép pilótája életét vesztette.",
+      "key_points": [
+        "A szerb védelmi minisztérium megerősítette, hogy a 204. repülődandár egyik vadászgépe zuhant le.",
+        "A baleset Újpazova és Ópazova között, egy mezőgazdasági területen történt kedd reggel.",
+        "A helyszínen a hadsereg, a rendőrség és a katonai rendőrség egységei kezdték meg a vizsgálatot.",
+        "Bratislav Gašić védelmi miniszter részvétét fejezte ki az elhunyt pilóta családjának."
+      ],
+      "content": "A szerb fegyveres erők közlése szerint a lezuhant MiG–29-es a batajnicai légibázison állomásozó 204. repülődandár kötelékébe tartozott. A szerencsétlenség Újpazova és Ópazova térségében, egy művelt mezőgazdasági területen következett be kedd reggel. A helyszínre azonnal kirendelték a mentőegységeket, a tűzoltókat, valamint a katonai és polgári rendőrség egységeit, azonban a pilóta életét már nem tudták megmenteni.\n\nA baleset okairól egyelőre nincsenek hivatalos információk. A hatóságok a történtek kivizsgálására külön bizottságot állítottak fel, amelynek feladata a technikai hiba vagy az egyéb körülmények feltárása. A szerb védelmi minisztérium és a fegyveres erők vezetése, köztük Bratislav Gašić védelmi miniszter és Tiosav Janković altábornagy, a vezérkari főnök helyettese is részvétét fejezte ki az áldozat hozzátartozóinak.\n\nSzerbiában a légierőt érintő ehhez hasonló tragédiák mindig jelentős katonai és közpolitikai visszhangot váltanak ki, különösen a MiG–29-es flottával kapcsolatos biztonsági kérdések miatt.",
+      "content_format": "markdown",
+      "body": [
+        "A szerb fegyveres erők közlése szerint a lezuhant MiG–29-es a batajnicai légibázison állomásozó 204. repülődandár kötelékébe tartozott. A szerencsétlenség Újpazova és Ópazova térségében, egy művelt mezőgazdasági területen következett be kedd reggel. A helyszínre azonnal kirendelték a mentőegységeket, a tűzoltókat, valamint a katonai és polgári rendőrség egységeit, azonban a pilóta életét már nem tudták megmenteni.",
+        "A baleset okairól egyelőre nincsenek hivatalos információk. A hatóságok a történtek kivizsgálására külön bizottságot állítottak fel, amelynek feladata a technikai hiba vagy az egyéb körülmények feltárása. A szerb védelmi minisztérium és a fegyveres erők vezetése, köztük Bratislav Gašić védelmi miniszter és Tiosav Janković altábornagy, a vezérkari főnök helyettese is részvétét fejezte ki az áldozat hozzátartozóinak.",
+        "Szerbiában a légierőt érintő ehhez hasonló tragédiák mindig jelentős katonai és közpolitikai visszhangot váltanak ki, különösen a MiG–29-es flottával kapcsolatos biztonsági kérdések miatt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 164,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Russian_Air_Force_Mikoyan-Gurevich_MiG-29S_Naumenko-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Russian Air Force Mikoyan-Gurevich MiG-29S (9-13S)",
+        "credit": "Kirill Naumenko / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Russian_Air_Force_Mikoyan-Gurevich_MiG-29S_Naumenko-1.jpg",
+        "exact": true,
+        "entity": "MiG-29",
+        "vision_score": 11.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://telex.hu/kulfold/2026/11/17/szerb-katonai-repulogep-lezuhant-halalos-aldozat",
+          "title": "Lezuhant a szerb hadsereg egyik vadászgépe, meghalt a pilóta",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-17T11:26:09+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/17/lezuhant-egy-mig-29-es-a-pilota-eletet-vesztette-szerbiaban",
+          "title": "Lezuhant egy MiG–29-es, a pilóta életét vesztette Szerbiában",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-17T11:26:09+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-17T11:28:01+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://telex.hu/kulfold/2026/11/17/szerb-katonai-repulogep-lezuhant-halalos-aldozat",
+          "https://infostart.hu/kulfold/2026/11/17/lezuhant-egy-mig-29-es-a-pilota-eletet-vesztette-szerbiaban"
+        ]
+      },
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "url": "/vilag/2026-11-17-lezuhant-egy-mig-29-es-a-vajdasagban-szornyethalt-a-pilota/",
+      "seo": {
+        "meta_title": "Lezuhant egy MiG-29-es a Vajdaságban, szörnyethalt a pilóta",
+        "meta_description": "Tragikus repülőbaleset történt kedd reggel a vajdasági Ópazova közelében, ahol a szerb hadsereg egyik MiG–29-es vadászgépe a földbe csapódott. A balesetben a gé",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-17-lezuhant-egy-mig-29-es-a-vajdasagban-szornyethalt-a-pilota/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Russian_Air_Force_Mikoyan-Gurevich_MiG-29S_Naumenko-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "13f91d86-f3d8-5d89-9838-0eb04798ee45"
+      ],
+      "see_also": [
+        {
+          "title": "Magyar aktivisták mentek át Szerbiába megállítani a szavazatvásárlást",
+          "url": "/vilag/2026-10-28-magyar-aktivistak-mentek-at-szerbiaba-megallitani-a-szavazatvasarlast/",
+          "date": "2026-10-28"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "ba3f0c341c53e87fe771b870e151873cc39a1e52d0f20ca4086d423c4cd7beca",
+      "pipeline_run_id": "44060812729",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-17T11:28:01+01:00",
+      "updated_at": "2026-11-17T11:28:01+01:00",
+      "published_at": "2026-11-17T11:28:01+01:00",
+      "expires_at": null
+    },
     {
       "id": "c0ef0103-5f01-508a-9d7b-2341154af11d",
       "slug": "2026-11-17-dronok-munkacson-magyar-peter-szerint-vege-a-hallgatasnak",
@@ -75955,112 +76073,6 @@
       "created_at": "2026-10-16T19:47:16+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-16T19:47:16+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "fe1621d7-716b-5bcd-a4b1-dd8a655eeb36",
-      "slug": "2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "forint",
-        "állampapír",
-        "gazdaság",
-        "deviza",
-        "befektetés"
-      ],
-      "title": "Ugrásszerűen erősödött a forint a nemzetközi piacon",
-      "subtitle": null,
-      "lead": "Látványos erősödésbe kezdett a hazai fizetőeszköz pénteken a nemzetközi kötvénypiaci feszültségek enyhülésének köszönhetően. A kedvező befektetői hangulat hatására a magyar állampapírok hozama is tovább csökkent.",
-      "key_points": [
-        "A dollár gyengülése és a kötvénypiaci enyhülés húzta magával a forintot.",
-        "A 10 éves magyar államkötvény hozama 5,31 százalékra esett vissza.",
-        "Hétfőn vagy kedden érkezhet a jövő évi költségvetés tervezete."
-      ],
-      "content": "Erősödéssel zárta a hetet a hazai fizetőeszköz, miután pénteken a főbb devizákkal szemben is jelentős árfolyam-korrekció ment végbe. A dollár a nemzetközi kötvénypiaci hozamok csökkenése miatt gyengült, ami kedvezett a feltörekvő piaci devizáknak. A zöldhasú kurzusa napközben 322,6 forintig süllyedt, míg az euró ára a 363-as szint alá esett, így a váltás délután 362,74 forint körül alakult, amire három hete nem volt példa.\n\nA hazai deviza szárnyalását elsősorban a külföldi befektetők megújult érdeklődése hajtotta. Amint a nemzetközi hangulat javulni kezdett, a piaci szereplők azonnal visszatértek a magyar kötvénypiacra. Ezt mutatja, hogy az újabb 7 bázispontos esést követően a 10 éves magyar államkötvény hozama már 5,31 százalékos szinten áll.\n\nA gazdaság következő igazi próbatétele a jövő héten jön, amikor a tervek szerint hétfőn vagy kedden bemutatják a következő évi költségvetést, amely a hazai kötvénypiac irányát is meghatározza majd.",
-      "content_format": "markdown",
-      "body": [
-        "Erősödéssel zárta a hetet a hazai fizetőeszköz, miután pénteken a főbb devizákkal szemben is jelentős árfolyam-korrekció ment végbe. A dollár a nemzetközi kötvénypiaci hozamok csökkenése miatt gyengült, ami kedvezett a feltörekvő piaci devizáknak. A zöldhasú kurzusa napközben 322,6 forintig süllyedt, míg az euró ára a 363-as szint alá esett, így a váltás délután 362,74 forint körül alakult, amire három hete nem volt példa.",
-        "A hazai deviza szárnyalását elsősorban a külföldi befektetők megújult érdeklődése hajtotta. Amint a nemzetközi hangulat javulni kezdett, a piaci szereplők azonnal visszatértek a magyar kötvénypiacra. Ezt mutatja, hogy az újabb 7 bázispontos esést követően a 10 éves magyar államkötvény hozama már 5,31 százalékos szinten áll.",
-        "A gazdaság következő igazi próbatétele a jövő héten jön, amikor a tervek szerint hétfőn vagy kedden bemutatják a következő évi költségvetést, amely a hazai kötvénypiac irányát is meghatározza majd."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 167,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg/1280px-Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1444,
-        "kind": "photo",
-        "pos": "top",
-        "alt": ": Sign at the entrance of the Hungarian State Treasury Zala County Directorate. Government bonds trading place. plate on the wall of Town Hall in Hévíz, Zala County, Hungary.",
-        "credit": "Globetrotter19 / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall,_2016_Hungary.jpg",
-        "vision_score": 7.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/deviza/20261016/mozdul-a-forint-megorulnek-a-befektetok-a-magyar-kotvenyekert-870088",
-          "title": "Mozdul a forint, megőrülnek a befektetők a magyar kötvényekért",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T18:31:59+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/penz-es-tokepiac/2026/10/forint-gozerovel-tor-fel-az-euro-dollar-tempo?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Gőzerővel tör fel a forint, az euró és a dollár is a vert mezőnyben",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-16T18:31:59+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-16T19:45:46+02:00"
-      },
-      "hot_score": 7.0,
-      "clickbait_from": 2,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/deviza/20261016/mozdul-a-forint-megorulnek-a-befektetok-a-magyar-kotvenyekert-870088"
-        ]
-      },
-      "date": "2026-10-16",
-      "date_label": "október 16.",
-      "url": "/penzvilag/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon/",
-      "seo": {
-        "meta_title": "Ugrásszerűen erősödött a forint a nemzetközi piacon",
-        "meta_description": "Látványos erősödésbe kezdett a hazai fizetőeszköz pénteken a nemzetközi kötvénypiaci feszültségek enyhülésének köszönhetően. A kedvező befektetői hangulat hatás",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg/1280px-Hungarian_State_Treasury_Zala_County_Directorate_in_H%C3%A9v%C3%ADz_Town_Hall%2C_2016_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "20b117ae4b758cc379440ea79edea55178ac98f27afef485cf0331094de57913",
-      "pipeline_run_id": "38931446967",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-16T19:45:46+02:00",
-      "updated_at": "2026-10-16T19:45:46+02:00",
-      "published_at": "2026-10-16T19:45:46+02:00",
       "expires_at": null
     }
   ]
