@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2ea33f5f-8aac-532c-ad00-0127a2a0adcc",
+      "slug": "2026-11-17-dragoman-gyorgy-igy-maszik-be-a-diktatura-a-haloszobankba",
+      "url": "/kultura/2026-11-17-dragoman-gyorgy-igy-maszik-be-a-diktatura-a-haloszobankba/",
+      "title": "Dragomán György: Így mászik be a diktatúra a hálószobánkba",
+      "lead": "A hatalom és az írói felelősség viszonyát járja körül legújabb, Igazat kérdezni című kötetében Dragomán György. A József Attila-díjas író szerint a diktatúrákban a hatalom nemcsak az államot, de a családok intimitását is igyekszik kisajátítani.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-17",
+      "date_label": "november 17.",
+      "created_at": "2026-11-17T18:19:27+01:00",
+      "published_at": "2026-11-17T18:19:27+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "irodalom",
+        "Dragomán György",
+        "könyv",
+        "hatalom",
+        "interjú"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-d91e13c311.jpg",
+        "kind": "photo",
+        "alt": "Dragomán György: Az igazán durva diktatúrában a diktátor apafiguraként jelenik meg",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "cb6d9aa7-205c-5c9c-98aa-dd6958a3077a",
       "slug": "2026-11-17-dorner-gyorgyot-inditja-a-mi-hazank",
       "url": "/kozelet/2026-11-17-dorner-gyorgyot-inditja-a-mi-hazank/",
@@ -4416,37 +4446,7 @@
         "pos": "center",
         "alt": "The Official Emblem of Islamic Revolutionary Guard Corps (IRGC).The top text says:واعدوا لهم ما استطعتم من قوه\"Prepare against them what you ˹believers˺ can of ˹military˺ power\"The bottom right text,"
       }
-    },
-    {
-      "id": "bdcebaf5-fcfc-5113-888b-2a62f63936c1",
-      "slug": "2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok",
-      "url": "/kozelet/2026-11-09-fekezesre-kenyszeritette-a-parlamentet-a-koztarsasagi-elnok/",
-      "title": "Fékezésre kényszerítette a parlamentet a köztársasági elnök",
-      "lead": "Baka András köztársasági elnök nem írta alá az Országgyűlés által november 3-án elfogadott, az állami vagyon védelméről szóló törvénymódosítást, és előzetes normakontrollért az Alkotmánybírósághoz fordult. Az államfő kifogásolta a villámgyors, egyeztetés nélküli jogalkotást és a kisbefektetők jogait sértő rendelkezéseket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-09",
-      "date_label": "november 9.",
-      "created_at": "2026-11-09T18:44:19+01:00",
-      "published_at": "2026-11-09T18:44:19+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.1,
-      "tags": [
-        "Baka András",
-        "Alkotmánybíróság",
-        "Országgyűlés",
-        "állami vagyon",
-        "befektetők"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Alkotm%C3%A1nyb%C3%ADr%C3%B3s%C3%A1g_logo_large.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 800,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Coat of arms of the Constitutional Court of Hungary"
-      }
     }
   ],
-  "updated_at": "2026-11-17T18:13:03+01:00"
+  "updated_at": "2026-11-17T18:19:29+01:00"
 }
