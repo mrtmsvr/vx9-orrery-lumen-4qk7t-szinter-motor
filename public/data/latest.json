@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "d892d5fb-f977-55a3-95c3-15719da2b44b",
+      "slug": "2026-11-18-megremegett-a-bukk-nyugati-oldala-ejjel-riadtak-fel-a-belapatfalvaiak",
+      "url": "/kozelet/2026-11-18-megremegett-a-bukk-nyugati-oldala-ejjel-riadtak-fel-a-belapatfalvaiak/",
+      "title": "Megremegett a Bükk nyugati oldala, éjjel riadtak fel a bélapátfalvaiak",
+      "lead": "Szerda éjjel 2,5-ös magnitúdójú földrengés rázta meg Magyarországot, a Heves vármegyei Bélapátfalva térségét. A Bükk nyugati oldalán fekvő településen és a környező falvakban is érezhették a lakók a földmozgást.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T12:59:38+01:00",
+      "published_at": "2026-11-18T12:59:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.89,
+      "tags": [
+        "földrengés",
+        "Bélapátfalva",
+        "Heves megye",
+        "HUN-REN"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/B%C3%A9lap%C3%A1tfalva_from_B%C3%A9l-k%C5%91.jpg/1280px-B%C3%A9lap%C3%A1tfalva_from_B%C3%A9l-k%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 768,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Bélapátfalva from the side of Bél-kő hill"
+      }
+    },
+    {
       "id": "17f6c80b-a663-5e02-b10c-d8cc5339fb09",
       "slug": "2026-11-18-vagja-a-gordiuszi-csomot-a-kormany-felmondjak-a-23-ezermilliardos-aut",
       "url": "/kozelet/2026-11-18-vagja-a-gordiuszi-csomot-a-kormany-felmondjak-a-23-ezermilliardos-aut/",
@@ -4416,37 +4445,7 @@
         "pos": "center",
         "alt": "Close up of a gas pump with three nozzles: yellow for E85 (\"Flex-Fuel\"), blue for E15 (\"Unleaded 88\"), black for (10% ethanol) regular gasoline."
       }
-    },
-    {
-      "id": "f761068d-cc1c-500f-99b7-9396890cba8d",
-      "slug": "2026-11-10-sajat-partja-inditott-vadeljarast-pete-hegseth-ellen-az-irani-haboru",
-      "url": "/vilag/2026-11-10-sajat-partja-inditott-vadeljarast-pete-hegseth-ellen-az-irani-haboru/",
-      "title": "Saját pártja indított vádeljárást Pete Hegseth ellen az iráni háború miatt",
-      "lead": "Alkotmányos vádeljárást kezdeményezett hétfőn a kongresszusban Pete Hegseth amerikai hadügyminiszter ellen egy republikánus párti képviselő, aki a vádak szerint az engedély nélkül elindított iráni háborút és a polgári áldozatokat kéri számon Donald Trump miniszterén. Az ügy politikai vihart kavart Washingtonban, miközben a kongresszusi erőviszonyok miatt a képviselőházban komoly esély van a meghallgatás elfogadására.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T12:58:06+01:00",
-      "published_at": "2026-11-10T12:58:06+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Pete Hegseth",
-        "Egyesült Államok",
-        "alkotmányos vádeljárás",
-        "Donald Trump",
-        "iráni háború"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Pete_Hegseth_Official_Portrait_%28cropped%29.jpg/1280px-Pete_Hegseth_Official_Portrait_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1599,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Secretary of Defense, Pete Hegseth"
-      }
     }
   ],
-  "updated_at": "2026-11-18T12:58:04+01:00"
+  "updated_at": "2026-11-18T12:59:42+01:00"
 }
