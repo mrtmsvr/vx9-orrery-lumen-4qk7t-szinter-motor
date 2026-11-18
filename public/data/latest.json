@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f8facbad-1eef-5d1a-9d50-1764f4efb0fe",
+      "slug": "2026-11-18-atomkatasztrofaval-fenyegetik-az-ukran-eromuveket-az-ujabb-orosz-rake",
+      "url": "/vilag/2026-11-18-atomkatasztrofaval-fenyegetik-az-ukran-eromuveket-az-ujabb-orosz-rake/",
+      "title": "Atomkatasztrófával fenyegetik az ukrán erőműveket az újabb orosz rakéták",
+      "lead": "Harmincnyolc ország nukleáris hatósága adott ki figyelmeztetést az ukrajnai energetikai infrastruktúrát érő orosz támadások miatt. A szakértők szerint a téli hónapokban jelentősen megnőhet az atombalesetek bekövetkezésének kockázata.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T13:02:55+01:00",
+      "published_at": "2026-11-18T13:02:55+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5.03,
+      "tags": [
+        "atomenergia",
+        "Ukrajna",
+        "Oroszország",
+        "nukleáris biztonság",
+        "háború"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Kernkraftwerk_Saporischschja.JPG/1280px-Kernkraftwerk_Saporischschja.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 867,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Two power stations at Enerhodar, about 50 km from Zaporozhye in Ukraine, viewed from across the Kakhovka Reservoir on the river Dnieper. Photo taken from the \"Nikopol\" shore. The nearer power station"
+      }
+    },
+    {
       "id": "d892d5fb-f977-55a3-95c3-15719da2b44b",
       "slug": "2026-11-18-megremegett-a-bukk-nyugati-oldala-ejjel-riadtak-fel-a-belapatfalvaiak",
       "url": "/kozelet/2026-11-18-megremegett-a-bukk-nyugati-oldala-ejjel-riadtak-fel-a-belapatfalvaiak/",
@@ -4415,37 +4445,7 @@
         "pos": "center",
         "alt": "Kordován Square panel apartment buildings. - Káposztásmegyer neighborhood, 4 district of Budapest,Hungary."
       }
-    },
-    {
-      "id": "59f6f66a-33c6-5c3b-88c4-fa2f8808692f",
-      "slug": "2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj",
-      "url": "/penzvilag/2026-11-10-ket-szazalekon-all-a-penzromlas-de-a-zsebunkben-maskepp-faj/",
-      "title": "Két százalékon áll a pénzromlás, de a zsebünkben másképp fáj",
-      "lead": "Októberben átlagosan két százalékra gyorsult a fogyasztói árak emelkedése Magyarországon, miközben az élelmiszerek ára kifejezetten rapszodikusan alakult. A statisztikai adatok szerint a tavalyi év azonos időszakához képest az üzemanyagok és a szolgáltatások húzták leginkább fel a rátát.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T12:59:17+01:00",
-      "published_at": "2026-11-10T12:59:17+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5.92,
-      "tags": [
-        "infláció",
-        "KSH",
-        "gazdaság",
-        "árak",
-        "pénzügyek"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Flex_Fuel_and_Unleaded_88_gas_pump.jpg/1280px-Flex_Fuel_and_Unleaded_88_gas_pump.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Close up of a gas pump with three nozzles: yellow for E85 (\"Flex-Fuel\"), blue for E15 (\"Unleaded 88\"), black for (10% ethanol) regular gasoline."
-      }
     }
   ],
-  "updated_at": "2026-11-18T12:59:42+01:00"
+  "updated_at": "2026-11-18T13:02:59+01:00"
 }
