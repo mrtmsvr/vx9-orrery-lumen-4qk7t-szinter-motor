@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "7e7db36d-6bd5-5366-b1f7-4f9ff0ba50d5",
+      "slug": "2026-11-18-borton-helyett-luxus-szabadon-vedekezhet-a-halalos-m3-as-buszbaleset",
+      "url": "/kozelet/2026-11-18-borton-helyett-luxus-szabadon-vedekezhet-a-halalos-m3-as-buszbaleset/",
+      "title": "Börtön helyett luxus: szabadon védekezhet a halálos M3-as buszbaleset lengyel sofőrje",
+      "lead": "Megszüntette a Miskolci Törvényszék az augusztusi halálos buszbalesetet okozó lengyel sofőr letartóztatását. A férfi december 18-ig bűnügyi felügyelet alatt marad, miközben Lengyelország kezdeményezte a büntetőeljárás átvételét.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T17:00:13+01:00",
+      "published_at": "2026-11-18T17:00:13+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.21,
+      "tags": [
+        "buszbaleset",
+        "M3-as autópálya",
+        "bűnügyi felügyelet",
+        "bírósági döntés"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/HB691_accident_scene.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "HB691 accident scene"
+      }
+    },
+    {
       "id": "050f5965-4e87-5754-a40f-ca9f0201da4d",
       "slug": "2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me",
       "url": "/vilag/2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me/",
@@ -4412,37 +4441,7 @@
         "pos": "top",
         "alt": "Pilgrims' Hostel in Oviedo, the start of the Primitive Way of Saint James. Oviedo, Asturias, Spain."
       }
-    },
-    {
-      "id": "c0899814-c58e-5740-8714-afc2da73c603",
-      "slug": "2026-11-10-idozitett-fegyelmi-kamarai-vizsgalat-indult-a-volt-fougyesz-ugyvedje",
-      "url": "/kozelet/2026-11-10-idozitett-fegyelmi-kamarai-vizsgalat-indult-a-volt-fougyesz-ugyvedje/",
-      "title": "Időzített fegyelmi: kamarai vizsgálat indult a volt főügyész ügyvédje ellen",
-      "lead": "Előzetes fegyelmi eljárást indított a Budapesti Ügyvédi Kamara Horváth Lóránt ügyvéd ellen a Legfőbb Ügyészség bejelentésére, éppen a pénteki kamarai tisztújítás előtt. A lépés hátterében a volt főügyészt és az aranykonvoj-ügy szereplőit is képviselő jogász nyilvános nyilatkozatai állnak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T18:47:30+01:00",
-      "published_at": "2026-11-10T18:47:30+01:00",
-      "reading_time_min": 3,
-      "hot_score": 10.74,
-      "tags": [
-        "Horváth Lóránt",
-        "Fürcht Pál",
-        "Budapesti Ügyvédi Kamara",
-        "Legfőbb Ügyészség",
-        "fegyelmi eljárás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%C3%9Cgyv%C3%A9di_Kamar%C3%A1k%2C_Szalay_utca_7%2C_2017_Lip%C3%B3tv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 903,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ": Budapest Bar Association (Lawyer's Chamber, Est. 1875) and Hungarian Bar Association sign. - 7 Szalay street, Lipótváros neighbourhood, District V, Budapest."
-      }
     }
   ],
-  "updated_at": "2026-11-18T16:14:43+01:00"
+  "updated_at": "2026-11-18T17:00:16+01:00"
 }
