@@ -9374,7 +9374,7 @@
     {
       "id": "c5a62daa-cc7c-5bd1-99eb-88d2d72585f3",
       "slug": "2026-11-18-bor-sor-vagy-tomeny-meglepo-egeszsegugyi-kulonbsegek",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -9604,9 +9604,9 @@
       "dedupe_hash": "623b127ae4e0f514f4297af967831c814b39e43a470c56e085a8cc90bcebc4bd",
       "pipeline_run_id": "44245275379",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-18T07:02:42+01:00",
-      "updated_at": "2026-11-18T07:02:42+01:00",
-      "published_at": null,
+      "created_at": "2026-11-18T09:30:06+01:00",
+      "updated_at": "2026-11-18T09:30:06+01:00",
+      "published_at": "2026-11-18T09:30:06+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-18T09:01:14+01:00",
@@ -9624,8 +9624,10 @@
         "lead": "Egy több mint 340 000 felnőtt adatait feldolgozó nagyszabású kutatás rámutatott, hogy a mérsékelt borfogyasztás összefüggésben állhat a szív- és érrendszeri halálozás alacsonyabb kockázatával, miközben más alkoholos italoknál ez nem így van. Az eredmények tovább árnyalják mindazt, amit eddig az alkohol és az egészség kapcsolatáról gondoltunk.",
         "ctl_photo": false,
         "control_id": 10472,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "b8a6456b-400a-588a-ba38-c1abbe7e5168",
