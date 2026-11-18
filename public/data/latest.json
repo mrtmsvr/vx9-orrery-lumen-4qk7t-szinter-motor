@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "a9966936-1f35-5ab2-93ee-63b98df7295c",
+      "slug": "2026-11-18-fizeteskulonbsegek-miatt-allt-fel-az-obsi-intenzives-apoloinak-fele",
+      "url": "/kozelet/2026-11-18-fizeteskulonbsegek-miatt-allt-fel-az-obsi-intenzives-apoloinak-fele/",
+      "title": "Fizetéskülönbségek miatt állt fel az OBSI intenzíves ápolóinak fele",
+      "lead": "Tizenhárom intenzív terápiás szakápoló nyújtotta be felmondását a Budapesti Dr. Manninger Jenő Baleseti Központban. A döntésük hátterében álló jelentős bérfeszültségek miatt veszélybe került az osztály zavartalan működése.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T18:44:52+01:00",
+      "published_at": "2026-11-18T18:44:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.64,
+      "tags": [
+        "egészségügy",
+        "bérrendezés",
+        "felmondás",
+        "OBSI",
+        "szakápolók"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-e528ab1a35.jpg",
+        "kind": "photo",
+        "alt": "13 szakápoló – Tizenhárom intenzív terápiás szakápoló nyújtotta be felmondását.",
+        "card": "num"
+      }
+    },
+    {
       "id": "c417390d-e009-5ba0-a65e-450d34905ab0",
       "slug": "2026-11-18-birosagon-a-rendor-aki-nem-hagyta-magat-politikai-plakatnak",
       "url": "/kozelet/2026-11-18-birosagon-a-rendor-aki-nem-hagyta-magat-politikai-plakatnak/",
@@ -4414,35 +4442,7 @@
         "pos": "center",
         "alt": "szegedi tudományegyetem"
       }
-    },
-    {
-      "id": "8bdc0321-4d6b-5cd5-adb7-c448c22b4e92",
-      "slug": "2026-11-10-vegre-tisztan-lathatunk-ujra-teriteken-az-ugynokaktak",
-      "url": "/kozelet/2026-11-10-vegre-tisztan-lathatunk-ujra-teriteken-az-ugynokaktak/",
-      "title": "Végre tisztán láthatunk? Újra terítéken az ügynökakták",
-      "lead": "Az ügynökakták nyilvánosságra hozatala nem csupán tudományos kérdés, hanem a múlttal való szembenézés elengedhetetlen állomása. A Telex műsorában két történész elemezte részletesen az állambiztonsági múlt feltárásának nehézségeit és társadalmi tétjét.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T19:13:05+01:00",
-      "published_at": "2026-11-10T19:13:05+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "ügynökakták",
-        "történelem",
-        "állambiztonság",
-        "múltfeldolgozás"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/dcdde428707e1a60.jpg",
-        "width": 3836,
-        "height": 2999,
-        "kind": "photo",
-        "alt": "files, paper, office, paperwork, stack, work, data, folders, pile, organize, storage, archive, documentation, catalog, monochrome, black and white, files, files, files, paper, paper, paper, paper, pap"
-      }
     }
   ],
-  "updated_at": "2026-11-18T18:21:48+01:00"
+  "updated_at": "2026-11-18T18:44:54+01:00"
 }
