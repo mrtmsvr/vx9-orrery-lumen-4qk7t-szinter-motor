@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "5912f5a3-2313-562d-bd58-476bfe00437f",
+      "slug": "2026-11-18-peltola-gyozelmevel-megvan-az-56-mandatum",
+      "url": "/vilag/2026-11-18-peltola-gyozelmevel-megvan-az-56-mandatum/",
+      "title": "Peltola győzelmével megvan az 56. mandátum",
+      "lead": "A demokrata Mary Peltola győzelmével lezárult az alaszkai szenátusi választás, így a demokraták 56 mandátumot szereztek a százfős felsőházban. Ezzel a Kongresszus teljes irányítása a demokraták kezébe került a következő két évre.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T12:03:53+01:00",
+      "published_at": "2026-11-18T12:03:53+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.08,
+      "tags": [
+        "Alaszka",
+        "Egyesült Államok",
+        "szenátus",
+        "választás",
+        "demokraták"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/1280px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1500,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "US Rep Mary Sattler Peltola (D-AK)"
+      }
+    },
+    {
       "id": "0cfd625a-8e7b-509e-82aa-9c7b0cc3094d",
       "slug": "2026-11-18-szerda-hajnalban-csapott-le-az-utobbi-evek-legnagyobb-romaniai-foldre",
       "url": "/vilag/2026-11-18-szerda-hajnalban-csapott-le-az-utobbi-evek-legnagyobb-romaniai-foldre/",
@@ -4418,36 +4448,7 @@
         "pos": "top",
         "alt": "Actor Robert de Niro at the 2025 Cannes Film Festival"
       }
-    },
-    {
-      "id": "0358ae73-beff-5458-835c-0a4c274dc1b0",
-      "slug": "2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg",
-      "url": "/penzvilag/2026-11-10-mennyi-lesz-az-oregsegi-nyugdij-igy-alakul-az-osszeg/",
-      "title": "Mennyi lesz az öregségi nyugdíj? Így alakul az összeg",
-      "lead": "Az öregségi nyugdíj pontos összegéről és a közeljövőben várható konkrét nyugdíjemelés mértékéről a rendelkezésre álló gazdasági és statisztikai adatok alapján jelenleg nincsenek hivatalos számok. Az állami nyugdíjrendszer alapvető működési elvei azonban pontosan meghatározzák, hogy mi alapján számítják ki ezt a járandóságot.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T12:15:51+01:00",
-      "published_at": "2026-11-10T12:15:51+01:00",
-      "reading_time_min": 2,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "öregségi nyugdíj",
-        "nyugdíjemelés",
-        "nyugdíjrendszer",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/ab523da0c7d3ef41.jpg",
-        "width": 5259,
-        "height": 3098,
-        "kind": "photo",
-        "alt": "calculator, calculation, insurance, finance, accounting, pen, fountain pen, investment, office, work, taxes, calculator, insurance, insurance, finance, finance, finance, finance, finance, accounting, "
-      }
     }
   ],
-  "updated_at": "2026-11-18T11:35:49+01:00"
+  "updated_at": "2026-11-18T12:03:56+01:00"
 }
