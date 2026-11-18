@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "0cfd625a-8e7b-509e-82aa-9c7b0cc3094d",
+      "slug": "2026-11-18-szerda-hajnalban-csapott-le-az-utobbi-evek-legnagyobb-romaniai-foldre",
+      "url": "/vilag/2026-11-18-szerda-hajnalban-csapott-le-az-utobbi-evek-legnagyobb-romaniai-foldre/",
+      "title": "Szerda hajnalban csapott le az utóbbi évek legnagyobb romániai földrengése",
+      "lead": "Közepes, 5,7-es erősségű földrengés rázta meg szerda hajnalban Románia délkeleti részét. A katasztrófavédelem adatai szerint ez az utóbbi évek legerősebb szeizmikus mozgása volt az országban. A rengés következtében ketten megsérültek, amikor menekülés közben rájuk esett egy bútordarab, és többen pánikrohamot kaptak.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T11:09:51+01:00",
+      "published_at": "2026-11-18T11:09:51+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "földrengés",
+        "Románia",
+        "Vrancea",
+        "Bukarest",
+        "természeti katasztrófa"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bucharest-Skyline-01.jpg/1280px-Bucharest-Skyline-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 675,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Bucharest Skyline, view from the Intercontinental Hotel\nIn the front view: University Square, Bucharest Faculty of Letters and the Bucharest Faculty of Architecture.\n\nIn the back view: BCR - Romanian"
+      }
+    },
+    {
       "id": "c5a62daa-cc7c-5bd1-99eb-88d2d72585f3",
       "slug": "2026-11-18-bor-sor-vagy-tomeny-meglepo-egeszsegugyi-kulonbsegek",
       "url": "/eletmod/2026-11-18-bor-sor-vagy-tomeny-meglepo-egeszsegugyi-kulonbsegek/",
@@ -4417,37 +4447,7 @@
         "kind": "photo",
         "alt": "calculator, calculation, insurance, finance, accounting, pen, fountain pen, investment, office, work, taxes, calculator, insurance, insurance, finance, finance, finance, finance, finance, accounting, "
       }
-    },
-    {
-      "id": "0ea00df8-6f19-5e12-928d-3e68d4462740",
-      "slug": "2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a",
-      "url": "/kultura/2026-11-10-megvillantotta-elso-husz-fellepojet-a-sziget-jon-a-fontaines-d-c-es-a/",
-      "title": "Megvillantotta első húsz fellépőjét a Sziget: jön a Fontaines D.C. és a Katseye",
-      "lead": "A Fontaines D.C., a Katseye és David Beckham fia is fellép a Sziget Fesztiválon 2027-ben. A szervezők az első húsz nevet hozták nyilvánosságra.",
-      "category": "kultura",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T10:45:45+01:00",
-      "published_at": "2026-11-10T10:45:45+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Sziget Fesztivál",
-        "Fontaines D.C.",
-        "Kultúra",
-        "Zene",
-        "Fesztivál"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Fontaines_DC_at_Loose_Ends_2019.jpg/1280px-Fontaines_DC_at_Loose_Ends_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Fontaines DC playing the Loose Ends festival in Amsterdam in June 2019"
-      }
     }
   ],
-  "updated_at": "2026-11-18T10:39:34+01:00"
+  "updated_at": "2026-11-18T11:09:53+01:00"
 }
