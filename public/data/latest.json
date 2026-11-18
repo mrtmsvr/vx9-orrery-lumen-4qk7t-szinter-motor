@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c417390d-e009-5ba0-a65e-450d34905ab0",
+      "slug": "2026-11-18-birosagon-a-rendor-aki-nem-hagyta-magat-politikai-plakatnak",
+      "url": "/kozelet/2026-11-18-birosagon-a-rendor-aki-nem-hagyta-magat-politikai-plakatnak/",
+      "title": "Bíróságon a rendőr, aki nem hagyta magát politikai plakátnak",
+      "lead": "Megkezdődött a közigazgatási per annak a volt rendőr őrmesternek az ügyében, akit a Budapesti Rendőr-főkapitányság perelt be azonnali hatályú lemondása miatt. Laponyi Zsolt korábban azért tiltakozott, mert arcképét a hozzájárulása nélkül használták fel egy KDNP-s politikus Facebook-posztjában.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T18:20:45+01:00",
+      "published_at": "2026-11-18T18:20:45+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.14,
+      "tags": [
+        "Laponyi Zsolt",
+        "BRFK",
+        "Rétvári Bence",
+        "közigazgatási per",
+        "rendőrség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ol%C3%A1h_Igor-5_ker_Mark%C3%B3_u_27.jpg/1280px-Ol%C3%A1h_Igor-5_ker_Mark%C3%B3_u_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "bíróság"
+      }
+    },
+    {
       "id": "41d93f71-63f4-5df5-95b7-c4124d81caf7",
       "slug": "2026-11-18-4-8-milliard-forint-ennyibe-kerult-az-adofizetoknek-orban-focimaniaja",
       "url": "/kozelet/2026-11-18-4-8-milliard-forint-ennyibe-kerult-az-adofizetoknek-orban-focimaniaja/",
@@ -4412,37 +4442,7 @@
         "kind": "photo",
         "alt": "files, paper, office, paperwork, stack, work, data, folders, pile, organize, storage, archive, documentation, catalog, monochrome, black and white, files, files, files, paper, paper, paper, paper, pap"
       }
-    },
-    {
-      "id": "e4b6ccae-cc21-5834-8276-f651f6bfbd42",
-      "slug": "2026-11-10-11-halott-busz-es-teherautok-taroltak-le-az-a1-es-bolgar-autopalyat",
-      "url": "/vilag/2026-11-10-11-halott-busz-es-teherautok-taroltak-le-az-a1-es-bolgar-autopalyat/",
-      "title": "11 halott: busz és teherautók tarolták le az A1-es bolgár autópályát",
-      "lead": "Tizenegy ember vesztette életét, ötvenen pedig megsérültek egy súlyos tömegbalesetben kedden Kelet-Bulgáriában. A tragédia miatt az országban tartózkodó Ursula von der Leyen, az Európai Bizottság elnöke is lerövidítette hivatalos látogatását.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T18:52:34+01:00",
-      "published_at": "2026-11-10T18:52:34+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5.85,
-      "tags": [
-        "Bulgária",
-        "baleset",
-        "külpolitika",
-        "Ursula von der Leyen",
-        "közlekedésbiztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bad_one_-_auto_wreck_in_Dakar_Senegal%2C_2011.jpg/1280px-Bad_one_-_auto_wreck_in_Dakar_Senegal%2C_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Not too sure if anyone walked away from that one."
-      }
     }
   ],
-  "updated_at": "2026-11-18T18:18:39+01:00"
+  "updated_at": "2026-11-18T18:21:48+01:00"
 }
