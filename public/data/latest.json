@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b8a6456b-400a-588a-ba38-c1abbe7e5168",
+      "slug": "2026-11-18-hatvanmilliardos-trafikbiznisz-bedaralna-a-dohanymonopoliumot-vitezy",
+      "url": "/kozelet/2026-11-18-hatvanmilliardos-trafikbiznisz-bedaralna-a-dohanymonopoliumot-vitezy/",
+      "title": "Hatvanmilliárdos trafikbiznisz: bedarálná a dohánymonopóliumot Vitézy",
+      "lead": "A kormány törvényjavaslata 2027 nyarán megszüntetné az Országos Dohányboltellátó kizárólagos koncesszióját. A kabinet célja a verseny nélkül felépült magánmonopólium felszámolása és a kereskedői árrések átalakítása.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T07:55:47+01:00",
+      "published_at": "2026-11-18T07:55:47+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.9,
+      "tags": [
+        "Vitézy Dávid",
+        "trafikmutyi",
+        "dohánykoncesszió",
+        "Országos Dohányboltellátó",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Tabak-Trafik_12.2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Tabak-Trafik in Wien / Vienna"
+      }
+    },
+    {
       "id": "e2292584-2887-5e2e-a7dd-0c61a335ad74",
       "slug": "2026-11-17-langolo-gep-csapodott-a-foldbe-sziberiaban-tizenkilencen-meghaltak",
       "url": "/vilag/2026-11-17-langolo-gep-csapodott-a-foldbe-sziberiaban-tizenkilencen-meghaltak/",
@@ -4415,37 +4445,7 @@
         "pos": "top",
         "alt": "Official portrait of Volodymyr Zelenskyy."
       }
-    },
-    {
-      "id": "45a32a9b-e1f8-5f35-8173-fa7e62d839d5",
-      "slug": "2026-11-10-ujra-fustol-rijad-ballisztikus-raketakkal-uzentek-a-jemeni-huszik",
-      "url": "/vilag/2026-11-10-ujra-fustol-rijad-ballisztikus-raketakkal-uzentek-a-jemeni-huszik/",
-      "title": "Újra füstöl Rijád: ballisztikus rakétákkal üzentek a jemeni húszik",
-      "lead": "Kedd kora hajnalban több robbanás rázta meg a szaúdi fővárost, miután a légvédelem elfogott egy Rijád felé indított ballisztikus rakétát. A nyár óta ismét kiújult fegyveres konfliktus nemcsak a Közel-Kelet stabilitását, hanem a globális energiaszolgáltatást közvetlenül is veszélyezteti.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T07:41:29+01:00",
-      "published_at": "2026-11-10T07:41:29+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.15,
-      "tags": [
-        "Szaúd-Arábia",
-        "Rijád",
-        "húszik",
-        "rakétatámadás",
-        "közel-kelet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Riyadh_Skyline.jpg/1280px-Riyadh_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Riyadh Skyline  is growing. Dated February 2018"
-      }
     }
   ],
-  "updated_at": "2026-11-18T07:27:53+01:00"
+  "updated_at": "2026-11-18T07:55:50+01:00"
 }
