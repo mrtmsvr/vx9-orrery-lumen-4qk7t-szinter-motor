@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9c30c336-d189-59bc-9aea-6b85aab49bdf",
+      "slug": "2026-11-18-putyin-hszi-es-trump-sencsenben-dol-el-ukrajna-sorsa",
+      "url": "/vilag/2026-11-18-putyin-hszi-es-trump-sencsenben-dol-el-ukrajna-sorsa/",
+      "title": "Putyin, Hszi és Trump: Sencsenben dől el Ukrajna sorsa",
+      "lead": "Megkezdődött Vlagyimir Putyin és Hszi Csin-ping találkozója a sencseni APEC-csúcson, amelyhez csütörtökön a korábbi amerikai elnök, Donald Trump is csatlakozik. A példátlan háromoldalú csúcstalálkozó alapjaiban írhatja át a geopolitikai erőviszonyokat, és érdemben befolyásolhatja az ukrajnai konfliktus jövőjét is.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T07:59:39+01:00",
+      "published_at": "2026-11-18T07:59:39+01:00",
+      "reading_time_min": 2,
+      "hot_score": 7.15,
+      "tags": [
+        "APEC",
+        "Vlagyimir Putyin",
+        "Hszi Csin-ping",
+        "Donald Trump",
+        "Ukrajna"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Skyline_in_Shenzhen_%2820250327%29.jpg/1280px-Skyline_in_Shenzhen_%2820250327%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Skyline in Shenzhen"
+      }
+    },
+    {
       "id": "9a2311f1-3e4c-51bb-9907-1f2fa78ab3b0",
       "slug": "2026-11-18-viharos-szerda-az-egesz-orszagra-elsofoku-riasztast-adtak-ki",
       "url": "/kozelet/2026-11-18-viharos-szerda-az-egesz-orszagra-elsofoku-riasztast-adtak-ki/",
@@ -4416,36 +4446,7 @@
         "pos": "top",
         "alt": "The Foreign Secretary, David Cameron meets with the Prime Minister and Foreign Minister of Qatar, Sheikh Mohammed bin Abdulrahman Al Thani for a bilateral meeting whilst visiting Doha, Qatar as part o"
       }
-    },
-    {
-      "id": "4f362c9c-1617-573e-9e85-b5caed30e2ed",
-      "slug": "2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben",
-      "url": "/kozelet/2026-11-10-orban-aront-is-letartoztattak-egy-nagy-embercsempesz-halozat-ugyeben/",
-      "title": "Embercsempészés gyanújával őrizetbe vették Orbán Áront",
-      "lead": "Embercsempészés és befolyással üzérkedés gyanújával vette őrizetbe a rendőrség Orbán Áront és három társát. A hatóságok szerint a gyanúsítottak több mint száz vietnámi állampolgár Nyugat-Európába juttatásában működtek közre.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T09:00:32+01:00",
-      "published_at": "2026-11-10T09:00:32+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.94,
-      "tags": [
-        "bűnügy",
-        "embercsempészés",
-        "Orbán Áron",
-        "rendőrség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hungarian_Police_HQ.JPG/1280px-Hungarian_Police_HQ.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Országos Rendőr-főkapitányság Magyarország, Budapest, XIII. Teve u. 1"
-      }
     }
   ],
-  "updated_at": "2026-11-18T07:57:54+01:00"
+  "updated_at": "2026-11-18T07:59:43+01:00"
 }
