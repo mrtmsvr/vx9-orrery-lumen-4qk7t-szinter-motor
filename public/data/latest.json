@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "7843841f-8050-5926-96d5-e1cc239537f8",
+      "slug": "2026-11-18-hayden-panettiere-halalos-agyaval-hirdetik-ujra-azt-az-airbnb-t-ahol",
+      "url": "/bulvar/2026-11-18-hayden-panettiere-halalos-agyaval-hirdetik-ujra-azt-az-airbnb-t-ahol/",
+      "title": "Hayden Panettiere halálos ágyával hirdetik újra azt az Airbnb-t, ahol meghalt",
+      "lead": "Néhány hónappal Hayden Panettiere tragikus halála után újra foglalható az a dél-karolinai Airbnb-lakás, ahol a színésznő augusztusban elhunyt. A hirdetés fotóin az a kihúzható kanapé is kivehető, amelyen a sztár az utolsó éjszakáját tölthette.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T15:59:32+01:00",
+      "published_at": "2026-11-18T15:59:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Hayden Panettiere",
+        "Airbnb",
+        "Greenville",
+        "Tragédia"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hayden_Panettiere_2009_%28Straighten_Crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1561,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Hayden Panettiere attending \"The 6th Annual Hollywood Style Awards\" at the Beverly Hills Hilton in Beverly Hills on Oct. 10, 2009 - Photo by Glenn Francis of PacificProDigital.com"
+      }
+    },
+    {
       "id": "bad10ba8-0cb9-5a3f-a6db-f5b98c123dd3",
       "slug": "2026-11-18-januartol-elesedik-radnai-mark-uj-politikai-fuggetlenseget-igero-inte",
       "url": "/kozelet/2026-11-18-januartol-elesedik-radnai-mark-uj-politikai-fuggetlenseget-igero-inte/",
@@ -4413,37 +4442,7 @@
         "pos": "center",
         "alt": "A Magyar Posta épülete Héderváron."
       }
-    },
-    {
-      "id": "bc8745e1-59b2-5371-9647-10ad60b30753",
-      "slug": "2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug",
-      "url": "/kozelet/2026-11-10-nem-az-en-kompetenciam-igy-reagalt-tarr-zoltan-a-tevesen-listazott-ug/",
-      "title": "Nem az én kompetenciám – így reagált Tarr Zoltán a tévesen listázott ügynökökre",
-      "lead": "Személyesen semmilyen felelősséget nem érez a tévesen nyilvánosságra hozott ügynökakták miatt Tarr Zoltán társadalmi kapcsolatokért és kultúráért felelős miniszter. A politikus a Telex.hu műsorában reagált azokra a bírálatokra, amelyek a listán szereplő hibás adatok miatt érték a kormányt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T14:46:50+01:00",
-      "published_at": "2026-11-10T14:46:50+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "Tarr Zoltán",
-        "ügynökakták",
-        "Telex",
-        "ABTL",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-56ac783341.jpg",
-        "kind": "photo",
-        "alt": "\"Személyesen semmilyen felelősséget nem érzek\"",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-18T15:38:53+01:00"
+  "updated_at": "2026-11-18T15:59:35+01:00"
 }
