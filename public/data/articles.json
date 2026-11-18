@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T15:59:32+01:00",
+  "updated_at": "2026-11-18T16:14:41+01:00",
   "articles": [
+    {
+      "id": "050f5965-4e87-5754-a40f-ca9f0201da4d",
+      "slug": "2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Németország",
+        "Friedrich Merz",
+        "energiaválság",
+        "gazdaság"
+      ],
+      "title": "Rezsirobbanás: ársapkával és adócsökkentéssel menti meg a németeket Merz",
+      "subtitle": null,
+      "lead": "A német kormánykoalíció maratoni tárgyalássorozatot követően döntött az energiaárak mérsékléséről, hogy tehermentesítse a lakosságot és a vállalkozásokat. Az intézkedéscsomag célja, hogy kezelje az Irán elleni háború okozta drasztikus energiaár-emelkedés hatásait.",
+      "key_points": [
+        "Friedrich Merz kancellár kormánya januártól jelentősen csökkenti a villamosenergia-adót.",
+        "Ideiglenes üzemanyagár-plafon lép életbe a lakosság és a cégek védelmében.",
+        "A lépésre a Hormuzi-szoros akadozó olajszállításai miatt kialakult drágulás miatt volt szükség.",
+        "Egy átlagos német háztartás éves szinten nagyjából 50 eurót takaríthat meg az áramadó-csökkentéssel."
+      ],
+      "content": "Friedrich Merz kancellár vezetésével egész éjszakás, maratoni egyeztetést tartott a német kormánykoalíció, amelynek eredményeként a konzervatív CDU/CSU pártszövetség és a balközép szociáldemokraták (SPD) megegyezésre jutottak az energiaárak letörését célzó intézkedésekről. A kabinet döntése azért vált sürgetővé, mert az Egyesült Államok és Izrael Irán elleni háborújának kirobbanása, valamint a Hormuzi-szoroson áthaladó olaj- és gázszállítmányok akadozása miatt Németországban is drasztikusan megugrottak az energiaköltségek. A koalíción belül korábban komoly feszültséget okozó viták – a nyugdíjrendszertől az egészségügyi reformokig – ellenére a feleknek sikerült dűlőre jutniuk a lakosság és a vállalkozások terheinek enyhítéséről.\n\nA közzétett részletek alapján a villamosenergia-adó csökkentése januártól decemberig, teljes egészében az elkövetkező évre lép életbe. A lakossági fogyasztók esetében az adó mértéke kilowattóránként nagyjából két centtel, a minimális 0,1 centre esik vissza. A Német energia- és vízügyi szövetség (BDEW) adatai szerint egy átlagos német háztartás tavaly nagyjából 2400 kilowattóra áramot fogyasztott, ami azt jelenti, hogy ez az intézkedés éves szinten mintegy 50 eurós megtakarítást eredményez a családok számára. A vállalkozások ennél is nagyobb könnyítésre számíthatnak: a kormányzati kalkulációk szerint egy átlagos fodrászszalon évente több száz, míg egy szupermarket akár több ezer eurót is megspórolhat a villanyszámláján.\n\nA kormány már a tavalyi hivatalba lépésekor ígéretet tett a háztartások áramadójának mérséklésére, ám a finanszírozási viták miatt ezt a kedvezményt eddig kizárólag bizonyos nehézipari ágazatok számára vezették be. A most elfogadott csomag másik elemeként ideiglenes árplafont vezetnek be az üzemanyagokra, ami a jelenleg érvényben lévő, ám az idei év végén kifutó támogatásokat váltja fel. A kabinet hivatalos közleménye hangsúlyozza, hogy az üzemanyagár-plafon kifejezetten a jelenlegi krízis kezelésére szolgál, így az a jövőben nem válik állandó intézkedéssé.",
+      "content_format": "markdown",
+      "body": [
+        "Friedrich Merz kancellár vezetésével egész éjszakás, maratoni egyeztetést tartott a német kormánykoalíció, amelynek eredményeként a konzervatív CDU/CSU pártszövetség és a balközép szociáldemokraták (SPD) megegyezésre jutottak az energiaárak letörését célzó intézkedésekről. A kabinet döntése azért vált sürgetővé, mert az Egyesült Államok és Izrael Irán elleni háborújának kirobbanása, valamint a Hormuzi-szoroson áthaladó olaj- és gázszállítmányok akadozása miatt Németországban is drasztikusan megugrottak az energiaköltségek. A koalíción belül korábban komoly feszültséget okozó viták – a nyugdíjrendszertől az egészségügyi reformokig – ellenére a feleknek sikerült dűlőre jutniuk a lakosság és a vállalkozások terheinek enyhítéséről.",
+        "A közzétett részletek alapján a villamosenergia-adó csökkentése januártól decemberig, teljes egészében az elkövetkező évre lép életbe. A lakossági fogyasztók esetében az adó mértéke kilowattóránként nagyjából két centtel, a minimális 0,1 centre esik vissza. A Német energia- és vízügyi szövetség (BDEW) adatai szerint egy átlagos német háztartás tavaly nagyjából 2400 kilowattóra áramot fogyasztott, ami azt jelenti, hogy ez az intézkedés éves szinten mintegy 50 eurós megtakarítást eredményez a családok számára. A vállalkozások ennél is nagyobb könnyítésre számíthatnak: a kormányzati kalkulációk szerint egy átlagos fodrászszalon évente több száz, míg egy szupermarket akár több ezer eurót is megspórolhat a villanyszámláján.",
+        "A kormány már a tavalyi hivatalba lépésekor ígéretet tett a háztartások áramadójának mérséklésére, ám a finanszírozási viták miatt ezt a kedvezményt eddig kizárólag bizonyos nehézipari ágazatok számára vezették be. A most elfogadott csomag másik elemeként ideiglenes árplafont vezetnek be az üzemanyagokra, ami a jelenleg érvényben lévő, ám az idei év végén kifutó támogatásokat váltja fel. A kabinet hivatalos közleménye hangsúlyozza, hogy az üzemanyagár-plafon kifejezetten a jelenlegi krízis kezelésére szolgál, így az a jövőben nem válik állandó intézkedéssé."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 297,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1675,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+        "credit": "Steffen Prößdorf / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+        "exact": true,
+        "entity": "Friedrich Merz",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.portfolio.hu/gazdasag/20261118/jon-az-uzemanyagarstop-europa-legnagyobb-gazdasagaban-rendkivuli-dontest-hozott-a-kormany-877446",
+          "title": "Jön az üzemanyagárstop Európa legnagyobb gazdaságában – Rendkívüli döntést hozott a kormány",
+          "publisher": "portfolio.hu",
+          "license": null,
+          "accessed_at": "2026-11-18T16:12:18+01:00"
+        }
+      ],
+      "quote": {
+        "text": "kifizetődtek az intenzív tárgyalások, a kormány pedig teljesíti az árak csökkentésére tett ígéretét, aminek hatását különösen a családok és a kisvállalkozások érzik majd meg.",
+        "who": "Friedrich Merz német kancellár",
+        "after": 0
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-18T16:14:41+01:00"
+      },
+      "hot_score": 12,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.portfolio.hu/gazdasag/20261118/jon-az-uzemanyagarstop-europa-legnagyobb-gazdasagaban-rendkivuli-dontest-hozott-a-kormany-877446"
+        ]
+      },
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "url": "/vilag/2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me/",
+      "seo": {
+        "meta_title": "Rezsirobbanás: ársapkával és adócsökkentéssel menti meg a né",
+        "meta_description": "A német kormánykoalíció maratoni tárgyalássorozatot követően döntött az energiaárak mérsékléséről, hogy tehermentesítse a lakosságot és a vállalkozásokat. Az in",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "f06ca6d4-1c12-5053-a2e1-59790f8cbbff",
+        "614e7fc3-2b84-59e1-8dc9-d2b32b411492",
+        "5358ebe4-2b75-55f2-8282-d2d7d765d3b0"
+      ],
+      "see_also": [
+        {
+          "title": "Rendőrsorfalat törtek át a Z generáció tüntetői Berlinben",
+          "url": "/vilag/2026-11-15-rendorsorfalat-tortek-at-a-z-generacio-tuntetoi-berlinben/",
+          "date": "2026-11-15"
+        },
+        {
+          "title": "Megtörhet a férfiak egyeduralma a német elnöki székben",
+          "url": "/vilag/2026-11-03-megtorhet-a-ferfiak-egyeduralma-a-nemet-elnoki-szekben/",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "Új Jaltát követel Putyin, miközben Európa is asztalhoz ülne Ukrajnáról",
+          "url": "/vilag/2026-11-13-uj-jaltat-kovetel-putyin-mikozben-europa-is-asztalhoz-ulne-ukrajnarol/",
+          "date": "2026-11-13"
+        }
+      ],
+      "thread_id": "f06ca6d4-1c12-5053-a2e1-59790f8cbbff",
+      "dedupe_hash": "1e5af56e3614bded18094618068c858601e95ac04665a76929149b73f1236625",
+      "pipeline_run_id": "44325873381",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-18T16:14:41+01:00",
+      "updated_at": "2026-11-18T16:14:41+01:00",
+      "published_at": "2026-11-18T16:14:41+01:00",
+      "expires_at": null
+    },
     {
       "id": "7843841f-8050-5926-96d5-e1cc239537f8",
       "slug": "2026-11-18-hayden-panettiere-halalos-agyaval-hirdetik-ujra-azt-az-airbnb-t-ahol",
@@ -76428,112 +76553,6 @@
       "created_at": "2026-10-17T16:27:46+02:00",
       "updated_at": "2026-10-18T11:41:51+00:00",
       "published_at": "2026-10-17T16:27:46+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "d15cd546-bbf8-5ebe-aed4-a0ba9e398fde",
-      "slug": "2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jovo",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "tejtermelés",
-        "mezőgazdaság",
-        "Európai Unió",
-        "élelmiszerár",
-        "gazdaság"
-      ],
-      "title": "Tejpiaci válság: csökkenő európai állomány és bizonytalan jövő",
-      "subtitle": null,
-      "lead": "Drasztikus kínálatcsökkenés fenyegeti az ötvenmilliárd literes európai tejpiacot, miközben Magyarországon a termelői árak zuhanása taszította nehéz helyzetbe a gazdákat. A strukturális változások és a szigorodó környezetvédelmi előírások alapjaiban írják át a kontinentális tejágazat működését.",
-      "key_points": [
-        "Akár 18 százalékkal is zsugorodhat a tejhasznú tehénállomány az Európai Unióban 2035-ig.",
-        "Hollandiában és Írországban a nitrát- és ammóniakibocsátási szabályok nehezítik érdemben a termelést."
-      ],
-      "content": "Az Európai Unió tejkínálata közel öt százalékkal mérséklődhet 2025 és 2035 között, miközben a tejhasznú tehénállomány 18 százalékos csökkenése várható. Az Európai Bizottság Közös Kutatóközpontjának és a Mezőgazdasági és Vidékfejlesztési Főigazgatóságának szakértői workshopja szerint a szűkülő kínálat és a viszonylag stabil kereslet hatására a tej termelői ára a következő évtizedben akár 30 százalékkal is emelkedhet.\n\nAz európai tejágazat folyamatait a csökkenő állomány és az egy állatra jutó tejhozam növekedése jellemzi. Hollandiában és Írországban a nitrát-, foszfát- és ammóniakibocsátási előírások jelentősen visszavetik a termelést: a holland gazdaságoknál a trágyakezelés szabályozási költségei literenként 3–4 eurócenttel drágíthatják az előállítást, ami 11–15 forintos literenkénti többletköltséget jelent.\n\nA hosszú távú európai tendenciák Magyarországon is egyre markánsabban mutatkoznak meg. Az MBH Bank, valamint a Tej Szakmaközi Szervezet és Terméktanács helyzetértékelése szerint az egy tehénre jutó tejtermelés csaknem 8 százalékkal emelkedett.\n\nA javuló termelékenység egyelőre nem eredményezett magasabb jövedelmet a gazdálkodóknak, mivel a zuhanó felvásárlási árak miatt az egy tehénre jutó tejárbevétel mintegy 20 százalékkal esett vissza, így sok gazdaságban a termelési költségek már nem fedezik a kiadásokat.\n\nA hazai feldolgozók által felvásárolt tej mennyisége 4,6 százalékkal mérséklődött.",
-      "content_format": "markdown",
-      "body": [
-        "Az Európai Unió tejkínálata közel öt százalékkal mérséklődhet 2025 és 2035 között, miközben a tejhasznú tehénállomány 18 százalékos csökkenése várható. Az Európai Bizottság Közös Kutatóközpontjának és a Mezőgazdasági és Vidékfejlesztési Főigazgatóságának szakértői workshopja szerint a szűkülő kínálat és a viszonylag stabil kereslet hatására a tej termelői ára a következő évtizedben akár 30 százalékkal is emelkedhet.",
-        "Az európai tejágazat folyamatait a csökkenő állomány és az egy állatra jutó tejhozam növekedése jellemzi. Hollandiában és Írországban a nitrát-, foszfát- és ammóniakibocsátási előírások jelentősen visszavetik a termelést: a holland gazdaságoknál a trágyakezelés szabályozási költségei literenként 3–4 eurócenttel drágíthatják az előállítást, ami 11–15 forintos literenkénti többletköltséget jelent.",
-        "A hosszú távú európai tendenciák Magyarországon is egyre markánsabban mutatkoznak meg. Az MBH Bank, valamint a Tej Szakmaközi Szervezet és Terméktanács helyzetértékelése szerint az egy tehénre jutó tejtermelés csaknem 8 százalékkal emelkedett.",
-        "A javuló termelékenység egyelőre nem eredményezett magasabb jövedelmet a gazdálkodóknak, mivel a zuhanó felvásárlási árak miatt az egy tehénre jutó tejárbevétel mintegy 20 százalékkal esett vissza, így sok gazdaságban a termelési költségek már nem fedezik a kiadásokat.",
-        "A hazai feldolgozók által felvásárolt tej mennyisége 4,6 százalékkal mérséklődött."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 220,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Dairy_cattle_in_Nova_Scotia.jpg/1280px-Dairy_cattle_in_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Holstein dairy cattle grazing near Pictou, Nova Scotia",
-        "credit": "Quintin Soloviev / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Dairy_cattle_in_Nova_Scotia.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://www.portfolio.hu/gazdasag/20261017/ennyi-gond-egyszerre-meg-nem-nagyon-volt-a-vilagban-aggodnunk-kellene-869930",
-          "title": "Ennyi gond egyszerre még nem nagyon volt a világban - Aggódnunk kellene?",
-          "publisher": "portfolio.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T15:02:49+02:00"
-        },
-        {
-          "url": "https://www.vg.hu/agrar/2026/10/tej-tejar-arcsokkenes-dragulas-tehenallomany?utm_source=hirstart&utm_medium=referral&utm_campaign=hiraggregator",
-          "title": "Durva árcsökkenés után, jelentősen drágulhat a tej: eltűnhet az európai tehenek közel ötöde – Magyarország különösen nehéz helyzetben van",
-          "publisher": "vg.hu",
-          "license": null,
-          "accessed_at": "2026-10-17T15:02:49+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-17T16:07:41+02:00"
-      },
-      "hot_score": 6.53,
-      "clickbait_from": 2,
-      "category_meta": {
-        "source_links": [
-          "https://www.portfolio.hu/gazdasag/20261017/ennyi-gond-egyszerre-meg-nem-nagyon-volt-a-vilagban-aggodnunk-kellene-869930"
-        ]
-      },
-      "date": "2026-10-17",
-      "date_label": "október 17.",
-      "url": "/vilag/2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jovo/",
-      "seo": {
-        "meta_title": "Tejpiaci válság: csökkenő európai állomány és bizonytalan jö",
-        "meta_description": "Drasztikus kínálatcsökkenés fenyegeti az ötvenmilliárd literes európai tejpiacot, miközben Magyarországon a termelői árak zuhanása taszította nehéz helyzetbe a ",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jovo/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Dairy_cattle_in_Nova_Scotia.jpg/1280px-Dairy_cattle_in_Nova_Scotia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "6c122c7b1e110eda6bdbe83cf0c66cd1dfbf6ab4c9f4ef9d2dc7123ef2f6e028",
-      "pipeline_run_id": "39032691807",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-17T16:07:41+02:00",
-      "updated_at": "2026-10-18T11:41:51+00:00",
-      "published_at": "2026-10-17T16:07:41+02:00",
       "expires_at": null
     }
   ]

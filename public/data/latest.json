@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "050f5965-4e87-5754-a40f-ca9f0201da4d",
+      "slug": "2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me",
+      "url": "/vilag/2026-11-18-rezsirobbanas-arsapkaval-es-adocsokkentessel-menti-meg-a-nemeteket-me/",
+      "title": "Rezsirobbanás: ársapkával és adócsökkentéssel menti meg a németeket Merz",
+      "lead": "A német kormánykoalíció maratoni tárgyalássorozatot követően döntött az energiaárak mérsékléséről, hogy tehermentesítse a lakosságot és a vállalkozásokat. Az intézkedéscsomag célja, hogy kezelje az Irán elleni háború okozta drasztikus energiaár-emelkedés hatásait.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T16:14:41+01:00",
+      "published_at": "2026-11-18T16:14:41+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Németország",
+        "Friedrich Merz",
+        "energiaválság",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1675,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)"
+      }
+    },
+    {
       "id": "7843841f-8050-5926-96d5-e1cc239537f8",
       "slug": "2026-11-18-hayden-panettiere-halalos-agyaval-hirdetik-ujra-azt-az-airbnb-t-ahol",
       "url": "/bulvar/2026-11-18-hayden-panettiere-halalos-agyaval-hirdetik-ujra-azt-az-airbnb-t-ahol/",
@@ -4413,36 +4442,7 @@
         "pos": "center",
         "alt": ": Budapest Bar Association (Lawyer's Chamber, Est. 1875) and Hungarian Bar Association sign. - 7 Szalay street, Lipótváros neighbourhood, District V, Budapest."
       }
-    },
-    {
-      "id": "fcc2117d-7f3c-56b8-9c1f-df63299b5f69",
-      "slug": "2026-11-10-november-vegeig-kezbesitik-az-50-ezres-iskolakezdesi-tamogatast",
-      "url": "/kozelet/2026-11-10-november-vegeig-kezbesitik-az-50-ezres-iskolakezdesi-tamogatast/",
-      "title": "November végéig kézbesítik az 50 ezres iskolakezdési támogatást",
-      "lead": "Megkezdte a Magyar Posta Zrt. az iskolakezdési támogatás második, 50 ezer forintos részletének kézbesítését. A november 30-ig tartó postázás közel 417 ezer jogosultat érint országszerte.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T18:19:30+01:00",
-      "published_at": "2026-11-10T18:19:30+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.05,
-      "tags": [
-        "iskolakezdési támogatás",
-        "Magyar Posta",
-        "Lannert Judit",
-        "családtámogatás"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Magyar_Posta_%C3%A9p%C3%BClete01_-_H%C3%A9derv%C3%A1r.JPG/1280px-Magyar_Posta_%C3%A9p%C3%BClete01_-_H%C3%A9derv%C3%A1r.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 890,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A Magyar Posta épülete Héderváron."
-      }
     }
   ],
-  "updated_at": "2026-11-18T15:59:35+01:00"
+  "updated_at": "2026-11-18T16:14:43+01:00"
 }
