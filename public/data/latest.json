@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "dfd4cc53-31f5-55ea-884c-49d9018a06f4",
+      "slug": "2026-11-18-nevvaltas-es-berrendezes-atalakitja-a-katasztrofavedelmet-a-kormany",
+      "url": "/kozelet/2026-11-18-nevvaltas-es-berrendezes-atalakitja-a-katasztrofavedelmet-a-kormany/",
+      "title": "Névváltás és bérrendezés: átalakítja a katasztrófavédelmet a kormány",
+      "lead": "Januártól Országos Tűzoltó és Polgári Védelmi Parancsnokságra változik az Országos Katasztrófavédelmi Főigazgatóság neve. A kormány kedden benyújtott törvényjavaslata a hivatásos állomány bérét is rendezné, valamint kivezeti a vendégbefektetői vízumokat.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-18",
+      "date_label": "november 18.",
+      "created_at": "2026-11-18T21:21:12+01:00",
+      "published_at": "2026-11-18T21:21:12+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "katasztrófavédelem",
+        "törvényjavaslat",
+        "rendvédelem",
+        "Parlament",
+        "vendégbefektető"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg/1280px-Handshake_between_Michael_McGrath_and_Balint_Ruff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Commissioner of Democracy, Justice, the Rule of Law and Consumer Protection Michael McGrath is on a day mission to Hungary, Budapest on June 2, 2026. Meeting with Balint Ruff Minister of the Prime Min"
+      }
+    },
+    {
       "id": "4aa20854-117c-528b-8291-b4ef12c159e6",
       "slug": "2026-11-18-modernizacios-kudarc-3-2-milliard-forintos-buntetest-kapott-a-rheinme",
       "url": "/vilag/2026-11-18-modernizacios-kudarc-3-2-milliard-forintos-buntetest-kapott-a-rheinme/",
@@ -4412,37 +4442,7 @@
         "pos": "top",
         "alt": "Official portrait of Secretary of the Treasury, Scott Bessent"
       }
-    },
-    {
-      "id": "55ba4e92-9f66-5042-b294-c38c5f74035a",
-      "slug": "2026-11-10-kemkedes-miatt-tartoztattak-le-egy-amerikai-katonat-angliaban",
-      "url": "/vilag/2026-11-10-kemkedes-miatt-tartoztattak-le-egy-amerikai-katonat-angliaban/",
-      "title": "Kémkedés miatt tartóztattak le egy amerikai katonát Angliában",
-      "lead": "A brit terrorelhárítás és a Metropolitan Rendőrség őrizetbe vett egy 41 éves, az amerikai hadsereg kötelékébe tartozó magas rangú katonát az angliai Gloucester közelében. A férfit a gyanú szerint az orosz hírszerzés segítésével, valamint védett információk megszerzésével és nyilvánosságra hozatalával terhelik.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-10",
-      "date_label": "november 10.",
-      "created_at": "2026-11-10T22:47:14+01:00",
-      "published_at": "2026-11-10T22:47:14+01:00",
-      "reading_time_min": 3,
-      "hot_score": 11.39,
-      "tags": [
-        "kémkedés",
-        "Egyesült Királyság",
-        "Egyesült Államok",
-        "FBI",
-        "orosz-ukrán háború"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Federal_Bureau_of_Investigation_%28FBI%29_Minneapolis_Division_Field_Office_%2848343597171%29.jpg/1280px-Federal_Bureau_of_Investigation_%28FBI%29_Minneapolis_Division_Field_Office_%2848343597171%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 807,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Federal Bureau of Investigation (FBI) field office, Minneapolis Division, at 1501 Freeway Boulevard in Brooklyn Center, Minnesota."
-      }
     }
   ],
-  "updated_at": "2026-11-18T20:31:48+01:00"
+  "updated_at": "2026-11-18T21:21:14+01:00"
 }
