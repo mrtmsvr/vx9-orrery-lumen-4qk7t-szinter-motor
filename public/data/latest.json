@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a738a0f8-02e6-5171-bee1-dd7dde80f7d3",
+      "slug": "2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-korhazi-varo",
+      "url": "/kozelet/2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-korhazi-varo/",
+      "title": "30 százalékos prémiummal tüntetné el a kormány a hírhedt kórházi várólistákat",
+      "lead": "Új programmal veszi fel a harcot a kormány a hónapok óta húzódó műtéti várakozási időkkel, különös tekintettel a csípő- és térdprotézisekre. A Magyar Közlönyben megjelent részletek szerint a kórházak az alapfinanszírozás 130 százalékát kapják a várólistáról elvégzett beavatkozásokért.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T08:02:27+01:00",
+      "published_at": "2026-11-19T08:02:27+01:00",
+      "reading_time_min": 3,
+      "hot_score": 9.69,
+      "tags": [
+        "egészségügy",
+        "várólista",
+        "kórház",
+        "Magyar Közlöny",
+        "kormány"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Operating_theatre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 901,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Photo shows an operating theatre."
+      }
+    },
+    {
       "id": "bd39b0d1-8679-509b-b317-58f85f70de34",
       "slug": "2026-11-19-hegedus-zsolt-rendreutasitotta-a-miniszterelnok-intim-multjan-lovaglo",
       "url": "/kozelet/2026-11-19-hegedus-zsolt-rendreutasitotta-a-miniszterelnok-intim-multjan-lovaglo/",
@@ -4413,36 +4443,7 @@
         "pos": "center",
         "alt": "Абу-Даби (Abu Dhabi)"
       }
-    },
-    {
-      "id": "769189e5-b047-58c9-9975-ea623be17335",
-      "slug": "2026-11-11-negy-szazalek-vagy-tizennegy-szamhaboru-a-minimalber-korul",
-      "url": "/penzvilag/2026-11-11-negy-szazalek-vagy-tizennegy-szamhaboru-a-minimalber-korul/",
-      "title": "Négy százalék vagy tizennégy? Számháború a minimálbér körül",
-      "lead": "Bár közeledtek a munkavállalói és a munkáltatói álláspontok a Versenyszféra és a Kormány Állandó Konzultációs Fórumának ülésén, megállapodás még nem született. A felek a jövő évi minimálbérről és a garantált bérminimumról tárgyalnak.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T08:01:36+01:00",
-      "published_at": "2026-11-11T08:01:36+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.11,
-      "tags": [
-        "minimálbér",
-        "bértárgyalás",
-        "gazdaság",
-        "szakszervezet",
-        "kormány"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/0f094974697c91ef.jpg",
-        "width": 4928,
-        "height": 3264,
-        "kind": "photo",
-        "alt": "calculator, hand, calculate, to count, add, taxes, expenses, pen, office, calculator, calculator, calculator, calculator, calculator, taxes, expenses, expenses"
-      }
     }
   ],
-  "updated_at": "2026-11-19T08:00:05+01:00"
+  "updated_at": "2026-11-19T08:02:29+01:00"
 }
