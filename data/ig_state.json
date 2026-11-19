@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "6835079191",
-      "art_id": "2a8676a8-9551-50d3-a50a-3df400c4dc72",
-      "title": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre",
-      "url": "/kozelet/2026-10-16-czibere-karoly-nem-kaptunk-eleg-penzt-a-gyermekvedelemre/",
-      "card": "public/img/ig/2026-10-16-czibere-karoly-nem-kaptunk-eleg-penzt-a-gyermekvedelemre.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-czibere-karoly-nem-kaptunk-eleg-penzt-a-gyermekvedelemre.jpg",
-      "caption": "Czibere Károly: Nem kaptunk elég pénzt a gyermekvédelemre\n\nCzibere Károly korábbi szociális államtitkár szerint a Fidesz-kormány is felelős a bicskei gyermekotthonban történt visszaélésekért, mert nem biztosított elegendő forrást és megfelelő szabályozást a területnek. Az állításra a Szociális és Családügyi Minisztérium és a Fidesz-frakció is reagált, kibontakoztatva a felelősség körüli vitát.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#bicskeigyermekotthon #cziberekároly #gyermekvédelem #hírek #kollektíva",
-      "created": "2026-10-16T08:12:21+02:00",
-      "due": "2026-10-16T08:57:21+02:00",
-      "status": "failed",
-      "tg": [
-        6621,
-        6622
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "580c3cedd8",
       "art_id": "a61dd35f-95ab-516e-a241-4f67e6177d56",
       "title": "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor",
@@ -3583,18 +3566,33 @@
       "container": "18139828969718522",
       "media_id": "17918921463497407",
       "posted": "2026-11-19T09:09:38+01:00"
+    },
+    {
+      "id": "8cfe72a559",
+      "art_id": "a738a0f8-02e6-5171-bee1-dd7dde80f7d3",
+      "title": "30 százalékos prémiummal tüntetné el a kormány a hírhedt kórházi várólistákat",
+      "url": "/kozelet/2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-korhazi-varo/",
+      "card": "public/img/ig/2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-ko.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-ko.jpg",
+      "caption": "30 százalékos prémiummal tüntetné el a kormány a hírhedt kórházi várólistákat\n\nÚj programmal veszi fel a harcot a kormány a hónapok óta húzódó műtéti várakozási időkkel, különös tekintettel a csípő- és térdprotézisekre. A Magyar Közlönyben megjelent részletek szerint a kórházak az alapfinanszírozás 130 százalékát kapják a várólistáról elvégzett beavatkozásokért.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#egészségügy #várólista #belföld #hírek #magyarország",
+      "created": "2026-11-19T11:06:59+01:00",
+      "due": "2026-11-19T11:51:59+01:00",
+      "status": "queued",
+      "tg": [
+        10530
+      ]
     }
   ],
   "token": {
     "from": "869d20647902",
     "first_seen": "2026-10-06T22:54:59+02:00",
-    "checked": "2026-11-12T10:42:41+01:00",
+    "checked": "2026-11-19T11:06:59+01:00",
     "box": {
-      "n": "6mEuBRp1p8YFbcR7wlzReA==",
-      "c": "fmUOhNsl8OtJSUaEoxSANjwr8KLN0Pienle7/prXa5WPLIYqkOddu44pt3zQ0HWo+jIbEVzL4GXVNSKxLtHpM0F1hPDRv6UcvfPR3Ac8LcOZjFt0whxBNMFSEtsuBKz61aEbfgfLNw4RCeATsXfZ34OC/zuSok4ZSRHkgkVdbEgNlm41UlUVUIEGPaKhBN/nkg0HN6s17M+REoxEFhWr",
-      "m": "fcc03e4607d0347b1ab2028c05dc23ef1766eeac1c9a8138276f413c4f20a4c6"
+      "n": "0RKEyLPz8vL9KjUfkfua4g==",
+      "c": "Gh0vdzXlUyLG/WmYK1NBfd6y1lqukNUD1Oba52xWLhEltrFDS5oVkptQkTQ+FhKs7ti0+MY+Z/g2xko4uYdOxFyJhk10WFR25iWMceX3R2wTAp4l+R6/B9ASPGyXbGIN585AA8o8UihGicNCU5pWnLWHzVx7IKUe8N2Pzj/FoiThiBHLKJuWvLVEasxkCFSgzd/6YEy2q+fTIQb/D1a74w==",
+      "m": "0321a40045ba6dfaa3629db438dda7fb189779857df2158196696885e7fd3244"
     },
-    "expires": "2027-01-11T10:42:41+01:00"
+    "expires": "2027-01-18T11:06:58+01:00"
   },
   "uid": "17841421555639801"
 }
