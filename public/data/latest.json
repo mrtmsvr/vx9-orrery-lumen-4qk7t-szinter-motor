@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "defc45f2-b4fb-5f8f-95d9-350f19a36691",
+      "slug": "2026-11-19-hamuval-teritettek-be-az-eu-egeszsegugyi-biztosat-egy-konferencian",
+      "url": "/kozelet/2026-11-19-hamuval-teritettek-be-az-eu-egeszsegugyi-biztosat-egy-konferencian/",
+      "title": "Hamuval terítették be az EU egészségügyi biztosát egy konferencián",
+      "lead": "Aktivisták közelítették meg és szórták le hamuval Várhelyi Olivér egészségügyi biztost egy rákkutatási konferencián. Az akcióval a növényvédőszerek szabályozását enyhítő uniós javaslat ellen tiltakoztak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T18:49:07+01:00",
+      "published_at": "2026-11-19T18:49:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.08,
+      "tags": [
+        "Várhelyi Olivér",
+        "Európai Bizottság",
+        "tüntetés",
+        "egészségügy",
+        "növényvédőszerek"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/P060002-42133_%28cropped%29.jpg/1280px-P060002-42133_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1517,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Olivér Várhelyi"
+      }
+    },
+    {
       "id": "360c4a30-c7db-570b-b344-dc7a6294abf2",
       "slug": "2026-11-19-huszonnegy-eves-peceli-fenyo-disziti-majd-az-orszaghazat",
       "url": "/kozelet/2026-11-19-huszonnegy-eves-peceli-fenyo-disziti-majd-az-orszaghazat/",
@@ -4414,37 +4444,7 @@
         "pos": "top",
         "alt": "Official Presidential Portrait of President Donald J. Trump in his second term"
       }
-    },
-    {
-      "id": "02d3e9b5-5d44-5d95-a60d-22fa1bc2b7ac",
-      "slug": "2026-11-11-halalos-tomegkarambol-benitja-a-3-as-foutat-godollonel",
-      "url": "/kozelet/2026-11-11-halalos-tomegkarambol-benitja-a-3-as-foutat-godollonel/",
-      "title": "Halálos tömegkarambol bénítja a 3-as főutat Gödöllőnél",
-      "lead": "Öt gépjármű és egy szalagkorlátnak csapódó személyautó ütközött össze szerda kora reggel a 3-as főúton, Gödöllő térségében. A tragikus ráfutásos karambol miatt a katasztrófavédelem és a rendőrség teljes útlezárást rendelt el az érintett szakaszon.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T12:56:04+01:00",
-      "published_at": "2026-11-11T12:56:04+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.52,
-      "tags": [
-        "baleset",
-        "Gödöllő",
-        "3-as főút",
-        "útlezárás",
-        "katasztrófavédelem"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Car_on_Fire.jpg/1280px-Car_on_Fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 797,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Car on Fire"
-      }
     }
   ],
-  "updated_at": "2026-11-19T18:45:16+01:00"
+  "updated_at": "2026-11-19T18:49:09+01:00"
 }
