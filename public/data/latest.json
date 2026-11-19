@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4525ac25-f046-5b2d-9d13-63d3184a3ff5",
+      "slug": "2026-11-19-valodi-butorokbol-es-diszletekbol-elesztettek-ujja-a-macskafogo-vilag",
+      "url": "/kultura/2026-11-19-valodi-butorokbol-es-diszletekbol-elesztettek-ujja-a-macskafogo-vilag/",
+      "title": "Valódi bútorokból és díszletekből élesztették újjá a Macskafogó világát",
+      "lead": "Valódi bútorokból, egyedi kellékekből és kézműves megoldásokkal élesztették újjá a negyvenéves Macskafogó világát. A Partizán videójában a háttéruniverzum megalkotásának részleteibe is beavatják a nézőket.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T18:19:36+01:00",
+      "published_at": "2026-11-19T18:19:36+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Macskafogó",
+        "Partizán",
+        "díszlet",
+        "kulturális ajánló",
+        "film"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-cbaafbe766.jpg",
+        "kind": "photo",
+        "alt": "Így kelt életre Mr. Teufel dolgozószobája | MACSKAFOGÓ 40",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "4dba3f19-2c2c-5e74-926f-7ff6769889e9",
       "slug": "2026-11-19-szazeves-jeg-a-varosligetben-penteken-nyit-a-mujeg",
       "url": "/kultura/2026-11-19-szazeves-jeg-a-varosligetben-penteken-nyit-a-mujeg/",
@@ -4416,35 +4446,7 @@
         "pos": "center",
         "alt": "Berlin Cityscape seen from Victory Column"
       }
-    },
-    {
-      "id": "8bee51da-975d-5a4d-b2f1-8c8a98452dc8",
-      "slug": "2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe",
-      "url": "/kozelet/2026-11-11-hanko-balazs-a-racsok-mogott-tolti-a-karacsonyt-az-nka-milliok-ugyebe/",
-      "title": "Hankó Balázs a rácsok mögött tölti a karácsonyt az NKA-milliók ügyében",
-      "lead": "Másodfokon is elutasították Hankó Balázs volt kulturális és innovációs miniszter fellebbezését, így a politikus és korábbi államtitkára, Varga-Bajusz Veronika február 1-jéig letartóztatásban marad. A gyanú szerint a Nemzeti Kulturális Alap pénzeiből politikai kampányokat és magáncélokat finanszíroztak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T12:38:41+01:00",
-      "published_at": "2026-11-11T12:38:41+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Hankó Balázs",
-        "Varga-Bajusz Veronika",
-        "Nemzeti Kulturális Alap",
-        "letartóztatás",
-        "Kecskeméti Törvényszék"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-7ed7f42d54.jpg",
-        "kind": "photo",
-        "alt": "február 1. – eddig marad letartóztatásban a volt miniszter",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-19T17:05:00+01:00"
+  "updated_at": "2026-11-19T18:19:38+01:00"
 }
