@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "25373e5c-80c1-5e4f-8e16-572254b1c2c3",
+      "slug": "2026-11-19-igy-benitott-meg-tiz-napra-egy-ai-eszkoz-az-europai-bizottsagot",
+      "url": "/tech/2026-11-19-igy-benitott-meg-tiz-napra-egy-ai-eszkoz-az-europai-bizottsagot/",
+      "title": "Így bénított meg tíz napra egy AI-eszköz az Európai Bizottságot",
+      "lead": "Nyilvánosan elérhető mesterséges intelligenciát bevetve hajtottak végre kibertámadást az Európai Bizottság ellen, amely tíz napon keresztül okozott zavarokat a brüsszeli intézmény rendszereiben. Az incidens során a belső HR-platformok és a fordítószolgáltatások is akadoztak, miközben a hatóságok még vizsgálják az esetleges adatszivárgást.",
+      "category": "tech",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T12:53:54+01:00",
+      "published_at": "2026-11-19T12:53:54+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.86,
+      "tags": [
+        "Európai Bizottság",
+        "kibertámadás",
+        "mesterséges intelligencia",
+        "kiberbiztonság",
+        "Brüsszel"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg/1280px-Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 670,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Belgium - Brussels - Schuman - Berlaymont - Seat of the European Commission"
+      }
+    },
+    {
       "id": "1b86cf8d-e97e-53af-a23b-862acace1e4d",
       "slug": "2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga-is-terite",
       "url": "/kozelet/2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga-is-terite/",
@@ -4412,37 +4442,7 @@
         "alt": "Térkép: Budai Központi Kerületi Bíróság",
         "card": "map"
       }
-    },
-    {
-      "id": "a2125e19-b2d8-56e5-a525-f925a2c528c8",
-      "slug": "2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben",
-      "url": "/kozelet/2026-11-11-adathibak-es-politikai-adok-kapok-az-ugynokaktak-miatt-a-parlamentben/",
-      "title": "Adathibák és politikai adok-kapok az ügynökakták miatt a Parlamentben",
-      "lead": "Súlyos politikai vita bontakozott ki az Országgyűlésben az Állambiztonsági Szolgálatok Történeti Levéltára által nyilvánosságra hozott ügynökakták körüli adathibák miatt. Az ellenzék vizsgálóbizottságot követel, míg a kormánypártok visszautasítják a felelősséget.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T10:15:50+01:00",
-      "published_at": "2026-11-11T10:15:50+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "ügynökakták",
-        "Országgyűlés",
-        "ÁBTL",
-        "Magyar Péter",
-        "politikai vita"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra%2C_E%C3%B6tv%C3%B6s_utca%2C_2016%2C_Budapest.jpg/1280px-%C3%81llambiztons%C3%A1gi_Szolg%C3%A1latok_T%C3%B6rt%C3%A9neti_Lev%C3%A9lt%C3%A1ra%2C_E%C3%B6tv%C3%B6s_utca%2C_2016%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": ": Historical Archives of State Security Services building. - 7 Eötvös Street,  Budapest District VI. Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-19T12:04:11+01:00"
+  "updated_at": "2026-11-19T12:53:56+01:00"
 }
