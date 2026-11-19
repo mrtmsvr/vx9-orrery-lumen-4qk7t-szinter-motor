@@ -7990,7 +7990,7 @@
     {
       "id": "ca3fbfbe-dbf3-50b1-aa63-6bc67042d42b",
       "slug": "2026-11-19-a-vagta-ornagy-akirol-kevesebbet-tudunk-mint-hisszuk",
-      "status": "pending",
+      "status": "published",
       "category": "kultura",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -8195,9 +8195,9 @@
       "dedupe_hash": "c92a546c38eadf6946eee0c24dcbb231427c8c53acb74f25e12b22b000fd3c57",
       "pipeline_run_id": "44466749743",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-19T07:07:31+01:00",
-      "updated_at": "2026-11-19T07:07:31+01:00",
-      "published_at": null,
+      "created_at": "2026-11-19T09:33:35+01:00",
+      "updated_at": "2026-11-19T09:33:35+01:00",
+      "published_at": "2026-11-19T09:33:35+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-19T09:04:54+01:00",
@@ -8218,8 +8218,10 @@
         "lead": "Kevesen tudják, hogy a sportág első nemzetközi szupersztárja nehéz sorsú kispesti gyerekként kezdte pályáját, hogy aztán a futballtörténelem egyik legfényesebb karrierjét építse fel. Puskás Ferenc élete nemcsak gólok sorozata, hanem a huszadik század viharainak és a túlélésnek a krónikája is.",
         "ctl_photo": false,
         "control_id": 10518,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "90772a36-395a-5e3e-844b-c7b317314503",
@@ -9234,6 +9236,203 @@
         "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
       },
       "live": true
+    },
+    {
+      "id": "5b5ca419-5f65-54f4-bdc6-b1f70f3217a1",
+      "slug": "2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "kórházi várólisták",
+        "műtéti várakozási idő",
+        "csípőprotézis",
+        "térdprotézis",
+        "egészségügyi finanszírozás"
+      ],
+      "title": "Kórházi várólisták: prémiummal harcol a kormány a várakozási idő csökkentéséért",
+      "subtitle": null,
+      "lead": "A kormány új programmal veszi fel a harcot a csípő- és térdprotézis-műtétek hosszú várakozási idejével: a kórházak az alapfinanszírozás 130 százalékát kapják a beavatkozásokért, aminek 80 százalékát kötelezően a dolgozók díjazására kell fordítani. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi adatai szerint ez a két terület teszi ki a legalább fél éve húzódó esetek több mint 90 százalékát.",
+      "key_points": [
+        "A kormány új programot indított a hónapok óta húzódó műtéti várakozási idők csökkentésére, különös tekintettel a csípő- és térdprotézisekre.",
+        "A kórházak az alapfinanszírozás 130 százalékát kapják a hivatalos várólistáról elvégzett beavatkozásokért.",
+        "A többletfinanszírozás 80 százalékát kötelezően az ellátásban és a listák kezelésében dolgozók fizetésén felüli díjazására kell fordítani.",
+        "A NEAK 2026. júniusi statisztikái szerint csípőprotézisre közel 12 ezer, míg térdprotézisműtétre mintegy 23 ezer beteg várakozik.",
+        "A műtéteket elsősorban a megszokott munkaidőben, reggel 8 és délután 4 óra között, illetve egyes helyett 7 és 15 óra között végzik a műtők jobb kihasználásával."
+      ],
+      "content": "## Hogyan szorítja vissza a kormány a kórházi várólistákat?\n\nA várakozási idők visszaszorítása érdekében – a Magyar Közlönyben megjelent részletek szerint – a kormány új egészségügyi programot indított, amely kifejezetten a csípő- és térdprotézis-műtétekre fókuszál. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi statisztikái világosan mutatják, miért éppen erre a két területre irányul a figyelem: csípőprotézisre közel 12 ezer, míg térdprotézisműtétre mintegy 23 ezer beteg várakozik Magyarországon. A legalább fél éve húzódó esetek több mint 90 százalékát ugyanis ezek a beavatkozások teszik ki.\n\n## Mekkora prémiumot kapnak az érintettek az új programban?\n\nA kormányrendelet értelmében a kórházak az alapfinanszírozás 130 százalékára jogosultak a hivatalos várólistáról ütemezett csípő- és térdprotézis-műtétek után. Ez a pénzügyi ösztönző nemcsak az intézmények kasszáját gyarapítja, hanem közvetlenül a dolgozókat is eléri: a többletfinanszírozás 80 százalékát kötelezően az ellátásban és a listák kezelésében részt vevők díjazására kell fordítani. A munkavállalók ezt a pluszösszeget a szerződéses fizetésükön felül kapják meg.\n\n## Milyen munkarendben végzik a várólistás műtéteket?\n\nA beavatkozásokat elsősorban a megszokott munkaidőben hajtják végre – jellemzően reggel 8 és délután 4 óra között, míg egyes kórházakban 7 és 15 óra között –, ezzel is javítva a műtők kihasználtságát. Ahol korábban naponta 2-3 műtétet hajtottak végre rendes munkaidőben, ott mostantól akár napi négy beavatkozást is el tudnak végezni. Ahol a kapacitások engedik, délutánonként és kampányszerűen szombatonként is operálnak, éjszakára pedig kizárólag végső esetben terveznek beavatkozást.\n\n## Gyakori kérdések a várólisták csökkentéséről és a finanszírozásról\n\n- Milyen műtétekre vonatkozik a program? A kormányzati intézkedés kifejezetten a csípő- és térdprotézis-műtétekre fókuszál.\n- Mennyi pénzt kapnak a kórházak? Az alapfinanszírozás 130 százalékát kapják a várólistáról elvégzett beavatkozásokért.\n- Kik kapnak prémiumot a többletfinanszírozásból? Az ellátásban és a listák kezelésében dolgozók, akik a pluszösszeget a szerződéses fizetésükön felül kapják.\n- Mikor végzik az extra műtéteket? Főként reggel 8 és délután 4 óra között, vagy 7 és 15 óra között, de a kapacitások függvényében délután és kampányszerűen szombaton is operálnak.",
+      "content_format": "markdown",
+      "body": [
+        "## Hogyan szorítja vissza a kormány a kórházi várólistákat?",
+        "A várakozási idők visszaszorítása érdekében – a Magyar Közlönyben megjelent részletek szerint – a kormány új egészségügyi programot indított, amely kifejezetten a csípő- és térdprotézis-műtétekre fókuszál. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi statisztikái világosan mutatják, miért éppen erre a két területre irányul a figyelem: csípőprotézisre közel 12 ezer, míg térdprotézisműtétre mintegy 23 ezer beteg várakozik Magyarországon. A legalább fél éve húzódó esetek több mint 90 százalékát ugyanis ezek a beavatkozások teszik ki.",
+        "## Mekkora prémiumot kapnak az érintettek az új programban?",
+        "A kormányrendelet értelmében a kórházak az alapfinanszírozás 130 százalékára jogosultak a hivatalos várólistáról ütemezett csípő- és térdprotézis-műtétek után. Ez a pénzügyi ösztönző nemcsak az intézmények kasszáját gyarapítja, hanem közvetlenül a dolgozókat is eléri: a többletfinanszírozás 80 százalékát kötelezően az ellátásban és a listák kezelésében részt vevők díjazására kell fordítani. A munkavállalók ezt a pluszösszeget a szerződéses fizetésükön felül kapják meg.",
+        "## Milyen munkarendben végzik a várólistás műtéteket?",
+        "A beavatkozásokat elsősorban a megszokott munkaidőben hajtják végre – jellemzően reggel 8 és délután 4 óra között, míg egyes kórházakban 7 és 15 óra között –, ezzel is javítva a műtők kihasználtságát. Ahol korábban naponta 2-3 műtétet hajtottak végre rendes munkaidőben, ott mostantól akár napi négy beavatkozást is el tudnak végezni. Ahol a kapacitások engedik, délutánonként és kampányszerűen szombatonként is operálnak, éjszakára pedig kizárólag végső esetben terveznek beavatkozást.",
+        "## Gyakori kérdések a várólisták csökkentéséről és a finanszírozásról",
+        "- Milyen műtétekre vonatkozik a program? A kormányzati intézkedés kifejezetten a csípő- és térdprotézis-műtétekre fókuszál.\n- Mennyi pénzt kapnak a kórházak? Az alapfinanszírozás 130 százalékát kapják a várólistáról elvégzett beavatkozásokért.\n- Kik kapnak prémiumot a többletfinanszírozásból? Az ellátásban és a listák kezelésében dolgozók, akik a pluszösszeget a szerződéses fizetésükön felül kapják.\n- Mikor végzik az extra műtéteket? Főként reggel 8 és délután 4 óra között, vagy 7 és 15 óra között, de a kapacitások függvényében délután és kampányszerűen szombaton is operálnak."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 365,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg/1280px-US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 915,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Dr. Muryango Dauphin, a Burundian orthopedic surgeon, left, and U.S. Army Maj. Christopher Wallace, an orthopedic surgeon (61M) assigned to the 30th Medical Brigade, perform a surgery during the medic",
+        "credit": "U.S. Army photo by 1st Lt. Katherine Sibilla / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:US_Army,_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_(8558543).jpg",
+        "vision_score": 8.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/belfold/2026/11/19/a-muteti-varakozasi-idok-csokkentesere-indit-a-kormany-programot-megjelentek-a-reszletek",
+          "title": "A műtéti várakozási idők csökkentésére indít a kormány programot, megjelentek a részletek",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-19T09:33:14+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Eg%C3%A9szs%C3%A9g%C3%BCgy",
+          "title": "Egészségügy",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-19T09:33:14+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "offtopic_topic": {
+        "id": "q-korhazi-varolistak-premium-2025",
+        "section": "penzvilag",
+        "topic": "kórházi várólisták megszüntetése prémium",
+        "angle": "Hogyan tünteti el a kormány a kórházi várólistákat és mekkora prémiumot kapnak az érintettek?",
+        "wiki_hu": [
+          "Egészségügy Magyarországon"
+        ],
+        "images": [
+          "hungarian hospital waiting list",
+          "doctor in hospital ward"
+        ],
+        "search": true,
+        "news": [
+          {
+            "kind": "news",
+            "url": "https://infostart.hu/belfold/2026/11/19/a-muteti-varakozasi-idok-csokkentesere-indit-a-kormany-programot-megjelentek-a-reszletek",
+            "title": "A műtéti várakozási idők csökkentésére indít a kormány programot, megjelentek a részletek",
+            "publisher": "infostart.hu",
+            "text": "Új programmal veszi fel a harcot a kormány a hónapok óta húzódó műtéti várakozási időkkel, különös tekintettel a csípő- és térdprotézisekre. A Magyar Közlönyben megjelent részletek szerint a kórházak az alapfinanszírozás 130 százalékát kapják a várólistáról elvégzett beavatkozásokért.\nA Magyar Közlöny friss száma részletesen lefekteti az új egészségügyi program kereteit, amelynek célja a régóta húzódó várólisták visszaszorítása. A kormányrendelet értelmében a csípő- és térdprotézis-műtétek után a kórházak az alapfinanszírozás 130 százalékára jogosultak, ha a beteget a hivatalos várólistáról ütemezik be.\nA pénzügyi ösztönző nemcsak az intézmények kasszáját duzzasztja: a többletfinanszírozás 80 százalékát kötelezően az ellátásban és a listák kezelésében dolgozók díjazására kell fordítani. A munkavállalók ezt a pluszösszeget a szerződéses fizetésükön felül kapják meg.\nA Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi statisztikái világosan megmutatják, miért éppen erre a két területre fókuszálnak: csípőprotézisre közel 12 ezer, míg térdprotézisműtétre mintegy 23 ezer beteg várakozik. A legalább fél éve húzódó esetek több mint 90 százalékát ugyanis ezek teszik ki.\nA műtéteket elsősorban a megszokott munkaidőben – jellemzően reggel 8 és délután 4 óra között, egyes kórházakban pedig 7 és 15 óra között – végzik majd a műtők jobb kihasználásával. Ahol korábban naponta 2-3 műtétet hajtottak végre rendes munkaidőben, ott mostantól akár napi négy beavatkozást is el tudnak végezni. Ahol a kapacitások engedik, délutánonként és kampányszerűen szombatonként is operálnak, éjszakára pedig kizárólag végső esetben terveznek beavatkozást.\nA november elején bejelentett és a Magyar Közlönyben részletezett egészségügyi intézkedések mellett a kormányzat más szociális területeken is lépéseket tett a héten. A Magyar Közlöny szerdai számában megjelent a nyugellátásokban és egyes más ellátásokban részesülő személyek kiegészítő támogatásáról szóló kormányhatározat is.\nEz utóbbi szabályozás értelmében a kormány egyetért azzal, hogy 2027-től kiegészítő támogatásban részesüljön az a Magyarországon élő és tartózkodó személy, aki nyugellátásban vagy a nyugdíjfolyósító szerv által folyósított, a nyugdíjakkal azonos módon emelendő más ellátásban részesül, amennyiben az őt megillető ellátások együttes havi összege nem haladja meg az 500 ezer forintot.\nA kormány honlapján november 1-jén bejelentett, a nyugdíjasoknak szánt SZÉP-kártyaként is emlegetett támogatás 2,2 millió embert érint, az 500 ezer forint alatti nyugdíjban részesülők pedig jövőre megkapják az első részletet, amelyet pihenés mellett gyógyszerre és élelmiszerre is fordíthatnak majd.\nA kiegészítő támogatás összege 2030-tól az ellátások 250 ezer forintot meg nem haladó együttes havi összege esetén évi 200 ezer forint, míg a 250 ezer forintot meghaladó együttes havi összegnél évi 100 ezer forint lesz. A kormány döntése alapján az összeg 25 százalékát fizetik ki 2027. október 31-éig, 2028-ban az 50 százalékát, 2029-ben pedig a 75 százalékát.\nAz MTI jelentése szerint a kabinet felhívta a pénzügyminisztert, hogy a kiegészítő támogatásra vonatkozó jogszabályok tervezetét készítse elő és terjessze a kormány elé. Ezzel párhuzamosan Kármán Andrásnak kell gondoskodnia arról, hogy a kifizetéshez szükséges 89,5 milliárd forint rendelkezésre álljon a 2027-es központi költségvetésben."
+          }
+        ],
+        "wiki_en": []
+      },
+      "science_based": true,
+      "title_options": [
+        "Kórházi várólisták: prémiummal harcol a kormány a várakozási idő csökkentéséért",
+        "Hogyan történik a kórházi várólisták megszüntetése prémium bevezetésével?",
+        "Mekkora prémium jár a kórházi várólisták megszüntetése érdekében?"
+      ],
+      "image_options": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg/1280px-US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 915,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Dr. Muryango Dauphin, a Burundian orthopedic surgeon, left, and U.S. Army Maj. Christopher Wallace, an orthopedic surgeon (61M) assigned to the 30th Medical Brigade, perform a surgery during the medic",
+          "credit": "U.S. Army photo by 1st Lt. Katherine Sibilla / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:US_Army,_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_(8558543).jpg",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://pixabay.com/get/gf4ac4b08c41316cb7a02880d9859f296d976954cec45093020970c9cc2886f0c4ae1f3b92a8fe308d8b326db95c23f5c10094642fb38a88520b753942634af3a_1280.jpg",
+          "width": 4000,
+          "height": 2669,
+          "kind": "photo",
+          "alt": "surgery, hospital, doctor, care, clinic, disease, emergency, group, team, health, help, infection, mask, medical, nurse, professional, people, physician, surgeon, medicine, scrubs, op, operation, surg",
+          "credit": "sasint / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/surgery-hospital-doctor-care-1822458/",
+          "vision_score": 8.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558548%29.jpg/1280px-US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558548%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 793,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Dr. Muryango Dauphin, a Burundian orthopedic surgeon, left, and U.S. Army Maj. Christopher Wallace, an orthopedic surgeon (61M) assigned to the 30th Medical Brigade, perform a surgery during the medic",
+          "credit": "U.S. Army photo by 1st Lt. Katherine Sibilla / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:US_Army,_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_(8558548).jpg",
+          "vision_score": 5.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/belfold/2026/11/19/a-muteti-varakozasi-idok-csokkentesere-indit-a-kormany-programot-megjelentek-a-reszletek",
+          "https://hu.wikipedia.org/wiki/Eg%C3%A9szs%C3%A9g%C3%BCgy"
+        ],
+        "offtopic_id": "q-korhazi-varolistak-premium-2025"
+      },
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "url": "/penzvilag/2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk/",
+      "seo": {
+        "meta_title": "Kórházi várólisták: prémiummal harcol a kormány a várakozási",
+        "meta_description": "A kormány új programmal veszi fel a harcot a csípő- és térdprotézis-műtétek hosszú várakozási idejével: a kórházak az alapfinanszírozás 130 százalékát kapják a ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg/1280px-US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "0e37f5da1b73a298718059b506649db6d2692eaa028b5654aa733501bdf2277b",
+      "pipeline_run_id": "44483315329",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-19T09:33:14+01:00",
+      "updated_at": "2026-11-19T09:33:14+01:00",
+      "published_at": null,
+      "expires_at": null,
+      "schedule": {
+        "earliest": "2026-11-19T11:18:19+01:00",
+        "deadline": "2026-11-19T21:30:00+01:00"
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-19T08:33:20+00:00",
+        "head": "🗓 SAJÁT (időzített) · <b>Pénzvilág</b> · forróság 0 · 2 forrás\n\n1) Kórházi várólisták: prémiummal harcol a kormány a várakozási idő csökkentéséért\n2) Hogyan történik a kórházi várólisták megszüntetése prémium bevezetésével?\n3) Mekkora prémium jár a kórházi várólisták megszüntetése érdekében?\n\n<b>Források:</b> infostart.hu, Wikipédia (hu)\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
+        "lead": "A kormány új programmal veszi fel a harcot a csípő- és térdprotézis-műtétek hosszú várakozási idejével: a kórházak az alapfinanszírozás 130 százalékát kapják a beavatkozásokért, aminek 80 százalékát kötelezően a dolgozók díjazására kell fordítani. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi adatai szerint ez a két terület teszi ki a legalább fél éve húzódó esetek több mint 90 százalékát.",
+        "ctl_photo": false,
+        "control_id": 10528,
+        "msg_ids": []
+      }
     }
   ]
 }

@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "ca3fbfbe-dbf3-50b1-aa63-6bc67042d42b",
+      "slug": "2026-11-19-a-vagta-ornagy-akirol-kevesebbet-tudunk-mint-hisszuk",
+      "url": "/kultura/2026-11-19-a-vagta-ornagy-akirol-kevesebbet-tudunk-mint-hisszuk/",
+      "title": "A vágta őrnagy, akiről kevesebbet tudunk, mint hisszük",
+      "lead": "Kevesen tudják, hogy a sportág első nemzetközi szupersztárja nehéz sorsú kispesti gyerekként kezdte pályáját, hogy aztán a futballtörténelem egyik legfényesebb karrierjét építse fel. Puskás Ferenc élete nemcsak gólok sorozata, hanem a huszadik század viharainak és a túlélésnek a krónikája is.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T09:33:35+01:00",
+      "published_at": "2026-11-19T09:33:35+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "Puskás Ferenc",
+        "Aranycsapat",
+        "Real Madrid",
+        "Honvéd",
+        "labdarúgás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Ferenc_Puskas_player_licence.jpg/1280px-Ferenc_Puskas_player_licence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 751,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Puskas's Real Madrid player licence"
+      }
+    },
+    {
       "id": "60a373a9-7a82-5b82-b6f5-90861d5999d2",
       "slug": "2026-11-19-harom-nap-alatt-harom-csapas-ismet-leallt-a-krimi-hid",
       "url": "/vilag/2026-11-19-harom-nap-alatt-harom-csapas-ismet-leallt-a-krimi-hid/",
@@ -4412,37 +4443,7 @@
         "pos": "center",
         "alt": "Christmas goose (Weihnachtsgans)"
       }
-    },
-    {
-      "id": "58ceea12-09af-5285-83c1-7ca410db2653",
-      "slug": "2026-11-11-a-zsiros-tej-valoban-a-szivunk-ellensege",
-      "url": "/eletmod/2026-11-11-a-zsiros-tej-valoban-a-szivunk-ellensege/",
-      "title": "A zsíros tej valóban a szívünk ellensége?",
-      "lead": "Évtizedeken át azt hallottuk, hogy a teljes zsírtartalmú tejtermékek tönkreteszik az ereinket és hizlalnak. Egy friss klinikai vizsgálat adatai szerint viszont a zsíros változatok nem rontanak a koleszterinszinten, sőt a vérnyomásra kifejezetten kedvezően hathatnak.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T09:33:38+01:00",
-      "published_at": "2026-11-11T09:33:38+01:00",
-      "reading_time_min": 6,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "táplálkozás",
-        "tejtermékek",
-        "zsírok",
-        "szív egészsége",
-        "életmód"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/0ef1762aa8388185.jpg",
-        "width": 4299,
-        "height": 2866,
-        "kind": "photo",
-        "alt": "glass, milk, pour, pouring, pouring milk, cow's milk, drink, fresh milk, pitcher, glass of milk, milk, milk, milk, milk, milk"
-      }
     }
   ],
-  "updated_at": "2026-11-19T08:03:31+01:00"
+  "updated_at": "2026-11-19T09:33:36+01:00"
 }
