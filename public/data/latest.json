@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "872bc88d-f89f-58cf-9bbd-520a62123089",
+      "slug": "2026-11-19-hetfos-tisztogatas-huszonnegy-ora-alatt-menesztettek-het-csucsvezetot",
+      "url": "/kozelet/2026-11-19-hetfos-tisztogatas-huszonnegy-ora-alatt-menesztettek-het-csucsvezetot/",
+      "title": "Hétfős tisztogatás: huszonnégy óra alatt menesztettek hét csúcsvezetőt a NAV-nál",
+      "lead": "Egyetlen nap leforgása alatt hét magas rangú vezetőt mentettek fel vagy mozdítottak el pozíciójából a Nemzeti Adó- és Vámhivatalnál. A tömeges személycserék célja a szervezet megújítása, valamint a politikailag semleges, szakmai működés helyreállítása.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T18:54:00+01:00",
+      "published_at": "2026-11-19T18:54:00+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.52,
+      "tags": [
+        "NAV",
+        "adóhivatal",
+        "Sádt Mónika",
+        "Kármán András",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Budapest%2C_D%C3%B3zsa_Gy%C3%B6rgy_%C3%BAt%2C_Nemzeti_Ad%C3%B3-_%C3%A9s_V%C3%A1mhivatal_sz%C3%A9kh%C3%A1z3.jpg/1280px-Budapest%2C_D%C3%B3zsa_Gy%C3%B6rgy_%C3%BAt%2C_Nemzeti_Ad%C3%B3-_%C3%A9s_V%C3%A1mhivatal_sz%C3%A9kh%C3%A1z3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest, Dózsa György út, Nemzeti Adó- és Vámhivatal székház"
+      }
+    },
+    {
       "id": "defc45f2-b4fb-5f8f-95d9-350f19a36691",
       "slug": "2026-11-19-hamuval-teritettek-be-az-eu-egeszsegugyi-biztosat-egy-konferencian",
       "url": "/kozelet/2026-11-19-hamuval-teritettek-be-az-eu-egeszsegugyi-biztosat-egy-konferencian/",
@@ -4415,37 +4445,7 @@
         "pos": "top",
         "alt": "Varga Judit a Ludovica Campuson"
       }
-    },
-    {
-      "id": "faa64a58-6f1d-58d9-aec8-2d1ed9501c92",
-      "slug": "2026-11-11-jfk-orokosei-perelik-trumpot-nem-kernek-a-76-meteres-washingtoni-diad",
-      "url": "/vilag/2026-11-11-jfk-orokosei-perelik-trumpot-nem-kernek-a-76-meteres-washingtoni-diad/",
-      "title": "JFK örökösei perelik Trumpot: nem kérnek a 76 méteres washingtoni diadalívből",
-      "lead": "A Kennedy család kilenc tagja pert indított Donald Trump Washingtonba tervezett, rekordmagas diadalíve ellen. Szerintük a monumentális építmény maradandóan meggyalnázná a nemzeti temető látképét, és árnyékot vetne JFK sírjára.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T12:57:44+01:00",
-      "published_at": "2026-11-11T12:57:44+01:00",
-      "reading_time_min": 3,
-      "hot_score": 9.75,
-      "tags": [
-        "Donald Trump",
-        "John F. Kennedy",
-        "Arlingtoni Nemzeti Temető",
-        "Egyesült Államok",
-        "per"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official Presidential Portrait of President Donald J. Trump in his second term"
-      }
     }
   ],
-  "updated_at": "2026-11-19T18:51:26+01:00"
+  "updated_at": "2026-11-19T18:54:03+01:00"
 }
