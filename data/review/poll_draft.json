@@ -1,35 +1,35 @@
 {
-  "id": "2c143d2f88",
-  "date": "2026-11-17",
+  "id": "291482fdb8",
+  "date": "2026-11-19",
   "status": "pending",
-  "article_url": "/vilag/2026-11-16-nyolcmilliard-eurot-utalt-at-brusszel-ukrajnanak-az-elvegzett-reformo/",
-  "article_title": "Nyolcmilliárd eurót utalt át Brüsszel Ukrajnának az elvégzett reformokért",
-  "category": "vilag",
+  "article_url": "/kozelet/2026-11-18-januartol-elesedik-radnai-mark-uj-politikai-fuggetlenseget-igero-inte/",
+  "article_title": "Januártól élesedik Radnai Márk új, politikai függetlenséget ígérő intézménye",
+  "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes döntés volt Brüsszel részéről az uniós támogatások folyósítása Ukrajna számára?",
+      "question": "Ön szerint szükség van egy új, független társadalompolitikai intézetre?",
       "options": [
-        "Igen, a reformok teljesítése miatt helyes",
-        "Nem, jelenleg nem időszerű a támogatás",
+        "Igen, mindenképpen",
+        "Nem, felesleges",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli az Ukrajnának nyújtott uniós pénzügyi támogatások eddigi hatását?",
+      "question": "Mit tart fontosabbnak egy ilyen intézet működésénél?",
       "options": [
-        "Inább pozitív hatású a gazdaságra",
-        "Inkább negatív következményei vannak",
+        "A politikai függetlenséget",
+        "A szakmai hatékonyságot",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Szükségesnek tartja-e, hogy az Európai Unió további reformokhoz kösse a pénzeszközök kifizetését?",
+      "question": "Jó irány-e közpénzből finanszírozni új elemző- és döntéselőkészítő műhelyeket?",
       "options": [
-        "Igen, szigorúbb feltételekre van szükség",
-        "Nem, elegendőek a jelenlegi elvárások",
+        "Igen, hasznos a támogatás",
+        "Nem, jobb lenne máshova költeni",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 10435
+  "msg_id": 10529
 }
