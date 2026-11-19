@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "580c3cedd8",
-      "art_id": "a61dd35f-95ab-516e-a241-4f67e6177d56",
-      "title": "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor",
-      "url": "/vilag/2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszektor/",
-      "card": "public/img/ig/2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszek.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-igy-keszul-fel-a-sorozatos-tamadasokra-a-szaudi-energiaszek.jpg",
-      "caption": "Így készül fel a sorozatos támadásokra a szaúdi energiaszektor\n\nA folyamatos fegyveres támadások ellenére alig néhány nap alatt képes helyreállítani súlyosan megrongálódott infrastruktúráját a Saudi Aramco. A szaúdi olajipari óriásvállalat új válságkezelési módszerei hatássá tették a cég logisztikai rendszerét a Közel-Keleten.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#saudiaramco #olajpiac #szaúdarábia #hírek #kollektíva",
-      "created": "2026-10-16T09:08:36+02:00",
-      "due": "2026-10-16T09:53:36+02:00",
-      "status": "failed",
-      "tg": [
-        6669,
-        6670
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "27ab048a76",
       "art_id": "20dcba39-91f2-5f13-9b8b-445bd376e6f8",
       "title": "Fidesz és Mi Hazánk: szivárványos trójai falónak tartják az újpetrei óriási játékot",
@@ -3584,6 +3567,21 @@
       "container": "18139849003718522",
       "media_id": "17896921176433908",
       "posted": "2026-11-19T11:53:41+01:00"
+    },
+    {
+      "id": "98061fde2e",
+      "art_id": "1b86cf8d-e97e-53af-a23b-862acace1e4d",
+      "title": "Maratoni ülés jön a parlamentben: Magyar Péter mentelmi joga is terítéken",
+      "url": "/kozelet/2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga-is-terite/",
+      "card": "public/img/ig/2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga.jpg",
+      "caption": "Maratoni ülés jön a parlamentben: Magyar Péter mentelmi joga is terítéken\n\nJövő hétfőtől kezdődően hat napon át ülésezik a parlament, amely huszonhét előterjesztést tárgyal, köztük Magyar Péter mentelmi jogának ügyét is. Az Országgyűlés munkáját a tiszás indítványok mellett számos gazdasági és közigazgatási törvényjavaslat is feszíti majd.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#országgyűlés #magyarpéter #belföld #hírek #magyarország",
+      "created": "2026-11-19T13:45:47+01:00",
+      "due": "2026-11-19T14:30:47+01:00",
+      "status": "queued",
+      "tg": [
+        10539
+      ]
     }
   ],
   "token": {
