@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "bd39b0d1-8679-509b-b317-58f85f70de34",
+      "slug": "2026-11-19-hegedus-zsolt-rendreutasitotta-a-miniszterelnok-intim-multjan-lovaglo",
+      "url": "/kozelet/2026-11-19-hegedus-zsolt-rendreutasitotta-a-miniszterelnok-intim-multjan-lovaglo/",
+      "title": "Hegedűs Zsolt rendreutasította a miniszterelnök intim múltján lovagló főorvost",
+      "lead": "Az eset után az egészségügyi miniszter is bírálta a szakorvos megnyilvánulását.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T08:00:03+01:00",
+      "published_at": "2026-11-19T08:00:03+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.83,
+      "tags": [
+        "Magyar Péter",
+        "Hegedűs Zsolt",
+        "Semmelweis Egyetem",
+        "orvosetika",
+        "közélet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Semmelweis-Ulloi26.JPG/1280px-Semmelweis-Ulloi26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Semmelweis University Faculty of Medicine, Üllői út 26, Budapest, Hungary"
+      }
+    },
+    {
       "id": "dfd4cc53-31f5-55ea-884c-49d9018a06f4",
       "slug": "2026-11-18-nevvaltas-es-berrendezes-atalakitja-a-katasztrofavedelmet-a-kormany",
       "url": "/kozelet/2026-11-18-nevvaltas-es-berrendezes-atalakitja-a-katasztrofavedelmet-a-kormany/",
@@ -4412,37 +4442,7 @@
         "kind": "photo",
         "alt": "calculator, hand, calculate, to count, add, taxes, expenses, pen, office, calculator, calculator, calculator, calculator, calculator, taxes, expenses, expenses"
       }
-    },
-    {
-      "id": "6ee66f33-12e3-5e1b-8896-e0b305fbf9a7",
-      "slug": "2026-11-11-irani-fenyegetesek-miatt-tamaszpontra-menekult-scott-bessent",
-      "url": "/vilag/2026-11-11-irani-fenyegetesek-miatt-tamaszpontra-menekult-scott-bessent/",
-      "title": "Iráni fenyegetések miatt támaszpontra menekült Scott Bessent",
-      "lead": "Otthonából ideiglenesen egy katonai támaszpontra költözött Scott Bessent amerikai pénzügyminiszter az iráni rezsim fenyegetései miatt. A lépés rávilágít Washington és Teherán gazdasági háborújának éleződésére.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T08:00:08+01:00",
-      "published_at": "2026-11-11T08:00:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Scott Bessent",
-        "Egyesült Államok",
-        "Irán",
-        "szankciók",
-        "gazdasági háború"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Official_portrait_of_Treasury_Secretary_Scott_Bessent.jpg/1280px-Official_portrait_of_Treasury_Secretary_Scott_Bessent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1680,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Secretary of the Treasury, Scott Bessent"
-      }
     }
   ],
-  "updated_at": "2026-11-19T07:33:37+01:00"
+  "updated_at": "2026-11-19T08:00:05+01:00"
 }
