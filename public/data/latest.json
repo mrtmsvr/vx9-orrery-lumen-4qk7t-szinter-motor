@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "2168fec4-3070-5ccc-93e9-14598e0c1da4",
+      "slug": "2026-11-19-a-szaudi-olajpenzek-a-gamer-vilagban-landolnak",
+      "url": "/penzvilag/2026-11-19-a-szaudi-olajpenzek-a-gamer-vilagban-landolnak/",
+      "title": "A szaúdi olajpénzek a gamer-világban landolnak",
+      "lead": "A videójáték-ipar gazdasági súlya mára lehagyta a hagyományos szórakoztatóiparét, miközben az e-sport és a mobiljátékok a globális hatalmi játszmák részévé váltak. A látványos növekedés árnyoldalán embertelen munkafeltételek és stratégiai állami befektetések húzódnak meg.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T19:00:07+01:00",
+      "published_at": "2026-11-19T19:00:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "játékipar",
+        "gazdaság",
+        "GTA VI",
+        "technológia"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-372513b96c.jpg",
+        "kind": "photo",
+        "alt": "Így győzte le a játékipar Hollywoodot és a szórakoztatóipart | Szignál",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "872bc88d-f89f-58cf-9bbd-520a62123089",
       "slug": "2026-11-19-hetfos-tisztogatas-huszonnegy-ora-alatt-menesztettek-het-csucsvezetot",
       "url": "/kozelet/2026-11-19-hetfos-tisztogatas-huszonnegy-ora-alatt-menesztettek-het-csucsvezetot/",
@@ -4415,37 +4444,7 @@
         "pos": "center",
         "alt": "500px provided description: Take your time... [#reflections ,#travel ,#religion ,#vacation ,#architecture ,#cityscape ,#building ,#view ,#skyline ,#skyscraper ,#long exposure ,#desert ,#holiday ,#per"
       }
-    },
-    {
-      "id": "8bab8c90-7f93-526a-ba89-aacc655f085a",
-      "slug": "2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga",
-      "url": "/kozelet/2026-11-11-varga-juditot-hallgatja-meg-a-vegrehajtasi-visszaelesek-bizottsaga/",
-      "title": "Varga Juditot hallgatja meg a végrehajtási visszaélések bizottsága",
-      "lead": "Szerda délután ült össze a Parlamentben a Végrehajtási Visszaéléseket Feltáró Vizsgálóbizottság, amelynek egyetlen napirendi pontjaként Varga Judit volt igazságügyi minisztert hallgatják meg. A Schadl–Völner-ügyhöz kapcsolódó testület elé Répássy Róbert korábbi államtitkár is megérkezett.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T14:15:05+01:00",
-      "published_at": "2026-11-11T14:15:05+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.48,
-      "tags": [
-        "Varga Judit",
-        "Parlament",
-        "vizsgálóbizottság",
-        "Schadl–Völner-ügy",
-        "Toroczkai László"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Varga_Judit_2020_wikipedia.jpg/1280px-Varga_Judit_2020_wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1680,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Varga Judit a Ludovica Campuson"
-      }
     }
   ],
-  "updated_at": "2026-11-19T18:54:03+01:00"
+  "updated_at": "2026-11-19T19:00:10+01:00"
 }
