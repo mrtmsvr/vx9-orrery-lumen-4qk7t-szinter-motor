@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1b86cf8d-e97e-53af-a23b-862acace1e4d",
+      "slug": "2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga-is-terite",
+      "url": "/kozelet/2026-11-19-maratoni-ules-jon-a-parlamentben-magyar-peter-mentelmi-joga-is-terite/",
+      "title": "Maratoni ülés jön a parlamentben: Magyar Péter mentelmi joga is terítéken",
+      "lead": "Jövő hétfőtől kezdődően hat napon át ülésezik a parlament, amely huszonhét előterjesztést tárgyal, köztük Magyar Péter mentelmi jogának ügyét is. Az Országgyűlés munkáját a tiszás indítványok mellett számos gazdasági és közigazgatási törvényjavaslat is feszíti majd.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T12:04:02+01:00",
+      "published_at": "2026-11-19T12:04:02+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.33,
+      "tags": [
+        "Országgyűlés",
+        "Magyar Péter",
+        "mentelmi jog",
+        "parlamenti ülés",
+        "törvényjavaslat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG/1280px-Viktor_Orb%C3%A1n_adressing_the_House_of_Commons_-_2015.09.21_%281%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Live on the 21st   of  September, 2015.  House of Commons,  Budapest, Hungary.  On this day  Autumn  Session of  the Parliament, first day.  Viktor Orbán adressing the House:  Dealing with  mass migra"
+      }
+    },
+    {
       "id": "5b5ca419-5f65-54f4-bdc6-b1f70f3217a1",
       "slug": "2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk",
       "url": "/penzvilag/2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk/",
@@ -4412,37 +4442,7 @@
         "pos": "center",
         "alt": ": Historical Archives of State Security Services building. - 7 Eötvös Street,  Budapest District VI. Hungary."
       }
-    },
-    {
-      "id": "0635ba6a-229e-568b-b0d5-d4465b09cd13",
-      "slug": "2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat",
-      "url": "/kozelet/2026-11-11-magyar-peter-a-leveltarosokra-kenne-a-hibat/",
-      "title": "Magyar Péter a levéltárosokra kenné a hibát",
-      "lead": "Téves adatok miatt 164 ember neve került fel az ügynökakták listájára, ami komoly vitákat váltott ki. Magyar Péter elnézést kért a hibáért, de személyes felelősséget nem vállalt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T09:53:44+01:00",
-      "published_at": "2026-11-11T09:53:44+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Magyar Péter",
-        "ügynökakták",
-        "Partizán",
-        "történelem",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Magyar_P%C3%A9ter_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Hungarian politician Péter Magyar is interviewed by Gábor Révész after giving a speech at a campaign event in Csongrád on 20 May 2024 ahead of the European Parliament elections in Hungary."
-      }
     }
   ],
-  "updated_at": "2026-11-19T11:18:41+01:00"
+  "updated_at": "2026-11-19T12:04:04+01:00"
 }
