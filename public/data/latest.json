@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4dba3f19-2c2c-5e74-926f-7ff6769889e9",
+      "slug": "2026-11-19-szazeves-jeg-a-varosligetben-penteken-nyit-a-mujeg",
+      "url": "/kultura/2026-11-19-szazeves-jeg-a-varosligetben-penteken-nyit-a-mujeg/",
+      "title": "Százéves jég a Városligetben: pénteken nyit a Műjég",
+      "lead": "Péntek reggel kilenckor elrajtol a jubileumi korcsolyaszezon a Városligeti Műjégpályán, ahol a műjégkészítés centenáriumát ünneplik. A létesítmény a technikai nehézségek ellenére ismét készen áll a közönség fogadására.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T17:04:51+01:00",
+      "published_at": "2026-11-19T17:04:51+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.59,
+      "tags": [
+        "Városliget",
+        "műjégpálya",
+        "Budapest",
+        "tél",
+        "korcsolyázás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/M%C5%B1jegpalyabp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 804,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Ice Rink Budapest, aerial photography"
+      }
+    },
+    {
       "id": "c96808ab-9c30-583b-8e69-f177a4a60120",
       "slug": "2026-11-19-megvan-brusszel-aldasa-lehivhato-a-2000-milliardos-magyar-vedelmi-hit",
       "url": "/kozelet/2026-11-19-megvan-brusszel-aldasa-lehivhato-a-2000-milliardos-magyar-vedelmi-hit/",
@@ -4414,37 +4444,7 @@
         "alt": "február 1. – eddig marad letartóztatásban a volt miniszter",
         "card": "num"
       }
-    },
-    {
-      "id": "ccc11dae-06bb-58a1-ba86-02ccec67a1d4",
-      "slug": "2026-11-11-haromnapos-rendkivuli-ulest-kap-a-koltsegvetes-ruff-balint-inditvanya",
-      "url": "/kozelet/2026-11-11-haromnapos-rendkivuli-ulest-kap-a-koltsegvetes-ruff-balint-inditvanya/",
-      "title": "Háromnapos rendkívüli ülést kap a költségvetés Ruff Bálint indítványa nyomán",
-      "lead": "Háromnapos rendkívüli parlamenti ülést kezdeményezett jövő hétre Ruff Bálint a kormány nevében, ahol a 2027-es költségvetés mellett egy atomenergetikai megállapodásról és a balkáni békefenntartásról is tárgyalnak a képviselők. Az indítvány célja a legfontosabb gazdasági és nemzetközi ügyek mielőbbi elfogadása.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T12:02:45+01:00",
-      "published_at": "2026-11-11T12:02:45+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.81,
-      "tags": [
-        "Ruff Bálint",
-        "Országgyűlés",
-        "költségvetés",
-        "atomenergia",
-        "békefenntartás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ruff_B%C3%A1lint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1598,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Ruff Bálint politológus"
-      }
     }
   ],
-  "updated_at": "2026-11-19T15:35:54+01:00"
+  "updated_at": "2026-11-19T17:04:54+01:00"
 }
