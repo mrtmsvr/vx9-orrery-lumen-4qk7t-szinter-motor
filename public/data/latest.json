@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "60a373a9-7a82-5b82-b6f5-90861d5999d2",
+      "slug": "2026-11-19-harom-nap-alatt-harom-csapas-ismet-leallt-a-krimi-hid",
+      "url": "/vilag/2026-11-19-harom-nap-alatt-harom-csapas-ismet-leallt-a-krimi-hid/",
+      "title": "Három nap alatt három csapás: ismét leállt a krími híd",
+      "lead": "Újabb dróntámadás érte csütörtökre virradó éjjel a Krími hidat, aminek következtében a hatóságok azonnal leállították a vasúti forgalmat. A stratégiai jelentőségű átkelőt érő folyamatos csapások súlyos taktikai és szimbolikus vereséget jelentenek az orosz vezetés számára.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T08:03:30+01:00",
+      "published_at": "2026-11-19T08:03:30+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.39,
+      "tags": [
+        "Krími híd",
+        "Ukrajna",
+        "Oroszország",
+        "háború"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0_%281%29.jpg/1280px-%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_13_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 871,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Crimean Bridge"
+      }
+    },
+    {
       "id": "a738a0f8-02e6-5171-bee1-dd7dde80f7d3",
       "slug": "2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-korhazi-varo",
       "url": "/kozelet/2026-11-19-30-szazalekos-premiummal-tuntetne-el-a-kormany-a-hirhedt-korhazi-varo/",
@@ -4413,37 +4442,7 @@
         "kind": "photo",
         "alt": "glass, milk, pour, pouring, pouring milk, cow's milk, drink, fresh milk, pitcher, glass of milk, milk, milk, milk, milk, milk"
       }
-    },
-    {
-      "id": "b9da22b3-5ad6-5556-9f2f-d2692d8cb5e4",
-      "slug": "2026-11-11-megmozdultak-a-frontvonalak-mogott-mindket-fel-hajlando-valtoztatni-a",
-      "url": "/vilag/2026-11-11-megmozdultak-a-frontvonalak-mogott-mindket-fel-hajlando-valtoztatni-a/",
-      "title": "Megmozdultak a frontvonalak mögött: mindkét fél hajlandó változtatni a békefeltételein",
-      "lead": "Kedden megkezdődtek az orosz-ukrán béketárgyalások Abu-Dzabiban, ahol a legfrissebb hírek szerint mindkét fél hajlandónak mutatkozik engedni a korábbi, merev követeléseiből. Az amerikai és európai közvetítőkkel zajló egyeztetéseken a területi rendezés mellett immár konkrét biztonsági garanciák is terítékre kerültek.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T08:03:12+01:00",
-      "published_at": "2026-11-11T08:03:12+01:00",
-      "reading_time_min": 3,
-      "hot_score": 6.03,
-      "tags": [
-        "orosz-ukrán háború",
-        "Abu-Dzabi",
-        "béketárgyalás",
-        "Egyesült Államok",
-        "biztonsági garanciák"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8_%28Abu_Dhabi%29_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 692,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Абу-Даби (Abu Dhabi)"
-      }
     }
   ],
-  "updated_at": "2026-11-19T08:02:29+01:00"
+  "updated_at": "2026-11-19T08:03:31+01:00"
 }
