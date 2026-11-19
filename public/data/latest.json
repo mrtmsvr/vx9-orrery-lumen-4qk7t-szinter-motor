@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "360c4a30-c7db-570b-b344-dc7a6294abf2",
+      "slug": "2026-11-19-huszonnegy-eves-peceli-fenyo-disziti-majd-az-orszaghazat",
+      "url": "/kozelet/2026-11-19-huszonnegy-eves-peceli-fenyo-disziti-majd-az-orszaghazat/",
+      "title": "Huszonnégy éves péceli fenyő díszíti majd az Országházat",
+      "lead": "Pécelről érkezik idén az ország karácsonyfája, amelyet a hagyományoknak megfelelően a budapesti Kossuth téren állítanak majd fel. A Parlament sajtóirodájának tájékoztatása szerint egy huszonnégy éves jegenyefenyő nyerte el a címet az ország minden tájáról beérkező felajánlások közül.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T18:45:14+01:00",
+      "published_at": "2026-11-19T18:45:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "karácsonyfa",
+        "Pécel",
+        "Kossuth tér",
+        "Országgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/1d2b29ca40278ceb.jpg",
+        "width": 5760,
+        "height": 3840,
+        "kind": "photo",
+        "alt": "tree, snow, winter, christmas, branch, snowing, nature, myfestiveseason, michiganusa, snow, snow, snow, winter, winter, christmas, christmas, christmas, christmas, christmas"
+      }
+    },
+    {
       "id": "4525ac25-f046-5b2d-9d13-63d3184a3ff5",
       "slug": "2026-11-19-valodi-butorokbol-es-diszletekbol-elesztettek-ujja-a-macskafogo-vilag",
       "url": "/kultura/2026-11-19-valodi-butorokbol-es-diszletekbol-elesztettek-ujja-a-macskafogo-vilag/",
@@ -4416,37 +4444,7 @@
         "pos": "center",
         "alt": "Car on Fire"
       }
-    },
-    {
-      "id": "81bb12f2-dddb-5ff9-8d6c-84bf614235f3",
-      "slug": "2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete",
-      "url": "/kozelet/2026-11-11-napi-egymillio-euro-meg-iden-kiszallna-az-unios-birsagbol-magyar-pete/",
-      "title": "Napi egymillió euró: még idén kiszállna az uniós bírságból Magyar Péter",
-      "lead": "Megállapodást szeretne elérni az Európai Bizottsággal a Magyarországot sújtó, napi egymillió eurós uniós bírság ügyében az év vége előtt Magyar Péter. A kormányfő berlini tárgyalásai után nyilatkozott erről.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T12:54:32+01:00",
-      "published_at": "2026-11-11T12:54:32+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.24,
-      "tags": [
-        "Magyar Péter",
-        "Berlin",
-        "Európai Bizottság",
-        "uniós bírság",
-        "Friedrich Merz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Cityscape_Berlin.jpg/1280px-Cityscape_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 614,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Berlin Cityscape seen from Victory Column"
-      }
     }
   ],
-  "updated_at": "2026-11-19T18:19:38+01:00"
+  "updated_at": "2026-11-19T18:45:16+01:00"
 }
