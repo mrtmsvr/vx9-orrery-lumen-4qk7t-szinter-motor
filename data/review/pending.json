@@ -9044,7 +9044,7 @@
     {
       "id": "5b5ca419-5f65-54f4-bdc6-b1f70f3217a1",
       "slug": "2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -9215,9 +9215,9 @@
       "dedupe_hash": "0e37f5da1b73a298718059b506649db6d2692eaa028b5654aa733501bdf2277b",
       "pipeline_run_id": "44483315329",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-19T09:33:14+01:00",
-      "updated_at": "2026-11-19T09:33:14+01:00",
-      "published_at": null,
+      "created_at": "2026-11-19T11:18:40+01:00",
+      "updated_at": "2026-11-19T11:18:40+01:00",
+      "published_at": "2026-11-19T11:18:40+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-19T11:18:19+01:00",
@@ -9235,8 +9235,10 @@
         "lead": "A kormány új programmal veszi fel a harcot a csípő- és térdprotézis-műtétek hosszú várakozási idejével: a kórházak az alapfinanszírozás 130 százalékát kapják a beavatkozásokért, aminek 80 százalékát kötelezően a dolgozók díjazására kell fordítani. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi adatai szerint ez a két terület teszi ki a legalább fél éve húzódó esetek több mint 90 százalékát.",
         "ctl_photo": false,
         "control_id": 10528,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     }
   ]
 }

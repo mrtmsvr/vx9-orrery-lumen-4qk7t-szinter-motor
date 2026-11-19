@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "5b5ca419-5f65-54f4-bdc6-b1f70f3217a1",
+      "slug": "2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk",
+      "url": "/penzvilag/2026-11-19-korhazi-varolistak-premiummal-harcol-a-kormany-a-varakozasi-ido-csokk/",
+      "title": "Kórházi várólisták: prémiummal harcol a kormány a várakozási idő csökkentéséért",
+      "lead": "A kormány új programmal veszi fel a harcot a csípő- és térdprotézis-műtétek hosszú várakozási idejével: a kórházak az alapfinanszírozás 130 százalékát kapják a beavatkozásokért, aminek 80 százalékát kötelezően a dolgozók díjazására kell fordítani. A Nemzeti Egészségbiztosítási Alapkezelő 2026. júniusi adatai szerint ez a két terület teszi ki a legalább fél éve húzódó esetek több mint 90 százalékát.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T11:18:40+01:00",
+      "published_at": "2026-11-19T11:18:40+01:00",
+      "reading_time_min": 2,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "kórházi várólisták",
+        "műtéti várakozási idő",
+        "csípőprotézis",
+        "térdprotézis",
+        "egészségügyi finanszírozás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg/1280px-US_Army%2C_Burundian_orthopedic_surgeons_work_together_in_the_operating_room_%288558543%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 915,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Dr. Muryango Dauphin, a Burundian orthopedic surgeon, left, and U.S. Army Maj. Christopher Wallace, an orthopedic surgeon (61M) assigned to the 30th Medical Brigade, perform a surgery during the medic"
+      }
+    },
+    {
       "id": "ca3fbfbe-dbf3-50b1-aa63-6bc67042d42b",
       "slug": "2026-11-19-a-vagta-ornagy-akirol-kevesebbet-tudunk-mint-hisszuk",
       "url": "/kultura/2026-11-19-a-vagta-ornagy-akirol-kevesebbet-tudunk-mint-hisszuk/",
@@ -4411,39 +4442,7 @@
         "pos": "top",
         "alt": "Hungarian politician Péter Magyar is interviewed by Gábor Révész after giving a speech at a campaign event in Csongrád on 20 May 2024 ahead of the European Parliament elections in Hungary."
       }
-    },
-    {
-      "id": "e36f5cbc-003b-5caf-b80d-70e5255bae39",
-      "slug": "2026-11-11-marton-napja-libasult-es-ujbor-rejtelmei",
-      "url": "/eletmod/2026-11-11-marton-napja-libasult-es-ujbor-rejtelmei/",
-      "title": "Márton-napja: libasült és újbor rejtelmei",
-      "lead": "November 11-én a libasült és a frissen kiforrott újbor veszi át a főszerepet, miközben ősi népszokások és gazdag gasztronómiai hagyományok élednek újjá. A novemberi ünnep nemcsak a mezőgazdasági munkák végét jelenti, hanem egy évszázadok óta velünk élő lakomát is.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T09:33:39+01:00",
-      "published_at": "2026-11-11T09:33:39+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Márton-nap",
-        "Márton-nap",
-        "gasztronómia",
-        "népszokások",
-        "libasült",
-        "újbor"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Christmas-goose-%28Weihnachtsgans%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Christmas goose (Weihnachtsgans)"
-      }
     }
   ],
-  "updated_at": "2026-11-19T10:40:26+01:00"
+  "updated_at": "2026-11-19T11:18:41+01:00"
 }
