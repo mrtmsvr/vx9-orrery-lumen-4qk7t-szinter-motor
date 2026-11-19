@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "6f9fbd37-7b41-5959-a8af-b86981c93724",
+      "slug": "2026-11-19-uj-zenekarral-es-hajos-koncerttel-ter-vissza-a-tankcsapda-volt-gitaro",
+      "url": "/kultura/2026-11-19-uj-zenekarral-es-hajos-koncerttel-ter-vissza-a-tankcsapda-volt-gitaro/",
+      "title": "Új zenekarral és hajós koncerttel tér vissza a Tankcsapda volt gitárosa",
+      "lead": "Sidlovics Gábor gitáros, a Tankcsapda egykori tagja új zenekarával, a Siddhivel készül az első élő fellépésére december elején Budapesten. A zenész a TV2 Aktív riporterének mesélt a búcsú utáni újrakezdésről, a motorozásról és a régi tetoválásokról.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-19",
+      "date_label": "november 19.",
+      "created_at": "2026-11-19T19:58:00+01:00",
+      "published_at": "2026-11-19T19:58:00+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Sidlovics Gábor",
+        "Tankcsapda",
+        "Siddhi",
+        "zene",
+        "koncert"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/c2320f49d3244ba5.jpg",
+        "width": 4791,
+        "height": 3194,
+        "kind": "photo",
+        "alt": "biker, motorcycle, ride, vehicle, motorbike, road, travel, asphalt, vintage, motorcycle ride, motorcycle rider, riding, motorcycle, motorcycle, motorcycle, motorcycle, motorcycle, motorbike"
+      }
+    },
+    {
       "id": "231e73db-5b08-58f0-809e-01667159154e",
       "slug": "2026-11-19-megallapodas-szuletett-ekkora-minimalber-jon-jovore",
       "url": "/kozelet/2026-11-19-megallapodas-szuletett-ekkora-minimalber-jon-jovore/",
@@ -4413,36 +4442,7 @@
         "alt": "Varga Judit: Magyar Péter a gyűlöletével mérgezi az embereket",
         "cover": true
       }
-    },
-    {
-      "id": "c7d3bda7-e042-5cc4-91a3-c18b4595f7af",
-      "slug": "2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul",
-      "url": "/kozelet/2026-11-11-varga-judit-ne-feljetek-magyar-petertol-az-igazsag-ugyis-kiderul/",
-      "title": "Varga Judit: Ne féljetek Magyar Pétertől, az igazság úgyis kiderül",
-      "lead": "Varga Judit volt igazságügyi miniszter az Országgyűlés végrehajtási visszaélésekkel kapcsolatos vizsgálóbizottságának ülése előtt arról beszélt, hogy az igazság előbb-utóbb kiderül, és felszólította a támogatóit, hogy ne féljenek Magyar Pétertől. A Schadl–Völner-ügyhöz kapcsolódó testület szerdai ülésén Répássy Róbert korábbi államtitkárt is meghallgatják.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T15:51:08+01:00",
-      "published_at": "2026-11-11T15:51:08+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Varga Judit",
-        "Magyar Péter",
-        "vizsgálóbizottság",
-        "Országgyűlés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Varga_Judit.jpg/1280px-Varga_Judit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1692,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Varga Judit Minister for Justice. Taken on the 5th of December, 2019. Párbeszéd vagy monológ. Az Európai Unió  jövője?  Petőfi Irodalmi Múzeum, Budapest."
-      }
     }
   ],
-  "updated_at": "2026-11-19T19:32:19+01:00"
+  "updated_at": "2026-11-19T19:58:02+01:00"
 }
