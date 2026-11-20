@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "cb8b64f4-55c1-599a-83dc-80a115b4575a",
+      "slug": "2026-11-20-megallt-a-brfk-letszamcsokkenese-de-a-hiany-marad",
+      "url": "/kozelet/2026-11-20-megallt-a-brfk-letszamcsokkenese-de-a-hiany-marad/",
+      "title": "Megállt a BRFK létszámcsökkenése, de a hiány marad",
+      "lead": "Bár a Budapesti Rendőr-főkapitányság állományának csökkenése az elmúlt fél évben megállt, továbbra is kétezer rendőr hiányzik a fővárosból – közölte Baricska Norbert Tamás budapesti rendőrfőkapitány a főváros közbiztonsági helyzetéről tartott sajtótájékoztatóján.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T15:40:15+01:00",
+      "published_at": "2026-11-20T15:40:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "BRFK",
+        "rendőrség",
+        "közbiztonság",
+        "Budapest"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Blahalujzatercivertanlegi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 829,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Blaha Lujza square, Erzsébetváros, Budapest, Hungary, aerial photography"
+      }
+    },
+    {
       "id": "9839dc67-3381-59ea-9780-a0a79c107d41",
       "slug": "2026-11-20-szakszervezeti-nyomasra-vizsgaljak-solymosi-tamas-vezetoi-tevekenyseg",
       "url": "/kozelet/2026-11-20-szakszervezeti-nyomasra-vizsgaljak-solymosi-tamas-vezetoi-tevekenyseg/",
@@ -4418,37 +4447,7 @@
         "pos": "top",
         "alt": "Boxes of records in archive processing room\nNorwegian-American Historical Association\n\nLocated on the campus of St. Olaf College, Northfield, Minnesota"
       }
-    },
-    {
-      "id": "cc8e1096-2b67-5b46-af0e-7998ba6aa42d",
-      "slug": "2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos",
-      "url": "/kozelet/2026-11-12-politikai-leszamolast-kialt-a-fidesz-a-lezsak-sandornal-tartott-hatos/",
-      "title": "Politikai leszámolást kiált a Fidesz a Lezsák Sándornál tartott hatósági szemle miatt",
-      "lead": "Több hatóság egyidejűleg tartott házkutatást és lefoglalást Lezsák Sándor alapítványánál Lakiteleken. A Fidesz és a család politikus köre szerint a gyanú szerint az akció közvetlen összefüggésben áll a közelmúltbeli téves ügynöklistás szerepléssel és az azután kibontakozó politikai feszültségekkel.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T14:37:47+01:00",
-      "published_at": "2026-11-12T14:37:47+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.7,
-      "tags": [
-        "Lezsák Sándor",
-        "NAV",
-        "Lakitelek",
-        "ügynökakták",
-        "Fidesz"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Lakitelek_t%C5%91serd%C5%91_l%C3%A9gifot%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 843,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Lakitelek_Tőserdő, Hungary, aerialphotography"
-      }
     }
   ],
-  "updated_at": "2026-11-20T15:04:44+01:00"
+  "updated_at": "2026-11-20T15:40:17+01:00"
 }
