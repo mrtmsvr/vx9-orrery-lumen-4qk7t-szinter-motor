@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "28e62c3e-dee8-5d5b-9ac3-2e76caf7b9b4",
+      "slug": "2026-11-20-a-kepernyoido-uj-arca-amikor-a-kutyu-nem-art",
+      "url": "/eletmod/2026-11-20-a-kepernyoido-uj-arca-amikor-a-kutyu-nem-art/",
+      "title": "A képernyőidő új arca: amikor a kütyü nem árt",
+      "lead": "A magyar szülők mindennapos dilemmája a gyerekek kütyüzése, ám egy friss, nyolc éven át tartó kutatás szerint a képernyőidő önmagában nem ellenség. A vizsgálat eredményei rávilágítanak arra, hogy a tizenévesek kognitív feldolgozási képességei bizonyos esetekben kifejezetten javulhatnak a képernyő előtt töltött idő hatására.",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T09:36:33+01:00",
+      "published_at": "2026-11-20T09:36:33+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "képernyőidő",
+        "kognitív tudomány",
+        "gyereknevelés",
+        "kutatás",
+        "egészség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Child_using_a_low_cost_tablet_computer_in_Thailand.png/1280px-Child_using_a_low_cost_tablet_computer_in_Thailand.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 836,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Child sitting on the floor next to her meal and homework. She is using a low cost Android OS based tablet computer. The image was taken at Ko Lanta Thailand."
+      }
+    },
+    {
       "id": "54dcf181-1fd1-56d7-a4ef-764c97b54c1e",
       "slug": "2026-11-20-megvan-a-dontes-berlinben-igy-szall-be-europa-az-oroszorszaggal-zajlo",
       "url": "/vilag/2026-11-20-megvan-a-dontes-berlinben-igy-szall-be-europa-az-oroszorszaggal-zajlo/",
@@ -4416,37 +4447,7 @@
         "width": 1280,
         "height": 720
       }
-    },
-    {
-      "id": "1e5e5514-f779-5cbf-9bf4-23b4d1903e71",
-      "slug": "2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt",
-      "url": "/kozelet/2026-11-11-orban-viktor-occsenek-koronavirusos-ugyeirol-es-nyomozasokrol-beszelt/",
-      "title": "Orbán Viktor öccsének koronavírusos ügyeiről és nyomozásokról beszélt a Telex",
-      "lead": "A Telex műsorában a covid-időszak alatti botrányokról és Orbán Viktor öccsének érintettségéről beszélgettek a szerkesztők. Szó esett a Nemzeti Nyomozó Iroda vizsgálatairól és a politikai kommunikáció részleteiről is.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T20:33:42+01:00",
-      "published_at": "2026-11-11T20:33:42+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5,
-      "tags": [
-        "koronavírus",
-        "botrány",
-        "nyomozás",
-        "Telex",
-        "politika"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Polizeipr%C3%A4sidium_Komitat_Pest_und_NNI_Polizei%2C_Tag_der_Polizei%2C_2024_Stadtw%C3%A4ldchen.jpg/1280px-Polizeipr%C3%A4sidium_Komitat_Pest_und_NNI_Polizei%2C_Tag_der_Polizei%2C_2024_Stadtw%C3%A4ldchen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Pest County Police Department and the National Standby Police National Bureau of Investigation (NNI Police) - Photo taken on the 11th National Police and Firefighter/Firefighting? Day in Budapest. -"
-      }
     }
   ],
-  "updated_at": "2026-11-20T09:21:24+01:00"
+  "updated_at": "2026-11-20T09:36:34+01:00"
 }
