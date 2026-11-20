@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9839dc67-3381-59ea-9780-a0a79c107d41",
+      "slug": "2026-11-20-szakszervezeti-nyomasra-vizsgaljak-solymosi-tamas-vezetoi-tevekenyseg",
+      "url": "/kozelet/2026-11-20-szakszervezeti-nyomasra-vizsgaljak-solymosi-tamas-vezetoi-tevekenyseg/",
+      "title": "Szakszervezeti nyomásra vizsgálják Solymosi Tamás vezetői tevékenységét az Operaházban",
+      "lead": "Belső vizsgálatot indított a Magyar Állami Operaház új vezetése Solymosi Tamás balettigazgató tevékenysége miatt. A lépésre azután került sor, hogy szakszervezetek és balettművészek is etikai vizsgálatot kezdeményeztek a vezetésnél.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T14:18:14+01:00",
+      "published_at": "2026-11-20T14:18:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.3,
+      "tags": [
+        "Operaház",
+        "Solymosi Tamás",
+        "Ivacs Balázs",
+        "Magyar Nemzeti Balettintézet",
+        "szakszervezet"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Hungarian_State_Opera_House%2C_Budapest%2C_Hungary_%28Ank_Kumar%29_06.jpg/1280px-Hungarian_State_Opera_House%2C_Budapest%2C_Hungary_%28Ank_Kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian State Opera House, Budapest, Hungary"
+      }
+    },
+    {
       "id": "de9a6de7-106f-5a94-9331-0b1b941cc1de",
       "slug": "2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros",
       "url": "/kozelet/2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros/",
@@ -4418,36 +4448,7 @@
         "pos": "center",
         "alt": "Lakitelek_Tőserdő, Hungary, aerialphotography"
       }
-    },
-    {
-      "id": "f21115b2-6b16-5093-b9c1-263b67bf4d8a",
-      "slug": "2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben",
-      "url": "/kozelet/2026-11-11-kilencmilliardos-nav-csapas-volt-allamtitkar-fia-a-celkeresztben/",
-      "title": "Kilencmilliárdos NAV-csapás: volt államtitkár fia a célkeresztben",
-      "lead": "Csaknem negyven helyszínen tartott kutatást a Nemzeti Adó- és Vámhivatal egy több mint kilencmilliárd forintos kárt okozó számlagyár ügyében. Az adóhatóság keddi akciójában huszonhárom embert hallgatott ki gyanúsítottként, a hálózat irányítója pedig a források szerint egy korábbi államtitkár fia.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-12T14:36:31+01:00",
-      "published_at": "2026-11-12T14:36:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.73,
-      "tags": [
-        "NAV",
-        "számlagyár",
-        "költségvetési csalás",
-        "gazdasági bűnözés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/NAV_Gvad%C3%A1nyi_utca_2.jpg/1280px-NAV_Gvad%C3%A1nyi_utca_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian National Tax and Customs Administration, Eastern Pest HQ / central customer service centre"
-      }
     }
   ],
-  "updated_at": "2026-11-20T14:05:48+01:00"
+  "updated_at": "2026-11-20T14:18:16+01:00"
 }
