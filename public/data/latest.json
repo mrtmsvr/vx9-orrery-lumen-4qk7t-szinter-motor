@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "9ecdc67b-7f55-5186-afde-c729a58ab4a9",
+      "slug": "2026-11-20-fideszes-megbizasok-utan-a-tiszaeknak-is-dolgozott-feledy",
+      "url": "/kozelet/2026-11-20-fideszes-megbizasok-utan-a-tiszaeknak-is-dolgozott-feledy/",
+      "title": "Fideszes megbízások után a Tiszáéknak is dolgozott Feledy",
+      "lead": "Újabb fordulatot vett a novemberben menesztett külügyi vezető ügye, miután kiderült: a kormányzati megbízások mellett a Tisza Párt európai parlamenti frakciójától is jelentős összeget kapott. A szerződés ténye azért is érdekes, mert Feledy Botond korábban a Partizán elemzőjeként is tevékenykedett, miközben politikai szereplőknek végzett munkát.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T18:52:07+01:00",
+      "published_at": "2026-11-20T18:52:07+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.4,
+      "tags": [
+        "Feledy Botond",
+        "Tisza Párt",
+        "külpolitika",
+        "Magyar Külügyi Intézet"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-7178900e0d.jpg",
+        "kind": "photo",
+        "alt": "84,2 millió Ft – A Fidesz-közeli megbízások teljes összege",
+        "card": "num"
+      }
+    },
+    {
       "id": "54f5b8af-8bd5-580a-bce1-56dbafd541df",
       "slug": "2026-11-20-ket-evtized-utan-felall-a-kdnp-elerol-semjen-zsolt",
       "url": "/kozelet/2026-11-20-ket-evtized-utan-felall-a-kdnp-elerol-semjen-zsolt/",
@@ -4416,37 +4443,7 @@
         "pos": "center",
         "alt": "An aerial view – facing southwest – of the Logan Circle neighborhood in Washington, D.C."
       }
-    },
-    {
-      "id": "deec3df1-2cb0-59ef-92c1-3ac73fe3caf8",
-      "slug": "2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan",
-      "url": "/kozelet/2026-11-12-magyar-peter-ratifikaljak-az-isztambuli-egyezmenyt-eltorlik-a-szivhan/",
-      "title": "Magyar Péter: Ratifikálják az isztambuli egyezményt, eltörlik a szívhangrendeletet",
-      "lead": "Átfogó intézkedéscsomagot jelentett be a nők biztonságáért csütörtökön Magyar Péter. A kormány egyebek mellett kezdeményezi az Isztambuli Egyezmény ratifikálását, és megszünteti az esemény utáni tabletta vénykötelességét.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T15:58:10+01:00",
-      "published_at": "2026-11-12T15:58:10+01:00",
-      "reading_time_min": 3,
-      "hot_score": 15.31,
-      "tags": [
-        "Magyar Péter",
-        "nőjogok",
-        "Isztambuli Egyezmény",
-        "egészségügy",
-        "abortusz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/FEMA_-_18213_-_Photograph_by_Robert_Kaufmann_taken_on_10-25-2005_in_Louisiana.jpg/1280px-FEMA_-_18213_-_Photograph_by_Robert_Kaufmann_taken_on_10-25-2005_in_Louisiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Belle Chasse, LA, October 25, 2005 - This is the main patient area inside of the Mobile Medical Unit being operated in Belle Chasse, Louisiana.  This configuration is an emergency department with mino"
-      }
     }
   ],
-  "updated_at": "2026-11-20T18:22:01+01:00"
+  "updated_at": "2026-11-20T18:52:10+01:00"
 }
