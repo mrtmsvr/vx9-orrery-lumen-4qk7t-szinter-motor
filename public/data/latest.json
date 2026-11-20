@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "02b0f7f8-1e7c-5636-b87b-025723cb4129",
+      "slug": "2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-fizetoeszko",
+      "url": "/penzvilag/2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-fizetoeszko/",
+      "title": "370 fölött az euró: megint megköszörülte a nyakát a magyar fizetőeszköz",
+      "lead": "Jelentős esést könyvelhetett el a hazai fizetőeszköz, miután az euró árfolyama átlépte a 370 forintos szintet. A gyengülés mögött amerikai kamatemelési várakozások és hazai jegybanki jelzések húzódnak meg.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T06:15:19+01:00",
+      "published_at": "2026-11-20T06:15:19+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.3,
+      "tags": [
+        "forint",
+        "euró",
+        "árfolyam",
+        "MNB",
+        "infláció"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Budapest_Stock_Exchange_Palace.jpg/1280px-Budapest_Stock_Exchange_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 798,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Budapest's Stock Exchange Palace in Szabadság tér."
+      }
+    },
+    {
       "id": "6f9fbd37-7b41-5959-a8af-b86981c93724",
       "slug": "2026-11-19-uj-zenekarral-es-hajos-koncerttel-ter-vissza-a-tankcsapda-volt-gitaro",
       "url": "/kultura/2026-11-19-uj-zenekarral-es-hajos-koncerttel-ter-vissza-a-tankcsapda-volt-gitaro/",
@@ -4415,34 +4445,7 @@
         "pos": "top",
         "alt": "Official portrait of Giorgia Meloni in 2024"
       }
-    },
-    {
-      "id": "5c053be1-679d-5991-ab24-32a24f435603",
-      "slug": "2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket",
-      "url": "/kozelet/2026-11-11-varga-judit-magyar-peter-a-gyuloletevel-mergezi-az-embereket/",
-      "title": "Varga Judit: Magyar Péter a gyűlöletével mérgezi az embereket",
-      "lead": "Szerdán az Országgyűlés végrehajtási visszaéléseket vizsgáló bizottsága előtt hallgatták meg Varga Judit egykori igazságügyi minisztert. A volt tárcavezető többek között a Magyar Péterrel való közös múltjáról és a Völner–Schadl-ügyről is beszélt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T16:59:38+01:00",
-      "published_at": "2026-11-11T16:59:38+01:00",
-      "reading_time_min": 2,
-      "hot_score": 14.7,
-      "tags": [
-        "Magyar Péter",
-        "Varga Judit",
-        "Parlamenti vizsgálóbizottság",
-        "Völner-Schadl-ügy"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-5cf3fdcd0e.jpg",
-        "kind": "photo",
-        "alt": "Varga Judit: Magyar Péter a gyűlöletével mérgezi az embereket",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-20T00:00:30+01:00"
+  "updated_at": "2026-11-20T06:15:22+01:00"
 }
