@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ec98bce1-edb5-50e2-8a58-d84b571645ff",
+      "slug": "2026-11-20-nem-igaz-hogy-tiltolistara-kerultek-az-obp-bol-felmondott-apolok",
+      "url": "/kozelet/2026-11-20-nem-igaz-hogy-tiltolistara-kerultek-az-obp-bol-felmondott-apolok/",
+      "title": "Nem igaz, hogy tiltólistára kerültek az OBP-ből felmondott ápolók",
+      "lead": "Hegedűs Zsolt egészségügyi miniszter határozottan visszautasította azokat a híreket, amelyek szerint a többi fővárosi kórház utasítást kapott volna a felmondott traumatológiai ápolók elutasítására. Az ügy hátterében az Országos Baleseti Intézet intenzív osztályáról távozó tizenhárom szakember felmondása áll.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T08:04:36+01:00",
+      "published_at": "2026-11-20T08:04:36+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Hegedűs Zsolt",
+        "egészségügy",
+        "Országos Baleseti Intézet",
+        "szakdolgozók",
+        "bérrendezés"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zsolt_Heged%C5%B1s_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1817,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Employment, Social Policy, Health and Consumer Affairs Council (Health) Doorstep Zsolt HEGEDŰS, Minister of Health of Hungary"
+      }
+    },
+    {
       "id": "02b0f7f8-1e7c-5636-b87b-025723cb4129",
       "slug": "2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-fizetoeszko",
       "url": "/penzvilag/2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-fizetoeszko/",
@@ -4415,37 +4445,7 @@
         "width": 1280,
         "height": 720
       }
-    },
-    {
-      "id": "49aa8872-f362-5f51-bd12-37a3932c1122",
-      "slug": "2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek",
-      "url": "/vilag/2026-11-11-giorgia-meloni-halalaval-es-az-olaszok-megsemmisitesevel-fenyegetnek/",
-      "title": "Giorgia Meloni halálával és az olaszok megsemmisítésével fenyegetnek Tajvanról",
-      "lead": "Több ezer olasz oktatási intézmény kapott szerdán fenyegető e-mailt, amely az olaszok megsemmisítésével és a miniszterelnök meggyilkolásával fenyegetőzött. A hatóságok vizsgálják az üzeneteket, amelyek mögött egyelőre ismeretlen elkövetők állnak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T18:40:40+01:00",
-      "published_at": "2026-11-11T18:40:40+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Olaszország",
-        "bombariadó",
-        "Giorgia Meloni",
-        "iskola",
-        "kiberbiztonság"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giorgia_Meloni_Official_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1581,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Official portrait of Giorgia Meloni in 2024"
-      }
     }
   ],
-  "updated_at": "2026-11-20T07:34:05+01:00"
+  "updated_at": "2026-11-20T08:04:37+01:00"
 }
