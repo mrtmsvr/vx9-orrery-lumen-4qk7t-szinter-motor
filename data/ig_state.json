@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "0ff3eed13b",
-      "art_id": "4c187429-c4b6-5acd-8643-2d76fb980736",
-      "title": "Döbbenetes uniós rangsor: nálunk kerül a legtöbbe a telefonálás",
-      "url": "/penzvilag/2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefonalas/",
-      "card": "public/img/ig/2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefona.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-dobbenetes-unios-rangsor-nalunk-kerul-a-legtobbe-a-telefona.jpg",
-      "caption": "Döbbenetes uniós rangsor: nálunk kerül a legtöbbe a telefonálás\n\nVásárlóerő-paritáson számolva több kategóriában is Magyarországon a legmagasabbak a mobiltarifák az Európai Unióban. Az Európai Bizottság friss tanulmánya szerint a sokat telefonálók és a nagyobb adatkeretet használók fizetik a leginkább borsos árakat.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#mobilnet #távközlés #infláció #hírek #kollektíva",
-      "created": "2026-10-16T10:51:02+02:00",
-      "due": "2026-10-16T11:36:02+02:00",
-      "status": "failed",
-      "tg": [
-        6675,
-        6676
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "92527223b2",
       "art_id": "7775b674-e788-5485-9844-925832c8f0b5",
       "title": "A cégek hajtják a magyar elektromosautó-piacot",
@@ -3586,6 +3569,21 @@
       "container": "18139903045718522",
       "media_id": "18080401787738744",
       "posted": "2026-11-19T17:12:22+01:00"
+    },
+    {
+      "id": "50ca2680a5",
+      "art_id": "02b0f7f8-1e7c-5636-b87b-025723cb4129",
+      "title": "370 fölött az euró: megint megköszörülte a nyakát a magyar fizetőeszköz",
+      "url": "/penzvilag/2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-fizetoeszko/",
+      "card": "public/img/ig/2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-f.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-20-370-folott-az-euro-megint-megkoszorulte-a-nyakat-a-magyar-f.jpg",
+      "caption": "370 fölött az euró: megint megköszörülte a nyakát a magyar fizetőeszköz\n\nJelentős esést könyvelhetett el a hazai fizetőeszköz, miután az euró árfolyama átlépte a 370 forintos szintet. A gyengülés mögött amerikai kamatemelési várakozások és hazai jegybanki jelzések húzódnak meg.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#forint #euró #gazdaság #hírek #magyarország",
+      "created": "2026-11-20T08:00:31+01:00",
+      "due": "2026-11-20T08:45:31+01:00",
+      "status": "queued",
+      "tg": [
+        10563
+      ]
     }
   ],
   "token": {
