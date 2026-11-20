@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c885156f-0584-5127-990b-4f9984a639a8",
+      "slug": "2026-11-20-kulon-kezelik-a-volt-tek-vezer-ugyet-az-aranykonvoj-botranyban",
+      "url": "/kozelet/2026-11-20-kulon-kezelik-a-volt-tek-vezer-ugyet-az-aranykonvoj-botranyban/",
+      "title": "Külön kezelik a volt TEK-vezér ügyét az aranykonvoj-botrányban",
+      "lead": "A Központi Nyomozó Főügyészség elkülönítette a Hajdu János volt TEK-főigazgató és társai ellen indult eljárást az aranykonvojügy további szálaitól. A döntést azzal indokolták, hogy a különböző bűncselekmények együttes vizsgálata jelentősen megnehezítené az eljárást.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T18:56:38+01:00",
+      "published_at": "2026-11-20T18:56:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.04,
+      "tags": [
+        "KNYF",
+        "aranykonvojügy",
+        "Hajdu János",
+        "Terrorelhárítási Központ",
+        "nyomozás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Insigne_du_Terrorelh%C3%A1r%C3%ADt%C3%A1si_K%C3%B6zpontot_%28TEK%29.svg/1280px-Insigne_du_Terrorelh%C3%A1r%C3%ADt%C3%A1si_K%C3%B6zpontot_%28TEK%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Créer sur Inkscape par Futurhit12"
+      }
+    },
+    {
       "id": "9ecdc67b-7f55-5186-afde-c729a58ab4a9",
       "slug": "2026-11-20-fideszes-megbizasok-utan-a-tiszaeknak-is-dolgozott-feledy",
       "url": "/kozelet/2026-11-20-fideszes-megbizasok-utan-a-tiszaeknak-is-dolgozott-feledy/",
@@ -4414,36 +4444,7 @@
         "pos": "center",
         "alt": "The Stadion Sóstói just before the Fehérvár FC-Vasas match, Székesfehérvár, Hungary"
       }
-    },
-    {
-      "id": "5cfae5ba-9317-5864-87c7-de234a11ec5f",
-      "slug": "2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost",
-      "url": "/vilag/2026-11-12-veres-tamadas-washingtonban-rendorok-zartak-le-a-belvarost/",
-      "title": "Véres támadás Washingtonban: rendőrök zárták le a belvárost",
-      "lead": "Fegyveres támadó nyitott tüzet csütörtök reggel Washington belvárosában, a Fehér Háztól mindössze másfél kilométerre. A férfi legalább öt embert sebesített meg, mielőtt egy közeli lakóépületbe menekült volna.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T16:54:52+01:00",
-      "published_at": "2026-11-12T16:54:52+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Washington",
-        "bűnügy",
-        "USA",
-        "biztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Aerial_view_of_Logan_Circle.jpg/1280px-Aerial_view_of_Logan_Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 878,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "An aerial view – facing southwest – of the Logan Circle neighborhood in Washington, D.C."
-      }
     }
   ],
-  "updated_at": "2026-11-20T18:52:10+01:00"
+  "updated_at": "2026-11-20T18:56:41+01:00"
 }
