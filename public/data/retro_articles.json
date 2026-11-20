@@ -1,7 +1,139 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T00:00:29+01:00",
+  "updated_at": "2026-11-21T00:11:55+01:00",
   "articles": [
+    {
+      "id": "b60b591d-dad9-5748-aaf5-59947ff34bac",
+      "slug": "2026-11-21-a-mayflower-fedelzeten-szuletett-meg-az-uj-vilag-elso-alapszabalya",
+      "status": "published",
+      "category": "retro",
+      "subcategory": null,
+      "tags": [
+        "Mayflower",
+        "zarándokatyák",
+        "Plymouth kolónia",
+        "történelem",
+        "1620"
+      ],
+      "title": "A Mayflower fedélzetén született meg az új világ első alapszabálya",
+      "subtitle": null,
+      "lead": "Pontosan 1620 novemberében, miközben a Mayflower a mai Provincetown kikötőjében horgonyzott, a hajó 41 utasa aláírta a Plymouth-i kolónia első kormányzati dokumentumát. Ezzel a lépéssel egy olyan történelmi megállapodás született meg, amely mára az amerikai hagyományok szerves részévé vált.",
+      "content": "> A Mayflower Compact aláírásával olyan közös alapszabály született, amely lefektette az új világ egyik legfontosabb korai telephelyének alapjait.\n\nAz óceánt átszelő Mayflower útja a történelem legikonikusabb hajóútjai közé tartozik. A fedélzeten utazott az angol puritánok első csoportja, a zarándokatyák, akik az angliai Plymouth városából indultak el az újvilág felé, hogy saját hiedelmeik szerint élhessenek és új kolóniát hozzanak létre.\n\nA Plymouth kolóniát a Zarándok Atyák alapították meg 1620-ban. Ez a település lett az első állandó angol kolónia New England területén, valamint a harmadik az egész amerikai kontinensen Newfoundland és Jamestown után. A területet korábban már felmérték és elnevezték John Smith kapitány irányításával, a későbbi főváros pedig Plymouth néven vált ismertté a mai Massachusetts területén.\n\nMaga a dokumentum, amely hivatalosan az Agreement Between the Settlers of New Plymouth címet viselte, de a történelemben Mayflower Compact néven híresült el, a hajón tartózkodó férfiak közös munkájaként jött létre. A közösség tagjai között szeparatista puritánok, kalandorok és különböző mesteremberek is helyet kaptak.\n\nBár a megállapodás tartalmazott egy hivatalos hűségnyilatkozatot az uralkodóhoz, I. Jakab angol királyhoz, a helyzet korántsem volt feszültségmentes. A puritánok és a többi protestáns szeparatista ugyanis mélységesen elégedetlen volt az anglikán egyház akkori állapotával, az angol reformáció korlátozott jellegével, valamint azzal, hogy a király vonakodott további reformokat bevezetni.\n\nA Plymouth kolónia virágkorában Massachusetts délkeleti részének nagy részét elfoglalta, és földrajzilag nagyrészt lefedte a későbbi Plymouth, Barnstable és Bristol megyék területét, amelyeket a kolóniák saját bírósága hozott létre.\n\nAz itt zajló események és a telepesek sorsa mára kitörölhetetlenül beleivódott az amerikai folklore-ba. A Plymouth Rock emlékműve mellett a hálaadás amerikai hagyománya is szorosan ehhez a korai időszakhoz és a Mayflower utasainak nevéhez kötődik.",
+      "content_format": "markdown",
+      "body": [
+        "Az óceánt átszelő Mayflower útja a történelem legikonikusabb hajóútjai közé tartozik. A fedélzeten utazott az angol puritánok első csoportja, a zarándokatyák, akik az angliai Plymouth városából indultak el az újvilág felé, hogy saját hiedelmeik szerint élhessenek és új kolóniát hozzanak létre.",
+        "A Plymouth kolóniát a Zarándok Atyák alapították meg 1620-ban. Ez a település lett az első állandó angol kolónia New England területén, valamint a harmadik az egész amerikai kontinensen Newfoundland és Jamestown után. A területet korábban már felmérték és elnevezték John Smith kapitány irányításával, a későbbi főváros pedig Plymouth néven vált ismertté a mai Massachusetts területén.",
+        "Maga a dokumentum, amely hivatalosan az Agreement Between the Settlers of New Plymouth címet viselte, de a történelemben Mayflower Compact néven híresült el, a hajón tartózkodó férfiak közös munkájaként jött létre. A közösség tagjai között szeparatista puritánok, kalandorok és különböző mesteremberek is helyet kaptak.",
+        "Bár a megállapodás tartalmazott egy hivatalos hűségnyilatkozatot az uralkodóhoz, I. Jakab angol királyhoz, a helyzet korántsem volt feszültségmentes. A puritánok és a többi protestáns szeparatista ugyanis mélységesen elégedetlen volt az anglikán egyház akkori állapotával, az angol reformáció korlátozott jellegével, valamint azzal, hogy a király vonakodott további reformokat bevezetni.",
+        "A Plymouth kolónia virágkorában Massachusetts délkeleti részének nagy részét elfoglalta, és földrajzilag nagyrészt lefedte a későbbi Plymouth, Barnstable és Bristol megyék területét, amelyeket a kolóniák saját bírósága hozott létre.",
+        "Az itt zajló események és a telepesek sorsa mára kitörölhetetlenül beleivódott az amerikai folklore-ba. A Plymouth Rock emlékműve mellett a hálaadás amerikai hagyománya is szorosan ehhez a korai időszakhoz és a Mayflower utasainak nevéhez kötődik."
+      ],
+      "pull_quote": "A Mayflower Compact aláírásával olyan közös alapszabály született, amely lefektette az új világ egyik legfontosabb korai telephelyének alapjait.",
+      "reading_time_min": 2,
+      "word_count": 294,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Plymouth_Colony_map.svg/1280px-Plymouth_Colony_map.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 962,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Map of the Plymouth Colony",
+        "credit": "Hoodinski / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Plymouth_Colony_map.svg"
+      },
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mayflower_Compact",
+          "title": "Mayflower Compact",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+          "title": "Plymouth Colony",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Mayflower_Compact",
+          "title": "Mayflower Compact",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://www.history.com/topics/colonial-america/mayflower-compact",
+          "title": "History",
+          "publisher": "History",
+          "license": null,
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://id.loc.gov/authorities/n82112952",
+          "title": "Library of Congress",
+          "publisher": "Library of Congress",
+          "license": null,
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Mayflower_(haj%C3%B3)",
+          "title": "Mayflower (hajó)",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        },
+        {
+          "url": "https://www.telegraph.co.uk/travel/destinations/north-america/united-states/articles/how-coronavirus-killed-the-mayflower/",
+          "title": "The Telegraph",
+          "publisher": "The Telegraph",
+          "license": null,
+          "accessed_at": "2026-11-21T00:11:55+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "retro-v1",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "category_meta": {
+        "event_year": 1620,
+        "event_date": "11-21",
+        "event_title": "The Mayflower Compact, the first governing document of the Plymouth Colony, was signed by 41 of the Mayflower's passenge"
+      },
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "url": "/retro/2026-11-21-a-mayflower-fedelzeten-szuletett-meg-az-uj-vilag-elso-alapszabalya/",
+      "seo": {
+        "meta_title": "A Mayflower fedélzetén született meg az új világ első alapsz",
+        "meta_description": "Pontosan 1620 novemberében, miközben a Mayflower a mai Provincetown kikötőjében horgonyzott, a hajó 41 utasa aláírta a Plymouth-i kolónia első kormányzati dokum",
+        "canonical_url": "https://xn--kollektva-m5a.hu/retro/2026-11-21-a-mayflower-fedelzeten-szuletett-meg-az-uj-vilag-elso-alapszabalya/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "4f8edc2e9c981c5a41a643ac6f5eeb23bb87bcd2ae3bc34e3dd3bab6cc2552d4",
+      "pipeline_run_id": "44831519475",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-21T00:11:55+01:00",
+      "updated_at": "2026-11-21T00:11:55+01:00",
+      "published_at": "2026-11-21T00:11:55+01:00",
+      "expires_at": null
+    },
     {
       "id": "b79ec744-ab5b-5bcc-aa53-dc67354739e1",
       "slug": "2026-11-20-a-tortenelem-igazsagszolgaltatasanak-kezdete-a-nurnbergi-per",
