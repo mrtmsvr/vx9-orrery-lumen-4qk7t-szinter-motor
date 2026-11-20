@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "79632e2b-40d5-553c-a91d-9f2d02b277fa",
+      "slug": "2026-11-20-unger-anna-nem-fogadunk-el-politikai-megrendeleseket-a-vagyonmentesne",
+      "url": "/kozelet/2026-11-20-unger-anna-nem-fogadunk-el-politikai-megrendeleseket-a-vagyonmentesne/",
+      "title": "Unger Anna: Nem fogadunk el politikai megrendeléseket a vagyonmentésnél",
+      "lead": "Unger Anna, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke a Magyar Hangnak adott interjúban kijelentette, hogy nem fogad el politikai megrendeléseket az eljárásokhoz. Hozzátette, hogy a szervezet jelenleg a nulláról építkezik, miközben a Seszták-ügyben előkerült milliárdok hátterét is vizsgálják.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T12:57:49+01:00",
+      "published_at": "2026-11-20T12:57:49+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.45,
+      "tags": [
+        "NVVH",
+        "Unger Anna",
+        "Seszták Miklós",
+        "korrupció",
+        "Magyar Hang"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Anna_Unger_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1797,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Political scientist Anna Unger, the President of the National Asset Recovery and Protection Office"
+      }
+    },
+    {
       "id": "c6387029-1050-5e03-b5b0-bd6e5d8a264e",
       "slug": "2026-11-20-ferencvaros-polgarmestere-szerint-hatba-szurta-a-keruleteket-karacson",
       "url": "/kozelet/2026-11-20-ferencvaros-polgarmestere-szerint-hatba-szurta-a-keruleteket-karacson/",
@@ -4417,37 +4447,7 @@
         "pos": "center",
         "alt": "TGV TMST n°3011/2 à la sortie du Tunnel sous la Manche à Coquelles, côté Français."
       }
-    },
-    {
-      "id": "b096decc-ab82-50b6-bbd6-6ffd434aec09",
-      "slug": "2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok",
-      "url": "/vilag/2026-11-11-europat-is-elerhetik-az-irani-megtorlo-csapasok/",
-      "title": "Európát is elérhetik az iráni megtorló csapások",
-      "lead": "Irán Legfelsőbb Nemzetbiztonsági Tanácsának titkára, Mohszen Rezai kijelentette, hogy az európai és távolibb amerikai katonai támaszpontokat is célba veszik, ha azokat Irán elleni támadásokhoz használják. A fenyegetés újabb feszültséget teremt a washingtoni vezetéssel, miközben a diplomáciai csatornák akadoznak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T21:17:52+01:00",
-      "published_at": "2026-11-11T21:17:52+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.98,
-      "tags": [
-        "Irán",
-        "Egyesült Államok",
-        "Európa",
-        "katonai bázis",
-        "Mohszen Rezai"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Mohsen_Rezaee_in_2020.jpg/1280px-Mohsen_Rezaee_in_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1445,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "محسن رضایی"
-      }
     }
   ],
-  "updated_at": "2026-11-20T12:04:30+01:00"
+  "updated_at": "2026-11-20T12:57:51+01:00"
 }
