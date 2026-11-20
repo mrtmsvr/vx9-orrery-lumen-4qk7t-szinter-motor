@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "e1a59a4c76",
-      "art_id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
-      "title": "Lekerült Ukrajna listájáról Kerkez Milos",
-      "url": "/kozelet/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos/",
-      "card": "public/img/ig/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-lekerult-a-mirotvorec-listajarol-kerkez-milos.jpg",
-      "caption": "Lekerült Ukrajna listájáról Kerkez Milos\n\nKerkez Milos labdarúgó lekerült az Ukrajna ellenségeit listázó Mirotvorec honlapról a Magyar Labdarúgó Szövetség és a külügyminisztérium közbenjárására. Az ügy előzménye egy budapesti válogatott mérkőzés és az azt követő közösségi médiás megosztás volt.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#kerkezmilos #mirotvorec #magyarlabdarúgószövetség #hírek #kollektíva",
-      "created": "2026-10-16T13:03:38+02:00",
-      "due": "2026-10-16T13:48:38+02:00",
-      "status": "failed",
-      "tg": [
-        6804,
-        6805
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "0a0afd72b5",
       "art_id": "97f13216-f90f-5d40-a246-944b2d47cb63",
       "title": "Megfordult a dollár, erősödik a magyar fizetőeszköz",
@@ -3589,6 +3572,19 @@
       "container": "18140070577718522",
       "media_id": "17967372159215179",
       "posted": "2026-11-20T14:09:02+01:00"
+    },
+    {
+      "id": "7a90973e6c",
+      "art_id": "cb8b64f4-55c1-599a-83dc-80a115b4575a",
+      "title": "Megállt a BRFK létszámcsökkenése, de a hiány marad",
+      "url": "/kozelet/2026-11-20-megallt-a-brfk-letszamcsokkenese-de-a-hiany-marad/",
+      "card": "public/img/ig/2026-11-20-megallt-a-brfk-letszamcsokkenese-de-a-hiany-marad.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-20-megallt-a-brfk-letszamcsokkenese-de-a-hiany-marad.jpg",
+      "caption": "Megállt a BRFK létszámcsökkenése, de a hiány marad\n\nBár a Budapesti Rendőr-főkapitányság állományának csökkenése az elmúlt fél évben megállt, továbbra is kétezer rendőr hiányzik a fővárosból – közölte Baricska Norbert Tamás budapesti rendőrfőkapitány a főváros közbiztonsági helyzetéről tartott sajtótájékoztatóján.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#brfk #rendőrség #belföld #hírek #magyarország",
+      "created": "2026-11-20T16:04:09+01:00",
+      "due": "2026-11-20T16:49:09+01:00",
+      "status": "queued",
+      "tg": []
     }
   ],
   "token": {
