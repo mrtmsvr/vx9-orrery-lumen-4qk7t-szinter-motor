@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3fab0601-e462-58cc-98ae-6f4853a1676b",
+      "slug": "2026-11-20-tiz-ev-szakitas-utan-bekulne-az-eu-es-london",
+      "url": "/vilag/2026-11-20-tiz-ev-szakitas-utan-bekulne-az-eu-es-london/",
+      "title": "Tíz év szakítás után békülne az EU és London",
+      "lead": "Pénteken Brüsszelben tartott csúcstalálkozójukon az Európai Unió és az Egyesült Királyság vezetői áttörést értek el az élelmiszer-kereskedelem, az ifjúsági mobilitás és a klímavédelem terén. A megállapodás célja, hogy a tíz éve történt Brexit után szorosabbra fűzze a felek gazdasági és politikai kapcsolatait.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T18:59:00+01:00",
+      "published_at": "2026-11-20T18:59:00+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "Egyesült Királyság",
+        "Európai Unió",
+        "Brexit",
+        "gazdaság",
+        "Erasmus"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Ursel_gut_frisiert.jpg/1280px-Ursel_gut_frisiert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1226,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "In the annual State of the European Union debate, MEPs quizzed President von der Leyen on the Commission’s work since the beginning of its new mandate and its upcoming plans.\nOpening the debate, EP Pr"
+      }
+    },
+    {
       "id": "c885156f-0584-5127-990b-4f9984a639a8",
       "slug": "2026-11-20-kulon-kezelik-a-volt-tek-vezer-ugyet-az-aranykonvoj-botranyban",
       "url": "/kozelet/2026-11-20-kulon-kezelik-a-volt-tek-vezer-ugyet-az-aranykonvoj-botranyban/",
@@ -4414,37 +4444,7 @@
         "pos": "center",
         "alt": "Dublin aerial photograph"
       }
-    },
-    {
-      "id": "224e55ee-8699-5520-a8e9-ea46621dd9ed",
-      "slug": "2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme",
-      "url": "/kozelet/2026-11-12-nav-razzia-a-sostoi-stadionban-sulyos-millios-kerdes-a-videoton-megme/",
-      "title": "NAV-razzia a Sóstói Stadionban: kérdések a Videoton megmentése körül",
-      "lead": "Iratokat és adathordozókat foglalt le a Nemzeti Adó- és Vámhivatal a székesfehérvári Sóstói Stadionban a Videoton tavalyi megmentése kapcsán felmerült körülmények miatt. A városvezetés szerint az eljárás nemcsak jogi, de anyagi szempontból is hatással lehet a klub jövőjére nézve.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T17:26:46+01:00",
-      "published_at": "2026-11-12T17:26:46+01:00",
-      "reading_time_min": 3,
-      "hot_score": 11.23,
-      "tags": [
-        "Székesfehérvár",
-        "NAV",
-        "Videoton",
-        "Cser-Palkovics András",
-        "labdarúgás"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/S%C3%B3st%C3%B3i_Stadion_Feh%C3%A9rv%C3%A1r_FC-Vasas_2009-05-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Stadion Sóstói just before the Fehérvár FC-Vasas match, Székesfehérvár, Hungary"
-      }
     }
   ],
-  "updated_at": "2026-11-20T18:56:41+01:00"
+  "updated_at": "2026-11-20T19:00:03+01:00"
 }
