@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "923add46-beb2-54b5-b5ad-23fe551cbb49",
+      "slug": "2026-11-20-teljes-sotetbe-borult-kijev-halalos-legicsapasok-benitottak-meg-az-uk",
+      "url": "/vilag/2026-11-20-teljes-sotetbe-borult-kijev-halalos-legicsapasok-benitottak-meg-az-uk/",
+      "title": "Teljes sötétbe borult Kijev: halálos légicsapások bénították meg az ukrán fővárost",
+      "lead": "Péntekre virradó éjszaka nagyszabású orosz légicsapások érték Kijevet és több ukrajnai régiót, amelyek következtében hárman meghaltak a fővárosban, hidak rongálódtak meg, és kiterjedt áramszünetek bénították meg a mindennapokat. A támadássorozat súlyosan érintette az ország energetikai infrastruktúráját és a lakosság ellátását.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T12:58:53+01:00",
+      "published_at": "2026-11-20T12:58:53+01:00",
+      "reading_time_min": 2,
+      "hot_score": 9.75,
+      "tags": [
+        "Kijev",
+        "légicsapás",
+        "orosz-ukrán háború",
+        "energetika",
+        "Lengyelország"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vitali_Klitschko_in_2024.jpg/1280px-Vitali_Klitschko_in_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Мер Києва Віталій Кличко відкрив рух новим шляхопроводом на Оболоні – проїзд вулицею Полярною естакадою через Богатирську. Повністю завершити роботи на об’єкті і відкрити рух з'їздами зі шляхопроводу"
+      }
+    },
+    {
       "id": "79632e2b-40d5-553c-a91d-9f2d02b277fa",
       "slug": "2026-11-20-unger-anna-nem-fogadunk-el-politikai-megrendeleseket-a-vagyonmentesne",
       "url": "/kozelet/2026-11-20-unger-anna-nem-fogadunk-el-politikai-megrendeleseket-a-vagyonmentesne/",
@@ -4417,37 +4447,7 @@
         "width": 1280,
         "height": 720
       }
-    },
-    {
-      "id": "f55af31c-e06f-5a8d-a8c6-56a43ef48c39",
-      "slug": "2026-11-12-bombaeles-helyzet-calais-ban-lezartak-a-csatorna-alagut-kulcsfontossa",
-      "url": "/vilag/2026-11-12-bombaeles-helyzet-calais-ban-lezartak-a-csatorna-alagut-kulcsfontossa/",
-      "title": "Bombaéles helyzet Calais-ban: lezárták a Csatorna-alagút kulcsfontosságú kapuját",
-      "lead": "Bombariadó miatt le kellett zárni az észak-franciaországi Calais-Frethun vasútállomást, ami súlyos zavarokat okozhat a nemzetközi vasúti közlekedésben. A hatóságok azonnal megkezdték a helyzet felmérését a stratégiai jelentőségű csomópontban.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T10:50:31+01:00",
-      "published_at": "2026-11-12T10:50:31+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5,
-      "tags": [
-        "Franciaország",
-        "bombariadó",
-        "vasút",
-        "közlekedés",
-        "Csatorna-alagút"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/1280px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 769,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "TGV TMST n°3011/2 à la sortie du Tunnel sous la Manche à Coquelles, côté Français."
-      }
     }
   ],
-  "updated_at": "2026-11-20T12:57:51+01:00"
+  "updated_at": "2026-11-20T12:58:56+01:00"
 }
