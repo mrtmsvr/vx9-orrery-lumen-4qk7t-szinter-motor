@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "b5bad3ea84",
-      "art_id": "c5af7961-925a-5166-845c-7dddc1d830e5",
-      "title": "Unicummal indult, vitával zárult a Fővárosi Közgyűlés pénteki ülése",
-      "url": "/kozelet/2026-10-16-unicummal-indult-vitaval-zarult-a-fovarosi-kozgyules-penteki-ulese/",
-      "card": "public/img/ig/2026-10-16-unicummal-indult-vitaval-zarult-a-fovarosi-kozgyules-pentek.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-unicummal-indult-vitaval-zarult-a-fovarosi-kozgyules-pentek.jpg",
-      "caption": "Unicummal indult, vitával zárult a Fővárosi Közgyűlés pénteki ülése\n\nAlig húsz percig tartott a Fővárosi Közgyűlés pénteki rendkívüli ülése, amelyet a Fidesz-frakció hívott össze a főpolgármester szavazati jogának korlátozására. Az esemény végül a napirend elfogadása nélkül, heves viták közepette zárult.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#fővárosiközgyűlés #karácsonygergely #városháza #hírek #kollektíva",
-      "created": "2026-10-16T12:33:30+02:00",
-      "due": "2026-10-16T13:18:30+02:00",
-      "status": "failed",
-      "tg": [
-        6802,
-        6803
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "e1a59a4c76",
       "art_id": "31f0ea3f-8527-5b52-b761-69c9988e4bcd",
       "title": "Lekerült Ukrajna listájáról Kerkez Milos",
@@ -3588,6 +3571,21 @@
       "container": "18140045692718522",
       "media_id": "18147809218511044",
       "posted": "2026-11-20T11:27:04+01:00"
+    },
+    {
+      "id": "fdcb438198",
+      "art_id": "e98962a9-3b26-5090-8bb5-0e2d9716032b",
+      "title": "Házkutatás és kávézás Marine Le Penéknél: a francia belügy nyomoz a szivárgások miatt",
+      "url": "/vilag/2026-11-20-hazkutatas-es-kavezas-marine-le-peneknel-a-francia-belugy-nyomoz-a-sz/",
+      "card": "public/img/ig/2026-11-20-hazkutatas-es-kavezas-marine-le-peneknel-a-francia-belugy-n.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-20-hazkutatas-es-kavezas-marine-le-peneknel-a-francia-belugy-n.jpg",
+      "caption": "Házkutatás és kávézás Marine Le Penéknél: a francia belügy nyomoz a szivárgások miatt\n\nHázkutatást tartottak a francia Nemzeti Tömörülés párt irodáiban és a belügyminisztériumban nyomozati anyagok kiszivárogtatásának gyanúja miatt. Az eljárás középpontjában a tárca korábbi főtitkára áll, aki kulcspozíciót kaphatna egy esetleges elnöki győzelem esetén.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#marinelepen #franciaország #külföld #hírek #magyarország",
+      "created": "2026-11-20T13:21:53+01:00",
+      "due": "2026-11-20T14:06:53+01:00",
+      "status": "queued",
+      "tg": [
+        10581
+      ]
     }
   ],
   "token": {
