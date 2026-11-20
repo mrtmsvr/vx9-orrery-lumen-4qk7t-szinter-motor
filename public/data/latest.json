@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "de9a6de7-106f-5a94-9331-0b1b941cc1de",
+      "slug": "2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros",
+      "url": "/kozelet/2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros/",
+      "title": "Magyar Péternél lobbizik a csőd szélén táncoló Dunaújváros",
+      "lead": "A fizetésképtelenség határára sodródott Dunaújváros önkormányzata, miután az elmúlt években milliárdos adóbevételektől esett el. Pintér Tamás polgármester személyes egyeztetésre hívta Magyar Péteröt, aki pozitívan fogadta a megkeresést.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T13:00:59+01:00",
+      "published_at": "2026-11-20T13:00:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 8.69,
+      "tags": [
+        "Dunaújváros",
+        "Magyar Péter",
+        "önkormányzat",
+        "gazdasági válság",
+        "Dunaferr"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dunaferr.jpg/1280px-Dunaferr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The Dunaferr forge's gate"
+      }
+    },
+    {
       "id": "923add46-beb2-54b5-b5ad-23fe551cbb49",
       "slug": "2026-11-20-teljes-sotetbe-borult-kijev-halalos-legicsapasok-benitottak-meg-az-uk",
       "url": "/vilag/2026-11-20-teljes-sotetbe-borult-kijev-halalos-legicsapasok-benitottak-meg-az-uk/",
@@ -4417,37 +4447,7 @@
         "pos": "center",
         "alt": "Hungarian National Tax and Customs Administration, Eastern Pest HQ / central customer service centre"
       }
-    },
-    {
-      "id": "3db241ad-1a08-57cb-8093-98547e4fffb6",
-      "slug": "2026-11-12-nemzetkozi-elfogatoparancs-dubajbol-iranyitja-luxuseletet-matolcsy-ad",
-      "url": "/kozelet/2026-11-12-nemzetkozi-elfogatoparancs-dubajbol-iranyitja-luxuseletet-matolcsy-ad/",
-      "title": "Nemzetközi elfogatóparancs: Dubajból irányítja luxuséletét Matolcsy Ádám",
-      "lead": "Nemzetközi elfogatóparancs alapján keresi a rendőrség Matolcsy Ádámot, aki a gyanú szerint a hatósági eljárások elől az adatok szerint Dubajban rendezkedhetett be. A volt jegybankelnök fiának ügyében a napokban újabb részletek láttak napvilágot a hatósági lépésekről és az ingatlanvásárlásokról.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T10:53:27+01:00",
-      "published_at": "2026-11-12T10:53:27+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Matolcsy Ádám",
-        "Dubaj",
-        "Központi Nyomozó Főügyészség",
-        "nemzetközi elfogatóparancs",
-        "Direkt36"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-ef5841efb1.jpg",
-        "kind": "photo",
-        "alt": "Hol lehet és mi várhat a hetek óta bujkáló Matolcsy Ádámra?",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-20T12:58:56+01:00"
+  "updated_at": "2026-11-20T13:01:01+01:00"
 }

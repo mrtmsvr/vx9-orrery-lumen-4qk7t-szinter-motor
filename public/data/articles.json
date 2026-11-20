@@ -1,7 +1,131 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T12:58:53+01:00",
+  "updated_at": "2026-11-20T13:00:59+01:00",
   "articles": [
+    {
+      "id": "de9a6de7-106f-5a94-9331-0b1b941cc1de",
+      "slug": "2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Dunaújváros",
+        "Magyar Péter",
+        "önkormányzat",
+        "gazdasági válság",
+        "Dunaferr"
+      ],
+      "title": "Magyar Péternél lobbizik a csőd szélén táncoló Dunaújváros",
+      "subtitle": null,
+      "lead": "A fizetésképtelenség határára sodródott Dunaújváros önkormányzata, miután az elmúlt években milliárdos adóbevételektől esett el. Pintér Tamás polgármester személyes egyeztetésre hívta Magyar Péteröt, aki pozitívan fogadta a megkeresést.",
+      "key_points": [
+        "Dunaújváros önkormányzata a fizetésképtelenség határára került a kieső adóbevételek miatt.",
+        "Pintér Tamás polgármester személyes egyeztetésre hívta Magyar Péteröt.",
+        "A város az elmúlt években 18-20 milliárd forint adóbevételt veszített el.",
+        "A kormány részéről Lackó Gábor helyettes államtitkár biztosította a segítségéről a várost."
+      ],
+      "content": "A fizetésképtelenség határára sodródott Dunaújváros önkormányzata, miután az elmúlt néhány évben mintegy 18-20 milliárd forint adóbevételtől esett el – közölte Medgyesi Miklós polgármesteri kabinetvezető az MTI megkeresésére. A súlyos gazdasági helyzet miatt Pintér Tamás polgármester, a Rajta Újváros! Egyesület vezetője személyes egyeztetésre hívta Magyar Péteröt, aki pozitívan fogadta a meghívást.\n\nA polgármester bejelentése szerint azért tartja fontosnak a találkozót, hogy részletesen bemutassa a jelenlegi gazdasági helyzet kialakulásának előzményeit, az önkormányzat eddigi erőfeszítéseit, valamint azokat a területeket, ahol a kormány segítségére számítanak. A miniszterelnök válaszlevelében jelezte, hogy eleget kíván tenni a meghívásnak, és amint hivatali teendői engedik, ellátogat a városba.\n\nA pénzügyi nehézségek hátterében elsősorban a 2021-ben létrehozott különleges gazdasági övezet, valamint a Dunai Vasmű, illetve a Dunaferr csődje áll. Bár a különleges gazdasági övezet megszűnt – amely korábban elvonta a Hankooktól és az iváncsai ipari parkból befolyó bevételeket –, két korábbi magánjogi szerződést nem állítottak helyre, így a város továbbra sem részesül ezekből az adókból. A városvezetés szerint ennek rendezése jelentené a leggyorsabb utat a bevételhez, mivel a Dunaferr újraindítása lényegesen hosszabb és komplexebb folyamat.\n\nAz önkormányzat korábban próbált bankhitelhez jutni, a pénzintézetek azonban garanciaként bevételnövelést várnának el. A városvezetés ezt igyekszik elkerülni, hogy ne terhelje tovább adókkal a helyi lakosokat, tekintve, hogy jelenleg magánszemélyek lakásai után nem kell ingatlanadót fizetni Dunaújvárosban.\n\nA helyzet rendezése érdekében állami részről is érkezett jelzés.",
+      "content_format": "markdown",
+      "body": [
+        "A fizetésképtelenség határára sodródott Dunaújváros önkormányzata, miután az elmúlt néhány évben mintegy 18-20 milliárd forint adóbevételtől esett el – közölte Medgyesi Miklós polgármesteri kabinetvezető az MTI megkeresésére. A súlyos gazdasági helyzet miatt Pintér Tamás polgármester, a Rajta Újváros! Egyesület vezetője személyes egyeztetésre hívta Magyar Péteröt, aki pozitívan fogadta a meghívást.",
+        "A polgármester bejelentése szerint azért tartja fontosnak a találkozót, hogy részletesen bemutassa a jelenlegi gazdasági helyzet kialakulásának előzményeit, az önkormányzat eddigi erőfeszítéseit, valamint azokat a területeket, ahol a kormány segítségére számítanak. A miniszterelnök válaszlevelében jelezte, hogy eleget kíván tenni a meghívásnak, és amint hivatali teendői engedik, ellátogat a városba.",
+        "A pénzügyi nehézségek hátterében elsősorban a 2021-ben létrehozott különleges gazdasági övezet, valamint a Dunai Vasmű, illetve a Dunaferr csődje áll. Bár a különleges gazdasági övezet megszűnt – amely korábban elvonta a Hankooktól és az iváncsai ipari parkból befolyó bevételeket –, két korábbi magánjogi szerződést nem állítottak helyre, így a város továbbra sem részesül ezekből az adókból. A városvezetés szerint ennek rendezése jelentené a leggyorsabb utat a bevételhez, mivel a Dunaferr újraindítása lényegesen hosszabb és komplexebb folyamat.",
+        "Az önkormányzat korábban próbált bankhitelhez jutni, a pénzintézetek azonban garanciaként bevételnövelést várnának el. A városvezetés ezt igyekszik elkerülni, hogy ne terhelje tovább adókkal a helyi lakosokat, tekintve, hogy jelenleg magánszemélyek lakásai után nem kell ingatlanadót fizetni Dunaújvárosban.",
+        "A helyzet rendezése érdekében állami részről is érkezett jelzés."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 247,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dunaferr.jpg/1280px-Dunaferr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "The Dunaferr forge's gate",
+        "credit": "Akutyambuksi / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dunaferr.jpg",
+        "exact": true,
+        "entity": "Dunai Vasmű",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://hvg.hu/gazdasag/20261120_dunaujvaros-onkormanyzat-fizeteskeptelenseg-hatara-magyar-peter-segitseg",
+          "title": "Dunaújváros önkormányzata a fizetésképtelenség határára került, Magyar Pétertől kér segítséget",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-20T12:59:06+01:00"
+        },
+        {
+          "url": "https://telex.hu/belfold/2026/11/20/dunaujvaros-pinter-tamas-magyar-peter-fizeteskeptelenseg",
+          "title": "A csőd szélére került Dunaújváros, a polgármester személyes egyeztetésre hívta Magyar Pétert",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-20T12:59:06+01:00"
+        },
+        {
+          "url": "https://444.hu/2026/11/20/dunaujvaros-onkormanyzata-a-fizeteskeptelenseg-hatarara-sodrodott-magyar-petertol-kertek-segitseget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Dunaújváros önkormányzata a fizetésképtelenség határára sodródott, Magyar Pétertől kértek segítséget",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-20T12:59:06+01:00"
+        }
+      ],
+      "quote": {
+        "text": "intézkedéseikkel az önkormányzat feladatellátásának biztonságát szolgálják",
+        "who": "Lackó Gábor államháztartási szabályozásért és kiadások kontrolljáért felelős helyettes államtitkár",
+        "after": 3
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-20T13:00:59+01:00"
+      },
+      "hot_score": 8.69,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://hvg.hu/gazdasag/20261120_dunaujvaros-onkormanyzat-fizeteskeptelenseg-hatara-magyar-peter-segitseg",
+          "https://telex.hu/belfold/2026/11/20/dunaujvaros-pinter-tamas-magyar-peter-fizeteskeptelenseg",
+          "https://444.hu/2026/11/20/dunaujvaros-onkormanyzata-a-fizeteskeptelenseg-hatarara-sodrodott-magyar-petertol-kertek-segitseget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+        ]
+      },
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "url": "/kozelet/2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros/",
+      "seo": {
+        "meta_title": "Magyar Péternél lobbizik a csőd szélén táncoló Dunaújváros",
+        "meta_description": "A fizetésképtelenség határára sodródott Dunaújváros önkormányzata, miután az elmúlt években milliárdos adóbevételektől esett el. Pintér Tamás polgármester szemé",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-20-magyar-peternel-lobbizik-a-csod-szelen-tancolo-dunaujvaros/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dunaferr.jpg/1280px-Dunaferr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "141a9966c51eebda7d015f2b9129920f3a41252575e85277a07c4b29063bf49a",
+      "pipeline_run_id": "44728176037",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-20T13:00:59+01:00",
+      "updated_at": "2026-11-20T13:00:59+01:00",
+      "published_at": "2026-11-20T13:00:59+01:00",
+      "expires_at": null
+    },
     {
       "id": "923add46-beb2-54b5-b5ad-23fe551cbb49",
       "slug": "2026-11-20-teljes-sotetbe-borult-kijev-halalos-legicsapasok-benitottak-meg-az-uk",
@@ -77219,104 +77343,6 @@
       "created_at": "2026-10-18T16:49:57+02:00",
       "updated_at": "2026-10-19T21:23:08+00:00",
       "published_at": "2026-10-18T16:49:57+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "f2d78b19-756e-56e6-b88e-30981b4d15e7",
-      "slug": "2026-10-18-holtan-talaltak-egy-28-eves-not-egy-volaris-jaraton",
-      "status": "published",
-      "category": "vilag",
-      "subcategory": null,
-      "tags": [
-        "Mexikó",
-        "légiközlekedés",
-        "tragédia",
-        "Volaris"
-      ],
-      "title": "Holtan találtak egy 28 éves nőt egy Volaris-járaton",
-      "subtitle": null,
-      "lead": "A Volaris légitársaság belföldi járatának utasa a leszállást követően vesztette életét. Az eset akkor derült ki, amikor a leszállás utáni kiszálláskor az utastársak észlelték, hogy a nő nem reagál a megszólításra.",
-      "key_points": [
-        "A 28 éves Abidai López Solís a Tijuaniából indult gép utazása közben hunyt el, a holttestét landolás után találták meg.",
-        "A légitársaság közlése szerint a járat rendkívüli esemény nélkül érkezett meg Tapachulába."
-      ],
-      "content": "Október 7-én a hajnali órákban döbbenetes tragédia történt egy mexikói belföldi repülőjáraton: a gép leszállása után kiderült, hogy az egyik utas már nem él. A 28 éves Abidai López Solís a mexikói Tijuanából tartott Chiapas államba, ám az út végére már nem volt életben.\n\nA Volaris légitársaság 3358-as járata menetrend szerint landolt Tapachulában. A személyzet semmilyen vészhelyzetet nem jelentett a fedélzeten, így az utasok a szokásos módon készülődtek a kiszálláshoz. A körülötte ülőknek csak a landolást követően tűnt fel, hogy a fiatal nő nem reagál a felébresztésére tett kísérletekre, ezért azonnal orvosi segítséget kértek.\n\nA helyszínre érkező mentők már csak a halál beálltát tudták megállapítani. A holttestet az ügyészség felügyeletével szállították le a repülőgépről, majd igazságügyi orvosszakértői vizsgálatnak vetették alá.",
-      "content_format": "markdown",
-      "body": [
-        "Október 7-én a hajnali órákban döbbenetes tragédia történt egy mexikói belföldi repülőjáraton: a gép leszállása után kiderült, hogy az egyik utas már nem él. A 28 éves Abidai López Solís a mexikói Tijuanából tartott Chiapas államba, ám az út végére már nem volt életben.",
-        "A Volaris légitársaság 3358-as járata menetrend szerint landolt Tapachulában. A személyzet semmilyen vészhelyzetet nem jelentett a fedélzeten, így az utasok a szokásos módon készülődtek a kiszálláshoz. A körülötte ülőknek csak a landolást követően tűnt fel, hogy a fiatal nő nem reagál a felébresztésére tett kísérletekre, ezért azonnal orvosi segítséget kértek.",
-        "A helyszínre érkező mentők már csak a halál beálltát tudták megállapítani. A holttestet az ügyészség felügyeletével szállították le a repülőgépről, majd igazságügyi orvosszakértői vizsgálatnak vetették alá."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 153,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/e265363e92baec78.jpg",
-        "width": 5472,
-        "height": 3648,
-        "kind": "photo",
-        "alt": "flight, airplane, passengers, plane, airbus, airplane interior, transport, transportation, aviation, flight, airplane, airplane, airplane, airplane, airplane, plane, plane, plane",
-        "credit": "OrnaW / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/flight-airplane-passengers-plane-4516478/",
-        "vision_score": 7.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/e265363e92baec78.jpg",
-        "orig_url": "https://pixabay.com/get/g853f2af0b8db9cfb72ce20d305dc14bb1b51f14c5ef091f510fc16adb0b9ae0807e28592767409a38069158f92aea47965a951483ba5d7b5a6acd86ed070e045_1280.jpg"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://borsonline.origo.hu/kek-hirek/2026/10/repulogep-28-eves-no-holttest-tragedia",
-          "title": "Rémálom a fedélzeten: halott nő mellett utaztak a gyanútlan utasok, csak leszállás után derült ki a tragédia",
-          "publisher": "borsonline.hu",
-          "license": null,
-          "accessed_at": "2026-10-18T13:33:12+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-18T16:44:54+02:00"
-      },
-      "hot_score": 5.91,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://borsonline.origo.hu/kek-hirek/2026/10/repulogep-28-eves-no-holttest-tragedia"
-        ]
-      },
-      "date": "2026-10-18",
-      "date_label": "október 18.",
-      "url": "/vilag/2026-10-18-holtan-talaltak-egy-28-eves-not-egy-volaris-jaraton/",
-      "seo": {
-        "meta_title": "Holtan találtak egy 28 éves nőt egy Volaris-járaton",
-        "meta_description": "A Volaris légitársaság belföldi járatának utasa a leszállást követően vesztette életét. Az eset akkor derült ki, amikor a leszállás utáni kiszálláskor az utastá",
-        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-10-18-holtan-talaltak-egy-28-eves-not-egy-volaris-jaraton/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/e265363e92baec78.jpg",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "c4506c3c7addcb9ef186153bb1cb99dbc6fbcb02b3a842ec4a8d7287fab149fa",
-      "pipeline_run_id": "39122371765",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-18T16:44:54+02:00",
-      "updated_at": "2026-10-18T16:44:54+02:00",
-      "published_at": "2026-10-18T16:44:54+02:00",
       "expires_at": null
     }
   ]
