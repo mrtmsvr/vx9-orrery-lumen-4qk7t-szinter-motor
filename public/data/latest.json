@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "54dcf181-1fd1-56d7-a4ef-764c97b54c1e",
+      "slug": "2026-11-20-megvan-a-dontes-berlinben-igy-szall-be-europa-az-oroszorszaggal-zajlo",
+      "url": "/vilag/2026-11-20-megvan-a-dontes-berlinben-igy-szall-be-europa-az-oroszorszaggal-zajlo/",
+      "title": "Megvan a döntés Berlinben: így száll be Európa az Oroszországgal zajló békefolyamatba",
+      "lead": "Berlinben olyan döntés született, amelynek értelmében Európa is hivatalosan részt vesz majd az Oroszországgal a háború lezárásáról folytatott tárgyalásokon. A bejelentés hátterében az áll, hogy Ukrajna szorgalmazta a legaktívabban az európai jelenlétet minden egyeztetésen.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T08:06:26+01:00",
+      "published_at": "2026-11-20T08:06:26+01:00",
+      "reading_time_min": 3,
+      "hot_score": 9.83,
+      "tags": [
+        "Volodimir Zelenszkij",
+        "orosz-ukrán háború",
+        "békétárgyalás",
+        "Európai Unió",
+        "Németország"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Volodymyr_Zelenskyy_in_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1662,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "President of Ukraine Volodymyr Zelenskyy"
+      }
+    },
+    {
       "id": "e98962a9-3b26-5090-8bb5-0e2d9716032b",
       "slug": "2026-11-20-hazkutatas-es-kavezas-marine-le-peneknel-a-francia-belugy-nyomoz-a-sz",
       "url": "/vilag/2026-11-20-hazkutatas-es-kavezas-marine-le-peneknel-a-francia-belugy-nyomoz-a-sz/",
@@ -4416,37 +4446,7 @@
         "pos": "center",
         "alt": "Pest County Police Department and the National Standby Police National Bureau of Investigation (NNI Police) - Photo taken on the 11th National Police and Firefighter/Firefighting? Day in Budapest. -"
       }
-    },
-    {
-      "id": "4a04fd75-32da-5453-ac05-33a5c73df136",
-      "slug": "2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete",
-      "url": "/vilag/2026-11-11-varatlanul-meghalt-oroszorszag-amerikai-nagykovete/",
-      "title": "Váratlanul meghalt Oroszország amerikai nagykövete",
-      "lead": "Hatvanhat éves korában, szerdán váratlanul elhunyt Alekszandr Darcsijev, Oroszország egyesült államokbeli nagykövete. A diplomata halálának pontos okáról egyelőre nem hoztak nyilvánosságra részleteket.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T19:44:49+01:00",
-      "published_at": "2026-11-11T19:44:49+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Alekszandr Darcsijev",
-        "Oroszország",
-        "Egyesült Államok",
-        "diplomácia",
-        "halálhír"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Alexander_Darchiev_05.2025_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1672,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Alexander Darchiev 05.2025"
-      }
     }
   ],
-  "updated_at": "2026-11-20T08:05:26+01:00"
+  "updated_at": "2026-11-20T08:06:28+01:00"
 }
