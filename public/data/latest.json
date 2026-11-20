@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c6387029-1050-5e03-b5b0-bd6e5d8a264e",
+      "slug": "2026-11-20-ferencvaros-polgarmestere-szerint-hatba-szurta-a-keruleteket-karacson",
+      "url": "/kozelet/2026-11-20-ferencvaros-polgarmestere-szerint-hatba-szurta-a-keruleteket-karacson/",
+      "title": "Ferencváros polgármestere szerint hátba szúrta a kerületeket Karácsony Gergely",
+      "lead": "Súlyos bizalmi válság alakult ki a főváros és a kerületek között a parkolási bevételek elvonása miatt, Baranyi Krisztina ferencvárosi polgármester szerint pedig a Tisza-kormány sem váltotta be a hozzá fűzött reményeket.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-20",
+      "date_label": "november 20.",
+      "created_at": "2026-11-20T12:04:20+01:00",
+      "published_at": "2026-11-20T12:04:20+01:00",
+      "reading_time_min": 3,
+      "hot_score": 11.4,
+      "tags": [
+        "Baranyi Krisztina",
+        "Karácsony Gergely",
+        "Budapest",
+        "önkormányzat",
+        "parkolás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Baranyi_Krisztina_%28cropped%29_2.jpg/1280px-Baranyi_Krisztina_%28cropped%29_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1481,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Krisztina Baranyi, politician"
+      }
+    },
+    {
       "id": "28e62c3e-dee8-5d5b-9ac3-2e76caf7b9b4",
       "slug": "2026-11-20-a-kepernyoido-uj-arca-amikor-a-kutyu-nem-art",
       "url": "/eletmod/2026-11-20-a-kepernyoido-uj-arca-amikor-a-kutyu-nem-art/",
@@ -4417,37 +4447,7 @@
         "pos": "top",
         "alt": "محسن رضایی"
       }
-    },
-    {
-      "id": "af3fdec9-0368-5b4f-8823-eea400f4c91d",
-      "slug": "2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem",
-      "url": "/kozelet/2026-11-11-varga-judit-ot-eve-gyalaznak-de-meg-a-kishijan-belejuk-feledkeztem/",
-      "title": "Öt éve tartó gyalázkodásról beszélt Varga Judit a parlamentben",
-      "lead": "Varga Judit volt igazságügyi miniszter a parlamentben tartott sajtótájékoztatót a Völner–Schadl-ügyről és a sajtó szerepéről. A volt tárcavezető több mint nyolcszáz, a nevével és az üggyel kapcsolatos cikket számolt össze az elmúlt évekből.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-11",
-      "date_label": "november 11.",
-      "created_at": "2026-11-11T20:52:22+01:00",
-      "published_at": "2026-11-11T20:52:22+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Varga Judit",
-        "Völner-Schadl-ügy",
-        "parlament",
-        "Magyar Péter",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-754951a680.jpg",
-        "kind": "photo",
-        "alt": "Varga Judit: Agyonhallgatták a jótetteimet",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-20T10:41:47+01:00"
+  "updated_at": "2026-11-20T12:04:22+01:00"
 }
