@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "32673a01-d3e9-5edb-b315-9895141a7516",
+      "slug": "2026-11-21-hazaterhet-a-racsok-mogul-a-17-milliardos-botranyba-keveredett-bus-ba",
+      "url": "/kozelet/2026-11-21-hazaterhet-a-racsok-mogul-a-17-milliardos-botranyba-keveredett-bus-ba/",
+      "title": "Hazatérhet a rácsok mögül a 17 milliárdos botrányba keveredett Bús Balázs",
+      "lead": "Napokon belül bűnügyi felügyelet alá kerülhet és hazatérhet Bús Balázs, a Nemzeti Kulturális Alap volt alelnöke, miután az ügyészség kezdeményezte letartóztatásának megszüntetését. A politikust egy 17 milliárd forintos támogatási botrányban hűtlen kezeléssel, valamint egy óbudai korrupciós ügyben 150 millió forintos vesztegetés elfogadásával gyanúsítják.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T08:40:40+01:00",
+      "published_at": "2026-11-21T08:40:40+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Bús Balázs",
+        "Nemzeti Kulturális Alap",
+        "ügyészség",
+        "korrupció",
+        "bűnügyi felügyelet"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-f0e0b28471.jpg",
+        "kind": "photo",
+        "alt": "17 milliárd forint – a szabálytalanul odaítélt támogatási összeg",
+        "card": "num"
+      }
+    },
+    {
       "id": "288c8323-6f7e-54fa-9849-4bee0f1ac698",
       "slug": "2026-11-21-bebizonyitottuk-a-moody-s-szerint-is-kikerult-a-veszelyzonabol-a-magy",
       "url": "/kozelet/2026-11-21-bebizonyitottuk-a-moody-s-szerint-is-kikerult-a-veszelyzonabol-a-magy/",
@@ -4416,37 +4444,7 @@
         "pos": "center",
         "alt": "A Kamchatka Brown Bear near Dvuhyurtochnoe taken on July 23rd, 2015."
       }
-    },
-    {
-      "id": "d7675f83-c18a-554c-a150-3d4174cfad4e",
-      "slug": "2026-11-13-tavozik-az-nvidia-vezere-a-kinai-szal-derekba-torte-huang-karrierjet",
-      "url": "/tech/2026-11-13-tavozik-az-nvidia-vezere-a-kinai-szal-derekba-torte-huang-karrierjet/",
-      "title": "Távozik az Nvidia vezére: a kínai szál derékba törte Huang karrierjét",
-      "lead": "Lemondott tisztségéről Jensen Huang, az Nvidia elnök-vezérigazgatója, miután egy feltételezett kínai hírszerzővel folytatott kapcsolata nemzetbiztonsági aggályokat vetett fel. Az ügy nemcsak a chipgyártó óriáscég stabilitását rendítette meg, de Washingtonban is komoly politikai hullámokat kavart.",
-      "category": "tech",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T08:01:42+01:00",
-      "published_at": "2026-11-13T08:01:42+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.21,
-      "tags": [
-        "Nvidia",
-        "Jensen Huang",
-        "kémbotrány",
-        "mesterséges intelligencia",
-        "tőzsde"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1598,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Jensen Huang, founder and CEO of Nvidia, during a fireside chat in Stanford University's CS 153 course on April 30, 2026."
-      }
     }
   ],
-  "updated_at": "2026-11-21T07:51:15+01:00"
+  "updated_at": "2026-11-21T08:40:42+01:00"
 }
