@@ -1,35 +1,35 @@
 {
-  "id": "291482fdb8",
-  "date": "2026-11-19",
+  "id": "3a7985527e",
+  "date": "2026-11-21",
   "status": "pending",
-  "article_url": "/kozelet/2026-11-18-januartol-elesedik-radnai-mark-uj-politikai-fuggetlenseget-igero-inte/",
-  "article_title": "Januártól élesedik Radnai Márk új, politikai függetlenséget ígérő intézménye",
+  "article_url": "/kozelet/2026-11-21-magyar-peter-siofokrol-karacsonyig-bedaralja-a-torvenyeket-a-tisza/",
+  "article_title": "Magyar Péter Siófokról: Karácsonyig bedarálja a törvényeket a Tisza",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint szükség van egy új, független társadalompolitikai intézetre?",
+      "question": "Ön szerint helyes-e a Tisza Párt sietős törvénykezési stratégiája?",
       "options": [
-        "Igen, mindenképpen",
-        "Nem, felesleges",
-        "Nem tudom / nincs véleményem"
+        "Igen, a gyors döntésekre most nagy szükség van.",
+        "Nem, a kapkodás veszélyes a jogalkotásban.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Mit tart fontosabbnak egy ilyen intézet működésénél?",
+      "question": "Mit tart fontosabbnak a parlament év végi munkájában?",
       "options": [
-        "A politikai függetlenséget",
-        "A szakmai hatékonyságot",
-        "Nem tudom / nincs véleményem"
+        "A mihamarabbi átfogó reformok bevezetését.",
+        "Az alapos, minden részletre kiterjedő vitát.",
+        "Nem tudom / nincs véleményem."
       ]
     },
     {
-      "question": "Jó irány-e közpénzből finanszírozni új elemző- és döntéselőkészítő műhelyeket?",
+      "question": "Jó irányvonal-e a Balaton védelmének törvényi szigorítása?",
       "options": [
-        "Igen, hasznos a támogatás",
-        "Nem, jobb lenne máshova költeni",
-        "Nem tudom / nincs véleményem"
+        "Igen, a környezetvédelem élvezzen elsőbbséget.",
+        "Nem, ez túlzott korlátozásokat hozhat.",
+        "Nem tudom / nincs véleményem."
       ]
     }
   ],
-  "msg_id": 10529
+  "msg_id": 10625
 }

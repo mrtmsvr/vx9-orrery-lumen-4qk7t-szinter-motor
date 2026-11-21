@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "26c2c783-ee47-5e29-a36a-29f3fcce1699",
+      "slug": "2026-11-21-zelenszkij-meguzente-putyinnak-romhalmaz-lesz-a-krimi-hid",
+      "url": "/vilag/2026-11-21-zelenszkij-meguzente-putyinnak-romhalmaz-lesz-a-krimi-hid/",
+      "title": "Zelenszkij megüzente Putyinnak: romhalmaz lesz a Krími híd",
+      "lead": "Volodimir Zelenszkij ukrán elnök pénteki interjújában világossá tette, hogy az orosz fegyveres utánpótlást szolgáló Krími hidat előbb-utóbb teljesen megsemmisítik. A 19 kilométer hosszú átkelőt a héten már három alkalommal is támadta az ukrán hadsereg, súlyos károkat okozva az infrastruktúrában.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T16:15:54+01:00",
+      "published_at": "2026-11-21T16:15:54+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.64,
+      "tags": [
+        "Volodimir Zelenszkij",
+        "Krími híd",
+        "Orosz-ukrán háború",
+        "Vlagyimir Putyin"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Kerch._Crimean_Bridge_P5030811_2350.jpg/1280px-Kerch._Crimean_Bridge_P5030811_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kerch. Crimean Bridge"
+      }
+    },
+    {
       "id": "55a7a9cb-d9f3-50e5-8672-2e1759037237",
       "slug": "2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghalt",
       "url": "/vilag/2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghalt/",
@@ -4415,38 +4444,7 @@
         "pos": "center",
         "alt": "Former President of the Hungarian Supreme Court András Baka"
       }
-    },
-    {
-      "id": "7e6fc2a3-fa2e-50a3-8778-d45a2490d0d7",
-      "slug": "2026-11-13-kevesebb-feherje-lassithatja-az-oregedest",
-      "url": "/eletmod/2026-11-13-kevesebb-feherje-lassithatja-az-oregedest/",
-      "title": "Kevesebb fehérje lassíthatja az öregedést",
-      "lead": "Egy több mint háromszáz kutatást átfogó elemzés szerint a manapság divatos, rendkívül magas fehérjebevitel talán mégsem annyira üdvös az egészségre, mint ahogyan azt a fitneszipar hirdeti. A mértékletesség és a tudatosabb táplálkozás viszont éppenhogy segíthet a fiatalság megőrzésében és az anyagcsere egészségének fenntartásában.",
-      "category": "eletmod",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T10:52:43+01:00",
-      "published_at": "2026-11-13T10:52:43+01:00",
-      "reading_time_min": 4,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "fehérje",
-        "öregedés",
-        "táplálkozás",
-        "egészség",
-        "tudomány"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Healthy_Protein_based_Pancake_Mix_-_Prolicious.jpg/1280px-Healthy_Protein_based_Pancake_Mix_-_Prolicious.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Prolicious High Protein Pancake mix"
-      }
     }
   ],
-  "updated_at": "2026-11-21T15:12:44+01:00"
+  "updated_at": "2026-11-21T16:15:56+01:00"
 }
