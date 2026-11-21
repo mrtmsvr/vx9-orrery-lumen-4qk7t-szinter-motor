@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "95437e0c-b7f4-517a-b14a-09b8c09255e5",
+      "slug": "2026-11-21-vagyonzar-sesztak-miklos-kisvardai-birodalman",
+      "url": "/kozelet/2026-11-21-vagyonzar-sesztak-miklos-kisvardai-birodalman/",
+      "title": "Vagyonzár Seszták Miklós kisvárdai birodalmán",
+      "lead": "A hatóságok több mint kilencmilliárd forint erejéig vagyonzárat rendeltek el Seszták Miklós volt nemzeti fejlesztési miniszter ellen, ami érinti kisvárdai otthonát és autószalonját is. A Volánbusz-beszerzésekhez kapcsolódó vesztegetési ügyben letartóztatásban lévő politikusnál korábban már több milliárd forintnyi készpénzt is lefoglaltak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T12:27:55+01:00",
+      "published_at": "2026-11-21T12:27:55+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Seszták Miklós",
+        "vagyonzár",
+        "korrupció",
+        "Volánbusz",
+        "Kisvárda"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg/1280px-Seszt%C3%A1k_Mikl%C3%B3s_miniszter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1803,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Seszták Miklós nemzeti fejlesztési miniszter"
+      }
+    },
+    {
       "id": "7b86bf52-a258-57ae-81f2-d97213dce72b",
       "slug": "2026-11-21-a-beat-ami-meghoditotta-a-vasfuggonyt",
       "url": "/kultura/2026-11-21-a-beat-ami-meghoditotta-a-vasfuggonyt/",
@@ -4416,37 +4446,7 @@
         "pos": "center",
         "alt": "Magyar Rádió stúdiója, E. Fehér Pál újságíró és Hajdú János szerkesztő."
       }
-    },
-    {
-      "id": "fecb3bc5-aa0e-5908-bfa8-f57aa664cb7b",
-      "slug": "2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya",
-      "url": "/vilag/2026-11-13-brusszel-megnyitja-a-penzcsapot-kozel-10-milliard-euro-erkezhet-magya/",
-      "title": "Brüsszel megnyitja a pénzcsapot, közel 10 milliárd euró érkezhet Magyarországra",
-      "lead": "Jövő héten teheti közzé az Európai Bizottság a Magyarországnak járó, csaknem 10 milliárd eurós uniós helyreállítási alap értékelését. A vizsgálat során eddig nem merültek fel jelentős akadályok, így a források egésze vagy döntő része felszabadulhat.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T08:04:21+01:00",
-      "published_at": "2026-11-13T08:04:21+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5.69,
-      "tags": [
-        "Európai Bizottság",
-        "uniós források",
-        "helyreállítási alap",
-        "Magyarország",
-        "Brüsszel"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg/1280px-2017-09-24_Ursula_von_der_Leyen_by_Sandro_Halank.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1646,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Bundesverteidigungsminsterin Ursula von der Leyen auf der Wahlparty der CDU zur Bundestagswahl 2017 im Konrad-Adenauer-Haus"
-      }
     }
   ],
-  "updated_at": "2026-11-21T12:15:45+01:00"
+  "updated_at": "2026-11-21T12:27:57+01:00"
 }
