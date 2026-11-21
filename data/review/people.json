@@ -548,7 +548,8 @@
         "credit": "Raphael ATTAL @BootEXE / Wikimedia Commons",
         "license": "CC BY-SA 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Jordan_Bardella_-_Strasbourg_European_Parliament_September_2022_(Cropped).jpg"
-      }
+      },
+      "checked": true
     },
     "Kövér László": {
       "qid": "Q465476",
@@ -568,7 +569,8 @@
         "credit": "Palácio do Planalto from Brasilia, Brasil / Wikimedia Commons",
         "license": "CC BY 2.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:17_02_2022_Encontro_com_o_Presidente_da_Assembleia_Nacional,_L%C3%A1szl%C3%B3_K%C3%B6ver_(51887780433).jpg"
-      }
+      },
+      "checked": true
     },
     "Aleksandar Vučić": {
       "qid": "Q222031",
@@ -758,6 +760,61 @@
       "desc": "(1955–) magyar politikus",
       "bio": "Matolcsy György Huba magyar közgazdász, publicista, politikus. A rendszerváltás után több privatizációval foglalkozó kutatóintézet vezetője volt. 2000–2002 között gazdasági miniszter, egyben az Országos Atomenergia-bizottság elnöke. 2002-től a Növekedéskutató Intézet igazgatója, 2003-tól a Polgári Magyarországért Alapítvány kuratóriumának elnöke. 2006–2013 között a Fidesz országgyűlési képviselője. 2010–2013 között a második Orbán-kormány nemzetgazdasági minisztere, 2013 és 2025 között a Magyar Nemzeti Bank elnöke volt. A 2020-as Befolyás-barométer szerint ő volt Magyarország 4. legbefolyásosabb személye. 2026. október 21-én őrizetbe vették; a bíróság október 23-án gazdasági csalás gyanújával elrendelte a letartóztatását.",
       "wiki_url": "https://hu.wikipedia.org/wiki/Matolcsy_Gy%C3%B6rgy_%28k%C3%B6zgazd%C3%A1sz%29",
+      "checked": true
+    },
+    "Forsthoffer Ágnes": {
+      "qid": "Q136408471",
+      "name": "Forsthoffer Ágnes",
+      "birth": "1980-03-24",
+      "death": "",
+      "desc": "(1980–) magyar turisztikai szakember, közgazdász, politikus, a TISZA-párt alelnöke, a magyar Országgyűlés elnöke",
+      "bio": "Forsthoffer Ágnes magyar turisztikai szakember, szállodavezető, politikus. 2025-től a Tisztelet és Szabadság Párt egyik alelnöke, 2026-tól országgyűlési képviselő és az Országgyűlés elnöke.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Forsthoffer_%C3%81gnes",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Fot. Piotr Molęcki / Kancelaria Sejmu",
+        "credit": "Sejm_RP / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%C3%81gnes_Forsthoffer_i_W%C5%82odzimierz_Czarzasty_(cropped).jpg"
+      },
+      "checked": true
+    },
+    "Baka András": {
+      "qid": "Q788903",
+      "name": "Baka András",
+      "birth": "1952-12-11",
+      "death": "",
+      "desc": "(1952–) magyar jogász, politikus, országgyűlési képviselő, Magyarország köztársasági elnöke (2026–)",
+      "bio": "Baka András Bálint magyar jogtudós, főiskolai tanár, az állam- és jogtudományok kandidátusa. 1990 és 1998 között az Államigazgatási Főiskola főigazgatója. 1990 és 1991 között az MDF jelöltjeként országgyűlési képviselő. 1991-ben az Emberi Jogok Európai Bíróságának (EJEB) magyar bírájává választották, tisztségét 2007-ig töltötte be. 2009-től a Legfelsőbb Bíróság elnöke volt, 2011-es eltávolításáig. 2026-tól Magyarország köztársasági elnöke.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Baka_Andr%C3%A1s",
+      "checked": true
+    },
+    "Független Közmédia Testület": {
+      "none": true
+    },
+    "Toroczkai László": {
+      "qid": "Q832910",
+      "name": "Toroczkai László",
+      "birth": "1978-03-10",
+      "death": "",
+      "desc": "(1978–) magyar politikus, újságíró",
+      "bio": "Toroczkai László magyar politikus, a Mi Hazánk Mozgalom alapító elnöke, 2022 óta országgyűlési képviselő és a párt országgyűlési frakcióvezetője.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Toroczkai_L%C3%A1szl%C3%B3",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg/1280px-Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1306,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Leader of the Our Homeland Movement faction",
+        "credit": "Ipipedia / Wikimedia Commons",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg"
+      },
       "checked": true
     }
   },
