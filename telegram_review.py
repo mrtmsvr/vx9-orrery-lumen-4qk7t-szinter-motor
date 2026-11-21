@@ -166,6 +166,8 @@ def _fresh_titles(ai, a: dict, n: int = 2) -> list:
         ai = ai or kc.AIClient(kc.Config.from_env())
         raw = ai.complete_json("Hírszerkesztő vagy egy magyar online magazinnál. Csak JSON-t adsz vissza.",
                                kc.editor_title_examples(8)
+                               + f"AKTUÁLIS TÉNYEK (ne a saját emlékeidhez igazodj): {kc.facts_text()}\n"
+                               "Csak olyan szereplő nevét írd a címbe, aki a bevezetőben is szerepel.\n"
                                + f"Cím: {a.get('title', '')}\nBevezető: {a.get('lead', '')}\n\nÍrj {n} új, ütős, szemtelen, csípős, "
                                "de igaz címet (nem szürke hivatali tényközlés), ami "
                                "más hangsúllyal vagy szöggel szól; a fontos kulcsszavak (személy neve, helyszín, a lényeg) maradhatnak benne, "
@@ -495,6 +497,28 @@ def _in_hours(spec: str, hour: int) -> bool:
     return False
 
 
+_FACTS_LAST = 0.0
+
+
+def _facts_check(out_dir: Path, tz: ZoneInfo) -> None:
+    """Tényőr (30 percenként nézi, AI csak ha kell): ha a friss hírek egy rögzített tisztség változását jelzik, vagy
+    eltelt egy hét, összeveti a listát a hírcímekkel; javaslat esetén egy (néma) Telegram-üzenet: /teny ok N."""
+    global _FACTS_LAST
+    if time.time() - _FACTS_LAST < 1800 or os.getenv("FACTS_CHECK", "true").lower() not in ("1", "true", "yes"):
+        return
+    _FACTS_LAST = time.time()
+    before = kc.FACTS_FILE.read_text(encoding="utf-8") if kc.FACTS_FILE.exists() else ""
+    new = kc.facts_check_step(out_dir, kc.AIClient(kc.Config.from_env()))
+    if (kc.FACTS_FILE.read_text(encoding="utf-8") if kc.FACTS_FILE.exists() else "") != before:
+        _save_to_git("Tényőr")
+    chat = load_state().get("chat_id")
+    if new and chat:
+        pend = kc.read_json(kc.FACTS_FILE, {}).get("pending") or []
+        tg("sendMessage", {"chat_id": chat, "text": "🧭 Tényőr – lehet, hogy elavult egy rögzített tény:\n" + "\n".join(
+            f"{i + 1}) [{p['id']}] → {p['new']}\n   („{p['evidence']}”)" for i, p in enumerate(pend))
+            + "\n\n/teny ok N – átírom · /teny nem N – marad · /teny – lista", "disable_web_page_preview": True})
+
+
 def _quality_check(out_dir: Path, tz: ZoneInfo) -> None:
     """Folyamatos minőségellenőrzés a kint lévő cikkeken, a csendes órákban (QC_HOURS, alap 2–6, 8–10, 13–15, 21–23),
     QC_EVERY_MIN (alap 15) percenként QC_BATCH (alap 2) cikk. Éjjel a Groq friss kerete, nappal a Gemini dolgozik;
@@ -728,6 +752,17 @@ def send_article(_out_dir: Optional[Path], art: dict) -> None:
         legal_txt = legal.summary(art.get("legal") or {})
     except Exception as e:  # noqa: BLE001
         log.warning("Jogi ellenőrzés kimaradt: %s", e)
+    try:  # tényőr (11.21.): rossz név / volt tisztségviselő mai tisztségben → nem megy ki magától, jelzés a cikk alatt
+        fg = kc.fact_guard(art)
+        if fg:
+            art["fact_issues"] = fg
+            if not art.get("live"):
+                art["hold"] = True
+            legal_txt = ("⚠️ Tényőr: " + " | ".join(fg) + ("\n" + legal_txt if legal_txt else ""))
+        else:
+            art.pop("fact_issues", None)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Tényőr kimaradt: %s", e)
     if not art.get("image_options") and not art.get("live") and not isinstance(art.get("video"), dict):
         try:  # nincs illő kép → ne „nincs kép”-pel jöjjön: generált grafika (ha a cikkírásnál nem sikerült)
             gen = kc.auto_illustration(kc.AIClient(kc.Config.from_env()), art, art.get("category", "x"))
@@ -1145,6 +1180,7 @@ HELP = ("Parancsok (rövid / hosszú):\n"
         "/csatornak · /csatorna <YouTube-link> – videófigyelés\n"
         "/l /lista · /f – a váró cikkek újra, minden gombbal\n"
         "/szavazas (állás, létszám) · /keret · /stat (olvasók)\n"
+        "/teny – rögzített tények (miniszterelnök stb.) · /teny ok N · /teny nem N\n"
         "/hirlevel teszt <e-mail> · /hirlevel most\n"
         "Instagram-előnézetre válaszként küldött kép/matrica = új háttér\n"
         "Link vagy „téma: …” → cikk róla")
@@ -1474,6 +1510,19 @@ def _handle(out_dir: Path, ai, tz: ZoneInfo, u: dict, st: dict, pending: list) -
                     tg("sendMessage", {"chat_id": st["chat_id"], "text": (
                         "Használat: /torles <link vagy címrészlet>" if not hits else
                         f"{len(hits)} cikk illik rá, pontosíts:\n" + "\n".join("• " + a["title"] for a in hits[:8]))})
+            elif re.match(r"(?i)/teny\b|/tény\b", text):
+                mm = re.match(r"(?i)/t[eé]ny\s+(ok|igen|nem|no)\s+(\d+)", text)
+                if mm:
+                    with LOCK:
+                        res = kc.facts_apply(int(mm.group(2)) - 1, mm.group(1).lower() in ("ok", "igen"))
+                    _save_to_git("Tényőr: döntés")
+                    msg = res or "Nincs ilyen sorszámú javaslat."
+                else:
+                    pend = kc.read_json(kc.FACTS_FILE, {}).get("pending") or []
+                    msg = ("Rögzített tények:\n" + "\n".join(f"• {f['role']}: {f['current']}" for f in kc.facts())
+                           + ("\n\nFüggő javaslatok:\n" + "\n".join(f"{i + 1}) [{p['id']}] → {p['new']}" for i, p in enumerate(pend))
+                              + "\n/teny ok N · /teny nem N" if pend else ""))
+                tg("sendMessage", {"chat_id": st["chat_id"], "text": msg[:4000]})
             elif re.match(r"(?i)/(stat|statisztika)\b", text):
                 mm = re.search(r"\d+", text)
                 tg("sendMessage", {"chat_id": st["chat_id"], "text": _stats_text(int(mm.group()) if mm else 7),
@@ -1994,6 +2043,7 @@ def main(argv: Optional[list] = None) -> int:
                 _flash_check(cfg.output_dir, tz)
                 _quality_check(cfg.output_dir, tz)
                 _people_check(cfg.output_dir, tz)
+                _facts_check(cfg.output_dir, tz)
             except Exception as e:  # noqa: BLE001
                 log.warning("Újrapróbálás / modell-ellenőrzés kimaradt: %s", str(e)[:200])
         if time.time() - last_ig >= 120:  # esedékes Instagram-poszt percre pontosan (ne csak a következő futás elején)
