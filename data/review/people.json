@@ -632,7 +632,8 @@
         "credit": "Elekes Andor / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Hank%C3%B3_Bal%C3%A1zs_in_2025_01.jpg"
-      }
+      },
+      "checked": true
     },
     "Emberség Erejével Alapítvány": {
       "none": true
@@ -644,7 +645,8 @@
       "death": "",
       "desc": "brazil politikus",
       "bio": "Flávio Nantes Bolsonaro brazil ügyvéd és politikus, 2019 óta Rio de Janeiro szenátora. Jair Bolsonaro, Brazília 38. elnökének fia, aki a Liberális Párthoz (PL) kötődik. Korábban, 2003 és 2019 között Rio de Janeiro állam törvényhozó gyűlésének tagja volt.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+      "wiki_url": "https://hu.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+      "checked": true
     },
     "Benjamin Netanjahu": {
       "qid": "Q43723",
@@ -884,6 +886,68 @@
     },
     "Magyar Külügyi Intézet": {
       "none": true
+    },
+    "Feledy Botond": {
+      "qid": "Q20436936",
+      "name": "Feledy Botond",
+      "birth": "1981-10-27",
+      "death": "",
+      "desc": "magyar jogász, politológus, újságíró",
+      "bio": "Feledy Botond magyar jogász, politológus, újságíró. A Kitekintő külpolitikai hírportál alapítója, Szent Ignác Jezsuita Szakkollégium rektora (2012–2017), 2017-től 2023-ig a jezsuita kötődésű budapesti Társadalmi Reflexió Intézet vezetője, 2019-től 2026-ig a brüsszeli Jesuit European Social Centre igazgatóhelyettese és a European Leadership Programme igazgatója. 2022-től 2026-ig a Partizán külpolitikai szakértője, műsorvezetője. 2026. augusztus 1-jétől november 2-ig a Magyar Külügyi Intézet vezérigazgatója.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Feledy_Botond",
+      "checked": true
+    },
+    "Friedrich Merz": {
+      "qid": "Q566257",
+      "name": "Friedrich Merz",
+      "birth": "1955-11-11",
+      "death": "",
+      "desc": "német politikus (CDU), a Német Szövetségi Köztársaság tizedik kancellárja, a Bundestag tagja",
+      "bio": "Joachim-Friedrich Martin Josef Merz német ügyvéd, lobbista és politikus, a német Kereszténydemokrata Unió (CDU) elnöke, a Bundestag tagja. A 2025-ös német szövetségi választáson a pártja szerezte a legtöbb szavazatot, így a 2025. május 6-tól hivatalba lépő Merz-kormány vezetőjeként Németország kancellárja lett.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Friedrich_Merz",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1675,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+        "credit": "Steffen Prößdorf / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg"
+      },
+      "checked": true
+    },
+    "Hszi Csin-ping": {
+      "qid": "Q15031",
+      "name": "Hszi Csin-ping",
+      "birth": "1953-06-15",
+      "death": "",
+      "desc": "a Kínai Kommunista Párt főtitkára",
+      "bio": "Hszi Csin-ping (Xi Jinping) kínai politikus, a Kínai Népköztársaság (KNK) elnöke. 2012. november 15. óta a Kínai Kommunista Párt (KKP) főtitkára, a Központi Bizottság (KB) Politikai Bizottsága Állandó Bizottságának, az ország de facto legfelső hatalmi grémiumának a tagja, valamint a KKP Központi Katonai Bizottságának az elnöke. A KNK ötödik vezetői generációjának a vezetője. 2010 óta számított az ország kijelölt következő vezetőjének. 2008. március 15. óta a Kínai Népköztársaság alelnöke volt.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Hszi_Csin-ping",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg/1280px-Xi_Jinping_on_August_18%2C_2026_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1551,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Beijing, China, August 18, 2026 – The General Secretary of the Chinese Communist Party, Xi Jinping, hosted an official welcome ceremony for the President of Ecuador, Daniel Noboa, at the Great Hall of",
+        "credit": "Presidencia de la República del Ecuador / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_on_August_18,_2026_(cropped).jpg"
+      },
+      "checked": true
+    },
+    "Bóka János": {
+      "qid": "Q118369556",
+      "name": "Bóka János",
+      "birth": "1978-07-27",
+      "death": "",
+      "desc": "(1978) jogász, politikus, államtitkár, miniszter",
+      "bio": "Bóka János magyar jogász, egyetemi docens, 2023 és 2026 között európai uniós ügyekért felelős miniszter. 2026-tól országgyűlési képviselő, Gulyás Gergely lemondása után a Fidesz parlamenti frakcióvezetője.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/B%C3%B3ka_J%C3%A1nos",
+      "checked": true
     }
   },
   "fix_1107": true
