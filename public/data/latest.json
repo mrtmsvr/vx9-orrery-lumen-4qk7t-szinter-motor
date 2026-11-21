@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "a6086e4f-6d43-544c-914d-df9c4aa6adaf",
+      "slug": "2026-11-21-januarra-akarja-lezarni-a-haborut-donald-trump-komoly-engedmenyek-joh",
+      "url": "/vilag/2026-11-21-januarra-akarja-lezarni-a-haborut-donald-trump-komoly-engedmenyek-joh/",
+      "title": "Januárra akarja lezárni a háborút Donald Trump, komoly engedmények jöhetnek",
+      "lead": "Donald Trump kormánya azt szeretné, ha Ukrajna január elejéig békemegállapodást kötne Oroszországgal. A sietség oka, hogy januártól a demokraták veszik át a kongresszus irányítását.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T06:29:16+01:00",
+      "published_at": "2026-11-21T06:29:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 14.23,
+      "tags": [
+        "Donald Trump",
+        "Oroszország",
+        "Ukrajna",
+        "békemegállapodás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1520,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017.  (Official White House Photo by Shealah Craighead)"
+      }
+    },
+    {
       "id": "4daae10d-8ad3-562d-ae7d-d0f7645038f4",
       "slug": "2026-11-20-ket-eselyes-maradt-a-kozmedia-elen",
       "url": "/kozelet/2026-11-20-ket-eselyes-maradt-a-kozmedia-elen/",
@@ -4416,35 +4445,7 @@
         "pos": "center",
         "alt": "The Hemicycle of the European Parliament in Strasbourg during a plenary session in 2014."
       }
-    },
-    {
-      "id": "f91a9b87-b9bf-5433-94b8-453fe59c5e32",
-      "slug": "2026-11-12-atirjak-a-szivhangrendeletet-nem-kell-tobbe-akarata-ellenere-hallgatn",
-      "url": "/kozelet/2026-11-12-atirjak-a-szivhangrendeletet-nem-kell-tobbe-akarata-ellenere-hallgatn/",
-      "title": "Átírják a szívhangrendeletet: nem kell többé akarata ellenére hallgatni",
-      "lead": "Az Egészségügyi Minisztérium részletezte a szívhangrendelet módosítását, amely eltörli a terhességmegszakítás előtti kötelező magzati életfunkció-bemutatást. A döntés egy átfogó nőjogi intézkedéscsomag része, amely az isztambuli egyezmény ratifikálásával és az esemény utáni tabletta elérhetőségének könnyítésével együtt lép életbe.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T18:51:25+01:00",
-      "published_at": "2026-11-12T18:51:25+01:00",
-      "reading_time_min": 3,
-      "hot_score": 13.76,
-      "tags": [
-        "egészségügy",
-        "szívhangrendelet",
-        "abortusz",
-        "Magyar Péter",
-        "Hegedűs Zsolt"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-1da30b3eb0.jpg",
-        "kind": "photo",
-        "alt": "Átírják a szívhangrendeletet: nem kell többé akarata ellenére hallgatni",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-21T00:11:56+01:00"
+  "updated_at": "2026-11-21T06:29:18+01:00"
 }
