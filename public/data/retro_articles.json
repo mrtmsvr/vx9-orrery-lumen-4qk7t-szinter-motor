@@ -1,7 +1,108 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-21T00:11:55+01:00",
+  "updated_at": "2026-11-22T00:15:21+01:00",
   "articles": [
+    {
+      "id": "63012a51-67b4-5467-8ab6-41706b022134",
+      "slug": "2026-11-22-a-skot-felfold-tragediaja-amikor-a-termeszet-nem-ismer-kegyelmet",
+      "status": "published",
+      "category": "retro",
+      "subcategory": null,
+      "tags": [
+        "hegymászás",
+        "tragedia",
+        "Skócia",
+        "hipotermia",
+        "1971"
+      ],
+      "title": "A skót Felföld tragédiája: amikor a természet nem ismer kegyelmet",
+      "subtitle": null,
+      "lead": "1971 novemberében a skót Felföldön bekövetkezett a brit hegymászás történetének legsúlyosabb katasztrófája. Egy kétnaposnak indult navigációs túra során öt tizenéves diák és egyik vezetőjük fagyott halálra a Cairngorm-fennsíkon.",
+      "content": "> A skót Felföld távoli és könyörtelen vidéke hamarosan a brit hegymászás legsúlyosabb tragédiájának helyszínévé vált.\n\nA skót Felföld vadregényes tájai mindig is vonzották a kihívásokat keresőket, de a természet itt sosem adja olcsón a győzelmet. 1971 novemberében az edinburgh-i Ainslie Park High School tizenöt éves diákjai és két vezetőjük indultak útnak egy kétnapos navigációs expedícióra. A cél a Cairngorms távoli és könyörtelen vidéke volt, amely hamarosan a brit hegymászás legsúlyosabb tragédiájának helyszínévé vált.\n\nA modern kor embere gyakran alábecsüli a magashegyi körülményeket, pedig a fagy és a szél halálos kombinációt alkot. A túra során a hat fiatal és két kísérőjük olyan extrém időjárással szembesült, amelyből végül nem volt kiút. A Feith Buidhe néven is elhíresült katasztrófa során öt tizenéves diák és az egyik vezetője vesztette életét. Holttesteiket a kíméletlen expozíció, vagyis a kihűlés következtében találták meg.\n\nA tragédia hátterében meghúzódó fizikai folyamatok pontosan ismertek a tudomány előtt. A hipotermia, vagyis a szervezet fokozott mértékű kihűlése akkor következik be, amikor a test maghőmérséklete harmincöt Celsius-fok alá süllyed. A kihűlés tünetei fokozatosan jelentkeznek: a kezdeti borzongást és enyhe mentális zavartságot mérsékelt stádiumban a remegés megszűnése és a zavartság elmélyülése váltja fel.\n\nA súlyos hipotermia fázisában a szervezet már drasztikus jeleket mutat. Hallucinációk léphetnek fel, és gyakran megfigyelhető a paradox vetközés jelensége is, amely során az áldozat saját maga távolítja el a ruházatát a megtévesztő melegségérzet miatt. Ezzel párhuzamosan a szív leállásának kockázata is kritikus szintre emelkedik, ami a szélsőséges hidegben lévők számára azonnali életveszélyt jelent.\n\nA hipotermia orvosi tanulmányozása hosszú utat járt be a történelem során. Már a tizennyolcadik és tizenkilencedik században, a sarkvidéki expedíciók – például Sir John Franklin kutatóútjai – idején is számos hasonló esetet jegyeztek fel. A huszadik században aztán a második világháború alatti vizsgálatok, különösen a haditengerészet túlélési programjai alapozták meg a modern kor hipotermia-ellátási protokolljait.\n\nA cairngormi tragédia örökre megváltoztatta a brit hegyi túrázás megítélését és a biztonsági előírásokat. Emléke arra figyelmeztet, hogy a skót Felföld és a hasonló extrém terepek nem bocsátják meg a hibákat. A Feith Buidhe áldozatainak sorsa a mai napig a legkomolyabb óvatosságra inti mindazokat, akik a természet erőivel kívánnak versengeni.",
+      "content_format": "markdown",
+      "body": [
+        "A skót Felföld vadregényes tájai mindig is vonzották a kihívásokat keresőket, de a természet itt sosem adja olcsón a győzelmet. 1971 novemberében az edinburgh-i Ainslie Park High School tizenöt éves diákjai és két vezetőjük indultak útnak egy kétnapos navigációs expedícióra. A cél a Cairngorms távoli és könyörtelen vidéke volt, amely hamarosan a brit hegymászás legsúlyosabb tragédiájának helyszínévé vált.",
+        "A modern kor embere gyakran alábecsüli a magashegyi körülményeket, pedig a fagy és a szél halálos kombinációt alkot. A túra során a hat fiatal és két kísérőjük olyan extrém időjárással szembesült, amelyből végül nem volt kiút. A Feith Buidhe néven is elhíresült katasztrófa során öt tizenéves diák és az egyik vezetője vesztette életét. Holttesteiket a kíméletlen expozíció, vagyis a kihűlés következtében találták meg.",
+        "A tragédia hátterében meghúzódó fizikai folyamatok pontosan ismertek a tudomány előtt. A hipotermia, vagyis a szervezet fokozott mértékű kihűlése akkor következik be, amikor a test maghőmérséklete harmincöt Celsius-fok alá süllyed. A kihűlés tünetei fokozatosan jelentkeznek: a kezdeti borzongást és enyhe mentális zavartságot mérsékelt stádiumban a remegés megszűnése és a zavartság elmélyülése váltja fel.",
+        "A súlyos hipotermia fázisában a szervezet már drasztikus jeleket mutat. Hallucinációk léphetnek fel, és gyakran megfigyelhető a paradox vetközés jelensége is, amely során az áldozat saját maga távolítja el a ruházatát a megtévesztő melegségérzet miatt. Ezzel párhuzamosan a szív leállásának kockázata is kritikus szintre emelkedik, ami a szélsőséges hidegben lévők számára azonnali életveszélyt jelent.",
+        "A hipotermia orvosi tanulmányozása hosszú utat járt be a történelem során. Már a tizennyolcadik és tizenkilencedik században, a sarkvidéki expedíciók – például Sir John Franklin kutatóútjai – idején is számos hasonló esetet jegyeztek fel. A huszadik században aztán a második világháború alatti vizsgálatok, különösen a haditengerészet túlélési programjai alapozták meg a modern kor hipotermia-ellátási protokolljait.",
+        "A cairngormi tragédia örökre megváltoztatta a brit hegyi túrázás megítélését és a biztonsági előírásokat. Emléke arra figyelmeztet, hogy a skót Felföld és a hasonló extrém terepek nem bocsátják meg a hibákat. A Feith Buidhe áldozatainak sorsa a mai napig a legkomolyabb óvatosságra inti mindazokat, akik a természet erőivel kívánnak versengeni."
+      ],
+      "pull_quote": "A skót Felföld távoli és könyörtelen vidéke hamarosan a brit hegymászás legsúlyosabb tragédiájának helyszínévé vált.",
+      "reading_time_min": 2,
+      "word_count": 363,
+      "locale": "hu-HU",
+      "hero_image": null,
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cairngorm_Plateau_disaster",
+          "title": "Cairngorm Plateau disaster",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-22T00:15:21+01:00"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hypothermia",
+          "title": "Hypothermia",
+          "publisher": "Wikipedia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-22T00:15:21+01:00"
+        },
+        {
+          "url": "https://www.theguardian.com/science/2009/feb/07/weather",
+          "title": "The Guardian",
+          "publisher": "The Guardian",
+          "license": null,
+          "accessed_at": "2026-11-22T00:15:21+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Hipotermia",
+          "title": "Hipotermia",
+          "publisher": "Wikipédia",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-22T00:15:21+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "retro-v1",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "category_meta": {
+        "event_year": 1971,
+        "event_date": "11-22",
+        "event_title": "In Britain's worst mountaineering disaster, five teenage students and one of their leaders were found dead from exposure"
+      },
+      "date": "2026-11-22",
+      "date_label": "november 22.",
+      "url": "/retro/2026-11-22-a-skot-felfold-tragediaja-amikor-a-termeszet-nem-ismer-kegyelmet/",
+      "seo": {
+        "meta_title": "A skót Felföld tragédiája: amikor a természet nem ismer kegy",
+        "meta_description": "1971 novemberében a skót Felföldön bekövetkezett a brit hegymászás történetének legsúlyosabb katasztrófája. Egy kétnaposnak indult navigációs túra során öt tize",
+        "canonical_url": "https://xn--kollektva-m5a.hu/retro/2026-11-22-a-skot-felfold-tragediaja-amikor-a-termeszet-nem-ismer-kegyelmet/",
+        "og_image": null,
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "80046d8217011fe73c376143c69d9ccffb97329bb96e0107162aad69fd6aedab",
+      "pipeline_run_id": "44958789900",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-22T00:15:21+01:00",
+      "updated_at": "2026-11-22T00:15:21+01:00",
+      "published_at": "2026-11-22T00:15:21+01:00",
+      "expires_at": null
+    },
     {
       "id": "b60b591d-dad9-5748-aaf5-59947ff34bac",
       "slug": "2026-11-21-a-mayflower-fedelzeten-szuletett-meg-az-uj-vilag-elso-alapszabalya",
