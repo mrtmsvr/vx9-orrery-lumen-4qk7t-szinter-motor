@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "f9e074068f",
-      "art_id": "f2f12ddd-3b42-5ee0-8aeb-279e545f976c",
-      "title": "Szupermarket tetejére zuhant egy orosz drón Odessza mellett",
-      "url": "/vilag/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett/",
-      "card": "public/img/ig/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-szupermarket-tetejere-zuhant-egy-orosz-dron-odessza-mellett.jpg",
-      "caption": "Szupermarket tetejére zuhant egy orosz drón Odessza mellett\n\nHárom ember megsérült és részben megsemmisült egy szupermarket, miután dróntámadás érte az ukrajnai Odesszai régióban található Majaki települését. Az eset súlyos anyagi kárral járó újabb incidenst jelent a folyamatban lévő konfliktusban.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#odessza #dróntámadás #ukrajna #hírek #kollektíva",
-      "created": "2026-10-16T15:25:42+02:00",
-      "due": "2026-10-16T16:10:42+02:00",
-      "status": "failed",
-      "tg": [
-        6814,
-        6815
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "279bb4d83d",
       "art_id": "d6d9b29d-5a35-5806-a5c8-9af442490d19",
       "title": "A húst evő nőknek sokkal nagyobb esélyük van a századik születésnapra",
@@ -3593,6 +3576,21 @@
       "container": "18140301958718522",
       "media_id": "18113722292269766",
       "posted": "2026-11-21T14:20:33+01:00"
+    },
+    {
+      "id": "52d7c4dd14",
+      "art_id": "55a7a9cb-d9f3-50e5-8672-2e1759037237",
+      "title": "Orosz légicsapás Krivij Rihben: egy hétéves gyerek is meghalt",
+      "url": "/vilag/2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghalt/",
+      "card": "public/img/ig/2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghal.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghal.jpg",
+      "caption": "Orosz légicsapás Krivij Rihben: egy hétéves gyerek is meghalt\n\nSúlyos orosz légicsapás érte Volodimir Zelenszkij szülővárosát, Krivij Rihet szombatra virradóra; a támadásban egy hétéves kisfiú is életét vesztette. Az esemény egybeesik az ukrán elnök Krími híd elleni kemény üzeneteivel, tovább élezve a két ország közötti konfliktust.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#ukrajna #oroszország #külföld #hírek #magyarország",
+      "created": "2026-11-21T16:14:02+01:00",
+      "due": "2026-11-21T16:59:02+01:00",
+      "status": "queued",
+      "tg": [
+        10623
+      ]
     }
   ],
   "token": {
