@@ -1,0 +1,138 @@
+{
+  "facts": [
+    {
+      "id": "pm",
+      "role": "Magyarország miniszterelnöke",
+      "current": "Magyar Péter (TISZA), 2026. május 9. óta",
+      "former": [
+        "Orbán Viktor"
+      ],
+      "words": [
+        "miniszterelnök",
+        "kormányfő"
+      ]
+    },
+    {
+      "id": "gov",
+      "role": "Kormánypárt / ellenzék",
+      "current": "a TISZA kormányoz; a Fidesz–KDNP 2026 tavasza óta ellenzékben",
+      "former": [],
+      "words": [
+        "kormánypárt"
+      ]
+    },
+    {
+      "id": "prev",
+      "role": "Előző kormány",
+      "current": "Orbán-kormányok 2010–2026 (Fidesz–KDNP); tagjai ma VOLT miniszterek (pl. Szijjártó Péter volt külügyminiszter)",
+      "former": [],
+      "words": []
+    },
+    {
+      "id": "opp",
+      "role": "Az ellenzék vezetője",
+      "current": "Orbán Viktor (Fidesz), volt miniszterelnök",
+      "former": [],
+      "words": [
+        "ellenzék vezető"
+      ]
+    },
+    {
+      "id": "pres",
+      "role": "Köztársasági elnök",
+      "current": "Baka András",
+      "former": [
+        "Sulyok Tamás",
+        "Novák Katalin"
+      ],
+      "words": [
+        "köztársasági elnök",
+        "államfő"
+      ]
+    },
+    {
+      "id": "mnb",
+      "role": "MNB-elnök",
+      "current": "Varga Mihály (2025 márciusa óta)",
+      "former": [
+        "Matolcsy György"
+      ],
+      "words": [
+        "jegybankelnök",
+        "MNB-elnök",
+        "MNB elnöke"
+      ]
+    },
+    {
+      "id": "fopm",
+      "role": "Budapest főpolgármestere",
+      "current": "Karácsony Gergely",
+      "former": [
+        "Tarlós István"
+      ],
+      "words": [
+        "főpolgármester"
+      ]
+    },
+    {
+      "id": "usa",
+      "role": "Az USA elnöke",
+      "current": "Donald Trump (2025. január óta)",
+      "former": [
+        "Joe Biden"
+      ],
+      "words": [
+        "amerikai elnök",
+        "az USA elnöke"
+      ]
+    },
+    {
+      "id": "ec",
+      "role": "Az Európai Bizottság elnöke",
+      "current": "Ursula von der Leyen",
+      "former": [],
+      "words": [
+        "Európai Bizottság elnöke"
+      ]
+    },
+    {
+      "id": "euco",
+      "role": "Az Európai Tanács elnöke",
+      "current": "António Costa",
+      "former": [
+        "Charles Michel"
+      ],
+      "words": [
+        "Európai Tanács elnöke"
+      ]
+    },
+    {
+      "id": "ua",
+      "role": "Ukrajna elnöke",
+      "current": "Volodimir Zelenszkij",
+      "former": [],
+      "words": [
+        "ukrán elnök"
+      ]
+    },
+    {
+      "id": "ru",
+      "role": "Oroszország elnöke",
+      "current": "Vlagyimir Putyin",
+      "former": [],
+      "words": [
+        "orosz elnök"
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "id": "opp",
+      "new": "Semjén Zsolt (vagy Rétvári Bence, de jelenleg Semjén bejelentette az elnökség átadását)",
+      "evidence": "Semjén Zsolt: itt az idő, hogy átadjam az elnökséget",
+      "t": "2026-11-21T08:07:20+00:00"
+    }
+  ],
+  "checked": "2026-11-21T08:07:20+00:00",
+  "seen": []
+}
