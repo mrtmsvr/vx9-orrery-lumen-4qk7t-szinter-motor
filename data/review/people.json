@@ -992,6 +992,61 @@
       "bio": "Fejes Péter magyar ügyész, jogász. 2008 és 2012 között Veszprém megye főügyésze volt, 2026 októberében a köztársasági elnök legfőbb ügyésznek jelölte, majd az Országgyűlés a 2026 november 3-i ülésén megválasztotta.",
       "wiki_url": "https://hu.wikipedia.org/wiki/Fejes_P%C3%A9ter_%28%C3%BCgy%C3%A9sz%29",
       "checked": true
+    },
+    "Matolcsy Ádám": {
+      "qid": "Q139564655",
+      "name": "Matolcsy Ádám",
+      "birth": "1986-04-26",
+      "death": "",
+      "desc": "(1986–) magyar üzletember",
+      "bio": "Matolcsy Ádám magyar üzletember.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Matolcsy_%C3%81d%C3%A1m",
+      "checked": true
+    },
+    "Kecskeméti Törvényszék": {
+      "none": true
+    },
+    "Ruff Bálint": {
+      "qid": "Q139501809",
+      "name": "Ruff Bálint",
+      "birth": "",
+      "death": "",
+      "desc": "(1981–) magyar jogász, politikai tanácsadó, politikus",
+      "bio": "Ruff Bálint György magyar jogász, kommunikációs szakember, politikai kampánytanácsadó. 2026-tól Magyarország Miniszterelnökséget vezető minisztere, valamint az egyik miniszterelnök-helyettes. Politológusok a Magyar-kormány egyik legerősebb minisztereként, Magyar Péter jobbkezeként tartják számon.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Ruff_B%C3%A1lint",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Balint_Ruff_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1792,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Commissioner of Democracy, Justice, the Rule of Law and Consumer Protection Michael McGrath is on a day mission to Hungary, Budapest on June 2, 2026. Meeting with Balint Ruff Minister of the Prime Min",
+        "credit": "Ferenc Isza / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Balint_Ruff_in_2026.jpg"
+      },
+      "checked": true
+    },
+    "Lannert Judit": {
+      "qid": "Q139550455",
+      "name": "Lannert Judit",
+      "birth": "1962-07-15",
+      "death": "",
+      "desc": "(1962) oktatáskutató, szociológus",
+      "bio": "Lannert Judit Orsolya magyar közgazdász, szociológus, oktatáskutató és szociálpolitikus, 2026-tól Magyarország oktatási és gyermekügyi minisztere.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Lannert_Judit",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Judit_Lannert_%28P-070816-00-05%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1650,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Roxana Mînzatu, third left, Judit Lannert, second left, Minister of Children and Education, participating in a discussion with students.",
+        "credit": "Peter Kohalmi / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Judit_Lannert_(P-070816-00-05)_(cropped).jpg"
+      },
+      "checked": true
     }
   },
   "fix_1107": true
