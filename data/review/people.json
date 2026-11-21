@@ -1,9 +1,5 @@
 {
   "tags": {
-    "Magyar Péter": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Európai Unió": {
       "none": true
     },
@@ -124,10 +120,6 @@
     "Európai Bizottság": {
       "none": true
     },
-    "Tarr Zoltán": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Hegedűs Zsolt": {
       "qid": "Q138376658",
       "name": "Hegedűs Zsolt",
@@ -148,10 +140,6 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Zsolt_Heged%C5%B1s_(cropped).jpg"
       },
       "checked": true
-    },
-    "Kármán András": {
-      "none": true,
-      "why": "névrokon"
     },
     "Európai Parlament": {
       "none": true
@@ -222,10 +210,6 @@
       },
       "checked": true
     },
-    "Bús Balázs": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Kecskeméti Járásbíróság": {
       "none": true
     },
@@ -253,10 +237,6 @@
     "Mészáros Lőrinc": {
       "none": true
     },
-    "Kapitány István": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Nemzetközi Űrállomás": {
       "none": true
     },
@@ -281,34 +261,14 @@
       },
       "checked": true
     },
-    "Bóka János": {
-      "none": true,
-      "why": "névrokon"
-    },
-    "Matolcsy György": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Fitch Ratings": {
       "none": true
-    },
-    "Rózsa András": {
-      "none": true,
-      "why": "névrokon"
     },
     "Gazdasági Versenyhivatal": {
       "none": true
     },
-    "Tanács Zoltán": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Fürcht Pál": {
       "none": true
-    },
-    "Varga Mihály": {
-      "none": true,
-      "why": "névrokon"
     },
     "MBH Bank": {
       "none": true
@@ -379,14 +339,6 @@
       },
       "checked": true
     },
-    "Forsthoffer Ágnes": {
-      "none": true,
-      "why": "névrokon"
-    },
-    "Baka András": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Fővárosi Közgyűlés": {
       "none": true
     },
@@ -456,26 +408,14 @@
     "Központi Nyomozó Főügyészség": {
       "none": true
     },
-    "Lezsák Sándor": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Fővárosi Közfejlesztések Tanácsa": {
       "none": true
     },
     "Bayer Construct": {
       "none": true
     },
-    "Rubint Réka": {
-      "none": true,
-      "why": "névrokon"
-    },
     "Paksi Atomerőmű": {
       "none": true
-    },
-    "Molnár Áron": {
-      "none": true,
-      "why": "névrokon"
     },
     "Transparency International": {
       "none": true
@@ -580,30 +520,15 @@
         "credit": "Nagy Gergő / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:F%C3%BCr_Anik%C3%B3_(%C3%96rk%C3%A9ny).jpg"
-      }
+      },
+      "checked": true
     },
     "Mommy Blue": {
       "none": true
     },
     "Nagy Imre": {
-      "qid": "Q177917",
-      "name": "Nagy Imre",
-      "birth": "1896-06-07",
-      "death": "1958-06-16",
-      "desc": "(1896–1958) magyar kommunista politikus, gazdaságpolitikus, egyetemi tanár, az MTA tagja",
-      "bio": "Nagy Imre magyar politikus, gazdaságpolitikus, egyetemi tanár, a Magyar Tudományos Akadémia rendes tagja, aki 1953 és 1955 között, valamint az 1956-os forradalom alatt a Magyar Népköztársaság Minisztertanácsának elnöke (miniszterelnöke) volt. A forradalom leverése után két évvel koncepciós perbe fogták, majd június 16-án hazaárulás vádjával elítélték és társaival együtt kivégezték, majd titokban a rákoskeresztúri Új köztemető 301-es parcellájában Borbíró Piroska néven eltemették.",
-      "wiki_url": "https://hu.wikipedia.org/wiki/Nagy_Imre_%28minisztereln%C3%B6k%29",
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Nagy_Imre_igazolv%C3%A1nyk%C3%A9p.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1456,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Nagy Imre miniszterelnök igazolványkép",
-        "credit": "Unknown authorUnknown author / Wikimedia Commons",
-        "license": "Public domain",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Nagy_Imre_igazolv%C3%A1nyk%C3%A9p.jpg"
-      }
+      "none": true,
+      "why": "névrokon"
     },
     "Jordan Bardella": {
       "qid": "Q40655898",
@@ -779,6 +704,62 @@
         "license": "CC BY 2.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_EPP_Summit_2023.png"
       }
+    },
+    "Magyar Péter": {
+      "qid": "Q124488292",
+      "name": "Magyar Péter",
+      "birth": "1981-03-16",
+      "death": "",
+      "desc": "(1981–) magyar jogász, diplomata, politikus, Magyarország miniszterelnöke 2026-tól",
+      "bio": "Magyar Péter magyar politikus, jogász, diplomata, országgyűlési képviselő, 2026 óta Magyarország miniszterelnöke. A Talpra Magyarok Közösségének vezetője, a Tisztelet és Szabadság (TISZA) Párt elnöke. 2024-től 2026-ig európai parlamenti képviselő.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Magyar_P%C3%A9ter_%28politikus%29",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Peter-Magyar-portrait-2026.jpg/1280px-Peter-Magyar-portrait-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1599,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra",
+        "credit": "Norbert Banhalmi / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Peter-Magyar-portrait-2026.jpg"
+      },
+      "checked": true
+    },
+    "Magyar Közlöny": {
+      "none": true
+    },
+    "Varga Judit": {
+      "qid": "Q63224253",
+      "name": "Varga Judit",
+      "birth": "1980-09-10",
+      "death": "",
+      "desc": "(1980–) magyar jogász, politikus",
+      "bio": "Varga Judit magyar jogász, politikus. 2018-tól 2019-ig a Miniszterelnökség európai uniós kapcsolatokért felelős államtitkára. 2019 és 2023 között Magyarország igazságügyi minisztere. 2022-től 2024-ig országgyűlési képviselő a Fidesz tagjaként. A 2023-as Befolyás-barométer szerint ő volt Magyarország 27. legbefolyásosabb személye.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Varga_Judit_%28politikus%29",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Varga_Judit_2020_wikipedia.jpg/1280px-Varga_Judit_2020_wikipedia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1680,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Varga Judit a Ludovica Campuson",
+        "credit": "Török Levente / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Varga_Judit_2020_wikipedia.jpg"
+      },
+      "checked": true
+    },
+    "Matolcsy György": {
+      "qid": "Q220286",
+      "name": "Matolcsy György",
+      "birth": "1955-07-18",
+      "death": "",
+      "desc": "(1955–) magyar politikus",
+      "bio": "Matolcsy György Huba magyar közgazdász, publicista, politikus. A rendszerváltás után több privatizációval foglalkozó kutatóintézet vezetője volt. 2000–2002 között gazdasági miniszter, egyben az Országos Atomenergia-bizottság elnöke. 2002-től a Növekedéskutató Intézet igazgatója, 2003-tól a Polgári Magyarországért Alapítvány kuratóriumának elnöke. 2006–2013 között a Fidesz országgyűlési képviselője. 2010–2013 között a második Orbán-kormány nemzetgazdasági minisztere, 2013 és 2025 között a Magyar Nemzeti Bank elnöke volt. A 2020-as Befolyás-barométer szerint ő volt Magyarország 4. legbefolyásosabb személye. 2026. október 21-én őrizetbe vették; a bíróság október 23-án gazdasági csalás gyanújával elrendelte a letartóztatását.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Matolcsy_Gy%C3%B6rgy_%28k%C3%B6zgazd%C3%A1sz%29",
+      "checked": true
     }
-  }
+  },
+  "fix_1107": true
 }
