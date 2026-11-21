@@ -1066,6 +1066,43 @@
     },
     "Hajdu János": {
       "none": true
+    },
+    "Marine Le Pen": {
+      "qid": "Q12927",
+      "name": "Marine Le Pen",
+      "birth": "1968-08-05",
+      "death": "",
+      "desc": "francia politikus",
+      "bio": "Marion Anne Perrine \"Marine\" Le Pen francia ügyvéd, politikus. A szélsőjobboldali Nemzeti Tömörülés(RN) tagja, 2011 és 2021 között annak elnöke volt. 2012-ben, 2017-ben és 2022-ben indult a francia elnöki posztért. 2017 óta a Pas-de-Calais megye 11. választókerületének a képviselője a Nemzetgyűlésben. 2022 júniusa óta a Nemzeti Tömörülés parlamenti frakciójának a vezetője.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Marine_Le_Pen",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg/1280px-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_%2828-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1520,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Santiago Abascal y Marine Le Pen en la «Cumbre de Madrid» organizada por VOX",
+        "credit": "VOX España / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D0%BD_%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD_(28-01-2022).jpg"
+      },
+      "checked": true
+    },
+    "GTA VI": {
+      "none": true
+    },
+    "Semmelweis Egyetem": {
+      "none": true
+    },
+    "Tanács Zoltán": {
+      "qid": "Q138659964",
+      "name": "Tanács Zoltán",
+      "birth": "",
+      "death": "",
+      "desc": "(1975–) közgazdász, politikus",
+      "bio": "Tanács Zoltán magyar menedzser, tanácsadó, politikus. 2026-tól a TISZA országgyűlési képviselője. 2026 májusától Magyarország tudományos és technológiai minisztere.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Tan%C3%A1cs_Zolt%C3%A1n",
+      "checked": true
     }
   },
   "fix_1107": true
