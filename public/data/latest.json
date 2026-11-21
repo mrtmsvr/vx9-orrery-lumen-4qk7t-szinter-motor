@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "1fa1e8aa-726d-5042-b2e9-46bd2cba57ae",
+      "slug": "2026-11-21-magyar-peter-siofokrol-karacsonyig-bedaralja-a-torvenyeket-a-tisza",
+      "url": "/kozelet/2026-11-21-magyar-peter-siofokrol-karacsonyig-bedaralja-a-torvenyeket-a-tisza/",
+      "title": "Magyar Péter Siófokról: Karácsonyig bedarálja a törvényeket a Tisza",
+      "lead": "Kétnapos kihelyezett frakcióülést tart Siófokon a Tisza Párt; Magyar Péter videóüzenetben számolt be a karácsonyig tartó intenzív törvényhozási munkáról és a Balaton védelmét szolgáló új intézkedésekről.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T07:50:02+01:00",
+      "published_at": "2026-11-21T07:50:02+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.79,
+      "tags": [
+        "Magyar Péter",
+        "Siófok",
+        "Balaton",
+        "Országgyűlés",
+        "Tisza Párt"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Balatonlelle%2C_Balaton%2C_49.jpg/1280px-Balatonlelle%2C_Balaton%2C_49.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 797,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Balatonlelle, Balaton"
+      }
+    },
+    {
       "id": "a487f120-1847-590e-9130-0a00ad1610f7",
       "slug": "2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevezett-ki-orb",
       "url": "/kozelet/2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevezett-ki-orb/",
@@ -4416,36 +4446,7 @@
         "pos": "top",
         "alt": "Новорічне звернення президента України Володимира Зеленського."
       }
-    },
-    {
-      "id": "770f2f9f-447e-5271-a1c9-08eecddd5578",
-      "slug": "2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n",
-      "url": "/vilag/2026-11-12-tavvezeteknek-csapodhatott-es-lezuhant-egy-torok-katonai-helikopter-n/",
-      "title": "Távvezetéknek csapódhatott és lezuhant egy török katonai helikopter, négyen meghaltak",
-      "lead": "Súlyos katonai baleset történt csütörtökön Törökország délkeleti részén, ahol lezuhant egy S-70-es típusú helikopter. A szerencsétlenségben négy katona életét vesztette, a hatóságok jelenleg is vizsgálják a tragédia pontos okait.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T19:24:28+01:00",
-      "published_at": "2026-11-12T19:24:28+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Törökország",
-        "baleset",
-        "katonai helikopter",
-        "Malatya"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg/1280px-Polish_Police%2C_Sikorsky_S-70_Black_Hawk_helicopter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Polska Policja, śmigłowiec Sikorsky S-70 Black Hawk"
-      }
     }
   ],
-  "updated_at": "2026-11-21T07:49:05+01:00"
+  "updated_at": "2026-11-21T07:50:04+01:00"
 }
