@@ -1122,6 +1122,61 @@
     },
     "Egyensúly Intézet": {
       "none": true
+    },
+    "Wizz Air": {
+      "none": true
+    },
+    "Jared Kushner": {
+      "qid": "Q13628723",
+      "name": "Jared Kushner",
+      "birth": "1981-01-10",
+      "death": "",
+      "desc": "",
+      "bio": "Jared Kushner amerikai vállalkozó, befektető, ingatlanmágnás és lapkiadó. Az ingatlanmogul Charles Kushner fia, felesége Ivanka Trump, Donald Trump amerikai elnök lánya. Feleségével mindketten elnöki tanácsadóként töltöttek be hivatalt Donald Trump első elnöksége idején. Három gyermekük van.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Jared_Kushner",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jared_Kushner_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1598,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "President Donald Trump watches the United States flag is raised on the newly installed flagpole on the South Lawn of the White House, Wednesday, June 18, 2025. (Official White House Photo by Andrea Ha",
+        "credit": "The White House / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jared_Kushner_2025.jpg"
+      },
+      "checked": true
+    },
+    "Jensen Huang": {
+      "qid": "Q305177",
+      "name": "Jensen Huang",
+      "birth": "1963-02-17",
+      "death": "",
+      "desc": "tajvani-amerikai cégtulajdonos, az Nvidia alapítója és vezérigazgatója",
+      "bio": "Huang Zsen-hszün, ismert angolosított nevén Jen-Hsun (Jensen) Huang tajvani születésű, az Amerikai Egyesült Államokban élő, vállalkozó üzletember. Társtulajdonosa a grafikai-processzorgyártó Nvidia vállalatnak, mint elnök vezérigazgató. 2026-ban lemondott, miután kiderült, hogy viszonya volt egy nővel, akiről kiderült, hogy egy kínai kém, illetve a vezetőség egyik másik tagjával. A Forbes magazin szerint a világon a 61. legmagasabb jövedelemmel rendelkezik az Amerikai „CEO” lista alapján.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Huang_Zsen-hsz%C3%BCn",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/1280px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1598,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Jensen Huang, founder and CEO of Nvidia, during a fireside chat in Stanford University's CS 153 course on April 30, 2026.",
+        "credit": "Anderseidesvik / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
+      },
+      "checked": true
+    },
+    "Török Gábor": {
+      "qid": "Q51881114",
+      "name": "Török Gábor",
+      "birth": "1950-09-24",
+      "death": "",
+      "desc": "(1950) magyar gyermekgyógyász orvos, politikus, országgyűlési képviselő",
+      "bio": "Török Gábor magyar orvos, politikus, országgyűlési képviselő.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/T%C3%B6r%C3%B6k_G%C3%A1bor_%28politikus%29",
+      "checked": true
     }
   },
   "fix_1107": true
