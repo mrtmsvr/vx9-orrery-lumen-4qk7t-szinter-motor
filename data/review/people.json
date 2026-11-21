@@ -711,7 +711,8 @@
         "credit": "https://www.flickr.com/people/45198836@N04 / Wikimedia Commons",
         "license": "CC BY 2.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Donald_Tusk_EPP_Summit_2023.png"
-      }
+      },
+      "checked": true
     },
     "Magyar Péter": {
       "qid": "Q124488292",
@@ -967,6 +968,30 @@
     },
     "Honvédelmi Minisztérium": {
       "none": true
+    },
+    "Kapitány István": {
+      "none": true
+    },
+    "Mi Hazánk": {
+      "none": true
+    },
+    "Takács Péter": {
+      "qid": "Q141803320",
+      "name": "Takács Péter",
+      "birth": "",
+      "death": "",
+      "desc": "budapesti fizikus, technológiai vezető",
+      "checked": true
+    },
+    "Fejes Péter": {
+      "qid": "Q141711153",
+      "name": "Fejes Péter",
+      "birth": "1960-11-27",
+      "death": "",
+      "desc": "(1960–) magyar ügyész, jogász",
+      "bio": "Fejes Péter magyar ügyész, jogász. 2008 és 2012 között Veszprém megye főügyésze volt, 2026 októberében a köztársasági elnök legfőbb ügyésznek jelölte, majd az Országgyűlés a 2026 november 3-i ülésén megválasztotta.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Fejes_P%C3%A9ter_%28%C3%BCgy%C3%A9sz%29",
+      "checked": true
     }
   },
   "fix_1107": true
