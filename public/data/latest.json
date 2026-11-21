@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "7b86bf52-a258-57ae-81f2-d97213dce72b",
+      "slug": "2026-11-21-a-beat-ami-meghoditotta-a-vasfuggonyt",
+      "url": "/kultura/2026-11-21-a-beat-ami-meghoditotta-a-vasfuggonyt/",
+      "title": "A beat, ami meghódította a Vasfüggönyt",
+      "lead": "Amikor a hatvanas évek derekán a beatkorszak fellángolt Magyarországon, senki sem sejtette, hogy a tiltottnak hitt ritmusokból hamarosan milliós példányszámú lemezek és nyugati turnék születnek. Az Omega, az Illés és az LGT nemcsak a magyar ifjúság hangját találta meg, hanem a nemzetközi zenei térképre is feltette Budapestet.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T10:11:02+01:00",
+      "published_at": "2026-11-21T10:11:02+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "Omega",
+        "LGT",
+        "beatkorszak",
+        "magyar rock",
+        "könnyűzene"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Gibson_Flying_V_Classic_White_from_headstock_%282015-05-04_07.49.29_by_Monika_Fischer_Flickr%29.jpg/1280px-Gibson_Flying_V_Classic_White_from_headstock_%282015-05-04_07.49.29_by_Monika_Fischer_Flickr%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 2359,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Photos of  a Gibson Flying V, Classic White. I do not own it, but had to transport it all the way through Germany for a colleague of mine.\nFlickr Tags: Guitar Gitarre E-Gitarre E-Guitar Electric Gibso"
+      }
+    },
+    {
       "id": "32673a01-d3e9-5edb-b315-9895141a7516",
       "slug": "2026-11-21-hazaterhet-a-racsok-mogul-a-17-milliardos-botranyba-keveredett-bus-ba",
       "url": "/kozelet/2026-11-21-hazaterhet-a-racsok-mogul-a-17-milliardos-botranyba-keveredett-bus-ba/",
@@ -4415,36 +4446,7 @@
         "pos": "top",
         "alt": "Bundesverteidigungsminsterin Ursula von der Leyen auf der Wahlparty der CDU zur Bundestagswahl 2017 im Konrad-Adenauer-Haus"
       }
-    },
-    {
-      "id": "84970d64-f3d6-5a94-ac52-8a5251263f42",
-      "slug": "2026-11-13-alig-szaz-meterre-az-otthonatol-tamadt-ra-a-medve-a-szloven-ferfira",
-      "url": "/vilag/2026-11-13-alig-szaz-meterre-az-otthonatol-tamadt-ra-a-medve-a-szloven-ferfira/",
-      "title": "Alig száz méterre az otthonától támadt rá a medve a szlovén férfira",
-      "lead": "Súlyos sérülésekkel szállítottak kórházba egy nyugdíjas férfit, akire saját otthonától alig száz méterre támadt rá egy medve Délkelet-Szlovéniában. Az áldozatnak sikerült kiszabadulnia az állat karmai közül, majd hazamenekülnie.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T08:03:10+01:00",
-      "published_at": "2026-11-13T08:03:10+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5.85,
-      "tags": [
-        "Szlovénia",
-        "medvetámadás",
-        "vadállomány",
-        "természetvédelem"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg/1280px-Kamchatka_Brown_Bear_near_Dvuhyurtochnoe_on_2015-07-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A Kamchatka Brown Bear near Dvuhyurtochnoe taken on July 23rd, 2015."
-      }
     }
   ],
-  "updated_at": "2026-11-21T10:05:16+01:00"
+  "updated_at": "2026-11-21T10:11:03+01:00"
 }
