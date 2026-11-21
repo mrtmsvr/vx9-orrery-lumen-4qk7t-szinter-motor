@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "8574378845",
-      "art_id": "156803ad-748d-594a-90a0-06b1efd826ef",
-      "title": "Faék egyszerűségű jelszóval lopták el 8,8 millió ember adatait",
-      "url": "/tech/2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adatait/",
-      "card": "public/img/ig/2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adat.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-faek-egyszerusegu-jelszoval-loptak-el-8-8-millio-ember-adat.jpg",
-      "caption": "Faék egyszerűségű jelszóval lopták el 8,8 millió ember adatait\n\nKomoly biztonsági résre derült fény Dániában: egy rendkívül gyenge jelszóval védett rendszeren keresztül csaknem kilencmillió ember adataihoz fértek hozzá illetéktelenek. A támadók a központi személyi nyilvántartásba is bejutottak, ám saját állításuk szerint nem élnek vissza a megszerzett információkkal.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#adatbiztonság #hacker #dánia #hírek #kollektíva",
-      "created": "2026-10-16T14:05:27+02:00",
-      "due": "2026-10-16T14:50:27+02:00",
-      "status": "failed",
-      "tg": [
-        6808,
-        6809
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "8d9a5b2834",
       "art_id": "a65a225d-f3a6-50de-a664-d7ca96911307",
       "title": "Több száz napnyi munka veszett el egyetlen kattintással",
@@ -3591,6 +3574,21 @@
       "container": "18140258755718522",
       "media_id": "18121651184090241",
       "posted": "2026-11-21T08:57:47+01:00"
+    },
+    {
+      "id": "870b9f54cf",
+      "art_id": "a487f120-1847-590e-9130-0a00ad1610f7",
+      "title": "Fél év után újabb hat kormánymegbízottat nevezett ki Magyar Péter",
+      "url": "/kozelet/2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevezett-ki-orb/",
+      "card": "public/img/ig/2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevez.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevez.jpg",
+      "caption": "Fél év után újabb hat kormánymegbízottat nevezett ki Magyar Péter\n\nA pénteki Magyar Közlönyben megjelent határozat szerint a miniszterelnök további hat kormánymegbízottat nevezett ki a megyei kormányhivatalok élére. Ezzel – a kabinet megalakulását követő több mint fél év elteltével – már csak három megyében és a fővárosban nincs kinevezett hivatalvezető.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#magyarpéter #magyarközlöny #belföld #hírek #magyarország",
+      "created": "2026-11-21T10:54:45+01:00",
+      "due": "2026-11-21T11:39:45+01:00",
+      "status": "queued",
+      "tg": [
+        10617
+      ]
     }
   ],
   "token": {
