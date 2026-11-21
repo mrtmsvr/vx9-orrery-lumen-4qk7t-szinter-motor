@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "55a7a9cb-d9f3-50e5-8672-2e1759037237",
+      "slug": "2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghalt",
+      "url": "/vilag/2026-11-21-orosz-legicsapas-krivij-rihben-egy-heteves-gyerek-is-meghalt/",
+      "title": "Orosz légicsapás Krivij Rihben: egy hétéves gyerek is meghalt",
+      "lead": "Súlyos orosz légicsapás érte Volodimir Zelenszkij szülővárosát, Krivij Rihet szombatra virradóra; a támadásban egy hétéves kisfiú is életét vesztette. Az esemény egybeesik az ukrán elnök Krími híd elleni kemény üzeneteivel, tovább élezve a két ország közötti konfliktust.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T15:12:42+01:00",
+      "published_at": "2026-11-21T15:12:42+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Ukrajna",
+        "Oroszország",
+        "háború",
+        "Volodimir Zelenszkij",
+        "Vlagyimir Putyin"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Kryvyi_Rih_Old_Town.jpg/1280px-Kryvyi_Rih_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Житловий будинок (будинок тресту \"Дзержинськруда\"), Кривий Ріг, проспект Карла Маркса, 16"
+      }
+    },
+    {
       "id": "95437e0c-b7f4-517a-b14a-09b8c09255e5",
       "slug": "2026-11-21-vagyonzar-sesztak-miklos-kisvardai-birodalman",
       "url": "/kozelet/2026-11-21-vagyonzar-sesztak-miklos-kisvardai-birodalman/",
@@ -4416,37 +4446,7 @@
         "pos": "top",
         "alt": "Prolicious High Protein Pancake mix"
       }
-    },
-    {
-      "id": "bba608f4-736e-52f3-8604-0f2d412c85c8",
-      "slug": "2026-11-13-terdre-kenyszerult-az-ugyeszseg-belso-vizsgalat-indul-az-aranykonvoj",
-      "url": "/kozelet/2026-11-13-terdre-kenyszerult-az-ugyeszseg-belso-vizsgalat-indul-az-aranykonvoj/",
-      "title": "Térdre kényszerült az ügyészség: belső vizsgálat indul az aranykonvoj miatt",
-      "lead": "Belső vizsgálatot rendelt el az aranykonvojügyben Fejes Péter legfőbb ügyész a Kossuth Rádió pénteki reggeli műsorában. Az ukrán szállítmányt érintő botrányban már több gyanúsítottat is kihallgattak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T09:22:35+01:00",
-      "published_at": "2026-11-13T09:22:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.35,
-      "tags": [
-        "Fejes Péter",
-        "legfőbb ügyész",
-        "aranykonvoj",
-        "Hajdu János",
-        "ügyészség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja%2C_E._Feh%C3%A9r_P%C3%A1l_%C3%BAjs%C3%A1g%C3%ADr%C3%B3_%C3%A9s_Hajd%C3%BA_J%C3%A1nos_szerkeszt%C5%91._Fortepan_89148.jpg/1280px-Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja%2C_E._Feh%C3%A9r_P%C3%A1l_%C3%BAjs%C3%A1g%C3%ADr%C3%B3_%C3%A9s_Hajd%C3%BA_J%C3%A1nos_szerkeszt%C5%91._Fortepan_89148.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 743,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Magyar Rádió stúdiója, E. Fehér Pál újságíró és Hajdú János szerkesztő."
-      }
     }
   ],
-  "updated_at": "2026-11-21T14:58:09+01:00"
+  "updated_at": "2026-11-21T15:12:44+01:00"
 }
