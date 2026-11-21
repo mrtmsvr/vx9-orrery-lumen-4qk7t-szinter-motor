@@ -666,7 +666,8 @@
         "credit": "Avi Ohayon / Wikimedia Commons",
         "license": "CC BY-SA 3.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg"
-      }
+      },
+      "checked": true
     },
     "Marco Rubio": {
       "qid": "Q324546",
@@ -686,7 +687,8 @@
         "credit": "U.S. Department of State / Wikimedia Commons",
         "license": "Public domain",
         "source_url": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio.jpg"
-      }
+      },
+      "checked": true
     },
     "Biztonsági Tanács": {
       "none": true
@@ -948,6 +950,23 @@
       "bio": "Bóka János magyar jogász, egyetemi docens, 2023 és 2026 között európai uniós ügyekért felelős miniszter. 2026-tól országgyűlési képviselő, Gulyás Gergely lemondása után a Fidesz parlamenti frakcióvezetője.",
       "wiki_url": "https://hu.wikipedia.org/wiki/B%C3%B3ka_J%C3%A1nos",
       "checked": true
+    },
+    "Isztambuli Egyezmény": {
+      "none": true
+    },
+    "Orbán Áron": {
+      "qid": "Q17278757",
+      "name": "Orbán Áron",
+      "birth": "",
+      "death": "",
+      "desc": "vállalkozó, Orbán Viktor testvére",
+      "checked": true
+    },
+    "Egyesült Királyság": {
+      "none": true
+    },
+    "Honvédelmi Minisztérium": {
+      "none": true
     }
   },
   "fix_1107": true
