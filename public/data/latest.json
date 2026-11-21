@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "a487f120-1847-590e-9130-0a00ad1610f7",
+      "slug": "2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevezett-ki-orb",
+      "url": "/kozelet/2026-11-21-hat-honap-tetlenseg-utan-ujabb-hat-kormanymegbizottat-nevezett-ki-orb/",
+      "title": "Hat hónap tétlenség után újabb hat kormánymegbízottat nevezett ki Orbán Viktor",
+      "lead": "A pénteki Magyar Közlönyben megjelent határozat szerint a miniszterelnök további hat kormánymegbízottat nevezett ki a megyei kormányhivatalok élére. Ezzel – a kabinet megalakulását követő több mint fél év elteltével – már csak három megyében és a fővárosban nincs kinevezett hivatalvezető.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-21",
+      "date_label": "november 21.",
+      "created_at": "2026-11-21T07:49:04+01:00",
+      "published_at": "2026-11-21T07:49:04+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12.11,
+      "tags": [
+        "Magyar Péter",
+        "Magyar Közlöny",
+        "kormánymegbízott",
+        "kormányhivatal",
+        "diplomácia"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hungarian_Constitution_1949_as_published.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1604,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Constitution of Hungary, 1949, as it appeared in the official gazette."
+      }
+    },
+    {
       "id": "a6086e4f-6d43-544c-914d-df9c4aa6adaf",
       "slug": "2026-11-21-januarra-akarja-lezarni-a-haborut-donald-trump-komoly-engedmenyek-joh",
       "url": "/vilag/2026-11-21-januarra-akarja-lezarni-a-haborut-donald-trump-komoly-engedmenyek-joh/",
@@ -4415,37 +4445,7 @@
         "pos": "center",
         "alt": "Polska Policja, śmigłowiec Sikorsky S-70 Black Hawk"
       }
-    },
-    {
-      "id": "74b68094-def4-584b-8d92-e1de181ab312",
-      "slug": "2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert",
-      "url": "/kozelet/2026-11-12-kulja-andras-lemondott-a-mentelmi-jogarol-a-per-kedveert/",
-      "title": "Kulja András lemondott a mentelmi jogáról a per kedvéért",
-      "lead": "Az Európai Parlament megszavazta Kulja András mentelmi jogának felfüggesztését, amit a Tisza Párt politikusa maga kezdeményezett. A döntés lehetővé teszi, hogy a Takács Péter korábbi egészségügyi államtitkár által indított magánvádas büntetőeljárás bírósági szakaszba lépjen.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-12",
-      "date_label": "november 12.",
-      "created_at": "2026-11-12T18:57:00+01:00",
-      "published_at": "2026-11-12T18:57:00+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12.1,
-      "tags": [
-        "Kulja András",
-        "Európai Parlament",
-        "Tisza Párt",
-        "mentelmi jog",
-        "Takács Péter"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 678,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "The Hemicycle of the European Parliament in Strasbourg during a plenary session in 2014."
-      }
     }
   ],
-  "updated_at": "2026-11-21T06:29:25+01:00"
+  "updated_at": "2026-11-21T07:49:05+01:00"
 }
