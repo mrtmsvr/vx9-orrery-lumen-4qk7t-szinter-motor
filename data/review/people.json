@@ -590,7 +590,8 @@
         "credit": "Oliver Bunic - European Commission / Wikimedia Commons",
         "license": "CC BY 4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_(2024).jpg"
-      }
+      },
+      "checked": true
     },
     "Stohl András": {
       "qid": "Q1291801",
@@ -610,7 +611,8 @@
         "credit": "Original uploader was Bálint F Gyula at hu.wikipedia / Wikimedia Commons",
         "license": "CC BY 2.5",
         "source_url": "https://commons.wikimedia.org/wiki/File:Stohl_Andr%C3%A1s_2007-02-07.jpg"
-      }
+      },
+      "checked": true
     },
     "Hankó Balázs": {
       "qid": "Q126488073",
@@ -816,6 +818,72 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Toroczkai_L%C3%A1szl%C3%B3_frakci%C3%B3vezet%C5%91.jpg"
       },
       "checked": true
+    },
+    "Lezsák Sándor": {
+      "qid": "Q1129709",
+      "name": "Lezsák Sándor",
+      "birth": "1949-10-30",
+      "death": "",
+      "desc": "(1949) magyar költő, országgyűlési képviselő, a képviselőház elnöke",
+      "bio": "Lezsák Sándor István József Attila-díjas magyar költő, tanár, politikus, országgyűlési képviselő, a Magyar Demokrata Fórum egyik alapítója. A Nemzeti Fórum Egyesület elnöke. 2006 és 2026 között az Országgyűlés egyik fideszes alelnöke. A Magyar Művészeti Akadémia rendes tagja.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Lezs%C3%A1k_S%C3%A1ndor",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg/1280px-Lezs%C3%A1k_S%C3%A1ndor_%282015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 766,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Lezsák Sándor magyar költő, tanár, politikus, a Magyar Demokrata Fórum egyik alapítója. 2006-tól az Országgyűlés egyik fideszes alelnöke.",
+        "credit": "Thaler Tamas / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lezs%C3%A1k_S%C3%A1ndor_(2015).jpg"
+      },
+      "checked": true
+    },
+    "Bús Balázs": {
+      "qid": "Q16014293",
+      "name": "Bús Balázs",
+      "birth": "1966-01-29",
+      "death": "",
+      "desc": "(1966–) magyar politikus, polgármester, országgyűlési képviselő",
+      "bio": "Bús Balázs magyar politikus, szociális munkás, szociálpolitikus, 1998 óta Óbuda-Békásmegyer önkormányzati képviselője, 2002–2006 között Budapest III. kerülete (Óbuda-Békásmegyer) alpolgármestere, 2006–2019 között polgármestere, 2010–2014 között Óbuda 4-es OEVK országgyűlési képviselője (FIDESZ-KDNP). 2021 óta a Nemzeti Kulturális Alap (NKA) alelnöke.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/B%C3%BAs_Bal%C3%A1zs",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/B%C3%BAs_Bal%C3%A1zs.jpg/1280px-B%C3%BAs_Bal%C3%A1zs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1555,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bús Balázs (Fidesz-KDNP) polgármester",
+        "credit": "Mt80 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:B%C3%BAs_Bal%C3%A1zs.jpg"
+      },
+      "checked": true
+    },
+    "Kármán András": {
+      "qid": "Q1123346",
+      "name": "Kármán András",
+      "birth": "1973-05-25",
+      "death": "",
+      "desc": "(1973–) magyar közgazdász, politikus",
+      "bio": "Kármán András Miklós magyar közgazdász, 2026-tól a TISZA országgyűlési képviselője. 2026-tól Magyarország pénzügyminisztere.",
+      "wiki_url": "https://hu.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_Andr%C3%A1s_%28k%C3%B6zgazd%C3%A1sz%29",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "András Kármán, Hungarian Minister of Finance",
+        "credit": "Ferenc Isza / Wikimedia Commons",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_K%C3%A1rm%C3%A1n_in_2026.jpg"
+      },
+      "checked": true
+    },
+    "Magyar Külügyi Intézet": {
+      "none": true
     }
   },
   "fix_1107": true
