@@ -1367,6 +1367,24 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
         return {"changes": changes, "checked": len(covers), "finished": False,
                 "covers": [{"title": a["title"][:90], "new": names.get(changes[a["id"]].get("card"), "generált kép")}
                            for a in covers if a["id"] in changes]}
+    if not st.get("fix_vid1116"):
+        # egyszeri javítás: a képellenőrzés 11.08–16. között a videós cikkek előnézeti képét fotóra cserélte
+        import videos
+        changes = {}
+        for a in arts:
+            v = a.get("video") if isinstance(a.get("video"), dict) else None
+            if not v or not v.get("id") or (a.get("hero_image") or {}).get("card") == "video" \
+                    or (a.get("authorship") or {}).get("reviewed_by"):
+                continue
+            cov = videos.video_cover({"id": v["id"], "title": v.get("title") or a["title"], "author": v.get("channel"),
+                                      "url": f"https://www.youtube.com/watch?v={v['id']}"})
+            if cov:
+                changes[a["id"]] = cov
+        st["fix_vid1116"] = True
+        write_json_atomic(AUDIT_FILE, st)
+        if changes:
+            log.info("Videós főképek visszaállítva: %d", len(changes))
+            return {"changes": changes, "checked": len(changes), "finished": False, "covers": []}
     if not st.get("active"):
         return None
     done = set(st.get("done") or [])
@@ -1380,6 +1398,10 @@ def image_audit_step(output_dir: Path, ai: "AIClient", n: int = 6) -> Optional[d
     for a in todo:
         hero = dict(a.get("hero_image") or {})
         section = a.get("category")
+        if hero.get("card") or a.get("video") or (a.get("authorship") or {}).get("reviewed_by"):
+            checked += 1  # saját kártya / videó-előnézet, vagy te választottad ki: nem cseréljük
+            done.add(a["id"])
+            continue
         bad = not hero.get("url")
         if hero.get("url") and not hero.get("generated"):
             ranked = vision_rank(ai, a["title"], a.get("lead", ""), [hero], min_score=0)
@@ -2543,7 +2565,7 @@ def people_step(output_dir: Path, timeout: int, n: int = 4) -> int:
                     cnt[t] = cnt.get(t, 0) + 1
     arts = [a for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", []) if a.get("status") == "published"]
     ctx = lambda t: ([a["title"] for a in arts if t in (a.get("tags") or [])],  # noqa: E731
-                     min((a.get("date") or "9999") for a in arts if t in (a.get("tags") or [])))
+                     min(((a.get("date") or "9999") for a in arts if t in (a.get("tags") or [])), default=""))
     todo = [t for t, c in sorted(cnt.items(), key=lambda x: -x[1]) if c >= PEOPLE_MIN_ARTICLES and t not in known][:n]
     # a már feloldott, de még nem ellenőrzött szereplők utólagos ellenőrzése (10.24–31. között névrokonok is bekerültek)
     recheck = [t for t, p in known.items() if p and not p.get("none") and not p.get("checked")][:max(0, n - len(todo)) + 2]
@@ -4174,6 +4196,151 @@ def cabinet_text(timeout: int = 15) -> str:
     return "; ".join(out) if len(out) >= 5 else ""
 
 
+FACTS_FILE = BASE_DIR / "data" / "facts_hu.json"
+# Beégetett alaptények (11.21.): amit az AI a saját, elavult tudásából rosszul írna. A tényellenőrző (facts_check_step)
+# időnként és ha a hírekben az adott tisztséggel kapcsolatos változás jön, átnézi; változást csak a te /teny ok-oddal ír át.
+FACTS_DEFAULT = [
+    {"id": "pm", "role": "Magyarország miniszterelnöke", "current": "Magyar Péter (TISZA), 2026. május 9. óta",
+     "former": ["Orbán Viktor"], "words": ["miniszterelnök", "kormányfő"]},
+    {"id": "gov", "role": "Kormánypárt / ellenzék", "current": "a TISZA kormányoz; a Fidesz–KDNP 2026 tavasza óta ellenzékben",
+     "former": [], "words": ["kormánypárt"]},
+    {"id": "prev", "role": "Előző kormány", "current": "Orbán-kormányok 2010–2026 (Fidesz–KDNP); tagjai ma VOLT miniszterek "
+     "(pl. Szijjártó Péter volt külügyminiszter)", "former": [], "words": []},
+    {"id": "opp", "role": "Az ellenzék vezetője", "current": "Orbán Viktor (Fidesz), volt miniszterelnök", "former": [],
+     "words": ["ellenzék vezető"]},
+    {"id": "pres", "role": "Köztársasági elnök", "current": "Baka András", "former": ["Sulyok Tamás", "Novák Katalin"],
+     "words": ["köztársasági elnök", "államfő"]},
+    {"id": "mnb", "role": "MNB-elnök", "current": "Varga Mihály (2025 márciusa óta)", "former": ["Matolcsy György"],
+     "words": ["jegybankelnök", "MNB-elnök", "MNB elnöke"]},
+    {"id": "fopm", "role": "Budapest főpolgármestere", "current": "Karácsony Gergely", "former": ["Tarlós István"],
+     "words": ["főpolgármester"]},
+    {"id": "usa", "role": "Az USA elnöke", "current": "Donald Trump (2025. január óta)", "former": ["Joe Biden"],
+     "words": ["amerikai elnök", "az USA elnöke"]},
+    {"id": "ec", "role": "Az Európai Bizottság elnöke", "current": "Ursula von der Leyen", "former": [],
+     "words": ["Európai Bizottság elnöke"]},
+    {"id": "euco", "role": "Az Európai Tanács elnöke", "current": "António Costa", "former": ["Charles Michel"],
+     "words": ["Európai Tanács elnöke"]},
+    {"id": "ua", "role": "Ukrajna elnöke", "current": "Volodimir Zelenszkij", "former": [], "words": ["ukrán elnök"]},
+    {"id": "ru", "role": "Oroszország elnöke", "current": "Vlagyimir Putyin", "former": [], "words": ["orosz elnök"]},
+]
+
+
+def facts() -> list:
+    """A rögzített tények (data/facts_hu.json; ha még nincs, a beégetett lista). A /teny ok-kal jóváhagyott változás ide íródik."""
+    f = read_json(FACTS_FILE, {})
+    if not f.get("facts"):
+        f = {"facts": FACTS_DEFAULT, "pending": [], "checked": ""}
+        write_json_atomic(FACTS_FILE, f)
+    return f["facts"]
+
+
+def facts_text() -> str:
+    return "; ".join(f"{x['role']}: {x['current']}" + (f" (korábban: {', '.join(x['former'])} – ma már NEM)" if x.get("former") else "")
+                     for x in facts())
+
+
+_NAME = re.compile(r"\b([A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+(?:-[A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+)?) ([A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]{2,})")
+
+
+def fact_guard(art: dict) -> list:
+    """Gyors, AI nélküli tényőr a kiküldés előtt (11.21.: „…kormánymegbízottat nevezett ki Orbán Viktor” – a forrás
+    szerint Magyar Péter). (1) a címben szereplő személynév legyen benne a forrásokban vagy a cikk szövegében;
+    (2) volt tisztségviselő ne szerepeljen mai tisztségben („volt”, „akkori” nélkül); (3) első személyű kijelentés
+    („Bebizonyítottuk:”) a címben csak idézőjelben. Visszaad: a gondok listája (üres = rendben)."""
+    title = str(art.get("title") or "")
+    body = " ".join(x for x in (art.get("body") or []) if isinstance(x, str))
+    src = " ".join(str(s.get("title") or "") for s in art.get("sources") or [])
+    hay = (art.get("lead", "") + " " + body + " " + src).lower()
+    out = []
+    for m in _NAME.finditer(title):
+        first, last = m.group(1), m.group(2)
+        if m.start() == 0 and first.lower() in ("hat", "két", "három", "újabb", "több", "nagy", "magyar", "európai"):
+            continue  # mondatkezdő köznév, nem személynév
+        if first.lower()[:5] not in hay and last.lower()[:5] not in hay:  # egyik névrész sincs benne (ragozott is jó)
+            out.append(f"A címben „{first} {last}” szerepel, de a forrásokban és a szövegben nincs benne – ellenőrizd.")
+    text = title + " " + str(art.get("lead") or "") + " " + body
+    for f in facts():
+        for old in f.get("former") or []:
+            for w in f.get("words") or []:
+                for mm in re.finditer(rf"{re.escape(old)}\w*[^.]{{0,25}}\b{re.escape(w)}|\b{re.escape(w)}\w*,? {re.escape(old)}", text):
+                    near = text[max(0, mm.start() - 220):mm.end() + 10].lower()
+                    if not re.search(r"\bvolt\b|korábbi|akkori|egykori|\b20(0\d|1\d|2[0-5])\b|leköszön", near):
+                        out.append(f"„{old}” mai {w}ként szerepel – {f['role']}: {f['current']}.")
+                        break
+    if re.match(r"^[A-ZÁÉÍÓÖŐÚÜŰ][a-záéíóöőúüű]+(tuk|tük|unk|ünk|juk|jük)\b[:!]", title):
+        out.append("A cím első személyben szól („…-tuk:”) idézőjel nélkül – ez egy szereplő mondata, nem a lapé.")
+    return list(dict.fromkeys(out))[:4]
+
+
+FACT_TRIGGER = re.compile(r"lemond|kinevez|megválaszt|beiktat|leváltott|felment|új (miniszter|elnök|kormányfő|jegybank)|"
+                          r"elhunyt|meghalt|visszalép|bizalmatlansági", re.I)
+
+
+def facts_check_step(output_dir: Path, ai: "AIClient", force: bool = False) -> list:
+    """Tényőr-ellenőrzés: hetente egyszer, vagy ha a friss forráscímek egy rögzített tisztséghez kapcsolódó változást
+    jeleznek (lemondott, kinevezték, megválasztották…), az AI összeveti a listát a friss címekkel. Csak JAVASLATOT tesz
+    (pending), a listát a /teny ok írja át. Visszaad: az új javaslatok."""
+    st = read_json(FACTS_FILE, {})
+    if not st.get("facts"):
+        facts()
+        st = read_json(FACTS_FILE, {})
+    now = datetime.now(timezone.utc)
+    cut = (now - timedelta(hours=30)).isoformat()
+    arts = [a for a in read_json(output_dir / "articles.json", {"articles": []}).get("articles", [])
+            if (a.get("published_at") or a.get("created_at") or "") >= cut]
+    heads = list(dict.fromkeys(str(s.get("title") or "") for a in arts for s in a.get("sources") or []))
+    keys = [w.lower() for f in st["facts"] for w in (f.get("words") or []) + [f["current"].split(" (")[0]]]
+    hot = [h for h in heads if FACT_TRIGGER.search(h) and any(k[:8] in h.lower() for k in keys if k)]
+    seen = set(st.get("seen") or [])
+    hot_new = [h for h in hot if h not in seen]
+    weekly = (st.get("checked") or "") < (now - timedelta(days=7)).isoformat()
+    if not (force or hot_new or weekly):
+        return []
+    sample = hot_new[:25] or heads[:60]
+    prompt = ("Rögzített tények (ezeket használja a cikkíró robot):\n"
+              + "\n".join(f"[{f['id']}] {f['role']}: {f['current']}" for f in st["facts"])
+              + "\n\nFriss magyar hírcímek (az elmúlt ~30 óra):\n" + "\n".join("- " + h for h in sample)
+              + "\n\nVan-e a fenti tények között olyan, amit a hírcímek EGYÉRTELMŰEN elavulttá tesznek (pl. lemondott, "
+                "új embert neveztek ki/választottak meg, meghalt)? Csak akkor jelezz, ha a cím konkrétan erről szól; "
+                "találgatás, terv vagy jelölés NEM elég. Ha nincs ilyen, üres lista.\n"
+                'JSON: {"changes": [{"id": "…", "new": "új érték", "evidence": "a hírcím szó szerint"}]}')
+    try:
+        r = ai.complete_json("Tényellenőrző vagy egy magyar hírportálnál. Csak JSON-t adsz vissza.", prompt, 600, light=True)
+    except Exception as e:  # noqa: BLE001
+        log.warning("Tényőr-ellenőrzés kimaradt: %s", str(e)[:150])
+        return []
+    ids = {f["id"] for f in st["facts"]}
+    new = [{"id": c["id"], "new": str(c.get("new") or "")[:160], "evidence": str(c.get("evidence") or "")[:200],
+            "t": now.isoformat(timespec="seconds")}
+           for c in (r.get("changes") or []) if isinstance(c, dict) and c.get("id") in ids and c.get("new")]
+    pend = [p for p in st.get("pending") or [] if p["id"] not in {n["id"] for n in new}] + new
+    st.update({"pending": pend[-10:], "checked": now.isoformat(timespec="seconds") if weekly or force else st.get("checked", ""),
+               "seen": (list(seen) + hot_new)[-300:]})
+    write_json_atomic(FACTS_FILE, st)
+    return new
+
+
+def facts_apply(i: int, accept: bool) -> Optional[str]:
+    """/teny ok N vagy /teny nem N: a függő javaslat elfogadása (a tény átírása, a régi a „former” listába) vagy elvetése."""
+    st = read_json(FACTS_FILE, {})
+    pend = st.get("pending") or []
+    if not 0 <= i < len(pend):
+        return None
+    p = pend.pop(i)
+    msg = f"Elvetve: {p['new']}"
+    if accept:
+        for f in st.get("facts") or []:
+            if f["id"] == p["id"]:
+                old = f["current"].split(" (")[0].split(";")[0].strip()
+                if old and len(old.split()) <= 4:
+                    f["former"] = list(dict.fromkeys([old] + (f.get("former") or [])))[:5]
+                f["current"] = p["new"]
+                msg = f"Átírva – {f['role']}: {p['new']}"
+    st["pending"] = pend
+    write_json_atomic(FACTS_FILE, st)
+    return msg
+
+
 def current_context(timeout: int = 15) -> str:
     """Napi egyszer frissülő háttér: kik töltik be MOST a legfontosabb tisztségeket (a kormány Wikipédia-szócikkéből,
     tartalékként a beégetett lista). Az AI tudása egy adott dátumnál lezárul, ezért enélkül elavult tisztséget írna
@@ -4185,7 +4352,11 @@ def current_context(timeout: int = 15) -> str:
         c = {"date": today, "text": "Magyarország kormánya és vezetői (aktuális): " + (cab or CABINET_FALLBACK),
              "source": "wikipedia" if cab else "fallback"}
         write_json_atomic(CONTEXT_FILE, c)
-    return c.get("text", "")
+    try:
+        ft = facts_text()
+    except Exception:  # noqa: BLE001
+        ft = ""
+    return c.get("text", "") + (("\nRögzített tények (ellenőrzött): " + ft) if ft else "")
 
 
 def section_prompt(section: dict, story: list, d: date, context: Optional[list] = None,
@@ -4496,7 +4667,10 @@ def _rank_titles(ai: "AIClient", titles: list, lead: str) -> list:
     """Címlektor: a legjobb (legérthetőbb és legkattintósabb) cím kerül előre; ha mind gyenge, egy jobbat is írhat."""
     if len(titles) < 2 or os.getenv("TITLE_JUDGE", "true").lower() not in ("1", "true", "yes"):
         return titles
-    prompt = (editor_title_examples(8) + f"\nBevezető: {lead[:400]}\n\nCímek:\n" + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(titles))
+    prompt = (editor_title_examples(8) + f"\nAKTUÁLIS TÉNYEK (ehhez igazodj, ne a saját emlékeidhez): {facts_text()}\n"
+              "A címben csak olyan szereplő neve lehet, aki a bevezetőben is szerepel; egy szereplő első személyű mondata "
+              "(„Bebizonyítottuk…”) csak idézőjelben, a nevével.\n"
+              + f"\nBevezető: {lead[:400]}\n\nCímek:\n" + "\n".join(f"{i + 1}. {t}" for i, t in enumerate(titles))
               + "\n\nJSON: {\"order\": [sorszámok a legjobbtól], \"better\": \"ha mindegyik gyenge (homályos, "
                 "általános vagy túl hosszú), egy jobb cím ugyanerre a hírre, különben null\"}")
     try:
