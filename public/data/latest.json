@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "c1ca1282-f86b-51cf-a6f0-ed6f79522b88",
+      "slug": "2026-11-22-zsiday-viktor-az-allamadossagokat-mar-senki-sem-fogja-kifizetni",
+      "url": "/penzvilag/2026-11-22-zsiday-viktor-az-allamadossagokat-mar-senki-sem-fogja-kifizetni/",
+      "title": "Zsiday Viktor: Az államadósságokat már senki sem fogja kifizetni",
+      "lead": "A fejlett országok államadóssága demográfiai és gazdasági okokból olyan szintre jutott, amelyet már képtelenség visszafizetni. Ezt Zsiday Viktor közgazdász, befektetési szakértő fejtette ki a 444.hu videójában, ahol a pénznyomtatás kockázatairól és a magyar gazdaság szerkezeti problémáiról is beszélt.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-22",
+      "date_label": "november 22.",
+      "created_at": "2026-11-22T10:59:38+01:00",
+      "published_at": "2026-11-22T10:59:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "gazdaság",
+        "államadósság",
+        "Zsiday Viktor",
+        "infláció",
+        "költségvetés"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-5350a5d0f3.jpg",
+        "kind": "photo",
+        "alt": "Zsiday Viktor: Senki ne gondolja, hogy ezeket az adósságokat vissza lehet fizetni",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "b78f7dfa-9e90-5c4d-aa54-39979d10829d",
       "slug": "2026-11-22-megtamadtak-a-kalinyingrad-fele-tarto-orosz-hajot-a-balti-tengeren",
       "url": "/vilag/2026-11-22-megtamadtak-a-kalinyingrad-fele-tarto-orosz-hajot-a-balti-tengeren/",
@@ -4415,37 +4445,7 @@
         "pos": "center",
         "alt": "Abu Dhabi - Shahama Road to Dubai - United Arab Emirates"
       }
-    },
-    {
-      "id": "83f9bcfb-c912-5ef0-83ae-d059a1b7018a",
-      "slug": "2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben",
-      "url": "/kozelet/2026-11-13-fak-doltek-ki-aluljarok-aradtak-el-a-csutortok-ota-tarto-esoben/",
-      "title": "Fák dőltek ki, aluljárók áradtak el a csütörtök óta tartó esőben",
-      "lead": "Országszerte súlyos fennakadásokat okozott a csütörtök óta tartó intenzív esőzés és az erős szél. Az Országos Katasztrófavédelmi Főigazgatóság jelentése szerint aluljárókban rekedt autósokhoz, kidőlt fákhoz és víz alá került épületekhez riasztották a tűzoltókat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T12:49:04+01:00",
-      "published_at": "2026-11-13T12:49:04+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.93,
-      "tags": [
-        "időjárás",
-        "katasztrófavédelem",
-        "esőzés",
-        "vihar",
-        "közlekedés"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Flooded_street_in_town.jpg/1280px-Flooded_street_in_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 801,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A flooded street after a sudden summer rain in a town in Greece."
-      }
     }
   ],
-  "updated_at": "2026-11-22T10:34:13+01:00"
+  "updated_at": "2026-11-22T10:59:40+01:00"
 }
