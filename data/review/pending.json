@@ -5346,7 +5346,7 @@
     {
       "id": "2d409e51-9c55-5a30-926b-7264e5a6e480",
       "slug": "2026-11-22-mit-er-a-minimalber-ha-emelkedik",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -5391,7 +5391,7 @@
       "word_count": 530,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://pixabay.com/get/g79762fa57432a0c215ef9672e7fa6e4aafe7521f0c4522c0ea2dc9a47efe9a0ae5c6ae8bcb620ce58bc93fddf5b72b8139cdb0ae216cb26ca05d94db54ebd50e_1280.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/88805b80f47da9d8.jpg",
         "width": 3846,
         "height": 2599,
         "kind": "photo",
@@ -5399,7 +5399,9 @@
         "credit": "nattanan23 / Pixabay",
         "license": "Pixabay License",
         "source_url": "https://pixabay.com/photos/money-coin-investment-business-2724241/",
-        "vision_score": 8.0
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/88805b80f47da9d8.jpg",
+        "orig_url": "https://pixabay.com/get/g79762fa57432a0c215ef9672e7fa6e4aafe7521f0c4522c0ea2dc9a47efe9a0ae5c6ae8bcb620ce58bc93fddf5b72b8139cdb0ae216cb26ca05d94db54ebd50e_1280.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -5503,7 +5505,7 @@
         "meta_title": "Mit ér a minimálbér, ha emelkedik?",
         "meta_description": "A minimálbér nem csupán egy szigorú állami előírás, hanem a makrogazdaság egyik legérzékenyebb mozgatórugója, amely közvetlenül befolyásolja a vállalkozások éle",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-22-mit-er-a-minimalber-ha-emelkedik/",
-        "og_image": "https://pixabay.com/get/g79762fa57432a0c215ef9672e7fa6e4aafe7521f0c4522c0ea2dc9a47efe9a0ae5c6ae8bcb620ce58bc93fddf5b72b8139cdb0ae216cb26ca05d94db54ebd50e_1280.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/88805b80f47da9d8.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -5518,9 +5520,9 @@
       "dedupe_hash": "f7378fe5c8e2b3157369772a6d26e9e542f2bb784f6c9906a817e8a9a03d0f93",
       "pipeline_run_id": "45005810021",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-22T10:34:10+01:00",
-      "updated_at": "2026-11-22T10:34:10+01:00",
-      "published_at": null,
+      "created_at": "2026-11-22T12:33:35+01:00",
+      "updated_at": "2026-11-22T12:33:35+01:00",
+      "published_at": "2026-11-22T12:33:35+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-22T12:33:21+01:00",
@@ -5538,8 +5540,10 @@
         "lead": "A minimálbér nem csupán egy szigorú állami előírás, hanem a makrogazdaság egyik legérzékenyebb mozgatórugója, amely közvetlenül befolyásolja a vállalkozások életét és az árak alakulását. A tudományos kutatások rávilágítanak arra, hogy a bérszínvonal-növekedés mögött rejlő összefüggések sokkal összetettebbek, mint azt a mindennapokban gondolnánk.",
         "ctl_photo": true,
         "control_id": 10631,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "c1ca1282-f86b-51cf-a6f0-ed6f79522b88",

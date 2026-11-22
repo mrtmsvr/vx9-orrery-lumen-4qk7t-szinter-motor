@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2d409e51-9c55-5a30-926b-7264e5a6e480",
+      "slug": "2026-11-22-mit-er-a-minimalber-ha-emelkedik",
+      "url": "/penzvilag/2026-11-22-mit-er-a-minimalber-ha-emelkedik/",
+      "title": "Mit ér a minimálbér, ha emelkedik?",
+      "lead": "A minimálbér nem csupán egy szigorú állami előírás, hanem a makrogazdaság egyik legérzékenyebb mozgatórugója, amely közvetlenül befolyásolja a vállalkozások életét és az árak alakulását. A tudományos kutatások rávilágítanak arra, hogy a bérszínvonal-növekedés mögött rejlő összefüggések sokkal összetettebbek, mint azt a mindennapokban gondolnánk.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-22",
+      "date_label": "november 22.",
+      "created_at": "2026-11-22T12:33:35+01:00",
+      "published_at": "2026-11-22T12:33:35+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "minimálbér",
+        "gazdaság",
+        "infláció",
+        "bérek",
+        "szegénység"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/88805b80f47da9d8.jpg",
+        "width": 3846,
+        "height": 2599,
+        "kind": "photo",
+        "alt": "money, coin, investment, business, finance, bank, currency, loan, cash, mortgage, banking, wealth, value, buy, savings, success, growth, invest, economy, credit, market, payment, deposit, debt, money,"
+      }
+    },
+    {
       "id": "c1ca1282-f86b-51cf-a6f0-ed6f79522b88",
       "slug": "2026-11-22-zsiday-viktor-az-allamadossagokat-mar-senki-sem-fogja-kifizetni",
       "url": "/penzvilag/2026-11-22-zsiday-viktor-az-allamadossagokat-mar-senki-sem-fogja-kifizetni/",
@@ -4416,36 +4446,7 @@
         "pos": "top",
         "alt": "Vladimir Putin at a meeting of the State Council Presidium on the development of public transport in the Russian Federation"
       }
-    },
-    {
-      "id": "74382b39-4a5c-5c65-b131-f48723720371",
-      "slug": "2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar",
-      "url": "/vilag/2026-11-13-tizennegy-halalos-aldozatot-kovetelt-a-fudzseiraba-vezeto-ut-tomegkar/",
-      "title": "Tizennégy halálos áldozatot követelt a Fudzseirába vezető út tömegkarambolja",
-      "lead": "Tizennégy ember életét vesztette és harmincan megsérültek egy huszonhárom járművet érintő tömegbalesetben az Egyesült Arab Emírségekben. A tragédia a Fudzseirába vezető úton történt szerda éjjel, amikor egy irányíthatatlan teherautó a torlódásban álló kocsisorba csapódott.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T12:50:35+01:00",
-      "published_at": "2026-11-13T12:50:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.22,
-      "tags": [
-        "Egyesült Arab Emírségek",
-        "baleset",
-        "tömegkarambol",
-        "Fudzsejra"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Abu_Dhabi_-_Shahama_Road_to_Dubai_-_United_Arab_Emirates_-_panoramio_%284%29.jpg/1280px-Abu_Dhabi_-_Shahama_Road_to_Dubai_-_United_Arab_Emirates_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 637,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Abu Dhabi - Shahama Road to Dubai - United Arab Emirates"
-      }
     }
   ],
-  "updated_at": "2026-11-22T11:50:43+01:00"
+  "updated_at": "2026-11-22T12:33:36+01:00"
 }

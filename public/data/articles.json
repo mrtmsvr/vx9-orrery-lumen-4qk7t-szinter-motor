@@ -1,7 +1,137 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-22T10:59:38+01:00",
+  "updated_at": "2026-11-22T12:33:35+01:00",
   "articles": [
+    {
+      "id": "2d409e51-9c55-5a30-926b-7264e5a6e480",
+      "slug": "2026-11-22-mit-er-a-minimalber-ha-emelkedik",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "minimálbér",
+        "gazdaság",
+        "infláció",
+        "bérek",
+        "szegénység"
+      ],
+      "title": "Mit ér a minimálbér, ha emelkedik?",
+      "subtitle": null,
+      "lead": "A minimálbér nem csupán egy szigorú állami előírás, hanem a makrogazdaság egyik legérzékenyebb mozgatórugója, amely közvetlenül befolyásolja a vállalkozások életét és az árak alakulását. A tudományos kutatások rávilágítanak arra, hogy a bérszínvonal-növekedés mögött rejlő összefüggések sokkal összetettebbek, mint azt a mindennapokban gondolnánk.",
+      "key_points": [
+        "A minimálbér az az államilag megkövetelt legkisebb munkadíj, amelynél alacsonyabb díjazást egyetlen munkavállaló sem kaphat.",
+        "A Java szigetén végzett 2014-es kutatás szerint a gazdasági növekedés csökkenti, míg az infláció növeli a szegénységet, a minimálbér hatása pedig régiónként eltérő lehet.",
+        "A Yogyakarta tartományban 2009 és 2023 közötti adatok alapján készült 2024-es vizsgálat kimutatta, hogy a szegénységi szintet elsősorban a minimálbér és a gazdasági növekedés határozza meg.",
+        "Magyarországon a minimálbér mellett garantált bérminimum is létezik, és az uniós összehasonlításban a hazai szintek az alsó mezőnybe tartoznak.",
+        "A kötelező legkisebb bér emelése a jogszabályi háttér és a piaci folyamatok függvényében növelheti az életszínvonalat és mérsékelheti a szegénységet."
+      ],
+      "content": "## Mi is az a kötelező legkisebb bér?\n\nA minimálbér a magyar jogi szaknyelvben kötelező legkisebb munkabérként szerepel, ami azt az óránkénti, napi, heti vagy havi összeget jelöli, amelyet a munkaadó köteles hivatalosan megfizetni a munkavállalónak. Ez a globálisan elterjedt intézkedés biztosítja, hogy a dolgozók elkerüljék a legsúlyosabb anyagi kiszolgáltatottságot. Magyarországon 1989 óta alkalmazzák, az összege pedig évente emelkedik, bár a vásárlóerő-paritást tekintve az értéke időnként ingadozik. Nemzetközi összehasonlításban a 2022-es adatok alapján az Európai Unió összes tagállama közül hazánkban a negyedik legalacsonyabb a minimálbér, és a visegrádi országok mindegyikében jóval magasabb összegeket találunk.\n\n## Makrogazdasági összefüggések a számok tükrében\n\nA minimálbér-emelkedés gazdasági hatásait számos kutatás vizsgálta a világ különböző pontjain. Egy Java szigetének szegénységi adatait elemző kutatás dinamikus paneladat-regressziós modellt használt. Az eredmények azt mutatták, hogy a gazdasági növekedés negatív kapcsolatban áll a szegénységi rátával – vagyis a magasabb gazdasági teljesítmény alacsonyabb szegénységet eredményez –, míg az infláció növekedése egyértelműen növeli a szegénységet. Ugyanakkor ebben a modellben a minimálbér önmagában nem mutatott közvetlen hatást a szegénységi rátára a vizsgált térségben.\n\nEzzel szemben egy frissebb, 2024-ben megjelent tanulmány (Journal of Business Management and Economic Development) Yogyakarta tartomány 2009 és 2023 közötti adatait elemezve másra jutott. A paneladat-regressziós módszerrel végzett kutatás kimutatta, hogy a helyi szegénységi szintet jelentős mértékben a minimálbér és a gazdasági növekedés határozza meg, míg az inflációs változók hatása ebben a specifikus tartományi környezetben nem volt kimutatható. Ez a kettősség jól mutatja, hogy a makrogazdasági tényezők hatása nagymértékben függ a helyi gazdaság szerkezetétől.\n\n## Pozitív hatások és a vállalkozások valósága\n\nA Wikipédia gyűjtése és a gazdasági szakirodalom alapján a minimálbér emelésének számos kedvező társadalmi hatása van, amennyiben azt a gazdaság teljesítőképessége is támogatja:\n\n- Növeli az életszínvonalat és mérsékli az abszolút, valamint a relatív szegénységet.\n\n- Enyhíti a kereseti különbségeket és a nemek közötti bérszakadékot.\n\n- Csökkenti a munkaerő külföldre vándorlásának mértékét és a pályaelhagyók számát.\n\n- Növeli a munkatermelékenységet, és hatékonyabb működésre sarkallja a vállalkozásokat.\n\n- Visszaszorítja a szürkegazdaságot, miközben az adó- és járulékbevételek növekedése révén az állami költségvetést is erősíti.\n\nFontos megemlíteni, hogy a kutatások szerint a minimálbér emelése önmagában nem csökkenti a foglalkoztatottak számát, ami gyakori félelem a vállalkozói szférában. Az ENSZ munkaügyi szervezete, az ILO ráadásul évről évre szakmai javaslatokat fogalmaz meg a mértékükre vonatkozóan, hogy azok lépést tartsanak a valós megélhetési költségekkel.\n\n## Mit jelent ez a mindennapokban és a pénztárcánkban?\n\nA hétköznapi olvasó számára a minimálbér kérdése nemcsak elméleti közgazdaságtan, hanem a mindennapi vásárlóerő alapja. Amikor a bérek növekedéséről hallunk, a vállalkozások oldaláról nézve a költségek emelkedését jelenti, amit a cégek vagy termelékenység-növeléssel, vagy áremeléssel próbálnak ellensúlyozni. A tudomány jelenlegi állása szerint a gazdasági növekedés, az infláció és a kötelező bérek szimbiózisban élnek egymással: ha az infláció elszabadul, az felzabálhatja a béremelések előnyeit.\n\nA gazdasági döntéshozók feladata pontosan az, hogy ezt az egyensúlyt fenntartsák. A hazai rendszer sajátosságai miatt a bérfelzárkózás kérdése különösen aktuális marad, hiszen a vásárlóerő-paritás és a nemzetközi versenyképesség folyamatos kihívások elé állítja a munkavállalókat és a munkaadókat egyaránt.",
+      "content_format": "markdown",
+      "body": [
+        "## Mi is az a kötelező legkisebb bér?",
+        "A minimálbér a magyar jogi szaknyelvben kötelező legkisebb munkabérként szerepel, ami azt az óránkénti, napi, heti vagy havi összeget jelöli, amelyet a munkaadó köteles hivatalosan megfizetni a munkavállalónak. Ez a globálisan elterjedt intézkedés biztosítja, hogy a dolgozók elkerüljék a legsúlyosabb anyagi kiszolgáltatottságot. Magyarországon 1989 óta alkalmazzák, az összege pedig évente emelkedik, bár a vásárlóerő-paritást tekintve az értéke időnként ingadozik. Nemzetközi összehasonlításban a 2022-es adatok alapján az Európai Unió összes tagállama közül hazánkban a negyedik legalacsonyabb a minimálbér, és a visegrádi országok mindegyikében jóval magasabb összegeket találunk.",
+        "## Makrogazdasági összefüggések a számok tükrében",
+        "A minimálbér-emelkedés gazdasági hatásait számos kutatás vizsgálta a világ különböző pontjain. Egy Java szigetének szegénységi adatait elemző kutatás dinamikus paneladat-regressziós modellt használt. Az eredmények azt mutatták, hogy a gazdasági növekedés negatív kapcsolatban áll a szegénységi rátával – vagyis a magasabb gazdasági teljesítmény alacsonyabb szegénységet eredményez –, míg az infláció növekedése egyértelműen növeli a szegénységet. Ugyanakkor ebben a modellben a minimálbér önmagában nem mutatott közvetlen hatást a szegénységi rátára a vizsgált térségben.",
+        "Ezzel szemben egy frissebb, 2024-ben megjelent tanulmány (Journal of Business Management and Economic Development) Yogyakarta tartomány 2009 és 2023 közötti adatait elemezve másra jutott. A paneladat-regressziós módszerrel végzett kutatás kimutatta, hogy a helyi szegénységi szintet jelentős mértékben a minimálbér és a gazdasági növekedés határozza meg, míg az inflációs változók hatása ebben a specifikus tartományi környezetben nem volt kimutatható. Ez a kettősség jól mutatja, hogy a makrogazdasági tényezők hatása nagymértékben függ a helyi gazdaság szerkezetétől.",
+        "## Pozitív hatások és a vállalkozások valósága",
+        "A Wikipédia gyűjtése és a gazdasági szakirodalom alapján a minimálbér emelésének számos kedvező társadalmi hatása van, amennyiben azt a gazdaság teljesítőképessége is támogatja:",
+        "- Növeli az életszínvonalat és mérsékli az abszolút, valamint a relatív szegénységet.",
+        "- Enyhíti a kereseti különbségeket és a nemek közötti bérszakadékot.",
+        "- Csökkenti a munkaerő külföldre vándorlásának mértékét és a pályaelhagyók számát.",
+        "- Növeli a munkatermelékenységet, és hatékonyabb működésre sarkallja a vállalkozásokat.",
+        "- Visszaszorítja a szürkegazdaságot, miközben az adó- és járulékbevételek növekedése révén az állami költségvetést is erősíti.",
+        "Fontos megemlíteni, hogy a kutatások szerint a minimálbér emelése önmagában nem csökkenti a foglalkoztatottak számát, ami gyakori félelem a vállalkozói szférában. Az ENSZ munkaügyi szervezete, az ILO ráadásul évről évre szakmai javaslatokat fogalmaz meg a mértékükre vonatkozóan, hogy azok lépést tartsanak a valós megélhetési költségekkel.",
+        "## Mit jelent ez a mindennapokban és a pénztárcánkban?",
+        "A hétköznapi olvasó számára a minimálbér kérdése nemcsak elméleti közgazdaságtan, hanem a mindennapi vásárlóerő alapja. Amikor a bérek növekedéséről hallunk, a vállalkozások oldaláról nézve a költségek emelkedését jelenti, amit a cégek vagy termelékenység-növeléssel, vagy áremeléssel próbálnak ellensúlyozni. A tudomány jelenlegi állása szerint a gazdasági növekedés, az infláció és a kötelező bérek szimbiózisban élnek egymással: ha az infláció elszabadul, az felzabálhatja a béremelések előnyeit.",
+        "A gazdasági döntéshozók feladata pontosan az, hogy ezt az egyensúlyt fenntartsák. A hazai rendszer sajátosságai miatt a bérfelzárkózás kérdése különösen aktuális marad, hiszen a vásárlóerő-paritás és a nemzetközi versenyképesség folyamatos kihívások elé állítja a munkavállalókat és a munkaadókat egyaránt."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 530,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/88805b80f47da9d8.jpg",
+        "width": 3846,
+        "height": 2599,
+        "kind": "photo",
+        "alt": "money, coin, investment, business, finance, bank, currency, loan, cash, mortgage, banking, wealth, value, buy, savings, success, growth, invest, economy, credit, market, payment, deposit, debt, money,",
+        "credit": "nattanan23 / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/money-coin-investment-business-2724241/",
+        "vision_score": 8.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/88805b80f47da9d8.jpg",
+        "orig_url": "https://pixabay.com/get/g79762fa57432a0c215ef9672e7fa6e4aafe7521f0c4522c0ea2dc9a47efe9a0ae5c6ae8bcb620ce58bc93fddf5b72b8139cdb0ae216cb26ca05d94db54ebd50e_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://openalex.org/W2131902674",
+          "title": "IMPACT OF ECONOMIC GROWTH, INFLATION AND MINIMUM WAGE ON POVERTY IN JAVA",
+          "publisher": "OpenAlex, 2014",
+          "license": null,
+          "accessed_at": "2026-11-22T10:34:10+01:00"
+        },
+        {
+          "url": "https://doi.org/10.59653/jbmed.v2i03.950",
+          "title": "Impact of Minimum Wage, Inflation, and Economic Growth on Poverty in Yogyakarta Province",
+          "publisher": "Journal of Business Management and Economic Development, 2024",
+          "license": null,
+          "accessed_at": "2026-11-22T10:34:10+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Minim%C3%A1lb%C3%A9r",
+          "title": "Minimálbér",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-22T10:34:10+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-22T12:33:35+01:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": true,
+      "category_meta": {
+        "source_links": [
+          "https://openalex.org/W2131902674",
+          "https://doi.org/10.59653/jbmed.v2i03.950",
+          "https://hu.wikipedia.org/wiki/Minim%C3%A1lb%C3%A9r"
+        ],
+        "offtopic_id": "hir-minimalber-gazdasagi-hattere"
+      },
+      "date": "2026-11-22",
+      "date_label": "november 22.",
+      "url": "/penzvilag/2026-11-22-mit-er-a-minimalber-ha-emelkedik/",
+      "seo": {
+        "meta_title": "Mit ér a minimálbér, ha emelkedik?",
+        "meta_description": "A minimálbér nem csupán egy szigorú állami előírás, hanem a makrogazdaság egyik legérzékenyebb mozgatórugója, amely közvetlenül befolyásolja a vállalkozások éle",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-22-mit-er-a-minimalber-ha-emelkedik/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/88805b80f47da9d8.jpg",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "f7378fe5c8e2b3157369772a6d26e9e542f2bb784f6c9906a817e8a9a03d0f93",
+      "pipeline_run_id": "45005810021",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-22T12:33:35+01:00",
+      "updated_at": "2026-11-22T12:33:35+01:00",
+      "published_at": "2026-11-22T12:33:35+01:00",
+      "expires_at": null
+    },
     {
       "id": "c1ca1282-f86b-51cf-a6f0-ed6f79522b88",
       "slug": "2026-11-22-zsiday-viktor-az-allamadossagokat-mar-senki-sem-fogja-kifizetni",
@@ -77829,118 +77959,6 @@
       "updated_at": "2026-10-19T13:05:36+00:00",
       "published_at": "2026-10-19T11:26:34+02:00",
       "expires_at": null
-    },
-    {
-      "id": "e18d1410-b5d9-5b65-9991-d5b6d597acb8",
-      "slug": "2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe",
-      "status": "published",
-      "category": "kultura",
-      "subcategory": null,
-      "tags": [
-        "Bödőcs Tibor",
-        "könyvajánló",
-        "kortárs irodalom",
-        "humor"
-      ],
-      "title": "Nem szent a Szentírás, ha Bödőcs Tibor veszi kezelésbe",
-      "subtitle": null,
-      "lead": "Bödőcs Tibor humorista és író legújabb kötetében a teremtett világ sorsát és az Apokalipszist veszi górcső alá, miközben Jézust országjárásra indítja. A Jézus a hegyen 3 az 1-ben című könyv három fejezetre bontva ötvözi az ókori szövegeket a mai kor híreivel és a szerző egyedi látásmódjával.",
-      "key_points": [
-        "Megjelent Bödőcs Tibor legújabb, Jézus a hegyen 3 az 1-ben című kötete.",
-        "A könyv három egységre oszlik: Genezis, Evangélium és Apokalipszis.",
-        "A kötet azt vizsgálja, mit kezdtek az emberek a teremtés fő művével.",
-        "A szerző kilenc évvel ezelőtt indította el sikeres írói karrierjét a stand-up mellett."
-      ],
-      "content": "Bödőcs Tibor Karinthy-gyűrűs magyar humorista és író ezúttal a Szentírás és a Teremtés könyvének sajátos újraértelmezésével jelentkezett. A Jézus a hegyen 3 az 1-ben című kötetben a vallási toposzok és a mindennapi hírek keverednek, miközben a főhős, Jézus országjárásra indul, hogy feltérképezze, miként alakult a Teremtő munkája a teremtettek kezén.\n\nA kötet szerkezete három fő pillérre épül: a Genezisre, az Evangéliumra és a zárólátomásként funkcionáló Apokalipszisre. A mű az irodalmi szövegek és a szent iratok határvidékén mozog, játékosan átértelmezve a hagyományos narratívákat.\n\nA szerző pályáján eddig is fontos szerepet kapott a magyar és az egyetemes irodalmi hagyományok újrafogalmazása. Az író korábbi kötetei – köztük az Addig se iszik, a Meg se kínáltak, a Mulat a manézs, valamint a Prímszámok hóesésben – mind azt mutatták, hogy Bödőcs otthonosan mozog a gasztronómia, a matematika és a klasszikus dráma világában is, miközben hitelesen szólaltat meg különböző szerzői hangokat Prousttól Esterházy Péterig.",
-      "content_format": "markdown",
-      "body": [
-        "Bödőcs Tibor Karinthy-gyűrűs magyar humorista és író ezúttal a Szentírás és a Teremtés könyvének sajátos újraértelmezésével jelentkezett. A Jézus a hegyen 3 az 1-ben című kötetben a vallási toposzok és a mindennapi hírek keverednek, miközben a főhős, Jézus országjárásra indul, hogy feltérképezze, miként alakult a Teremtő munkája a teremtettek kezén.",
-        "A kötet szerkezete három fő pillérre épül: a Genezisre, az Evangéliumra és a zárólátomásként funkcionáló Apokalipszisre. A mű az irodalmi szövegek és a szent iratok határvidékén mozog, játékosan átértelmezve a hagyományos narratívákat.",
-        "A szerző pályáján eddig is fontos szerepet kapott a magyar és az egyetemes irodalmi hagyományok újrafogalmazása. Az író korábbi kötetei – köztük az Addig se iszik, a Meg se kínáltak, a Mulat a manézs, valamint a Prímszámok hóesésben – mind azt mutatták, hogy Bödőcs otthonosan mozog a gasztronómia, a matematika és a klasszikus dráma világában is, miközben hitelesen szólaltat meg különböző szerzői hangokat Prousttól Esterházy Péterig."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 195,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1802,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Tibor Bödőcs.",
-        "credit": "Bödőcs Tibor (a kép készítője Tündik Judit) / Wikimedia Commons",
-        "license": "CC BY-SA 3.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/360/20261018_hvg-bodocs-tibor-jezus-ahegyen",
-          "title": "A Szentírás sem szentírás – ilyen, amikor Bödőcs Tibor azt játssza, hogy ő Jézus",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-19T07:12:03+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-19T09:22:24+02:00"
-      },
-      "hot_score": 5.62,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/360/20261018_hvg-bodocs-tibor-jezus-ahegyen"
-        ]
-      },
-      "date": "2026-10-19",
-      "date_label": "október 19.",
-      "url": "/kultura/2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe/",
-      "seo": {
-        "meta_title": "Nem szent a Szentírás, ha Bödőcs Tibor veszi kezelésbe",
-        "meta_description": "Bödőcs Tibor humorista és író legújabb kötetében a teremtett világ sorsát és az Apokalipszist veszi górcső alá, miközben Jézust országjárásra indítja. A Jézus a",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-19-nem-szent-a-szentiras-ha-bodocs-tibor-veszi-kezelesbe/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/B%C3%B6d%C5%91cs_Tibor_portr%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "ebc17c4fd84df77960fa7b6b1700cc8c9e72d76f067824841cf39adccab50876",
-      "pipeline_run_id": "39202189396",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T09:22:24+02:00",
-      "updated_at": "2026-10-19T09:22:24+02:00",
-      "published_at": "2026-10-19T09:22:24+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Bödőcs Tibor",
-        "Jesus",
-        "Genesis",
-        "Gospel",
-        "Apocalypse",
-        "mountain",
-        "ancient manuscript",
-        "modern newspaper"
-      ],
-      "images_seen": [
-        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386764-0.jpg",
-        "https://xn--kollektva-m5a.hu/public/img/gen/kultura-1792386766-1.jpg"
-      ]
     }
   ]
 }
