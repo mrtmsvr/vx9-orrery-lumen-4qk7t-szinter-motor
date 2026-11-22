@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b78f7dfa-9e90-5c4d-aa54-39979d10829d",
+      "slug": "2026-11-22-megtamadtak-a-kalinyingrad-fele-tarto-orosz-hajot-a-balti-tengeren",
+      "url": "/vilag/2026-11-22-megtamadtak-a-kalinyingrad-fele-tarto-orosz-hajot-a-balti-tengeren/",
+      "title": "Megtámadták a Kalinyingrád felé tartó orosz hajót a Balti-tengeren",
+      "lead": "Dróntámadás ért egy Kalinyingrád felé tartó orosz teherhajót szombaton a Finn-öböl keleti részén, mire a finn miniszterelnök úgy reagált, hogy a háború átterjed a közvetlen környezetükbe. A Sparta II nevű hajó kigyulladt, legénységét evakuálták, a mentési munkálatokat pedig finn irányítással végzik.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-22",
+      "date_label": "november 22.",
+      "created_at": "2026-11-22T10:33:33+01:00",
+      "published_at": "2026-11-22T10:33:33+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.4,
+      "tags": [
+        "dróntámadás",
+        "Finn-öböl",
+        "Kalinyingrád",
+        "Oroszország",
+        "Finnország"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Gulf_of_Finland_NLT_Landsat7.png/1280px-Gulf_of_Finland_NLT_Landsat7.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 556,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Visible colour satellite image of Gulf of Finland."
+      }
+    },
+    {
       "id": "26c2c783-ee47-5e29-a36a-29f3fcce1699",
       "slug": "2026-11-21-zelenszkij-meguzente-putyinnak-romhalmaz-lesz-a-krimi-hid",
       "url": "/vilag/2026-11-21-zelenszkij-meguzente-putyinnak-romhalmaz-lesz-a-krimi-hid/",
@@ -4415,36 +4445,7 @@
         "pos": "center",
         "alt": "A flooded street after a sudden summer rain in a town in Greece."
       }
-    },
-    {
-      "id": "0ff70f3a-50f8-5fa8-b104-443389818670",
-      "slug": "2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras",
-      "url": "/kozelet/2026-11-13-beintett-a-politikusok-vagyonvadaszatanak-baka-andras/",
-      "title": "Beintett a politikusok vagyonvadászatának Baka András",
-      "lead": "Megfontolásra visszaküldte az Országgyűlésnek a politikusok és hozzátartozóik vagyongyarapodását vizsgáló törvényt Baka András köztársasági elnök. Az államfő a törvény célkitűzéseivel egyetért, ám adatvédelmi és alkotmányossági aggályai miatt módosításokat sürget.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T11:58:17+01:00",
-      "published_at": "2026-11-13T11:58:17+01:00",
-      "reading_time_min": 2,
-      "hot_score": 13.65,
-      "tags": [
-        "Baka András",
-        "Országgyűlés",
-        "vagyonnyilatkozat",
-        "adatvédelem"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Andr%C3%A1s_Baka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 690,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Former President of the Hungarian Supreme Court András Baka"
-      }
     }
   ],
-  "updated_at": "2026-11-22T00:15:22+01:00"
+  "updated_at": "2026-11-22T10:33:35+01:00"
 }
