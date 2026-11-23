@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "id": "66d727bc-f387-5972-849d-41c2147c48c9",
+      "slug": "2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen",
+      "url": "/eletmod/2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen/",
+      "title": "Olvasás: a kognitív tartalékok növelése az Alzheimer ellen",
+      "lead": "A rendszeres könyvolvasás nem csupán kulturális időtöltés, hanem az egyik vizsgált módszer az agyunk védelmére. Egy friss kutatás szerint ez az egyszerű mindennapi szokás összefüggésbe hozható az Alzheimer-kór kialakulási kockázatának mérséklődésével.",
+      "category": "eletmod",
+      "status": "published",
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "created_at": "2026-11-23T09:00:33+01:00",
+      "published_at": "2026-11-23T09:00:33+01:00",
+      "reading_time_min": 4,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "olvasás",
+        "Alzheimer-kór",
+        "agyfejlesztés",
+        "egészség",
+        "kutatás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Senior_person_reading_a_book_indoors_closeup.jpg/1280px-Senior_person_reading_a_book_indoors_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Senior person reading a book indoors closeup"
+      }
+    },
+    {
       "id": "5c28782d-5cfb-5e5a-baa3-201b4a9708ca",
       "slug": "2026-11-22-milliardok-helyett-par-ezer-forintos-okostelefon-igy-oldotta-meg-a-be",
       "url": "/kozelet/2026-11-22-milliardok-helyett-par-ezer-forintos-okostelefon-igy-oldotta-meg-a-be/",
@@ -4418,37 +4449,7 @@
         "pos": "center",
         "alt": "Moscow, Russia. General view of the Moscow Kremlin."
       }
-    },
-    {
-      "id": "798f86b6-0bdd-56af-9cc8-32ebda571b13",
-      "slug": "2026-11-13-gulyas-marton-kezebe-veszi-az-iranyitast-a-stab-negyedetol-valik-meg",
-      "url": "/kozelet/2026-11-13-gulyas-marton-kezebe-veszi-az-iranyitast-a-stab-negyedetol-valik-meg/",
-      "title": "Gulyás Márton kezébe veszi az irányítást: a stáb negyedétől válik meg a Partizán",
-      "lead": "A Partizán 72 fős stábjának több mint negyedét bocsátják el, Földiák Vince főszerkesztő pedig az év végével lemond posztjáról. A döntést a szervezet átalakulásával és a támogatói források felelős felhasználásával indokolták.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T16:25:42+01:00",
-      "published_at": "2026-11-13T16:25:42+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Partizán",
-        "média",
-        "létszámleépítés",
-        "Gulyás Márton",
-        "Földiák Vince"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Gulyas_Marton.jpg/1280px-Gulyas_Marton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 798,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Gulyás Márton a 2024. február 16-i tüntetésen, Hősök tere, Budapest"
-      }
     }
   ],
-  "updated_at": "2026-11-23T07:00:39+01:00"
+  "updated_at": "2026-11-23T09:00:34+01:00"
 }

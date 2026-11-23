@@ -2552,7 +2552,7 @@
     {
       "id": "66d727bc-f387-5972-849d-41c2147c48c9",
       "slug": "2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen",
-      "status": "pending",
+      "status": "published",
       "category": "eletmod",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -2785,7 +2785,7 @@
       "date_label": "november 23.",
       "url": "/eletmod/2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen/",
       "seo": {
-        "meta_title": "Olvasás: a 33%-os pajzs az Alzheimer ellen",
+        "meta_title": "Olvasás: a kognitív tartalékok növelése az Alzheimer ellen",
         "meta_description": "A rendszeres könyvolvasás nem csupán kulturális időtöltés, hanem az egyik leghatékonyabb, tudományosan is vizsgált módszer az agyunk védelmére. Egy friss kutatá",
         "canonical_url": "https://xn--kollektva-m5a.hu/eletmod/2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen/",
         "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Senior_person_reading_a_book_indoors_closeup.jpg/1280px-Senior_person_reading_a_book_indoors_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2803,9 +2803,9 @@
       "dedupe_hash": "d4a7be38cfc73a564d5190597c846ed6515d16b23d0f9b7cdf9e91fcda928182",
       "pipeline_run_id": "45118707357",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-23T07:00:29+01:00",
-      "updated_at": "2026-11-23T07:00:29+01:00",
-      "published_at": null,
+      "created_at": "2026-11-23T09:00:33+01:00",
+      "updated_at": "2026-11-23T09:00:33+01:00",
+      "published_at": "2026-11-23T09:00:33+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-23T09:00:07+01:00",
@@ -2829,8 +2829,10 @@
         "lead": "A rendszeres könyvolvasás nem csupán kulturális időtöltés, hanem az egyik vizsgált módszer az agyunk védelmére. Egy friss kutatás szerint ez az egyszerű mindennapi szokás összefüggésbe hozható az Alzheimer-kór kialakulási kockázatának mérséklődésével.",
         "ctl_photo": false,
         "control_id": 10642,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     }
   ]
 }
