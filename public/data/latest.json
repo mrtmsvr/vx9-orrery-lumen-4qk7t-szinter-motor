@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "ddcf5495-afda-5e0b-a479-c9eb28d6eb47",
+      "slug": "2026-11-24-vagyonzarolasok-es-botranyok-igy-probal-kapaszkodni-a-fidesz",
+      "url": "/kozelet/2026-11-24-vagyonzarolasok-es-botranyok-igy-probal-kapaszkodni-a-fidesz/",
+      "title": "Vagyonzárolások és botrányok: így próbál kapaszkodni a Fidesz",
+      "lead": "A Telex politikai műsorában Hunyadi Bulcsú, a Political Capital elemzője veszi górcső alá a magyar belpolitika legfrissebb eseményeit: a lyukas gumis történettől a milliárdos vagyoni zárolásokig. A beszélgetés során terítékre került a Fidesz kommunikációs stratégiája, a közmédia új vezetése és az ukrajnai háború megítélése is.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-24",
+      "date_label": "november 24.",
+      "created_at": "2026-11-24T00:12:01+01:00",
+      "published_at": "2026-11-24T00:12:01+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Political Capital",
+        "Telex",
+        "Magyar Péter",
+        "Seszták Miklós",
+        "Bús Balázs"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Seszt%C3%A1k_Mikl%C3%B3s_ITU_Telecom_World_2014.jpg/1280px-Seszt%C3%A1k_Mikl%C3%B3s_ITU_Telecom_World_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Miklós Seszták, the Minister of National Development of Hungary at the ITU Telecom World 2014 Press Conference"
+      }
+    },
+    {
       "id": "0e86c095-a0bd-54eb-8579-c7436f4aeb4b",
       "slug": "2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese",
       "url": "/kozelet/2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese/",
@@ -4417,37 +4447,7 @@
         "alt": "5 milliárd Ft – Erdőkbe ásva és széfekben talált készpénz",
         "card": "num"
       }
-    },
-    {
-      "id": "4878ce85-0e7f-5793-8dfc-4a09bd6a3b37",
-      "slug": "2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag",
-      "url": "/kozelet/2026-11-13-kilencmillioan-sem-leszunk-jon-a-zsugorodo-magyarorszag/",
-      "title": "Kilencmillióan sem leszünk: jön a zsugorodó Magyarország",
-      "lead": "Magyarország lakossága 1980 óta folyamatosan csökken, és a szakértők szerint a jövőben milliókkal kevesebb ember él majd az országban. A demográfiai folyamatok megfordításához nem elegendőek a pénzügyi támogatások.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T19:27:47+01:00",
-      "published_at": "2026-11-13T19:27:47+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "demográfia",
-        "népességfogyás",
-        "Egyensúly Intézet",
-        "gazdaság",
-        "társadalom"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-cf5900b82f.jpg",
-        "kind": "photo",
-        "alt": "Nemzethalál nem lesz, de meg kell barátkoznunk azzal, hogy milliókkal kevesebb magyar fog élni",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-23T15:56:37+01:00"
+  "updated_at": "2026-11-24T00:12:02+01:00"
 }
