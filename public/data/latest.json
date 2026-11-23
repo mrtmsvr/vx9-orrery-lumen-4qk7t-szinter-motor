@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "0e86c095-a0bd-54eb-8579-c7436f4aeb4b",
+      "slug": "2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese",
+      "url": "/kozelet/2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese/",
+      "title": "Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök",
+      "lead": "A Budai Központi Kerületi Bíróság február közepéig meghosszabbította a volt jegybankelnök letartóztatását a gyanú szerint. Az ügy újabb feszültséget szít a pénzügyi szektor és a politikai elit között.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "created_at": "2026-11-23T15:56:35+01:00",
+      "published_at": "2026-11-23T15:56:35+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Matolcsy",
+        "letartóztatás",
+        "bíróság",
+        "MNB"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg/1280px-Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Mihály Varga Hungarian Minister of Finance in 2020."
+      }
+    },
+    {
       "id": "d0dc0b6d-810b-53e8-987c-5ee60d0a0759",
       "slug": "2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban",
       "url": "/vilag/2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban/",
@@ -4418,37 +4447,7 @@
         "width": 1280,
         "height": 720
       }
-    },
-    {
-      "id": "331fddc4-1760-5845-b4a3-a902d23d1c7c",
-      "slug": "2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb",
-      "url": "/kozelet/2026-11-13-kilencszazmilliardos-tetovazas-hol-a-gazdasagi-kar-az-eximbank-ugyekb/",
-      "title": "Kilencszázmilliárdos tétovázás: hol a gazdasági kár az Eximbank-ügyekben?",
-      "lead": "Több mint ezerkétszázmilliárd forintnyi, vitatott körülmények között kihelyezett hitel miatt tett feljelentést a Gazdasági és Energetikai Minisztérium, ám az Eximbank új vezetése szerint a pénzintézet stabilitása nem rendült meg. A látványos jogi lépések mögött egyelőre nehezen számszerűsíthető gazdasági károk sorakoznak.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T19:07:09+01:00",
-      "published_at": "2026-11-13T19:07:09+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5.98,
-      "tags": [
-        "Eximbank",
-        "Gazdasági és Energetikai Minisztérium",
-        "Kapitány István",
-        "feljelentés",
-        "hitel"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Budape%C5%A1%C5%A5_0892.jpg/1280px-Budape%C5%A1%C5%A5_0892.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapešť"
-      }
     }
   ],
-  "updated_at": "2026-11-23T13:17:08+01:00"
+  "updated_at": "2026-11-23T15:56:37+01:00"
 }
