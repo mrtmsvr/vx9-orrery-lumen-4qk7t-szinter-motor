@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "9728bf37-a32d-5259-a0f4-9da180cfc3d5",
+      "slug": "2026-11-23-belgiumi-sztrajk-nyolc-jarat-esett-ki-ferihegyen",
+      "url": "/vilag/2026-11-23-belgiumi-sztrajk-nyolc-jarat-esett-ki-ferihegyen/",
+      "title": "Belgiumi sztrájk: nyolc járat esett ki Ferihegyen",
+      "lead": "Nyolc járatot töröltek hétfőn a budapesti repülőtéren a Belgiumot megbénító országos sztrájk miatt. A munkabeszüntetés következtében gyakorlatilag leállt a ki- és beutazó légi forgalom az európai országban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "created_at": "2026-11-23T11:58:17+01:00",
+      "published_at": "2026-11-23T11:58:17+01:00",
+      "reading_time_min": 2,
+      "hot_score": 10.44,
+      "tags": [
+        "sztrájk",
+        "Belgium",
+        "Liszt Ferenc Nemzetközi Repülőtér",
+        "légiközlekedés",
+        "Budapest Airport"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Brussels_Airport_Runway_25_R.jpg/1280px-Brussels_Airport_Runway_25_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 653,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "View of Brussels Airport while landing on runway 25R"
+      }
+    },
+    {
       "id": "bf3463b6-f6b5-51dd-964f-8b7f0526dcff",
       "slug": "2026-11-23-katyuk-dronok-es-adok-ezzel-a-csomaggal-indult-el-a-maratoni-parlamen",
       "url": "/kozelet/2026-11-23-katyuk-dronok-es-adok-ezzel-a-csomaggal-indult-el-a-maratoni-parlamen/",
@@ -4419,36 +4449,7 @@
         "pos": "center",
         "alt": "Austria, climbing out of Wien-Schwechat"
       }
-    },
-    {
-      "id": "9ddb7790-7ec9-5910-9d37-8db494f9fc95",
-      "slug": "2026-11-13-huszonheten-palyaznak-a-kozmedia-vezetesere-itt-a-nevsor",
-      "url": "/kozelet/2026-11-13-huszonheten-palyaznak-a-kozmedia-vezetesere-itt-a-nevsor/",
-      "title": "Huszonheten pályáznak a közmédia vezetésére: itt a névsor",
-      "lead": "Pontosan huszonhét pályázat érkezett be csütörtök éjfélig a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói tisztségére. A jelentkezők névsorát a Független Közmédia Testület hozta nyilvánosságra.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T19:03:55+01:00",
-      "published_at": "2026-11-13T19:03:55+01:00",
-      "reading_time_min": 2,
-      "hot_score": 8.63,
-      "tags": [
-        "közmédia",
-        "pályázat",
-        "Független Közmédia Testület",
-        "médiavezető"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Fortepan_56256.jpg/1280px-A_Magyar_R%C3%A1di%C3%B3_st%C3%BAdi%C3%B3ja._Fortepan_56256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 901,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "a Magyar Rádió stúdiója."
-      }
     }
   ],
-  "updated_at": "2026-11-23T11:24:09+01:00"
+  "updated_at": "2026-11-23T11:58:18+01:00"
 }
