@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "87d2c9e470",
-      "art_id": "fe1621d7-716b-5bcd-a4b1-dd8a655eeb36",
-      "title": "Ugrásszerűen erősödött a forint a nemzetközi piacon",
-      "url": "/penzvilag/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon/",
-      "card": "public/img/ig/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-16-ugrasszeruen-erosodott-a-forint-a-nemzetkozi-piacon.jpg",
-      "caption": "Ugrásszerűen erősödött a forint a nemzetközi piacon\n\nLátványos erősödésbe kezdett a hazai fizetőeszköz pénteken a nemzetközi kötvénypiaci feszültségek enyhülésének köszönhetően. A kedvező befektetői hangulat hatására a magyar állampapírok hozama is tovább csökkent.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#forint #állampapír #gazdaság #hírek #kollektíva",
-      "created": "2026-10-16T20:06:57+02:00",
-      "due": "2026-10-16T20:51:57+02:00",
-      "status": "failed",
-      "tg": [
-        7010,
-        7011
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "e9cccb9c5f",
       "art_id": "a7cfd9e6-b88a-52d1-ab86-835605e44bcb",
       "title": "Újra rohannak a vevők az ázsiai tőzsdékre az eladási hullám után",
@@ -3599,6 +3582,21 @@
       "container": "18140694958718522",
       "media_id": "18137422357815783",
       "posted": "2026-11-23T09:06:29+01:00"
+    },
+    {
+      "id": "9e2ca22486",
+      "art_id": "d556342b-ef66-50f1-9164-6b14770b8252",
+      "title": "Tizenöt sérült maradt a berlini kórházi tűz után",
+      "url": "/vilag/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan/",
+      "card": "public/img/ig/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan.jpg",
+      "caption": "Tizenöt sérült maradt a berlini kórházi tűz után\n\nVasárnap este tűz ütött ki egy berlini kórházban, miután a hatóságok szerint az egyik beteg felgyújtotta a saját ágyát. Az eset során tizenöten sérültek meg, az intézmény egy részét pedig ki kellett üríteni.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#berlin #kórház #külföld #hírek #magyarország",
+      "created": "2026-11-23T11:02:28+01:00",
+      "due": "2026-11-23T11:47:28+01:00",
+      "status": "queued",
+      "tg": [
+        10646
+      ]
     }
   ],
   "token": {
