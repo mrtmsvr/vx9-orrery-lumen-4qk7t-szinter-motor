@@ -1,7 +1,133 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T11:58:17+01:00",
+  "updated_at": "2026-11-23T12:53:00+01:00",
   "articles": [
+    {
+      "id": "d0dc0b6d-810b-53e8-987c-5ee60d0a0759",
+      "slug": "2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Isztambul",
+        "Törökország",
+        "állatmentés",
+        "külföld"
+      ],
+      "title": "Oroszlánt keresnek rendőrök és hőkamerás csapatok Isztambul határában",
+      "subtitle": null,
+      "lead": "Vasárnap este óta egy nőstény oroszlán kószál Isztambul európai oldalának északi peremén, az erdős Uskumruköy városrészben. A török hatóságok hőkamerákkal, rendőrökkel és állatorvosokkal eredtek a ragadozó nyomába, miközben a lakosságot is figyelmeztették a veszélyre.",
+      "key_points": [
+        "Egy nőstény oroszlánt láttak kóborolni Isztambul európai részének peremén, az erdős Uskumruköy városrészben.",
+        "A ragadozót vasárnap este szúrta ki egy helyi lakos, jelenlétét pedig biztonsági kamerák felvételei is igazolták.",
+        "A hatóságok hőkamerás egységekkel és állatorvosokkal fésülik át a környéket, az állatot élve tervezik befogni."
+      ],
+      "content": "Biztonsági kamerák vették fel azt a nőstény oroszlánt, amely vasárnap este óta az isztambuli Uskumruköy füves és erdős területein kóborol. Az európai oldal északi peremén fekvő környéken felbukkanó állatot az egyik helyi lakos vette észre először, a hatóságok pedig azonnal riasztást adtak ki a szabadon lévő ragadozó miatt. A helyszíni adatok szerint az északi peremvidéken, Sariyer kerületben kapták lencsevégre a nagymacskát, miközben a lakosságot nyomatékosan felszólították az óvatosságra.\n\nA török nemzeti parkok igazgatósága hőkamerákkal felszerelt keresőcsapatokat, rendőröket, csendőröket, vadvédelmi tisztviselőket, önkormányzati egységeket és állatorvosokat vezényelt a helyszínre, a kutatás pedig elsősorban az érintett erdős zónákra fókuszál.\n\nEgyelőre teljes bizonyossággal nem tudni, honnan szökött el az állat, de a helyszínen készült szemcsés felvételek – amelyeket a Demirören török magánhírügynökség hozott nyilvánosságra – és a sajtóban megjelenő értesítések alapján a legvalószínűbb forgatókönyv az, hogy egy közeli magáningatlanról lógott meg a vadállat. A hatóságok nyomatékosan arra kérték a környéken élőket, hogy ne közelítsék meg a ragadozót, és fokozott óvatossággal mozogjanak, amíg a kutatás és a befogási akció le nem zárul.",
+      "content_format": "markdown",
+      "body": [
+        "Biztonsági kamerák vették fel azt a nőstény oroszlánt, amely vasárnap este óta az isztambuli Uskumruköy füves és erdős területein kóborol. Az európai oldal északi peremén fekvő környéken felbukkanó állatot az egyik helyi lakos vette észre először, a hatóságok pedig azonnal riasztást adtak ki a szabadon lévő ragadozó miatt. A helyszíni adatok szerint az északi peremvidéken, Sariyer kerületben kapták lencsevégre a nagymacskát, miközben a lakosságot nyomatékosan felszólították az óvatosságra.",
+        "A török nemzeti parkok igazgatósága hőkamerákkal felszerelt keresőcsapatokat, rendőröket, csendőröket, vadvédelmi tisztviselőket, önkormányzati egységeket és állatorvosokat vezényelt a helyszínre, a kutatás pedig elsősorban az érintett erdős zónákra fókuszál.",
+        "Egyelőre teljes bizonyossággal nem tudni, honnan szökött el az állat, de a helyszínen készült szemcsés felvételek – amelyeket a Demirören török magánhírügynökség hozott nyilvánosságra – és a sajtóban megjelenő értesítések alapján a legvalószínűbb forgatókönyv az, hogy egy közeli magáningatlanról lógott meg a vadállat. A hatóságok nyomatékosan arra kérték a környéken élőket, hogy ne közelítsék meg a ragadozót, és fokozott óvatossággal mozogjanak, amíg a kutatás és a befogási akció le nem zárul."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 199,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Istanbul_Montage_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1680,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Collage for Istanbul Article",
+        "credit": "AlexTref871, Piotr Matyja, Alexxx1979, Moyan Brenn, Far-gh, İhsan Deniz Kılıçoğl / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Istanbul_Montage_2016.png",
+        "exact": true,
+        "entity": "Istanbul",
+        "unverified": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://444.hu/2026/11/23/szokott-oroszlan-koborol-isztambul-kulvarosaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Szökött oroszlán kóborol Isztambul külvárosában",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T12:50:49+01:00"
+        },
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/23/oroszlant-keresnek-egy-europai-fovarosban-a-lakossagot-mar-figyelmeztettek-a-veszelyre",
+          "title": "Oroszlánt keresnek egy európai fővárosban, a lakosságot már figyelmeztették a veszélyre",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T12:50:49+01:00"
+        },
+        {
+          "url": "https://telex.hu/kulfold/2026/11/23/elszabadult-egy-oroszlan-isztambulban",
+          "title": "Elszabadult egy oroszlán Isztambulban",
+          "publisher": "telex.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T12:50:49+01:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/11/23/isztambul-megszokott-oroszlan-kereses-kulvaros-lakossag-figyelmeztetes/",
+          "title": "Váratlan vendég bukkant fel a török nagyvárosban: egy oroszlán kószál Isztambul utcáin",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T12:50:49+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Sikerült meghatározni az oroszlán tartózkodási helyét, és megtettük a szükséges intézkedéseket annak érdekében, hogy élve befogjuk",
+        "who": "Isztambuli kormányzói hivatal",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-23T12:53:00+01:00"
+      },
+      "hot_score": 12.38,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://444.hu/2026/11/23/szokott-oroszlan-koborol-isztambul-kulvarosaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "https://infostart.hu/kulfold/2026/11/23/oroszlant-keresnek-egy-europai-fovarosban-a-lakossagot-mar-figyelmeztettek-a-veszelyre"
+        ]
+      },
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "url": "/vilag/2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban/",
+      "seo": {
+        "meta_title": "Oroszlánt keresnek rendőrök és hőkamerás csapatok Isztambul ",
+        "meta_description": "Vasárnap este óta egy nőstény oroszlán kószál Isztambul európai oldalának északi peremén, az erdős Uskumruköy városrészben. A török hatóságok hőkamerákkal, rend",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Istanbul_Montage_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "65d3017e2090eb483f45202173545378ce046defa6efd613f8a1f0e746e39358",
+      "pipeline_run_id": "45165038387",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-23T12:53:00+01:00",
+      "updated_at": "2026-11-23T12:53:00+01:00",
+      "published_at": "2026-11-23T12:53:00+01:00",
+      "expires_at": null
+    },
     {
       "id": "9728bf37-a32d-5259-a0f4-9da180cfc3d5",
       "slug": "2026-11-23-belgiumi-sztrajk-nyolc-jarat-esett-ki-ferihegyen",
@@ -77857,106 +77983,6 @@
       "created_at": "2026-10-19T12:31:52+02:00",
       "updated_at": "2026-10-24T10:35:34+00:00",
       "published_at": "2026-10-19T12:31:52+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "1b2076d8-b515-5d0e-9494-c77f306870b6",
-      "slug": "2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon",
-      "status": "published",
-      "category": "kultura",
-      "subcategory": null,
-      "tags": [
-        "sport",
-        "logika",
-        "világbajnokság",
-        "India",
-        "magyar siker"
-      ],
-      "title": "Magyar siker a kolkatai rejtvényfejtő-világbajnokságon",
-      "subtitle": null,
-      "lead": "Az indiai Kolkatában megrendezett 33. Logikai Rejtvényfejtő-világbajnokságon Madarassy Pál a szenior kategória aranyérmese lett. A magyar válogatott az erős nemzetközi mezőnyben az előkelő negyedik helyen végzett.",
-      "key_points": [
-        "Madarassy Pál az 50 év felettiek kategóriájában lett világbajnok.",
-        "A magyar válogatott összetettben a negyedik helyet szerezte meg.",
-        "Nagy Kartal kutató matematikus egyéniben a 11. helyen zárt.",
-        "A versenyen 35 ország 164 versenyzője mérte össze a tudását."
-      ],
-      "content": "Október 11. és 18. között a World Puzzle Federation szervezésében négy kontinens 35 országának versenyzői gyűltek össze az indiai Kolkatában, a 33. Logikai Rejtvényfejtő-világbajnokságon. A szellemi sportág nemzetközi élmezőnyéhez tartozó magyar küldöttség tagjai a sudoku mellett számos más, nyelvtudást nem igénylő logikai feladványban is kiválóan teljesítettek.\n\nMadarassy Pál kimagasló teljesítményt nyújtva, az 50 év felettiek szenior kategóriájában a dobogó legfelső fokára állhatott. A Gyimesi Péter, Gyimesi Zoltán, Madarassy Pál és Nagy Kartal összetételű magyar válogatott a negyedik helyet szerezte meg Japán, az Egyesült Államok és az Egyesült Királyság csapata mögött.\n\nA Rejtvényfejtők Országos Egyesülete szerint a magyarok hagyományosan erősek ebben a sportágban, amit az is bizonyít, hogy a válogatott korábban már ötször szerzett bronzérmet a világbajnokságokon. Az egyéni eredmények közül Madarassy Pál aranyérme mellett István György korábbi ezüstérme is igazolja, hogy a magyar versenyzők tartósan az elithez tartoznak.",
-      "content_format": "markdown",
-      "body": [
-        "Október 11. és 18. között a World Puzzle Federation szervezésében négy kontinens 35 országának versenyzői gyűltek össze az indiai Kolkatában, a 33. Logikai Rejtvényfejtő-világbajnokságon. A szellemi sportág nemzetközi élmezőnyéhez tartozó magyar küldöttség tagjai a sudoku mellett számos más, nyelvtudást nem igénylő logikai feladványban is kiválóan teljesítettek.",
-        "Madarassy Pál kimagasló teljesítményt nyújtva, az 50 év felettiek szenior kategóriájában a dobogó legfelső fokára állhatott. A Gyimesi Péter, Gyimesi Zoltán, Madarassy Pál és Nagy Kartal összetételű magyar válogatott a negyedik helyet szerezte meg Japán, az Egyesült Államok és az Egyesült Királyság csapata mögött.",
-        "A Rejtvényfejtők Országos Egyesülete szerint a magyarok hagyományosan erősek ebben a sportágban, amit az is bizonyít, hogy a válogatott korábban már ötször szerzett bronzérmet a világbajnokságokon. Az egyéni eredmények közül Madarassy Pál aranyérme mellett István György korábbi ezüstérme is igazolja, hogy a magyar versenyzők tartósan az elithez tartoznak."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 166,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Set_of_various_puzzles.jpg/1280px-Set_of_various_puzzles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 721,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "various puzzles : rubik's cube, pyraminx, master pyraminx, Megaminx (dodecahedron), babylon tower, hungarian rings,jigsaw puzzle, snake cube, metallic or wood puzzle, lonpos 101 (rectangle or pyramid)",
-        "credit": "Lpele / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Set_of_various_puzzles.jpg",
-        "unverified": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://qubit.hu/2026/10/19/magyar-arany-a-logikai-rejtvenyfejto-vilagbajnoksagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "title": "Magyar arany a logikai rejtvényfejtő világbajnokságon",
-          "publisher": "qubit.hu",
-          "license": null,
-          "accessed_at": "2026-10-19T11:29:46+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-19T12:12:08+02:00"
-      },
-      "hot_score": 2.34,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://qubit.hu/2026/10/19/magyar-arany-a-logikai-rejtvenyfejto-vilagbajnoksagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-        ]
-      },
-      "date": "2026-10-19",
-      "date_label": "október 19.",
-      "url": "/kultura/2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon/",
-      "seo": {
-        "meta_title": "Magyar siker a kolkatai rejtvényfejtő-világbajnokságon",
-        "meta_description": "Az indiai Kolkatában megrendezett 33. Logikai Rejtvényfejtő-világbajnokságon Madarassy Pál a szenior kategória aranyérmese lett. A magyar válogatott az erős nem",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-10-19-magyar-siker-a-kolkatai-rejtvenyfejto-vilagbajnoksagon/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Set_of_various_puzzles.jpg/1280px-Set_of_various_puzzles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "aed17f59805c052c3c06049bfabaac346eb11d14d38cb47322a48d60e962a326",
-      "pipeline_run_id": "39226975002",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T12:12:08+02:00",
-      "updated_at": "2026-10-19T12:12:08+02:00",
-      "published_at": "2026-10-19T12:12:08+02:00",
       "expires_at": null
     }
   ]

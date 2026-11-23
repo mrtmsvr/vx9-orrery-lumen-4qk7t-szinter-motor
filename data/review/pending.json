@@ -3097,7 +3097,7 @@
     {
       "id": "d0dc0b6d-810b-53e8-987c-5ee60d0a0759",
       "slug": "2026-11-23-oroszlant-keresnek-rendorok-es-hokameras-csapatok-isztambul-hataraban",
-      "status": "pending",
+      "status": "published",
       "category": "vilag",
       "subcategory": null,
       "tags": [
@@ -3332,9 +3332,9 @@
       "dedupe_hash": "65d3017e2090eb483f45202173545378ce046defa6efd613f8a1f0e746e39358",
       "pipeline_run_id": "45165038387",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-23T12:50:49+01:00",
-      "updated_at": "2026-11-23T12:50:49+01:00",
-      "published_at": "2026-11-23T12:50:49+01:00",
+      "created_at": "2026-11-23T12:53:00+01:00",
+      "updated_at": "2026-11-23T12:53:00+01:00",
+      "published_at": "2026-11-23T12:53:00+01:00",
       "expires_at": null,
       "legal": {
         "level": 0,
@@ -3347,9 +3347,11 @@
         "head": "🆕 ÚJ · <b>Világ</b> · forróság 12.38 · 4 forrás\n\n1) Oroszlánt keresnek rendőrök és hőkamerás csapatok Isztambul határában\n2) Szökött nőstény oroszlán tartja izgalomban Isztambul északi peremét\n3) Nem mindennapi szökevény: nagymacska kóborol egy európai metropolisz peremén\n🔥 4) Mi keresnivalója van egy oroszlánnak egy európai főváros erdős határán?\n🔥 5) Hőkamerákkal és szakállatorvosokkal eredtek a Isztambulban kóborló ragadozó nyomába\n🔥 6) Magántulajdonból szökhetett el az a nőstény oroszlán, amelyet most is nagy erőkkel keresnek\n\n<b>Források:</b> 444.hu, infostart.hu, telex.hu, index.hu\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Vasárnap este óta egy nőstény oroszlán kószál Isztambul európai oldalának északi peremén, az erdős Uskumruköy városrészben. A török hatóságok hőkamerákkal, rendőrökkel és állatorvosokkal eredtek a ragadozó nyomába, miközben a lakosságot is figyelmeztették a veszélyre.",
         "ctl_photo": false,
-        "control_id": 10652,
-        "msg_ids": []
-      }
+        "control_id": 10653,
+        "msg_ids": [],
+        "note": "⚡ Világ: jóváhagyás nélkül kiraktam."
+      },
+      "live": true
     }
   ]
 }
