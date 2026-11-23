@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "d556342b-ef66-50f1-9164-6b14770b8252",
+      "slug": "2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan",
+      "url": "/vilag/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan/",
+      "title": "Tizenöt sérült maradt a berlini kórházi tűz után",
+      "lead": "Vasárnap este tűz ütött ki egy berlini kórházban, miután a hatóságok szerint az egyik beteg felgyújtotta a saját ágyát. Az eset során tizenöten sérültek meg, az intézmény egy részét pedig ki kellett üríteni.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "created_at": "2026-11-23T09:23:54+01:00",
+      "published_at": "2026-11-23T09:23:54+01:00",
+      "reading_time_min": 1,
+      "hot_score": 11.31,
+      "tags": [
+        "Berlin",
+        "kórház",
+        "tűzoltás",
+        "gyújtogatás"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2016_Charite_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 686,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Charité University Hospital Berlin after renovation in 2016"
+      }
+    },
+    {
       "id": "66d727bc-f387-5972-849d-41c2147c48c9",
       "slug": "2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen",
       "url": "/eletmod/2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen/",
@@ -4419,37 +4448,7 @@
         "width": 1280,
         "height": 720
       }
-    },
-    {
-      "id": "f5968adc-119a-5ce3-a2b9-5b6667018566",
-      "slug": "2026-11-13-autoba-rejtett-bomba-tepte-szet-egy-volt-ukran-tanacsado-kocsijat-mos",
-      "url": "/vilag/2026-11-13-autoba-rejtett-bomba-tepte-szet-egy-volt-ukran-tanacsado-kocsijat-mos/",
-      "title": "Autóba rejtett bomba tépte szét egy volt ukrán tanácsadó kocsiját Moszkvában",
-      "lead": "Súlyosan megsérült a 72 éves Szerhij Zavorotnij, miután pénteken felrobbant az autója Moszkva déli részén. Az egykori ukrán kormányzati tanácsadó elleni merénylet mindössze egy nappal követte a szentpétervári katonai támadást.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T16:49:33+01:00",
-      "published_at": "2026-11-13T16:49:33+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Oroszország",
-        "Ukrajna",
-        "háború",
-        "merénylet",
-        "Moszkva"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/1280px-Moscow_05-2012_Kremlin_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 758,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Moscow, Russia. General view of the Moscow Kremlin."
-      }
     }
   ],
-  "updated_at": "2026-11-23T09:00:34+01:00"
+  "updated_at": "2026-11-23T09:23:56+01:00"
 }

@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-23T09:00:33+01:00",
+  "updated_at": "2026-11-23T09:23:54+01:00",
   "articles": [
+    {
+      "id": "d556342b-ef66-50f1-9164-6b14770b8252",
+      "slug": "2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan",
+      "status": "published",
+      "category": "vilag",
+      "subcategory": null,
+      "tags": [
+        "Berlin",
+        "kórház",
+        "tűzoltás",
+        "gyújtogatás"
+      ],
+      "title": "Tizenöt sérült maradt a berlini kórházi tűz után",
+      "subtitle": null,
+      "lead": "Vasárnap este tűz ütött ki egy berlini kórházban, miután a hatóságok szerint az egyik beteg felgyújtotta a saját ágyát. Az eset során tizenöten sérültek meg, az intézmény egy részét pedig ki kellett üríteni.",
+      "key_points": [
+        "Tűz ütött ki egy berlini kórházban vasárnap este gyújtogatás miatt.",
+        "A lángokat a rendőrség tájékoztatása szerint egy beteg okozta, a hatóságok szerint ő gyújtotta fel az ágyát.",
+        "A tizenöt sérült többsége könnyebb sérülést szenvedett, de egy ápoló és a gyújtogatással gyanúsított személy is füstmérgezést kapott."
+      ],
+      "content": "Vasárnap este tűz ütött ki Berlin keleti részén, a Lichtenberg kerületben található egyik kórház első emeletének kórtermében. A helyi hatóságok tájékoztatása szerint a lángokat a hatóságok szerint egy beteg okozta, aki felgyújtotta a saját ágyát, emiatt a rendőrség gyújtogatás gyanújával indított eljárást. Az épületben felcsapó lángok gyors beavatkozásra kényszerítették a fővárosi egységeket.\n\nA kiérkező tűzoltók eloltották a lángokat, de a keletkezett sűrű füst átterjedt az épület többi részére is. A mentési munkálatok és a füst miatt a mentőegységeknek ki kellett üríteniük az intézmény egy részét, hogy megvédjék a bent fekvő pácienseket.\n\nA hatóságok és a rendőrségi szóvivő közlése alapján az incidensnek összesen tizenöt sérültje van. Az első híradások és a jelentések szerint az áldozatok többsége könnyebb sérüléseket szenvedett, azonban a helyzet súlyosságát mutatja, hogy egy személy életveszélyes, egy másik pedig súlyos sérüléseket szenvedett a tűz és a füst következtében. Emellett a gyújtogatással gyanúsított személy mellett egy ápoló is füstmérgezés miatt szorult orvosi ellátásra a helyszínen.",
+      "content_format": "markdown",
+      "body": [
+        "Vasárnap este tűz ütött ki Berlin keleti részén, a Lichtenberg kerületben található egyik kórház első emeletének kórtermében. A helyi hatóságok tájékoztatása szerint a lángokat a hatóságok szerint egy beteg okozta, aki felgyújtotta a saját ágyát, emiatt a rendőrség gyújtogatás gyanújával indított eljárást. Az épületben felcsapó lángok gyors beavatkozásra kényszerítették a fővárosi egységeket.",
+        "A kiérkező tűzoltók eloltották a lángokat, de a keletkezett sűrű füst átterjedt az épület többi részére is. A mentési munkálatok és a füst miatt a mentőegységeknek ki kellett üríteniük az intézmény egy részét, hogy megvédjék a bent fekvő pácienseket.",
+        "A hatóságok és a rendőrségi szóvivő közlése alapján az incidensnek összesen tizenöt sérültje van. Az első híradások és a jelentések szerint az áldozatok többsége könnyebb sérüléseket szenvedett, azonban a helyzet súlyosságát mutatja, hogy egy személy életveszélyes, egy másik pedig súlyos sérüléseket szenvedett a tűz és a füst következtében. Emellett a gyújtogatással gyanúsított személy mellett egy ápoló is füstmérgezés miatt szorult orvosi ellátásra a helyszínen."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 180,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2016_Charite_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 686,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Charité University Hospital Berlin after renovation in 2016",
+        "credit": "INTERRAILS / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:2016_Charite_Hospital.jpg",
+        "vision_score": 7.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://infostart.hu/kulfold/2026/11/23/korhazi-gyujtogatas-miatt-sok-beteg-megserult-berlinben",
+          "title": "Kórházi gyújtogatás miatt sok beteg megsérült Berlinben",
+          "publisher": "infostart.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T09:18:08+01:00"
+        },
+        {
+          "url": "https://hvg.hu/vilag/20261123_gyujtogatas-okozhatott-a-tuzet-egy-berlini-korhazban",
+          "title": "Gyújtogatás okozhatott tüzet egy berlini kórházban",
+          "publisher": "hvg.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T09:18:08+01:00"
+        },
+        {
+          "url": "https://index.hu/kulfold/2026/11/23/nemetorszag-berlin-korhaz-tuz-gyujtogatas-rendorseg-vizsgalat/",
+          "title": "Felgyújtotta az ágyát egy beteg, tizenöt ember sérült meg a berlini kórháztűzben",
+          "publisher": "index.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T09:18:08+01:00"
+        },
+        {
+          "url": "https://24.hu/kulfold/2026/11/23/tuz-berlin-korhaz-serultek/",
+          "title": "Tűz ütött ki egy berlini kórházban, életveszélyes sérült is van",
+          "publisher": "24.hu",
+          "license": null,
+          "accessed_at": "2026-11-23T09:18:08+01:00"
+        }
+      ],
+      "quote": null,
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-23T09:23:54+01:00"
+      },
+      "hot_score": 11.31,
+      "clickbait_from": 2,
+      "category_meta": {
+        "source_links": [
+          "https://infostart.hu/kulfold/2026/11/23/korhazi-gyujtogatas-miatt-sok-beteg-megserult-berlinben",
+          "https://hvg.hu/vilag/20261123_gyujtogatas-okozhatott-a-tuzet-egy-berlini-korhazban",
+          "https://index.hu/kulfold/2026/11/23/nemetorszag-berlin-korhaz-tuz-gyujtogatas-rendorseg-vizsgalat/"
+        ]
+      },
+      "date": "2026-11-23",
+      "date_label": "november 23.",
+      "url": "/vilag/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan/",
+      "seo": {
+        "meta_title": "Tizenöt sérült maradt a berlini kórházi tűz után",
+        "meta_description": "Vasárnap este tűz ütött ki egy berlini kórházban, miután az egyik beteg felgyújtotta a saját ágyát. Az eset során tizenöten sérültek meg, az intézmény egy részé",
+        "canonical_url": "https://xn--kollektva-m5a.hu/vilag/2026-11-23-tizenot-serult-maradt-a-berlini-korhazi-tuz-utan/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/2016_Charite_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "e9ad88c8ea891db99e8de1847cfbab1dac94a86229f1320bfc3058d21dea0e37",
+      "pipeline_run_id": "45134001434",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-23T09:23:54+01:00",
+      "updated_at": "2026-11-23T09:23:54+01:00",
+      "published_at": "2026-11-23T09:23:54+01:00",
+      "expires_at": null
+    },
     {
       "id": "66d727bc-f387-5972-849d-41c2147c48c9",
       "slug": "2026-11-23-olvasas-a-33-os-pajzs-az-alzheimer-ellen",
@@ -77770,140 +77891,6 @@
       "created_at": "2026-10-19T11:31:49+02:00",
       "updated_at": "2026-10-19T11:46:52+02:00",
       "published_at": "2026-10-19T11:31:49+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "f4d8f43c-28f1-537d-8d39-b0517f5392db",
-      "slug": "2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "Fekete-Győr András",
-        "Momentum",
-        "belpolitika",
-        "független politikus"
-      ],
-      "title": "Fekete-Győr András elhagyja a Momentumot",
-      "subtitle": null,
-      "lead": "Fekete-Győr András hétfőn bejelentette, hogy huszonnégy órával korábban kilépett az általa alapított Momentumból, de független politikusként a közéletben marad. A döntés hátterében a párttal korábban kialakult politikai konfliktusok állnak.",
-      "key_points": [
-        "Fekete-Győr András vasárnap óta nem tagja a Momentumnak.",
-        "A politikát függetlenként és közéleti országjárással folytatja.",
-        "Célja egy új, progresszív erő építése a 2030-as parlamenti választásokra."
-      ],
-      "content": "Lezárom a momentumos korszakomat, és független politikusként folytatom a munkát – jelentette be Fekete-Győr András a közösségi oldalán hétfő reggel. A politikus közlése szerint vasárnap óta már nem tagja a Momentumnak,\n\nA távozás hátterében a 2024 tavaszán kezdődött viták állnak, amikor a politikus azt javasolta, hogy a Momentum és a kisebb pártok a rendszerváltás érdekében ne induljanak el az országgyűlési választáson. Ezzel éles konfliktusba keveredett az indulást pártoló tagokkal, amióta pedig külön utakon jár a szervezettel – szerinte ugyanis jelenleg nem a pártpolitizálás időszakát éljük.\n\nA jövőjét illetően három konkrét feladatot jelölt meg a következő időszakra: figyelemmel kíséri az elszámoltatási ügyeket és a nyomozó hatóságok munkáját, novembertől közéleti országjárást indít a FélmillióFiatal mozgalom szereplőivel, az alkotmányozás vitáiban pedig a jogegyenlőség és a szociális igazságosság szempontjait képviseli. Úgy véli, a Tisza széles politikai koalíciója nem vállal fel minden progresszív álláspontot, ezért ezeknek külön is hangot ad.\n\nPolitikai múltját érintve elismerte, hogy pályája elején több kérdést másként látott, ugyanakkor büszke arra, hogy senki sem mutathat rá korrupt, csaló vagy a hatalmával visszaélő politikusként. Hosszú távú tervei között szerepel a progresszív oldal újjáépítése, hogy 2030-ban egy párbeszédképes, konstruktív erő kerüljön a parlamentbe a jelenlegi struktúrák helyett.",
-      "content_format": "markdown",
-      "body": [
-        "Lezárom a momentumos korszakomat, és független politikusként folytatom a munkát – jelentette be Fekete-Győr András a közösségi oldalán hétfő reggel. A politikus közlése szerint vasárnap óta már nem tagja a Momentumnak,",
-        "A távozás hátterében a 2024 tavaszán kezdődött viták állnak, amikor a politikus azt javasolta, hogy a Momentum és a kisebb pártok a rendszerváltás érdekében ne induljanak el az országgyűlési választáson. Ezzel éles konfliktusba keveredett az indulást pártoló tagokkal, amióta pedig külön utakon jár a szervezettel – szerinte ugyanis jelenleg nem a pártpolitizálás időszakát éljük.",
-        "A jövőjét illetően három konkrét feladatot jelölt meg a következő időszakra: figyelemmel kíséri az elszámoltatási ügyeket és a nyomozó hatóságok munkáját, novembertől közéleti országjárást indít a FélmillióFiatal mozgalom szereplőivel, az alkotmányozás vitáiban pedig a jogegyenlőség és a szociális igazságosság szempontjait képviseli. Úgy véli, a Tisza széles politikai koalíciója nem vállal fel minden progresszív álláspontot, ezért ezeknek külön is hangot ad.",
-        "Politikai múltját érintve elismerte, hogy pályája elején több kérdést másként látott, ugyanakkor büszke arra, hogy senki sem mutathat rá korrupt, csaló vagy a hatalmával visszaélő politikusként. Hosszú távú tervei között szerepel a progresszív oldal újjáépítése, hogy 2030-ban egy párbeszédképes, konstruktív erő kerüljön a parlamentbe a jelenlegi struktúrák helyett."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 223,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Fekete-Gy%C5%91r_Andr%C3%A1s_2017-ben.jpg/1280px-Fekete-Gy%C5%91r_Andr%C3%A1s_2017-ben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1500,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Fekete-Győr András 2017-ben.",
-        "credit": "Sellei Ábel / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Fekete-Gy%C5%91r_Andr%C3%A1s_2017-ben.jpg",
-        "exact": true,
-        "entity": "Fekete-Győr András",
-        "unverified": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://hvg.hu/itthon/20261019_momentum-fekete-gyor-andras-kilepes",
-          "title": "Fekete-Győr András kilépett a Momentumból",
-          "publisher": "hvg.hu",
-          "license": null,
-          "accessed_at": "2026-10-19T11:29:40+02:00"
-        },
-        {
-          "url": "https://24.hu/belfold/2026/10/19/kilepett-a-momentumbol-fekete-gyor-andras/",
-          "title": "Kilépett a Momentumból Fekete-Győr András",
-          "publisher": "24.hu",
-          "license": null,
-          "accessed_at": "2026-10-19T11:29:40+02:00"
-        },
-        {
-          "url": "https://444.hu/2026/10/19/baka-andras-ami-most-tortenik-az-egy-vertelen-forradalom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "title": "Baka András: ami most történik, az egy vértelen forradalom",
-          "publisher": "444.hu",
-          "license": null,
-          "accessed_at": "2026-10-19T11:29:40+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Meggyőződésem, hogy a progresszív oldalt idővel újjá kell építeni azért, hogy 2030-ban a Fidesz–Mi Hazánk gyűlölet-tandem helyett egy párbeszédképes, konstruktív, progresszív erő kerüljön a parlamentbe.",
-        "who": "Fekete-Győr András független országgyűlési képviselő",
-        "after": 2
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-19T11:31:15+02:00"
-      },
-      "hot_score": 9.22,
-      "clickbait_from": 2,
-      "category_meta": {
-        "source_links": [
-          "https://hvg.hu/itthon/20261019_momentum-fekete-gyor-andras-kilepes",
-          "https://24.hu/belfold/2026/10/19/kilepett-a-momentumbol-fekete-gyor-andras/"
-        ]
-      },
-      "date": "2026-10-19",
-      "date_label": "október 19.",
-      "url": "/kozelet/2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot/",
-      "seo": {
-        "meta_title": "Fekete-Győr András elhagyja a Momentumot",
-        "meta_description": "Fekete-Győr András hétfőn bejelentette, hogy huszonnégy órával korábban kilépett az általa alapított Momentumból, de független politikusként a közéletben marad.",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-19-fekete-gyor-andras-elhagyja-a-momentumot/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Fekete-Gy%C5%91r_Andr%C3%A1s_2017-ben.jpg/1280px-Fekete-Gy%C5%91r_Andr%C3%A1s_2017-ben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "d120b396-5efb-5543-8f09-166ce4129faf",
-        "5e88a2bc-a990-589e-9b91-8d6dc0719954"
-      ],
-      "see_also": [
-        {
-          "title": "Nem írta alá a Sándor-palota az egészségügyi kamarai módosítást",
-          "url": "/kozelet/2026-09-30-nem-irta-ala-a-sandor-palota-az-egeszsegugyi-kamarai-modositast/",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Újabb próbálkozás a főügyészi poszt betöltésére: Fejes Péter a jelölt",
-          "url": "/kozelet/2026-10-12-ujabb-probalkozas-a-fougyeszi-poszt-betoltesere-fejes-peter-a-jelolt/",
-          "date": "2026-10-12"
-        }
-      ],
-      "thread_id": "d120b396-5efb-5543-8f09-166ce4129faf",
-      "dedupe_hash": "bad16937c089ff3d1d97fe91067cc6f8027eaeacc9aa8ff763b144bb5dd1d658",
-      "pipeline_run_id": "39226975002",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-19T11:31:15+02:00",
-      "updated_at": "2026-10-19T12:39:32+00:00",
-      "published_at": "2026-10-19T11:31:15+02:00",
       "expires_at": null
     }
   ]
