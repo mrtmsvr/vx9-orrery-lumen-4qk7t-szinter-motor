@@ -3434,40 +3434,53 @@
       ],
       "image_options": [
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508408-0.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0e86c095a0-1795508408-0.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Budapest_central_circuit_court.JPG/1280px-Budapest_central_circuit_court.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
           "kind": "photo",
-          "alt": "Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök",
-          "likeness": true,
-          "credit": "AI-generált illusztráció – Kollektíva",
-          "license": "saját (AI-generált illusztráció)",
-          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
+          "pos": "center",
+          "alt": "",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Budapest_central_circuit_court.JPG",
+          "vision_score": 10.0
         },
         {
-          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508417-1.jpg",
-          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0e86c095a0-1795508417-1.jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete%2C_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 1200,
+          "height": 1600,
+          "kind": "graphic",
+          "pos": "center",
+          "alt": "",
+          "credit": "ismeretlen szerző / Wikimedia Commons",
+          "license": "CC BY-SA 3.0",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClete,_Szabads%C3%A1g_t%C3%A9r_%C3%A9s_Hold_utca_sarok._-_2005,_Budapest.jpg",
+          "exact": true,
+          "entity": "National Bank of Hungary",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Magyar_Nemzeti_Bank_%C3%A9p%C3%BClet%C3%A9nek_nyugati_homlokzata._-_2009%2C_Budapest.jpg/1280px-Magyar_Nemzeti_Bank_%C3%A9p%C3%BClet%C3%A9nek_nyugati_homlokzata._-_2009%2C_Budapest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1200,
+          "height": 900,
+          "kind": "photo",
+          "pos": "center",
+          "alt": "Hungarian National Bank, Budapest",
+          "credit": "Egrian / Wikimedia Commons",
+          "license": "Public domain",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Magyar_Nemzeti_Bank_%C3%A9p%C3%BClet%C3%A9nek_nyugati_homlokzata._-_2009,_Budapest.jpg",
+          "vision_score": 5.0
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-0a42568a96.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-0a42568a96.jpg",
           "kind": "photo",
           "alt": "Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök",
-          "likeness": false,
-          "credit": "Kollektíva illusztráció",
+          "credit": "Kollektíva",
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-          "generated": true
-        },
-        {
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg/1280px-Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "width": 1200,
-          "height": 1200,
-          "kind": "photo",
-          "pos": "top",
-          "alt": "Mihály Varga Hungarian Minister of Finance in 2020.",
-          "credit": "Ministry of Finance / Wikimedia Commons",
-          "license": "CC BY-SA 4.0",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg",
-          "exact": true,
-          "entity": "Varga Mihály",
-          "vision_score": 13.0
+          "generated": true,
+          "cover": true
         }
       ],
       "legal": {
@@ -3476,17 +3489,33 @@
       },
       "review": {
         "title": 0,
-        "image": 1,
+        "image": 0,
         "sent_at": "2026-11-24T08:19:39+00:00",
         "head": "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új) · <b>Közélet</b> · forróság 5 · 4 forrás\n\n1) Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök\n2) Még rács mögött tartja a bíróság a volt jegybankelnököt\n3) Februárig börtönben marad a volt MNB-vezér a bíróság döntése szerint\n\n<b>Források:</b> news.google.com, news.google.com, news.google.com, news.google.com\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A Budai Központi Kerületi Bíróság február közepéig meghosszabbította a volt jegybankelnök letartóztatását a gyanú szerint. Az ügy újabb feszültséget szít a pénzügyi szektor és a politikai elit között.",
-        "ctl_photo": false,
-        "control_id": 10680,
+        "ctl_photo": true,
+        "control_id": 10681,
         "msg_ids": [
           10678,
           10679
         ]
-      }
+      },
+      "image_queries": [
+        "Budapest Central District Court",
+        "National Bank of Hungary",
+        "György Matolcsy",
+        "Mihály Varga",
+        "Prime Minister Magyar Péter",
+        "courtroom gavel",
+        "handcuffed hands",
+        "bank building with barred windows",
+        "scales of justice with money"
+      ],
+      "images_seen": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg/1280px-Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508417-1.jpg",
+        "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508408-0.jpg"
+      ]
     }
   ]
 }
