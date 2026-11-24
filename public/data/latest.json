@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "61836531-37e6-5a84-a875-34644a4ab8a5",
+      "slug": "2026-11-24-nem-fer-ossze-a-politika-a-fradival-letarolta-a-parlament-a-sporttorv",
+      "url": "/kozelet/2026-11-24-nem-fer-ossze-a-politika-a-fradival-letarolta-a-parlament-a-sporttorv/",
+      "title": "Nem fér össze a politika a Fradival: letarolta a parlament a sporttörvényt",
+      "lead": "Megszavazta az Országgyűlés kedden azt a sportot érintő összeférhetetlenségi törvényjavaslatot, amely kizárja a politikusokat és az állami vezetőket a nagyobb sportszervezetek vezetéséből. A jogszabály azonnal érinti többek között a Ferencváros elnökét, Kubatov Gábort is.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-24",
+      "date_label": "november 24.",
+      "created_at": "2026-11-24T14:23:14+01:00",
+      "published_at": "2026-11-24T14:23:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.5,
+      "tags": [
+        "Kollektíva",
+        "sport",
+        "parlament",
+        "törvény",
+        "összeférhetetlenség"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kubatov.gabor1.JPG/1280px-Kubatov.gabor1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1807,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Kubatov Gábor magyar politikus, a Fidesz – Magyar Polgári Szövetség országos pártigazgatója, országgyűlési képviselő. A Ferencvárosi Torna Club elnöke."
+      }
+    },
+    {
       "id": "7305e0ac-87c4-5848-ab03-d13b8412cb61",
       "slug": "2026-11-24-kragujevaci-lovoldozes-egy-17-eves-tanulo-nyitott-tuzet-a-muszaki-isk",
       "url": "/vilag/2026-11-24-kragujevaci-lovoldozes-egy-17-eves-tanulo-nyitott-tuzet-a-muszaki-isk/",
@@ -4421,35 +4451,7 @@
         "pos": "center",
         "alt": "Lt. Col. James Hecker (front) and Lt. Col. Evan Dertein line up their F/A-22 Raptor aircraft behind a KC-10 Extender to refuel while en route to Hill Air Force Base, Utah. Colonel Hecker commands the"
       }
-    },
-    {
-      "id": "6f4ad92f-d071-5dd6-96fc-af63ef9da0d2",
-      "slug": "2026-11-14-nyolc-oran-at-szamoltak-a-foldbol-kiasott-milliardokat-sesztak-kertje",
-      "url": "/kozelet/2026-11-14-nyolc-oran-at-szamoltak-a-foldbol-kiasott-milliardokat-sesztak-kertje/",
-      "title": "Nyolc órán át számolták a földből kiásott milliárdokat Seszták kertjében",
-      "lead": "Több mint hatmilliárd forintnyi elásott készpénzt talált lefoglalt Seszták Miklós ügyében a vagyonvisszaszerzési hivatal. Magyar Péter szerint ezzel hivatalosan is véget ért a kormánypárti maffia.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T07:54:43+01:00",
-      "published_at": "2026-11-14T07:54:43+01:00",
-      "reading_time_min": 3,
-      "hot_score": 7.18,
-      "tags": [
-        "Seszták Miklós",
-        "Magyar Péter",
-        "korrupció",
-        "készpénz",
-        "belföld"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-0cacbe01c8.jpg",
-        "kind": "photo",
-        "alt": "Nyolc órán át számolták a földből kiásott milliárdokat Seszták kertjében",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-24T12:11:28+01:00"
+  "updated_at": "2026-11-24T14:23:17+01:00"
 }
