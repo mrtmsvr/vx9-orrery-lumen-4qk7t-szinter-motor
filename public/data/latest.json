@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "8de7e85f-5183-5fa9-b622-dda445d1c49f",
+      "slug": "2026-11-24-donald-trump-felporgetne-a-halalbunteteseket-mielott-barki-meggondoln",
+      "url": "/kozelet/2026-11-24-donald-trump-felporgetne-a-halalbunteteseket-mielott-barki-meggondoln/",
+      "title": "Donald Trump felpörgetné a halálbüntetéseket, mielőtt bárki meggondolná magát",
+      "lead": "A szövetségi kivégzések azonnali felgyorsítására utasította az igazságügyi minisztériumot Donald Trump amerikai elnök. A politikus szerint a hosszadalmas jogi eljárások miatt az áldozatok hozzátartozói nem tudják lezárni a történteket.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-24",
+      "date_label": "november 24.",
+      "created_at": "2026-11-24T07:23:58+01:00",
+      "published_at": "2026-11-24T07:23:58+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12,
+      "tags": [
+        "Donald Trump",
+        "halálbüntetés",
+        "Egyesült Államok",
+        "igazságügy",
+        "Gavin Newsom"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gavin_Newsom_official_photo.jpg/1280px-Gavin_Newsom_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Lieutenant Governor of California Gavin Newsom"
+      }
+    },
+    {
       "id": "ddcf5495-afda-5e0b-a479-c9eb28d6eb47",
       "slug": "2026-11-24-vagyonzarolasok-es-botranyok-igy-probal-kapaszkodni-a-fidesz",
       "url": "/kozelet/2026-11-24-vagyonzarolasok-es-botranyok-igy-probal-kapaszkodni-a-fidesz/",
@@ -4419,35 +4449,7 @@
         "pos": "center",
         "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport"
       }
-    },
-    {
-      "id": "ce716798-01ee-53b4-ba4d-2f7e11f14433",
-      "slug": "2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok",
-      "url": "/kozelet/2026-11-13-erdobe-asott-milliardok-sesztak-miklos-ugyeben-lecsaptak-a-nyomozok/",
-      "title": "Erdőbe ásott milliárdok: Seszták Miklós ügyében lecsaptak a nyomozók",
-      "lead": "Többmilliárdnyi készpénzt, eurót és dollárt találtak a nyomozók erdőkbe ásva, valamint raktárakban és széfekben elrejtve a dr. Seszták Miklós országgyűlési képviselő ellen folyó büntetőeljárásban. A lefoglalt összeget a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal munkatársai azonnal befizették a Magyar Államkincstárba.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-13",
-      "date_label": "november 13.",
-      "created_at": "2026-11-13T20:58:46+01:00",
-      "published_at": "2026-11-13T20:58:46+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "Seszták Miklós",
-        "NVVH",
-        "korrupció",
-        "vagyonvisszaszerzés",
-        "ügyészség"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-1df44fbb22.jpg",
-        "kind": "photo",
-        "alt": "5 milliárd Ft – Erdőkbe ásva és széfekben talált készpénz",
-        "card": "num"
-      }
     }
   ],
-  "updated_at": "2026-11-24T02:16:26+01:00"
+  "updated_at": "2026-11-24T07:24:01+01:00"
 }
