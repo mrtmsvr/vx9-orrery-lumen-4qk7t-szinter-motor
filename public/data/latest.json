@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7305e0ac-87c4-5848-ab03-d13b8412cb61",
+      "slug": "2026-11-24-kragujevaci-lovoldozes-egy-17-eves-tanulo-nyitott-tuzet-a-muszaki-isk",
+      "url": "/vilag/2026-11-24-kragujevaci-lovoldozes-egy-17-eves-tanulo-nyitott-tuzet-a-muszaki-isk/",
+      "title": "Kragujevaci lövöldözés: egy 17 éves tanuló nyitott tüzet a műszaki iskolában",
+      "lead": "Kedd reggel lövöldözés tört ki a szerbiai Kragujevac egyik műszaki középiskolájában, ahol a gyanú szerint egy 17 éves tanuló kis kaliberű fegyverrel sebesítette meg az intézmény két dolgozóját. Az eset ismét a fegyvertartási és biztonsági szabályok kérdését veti fel a szomszédos országban.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-24",
+      "date_label": "november 24.",
+      "created_at": "2026-11-24T10:07:56+01:00",
+      "published_at": "2026-11-24T10:07:56+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Szerbia",
+        "Kragujevac",
+        "lövöldözés",
+        "középiskola",
+        "fegyvertartás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kragujevac_001.jpg/1280px-Kragujevac_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Kragujevac."
+      }
+    },
+    {
       "id": "0e86c095-a0bd-54eb-8579-c7436f4aeb4b",
       "slug": "2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese",
       "url": "/kozelet/2026-11-23-ujabb-honapra-racs-mogott-maradhat-matolcsy-gyorgy-a-birosag-dontese/",
@@ -4419,37 +4449,7 @@
         "alt": "Nyolc órán át számolták a földből kiásott milliárdokat Seszták kertjében",
         "cover": true
       }
-    },
-    {
-      "id": "0f78aabf-0ef0-51e2-9527-b6e35eb7ffd1",
-      "slug": "2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend",
-      "url": "/vilag/2026-11-14-orakra-megbenult-az-amerikai-legiforgalom-az-eloregedett-iranyitorend/",
-      "title": "Órákra megbénult az amerikai légiforgalom az elöregedett irányítórendszer miatt",
-      "lead": "Több mint négyórás országos felszállási tilalmat rendeltek el az Egyesült Államokban, miután súlyos kommunikációs zavarok bénították meg a légiforgalmi irányítás rendszerét. Az intézkedés utasok százezreinek utazását zavarta meg, és a teljes helyreállítás napokig tarthat.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T07:53:15+01:00",
-      "published_at": "2026-11-14T07:53:15+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.48,
-      "tags": [
-        "Egyesült Államok",
-        "légiközlekedés",
-        "FAA",
-        "közlekedés",
-        "USA"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/HKIA_Control_Tower.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1600,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "The air traffic control complex (ATCX) and tower at the Hong Kong International Airport"
-      }
     }
   ],
-  "updated_at": "2026-11-24T09:26:43+01:00"
+  "updated_at": "2026-11-24T10:07:59+01:00"
 }
