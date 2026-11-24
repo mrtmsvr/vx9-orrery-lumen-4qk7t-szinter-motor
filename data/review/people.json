@@ -1282,6 +1282,27 @@
     },
     "Liszt Ferenc Nemzetközi Repülőtér": {
       "none": true
+    },
+    "Gavin Newsom": {
+      "qid": "Q461391",
+      "name": "Gavin Newsom",
+      "birth": "1967-10-10",
+      "death": "",
+      "desc": "amerikai politikus, Kalifornia kormányzója",
+      "bio": "Gavin Christopher Newsom amerikai politikus és üzletember, aki 2019 óta Kalifornia 40. kormányzója. A Demokrata Párt tagja, 2011 és 2019 között Kalifornia helyettes kormányzója volt, korábban pedig San Francisco 42. polgármestere (2004–2011).",
+      "wiki_url": "https://hu.wikipedia.org/wiki/Gavin_Newsom",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Gavin_Newsom_official_photo.jpg/1280px-Gavin_Newsom_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1800,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Lieutenant Governor of California Gavin Newsom",
+        "credit": "Office of the Lieutenant Governor of California / Wikimedia Commons",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gavin_Newsom_official_photo.jpg"
+      },
+      "checked": true
     }
   },
   "fix_1107": true
