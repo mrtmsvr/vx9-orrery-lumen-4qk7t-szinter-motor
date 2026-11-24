@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "7cd39fdf-318b-5940-abe2-b96ceaf777a8",
+      "slug": "2026-11-24-ujrakezdes-karpataljan-magyar-peter-tobbmilliardos-tamogatast-jelente",
+      "url": "/vilag/2026-11-24-ujrakezdes-karpataljan-magyar-peter-tobbmilliardos-tamogatast-jelente/",
+      "title": "Újrakezdés Kárpátalján: Magyar Péter többmilliárdos támogatást jelentett be",
+      "lead": "Magyar Péter miniszterelnök Ungváron és Beregszászon találkozott Volodimir Zelenszkij ukrán elnökkel, hogy a kétoldalú kapcsolatok újrakezdéséről tárgyaljon. A látogatás során több milliárd forintos humanitárius és szociális támogatási programot jelentettek be a kárpátaljai közösség javára.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-24",
+      "date_label": "november 24.",
+      "created_at": "2026-11-24T20:42:08+01:00",
+      "published_at": "2026-11-24T20:42:08+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Magyar Péter",
+        "Volodimir Zelenszkij",
+        "Kárpátalja",
+        "külpolitika",
+        "Ukrajna"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B0%D0%B5%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE_2.jpg/1280px-%D0%A3%D0%B6%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80%2C_%D0%B0%D0%B5%D1%80%D0%BE%D1%84%D0%BE%D1%82%D0%BE_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Holy Cross Greek Catholic Cathedral, Uzhhorod, Ukraine."
+      }
+    },
+    {
       "id": "61836531-37e6-5a84-a875-34644a4ab8a5",
       "slug": "2026-11-24-nem-fer-ossze-a-politika-a-fradival-letarolta-a-parlament-a-sporttorv",
       "url": "/kozelet/2026-11-24-nem-fer-ossze-a-politika-a-fradival-letarolta-a-parlament-a-sporttorv/",
@@ -4421,37 +4451,7 @@
         "pos": "top",
         "alt": "1898 cartoon showing Rothschild with the world in his hands. \n\n\"Le roi Rothschild,\" by Charles Lucien Léandre, cover illustration for Le Rire."
       }
-    },
-    {
-      "id": "ba63d134-cfe0-578e-8a9f-e6d6c6823aa9",
-      "slug": "2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat",
-      "url": "/vilag/2026-11-14-dronok-zavartak-meg-az-amerikaiak-legnagyobb-angliai-bazisat/",
-      "title": "Drónok zavarták meg az amerikaiak legnagyobb angliai bázisát",
-      "lead": "Ismeretlen eredetű drónokat észleltek pénteken az Egyesült Államok legnagyobb angliai légitámaszpontjánál, mire a személyzet óvóhelyre vonult. Az eset után a brit hatóságok fokozott éberségre intették a lakosságot.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T07:56:03+01:00",
-      "published_at": "2026-11-14T07:56:03+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.83,
-      "tags": [
-        "Egyesült Királyság",
-        "drón",
-        "légitámaszpont",
-        "Egyesült Államok",
-        "biztonság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg/1280px-Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 960,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Lt. Col. James Hecker (front) and Lt. Col. Evan Dertein line up their F/A-22 Raptor aircraft behind a KC-10 Extender to refuel while en route to Hill Air Force Base, Utah. Colonel Hecker commands the"
-      }
     }
   ],
-  "updated_at": "2026-11-24T17:02:28+01:00"
+  "updated_at": "2026-11-24T20:42:10+01:00"
 }
