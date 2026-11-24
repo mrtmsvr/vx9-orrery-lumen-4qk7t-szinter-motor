@@ -3434,6 +3434,28 @@
       ],
       "image_options": [
         {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508408-0.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0e86c095a0-1795508408-0.jpg",
+          "kind": "photo",
+          "alt": "Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök",
+          "likeness": true,
+          "credit": "AI-generált illusztráció – Kollektíva",
+          "license": "saját (AI-generált illusztráció)",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/0e86c095a0-1795508417-1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/0e86c095a0-1795508417-1.jpg",
+          "kind": "photo",
+          "alt": "Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök",
+          "likeness": false,
+          "credit": "Kollektíva illusztráció",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true
+        },
+        {
           "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg/1280px-Varga_Mih%C3%A1ly_portr%C3%A9ja.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "width": 1200,
           "height": 1200,
@@ -3459,8 +3481,11 @@
         "head": "♻️ VISSZAVÉVE JAVÍTÁSRA (ugyanaz a cikk, nem új) · <b>Közélet</b> · forróság 5 · 4 forrás\n\n1) Újabb hónapra rács mögött maradhat a bíróság nem jogerős döntése szerint a volt MNB-elnök\n2) Még rács mögött tartja a bíróság a volt jegybankelnököt\n3) Februárig börtönben marad a volt MNB-vezér a bíróság döntése szerint\n\n<b>Források:</b> news.google.com, news.google.com, news.google.com, news.google.com\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "A Budai Központi Kerületi Bíróság február közepéig meghosszabbította a volt jegybankelnök letartóztatását a gyanú szerint. Az ügy újabb feszültséget szít a pénzügyi szektor és a politikai elit között.",
         "ctl_photo": false,
-        "control_id": 10677,
-        "msg_ids": []
+        "control_id": 10680,
+        "msg_ids": [
+          10678,
+          10679
+        ]
       }
     }
   ]
