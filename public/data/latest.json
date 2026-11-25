@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4f87527d-bd1d-53ba-a397-640221c17f0b",
+      "slug": "2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-allamhaztart",
+      "url": "/kozelet/2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-allamhaztart/",
+      "title": "Megcsúszott a francia hiánycél: 5,4 százalékra duzzadt az államháztartási hiány",
+      "lead": "Elfogadta a 2026-os év végi költségvetési módosító csomagot a francia Nemzetgyűlés, amivel hivatalossá vált a megcélzott hiánycél elbukása. A döntés átmeneti megnyugvást hozott a kisebbségi kormány számára a fokozódó gazdasági és társadalmi feszültségek közepette.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-25",
+      "date_label": "november 25.",
+      "created_at": "2026-11-25T11:17:12+01:00",
+      "published_at": "2026-11-25T11:17:12+01:00",
+      "reading_time_min": 3,
+      "hot_score": 12,
+      "tags": [
+        "Franciaország",
+        "költségvetés",
+        "államháztartási hiány",
+        "gazdaság",
+        "Nemzetgyűlés"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Paris_Assemblee_Nationale_DSC00074.jpg/1280px-Paris_Assemblee_Nationale_DSC00074.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 551,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ""
+      }
+    },
+    {
       "id": "6eb5b094-2706-5995-ac83-bef784edbfa6",
       "slug": "2026-11-25-luxusettermek-es-vip-varok-ismeretlen-tettes-ellen-johet-a-feljelente",
       "url": "/kozelet/2026-11-25-luxusettermek-es-vip-varok-ismeretlen-tettes-ellen-johet-a-feljelente/",
@@ -4421,37 +4451,7 @@
         "alt": "Térkép: Budapest",
         "card": "map"
       }
-    },
-    {
-      "id": "f4a1bc46-5189-5c15-be30-43ef0d413caf",
-      "slug": "2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke",
-      "url": "/kozelet/2026-11-14-nem-akartak-valtozast-ketharmaddal-gyozott-a-buk-regi-elnoke/",
-      "title": "Nem akartak változást: kétharmaddal győzött a BÜK régi elnöke",
-      "lead": "További négy évre választották a Budapesti Ügyvédi Kamara elnökévé Tóth M. Gábort a pénteki tisztújításon. A kihívók szerint a tagság a stabil és kiszámítható működés fenntartása mellett tette le a voksát.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T10:29:32+01:00",
-      "published_at": "2026-11-14T10:29:32+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.1,
-      "tags": [
-        "Budapesti Ügyvédi Kamara",
-        "Tóth M. Gábor",
-        "Horváth Lóránt",
-        "belföld",
-        "ügyvédség"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg/1280px-Budapest%2C_Hungary_%28explored%29_%2814995308504%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Budapest, Hungary"
-      }
     }
   ],
-  "updated_at": "2026-11-25T10:34:16+01:00"
+  "updated_at": "2026-11-25T11:17:15+01:00"
 }
