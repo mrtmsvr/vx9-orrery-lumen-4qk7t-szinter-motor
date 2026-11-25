@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "894f983a-ac51-5b22-8506-f0f09cba2fc4",
+      "slug": "2026-11-25-gazmaffia-igy-loptak-el-67-milliardot-fiktiv-szamlakkal",
+      "url": "/kozelet/2026-11-25-gazmaffia-igy-loptak-el-67-milliardot-fiktiv-szamlakkal/",
+      "title": "Gázmaffia: így loptak el 67 milliárdot fiktív számlákkal",
+      "lead": "Hatvanhétmilliárd forintnyi áfa folyt el a költségvetésből egy bonyolult, nemzetközi szálakat is mozgató gázpiaci csalássorozatban. A Telex műsorában bemutatott ügy rávilágít arra, hogyan használható a földgázkereskedelem pusztán fedősztoriként a tömeges adóelkerüléshez.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-25",
+      "date_label": "november 25.",
+      "created_at": "2026-11-25T14:40:05+01:00",
+      "published_at": "2026-11-25T14:40:05+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "áfacsalás",
+        "gázpiac",
+        "gazdasági bűnözés",
+        "NAV"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-4cb33ccc70.jpg",
+        "kind": "photo",
+        "alt": "A 67 milliárdos kérdés, hogy ki áll a gázmaffia élén",
+        "card": "video",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
       "id": "da6b08c0-13ca-58ca-9434-2209a4fc5c1e",
       "slug": "2026-11-25-nem-kegyelmeztek-a-svajci-kepviselok-a-legnagyobb-banknak",
       "url": "/vilag/2026-11-25-nem-kegyelmeztek-a-svajci-kepviselok-a-legnagyobb-banknak/",
@@ -4423,38 +4452,7 @@
         "kind": "photo",
         "alt": "medical equipment, medicine, laboratory, hospital, clinic, treatment, diagnosis, medical equipment, medical equipment, laboratory, hospital, hospital, hospital, hospital, hospital, clinic, clinic, cli"
       }
-    },
-    {
-      "id": "30ea0c12-2b73-5e18-ab44-d6742ae6320c",
-      "slug": "2026-11-14-mi-is-az-az-isztambuli-egyezmeny",
-      "url": "/kozelet/2026-11-14-mi-is-az-az-isztambuli-egyezmeny/",
-      "title": "Mi is az az Isztambuli Egyezmény?",
-      "lead": "Az Európa Tanács 2011-ben elfogadott dokumentuma a nők elleni és a családon belüli erőszak felszámolására törekszik, mégis az egyik leginkább vitatott nemzetközi szerződéssé vált Európában. A megállapodás részletesen szabályozza az állami feladatokat, míg a politikai porondon éles vitákat generál a ratifikáció elmaradása miatt.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T12:37:42+01:00",
-      "published_at": "2026-11-14T12:37:42+01:00",
-      "reading_time_min": 3,
-      "hot_score": 0,
-      "offtopic": true,
-      "tags": [
-        "Isztambuli Egyezmény",
-        "Európa Tanács",
-        "nők elleni erőszak",
-        "családon belüli erőszak",
-        "közélet"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Protest_Against_The_Istanbul_Convention_in_Sofia.jpg/1280px-Protest_Against_The_Istanbul_Convention_in_Sofia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 675,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Protest against the Convention on preventing and combating violence against women and domestic violence in Sofia."
-      }
     }
   ],
-  "updated_at": "2026-11-25T13:45:25+01:00"
+  "updated_at": "2026-11-25T14:40:07+01:00"
 }
