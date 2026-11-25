@@ -2344,7 +2344,7 @@
     {
       "id": "06701766-64aa-567d-9e9b-48b12b14d435",
       "slug": "2026-11-25-hol-all-az-euro-arfolyama-es-miert-gyengul-a-forint",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -2584,9 +2584,9 @@
       "dedupe_hash": "6172eee603890f94364609a56f4da8470f29f09b1f995cc73d19f65059c3f917",
       "pipeline_run_id": "45616003045",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-25T14:10:43+01:00",
-      "updated_at": "2026-11-25T14:10:43+01:00",
-      "published_at": null,
+      "created_at": "2026-11-25T16:10:08+01:00",
+      "updated_at": "2026-11-25T16:10:08+01:00",
+      "published_at": "2026-11-25T16:10:08+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-25T16:06:52+01:00",
@@ -2604,8 +2604,10 @@
         "lead": "Az euró árfolyama 372 forint fölé emelkedett, ami szeptember óta a legmagasabb érték. A hazai fizetőeszköz gyengülése mögött elsősorban a dollár erősödése és a Magyar Nemzeti Bank kilátásba helyezett kamatcsökkentése áll.",
         "ctl_photo": false,
         "control_id": 10705,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot."
+      },
+      "live": true
     },
     {
       "id": "894f983a-ac51-5b22-8506-f0f09cba2fc4",
