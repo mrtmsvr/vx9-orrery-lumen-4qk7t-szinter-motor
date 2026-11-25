@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "da6b08c0-13ca-58ca-9434-2209a4fc5c1e",
+      "slug": "2026-11-25-nem-kegyelmeztek-a-svajci-kepviselok-a-legnagyobb-banknak",
+      "url": "/vilag/2026-11-25-nem-kegyelmeztek-a-svajci-kepviselok-a-legnagyobb-banknak/",
+      "title": "Nem kegyelmeztek a svájci képviselők a legnagyobb banknak",
+      "lead": "Szigorúbb tőkefedezeti előírásokat hagyott jóvá a svájci parlament alsóházának illetékes bizottsága a UBS számára, ami miatt a pénzintézetnek jelentős összegű pótlólagos tőkét kellene bevonnia. A döntés mellett ugyanakkor módszertani felülvizsgálat is napirendre került, a pénzügyi felügyelet pedig kedvezően értékelte a bank válságkezelését.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-25",
+      "date_label": "november 25.",
+      "created_at": "2026-11-25T12:41:25+01:00",
+      "published_at": "2026-11-25T12:41:25+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "UBS",
+        "Svájc",
+        "bank",
+        "tőkekövetelmény",
+        "gazdaság"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/UBS_Headquarters%2C_Zurich_%28Ank_Kumar%2C_Infosys_Limited%29_09.jpg/1280px-UBS_Headquarters%2C_Zurich_%28Ank_Kumar%2C_Infosys_Limited%29_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "UBS Headquarters, Zurich (Ank Kumar, Infosys Limited)"
+      }
+    },
+    {
       "id": "4f87527d-bd1d-53ba-a397-640221c17f0b",
       "slug": "2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-allamhaztart",
       "url": "/kozelet/2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-allamhaztart/",
@@ -4424,34 +4454,7 @@
         "pos": "center",
         "alt": "Protest against the Convention on preventing and combating violence against women and domestic violence in Sofia."
       }
-    },
-    {
-      "id": "201916f3-f9c6-5f75-a617-a2e553924752",
-      "slug": "2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele",
-      "url": "/bulvar/2026-11-14-tizenkilenc-ev-utan-kulon-utakon-folytatja-sebestyen-balazs-es-a-fele/",
-      "title": "Tizenkilenc év után külön utakon folytatja Sebestyén Balázs és a felesége",
-      "lead": "Közös megegyezéssel, tizenkilenc év együttlét után külön utakon folytatja életét Sebestyén Balázs és felesége, Viki. A televíziós és rádiós műsorvezető a közösségi oldalán osztotta meg a hírt a nyilvánossággal.",
-      "category": "bulvar",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T11:07:39+01:00",
-      "published_at": "2026-11-14T11:07:39+01:00",
-      "reading_time_min": 1,
-      "hot_score": 12,
-      "tags": [
-        "Sebestyén Balázs",
-        "válás",
-        "bulvár",
-        "magyar sztárok"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/map-1517ec4309.jpg",
-        "kind": "photo",
-        "alt": "Térkép: Budapest",
-        "card": "map"
-      }
     }
   ],
-  "updated_at": "2026-11-25T12:34:28+01:00"
+  "updated_at": "2026-11-25T12:41:28+01:00"
 }
