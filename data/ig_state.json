@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "b4aa0f3232",
-      "art_id": "fbc6d196-5803-575f-984d-7d62af2c04e3",
-      "title": "A bérlakásprogram igazsága: mi marad húsz év múlva?",
-      "url": "/kozelet/2026-10-17-a-berlakasprogram-igazsaga-mi-marad-husz-ev-mulva/",
-      "card": "public/img/ig/2026-10-17-a-berlakasprogram-igazsaga-mi-marad-husz-ev-mulva.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-a-berlakasprogram-igazsaga-mi-marad-husz-ev-mulva.jpg",
-      "caption": "A bérlakásprogram igazsága: mi marad húsz év múlva?\n\nA bérlakásprogramok sikerét nemcsak az átadott lakások száma határozza meg, hanem az is, hogy mi történik a vagyonnal a beruházás lezárulta után. Egy friss szakmai elemzés szerint a pénzügyi konstrukciókat már a kezdetektől precízen kell megtervezni.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#bérlakás #lakásprogram #ingatlan #hírek #kollektíva",
-      "created": "2026-10-17T15:13:24+02:00",
-      "due": "2026-10-17T15:58:24+02:00",
-      "status": "failed",
-      "tg": [
-        7260,
-        7261
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "3808f68fa8",
       "art_id": "51c5421a-780a-5a1a-8077-0f9389b7da3b",
       "title": "Varga-Bajusz Veronika: Thanos csettintése helyett imádság tartja benne a lelket",
@@ -3611,6 +3594,21 @@
       "container": "18141135859718522",
       "media_id": "18054235565625924",
       "posted": "2026-11-25T14:25:12+01:00"
+    },
+    {
+      "id": "51fe010e83",
+      "art_id": "4f87527d-bd1d-53ba-a397-640221c17f0b",
+      "title": "Megcsúszott a francia hiánycél: 5,4 százalékra duzzadt az államháztartási hiány",
+      "url": "/kozelet/2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-allamhaztart/",
+      "card": "public/img/ig/2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-al.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-25-megcsuszott-a-francia-hianycel-5-4-szazalekra-duzzadt-az-al.jpg",
+      "caption": "Megcsúszott a francia hiánycél: 5,4 százalékra duzzadt az államháztartási hiány\n\nElfogadta a 2026-os év végi költségvetési módosító csomagot a francia Nemzetgyűlés, amivel hivatalossá vált a megcélzott hiánycél elbukása. A döntés átmeneti megnyugvást hozott a kisebbségi kormány számára a fokozódó gazdasági és társadalmi feszültségek közepette.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#franciaország #költségvetés #belföld #hírek #magyarország",
+      "created": "2026-11-25T16:21:53+01:00",
+      "due": "2026-11-25T17:06:53+01:00",
+      "status": "queued",
+      "tg": [
+        10709
+      ]
     }
   ],
   "token": {
