@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "6eb5b094-2706-5995-ac83-bef784edbfa6",
+      "slug": "2026-11-25-luxusettermek-es-vip-varok-ismeretlen-tettes-ellen-johet-a-feljelente",
+      "url": "/kozelet/2026-11-25-luxusettermek-es-vip-varok-ismeretlen-tettes-ellen-johet-a-feljelente/",
+      "title": "Luxuséttermek és VIP-várók: ismeretlen tettes ellen jöhet a feljelentés Orbán utazásai miatt",
+      "lead": "Ismeretlen tettes ellen tehet feljelentést a Külügyminisztérium a 2015 és 2025 közötti hivatalos repülőgépes utazások költségei miatt. A tárca államtitkára szerint a korábbi kormányfő luxusutakon vett részt adófizetői pénzből.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-25",
+      "date_label": "november 25.",
+      "created_at": "2026-11-25T10:34:14+01:00",
+      "published_at": "2026-11-25T10:34:14+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Külügyminisztérium",
+        "Orbán Viktor",
+        "feljelentés",
+        "közpénz",
+        "Velkey György László"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/President_Donald_Trump_hosts_a_bilateral_lunch_meeting_with_Hungarian_Prime_Minister_Viktor_Orban.2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1601,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "President Donald Trump hosts a bilateral lunch meeting with Hungarian Prime Minister Viktor Orban"
+      }
+    },
+    {
       "id": "0404f5b5-0e0e-58aa-84f4-deb31ba23e4b",
       "slug": "2026-11-24-ujonc-miniszterek-es-a-hatalom-sulya-mi-tortenik-a-tisza-kormanynal",
       "url": "/kozelet/2026-11-24-ujonc-miniszterek-es-a-hatalom-sulya-mi-tortenik-a-tisza-kormanynal/",
@@ -4421,37 +4451,7 @@
         "pos": "center",
         "alt": "Budapest, Hungary"
       }
-    },
-    {
-      "id": "f262e504-4561-5fa9-894c-665aa4cbf4ae",
-      "slug": "2026-11-14-bilincsben-viszik-az-ocsot-mikozben-orban-viktor-szerint-csak-o-a-cel",
-      "url": "/kozelet/2026-11-14-bilincsben-viszik-az-ocsot-mikozben-orban-viktor-szerint-csak-o-a-cel/",
-      "title": "Bilincsben viszik az öcsöt, miközben Orbán Viktor szerint csak ő a célpont",
-      "lead": "Bilincsben vitték el a hatóságok Orbán Áront, a miniszterelnök öccsét, akit bűnszövetségben elkövetett embercsempészéssel és befolyással üzérkedéssel gyanúsítanak, míg a hatóságok szerint fiktív egyetemi képzésekkel szervezték meg migránsok utazását Nyugat-Európába.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T09:45:49+01:00",
-      "published_at": "2026-11-14T09:45:49+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Orbán Áron",
-        "embercsempészet",
-        "Telex",
-        "rendőrség",
-        "Orbán Viktor"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Hungarian_police_cars_in_Szeged.jpg/1280px-Hungarian_police_cars_in_Szeged.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 649,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Hungarian police cars in Szeged"
-      }
     }
   ],
-  "updated_at": "2026-11-25T06:01:47+01:00"
+  "updated_at": "2026-11-25T10:34:16+01:00"
 }
