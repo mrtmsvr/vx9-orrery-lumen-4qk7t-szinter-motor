@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "85e1e763-d795-514a-9f44-f64f8d887b5f",
+      "slug": "2026-11-25-keteltu-jarmuvel-hoztak-ki-a-masodik-vilaghaborus-bombat-a-velencei-t",
+      "url": "/kozelet/2026-11-25-keteltu-jarmuvel-hoztak-ki-a-masodik-vilaghaborus-bombat-a-velencei-t/",
+      "title": "Kétéltű járművel hozták ki a második világháborús bombát a Velencei-tóból",
+      "lead": "Szerdán emelték ki a Velencei-tóból azt a 250 kilogrammos, második világháborús német bombát, amelyre még szeptemberben bukkantak szörfösök Gárdonynál. A robbanószerkezet hatástalanítására végül nem volt szükség, mert gyújtószerkezete az évtizedek alatt teljesen lemerült.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-25",
+      "date_label": "november 25.",
+      "created_at": "2026-11-25T20:27:52+01:00",
+      "published_at": "2026-11-25T20:27:52+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "Velencei-tó",
+        "tűzszerészek",
+        "második világháború",
+        "bomba",
+        "Gárdony"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/World_War_II_Aerosol_Bomb_%28Bug_Bomb%29.jpg/1280px-World_War_II_Aerosol_Bomb_%28Bug_Bomb%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "This is a photograph of the first mass-produced version of the aerosol bomb used to dispense insecticide.  This 1 lb. form factor was developed shortly after the start of World War II and used extensi"
+      }
+    },
+    {
       "id": "06701766-64aa-567d-9e9b-48b12b14d435",
       "slug": "2026-11-25-hol-all-az-euro-arfolyama-es-miert-gyengul-a-forint",
       "url": "/penzvilag/2026-11-25-hol-all-az-euro-arfolyama-es-miert-gyengul-a-forint/",
@@ -4423,37 +4453,7 @@
         "pos": "center",
         "alt": "Bence RÉTVÁRI"
       }
-    },
-    {
-      "id": "de86aee9-fdca-5c16-863f-e436284bc605",
-      "slug": "2026-11-14-atomfegyverekrol-es-iranrol-targyal-a-nagyhatalmi-harmas",
-      "url": "/vilag/2026-11-14-atomfegyverekrol-es-iranrol-targyal-a-nagyhatalmi-harmas/",
-      "title": "Atomfegyverekről és Iránról tárgyal a nagyhatalmi hármas",
-      "lead": "A jövő héten a dél-kínai Sencsenben rendezett APEC-csúcstalálkozó keretében ül össze Donald Trump amerikai, Vlagyimir Putyin orosz és Hszi Csin-ping kínai elnök. A történelminek ígérkező megbeszélésen a nukleáris fegyverzetkorlátozás és az iráni konfliktus kerül terítékre.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T12:44:49+01:00",
-      "published_at": "2026-11-14T12:44:49+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.4,
-      "tags": [
-        "Donald Trump",
-        "Vlagyimir Putyin",
-        "Hszi Csin-ping",
-        "APEC",
-        "atomfegyver"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/The_west_panorama_of_Shenzhen2021.jpg/1280px-The_west_panorama_of_Shenzhen2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 403,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "The west panorama of Shenzhen, Shennan road in the middle, Shenzhen river in the left, and Kowloon–Canton railway in the right."
-      }
     }
   ],
-  "updated_at": "2026-11-25T19:05:55+01:00"
+  "updated_at": "2026-11-25T20:27:54+01:00"
 }
