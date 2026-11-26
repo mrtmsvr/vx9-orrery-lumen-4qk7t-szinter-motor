@@ -22,11 +22,10 @@
         "V. kerület parkolás"
       ],
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/72d4afa91d01208f.jpg",
-        "width": 3000,
-        "height": 2000,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-cd99881d20.jpg",
         "kind": "photo",
-        "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int"
+        "alt": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+        "cover": true
       }
     },
     {
@@ -4451,5 +4450,5 @@
       }
     }
   ],
-  "updated_at": "2026-11-26T11:19:40+01:00"
+  "updated_at": "2026-11-26T11:29:12+01:00"
 }

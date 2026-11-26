@@ -41,17 +41,15 @@
       "word_count": 325,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/72d4afa91d01208f.jpg",
-        "width": 3000,
-        "height": 2000,
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-cd99881d20.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-cd99881d20.jpg",
         "kind": "photo",
-        "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int",
-        "credit": "StartupStockPhotos / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/",
-        "vision_score": 5.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/72d4afa91d01208f.jpg",
-        "orig_url": "https://pixabay.com/get/gccf3ac4461677abef979149cfb451ec9a88882d8de7c97053d2671836f71bb94aa260c27c24d5267ec3ef080466cfdff8deaa2356f868b761bcc7a6d5a8f2811_1280.jpg"
+        "alt": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -111,7 +109,7 @@
       "pipeline_run_id": "45778911258",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-26T11:19:38+01:00",
-      "updated_at": "2026-11-26T11:19:38+01:00",
+      "updated_at": "2026-11-26T10:29:11+00:00",
       "published_at": "2026-11-26T11:19:38+01:00",
       "expires_at": null
     },
