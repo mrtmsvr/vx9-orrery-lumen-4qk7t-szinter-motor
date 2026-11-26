@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "ef1b5201-fe3e-597a-9f3b-135526f19718",
+      "slug": "2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal",
+      "url": "/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
+      "title": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+      "lead": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoftverre támaszkodik. Az V. kerületben saját erőből, magyar partnercégek segítségével hozták létre ezt a költséghatékony technológiát.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T11:19:38+01:00",
+      "published_at": "2026-11-26T11:19:38+01:00",
+      "reading_time_min": 2,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "okostelefonos parkolás",
+        "Belváros parkolás",
+        "rendszámfelismerő ellenőrzés",
+        "V. kerület parkolás"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/72d4afa91d01208f.jpg",
+        "width": 3000,
+        "height": 2000,
+        "kind": "photo",
+        "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int"
+      }
+    },
+    {
       "id": "eb38b81f-dc10-554a-af8c-71deeb34c56e",
       "slug": "2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja",
       "url": "/penzvilag/2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja/",
@@ -4420,37 +4449,7 @@
         "pos": "center",
         "alt": "A Ganz tram in Budapest."
       }
-    },
-    {
-      "id": "c44aaad3-3013-5aad-93ee-b170a90a93d9",
-      "slug": "2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon",
-      "url": "/kozelet/2026-11-14-azonnali-valsaghelyzet-ezer-tehen-vette-at-az-iranyitast-egy-macedon/",
-      "title": "Azonnali válsághelyzet: ezer tehén vette át az irányítást egy macedón városban",
-      "lead": "Válsághelyzet kihirdetését kezdeményezte egy észak-macedóniai polgármester, miután több mint ezer kóbor szarvasmarha lepte el a várost. Az állatok kerítéseket rongálnak, és tonnaszám pusztítják a mezőgazdasági termést.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T18:55:55+01:00",
-      "published_at": "2026-11-14T18:55:55+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.24,
-      "tags": [
-        "Észak-Macedónia",
-        "kóbor állatok",
-        "mezőgazdaság",
-        "válsághelyzet",
-        "szarvasmarha"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/St_David%27s_Well%2C_Snevice%2C_Macedonia_Art.IWMART3884.jpg/1280px-St_David%27s_Well%2C_Snevice%2C_Macedonia_Art.IWMART3884.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1281,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "St David's Well, Snevice, Macedonia\nimage: a group of British soldiers sit and rest, with two mules or cattle standing between them. To the right a mule\n\ndrinks water from a trough."
-      }
     }
   ],
-  "updated_at": "2026-11-26T11:01:28+01:00"
+  "updated_at": "2026-11-26T11:19:40+01:00"
 }

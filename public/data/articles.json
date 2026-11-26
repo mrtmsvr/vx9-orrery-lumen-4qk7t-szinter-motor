@@ -1,7 +1,120 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T10:55:12+01:00",
+  "updated_at": "2026-11-26T11:19:38+01:00",
   "articles": [
+    {
+      "id": "ef1b5201-fe3e-597a-9f3b-135526f19718",
+      "slug": "2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "okostelefonos parkolás",
+        "Belváros parkolás",
+        "rendszámfelismerő ellenőrzés",
+        "V. kerület parkolás"
+      ],
+      "title": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+      "subtitle": null,
+      "lead": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoftverre támaszkodik. Az V. kerületben saját erőből, magyar partnercégek segítségével hozták létre ezt a költséghatékony technológiát.",
+      "key_points": [
+        "Az V. kerületben (Belváros-Lipótváros) saját fejlesztésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert vezettek be.",
+        "A szoftvert házon belül fejlesztették ki magyar partnercégek segítségével 2023 és 2024 között.",
+        "A technológia nem igényel különösebb hardverelemeket, mert a szükséges adatokat okostelefon segítségével dolgozza fel.",
+        "Az ellenőrzés hatékonysága a korábbi módszerekhez képest rollerek használatakor háromszorosára, autók használatakor pedig ötszörösére-hatszorosára nőhet."
+      ],
+      "content": "## Miért volt szükség az új parkolás-ellenőrzési rendszerre a Belvárosban?\n\nA korábbi gyakorlatot a szakemberek elavultnak minősítették. A régi módszer szerint a parkolóellenőrnek oda kellett sétálnia az autóhoz, majd egy kézi számítógépbe folyamatosan be kellett pötyögnie a rendszámokat. Ez a lassú folyamat jelentősen visszatartotta a hatékony ellenőrzést. Ezt a problémát oldotta meg a Belváros-Lipótváros, amikor ahelyett, hogy milliárdos külső rendszerekre várt volna, önerőből fejlesztette ki a kamerás rendszámfelismerő eljárást.\n\n## Hogyan működik a kamerás okostelefonos ellenőrzés?\n\nA technológia alapja egy kifejezetten egyszerű rendszer, amely négy kamerakép adataira támaszkodva folyamatosan ellenőrzi a mobilitást, a jogosultságokat és az engedélyeket az adott területen. A Belvárosban jelenleg hibrid módon, gyalogosan, autókkal és rollerekkel járják az utcákat az ellenőrök. A rendszer legnagyobb előnye, hogy különleges, drága hardverek nélkül működik: a különböző kamerák és egyéb eszközök egy okostelefon segítségével önmagukban képesek megoldani a parkolás-ellenőrzést.\n\n## Mennyivel lett hatékonyabb az új technológia?\n\nA hatékonyságnövekedés mértéke közvetlenül függ attól, hogy milyen eszközzel végzik az ellenőrzést. A fejlesztést irányító Szél Péter informatikai vezető adatai szerint a rollerek esetében akár háromszorosára, míg az autók használatakor akár ötszörösére vagy hatszorosára is nőhet az ellenőrzési ráta a korábbi kézi pötyögéshez képest.\n\n## Mikor vezették be ezt a rendszert?\n\nA saját készítésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert 2023 és 2024 között alakították ki és vezették be a helyi viszonyokhoz igazodva, magyar partnercégek közreműködésével.\n\n## Gyakori kérdések\n\n- **Mennyibe került a rendszer kifejlesztése?** A háttéranyagok konkrét pénzbeli összeget nem említenek a fejlesztési költségekre vonatkozóan, csupán azt hangsúlyozzák, hogy milliárdos külső beszerzések helyett olcsó okostelefonos és saját fejlesztésű megoldást alkalmaznak.\n- **Szükséges-e különleges hardver az ellenőrzéshez?** Nem, a rendszer nem igényel különösebb hardverelemeket, a kamerák adatai okostelefon segítségével működnek.\n- **Milyen eszközökkel végzik az ellenőrzést a Belvárosban?** Hibrid módon, gyalogosan, valamint autókkal és rollerekkel járják az utcákat az ellenőrök.",
+      "content_format": "markdown",
+      "body": [
+        "## Miért volt szükség az új parkolás-ellenőrzési rendszerre a Belvárosban?",
+        "A korábbi gyakorlatot a szakemberek elavultnak minősítették. A régi módszer szerint a parkolóellenőrnek oda kellett sétálnia az autóhoz, majd egy kézi számítógépbe folyamatosan be kellett pötyögnie a rendszámokat. Ez a lassú folyamat jelentősen visszatartotta a hatékony ellenőrzést. Ezt a problémát oldotta meg a Belváros-Lipótváros, amikor ahelyett, hogy milliárdos külső rendszerekre várt volna, önerőből fejlesztette ki a kamerás rendszámfelismerő eljárást.",
+        "## Hogyan működik a kamerás okostelefonos ellenőrzés?",
+        "A technológia alapja egy kifejezetten egyszerű rendszer, amely négy kamerakép adataira támaszkodva folyamatosan ellenőrzi a mobilitást, a jogosultságokat és az engedélyeket az adott területen. A Belvárosban jelenleg hibrid módon, gyalogosan, autókkal és rollerekkel járják az utcákat az ellenőrök. A rendszer legnagyobb előnye, hogy különleges, drága hardverek nélkül működik: a különböző kamerák és egyéb eszközök egy okostelefon segítségével önmagukban képesek megoldani a parkolás-ellenőrzést.",
+        "## Mennyivel lett hatékonyabb az új technológia?",
+        "A hatékonyságnövekedés mértéke közvetlenül függ attól, hogy milyen eszközzel végzik az ellenőrzést. A fejlesztést irányító Szél Péter informatikai vezető adatai szerint a rollerek esetében akár háromszorosára, míg az autók használatakor akár ötszörösére vagy hatszorosára is nőhet az ellenőrzési ráta a korábbi kézi pötyögéshez képest.",
+        "## Mikor vezették be ezt a rendszert?",
+        "A saját készítésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert 2023 és 2024 között alakították ki és vezették be a helyi viszonyokhoz igazodva, magyar partnercégek közreműködésével.",
+        "## Gyakori kérdések\n\n- **Mennyibe került a rendszer kifejlesztése?** A háttéranyagok konkrét pénzbeli összeget nem említenek a fejlesztési költségekre vonatkozóan, csupán azt hangsúlyozzák, hogy milliárdos külső beszerzések helyett olcsó okostelefonos és saját fejlesztésű megoldást alkalmaznak.\n- **Szükséges-e különleges hardver az ellenőrzéshez?** Nem, a rendszer nem igényel különösebb hardverelemeket, a kamerák adatai okostelefon segítségével működnek.\n- **Milyen eszközökkel végzik az ellenőrzést a Belvárosban?** Hibrid módon, gyalogosan, valamint autókkal és rollerekkel járják az utcákat az ellenőrök."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 325,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/72d4afa91d01208f.jpg",
+        "width": 3000,
+        "height": 2000,
+        "kind": "photo",
+        "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int",
+        "credit": "StartupStockPhotos / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/",
+        "vision_score": 5.0,
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/72d4afa91d01208f.jpg",
+        "orig_url": "https://pixabay.com/get/gccf3ac4461677abef979149cfb451ec9a88882d8de7c97053d2671836f71bb94aa260c27c24d5267ec3ef080466cfdff8deaa2356f868b761bcc7a6d5a8f2811_1280.jpg"
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=x1rhq2JAVNk",
+          "title": "Nem vártak, önerőből fejlesztették ki a rendszámfelismerő parkolásellenőrzést a Belvárosban",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-11-26T09:25:22+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Parkol%C3%A1si_d%C3%ADj",
+          "title": "Parkolási díj",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-26T09:25:22+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-26T11:19:38+01:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": true,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=x1rhq2JAVNk",
+          "https://hu.wikipedia.org/wiki/Parkol%C3%A1si_d%C3%ADj"
+        ],
+        "offtopic_id": "q-egyseges-uzleti-okostelefon-parkolas"
+      },
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "url": "/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
+      "seo": {
+        "meta_title": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+        "meta_description": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoft",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/px/72d4afa91d01208f.jpg",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "b5a4c21c063f9c039f12e5bed05a1c1cd0f9a02ba95aa04ae5e735163ab30bef",
+      "pipeline_run_id": "45778911258",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-26T11:19:38+01:00",
+      "updated_at": "2026-11-26T11:19:38+01:00",
+      "published_at": "2026-11-26T11:19:38+01:00",
+      "expires_at": null
+    },
     {
       "id": "eb38b81f-dc10-554a-af8c-71deeb34c56e",
       "slug": "2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja",
@@ -77801,123 +77914,6 @@
       "updated_at": "2026-10-20T11:01:37+00:00",
       "published_at": "2026-10-20T08:26:48+02:00",
       "expires_at": null
-    },
-    {
-      "id": "db52335d-0b9b-5696-a065-acadcb5d7f6b",
-      "slug": "2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Volkswagen",
-        "autóipar",
-        "bérbefagyasztás",
-        "leépítés",
-        "gazdaság"
-      ],
-      "title": "Akár százezer munkahely is megszűnhet a német autógyártónál",
-      "subtitle": null,
-      "lead": "Belső dokumentumok szerint 2030-ig befagyasztaná a fizetéseket és további munkahelyeket szüntetne meg a Volkswagen, ami súlyos reálbércsökkenést jelenthet a dolgozóknak. A német autóóriás az ágazat tartós nehézségeivel és a költségcsökkentési célok elérésével indokolja a lépéseket.",
-      "key_points": [
-        "A Volkswagen-konszern belső tervei szerint 2030-ig fagyasztaná be a béreket.",
-        "A korábbi bejelentésekkel együtt a Süddeutsche Zeitung beszámolója szerint világszerte összesen mintegy 100 ezer állás szűnhet meg a következő években."
-      ],
-      "content": "A Süddeutsche Zeitung által ismertetett belső vállalati dokumentumok szerint a Volkswagen-konszern igazgatósága elfogadta a nemzetközi bértárgyalások újrahangolását célzó jövőképet. Az idei negyedik negyedévtől életbe lépő irányelvek értelmében a béremelések felfüggesztését tervezik egészen 2030-ig.\n\nA tervek a fix fizetések befagyasztása mellett a változó bérelemek, egyes különjuttatások és kedvezmények csökkentését is előirányozzák. A bérintézkedések és a juttatások csökkentése jelentős nehézségeket okozhat a munkavállalók számára a következő években.\n\nA költségcsökkentési program a bérintézkedéseken túl további létszámleépítéseket is magában foglal. A Süddeutsche Zeitung beszámolója szerint a Volkswagen felügyelőbizottsága szeptember elején arról határozott, hogy világszerte további 50 ezer munkahelyet szüntet meg, ami a korábbi döntésekkel együtt összesen mintegy 100 ezer állás megszűnését jelenti a konszernnél a következő időszakban.\n\nA megszorítások a gyárak működését is érintik, ugyanis a következő évtized első felében négy németországi üzem jövője is veszélybe kerülhet. A megtakarítási célok eléréséhez a vállalat valamennyi márkájának, régiójának és üzletágának hozzá kell járulnia, bár a helyi sajátosságokat szintén figyelembe veszik.",
-      "content_format": "markdown",
-      "body": [
-        "A Süddeutsche Zeitung által ismertetett belső vállalati dokumentumok szerint a Volkswagen-konszern igazgatósága elfogadta a nemzetközi bértárgyalások újrahangolását célzó jövőképet. Az idei negyedik negyedévtől életbe lépő irányelvek értelmében a béremelések felfüggesztését tervezik egészen 2030-ig.",
-        "A tervek a fix fizetések befagyasztása mellett a változó bérelemek, egyes különjuttatások és kedvezmények csökkentését is előirányozzák. A bérintézkedések és a juttatások csökkentése jelentős nehézségeket okozhat a munkavállalók számára a következő években.",
-        "A költségcsökkentési program a bérintézkedéseken túl további létszámleépítéseket is magában foglal. A Süddeutsche Zeitung beszámolója szerint a Volkswagen felügyelőbizottsága szeptember elején arról határozott, hogy világszerte további 50 ezer munkahelyet szüntet meg, ami a korábbi döntésekkel együtt összesen mintegy 100 ezer állás megszűnését jelenti a konszernnél a következő időszakban.",
-        "A megszorítások a gyárak működését is érintik, ugyanis a következő évtized első felében négy németországi üzem jövője is veszélybe kerülhet. A megtakarítási célok eléréséhez a vállalat valamennyi márkájának, régiójának és üzletágának hozzá kell járulnia, bár a helyi sajátosságokat szintén figyelembe veszik."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 187,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg/1280px-D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 800,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Volkswagen Beetle 1303 in the Dernekamp hamlet, Kirchspiel, Dülmen, North Rhine-Westphalia, GermanyThe Volkswagen 1303 was a further development of the classic VW Beetle and was built from 1972 to 197",
-        "credit": "Dietmar Rabich / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_VW_1303_--_2017_--_2279.jpg",
-        "vision_score": 6.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://infostart.hu/gazdasag/2026/10/20/a-leepites-csak-a-kezdet-a-fizetesek-befagyasztasaval-is-sporolna-a-nemet-autoorias",
-          "title": "A leépítés csak a kezdet, a fizetések befagyasztásával is spórolna a német autóóriás",
-          "publisher": "infostart.hu",
-          "license": null,
-          "accessed_at": "2026-10-20T07:01:04+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-20T07:40:53+02:00"
-      },
-      "hot_score": 5.87,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://infostart.hu/gazdasag/2026/10/20/a-leepites-csak-a-kezdet-a-fizetesek-befagyasztasaval-is-sporolna-a-nemet-autoorias"
-        ]
-      },
-      "date": "2026-10-20",
-      "date_label": "október 20.",
-      "url": "/penzvilag/2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal/",
-      "seo": {
-        "meta_title": "Akár százezer munkahely is megszűnhet a német autógyártónál",
-        "meta_description": "Belső dokumentumok szerint 2030-ig befagyasztaná a fizetéseket és további munkahelyeket szüntetne meg a Volkswagen, ami súlyos reálbércsökkenést jelenthet a dol",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-akar-szazezer-munkahely-is-megszunhet-a-nemet-autogyartonal/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg/1280px-D%C3%BClmen%2C_Kirchspiel%2C_VW_1303_--_2017_--_2279.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "b09cf231c9c5583840880c0740a281ab1374bea51183a77f62898cf10c352a95",
-      "pipeline_run_id": "39372231869",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T07:40:53+02:00",
-      "updated_at": "2026-10-20T07:40:53+02:00",
-      "published_at": "2026-10-20T07:40:53+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Volkswagen",
-        "Süddeutsche Zeitung",
-        "Germany",
-        "Volkswagen Supervisory Board",
-        "Volkswagen Group",
-        "German factories",
-        "frozen paycheck",
-        "empty office chair",
-        "factory shutdown sign",
-        "layoff notice document"
-      ],
-      "images_seen": [
-        "https://pixabay.com/get/g96630fdf7efca2453938e89a7337554abfe0c647df69e9f6c322910b6a25729e9b99c3a31fe0a23f97dde0f6bfab420409c2fa01711247d8fea3e58d13830803_1280.jpg",
-        "https://xn--kollektva-m5a.hu/public/img/gen/cover-a1ea675594.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg"
-      ]
     }
   ]
 }
