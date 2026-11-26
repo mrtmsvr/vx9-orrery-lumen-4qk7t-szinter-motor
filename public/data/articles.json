@@ -1,7 +1,138 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T20:35:15+01:00",
+  "updated_at": "2026-11-26T23:17:35+01:00",
   "articles": [
+    {
+      "id": "043b6d76-8e0b-5f51-90fb-83023971f890",
+      "slug": "2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz",
+      "status": "published",
+      "category": "kozelet",
+      "subcategory": null,
+      "tags": [
+        "Ruff Bálint",
+        "Tisza-kormány",
+        "rendszerváltás",
+        "interjú",
+        "kormányzat"
+      ],
+      "title": "Ruff Bálint: Türelem kell a gazdasági rendszerváltáshoz",
+      "subtitle": null,
+      "lead": "Ruff Bálint a 444.hu interjújában nyilatkozott , a rendszerváltás kihívásairól és a kabinet belső struktúráiról. A politikus szerint a politikai rendszerváltás jó ütemben halad, de a gazdasági átrendezéshez még türelemre van szükség.",
+      "key_points": [
+        "Ruff Bálint a 444.hu stúdiójában értékelte a Tisza-kormány első hónapjait és a kabinet működését.",
+        "A miniszterelnök-helyettes szerint a politikai rendszerváltás jól halad, a gazdasági változásokhoz viszont idő kell."
+      ],
+      "content": "Hosszú és sűrű napok jellemzik Ruff Bálint munkáját – hangzott el a 444.hu interjújában, amelyben a politikus a mindennapjairól beszélt. Szó esett a helyettesítési rendről is: mint elhangzott, ha a miniszterelnök nincs az országban, ő látja el a feladatokat. A videóban elhangzottak szerint a politikus mindennapjai rendkívül leterheltek.\n\nA felelősségről szólva Ruff Bálint úgy fogalmazott, hogy az elviselhetetlen a felelősség súlya, amikor az ember belegondol, ezért inkább nem is gondol bele.\n\nAz ország átalakításának üteméről szólva a politikus kifejtette, hogy a rendszerváltás kérdéséről élénk vita zajlik. A gazdasági rendszerváltás terén azonban hangsúlyozta, hogy a folyamat hosszú távú elkötelezettséget kíván, és a rendszer átalakítása nem megy egyik napról a másikra.\n\nA kormányzati kommunikáció és a bejelentések időzítése is stratégiai döntéseken alapul. A beszélgetés végén a felelősségvállalás és a stabil, átlátható működés fenntartása került a fókuszba, miközben a kabinet a jövőbeli kihívásokra készül, és a gazdasági rendszerváltás terén a társadalmi visszajelzéseket is vizsgálja.",
+      "content_format": "markdown",
+      "body": [
+        "Hosszú és sűrű napok jellemzik Ruff Bálint munkáját – hangzott el a 444.hu interjújában, amelyben a politikus a mindennapjairól beszélt. Szó esett a helyettesítési rendről is: mint elhangzott, ha a miniszterelnök nincs az országban, ő látja el a feladatokat. A videóban elhangzottak szerint a politikus mindennapjai rendkívül leterheltek.",
+        "A felelősségről szólva Ruff Bálint úgy fogalmazott, hogy az elviselhetetlen a felelősség súlya, amikor az ember belegondol, ezért inkább nem is gondol bele.",
+        "Az ország átalakításának üteméről szólva a politikus kifejtette, hogy a rendszerváltás kérdéséről élénk vita zajlik. A gazdasági rendszerváltás terén azonban hangsúlyozta, hogy a folyamat hosszú távú elkötelezettséget kíván, és a rendszer átalakítása nem megy egyik napról a másikra.",
+        "A kormányzati kommunikáció és a bejelentések időzítése is stratégiai döntéseken alapul. A beszélgetés végén a felelősségvállalás és a stabil, átlátható működés fenntartása került a fókuszba, miközben a kabinet a jövőbeli kihívásokra készül, és a gazdasági rendszerváltás terén a társadalmi visszajelzéseket is vizsgálja."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 1,
+      "word_count": 183,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 888,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015.",
+        "credit": "Source: User:Godot13  Derivative: User:MathKnight / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+        "exact": true,
+        "entity": "Hungarian Parliament Building",
+        "vision_score": 6.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=WMsnZ-ubPqg",
+          "title": "Ruff Bálint: A politikai rendszerváltás jól működik, a gazdaságihoz még türelem kell",
+          "publisher": "444.hu",
+          "license": null,
+          "accessed_at": "2026-11-26T23:16:13+01:00"
+        }
+      ],
+      "quote": {
+        "text": "ha az ember jobban belegondol, én vagyok benne, hogyha jobban belegondolok, akkor szerintem azt elviselhetetlennek a felősségnek a súlya, amikor meg, amikor meg így kell csinálni, akkor csak inkább az ember nem gondol bele, hogy, hogy ez mennyi, mit jelent.",
+        "who": "Ruff Bálint miniszterelnök-helyettes",
+        "after": 1
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-26T23:17:35+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=WMsnZ-ubPqg"
+        ]
+      },
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "url": "/kozelet/2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz/",
+      "seo": {
+        "meta_title": "Ruff Bálint: Türelem kell a gazdasági rendszerváltáshoz",
+        "meta_description": "Ruff Bálint a 444.hu interjújában nyilatkozott , a rendszerváltás kihívásairól és a kabinet belső struktúráiról. A politikus szerint a politikai rendszerváltás ",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz/",
+        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [
+        "ccc11dae-06bb-58a1-ba86-02ccec67a1d4",
+        "09116177-7606-528a-b265-6affc6b17df8",
+        "90391b54-86f3-5f14-aae0-23f544ecda59"
+      ],
+      "see_also": [
+        {
+          "title": "Háromnapos rendkívüli ülést kap a költségvetés Ruff Bálint indítványa nyomán",
+          "url": "/kozelet/2026-11-11-haromnapos-rendkivuli-ulest-kap-a-koltsegvetes-ruff-balint-inditvanya/",
+          "date": "2026-11-11"
+        },
+        {
+          "title": "Ezt mondta Bencsik András a zászlómeneten Magyar Péterről",
+          "url": "/kozelet/2026-10-23-ezt-mondta-bencsik-andras-a-zaszlomeneten-magyar-peterrol/",
+          "date": "2026-10-23"
+        },
+        {
+          "title": "Magyar Péter átalakítja a szuper-titkosszolgálatot: megvan az NIK új főigazgatója",
+          "url": "/kozelet/2026-11-10-magyar-peter-atalakitja-a-szuper-titkosszolgalatot-megvan-az-nik-uj-f/",
+          "date": "2026-11-10"
+        }
+      ],
+      "thread_id": null,
+      "dedupe_hash": "97ba053c0d209632d129f809858a04b6ed463fe3cb30d040d6a0a72abe2913b8",
+      "pipeline_run_id": "45900282815",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-26T23:17:35+01:00",
+      "updated_at": "2026-11-26T23:17:35+01:00",
+      "published_at": "2026-11-26T23:17:35+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "WMsnZ-ubPqg",
+        "title": "Ruff Bálint: A politikai rendszerváltás jól működik, a gazdaságihoz még türelem kell",
+        "channel": "444.hu",
+        "minutes": 60
+      }
+    },
     {
       "id": "580aae7f-f9f7-500f-8b02-4000b3c6f1e8",
       "slug": "2026-11-26-lakner-zoltan-magyar-peter-ukrajnai-utja-szembemegy-a-2010-utani-kulp",
@@ -77775,132 +77906,6 @@
       "created_at": "2026-10-20T15:44:30+02:00",
       "updated_at": "2026-10-20T18:25:10+02:00",
       "published_at": "2026-10-20T15:44:30+02:00",
-      "expires_at": null
-    },
-    {
-      "id": "136e445b-e6c9-5edf-b21e-91054d424e0f",
-      "slug": "2026-10-20-nem-kernek-a-morzsakbol-igy-reagaltak-a-rendvedelmisek-a-bejelentesre",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "rendőrség",
-        "tűzoltók",
-        "béremelés",
-        "költségvetés",
-        "szakszervezet"
-      ],
-      "title": "Nem kérnek a morzsákból: így reagáltak a rendvédelmisek a bejelentésre",
-      "subtitle": null,
-      "lead": "Csalódást keltett a rendvédelmi dolgozók körében a Magyar Péter által bejelentett, átlagosan tizenöt százalékos jövő évi béremelés. A szakszervezetek legalább ötven százalékos emelést tartanának szükségesnek a pályaelhagyási hullám megállításához.",
-      "key_points": [
-        "A rendvédelmi szakszervezetek szerint a tizenöt százalékos emelés kevés a bérhelyzet rendezéséhez.",
-        "Az állomány képviselői legalább ötven százalékos béremelést szerettek volna a lemorzsolódás megállítására.",
-        "A tűzoltók üdvözlik az illetményalap emelését, de tartanak az új területi pótlék okozta bérfeszültségtől.",
-        "A szakszervezetek mielőbb egyeztetnének a Belügyminisztériummal a részletszabályokról."
-      ],
-      "content": "Kevésnek és csalódást keltőnek tartják a rendvédelmi dolgozókat képviselő szakszervezetek az átlagosan tizenöt százalékos béremelést, amelyet Magyar Péter ismertetett az Országgyűlésben a jövő évi költségvetés tervezetének bemutatásakor – közölték szakszervezeti vezetők. Pongó Géza, a Független Rendőr Szakszervezet főtitkára szerint az állomány legalább ötven százalékos emelést tartana elfogadhatónak ahhoz, hogy megálljon a rendőri pályát elhagyók növekvő száma. A szakszervezet felmérései alapján a rendőrök arra számítottak, hogy még idén megvalósul a béremelés, így a mostani bejelentés kettős csalódást jelent számukra.\n\nHozzátette: a Tisza Párt korábbi programjában a rendvédelem becsületének helyreállítását, a bérrendszer megújítását és a fiatalok számára is vonzó életpályamodell kialakítását ígérte, ám a mostani tervek nincsenek összhangban ezekkel a célkitűzésekkel. A Független Rendőr Szakszervezet szeretné mielőbb megismerni a Belügyminisztérium által még meg nem osztott részletszabályokat, és bíznak abban, hogy a szolgálati törvény előkészületben lévő módosítása valóban átalakítja a bérrendszert.\n\nSalamon Lajos, a Hivatásos Tűzoltók Független Szakszervezetének elnöke szintén kevésnek ítélte a tizenöt százalékos mértéket, megjegyezve, hogy ez legfeljebb egy bérfelzárkóztatási folyamat kiinduló lépéseként lehet megfelelő. Megjegyezte, ez abban az esetben lehet megfelelő, ha egy bérfelzárkóztatási folyamat kiinduló lépését jelenti.",
-      "content_format": "markdown",
-      "body": [
-        "Kevésnek és csalódást keltőnek tartják a rendvédelmi dolgozókat képviselő szakszervezetek az átlagosan tizenöt százalékos béremelést, amelyet Magyar Péter ismertetett az Országgyűlésben a jövő évi költségvetés tervezetének bemutatásakor – közölték szakszervezeti vezetők. Pongó Géza, a Független Rendőr Szakszervezet főtitkára szerint az állomány legalább ötven százalékos emelést tartana elfogadhatónak ahhoz, hogy megálljon a rendőri pályát elhagyók növekvő száma. A szakszervezet felmérései alapján a rendőrök arra számítottak, hogy még idén megvalósul a béremelés, így a mostani bejelentés kettős csalódást jelent számukra.",
-        "Hozzátette: a Tisza Párt korábbi programjában a rendvédelem becsületének helyreállítását, a bérrendszer megújítását és a fiatalok számára is vonzó életpályamodell kialakítását ígérte, ám a mostani tervek nincsenek összhangban ezekkel a célkitűzésekkel. A Független Rendőr Szakszervezet szeretné mielőbb megismerni a Belügyminisztérium által még meg nem osztott részletszabályokat, és bíznak abban, hogy a szolgálati törvény előkészületben lévő módosítása valóban átalakítja a bérrendszert.",
-        "Salamon Lajos, a Hivatásos Tűzoltók Független Szakszervezetének elnöke szintén kevésnek ítélte a tizenöt százalékos mértéket, megjegyezve, hogy ez legfeljebb egy bérfelzárkóztatási folyamat kiinduló lépéseként lehet megfelelő. Megjegyezte, ez abban az esetben lehet megfelelő, ha egy bérfelzárkóztatási folyamat kiinduló lépését jelenti."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 2,
-      "word_count": 206,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hungarian_Intervention_Police_officers_in_Budapest_%282025-07-02%29.jpg/1280px-Hungarian_Intervention_Police_officers_in_Budapest_%282025-07-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1594,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Photographed in Buda City from Budapest",
-        "credit": "A.Donaire2005 / Wikimedia Commons",
-        "license": "CC BY 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Hungarian_Intervention_Police_officers_in_Budapest_(2025-07-02).jpg",
-        "vision_score": 8.0
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://infostart.hu/belfold/2026/10/20/csalodast-okozott-a-kormany-beremelesi-terve-a-rendvedelmi-dolgozoknak",
-          "title": "Csalódást okozott a kormány terve a rendvédelmi dolgozóknak",
-          "publisher": "infostart.hu",
-          "license": null,
-          "accessed_at": "2026-10-20T15:35:51+02:00"
-        },
-        {
-          "url": "https://index.hu/belfold/2026/10/20/rendvedelem-szakszervezet-tuzoltok-rendorseg-tisza-part-koltsegvetes-beremeles/",
-          "title": "Rendvédelmi szakszervezetek szerint „dupla csalódás” a beígért 15 százalékos béremelés",
-          "publisher": "index.hu",
-          "license": null,
-          "accessed_at": "2026-10-20T15:35:51+02:00"
-        }
-      ],
-      "quote": {
-        "text": "Tisztában vagyunk az ország gazdasági helyzetével, és belátjuk, hogy az előző kormányzat hibáit és mulasztásait nem lehet néhány hónap alatt orvosolni, de ténynek tartjuk, hogy a 15 százalékos átlagos emelés elégtelen a rendvédelmi dolgozók tisztességes javadalmazásához",
-        "who": "Pongó Géza, a Független Rendőr Szakszervezet főtitkára",
-        "after": 1
-      },
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-20T15:41:24+02:00"
-      },
-      "hot_score": 11.94,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://infostart.hu/belfold/2026/10/20/csalodast-okozott-a-kormany-beremelesi-terve-a-rendvedelmi-dolgozoknak",
-          "https://index.hu/belfold/2026/10/20/rendvedelem-szakszervezet-tuzoltok-rendorseg-tisza-part-koltsegvetes-beremeles/"
-        ]
-      },
-      "date": "2026-10-20",
-      "date_label": "október 20.",
-      "url": "/kozelet/2026-10-20-nem-kernek-a-morzsakbol-igy-reagaltak-a-rendvedelmisek-a-bejelentesre/",
-      "seo": {
-        "meta_title": "Nem kérnek a morzsákból: így reagáltak a rendvédelmisek a be",
-        "meta_description": "Csalódást keltett a rendvédelmi dolgozók körében a Magyar Péter által bejelentett, átlagosan tizenöt százalékos jövő évi béremelés. A szakszervezetek legalább ö",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-nem-kernek-a-morzsakbol-igy-reagaltak-a-rendvedelmisek-a-bejelentesre/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hungarian_Intervention_Police_officers_in_Budapest_%282025-07-02%29.jpg/1280px-Hungarian_Intervention_Police_officers_in_Budapest_%282025-07-02%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [
-        "4e88af56-b8ee-5250-9fc3-4fecbccc0edd",
-        "83639ddc-34e0-5c32-97eb-0137ed96e4c1"
-      ],
-      "see_also": [
-        {
-          "title": "Magyar Péter hétfőn mutatja be a 2027-es költségvetést",
-          "url": "/kozelet/2026-10-17-magyar-peter-hetfon-mutatja-be-a-2027-es-koltsegvetest/",
-          "date": "2026-10-17"
-        },
-        {
-          "title": "Hetvenmilliárdos kérdések várnak Szijjártó Péterre",
-          "url": "/kozelet/2026-10-02-hetvenmilliardos-kerdesek-varnak-szijjarto-peterre/",
-          "date": "2026-10-02"
-        }
-      ],
-      "thread_id": null,
-      "dedupe_hash": "68697512dae178b9fea402b6d41e16e30299561e1f85d7f653b35ffc21817536",
-      "pipeline_run_id": "39428712442",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T15:41:24+02:00",
-      "updated_at": "2026-10-20T18:24:47+02:00",
-      "published_at": "2026-10-20T15:41:24+02:00",
       "expires_at": null
     }
   ]

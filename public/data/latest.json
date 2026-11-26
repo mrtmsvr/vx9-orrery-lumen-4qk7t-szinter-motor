@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "043b6d76-8e0b-5f51-90fb-83023971f890",
+      "slug": "2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz",
+      "url": "/kozelet/2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz/",
+      "title": "Ruff Bálint: Türelem kell a gazdasági rendszerváltáshoz",
+      "lead": "Ruff Bálint a 444.hu interjújában nyilatkozott , a rendszerváltás kihívásairól és a kabinet belső struktúráiról. A politikus szerint a politikai rendszerváltás jó ütemben halad, de a gazdasági átrendezéshez még türelemre van szükség.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T23:17:35+01:00",
+      "published_at": "2026-11-26T23:17:35+01:00",
+      "reading_time_min": 1,
+      "hot_score": 5,
+      "tags": [
+        "Ruff Bálint",
+        "Tisza-kormány",
+        "rendszerváltás",
+        "interjú",
+        "kormányzat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Budapest-Parliament-0001.jpg/1280px-Budapest-Parliament-0001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 888,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Hungarian Parliament Building, Budapest, Hungary, 2015."
+      }
+    },
+    {
       "id": "580aae7f-f9f7-500f-8b02-4000b3c6f1e8",
       "slug": "2026-11-26-lakner-zoltan-magyar-peter-ukrajnai-utja-szembemegy-a-2010-utani-kulp",
       "url": "/kozelet/2026-11-26-lakner-zoltan-magyar-peter-ukrajnai-utja-szembemegy-a-2010-utani-kulp/",
@@ -4422,35 +4452,7 @@
         "pos": "center",
         "alt": "Blick über den Marktplatz der Stadt Bayreuth (fotografiert von der Karstadt-Dachterrasse), Maximilianstraße"
       }
-    },
-    {
-      "id": "8c42a96c-06f4-5af8-939f-1824c72ccb02",
-      "slug": "2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m",
-      "url": "/kozelet/2026-11-15-leketyego-ora-es-pelenkagondolatok-takacs-peter-sogora-rontott-neki-m/",
-      "title": "Leketyegő óra és pelenkagondolatok: egy hozzászóló rontott neki Mérő Verának",
-      "lead": "Kőszegi Gábor, a lélegeztetőgép-bizniszben érintett üzletember durva hangvételű kommentben támadta meg Mérő Vera jogvédőt a közösségi médiában a beszámolók alapján. Az eset jól mutatja a közéleti viták eldurvulását, miközben a felek között a hivatkozások szerint korábban is feszült volt a viszony.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T13:06:18+01:00",
-      "published_at": "2026-11-15T13:06:18+01:00",
-      "reading_time_min": 2,
-      "hot_score": 7.12,
-      "tags": [
-        "Kőszegi Gábor",
-        "Mérő Vera",
-        "Takács Péter",
-        "közélet",
-        "szexizmus"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-49013ad765.jpg",
-        "kind": "photo",
-        "alt": "Leketyegő óra és pelenkagondolatok: egy hozzászóló rontott neki Mérő Verának",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-26T20:59:28+01:00"
+  "updated_at": "2026-11-26T23:17:37+01:00"
 }
