@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "4d2c25c0-bb1b-5411-bbb2-89d9812850b0",
+      "slug": "2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-le-feriheg",
+      "url": "/kozelet/2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-le-feriheg/",
+      "title": "Négy bőrönd, hetvenkét kiló zöld: holland drogfutárok buktak le Ferihegyen",
+      "lead": "Több mint hetvenkét kilogramm marihuánát találtak két holland férfi poggyászában a Liszt Ferenc Nemzetközi Repülőtéren. Az utasokat a Nemzeti Adó- és Vámhivatal pénzügyőrei és a rendőrség fogta el, miután Bangkokból, Dohán keresztül Budapestre utaztak.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T08:48:16+01:00",
+      "published_at": "2026-11-26T08:48:16+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "bűnügy",
+        "Ferihegy",
+        "kábítószer-kereskedelem",
+        "NAV",
+        "rendőrség"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Aeropark_l%C3%A9gi_felv%C3%A9telen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 800,
+        "kind": "graphic",
+        "pos": "center",
+        "alt": "Aeropark légi felvételen"
+      }
+    },
+    {
       "id": "e69bec24-d8b7-5dd7-ad2b-705327189d70",
       "slug": "2026-11-26-kamionrobbanas-razta-meg-kairot-harmincegy-aldozat",
       "url": "/vilag/2026-11-26-kamionrobbanas-razta-meg-kairot-harmincegy-aldozat/",
@@ -4421,37 +4451,7 @@
         "pos": "center",
         "alt": "NATO Headquarters in Brussels."
       }
-    },
-    {
-      "id": "22c5c36f-06de-5eb5-87fc-8bcaa82ba535",
-      "slug": "2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat",
-      "url": "/kozelet/2026-11-14-fentrol-jott-a-parancs-varga-judit-megszolalt-a-volner-schadl-ugy-hat/",
-      "title": "Fentről jött a parancs: Varga Judit megszólalt a Völner-Schadl-ügy háttéralkuiról",
-      "lead": "Varga Judit korábbi igazságügyi miniszter váratlanul visszatért a közéletbe, és a parlamenti vizsgálóbiottság zárt ülésén arról beszélt, hogy felsőbb utasításra le kellett volna állítani a Völner–Schadl-nyomozást. A volt tárcavezető megszólalása újabb részleteket hozott felszínre a befolyásolási kísérletekről.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T17:36:07+01:00",
-      "published_at": "2026-11-14T17:36:07+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Varga Judit",
-        "Völner-Schadl-ügy",
-        "parlamenti vizsgálóbizottság",
-        "Fürcht Pál",
-        "Toroczkai László"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Budapest_Parliament_4604.JPG/1280px-Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 732,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Parliament building, Budapest"
-      }
     }
   ],
-  "updated_at": "2026-11-26T07:06:23+01:00"
+  "updated_at": "2026-11-26T08:48:18+01:00"
 }
