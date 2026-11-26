@@ -1,7 +1,132 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T08:54:48+01:00",
+  "updated_at": "2026-11-26T10:55:12+01:00",
   "articles": [
+    {
+      "id": "eb38b81f-dc10-554a-af8c-71deeb34c56e",
+      "slug": "2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja",
+      "status": "published",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "államháztartás",
+        "költségvetés",
+        "infláció",
+        "gazdaság",
+        "államadósság"
+      ],
+      "title": "Hogyan csúszhat meg az állam pénztárcája?",
+      "subtitle": null,
+      "lead": "Amikor az állam többet költ, mint amennyi adóbevétele származik, az nemcsak a makrogazdaság szintjén okoz fejfájást, hanem a mindennapi pénztárcánkat is közvetlenül érinti. Megvizsgáltuk, hogyan épül fel a közös kassza, és mi történik, amikor kibillen az egyensúly.",
+      "key_points": [
+        "Az államháztartás a központi és helyi kormányzatok bevételeit és kiadásait tartalmazó mérleg.",
+        "A bevételek főként adókból, vámokból és járulékokból állnak, míg a kiadások az egészségügyet, oktatást és szociális ellátást fedezik.",
+        "Kutatások szerint a tartósan fennálló államháztartási hiány hosszú távon negatívan befolyásolhatja a gazdasági növekedést.",
+        "A hiány növekedése rendszerint az államadósság emelkedését vonja maga után.",
+        "A cikkben szereplő állítások nem helyettesítik a hivatalos szakértői vagy pénzügyi véleményt."
+      ],
+      "content": "## Mi is az az államháztartás, és hová tűnnek a befizetett adóink?\n\nAz államháztartás nem más, mint az állam gazdálkodási rendszerének egésze, amely magában foglalja a központi és a helyi kormányzatok bevételeit és kiadásait. Olyan közfeladatokat lát el a köz érdekében, amelyeket a gazdaság többi szereplője nem tudna egyedül megoldani. Ide tartozik az erőforrások megszerzése az allokáció révén, valamint a jövedelmi aránytalanságok korrigálása az újraelosztás útján. Az állam feladata továbbá a gazdasági növekedés feltételeinek megteremtése, a foglalkoztatás támogatása, valamint a jogi keretek kialakítása.\n\nMagyarországon a rendszer két fő alrendszerből áll: a központi alrendszerből (melybe beletartoznak a társadalombiztosítási alapok és az elkülönített állami pénzalapok is) és az önkormányzati alrendszerből. A működés alapfeltétele a megfelelő pénzügyi egyensúly fenntartása, valamint a közpénzekkel való hatékony és ellenőrizhető gazdálkodás.\n\n## Hogyan épül fel a közös kassza bevétele és kiadása?\n\nAz állami kiadások fedezéséhez szükséges bevételek két nagy csoportra oszthatók jellegük alapján.\n\n- Adók, vámok és illetékek, mint a legfőbb állami bevételek\n- Járulékok és hozzájárulások a társadalombiztosítás fenntartásához\n- Belső és külső hitelek az átmeneti finanszírozáshoz\n\nA beszedett pénzeket az állam olyan kiadásokra fordítja, mint a szociális és egészségügyi ellátások biztosítása, a kultúra és oktatás fenntartása, valamint a honvédelem, a rend- és jogbiztonság működtetése. Amikor ezek a kiadások meghaladják a bevételeket, államháztartási hiány keletkezik.\n\n## Mit mutatnak a tudományos kutatások a hiány hatásairól?\n\nA gazdasági szakirodalom régóta vizsgálja, hogy a költségvetés egyensúlyának megbomlása milyen láncreakciókat indít el. Egy 1980 és 2019 közötti időszak adatait feldolgozó, az International Journal of Happiness and Development folyóiratban megjelent indiai vizsgálat az államháztartási hiány, az államadósság, a gazdasági növekedés és az egészségügyi kiadások összefüggéseit elemezte. Eredményeik azt mutatták, hogy bár rövid távon elsősorban a bruttó hazai termék (GDP) határozza meg az egészségügyi kiadások szintjét, hosszú távon szoros kapcsolat áll fenn a fenti tényezők között. A szerzők hangsúlyozzák, hogy a fegyelmezett költségvetési politika elengedhetetlen a közszolgáltatások fenntartásához.\n\nEgy másik, a Research Journal of Humanities and Social Sciences lapban publikált empirikus kutatás – amely az 1991 és 2015 közötti időszakot vizsgálta – még mélyebbre ásott. A statisztikai modellek alkalmazásával azt találták, hogy az államháztartási hiány és a gazdasági növekedés között hosszú távon negatív, de szignifikáns kapcsolat mutatható ki. A vektor autoregressziós elemzés rámutatott arra is, hogy az államháztartási hiány közvetlenül növeli az államadósságot, és egyirányú ok-okozati kapcsolat figyelhető meg a hiánytól az adósság, illetve az adósságtól a gazdasági növekedés felé.\n\n## Miért csúszhat meg a költségvetés a mindennapokban?\n\nA költségvetési hiány nem elvont statisztikai fogalom, hanem a reálgazdasági folyamatok tükröződése. Ha a tervezett adóbevételek elmaradnak – például egy gazdasági lassulás vagy a lakossági fogyasztás visszaesése miatt –, miközben a kiadásokat a törvényi kötelezettségek miatt nem lehet azonnal csökkenteni, a büdzsé azonnal mínuszba fordul. Az állam ekkor kénytelen hitelekhez nyúlni, ami növeli az államadósságot.\n\nA piacok és a hitelminősítők kifejezetten érzékenyen reagálnak arra, ha egy ország tartósan túllépi a tervezett hiánycélokat. Ha a fegyelem lazul, a befektetők nagyobb kockázatot látnak az ország papírjaiban, ami drágább állami hitelfelvételt, végső soron pedig gyengülő hazai fizetőeszközt és szűkülő mozgásteret eredményez a mindennapokban.",
+      "content_format": "markdown",
+      "body": [
+        "## Mi is az az államháztartás, és hová tűnnek a befizetett adóink?",
+        "Az államháztartás nem más, mint az állam gazdálkodási rendszerének egésze, amely magában foglalja a központi és a helyi kormányzatok bevételeit és kiadásait. Olyan közfeladatokat lát el a köz érdekében, amelyeket a gazdaság többi szereplője nem tudna egyedül megoldani. Ide tartozik az erőforrások megszerzése az allokáció révén, valamint a jövedelmi aránytalanságok korrigálása az újraelosztás útján. Az állam feladata továbbá a gazdasági növekedés feltételeinek megteremtése, a foglalkoztatás támogatása, valamint a jogi keretek kialakítása.",
+        "Magyarországon a rendszer két fő alrendszerből áll: a központi alrendszerből (melybe beletartoznak a társadalombiztosítási alapok és az elkülönített állami pénzalapok is) és az önkormányzati alrendszerből. A működés alapfeltétele a megfelelő pénzügyi egyensúly fenntartása, valamint a közpénzekkel való hatékony és ellenőrizhető gazdálkodás.",
+        "## Hogyan épül fel a közös kassza bevétele és kiadása?",
+        "Az állami kiadások fedezéséhez szükséges bevételek két nagy csoportra oszthatók jellegük alapján.",
+        "- Adók, vámok és illetékek, mint a legfőbb állami bevételek\n- Járulékok és hozzájárulások a társadalombiztosítás fenntartásához\n- Belső és külső hitelek az átmeneti finanszírozáshoz",
+        "A beszedett pénzeket az állam olyan kiadásokra fordítja, mint a szociális és egészségügyi ellátások biztosítása, a kultúra és oktatás fenntartása, valamint a honvédelem, a rend- és jogbiztonság működtetése. Amikor ezek a kiadások meghaladják a bevételeket, államháztartási hiány keletkezik.",
+        "## Mit mutatnak a tudományos kutatások a hiány hatásairól?",
+        "A gazdasági szakirodalom régóta vizsgálja, hogy a költségvetés egyensúlyának megbomlása milyen láncreakciókat indít el. Egy 1980 és 2019 közötti időszak adatait feldolgozó, az International Journal of Happiness and Development folyóiratban megjelent indiai vizsgálat az államháztartási hiány, az államadósság, a gazdasági növekedés és az egészségügyi kiadások összefüggéseit elemezte. Eredményeik azt mutatták, hogy bár rövid távon elsősorban a bruttó hazai termék (GDP) határozza meg az egészségügyi kiadások szintjét, hosszú távon szoros kapcsolat áll fenn a fenti tényezők között. A szerzők hangsúlyozzák, hogy a fegyelmezett költségvetési politika elengedhetetlen a közszolgáltatások fenntartásához.",
+        "Egy másik, a Research Journal of Humanities and Social Sciences lapban publikált empirikus kutatás – amely az 1991 és 2015 közötti időszakot vizsgálta – még mélyebbre ásott. A statisztikai modellek alkalmazásával azt találták, hogy az államháztartási hiány és a gazdasági növekedés között hosszú távon negatív, de szignifikáns kapcsolat mutatható ki. A vektor autoregressziós elemzés rámutatott arra is, hogy az államháztartási hiány közvetlenül növeli az államadósságot, és egyirányú ok-okozati kapcsolat figyelhető meg a hiánytól az adósság, illetve az adósságtól a gazdasági növekedés felé.",
+        "## Miért csúszhat meg a költségvetés a mindennapokban?",
+        "A költségvetési hiány nem elvont statisztikai fogalom, hanem a reálgazdasági folyamatok tükröződése. Ha a tervezett adóbevételek elmaradnak – például egy gazdasági lassulás vagy a lakossági fogyasztás visszaesése miatt –, miközben a kiadásokat a törvényi kötelezettségek miatt nem lehet azonnal csökkenteni, a büdzsé azonnal mínuszba fordul. Az állam ekkor kénytelen hitelekhez nyúlni, ami növeli az államadósságot.",
+        "A piacok és a hitelminősítők kifejezetten érzékenyen reagálnak arra, ha egy ország tartósan túllépi a tervezett hiánycélokat. Ha a fegyelem lazul, a befektetők nagyobb kockázatot látnak az ország papírjaiban, ami drágább állami hitelfelvételt, végső soron pedig gyengülő hazai fizetőeszközt és szűkülő mozgásteret eredményez a mindennapokban."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 3,
+      "word_count": 523,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-191494c5c1.jpg",
+        "kind": "photo",
+        "alt": "Hogyan csúszhat meg az állam pénztárcája?",
+        "credit": "Kollektíva",
+        "license": "saját grafika",
+        "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+        "generated": true,
+        "cover": true
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://doi.org/10.1504/ijhd.2022.124164",
+          "title": "Does fiscal deficit, public debt, economic growth and energy consumption affect health expenditure in India: an empirical evidence based ARDL bound testing approach",
+          "publisher": "International Journal of Happiness and Development, 2022",
+          "license": null,
+          "accessed_at": "2026-11-26T08:55:50+01:00"
+        },
+        {
+          "url": "https://doi.org/10.5958/2321-5828.2017.00003.1",
+          "title": "Fiscal deficit, public debt and economic growth relationship: An empirical investigation on indian economy",
+          "publisher": "Research Journal of Humanities and Social Sciences, 2017",
+          "license": null,
+          "accessed_at": "2026-11-26T08:55:50+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/%C3%81llamh%C3%A1ztart%C3%A1s",
+          "title": "Államháztartás",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-26T08:55:50+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-26T10:55:12+01:00"
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "science_based": true,
+      "category_meta": {
+        "source_links": [
+          "https://doi.org/10.1504/ijhd.2022.124164",
+          "https://doi.org/10.5958/2321-5828.2017.00003.1",
+          "https://hu.wikipedia.org/wiki/%C3%81llamh%C3%A1ztart%C3%A1s"
+        ],
+        "offtopic_id": "hir-allamhaztartasi-hiany-mechanizmusa"
+      },
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "url": "/penzvilag/2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja/",
+      "seo": {
+        "meta_title": "Hogyan csúszhat meg az állam pénztárcája?",
+        "meta_description": "Amikor az állam többet költ, mint amennyi adóbevétele származik, az nemcsak a makrogazdaság szintjén okoz fejfájást, hanem a mindennapi pénztárcánkat is közvetl",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja/",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "c275ed0de2de6b6895bea28fa98f6eeeac0c6d58a8cfdbe83ad75c10d1e3d4d7",
+      "pipeline_run_id": "45775172034",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-26T10:55:12+01:00",
+      "updated_at": "2026-11-26T10:55:12+01:00",
+      "published_at": "2026-11-26T10:55:12+01:00",
+      "expires_at": null
+    },
     {
       "id": "850f8967-a4e8-5cc6-b930-3d718acf9e0b",
       "slug": "2026-11-26-torlodasok-es-terelesek-igy-benitotta-meg-a-havazas-a-budapesti-buszk",
@@ -77793,108 +77918,6 @@
         "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg/1280px-Gosho_Aoyama_Manga_Factory_-_Agasa%27s_Volkswagen_2013-08-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
         "https://pixabay.com/get/gb4a29ef31a4631b90c5d520c1bb516520b5430f6991466376659ae3a2bc9fbb4688f7c2069a1b659c0189e9e3aef289963b64c78cedea3361718ee9d2a511dfe_1280.jpg"
       ]
-    },
-    {
-      "id": "8d0c0403-2efd-5fca-8871-bdf95f4d4311",
-      "slug": "2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal",
-      "status": "published",
-      "category": "kozelet",
-      "subcategory": null,
-      "tags": [
-        "M3-as autópálya",
-        "baleset",
-        "tűzeset",
-        "közlekedés",
-        "katasztrófavédelem"
-      ],
-      "title": "Lángoló kamion miatt áll az M3-as Budapestre vezető oldala Bagnál",
-      "subtitle": null,
-      "lead": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométernél. Az érintett sztrádaszakaszt teljes szélességében lezárták, ami miatt jelentős, legalább öt kilométeres torlódás alakult ki.",
-      "key_points": [
-        "Kigyulladt egy kamion az M3-as autópályán Bag közelében a 36-os kilométernél.",
-        "Az aszódi és gödöllői hivatásos tűzoltók két vízsugárral fékezték meg a lángokat.",
-        "A sztráda Budapest felé vezető oldalát teljes szélességében lezárták.",
-        "Az Útinform adatai szerint legalább öt kilométeres torlódás nehezíti a közlekedést."
-      ],
-      "content": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag térségében, a 36-os kilométerszelvénynél – írta a katasztrófavédelem. A járműtűz miatt azonnali beavatkozásra volt szükség a helyszínen.\n\nA lángok megfékezésére az aszódi és a gödöllői hivatásos tűzoltók vonultak ki, akik két vízsugárral oltották el a járművet.\n\nA mentési és oltási munkálatok idejére az érintett sztrádaszakaszt teljes szélességében lezárták a hatóságok. Az Útinform tájékoztatása alapján a korlátozás következtében legalább öt kilométeres torlódás alakult ki a főváros felé vezető oldalon, ami jelentős fennakadásokat okoz a közlekedésben.",
-      "content_format": "markdown",
-      "body": [
-        "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag térségében, a 36-os kilométerszelvénynél – írta a katasztrófavédelem. A járműtűz miatt azonnali beavatkozásra volt szükség a helyszínen.",
-        "A lángok megfékezésére az aszódi és a gödöllői hivatásos tűzoltók vonultak ki, akik két vízsugárral oltották el a járművet.",
-        "A mentési és oltási munkálatok idejére az érintett sztrádaszakaszt teljes szélességében lezárták a hatóságok. Az Útinform tájékoztatása alapján a korlátozás következtében legalább öt kilométeres torlódás alakult ki a főváros felé vezető oldalon, ami jelentős fennakadásokat okoz a közlekedésben."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 120,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/M3_-_freeway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 845,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "M3 freeway - Hungary - Europe",
-        "credit": "Unknown authorUnknown author / Wikimedia Commons",
-        "license": "CC BY-SA 2.5",
-        "source_url": "https://commons.wikimedia.org/wiki/File:M3_-_freeway.jpg",
-        "exact": true,
-        "entity": "M3-as autópálya"
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://telex.hu/belfold/2026/10/20/m3-utinform-baleset-kamion-tuz",
-          "title": "Kigyulladt egy kamion az M3-ason Bagnál",
-          "publisher": "telex.hu",
-          "license": null,
-          "accessed_at": "2026-10-20T07:34:30+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": null,
-        "reviewed_at": "2026-10-20T07:36:01+02:00"
-      },
-      "hot_score": 5,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://telex.hu/belfold/2026/10/20/m3-utinform-baleset-kamion-tuz"
-        ]
-      },
-      "date": "2026-10-20",
-      "date_label": "október 20.",
-      "url": "/kozelet/2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal/",
-      "seo": {
-        "meta_title": "Lángoló kamion miatt áll az M3-as Budapestre vezető oldala B",
-        "meta_description": "Kigyulladt egy kamion rakodótere az M3-as autópálya Budapest felé vezető oldalán, Bag közelében, a 36-os kilométernél. Az érintett sztrádaszakaszt teljes széles",
-        "canonical_url": "https://xn--kollektva-m5a.hu/kozelet/2026-10-20-langolo-kamion-miatt-all-az-m3-as-budapestre-vezeto-oldala-bagnal/",
-        "og_image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Malaysia_Federal_Highway_Traffic_Jam.jpg/1280px-Malaysia_Federal_Highway_Traffic_Jam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "cf284d811c4348ec43c167ab49a3ad2590cfeb6859864f40a919653647f76be7",
-      "pipeline_run_id": "39374489906",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T07:36:01+02:00",
-      "updated_at": "2026-10-20T05:44:09+00:00",
-      "published_at": "2026-10-20T07:36:01+02:00",
-      "expires_at": null,
-      "requested": true
     }
   ]
 }

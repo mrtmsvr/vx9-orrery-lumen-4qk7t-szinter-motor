@@ -2721,7 +2721,7 @@
     {
       "id": "eb38b81f-dc10-554a-af8c-71deeb34c56e",
       "slug": "2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja",
-      "status": "pending",
+      "status": "published",
       "category": "penzvilag",
       "subcategory": "olvasnivalo",
       "tags": [
@@ -2763,15 +2763,15 @@
       "word_count": 523,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/sajat-1795679740-0.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/sajat-1795679740-0.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-191494c5c1.jpg",
         "kind": "photo",
         "alt": "Hogyan csúszhat meg az állam pénztárcája?",
-        "likeness": false,
-        "credit": "Kollektíva illusztráció",
+        "credit": "Kollektíva",
         "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
-        "generated": true
+        "generated": true,
+        "cover": true
       },
       "inline_images": [],
       "sources": [
@@ -2859,6 +2859,17 @@
           "license": "saját grafika",
           "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
           "generated": true
+        },
+        {
+          "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
+          "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-191494c5c1.jpg",
+          "kind": "photo",
+          "alt": "Hogyan csúszhat meg az állam pénztárcája?",
+          "credit": "Kollektíva",
+          "license": "saját grafika",
+          "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
+          "generated": true,
+          "cover": true
         }
       ],
       "category_meta": {
@@ -2876,7 +2887,7 @@
         "meta_title": "Hogyan csúszhat meg az állam pénztárcája?",
         "meta_description": "Amikor az állam többet költ, mint amennyi adóbevétele származik, az nemcsak a makrogazdaság szintjén okoz fejfájást, hanem a mindennapi pénztárcánkat is közvetl",
         "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja/",
-        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/sajat-1795679740-0.jpg",
+        "og_image": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
         "noindex": false,
         "schema_type": "Article"
       },
@@ -2891,9 +2902,9 @@
       "dedupe_hash": "c275ed0de2de6b6895bea28fa98f6eeeac0c6d58a8cfdbe83ad75c10d1e3d4d7",
       "pipeline_run_id": "45775172034",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-11-26T08:55:50+01:00",
-      "updated_at": "2026-11-26T08:55:50+01:00",
-      "published_at": null,
+      "created_at": "2026-11-26T10:55:12+01:00",
+      "updated_at": "2026-11-26T10:55:12+01:00",
+      "published_at": "2026-11-26T10:55:12+01:00",
       "expires_at": null,
       "schedule": {
         "earliest": "2026-11-26T10:54:50+01:00",
@@ -2905,14 +2916,16 @@
       },
       "review": {
         "title": 0,
-        "image": 0,
+        "image": 2,
         "sent_at": "2026-11-26T07:55:52+00:00",
         "head": "🗓 SAJÁT (időzített) · <b>Pénzvilág</b> · forróság 0 · 3 forrás\n\n1) Hogyan csúszhat meg az állam pénztárcája?\n2) Mi az az államháztartási hiány, és miért érdekli ez önt?\n3) Amikor több folyik ki, mint be: a költségvetés titkai\n\n<b>Források:</b> International Journal of Happiness and Development, 2022, Research Journal of Humanities and Social Sciences, 2017, Wikipédia (hu)\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
         "lead": "Amikor az állam többet költ, mint amennyi adóbevétele származik, az nemcsak a makrogazdaság szintjén okoz fejfájást, hanem a mindennapi pénztárcánkat is közvetlenül érinti. Megvizsgáltuk, hogyan épül fel a közös kassza, és mi történik, amikor kibillen az egyensúly.",
         "ctl_photo": true,
         "control_id": 10719,
-        "msg_ids": []
-      }
+        "msg_ids": [],
+        "note": "🗓 Csendesebb időszak van, ezért kiraktam a saját anyagot. Az AI-képet (1. kép) nem raktam ki magától, helyette a 3. kép ment – ha jó az AI-kép, nyomj a Kép 1 gombra."
+      },
+      "live": true
     },
     {
       "id": "ef1b5201-fe3e-597a-9f3b-135526f19718",

@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "eb38b81f-dc10-554a-af8c-71deeb34c56e",
+      "slug": "2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja",
+      "url": "/penzvilag/2026-11-26-hogyan-csuszhat-meg-az-allam-penztarcaja/",
+      "title": "Hogyan csúszhat meg az állam pénztárcája?",
+      "lead": "Amikor az állam többet költ, mint amennyi adóbevétele származik, az nemcsak a makrogazdaság szintjén okoz fejfájást, hanem a mindennapi pénztárcánkat is közvetlenül érinti. Megvizsgáltuk, hogyan épül fel a közös kassza, és mi történik, amikor kibillen az egyensúly.",
+      "category": "penzvilag",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T10:55:12+01:00",
+      "published_at": "2026-11-26T10:55:12+01:00",
+      "reading_time_min": 3,
+      "hot_score": 0,
+      "offtopic": true,
+      "tags": [
+        "államháztartás",
+        "költségvetés",
+        "infláció",
+        "gazdaság",
+        "államadósság"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
+        "kind": "photo",
+        "alt": "Hogyan csúszhat meg az állam pénztárcája?",
+        "cover": true
+      }
+    },
+    {
       "id": "850f8967-a4e8-5cc6-b930-3d718acf9e0b",
       "slug": "2026-11-26-torlodasok-es-terelesek-igy-benitotta-meg-a-havazas-a-budapesti-buszk",
       "url": "/kozelet/2026-11-26-torlodasok-es-terelesek-igy-benitotta-meg-a-havazas-a-budapesti-buszk/",
@@ -4421,37 +4450,7 @@
         "pos": "top",
         "alt": "St David's Well, Snevice, Macedonia\nimage: a group of British soldiers sit and rest, with two mules or cattle standing between them. To the right a mule\n\ndrinks water from a trough."
       }
-    },
-    {
-      "id": "0763be45-ea86-5dd4-a569-fcaa0f777198",
-      "slug": "2026-11-14-szazmillios-lelepesi-penzzel-zavarna-haza-a-gyari-munkasokat-a-volksw",
-      "url": "/penzvilag/2026-11-14-szazmillios-lelepesi-penzzel-zavarna-haza-a-gyari-munkasokat-a-volksw/",
-      "title": "Százmilliós lelépési pénzzel zavarná haza a gyári munkásokat a Volkswagen",
-      "lead": "Akár a százmillió forintot is elérheti az a végkielégítési csomag, amellyel a Volkswagen az alacsonyabb és közepes jövedelmű munkatársait ösztönzi az önkéntes távozásra. A német autóipari óriás ezzel a drasztikus lépéssel gyorsítaná fel a 2030-ig tervezett, tízezres nagyságrendű létszámleépítést.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T18:54:54+01:00",
-      "published_at": "2026-11-14T18:54:54+01:00",
-      "reading_time_min": 3,
-      "hot_score": 6.29,
-      "tags": [
-        "Volkswagen",
-        "autóipar",
-        "leépítés",
-        "Németország",
-        "gazdaság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg/1280px-Wolfsburg%2C_Volkswagenwerk_--_2009_--_0822.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 854,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Wolfsburg Nord thermal power station (part of the Volkswagen factory, Wolfsburg, Lower Saxony, Germany)"
-      }
     }
   ],
-  "updated_at": "2026-11-26T10:13:22+01:00"
+  "updated_at": "2026-11-26T10:55:13+01:00"
 }
