@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "850f8967-a4e8-5cc6-b930-3d718acf9e0b",
+      "slug": "2026-11-26-torlodasok-es-terelesek-igy-benitotta-meg-a-havazas-a-budapesti-buszk",
+      "url": "/kozelet/2026-11-26-torlodasok-es-terelesek-igy-benitotta-meg-a-havazas-a-budapesti-buszk/",
+      "title": "Torlódások és terelések: így bénította meg a havazás a budapesti buszközlekedést",
+      "lead": "A kedvezőtlen időjárás és a havazás miatt több autóbusz nem jár, illetve módosított útvonalon közlekedik Budapesten és a fővárosi agglomerációban. A Budapesti Közlekedési Központ szerda este a Facebook-oldalán tájékoztatta az utasokat a járatokat érintő változásokról.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T08:54:48+01:00",
+      "published_at": "2026-11-26T08:54:48+01:00",
+      "reading_time_min": 3,
+      "hot_score": 10.12,
+      "tags": [
+        "BKK",
+        "időjárás",
+        "havazás",
+        "közlekedés",
+        "Budapest"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bor%C3%A1rosplatz%2C_Fahrgastinformation%2C_Unterf%C3%BChrung%2C_2026_Ferencv%C3%A1ros.jpg/1280px-Bor%C3%A1rosplatz%2C_Fahrgastinformation%2C_Unterf%C3%BChrung%2C_2026_Ferencv%C3%A1ros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Bus, BHÉV departures, underpass, snow melting, Siemens Combino tram on Petőfi Bridge bridgehead. - Boráros Square, Ferencváros district, Budapest, Hungary."
+      }
+    },
+    {
       "id": "4d2c25c0-bb1b-5411-bbb2-89d9812850b0",
       "slug": "2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-le-feriheg",
       "url": "/kozelet/2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-le-feriheg/",
@@ -4421,37 +4451,7 @@
         "pos": "center",
         "alt": "Wolfsburg Nord thermal power station (part of the Volkswagen factory, Wolfsburg, Lower Saxony, Germany)"
       }
-    },
-    {
-      "id": "0b5138b4-4107-572e-83e6-e0e310e3302d",
-      "slug": "2026-11-14-donbaszt-a-nato-ert-nepszavazast-iger-zelenszkij-az-amerikai-alkura",
-      "url": "/vilag/2026-11-14-donbaszt-a-nato-ert-nepszavazast-iger-zelenszkij-az-amerikai-alkura/",
-      "title": "Donbászt a NATO-ért? Népszavazást ígér Zelenszkij az amerikai alkura",
-      "lead": "Az amerikai tárgyalók felvetették, hogy Ukrajna vonja vissza fennmaradó csapatait a keleti Donbász régióból a NATO-tagságért cserébe. Volodimir Zelenszkij ukrán elnök kijelentette, hogy egy ilyen horderejű döntést csak népszavazással hagyna jóvá.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T18:01:34+01:00",
-      "published_at": "2026-11-14T18:01:34+01:00",
-      "reading_time_min": 2,
-      "hot_score": 10.55,
-      "tags": [
-        "Volodimir Zelenszkij",
-        "NATO",
-        "Donbasz",
-        "egyesült államok",
-        "orosz-ukrán háború"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1280px-Brussels_NATO_Headquarters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 642,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "NATO Headquarters in Brussels."
-      }
     }
   ],
-  "updated_at": "2026-11-26T08:48:18+01:00"
+  "updated_at": "2026-11-26T08:54:50+01:00"
 }
