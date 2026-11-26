@@ -1,6 +1,34 @@
 {
   "articles": [
     {
+      "id": "2153c86a-41aa-506b-b9e0-ae4202a35c21",
+      "slug": "2026-11-26-igy-csereli-le-a-tv2-az-azsia-expresszt-innen-folytatodik-a-het",
+      "url": "/bulvar/2026-11-26-igy-csereli-le-a-tv2-az-azsia-expresszt-innen-folytatodik-a-het/",
+      "title": "Így cseréli le a TV2 az Ázsia Expresszt: innen folytatódik a hét",
+      "lead": "Az Ördög Nóra vezette Ázsia Expressz a héten búcsúzik a képernyőtől, november 27-én, pénteken ugyanis lefut a kalandreality fináléja a TV2-n. A nézők azonban nem maradnak főműsoridős izgalmak nélkül, hiszen november 30-tól már érkezik is az új műsor.",
+      "category": "bulvar",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T11:36:39+01:00",
+      "published_at": "2026-11-26T11:36:39+01:00",
+      "reading_time_min": 1,
+      "hot_score": 12,
+      "tags": [
+        "Ázsia Expressz",
+        "TV2",
+        "Ördög Nóra",
+        "Kincsvadászok",
+        "műsorváltozás"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-941d27d4f9.jpg",
+        "kind": "photo",
+        "alt": "3 – legjobb páros",
+        "card": "num"
+      }
+    },
+    {
       "id": "ef1b5201-fe3e-597a-9f3b-135526f19718",
       "slug": "2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal",
       "url": "/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
@@ -4418,37 +4446,7 @@
         "alt": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
         "cover": true
       }
-    },
-    {
-      "id": "e21acd17-db58-5a20-8652-907143cebb6b",
-      "slug": "2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton",
-      "url": "/kozelet/2026-11-14-villamos-ala-szorult-egy-fiatal-a-nagykoruton/",
-      "title": "Villamos alá szorult egy fiatal a Nagykörúton",
-      "lead": "Súlyos, de nem életveszélyes sérülésekkel szállítottak kórházba egy 17 éves fiút, akit péntek este gázolt el a villamos Budapesten. A szerelvény alá szorult fiatal kiszabadítása közel fél órát vett igénybe.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T19:47:35+01:00",
-      "published_at": "2026-11-14T19:47:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 12,
-      "tags": [
-        "baleset",
-        "villamos",
-        "Budapest",
-        "katasztrófavédelem",
-        "Nagykörút"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Ganz_tram_Budapest_September_2013.JPG/1280px-Ganz_tram_Budapest_September_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 832,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "A Ganz tram in Budapest."
-      }
     }
   ],
-  "updated_at": "2026-11-26T11:29:12+01:00"
+  "updated_at": "2026-11-26T11:36:42+01:00"
 }
