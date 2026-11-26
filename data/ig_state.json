@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "da03715cda",
-      "art_id": "d15cd546-bbf8-5ebe-aed4-a0ba9e398fde",
-      "title": "Tejpiaci válság: csökkenő európai állomány és bizonytalan jövő",
-      "url": "/vilag/2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jovo/",
-      "card": "public/img/ig/2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jo.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-tejpiaci-valsag-csokkeno-europai-allomany-es-bizonytalan-jo.jpg",
-      "caption": "Tejpiaci válság: csökkenő európai állomány és bizonytalan jövő\n\nDrasztikus kínálatcsökkenés fenyegeti az ötvenmilliárd literes európai tejpiacot, miközben Magyarországon a termelői árak zuhanása taszította nehéz helyzetbe a gazdákat. A strukturális változások és a szigorodó környezetvédelmi előírások alapjaiban írják át a kontinentális tejágazat működését.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#tejtermelés #mezőgazdaság #európaiunió #hírek #kollektíva",
-      "created": "2026-10-17T16:30:12+02:00",
-      "due": "2026-10-17T17:15:12+02:00",
-      "status": "failed",
-      "tg": [
-        7294,
-        7295
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "021b7fc603",
       "art_id": "6caf8a8f-3c11-5978-b3ce-0f57c034a341",
       "title": "Milliárdos csata bontakozik ki a merevlemezek legapróbb alkatrészéért",
@@ -3615,18 +3598,33 @@
       "container": "18141264895718522",
       "media_id": "17918793042557793",
       "posted": "2026-11-26T09:11:09+01:00"
+    },
+    {
+      "id": "2d901aff4c",
+      "art_id": "4d2c25c0-bb1b-5411-bbb2-89d9812850b0",
+      "title": "Négy bőrönd, hetvenkét kiló zöld: holland drogfutárok buktak le Ferihegyen",
+      "url": "/kozelet/2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-le-feriheg/",
+      "card": "public/img/ig/2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-26-negy-borond-hetvenket-kilo-zold-holland-drogfutarok-buktak-.jpg",
+      "caption": "Négy bőrönd, hetvenkét kiló zöld: holland drogfutárok buktak le Ferihegyen\n\nTöbb mint hetvenkét kilogramm marihuánát találtak két holland férfi poggyászában a Liszt Ferenc Nemzetközi Repülőtéren. Az utasokat a Nemzeti Adó- és Vámhivatal pénzügyőrei és a rendőrség fogta el, miután Bangkokból, Dohán keresztül Budapestre utaztak.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#bűnügy #ferihegy #belföld #hírek #magyarország",
+      "created": "2026-11-26T11:07:31+01:00",
+      "due": "2026-11-26T11:52:31+01:00",
+      "status": "queued",
+      "tg": [
+        10721
+      ]
     }
   ],
   "token": {
     "from": "869d20647902",
     "first_seen": "2026-10-06T22:54:59+02:00",
-    "checked": "2026-11-19T11:06:59+01:00",
+    "checked": "2026-11-26T11:07:31+01:00",
     "box": {
-      "n": "0RKEyLPz8vL9KjUfkfua4g==",
-      "c": "Gh0vdzXlUyLG/WmYK1NBfd6y1lqukNUD1Oba52xWLhEltrFDS5oVkptQkTQ+FhKs7ti0+MY+Z/g2xko4uYdOxFyJhk10WFR25iWMceX3R2wTAp4l+R6/B9ASPGyXbGIN585AA8o8UihGicNCU5pWnLWHzVx7IKUe8N2Pzj/FoiThiBHLKJuWvLVEasxkCFSgzd/6YEy2q+fTIQb/D1a74w==",
-      "m": "0321a40045ba6dfaa3629db438dda7fb189779857df2158196696885e7fd3244"
+      "n": "3iCKmMtjnwrqWgc+GQs4KQ==",
+      "c": "zfbZKHVdEZhSbp9MQIsBSLu3SWoWW63I2SDmujtyXW21okFzWR3x8+hkLiDKZjfwPbueBe8hMNcFhEsoCpfJj9+dp3UR0yv5TY5+bgiSvqeukazdfff5ZqvpgEwvYAyv3Nkp0un0YA3Ap67GCdMsyYwJFBezbXp6wh/XNXvBC7fytCX5IF04BJOVyAkxLK7CuLZnpkIzwnmABR4IGlg=",
+      "m": "b48943c9e1a444f9caad959afaee8502f66ea1d54681c7def9d9b9770249267e"
     },
-    "expires": "2027-01-18T11:06:58+01:00"
+    "expires": "2027-01-25T11:07:31+01:00"
   },
   "uid": "17841421555639801"
 }
