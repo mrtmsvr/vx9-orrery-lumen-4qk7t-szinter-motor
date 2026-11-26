@@ -47,15 +47,15 @@
       "word_count": 523,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-191494c5c1.jpg",
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/cover-191494c5c1.jpg",
+        "url": "https://xn--kollektva-m5a.hu/public/img/gen/num-af8eefe5d6.jpg",
+        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/gen/num-af8eefe5d6.jpg",
         "kind": "photo",
-        "alt": "Hogyan csúszhat meg az állam pénztárcája?",
-        "credit": "Kollektíva",
+        "alt": "0 Ft – Hiányzó milliárdok az államháztartási egyensúlyban",
+        "credit": "Kollektíva grafika",
         "license": "saját grafika",
         "source_url": "https://xn--kollektva-m5a.hu/info/#impresszum",
         "generated": true,
-        "cover": true
+        "card": "num"
       },
       "inline_images": [],
       "sources": [
@@ -123,7 +123,7 @@
       "pipeline_run_id": "45775172034",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-26T10:55:12+01:00",
-      "updated_at": "2026-11-26T10:55:12+01:00",
+      "updated_at": "2026-11-26T10:01:27+00:00",
       "published_at": "2026-11-26T10:55:12+01:00",
       "expires_at": null
     },
