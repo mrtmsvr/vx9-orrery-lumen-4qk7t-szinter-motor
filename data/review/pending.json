@@ -3189,6 +3189,176 @@
         "control_id": 10719,
         "msg_ids": []
       }
+    },
+    {
+      "id": "ef1b5201-fe3e-597a-9f3b-135526f19718",
+      "slug": "2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal",
+      "status": "pending",
+      "category": "penzvilag",
+      "subcategory": "olvasnivalo",
+      "tags": [
+        "okostelefonos parkolás",
+        "Belváros parkolás",
+        "rendszámfelismerő ellenőrzés",
+        "V. kerület parkolás"
+      ],
+      "title": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+      "subtitle": null,
+      "lead": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoftverre támaszkodik. Az V. kerületben saját erőből, magyar partnercégek segítségével hozták létre ezt a költséghatékony technológiát.",
+      "key_points": [
+        "Az V. kerületben (Belváros-Lipótváros) saját fejlesztésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert vezettek be.",
+        "A szoftvert házon belül fejlesztették ki magyar partnercégek segítségével 2023 és 2024 között.",
+        "A technológia nem igényel különösebb hardverelemeket, mert a szükséges adatokat okostelefon segítségével dolgozza fel.",
+        "Az ellenőrzés hatékonysága a korábbi módszerekhez képest rollerek használatakor háromszorosára, autók használatakor pedig ötszörösére-hatszorosára nőhet."
+      ],
+      "content": "## Miért volt szükség az új parkolás-ellenőrzési rendszerre a Belvárosban?\n\nA korábbi gyakorlatot a szakemberek elavultnak minősítették. A régi módszer szerint a parkolóellenőrnek oda kellett sétálnia az autóhoz, majd egy kézi számítógépbe folyamatosan be kellett pötyögnie a rendszámokat. Ez a lassú folyamat jelentősen visszatartotta a hatékony ellenőrzést. Ezt a problémát oldotta meg a Belváros-Lipótváros, amikor ahelyett, hogy milliárdos külső rendszerekre várt volna, önerőből fejlesztette ki a kamerás rendszámfelismerő eljárást.\n\n## Hogyan működik a kamerás okostelefonos ellenőrzés?\n\nA technológia alapja egy kifejezetten egyszerű rendszer, amely négy kamerakép adataira támaszkodva folyamatosan ellenőrzi a mobilitást, a jogosultságokat és az engedélyeket az adott területen. A Belvárosban jelenleg hibrid módon, gyalogosan, autókkal és rollerekkel járják az utcákat az ellenőrök. A rendszer legnagyobb előnye, hogy különleges, drága hardverek nélkül működik: a különböző kamerák és egyéb eszközök egy okostelefon segítségével önmagukban képesek megoldani a parkolás-ellenőrzést.\n\n## Mennyivel lett hatékonyabb az új technológia?\n\nA hatékonyságnövekedés mértéke közvetlenül függ attól, hogy milyen eszközzel végzik az ellenőrzést. A fejlesztést irányító Szél Péter informatikai vezető adatai szerint a rollerek esetében akár háromszorosára, míg az autók használatakor akár ötszörösére vagy hatszorosára is nőhet az ellenőrzési ráta a korábbi kézi pötyögéshez képest.\n\n## Mikor vezették be ezt a rendszert?\n\nA saját készítésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert 2023 és 2024 között alakították ki és vezették be a helyi viszonyokhoz igazodva, magyar partnercégek közreműködésével.\n\n## Gyakori kérdések\n\n- **Mennyibe került a rendszer kifejlesztése?** A háttéranyagok konkrét pénzbeli összeget nem említenek a fejlesztési költségekre vonatkozóan, csupán azt hangsúlyozzák, hogy milliárdos külső beszerzések helyett olcsó okostelefonos és saját fejlesztésű megoldást alkalmaznak.\n- **Szükséges-e különleges hardver az ellenőrzéshez?** Nem, a rendszer nem igényel különösebb hardverelemeket, a kamerák adatai okostelefon segítségével működnek.\n- **Milyen eszközökkel végzik az ellenőrzést a Belvárosban?** Hibrid módon, gyalogosan, valamint autókkal és rollerekkel járják az utcákat az ellenőrök.",
+      "content_format": "markdown",
+      "body": [
+        "## Miért volt szükség az új parkolás-ellenőrzési rendszerre a Belvárosban?",
+        "A korábbi gyakorlatot a szakemberek elavultnak minősítették. A régi módszer szerint a parkolóellenőrnek oda kellett sétálnia az autóhoz, majd egy kézi számítógépbe folyamatosan be kellett pötyögnie a rendszámokat. Ez a lassú folyamat jelentősen visszatartotta a hatékony ellenőrzést. Ezt a problémát oldotta meg a Belváros-Lipótváros, amikor ahelyett, hogy milliárdos külső rendszerekre várt volna, önerőből fejlesztette ki a kamerás rendszámfelismerő eljárást.",
+        "## Hogyan működik a kamerás okostelefonos ellenőrzés?",
+        "A technológia alapja egy kifejezetten egyszerű rendszer, amely négy kamerakép adataira támaszkodva folyamatosan ellenőrzi a mobilitást, a jogosultságokat és az engedélyeket az adott területen. A Belvárosban jelenleg hibrid módon, gyalogosan, autókkal és rollerekkel járják az utcákat az ellenőrök. A rendszer legnagyobb előnye, hogy különleges, drága hardverek nélkül működik: a különböző kamerák és egyéb eszközök egy okostelefon segítségével önmagukban képesek megoldani a parkolás-ellenőrzést.",
+        "## Mennyivel lett hatékonyabb az új technológia?",
+        "A hatékonyságnövekedés mértéke közvetlenül függ attól, hogy milyen eszközzel végzik az ellenőrzést. A fejlesztést irányító Szél Péter informatikai vezető adatai szerint a rollerek esetében akár háromszorosára, míg az autók használatakor akár ötszörösére vagy hatszorosára is nőhet az ellenőrzési ráta a korábbi kézi pötyögéshez képest.",
+        "## Mikor vezették be ezt a rendszert?",
+        "A saját készítésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert 2023 és 2024 között alakították ki és vezették be a helyi viszonyokhoz igazodva, magyar partnercégek közreműködésével.",
+        "## Gyakori kérdések\n\n- **Mennyibe került a rendszer kifejlesztése?** A háttéranyagok konkrét pénzbeli összeget nem említenek a fejlesztési költségekre vonatkozóan, csupán azt hangsúlyozzák, hogy milliárdos külső beszerzések helyett olcsó okostelefonos és saját fejlesztésű megoldást alkalmaznak.\n- **Szükséges-e különleges hardver az ellenőrzéshez?** Nem, a rendszer nem igényel különösebb hardverelemeket, a kamerák adatai okostelefon segítségével működnek.\n- **Milyen eszközökkel végzik az ellenőrzést a Belvárosban?** Hibrid módon, gyalogosan, valamint autókkal és rollerekkel járják az utcákat az ellenőrök."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 325,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://pixabay.com/get/gccf3ac4461677abef979149cfb451ec9a88882d8de7c97053d2671836f71bb94aa260c27c24d5267ec3ef080466cfdff8deaa2356f868b761bcc7a6d5a8f2811_1280.jpg",
+        "width": 3000,
+        "height": 2000,
+        "kind": "photo",
+        "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int",
+        "credit": "StartupStockPhotos / Pixabay",
+        "license": "Pixabay License",
+        "source_url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/",
+        "vision_score": 5.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=x1rhq2JAVNk",
+          "title": "Nem vártak, önerőből fejlesztették ki a rendszámfelismerő parkolásellenőrzést a Belvárosban",
+          "publisher": "Telex․hu",
+          "license": null,
+          "accessed_at": "2026-11-26T09:25:22+01:00"
+        },
+        {
+          "url": "https://hu.wikipedia.org/wiki/Parkol%C3%A1si_d%C3%ADj",
+          "title": "Parkolási díj",
+          "publisher": "Wikipédia (hu)",
+          "license": "CC BY-SA 4.0",
+          "accessed_at": "2026-11-26T09:25:22+01:00"
+        }
+      ],
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "offtopic-v2-science",
+        "reviewed_by": null,
+        "reviewed_at": null
+      },
+      "hot_score": 0,
+      "offtopic": true,
+      "offtopic_topic": {
+        "id": "q-egyseges-uzleti-okostelefon-parkolas",
+        "section": "penzvilag",
+        "topic": "mennyibe kerül az okostelefonos parkolás",
+        "angle": "hogyan oldotta meg a Belváros a parkolást milliárdok helyett olcsó okostelefonnal",
+        "wiki_hu": [
+          "Parkolás"
+        ],
+        "images": [
+          "smartphone parking meter urban city"
+        ],
+        "search": true,
+        "news": [
+          {
+            "kind": "news",
+            "url": "https://www.youtube.com/watch?v=x1rhq2JAVNk",
+            "title": "Nem vártak, önerőből fejlesztették ki a rendszámfelismerő parkolásellenőrzést a Belvárosban",
+            "publisher": "Telex․hu",
+            "text": "Saját fejlesztésű, kamerás rendszámfelismerő rendszert vezetett be az V. kerület, amely drága hardverek nélkül, mobilos segítséggel gyorsítja fel a parkolás-ellenőrzést. Az új technológiával akár ötszörösére-hatszorosára is nőhet a hatékonyság a korábbi módszerekhez képest.\nAz V. kerületben (Belváros-Lipótváros) saját készítésű, kamerás rendszámfelismerő parkolás-ellenőrzési rendszert vezettek be, miután a korábbi kézi számítógépes módszert elavultnak találták. A Telex.hu videójában szereplő Szél Péter informatikai vezető elmondása szerint házon belül fejlesztették ki a rendszert magyar partnercégek segítségével 2023–2024-re, igazodva a helyi viszonyokhoz. A korábbi gyakorlatot a videóban úgy jellemezték, hogy az egy kőkorszaki megoldás volt, hiszen a parkolóellenőrnek oda kellett mennie az autóhoz, és egy kis kézi számítógépbe folyamatosan be kellett pötyögnie a rendszámokat, ami jelentősen lelassította az ellenőrzés egész folyamatát.\nA rendszer négy kamerakép adataira támaszkodva folyamatosan ellenőrzi a mobilitást, a jogosultságokat és az engedélyeket az adott területen. A Belvárosban jelenleg hibrid módon, gyalogosan, autókkal és rollerekkel járják az utcákat az ellenőrök. Szél Péter rámutatott, hogy a megoldás kifejezetten egyszerű compact rendszeren alapul, amely nem igényel túlzott plusz hardverelemeket, mert a különféle kamerák és egyéb eszközök egy normális mobiltelefon segítségével önmagukban képesek megoldani a parkolás-ellenőrzést.\nA hatékonyságnövekedés mértéke a használt eszköztől függően a többszörösére emelkedhet a korábbi gyakorlathoz képest. Szél Péter kiemelte, hogy a rollerek esetében akár háromszorosára, míg az autók használatakor akár ötszörösére vagy hatszorosára is nőhet az ellenőrzési ráta és a hatékonyság."
+          }
+        ],
+        "wiki_en": []
+      },
+      "science_based": true,
+      "title_options": [
+        "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+        "Mennyibe kerül az okostelefonos parkolás az V. kerületben?",
+        "Hogyan működik az okostelefonos parkolás-ellenőrzés milliárdok helyett?"
+      ],
+      "image_options": [
+        {
+          "url": "https://pixabay.com/get/gccf3ac4461677abef979149cfb451ec9a88882d8de7c97053d2671836f71bb94aa260c27c24d5267ec3ef080466cfdff8deaa2356f868b761bcc7a6d5a8f2811_1280.jpg",
+          "width": 3000,
+          "height": 2000,
+          "kind": "photo",
+          "alt": "student, typing, keyboard, text, startup, people, students, office, strategy, work, technology, company, corporate, communication, young, plan, marketing, computer, design, professional, planning, int",
+          "credit": "StartupStockPhotos / Pixabay",
+          "license": "Pixabay License",
+          "source_url": "https://pixabay.com/photos/student-typing-keyboard-text-849825/",
+          "vision_score": 5.0
+        }
+      ],
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=x1rhq2JAVNk",
+          "https://hu.wikipedia.org/wiki/Parkol%C3%A1si_d%C3%ADj"
+        ],
+        "offtopic_id": "q-egyseges-uzleti-okostelefon-parkolas"
+      },
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "url": "/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
+      "seo": {
+        "meta_title": "Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?",
+        "meta_description": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoft",
+        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-11-26-hogyan-ellenorzi-a-parkolast-az-v-kerulet-okostelefonnal/",
+        "og_image": "https://pixabay.com/get/gccf3ac4461677abef979149cfb451ec9a88882d8de7c97053d2671836f71bb94aa260c27c24d5267ec3ef080466cfdff8deaa2356f868b761bcc7a6d5a8f2811_1280.jpg",
+        "noindex": false,
+        "schema_type": "Article"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "dedupe_hash": "b5a4c21c063f9c039f12e5bed05a1c1cd0f9a02ba95aa04ae5e735163ab30bef",
+      "pipeline_run_id": "45778911258",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-26T09:25:22+01:00",
+      "updated_at": "2026-11-26T09:25:22+01:00",
+      "published_at": null,
+      "expires_at": null,
+      "schedule": {
+        "earliest": "2026-11-26T11:19:32+01:00",
+        "deadline": "2026-11-26T21:30:00+01:00"
+      },
+      "legal": {
+        "level": 0,
+        "issues": []
+      },
+      "review": {
+        "title": 0,
+        "image": 0,
+        "sent_at": "2026-11-26T08:26:00+00:00",
+        "head": "🗓 SAJÁT (időzített) · <b>Pénzvilág</b> · forróság 0 · 2 forrás\n\n1) Hogyan ellenőrzi a parkolást az V. kerület okostelefonnal?\n2) Mennyibe kerül az okostelefonos parkolás az V. kerületben?\n3) Hogyan működik az okostelefonos parkolás-ellenőrzés milliárdok helyett?\n\n<b>Források:</b> Telex․hu, Wikipédia (hu)\n\n⚖️ Jogi ellenőrzés: 🟢 nincs jelzés",
+        "lead": "Az okostelefonos parkolás-ellenőrzés ára nem igényel milliárdos beruházásokat, mivel a rendszer drága hardverek helyett okostelefonra és saját fejlesztésű szoftverre támaszkodik. Az V. kerületben saját erőből, magyar partnercégek segítségével hozták létre ezt a költséghatékony technológiát.",
+        "ctl_photo": false,
+        "control_id": 10720,
+        "msg_ids": []
+      }
     }
   ]
 }
