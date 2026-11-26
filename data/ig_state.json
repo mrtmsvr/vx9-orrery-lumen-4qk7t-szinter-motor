@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "9d86d6e715",
-      "art_id": "0dda1bf0-aee3-5e86-a96b-d7aa5095f8cd",
-      "title": "Mesterséges intelligencia buktatta le a rangos mikroszkópfotó-pályázat győztesét",
-      "url": "/tech/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfoto-palyaza/",
-      "card": "public/img/ig/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfo.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-mesterseges-intelligencia-buktatta-le-a-rangos-mikroszkopfo.jpg",
-      "caption": "Mesterséges intelligencia buktatta le a rangos mikroszkópfotó-pályázat győztesét\n\nVisszavették a fődíjat egy rangos mikroszkópos pályázat győztesétől, miután kiderült, hogy a beküldött felvétel mesterséges intelligenciával generált részleteket tartalmaz. Az eset ismét rávilágított arra, hol húzódik a határ a tudományos hitelesség és a megtévesztés között a digitális utómunka világában.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#mesterségesintelligencia #tudomány #mikroszkóp #hírek #kollektíva",
-      "created": "2026-10-17T18:12:28+02:00",
-      "due": "2026-10-17T18:57:28+02:00",
-      "status": "failed",
-      "tg": [
-        7299,
-        7300
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "29ed04c26d",
       "art_id": "a1f9247f-7d7c-5abe-b204-17a6149cad1f",
       "title": "Háromszáz emberrel borult fel egy menekülthajó a Vörös-tengernél",
@@ -3617,6 +3600,21 @@
       "container": "18141315460718522",
       "media_id": "18131594678297509",
       "posted": "2026-11-26T14:34:59+01:00"
+    },
+    {
+      "id": "3743733e6e",
+      "art_id": "645706bd-dda3-5b17-8473-49078cf758b7",
+      "title": "Vitézy Dávidot és a MÁV-vezért citálja a Fidesz a peronon vonszolt egyetemista ügyében",
+      "url": "/kozelet/2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-vonszolt-eg/",
+      "card": "public/img/ig/2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-v.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-v.jpg",
+      "caption": "Vitézy Dávidot és a MÁV-vezért citálja a Fidesz a peronon vonszolt egyetemista ügyében\n\nSoron kívüli parlamenti meghallgatást kezdeményezett a Fidesz a mezőkövesdi vonatbaleset ügyében, amelyben egy húszéves egyetemista életveszélyes sérüléseket szenvedett. A lányra rácsukódott a vonat ajtaja az állomáson, a jármű pedig elindult, több száz méteren keresztül húzta magával.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#vitézydávid #máv #belföld #hírek #magyarország",
+      "created": "2026-11-26T16:30:54+01:00",
+      "due": "2026-11-26T17:15:54+01:00",
+      "status": "queued",
+      "tg": [
+        10729
+      ]
     }
   ],
   "token": {
