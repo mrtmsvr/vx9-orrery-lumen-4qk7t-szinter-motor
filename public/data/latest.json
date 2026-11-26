@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "fef7aa39-b008-566b-9681-6a133f208d76",
+      "slug": "2026-11-26-mav-gyorssegely-es-veradas-a-mezokovesdi-vonatszerencsetlenseg-utan",
+      "url": "/kozelet/2026-11-26-mav-gyorssegely-es-veradas-a-mezokovesdi-vonatszerencsetlenseg-utan/",
+      "title": "MÁV-gyorssegély és véradás a mezőkövesdi vonatszerencsétlenség után",
+      "lead": "Ötmillió forint azonnali gyorssegélyt biztosít a MÁV-csoport a mezőkövesdi vasúti balesetben súlyosan megsérült 18 éves lány, Viviána családjának, miközben a hatóságok vizsgálják a tragédia körülményeit. A fiatal továbbra is kritikus állapotban van, a család pedig véradásra kérte a lakosságot.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T12:58:19+01:00",
+      "published_at": "2026-11-26T12:58:19+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12.35,
+      "tags": [
+        "vonatbaleset",
+        "Mezőkövesd",
+        "MÁV",
+        "Vitézy Dávid",
+        "véradás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Gare%2C_2018_Mez%C5%91k%C3%B6vesd.jpg/1280px-Gare%2C_2018_Mez%C5%91k%C3%B6vesd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": ": Traffic control? biuilding, Railway station in Mezőkövesd, Borsod-Abaúj-Zemplén County, Hungary."
+      }
+    },
+    {
       "id": "2153c86a-41aa-506b-b9e0-ae4202a35c21",
       "slug": "2026-11-26-igy-csereli-le-a-tv2-az-azsia-expresszt-innen-folytatodik-a-het",
       "url": "/bulvar/2026-11-26-igy-csereli-le-a-tv2-az-azsia-expresszt-innen-folytatodik-a-het/",
@@ -4418,35 +4448,7 @@
         "pos": "center",
         "alt": "A composite triptych portrait of Donald Trump, Elon Musk, Xi Jinping, and Vladimir Putin."
       }
-    },
-    {
-      "id": "6f4781a7-4fd7-5da3-ae13-71e0bfc8749b",
-      "slug": "2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet",
-      "url": "/kozelet/2026-11-14-a-generacios-szegenyseg-valosaga-nem-a-korrupcio-hanem-a-betevo-a-tet/",
-      "title": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
-      "lead": "A választások után sokan csodavárással, míg a kistelepüléseken élők mély szorongással tekintenek a jövőre. L. Ritók Nóra esélyegyenlőségi szakértő a Partizán műsorában arról beszélt, hogy a generációs szegénységben élők mindennapjait teljesen más kérdések határozzák meg, mint a nagypolitikai vitákat.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-14",
-      "date_label": "november 14.",
-      "created_at": "2026-11-14T20:19:02+01:00",
-      "published_at": "2026-11-14T20:19:02+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "L. Ritók Nóra",
-        "Partizán",
-        "szegénység",
-        "esélyegyenlőség",
-        "társadalom"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/cover-f8cdeb3c3b.jpg",
-        "kind": "photo",
-        "alt": "A generációs szegénység valósága: nem a korrupció, hanem a betevő a tét",
-        "cover": true
-      }
     }
   ],
-  "updated_at": "2026-11-26T11:36:42+01:00"
+  "updated_at": "2026-11-26T12:58:22+01:00"
 }
