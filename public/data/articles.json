@@ -1,7 +1,119 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T19:42:30+01:00",
+  "updated_at": "2026-11-26T20:08:50+01:00",
   "articles": [
+    {
+      "id": "2ab25dc0-3b95-5d06-9b8d-10488bb05c6e",
+      "slug": "2026-11-26-nem-vagyunk-onalloak-a-belrendszerunk-iranyitja-a-gondolatainkat-is",
+      "status": "published",
+      "category": "kultura",
+      "subcategory": null,
+      "tags": [
+        "tudomány",
+        "biológia",
+        "puzsér róbert",
+        "pszichológia",
+        "szélsőközép"
+      ],
+      "title": "Nem vagyunk önállóak: a bélrendszerünk irányítja a gondolatainkat is",
+      "subtitle": null,
+      "lead": "Az elme működése elválaszthatatlan a testi funkcióktól és a mikrobiomunktól egy friss beszélgetés tanúsága szerint. A tudomány mai állása alapján a tiszta racionalitás csupán egy mítosz.",
+      "key_points": [
+        "A Szélsőközép műsorában Puzsér Róbert és dr. Kékesi Balázs biológus beszélgetett a megtestesült elme elméletéről.",
+        "A mikrobiom és az emésztés közvetlenül befolyásolják a mentális állapotot és a döntéshozatalt.",
+        "A karteziánus dualizmus leegyszerűsítő modell, az elme és a test folyamatos kölcsönhatásban áll."
+      ],
+      "content": "Hol ér véget a testünk, és hol kezdődik az elménk? Ez a kérdés állt a Szélsőközép legutóbbi adásának középpontjában, amelyben Puzsér Róbert vendége dr. Kékesi Balázs biológus volt. A beszélgetés alapkövét az úgynevezett „embodied mind”, vagyis a megtestesült elme koncepciója képezte, amely szerint az ember nem működhet a biológiai folyamataitól független, autonóm entitásként. A felek részletesen elemezték, hogyan dől meg a tiszta racionalitás mítosza a mindennapi biológiai valóságban, és miként irányítják a döntéseinket olyan rejtett tényezők, mint az emésztésünk vagy a bennünk lakó mikroorganizmusok.\n\nA biológus a műsorban kifejtette, hogy a bennünk élő mikrobiom, az emésztés és a fizikai állapotunk alapvetően határozza meg a gondolatainkat, sőt, a műsorban elhangzottak szerint a depresszióhoz hasonló mentális állapotokat is érdemben befolyásolja. Ezzel a szemlélettel nyíltan szembefordultak a karteziánus dualizmussal, amelyet elavultnak és hibásnak neveztek, mivel élesen elválasztja egymástól a testet és a szellemet. Kékesi Balázs magyarázata szerint a test és az elme nem két különálló szféra, hanem egyetlen, folyamatos kölcsönhatásban álló rendszer, amelyben a biológiai funkciók közvetlenül formálják a szellemi állapotot.\n\nA biológiai meghatározottság mellett a társadalmi környezet hatásai is terítékre kerültek a stúdióban, hiszen a külső tényezők éppúgy formálják a belső folyamatokat, mint fordítva. A beszélgetés során megkerülhetetlen volt a „narratív self” fogalma is, amellyel azt írták le, hogy az énünk nem egy fix pont, hanem történetekből felépülő konstrukció. Kékesi Balázs úgy fogalmazott, hogy az énünk olyan történetekből áll, amelyeket a biológiai és a társadalmi közegünk közösen alakít. Ez a megközelítés rávilágít arra, hogy a személyiségünk nem egy kész, veleszületett program, hanem a testi működésünk és a minket érő külső hatások folyamatos szövevénye.\n\nA tudományos kitekintés végén a felek egyértelmű konklúziója az lett, hogy a tiszta racionalitás eszméje csupán egy megkérdőjelezhető mítosz, az emberi döntéshozatal pedig mérhetetlenül összetettebb annál, mint amit a korábbi évtizedek merev modelljei feltételeztek. Az adás tanulsága az olvasó számára az, hogy amikor a mindennapokban a döntéseink okait keressük, érdemes túllépni a hagyományos pszichológiai kereteken, és figyelembe venni a szervezetünk legalapvetőbb biológiai folyamatait is.",
+      "content_format": "markdown",
+      "body": [
+        "Hol ér véget a testünk, és hol kezdődik az elménk? Ez a kérdés állt a Szélsőközép legutóbbi adásának középpontjában, amelyben Puzsér Róbert vendége dr. Kékesi Balázs biológus volt. A beszélgetés alapkövét az úgynevezett „embodied mind”, vagyis a megtestesült elme koncepciója képezte, amely szerint az ember nem működhet a biológiai folyamataitól független, autonóm entitásként. A felek részletesen elemezték, hogyan dől meg a tiszta racionalitás mítosza a mindennapi biológiai valóságban, és miként irányítják a döntéseinket olyan rejtett tényezők, mint az emésztésünk vagy a bennünk lakó mikroorganizmusok.",
+        "A biológus a műsorban kifejtette, hogy a bennünk élő mikrobiom, az emésztés és a fizikai állapotunk alapvetően határozza meg a gondolatainkat, sőt, a műsorban elhangzottak szerint a depresszióhoz hasonló mentális állapotokat is érdemben befolyásolja. Ezzel a szemlélettel nyíltan szembefordultak a karteziánus dualizmussal, amelyet elavultnak és hibásnak neveztek, mivel élesen elválasztja egymástól a testet és a szellemet. Kékesi Balázs magyarázata szerint a test és az elme nem két különálló szféra, hanem egyetlen, folyamatos kölcsönhatásban álló rendszer, amelyben a biológiai funkciók közvetlenül formálják a szellemi állapotot.",
+        "A biológiai meghatározottság mellett a társadalmi környezet hatásai is terítékre kerültek a stúdióban, hiszen a külső tényezők éppúgy formálják a belső folyamatokat, mint fordítva. A beszélgetés során megkerülhetetlen volt a „narratív self” fogalma is, amellyel azt írták le, hogy az énünk nem egy fix pont, hanem történetekből felépülő konstrukció. Kékesi Balázs úgy fogalmazott, hogy az énünk olyan történetekből áll, amelyeket a biológiai és a társadalmi közegünk közösen alakít. Ez a megközelítés rávilágít arra, hogy a személyiségünk nem egy kész, veleszületett program, hanem a testi működésünk és a minket érő külső hatások folyamatos szövevénye.",
+        "A tudományos kitekintés végén a felek egyértelmű konklúziója az lett, hogy a tiszta racionalitás eszméje csupán egy megkérdőjelezhető mítosz, az emberi döntéshozatal pedig mérhetetlenül összetettebb annál, mint amit a korábbi évtizedek merev modelljei feltételeztek. Az adás tanulsága az olvasó számára az, hogy amikor a mindennapokban a döntéseink okait keressük, érdemes túllépni a hagyományos pszichológiai kereteken, és figyelembe venni a szervezetünk legalapvetőbb biológiai folyamatait is."
+      ],
+      "pull_quote": null,
+      "reading_time_min": 2,
+      "word_count": 348,
+      "locale": "hu-HU",
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Puzs%C3%A9r_R%C3%B3bert.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1395,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Puzsér Róbert (Budapest, 1974. október 24. –) végzettsége szerint magyar–történelem szakos tanár; műsorvezető, szerkesztő, kritikus.",
+        "credit": "ismeretlen szerző / Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Puzs%C3%A9r_R%C3%B3bert.jpeg",
+        "exact": true,
+        "entity": "Róbert Puzsér",
+        "vision_score": 13.0
+      },
+      "inline_images": [],
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=MN46rQDjPgQ",
+          "title": "Hol ér véget a testünk, hol kezdődik az elménk? – FAM és Kékesi | Nehezen vonszolja magát a sáska",
+          "publisher": "Szélsőközép",
+          "license": null,
+          "accessed_at": "2026-11-26T20:06:54+01:00"
+        }
+      ],
+      "quote": {
+        "text": "Az énünk történetekből áll",
+        "who": "Kékesi Balázs biológus",
+        "after": 2
+      },
+      "authorship": {
+        "mode": "ai_generated",
+        "byline": "Kollektíva szerkesztőség",
+        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+        "prompt_version": "section-v2",
+        "reviewed_by": null,
+        "reviewed_at": "2026-11-26T20:08:50+01:00"
+      },
+      "hot_score": 5,
+      "clickbait_from": 3,
+      "category_meta": {
+        "source_links": [
+          "https://www.youtube.com/watch?v=MN46rQDjPgQ"
+        ]
+      },
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "url": "/kultura/2026-11-26-nem-vagyunk-onalloak-a-belrendszerunk-iranyitja-a-gondolatainkat-is/",
+      "seo": {
+        "meta_title": "Nem vagyunk önállóak: a bélrendszerünk irányítja a gondolata",
+        "meta_description": "Az elme működése elválaszthatatlan a testi funkcióktól és a mikrobiomunktól egy friss beszélgetés tanúsága szerint. A tudomány mai állása alapján a tiszta racio",
+        "canonical_url": "https://xn--kollektva-m5a.hu/kultura/2026-11-26-nem-vagyunk-onalloak-a-belrendszerunk-iranyitja-a-gondolatainkat-is/",
+        "og_image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Puzs%C3%A9r_R%C3%B3bert.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "noindex": false,
+        "schema_type": "NewsArticle"
+      },
+      "monetization": {
+        "ads_enabled": true,
+        "brand_safety": "safe",
+        "sponsored": false,
+        "sponsor_name": null,
+        "affiliate_links": false
+      },
+      "related_ids": [],
+      "see_also": [],
+      "thread_id": null,
+      "dedupe_hash": "53d3450d9dd108d1188e76ac1dd7f11951f3af63dbb17f73d35769852e399e0c",
+      "pipeline_run_id": "45877780217",
+      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
+      "created_at": "2026-11-26T20:08:50+01:00",
+      "updated_at": "2026-11-26T20:08:50+01:00",
+      "published_at": "2026-11-26T20:08:50+01:00",
+      "expires_at": null,
+      "video": {
+        "id": "MN46rQDjPgQ",
+        "title": "Hol ér véget a testünk, hol kezdődik az elménk? – FAM és Kékesi | Nehezen vonszolja magát a sáska",
+        "channel": "Szélsőközép",
+        "minutes": 62
+      }
+    },
     {
       "id": "68d62781-ba55-50ec-81f1-d5cdd1e8c6dd",
       "slug": "2026-11-26-14-milliard-kobmeter-viz-hianyzik-a-magyar-talajokbol",
@@ -77808,127 +77920,6 @@
       "updated_at": "2026-10-20T15:14:11+02:00",
       "published_at": "2026-10-20T15:14:11+02:00",
       "expires_at": null
-    },
-    {
-      "id": "65ec0c02-3a90-593d-b8eb-fc5de2f07cd8",
-      "slug": "2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas",
-      "status": "published",
-      "category": "penzvilag",
-      "subcategory": null,
-      "tags": [
-        "Revolut",
-        "banki hiba",
-        "pénzügy",
-        "alkalmazás",
-        "gazdaság"
-      ],
-      "title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az utalás",
-      "subtitle": null,
-      "lead": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A beszámolók szerint a pénzügyi alkalmazásban sem a pénzváltás, sem a kedvezményezettek adatainak betöltése nem működött.",
-      "key_points": [
-        "Kedd reggel komoly fennakadások nehezítették a Revolut működését.",
-        "A bolti kártyás fizetések és az ATM-es készpénzfelvételek sem működtek.",
-        "A más bankokból küldött utalások nem érkeztek meg a számlákra.",
-        "A hivatalos státuszoldal eközben nem jelzett semmilyen szolgáltatási hibát."
-      ],
-      "content": "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.\n\nA technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.\n\nBár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart.",
-      "content_format": "markdown",
-      "body": [
-        "Súlyos működési zavarok nehezítették meg a felhasználók dolgát kedd reggel a Revolut pénzügyi platformján. A beszámolók értesülései szerint a rendszerben hirtelen leálltak a kártyás fizetések, az ATM-es készpénzfelvételek, valamint a pénzváltási műveletek is, így sokan teljesen fizetőeszköz nélkül maradtak a reggeli órákban.",
-        "A technikai problémák a belföldi és a nemzetközi utalásokat is érintették. Az alkalmazás képtelen volt betölteni a kedvezményezettek adatait, emellett a külső pénzintézetekből indított átutalások sem érkeztek meg időben a Revolut-számlákra.",
-        "Bár a felhasználók sorozatban jelentették a hibákat és a sikertelen tranzakciókat, a vállalat hivatalos státuszoldala kedd reggel még nem mutatott ki semmilyen rendszerszintű üzemzavart."
-      ],
-      "pull_quote": null,
-      "reading_time_min": 1,
-      "word_count": 136,
-      "locale": "hu-HU",
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Revolut_Standard_Visa_debit_card.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 808,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "This is the front view of a Revolut Standard VISA Debit Card.",
-        "credit": "Filippos Fragkogiannis / Wikimedia Commons",
-        "license": "CC BY-SA 4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Revolut_Standard_Visa_debit_card.png",
-        "unverified": true
-      },
-      "inline_images": [],
-      "sources": [
-        {
-          "url": "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi",
-          "title": "Bajba kerültek a Revolut felhasználói",
-          "publisher": "infostart.hu",
-          "license": null,
-          "accessed_at": "2026-10-20T11:17:39+02:00"
-        }
-      ],
-      "quote": null,
-      "authorship": {
-        "mode": "ai_generated",
-        "byline": "Kollektíva szerkesztőség",
-        "model": "gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-        "prompt_version": "section-v2",
-        "reviewed_by": "szerkesztő (Telegram)",
-        "reviewed_at": "2026-10-20T12:27:01+02:00"
-      },
-      "hot_score": 6.94,
-      "clickbait_from": 3,
-      "category_meta": {
-        "source_links": [
-          "https://infostart.hu/gazdasag/2026/10/20/bajba-kerultek-a-revolut-felhasznaloi"
-        ]
-      },
-      "date": "2026-10-20",
-      "date_label": "október 20.",
-      "url": "/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
-      "seo": {
-        "meta_title": "Kedd reggelre bénult meg a Revolut: nem ment a kártya és az ",
-        "meta_description": "Súlyos üzemzavar nehezítette meg a Revolut-felhasználók dolgát kedd reggel, amikor a kártyás fizetések, a készpénzfelvételek és az átutalások is leálltak. A bes",
-        "canonical_url": "https://xn--kollektva-m5a.hu/penzvilag/2026-10-20-kedd-reggelre-benult-meg-a-revolut-nem-ment-a-kartya-es-az-utalas/",
-        "og_image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Revolut_Standard_Visa_debit_card.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "noindex": false,
-        "schema_type": "NewsArticle"
-      },
-      "monetization": {
-        "ads_enabled": true,
-        "brand_safety": "safe",
-        "sponsored": false,
-        "sponsor_name": null,
-        "affiliate_links": false
-      },
-      "related_ids": [],
-      "see_also": [],
-      "thread_id": null,
-      "dedupe_hash": "d20e08bd3c9ff673ebb47161a608dbe1ab1e4b0b9410e6561d112b4289c7dbdc",
-      "pipeline_run_id": "39398981594",
-      "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
-      "created_at": "2026-10-20T12:27:01+02:00",
-      "updated_at": "2026-10-20T12:27:01+02:00",
-      "published_at": "2026-10-20T12:27:01+02:00",
-      "expires_at": null,
-      "image_queries": [
-        "Revolut Ltd.",
-        "Revolut Card",
-        "ATM",
-        "Bank Transfer",
-        "London",
-        "declined credit card",
-        "empty ATM",
-        "error message on mobile app",
-        "person looking stressed at phone"
-      ],
-      "images_seen": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Credit-cards.jpg/1280px-Credit-cards.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png/1280px-Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/First_cash_machine_blue_plaque_in_Enfield.jpg/1280px-First_cash_machine_blue_plaque_in_Enfield.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/1280px-Euronet_ATM_and_cash_deposit_machine_RCNQ0Q56_in_Galeria_Tomasz%C3%B3w_in_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://upload.wikimedia.org/wikipedia/commons/5/56/App_Revolut_show_interface_of_stock_trading_inapp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Credit_card_terminal_in_Laos.jpg/1280px-Credit_card_terminal_in_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Revolut_app_%2848956162153%29.jpg/1280px-Revolut_app_%2848956162153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "https://xn--kollektva-m5a.hu/public/img/gen/cover-4a9c98d91e.jpg"
-      ]
     }
   ]
 }

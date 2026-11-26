@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "2ab25dc0-3b95-5d06-9b8d-10488bb05c6e",
+      "slug": "2026-11-26-nem-vagyunk-onalloak-a-belrendszerunk-iranyitja-a-gondolatainkat-is",
+      "url": "/kultura/2026-11-26-nem-vagyunk-onalloak-a-belrendszerunk-iranyitja-a-gondolatainkat-is/",
+      "title": "Nem vagyunk önállóak: a bélrendszerünk irányítja a gondolatainkat is",
+      "lead": "Az elme működése elválaszthatatlan a testi funkcióktól és a mikrobiomunktól egy friss beszélgetés tanúsága szerint. A tudomány mai állása alapján a tiszta racionalitás csupán egy mítosz.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T20:08:50+01:00",
+      "published_at": "2026-11-26T20:08:50+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "tudomány",
+        "biológia",
+        "puzsér róbert",
+        "pszichológia",
+        "szélsőközép"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Puzs%C3%A9r_R%C3%B3bert.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1395,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Puzsér Róbert (Budapest, 1974. október 24. –) végzettsége szerint magyar–történelem szakos tanár; műsorvezető, szerkesztő, kritikus."
+      }
+    },
+    {
       "id": "68d62781-ba55-50ec-81f1-d5cdd1e8c6dd",
       "slug": "2026-11-26-14-milliard-kobmeter-viz-hianyzik-a-magyar-talajokbol",
       "url": "/kozelet/2026-11-26-14-milliard-kobmeter-viz-hianyzik-a-magyar-talajokbol/",
@@ -4420,37 +4450,7 @@
         "pos": "center",
         "alt": "Photo of David Vitézy (2021), made by photographer David Nyitrai (me)."
       }
-    },
-    {
-      "id": "8b51d4c7-cf86-59cb-af97-c72cac2e6d19",
-      "slug": "2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot",
-      "url": "/kozelet/2026-11-15-arany-rolexszel-a-tescoban-hazi-orizetbol-ideztek-be-schadl-gyorgyot/",
-      "title": "Arany Rolexszel a Tescóban: házi őrizetből idézték be Schadl Györgyöt",
-      "lead": "Arany Rolex órával a kezén fotózték le a siófoki Tescóban Schadl Györgyöt, a Magyar Bírósági Végrehajtói Kar volt elnökét. A parlamenti vizsgálóbizottság elnöke azonnal postázta az idézést a kötelező megjelenésről.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T11:41:29+01:00",
-      "published_at": "2026-11-15T11:41:29+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.73,
-      "tags": [
-        "Schadl György",
-        "Toroczkai László",
-        "Végrehajtói kar",
-        "Siófok",
-        "Parlamenti vizsgálóbizottság"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Toroczkai_L%C3%A1szl%C3%B3_2024.jpg/1280px-Toroczkai_L%C3%A1szl%C3%B3_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1308,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "President of Our Homeland party"
-      }
     }
   ],
-  "updated_at": "2026-11-26T19:42:34+01:00"
+  "updated_at": "2026-11-26T20:08:52+01:00"
 }
