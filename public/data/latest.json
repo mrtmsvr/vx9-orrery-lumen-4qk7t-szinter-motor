@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "645706bd-dda3-5b17-8473-49078cf758b7",
+      "slug": "2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-vonszolt-eg",
+      "url": "/kozelet/2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-vonszolt-eg/",
+      "title": "Vitézy Dávidot és a MÁV-vezért citálja a Fidesz a peronon vonszolt egyetemista ügyében",
+      "lead": "Soron kívüli parlamenti meghallgatást kezdeményezett a Fidesz a mezőkövesdi vonatbaleset ügyében, amelyben egy húszéves egyetemista életveszélyes sérüléseket szenvedett. A lányra rácsukódott a vonat ajtaja az állomáson, a jármű pedig elindult, és métereken át, illetve több száz méteren keresztül húzta magával.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T13:45:53+01:00",
+      "published_at": "2026-11-26T13:45:53+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Vitézy Dávid",
+        "MÁV",
+        "vonatbaleset",
+        "Mezőkövesd",
+        "Fidesz"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vit%C3%A9zy_D%C3%A1vid_-.jpg/1280px-Vit%C3%A9zy_D%C3%A1vid_-.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Vitézy Dávid (Budapest, 1985. december 1. –) magyar közgazdász, közlekedési és város-mobilitási szakértő a SMART 2017 Konferencián"
+      }
+    },
+    {
       "id": "fef7aa39-b008-566b-9681-6a133f208d76",
       "slug": "2026-11-26-mav-gyorssegely-es-veradas-a-mezokovesdi-vonatszerencsetlenseg-utan",
       "url": "/kozelet/2026-11-26-mav-gyorssegely-es-veradas-a-mezokovesdi-vonatszerencsetlenseg-utan/",
@@ -4418,37 +4448,7 @@
         "alt": "4 település – négy magyar településen tartanak időközi választást",
         "card": "num"
       }
-    },
-    {
-      "id": "87ee6339-6d81-5dea-b700-a98658286608",
-      "slug": "2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben",
-      "url": "/vilag/2026-11-15-putyin-hszi-es-trump-nelkuluk-dont-az-ukrajnai-bekerol-sencsenben/",
-      "title": "Putyin, Hszi és Trump nélkülük dönt az ukrajnai békéről Sencsenben",
-      "lead": "November 19-én háromoldalú találkozót tart Vlagyimir Putyin, Hszi Csin-ping és Donald Trump a dél-kínai Sencsenben, az APEC-csúcstalálkozó szünetében. A megbeszélésen a nukleáris leszerelés és az iráni konfliktus is terítékre kerül, az ukrajnai háború azonban nem lesz napirenden.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T07:43:31+01:00",
-      "published_at": "2026-11-15T07:43:31+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.75,
-      "tags": [
-        "Donald Trump",
-        "Vlagyimir Putyin",
-        "Hszi Csin-ping",
-        "APEC",
-        "Sencsen"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Trump-Musk-Xi-Putin.jpg/1280px-Trump-Musk-Xi-Putin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 441,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "A composite triptych portrait of Donald Trump, Elon Musk, Xi Jinping, and Vladimir Putin."
-      }
     }
   ],
-  "updated_at": "2026-11-26T12:58:22+01:00"
+  "updated_at": "2026-11-26T13:45:55+01:00"
 }
