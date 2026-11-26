@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "3e0f71f5-0a3d-5e1c-a9fc-8c6fec8e6f7f",
+      "slug": "2026-11-26-teljesen-leall-a-futes-pentek-este-bekasmegyeren",
+      "url": "/kozelet/2026-11-26-teljesen-leall-a-futes-pentek-este-bekasmegyeren/",
+      "title": "Teljesen leáll a fűtés péntek este Békásmegyeren",
+      "lead": "Halaszthatatlan távvezetéki hiba miatt péntek este teljes egészében leállítják a fűtés- és melegvíz-szolgáltatást Békásmegyeren. Az önkormányzat a hétvégi munkálatok idejére melegedőállomásokat is biztosít az érintetteknek.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-26",
+      "date_label": "november 26.",
+      "created_at": "2026-11-26T19:40:32+01:00",
+      "published_at": "2026-11-26T19:40:32+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.12,
+      "tags": [
+        "Békásmegyer",
+        "távfűtés",
+        "FŐTÁV",
+        "Budapest",
+        "Óbuda-Békásmegyer"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/F%C5%91t%C3%A1v_Budapest_Kalotaszeg_utca_20161228-01.jpg/1280px-F%C5%91t%C3%A1v_Budapest_Kalotaszeg_utca_20161228-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Főtáv, Budapest, XI. ker. Kalotaszeg utca"
+      }
+    },
+    {
       "id": "4a4d4c7d-d37a-5ce2-b239-b677f71fd581",
       "slug": "2026-11-26-kokainnal-sokkoloval-es-kessel-tortek-nagybanya-polgarmesterere",
       "url": "/vilag/2026-11-26-kokainnal-sokkoloval-es-kessel-tortek-nagybanya-polgarmesterere/",
@@ -4421,36 +4451,7 @@
         "pos": "center",
         "alt": "This is a photo of a cultural monument of the Czech Republic,number:"
       }
-    },
-    {
-      "id": "ceb819fb-126d-5c54-b906-306883e715fc",
-      "slug": "2026-11-15-megvan-a-joker-nyertese-de-az-otoslotto-fodija-tovabb-hizott",
-      "url": "/penzvilag/2026-11-15-megvan-a-joker-nyertese-de-az-otoslotto-fodija-tovabb-hizott/",
-      "title": "Megvan a Joker nyertese, de az ötöslottó fődíja tovább hízott",
-      "lead": "Elvitték a 125 milliós Joker-főnyereményt, míg az ötöslottón senki sem találta el az összes számot, így a fődíj 620 millió forintra emelkedett. A szerencsejáték történetében ezúttal sem maradtak el a milliós résznyeremények.",
-      "category": "penzvilag",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T07:45:27+01:00",
-      "published_at": "2026-11-15T07:45:27+01:00",
-      "reading_time_min": 1,
-      "hot_score": 5.89,
-      "tags": [
-        "lottó",
-        "szerencsejáték",
-        "nyeremény",
-        "pénz"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Raffle_Rolling_Cage.jpg/1280px-Raffle_Rolling_Cage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 994,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Raffle roll cage holding tickets for two guns being raffled off at the Fortuna, California Pistol Club annual dinner at the Ferndale, California Fairgrounds' Turf Room."
-      }
     }
   ],
-  "updated_at": "2026-11-26T18:40:23+01:00"
+  "updated_at": "2026-11-26T19:40:35+01:00"
 }
