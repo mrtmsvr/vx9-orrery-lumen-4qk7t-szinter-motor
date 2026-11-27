@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "64c492cc-c148-5063-8a4d-b8e29d27497b",
+      "slug": "2026-11-27-bilincsben-a-valasztokeruleti-munkatars-ujabb-millios-csalas-miatt-cs",
+      "url": "/kozelet/2026-11-27-bilincsben-a-valasztokeruleti-munkatars-ujabb-millios-csalas-miatt-cs/",
+      "title": "Bilincsben a választókerületi munkatárs: újabb milliós csalás miatt csaptak le",
+      "lead": "Különösen nagy vagyoni hátrányt okozó, bűnszövetségben elkövetett költségvetési csalás megalapozott gyanúja miatt vett őrizetbe egy Pest megyei választókerületi munkatársat a Bács-Kiskun Vármegyei Főügyészség. Az ügyészség indítványozta a gyanúsított letartóztatását, amiről a Kecskeméti Járásbíróság nyomozási bírája dönt pénteken.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-27",
+      "date_label": "november 27.",
+      "created_at": "2026-11-27T09:50:59+01:00",
+      "published_at": "2026-11-27T09:50:59+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "NKA",
+        "ügyészség",
+        "költségvetési csalás",
+        "NAV",
+        "Kecskeméti Járásbíróság"
+      ],
+      "hero_image": {
+        "url": "https://xn--kollektva-m5a.hu/public/img/px/2571227bcd199899.jpg",
+        "width": 4928,
+        "height": 3264,
+        "kind": "photo",
+        "alt": "finances, envelope, monetary, money, debt, business, wealth, rich, currencies, cash, payment, earn, profit, banking, expensive, spend, white, euro, trade, note, buy, sums, economy, states, valuta, env"
+      }
+    },
+    {
       "id": "043b6d76-8e0b-5f51-90fb-83023971f890",
       "slug": "2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz",
       "url": "/kozelet/2026-11-26-ruff-balint-turelem-kell-a-gazdasagi-rendszervaltashoz/",
@@ -4422,37 +4451,7 @@
         "pos": "top",
         "alt": "Federal election 2025 – CDU election night at the Konrad-Adenauer-Haus in Berlin: Friedrich Merz (CDU)"
       }
-    },
-    {
-      "id": "1543ca3a-ad75-5041-afb3-bd7067bb48d5",
-      "slug": "2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett",
-      "url": "/vilag/2026-11-15-letaroltak-egy-bajor-ekszerboltot-autoval-hajtovadaszat-indult-a-tett/",
-      "title": "Letaroltak egy bajor ékszerboltot autóval, hajtóvadászat indult a tettesekért",
-      "lead": "Vasárnap hajnalban három elkövető hajtott autóval egy bayreuthi ékszerüzletbe, majd a zsákmánnyal elmenekültek, A hatóságok azonnal hatalmas hajtóvadászatot indítottak, és már két gyanúsítottat el is fogtak.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T13:06:59+01:00",
-      "published_at": "2026-11-15T13:06:59+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.5,
-      "tags": [
-        "Németország",
-        "rablás",
-        "rendőrség",
-        "Bayreuth",
-        "bűnügy"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Marktplatz_Bayreuth.JPG/1280px-Marktplatz_Bayreuth.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 900,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Blick über den Marktplatz der Stadt Bayreuth (fotografiert von der Karstadt-Dachterrasse), Maximilianstraße"
-      }
     }
   ],
-  "updated_at": "2026-11-27T01:21:01+01:00"
+  "updated_at": "2026-11-27T09:51:00+01:00"
 }
