@@ -1,23 +1,6 @@
 {
   "posts": [
     {
-      "id": "29ed04c26d",
-      "art_id": "a1f9247f-7d7c-5abe-b204-17a6149cad1f",
-      "title": "Háromszáz emberrel borult fel egy menekülthajó a Vörös-tengernél",
-      "url": "/vilag/2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-tengernel/",
-      "card": "public/img/ig/2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-teng.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-haromszaz-emberrel-borult-fel-egy-menekulthajo-a-voros-teng.jpg",
-      "caption": "Háromszáz emberrel borult fel egy menekülthajó a Vörös-tengernél\n\nTöbb mint háromszáz menekülttel a fedélzetén borult fel egy hajó Dzsibuti partjainál, a Vörös-tenger közelében; a katasztrófát mintegy nyolcvanan élték túl. A térségben fegyveres konfliktusok és gazdasági nehézségek elől menekülnek az emberek, miközben Eritrea és Etiópia ismét a háború szélén áll.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#vöröstenger #migráció #dzsibuti #hírek #kollektíva",
-      "created": "2026-10-17T19:04:13+02:00",
-      "due": "2026-10-17T19:49:13+02:00",
-      "status": "failed",
-      "tg": [
-        7306,
-        7307
-      ],
-      "error": "a kártya 6 óra alatt sem került ki az oldalra"
-    },
-    {
       "id": "ddc981b35b",
       "art_id": "be5583e3-bd77-5290-b749-40b53303239e",
       "title": "Elhunyt Kuna Károly, Jászai Mari-díjas színművész",
@@ -3618,6 +3601,21 @@
       "container": "18141341134718522",
       "media_id": "18067248470716623",
       "posted": "2026-11-26T17:18:05+01:00"
+    },
+    {
+      "id": "e817fd6b27",
+      "art_id": "4a4d4c7d-d37a-5ce2-b239-b677f71fd581",
+      "title": "Kokainnal, sokkolóval és késsel törtek Nagybánya polgármesterére",
+      "url": "/vilag/2026-11-26-kokainnal-sokkoloval-es-kessel-tortek-nagybanya-polgarmesterere/",
+      "card": "public/img/ig/2026-11-26-kokainnal-sokkoloval-es-kessel-tortek-nagybanya-polgarmeste.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-26-kokainnal-sokkoloval-es-kessel-tortek-nagybanya-polgarmeste.jpg",
+      "caption": "Kokainnal, sokkolóval és késsel törtek Nagybánya polgármesterére\n\nElrabolták, kábítószer-fogyasztásra kényszerítették és megpróbálták szexuálisan bántalmazni Doru Dăncușt, Nagybánya polgármesterét. A hatóságok három gyanúsítottat harmincnapos előzetes letartóztatásba helyeztek az ügyben.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#nagybánya #románia #külföld #hírek #magyarország",
+      "created": "2026-11-27T08:09:32+01:00",
+      "due": "2026-11-27T08:54:32+01:00",
+      "status": "queued",
+      "tg": [
+        10742
+      ]
     }
   ],
   "token": {
