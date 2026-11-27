@@ -1,35 +1,35 @@
 {
-  "id": "9d6c1e66ee",
-  "date": "2026-11-25",
+  "id": "4f91734170",
+  "date": "2026-11-27",
   "status": "pending",
-  "article_url": "/kozelet/2026-11-24-nem-fer-ossze-a-politika-a-fradival-letarolta-a-parlament-a-sporttorv/",
-  "article_title": "Nem fér össze a politika a Fradival: letarolta a parlament a sporttörvényt",
+  "article_url": "/kozelet/2026-11-26-vitezy-davidot-es-a-mav-vezert-citalja-a-fidesz-a-peronon-vonszolt-eg/",
+  "article_title": "Vitézy Dávidot és a MÁV-vezért citálja a Fidesz a peronon vonszolt egyetemista ügyében",
   "category": "kozelet",
   "choices": [
     {
-      "question": "Ön szerint helyes-e kizárni a politikusokat a sportszervezetek vezetéséből?",
+      "question": "Ön szerint indokolt volt a parlamenti meghallgatás kezdeményezése?",
       "options": [
-        "Igen, ez szükséges a függetlenséghez",
-        "Nem, ez korlátozza a szakmai munkát",
+        "Igen, fontos a politikai felelősség vizsgálata",
+        "Nem, ez felesleges politikai akció volt",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Jó döntésnek tartja a sporttörvény elfogadását?",
+      "question": "Mit tart hatásosabbnak a vasúti közlekedés biztonságának növelésére?",
       "options": [
-        "Igen, támogatom a szigorítást",
-        "Nem, nem értek egyet vele",
+        "Szigorúbb belső ellenőrzéseket és eljárásokat",
+        "Jelentős állami forrásbővítést és infrastruktúra-fejlesztést",
         "Nem tudom / nincs véleményem"
       ]
     },
     {
-      "question": "Hogyan értékeli a politika és a sport összeférhetetlenségét?",
+      "question": "Helyesnek tartja-e, hogy politikusok bevonásával vizsgálják az esetet?",
       "options": [
-        "Szigorítani kell a szabályokat",
-        "A jelenlegi helyzet is megfelelő volt",
+        "Igen, a nyilvánosság nyomása kell a javuláshoz",
+        "Nem, ezt a hatóságokra kellene bízni",
         "Nem tudom / nincs véleményem"
       ]
     }
   ],
-  "msg_id": 10704
+  "msg_id": 10755
 }
