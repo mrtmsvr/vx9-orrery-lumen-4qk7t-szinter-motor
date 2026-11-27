@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "67eaf010-3f47-53dd-a324-975808cd40eb",
+      "slug": "2026-11-27-felszeleteltek-a-vizparti-racsokat-siofokon",
+      "url": "/kozelet/2026-11-27-felszeleteltek-a-vizparti-racsokat-siofokon/",
+      "title": "Felszeletelték a vízparti rácsokat Siófokon",
+      "lead": "Péntek reggel sarokcsiszolóval kezdték meg a siófoki parti sétányt elzáró szállodakerítések elbontását, az akció végül rendőri intézkedéssel zárult. A helyiek és a látogatók évtizedek óta nem használhatták a lezárt partszakaszt.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-27",
+      "date_label": "november 27.",
+      "created_at": "2026-11-27T15:46:28+01:00",
+      "published_at": "2026-11-27T15:46:28+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.02,
+      "tags": [
+        "Siófok",
+        "Balaton",
+        "kerítésbontás",
+        "önkormányzat",
+        "közterület"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Si%C3%B3fok_F%C5%91_t%C3%A9r_%28Main_Square%29.JPG/1280px-Si%C3%B3fok_F%C5%91_t%C3%A9r_%28Main_Square%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 902,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Fő tér (Main Square), Siófok"
+      }
+    },
+    {
       "id": "f3583584-9a73-5b36-970e-054e462bcd56",
       "slug": "2026-11-27-hogyan-lett-a-rendorsegi-remalombol-globalis-orulet",
       "url": "/kultura/2026-11-27-hogyan-lett-a-rendorsegi-remalombol-globalis-orulet/",
@@ -4425,37 +4455,7 @@
         "pos": "top",
         "alt": "High-resolution, freely reusable close-up portrait of Hungarian politician Péter Magyar, taken on 15 March 2026 during a national day demonstration at Heroes’ Square in Budapest, Hungary. The photogra"
       }
-    },
-    {
-      "id": "4e363ecb-2629-59e1-af1b-20c7216ff759",
-      "slug": "2026-11-15-lamperth-monika-veszi-at-az-iranyitast-a-hegyvideken",
-      "url": "/kozelet/2026-11-15-lamperth-monika-veszi-at-az-iranyitast-a-hegyvideken/",
-      "title": "Lamperth Mónika veszi át az irányítást a Hegyvidéken",
-      "lead": "Lamperth Mónika volt belügyminiszter hétfőtől a XII. kerületi önkormányzatnál kezd munkát, hogy irányítási és vezetési feladatokkal segítse Kovács Gergely polgármestert. A döntésre amiatt került sor, mert az utóbbi hónapokban több belső konfliktus és lemondás is nehezítette a kerület vezetését.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T18:49:13+01:00",
-      "published_at": "2026-11-15T18:49:13+01:00",
-      "reading_time_min": 2,
-      "hot_score": 9.1,
-      "tags": [
-        "Lamperth Mónika",
-        "Kovács Gergely",
-        "XII. kerület",
-        "Hegyvidék",
-        "önkormányzat"
-      ],
-      "hero_image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Kov%C3%A1cs_Gergely.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-        "width": 1200,
-        "height": 1200,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Kovács Gergely zongoraművész (Régi Zeneakadémia, Budapest)"
-      }
     }
   ],
-  "updated_at": "2026-11-27T15:03:17+01:00"
+  "updated_at": "2026-11-27T15:46:30+01:00"
 }
