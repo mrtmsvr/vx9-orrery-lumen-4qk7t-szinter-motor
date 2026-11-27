@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "660f6283-b847-5b57-93aa-6bb8102b44fb",
+      "slug": "2026-11-27-elhunyt-melocco-miklos-kossuth-nagydijas-szobraszmuvesz",
+      "url": "/kultura/2026-11-27-elhunyt-melocco-miklos-kossuth-nagydijas-szobraszmuvesz/",
+      "title": "Elhunyt Melocco Miklós Kossuth-nagydíjas szobrászművész",
+      "lead": "Életének 92. évében, pénteken elhunyt Melocco Miklós Kossuth-nagydíjas szobrászművész, a nemzet művésze. A gyászhírt a Magyar Művészeti Akadémia erősítette meg az MTI-nek.",
+      "category": "kultura",
+      "status": "published",
+      "date": "2026-11-27",
+      "date_label": "november 27.",
+      "created_at": "2026-11-27T12:49:15+01:00",
+      "published_at": "2026-11-27T12:49:15+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Melocco Miklós",
+        "szobrászat",
+        "gyász",
+        "Kossuth-díj",
+        "Magyar Művészeti Akadémia"
+      ],
+      "hero_image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Melocco_Mikl%C3%B3s_2010_Solym%C3%A1r.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "width": 1200,
+        "height": 1466,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "Melocco Miklós 2010-ben Solymáron"
+      }
+    },
+    {
       "id": "a5bc07ab-8783-5f1e-a885-b754d4a15459",
       "slug": "2026-11-27-igy-alakitotta-at-a-felszamolasi-piacot-sesztak-miklos",
       "url": "/kozelet/2026-11-27-igy-alakitotta-at-a-felszamolasi-piacot-sesztak-miklos/",
@@ -4423,37 +4453,7 @@
         "pos": "center",
         "alt": "Logo since 1999"
       }
-    },
-    {
-      "id": "20e26165-afdf-54e4-940e-ab00933ce7b6",
-      "slug": "2026-11-15-vitezy-david-ujbuda-engedelyt-adott-egy-2400-lakasos-lakoparkra-kozle",
-      "url": "/kozelet/2026-11-15-vitezy-david-ujbuda-engedelyt-adott-egy-2400-lakasos-lakoparkra-kozle/",
-      "title": "Vitézy Dávid: Újbuda engedélyt adott egy 2400 lakásos lakóparkra közlekedési fejlesztések nélkül",
-      "lead": "Megkezdődik a budai fonódó villamos Budafoki úti meghosszabbításának tervezése a Budapesti Közlekedési Központ közbeszerzése nyomán.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T17:01:27+01:00",
-      "published_at": "2026-11-15T17:01:27+01:00",
-      "reading_time_min": 2,
-      "hot_score": 11.05,
-      "tags": [
-        "Vitézy Dávid",
-        "BKK",
-        "budai fonódó",
-        "villamosfejlesztés",
-        "Budafoki út"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/14-05-06-Tram-Budapest-Keleti-p%C3%A1lyaudvar-RalfR.jpg/1280px-14-05-06-Tram-Budapest-Keleti-p%C3%A1lyaudvar-RalfR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 801,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Tram at Station Keleti in Budapest, Hungary"
-      }
     }
   ],
-  "updated_at": "2026-11-27T11:21:02+01:00"
+  "updated_at": "2026-11-27T12:49:17+01:00"
 }
