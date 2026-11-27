@@ -36,17 +36,15 @@
       "word_count": 314,
       "locale": "hu-HU",
       "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/px/2571227bcd199899.jpg",
-        "width": 4928,
-        "height": 3264,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/J%C3%A1r%C3%A1si_%C3%9Cgy%C3%A9szs%C3%A9g%2C_2019_Kalocsa.jpg/1280px-J%C3%A1r%C3%A1si_%C3%9Cgy%C3%A9szs%C3%A9g%2C_2019_Kalocsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1600,
         "kind": "photo",
-        "alt": "finances, envelope, monetary, money, debt, business, wealth, rich, currencies, cash, payment, earn, profit, banking, expensive, spend, white, euro, trade, note, buy, sums, economy, states, valuta, env",
-        "credit": "ds_30 / Pixabay",
-        "license": "Pixabay License",
-        "source_url": "https://pixabay.com/photos/finances-envelope-monetary-money-4869861/",
-        "vision_score": 8.0,
-        "local": "/home/runner/work/vx9-orrery-lumen-4qk7t-szinter-motor/vx9-orrery-lumen-4qk7t-szinter-motor/public/img/px/2571227bcd199899.jpg",
-        "orig_url": "https://pixabay.com/get/g8b82c7785c2328a5ae3674c9442abf05737579f69979f7923fd60b632f6b2a475bfe817855c90ded4daad7e61dc4d45a69acb629ec64d793d35dd10180b95ccf_1280.jpg"
+        "pos": "top",
+        "alt": ": District Prosecutor's Office. - 42 Hunyadi János utca, Kalocsa, Bács-Kiskun County.",
+        "credit": "Globetrotter19 / Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:J%C3%A1r%C3%A1si_%C3%9Cgy%C3%A9szs%C3%A9g,_2019_Kalocsa.jpg"
       },
       "inline_images": [],
       "sources": [
@@ -135,7 +133,7 @@
       "pipeline_run_id": "45962972927",
       "generator": "ai:gemini:gemini-flash-latest,gemini-flash-lite-latest,gemini-3.1-flash-lite",
       "created_at": "2026-11-27T09:50:59+01:00",
-      "updated_at": "2026-11-27T09:50:59+01:00",
+      "updated_at": "2026-11-27T08:56:48+00:00",
       "published_at": "2026-11-27T09:50:59+01:00",
       "expires_at": null
     },
