@@ -1,6 +1,35 @@
 {
   "articles": [
     {
+      "id": "c16667de-82c9-59e8-8d34-84226204601e",
+      "slug": "2026-11-27-husdarabnak-nezik-a-serult-focistakat-berlinben",
+      "url": "/kozelet/2026-11-27-husdarabnak-nezik-a-serult-focistakat-berlinben/",
+      "title": "Húsdarabnak nézik a sérült focistákat Berlinben",
+      "lead": "A profi futball kíméletlen valóságáról és a klubok üzleti logikájáról beszélt a Partizán műsorában Schäfer András válogatott labdarúgó. Az Union Berlin játékosa szerint a sérült sportolókat sokszor csupán árucikknek tekintik.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-27",
+      "date_label": "november 27.",
+      "created_at": "2026-11-27T23:22:22+01:00",
+      "published_at": "2026-11-27T23:22:22+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Schäfer András",
+        "Union Berlin",
+        "Partizán",
+        "labdarúgás"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2022-04-20_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFB-Pokal%2C_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8288_by_Stepro.jpg/1280px-2022-04-20_Fu%C3%9Fball%2C_M%C3%A4nner%2C_DFB-Pokal%2C_RB_Leipzig_-_1._FC_Union_Berlin_1DX_8288_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Fußball, Männer, DFB-Pokal, RB Leipzig - 1. FC Union Berlin: von links: Konrad Laimer (RB Leipzig, 27), Andras Schäfer (Union Berlin, 13); Zweikampf, Duell, Aktion, action"
+      }
+    },
+    {
       "id": "a6e814e5-cfb9-5b5f-b52d-4a7e576aa881",
       "slug": "2026-11-27-decembertol-jagusztin-tamas-tolti-be-a-legfobb-ugyeszhelyettesi-tiszt",
       "url": "/kozelet/2026-11-27-decembertol-jagusztin-tamas-tolti-be-a-legfobb-ugyeszhelyettesi-tiszt/",
@@ -4423,37 +4452,7 @@
         "pos": "top",
         "alt": "Péter Magyar, founder of Talpra Magyarok Közössége, vice president of the Respect and Freedom Party (Tisza) in Szigetszenmiklós, the 2nd of June in 2024"
       }
-    },
-    {
-      "id": "1637c090-6d5a-5591-9a3c-a0a6634905e5",
-      "slug": "2026-11-15-magyar-peter-eltorolne-a-venykotelesseget-takacs-peter-szerint-meg-cu",
-      "url": "/kozelet/2026-11-15-magyar-peter-eltorolne-a-venykotelesseget-takacs-peter-szerint-meg-cu/",
-      "title": "Magyar Péter eltörölné a vénykötelességet, Takács Péter szerint meg cukorka lesz a tabletta",
-      "lead": "Magyar Péter csütörtöki javaslatcsomagja megszüntetné az esemény utáni tabletta vénykötelességét, amire Takács Péter egészségügyi államtitkár egy Facebook-posztban válaszolt. Az ügyben budapesti nők is megszólaltak, akik szerint a változtatás jelentősen csökkentené a felesleges szorongást és a megalázó helyzeteket.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-15",
-      "date_label": "november 15.",
-      "created_at": "2026-11-15T20:09:35+01:00",
-      "published_at": "2026-11-15T20:09:35+01:00",
-      "reading_time_min": 2,
-      "hot_score": 5,
-      "tags": [
-        "Magyar Péter",
-        "Takács Péter",
-        "egészségügy",
-        "nőjogok",
-        "Telex"
-      ],
-      "hero_image": {
-        "url": "https://xn--kollektva-m5a.hu/public/img/gen/vid-140be6d5d6.jpg",
-        "kind": "photo",
-        "alt": "Megalázó helyzet volt eddig, ez majd könnyíteni fog a nők fájdalmán",
-        "card": "video",
-        "width": 1280,
-        "height": 720
-      }
     }
   ],
-  "updated_at": "2026-11-27T22:41:46+01:00"
+  "updated_at": "2026-11-27T23:22:23+01:00"
 }
