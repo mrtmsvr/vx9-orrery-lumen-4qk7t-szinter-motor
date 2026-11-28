@@ -1,25 +1,6 @@
 {
   "posts": [
     {
-      "id": "14d6df5b47",
-      "art_id": "5c408646-9e66-520c-ab5f-3c1017df10ac",
-      "title": "Kína és Oroszország közös nyomása gyengítheti meg Európát",
-      "url": "/vilag/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat/",
-      "card": "public/img/ig/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-kina-es-oroszorszag-kozos-nyomasa-gyengitheti-meg-europat.jpg",
-      "caption": "Kína és Oroszország közös nyomása gyengítheti meg Európát\n\nBiztonságpolitikai szakértők által készített idei hadijáték azt vizsgálja, hogyan zúdíthatna nyomást Oroszország Európára egy olyan helyzetben, amikor a NATO és az Egyesült Államok figyelmét Kína tajvani akciói kötik le. A szimuláció szerint a külső frontok és a szövetségen belüli bizonytalanságok komoly kihívások elé állíthatják az európai országokat.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#oroszország #európaiunió #nato #hírek #kollektíva",
-      "created": "2026-10-18T09:15:06+02:00",
-      "due": "2026-10-18T10:00:06+02:00",
-      "status": "failed",
-      "tg": [
-        7455,
-        7456
-      ],
-      "container": "18130739317718522",
-      "tries": 1,
-      "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
-    },
-    {
       "id": "dfd18f9eaf",
       "art_id": "39c9fc1d-6f9a-585c-a2aa-9ddcc63e8c05",
       "title": "Florence Pugh főszereplésével készült az Édentől keletre új sorozatadaptációja a Netflixen",
@@ -3623,6 +3604,21 @@
       "container": "18141649372718522",
       "media_id": "18402481750160256",
       "posted": "2026-11-28T09:02:05+01:00"
+    },
+    {
+      "id": "9e81ace15b",
+      "art_id": "f9b630b6-6b0c-5181-9afe-0d11e13b38ab",
+      "title": "Meghalt Dániel Péter ügyvéd, a Horthy-szobor megfestékezője",
+      "url": "/kozelet/2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje/",
+      "card": "public/img/ig/2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje.jpg",
+      "caption": "Meghalt Dániel Péter ügyvéd, a Horthy-szobor megfestékezője\n\nÖtvenhét éves korában elhunyt Dániel Péter ügyvéd és politikai aktivista, aki a 2010-es évek elején figyelemfelkeltő akcióival és a korai Demokratikus Koalíció támogatásával vált ismertté. A halálhírről a zsidó kultúrával és Izraellel foglalkozó Kidma Egyesület számolt be a közösségi oldalon.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#dánielpéter #gyász #belföld #hírek #magyarország",
+      "created": "2026-11-28T10:57:10+01:00",
+      "due": "2026-11-28T11:42:10+01:00",
+      "status": "queued",
+      "tg": [
+        10775
+      ]
     }
   ],
   "token": {
