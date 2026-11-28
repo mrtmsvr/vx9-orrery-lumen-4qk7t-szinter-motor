@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "f9b630b6-6b0c-5181-9afe-0d11e13b38ab",
+      "slug": "2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje",
+      "url": "/kozelet/2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje/",
+      "title": "Meghalt Dániel Péter ügyvéd, a Horthy-szobor megfestékezője",
+      "lead": "Ötvenhét éves korában elhunyt Dániel Péter ügyvéd és politikai aktivista, aki a 2010-es évek elején figyelemfelkeltő akcióival és a korai Demokratikus Koalíció támogatásával vált ismertté. A halálhírről a zsidó kultúrával és Izraellel foglalkozó Kidma Egyesület számolt be a közösségi oldalon.",
+      "category": "kozelet",
+      "status": "published",
+      "date": "2026-11-28",
+      "date_label": "november 28.",
+      "created_at": "2026-11-28T09:54:31+01:00",
+      "published_at": "2026-11-28T09:54:31+01:00",
+      "reading_time_min": 2,
+      "hot_score": 12,
+      "tags": [
+        "Dániel Péter",
+        "gyász",
+        "ügyvéd",
+        "aktivista",
+        "Izrael"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Diana_Ellis_-_19_Oct_2011.jpg/1280px-Diana_Ellis_-_19_Oct_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 770,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "19 October 2011: Ieng Thirit's international Co-Lawyer Ms. Diana Ellis during the Trial Chamber's hearing on initial specification of civil parties' reparations claims and Ieng Thirith's fitness to st"
+      }
+    },
+    {
       "id": "774e077d-8522-5243-babb-4d77c48da43f",
       "slug": "2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-nagyhatalmi",
       "url": "/vilag/2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-nagyhatalmi/",
@@ -4422,37 +4452,7 @@
         "pos": "center",
         "alt": "Unit 1-2 of Korea Shin-Kori Nuclear Power Plant."
       }
-    },
-    {
-      "id": "1a4de3f8-4ecf-53ae-bc19-10d50c6b1490",
-      "slug": "2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb",
-      "url": "/vilag/2026-11-16-sportdontes-kontra-kanadai-vizum-oroszok-nelkul-indul-a-jegkorong-vb/",
-      "title": "Sportdöntés kontra kanadai vízum: oroszok nélkül indul a jégkorong-vb",
-      "lead": "A Nemzetközi Sportdöntőbíróság (CAS) október végi határozata ellenére a kanadai kormány korlátozásai miatt az orosz válogatott nem vehet részt a december 26-án kezdődő elit junior jégkorong-világbajnokságon. A házigazda Kanada elzárkózása miatt az eseményt oroszok nélkül tartják meg Edmontonban és Red Deerben.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-16",
-      "date_label": "november 16.",
-      "created_at": "2026-11-16T07:40:34+01:00",
-      "published_at": "2026-11-16T07:40:34+01:00",
-      "reading_time_min": 2,
-      "hot_score": 6.14,
-      "tags": [
-        "jégkorong",
-        "világbajnokság",
-        "Kanada",
-        "Oroszország",
-        "IIHF"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG/1280px-NLA%2C_Lausanne_HC_vs._Rapperswil-Jona_Lakers%2C_11th_November_2014_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 799,
-        "kind": "photo",
-        "pos": "center",
-        "alt": "Pascal Caminada (L 33)."
-      }
     }
   ],
-  "updated_at": "2026-11-28T09:14:27+01:00"
+  "updated_at": "2026-11-28T09:54:33+01:00"
 }
