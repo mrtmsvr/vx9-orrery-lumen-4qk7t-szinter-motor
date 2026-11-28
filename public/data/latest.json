@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "b177e0b6-9423-5f0d-acd9-c57bd6861528",
+      "slug": "2026-11-28-tiz-diak-halt-meg-egy-iskolakozeli-raktarrobbanasban-kunarban",
+      "url": "/vilag/2026-11-28-tiz-diak-halt-meg-egy-iskolakozeli-raktarrobbanasban-kunarban/",
+      "title": "Tíz diák halt meg egy iskolaközeli raktárrobbanásban Kunárban",
+      "lead": "Legalább tíz diák életét vesztette és több mint százan megsérültek egy bányavállalat robbanószerraktárának robbanásában Afganisztán keleti részén. A tragédia a Pakisztánnal határos Kunár tartomány egyik középiskolája mellett történt szombaton.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-28",
+      "date_label": "november 28.",
+      "created_at": "2026-11-28T16:20:49+01:00",
+      "published_at": "2026-11-28T16:20:49+01:00",
+      "reading_time_min": 2,
+      "hot_score": 11.7,
+      "tags": [
+        "Afganisztán",
+        "robbanás",
+        "iskola",
+        "Kunár",
+        "bányászat"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Watapur_district-2012.jpg/1280px-Watapur_district-2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 800,
+        "kind": "photo",
+        "pos": "center",
+        "alt": "Overview of Watapur district, Kunar province, Afghanistan, Jan. 11, 2012. (Photo ID: 512066)"
+      }
+    },
+    {
       "id": "f9b630b6-6b0c-5181-9afe-0d11e13b38ab",
       "slug": "2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje",
       "url": "/kozelet/2026-11-28-meghalt-daniel-peter-ugyved-a-horthy-szobor-megfestekezoje/",
@@ -4422,37 +4452,7 @@
         "pos": "center",
         "alt": "Magyar Péter 2024. április-án"
       }
-    },
-    {
-      "id": "7039d40e-e9c9-5bfb-8e5f-3df9b6e4f28a",
-      "slug": "2026-11-16-atomenergia-az-orosz-foldgaz-azsiai-piacat-is-elnyelheti",
-      "url": "/vilag/2026-11-16-atomenergia-az-orosz-foldgaz-azsiai-piacat-is-elnyelheti/",
-      "title": "Atomenergia: az orosz földgáz ázsiai piacát is elnyelheti",
-      "lead": "Miközben Moszkva az európai piacok elvesztése után Ázsiában keresett menedéket, a térség országai hatalmas atomenergetikai beruházásokba kezdtek. Az új kapacitások hosszabb távon feleslegessé tehetik az orosz szén- és földgázimport jelentős részét.",
-      "category": "vilag",
-      "status": "published",
-      "date": "2026-11-16",
-      "date_label": "november 16.",
-      "created_at": "2026-11-16T07:41:18+01:00",
-      "published_at": "2026-11-16T07:41:18+01:00",
-      "reading_time_min": 3,
-      "hot_score": 5.15,
-      "tags": [
-        "Oroszország",
-        "energiaipar",
-        "atomenergia",
-        "gazdaság",
-        "Ázsia"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Shin-Kori_04790181_%288505820635%29.jpg/1280px-Shin-Kori_04790181_%288505820635%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 518,
-        "kind": "graphic",
-        "pos": "center",
-        "alt": "Unit 1-2 of Korea Shin-Kori Nuclear Power Plant."
-      }
     }
   ],
-  "updated_at": "2026-11-28T11:55:57+01:00"
+  "updated_at": "2026-11-28T16:20:51+01:00"
 }
