@@ -1,25 +1,6 @@
 {
   "posts": [
     {
-      "id": "dfd18f9eaf",
-      "art_id": "39c9fc1d-6f9a-585c-a2aa-9ddcc63e8c05",
-      "title": "Florence Pugh főszereplésével készült az Édentől keletre új sorozatadaptációja a Netflixen",
-      "url": "/kultura/2026-10-17-florence-pugh-foszereplesevel-keszult-az-edentol-keletre-uj-sorozatad/",
-      "card": "public/img/ig/2026-10-17-florence-pugh-foszereplesevel-keszult-az-edentol-keletre-uj.jpg",
-      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-10-17-florence-pugh-foszereplesevel-keszult-az-edentol-keletre-uj.jpg",
-      "caption": "Florence Pugh főszereplésével készült az Édentől keletre új sorozatadaptációja a Netflixen\n\nJohn Steinbeck Nobel-díjas regényéből készített hétrészes sorozatot a Netflix, amely Káin és Ábel történetét ülteti át a polgárháború utáni Amerika világába. Az adaptációban Florence Pugh alakítja a mindent átszövő gonoszság megtestesítőjét.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#netflix #sorozat #johnsteinbeck #hírek #kollektíva",
-      "created": "2026-10-18T10:06:20+02:00",
-      "due": "2026-10-18T10:51:20+02:00",
-      "status": "failed",
-      "tg": [
-        7458,
-        7459
-      ],
-      "container": "18130739386718522",
-      "tries": 1,
-      "error": "Instagram API 403: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mist"
-    },
-    {
       "id": "13572afd09",
       "art_id": "e1d11bff-3ce2-5181-8e00-7a8736c70c77",
       "title": "Könnygáz és vízágyúk: Franciaország újra utcára vonult",
@@ -3622,6 +3603,21 @@
       "container": "18141669154718522",
       "media_id": "18027658097927860",
       "posted": "2026-11-28T11:42:17+01:00"
+    },
+    {
+      "id": "08f263f0d0",
+      "art_id": "774e077d-8522-5243-babb-4d77c48da43f",
+      "title": "Ásványkincsek, fegyverek és neokolonializmus: eközben ez a nagyhatalmi csata dúl Afrikában",
+      "url": "/vilag/2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-nagyhatalmi/",
+      "card": "public/img/ig/2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-na.jpg",
+      "card_url": "https://xn--kollektva-m5a.hu/public/img/ig/2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-na.jpg",
+      "caption": "Ásványkincsek, fegyverek és neokolonializmus: eközben ez a nagyhatalmi csata dúl Afrikában\n\nA globális nagyhatalmak éles versenyt futnak Afrika nyersanyagaiért és geopolitikai pozícióiért, miközben a kontinens lakossága mára meghaladta a másfél milliárd főt. A Partizán Szignál című műsorának adásában feltárt részletek szerint a gyarmati idők öröksége és a mai neokolonialista törekvések súlyos belső feszültségeket szülnek.\n\n👉 A teljes cikk a kollektíva.hu-n – link a bióban.\n\n#afrika #geopolitika #külföld #hírek #magyarország",
+      "created": "2026-11-28T13:38:35+01:00",
+      "due": "2026-11-28T14:23:35+01:00",
+      "status": "queued",
+      "tg": [
+        10776
+      ]
     }
   ],
   "token": {
