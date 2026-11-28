@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": "774e077d-8522-5243-babb-4d77c48da43f",
+      "slug": "2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-nagyhatalmi",
+      "url": "/vilag/2026-11-28-asvanykincsek-fegyverek-es-neokolonializmus-ekozben-ez-a-nagyhatalmi/",
+      "title": "Ásványkincsek, fegyverek és neokolonializmus: eközben ez a nagyhatalmi csata dúl Afrikában",
+      "lead": "A globális nagyhatalmak éles versenyt futnak Afrika nyersanyagaiért és geopolitikai pozícióiért, miközben a kontinens lakossága mára meghaladta a másfél milliárd főt. A Partizán Szignál című műsorának adásában feltárt részletek szerint a gyarmati idők öröksége és a mai neokolonialista törekvések súlyos belső feszültségeket szülnek.",
+      "category": "vilag",
+      "status": "published",
+      "date": "2026-11-28",
+      "date_label": "november 28.",
+      "created_at": "2026-11-28T09:14:25+01:00",
+      "published_at": "2026-11-28T09:14:25+01:00",
+      "reading_time_min": 2,
+      "hot_score": 5,
+      "tags": [
+        "Afrika",
+        "geopolitika",
+        "Kína",
+        "migráció",
+        "Partizán"
+      ],
+      "hero_image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Africa_%28satellite_image%29.jpg/1280px-Africa_%28satellite_image%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "width": 1200,
+        "height": 1166,
+        "kind": "photo",
+        "pos": "top",
+        "alt": "A composed satellite photograph of Africa."
+      }
+    },
+    {
       "id": "c16667de-82c9-59e8-8d34-84226204601e",
       "slug": "2026-11-27-husdarabnak-nezik-a-serult-focistakat-berlinben",
       "url": "/kozelet/2026-11-27-husdarabnak-nezik-a-serult-focistakat-berlinben/",
@@ -4422,37 +4452,7 @@
         "pos": "center",
         "alt": "Pascal Caminada (L 33)."
       }
-    },
-    {
-      "id": "8ca79f08-8824-5c4e-9306-db79b9c9f961",
-      "slug": "2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye",
-      "url": "/kozelet/2026-11-16-rekordmelyponton-a-fidesz-hizik-a-tisza-elonye/",
-      "title": "Rekordmélyponton a Fidesz, hízik a Tisza előnye",
-      "lead": "A kormánypárt támogatottsága novemberben ismét csökkent, miközben a Tisza Párt előnye tovább nőtt a pártot választani tudók körében. A 21 Kutatóközpont friss adatai szerint a Mi Hazánk tábora is zsugorodott az elmúlt másfél hónapban.",
-      "category": "kozelet",
-      "status": "published",
-      "date": "2026-11-16",
-      "date_label": "november 16.",
-      "created_at": "2026-11-16T07:38:40+01:00",
-      "published_at": "2026-11-16T07:38:40+01:00",
-      "reading_time_min": 3,
-      "hot_score": 11.17,
-      "tags": [
-        "Közvélemény-kutatás",
-        "Tisza Párt",
-        "Fidesz",
-        "Mi Hazánk",
-        "21 Kutatóközpont"
-      ],
-      "hero_image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Magyar_P%C3%A9ter_Szigetszentmikl%C3%B3s.jpg/1280px-Magyar_P%C3%A9ter_Szigetszentmikl%C3%B3s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-        "width": 1200,
-        "height": 1200,
-        "kind": "photo",
-        "pos": "top",
-        "alt": "Péter Magyar, founder of Talpra Magyarok Közössége, vice president of the Respect and Freedom Party (Tisza) in Szigetszenmiklós, the 2nd of June in 2024"
-      }
     }
   ],
-  "updated_at": "2026-11-28T08:16:42+01:00"
+  "updated_at": "2026-11-28T09:14:27+01:00"
 }
